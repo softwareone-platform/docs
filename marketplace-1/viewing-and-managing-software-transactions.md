@@ -2,11 +2,7 @@
 description: >-
   You can manage and view your software transactions through the Procurement
   Workbench module.
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:

@@ -23,11 +23,8 @@
 * [Help and Support](help-and-support.md)
 * [Marketplace](marketplace/README.md)
   * [Page](marketplace/page.md)
-  * [Viewing and managing software transactions](marketplace/viewing-and-managing-software-transactions.md)
-  * [Creating and viewing orders](marketplace/creating-and-viewing-orders.md)
 
-## Fundamentals
+## Marketplace
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [Creating and viewing orders](marketplace-1/creating-and-viewing-orders.md)
+* [Viewing and managing software transactions](marketplace-1/viewing-and-managing-software-transactions.md)
