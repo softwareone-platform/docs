@@ -18,6 +18,14 @@
   * [Request Product Pricing](software-procurement/introduction/request-product-pricing.md)
   * [License Renewals](software-procurement/introduction/license-renewals.md)
 
+***
+
+* [Help and Support](help-and-support.md)
+* [Marketplace](marketplace/README.md)
+  * [Page](marketplace/page.md)
+  * [Viewing and managing software transactions](marketplace/viewing-and-managing-software-transactions.md)
+  * [Creating and viewing orders](marketplace/creating-and-viewing-orders.md)
+
 ## Fundamentals
 
 * [🛠 Getting set up](fundamentals/getting-set-up/README.md)
