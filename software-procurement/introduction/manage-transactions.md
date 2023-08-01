@@ -2,7 +2,7 @@
 
 Procurement Workbench consolidates all of the procurement features that our procurement users need to manage software transactions.
 
-Watch our 1-minute video (below) to see a quick overview demo of Procurement Workbench. For more details please continue to read this article.
+Watch our 1-minute video (below) to see a quick overview demo of Procurement Workbench. For more details please continue to read this **article**.
 
 ### Navigating to Procurement Workbench <a href="#navigating-to-procurement-workbench" id="navigating-to-procurement-workbench"></a>
 
