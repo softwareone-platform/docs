@@ -24,6 +24,8 @@ You can create an order after adding an item to your shopping cart.
 
 A confirmation message is displayed indicating that your order is sent to SoftwareOne. You'll be redirected to the Order Details page where you can download a PDF of your order.
 
+***
+
 ## Viewing order history and downloading order information
 
 You can view a list of your orders and download your order history information.&#x20;
