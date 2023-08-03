@@ -1,45 +1,51 @@
-# Home
+---
+description: Meet the new SoftwareOne Client Portal and learn what's new in this release.
+---
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+# What's new
 
-## Overview
+We’re excited to announce that we’ve rebranded PyraCloud to SoftwareOne Client Portal to align it with our global brand identity.
 
-Here are a couple of example overviews from products with really great docs:
+We’ve used our learnings and feedback from our clients to improve usability and enhance the look and feel of our platform.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+Our new Client Portal v1 includes the following changes:
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+***
 
-## Quick links
+### **Rebranding**
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
+As part of our branding updates, we’ve modified the **Login** page, header and footer, and in-app pages.&#x20;
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
+The branding updates include changes to our logo, colors, fonts, and icons. These changes are made to provide you with a unified SoftwareOne brand experience.
 
-## Get Started
+***
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+### **New Home page**
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+We’ve redesigned the Home page to provide you quick access to different modules, platform news, and updates. The list of modules is displayed based on your access permissions.&#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+On the **Home** page, you can also view your account information, favorites, and a list of your recently viewed pages. For more information, see [Understanding the Home page](getting-started/understanding-the-home-page.md).
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+***
+
+### **Navigation menu**
+
+Our new navigation menu simplifies the experience by allowing you to easily discover and launch a module. We’ve also reorganized the menu options and added descriptions to help provide more context.&#x20;
+
+Other changes include:
+
+* The **Favorites** and **Recently viewed** quick links are added to the navigation menu for easy access.
+* The **Buy** module is renamed to **Marketplace** to make it more relevant.
+* A new **Help** module has been added. This module contains links to our online documentation, support resources, and platform updates.
+
+***
+
+### **Product documentation**
+
+We’ve made the following updates to our product documentation:
+
+* Aligned the content with our rebranding and the user interface changes.
+* Removed the outdated product videos and screenshots.
+* Made editorial updates to enhance content clarity and readability.
+
+We hope these updates will make your experience intuitive, seamless, and efficient.
