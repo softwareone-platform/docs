@@ -22,23 +22,23 @@ description: >-
 1. Sign in to the [AWS Console Navigate](https://aws.amazon.com/console/) as a user with permission to modify IAM resources.
 2. In the AWS console, select **Services** to open the list of services. Under the **Management and Governance** group, select **CloudFormation**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/image-1-1024x521.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/CloudFormation.png" alt=""><figcaption></figcaption></figure>
 
 3. Locate the Stack. In the CloudFormation console, select the correct region at the top right corner of the screen. You may need to cycle through the region until you find the stack (typically named, PyraCloud-Onboarding).
 4. Select the stack and then select **Update**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/image-4-e1569334526279-1024x291.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AWS-stack.png" alt=""><figcaption></figcaption></figure>
 
 5. On the Update Stack page, do the following:
    1. Select the **Replace Current Template** option.&#x20;
    2. Select **Amazon S3 URL** and add the following URL: [https://iepapp0168sda.s3-eu-west-1.amazonaws.com/pyracloud\_onboarding.json](https://iepapp0168sda.s3-eu-west-1.amazonaws.com/pyracloud\_onboarding.json).
    3. Select **Next**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/image-6-e1569334354441-1024x588.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Update-stack.png" alt=""><figcaption></figcaption></figure>
 
 6. On the Specify stack details page, leave the **ExternalId**, **PyraCloudProcessId**, and **PyraCloudTenantId** fields as they are. Select **Next**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/image-7-e1569334419504-1024x478.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Specify-stack-details.png" alt=""><figcaption></figcaption></figure>
 
 7. On the Configure stack options page, leave all values as they are. Select **Next**.
 

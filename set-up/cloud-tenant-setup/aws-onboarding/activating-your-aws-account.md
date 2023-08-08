@@ -75,8 +75,8 @@ The process for activating multiple linked accounts is similar to the process fo
 
 **To activate multiple linked accounts automatically**
 
-1. On the **Cloud tenant setup** page, expand the AWS account containing the linked accounts you want to add.
-2. Select the checkbox next to each linked account that you would like to activate.
+1. Expand the AWS account on the Cloud tenant setup page containing the linked accounts you want to add.
+2. Select the checkbox next to each linked account you want to activate.
 3. Select **Activate Selected**.
 
 ***
@@ -104,11 +104,11 @@ If you would like Tag and Resource Manager to synchronize tags back to AWS, you 
 
 The Recommendations module downloads recommendations from AWS Cost Explorer, which includes Reserved Instance purchase recommendations for Amazon EC2, Amazon RDS, ElastiCache, Amazon ES, and Amazon Redshift.&#x20;
 
-By default, the **Enable sync with AWS Cost Explorer to see AWS Recommendations** setting is enabled in the Client Portal. It means that Client Portal will download the AWS Cost Explorer recommendations for your account.
+By default, the **Enable sync with AWS Cost Explorer to see AWS Recommendations** setting is enabled in the Client Portal. It means that Client Portal will download your account's AWS Cost Explorer recommendations.
 
 **To update the settings**
 
-1. On the Cloud tenant setup page, expand the AWS account and select **Change Access** next to the account you want to modify.
+1. Expand the AWS account on the Cloud tenant setup page and select **Change Access** next to the account you want to modify.
 2. In **Change PyraCloud Access Level,** choose the access level and select **Change**.
 3. Review the updated access level for the account.
 
@@ -120,4 +120,4 @@ If you're taking advantage of AWS’ EDP you can view your commitment amounts in
 
 The portal displays your spending against your commitment so that you can track and plan for upcoming spend. To view your commitment amounts, contact our Support team.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/02/EDP-AWS-Image.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/EDP-AWS-Image.jpg" alt=""><figcaption></figcaption></figure>
