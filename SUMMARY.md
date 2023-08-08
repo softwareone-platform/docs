@@ -111,7 +111,7 @@
 * [Frequently asked questions](help-and-support/frequently-asked-questions/README.md)
   * [How do I request pricing?](help-and-support/frequently-asked-questions/how-do-i-request-pricing.md)
   * [I'm having issues with my notifications](help-and-support/frequently-asked-questions/im-having-issues-with-my-notifications.md)
-  * [How can I configure conditional access to allow PyraCloud?](help-and-support/frequently-asked-questions/how-can-i-configure-conditional-access-to-allow-pyracloud.md)
+  * [How can I configure the conditional access policies?](help-and-support/frequently-asked-questions/how-can-i-configure-the-conditional-access-policies.md)
 
 ## Release Notes
 

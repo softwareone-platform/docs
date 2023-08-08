@@ -32,7 +32,7 @@ You can view a list of all quotes that you've generated.
    * Select the appropriate search options, and then select **Search**. If you want to reset the filter options, select **Reset**.&#x20;
 2.  Select **View** in the **Actions** column to see the quote details. The Quote Detail page will show all products in the quote. To view more product details, click **View** again.&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
