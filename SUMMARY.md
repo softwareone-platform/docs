@@ -34,6 +34,7 @@
 * [Cloud Subscriptions](software-procurement/cloud-subscriptions/README.md)
   * [Adding or updating AzureSimple subscriptions](software-procurement/cloud-subscriptions/adding-or-updating-azuresimple-subscriptions.md)
   * [Buying a new subscription or an add-on](software-procurement/cloud-subscriptions/buying-a-new-subscription-or-an-add-on.md)
+  * [Managing your license count for Office365 Subscriptions](software-procurement/cloud-subscriptions/managing-your-license-count-for-office365-subscriptions.md)
   * [Office 365 Subscription Management](software-procurement/cloud-subscriptions/office-365-subscription-management.md)
   * [Understanding my 365Simple subscriptions](software-procurement/cloud-subscriptions/understanding-my-365simple-subscriptions.md)
   * [Understanding Cloud Subscriptions for 365Simple and AzureSimple](software-procurement/cloud-subscriptions/understanding-cloud-subscriptions-for-365simple-and-azuresimple.md)
@@ -63,32 +64,34 @@
 * [Software Downloads](inventory/software-downloads/README.md)
   * [Working with software downloads](inventory/software-downloads/working-with-software-downloads.md)
 
-## Reporting and Analysis
+## Reports and Analysis
 
-* [Budgets](reporting-and-analysis/budgets/README.md)
-  * [Creating budgets](reporting-and-analysis/budgets/creating-budgets.md)
-* [Chargebacks](reporting-and-analysis/chargebacks/README.md)
-  * [Creating chargebacks](reporting-and-analysis/chargebacks/creating-chargebacks.md)
-* [Dashboards](reporting-and-analysis/dashboards/README.md)
-  * [Working with dashboards](reporting-and-analysis/dashboards/working-with-dashboards.md)
-* [Enterprise Agreements](reporting-and-analysis/enterprise-agreements/README.md)
-  * [Enterprise Agreement TrueUp](reporting-and-analysis/enterprise-agreements/enterprise-agreement-trueup.md)
-* [Recommendations](reporting-and-analysis/recommendations/README.md)
-  * [Working with Recommendations](reporting-and-analysis/recommendations/working-with-recommendations.md)
-* [Reports](reporting-and-analysis/reports/README.md)
-  * [Creating reports](reporting-and-analysis/reports/creating-reports.md)
-  * [Cloud journey report](reporting-and-analysis/reports/cloud-journey-report.md)
-  * [Spend reports](reporting-and-analysis/reports/spend-reports/README.md)
-    * [Customized Spend reports](reporting-and-analysis/reports/spend-reports/customized-spend-reports.md)
-    * [Office 365 Spend Reports](reporting-and-analysis/reports/spend-reports/office-365-spend-reports.md)
-  * [USU License Agreement report](reporting-and-analysis/reports/usu-license-agreement-report.md)
-  * [Software Transaction reports](reporting-and-analysis/reports/software-transaction-reports.md)
-  * [Microsoft Services Provider License Agreement report](reporting-and-analysis/reports/microsoft-services-provider-license-agreement-report.md)
-  * [ServiceNow Asset Report](reporting-and-analysis/reports/servicenow-asset-report.md)
-* [Office 365](reporting-and-analysis/office-365/README.md)
-  * [Office 365 analytics](reporting-and-analysis/office-365/office-365-analytics.md)
-* [Cloud Utilization](reporting-and-analysis/cloud-utilization.md)
-* [Cloud Reserved Instances](reporting-and-analysis/cloud-reserved-instances.md)
+* [Budgets](reports-and-analysis/budgets/README.md)
+  * [Creating budgets](reports-and-analysis/budgets/creating-budgets.md)
+* [Chargebacks](reports-and-analysis/chargebacks/README.md)
+  * [Creating chargebacks](reports-and-analysis/chargebacks/creating-chargebacks.md)
+* [Consumtion Overview](reports-and-analysis/consumtion-overview/README.md)
+  * [Reserved Instance Consumption Summary](reports-and-analysis/consumtion-overview/reserved-instance-consumption-summary.md)
+* [Dashboards](reports-and-analysis/dashboards/README.md)
+  * [Working with dashboards](reports-and-analysis/dashboards/working-with-dashboards.md)
+* [Enterprise Agreements](reports-and-analysis/enterprise-agreements/README.md)
+  * [Enterprise Agreement TrueUp](reports-and-analysis/enterprise-agreements/enterprise-agreement-trueup.md)
+* [Recommendations](reports-and-analysis/recommendations/README.md)
+  * [Working with Recommendations](reports-and-analysis/recommendations/working-with-recommendations.md)
+* [Reports](reports-and-analysis/reports/README.md)
+  * [Creating reports](reports-and-analysis/reports/creating-reports.md)
+  * [Cloud journey report](reports-and-analysis/reports/cloud-journey-report.md)
+  * [Spend reports](reports-and-analysis/reports/spend-reports/README.md)
+    * [Customized Spend reports](reports-and-analysis/reports/spend-reports/customized-spend-reports.md)
+    * [Office 365 Spend Reports](reports-and-analysis/reports/spend-reports/office-365-spend-reports.md)
+  * [USU License Agreement report](reports-and-analysis/reports/usu-license-agreement-report.md)
+  * [Software Transaction reports](reports-and-analysis/reports/software-transaction-reports.md)
+  * [Microsoft Services Provider License Agreement report](reports-and-analysis/reports/microsoft-services-provider-license-agreement-report.md)
+  * [ServiceNow Asset Report](reports-and-analysis/reports/servicenow-asset-report.md)
+* [Office 365](reports-and-analysis/office-365/README.md)
+  * [Office 365 analytics](reports-and-analysis/office-365/office-365-analytics.md)
+* [Utilization](reports-and-analysis/utilization/README.md)
+  * [Cloud Utilization](reports-and-analysis/utilization/cloud-utilization.md)
 
 ## SERVICES
 
@@ -108,7 +111,12 @@
 * [Frequently asked questions](help-and-support/frequently-asked-questions/README.md)
   * [How do I request pricing?](help-and-support/frequently-asked-questions/how-do-i-request-pricing.md)
   * [I'm having issues with my notifications](help-and-support/frequently-asked-questions/im-having-issues-with-my-notifications.md)
+  * [How can I configure conditional access to allow PyraCloud?](help-and-support/frequently-asked-questions/how-can-i-configure-conditional-access-to-allow-pyracloud.md)
 
 ## Release Notes
 
 * [What's new in v1](release-notes/whats-new-in-v1.md)
+
+***
+
+* [Import](import.md)

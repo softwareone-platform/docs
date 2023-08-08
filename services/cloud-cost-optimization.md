@@ -9,15 +9,21 @@ Cloud Cost Optimization is a capability within PyraCloud that allows organizatio
   * **Right-sizing** savings are those that allow you to optimize cost by changing the technical specifications of the resources that are running in the cloud environment
 * SoftwareONE’s Cloud Cost Optimization Service leverages our unique methodology to achieve the best of both right-costing and right-sizing optimization strategies.
 
+***
+
 ### Accessing Cloud Cost Optimization <a href="#accessing-cloud-cost-optimization" id="accessing-cloud-cost-optimization"></a>
 
+***
+
 The Cloud Cost Optimization solution can be accessed through the menu item under Services -> Cloud Cost Optimization on the left navigation bar.
+
+***
 
 ### Requirements for Cloud Cost Optimization <a href="#requirements-for-cloud-cost-optimization" id="requirements-for-cloud-cost-optimization"></a>
 
 The Cloud Cost Optimization solution requires all the permissions for the “Tag and Resource Manager” (look [here](https://help.pyracloud.com/knowledge-base/grant-access-to-pyracloud-for-a-single-azure-subscription/#what-are-the-security-implications)) and “Consumption” modules in Cloud Spend Management (look here).
 
-### Overview Page <a href="#overview-page" id="overview-page"></a>
+#### Overview Page <a href="#overview-page" id="overview-page"></a>
 
 The Cloud Cost Optimization Overview page is broken down into two sections –
 
@@ -27,7 +33,7 @@ The Cloud Cost Optimization Overview page is broken down into two sections –
 
 1. Tabs – These summarize cost optimization opportunities for the different cloud environments you may have connected to PyraCloud
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/06/image-35-1024x659.png" alt="" height="659" width="1024"><figcaption><p><strong>Fig 1a – Tabs Pane</strong></p></figcaption></figure>
+<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/06/image-35-1024x659.png" alt=""><figcaption><p><strong>Fig 1a – Tabs Pane</strong></p></figcaption></figure>
 
 1. The top pane summarizes savings through a pie chart and a few key metrics (see figure below).
 
@@ -53,7 +59,7 @@ Calculations across the Cloud Cost Optimization system assume consumption data a
 
 The Predicted Savings percentage in the grid for each strategy is a proportion of the cost for that strategy. Therefore this may be different to the percentage shown in the pie chat above (which shows it as a proportion of total savings).
 
-### Strategy Pages <a href="#strategy-pages" id="strategy-pages"></a>
+#### Strategy Pages <a href="#strategy-pages" id="strategy-pages"></a>
 
 The Strategy pages each explain an optimization strategy that allows you to achieve savings. This section explains components of any optimization strategy, and allows you to understand common operations on these pages.
 

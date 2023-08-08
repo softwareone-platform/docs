@@ -6,7 +6,7 @@ PyraCloud Utilization helps you track usage of your cloud resources. This enable
 
 To view resource utilization navigate to Analyze in the main navigation bar and click Utilization:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/06/image-17.png" alt="" height="640" width="826"><figcaption><p><strong>Figure 1 – Navigation to Cloud Utilization</strong></p></figcaption></figure>
+<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/06/image-17.png" alt=""><figcaption><p><strong>Figure 1 – Navigation to Cloud Utilization</strong></p></figcaption></figure>
 
 This will open the utilization page and by default you will see three main sections:
 
