@@ -20,8 +20,9 @@ Even though SoftwareOne has over one hundred of these reseller tenants, only one
 
 ### Configuring conditional access policies <a href="#configure-conditional-access" id="configure-conditional-access"></a>
 
-1. Determine which Conditional Access policies are blocking SoftwareOne and the Client Portal. Before you can exclude Client Portal and SoftwareOne from your policies, you need to know exactly which policies are affecting access. You can do this using the **What If** capability of Conditional Access. To do so:
-   1. In the Azure portal, navigate to [Azure AD Conditional Access](https://portal.azure.com/#view/Microsoft\_AAD\_ConditionalAccess/ConditionalAccessBlade/\~/Policies).&#x20;
+To configure conditional access policies, determine which Conditional Access policies are blocking SoftwareOne and the Client Portal. Before you can exclude Client Portal and SoftwareOne from your policies, you need to know exactly which policies are affecting access. You can do this using the **What If** capability of Conditional Access.
+
+1. In the Azure portal, navigate to [Azure AD Conditional Access](https://portal.azure.com/#view/Microsoft\_AAD\_ConditionalAccess/ConditionalAccessBlade/\~/Policies).&#x20;
 
 <figure><img src="../../.gitbook/assets/Azure AD Conditional Access.png" alt=""><figcaption></figcaption></figure>
 

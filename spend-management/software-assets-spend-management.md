@@ -9,8 +9,8 @@ The Client Portal can help you create a software assets spend governance solutio
 For more information about the various features that make up our Software Assets Management Solution, see the following links:
 
 * [Software asset onboarding](broken-reference)
-* [Working with the spend reports](../reports-and-analysis/reports/spend-reports/)
+* [Working with the spend reports](../analytics-and-reports/reports/spend-reports/)
 * [Setting up custom groups](../set-up/custom-groups/overview.md)
-* [Creating budgets](../reports-and-analysis/budgets/creating-budgets.md)
+* [Creating budgets](../analytics-and-reports/budgets/creating-budgets.md)
 * [Defining tags and managing resources](../set-up/tags-and-resources/defining-tags-and-managing-resources.md)
-* [Creating chargebacks](../reports-and-analysis/chargebacks/creating-chargebacks.md)
+* [Creating chargebacks](../analytics-and-reports/chargebacks/creating-chargebacks.md)

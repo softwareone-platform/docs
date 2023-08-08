@@ -59,7 +59,7 @@ Many organizations have several AWS accounts in their AWS Organizations hierarch
 1. From the main menu, navigate to **Set up** and select **Cloud tenant setup**.
 2. Expand the master AWS account containing the linked accounts you want to add.&#x20;
 3. Select **Activate** next to the linked account that you want to activate.
-4. Perform the same activation steps as for the master account. Follow steps 3-6 in [Adding your AWS cloud account](https://app.gitbook.com/o/sGLRSSUGgFSfUhFIYij8/s/B8rr5E9BB4HBPts7pBng/\~/changes/16/set-up/cloud-account-configuration/activate-your-aws-account#activate-your-aws-cloud-account).
+4. Perform the same activation steps as for the master account. Follow steps 3-6 in [Adding your AWS cloud account](activating-your-aws-account.md#activate-your-aws-cloud-account).
 
 ***
 

@@ -7,7 +7,7 @@ description: >-
 # Updating your AWS account permissions
 
 {% hint style="info" %}
-**NOTE:**
+**NOTES:**
 
 * This topic only applies to the AWS accounts that are added using the **Add Cloud Account** functionality in Cloud Tenant Setup.
 * You must have an advanced understanding of AWS, CloudFormation, and IAM policies and roles to execute these steps.
@@ -40,22 +40,22 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/Specify-stack-details.png" alt=""><figcaption></figcaption></figure>
 
-7. On the Configure stack options page, leave all values as they are. Select **Next**.
+7.  On the Configure stack options page, leave all values as they are. Select **Next**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/image-8-e1569334641963-1024x759.png" alt=""><figcaption></figcaption></figure>
-
+    <figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 8. On the Review PyraCloud-Onboarding page, do the following:
    1. Review the changes that will be made to the stack.
    2. Select the **I acknowledge that AWS CloudFormation might create IAM resources with custom names** checkbox.
-   3. Select **Update Stack**.
+   3.  Select **Update Stack**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/image-10-e1569334737269-563x1024.png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+9.  Refresh the page until the stack moves from `UPDATE_IN_PROGRESS` status to `UPDATE_COMPLETE`.
 
-9. Refresh the page until the stack moves from `UPDATE_IN_PROGRESS` status to `UPDATE_COMPLETE`.
+    <figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/image-13-1024x521.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/image-14-1024x521.png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 After the update process is completed, it might take up to 24 hours for your AWS Account to become healthy.
 
@@ -78,16 +78,15 @@ If you're unable to read resources, that is, you are missing read permissions fo
 
 If you're unable to tag resources, that is, you are missing write-back permissions for AWS resources), follow these steps:
 
-1. Navigate to IAM within the AWS portal an locate `PyraCloudRole`**.**
+1.  Navigate to IAM within the AWS portal and locate `PyraCloudRole`**.**
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-27.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+2.  Navigate to the details of the role and ensure that `ReadWritePolicy` is attached.&#x20;
 
-2. Navigate to the details of the role and ensure that `ReadWritePolicy` is attached.&#x20;
+    <figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-28.png" alt=""><figcaption></figcaption></figure>
+*   If the role is not attached, select **Attach policies**. Type **PyraCloudReadWrite** policy in the search box and then select the checkbox and select **Attach policy**.
 
-* If the role is not attached, select **Attach policies**. Type **PyraCloudReadWrite** policy in the search box and then select the checkbox and select **Attach policy**.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-31.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 The role is attached and the write-back permissions are added. To confirm, check the Resources module by syncing the relevant AWS accounts.
