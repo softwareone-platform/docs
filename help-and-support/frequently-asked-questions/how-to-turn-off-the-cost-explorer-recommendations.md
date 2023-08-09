@@ -6,7 +6,7 @@ description: Learn how to turn off the cost explorer recommendations.
 
 Cost Explorer recommendations provide reserved instance purchase recommendations for Amazon EC2, Redshift, and RDS. Turning off these recommendations will mean that you don't have access to these savings-based recommendations.
 
-You can turn off Cost Explorer at an AWS account level. There is no option to turn Cost Explorer for all AWS accounts in one go. See [Activating your AWS Account](../../set-up/cloud-tenant-setup/aws-onboarding/activating-your-aws-account.md) to turn off AWS Cost Explorer Recommendations for your AWS account.
+You can turn off Cost Explorer at an AWS account level. There is no option to turn Cost Explorer for all AWS accounts in one go. See [Activating your AWS Account](../../set-up/cloud-tenant-setup/aws-onboarding/adding-your-aws-account.md) to turn off AWS Cost Explorer Recommendations for your AWS account.
 
 ***
 

@@ -25,8 +25,8 @@ When you perform consent, you are redirected to Microsoft to accept permissions 
 PyraCloud uses this impersonation to perform actions on behalf of the consenting user. This includes:
 
 1. Assigning the Reader role to the PyraCloud application for subscriptions owned by the consenting user during onboarding.&#x20;
-2. Assigning the Reader role to the PyraCloud application for subscriptions owned by the consenting user during the addition of more subscriptions to PyraCloud. For more information, see [Adding more subscriptions](../../set-up/cloud-tenant-setup/azure-onboarding/activating-your-ea-or-mpsa-account.md#add-more-azure-subscriptions).
-3. Modify the default Reader role to the Tag Contributor role (and vice versa) during the Change Access process. For more information, see [Sync your tags to Azure](../../set-up/cloud-tenant-setup/azure-onboarding/activating-your-ea-or-mpsa-account.md#syncing-your-tags-to-azure).
+2. Assigning the Reader role to the PyraCloud application for subscriptions owned by the consenting user during the addition of more subscriptions to PyraCloud. For more information, see [Adding more subscriptions](../../set-up/cloud-tenant-setup/azure-onboarding/adding-azure-ea-or-mpsa-account.md#add-more-azure-subscriptions).
+3. Modify the default Reader role to the Tag Contributor role (and vice versa) during the Change Access process. For more information, see [Sync your tags to Azure](../../set-up/cloud-tenant-setup/azure-onboarding/adding-azure-ea-or-mpsa-account.md#syncing-your-tags-to-azure).
 
 ***
 

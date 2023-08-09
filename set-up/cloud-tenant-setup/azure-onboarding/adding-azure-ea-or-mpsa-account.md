@@ -2,7 +2,7 @@
 description: Follow this topic to add your EA or MPSA cloud account to the Client Portal.
 ---
 
-# Activating your EA or MPSA account
+# Adding Azure EA or MPSA account
 
 ***
 
@@ -30,7 +30,7 @@ Before adding an account, make sure that you have the following details:
 5. Sign in to the Microsoft portal using the credentials of a user who has Owner permissions to the Azure subscriptions you wish to add to the Client Portal.
 
 {% hint style="info" %}
-**NOTE:** If you wish to add more Azure subscriptions owned by other users, you can do this later. For instructions, see [Adding more Azure Subscriptions](activating-your-ea-or-mpsa-account.md#add-more-azure-subscriptions)_._
+**NOTE:** If you wish to add more Azure subscriptions owned by other users, you can do this later. For instructions, see [Adding more Azure Subscriptions](adding-azure-ea-or-mpsa-account.md#add-more-azure-subscriptions)_._
 {% endhint %}
 
 6. On the consent page, review the permissions required by the Client Portal and select **Accept** to grant consent.&#x20;
@@ -94,41 +94,5 @@ If you would like Tags and Resources to synchronize tags back to Azure, you must
 4. On the consent page, review the permissions and select **Accept** to grant consent.&#x20;
 
 After granting consent, you'll be redirected to the Client Portal where you can view the updated access level. If you notice a blank screen, refresh the page.&#x20;
-
-***
-
-## Activating Azure Microsoft Customer Agreement (MCA) <a href="#activating-azure-microsoft-customer-agreement-mca" id="activating-azure-microsoft-customer-agreement-mca"></a>
-
-The Client Portal supports both legacy EA and modern [MCA ](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview)models. Before reading further please make sure you have followed [Activating your account](https://app.gitbook.com/o/sGLRSSUGgFSfUhFIYij8/s/B8rr5E9BB4HBPts7pBng/\~/changes/16/set-up/azure-onboarding/activating-your-ea-or-mpsa-account#activating-your-account).
-
-#### To onboard your MCA tenant <a href="#how-to-onboard-mca-tenant" id="how-to-onboard-mca-tenant"></a>
-
-1. Verify that your account has the proper billing account type set up. You can verify this in the [Azure Portal](https://portal.azure.com) > **Cost Management + Billing > Properties.**
-
-<figure><img src="../../../.gitbook/assets/image (77) (1).png" alt=""><figcaption></figcaption></figure>
-
-2.  Add the Billing Reader role to the Client Portal. To do so:
-
-    * Launch the [Azure Portal](https://portal.azure.com). Search for **Cost Management + Billing.**
-    * Select your MCA Billing Scope.
-
-
-
-    <figure><img src="../../../.gitbook/assets/image (78) (1).png" alt=""><figcaption></figcaption></figure>
-3. Select **Access Control (IAM)** to assign permissions.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (80) (1).png" alt=""><figcaption></figcaption></figure>
-
-4. Select **Add** and choose **Billing Account Reader** from the list of roles.
-
-<figure><img src="../../../.gitbook/assets/image (81) (1).png" alt=""><figcaption></figcaption></figure>
-
-5. Select **Service Principle** in the select section of the panel.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (82) (1).png" alt=""><figcaption></figcaption></figure>
-
-6. Save your changes.&#x20;
-
-After you save your changes, it takes approximately 24 hours for the MCA billing data to synchronize with the Client Portal.
 
 ***
