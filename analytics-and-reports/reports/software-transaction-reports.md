@@ -30,8 +30,6 @@ You can find Scheduled report configurations (for your company) on the Scheduled
 
 To open Scheduled Reports, navigate to **Analyze** > **Scheduled**. You must have the SCHEDULED\_REPORTING permission to access this component.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/11-2-1024x262.png" alt="" height="262" width="1024"><figcaption></figcaption></figure>
-
 #### Column Descriptions <a href="#post-988-_toc51828558" id="post-988-_toc51828558"></a>
 
 You can show, hide, and change the order of the columns.
@@ -72,11 +70,7 @@ You can pause (or resume) a generating report. The status of a report (whether i
 
 To pause or resume a report click (**…**) in the **Actions** column and click **Pause** (to pause the generating report) or **Resume** (to re-activate the paused report).
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/21-4.png" alt="" height="215" width="217"><figcaption></figcaption></figure>
-
-</div>
+![](<../../.gitbook/assets/image (200).png>)
 
 #### Delete a report <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
 
@@ -90,7 +84,7 @@ In the Reports History view, you can find generated reports (Scheduled and Run O
 
 To open Reports History, navigate to **Analyze** -> **History**. On pages supporting “On Page” reporting you can also click **Exports** and click **Go to My Reports**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/31-3-1024x301.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 #### Column Descriptions <a href="#post-988-_toc51828564" id="post-988-_toc51828564"></a>
 
@@ -112,7 +106,7 @@ For more information about grid functionalities (like sorting, filtering, groupi
 
 You can also perform certain actions on multiple reports at once. To select reports, click on the checkboxes in the first column (information about a number of selected reports can be found just above the grid), To select all reports click **Select All**, to clear selection click **Clear Selection**. When at least one report is selected, **Actions** (located above the grid) will be enabled.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/41-2-1024x267.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 #### Download a report <a href="#post-988-_ref39076953" id="post-988-_ref39076953"></a>
 
@@ -128,11 +122,7 @@ To send a report via email, click (**…**) in the **Actions** column and click 
 **Note**: If a report’s size is bigger than 25 MB, it will be always sent as a link only. To be able to download a report from the link, the email recipients need to have access to the report in PyraCloud.
 {% endhint %}
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/51-3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 #### Send a report to secure FTP server <a href="#post-988-_ref51684117" id="post-988-_ref51684117"></a>
 
@@ -140,11 +130,7 @@ You can send a report directly to a secure FTP server.
 
 To send a report to sFTP, click (**…**) in the **Actions** column and click **sFTP**. Select an sFTP server from the list and click **Use Selected Server**.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/61-2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 If needed, you can add a new SFTP configuration or edit an existing one. See the [sFTP Configuration](software-transaction-reports.md#post-988-\_ref38826088) section for more details.
 
@@ -168,7 +154,7 @@ You can update a generated report name and file name. Updating a generated repor
 
 To update a report or file name click (**…**) in the **Actions** column and click **Edit**. Update the values and click **Update**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/71-4-1024x78.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 #### Report an issue <a href="#post-988-_ref38609555" id="post-988-_ref38609555"></a>
 
@@ -179,8 +165,6 @@ To report an issue with a report click **Report the problem** in the **Actions**
 Quick Reports allow you to quickly create new reports using the Report Wizard, which will be opened with predefined filters (by default, Quick Reports are Run Once reports).
 
 To open Quick Reports, navigate to **Analyze** > **Quick Reports**.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/101-3-1024x416.png" alt=""><figcaption></figcaption></figure>
 
 To create a Quick Report, select a report type and click **Create** – this will open the Report Wizard at the Delivery step. You can go back to any of the previous steps to make modifications or just click **Finish**.
 
@@ -194,19 +178,13 @@ On Page reporting offers a simplified editor for defining new report configurati
 
 All users have permission to this component.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/121-2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 On the On-Page reporting form, you can select **Format** (see [Report Output Format](software-transaction-reports.md#post-988-\_toc51828576)), schedule (see [Schedule](software-transaction-reports.md#post-988-\_ref38374532)) and data date range (see [Date Range](software-transaction-reports.md#post-988-\_toc51828583)), select a **Template,** update the default name and set delivery method (see [Report Delivery Method](software-transaction-reports.md#post-988-\_toc51828584)).
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/131-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 **Note**: The filters applied on a page will also be visible in the opened on-page reporting form.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/14_with_marking1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 To create a report, click **Run**.
 
@@ -224,11 +202,7 @@ The following report configuration options are common for Report Wizard and On P
 
 Most of the reports can be generated in various formats (available formats depend on the report type).
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/151-1.png" alt="" height="112" width="262"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 Additional options are available for some formats:
 
@@ -248,21 +222,11 @@ To update the **Key** or **Value** of a CIF Header, click on the cell and update
 
 To delete a CIF Header, click **Delete** in **Actions** column.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/161-2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 #### Schedule <a href="#post-988-_ref38374532" id="post-988-_ref38374532"></a>
 
 You can create a Run Once report (that will be executed only once, and its configuration won’t be saved in Scheduled Reports), or a Scheduled report (with a recurrence type like daily or monthly, and its configuration will be saved in Scheduled Reports). Available recurrence types depend on the selected report type.
 
 **Note**: You need to have permission to create Scheduled reports (Run Once are available to everyone).
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/181-4-1024x177.png" alt=""><figcaption><p><strong>Figure 17 – Schedule with Report Wizard</strong></p></figcaption></figure>
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/word-image-47.png" alt="" height="78" width="369"><figcaption></figcaption></figure>
 
 **Run once reports**
 
@@ -274,42 +238,19 @@ For Scheduled reports, you can select how many days/weeks/months the report shou
 
 To help to validate if the selected recurrence configuration is correct, information about the report’s next run time will be displayed.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/191-4-1024x162.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/201-2.png" alt=""><figcaption></figcaption></figure>
-
 **Select how often a report shall be generated**
 
 To select how often a report shall be generated, first select one of the recurrence types, e.g. **Daily**, **Weekly** or **Monthly,** and then enter a number of how often you want the report to run in the **Every** field e.g. to run a report every two weeks.
-
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/211-1024x278.png" alt=""><figcaption></figcaption></figure>
-
-</div>
 
 Additional options for selected recurrence types:
 
 * **Daily:** You can select whether reports should also be generated on weekends, by checking **Include weekends**
 * **Weekly:** You can select on which days of the week the report should be generated. To select a day, click on **Days of the week**. The example below shows a report that will be generated each Monday and Thursday
-
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/231.png" alt="" height="83" width="261"><figcaption><p><strong>Figure 23 – Report generated every Monday and Thursday</strong></p></figcaption></figure>
-
-</div>
-
 * **Monthly** – You can select a specific day of the month or e.g. **First** **Weekday**
 
 **Select at what time of day a report will be generated**
 
 To choose the time of day a report should be generated, select the **Time** and **Time Zone**. Your local time zone is selected by default (except on IE11 due to the browser’s limitations).
-
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/261.png" alt="" height="292" width="555"><figcaption></figcaption></figure>
-
-</div>
 
 **Select duration**
 
@@ -325,30 +266,12 @@ For Scheduled reports, the data’s date range would be set to the same as the r
 
 To help validate if the selected date range(s) are correct, information about the report’s next run time, with date range, will be displayed.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/281-1024x162.png" alt="" height="162" width="1024"><figcaption></figcaption></figure>
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/291.png" alt="" height="94" width="779"><figcaption></figcaption></figure>
-
 You can select one of the pre-defined values from **Date Range**, like **Last Month** (which means last calendar month) or **Current Year**, or you can set a period of time manually by selecting **Choose Date Range**.
-
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/301.png" alt="" height="217" width="300"><figcaption></figcaption></figure>
-
-</div>
-
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/311.png" alt="" height="211" width="492"><figcaption></figcaption></figure>
-
-</div>
 
 * **2 Weeks(s)** – means last 14 days counting from the date of a report execution
 * **1 Day(s)** – means one day before the date of the report execution
 
 For Run Once reports, you can select one of the predefined ranges or select the dates manually.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/321.png" alt=""><figcaption></figcaption></figure>
 
 #### Report Delivery Method <a href="#post-988-_toc51828584" id="post-988-_toc51828584"></a>
 
@@ -376,12 +299,6 @@ To send the report to an sFTP (secure FTP), click on **sFTP** and select one of 
 
 To add a new sFTP configuration click **Add New SFTP**. In the opened dialog, fill in the fields and click **Create.**
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/361-2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 #### Edit an SFTP configuration <a href="#post-988-_toc51828590" id="post-988-_toc51828590"></a>
 
 To update an sFTP configuration, click **Edit** in **Actions** column. In opened dialog update fields and click **Update.**
@@ -395,8 +312,6 @@ To delete an sFTP configuration, click **Delete** in the **Actions** column and 
 ### Grid functionality <a href="#post-988-_ref38437292" id="post-988-_ref38437292"></a>
 
 PyraCloud grids allow you to select which columns should be displayed, and in what order. Filtering and grouping data or selecting how many rows should be visible on a single page.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/371-1024x495.png" alt=""><figcaption></figcaption></figure>
 
 #### Show and hide columns <a href="#post-988-_toc51828593" id="post-988-_toc51828593"></a>
 
@@ -417,8 +332,6 @@ You can set up to two filters for a single column. To filter data in a column, c
 #### Group data <a href="#post-988-_toc51828597" id="post-988-_toc51828597"></a>
 
 To group data in the grid, drag a column header and drop it just above the columns’ headers. You can group data using multiple columns and can change the order of grouping by changing the order of labels (using drag & drop). To change the sorting of a group, click on the label – a small arrow will indicate the direction of sorting. To remove grouping, click **x** next to the group name.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/401-1024x428.png" alt=""><figcaption></figcaption></figure>
 
 #### Show more or fewer rows <a href="#post-988-_toc51828598" id="post-988-_toc51828598"></a>
 

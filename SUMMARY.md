@@ -105,7 +105,7 @@
 
 * [Software Assets Spend Management](spend-management/software-assets-spend-management.md)
 * [Cloud Spend Management](spend-management/cloud-spend-management/README.md)
-  * [Creating Cloud Spend Alerts](spend-management/cloud-spend-management/creating-cloud-spend-alerts.md)
+  * [Creating cloud spend alerts](spend-management/cloud-spend-management/creating-cloud-spend-alerts.md)
 
 ## Help and Support
 
