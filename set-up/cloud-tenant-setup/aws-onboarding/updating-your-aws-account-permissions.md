@@ -1,7 +1,7 @@
 ---
 description: >-
   As new features and functionalities are introduced, you may need to update
-  permissions so that PyraCloud can access your AWS account.
+  permissions so that the Client Portal can access your AWS account.
 ---
 
 # Updating your AWS account permissions
@@ -9,7 +9,7 @@ description: >-
 {% hint style="info" %}
 **NOTES:**
 
-* This topic only applies to the AWS accounts that are added using the **Add Cloud Account** functionality in Cloud Tenant Setup.
+* This topic only applies to the AWS accounts that are added using the **Add Cloud Account** option on the Cloud Tenant Setup page.
 * You must have an advanced understanding of AWS, CloudFormation, and IAM policies and roles to execute these steps.
 {% endhint %}
 
@@ -19,7 +19,7 @@ description: >-
 
 **To update your AWS Account permissions**&#x20;
 
-1. Sign in to the [AWS Console Navigate](https://aws.amazon.com/console/) as a user with permission to modify IAM resources.
+1. Sign in to the [AWS Console](https://aws.amazon.com/console/) as a user with permission to modify IAM resources.
 2. In the AWS console, select **Services** to open the list of services. Under the **Management and Governance** group, select **CloudFormation**.
 
 <figure><img src="../../../.gitbook/assets/CloudFormation.png" alt=""><figcaption></figcaption></figure>
@@ -61,14 +61,14 @@ After the update process is completed, it might take up to 24 hours for your AWS
 
 ***
 
-### Re-onboard AWS Recommendations <a href="#re-onboard-aws-recommendations" id="re-onboard-aws-recommendations"></a>
+### Re-onboarding AWS Recommendations <a href="#re-onboard-aws-recommendations" id="re-onboard-aws-recommendations"></a>
 
 The following permissions are required to view the AWS Recommendations from AWS Trusted Advisor.
 
 * support:\*
 * trustedadvisor:Describe\*
 
-Follow the Updating permissions section to re-onboard your AWS account with these permissions.
+Follow the [Updating permissions](updating-your-aws-account-permissions.md#updating-permissions) section to re-onboard your AWS account with these permissions.
 
 ***
 

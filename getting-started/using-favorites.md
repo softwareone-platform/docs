@@ -22,7 +22,7 @@ The star icon will change from empty to filled, and the page will appear under *
 
 ### Removing favorites
 
-You can remove a page from your favorites using one of the following methods.
+You can remove a page from your favorites using the following methods.
 
 **To remove a page from your favorites**
 
