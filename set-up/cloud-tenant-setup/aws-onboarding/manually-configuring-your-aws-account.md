@@ -183,26 +183,31 @@ The report is created.
 
 ### **Assigning the policy to the role**
 
-1.  Select **Roles** from the navigation menu.
+1. Select **Roles** from the navigation menu.
 
-    <figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/10/image-29-1024x622.png" alt=""><figcaption><p><strong>Figure 24: IAM, roles</strong></p></figcaption></figure>
-2.  Choose **PyraCloudRole** from the list of roles.
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
-3.  Select **Attach policies**.&#x20;
+2. Choose **PyraCloudRole** from the list of roles.
 
-    <figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
-4.  Search for the policy created and then select the box next to it. Select **Attach policy**.
+<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+3. Select **Attach policies**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+
+4. Search for the policy created and then select the box next to it. Select **Attach policy**.
+
+<figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 The policy is attached.
 
 <figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
-At this point, your AWS account is ready to be integrated with PyraCloud. SoftwareONE will need to perform some steps internally to complete this. In order to do this, you will need to provide the following details to SoftwareONE:
+At this point, your AWS account is ready to be integrated with the Client Portal. SoftwareOne will need to perform internal steps to complete the integration.&#x20;
 
-| **Detail**                        | **Example Value**                    |
+In order to do this, you;ll need to provide the following details to SoftwareOne:
+
+| Detail                            | Example Value                        |
 | --------------------------------- | ------------------------------------ |
 | AWS Account Number                | 123456789012                         |
 | AWS Organizations Enabled?        | Yes                                  |

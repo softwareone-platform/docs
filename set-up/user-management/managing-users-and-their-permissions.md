@@ -45,13 +45,13 @@ A welcome email with the login details is sent to the new user.
 
 ***
 
-### Updating the user permissions
+### Updating user permissions
 
 You can edit the permissions and the security settings for a user. &#x20;
 
 **To change a user's permissions**
 
-1\. Select **Edit User** to change the security settings.
+1. Select **Edit User** to change the security settings.
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
@@ -79,37 +79,33 @@ If you're unable to provide access to a selected feature or select a specific ro
 
 ### Configuring spend management access
 
-User Management provides extensive capabilities to define user data access for Spend Management. It is possible to limit user access by Accounts or Custom Groups.
+User Management provides extensive capabilities to define user data access for Spend Management. You can limit user access by Accounts or Custom Groups.
 
-Users can limit access by choosing the **Spend Management Access** tab.
+You can limit access by selecting the **Spend Management Access** tab.
 
 <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### Providing full access
+#### Providing full access
 
-Select **Full Access** to give users full access to all the spend management data.
-
-{% hint style="info" %}
-**Note:** By default, each user has full access.
-{% endhint %}
+By default, each user has full access. Select **Full Access** to give users full access to all the spend management data.
 
 <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### Limiting user access by accounts
+#### Limiting user access by accounts
 
-Choose **Accounts** to use existing Providers and Subscriptions to configure access. Select **Next** to define the access.
+Select **Accounts** to use existing providers and subscriptions to configure access. Select **Next** to define the access.
 
 <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 Choose whether the user will be able to access the following data:
 
-* Any account out of existing the providers
-* Selected cloud accounts (Tenants)
-* Selected subscriptions
+* Any account out of existing the providers.
+* Selected cloud accounts (Tenants).
+* Selected subscriptions.
 
 {% hint style="info" %}
 **NOTE**: Defining access at the Provider level gives access to all Accounts and Subscriptions including those added in the future. Users will get access to new entities automatically. The same rule applies for defining access on the Account (Tenant) level.
@@ -121,7 +117,7 @@ Save your changes in order to make the changes effective.
 
 ***
 
-### Limiting user access by custom groups
+#### Limiting user access by custom groups
 
 1. Choose **Custom Groups** to give users access only to selected groups. Select **Next**.
 
@@ -141,7 +137,7 @@ Save your changes in order to make the changes effective.
 
 ### Accessing user procurement settings
 
-Choose the **Procurement** tab to open the current user Procurement settings.&#x20;
+Select the **Procurement** tab to open the current user Procurement settings.&#x20;
 
 You will see all the countries where the user can procure. Choose a country to see and manage permissions. You must own sufficient privileges to edit the permissions (some of them may appear read-only). The privileges may be different depending on the country.
 

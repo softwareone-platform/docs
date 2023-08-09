@@ -1,5 +1,5 @@
 ---
-description: Follow these steps to activate your AWS cloud account in the Client Portal.
+description: Follow this topic to add your AWS cloud account to the Client Portal.
 ---
 
 # Activating your AWS Account

@@ -1,7 +1,5 @@
 ---
-description: >-
-  Follow this topic to activate your EA or MPSA Cloud Account for Azure or
-  Office 365.
+description: Follow this topic to add your EA or MPSA cloud account to the Client Portal.
 ---
 
 # Activating your EA or MPSA account
@@ -29,17 +27,17 @@ Before adding an account, make sure that you have the following details:
    1. A name for your Microsoft tenant.
    2. The tenant ID or tenant domain.
 4. Select **Add Cloud Account**.
-5. Sign in to the Microsoft portal using the credentials of a user who has Owner permissions to the Azure subscriptions you wish to add to PyraCloud.
+5. Sign in to the Microsoft portal using the credentials of a user who has Owner permissions to the Azure subscriptions you wish to add to the Client Portal.
 
 {% hint style="info" %}
-**NOTE:** If you wish to add more Azure subscriptions owned by other users, you can do this later. See the _Add more Subscriptions_ section later in this document.
+**NOTE:** If you wish to add more Azure subscriptions owned by other users, you can do this later. For instructions, see [Adding more Azure Subscriptions](activating-your-ea-or-mpsa-account.md#add-more-azure-subscriptions)_._
 {% endhint %}
 
-6. On the consent page, review the permissions required by PyraCloud and select **Accept** to grant consent.&#x20;
+6. On the consent page, review the permissions required by the Client Portal and select **Accept** to grant consent.&#x20;
 
 You'll be redirected to the Cloud Tenant Setup page where you can view the new tenant and and its subscriptions. If the subscriptions are not immediately visible, wait a few minutes and refresh the page.
 
-After activating your tenant, you can add subscriptions and allow PyraCloud to write tags back to your Azure resources.
+After activating your tenant, you can add subscriptions and allow the Client Portal to write tags back to your Azure resources.
 
 ***
 
@@ -73,11 +71,11 @@ Many organizations have several Azure subscriptions in a single Microsoft tenant
 2. In **Add New Subscription**, select the type of subscription and select **Add**.&#x20;
 
 {% hint style="info" %}
-If Azure is selected, then the user performing consent must be the Owner of the Azure subscriptions being added. If Office 365 is selected, then the user performing consent should be a Global Administrator of the tenant.
+**NOTE**: If Azure is selected, then the user performing consent must be the Owner of the Azure subscriptions being added. If Office 365 is selected, then the user performing consent should be a Global Administrator of the tenant.
 {% endhint %}
 
-3. Sign in to the Microsoft portal using the credentials of the user who has Owner permissions to the Azure subscriptions you wish to add to PyraCloud.
-4. On the consent page, review the permissions required by PyraCloud and select **Accept** to grant consent.
+3. Sign in to the Microsoft portal using the credentials of the user who has Owner permissions to the Azure subscriptions you wish to add to the Client Portal.
+4. On the consent page, review the permissions and select **Accept** to grant consent.
 
 After granting consent, you'll be redirected to PyraCloud where you will see the subscriptions owned by the user added to PyraCloud.
 
@@ -89,17 +87,17 @@ When you activate your Azure subscriptions for the first time, PyraCloud assigns
 
 If you would like Tags and Resources to synchronize tags back to Azure, you must to change the level of access PyraCloud has for your Azure subscription.
 
-**To change the level of access PyraCloud has for an Azure subscription**
+**To change the level of access the Client Portal has for an Azure subscription**
 
 1. On the Cloud Tenant Setup page, select **Manage** and select **Change Access** next to the subscription you want to modify.
 2. In **Change PyraCloud Access Level**, choose your desired access level and select **Change**. The following options are available:&#x20;
-   * **Sync resources only, no tags – write back of tags disabled:** Tags and Resources will download your resources to PyraCloud without the tags currently assigned in Azure. Any changes to tags will be stored in PyraCloud only. This setting requires the “Reader” role in your Azure subscription and will not make any changes to resources or tags in your Azure subscription.
-   * **Sync resources and tags – write back of tags disabled:** Tags and Resources will download your resources to PyraCloud including the tags currently assigned in Azure. Any changes to tags will be stored in PyraCloud only. Any tags assigned to resources in Azure will overwrite the tags for the corresponding resource in PyraCloud. This setting requires the “**Reader**” role in your Azure subscription and will not make any changes to resources or tags in your Azure subscription.
-   * **Sync resources and tags – write back of tags enabled:** Tags and Resources will download your resources to PyraCloud including the tags currently assigned in Azure. Any changes to tags will be synchronized back to your resources in Azure. This setting requires the “Tag Contributor” role in your Azure subscription and will only make changes to tags.
+   * **Sync resources only, no tags – write back of tags disabled:** Tags and Resources will download your resources to the Client Portal without the tags currently assigned in Azure. Any changes to tags will be stored in PyraCloud only. This setting requires the “Reader” role in your Azure subscription and will not make any changes to resources or tags in your Azure subscription.
+   * **Sync resources and tags – write back of tags disabled:** Tags and Resources will download your resources to PyraCloud including the tags currently assigned in Azure. Any changes to tags will be stored in the Client Portal only. Any tags assigned to resources in Azure will overwrite the tags for the corresponding resource in PyraCloud. This setting requires the “**Reader**” role in your Azure subscription and will not make any changes to resources or tags in your Azure subscription.
+   * **Sync resources and tags – write back of tags enabled:** Tags and Resources will download your resources to the Client Portal including the tags currently assigned in Azure. Any changes to tags will be synchronized back to your resources in Azure. This setting requires the “Tag Contributor” role in your Azure subscription and will only make changes to tags.
 3. Sign in to the Microsoft portal using the credentials of the user who has Owner permissions to the Azure subscriptions for which you wish to modify the PyraCloud access level.
-4. On the consent page, review the permissions required by PyraCloud and select **Accept** to grant consent.&#x20;
+4. On the consent page, review the permissions and select **Accept** to grant consent.&#x20;
 
-After granting consent, you'll be redirected to PyraCloud where you can view the updated access level. If you notice a blank screen, refresh the page.&#x20;
+After granting consent, you'll be redirected to the Client Portal where you can view the updated access level. If you notice a blank screen, refresh the page.&#x20;
 
 ***
 
@@ -111,14 +109,14 @@ Access tokens are generated through the Microsoft Azure Portal. For information 
 
 ### Activating Azure Microsoft Customer Agreement (MCA) <a href="#activating-azure-microsoft-customer-agreement-mca" id="activating-azure-microsoft-customer-agreement-mca"></a>
 
-PyraCloud supports both legacy EA and modern [MCA ](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview)models. Before reading further please make sure you have followed [Activating your account](https://app.gitbook.com/o/sGLRSSUGgFSfUhFIYij8/s/B8rr5E9BB4HBPts7pBng/\~/changes/16/set-up/azure-onboarding/activating-your-ea-or-mpsa-account#activating-your-account).
+The Client Portal supports both legacy EA and modern [MCA ](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview)models. Before reading further please make sure you have followed [Activating your account](https://app.gitbook.com/o/sGLRSSUGgFSfUhFIYij8/s/B8rr5E9BB4HBPts7pBng/\~/changes/16/set-up/azure-onboarding/activating-your-ea-or-mpsa-account#activating-your-account).
 
 #### To onboard your MCA tenant <a href="#how-to-onboard-mca-tenant" id="how-to-onboard-mca-tenant"></a>
 
 1.  Verify that your account has the proper billing account type set up. You can verify this in the [Azure Portal](https://portal.azure.com) > **Cost Management + Billing > Properties.**
 
     <figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
-2. Add the Billing Reader role to PyraCloud. To do so:
+2. Add the Billing Reader role to the Client Portal. To do so:
    1. Launch the [Azure Portal](https://portal.azure.com). Search for **Cost Management + Billing.**
    2.  Select your MCA Billing Scope.
 
@@ -134,7 +132,7 @@ PyraCloud supports both legacy EA and modern [MCA ](https://learn.microsoft.com/
     <figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 6. Save your changes.&#x20;
 
-After you save your changes, it takes approximately 24 hours for the MCA billing data to synchronize with PyraCloud.
+After you save your changes, it takes approximately 24 hours for the MCA billing data to synchronize with the Client Portal.
 
 ***
 

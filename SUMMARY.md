@@ -80,7 +80,7 @@
   * [Working with Recommendations](analytics-and-reports/recommendations/working-with-recommendations.md)
 * [Reports](analytics-and-reports/reports/README.md)
   * [Creating reports](analytics-and-reports/reports/creating-reports.md)
-  * [Cloud journey report](analytics-and-reports/reports/cloud-journey-report.md)
+  * [Cloud Journey report](analytics-and-reports/reports/cloud-journey-report.md)
   * [Spend reports](analytics-and-reports/reports/spend-reports/README.md)
     * [Customized Spend reports](analytics-and-reports/reports/spend-reports/customized-spend-reports.md)
     * [Office 365 Spend Reports](analytics-and-reports/reports/spend-reports/office-365-spend-reports.md)
@@ -109,6 +109,7 @@
 
 * [Contacting Support](help-and-support/contacting-support.md)
 * [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
+  * [How to turn off the Cost Explorer recommendations](help-and-support/frequently-asked-questions/how-to-turn-off-the-cost-explorer-recommendations.md)
   * [How to change your currency](help-and-support/frequently-asked-questions/how-to-change-your-currency.md)
   * [How to generate an access token](help-and-support/frequently-asked-questions/how-to-generate-an-access-token.md)
   * [How to request pricing](help-and-support/frequently-asked-questions/how-to-request-pricing.md)

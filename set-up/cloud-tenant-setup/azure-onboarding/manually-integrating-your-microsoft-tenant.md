@@ -1,32 +1,32 @@
 ---
-description: Learn how to integrate your Microsoft tenant.
+description: >-
+  You can manually integrate your Azure tenant and assign the Reader and Tag
+  Contributor roles.
 ---
 
 # Manually integrating your Microsoft tenant
 
 ***
 
-This topic describes how you can integrate your Microsoft tenant with PyraCloud. The integration involves the following steps:
+This topic describes how you can integrate your Microsoft tenant with the Client Portal. The integration involves the following steps:
 
-1. Granting consent to PyraCloud in your Azure tenant.
-2. Using the Azure Management Groups to assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) access roles to PyraCloud.
+1. Granting consent to the Client Portal in your Azure tenant.
+2. Using the Azure Management Groups to assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) access roles to the Client Portal.
 3. Sharing the details to SoftwareOne so we can complete your onboarding.
 
-The Tag Contributor and Reader roles allow PyraCloud to read a list of all the resources in your Azure subscription, and read and write tags on those resources. You can control whether PyraCloud will write tags back to resources in your Azure subscription. For more information, see Sync Your Tags to Azure.
+The Tag Contributor and Reader roles allow the Client Portal to read a list of all the resources in your Azure subscription, and read and write tags on those resources. You can control whether you want the Client Portal to write tags back to resources in your Azure subscription. For more information, see [Syncing your tags to Azure](activating-your-ea-or-mpsa-account.md#syncing-your-tags-to-azure).
 
 ***
 
-### Providing consent to PyraCloud in your Azure tenant <a href="#providing-consent-to-pyracloud-in-your-azure-tenant" id="providing-consent-to-pyracloud-in-your-azure-tenant"></a>
+### Providing consent to the Client Portal in your Azure tenant <a href="#providing-consent-to-pyracloud-in-your-azure-tenant" id="providing-consent-to-pyracloud-in-your-azure-tenant"></a>
 
 **To grant consent**
 
-1. Select one of the following links for granting consent:
+1. Select one of the following links:
    * [Azure](https://login.microsoftonline.com/common/oauth2/authorize?response\_type=code\&client\_id=2a4807a4-d9e4-457d-b32f-a455e0d3662a\&prompt=consent\&redirect\_uri=https://www.softwareone.com/)
    * [Office365](https://login.microsoftonline.com/common/oauth2/authorize?response\_type=code\&client\_id=3f18953a-acbf-48cf-b485-06e451411aef\&prompt=consent\&redirect\_uri=https://www.softwareone.com/)
-
-2\. On the **Permissions Requested** page, review the permissions, and select **Accept** to grant consent.
-
-3\. After granting consent, launch the Azure Portal and navigate to **Azure Active Directory** > **Enterprise applications**. This step is necessary to ensure that PyraCloud is listed in your enterprise applications.
+2. On the **Permissions Requested** page, review the permissions, and select **Accept** to grant consent.
+3. After granting consent, launch the Azure Portal and navigate to **Azure Active Directory** > **Enterprise applications** to ensure that PyraCloud is listed in your enterprise applications.
 
 ***
 

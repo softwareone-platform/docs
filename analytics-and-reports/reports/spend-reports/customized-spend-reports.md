@@ -1,7 +1,7 @@
 ---
 description: >-
   Create multiple custom report views and combine them into one simple dashboard
-  experience
+  experience.
 ---
 
 # Customized Spend reports
@@ -20,7 +20,7 @@ With the new reporting capability, you can create multiple custom views and aggr
 
 The report with aggregated Provider data will be added to your new Executive Report.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/09/image-12-1024x625.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
 You will also see spaces with a “plus icon” (4). Clicking on the plus icon allows you to quickly add new data that is of interest to you.
 
@@ -51,7 +51,7 @@ All changes made in the report are auto-saved.
 1. Hover over the element you want to move until you see the cross/arrow icon appear.&#x20;
 2. Click on that icon and drag the element to the area you want to move it to.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/09/image-14-1024x538.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -59,7 +59,7 @@ All changes made in the report are auto-saved.
 
 You can remove elements by hovering over the element until you see the bin icon appear. Select the bin to delete the element.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/09/image-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -73,7 +73,7 @@ To enter the edit mode, click anywhere on the chart element.
 
 In the configuration section, you can define your data and pick your preferred presentation option.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/09/image-16-1024x821.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 You can control data displayed on the “X” axis in the “_Show By:_” drop-down (1). Available options are **Day**, **Month**, and **None**.
 
@@ -85,7 +85,7 @@ The **Day** and **Month** settings will make the “X” axis time-based. Howeve
 
 Reports support advanced filtering (2). This scans through all your data providers (e.g. _Azure_ / _Software Assets_ / _Virtual_) and provides you with a unified search experience.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/09/image-9-1024x555.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 Search index breaks words by space or “-” character and uses “starts with operator” for each word. For example: for resource **my-test-vmineurope** if you type “test”, the index will find this resource. However, if you type “est” this resource will not be found.
 
@@ -118,7 +118,7 @@ Executive Reports support quick share functionality. You can easily share your r
 
 To share a personal report, select the report you would like to share from the report selection. Select **Share**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/03/image-2-1024x153.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
 Next, select members from your account. Allowed roles are **Can view** and **Can edit**. Users with the **Can Edit** role can also adjust the sharing list with limitations to the **Owner** role.
 

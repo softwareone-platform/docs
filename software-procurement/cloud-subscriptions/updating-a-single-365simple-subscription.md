@@ -16,14 +16,15 @@ description: >-
 2. Select the **My Subscriptions** tab.
 3. Scroll down to the page to view a list of your active, suspended, and recently deleted subscriptions and add-ons.&#x20;
 4. Select the active or suspended subscription that you want to update.
-5.  Edit the **License Quantity** or **Subscription Status**. You can also add your comments to the **Add a Note** field.
+5. Edit the **License Quantity** or **Subscription Status**. You can also add your comments to the **Add a Note** field.
 
-    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+
 6. Select **Update Subscription** to apply the adjustments to your subscription. The **Update Subscription** button is enabled after you accept the Terms of Use.
 
 After you update the subscription, it can take up to 30 seconds for your changes to be applied.&#x20;
 
-When the confirmation message is displayed, select **View Order** to go to the Biling section to view more details about your order, or select **Manage Subscriptions** to continue managing your 365Simple tenant.
+When the confirmation message is displayed, select **View Order** to go to the Billing section to view more details about your order, or select **Manage Subscriptions** to continue managing your 365Simple tenant.
 
 {% hint style="info" %}
 **NOTES**:&#x20;

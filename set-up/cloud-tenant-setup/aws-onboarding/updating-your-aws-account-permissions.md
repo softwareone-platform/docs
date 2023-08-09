@@ -1,7 +1,5 @@
 ---
-description: >-
-  As new features and functionalities are introduced, you may need to update
-  permissions so that the Client Portal can access your AWS account.
+description: Update your permissions so that the Client Portal can access your AWS account.
 ---
 
 # Updating your AWS account permissions
