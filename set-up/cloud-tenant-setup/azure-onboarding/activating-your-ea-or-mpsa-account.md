@@ -103,7 +103,7 @@ After granting consent, you'll be redirected to the Client Portal where you can 
 
 ### Generating your EA access token <a href="#generating-your-ea-access-token" id="generating-your-ea-access-token"></a>
 
-Access tokens are generated through the Microsoft Azure Portal. For information on how to generate a token, see [How to generate an access token](../../../help-and-support/frequently-asked-questions/how-to-generate-an-access-token.md).&#x20;
+Access tokens are generated through the Microsoft Azure Portal. For information on how to generate a token, see [How to generate an access token](../../../help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md).&#x20;
 
 ***
 

@@ -4,10 +4,14 @@ description: Follow these steps to change your currency.
 
 # How to change your currency
 
+***
+
 You can change your currency from the **Products** or **Procurement Workbench** pages.
 
 * To access the Products page, navigate to **Marketplace** > **Products**.
 * To access the Procurement Workbench page, navigate to **Marketplace** > **Procurement Workbench**.
+
+***
 
 **To change your currency**
 

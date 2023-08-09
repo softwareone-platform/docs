@@ -111,15 +111,17 @@
 
 * [Contacting Support](help-and-support/contacting-support.md)
 * [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
-  * [How to turn off the Cost Explorer recommendations](help-and-support/frequently-asked-questions/how-to-turn-off-the-cost-explorer-recommendations.md)
   * [How to change your currency](help-and-support/frequently-asked-questions/how-to-change-your-currency.md)
-  * [How to generate an access token](help-and-support/frequently-asked-questions/how-to-generate-an-access-token.md)
+  * [How to configure conditional access policies](help-and-support/frequently-asked-questions/how-to-configure-conditional-access-policies.md)
+  * [How to generate a report of overdue invoices](help-and-support/frequently-asked-questions/how-to-generate-a-report-of-overdue-invoices.md)
+  * [How to generate an Azure EA access token](help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md)
   * [How to request pricing](help-and-support/frequently-asked-questions/how-to-request-pricing.md)
   * [How to reset or change password](help-and-support/frequently-asked-questions/how-to-reset-or-change-password.md)
-  * [How to configure conditional access policies](help-and-support/frequently-asked-questions/how-to-configure-conditional-access-policies.md)
+  * [How to turn off the Cost Explorer recommendations](help-and-support/frequently-asked-questions/how-to-turn-off-the-cost-explorer-recommendations.md)
+  * [How to view your generated reports](help-and-support/frequently-asked-questions/how-to-view-your-generated-reports.md)
   * [How to view available currencies](help-and-support/frequently-asked-questions/how-to-view-available-currencies.md)
   * [I'm facing issues with notifications](help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md)
-  * [I have questons about access tokens and consent](help-and-support/frequently-asked-questions/i-have-questons-about-access-tokens-and-consent.md)
+  * [I have questions about access tokens and consent](help-and-support/frequently-asked-questions/i-have-questions-about-access-tokens-and-consent.md)
 
 ## Release Notes
 

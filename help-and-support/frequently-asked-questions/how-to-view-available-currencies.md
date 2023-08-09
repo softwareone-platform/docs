@@ -6,9 +6,13 @@ description: View which currencies you can transact in and export the currency l
 
 You can see your active and default currencies on the Currency Overview page. You can also create a report of your currencies for purchasing.
 
+***
+
 **To see your currencies**
 
 * From the main menu, navigate to **Setup** and select **Currency Overview**.
+
+***
 
 **To create a report**
 

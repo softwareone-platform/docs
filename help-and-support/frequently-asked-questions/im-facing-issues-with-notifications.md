@@ -1,4 +1,10 @@
-# I'm having issues with my notifications
+---
+description: Learn how to resolve common issues with your notifications.
+---
+
+# I'm facing issues with notifications
+
+***
 
 ### I don't see the notifications that I’m interested in
 
