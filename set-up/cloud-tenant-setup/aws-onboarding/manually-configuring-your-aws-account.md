@@ -31,32 +31,32 @@ Once generated, make a note of your external ID. You'll need to share the ID wit
    1. In the AWS console, select **Services** > **Management & Governance** > **CloudFormation**.
    2.  At the top-right of the CloudFormation Screen, select the region you wish to execute the CloudFormation script in.
 
-       <figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 3. Select **Create stack** and follow these steps:
    1. In **Prerequisite – Prepare template**, select **Template is ready**.
    2. In **Specify template**, select **Amazon S3 URL** and enter the following URL: [https://iepapp0168sda.s3-eu-west-1.amazonaws.com/pyracloud\_onboarding.json](https://iepapp0168sda.s3-eu-west-1.amazonaws.com/pyracloud\_onboarding.json)
 4.  Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
 5. Complete the Specify stack details page as follows:
    1. Enter the name of the stack. The recommended stack name is PyraCloud-Onboarding. If you do not use this recommended name, make a note of the name you use and provide it along with the random external ID to SoftwareOne.
    2. Enter the external ID that you generated, the empty GUID value as 00000000-0000-0000-0000-000000000000.
 6.  Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
 7.  On the Configure stack options page, no additional settings are required. Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
 8. Review the settings associated with the stack and select the **I acknowledge that AWS CloudFormation might create IAM resources with custom names** check box.
 9. Select **Create stack**.
 
 After you select **Create stack**, the following page is displayed. To refresh the progress of the stack, select the refresh icon.
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
 
 Wait for the status to change to `CREATE_COMPLETE`.
 
-<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -73,25 +73,25 @@ If you do not have AWS Organizations enabled, then you should perform the follow
 1. In the AWS console, click the **Services** menu item to open the list of services. Under the **Storage** group click the **S3** item.
 2. Click **Create bucket**.
 
-<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (57) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Complete the **Name and region** page as follows:
    1. In the **Name and region** section, under the **Bucket name** heading, enter a unique name for the bucket. The recommended value for this is “pyracloud.{account number}”. For example, “pyracloud.123456789012”. Make a note of this name to share with SoftwareONE.
    2. In the **Name and region** section, under the **Region** heading, select the region to create the bucket in. Make a note of this region to share with SoftwareONE.&#x20;
 4.  Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
 5. On the **Configure options** page, leave the values as default.
 6.  Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (59) (1).png" alt=""><figcaption></figcaption></figure>
 7. On the Set permissions page, leave the values as default.
 8.  Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (60) (1).png" alt=""><figcaption></figcaption></figure>
 9.  On the **Review** page, review the new bucket settings. Click **Create bucket**.
 
-    <figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -100,14 +100,14 @@ If you do not have AWS Organizations enabled, then you should perform the follow
 1. In the AWS console, select the account menu item at the top right. Select **My Billing Dashboard**.
 2.  In the left navigation menu, select **Cost & Usage Reports** and select **Create report**.
 
-    <figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (62) (1).png" alt=""><figcaption></figcaption></figure>
 3. Complete the **Report content** page as follows:
    1. Under the **Report name – required** heading, enter a name for the report. The recommended value for this is “PyraCloudCostAndUsage”. Make a note of this name to share with SoftwareONE.
    2. Under the **Additional report details** heading, select the **Include resource IDs** checkbox.
    3. Under the **Data refresh settings** heading, select the **Automatically refresh your Cost & Usage Report when charges are detected for previous months with closed bills** checkbox.
 4.  Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (63) (1).png" alt=""><figcaption></figcaption></figure>
 5. Complete the **Delivery options** page as follows:
    1. Under the **S3 bucket – required** heading, click **Configure**.
       1. On **Step 1 of 2: Configure S3 Bucket**, on the left side, **Select existing bucket** created above from the drop-down. Click **Next**.
@@ -119,14 +119,14 @@ If you do not have AWS Organizations enabled, then you should perform the follow
    6. Under the **Compression type** heading, select **GZIP**.
 6.  Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (64) (1).png" alt=""><figcaption></figcaption></figure>
 7.  On the **Review** page, review the Cost & Usage Report settings. Select **Review and Complete**.
 
-    <figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (65) (1).png" alt=""><figcaption></figcaption></figure>
 
 The report is created.
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -134,13 +134,13 @@ The report is created.
 
 1.  In the AWS console, select **Services** > **Security, Identity, & Compliance** > **IAM**.
 
-    <figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (67) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Select **Policies.**
 
-    <figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (68) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Select **Create policy** and then select the **JSON** tab.
 
-    <figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (69) (1).png" alt=""><figcaption></figcaption></figure>
 4. Add the following JSON policy. Be sure to replace the `bucketname` with the name of your bucket, for example, `pyracloud.123456789012`. Replace any existing text already in the JSON window.
 
 ```json
@@ -177,7 +177,7 @@ The report is created.
    2. (Optional) Enter a description.
 6.  Select **Create policy**.
 
-    <figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (70) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -185,23 +185,23 @@ The report is created.
 
 1. Select **Roles** from the navigation menu.
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 2. Choose **PyraCloudRole** from the list of roles.
 
-<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (71) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Select **Attach policies**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Search for the policy created and then select the box next to it. Select **Attach policy**.
 
-<figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (73) (1).png" alt=""><figcaption></figcaption></figure>
 
 The policy is attached.
 
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (74) (1).png" alt=""><figcaption></figcaption></figure>
 
 At this point, your AWS account is ready to be integrated with the Client Portal. SoftwareOne will need to perform internal steps to complete the integration.&#x20;
 
@@ -228,4 +228,4 @@ If you're taking advantage of AWS’ EDP you can view your commitment amounts in
 
 The portal displays your spending against your commitment so that you can track and plan for upcoming spend. To view your commitment amounts, contact our Support team.
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75) (1).png" alt=""><figcaption></figcaption></figure>

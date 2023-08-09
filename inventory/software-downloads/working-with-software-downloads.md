@@ -1,4 +1,10 @@
+---
+description: You can download software packages from SoftwareOne and upload your own files.
+---
+
 # Working with software downloads
+
+***
 
 The Software Downloads module allows you to download software packages that SoftwareOne provides. You can also use this module to upload your files and packages to the cloud storage, add metadata for the files (for example, bundle several files into a package, provide a file name, define the publisher/version, and so on), and distribute those packages.
 
@@ -99,11 +105,5 @@ The **History** tab displays your file uploads and downloads.  You can export th
 **To generate a report**
 
 1. Select the **Export** option**.**
-2. Choose **Export to CSV** or **Export to Excel.** The download will begin.
-
-#### &#x20;<a href="#post-3654-_toc2607634" id="post-3654-_toc2607634"></a>
-
-
-
-#### &#x20;<a href="#post-3654-_toc2607635" id="post-3654-_toc2607635"></a>
+2. Choose **Export to CSV** or **Export to Excel.** Your download will begin.
 

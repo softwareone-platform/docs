@@ -12,7 +12,7 @@ Custom Groups allow you to define an organizational hierarchy (for reporting and
 
 With Custom Groups, you can build a hierarchical structure based on custom-defined dimensions, for example, departments, teams, or projects, and map resources.
 
-<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -79,7 +79,7 @@ This scenario represents organizations that are:
 
 In this case, the recommendation is to define two dimensions:
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt="" width="365"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (88) (1).png" alt="" width="365"><figcaption></figcaption></figure>
 
 #### **Example II: Enterprise Customer Scenario**
 
@@ -91,7 +91,7 @@ This scenario represents organizations that are:
 * Fragmented department structure
 *   Organization changes throughout the year
 
-    <figure><img src="../../.gitbook/assets/image (89).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (89) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### **Example III: Service-Based Scenario**
 
@@ -104,7 +104,7 @@ This scenario represents organizations that are:
 
 The recommendation is to define 3 dimensions:
 
-<figure><img src="../../.gitbook/assets/image (90).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 

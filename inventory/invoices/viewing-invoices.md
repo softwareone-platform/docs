@@ -1,5 +1,5 @@
 ---
-description: You can view all of all open invoices.
+description: You can view all of your open invoices.
 ---
 
 # Viewing invoices

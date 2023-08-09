@@ -115,29 +115,27 @@ The Client Portal supports both legacy EA and modern [MCA ](https://learn.micros
 
 1. Verify that your account has the proper billing account type set up. You can verify this in the [Azure Portal](https://portal.azure.com) > **Cost Management + Billing > Properties.**
 
-
-
-<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (77) (1).png" alt=""><figcaption></figcaption></figure>
 
 2.  Add the Billing Reader role to the Client Portal. To do so:
 
-    1. Launch the [Azure Portal](https://portal.azure.com). Search for **Cost Management + Billing.**
-    2. Select your MCA Billing Scope.
+    * Launch the [Azure Portal](https://portal.azure.com). Search for **Cost Management + Billing.**
+    * Select your MCA Billing Scope.
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (78) (1).png" alt=""><figcaption></figcaption></figure>
 3. Select **Access Control (IAM)** to assign permissions.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Select **Add** and choose **Billing Account Reader** from the list of roles.
 
-<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (81) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Select **Service Principle** in the select section of the panel.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Save your changes.&#x20;
 
@@ -155,13 +153,13 @@ To locate your Tenant ID or Tenant Domain, please follow the steps below:
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (83) (1).png" alt=""><figcaption></figcaption></figure>
 2. In **Azure Active Directory**, select **Properties**. Your Tenant ID is displayed in the **Directory ID** field. Copy or make a note of this ID for later use.
 
-<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. In **Azure Active Directory**, select **Custom domain names**. Your domains are shown in a list. The required domain is the one marked primary. Copy or make a note of this for later use.
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (85) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***

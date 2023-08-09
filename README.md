@@ -14,7 +14,7 @@ The top navigation bar is global and displayed on all pages within the Client Po
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -37,7 +37,7 @@ Select your user name at the top-right corner of the page to display the menu.&#
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (39) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -57,7 +57,7 @@ The top modules section displays our top 6 modules. You can view the modules onl
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (38) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -69,7 +69,7 @@ The Account Information section displays the name of your tenant, your account I
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (37) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -79,7 +79,7 @@ The Account Information section displays the name of your tenant, your account I
 
 The Favorites section displays the pages that you've added as favorites. Selecting a link opens up the page. To learn about favorites, see How do I add and manage favorites?
 
-![](<.gitbook/assets/image (36) (1).png>)
+![](<.gitbook/assets/image (36) (1) (1).png>)
 
 ***
 
@@ -87,7 +87,7 @@ The Favorites section displays the pages that you've added as favorites. Selecti
 
 The Recently Visited section displays the five most recently visited pages. The list of pages is updated each time you visit a page.
 
-![](<.gitbook/assets/image (35) (1).png>)
+![](<.gitbook/assets/image (35) (1) (1).png>)
 
 ***
 
@@ -95,7 +95,7 @@ The Recently Visited section displays the five most recently visited pages. The 
 
 The News and updates section shows important information about the new releases and improvements made to the Client Portal.
 
-<figure><img src=".gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -103,7 +103,7 @@ The News and updates section shows important information about the new releases 
 
 The Footer appears at the bottom of all pages, including the Home page.
 
-<figure><img src=".gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can use the links in the footer to perform these actions:
 

@@ -27,7 +27,7 @@ When the My Subscriptions page first loads, your selected tenant and total month
 
 Your 365Simple subscriptions and add-ons are displayed in a single list.
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (99) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Basic Information <a href="#basic-information" id="basic-information"></a>
 
@@ -44,7 +44,7 @@ Each subscription or add-on in the list is displayed with the following informat
 
 In addition to this information, each subscription or add-on in the list may also show “chips” to provide more information as shown below:
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (100) (1).png" alt=""><figcaption></figcaption></figure>
 
 The chips represent the following:
 

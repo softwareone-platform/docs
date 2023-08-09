@@ -49,7 +49,7 @@ The **Invoices**, **Add user**, and **Service Review** widgets on the page are b
 
 In contrast to billing information, it's not possible to view usage and subscription assignments per agreement (this is not supported by vendors). Therefore **Product Usage** and **Top 5 Assigned Subscriptions** show information per Microsoft tenant (as noted on the yellow label within
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 The **Product Usage** widget provides you with an overview of active and inactive licenses and highlights opportunities to adjust the use vs. cost ratio. Selecting the widget redirects you to 365Analytics where you can perform in-depth analysis.
 
@@ -57,7 +57,7 @@ The **Product Usage** widget provides you with an overview of active and inactiv
 **NOTE:** Users without permission cannot access 365Analytics.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 **Top 5 Subscriptions By Assigned can also be used to evaluate subscription utilization** and accompanying costs. Selecting the widget redirects you to a full consumption report where you can see a detailed analysis.
 

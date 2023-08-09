@@ -33,7 +33,7 @@ The Cloud Cost Optimization Overview page is broken down into two sections –
 
 1. Tabs – These summarize cost optimization opportunities for the different cloud environments you may have connected to PyraCloud
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 1. The top pane summarizes savings through a pie chart and a few key metrics (see figure below).
 
@@ -77,7 +77,7 @@ The strategies in Cloud Cost Optimization are listed below. If you are looking f
 
 One can navigate to the next strategy in sequence by clicking on the Next Strategy arrow to the top right of the page.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 #### **Marking a strategy as complete / Re-opening a strategy** <a href="#marking-a-strategy-as-complete-re-opening-a-strategy" id="marking-a-strategy-as-complete-re-opening-a-strategy"></a>
 
@@ -91,7 +91,7 @@ One can reopen a strategy, only if all strategies subsequent to it are open.
 
 This indicates the year selection that the rest of the metrics are based on. This can only be changed by the Cloud Cost Optimization Consultant. Please reach out to them if you want to change this.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 **Cost at point of optimization**
 
@@ -115,7 +115,7 @@ This is the amount of money you can save on the resources in the Impacted resour
 
 This tab shows you a list of the resources that are being recommended as a candidate for the specific strategy optimization in question. If you do not want to optimize the resource using the optimization recommend, one can dismiss the resource from the strategy. Dismissing the strategy will move the strategy into the Dismissed tab, and will not count the cost and savings from the resource towards that strategy.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 #### What if an impacted resource is no longer a candidate for a strategy ? <a href="#what-if-an-impacted-resource-is-no-longer-a-candidate-for-a-strategy" id="what-if-an-impacted-resource-is-no-longer-a-candidate-for-a-strategy"></a>
 
@@ -192,11 +192,11 @@ Optimization recommendations for this strategy are dependent on selection of a r
 
 If the regions have not been selected by the consultant, then you may likely see this on the Cross-Region Optimization strategy page&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 In order to move forward, kindly select the regions by clicking on Edit, and select the regions and save changes.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 The Savings threshold is the minimum savings that needs to be achieved to make the resource viable for Cross-Region Optimization.
 
@@ -212,7 +212,7 @@ You can do this by navigating to Resource Details -> Edit as show below.
 
 Note that if a region is set at a resource level, then it will not be assigned a cheaper region automatically by the system.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 ### Strategy – Resource Automation <a href="#strategy-resource-automation" id="strategy-resource-automation"></a>
 
@@ -224,7 +224,7 @@ Resource uptime is defaulted to 24 hours a day, 7 days a week. This setting can 
 
 An uptime window can be configured on resource level using Resource Details > Edit, as shown below.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 ### Strategy – Reserved Instances <a href="#strategy-reserved-instances" id="strategy-reserved-instances"></a>
 
@@ -236,7 +236,7 @@ Reserved Instance term is defaulted to 1 year for every resource.
 
 Reserved Instance term can be configured on resource level using Resource Details -> Edit, as shown below.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 ### Strategy – Azure Hybrid Benefit <a href="#strategy-azure-hybrid-benefit" id="strategy-azure-hybrid-benefit"></a>
 

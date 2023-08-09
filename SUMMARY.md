@@ -24,7 +24,7 @@
 * [Notifications](set-up/notifications/README.md)
   * [Managing notifications](set-up/notifications/managing-notifications.md)
 * [Purchase Approval Setup](set-up/purchase-approval-setup/README.md)
-  * [Working with purchase approval workflows](set-up/purchase-approval-setup/working-with-purchase-approval-workflows.md)
+  * [Working with purchase approval groups](set-up/purchase-approval-setup/working-with-purchase-approval-groups.md)
 * [Tags and Resources](set-up/tags-and-resources/README.md)
   * [Defining Tags and Managing Resources](set-up/tags-and-resources/defining-tags-and-managing-resources.md)
 * [User Management](set-up/user-management/README.md)

@@ -60,7 +60,7 @@ SoftwareOne cannot be held liable for damages caused by the misconfiguration of 
 
 1.  In the Azure portal, navigate to [Azure AD Conditional Access](https://portal.azure.com/#view/Microsoft\_AAD\_ConditionalAccess/ConditionalAccessBlade/\~/Policies).
 
-    <figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (91) (1).png" alt=""><figcaption></figcaption></figure>
 2.  In the list of policies, select one of the policies that you applied.
 
     <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -84,7 +84,7 @@ SoftwareOne cannot be held liable for damages caused by the misconfiguration of 
     <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 9.  Click **Select** and then select **Save.**&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (85) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (85) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Repeat the steps in this section for each policy that you noted in the previous section.
 

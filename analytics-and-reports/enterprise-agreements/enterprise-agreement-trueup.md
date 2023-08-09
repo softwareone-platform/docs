@@ -4,7 +4,7 @@ description: >-
   collection to license allocation.
 ---
 
-# Working with the Enterprise Agreement TrueUp
+# Enterprise Agreement TrueUp
 
 A Microsoft Enterprise Agreement (EA) offers organizations a cost-effective way to acquire the latest Microsoft technology to help standardize IT infrastructure and simplify license management. A Microsoft EA offers organizations a manageable volume-licensing program that gives them the flexibility to buy cloud services and software licenses under one agreement.
 
@@ -16,7 +16,7 @@ Although organizations with EAs may place any number of orders throughout the ca
 
 It is important to note that the annual TrueUp applies only to products that organizations have already licensed under their current EA. New products and online services that are not in the current EA must be purchased in the month they are first used. If organizations have not increased device or user counts or used any additional EA products within the calendar year, they still need to submit an Update Statement (also called a zero-usage order), which must be signed by an authorized signatory within the organization.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### EA TrueUp module <a href="#pyracloud-ea-trueup-module" id="pyracloud-ea-trueup-module"></a>
 
@@ -47,22 +47,12 @@ Only EA Admins can access the wizard. If you do not see this option, it may be a
 
 ### Setup Wizard <a href="#post-3370-_toc513023078" id="post-3370-_toc513023078"></a>
 
-Clicking on **“Setup Wizard”** takes you to the **“EA Setup”** page which highlights the prerequisites for this process.
-
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-2.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
-
-* Click **Add data in our Wizard** to start the setup process. The Wizard will run you through 7 steps. All of the steps need to be followed in sequence. You can only move on to the next step once the current step has been completed.
-* Only one agreement can be set up at a time. it is currently not possible to fill in data for two different agreements simultaneously.
+* Select **Add data in our wizard** to start the setup process. The Wizard will run you through 7 steps. All of the steps need to be followed in sequence. You can only move on to the next step once the current step has been completed.
+* Only one agreement can be set up at a time. It is currently not possible to fill in data for two different agreements simultaneously.
 
 The Wizard automatically saves the data you have added after every change. The data input process may be interrupted at any time and resumed when convenient. The Wizard remembers which step you were actively working on.
 
 To reset the Wizard click on the “Discard all progress” button visible on the bottom of every step.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-3.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 1 – Select Agreement <a href="#post-3370-_toc513023079" id="post-3370-_toc513023079"></a>
 
@@ -85,17 +75,17 @@ Agreements which have already been setup i.e. moved to Asset Allocation or Repor
 
 Then only the form for registering new agreement will be available.
 
-If you can see your target agreement on the License Agreements page (i.e. Manage>Contracts), and no setup has been completed but you still do not find it on this page, then please submit a [support request](https://apps.pyracloud.com/help-and-support/submit).
+If you can see your target agreement on the License Agreements page (i.e. Manage>Contracts), and no setup has been completed but you still do not find it on this page, submit a support request.
 
 **Note:** If you do not find your EA Agreement in the list, click on the “Register New Agreement” tile to create new agreement.
 
 Your SoftwareONE Account Manager will receive a notification and will need to setup the agreement in our backend system in order to get the process completed.
 
-Please refer to the “[**Register New Agreement**](broken-reference)” section for more information.
+Please refer to the “**Register New Agreement**” section for more information.
 
 Once selected, click on “Next” button to move on to the next step – **Structure.**
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-4.png" alt=""><figcaption><p><strong>Figure 4 – Select Agreement and click Next</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2 – Structure <a href="#post-3370-_toc513023080" id="post-3370-_toc513023080"></a>
 
@@ -103,17 +93,17 @@ This is to define the structure of the agreement. From this step onwards, you ne
 
 This page **allows you to set tenants and products profiles** (as available in your CPS), however both of these fields are not mandatory, so you can have these disabled as shown in below screen shot:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Profiles**
 
 Typically profiles and tenants can be found as a subsection in CPS. Profiles can be found in both “SECTION 1. Licenses and Software Assurance” and “Future Pricing”. Please note that “Enterprise” subsection should not be treated as a profile and will be automatically added in the Wizard. Please inspect the below screenshot from a sample CPS with “Industry Device II” and “Manufacturing” profiles.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 The screenshot below shows “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
@@ -125,13 +115,15 @@ Tenants represent the domain of subscription products. They can be found in “S
 
 If you want to add tenants or product profiles, you can enable these by clicking on the “switch buttons” as shown below. It is also possible to delete existing profiles and tenants.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Once you have inserted the details, click on the “Next” button to move on to next step i.e. **Reporting Location**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-**Note:** If you do not have tenant or product profile information in your price sheet, you do not need to add this information into the Wizard. Both of these are optional so you can simply click on next button to move on to Step 3.
+{% hint style="info" %}
+**NOTE**: If you do not have tenant or product profile information in your price sheet, you do not need to add this information into the Wizard. Both of these are optional so you can simply click on next button to move on to Step 3.
+{% endhint %}
 
 #### Step 3 – Reporting Location <a href="#post-3370-_toc513023081" id="post-3370-_toc513023081"></a>
 
@@ -143,7 +135,7 @@ Location form consist of:
 
 **Company-** You can select company from drop down list as it will show you all the companies available in the address tree. Company is required to add location.
 
-**Note**: If you think a company is missing, you can “**Create New Company**” by following the steps in the “[Add New Company](broken-reference)” section.
+**Note**: If you think a company is missing, you can “**Create New Company**” by following the steps in the “Add New Company” section.
 
 **Location Group** – This is user defined grouping, you can group the companies based on your requirements.
 
@@ -155,7 +147,7 @@ Location form consist of:
 
 Once all the details are provided, **click on “Add”** button as shown in below snap shot:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on the “Add” button would bring the reporting location record down and a new form would be available to add more locations.
 
@@ -163,11 +155,11 @@ You can also delete or edit already added reporting locations by using “Edit�
 
 You have to add at least one reporting location in order to proceed to next step.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 When all the reporting locations are added, click on “Next” button to move on to next step i.e. **“License and Software Assurance”.**
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 4 – License and Software Assurance <a href="#post-3370-_toc513023082" id="post-3370-_toc513023082"></a>
 
@@ -175,7 +167,7 @@ The purpose of this step is to add License and Software Assurance details i.e. p
 
 Data required in this step can be found in CPS table under the header “Section 1 – License and Software Assurance” as shown below. Products for every year should be added (please inspect note regarding auto populate feature below).
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Pricing information for all products across every year is required. However, due to the structure of agreements only data for the first year need to be added. Subsequent years are auto populated and only need to be adjusted in singular cases (please see note below).
 
@@ -185,7 +177,7 @@ Each year tab has a grid available with two main sections i.e. **“Enterprise P
 
 In case you have added any product profiles in Step 2, those would also be available under Enterprise Products section. Products with the same part number but different pricing can be added to multiple profiles.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 The order of columns in the Wizard and CPS is different. More importantly, “Part Number” of product is the first column and should be inserted before other data. This is due to the fact that “Product Description” and “License Type” are autofilled based on product part number. In case that part number can not be found and auto filled then data should be added manually.
 
@@ -193,7 +185,7 @@ After providing base product information the “Net Unit Price” and “License
 
 “Usage Country” field is optional. It may be used for review process after list is completed. Especially when “Total Year Payment” (seen at the bottom of the screen) in the Wizard does not match the corresponding value in CPS.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Following the same process, you need to fill in all the products from CPS. You should see total payment for that year at the bottom of the screen and this amount should match with the total year payment on CPS for the corresponding year.
 
@@ -207,7 +199,7 @@ Fill in the details for each year and once done, click on” Next” to proceed 
 
 **Note:** In the screenshot below, details for a few of the products are inserted. However you still need to fill in the details for each product in the price sheet and under all relevant years.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 5 – Subscriptions <a href="#post-3370-_toc513023083" id="post-3370-_toc513023083"></a>
 
@@ -215,7 +207,7 @@ This step lets you fill in details for subscriptions.
 
 Data required in this step can be found in CPS table under the header “Section 2 – Monthly Subscriptions” as shown below. There are a few columns in CPS that you do not have to take into consideration from now on: “Usage indicator”, “Usage Start Date” and “Unit of Measure”. Those columns should be omitted when inputting pricing information.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Step 5 has a similar grid to Step 4, the only difference is the “Unit Quantity” field is added. “Unit Quantity” represents the number of months. It is set to 12 months by default, however it can be changed if required.
 
@@ -235,13 +227,13 @@ In this step, data inserted for Year 1 is copied for subsequent years. Please in
 
 Once completed, click on the “Next” button to move to the next step i.e. Future Pricing.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 6 – Future Pricing <a href="#post-3370-_toc513023084" id="post-3370-_toc513023084"></a>
 
 This step is to insert future pricing details which come from “Future Pricing” section of Customer Price Sheet. Rows in CPS represent products and columns with the right prices for the TrueUp process for that given year. The “Future Pricing” section in CPS looks similar to what is shown below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 The “Future Pricing” section in CPS typically consist of multiple subsections such as “TrueUps”, “Higher Editions”, “Step-Ups”, “Future Monthly – Enterprise Online Services”, “Future Monthly – Enterprise Online Services”, etc.
 
@@ -265,25 +257,25 @@ The following products will be automatically added from previous steps:
 * All products of type UpgSA (Upgrade and Software Assurance Pack)
 * All subscriptions with prices
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Number of years on Step 6 is equal to the number of years you have defined in Steps 4 and 5.
 
 Fill in the prices for all products in Y1, Y2, Y3 until Yn (n = no. of years tab you have added in Step 4).
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Prices for subscriptions is already populated from Step 5, however you can add more if needed but existing subscriptions (added in Step 5) cannot be removed.
 
 Once all the details are entered into the Wizard, click on the “Next” button to move on to the next step i.e. Review.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 7 – Review <a href="#post-3370-_toc513023085" id="post-3370-_toc513023085"></a>
 
 The review step summarizes all the information provided in the Wizard. It allows you to review important details and if something is not correct, you can navigate to the respective step to correct.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 This step allows you to:
 
@@ -292,11 +284,11 @@ This step allows you to:
 * Submit all the entered details by clicking on the “Finish” button.
 * Review the annual and total payment details for the reported agreement. The figures for all years should match with the figures in the summary section of CPS sheet for respective years.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 If you feel that all the details are correct, submit by clicking on the “Finish” button. Clicking on “Finish” will submit the agreement for Asset Allocation as shown below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 All 7 steps have a “Discard all progress” button that allows you to reset the agreement and will remove all the details you have set in the Wizard against this agreement.
 
@@ -306,11 +298,11 @@ All 7 steps have a “Discard all progress” button that allows you to reset th
 
 At Step 1, if the user does not find the agreement listed in the drop down, they can go ahead and register the new agreement by clicking on “Register New Agreement “as shown below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-36.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 Clicking this tile will take you to the next form as shown below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-38.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 Fill in the details and click on “Next” to proceed with this agreement.
 
@@ -322,15 +314,11 @@ In Step 3 the user configures the reporting locations. If target company is not 
 
 Click on “Add New Company” under company name drop down.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 It will take you to the below form where you can provide the details and click on “Save” .
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-41.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** You can proceed to the next step after requesting the New Company, however, creation of the new company via the Wizard will trigger an email to inside sales. Finishing new company onboarding **can only be done when the company is created in the backend database** (i.e. Navision) by inside sales.
 
@@ -355,19 +343,17 @@ Users can also be taken to the Asset Allocation page when they complete the Setu
 
 Clicking on “Asset Allocation” takes you to the below page where you can select the specific agreement you want to do asset allocation for.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-47.png" alt=""><figcaption></figcaption></figure>
-
 **Note:** Only Agreements for which Wizard setup is completed will be shown in this drop down.
 
 Once the agreement is selected, you are taken to the Asset Allocation page for the selected agreement as shown below:
 
 **Note**: If you submit the details in the Wizard in Step 7, then you are taken to the below page for the contract you have submitted the details for. You do not need to find and select your contract from drop down.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 This page is an overview page and you can navigate to the details page for each product by clicking on the “Edit” option under the “Actions” column. The details page is shown below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 #### Overview Page <a href="#post-3370-_toc513023091" id="post-3370-_toc513023091"></a>
 
@@ -391,7 +377,7 @@ For Example: 0 of 100 – would mean that none of the licenses are allocated yet
 
 Asset Allocation overview page also has a drop down to select the products based on the required status (as shown below). If nothing is selected from this drop down list, all the products irrespective of their status would be shown in the grid.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 **Action** – This column has “Edit” option which can be used to navigate to the details page for the respective product
 
@@ -407,7 +393,7 @@ On this page, all details are shown for the respective product. i.e. if the same
 
 Even though you have come to this page via a specific product record on the overview page, you can still select any other product directly from top dropdown. There is no need to go back to the overview page.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-60.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 **Reporting Location**
 
@@ -415,17 +401,17 @@ For the selected product, the reporting location drop down will only contain tho
 
 For example, if a product is setup under the “Industry Device” product profile, only those reporting locations would be available in the drop down which belong to this profile.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-62.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 If nothing is selected in “Reporting Locations” drop down, all the available reporting locations are shown in the grid and are grouped by Location Group, as defined in Step 3 of the Wizard setup process.
 
 At this step, you need to have the allocation data for the selected product. Numbers representing quantities should be added to “Quantity” column as shown below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-64.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 Once you have defined the quantity, the amount will get calculated automatically based on the unit price you have setup in the Wizard (Year 1 of Steps 4 and 5) using CPS.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-66.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 **Total Cost** – shows the total cost of all the allocated assets/licenses. i.e. if only 40 assets are allocated out of 90, total cost will show the amount for 40 assets.
 
@@ -441,21 +427,21 @@ You can select the products from the product drop down and allocate the assets t
 
 If there is no value reported against any location it is considered as 0.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-75.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 **Note**: All the changes made on this page are auto saved.
 
 You can navigate to the Overview page at any time by clicking on “Back to Asset Overview”.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-76.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 Your changes should be reflected here. You need to complete this process for all the products.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-79.png" alt="" height="590" width="1011"><figcaption><p><strong>Figure 42 – Complete</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 Once this is completed for all the products, the “Submit” button on the Overview Page will be enabled.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-81.png" alt="" height="690" width="971"><figcaption><p><strong>Figure 43 – Submit once Complete</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** In order to enable the “Submit” button, all the products have to be in “Complete” status.
 
@@ -465,7 +451,7 @@ Once the ”Submit” button is enabled you can go ahead and submit the form. Yo
 
 You can either “Cancel” or proceed submitting the data by clicking the “Yes, Send Data” button.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-84.png" alt="" height="438" width="981"><figcaption><p><strong>Figure 44 – Complete Asset Allocation</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 **Validating Details**
 
@@ -473,7 +459,7 @@ At this point, the agreement and company details are validated.
 
 If the allocation data you are submitting belongs to a newly registered agreement, then it is verified in the backend system. After requesting the new agreement in the Setup Wizard, your SoftwareONE Account Manager receives an email with all of the agreement information. Propagating data across all systems may take up to 24h. If the agreement has not been setup yet, then an error message will be displayed. It is recommended that you try submitting the form again the next working day.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-87.png" alt="" height="321" width="964"><figcaption><p><strong>Figure 45 – Validating Details</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 If you continue to get the error message, please report this to your Account Manager to get this setup in the database. Once this has been done you will be able to submit the form.
 
@@ -497,13 +483,11 @@ Below are key points to note whilst setting up the EA Reporting Module for a cus
 
 EA Reporting can be found in PyraCloud under the “Manage” menu option as shown below.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-90.png" alt="" height="519" width="1076"><figcaption><p><strong>Figure 46 – Enterprise Agreement Reporting</strong></p></figcaption></figure>
-
 **Note:** If you do not see this option available it may be a permissions issue, in which case please get in touch with your Account Manager.
 
 Once you click on “Enterprise Agreement” under the “Manage” menu you are taken to the “EA Reporting” page.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-93.png" alt="" height="676" width="1035"><figcaption><p><strong>Figure 47 – EA Reporting Page</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 There are two types of permissions for the EA module i.e. **EA Admin** and **EA User**. Based on those permissions, the UI and available options on this page might differ as explained later in this document.
 
@@ -513,11 +497,11 @@ With the **EA User** permissions, the user has restricted access to information 
 
 A person with EA User permission would see the below user interface on the EA Reporting page.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-96.png" alt="" height="859" width="649"><figcaption><p><strong>Figure 48 – EA User Permission Reporting Page</strong> <strong>View</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 At the top of the reporting page, filters are available which users can select to see required data as shown in the screenshot below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-98.png" alt="" height="155" width="918"><figcaption><p><strong>Figure 49 – Filters</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 Once you have selected the values for these filters, you need to click on the “Search” button to render the data of your search.
 
@@ -529,7 +513,7 @@ Profile filter is available only if the selected agreement has product profiles 
 
 On the right hand side of filters there are few more options available:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-101.png" alt="" height="222" width="969"><figcaption><p><strong>Figure 50 – More Options</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 * **Agreement Details** – This takes you to the “License Agreement Details” page for the selected contract in “Agreement”
 * **Show Agreement Price Sheets** – This can be used to see the price sheet being used for this agreement. It is a reflection of the data submitted via the Wizard Setup
@@ -540,21 +524,21 @@ On the right hand side of filters there are few more options available:
 
 By default the user lands on the Overview page as shown below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-103.png" alt="" height="622" width="965"><figcaption><p><strong>Figure 51 – Overview Page</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 If the user clicks on any of the line items, they will be navigated to a detailed view for that particular product, as shown below. The product filter gets set to the value you clicked on.
 
 **Detailed Page**
 
-On the “Overview” page if the user clicks on any item in the grid, or selects a specific company/ product using the filters they are navigated to the ”Detailed” view (shown below) and quick filters are visible. Data available on the “Detailed” page represents possible report entities. If product profiles are used, then only locations bound to those product profiles will be displayed. The same applies to the “Location” view where only products available for particular location will be displayed.
+On the “Overview” page if the user clicks on any item in the grid, or selects a specific company/ product using the filters they are navigated to the ”Detailed” view (shown below) and quick filters are visible. Data available on the “Detailed” page represents possible report entities. If product profiles are used, then only locations bound to those product profiles will be displayed. The same applies to the “Location” view where only products available for a particular location will be displayed.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-107.png" alt="" height="683" width="965"><figcaption><p><strong>Figure 52 – Details Page</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 #### Quick Filters <a href="#post-3370-_toc513023098" id="post-3370-_toc513023098"></a>
 
 Quick filters are only visible on the “Detailed” page view, and user can switch them on/off to enable or disable.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-108.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 **Recent TrueUp**
 
@@ -562,53 +546,47 @@ Recent TrueUp is visible on both the “Overview” page and the “Details” p
 
 It reduces the number of results in the data grid i.e. if “Recent TrueUp” it is enabled, then the user will only see data for the most recently opened and last submitted EA TrueUp as shown in Figure 2 below.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-111.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-114.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 **Only Changed**
 
 Shows only those records where the user has made a change as shown in the screenshot below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-116.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 **Show Costs**
 
 Enabling this filter will show the license cost instead of license quantities. If this is set to “Off”, the page will show the license quantities as shown below.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-118.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-120.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 **Costs Share**
 
+<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+
 Enabling this will show the Software Assurance cost share for the selected product. If this is set to “Off”, these values will be hidden as shown below.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-123.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-125.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 **Product Summary**
 
 If this is set to “On”, the user will see the license summary for the selected.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-127.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-130.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 #### Scenarios <a href="#post-3370-_toc513023099" id="post-3370-_toc513023099"></a>
 
 Enables users to create different scenarios which is useful to simulate different allocations of assets.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-133.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 User can create new scenario by clicking on the “New” button and providing the below information:
-
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-137.png" alt="" height="181" width="386"><figcaption></figcaption></figure>
-
-</div>
 
 #### TrueUp Status Highlighters <a href="#post-3370-_toc513023100" id="post-3370-_toc513023100"></a>
 
@@ -618,7 +596,7 @@ User can create new scenario by clicking on the “New” button and providing t
 
 The desired state is not to have any such indicators.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-145.png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (59).png>)
 
 #### Action Column <a href="#post-3370-_toc513023101" id="post-3370-_toc513023101"></a>
 
@@ -627,17 +605,13 @@ On the detailed page, there is a column called “Actions” and this has two po
 * Change
 * Details
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-148.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 **Change**
 
 Clicking this option takes you to below pop-up window.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-150.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 This shows the current required quantity. Users can change this field and can also add comments to support the changes.
 
@@ -649,11 +623,7 @@ If any record is updated using this feature, an email is triggered to the Accoun
 
 The “Details” option displays the history of the given report entity i.e. when a number of licenses have been changed within a given location. Additionally, it allows users to commit the current value set in the required quantity, with comments, which will be visible to the admin.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-152.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 #### User Responsibilities – Reporting Usage <a href="#post-3370-_toc513023102" id="post-3370-_toc513023102"></a>
 
@@ -663,7 +633,7 @@ To report the required quantity, they should have the “EA Reporting” window 
 
 The “Up” arrow shows the quantity has been increased from the reported quantity and the “Down” arrow shows the required quantity has been decreased.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-155.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 In order to report the usage/required quantity, users’ needs to:
 
@@ -682,17 +652,13 @@ On the detailed page, there is a column in grid called “Actions” and this ha
 * Change
 * Details
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-158.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 **Change Window**
 
 Clicking this option takes you to below pop-up window.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-161.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 This window shows the current required quantity. Users can change this field and they can add comments to support these changes.
 
@@ -704,19 +670,17 @@ If any record is updated using this feature, an email is triggered to the Accoun
 
 The “Details” option displays the history of the cells i.e. when a particular value was changed. Additionally, it allows user to commit the current value set in the required quantity with comments which will be visible to the admin.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-163.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 Once it is committed, users will see a lock symbol in the grid.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-165.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 The lock symbol means users cannot make any further changes. If any change is required, it has to be made using the “Change” option under the “Actions” column which will trigger an email to the Account Manager.
 
 **Note**: You need to click on “Save” after making any changes or committing any individual quantities otherwise the changes will be lost when the page is refreshed or on the next login.
 
 Users need to report all the products for the locations they are responsible for. Once the user is done with reporting the quantities, they can commit the report by clicking the “Commit Quantity” button on the “Overview” page as shown below. Once it is clicked, the report will be available for the EA Admin.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-168.png" alt=""><figcaption></figcaption></figure>
 
 Users can also click ”Save” to save the changes they have made and can commit later.
 
@@ -737,8 +701,6 @@ EA Admin roles bring more responsibility. An EA Admin has all the features a Use
 
 EA Admins can see the committed quantities from different companies as shown in the screenshot below:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-172.png" alt=""><figcaption></figcaption></figure>
-
 **Note:** In this document we are selecting a single product to explain it efficiently, however in real scenarios, Admins have to manage more than one product.
 
 **Indicators help Admins to understand the reporting status.** When an Admin hovers over a value, an indicator will pop-up telling the Admin what the color code is referring to i.e. if any extra licenses are available or extra licenses are required etc.
@@ -757,13 +719,13 @@ In this scenario the EA Admin is reporting the TrueUp. First of all the EA Admin
 
 In this case, the total required licenses are 15, whereas from previous purchases the Admin only has 7 licenses. This implies that 8 additional licenses are required in order to be compliant again.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-175.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 The next step would be for the Admin to check the details reported by all companies and look at any change in the usage. As explained above, the up and down arrow indicators displayed in the cells represent changes in usage. “Only changed” filter can preselect locations/products with changed license count.
 
 The below screenshot shows the usage and the changes reported.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-183.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 We can see that license usage in France has increased by 3 and in Great Britain it has increased by 4.
 
@@ -771,13 +733,13 @@ These locations would need more licenses.
 
 Here the Admin can decide which location is appropriate to buy these additional licenses based on tax rates and other factors. The Admin can then add license quantity accordingly against “TrueUp Quantity” for those locations.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-187.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 **Scenario 2 – Optimization**
 
 In this scenario, the total required licenses equals 10, whereas from previous purchases the Admin only has 4 licenses. This implies that 6 additional licenses are required in order to be compliant again.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-190.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 We can see that license usage in France has increased by 5 and in Great Britain it has increased by 3.
 
@@ -787,17 +749,12 @@ The two available licenses in Philadelphia can be used by France or Great Britai
 
 Here the Admin can decide which location is appropriate to buy these additional 6 licenses based on tax rates and other factors. The Admin can add license quantity accordingly against “TrueUp Quantity” for those locations.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-192.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 #### Additional Access <a href="#post-3370-_toc513023105" id="post-3370-_toc513023105"></a>
 
 Apart from extra responsibilities, EA Admins have access to additional features which are available on the top and bottom of the EA Reporting page.
 
-* Reporting Summary: Using this feature EA Admins can check the reporting summary to see how many products each subsidiary has committed. Based on this summary, they can reach out to the respective representatives of each country if any further information is required. EA Admins can track who reported which company. A responsible contact can be assigned to each company.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-197.png" alt=""><figcaption></figcaption></figure>
-
+* **Reporting Summary**: Using this feature EA Admins can check the reporting summary to see how many products each subsidiary has committed. Based on this summary, they can reach out to the respective representatives of each country if any further information is required. EA Admins can track who reported which company. A responsible contact can be assigned to each company.
 * **Create TrueUp:** Only an Admin can create a TrueUp, which means only an Admin can open a slice. Opened slice can be used by EA Users to report usage within locations they are responsible for.
 * **Submit:** Used to submit the EA reporting. Once the reporting is completed by the EA Admin, they can submit the report by using the “Submit” button. Users do not have the required permissions to submit the report, they can only commit the usage. Once submitted, the Account Manager receives the report and they will import the TrueUp into the backend system.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-201.png" alt=""><figcaption></figcaption></figure>

@@ -6,14 +6,14 @@ description: >-
 
 # Creating budgets
 
-Budgets are a part of Spend Management. Budgets allows you to assign individual budgets in two areas:
+Budgets are a part of Spend Management. Budgets allow you to assign individual budgets in two areas:
 
-* Customer-Centric Budgeting: This area of Budget allows you to assign individual Budgets to Custom Groups defined within Custom Groups (CG). This allows you to manage time periods and monetary values for your Spend defined by your business.
-* Service Provider Centric Budgeting: This area of Budgets allows you to assign individual budgets to Enrollments, Subscriptions, or Tenants (depending on the provider terms). This allows you to manage time periods and monetary values for your spend tied to your providers.
+* **Customer-Centric Budgeting**: This area of Budgets allows you to assign individual Budgets to Custom Groups defined within Custom Groups (CG). This allows you to manage time periods and monetary values for your Spend defined by your business.
+* **Service Provider Centric Budgeting**: This area of Budgets allows you to assign individual budgets to Enrollments, Subscriptions, or Tenants (depending on the provider terms). This allows you to manage time periods and monetary values for your spend tied to your providers.
 
 ***
 
-### Before you start <a href="#before-you-start" id="before-you-start"></a>
+### Before creating budgets <a href="#before-you-start" id="before-you-start"></a>
 
 * **Set up a customer-centric view**. In order to assign budgets to individual groups, it is required to set up the structure in Custom Groups first. Without the setup of Custom Groups, you will only be able to see the “Per Provider” view in Budget Manager.
 * **Set up a currency**. This is required to allow you to use your internal reporting currency across all Custom Groups, and manage the budgets and consumption in your individual currency. This is done for the following reasons:
@@ -25,7 +25,7 @@ Budgets are a part of Spend Management. Budgets allows you to assign individual 
 **NOTE**: The currency can only be changed before configuring the first Budget. Changing currencies later will require the removal of all Budgets.
 {% endhint %}
 
-* Currency in the Per Provider View: The “Per Provider” view is always shown in the native sourcing currency and allows you to prepare your engagement with the Provider. Amounts and utilization are not converted and are available at any time within Budgets or for further reporting through Consumption Overview.
+* **Currency in the Per Provider View**: The “Per Provider” view is always shown in the native sourcing currency and allows you to prepare your engagement with the Provider. Amounts and utilization are not converted and are available at any time within Budgets or for further reporting through Consumption Overview.
 
 ***
 
@@ -33,7 +33,7 @@ Budgets are a part of Spend Management. Budgets allows you to assign individual 
 
 **To access budgets**
 
-From the main menu, select **Analyze** > **Budgets**.
+* From the main menu, navigate to **Analyze** and select **Budgets**.
 
 If you are the first user to use Budgets within your organization, you will find an empty Budget page with the request to set up the first reporting period.
 

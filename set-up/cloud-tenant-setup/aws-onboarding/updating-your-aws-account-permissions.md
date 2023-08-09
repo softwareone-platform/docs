@@ -8,7 +8,7 @@ description: Update your permissions so that the Client Portal can access your A
 **NOTES:**
 
 * This topic only applies to the AWS accounts that are added using the **Add Cloud Account** option on the Cloud Tenant Setup page.
-* You must have an advanced understanding of AWS, CloudFormation, and IAM policies and roles to execute these steps.
+* You must have an advance understanding of AWS, CloudFormation, and IAM policies and roles to execute these steps.
 {% endhint %}
 
 ***
@@ -40,20 +40,20 @@ description: Update your permissions so that the Client Portal can access your A
 
 7.  On the Configure stack options page, leave all values as they are. Select **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (86) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (86) (1) (1).png" alt=""><figcaption></figcaption></figure>
 8. On the Review PyraCloud-Onboarding page, do the following:
    1. Review the changes that will be made to the stack.
    2. Select the **I acknowledge that AWS CloudFormation might create IAM resources with custom names** checkbox.
    3.  Select **Update Stack**.
 
-       <figure><img src="../../../.gitbook/assets/image (87) (1).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (87) (1) (1).png" alt=""><figcaption></figcaption></figure>
 9.  Refresh the page until the stack moves from `UPDATE_IN_PROGRESS` status to `UPDATE_COMPLETE`.
 
-    <figure><img src="../../../.gitbook/assets/image (88) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (88) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (89) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (89) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After the update process is completed, it might take up to 24 hours for your AWS Account to become healthy.
 
@@ -78,13 +78,13 @@ If you're unable to tag resources, that is, you are missing write-back permissio
 
 1.  Navigate to IAM within the AWS portal and locate `PyraCloudRole`**.**
 
-    <figure><img src="../../../.gitbook/assets/image (90) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (90) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Navigate to the details of the role and ensure that `ReadWritePolicy` is attached.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (91) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (91) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   If the role is not attached, select **Attach policies**. Type **PyraCloudReadWrite** policy in the search box and then select the checkbox and select **Attach policy**.
 
-    <figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (92) (1).png" alt=""><figcaption></figcaption></figure>
 
 The role is attached and the write-back permissions are added. To confirm, check the Resources module by syncing the relevant AWS accounts.

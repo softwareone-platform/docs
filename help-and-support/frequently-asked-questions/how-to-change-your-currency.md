@@ -14,7 +14,7 @@ You can change your currency from the **Products** or **Procurement Workbench** 
 1. Select the **Change Currency** option.
 2. In **Change your currency settings**, choose the country from the menu and then select the new currency.
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Select **Save**.
 

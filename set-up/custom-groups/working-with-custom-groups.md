@@ -93,7 +93,7 @@ There are two possible ways to group resources:
 
 ***
 
-### Assign resources to a group <a href="#assign-resources-to-a-group-2" id="assign-resources-to-a-group-2"></a>
+### Assigning resources to a group <a href="#assign-resources-to-a-group-2" id="assign-resources-to-a-group-2"></a>
 
 If required, search for the resources. Then select the check boxes of the resources, click on “Move” and select the group:
 
@@ -121,7 +121,7 @@ Specify the split details on the Split Allocation page:
 
 <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
-Select the groups and provide allocation percentage for each group.
+Select the groups and provide an allocation percentage for each group.
 
 <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -1,4 +1,12 @@
+---
+description: >-
+  Manage your software assets and inventory for software purchased through
+  SoftwareOne and third parties.
+---
+
 # Managing your software assets and financial transactions
+
+***
 
 ### Viewing software assets and financial transactions
 
@@ -47,6 +55,6 @@ You can use our Import templates to import your software assets to the Client Po
 
 2\. Fill in the required data and return your file to your SoftwareOne Account Manager via email.
 
-Our team will validate the data and upload the file when the validation is completed. The processing time may vary depending on the amount of data.
+Our team will validate the data and upload the file when the validation is completed. The processing time might vary depending on the amount of data.
 
 ***

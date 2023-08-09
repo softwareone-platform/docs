@@ -12,7 +12,7 @@ The Simple for AWS dashboard provides an overview for customers taking advantage
 
 ### Selecting your Tenant <a href="#selecting-your-tenant" id="selecting-your-tenant"></a>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 If you have multiple Microsoft tenants, you will see a dropdown next to your tenant name on the Simple for AWS dashboard, allowing you to switch between tenants.
 
@@ -29,7 +29,7 @@ Widgets like “Invoices”, “Add user” and “Service Review” is based on
 
 Users will see widgets based on their user or content permissions.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -39,7 +39,7 @@ This widget displays your spend information from the last 3 months. You can view
 
 Clicking on the widget will take you to the “Consumption” report where you can see more details, and perform drill-downs or drill-ups with more sophisticated filters.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -49,7 +49,7 @@ One of the biggest advantages for our customers is access to custom recommendati
 
 All Simple for AWS recommendations are provided directly, and articles are written by SoftwareOne experts and backed by data-driven intelligence.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
