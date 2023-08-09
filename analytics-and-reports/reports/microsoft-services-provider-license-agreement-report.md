@@ -32,14 +32,8 @@ The SoftwareOne Client Portal has a custom Service Provider Reporting module tha
 
 The report view reloads automatically to display the updated data. All changes in the quantities after importing the SPLA template are marked with a green star in the grid and can also be checked in the **Latest Import Changes Applied** area.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/06/word-image-20.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 {% hint style="info" %}
-**Note**: It might take a few seconds for the template to download. Additionally, if some of your contracts are not updated, this template contains the oldest month that is still open. To perform this action for the current month, first update and send all old months.
+**NOTE**: It might take a few seconds for the template to download. Additionally, if some of your contracts are not updated, this template contains the oldest month that is still open. To perform this action for the current month, first update and send all old months.
 {% endhint %}
 
 ***
@@ -59,11 +53,7 @@ The table displays the current reported products with their prices, item numbers
 
 If a column is highlighted in green, it indicates that it's the current active month. The **Open** status means that this report hasn't been transmitted yet.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/06/word-image-3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The **Deadline/Submit Date** is the delivery date by which the report must be submitted. The reporting window opens on the 28th of the reporting month and closes on the 10th of the following month. Orders must be placed during that time and for the given period. If this date is exceeded, it will be highlighted in red.
 
@@ -86,16 +76,13 @@ To view the details, select **Details**.
 **To adjust quantities**
 
 1. Select the cell. The **Details** window will open containing details of the data set.&#x20;
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/06/word-image-6.png" alt=""><figcaption></figcaption></figure>
-
 2. Enter the new value in the cell and optionally add your comments to the details window.
 3. Select **Save** to update the changes.
 
 When you save your changes, the yellow-colored fields will change to their original color. This creates or updates a draft for the revised month, which can be edited until it is finally transferred via **Create Order.**
 
 {% hint style="info" %}
-**Note**: If you choose to add your comments, the red marking in the cell will imply that a comment has been entered into this field. If you hover your mouse, the comment will be displayed. When you are finished, select another line, and the quantity will be accepted. The cell that has now been edited is highlighted in yellow as a sign that changes have been made but have not been saved yet.
+**NOTE**: If you choose to add your comments, the red marking in the cell will imply that a comment has been entered into this field. If you hover your mouse, the comment will be displayed. When you are finished, select another line, and the quantity will be accepted. The cell that has now been edited is highlighted in yellow as a sign that changes have been made but have not been saved yet.
 {% endhint %}
 
 ***
@@ -108,19 +95,11 @@ You can add new products from the SPLA catalog using the **Add Product** option.
 
 * Enter the product name or article number. The list will be filtered automatically.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/06/word-image-8.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 If an incorrect list is selected, you can remove the products from the list. To do this, remove the product with the displayed '**X**' next to the product name before saving.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/06/word-image-9.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 To save these changes, click **Save**. The feature creates or updates a draft for the revised month, which can be edited until it is finally transferred via **Create Order**.
 
@@ -150,11 +129,7 @@ The action creates a draft that can still be edited. Draft Numbers are always st
 
 The entered values are moved to the shopping cart by clicking **Create Order**. Make sure to review the address details and contact persons. Personal references or order numbers can also be stored, and related documents can be attached.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/06/word-image-12.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 The **PO Number 1** field is blocked from editing because the reference 'SPLA month year' is automatically displayed. The payment method and special instructions can be transmitted.
 
