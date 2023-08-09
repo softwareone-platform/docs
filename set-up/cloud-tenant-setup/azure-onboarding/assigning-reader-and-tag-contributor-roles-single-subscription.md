@@ -4,19 +4,17 @@ description: >-
   access your tags and resources.
 ---
 
-# Granting access to the Client Portal for a single Azure subscription
+# Assigning Reader and Tag Contributor roles (single subscription)
 
 ***
 
 In some cases, you must configure your Azure subscription manually so that the Client Portal can access the resources and tags.&#x20;
 
-The process involves assigning the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the "PyraCloud (Azure)" Enterprise Application.
+### How does it work?
+
+When you onboard your tenant to the Client Portal, an Enterprise Application called "PyraCloud (Azure)" is created in your tenant. You must then assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the "PyraCloud (Azure)" Enterprise Application.
 
 These roles allow the Client Portal to read a list of all the resources in your Azure subscription, and read and write tags on those resources. You can control whether you want the Client Portal to write tags back to resources in your Azure subscription using the Cloud Tenant Setup feature.
-
-{% hint style="info" %}
-**NOTE**: To grant access to the Client Portal for multiple Azure subscriptions, use the Azure Management Groups. For details, see [Grant Access to PyraCloud with Azure Management Groups](https://help.pyracloud.com/grant-access-to-pyracloud-with-azure-management-groups).
-{% endhint %}
 
 ***
 
@@ -30,16 +28,16 @@ These roles allow the Client Portal to read a list of all the resources in your 
 
 **To grant access**&#x20;
 
-1. Launch the [Azure Portal](https://portal.azure.com/#home) and navigate to **Subscriptions**.
-2. Select the subscription that you want to integrate with the Client Portal.
+1. Sign in to the [Azure Portal](https://portal.azure.com/#home) and navigate to **Subscriptions**.
+2. On the **Subscriptions** page, choose the subscription that you want to integrate with the Client Portal.
 
 <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-3. Select **Access control (IAM)**.
+3. Select **Access control (IAM).**
 
 <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-4. Select **Role assignments**.
+4. Navigate to **Role assignments**.
 
 <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 

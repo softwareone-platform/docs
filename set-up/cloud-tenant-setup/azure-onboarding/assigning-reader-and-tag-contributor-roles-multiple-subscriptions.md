@@ -4,18 +4,26 @@ description: >-
   in a single step.
 ---
 
-# Granting access to the Client Portal using Azure Management Groups
+# Assigning Reader and Tag Contributor roles (multiple subscriptions)
+
+***
 
 You can use Azure Management Groups to grant the Client Portal access to your Azure subscriptions. This approach has the following benefits:&#x20;
 
 * You can assign access to multiple subscriptions in a single step.
 * If you create more Azure subscriptions in the future, the access will be automatically granted. It means when you add an Azure subscription to your tenant, there is no need to activate it in the Client Portal.
 
-### How it works?
+***
+
+### How does it work?
 
 When you onboard your tenant to the Client Portal, an Enterprise Application called "PyraCloud (Azure)" is created in your tenant. You must then assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the "PyraCloud (Azure)" Enterprise Application:
 
 These roles allow the Client Portal to read a list of all the resources in your Azure subscriptions, and read and write tags on those resources. You can choose whether you want the Client Portal to write tags back to resources in your Azure subscription using the Cloud Tenant Setup feature.
+
+***
+
+***
 
 ## Granting access using the Azure CLI
 
@@ -49,6 +57,8 @@ az role assignment create --assignee "2a4807a4-d9e4-457d-b32f-a455e0d3662a" --ro
 The following table explains these commands:
 
 <table><thead><tr><th width="448">Command</th><th>Description</th></tr></thead><tbody><tr><td><code>az login</code></td><td>Log in to your Microsoft tenant.</td></tr><tr><td><code>az rest --method post --url "/providers/Microsoft.Authorization/elevateAccess?api-version=2016-07-01"</code></td><td>Elevate your permissions to manage all Azure subscriptions and management groups. See <a href="https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin">Microsoft Documentation</a>.</td></tr><tr><td><p><code>az ad sp create --id 2a4807a4-d9e4-457d-b32f-a455e0d3662a</code></p><p></p><p><code>az ad app permission grant --id 2a4807a4-d9e4-457d-b32f-a455e0d3662a --api 00000003-0000-0000-c000-000000000000 --scope "User.Read"</code></p></td><td>Create the PyraCloud (Azure) service principal (Enterprise Application) in your tenant.</td></tr><tr><td><code>$root_mg=$(az account management-group list --query "[?displayName == 'Tenant Root Group'] | [0] | id" --output tsv)</code></td><td>Get the ID of your Tenant Root Group.</td></tr><tr><td><p><code>az role assignment create --assignee "2a4807a4-d9e4-457d-b32f-a455e0d3662a" --role "Reader" --scope "$root_mg"</code></p><p></p><p><code>az role assignment create --assignee "2a4807a4-d9e4-457d-b32f-a455e0d3662a" --role "Tag Contributor" --scope "$root_mg"</code></p></td><td>Assign the Reader and Tag Contributor roles to the PyraCloud (Azure) application in your Tenant Root Group.</td></tr></tbody></table>
+
+***
 
 ## Granting access using the Azure Portal
 
