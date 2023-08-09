@@ -1,0 +1,60 @@
+---
+description: >-
+  Manually configure your Azure subscription so that the Client Portal can
+  access your tags and resources.
+---
+
+# Granting access to the Client Portal for a single Azure subscription
+
+***
+
+In some cases, you must configure your Azure subscription manually so that the Client Portal can access the resources and tags.&#x20;
+
+The process involves assigning the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the "PyraCloud (Azure)" Enterprise Application.
+
+These roles allow the Client Portal to read a list of all the resources in your Azure subscription, and read and write tags on those resources. You can control whether you want the Client Portal to write tags back to resources in your Azure subscription using the Cloud Tenant Setup feature.
+
+{% hint style="info" %}
+**NOTE**: To grant access to the Client Portal for multiple Azure subscriptions, use the Azure Management Groups. For details, see [Grant Access to PyraCloud with Azure Management Groups](https://help.pyracloud.com/grant-access-to-pyracloud-with-azure-management-groups).
+{% endhint %}
+
+***
+
+### Prerequisites
+
+* Ensure that you've [onboarded your tenant](activating-your-ea-or-mpsa-account.md).
+
+***
+
+### Granting access to individual subscriptions <a href="#block-e361c5ef-f066-4f15-882a-9691e45ebe2d" id="block-e361c5ef-f066-4f15-882a-9691e45ebe2d"></a>
+
+**To grant access**&#x20;
+
+1. Launch the [Azure Portal](https://portal.azure.com/#home) and navigate to **Subscriptions**.
+2. Select the subscription that you want to integrate with the Client Portal.
+
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
+3. Select **Access control (IAM)**.
+
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+4. Select **Role assignments**.
+
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+5. Select **Add** > **Add role assignment**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+6. Select **Reader** from the **Role** menu and then search for **Pyra**. Choose **PyraCloud (Azure)** and select **Save**.
+
+<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+7. Select **Tag Contributor** from the **Role** menu and then search for **Pyra**. Choose **PyraCloud (Azure)** and select **Save**.
+
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+The access is granted.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>

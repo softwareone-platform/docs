@@ -6,6 +6,8 @@ description: >-
 
 # Overview
 
+***
+
 Custom Groups allow you to define an organizational hierarchy (for reporting and budgeting) and govern cloud environments (resources running on Azure, AWS, and Office365 licenses).
 
 With Custom Groups, you can build a hierarchical structure based on custom-defined dimensions, for example, departments, teams, or projects, and map resources.
@@ -31,8 +33,8 @@ The built-in functionalities across Custom Groups and Resources allow users to d
 | Business related | <ul><li>What is the granularity of chargeback requirements?</li><li>What is the granularity of budget requirements?</li><li>What are the reporting requirements (e.g. every month the global cost to CIO and department, split by departments)?</li></ul> |
 | IT related       | <ul><li>Is tagging already in use and how?</li><li>Is it enough to stay high level or is there a need to also report on different stages of the workload (e.g. Test, UAT, Production, etc.)?</li></ul>                                                    |
 
-* Define the Group Structure: Custom Groups are structured in a way that they allow almost endless scenarios of an organizational setup. Therefore the horizontal (Groups) and vertical (Group Levels) structure must be defined:
-* Identify the Right Group Levels:  Custom Groups use structure levels to define the levels of an organization, and are used to assign individual groups. Examples of common dimensions are:
+* **Define the Group Structure**: Custom Groups are structured in a way that they allow almost endless scenarios of an organizational setup. Therefore the horizontal (Groups) and vertical (Group Levels) structure must be defined:
+* **Identify the Right Group Levels**:  Custom Groups use structure levels to define the levels of an organization, and are used to assign individual groups. Examples of common dimensions are:
   * Company
   * Location
   * Department
@@ -45,7 +47,7 @@ These dimensions are directly mapped to Tags and Resources as tag keys. This all
 Identifying the right setup and sequence of dimensions is critical to keeping flexibility throughout the use of Custom Groups. The dimensions are the predecessor to the hierarchical structure of Custom Groups and changing a dimension requires removing the groups.
 {% endhint %}
 
-* Identify the Right Groupings: Defining the group name is a bit more flexible than defining the dimensions. Group names correspond with the tag values and can be created and deleted any time. Examples for common group names are:
+* Identify the Right Groupings: Defining the group name is a bit more flexible than defining the dimensions. Group names correspond with the tag values and can be created and deleted at any time. Examples of common group names include:
   * SoftwareONE (for Company)
   * Switzerland (for Location)
   * Marketing (for Department)

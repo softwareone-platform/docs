@@ -16,6 +16,8 @@
     * [Activating your EA or MPSA account](set-up/cloud-tenant-setup/azure-onboarding/activating-your-ea-or-mpsa-account.md)
     * [Manually integrating your Microsoft tenant](set-up/cloud-tenant-setup/azure-onboarding/manually-integrating-your-microsoft-tenant.md)
     * [Completing your Microsoft 365 or Microsoft Azure activation](set-up/cloud-tenant-setup/azure-onboarding/completing-your-microsoft-365-or-microsoft-azure-activation.md)
+    * [Granting access to the Client Portal for a single Azure subscription](set-up/cloud-tenant-setup/azure-onboarding/granting-access-to-the-client-portal-for-a-single-azure-subscription.md)
+    * [Granting access to the Client Portal using Azure Management Groups](set-up/cloud-tenant-setup/azure-onboarding/granting-access-to-the-client-portal-using-azure-management-groups.md)
 * [Custom Groups](set-up/custom-groups/README.md)
   * [Overview](set-up/custom-groups/overview.md)
   * [Working with custom groups](set-up/custom-groups/working-with-custom-groups.md)

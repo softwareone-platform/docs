@@ -1,4 +1,4 @@
-# Cloud cost optimization
+# Cloud Cost Optimization
 
 Cloud Cost Optimization is a capability within PyraCloud that allows organizations to deliver optimization to their cloud infrastructure, and deliver savings through various strategies that form a part of the framework.
 
@@ -13,9 +13,9 @@ Cloud Cost Optimization is a capability within PyraCloud that allows organizatio
 
 ### Accessing Cloud Cost Optimization <a href="#accessing-cloud-cost-optimization" id="accessing-cloud-cost-optimization"></a>
 
-***
+**To access Cloud Cost Optimization**
 
-The Cloud Cost Optimization solution can be accessed through the menu item under Services -> Cloud Cost Optimization on the left navigation bar.
+* From the main menu, navigate to **Services** and select **Cloud Cost Optimization**.
 
 ***
 
@@ -33,11 +33,9 @@ The Cloud Cost Optimization Overview page is broken down into two sections –
 
 1. Tabs – These summarize cost optimization opportunities for the different cloud environments you may have connected to PyraCloud
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/06/image-35-1024x659.png" alt=""><figcaption><p><strong>Fig 1a – Tabs Pane</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 1. The top pane summarizes savings through a pie chart and a few key metrics (see figure below).
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-26.png" alt="" height="327" width="673"><figcaption><p><strong>Figure 1a – Top pane on the Overview page</strong></p></figcaption></figure>
 
 The top pane summarizes the following metrics –
 
@@ -54,8 +52,6 @@ Calculations across the Cloud Cost Optimization system assume consumption data a
 #### **Overview Grid** <a href="#overview-grid" id="overview-grid"></a>
 
 2\. The bottom pane contains a grid that breaks down the savings achievable through each of the strategies (see figure below).
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-13-1024x441.png" alt="" height="441" width="1024"><figcaption><p><strong>Figure 2 – Bottom pane on the Overview page</strong></p></figcaption></figure>
 
 The Predicted Savings percentage in the grid for each strategy is a proportion of the cost for that strategy. Therefore this may be different to the percentage shown in the pie chat above (which shows it as a proportion of total savings).
 
@@ -77,13 +73,11 @@ The strategies in Cloud Cost Optimization are listed below. If you are looking f
 8. Azure Hybrid Benefit (Not available for AWS environments)
 9. Bring your own License
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-14-1024x449.png" alt="" height="449" width="1024"><figcaption><p><strong>Figure 3 – Strategy Page</strong></p></figcaption></figure>
-
 #### **Navigating to next strategy** <a href="#navigating-to-next-strategy" id="navigating-to-next-strategy"></a>
 
 One can navigate to the next strategy in sequence by clicking on the Next Strategy arrow to the top right of the page.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-15.png" alt="" height="134" width="578"><figcaption><p><strong>Figure 4 – Navigating to next strategy</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 #### **Marking a strategy as complete / Re-opening a strategy** <a href="#marking-a-strategy-as-complete-re-opening-a-strategy" id="marking-a-strategy-as-complete-re-opening-a-strategy"></a>
 
@@ -91,15 +85,13 @@ A strategy can be marked as complete only if all previous strategies are complet
 
 One can reopen a strategy, only if all strategies subsequent to it are open.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-16.png" alt="" height="109" width="548"><figcaption><p><strong>Figure 5 – Marking a strategy as complete</strong></p></figcaption></figure>
-
 #### **Key Metrics on Strategy pages** <a href="#key-metrics-on-strategy-pages" id="key-metrics-on-strategy-pages"></a>
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-17-1024x87.png" alt="" height="87" width="1024"><figcaption><p><strong>Figure 6 – Key metrics on Strategy pages</strong></p></figcaption></figure>
 
 **Showing for**
 
 This indicates the year selection that the rest of the metrics are based on. This can only be changed by the Cloud Cost Optimization Consultant. Please reach out to them if you want to change this.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Cost at point of optimization**
 
@@ -123,7 +115,7 @@ This is the amount of money you can save on the resources in the Impacted resour
 
 This tab shows you a list of the resources that are being recommended as a candidate for the specific strategy optimization in question. If you do not want to optimize the resource using the optimization recommend, one can dismiss the resource from the strategy. Dismissing the strategy will move the strategy into the Dismissed tab, and will not count the cost and savings from the resource towards that strategy.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-18-1024x324.png" alt="" height="324" width="1024"><figcaption><p><strong>Figure 7 – Impacted Resources tab</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 #### What if an impacted resource is no longer a candidate for a strategy ? <a href="#what-if-an-impacted-resource-is-no-longer-a-candidate-for-a-strategy" id="what-if-an-impacted-resource-is-no-longer-a-candidate-for-a-strategy"></a>
 
@@ -198,13 +190,13 @@ This strategy identifies resources that can be rehoused in a cheaper region, the
 
 Optimization recommendations for this strategy are dependent on selection of a region subset. This selection is done either by the customer or by the consultant.
 
-If the regions have not been selected by the consultant, then you may likely see this on the Cross-Region Optimization strategy page –
+If the regions have not been selected by the consultant, then you may likely see this on the Cross-Region Optimization strategy page&#x20;
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-19-1024x285.png" alt="" height="285" width="1024"><figcaption><p><strong>Figure 8 – Cross-Region Optimization Strategy page</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 In order to move forward, kindly select the regions by clicking on Edit, and select the regions and save changes.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-20-1024x103.png" alt="" height="69" width="688"><figcaption><p><strong>Figure 9 – Regions saved on Cross-Region Optimization</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 The Savings threshold is the minimum savings that needs to be achieved to make the resource viable for Cross-Region Optimization.
 
@@ -220,7 +212,7 @@ You can do this by navigating to Resource Details -> Edit as show below.
 
 Note that if a region is set at a resource level, then it will not be assigned a cheaper region automatically by the system.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-22-1024x182.png" alt="" height="182" width="1024"><figcaption><p><strong>Figure 10 – Resource level region configuration</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Strategy – Resource Automation <a href="#strategy-resource-automation" id="strategy-resource-automation"></a>
 
@@ -230,9 +222,9 @@ Resource uptime is defaulted to 24 hours a day, 7 days a week. This setting can 
 
 #### Resource Level Uptime Configuration for Resource Automation <a href="#resource-level-uptime-configuration-for-resource-automation" id="resource-level-uptime-configuration-for-resource-automation"></a>
 
-An uptime window can be configured on resource level using Resource Details -> Edit, as shown below.
+An uptime window can be configured on resource level using Resource Details > Edit, as shown below.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-23-1024x158.png" alt="" height="158" width="1024"><figcaption><p><strong>Figure 11- Resource level Uptime configuration</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Strategy – Reserved Instances <a href="#strategy-reserved-instances" id="strategy-reserved-instances"></a>
 
@@ -244,7 +236,7 @@ Reserved Instance term is defaulted to 1 year for every resource.
 
 Reserved Instance term can be configured on resource level using Resource Details -> Edit, as shown below.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/11/image-24-1024x157.png" alt="" height="157" width="1024"><figcaption><p><strong>Figure 12 – Resource level configuration for Reserved Instances</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Strategy – Azure Hybrid Benefit <a href="#strategy-azure-hybrid-benefit" id="strategy-azure-hybrid-benefit"></a>
 

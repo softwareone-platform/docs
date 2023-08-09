@@ -12,7 +12,7 @@ Maintaining a consistent tag structure allows you to aggregate resource informat
 
 The following image shows an inconsistent tag structure:
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you can see from the three examples above, the administrators managing the different cloud platforms and subscriptions had the same intent, but did their tagging differently.
 
@@ -20,7 +20,7 @@ This would make aggregating information within each platform or outside each pla
 
 Here is an example of how PyraCloud solves the problem:
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 Throughout the rest of this article, we will show you how to use Tags and Resources to drive a consistent standard within your business.
 
@@ -33,7 +33,7 @@ Throughout the rest of this article, we will show you how to use Tags and Resour
 
 Alternatively, you can view your stats using the Resource Manager tile. These stats are pulled from Tags and Resources. Selecting this tile will direct you to Resources.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="327"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt="" width="327"><figcaption></figcaption></figure>
 
 The tile displays three sets of information:
 

@@ -26,7 +26,7 @@ In addition to requesting prices for non-catalog products, you can create a spec
 
 
 
-    <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5. Select **Add Product** if you want to request additional products.
 6. Select **Submit**. A confirmation message containing the document number is displayed.
 7. Choose **Yes** if you want to receive an email confirmation of your special quote.

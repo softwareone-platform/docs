@@ -22,7 +22,7 @@ PyraCloud uses this impersonation to perform actions on behalf of the consenting
 
 ***
 
-### What are the security implications of activating my tenant in PyraCloud? <a href="#what-are-the-security-implications-of-activating-my-tenant-in-pyracloud" id="what-are-the-security-implications-of-activating-my-tenant-in-pyracloud"></a>
+### What are the security implications of activating my tenant in the Client Portal? <a href="#what-are-the-security-implications-of-activating-my-tenant-in-pyracloud" id="what-are-the-security-implications-of-activating-my-tenant-in-pyracloud"></a>
 
 When the consent process is performed, a “service principal” is created in your tenant. This is conceptually similar to adding a user dedicated to PyraCloud for the purposes of accessing your tenant and subscriptions.
 
