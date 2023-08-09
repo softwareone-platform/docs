@@ -10,7 +10,7 @@ description: Follow this topic to add your EA or MPSA cloud account to the Clien
 
 Before adding an account, make sure that you have the following details:
 
-* **Account Information**: You must have the tenant ID or domain name of the tenant that contains your Azure or Office 365 subscriptions. The tenant ID and domain name are available in your Azure account. For information on how to find these details, see Locating your tenant ID or domain.
+* **Account Information**: You must have the tenant ID or domain name of the tenant that contains your Azure or Office 365 subscriptions. The tenant ID and domain name are available in your Azure account. For information on how to find these details, see [Find IDs and domain names](https://learn.microsoft.com/en-us/partner-center/find-ids-and-domain-names) in the Microsoft documentation.
 * **Permissions**: You must have sufficient permissions to complete the onboarding process. The setup will fail if the permissions are not configured in the [Microsoft Azure Portal](https://portal.azure.com/).
   * For an Azure account, you must have owner permission for the subscription you want to add.
   * For an Office 365 account, you must be a Global Administrator of the tenant that contains the subscriptions.
@@ -41,23 +41,19 @@ After activating your tenant, you can add subscriptions and allow the Client Por
 
 ***
 
+### Generating an EA access token <a href="#generating-your-ea-access-token" id="generating-your-ea-access-token"></a>
+
+Access tokens are generated through the Microsoft Azure Portal. For information on how to generate a token, see [How to generate an Azure EA access token](../../../help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md).
+
+***
+
 ### Adding an access token <a href="#add-an-access-token" id="add-an-access-token"></a>
 
-**To add an access token**
+**To add your access token to the Client Portal**
 
 1. On the Cloud Tenant Setup page, select **Manage** next to the tenant and select the **Access Tokens** tab.&#x20;
 2. Select **Add Access Token**.
 3. In **Add Access Token**, provide your new access token and select **Save**.
-
-***
-
-### Deleting an access token <a href="#delete-an-access-token" id="delete-an-access-token"></a>
-
-**To delete an access token**
-
-1. On the Cloud Tenant Setup page, expand the tenant and select **Access Tokens** tab.&#x20;
-2. Select **Delete** next to the access token you wish to remove.
-3. Select **Delete** to confirm deletion.
 
 ***
 
@@ -101,13 +97,7 @@ After granting consent, you'll be redirected to the Client Portal where you can 
 
 ***
 
-### Generating your EA access token <a href="#generating-your-ea-access-token" id="generating-your-ea-access-token"></a>
-
-Access tokens are generated through the Microsoft Azure Portal. For information on how to generate a token, see [How to generate an access token](../../../help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md).&#x20;
-
-***
-
-### Activating Azure Microsoft Customer Agreement (MCA) <a href="#activating-azure-microsoft-customer-agreement-mca" id="activating-azure-microsoft-customer-agreement-mca"></a>
+## Activating Azure Microsoft Customer Agreement (MCA) <a href="#activating-azure-microsoft-customer-agreement-mca" id="activating-azure-microsoft-customer-agreement-mca"></a>
 
 The Client Portal supports both legacy EA and modern [MCA ](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview)models. Before reading further please make sure you have followed [Activating your account](https://app.gitbook.com/o/sGLRSSUGgFSfUhFIYij8/s/B8rr5E9BB4HBPts7pBng/\~/changes/16/set-up/azure-onboarding/activating-your-ea-or-mpsa-account#activating-your-account).
 
@@ -140,26 +130,5 @@ The Client Portal supports both legacy EA and modern [MCA ](https://learn.micros
 6. Save your changes.&#x20;
 
 After you save your changes, it takes approximately 24 hours for the MCA billing data to synchronize with the Client Portal.
-
-***
-
-### Locating your tenant ID or tenant Domain <a href="#locating-your-tenant-id-or-tenant-domain" id="locating-your-tenant-id-or-tenant-domain"></a>
-
-To locate your Tenant ID or Tenant Domain, please follow the steps below:
-
-1.  Launch the [Azure Portal](https://portal.azure.com). In the left navigation bar, select **Azure Active Directory**.&#x20;
-
-    * If you cannot view **Azure Active Directory**, select **All Services** at the top-left, and locate the Azure Active Directory item under **Security + Identity**.
-
-
-
-    <figure><img src="../../../.gitbook/assets/image (83) (1).png" alt=""><figcaption></figcaption></figure>
-2. In **Azure Active Directory**, select **Properties**. Your Tenant ID is displayed in the **Directory ID** field. Copy or make a note of this ID for later use.
-
-<figure><img src="../../../.gitbook/assets/image (84) (1).png" alt=""><figcaption></figcaption></figure>
-
-3. In **Azure Active Directory**, select **Custom domain names**. Your domains are shown in a list. The required domain is the one marked primary. Copy or make a note of this for later use.
-
-<figure><img src="../../../.gitbook/assets/image (85) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
