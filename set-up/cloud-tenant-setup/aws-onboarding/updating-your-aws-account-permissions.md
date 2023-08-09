@@ -42,20 +42,20 @@ description: >-
 
 7.  On the Configure stack options page, leave all values as they are. Select **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (86) (1).png" alt=""><figcaption></figcaption></figure>
 8. On the Review PyraCloud-Onboarding page, do the following:
    1. Review the changes that will be made to the stack.
    2. Select the **I acknowledge that AWS CloudFormation might create IAM resources with custom names** checkbox.
    3.  Select **Update Stack**.
 
-       <figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/image (87) (1).png" alt=""><figcaption></figcaption></figure>
 9.  Refresh the page until the stack moves from `UPDATE_IN_PROGRESS` status to `UPDATE_COMPLETE`.
 
-    <figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (88) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (89) (1).png" alt=""><figcaption></figcaption></figure>
 
 After the update process is completed, it might take up to 24 hours for your AWS Account to become healthy.
 
@@ -68,22 +68,22 @@ The following permissions are required to view the AWS Recommendations from AWS 
 * support:\*
 * trustedadvisor:Describe\*
 
-Follow [Updating permissions](https://docs.client.softwareone.com/\~/changes/ubJ3Ze8RzZJIWDI83Rkn/set-up/update-your-aws-account-permissions#updating-the-permissions) to re-onboard your AWS account with these permissions.
+Follow the Updating permissions section to re-onboard your AWS account with these permissions.
 
 ***
 
-### Update read and write-back permissions for AWS resources <a href="#update-read-and-write-back-permissions-for-aws-resources" id="update-read-and-write-back-permissions-for-aws-resources"></a>
+### Updating read and write-back permissions for AWS resources <a href="#update-read-and-write-back-permissions-for-aws-resources" id="update-read-and-write-back-permissions-for-aws-resources"></a>
 
-If you're unable to read resources, that is, you are missing read permissions for AWS resources, follow the [Updating permissions](https://docs.client.softwareone.com/\~/changes/ubJ3Ze8RzZJIWDI83Rkn/set-up/update-your-aws-account-permissions#updating-the-permissions) section.
+If you're unable to read resources, that is, you are missing read permissions for AWS resources, follow the Updating permissions section.
 
 If you're unable to tag resources, that is, you are missing write-back permissions for AWS resources), follow these steps:
 
 1.  Navigate to IAM within the AWS portal and locate `PyraCloudRole`**.**
 
-    <figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (90) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Navigate to the details of the role and ensure that `ReadWritePolicy` is attached.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (91) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   If the role is not attached, select **Attach policies**. Type **PyraCloudReadWrite** policy in the search box and then select the checkbox and select **Attach policy**.
 

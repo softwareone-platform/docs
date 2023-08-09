@@ -38,7 +38,7 @@ You can access the dashboards from the main menu.
 
 You can create a new dashboard, customize an existing dashboard, or remove a dashboard. Customized dashboards are displayed in **Choose a template** menu:
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 **To create a new dashboard**
 

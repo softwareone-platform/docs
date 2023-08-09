@@ -39,7 +39,7 @@ You can use the Settings page to opt in or opt out of notifications. You can als
    * To receive notifications by phone, select **Add phone number** and then provide the validation code, which will be sent to your phone.&#x20;
    * Expand the feature for which you want to update the settings and make changes as necessary.&#x20;
 
-You'll receive notifications in accordance with your updated settings. If you face issues, see  [I'm having issues with my notifications ](../../help-and-support/frequently-asked-questions/im-having-issues-with-my-notifications.md)for information on how to troubleshoot.&#x20;
+You'll receive notifications in accordance with your updated settings. If you face issues, see  [I'm having issues with my notifications ](../../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md)for information on how to troubleshoot.&#x20;
 
 {% hint style="info" %}
 **NOTE**: The web notifications are turned on by default and cannot be turned off.

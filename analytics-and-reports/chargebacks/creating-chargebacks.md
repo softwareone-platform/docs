@@ -92,7 +92,7 @@ On the Chargeback tab, you can see all chargeback invoices including specific de
 **NOTE:** This module supports Azure EA, Azure CSP, AWS, and O365.
 {% endhint %}
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-7-1024x449.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 #### Invoice Details <a href="#invoice-details" id="invoice-details"></a>
 
@@ -112,13 +112,13 @@ You can select any row to open a detailed view of the respective chargeback invo
 **Note:** Subgroups structure is only available using Custom Group split. It is not possible to display both group structure and Resource Types at the same time. It is possible to switch between Subgroups and Resource types in the Customize menu which can be found in the middle section of the document **Volume** column is hidden by default. It can be adjusted in the Customize menu.
 {% endhint %}
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-8-1024x848.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 **Software-as-a-Service Licenses**
 
 Office 365 licenses are classified by their assignment status. On the chargeback document, assigned licenses are visible as a “User” subline with resource count matching active users. On the other hand, unassigned licenses are gathered under the “License” subline with resource count matching the number of license types (like Office365 E3 or E5).
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/word-image-77.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 **Additional charges**
 
@@ -126,29 +126,29 @@ Additional charges represent new line items added by hand to the generated docum
 
 Functionality is available through the **Add Charge or Credit** button.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/word-image-78.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 Additional charges may be fixed or percentage-based. The percentage amount is calculated based on consumption data only, therefore other lines (e.g. markup) are not taken into consideration. Negative values are calculated as discounts. Additional charges can be removed with the **Delete** button.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/word-image-79.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 **Subgroups structure**
 
 Documents based on Custom Groups can display nested group sublines. The whole purpose of sublines is to add more transparency to the cost of the line item. It is an alternative to displaying top Resource Types.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-9-1024x439.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 Subgroups are organized in the tree structure. Visibility and depth of presented sublines can be selected in the Customize menu. Please note that the cost of the subline is not calculated into the total cost of the document. In other words, it provides justification for line costs.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-10-1024x610.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 The name of the given subgroup (and therefore line name) can be properly adjusted on the Settings page.
 
 **Notes**
 
-Generated documents often miss crucial information needed to justify the amount associated with line items. Moreover, documents often require appending internal tracking numbers. Notes address both of these needs and have the capability to store text and append it to generated PDF. The field is accessible near the top of the document.
+Generated documents often miss crucial information needed to justify the amount associated with line items. Moreover, documents often require appending internal tracking numbers. Notes address both of these needs and have the capability to store text and append it to the generated PDF. The field is accessible near the top of the document.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 **Versions**
 
@@ -156,7 +156,7 @@ Chargeback documents are “read-only” after being sent. Further edits of sent
 
 Previous versions are accessible through the panel on the right side of the document. Previous versions cannot be changed or deleted.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-12-1024x622.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 **Actions and Activity Panel**
 
@@ -168,15 +168,13 @@ The Chargebacks page has an “Actions” panel on the right side, which will al
 * Delete Chargeback. The document is permanently removed from the system.
 * Activity – Send the document to the recipient. After sending the document, the status is changed to **Sent**.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-13-1024x622.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Note:** Delete Chargeback option is only available for users with an “Admin Access Level”. In most cases, it is the owner of the chargeback invoice i.e. the user who has generated the invoice. Analyze Spend Report is a drop-down wherein users can select the required providers. This will redirect users to the PyraCloud Consumption Module for the selected provider.
+**NOTE:** Delete Chargeback option is only available for users with an “Admin Access Level”. In most cases, it is the owner of the chargeback invoice i.e. the user who has generated the invoice. Analyze Spend Report is a drop-down wherein users can select the required providers. This will redirect users to the PyraCloud Consumption Module for the selected provider.
 {% endhint %}
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-14-1024x351.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 **Document delivery**
 
@@ -192,13 +190,13 @@ The links to the detailed files expire after 5 days from the time the message is
 
 Select A**dd New Chargebacks.** This will open the New Chargebacks page. There is an intro paragraph explaining what chargebacks are that can be hidden by clicking on the \[x].
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-15-1024x286.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 #### Providers <a href="#providers" id="providers"></a>
 
 The first section is “Providers”. This represents a list of all available and supported provider groups.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-17-1024x533.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 Admins need to select all of the providers they want to create chargeback invoices for. By selecting a provider, the system fetches consumption data for every tenant that is enabled under that provider.
 
@@ -215,7 +213,7 @@ The “Date Range” section allows Admin to narrow down the date range of consu
 * Usage Dates – described with start/end dates
 * Billing Period – list of periods connected to bill cycles
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-18-1024x518.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 Once the date range has been selected, click on “Done” to navigate to the next section “Create”.
 
@@ -232,7 +230,7 @@ Newly selected consumption spend (by selecting providers and date range) may be 
 
 The Custom Groups section shows group structure as defined in PyraCloud Custom Groups. This allows Admins to select departments/groups they would like chargebacks for.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-19-1024x809.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 Selecting each group allows Admins to split chargeback invoices for selected groups. If none of the groups are selected, one global chargeback invoice is created for complete consumption of selected providers.
 
@@ -242,7 +240,7 @@ Click on “Done” to navigate to the next section “Review Chargeback”
 
 **Note:** Invoice will be created for first selected group. Lines will correspond to closest selected groups under document group. Consumption will show only for selected groups in the invoice.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 **Split by Tenants & Subscriptions**
 
@@ -250,7 +248,7 @@ Tenants & Subscriptions are the foundation of the Consumption module. Chargeback
 
 **Note:** Document/line options can be set on Settings page. Scheduled generation is supported. Please consult Original Document subsection in Reporting section.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-21-1024x564.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 #### Review Chargeback <a href="#review-chargeback" id="review-chargeback"></a>
 
@@ -260,7 +258,7 @@ Review Chargeback is the last section that summarizes the selections Admin user 
 * Admins can edit the Bill To details
 * Admins can change the name of the document i.e. chargeback invoice – This allows users to name the invoice appropriately within the organization
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-22-1024x339.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 Selecting “Preview” will open a preview of the invoice so that Admins can see how it will be displayed on chargeback tab.
 
@@ -268,21 +266,21 @@ Selecting “Preview” will open a preview of the invoice so that Admins can se
 
 Selecting “Edit Bill To” will allow Admin to edit the Bill-To details if required. Admins can change the address and contact details for the chargeback.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-23.png" alt="" height="394" width="475"><figcaption><p><strong>Figure 22 – Edit Bill-To Details</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 #### Create Chargebacks <a href="#create-chargebacks" id="create-chargebacks"></a>
 
 Once all the selections are made and the preview looks good, Admins can go ahead and create the chargeback documents by clicking on “Finish & Create \[n] Chargebacks” (where \[n] is the number of Chargebacks as shown below
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-24-1024x331.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
-Admins will be taken to the “Chargeback” page where they can see the invoices being generated. This is shown in the right hand “Status” column as “Generating”.
+Admins will be taken to the “Chargeback” page where they can see the invoices being generated. This is shown in the right-hand “Status” column as “Generating”.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-25-1024x383.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 Once the invoices are ready, the status will be changed to “Generated”.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-26-1024x423.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 ### Settings <a href="#settings" id="settings"></a>
 
@@ -333,11 +331,7 @@ Scheduled reports enable periodic reporting with automatic delivery capabilities
 
 Reports are gathered under the **Scheduled** Tab.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-34-1024x335.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 **New Scheduled Report**
 
@@ -345,8 +339,4 @@ Reports are gathered under the **Scheduled** Tab.
 
 * Select **Add New Schedule** in the top right corner of the Chargebacks page. This will open the Schedule Report page where you can follow the steps and fill in the required information for your report.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/10/image-35-1024x316.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>

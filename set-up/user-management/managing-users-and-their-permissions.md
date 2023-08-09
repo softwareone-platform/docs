@@ -53,7 +53,7 @@ You can edit the permissions and the security settings for a user. &#x20;
 
 1\. Select **Edit User** to change the security settings.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2022/09/User-Management-v1_05-Edit-User-1024x466.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 2. Edit the permissions and the security settings. You cannot edit the name and email address.
 3. Select **Save Changes.**&#x20;
@@ -83,19 +83,19 @@ User Management provides extensive capabilities to define user data access for S
 
 Users can limit access by choosing the **Spend Management Access** tab.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-180-1024x547.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Providing full access
 
-Select **Full Access** to give users full access to all Spend Management data.
+Select **Full Access** to give users full access to all the spend management data.
 
 {% hint style="info" %}
 **Note:** By default, each user has full access.
 {% endhint %}
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-181-1024x547.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -103,19 +103,19 @@ Select **Full Access** to give users full access to all Spend Management data.
 
 Choose **Accounts** to use existing Providers and Subscriptions to configure access. Select **Next** to define the access.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-185-1024x495.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 Choose whether the user will be able to access the following data:
 
-* Any Account out of existing Providers
-* Selected Cloud Accounts (Tenants)
-* Selected Subscriptions
+* Any account out of existing the providers
+* Selected cloud accounts (Tenants)
+* Selected subscriptions
 
 {% hint style="info" %}
-**Note**: Defining access on the Provider level gives access to all Accounts and Subscriptions including those added in the future. Users will get access to new entities automatically. The same rule applies for defining access on the Account (Tenant) level.
+**NOTE**: Defining access at the Provider level gives access to all Accounts and Subscriptions including those added in the future. Users will get access to new entities automatically. The same rule applies for defining access on the Account (Tenant) level.
 {% endhint %}
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-184-1024x650.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 Save your changes in order to make the changes effective.
 
@@ -125,23 +125,15 @@ Save your changes in order to make the changes effective.
 
 1. Choose **Custom Groups** to give users access only to selected groups. Select **Next**.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-186-1024x503.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 2. Choose the groups the user can access. Selecting a group (or a branch) will allow the user to see all resources assigned to that group, and all cloud spend data related to those resources.
 
 {% hint style="info" %}
-**Note:** Giving access to a parent group will allow the user to access the parent and all its children groups.
+**NOTE:** Giving access to a parent group will allow the user to access the parent and all its children groups.
 {% endhint %}
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/07/word-image-11.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 3. Select **Save**.
 
@@ -153,11 +145,7 @@ Choose the **Procurement** tab to open the current user Procurement settings.&#x
 
 You will see all the countries where the user can procure. Choose a country to see and manage permissions. You must own sufficient privileges to edit the permissions (some of them may appear read-only). The privileges may be different depending on the country.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-188-1024x774.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -169,11 +157,7 @@ You can request for these users to be configured. First, choose the **Procuremen
 
 The Procurement Request form will be displayed. Fill in the information and confirm by clicking the "Request Procurement" option. The request will be processed by a SoftwareOne sales representative.
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/10/image-43-671x1024.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../../.gitbook/assets/image (48).png" alt="" width="336"><figcaption></figcaption></figure>
 
 ***
 
@@ -181,7 +165,7 @@ The Procurement Request form will be displayed. Fill in the information and conf
 
 You can manage user access to folders existing in the Collaboration Site. Select the **Collaboration Site** tab on the user details page.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/10/image-189-1024x365.png" alt="" height="238" width="668"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 Selected folder access configuration will be immediately reflected in the Collaboration Site.
 
@@ -189,15 +173,12 @@ Selected folder access configuration will be immediately reflected in the Collab
 
 ### Disabling user access
 
+After you disable a user, they will no longer be able to sign in to the portal.
+
 **To disable access**
 
 1. Select the **Disable User** option. A confirmation message is displayed.&#x20;
 2. Select **Disable** to confirm the action.
 
-After you disable a user, they will no longer be able to sign in.&#x20;
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
-<div align="left">
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2022/09/User-Management-v1_13-Disable-User-1024x474.png" alt=""><figcaption></figcaption></figure>
-
-</div>

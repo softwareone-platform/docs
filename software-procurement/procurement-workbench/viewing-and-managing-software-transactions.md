@@ -27,7 +27,7 @@ layout:
 
 The Procurement Workbench page contains various sections.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Transaction Status and Actions
 

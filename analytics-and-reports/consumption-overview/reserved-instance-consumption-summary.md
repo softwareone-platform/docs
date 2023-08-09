@@ -14,7 +14,7 @@ With PyraCloud you can easily perform tasks related to managing cloud reservatio
 
 PyraCloud gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our Spend Management Reporting feature and it is available here. We enable reporting automatically when our system detects an RI purchase.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2022/09/image-1024x364.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 1. Recent average of your reservation utilization – you can check if there is any degradation in usage. If the average utilization is going down – resources that were utilizing RIs were likely deallocated.
 2. PyraCloud keeps track of your historical purchases so you can compare values at any time. For monitoring purposes look at “Active” status only.
@@ -24,7 +24,7 @@ PyraCloud gives you a central view to quickly check your reservation's health, a
 
 PyraCloud transforms billing data in a way that allows you to effortlessly explore resources utilizing your RI at a given point in time.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/01/reservation_details-1024x888.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 1. Reservation details are exposed by the cloud provider.
 2. The Amortized View groups data by resource, so you can see which resources are using this Reserved Instance. You can “drill down” to a selected month to see daily distribution.
@@ -34,9 +34,9 @@ You will notice **Reservation Unused Cost** in the chart legend, which informs y
 \
 You should keep this bar as low as possible (because of the delay in receiving data from cloud providers in the last 2 days you might see unused cost which is not accurate).
 
-3. In the Utilization tab, you can monitor daily utilization of your reservation.
+3. In the Utilization tab, you can monitor the daily utilization of your reservation.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/01/reservation_utilization-1024x520.png" alt=""><figcaption><p>Reservation Daily utilization</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +48,7 @@ The lifetime of a resource is determined by the term, once expired resources wil
 
 #### Predictions <a href="#predictions" id="predictions"></a>
 
-We have incorporated RI metadata into our prediction engine. We assume that an RI will be renewed (if you don’t cancel it) so you may see “Purchase” spikes in your predictions, if enabled.
+We have incorporated RI metadata into our prediction engine. We assume that an RI will be renewed (if you don’t cancel it) so you may see “Purchase” spikes in your predictions if enabled.
 
 Additionally, monthly reservations will return predictions for every consecutive month.
 
@@ -60,7 +60,9 @@ We value your time, so we automatically created notifications for all your RI’
 
 If you want to receive an email or SMS, be sure to verify your subscription in the Consumption Section (1) of the Notification Hub.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/01/reservation_notification-1024x167.png" alt=""><figcaption><p>Notification rules configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
@@ -83,7 +85,7 @@ Important:
 
 To register for the Enterprise Application, use the following link: [Perform Consent](https://login.microsoftonline.com/common/oauth2/authorize?response\_type=code\&client\_id=2a4807a4-d9e4-457d-b32f-a455e0d3662a\&prompt=consent\&redirect\_uri=https://www.softwareone.com/)
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/08/image-11.png" alt="" height="575" width="437"><figcaption><p>Click accept after reviewing permissions</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 **Confirm the Enterprise Application Exists**
 
@@ -91,7 +93,7 @@ To confirm the “PyraCloud (Azure)” Enterprise Application exists, sign in to
 
 The “PyraCloud (Azure)” application should be visible in the list. If it is not visible, try searching for “pyra”.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2021/08/image-12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 **Assign IAM Roles to the “PyraCloud (Azure)” Enterprise Application**
 

@@ -43,6 +43,8 @@ Once you have finished the Add-on detail page step, select **Next** and check yo
 
 Once you have checked the order summary, select the consent checkbox and click on **Order Subscription**. A confirmation message will be displayed.
 
+***
+
 \
 
 

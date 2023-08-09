@@ -6,19 +6,19 @@ description: >-
 
 # Overview
 
-Custom Groups allow you to define an organizational hierarchy (for reporting, budgeting, etc.) and govern cloud environments (resources running on Azure, AWS, and Office365 licenses).
+Custom Groups allow you to define an organizational hierarchy (for reporting and budgeting) and govern cloud environments (resources running on Azure, AWS, and Office365 licenses).
 
-With Custom Groups, you can build a hierarchical structure based on custom-defined dimensions, for example, departments, teams, or projects) and subsequently, map resources.
+With Custom Groups, you can build a hierarchical structure based on custom-defined dimensions, for example, departments, teams, or projects, and map resources.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/word-image-32.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Using custom groups <a href="#using-custom-groups" id="using-custom-groups"></a>
 
-To keep the organizational assignments of a resource (tag) consistent with the tagging on the cloud provider environment, Custom Groups interfaces with the Tags and Resources. This allows users to ensure data consistency within PyraCloud and within the cloud environments of Azure and AWS.
+To keep the organizational assignments of a resource (tag) consistent with the tagging on the cloud provider environment, Custom Groups interfaces with the Tags and Resources. This allows you to ensure data consistency within PyraCloud and within the cloud environments of Azure and AWS.
 
-The built-in functionalities across Custom Groups and Resources allow users to decide how to handle those tag assignments (lock, allow overwrite, etc.) and are included as a framework that can be configured according to your individual requirements.
+The built-in functionalities across Custom Groups and Resources allow users to decide how to handle those tag assignments (lock, allow overwrite, and so on) and are included as a framework that can be configured according to your individual requirements.
 
 ***
 
@@ -77,7 +77,7 @@ This scenario represents organizations that are:
 
 In this case, the recommendation is to define two dimensions:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/word-image-34.png" alt="" height="197" width="371"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (88).png" alt="" width="365"><figcaption></figcaption></figure>
 
 #### **Example II: Enterprise Customer Scenario**
 
@@ -87,9 +87,9 @@ This scenario represents organizations that are:
 * Requires support for M\&A
 * Multi-country
 * Fragmented department structure
-* Organization changes throughout the year
+*   Organization changes throughout the year
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/word-image-35.png" alt="" height="289" width="378"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (89).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### **Example III: Service-Based Scenario**
 
@@ -102,7 +102,7 @@ This scenario represents organizations that are:
 
 The recommendation is to define 3 dimensions:
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/word-image-36.png" alt="" height="364" width="299"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (90).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 

@@ -20,7 +20,7 @@ The Tag Contributor and Reader roles allow PyraCloud to read a list of all the r
 
 **To grant consent**
 
-1. Select one of the following links:
+1. Select one of the following links for granting consent:
    * [Azure](https://login.microsoftonline.com/common/oauth2/authorize?response\_type=code\&client\_id=2a4807a4-d9e4-457d-b32f-a455e0d3662a\&prompt=consent\&redirect\_uri=https://www.softwareone.com/)
    * [Office365](https://login.microsoftonline.com/common/oauth2/authorize?response\_type=code\&client\_id=3f18953a-acbf-48cf-b485-06e451411aef\&prompt=consent\&redirect\_uri=https://www.softwareone.com/)
 

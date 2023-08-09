@@ -70,8 +70,8 @@
   * [Creating budgets](analytics-and-reports/budgets/creating-budgets.md)
 * [Chargebacks](analytics-and-reports/chargebacks/README.md)
   * [Creating chargebacks](analytics-and-reports/chargebacks/creating-chargebacks.md)
-* [Consumtion Overview](analytics-and-reports/consumtion-overview/README.md)
-  * [Reserved Instance Consumption Summary](analytics-and-reports/consumtion-overview/reserved-instance-consumption-summary.md)
+* [Consumption Overview](analytics-and-reports/consumption-overview/README.md)
+  * [Reserved Instance Consumption Summary](analytics-and-reports/consumption-overview/reserved-instance-consumption-summary.md)
 * [Dashboards](analytics-and-reports/dashboards/README.md)
   * [Working with dashboards](analytics-and-reports/dashboards/working-with-dashboards.md)
 * [Enterprise Agreements](analytics-and-reports/enterprise-agreements/README.md)
@@ -97,7 +97,7 @@
 
 * [365 EA with Unified Support Dashboard](services/365-ea-with-unified-support-dashboard.md)
 * [Simple for AWS dashboard](services/simple-for-aws-dashboard.md)
-* [Cloud cost optimization](services/cloud-cost-optimization.md)
+* [Cloud Cost Optimization](services/cloud-cost-optimization.md)
 
 ## SPEND MANAGEMENT
 
@@ -107,17 +107,17 @@
 
 ## Help and Support
 
-* [Contacting support](help-and-support/contacting-support.md)
-* [Frequently asked questions](help-and-support/frequently-asked-questions/README.md)
-  * [How do I request pricing?](help-and-support/frequently-asked-questions/how-do-i-request-pricing.md)
-  * [How do I reset or change my password?](help-and-support/frequently-asked-questions/how-do-i-reset-or-change-my-password.md)
-  * [I'm having issues with my notifications](help-and-support/frequently-asked-questions/im-having-issues-with-my-notifications.md)
-  * [How can I configure the conditional access policies?](help-and-support/frequently-asked-questions/how-can-i-configure-the-conditional-access-policies.md)
+* [Contacting Support](help-and-support/contacting-support.md)
+* [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
+  * [How to change your currency](help-and-support/frequently-asked-questions/how-to-change-your-currency.md)
+  * [How to generate an access token](help-and-support/frequently-asked-questions/how-to-generate-an-access-token.md)
+  * [How to request pricing](help-and-support/frequently-asked-questions/how-to-request-pricing.md)
+  * [How to reset or change password](help-and-support/frequently-asked-questions/how-to-reset-or-change-password.md)
+  * [How to configure conditional access policies](help-and-support/frequently-asked-questions/how-to-configure-conditional-access-policies.md)
+  * [How to view available currencies](help-and-support/frequently-asked-questions/how-to-view-available-currencies.md)
+  * [I'm facing issues with notifications](help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md)
+  * [I have questons about access tokens and consent](help-and-support/frequently-asked-questions/i-have-questons-about-access-tokens-and-consent.md)
 
 ## Release Notes
 
-* [What's new in v1](release-notes/whats-new-in-v1.md)
-
-***
-
-* [Import](import.md)
+* [What's New in v1](release-notes/whats-new-in-v1.md)
