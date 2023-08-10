@@ -16,12 +16,12 @@ description: >-
 2. On the Cloud Subscriptions page, select **My Subscriptions**.
 3. On the My Subscriptions page, select **AzureSimple**. If you don't own AzureSimple subscriptions, this option will not be visible.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Select **Add Subscription**.
 5. On the **Add Subscription** page, provide a name for your subscription and internal details associated with your subscription.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Click **Add Subscription**.
 

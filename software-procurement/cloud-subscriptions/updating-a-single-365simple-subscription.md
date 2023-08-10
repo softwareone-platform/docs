@@ -18,7 +18,7 @@ description: >-
 4. Select the active or suspended subscription that you want to update.
 5. Edit the **License Quantity** or **Subscription Status**. You can also add your comments to the **Add a Note** field.
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Select **Update Subscription** to apply the adjustments to your subscription. The **Update Subscription** button is enabled after you accept the Terms of Use.
 

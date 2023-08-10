@@ -1,13 +1,13 @@
 # Cloud Cost Optimization
 
-Cloud Cost Optimization is a capability within PyraCloud that allows organizations to deliver optimization to their cloud infrastructure, and deliver savings through various strategies that form a part of the framework.
+The Cloud Cost Optimization module allows organizations to deliver optimization to their cloud infrastructure, and deliver savings through various strategies that form a part of the framework.
 
 * Studies show that organizations are wasting approximately 35-45% of their cloud spend. Areas of waste include over-provisioned or idle instances, abandoned cloud resources, and sub-optimal license assignment methodology. Customers do not maximize value in license assignments, and most do not have a process to check compliance.
 * SoftwareONE continuously follows the Azure pricing mechanisms to pinpoint ways that will allow for right-costing and right-sizing savings.\
 
   * **Right-costing** savings are those that allow you to optimize costs by leveraging commercial/licensing constructs
   * **Right-sizing** savings are those that allow you to optimize cost by changing the technical specifications of the resources that are running in the cloud environment
-* SoftwareONE’s Cloud Cost Optimization Service leverages our unique methodology to achieve the best of both right-costing and right-sizing optimization strategies.
+* SoftwareOne’s Cloud Cost Optimization Service leverages our unique methodology to achieve the best of both right-costing and right-sizing optimization strategies.
 
 ***
 
@@ -21,7 +21,7 @@ Cloud Cost Optimization is a capability within PyraCloud that allows organizatio
 
 ### Requirements for Cloud Cost Optimization <a href="#requirements-for-cloud-cost-optimization" id="requirements-for-cloud-cost-optimization"></a>
 
-The Cloud Cost Optimization solution requires all the permissions for the “Tag and Resource Manager” (look [here](https://help.pyracloud.com/knowledge-base/grant-access-to-pyracloud-for-a-single-azure-subscription/#what-are-the-security-implications)) and “Consumption” modules in Cloud Spend Management (look here).
+The Cloud Cost Optimization solution requires all the permissions for the “Tag and Resource Manager” and Consumption modules in Cloud Spend Management.
 
 #### Overview Page <a href="#overview-page" id="overview-page"></a>
 

@@ -40,7 +40,7 @@ After you grant consent, you'll be redirected to the Cloud Tenant Setup details 
 After activating your tenant, you can add subscriptions and allow the Client Portal to write tags back to your Azure resources.
 
 {% hint style="warning" %}
-For Azure Only: After adding your account, you must also add your EA access token.&#x20;
+For Azure Only: After adding your cloud account, you must also add your EA access token.&#x20;
 {% endhint %}
 
 ***

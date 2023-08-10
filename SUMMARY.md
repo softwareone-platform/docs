@@ -98,7 +98,7 @@
 
 ## SERVICES
 
-* [365 EA with Unified Support Dashboard](services/365-ea-with-unified-support-dashboard.md)
+* [365 EA with Unified Support dashboard](services/365-ea-with-unified-support-dashboard.md)
 * [Simple for AWS dashboard](services/simple-for-aws-dashboard.md)
 * [Cloud Cost Optimization](services/cloud-cost-optimization.md)
 
@@ -119,6 +119,7 @@
   * [How to generate a report of your overdue invoices](help-and-support/frequently-asked-questions/how-to-generate-a-report-of-your-overdue-invoices.md)
   * [How to generate an access token](help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md)
   * [How to request pricing](help-and-support/frequently-asked-questions/how-to-request-pricing.md)
+  * [How to sign in using Multi-factor Authentication (MFA)](help-and-support/frequently-asked-questions/how-to-sign-in-using-multi-factor-authentication-mfa.md)
   * [How to reset or change password](help-and-support/frequently-asked-questions/how-to-reset-or-change-password.md)
   * [How to turn off the Cost Explorer recommendations](help-and-support/frequently-asked-questions/how-to-turn-off-the-cost-explorer-recommendations.md)
   * [How to view your generated reports](help-and-support/frequently-asked-questions/how-to-view-your-generated-reports.md)
@@ -128,7 +129,9 @@
   * [I'm facing issues with notifications](help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md)
   * [I have questions about access tokens and consent](help-and-support/frequently-asked-questions/i-have-questions-about-access-tokens-and-consent.md)
   * [My Azure billing data isn't up to date](help-and-support/frequently-asked-questions/my-azure-billing-data-isnt-up-to-date.md)
+  * [My 365 Analytics report doesn't contain any data](help-and-support/frequently-asked-questions/my-365-analytics-report-doesnt-contain-any-data.md)
   * [What data do you collect for 365 Analytics?](help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md)
+  * [What has changed in the new 365 Analytics?](help-and-support/frequently-asked-questions/what-has-changed-in-the-new-365-analytics.md)
 
 ## Release Notes
 

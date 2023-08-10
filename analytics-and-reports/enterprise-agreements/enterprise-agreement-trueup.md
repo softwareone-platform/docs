@@ -16,7 +16,7 @@ Although organizations with EAs may place any number of orders throughout the ca
 
 It is important to note that the annual TrueUp applies only to products that organizations have already licensed under their current EA. New products and online services that are not in the current EA must be purchased in the month they are first used. If organizations have not increased device or user counts or used any additional EA products within the calendar year, they still need to submit an Update Statement (also called a zero-usage order), which must be signed by an authorized signatory within the organization.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### EA TrueUp module <a href="#pyracloud-ea-trueup-module" id="pyracloud-ea-trueup-module"></a>
 
@@ -85,7 +85,7 @@ Please refer to the “**Register New Agreement**” section for more informatio
 
 Once selected, click on “Next” button to move on to the next step – **Structure.**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2 – Structure <a href="#post-3370-_toc513023080" id="post-3370-_toc513023080"></a>
 
@@ -93,17 +93,17 @@ This is to define the structure of the agreement. From this step onwards, you ne
 
 This page **allows you to set tenants and products profiles** (as available in your CPS), however both of these fields are not mandatory, so you can have these disabled as shown in below screen shot:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Profiles**
 
 Typically profiles and tenants can be found as a subsection in CPS. Profiles can be found in both “SECTION 1. Licenses and Software Assurance” and “Future Pricing”. Please note that “Enterprise” subsection should not be treated as a profile and will be automatically added in the Wizard. Please inspect the below screenshot from a sample CPS with “Industry Device II” and “Manufacturing” profiles.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The screenshot below shows “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
@@ -115,11 +115,11 @@ Tenants represent the domain of subscription products. They can be found in “S
 
 If you want to add tenants or product profiles, you can enable these by clicking on the “switch buttons” as shown below. It is also possible to delete existing profiles and tenants.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you have inserted the details, click on the “Next” button to move on to next step i.e. **Reporting Location**.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE**: If you do not have tenant or product profile information in your price sheet, you do not need to add this information into the Wizard. Both of these are optional so you can simply click on next button to move on to Step 3.
@@ -147,7 +147,7 @@ Location form consist of:
 
 Once all the details are provided, **click on “Add”** button as shown in below snap shot:
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on the “Add” button would bring the reporting location record down and a new form would be available to add more locations.
 
@@ -155,11 +155,11 @@ You can also delete or edit already added reporting locations by using “Edit�
 
 You have to add at least one reporting location in order to proceed to next step.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When all the reporting locations are added, click on “Next” button to move on to next step i.e. **“License and Software Assurance”.**
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 4 – License and Software Assurance <a href="#post-3370-_toc513023082" id="post-3370-_toc513023082"></a>
 
@@ -167,7 +167,7 @@ The purpose of this step is to add License and Software Assurance details i.e. p
 
 Data required in this step can be found in CPS table under the header “Section 1 – License and Software Assurance” as shown below. Products for every year should be added (please inspect note regarding auto populate feature below).
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pricing information for all products across every year is required. However, due to the structure of agreements only data for the first year need to be added. Subsequent years are auto populated and only need to be adjusted in singular cases (please see note below).
 
@@ -177,7 +177,7 @@ Each year tab has a grid available with two main sections i.e. **“Enterprise P
 
 In case you have added any product profiles in Step 2, those would also be available under Enterprise Products section. Products with the same part number but different pricing can be added to multiple profiles.
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The order of columns in the Wizard and CPS is different. More importantly, “Part Number” of product is the first column and should be inserted before other data. This is due to the fact that “Product Description” and “License Type” are autofilled based on product part number. In case that part number can not be found and auto filled then data should be added manually.
 
@@ -185,7 +185,7 @@ After providing base product information the “Net Unit Price” and “License
 
 “Usage Country” field is optional. It may be used for review process after list is completed. Especially when “Total Year Payment” (seen at the bottom of the screen) in the Wizard does not match the corresponding value in CPS.
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Following the same process, you need to fill in all the products from CPS. You should see total payment for that year at the bottom of the screen and this amount should match with the total year payment on CPS for the corresponding year.
 
@@ -199,7 +199,7 @@ Fill in the details for each year and once done, click on” Next” to proceed 
 
 **Note:** In the screenshot below, details for a few of the products are inserted. However you still need to fill in the details for each product in the price sheet and under all relevant years.
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 5 – Subscriptions <a href="#post-3370-_toc513023083" id="post-3370-_toc513023083"></a>
 
@@ -207,7 +207,7 @@ This step lets you fill in details for subscriptions.
 
 Data required in this step can be found in CPS table under the header “Section 2 – Monthly Subscriptions” as shown below. There are a few columns in CPS that you do not have to take into consideration from now on: “Usage indicator”, “Usage Start Date” and “Unit of Measure”. Those columns should be omitted when inputting pricing information.
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 5 has a similar grid to Step 4, the only difference is the “Unit Quantity” field is added. “Unit Quantity” represents the number of months. It is set to 12 months by default, however it can be changed if required.
 
@@ -227,13 +227,13 @@ In this step, data inserted for Year 1 is copied for subsequent years. Please in
 
 Once completed, click on the “Next” button to move to the next step i.e. Future Pricing.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 6 – Future Pricing <a href="#post-3370-_toc513023084" id="post-3370-_toc513023084"></a>
 
 This step is to insert future pricing details which come from “Future Pricing” section of Customer Price Sheet. Rows in CPS represent products and columns with the right prices for the TrueUp process for that given year. The “Future Pricing” section in CPS looks similar to what is shown below:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 The “Future Pricing” section in CPS typically consist of multiple subsections such as “TrueUps”, “Higher Editions”, “Step-Ups”, “Future Monthly – Enterprise Online Services”, “Future Monthly – Enterprise Online Services”, etc.
 
@@ -257,7 +257,7 @@ The following products will be automatically added from previous steps:
 * All products of type UpgSA (Upgrade and Software Assurance Pack)
 * All subscriptions with prices
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 Number of years on Step 6 is equal to the number of years you have defined in Steps 4 and 5.
 
