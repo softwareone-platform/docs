@@ -53,7 +53,7 @@ The table displays the current reported products with their prices, item numbers
 
 If a column is highlighted in green, it indicates that it's the current active month. The **Open** status means that this report hasn't been transmitted yet.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 The **Deadline/Submit Date** is the delivery date by which the report must be submitted. The reporting window opens on the 28th of the reporting month and closes on the 10th of the following month. Orders must be placed during that time and for the given period. If this date is exceeded, it will be highlighted in red.
 

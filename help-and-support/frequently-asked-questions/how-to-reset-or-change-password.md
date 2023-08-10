@@ -1,5 +1,5 @@
 ---
-description: Learn how to reset or change your password.
+description: Follow these steps to reset or change your password.
 ---
 
 # How to reset or change password

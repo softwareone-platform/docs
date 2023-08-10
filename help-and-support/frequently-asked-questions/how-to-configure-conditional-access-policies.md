@@ -1,7 +1,7 @@
 ---
 description: >-
-  You can allow the Client Portal and SoftwareOne to access your Microsoft
-  tenant.
+  Follow these steps to allow the Client Portal and SoftwareOne to access your
+  Microsoft tenant.
 ---
 
 # How to configure conditional access policies
@@ -84,15 +84,15 @@ SoftwareOne cannot be held liable for damages caused by the misconfiguration of 
 
 6. Choose **Select**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7. Click **0 Azure AD organizations selected**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Enter the Tenant ID you obtained from our Support team, and then select the checkbox next to the SoftwareONE reseller tenant.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Click **Select** and then select **Save.**&#x20;
 

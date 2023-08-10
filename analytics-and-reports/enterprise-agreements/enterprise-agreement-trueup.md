@@ -103,7 +103,7 @@ Typically profiles and tenants can be found as a subsection in CPS. Profiles can
 
 The screenshot below shows “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
@@ -115,11 +115,11 @@ Tenants represent the domain of subscription products. They can be found in “S
 
 If you want to add tenants or product profiles, you can enable these by clicking on the “switch buttons” as shown below. It is also possible to delete existing profiles and tenants.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you have inserted the details, click on the “Next” button to move on to next step i.e. **Reporting Location**.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE**: If you do not have tenant or product profile information in your price sheet, you do not need to add this information into the Wizard. Both of these are optional so you can simply click on next button to move on to Step 3.
@@ -147,7 +147,7 @@ Location form consist of:
 
 Once all the details are provided, **click on “Add”** button as shown in below snap shot:
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clicking on the “Add” button would bring the reporting location record down and a new form would be available to add more locations.
 
@@ -155,11 +155,11 @@ You can also delete or edit already added reporting locations by using “Edit�
 
 You have to add at least one reporting location in order to proceed to next step.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 When all the reporting locations are added, click on “Next” button to move on to next step i.e. **“License and Software Assurance”.**
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 4 – License and Software Assurance <a href="#post-3370-_toc513023082" id="post-3370-_toc513023082"></a>
 
@@ -167,7 +167,7 @@ The purpose of this step is to add License and Software Assurance details i.e. p
 
 Data required in this step can be found in CPS table under the header “Section 1 – License and Software Assurance” as shown below. Products for every year should be added (please inspect note regarding auto populate feature below).
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pricing information for all products across every year is required. However, due to the structure of agreements only data for the first year need to be added. Subsequent years are auto populated and only need to be adjusted in singular cases (please see note below).
 
@@ -177,7 +177,7 @@ Each year tab has a grid available with two main sections i.e. **“Enterprise P
 
 In case you have added any product profiles in Step 2, those would also be available under Enterprise Products section. Products with the same part number but different pricing can be added to multiple profiles.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 The order of columns in the Wizard and CPS is different. More importantly, “Part Number” of product is the first column and should be inserted before other data. This is due to the fact that “Product Description” and “License Type” are autofilled based on product part number. In case that part number can not be found and auto filled then data should be added manually.
 
@@ -185,7 +185,7 @@ After providing base product information the “Net Unit Price” and “License
 
 “Usage Country” field is optional. It may be used for review process after list is completed. Especially when “Total Year Payment” (seen at the bottom of the screen) in the Wizard does not match the corresponding value in CPS.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Following the same process, you need to fill in all the products from CPS. You should see total payment for that year at the bottom of the screen and this amount should match with the total year payment on CPS for the corresponding year.
 
@@ -199,7 +199,7 @@ Fill in the details for each year and once done, click on” Next” to proceed 
 
 **Note:** In the screenshot below, details for a few of the products are inserted. However you still need to fill in the details for each product in the price sheet and under all relevant years.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 5 – Subscriptions <a href="#post-3370-_toc513023083" id="post-3370-_toc513023083"></a>
 
@@ -207,7 +207,7 @@ This step lets you fill in details for subscriptions.
 
 Data required in this step can be found in CPS table under the header “Section 2 – Monthly Subscriptions” as shown below. There are a few columns in CPS that you do not have to take into consideration from now on: “Usage indicator”, “Usage Start Date” and “Unit of Measure”. Those columns should be omitted when inputting pricing information.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 5 has a similar grid to Step 4, the only difference is the “Unit Quantity” field is added. “Unit Quantity” represents the number of months. It is set to 12 months by default, however it can be changed if required.
 

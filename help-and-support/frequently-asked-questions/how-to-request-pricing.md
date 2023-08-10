@@ -1,5 +1,7 @@
 ---
-description: You can request pricing for products that do not have the prices listed.
+description: >-
+  Follow these steps to request pricing for products that do not have the prices
+  listed.
 ---
 
 # How to request pricing

@@ -1,5 +1,7 @@
 ---
-description: View which currencies you can transact in and export the currency list.
+description: >-
+  Follow these steps to view the currencies you can transact in and export the
+  currency list.
 ---
 
 # How to view available currencies

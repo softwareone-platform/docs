@@ -1,5 +1,5 @@
 ---
-description: Learn how to turn off the cost explorer recommendations.
+description: Follow these steps to turn off the Cost Explorer recommendations.
 ---
 
 # How to turn off the Cost Explorer recommendations
