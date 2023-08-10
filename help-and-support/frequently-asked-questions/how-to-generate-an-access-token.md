@@ -1,4 +1,8 @@
-# How to generate an Azure EA access token
+---
+description: Lean how to generate an access key using the Azure Portal.
+---
+
+# How to generate an access token
 
 An access token, also known as an API Access Key, generated in the Azure Portal is required to allow the Client Portal to import cost and usage information for your Microsoft Azure subscriptions under an Enterprise Agreement (EA).
 

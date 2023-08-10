@@ -2,7 +2,7 @@
 description: Follow this topic to add your EA or MPSA cloud account to the Client Portal.
 ---
 
-# Adding Azure EA or MPSA account
+# Adding Azure Enterprise Agreement (EA) account
 
 ***
 
@@ -30,20 +30,20 @@ Before adding an account, make sure that you have the following details:
 5. Sign in to the Microsoft portal using the credentials of a user who has Owner permissions to the Azure subscriptions you wish to add to the Client Portal.
 
 {% hint style="info" %}
-**NOTE:** If you wish to add more Azure subscriptions owned by other users, you can do this later. For instructions, see [Adding more Azure Subscriptions](adding-azure-ea-or-mpsa-account.md#add-more-azure-subscriptions)_._
+**NOTE:** If you wish to add more Azure subscriptions owned by other users, you can do this later. For instructions, see [Adding more Azure Subscriptions](adding-azure-enterprise-agreement-ea-account.md#add-more-azure-subscriptions)_._
 {% endhint %}
 
 6. On the consent page, review the permissions required by the Client Portal and select **Accept** to grant consent.&#x20;
 
-You'll be redirected to the Cloud Tenant Setup page where you can view the new tenant and and its subscriptions. If the subscriptions are not immediately visible, wait a few minutes and refresh the page.
+&#x20;When you return to the Client Portal, you may see a blank screen for a few seconds. It means that your tenant is still being activated. For information, see [What happens after I grant consent?](../../../help-and-support/frequently-asked-questions/i-have-questions-about-access-tokens-and-consent.md#what-happens-when-i-perform-consent) section later in this document.
 
 After activating your tenant, you can add subscriptions and allow the Client Portal to write tags back to your Azure resources.
 
 ***
 
-### Generating an EA access token <a href="#generating-your-ea-access-token" id="generating-your-ea-access-token"></a>
+### Generating an access token <a href="#generating-your-ea-access-token" id="generating-your-ea-access-token"></a>
 
-Access tokens are generated through the Microsoft Azure Portal. For information on how to generate a token, see [How to generate an Azure EA access token](../../../help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md).
+Access tokens are generated through the Microsoft Azure Portal. For information on how to generate a token, see [How to generate an Azure EA access token](../../../help-and-support/frequently-asked-questions/how-to-generate-an-access-token.md).
 
 ***
 
