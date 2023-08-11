@@ -2,13 +2,21 @@
 description: You can create various types of reports using the Reports module.
 ---
 
-# Creating reports
+# About reports
 
 Using the Reports module, you can create single-run as well as recurring scheduled reports. You can also edit the existing Scheduled report configurations.&#x20;
 
+The Reports module supports the latest stable versions of the most popular browsers (desktop only), including Chrome, Edge, and Firefox. On-Page reporting (together with old reporting) is supported for Punchout users.
+
+***
+
+### Accessing reports
+
 Access to the Reports module depends on your user permissions and job role. In addition, each report type has its own specific permission. Reports are generated with their creators’ permission.
 
-The Reports module supports the latest stable versions of the most popular browsers (desktop only), including Chrome, Edge, and Firefox. On-Page reporting (together with old reporting) is supported for Punchout users.
+**To access your reports**
+
+* From the main menu, navigate to **Analyze** and select **Reports**.
 
 ***
 
@@ -16,10 +24,9 @@ The Reports module supports the latest stable versions of the most popular brows
 
 **To create a new report**
 
-1. From the main menu, navigate to **Analyze** and select **Reports**.
-2. Select **Create New Report**.
-3. Select the type and output format of the report. Available report types depend on your permissions. There are a large number of report types, which are grouped into business areas. To select a report type, first select **Group** and then **Type**.
-4. Choose the filters. Filters allow you to restrict the data that appear in a report (the date range for data can be set in the Date Range step). Available filters depend on the selected report type. Common filters:
+1. On the Reports page, select **Create New Report**.
+2. Select the type and output format of the report. Available report types depend on your permissions. There are a large number of report types, which are grouped into business areas. To select a report type, first select **Group** and then **Type**.
+3. Choose the filters. Filters allow you to restrict the data that appear in a report (the date range for data can be set in the Date Range step). Available filters depend on the selected report type. Common filters:
    * SoftwareOne Company: Allows you to restrict data in a report to only selected SoftwareOne companies. This is a multi-select field. If none are selected, then data for all SoftwareOne companies will be included.
    * Also include countries added in the future: When selected, any new countries added in the future will be automatically added to the report.
    * Companies: Allows you to restrict data in a report to selected companies. Users can select multiple companies. If none are selected, then data for all companies will be included.

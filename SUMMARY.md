@@ -22,8 +22,12 @@
 * [Custom Groups](set-up/custom-groups/README.md)
   * [Overview](set-up/custom-groups/overview.md)
   * [Working with custom groups](set-up/custom-groups/working-with-custom-groups.md)
+* [Collaboration Site](set-up/collaboration-site/README.md)
+  * [Collaboration Site](set-up/collaboration-site/collaboration-site.md)
 * [Notifications](set-up/notifications/README.md)
-  * [Managing notifications](set-up/notifications/managing-notifications.md)
+  * [About notifications](set-up/notifications/about-notifications.md)
+* [Pricelist Center](set-up/pricelist-center/README.md)
+  * [Pricelist Center](set-up/pricelist-center/pricelist-center.md)
 * [Purchase Approval Setup](set-up/purchase-approval-setup/README.md)
   * [Working with purchase approval groups](set-up/purchase-approval-setup/working-with-purchase-approval-groups.md)
 * [Tags and Resources](set-up/tags-and-resources/README.md)
@@ -82,7 +86,7 @@
 * [Recommendations](analytics-and-reports/recommendations/README.md)
   * [Working with Recommendations](analytics-and-reports/recommendations/working-with-recommendations.md)
 * [Reports](analytics-and-reports/reports/README.md)
-  * [Creating reports](analytics-and-reports/reports/creating-reports.md)
+  * [About reports](analytics-and-reports/reports/about-reports.md)
   * [Cloud Journey report](analytics-and-reports/reports/cloud-journey-report.md)
   * [Spend reports](analytics-and-reports/reports/spend-reports/README.md)
     * [Customized Spend reports](analytics-and-reports/reports/spend-reports/customized-spend-reports.md)
@@ -101,6 +105,7 @@
 * [365 EA with Unified Support dashboard](services/365-ea-with-unified-support-dashboard.md)
 * [Simple for AWS dashboard](services/simple-for-aws-dashboard.md)
 * [Cloud Cost Optimization](services/cloud-cost-optimization.md)
+* [Unified Support for MultiVendor](services/unified-support-for-multivendor.md)
 
 ## SPEND MANAGEMENT
 

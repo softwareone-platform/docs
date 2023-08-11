@@ -2,7 +2,7 @@
 description: Meet the new SoftwareOne Client Portal and learn what's new in this release.
 ---
 
-# What's new in v1
+# What's New in v1
 
 We’re excited to announce that we’ve rebranded PyraCloud to SoftwareOne Client Portal to align it with our global brand identity.
 
@@ -14,29 +14,39 @@ Our new Client Portal v1 includes the following changes:
 
 ### **Rebranding**
 
-As part of our branding updates, we’ve modified the **Login** page, header and footer, and in-app pages.&#x20;
+As part of our branding updates, we’ve modified the Login page, header and footer, and in-app pages.&#x20;
 
 The branding updates include changes to our logo, colors, fonts, and icons. These changes are made to provide you with a unified SoftwareOne brand experience.
+
+We’ve also updated our URL to [https://client.softwareone.com](https://client.softwareone.com). We believe that the new URL is more representative of our brand identity and the new experience that we are launching for our clients.
 
 ***
 
 ### **New Home page**
 
-We’ve redesigned the Home page to provide you quick access to different modules, platform news, and updates. The list of modules is displayed based on your access permissions.&#x20;
+Previously, after signing in to the portal, a predefined [dashboard](../analytics-and-reports/dashboards/) was displayed. The dashboard has now been moved under **Analyze** in the main menu.
 
-On the **Home** page, you can also view your account information, favorites, and a list of your recently viewed pages. For more information, see [Understanding the Home page](../).
+Now, when you sign in to the Client Portal, you'll see a new Home page that'll provide you quick access to different modules, platform news, and updates.&#x20;
+
+On the Home page, you can also view your account information, favorites, and a list of your recently viewed pages. For more information, see [Understanding the Home page](../).
 
 ***
 
-### **Navigation menu**
+### **Simplified navigation**
 
-Our new navigation menu simplifies the experience by allowing you to easily discover and launch a module. We’ve also reorganized the menu options and added descriptions to help provide more context.&#x20;
+#### Navigation menu
+
+Our new menu simplifies the experience by allowing you to easily discover and launch a module. We’ve also reorganized the menu options and added descriptions to help provide more context.&#x20;
 
 Other changes include:
 
 * The **Favorites** and **Recently viewed** quick links are added to the navigation menu for easy access.
 * The **Buy** module is renamed to **Marketplace** to make it more relevant.
-* A new **Help** module has been added. This module contains links to our online documentation, support resources, and platform updates.
+* A new **Help** module has been added to the menu. This module contains links to our online documentation, support resources, and platform updates.
+
+#### Search bar and shortcut icons
+
+We've removed the Search bar and the icons for the shopping cart, [Reports](../analytics-and-reports/reports/about-reports.md), and [Notifications](../set-up/notifications/about-notifications.md) from the header. You can now access these pages directly from the navigation menu.
 
 ***
 

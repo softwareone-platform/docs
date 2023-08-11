@@ -13,4 +13,4 @@ The reports summarize your company's purchasing interactions on the platform. Th
 1. From the main menu, navigate to **Analyze** and select **Reports.**
 2. Select **Scheduled** to view any reports you have scheduled or **History** to manage your reports.&#x20;
 
-For more information on reports, see [Creating reports](../../analytics-and-reports/reports/creating-reports.md).
+For more information on reports, see [Creating reports](../../analytics-and-reports/reports/about-reports.md).
