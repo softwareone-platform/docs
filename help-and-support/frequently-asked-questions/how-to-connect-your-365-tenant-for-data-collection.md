@@ -23,11 +23,11 @@ To learn why this is important, what data is collected, and what security measur
 
 3. Select **Connect Tenant**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Enter your Office 365 Tenant ID.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Enter your Office 365 global administrator account username and password. Use your Office 365 Azure AD account, not your PyraCloud credentials. The user must be a Global Admin for authorization to work.
 

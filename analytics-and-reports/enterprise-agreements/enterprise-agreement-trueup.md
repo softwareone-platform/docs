@@ -16,7 +16,7 @@ Although organizations with EAs may place any number of orders throughout the ca
 
 It is important to note that the annual TrueUp applies only to products that organizations have already licensed under their current EA. New products and online services that are not in the current EA must be purchased in the month they are first used. If organizations have not increased device or user counts or used any additional EA products within the calendar year, they still need to submit an Update Statement (also called a zero-usage order), which must be signed by an authorized signatory within the organization.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### EA TrueUp module <a href="#pyracloud-ea-trueup-module" id="pyracloud-ea-trueup-module"></a>
 
@@ -85,7 +85,7 @@ Please refer to the “**Register New Agreement**” section for more informatio
 
 Once selected, click on “Next” button to move on to the next step – **Structure.**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2 – Structure <a href="#post-3370-_toc513023080" id="post-3370-_toc513023080"></a>
 
@@ -93,17 +93,17 @@ This is to define the structure of the agreement. From this step onwards, you ne
 
 This page **allows you to set tenants and products profiles** (as available in your CPS), however both of these fields are not mandatory, so you can have these disabled as shown in below screen shot:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Profiles**
 
 Typically profiles and tenants can be found as a subsection in CPS. Profiles can be found in both “SECTION 1. Licenses and Software Assurance” and “Future Pricing”. Please note that “Enterprise” subsection should not be treated as a profile and will be automatically added in the Wizard. Please inspect the below screenshot from a sample CPS with “Industry Device II” and “Manufacturing” profiles.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The screenshot below shows “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
@@ -115,11 +115,11 @@ Tenants represent the domain of subscription products. They can be found in “S
 
 If you want to add tenants or product profiles, you can enable these by clicking on the “switch buttons” as shown below. It is also possible to delete existing profiles and tenants.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you have inserted the details, click on the “Next” button to move on to next step i.e. **Reporting Location**.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE**: If you do not have tenant or product profile information in your price sheet, you do not need to add this information into the Wizard. Both of these are optional so you can simply click on next button to move on to Step 3.

@@ -19,7 +19,7 @@ Follow these steps to setup Multi-Factor Authentication (MFA) for PyraCloud.
 
 If you see the screen below
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (7).png>)
 
 #### Setup Authenticator App
 
@@ -27,29 +27,29 @@ If you see the screen below
 
 If you do not have an Authenticator app installed on your mobile phone yet, install one first. You can use any generic Authenticator app like Google Authenticator or Microsoft Authenticator. We use Google Authenticator as an example. The steps are very similar for any other Authenticator app.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Open the Authenticator app and choose “Scan a QR code” as shown below**.**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Point the camera of your mobile phone to the QR code on the PyraCloud page and wait for the scanned data to be added to your Authenticator app.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Use Existing Authenticator App**
 
 If you already have an Authenticator app installed, open it and tap on the “Plus” sign in the bottom right corner (as shown below). Then choose “Scan QR Code”. Once done, point the camera of your mobile phone to the QR code on the PyraCloud page and wait for the scanned data to be added to your Authenticator app.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Manual Setup Without QR Code**
 
 If you have problems to scan the QR Code, click on the “Trouble scanning?” option on the PyraCloud page and write down or copy the presented code as shown below.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tap on “Enter a setup key” in your Authenticator app and provide your account name, secret code and choose your preferred time criteria.
 

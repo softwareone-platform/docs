@@ -46,7 +46,7 @@ Select your user name at the top-right corner of the page to display the menu.&#
 You can use this menu to:
 
 * [Change your password.](help-and-support/frequently-asked-questions/how-to-reset-or-change-password.md)
-* Access [Collaboration Site](set-up/collaboration-site/collaboration-site.md) to store and share large files.
+* Access the [Collaboration Site](set-up/collaboration-site/about-the-collaboration-site.md) to store and share large files.
 * View your company contacts.
 * View or edit your company structure.&#x20;
 * Sign out of your account.
@@ -55,7 +55,9 @@ You can use this menu to:
 
 ### Top modules
 
-The top modules section displays our top 6 modules. The list of modules is displayed based on your access permissions, which means that you can view the module names only if you have access to them.
+The top modules section displays our top 6 modules.&#x20;
+
+The list of modules is displayed based on your access permissions, which means that you can view the modules only if you have access to them.
 
 <div align="left">
 
@@ -112,4 +114,4 @@ You can use the links in the footer to perform these actions:
 * Change the default language of the Client Portal.
 * Access the product documentation.
 * Contact the Support team.
-* Read our blogs, maintenance updates, and media releases
+* Read our blogs, maintenance updates, and media releases.

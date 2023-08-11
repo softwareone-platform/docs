@@ -37,13 +37,13 @@ There are 3 columns that show tiles with aggregated data:
 
 The links in the tiles will take you to the list of agreements with filters applied. This allows you to see the full list of agreements that have been aggregated into the tiles.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Add Agreements Manually <a href="#add-agreements-manually" id="add-agreements-manually"></a>
 
 Renewal Manager is not limited to agreements and software purchased through SoftwareONE. The “Add Agreements Manually” option – lets you add agreements to Renewal Manager that have not been purchased through SoftwareONE.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After entering the data (at least the mandatory fields) click “Save”. You will then see the Agreement Details Page for the agreement you have just created. After you have registered an agreement you may want to add product and cost information to this agreement as a second step.
 
@@ -393,7 +393,7 @@ They won’t be able to do any of the following:
 
 Each grid available in Renewal Manager can be personalized. Once you click on “Customize” you will see the list of columns that can be added to the grid. Simply click on the check boxes next to the information you would like to view.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you select multiple columns to display and the view is not wide enough to show all information, you can resize the specific column widths by moving your mouse cursor over the column border and then “click and drag” the column to your required width.
 

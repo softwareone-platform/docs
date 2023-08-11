@@ -4,11 +4,11 @@ description: >-
   business requirements.
 ---
 
-# Overview
+# About Custom Groups
 
 ***
 
-Custom Groups allow you to define an organizational hierarchy (for reporting and budgeting) and govern cloud environments (resources running on Azure, AWS, and Office365 licenses).
+Custom groups allow you to define an organizational hierarchy (for reporting and budgeting) and govern cloud environments (resources running on Azure, AWS, and Office365 licenses).
 
 With Custom Groups, you can build a hierarchical structure based on custom-defined dimensions, for example, departments, teams, or projects, and map resources.
 

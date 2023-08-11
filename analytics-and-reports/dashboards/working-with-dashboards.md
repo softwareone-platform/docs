@@ -8,8 +8,6 @@ description: >-
 
 The Client Portal contains predefined dashboards that you can use to view the data. You can also create your own custom dashboards.
 
-### Understanding dashboard tiles
-
 The dashboards mainly consist of tiles that display different information such as the data about your preferred statistic, such as the number of invoices, orders, quotes, and so on.
 
 Each tile can have multiple functionalities, for example, they can display data and act as a shortcut. You can also configure the size of a tile and define how data is displayed in certain tiles. If there is no data for a specific tile, a message is displayed in the tile.
