@@ -1,10 +1,10 @@
 ---
-description: >-
-  Explore our documentation articles to get sense of what SoftwareOne
-  Marketplace Platform is and how it can be used.
+description: Welcome to the SoftwareOne Marketplace Platform community!
 ---
 
-# Overview
+# Home
+
+Explore [**SoftwareOne**](https://softwareone.com) Marketplace Platform documentation articles to get sense of what our platform is and how it can be used.
 
 <div align="left" data-full-width="false">
 
