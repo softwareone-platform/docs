@@ -2,7 +2,9 @@
 description: Meet the new SoftwareOne Client Portal and learn what's new in this release.
 ---
 
-# What's New in v1
+# Release Notes v1
+
+**Release Date: August 28, 2023**
 
 We’re excited to announce that we’ve rebranded PyraCloud to SoftwareOne Client Portal to align it with our global brand identity.
 

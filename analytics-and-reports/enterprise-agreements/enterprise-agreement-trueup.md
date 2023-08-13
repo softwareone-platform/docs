@@ -85,7 +85,7 @@ Please refer to the “**Register New Agreement**” section for more informatio
 
 Once selected, click on “Next” button to move on to the next step – **Structure.**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2 – Structure <a href="#post-3370-_toc513023080" id="post-3370-_toc513023080"></a>
 

@@ -142,4 +142,4 @@
 
 ## Release Notes
 
-* [What's New in v1](release-notes/whats-new-in-v1.md)
+* [Release Notes v1](release-notes/release-notes-v1.md)
