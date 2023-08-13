@@ -4,13 +4,15 @@ description: Welcome to the SoftwareOne Marketplace Platform community!
 
 # Home
 
-[SoftwareONE](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that seamlessly consolidates over 7,500 vendors and our clients. This dynamic platform is meticulously designed to provide diverse software solutions while ensuring effective matchmaking between client needs and vendor capabilities. Empowering businesses to procure, manage and optimize their software assets with ease, our platform is a catalyst for accelerating digital transformation and enhancing operational efficiency.
+[SoftwareONE](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that seamlessly consolidates over 7,500 vendors and our clients. This dynamic platform is meticulously designed to provide diverse software solutions while ensuring effective matchmaking between client needs and vendor capabilities.
 
 <div align="left" data-full-width="false">
 
 <figure><img src=".gitbook/assets/image (234).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
+
+Empowering businesses to procure, manage and optimize their software assets with ease, our platform is a catalyst for accelerating digital transformation and enhancing operational efficiency.
 
 Explore [SoftwareOne](https://softwareone.com) Marketplace Platform documentation articles to get sense of what our platform is and how it can be used.
 
