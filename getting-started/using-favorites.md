@@ -6,7 +6,7 @@ description: >-
 
 # Using Favorites
 
-The **Favorites** module is displayed in the [main menu](../#main-menu) only if you've marked at least one page as your favorite.
+The **Favorites** module is displayed in the [main menu](<../README (1).md#main-menu>) only if you've marked at least one page as your favorite.
 
 ***
 

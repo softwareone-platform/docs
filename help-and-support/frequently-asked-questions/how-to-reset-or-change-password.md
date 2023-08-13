@@ -22,7 +22,7 @@ If you sign in to the Client Portal with a username and password, you can reset 
 
 ### Changing your password
 
-If you wish to change your password, you can do so from [your profile](../../#your-profile-menu) menu.
+If you wish to change your password, you can do so from [your profile](<../../README (1).md#your-profile-menu>) menu.
 
 **To change your password**
 

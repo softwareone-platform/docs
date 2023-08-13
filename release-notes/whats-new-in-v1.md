@@ -28,7 +28,7 @@ Previously, after signing in to PyraCloud, a predefined [dashboard](../analytics
 
 Now, when you sign in to the Client Portal, you'll see a new Home page that'll provide you quick access to different modules, platform news, and updates.&#x20;
 
-You'll also be able to view your account information, favorites, and a list of your recently viewed pages. To learn more about the new page, see [Understanding the Home page](../).&#x20;
+You'll also be able to view your account information, favorites, and a list of your recently viewed pages. To learn more about the new page, see [Understanding the Home page](<../README (1).md>).&#x20;
 
 If you want to access your dashboards, you can do so from the **Analyze** option in the navigation menu.
 

@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Overview](README.md)
+
 ## Getting Started
 
-* [Understanding the Home Page](README.md)
+* [Understanding the Home Page](<README (1).md>)
 * [Using Favorites](getting-started/using-favorites.md)
 
 ## Set up

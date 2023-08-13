@@ -68,7 +68,7 @@ SoftwareOne cannot be held liable for damages caused by the misconfiguration of 
 
 2. In the list of policies, select one of the policies that you applied.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Under **Assignments**, select the **Users** section.&#x20;
 
