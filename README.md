@@ -6,9 +6,9 @@ description: Welcome to the SoftwareOne Marketplace Platform community!
 
 [SoftwareONE](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that seamlessly consolidates over 7,500 vendors and our clients. This dynamic platform is meticulously designed to provide diverse software solutions while ensuring effective matchmaking between client needs and vendor capabilities.
 
-<div align="left" data-full-width="false">
+<div align="left">
 
-<figure><img src=".gitbook/assets/image (234).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
