@@ -10,7 +10,7 @@ For more information about the various features that make up our Software Assets
 
 * [Software asset onboarding](broken-reference)
 * [Working with the spend reports](../analytics-and-reports/reports/spend-reports/)
-* [Setting up custom groups](../set-up/custom-groups/about-custom-groups.md)
+* [Setting up custom groups](../setup/custom-groups/about-custom-groups.md)
 * [Creating budgets](../analytics-and-reports/budgets/creating-budgets.md)
-* [Defining tags and managing resources](../set-up/tags-and-resources/defining-tags-and-managing-resources.md)
+* [Defining tags and managing resources](../setup/tags-and-resources/defining-tags-and-managing-resources.md)
 * [Creating chargebacks](../analytics-and-reports/chargebacks/creating-chargebacks.md)

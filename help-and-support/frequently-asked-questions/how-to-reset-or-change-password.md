@@ -4,11 +4,11 @@ description: Follow these steps to reset or change your password.
 
 # How to reset or change password
 
-If you sign in to the Client Portal with a username and password, you can reset and change your password.
-
 ***
 
 ### Resetting your password
+
+If you forget your password, you can request a new one.
 
 **To reset your password**
 

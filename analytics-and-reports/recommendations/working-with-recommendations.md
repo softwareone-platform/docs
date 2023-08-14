@@ -185,7 +185,7 @@ The AWS tab displays six tiles at the top. These are:
 Recommendations can be fetched from the AWS Trusted Advisor if:
 
 * AWS Business or Enterprise [support plan](https://aws.amazon.com/premiumsupport/plans/) is enabled for an account within AWS.&#x20;
-* The right permissions are enabled for AWS account(s) within PyraCloud. For information on permission required to download recommendations from AWS Trusted Advisor, see [Reonboarding AWS Recommendations](../../set-up/cloud-tenant-setup/aws-onboarding/updating-your-aws-account-permissions.md#re-onboard-aws-recommendations).
+* The right permissions are enabled for AWS account(s) within PyraCloud. For information on permission required to download recommendations from AWS Trusted Advisor, see [Reonboarding AWS Recommendations](../../setup/cloud-tenant-setup/aws-onboarding/updating-your-aws-account-permissions.md#re-onboard-aws-recommendations).
 
 #### AWS Cost Explorer <a href="#aws-cost-explorer" id="aws-cost-explorer"></a>
 

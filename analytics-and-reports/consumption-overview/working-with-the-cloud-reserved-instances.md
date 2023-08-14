@@ -1,6 +1,12 @@
-# Reserved Instance Consumption Summary
+---
+description: >-
+  Reservations help you save money by committing to a usage plan for multiple
+  products (for example Virtual Machines and storage).
+---
 
-Reservations help you save money by committing to a usage plan for multiple products (for example Virtual Machines and storage). Committing allows you to get a discount for resources you are using. RIs are one of the cost-saving strategies that can give you the biggest savings.
+# Working with the cloud-reserved instances
+
+Committing allows you to get a discount for resources you are using. RIs are one of the cost-saving strategies that can give you the biggest savings.
 
 You can read more about other available cost optimization strategies in the [Cloud Cost Optimization](../../services/cloud-cost-optimization.md) topic.&#x20;
 
@@ -10,14 +16,14 @@ The usage plans depend on the cloud provider. For information on the usage plans
 
 ### Gaining visibility into your reservations <a href="#gain-visibility-into-your-reservations" id="gain-visibility-into-your-reservations"></a>
 
-With PyraCloud you can easily perform tasks related to managing cloud reservations, which allows you to accomplish the most savings.
+With the Client Portal, you can manage cloud reservations that allow you to accomplish the most savings.
 
-PyraCloud gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our Spend Management Reporting feature and it is available here. We enable reporting automatically when our system detects an RI purchase.
+The Client Portal gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our [Spend Management Reporting](../reports/spend-reports/). We enable reporting automatically when our system detects an RI purchase.
 
 <figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 1. Recent average of your reservation utilization – you can check if there is any degradation in usage. If the average utilization is going down – resources that were utilizing RIs were likely deallocated.
-2. PyraCloud keeps track of your historical purchases so you can compare values at any time. For monitoring purposes look at “Active” status only.
+2. PyraCloud keeps track of your historical purchases so you can compare values at any time. For monitoring purposes look at **Active** status only.
 3. If you want to keep the reservation list for your internal records, you can export it to an XLS file.
 
 #### Resources attached to RI <a href="#resources-attached-to-ri" id="resources-attached-to-ri"></a>
