@@ -4,7 +4,7 @@ description: >-
   Contributor roles.
 ---
 
-# Manually integrate your Microsoft tenant
+# Manually Integrate your Microsoft Tenant
 
 ***
 
@@ -14,7 +14,7 @@ This topic describes how you can integrate your Microsoft tenant with the Client
 2. Using the Azure Management Groups to assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) access roles to the Client Portal.
 3. Sharing the details to SoftwareOne so we can complete your onboarding.
 
-The Tag Contributor and Reader roles allow the Client Portal to read a list of all the resources in your Azure subscription, and read and write tags on those resources. You can control whether you want the Client Portal to write tags back to resources in your Azure subscription. For more information, see [Syncing your tags to Azure](adding-azure-enterprise-agreement-ea-account.md#syncing-your-tags-to-azure).
+The Tag Contributor and Reader roles allow the Client Portal to read a list of all the resources in your Azure subscription, and read and write tags on those resources. You can control whether you want the Client Portal to write tags back to resources in your Azure subscription. For more information, see [Syncing your tags to Azure](adding-an-azure-enterprise-agreement-ea-account.md#syncing-your-tags-to-azure).
 
 ***
 

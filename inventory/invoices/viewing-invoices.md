@@ -2,11 +2,9 @@
 description: You can view all of your open invoices.
 ---
 
-# Viewing invoices
+# Viewing Invoices
 
 ***
-
-### Viewing invoices
 
 You can view and manage your invoices on the Invoices page. You can filter invoices by country, business unit, and cost center to get a clear view of the global and business unit spend.
 

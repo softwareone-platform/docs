@@ -4,7 +4,7 @@ description: >-
   access your tags and resources.
 ---
 
-# Assigning Reader and Tag Contributor roles (single subscription)
+# Assigning Reader and Tag Contributor Roles (Single Subscription)
 
 ***
 
@@ -20,7 +20,7 @@ These roles allow the Client Portal to read a list of all the resources in your 
 
 ### Prerequisites
 
-* Ensure that you've [onboarded your tenant](adding-azure-enterprise-agreement-ea-account.md).
+* Ensure that you've [onboarded your tenant](adding-an-azure-enterprise-agreement-ea-account.md).
 
 ***
 

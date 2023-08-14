@@ -15,7 +15,7 @@ It provides a single platform for you to view, track, and manage all software tr
 See the following links for detailed information about specific features within the Marketplace module:
 
 * [Viewing and managing software transactions](procurement-workbench/viewing-and-managing-software-transactions.md)
-* [Buying products and services](products/buying-products-and-services.md)
+* [Buying products and services](products/buying-new-products.md)
 * [Creating and viewing quotes](quotes/creating-and-viewing-quotes.md)
 * [Creating and viewing orders](orders/creating-and-viewing-orders.md)
 * [Viewing invoices](../inventory/invoices/viewing-invoices.md)

@@ -1,12 +1,10 @@
 ---
 description: >-
   You can manage your 365Simple subscriptions and make adjustments to your
-  add-ons.
+  add-ons using Subscription Manager.
 ---
 
-# Managing your license count for Office365 Subscriptions
-
-Subscription Manager enables you to manage your 365Simple subscriptions.
+# Managing your License Count for Office365 Subscriptions
 
 ***
 

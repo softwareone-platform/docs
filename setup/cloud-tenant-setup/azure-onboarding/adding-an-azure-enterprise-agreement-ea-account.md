@@ -2,7 +2,7 @@
 description: Follow this topic to add your EA or MPSA cloud account to the Client Portal.
 ---
 
-# Adding Azure Enterprise Agreement (EA) account
+# Adding an Azure Enterprise Agreement (EA) Account
 
 ***
 
@@ -30,7 +30,7 @@ Before adding an account, make sure that you have the following details:
 5. Sign in to the Microsoft portal using the credentials of a user who has Owner permissions to the Azure subscriptions you wish to add to the Client Portal.
 
 {% hint style="info" %}
-**NOTE:** If you wish to add more Azure subscriptions owned by other users, you can do this later. For instructions, see [Adding more Azure Subscriptions](adding-azure-enterprise-agreement-ea-account.md#add-more-azure-subscriptions)_._
+**NOTE:** If you wish to add more Azure subscriptions owned by other users, you can do this later. For instructions, see [Adding more Azure Subscriptions](adding-an-azure-enterprise-agreement-ea-account.md#add-more-azure-subscriptions)_._
 {% endhint %}
 
 6. On the consent page, review the permissions required by the Client Portal and select **Accept** to grant consent.&#x20;

@@ -4,7 +4,7 @@ description: >-
   in a single step.
 ---
 
-# Assigning Reader and Tag Contributor roles (multiple subscriptions)
+# Assigning Reader and Tag Contributor Roles (Multiple Subscriptions)
 
 ***
 
@@ -64,7 +64,7 @@ The following table explains these commands:
 
 #### Prerequisites
 
-* Ensure that you've [onboarded your tenant](adding-azure-enterprise-agreement-ea-account.md).
+* Ensure that you've [onboarded your tenant](adding-an-azure-enterprise-agreement-ea-account.md).
 * Ensure that have the correct permissions to manage access to all Azure subscriptions and management groups in your tenant. For instructions, see [Elevate access to manage all Azure subscriptions and management groups](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin) in the Microsoft documentation.&#x20;
 
 **To grant access to PyraCloud**

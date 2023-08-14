@@ -2,13 +2,13 @@
 description: Follow this topic to add your Azure MCA account to the Client Portal.
 ---
 
-# Adding Azure Microsoft Customer Agreement (MCA) account
+# Adding an Azure Microsoft Customer Agreement (MCA) Account
 
 ***
 
 The Client Portal supports both legacy EA and modern [MCA ](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview)models.&#x20;
 
-Before proceeding further, make sure that you've followed the steps in [Activating your account](adding-azure-enterprise-agreement-ea-account.md#activating-your-account).
+Before proceeding further, make sure that you've followed the steps in [Activating your account](adding-an-azure-enterprise-agreement-ea-account.md#activating-your-account).
 
 ### Prerequisites <a href="#how-to-onboard-mca-tenant" id="how-to-onboard-mca-tenant"></a>
 

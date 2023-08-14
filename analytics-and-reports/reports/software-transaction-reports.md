@@ -4,7 +4,7 @@ description: >-
   run at a chosen time and frequency.
 ---
 
-# Software Transaction reports
+# Software Transaction Reports
 
 The Client Portal reporting offers an easy way to create reports based on the stored data.
 
@@ -21,7 +21,7 @@ Access to the Reporting components is restricted to authorized users and depends
 Reports are generated with their creators’ permission.
 
 {% hint style="info" %}
-**Note**: We support the latest stable versions of the most popular browsers (desktop only): Chrome, Edge, and Firefox. On Page reporting (together with old reporting) is supported for Punchout users.
+**NOTE**: We support the latest stable versions of the most popular browsers (desktop only): Chrome, Edge, and Firefox. On-Page reporting (together with old reporting) is supported for Punchout users.
 {% endhint %}
 
 ### Scheduled reports <a href="#post-988-_ref38294240" id="post-988-_ref38294240"></a>
@@ -34,7 +34,7 @@ To open Scheduled Reports, navigate to **Analyze** > **Scheduled**. You must hav
 
 You can show, hide, and change the order of the columns.
 
-|                        |                                                                                                                                                                                                                                                                                        |
+| Column                 | Description                                                                                                                                                                                                                                                                            |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Name**               | Name of the report.                                                                                                                                                                                                                                                                    |
 | **Frequency**          | Shows if this is a **Daily**, **Weekly,** or **Monthly** report, see [Schedule](software-transaction-reports.md#post-988-\_ref38374532). **Off** means that recurrence for the report is not yet defined (this is only possible when the report has been created using old reporting). |

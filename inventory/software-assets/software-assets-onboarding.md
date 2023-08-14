@@ -2,7 +2,7 @@
 description: You can configure and set up software asset integration.
 ---
 
-# Software assets onboarding
+# Software Assets Onboarding
 
 ***
 
@@ -30,5 +30,5 @@ By default, the filtering is turned on. It means that transactions relating to A
 Any changes to filtering settings take effect after 24 hours.
 
 {% hint style="warning" %}
-Take caution when disabling software asset integration. You can always enable it again, however, all transaction allocation and/or tag assignments will need to be redone.
+**IMPORTANT**: Take caution when disabling software asset integration. You can always enable it again, however, all transaction allocation and/or tag assignments will need to be redone.
 {% endhint %}
