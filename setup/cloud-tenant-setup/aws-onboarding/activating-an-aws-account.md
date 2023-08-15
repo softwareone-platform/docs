@@ -2,7 +2,7 @@
 description: Follow this topic to add your AWS cloud account to the Client Portal.
 ---
 
-# Activating an AWS Account
+# Activating an AWS account
 
 ***
 
@@ -29,7 +29,7 @@ However, if you start by activating your master account, the Client Portal will 
 
 **To add your AWS cloud account**
 
-1. From the main menu, navigate to **Set up** and select **Cloud tenant setup**.
+1. From the main menu, navigate to **Setup** and select **Cloud tenant setup**.
 2. On the Cloud Tenant Setup page, select **Add Cloud Account** and choose **Amazon Web Services** as your cloud service provider.
 3. Provide the following details:
    1. A name for your AWS account.
@@ -56,7 +56,7 @@ Many organizations have several AWS accounts in their AWS Organizations hierarch
 
 #### To activate linked accounts <a href="#next-steps" id="next-steps"></a>
 
-1. From the main menu, navigate to **Set up** and select **Cloud tenant setup**.
+1. From the main menu, navigate to **Setup** and select **Cloud tenant setup**.
 2. Expand the master AWS account containing the linked accounts you want to add.&#x20;
 3. Select **Activate** next to the linked account that you want to activate.
 4. Perform the same activation steps as for the master account. Follow steps 3-6 in [Adding your AWS cloud account](activating-an-aws-account.md#activate-your-aws-cloud-account).
@@ -83,9 +83,9 @@ The process for activating multiple linked accounts is similar to the process fo
 
 ### Syncing your tags to AWS
 
-The Client Portal works in a read-only mode after you onboard your AWS account to PyraCloud for the first time.
+The Client Portal works in a read-only mode after you onboard your AWS account for the first time.
 
-It means that the Tag and Resource Manager feature can import your resources and tags from AWS, but it cannot synchronize any tag changes you make in the Client Portalback to AWS.
+It means that the Tag and Resource Manager feature can import your resources and tags from AWS, but it cannot synchronize any tag changes you make in the Client Portal back to AWS.
 
 If you would like Tag and Resource Manager to synchronize tags back to AWS, you must change the level of access the Client Portal has for your AWS account.
 
@@ -93,16 +93,16 @@ If you would like Tag and Resource Manager to synchronize tags back to AWS, you 
 
 1. On the Cloud Account Setup page, expand the AWS account and select **Change Access.**
 2. In the **Change PyraCloud Access Level**, choose the access level:
-   * **Sync resources only, no tags – write back of tags disabled**: Tag and Resource Manager will download your resources to PyraCloud without the tags currently assigned in AWS. Any changes to tags will be stored in PyraCloud only. This setting requires read-only access to your AWS account and will not make any changes to resources or tags in your AWS account.
-   * **Sync resources and tags – write back of tags disabled**: Tag and Resource Manager will download your resources to PyraCloud **including** the tags currently assigned in AWS. Any changes to tags will be stored in PyraCloud only. Any tags assigned to resources in AWS will overwrite the tags for the corresponding resource in PyraCloud. This setting requires read-only access to your AWS account and will not make any changes to resources or tags in your AWS account.
-   * **Sync resources and tags – write back of tags enabled**: Tag and Resource Manager will download your resources to PyraCloud including the tags currently assigned in AWS. Any changes to tags will be synchronized back to your resources in AWS. This setting requires read-write access to your AWS account and will only make changes to tags.
+   * **Sync resources only, no tags – write back of tags disabled**: Tag and Resource Manager will download your resources to the Client Portal without the tags currently assigned in AWS. Any changes to tags will be stored in the Client Portal only. This setting requires read-only access to your AWS account and will not make any changes to resources or tags in your AWS account.
+   * **Sync resources and tags – write back of tags disabled**: Tag and Resource Manager will download your resources to the Client Portal, including the tags currently assigned in AWS. Any changes to tags will be stored in the Client Portal only. Any tags assigned to resources in AWS will overwrite the tags for the corresponding resource in the Client Portal. This setting requires read-only access to your AWS account and will not make any changes to resources or tags in your AWS account.
+   * **Sync resources and tags – write back of tags enabled**: Tag and Resource Manager will download your resources to the Client Portal, including the tags currently assigned in AWS. Any changes to tags will be synchronized back to your resources in AWS. This setting requires read-write access to your AWS account and will only make changes to tags.
 3. Select **Change**.
 
 ***
 
 ### Syncing AWS Cost Explorer recommendations <a href="#sync-aws-cost-explorer-recommendations" id="sync-aws-cost-explorer-recommendations"></a>
 
-The Recommendations module downloads recommendations from AWS Cost Explorer, which includes Reserved Instance purchase recommendations for Amazon EC2, Amazon RDS, ElastiCache, Amazon ES, and Amazon Redshift.&#x20;
+The [Recommendations ](../../../analytics-and-reports/recommendations/working-with-recommendations.md)module downloads recommendations from AWS Cost Explorer, which includes Reserved Instance purchase recommendations for Amazon EC2, Amazon RDS, ElastiCache, Amazon ES, and Amazon Redshift.&#x20;
 
 By default, the **Enable sync with AWS Cost Explorer to see AWS Recommendations** setting is enabled in the Client Portal. It means that Client Portal will download your account's AWS Cost Explorer recommendations.
 

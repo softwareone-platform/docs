@@ -2,7 +2,7 @@
 description: You can configure and set up software asset integration.
 ---
 
-# Software Assets Onboarding
+# Setting up Software Assets integration
 
 ***
 
@@ -10,7 +10,7 @@ description: You can configure and set up software asset integration.
 
 **To enable the integration**
 
-1. From the main menu, navigate to Setup and select **Cloud Tenant Setup.**
+1. From the main menu, navigate to **Setup** and select **Cloud Tenant Setup.**
 2. On the Cloud Tenant Setup page, select **Activate.**
 
 {% hint style="info" %}

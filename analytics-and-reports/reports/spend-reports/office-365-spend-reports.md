@@ -2,13 +2,13 @@
 description: Gain detailed analysis of your Office 365 spend.
 ---
 
-# Office 365 Spend Reports
+# Office 365 spend reports
 
 ### What is Office 365 Consumption in PyraCloud?   <a href="#what-is-office-365-consumption-in-pyracloud" id="what-is-office-365-consumption-in-pyracloud"></a>
 
 Office 365 Consumption in PyraCloud provides users with detailed Office 365 spend analysis. The data is based on billing data fetched daily.
 
-Users can access multiple analytic reports and browse consumption cost information in easy-to-use interactive charts. The analysis is extended by leveraging information from other PyraCloud modules. Users can analyze spend per [Custom Group](../../../setup/custom-groups/) or per [Budget.](../../budgets/creating-budgets.md)
+Users can access multiple analytic reports and browse consumption cost information in easy-to-use interactive charts. The analysis is extended by leveraging information from other PyraCloud modules. Users can analyze spend per [Custom Group](../../../setup/custom-groups/) or per [Budget.](../../budgets/working-with-budgets.md)
 
 ***
 

@@ -1,8 +1,8 @@
 ---
-description: Learn how to use the 365 EA + Unified Support dashboard.
+description: Learn how to use the 365 EA + Unified support dashboard.
 ---
 
-# 365 EA with Unified Support Dashboard
+# 365 EA + Unified support
 
 ***
 

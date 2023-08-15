@@ -26,7 +26,7 @@ Only the users that have administrator privileges can access User Management. Ad
 
 ***
 
-### Creating a new user
+### Adding a new user
 
 **To add a user**
 
@@ -53,7 +53,7 @@ You can edit the permissions and the security settings for a user. &#x20;
 
 1. Select **Edit User** to change the security settings.
 
-<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Edit the permissions and the security settings. You cannot edit the name and email address.
 3. Select **Save Changes.**&#x20;
@@ -83,7 +83,7 @@ User Management provides extensive capabilities to define user data access for S
 
 You can limit access by selecting the **Spend Management Access** tab.
 
-<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -91,7 +91,7 @@ You can limit access by selecting the **Spend Management Access** tab.
 
 By default, each user has full access. Select **Full Access** to give users full access to all the spend management data.
 
-<figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

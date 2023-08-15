@@ -2,7 +2,7 @@
 description: Follow this topic to add your EA or MPSA cloud account to the Client Portal.
 ---
 
-# Adding an Azure Enterprise Agreement (EA) Account
+# Adding an Azure Enterprise Agreement (EA) account
 
 ***
 
@@ -40,7 +40,7 @@ After you grant consent, you'll be redirected to the Cloud Tenant Setup details 
 After activating your tenant, you can add subscriptions and allow the Client Portal to write tags back to your Azure resources.
 
 {% hint style="warning" %}
-For Azure Only: After adding your cloud account, you must also add your EA access token.&#x20;
+**IMPORTANT**:  For Azure only, after adding your cloud account, you must also add your EA access token.&#x20;
 {% endhint %}
 
 ***

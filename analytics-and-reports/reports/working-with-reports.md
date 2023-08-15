@@ -1,8 +1,8 @@
 ---
-description: You can create various types of reports using the Reports module.
+description: You can use the Reports module to create and view various reports.
 ---
 
-# About reports
+# Working with reports
 
 Using the Reports module, you can create single-run as well as recurring scheduled reports. You can also edit the existing Scheduled report configurations.&#x20;
 

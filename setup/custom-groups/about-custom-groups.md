@@ -44,7 +44,7 @@ The built-in functionalities across Custom Groups and Resources allow users to d
 These dimensions are directly mapped to Tags and Resources as tag keys. This allows you to directly synchronize between PyraCloud and the Cloud Provider.
 
 {% hint style="warning" %}
-Identifying the right setup and sequence of dimensions is critical to keeping flexibility throughout the use of Custom Groups. The dimensions are the predecessor to the hierarchical structure of Custom Groups and changing a dimension requires removing the groups.
+**IMPORTANT**: Identifying the right setup and sequence of dimensions is critical to keeping flexibility throughout the use of Custom Groups. The dimensions are the predecessor to the hierarchical structure of Custom Groups and changing a dimension requires removing the groups.
 {% endhint %}
 
 * Identify the Right Groupings: Defining the group name is a bit more flexible than defining the dimensions. Group names correspond with the tag values and can be created and deleted at any time. Examples of common group names include:

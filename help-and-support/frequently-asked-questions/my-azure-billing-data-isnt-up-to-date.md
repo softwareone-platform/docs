@@ -6,7 +6,7 @@ description: It can take up to 24 hours for your data to refresh.
 
 ***
 
-The Client Portal uses several Microsoft APIs to pull data that allows you to create [Spend reports](../../analytics-and-reports/reports/spend-reports/), [Budgets](../../analytics-and-reports/budgets/creating-budgets.md), and [Chargebacks](../../analytics-and-reports/chargebacks/creating-chargebacks.md). In some cases, it can take up to 24 hours for the resource cost to be accessed through the interface.
+The Client Portal uses several Microsoft APIs to pull data that allows you to create [Spend reports](../../analytics-and-reports/reports/spend-reports/), [Budgets](../../analytics-and-reports/budgets/working-with-budgets.md), and [Chargebacks](../../analytics-and-reports/chargebacks/working-with-chargebacks.md). In some cases, it can take up to 24 hours for the resource cost to be accessed through the interface.
 
 As the Client Portal synchronizes your Azure billing data only once a day, sometimes, it might take 48 hours for the data to refresh.
 

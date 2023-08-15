@@ -18,13 +18,10 @@ For Microsoft 365 and Microsoft Azure under the Digital Workplace Essentials or 
 
 If you purchased 365Simple or Digital Workplace Essentials, follow these steps to activate your tenant:
 
-1\. From the main navigation menu, navigate to **Setup** > **Cloud Tenant Setup**.
-
-2\. On the Cloud Tenant Setup page, locate the account that needs activation and select **Activate Microsoft 365** in the **Actions** column.
-
-3\. Enter your username and password on the Microsoft sign-in page. You must provide your Global Administrator credentials.
-
-4\. Review the permissions and select **Accept** to grant consent.
+1. From the main navigation menu, navigate to **Setup** and select **Cloud Tenant Setup**.
+2. On the Cloud Tenant Setup page, locate the account that needs activation and select **Activate Microsoft 365** in the **Actions** column.
+3. Enter your username and password on the Microsoft sign-in page. You must provide your Global Administrator credentials.
+4. Review the permissions and select **Accept** to grant consent.
 
 On successful validation of your credentials, Microsoft 365 will be activated, and the activation status will change from **Activation Required** to **Connected.**
 
@@ -34,12 +31,9 @@ On successful validation of your credentials, Microsoft 365 will be activated, a
 
 If you purchased AzureSimple, follow these steps to activate your subscription.
 
-1\. From the main navigation menu, navigate to **Setup** > **Cloud Tenant Setup**.
-
-2\. On the Cloud Tenant Setup page, locate the account that needs activation and select **Activate Microsoft Azure** in the **Actions** column.
-
-3\. Enter your username and password on the Microsoft sign-in page. You must provide your Global Administrator credentials. You must have the **Owner** or **User Access Administrator** role for the subscription that you want to activate.
-
-4\. Review the permissions and select **Accept** to grant consent.
+1. From the main navigation menu, navigate to **Setup** and select **Cloud Tenant Setup**.
+2. On the Cloud Tenant Setup page, locate the account that needs activation and select **Activate Microsoft Azure** in the **Actions** column.
+3. Enter your username and password on the Microsoft sign-in page. You must provide your Global Administrator credentials. You must have the **Owner** or **User Access Administrator** role for the subscription that you want to activate.
+4. Review the permissions and select **Accept** to grant consent.
 
 On successful validation of your credentials, your account will be activated and the activation status will change from **Activation Required** to **Connected.**

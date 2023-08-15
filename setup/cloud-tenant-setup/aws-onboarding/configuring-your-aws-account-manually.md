@@ -4,12 +4,10 @@ description: >-
   Portal.
 ---
 
-# Manually configuring your AWS account
+# Configuring your AWS account manually
 
 {% hint style="warning" %}
-Follow the steps in this topic only if you're instructed to do so by SoftwareOne.&#x20;
-
-Following these steps without assistance from SoftwareOne will result in your AWS account not being fully integrated with the Client Portal.
+**IMPORTANT**: Follow the steps in this topic only if you're instructed to do so by SoftwareOne. Following these steps without assistance from SoftwareOne will result in your AWS account not being fully integrated with the Client Portal.
 {% endhint %}
 
 ***
@@ -27,26 +25,32 @@ Once generated, make a note of your external ID. You'll need to share the ID wit
 **To execute the script**
 
 1. Sign in to the [AWS console](https://aws.amazon.com/console/) as a user with permission to modify IAM resources and execute CloudFormation scripts.
-2. Navigate to CloudFormation.
-   1. In the AWS console, select **Services** > **Management & Governance** > **CloudFormation**.
-   2.  At the top-right of the CloudFormation Screen, select the region you wish to execute the CloudFormation script in.
+2.  Navigate to CloudFormation.
 
-       <figure><img src="../../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
+    1. In the AWS console, select **Services** > **Management & Governance** > **CloudFormation**.
+    2. At the top-right of the CloudFormation Screen, select the region you wish to execute the CloudFormation script in.
+
+
+
+    <figure><img src="../../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
 3. Select **Create stack** and follow these steps:
    1. In **Prerequisite – Prepare template**, select **Template is ready**.
    2. In **Specify template**, select **Amazon S3 URL** and enter the following URL: [https://iepapp0168sda.s3-eu-west-1.amazonaws.com/pyracloud\_onboarding.json](https://iepapp0168sda.s3-eu-west-1.amazonaws.com/pyracloud\_onboarding.json)
-4.  Click **Next**.
+4. Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
+
 5. Complete the Specify stack details page as follows:
    1. Enter the name of the stack. The recommended stack name is PyraCloud-Onboarding. If you do not use this recommended name, make a note of the name you use and provide it along with the random external ID to SoftwareOne.
    2. Enter the external ID that you generated, the empty GUID value as 00000000-0000-0000-0000-000000000000.
-6.  Click **Next**.
+6. Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
-7.  On the Configure stack options page, no additional settings are required. Click **Next**.
+<figure><img src="../../../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
+7. On the Configure stack options page, no additional settings are required. Click **Next**.
+
+<figure><img src="../../../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
+
 8. Review the settings associated with the stack and select the **I acknowledge that AWS CloudFormation might create IAM resources with custom names** check box.
 9. Select **Create stack**.
 
@@ -78,20 +82,23 @@ If you do not have AWS Organizations enabled, then you should perform the follow
 3. Complete the **Name and region** page as follows:
    1. In the **Name and region** section, under the **Bucket name** heading, enter a unique name for the bucket. The recommended value for this is “pyracloud.{account number}”. For example, “pyracloud.123456789012”. Make a note of this name to share with SoftwareONE.
    2. In the **Name and region** section, under the **Region** heading, select the region to create the bucket in. Make a note of this region to share with SoftwareONE.&#x20;
-4.  Click **Next**.
+4. Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
+
 5. On the **Configure options** page, leave the values as default.
-6.  Click **Next**.
+6. Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (59) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (59) (1).png" alt=""><figcaption></figcaption></figure>
+
 7. On the Set permissions page, leave the values as default.
-8.  Click **Next**.
+8. Click **Next**.
 
-    <figure><img src="../../../.gitbook/assets/image (60) (1).png" alt=""><figcaption></figcaption></figure>
-9.  On the **Review** page, review the new bucket settings. Click **Create bucket**.
+<figure><img src="../../../.gitbook/assets/image (60) (1).png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
+9. On the **Review** page, review the new bucket settings. Click **Create bucket**.
+
+<figure><img src="../../../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

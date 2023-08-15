@@ -4,7 +4,7 @@ description: >-
   in a single step.
 ---
 
-# Assigning Reader and Tag Contributor Roles (Multiple Subscriptions)
+# Assigning Reader and Tag Contributor roles (multiple subscriptions)
 
 ***
 
@@ -17,7 +17,7 @@ You can use Azure Management Groups to grant the Client Portal access to your Az
 
 ### How does it work?
 
-When you onboard your tenant to the Client Portal, an Enterprise Application called "PyraCloud (Azure)" is created in your tenant. You must then assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the "PyraCloud (Azure)" Enterprise Application:
+When you onboard your tenant to the Client Portal, an Enterprise Application called PyraCloud (Azure) is created in your tenant. You must then assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the "PyraCloud (Azure)" Enterprise Application:
 
 These roles allow the Client Portal to read a list of all the resources in your Azure subscriptions, and read and write tags on those resources. You can choose whether you want the Client Portal to write tags back to resources in your Azure subscription using the Cloud Tenant Setup feature.
 
@@ -36,7 +36,7 @@ These roles allow the Client Portal to read a list of all the resources in your 
 * Use the following commands:
 
 {% hint style="warning" %}
-You must execute this script at a PowerShell prompt and not a normal command prompt because the script utilizes PowerShell variables.
+**IMPORTANT**: You must execute this script at a PowerShell prompt instead of a normal command prompt because the script utilizes PowerShell variables.
 {% endhint %}
 
 <pre class="language-powershell" data-overflow="wrap" data-full-width="false"><code class="lang-powershell">az login
@@ -73,7 +73,7 @@ The following table explains these commands:
 2. On the **Management groups** page, select **Tenant Root Group**.
 
 {% hint style="info" %}
-**NOTE**: Regardless of your organization's configuration, a Tenant Root Group. This may have been renamed, but will always appear at the top of the hierarchy.
+**NOTE**: Regardless of your organization's configuration, you'll always have a Tenant Root Group. This may have been renamed, but it'll always appear at the top of the hierarchy.
 {% endhint %}
 
 3. From the left sidebar, select **Access control (IAM).**

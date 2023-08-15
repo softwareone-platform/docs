@@ -20,4 +20,4 @@ See the following links for detailed information about specific features within 
 * [Creating and viewing orders](orders/creating-and-viewing-orders.md)
 * [Viewing invoices](../inventory/invoices/viewing-invoices.md)
 * [Requesting prices using Special Quotes](special-quotes/requesting-prices-using-special-quotes.md)
-* [Managing software license renewals](../inventory/renewal-manager/managing-software-license-renewals.md)
+* [Managing software license renewals](../inventory/renewal-manager/managing-the-software-license-renewals.md)

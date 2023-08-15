@@ -4,7 +4,9 @@ description: >-
   run at a chosen time and frequency.
 ---
 
-# Software Transaction Reports
+# Software Transaction reports
+
+***
 
 The Client Portal reporting offers an easy way to create reports based on the stored data.
 
@@ -23,6 +25,8 @@ Reports are generated with their creators’ permission.
 {% hint style="info" %}
 **NOTE**: We support the latest stable versions of the most popular browsers (desktop only): Chrome, Edge, and Firefox. On-Page reporting (together with old reporting) is supported for Punchout users.
 {% endhint %}
+
+***
 
 ### Scheduled reports <a href="#post-988-_ref38294240" id="post-988-_ref38294240"></a>
 
@@ -52,17 +56,23 @@ You can show, hide, and change the order of the columns.
 
 For more information about grid functionality (like sorting, filtering, grouping, or showing/hiding columns) see the [Grid Functionality](software-transaction-reports.md#post-988-\_ref38437292) section.
 
+***
+
 #### Update a report <a href="#post-988-_ref38824725" id="post-988-_ref38824725"></a>
 
 You can update the scheduled report configuration (except its group and type) in the Report Wizard.
 
 To start updating a report click (**…**) in the **Actions** column, and click **Edit**.
 
+***
+
 #### Run a report <a href="#post-988-_toc51828560" id="post-988-_toc51828560"></a>
 
 You can trigger scheduled reports at any time. After the report is generated, it will automatically download. Like any other generated report, it will also be available in Reports History. Triggering reports manually doesn’t impact its next generation time (nor will it update its last execution time in the **Last Report**).
 
 To run a report click **Download** in the **Actions** column.
+
+***
 
 #### Pause or resume a report <a href="#post-988-_ref38458440" id="post-988-_ref38458440"></a>
 
@@ -72,11 +82,15 @@ To pause or resume a report click (**…**) in the **Actions** column and click 
 
 ![](<../../.gitbook/assets/image (200).png>)
 
+***
+
 #### Delete a report <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
 
 You can delete a scheduled report configuration. Deleted reports can’t be recovered. Removing the scheduled report configuration does not remove reports that have already been generated (which can be found in Reports History).
 
 To delete a report configuration, click (**…**) in the **Actions** column and click **Delete.** Then click **Delete scheduled report** in the confirmation dialog.
+
+***
 
 ### Reports history <a href="#post-988-_toc51828563" id="post-988-_toc51828563"></a>
 
@@ -88,7 +102,7 @@ To open Reports History, navigate to **Analyze** -> **History**. On pages suppor
 
 #### Column Descriptions <a href="#post-988-_toc51828564" id="post-988-_toc51828564"></a>
 
-You can show, hide and change the order of the columns.
+You can show, hide, and change the order of the columns.
 
 |                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -108,11 +122,15 @@ You can also perform certain actions on multiple reports at once. To select repo
 
 <figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 #### Download a report <a href="#post-988-_ref39076953" id="post-988-_ref39076953"></a>
 
 To download a generated report, select **Download** in the **Actions** column.
 
 To download multiple reports at once, select up to ten reports, select **Actions** (above the grid), and click **Download**.
+
+***
 
 #### Send a report via email <a href="#post-988-_toc51828566" id="post-988-_toc51828566"></a>
 
@@ -134,11 +152,15 @@ To send a report to sFTP, click (**…**) in the **Actions** column and click **
 
 If needed, you can add a new SFTP configuration or edit an existing one. See the [sFTP Configuration](software-transaction-reports.md#post-988-\_ref38826088) section for more details.
 
+***
+
 #### Copy or move reports to Zip File <a href="#post-988-_toc51828568" id="post-988-_toc51828568"></a>
 
 To copy or move reports to a zip archive (e.g. to download or send them later), select up to ten reports, click **Actions** (above the grid) and click **Copy to zip File** or **Move to zip File**.&#x20;
 
 If **Move to zip File** has been selected, the moved reports will be automatically deleted (only zip file with the reports will still be available).
+
+***
 
 #### Delete a report <a href="#post-988-_toc51828569" id="post-988-_toc51828569"></a>
 
@@ -148,6 +170,8 @@ To delete a report click (**…**) in the **Actions** column and click **Delete*
 
 To delete multiple reports, select them all, click **Actions** (above the grid) and click **Delete.**
 
+***
+
 #### Update a report and file names <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
 
 You can update a generated report name and file name. Updating a generated report name does not change the scheduled report name based on which the report has been generated.
@@ -156,9 +180,13 @@ To update a report or file name click (**…**) in the **Actions** column and cl
 
 <figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 #### Report an issue <a href="#post-988-_ref38609555" id="post-988-_ref38609555"></a>
 
 To report an issue with a report click **Report the problem** in the **Actions** column, enter a description, and click **Submit**.
+
+***
 
 ### Quick reports <a href="#post-988-_ref38740623" id="post-988-_ref38740623"></a>
 
@@ -168,17 +196,19 @@ To open Quick Reports, navigate to **Analyze** > **Quick Reports**.
 
 To create a Quick Report, select a report type and click **Create** – this will open the Report Wizard at the Delivery step. You can go back to any of the previous steps to make modifications or just click **Finish**.
 
+***
+
 ### On-Page reporting <a href="#post-988-_toc51828573" id="post-988-_toc51828573"></a>
 
 On some PyraCloud pages, it is possible to create new reports (Run Once and Scheduled) directly from the page. You can find **Exports** (top right) on pages that support On Page reporting.
 
 To create a report using “**On-Page**” reporting, select **Exports** and select the report type you require, or click on the **Create / Schedule Report** option.
 
-On Page reporting offers a simplified editor for defining new report configurations. If needed, you can easily continue to report configuration in the Report Wizard.
+On-Page, reporting offers a simplified editor for defining new report configurations. If needed, you can easily continue to report configuration in the Report Wizard.
 
 All users have permission to this component.
 
-On the On-Page reporting form, you can select **Format** (see [Report Output Format](software-transaction-reports.md#post-988-\_toc51828576)), schedule (see [Schedule](software-transaction-reports.md#post-988-\_ref38374532)) and data date range (see [Date Range](software-transaction-reports.md#post-988-\_toc51828583)), select a **Template,** update the default name and set delivery method (see [Report Delivery Method](software-transaction-reports.md#post-988-\_toc51828584)).
+On the On-Page reporting form, you can select **Format** (see [Report Output Format](software-transaction-reports.md#post-988-\_toc51828576)), schedule (see [Schedule](software-transaction-reports.md#post-988-\_ref38374532)), and data date range (see [Date Range](software-transaction-reports.md#post-988-\_toc51828583)), select a **Template,** update the default name and set delivery method (see [Report Delivery Method](software-transaction-reports.md#post-988-\_toc51828584)).
 
 <figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
@@ -188,11 +218,15 @@ On the On-Page reporting form, you can select **Format** (see [Report Output For
 
 To create a report, click **Run**.
 
+***
+
 #### Continue report creation in the report wizard <a href="#post-988-_toc51828574" id="post-988-_toc51828574"></a>
 
 If more advanced settings are needed, you can continue report creation in Report Wizard.
 
 To open the Wizard click **Go to Advanced Reporting** (at the bottom of the form), and you will be transferred to the Wizard. Report creation in the Report Wizard is only available for some report types.
+
+***
 
 ### Format, schedule, date range, and delivery <a href="#post-988-_toc51828575" id="post-988-_toc51828575"></a>
 
@@ -293,6 +327,8 @@ You can also select the maximum attachment size and select whether the report sh
 
 To send the report to an sFTP (secure FTP), click on **sFTP** and select one of the existing configurations or create a new one.&#x20;
 
+***
+
 ### SFTP configuration <a href="#post-988-_ref38826088" id="post-988-_ref38826088"></a>
 
 #### Add a new SFTP configuration <a href="#post-988-_toc51828589" id="post-988-_toc51828589"></a>
@@ -308,6 +344,8 @@ To update an sFTP configuration, click **Edit** in **Actions** column. In opened
 You can delete an sFTP configuration if it is not used in any of the Scheduled reports.
 
 To delete an sFTP configuration, click **Delete** in the **Actions** column and then click **OK** in the confirmation dialog.
+
+***
 
 ### Grid functionality <a href="#post-988-_ref38437292" id="post-988-_ref38437292"></a>
 

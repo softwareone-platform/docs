@@ -15,7 +15,7 @@ The purpose of approval groups is to create a collection of users who are respon
 Each approval group can only have one parent but can be used as the child in many approval groups.
 
 {% hint style="info" %}
-**NOTE**: Only administrators can the Purchase Approval Workflows. If any other user requires access, either the administrator can set it up or the user can contact their SoftwareOne representative.
+**NOTE**: Only administrators can Purchase Approval Workflows. If any other user requires access, either the administrator can set it up or the user can contact their SoftwareOne representative.
 {% endhint %}
 
 ***
@@ -35,11 +35,11 @@ If an order created by the user exceeds the allowed spending limit, the individu
 
 ***
 
-### Setting up the approval workflow
+### Creating an approval workflow
 
 The **Purchase Approval Setup** page displays a list of all users that have access to the SoftwareOne Client Portal.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **To set up an individual workflow/approval for a user**
 
@@ -64,6 +64,6 @@ The **Purchase Approval Setup** page displays a list of all users that have acce
 1. On the Purchase Approval Setup page, select the user. The Approval Workflow Setup window opens.
 2.  In the **Actions** column, select **Delete**.
 
-    <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Select **Yes** to delete the rule.

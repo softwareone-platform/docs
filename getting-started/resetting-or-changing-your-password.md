@@ -2,7 +2,7 @@
 description: Follow these instructions to reset or change your password.
 ---
 
-# Resetting or Changing your Password
+# Resetting or changing your password
 
 ***
 
@@ -15,7 +15,7 @@ If you forgot your password, you can reset it.
 1. On the sign-in page, enter your email address and select **Continue**.
 2. Select the **Forgot password?** link.
 3. Select **Send Email**. You'll receive an email containing a password reset link.
-4. Select the link in your email to choose a new password.
+4. Select the link in your email and follow the instructions to create a new password.
 
 ***
 
@@ -27,7 +27,7 @@ If you wish to change your current password, you can do so when you're signed in
 
 1. Select the account menu in the upper-right corner of the Client Portal.
 2. Select **Change Password**. You'll receive an email containing a password reset link.
-3. Select the link in your email to choose a new password.
+3. Select the link in your email and follow the instructions to choose a new password.
 
 {% hint style="info" %}
 **NOTES**:&#x20;

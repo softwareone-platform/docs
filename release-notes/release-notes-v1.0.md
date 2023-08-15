@@ -48,7 +48,7 @@ Other changes include:
 
 #### Search bar and shortcut icons
 
-We've removed the Search bar and the icons for the shopping cart, [Reports](../analytics-and-reports/reports/about-reports.md), and [Notifications](../setup/notifications/about-notifications.md) from the header. You can now access these pages directly from the navigation menu.
+We've removed the Search bar and the icons for the shopping cart, [Reports](../analytics-and-reports/reports/working-with-reports.md), and [Notifications](../setup/notifications/about-notifications.md) from the header. You can now access these pages directly from the navigation menu.
 
 ***
 

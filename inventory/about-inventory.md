@@ -8,7 +8,7 @@ You can also manage your software license renewals, view your agreement terms, a
 
 See the following links for detailed information about specific features:
 
-* [Managing software license renewals](renewal-manager/managing-software-license-renewals.md)
+* [Managing software license renewals](renewal-manager/managing-the-software-license-renewals.md)
 * [Viewing invoices](invoices/viewing-invoices.md)
 * [Software assets onboarding](software-assets/)
 * [Working with software downloads](software-downloads/working-with-software-downloads.md)
