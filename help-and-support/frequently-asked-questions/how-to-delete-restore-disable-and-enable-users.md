@@ -19,21 +19,21 @@ Find the user to be deleted on the list of users. If you use the search, make su
 
 Deleted users are shown on the list of deleted users and can be restored from there within 30 days after being deleted.
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Delete Users From the User Details <a href="#delete-users-from-the-user-details" id="delete-users-from-the-user-details"></a>
 
 Click on “View” of the user to be deleted in the user list. Verify the user details before deleting the user. Click on “Delete User” and confirm the user deletion. Deleted users cannot be edited. This is indicated by the grayed out steps in the wizard.
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -47,19 +47,19 @@ Find the deleted user on the list of users. Make sure to use the correct filter 
 
 Restored users are available on the list of users again. Their status will always be “active” after being restored.
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Restore Users from the User Details <a href="#restore-users-from-the-user-details" id="restore-users-from-the-user-details"></a>
 
 Click on “View” of the user to be restored in the user list. Verify the user details before restoring the user. Click on “Restore User”. Restored users can be edited again. This is indicated by the active wizard steps.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Special Case: Restore Users From Add Users <a href="#special-case-restore-users-from-add-users" id="special-case-restore-users-from-add-users"></a>
 
@@ -72,9 +72,9 @@ Restore users to bring them back with all of their permissions and settings. Thi
 
 Create a new user to specify their permissions and settings. When the deleted user with the same username is to be restored, the User Management administrator needs to specify another username.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Disable Users <a href="#disable-users" id="disable-users"></a>
 
@@ -82,9 +82,9 @@ Disable users to temporarily revoke their PyraCloud access.
 
 If required, use the search to find the user. Click on “View” to go to the user details. Click on the “Enabled” status toggle and confirm the action to disable the user. Disabled users can still be edited.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Enable Users <a href="#enable-users" id="enable-users"></a>
 
@@ -92,4 +92,4 @@ Enable users to grant them access to PyraCloud again.
 
 If required, use the search to find the user. Click on “View” to go to the user details. Click on the “Disabled” status toggle and confirm the action to enable the user.
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>

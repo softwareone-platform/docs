@@ -37,6 +37,7 @@
   * [Defining tags and managing resources](setup/tags-and-resources/defining-tags-and-managing-resources.md)
 * [User Management](setup/user-management/README.md)
   * [Managing users and their permissions](setup/user-management/managing-users-and-their-permissions.md)
+  * [How to Manage Users With the User Management Wizard](setup/user-management/how-to-manage-users-with-the-user-management-wizard.md)
 
 ## Marketplace
 
@@ -104,6 +105,8 @@
   * [Understanding the Office 365 analytics tiles](analytics-and-reports/office-365/understanding-the-office-365-analytics-tiles.md)
 * [Utilization](analytics-and-reports/utilization/README.md)
   * [Cloud utilization](analytics-and-reports/utilization/cloud-utilization.md)
+* [365 Analytics](analytics-and-reports/365-analytics/README.md)
+  * [Introduction to 365 Analytics](analytics-and-reports/365-analytics/introduction-to-365-analytics.md)
 
 ## SERVICES
 
@@ -111,6 +114,8 @@
 * [Simple for AWS dashboard](services/simple-for-aws-dashboard.md)
 * [Cloud cost optimization](services/cloud-cost-optimization.md)
 * [Unified support for multi vendor](services/unified-support-for-multi-vendor.md)
+* [365Simple dashboard](services/365simple-dashboard.md)
+* [AzureSimple Dashboard](services/azuresimple-dashboard.md)
 
 ## SPEND MANAGEMENT
 
@@ -136,6 +141,7 @@
   * [How does PyraCloud access my Microsoft 365 tenant under CSP?](help-and-support/frequently-asked-questions/how-does-pyracloud-access-my-microsoft-365-tenant-under-csp.md)
   * [How does PyraCloud connect to my Azure tenant?](help-and-support/frequently-asked-questions/how-does-pyracloud-connect-to-my-azure-tenant.md)
   * [How to delete, restore, disable, and enable users](help-and-support/frequently-asked-questions/how-to-delete-restore-disable-and-enable-users.md)
+  * [How to edit your company structure](help-and-support/frequently-asked-questions/how-to-edit-your-company-structure.md)
   * [I'm unable to see the Microsoft products via CSP/Client Portal](help-and-support/frequently-asked-questions/im-unable-to-see-the-microsoft-products-via-csp-client-portal.md)
   * [I'm facing issues with notifications](help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md)
   * [I have questions about access tokens and consent](help-and-support/frequently-asked-questions/i-have-questions-about-access-tokens-and-consent.md)
@@ -144,7 +150,9 @@
   * [What data do you collect for 365 Analytics?](help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md)
   * [What has changed in the new 365 Analytics?](help-and-support/frequently-asked-questions/what-has-changed-in-the-new-365-analytics.md)
   * [What is 365 analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)
+  * [What is the difference between subscription manager and cloud subscriptions?](help-and-support/frequently-asked-questions/what-is-the-difference-between-subscription-manager-and-cloud-subscriptions.md)
   * [Single Sign-on (SSO) Integration](help-and-support/frequently-asked-questions/single-sign-on-sso-integration.md)
+  * [Microsoft New Commerce Offers for CSP](help-and-support/frequently-asked-questions/microsoft-new-commerce-offers-for-csp.md)
 
 ## Release Notes
 

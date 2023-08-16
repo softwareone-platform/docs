@@ -12,7 +12,7 @@ Maintaining a consistent tag structure allows you to aggregate resource informat
 
 The following image shows an inconsistent tag structure:
 
-<figure><img src="../../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you can see from the three examples above, the administrators managing the different cloud platforms and subscriptions had the same intent, but did their tagging differently.
 
@@ -20,7 +20,7 @@ This would make aggregating information within each platform or outside each pla
 
 Here is an example of how PyraCloud solves the problem:
 
-<figure><img src="../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Throughout the rest of this article, we will show you how to use Tags and Resources to drive a consistent standard within your business.
 
@@ -33,7 +33,7 @@ Throughout the rest of this article, we will show you how to use Tags and Resour
 
 Alternatively, you can view your stats using the Resource Manager tile. These stats are pulled from Tags and Resources. Selecting this tile will direct you to Resources.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (27) (1) (1).png" alt="" width="327"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1) (1) (1).png" alt="" width="327"><figcaption></figcaption></figure>
 
 The tile displays three sets of information:
 
@@ -129,7 +129,7 @@ You may see the following messages for the following scenarios:
 
 Select **Show Details** to view details of the resource type, AWS account, and AWS region that you are missing permissions for, and the impact on the environment.
 
-<figure><img src="../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This modal explains the permissions that are missing for each resource type within an AWS account and region. For example, in the third row, we are missing permissions for RedShiftReservedNodes in the ap-northeast region for the account swo-test.
 
@@ -143,7 +143,7 @@ There are a number of items on the Resource Details Page as explained below:
 
 As mentioned above, clicking on View in the Actions column will open up the Resource Details Page. Within this page, you can make edits to your resource.
 
-<figure><img src="../../.gitbook/assets/image (29) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Resource Details:** Common properties of all resources are listed in this section. In addition, we will also display some extended properties, based on resource type. Common resource properties include Name, Cloud Platform, Subscription Name, Location, and Resource Type.
 * **Groups:** This is the list of all custom groups the resource is a part of. A resource can be part of more than one group. The table also displays the allocation of the cost of that resource across the different groups. Filtering by Custom Groups will reflect this cost allocation across costs on the Consumption and the Budget pages.
@@ -189,13 +189,13 @@ Adding a virtual resource can be performed by clicking on the ‘Add Virtual Res
 
 Virtual resources will appear in Resources just like any other resource. They can be searched for by using the Advanced Search filter “Resource Type” as shown below:
 
-<figure><img src="../../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Virtual resources in resource details**
 
 Virtual Resources inherit their tags and custom groups from the resource they are associated with (as mentioned above). Therefore their tags and custom groups cannot be modified.
 
-<figure><img src="../../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -227,7 +227,7 @@ There are a number of items on the Resource Details Page:
 
 If you have conflicts, you will see a table that lists all of the Tags that are in conflict, from the Tag perspective.
 
-<figure><img src="../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Conflict column:** This is the Tag that was applied and that is now in conflict with a resource. If you click on the Tag name, it will take you to the Tags page, in the Tag Edit view.
 * **Cloud Platform column:** This is the resource’s Cloud Platform impacted by the Tag Conflict.
@@ -238,11 +238,11 @@ If you have conflicts, you will see a table that lists all of the Tags that are 
 
 Select the arrow icon **>** next to the tag to open up more details about the error.
 
-<figure><img src="../../.gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the action you want to take and select **Update Changes**.
 
-<figure><img src="../../.gitbook/assets/image (34) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -270,7 +270,7 @@ The above rule looks at all resources with a tag **\_geo**, value **EMEA** and g
 
 The order of resource rules is important, as they run in the order defined. Users can reorder resource rules by dragging and dropping a resource rule to another position within the grid. The order is also mentioned in the column right of Rule Name.
 
-<figure><img src="../../.gitbook/assets/image (36) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Please note that it takes up to 24 hours to refresh consumption reports after rule execution
 

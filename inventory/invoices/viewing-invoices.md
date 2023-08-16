@@ -28,5 +28,5 @@ You can export an invoice to PDF, CSV, or Excel.
 1. Find the invoice that you want to export.
 2.  Select the More icon (three dots) from the **Actions** column and choose the export format.&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (21) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (21) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. A confirmation message is displayed when the invoice is exported successfully.

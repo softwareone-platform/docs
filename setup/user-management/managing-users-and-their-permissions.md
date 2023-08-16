@@ -53,7 +53,7 @@ You can edit the permissions and the security settings for a user. &#x20;
 
 1. Select **Edit User** to change the security settings.
 
-<figure><img src="../../.gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Edit the permissions and the security settings. You cannot edit the name and email address.
 3. Select **Save Changes.**&#x20;
@@ -83,7 +83,7 @@ User Management provides extensive capabilities to define user data access for S
 
 You can limit access by selecting the **Spend Management Access** tab.
 
-<figure><img src="../../.gitbook/assets/image (41) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -91,7 +91,7 @@ You can limit access by selecting the **Spend Management Access** tab.
 
 By default, each user has full access. Select **Full Access** to give users full access to all the spend management data.
 
-<figure><img src="../../.gitbook/assets/image (42) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -99,7 +99,7 @@ By default, each user has full access. Select **Full Access** to give users full
 
 Select **Accounts** to use existing providers and subscriptions to configure access. Select **Next** to define the access.
 
-<figure><img src="../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Choose whether the user will be able to access the following data:
 
@@ -111,7 +111,7 @@ Choose whether the user will be able to access the following data:
 **NOTE**: Defining access at the Provider level gives access to all Accounts and Subscriptions including those added in the future. Users will get access to new entities automatically. The same rule applies for defining access on the Account (Tenant) level.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Save your changes in order to make the changes effective.
 
@@ -121,7 +121,7 @@ Save your changes in order to make the changes effective.
 
 1. Choose **Custom Groups** to give users access only to selected groups. Select **Next**.
 
-<figure><img src="../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Choose the groups the user can access. Selecting a group (or a branch) will allow the user to see all resources assigned to that group, and all cloud spend data related to those resources.
 
@@ -129,7 +129,7 @@ Save your changes in order to make the changes effective.
 **NOTE:** Giving access to a parent group will allow the user to access the parent and all its children groups.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Select **Save**.
 
@@ -141,7 +141,7 @@ Select the **Procurement** tab to open the current user Procurement settings.&#x
 
 You will see all the countries where the user can procure. Choose a country to see and manage permissions. You must own sufficient privileges to edit the permissions (some of them may appear read-only). The privileges may be different depending on the country.
 
-<figure><img src="../../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -153,7 +153,7 @@ You can request for these users to be configured. First, choose the **Procuremen
 
 The Procurement Request form will be displayed. Fill in the information and confirm by clicking the "Request Procurement" option. The request will be processed by a SoftwareOne sales representative.
 
-<figure><img src="../../.gitbook/assets/image (48) (1).png" alt="" width="336"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48) (1) (1).png" alt="" width="336"><figcaption></figcaption></figure>
 
 ***
 
@@ -161,7 +161,7 @@ The Procurement Request form will be displayed. Fill in the information and conf
 
 You can manage user access to folders existing in the Collaboration Site. Select the **Collaboration Site** tab on the user details page.
 
-<figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Selected folder access configuration will be immediately reflected in the Collaboration Site.
 
@@ -176,5 +176,5 @@ After you disable a user, they will no longer be able to sign in to the portal.
 1. Select the **Disable User** option. A confirmation message is displayed.&#x20;
 2. Select **Disable** to confirm the action.
 
-<figure><img src="../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
