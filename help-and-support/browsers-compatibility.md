@@ -14,5 +14,5 @@ If you use a browser other than the ones listed below, you aren’t able to log 
 * **Safari**: Latest stable version supported on macOS only.
 * **Mobile Browsers**:
   * **Mobile Safari (iOS)** — Latest stable version supported.
-  * **Android** — The default browser on Android 4.x.x supported.
+  * **Android** — The default browser on Android 13+ supported.
 
