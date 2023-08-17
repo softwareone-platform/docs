@@ -125,7 +125,9 @@
 
 ## Help and Support
 
+* [Status Page](help-and-support/status-page.md)
 * [Contacting support](help-and-support/contacting-support.md)
+* [Browsers Compatibility](help-and-support/browsers-compatibility.md)
 * [Frequently asked questions](help-and-support/frequently-asked-questions/README.md)
   * [How to change your currency](help-and-support/frequently-asked-questions/how-to-change-your-currency.md)
   * [How to configure conditional access policies](help-and-support/frequently-asked-questions/how-to-configure-conditional-access-policies.md)
@@ -153,8 +155,6 @@
   * [What is the difference between subscription manager and cloud subscriptions?](help-and-support/frequently-asked-questions/what-is-the-difference-between-subscription-manager-and-cloud-subscriptions.md)
   * [Single Sign-on (SSO) Integration](help-and-support/frequently-asked-questions/single-sign-on-sso-integration.md)
   * [Microsoft New Commerce Offers for CSP](help-and-support/frequently-asked-questions/microsoft-new-commerce-offers-for-csp.md)
-* [Browsers Compatibility](help-and-support/browsers-compatibility.md)
-* [Status Page](help-and-support/status-page.md)
 
 ## Release Notes
 
