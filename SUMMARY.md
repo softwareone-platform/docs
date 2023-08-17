@@ -154,6 +154,7 @@
   * [Single Sign-on (SSO) Integration](help-and-support/frequently-asked-questions/single-sign-on-sso-integration.md)
   * [Microsoft New Commerce Offers for CSP](help-and-support/frequently-asked-questions/microsoft-new-commerce-offers-for-csp.md)
 * [Browsers Compatibility](help-and-support/browsers-compatibility.md)
+* [Status Page](help-and-support/status-page.md)
 
 ## Release Notes
 
