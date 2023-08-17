@@ -157,4 +157,4 @@
 
 ## Release Notes
 
-* [Release Notes v1.0](release-notes/release-notes-v1.0.md)
+* [Release Notes v1](release-notes/release-notes-v1.md)
