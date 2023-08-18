@@ -128,6 +128,7 @@
 * [Status Page](help-and-support/status-page.md)
 * [Contacting support](help-and-support/contacting-support.md)
 * [Browsers Compatibility](help-and-support/browsers-compatibility.md)
+* [Terms of Use](help-and-support/terms-of-use.md)
 * [Frequently asked questions](help-and-support/frequently-asked-questions/README.md)
   * [How to change your currency](help-and-support/frequently-asked-questions/how-to-change-your-currency.md)
   * [How to configure conditional access policies](help-and-support/frequently-asked-questions/how-to-configure-conditional-access-policies.md)
