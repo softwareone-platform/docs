@@ -2,42 +2,40 @@
 
 * [Home](README.md)
 
-## Getting Started
+## Using the client portal
 
-* [Understanding the Home page](<README (1).md>)
-* [Adding and managing favorites](getting-started/adding-and-managing-favorites.md)
-* [Resetting or changing your password](getting-started/resetting-or-changing-your-password.md)
+* [Navigating the Home Page](using-the-client-portal/navigating-the-home-page.md)
+* [Supported Browsers](using-the-client-portal/supported-browsers.md)
+* [Adding and Managing Favorites](using-the-client-portal/adding-and-managing-favorites.md)
+* [Changing Language Settings](using-the-client-portal/changing-language-settings.md)
+* [Resetting or Changing Password](using-the-client-portal/resetting-or-changing-password.md)
+* [Updating Profile](using-the-client-portal/updating-profile.md)
+* [Viewing and Managing Notifications](using-the-client-portal/viewing-and-managing-notifications.md)
 
-## Setup
+## Administration
 
-* [Cloud Tenant Setup](setup/cloud-tenant-setup/README.md)
-  * [AWS Onboarding](setup/cloud-tenant-setup/aws-onboarding/README.md)
-    * [Activating an AWS account](setup/cloud-tenant-setup/aws-onboarding/activating-an-aws-account.md)
-    * [Updating your AWS account permissions](setup/cloud-tenant-setup/aws-onboarding/updating-your-aws-account-permissions.md)
-    * [Configuring your AWS account manually](setup/cloud-tenant-setup/aws-onboarding/configuring-your-aws-account-manually.md)
-  * [Azure Onboarding](setup/cloud-tenant-setup/azure-onboarding/README.md)
-    * [Adding an Azure Enterprise Agreement (EA) account](setup/cloud-tenant-setup/azure-onboarding/adding-an-azure-enterprise-agreement-ea-account.md)
-    * [Adding an Azure Microsoft Customer Agreement (MCA) account](setup/cloud-tenant-setup/azure-onboarding/adding-an-azure-microsoft-customer-agreement-mca-account.md)
-    * [Integrating your Microsoft tenant manually](setup/cloud-tenant-setup/azure-onboarding/integrating-your-microsoft-tenant-manually.md)
-    * [Completing your Microsoft 365 or Microsoft Azure activation](setup/cloud-tenant-setup/azure-onboarding/completing-your-microsoft-365-or-microsoft-azure-activation.md)
-    * [Assigning Reader and Tag Contributor roles (single subscription)](setup/cloud-tenant-setup/azure-onboarding/assigning-reader-and-tag-contributor-roles-single-subscription.md)
-    * [Assigning Reader and Tag Contributor roles (multiple subscriptions)](setup/cloud-tenant-setup/azure-onboarding/assigning-reader-and-tag-contributor-roles-multiple-subscriptions.md)
-* [Custom Groups](setup/custom-groups/README.md)
-  * [About Custom Groups](setup/custom-groups/about-custom-groups.md)
-  * [Working with Custom Groups](setup/custom-groups/working-with-custom-groups.md)
-* [Collaboration Site](setup/collaboration-site/README.md)
-  * [About the Collaboration Site](setup/collaboration-site/about-the-collaboration-site.md)
-* [Notifications](setup/notifications/README.md)
-  * [About Notifications](setup/notifications/about-notifications.md)
-* [Pricelist Center](setup/pricelist-center/README.md)
-  * [About the Pricelist Center](setup/pricelist-center/about-the-pricelist-center.md)
-* [Purchase Approval Setup](setup/purchase-approval-setup/README.md)
-  * [Working with purchase approval groups](setup/purchase-approval-setup/working-with-purchase-approval-groups.md)
-* [Tags and Resources](setup/tags-and-resources/README.md)
-  * [Defining tags and managing resources](setup/tags-and-resources/defining-tags-and-managing-resources.md)
-* [User Management](setup/user-management/README.md)
-  * [Managing users and their permissions](setup/user-management/managing-users-and-their-permissions.md)
-  * [How to Manage Users With the User Management Wizard](setup/user-management/how-to-manage-users-with-the-user-management-wizard.md)
+* [Collaboration Site](administration/collaboration-site/README.md)
+  * [Working with Collaboration Site](administration/collaboration-site/working-with-collaboration-site.md)
+* [Custom Groups](administration/custom-groups/README.md)
+  * [Working with Custom Groups](administration/custom-groups/working-with-custom-groups.md)
+* [Purchase Approval Groups](administration/purchase-approval-groups/README.md)
+  * [Creating and Managing approval groups](administration/purchase-approval-groups/creating-and-managing-approval-groups.md)
+* [User Management](administration/user-management/README.md)
+  * [Managing users and their permissions](administration/user-management/managing-users-and-their-permissions.md)
+
+## Cloud Account Onboarding
+
+* [AWS Onboarding](cloud-account-onboarding/aws-onboarding/README.md)
+  * [Activating an AWS account](cloud-account-onboarding/aws-onboarding/activating-an-aws-account.md)
+  * [Updating your AWS account permissions](cloud-account-onboarding/aws-onboarding/updating-your-aws-account-permissions.md)
+  * [Configuring your AWS account manually](cloud-account-onboarding/aws-onboarding/configuring-your-aws-account-manually.md)
+* [Azure Onboarding](cloud-account-onboarding/azure-onboarding/README.md)
+  * [Adding an Azure Enterprise Agreement (EA) account](cloud-account-onboarding/azure-onboarding/adding-an-azure-enterprise-agreement-ea-account.md)
+  * [Adding an Azure Microsoft Customer Agreement (MCA) account](cloud-account-onboarding/azure-onboarding/adding-an-azure-microsoft-customer-agreement-mca-account.md)
+  * [Integrating your Microsoft tenant manually](cloud-account-onboarding/azure-onboarding/integrating-your-microsoft-tenant-manually.md)
+  * [Completing your Microsoft 365 or Microsoft Azure activation](cloud-account-onboarding/azure-onboarding/completing-your-microsoft-365-or-microsoft-azure-activation.md)
+  * [Assigning Reader and Tag Contributor roles (single subscription)](cloud-account-onboarding/azure-onboarding/assigning-reader-and-tag-contributor-roles-single-subscription.md)
+  * [Assigning Reader and Tag Contributor roles (multiple subscriptions)](cloud-account-onboarding/azure-onboarding/assigning-reader-and-tag-contributor-roles-multiple-subscriptions.md)
 
 ## Marketplace
 
@@ -54,6 +52,8 @@
 * [Orders](marketplace/orders/README.md)
   * [Creating and viewing orders](marketplace/orders/creating-and-viewing-orders.md)
   * [Making payments with a credit card](marketplace/orders/making-payments-with-a-credit-card.md)
+* [Pricelist Center](marketplace/pricelist-center/README.md)
+  * [About the Pricelist Center](marketplace/pricelist-center/about-the-pricelist-center.md)
 * [Products](marketplace/products/README.md)
   * [Buying new products](marketplace/products/buying-new-products.md)
 * [Procurement Workbench](marketplace/procurement-workbench/README.md)
@@ -79,24 +79,15 @@
 ## Analytics and Reports
 
 * [About Analytics and Reports](analytics-and-reports/about-analytics-and-reports.md)
-* [Budgets](analytics-and-reports/budgets/README.md)
-  * [Working with budgets](analytics-and-reports/budgets/working-with-budgets.md)
-* [Chargebacks](analytics-and-reports/chargebacks/README.md)
-  * [Working with chargebacks](analytics-and-reports/chargebacks/working-with-chargebacks.md)
 * [Consumption Overview](analytics-and-reports/consumption-overview/README.md)
   * [Working with cloud-reserved instances](analytics-and-reports/consumption-overview/working-with-cloud-reserved-instances.md)
 * [Dashboards](analytics-and-reports/dashboards/README.md)
   * [Working with dashboards](analytics-and-reports/dashboards/working-with-dashboards.md)
 * [Enterprise Agreements](analytics-and-reports/enterprise-agreements/README.md)
   * [Enterprise Agreement TrueUp](analytics-and-reports/enterprise-agreements/enterprise-agreement-trueup.md)
-* [Recommendations](analytics-and-reports/recommendations/README.md)
-  * [Working with recommendations](analytics-and-reports/recommendations/working-with-recommendations.md)
 * [Reports](analytics-and-reports/reports/README.md)
   * [Working with reports](analytics-and-reports/reports/working-with-reports.md)
   * [Cloud Journey report](analytics-and-reports/reports/cloud-journey-report.md)
-  * [Spend Reports](analytics-and-reports/reports/spend-reports/README.md)
-    * [Customized spend reports](analytics-and-reports/reports/spend-reports/customized-spend-reports.md)
-    * [Office 365 spend reports](analytics-and-reports/reports/spend-reports/office-365-spend-reports.md)
   * [USU License Agreement report](analytics-and-reports/reports/usu-license-agreement-report.md)
   * [Software Transaction reports](analytics-and-reports/reports/software-transaction-reports.md)
   * [Microsoft Services Provider License Agreement (SPLA) report](analytics-and-reports/reports/microsoft-services-provider-license-agreement-spla-report.md)
@@ -110,22 +101,34 @@
 
 ## SERVICES
 
-* [365 EA + Unified support](services/365-ea-+-unified-support.md)
-* [Simple for AWS dashboard](services/simple-for-aws-dashboard.md)
-* [Cloud cost optimization](services/cloud-cost-optimization.md)
-* [Unified support for multi vendor](services/unified-support-for-multi-vendor.md)
-* [365Simple dashboard](services/365simple-dashboard.md)
-* [AzureSimple Dashboard](services/azuresimple-dashboard.md)
+* [About Services](services/about-services/README.md)
+  * [365 EA + Unified support](services/about-services/365-ea-+-unified-support.md)
+  * [Simple for AWS dashboard](services/about-services/simple-for-aws-dashboard.md)
+  * [Cloud cost optimization](services/about-services/cloud-cost-optimization.md)
+  * [Unified support for multi vendor](services/about-services/unified-support-for-multi-vendor.md)
+  * [365Simple dashboard](services/about-services/365simple-dashboard.md)
+  * [AzureSimple Dashboard](services/about-services/azuresimple-dashboard.md)
 
 ## SPEND MANAGEMENT
 
 * [Software Assets spend management](spend-management/software-assets-spend-management.md)
 * [Cloud spend management](spend-management/cloud-spend-management/README.md)
   * [Creating cloud spend alerts](spend-management/cloud-spend-management/creating-cloud-spend-alerts.md)
+  * [Chargebacks](spend-management/cloud-spend-management/chargebacks/README.md)
+    * [Working with chargebacks](spend-management/cloud-spend-management/chargebacks/working-with-chargebacks.md)
+  * [Spend Reports](spend-management/cloud-spend-management/spend-reports/README.md)
+    * [Customized spend reports](spend-management/cloud-spend-management/spend-reports/customized-spend-reports.md)
+    * [Office 365 spend reports](spend-management/cloud-spend-management/spend-reports/office-365-spend-reports.md)
+  * [Budgets](spend-management/cloud-spend-management/budgets/README.md)
+    * [Working with budgets](spend-management/cloud-spend-management/budgets/working-with-budgets.md)
+  * [Tags and Resources](spend-management/cloud-spend-management/tags-and-resources/README.md)
+    * [Defining tags and managing resources](spend-management/cloud-spend-management/tags-and-resources/defining-tags-and-managing-resources.md)
+  * [Recommendations](spend-management/cloud-spend-management/recommendations/README.md)
+    * [Working with recommendations](spend-management/cloud-spend-management/recommendations/working-with-recommendations.md)
 
 ## Help and Support
 
-* [Status Page](help-and-support/status-page.md)
+* [Viewing system status](help-and-support/viewing-system-status.md)
 * [Contacting support](help-and-support/contacting-support.md)
 * [Frequently asked questions](help-and-support/frequently-asked-questions/README.md)
   * [How to change your currency](help-and-support/frequently-asked-questions/how-to-change-your-currency.md)
@@ -141,6 +144,7 @@
   * [How to view available currencies](help-and-support/frequently-asked-questions/how-to-view-available-currencies.md)
   * [How does PyraCloud access my Microsoft 365 tenant under CSP?](help-and-support/frequently-asked-questions/how-does-pyracloud-access-my-microsoft-365-tenant-under-csp.md)
   * [How does PyraCloud connect to my Azure tenant?](help-and-support/frequently-asked-questions/how-does-pyracloud-connect-to-my-azure-tenant.md)
+  * [How to Manage Users With the User Management Wizard](help-and-support/frequently-asked-questions/how-to-manage-users-with-the-user-management-wizard.md)
   * [How to delete, restore, disable, and enable users](help-and-support/frequently-asked-questions/how-to-delete-restore-disable-and-enable-users.md)
   * [How to edit your company structure](help-and-support/frequently-asked-questions/how-to-edit-your-company-structure.md)
   * [I'm unable to see the Microsoft products via CSP/Client Portal](help-and-support/frequently-asked-questions/im-unable-to-see-the-microsoft-products-via-csp-client-portal.md)
@@ -148,17 +152,16 @@
   * [I have questions about access tokens and consent](help-and-support/frequently-asked-questions/i-have-questions-about-access-tokens-and-consent.md)
   * [My Azure billing data isn't up to date](help-and-support/frequently-asked-questions/my-azure-billing-data-isnt-up-to-date.md)
   * [My 365 Analytics report doesn't contain any data](help-and-support/frequently-asked-questions/my-365-analytics-report-doesnt-contain-any-data.md)
+  * [Single Sign-on (SSO) Integration](help-and-support/frequently-asked-questions/single-sign-on-sso-integration.md)
   * [What data do you collect for 365 Analytics?](help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md)
   * [What has changed in the new 365 Analytics?](help-and-support/frequently-asked-questions/what-has-changed-in-the-new-365-analytics.md)
   * [What is 365 analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)
   * [What is the difference between subscription manager and cloud subscriptions?](help-and-support/frequently-asked-questions/what-is-the-difference-between-subscription-manager-and-cloud-subscriptions.md)
-  * [Single Sign-on (SSO) Integration](help-and-support/frequently-asked-questions/single-sign-on-sso-integration.md)
   * [Microsoft New Commerce Offers for CSP](help-and-support/frequently-asked-questions/microsoft-new-commerce-offers-for-csp.md)
 
 ## Terms and Conditions
 
 * [Terms of Use](terms-and-conditions/terms-of-use.md)
-* [Browsers Compatibility](terms-and-conditions/browsers-compatibility.md)
 
 ## Release Notes
 

@@ -8,6 +8,10 @@ description: >-
 
 ***
 
+{% hint style="info" %}
+**NOTE**: To allow us to better support you, please submit your tickets in English.
+{% endhint %}
+
 ### Submitting a ticket
 
 **To submit a ticket**

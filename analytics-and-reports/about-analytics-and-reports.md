@@ -8,8 +8,8 @@ You can also use the module to generate various reports, view your software asse
 
 See the following links for detailed information about specific features:
 
-* [Creating budgets](budgets/working-with-budgets.md)
-* [Creating chargebacks](chargebacks/working-with-chargebacks.md)
+* [Creating budgets](../spend-management/cloud-spend-management/budgets/working-with-budgets.md)
+* [Creating chargebacks](../spend-management/cloud-spend-management/chargebacks/working-with-chargebacks.md)
 * [Working with Reservation Monitoring](https://app.gitbook.com/o/sGLRSSUGgFSfUhFIYij8/s/B8rr5E9BB4HBPts7pBng/\~/changes/51/analytics-and-reports/consumption-overview/working-with-reservation-monitoring)
 * [Working with dashboards](dashboards/working-with-dashboards.md)
 * [Enterprise Agreement TrueUp](https://app.gitbook.com/o/sGLRSSUGgFSfUhFIYij8/s/B8rr5E9BB4HBPts7pBng/\~/changes/51/analytics-and-reports/enterprise-agreements/enterprise-agreement-trueup)

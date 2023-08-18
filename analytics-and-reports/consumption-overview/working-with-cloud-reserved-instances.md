@@ -4,11 +4,11 @@ description: >-
   products (for example Virtual Machines and storage).
 ---
 
-# Working with the cloud-reserved instances
+# Working with cloud-reserved instances
 
 Committing allows you to get a discount for resources you are using. RIs are one of the cost-saving strategies that can give you the biggest savings.
 
-You can read more about other available cost optimization strategies in the [Cloud Cost Optimization](../../services/cloud-cost-optimization.md) topic.&#x20;
+You can read more about other available cost optimization strategies in the [Cloud Cost Optimization](../../services/about-services/cloud-cost-optimization.md) topic.&#x20;
 
 The usage plans depend on the cloud provider. For information on the usage plans, see the [Azure ](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/)and [AWS ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html)websites.
 
@@ -18,7 +18,7 @@ The usage plans depend on the cloud provider. For information on the usage plans
 
 With the Client Portal, you can manage cloud reservations that allow you to accomplish the most savings.
 
-The Client Portal gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our [Spend Management Reporting](../reports/spend-reports/). We enable reporting automatically when our system detects an RI purchase.
+The Client Portal gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our [Spend Management Reporting](../../spend-management/cloud-spend-management/spend-reports/). We enable reporting automatically when our system detects an RI purchase.
 
 <figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
