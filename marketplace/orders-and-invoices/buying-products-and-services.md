@@ -1,8 +1,10 @@
 ---
-description: You can use the Client Portal to search for a product and add it to your cart.
+description: >-
+  The Client Portal allows you to buy products and services, check prices, and
+  and manage transactions (quotes, orders, invoices).
 ---
 
-# Buying new products
+# Buying products and services
 
 ***
 
@@ -25,5 +27,5 @@ You can add an item to your cart from the Products page.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-The item is added to your cart and a confirmation message is displayed. For information on how to create an order, see [Creating and viewing orders](../orders/creating-and-viewing-orders.md).
+The item is added to your cart and a confirmation message is displayed. For information on how to create an order, see [Creating and viewing orders](creating-and-viewing-orders.md).
 

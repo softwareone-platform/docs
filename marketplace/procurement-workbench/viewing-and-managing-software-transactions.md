@@ -31,7 +31,7 @@ The Procurement Workbench page contains various sections.
 
 ### Transaction Status and Actions
 
-* **Open Product Requests**: Allows you to view special quotes that are open. When a special quote is complete, it's no longer displayed in this section. You can also use this tab to request a new quote by selecting **Request Special Quote**. For information on how to create a special quote, see [Request prices using Special Quotes](../special-quotes/requesting-prices-using-special-quotes.md).
+* **Open Product Requests**: Allows you to view special quotes that are open. When a special quote is complete, it's no longer displayed in this section. You can also use this tab to request a new quote by selecting **Request Special Quote**. For information on how to create a special quote, see [Request prices using Special Quotes](../quotes-and-special-quotes/requesting-prices-using-special-quotes.md).
 * **Quotes Ready**: Allows you to view a list of quotes that are ready to be converted to an order. You can also view detailed information for a quote, delete a quote, convert a quote to an order, or export a quote to PDF or Excel.
 
 {% hint style="info" %}

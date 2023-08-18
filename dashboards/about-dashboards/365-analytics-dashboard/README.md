@@ -1,4 +1,4 @@
-# Introduction to 365 Analytics
+# 365 Analytics Dashboard
 
 We have made a number of enhancements to 365 Analytics in PyraCloud to provide you with more visibility and control of your Microsoft 365 environment. This article will walk you through the new and improved look and functionality.
 
@@ -28,14 +28,14 @@ In the 2-minute video below, we create a report to show potential users that can
 
 ### What has changed? <a href="#what-has-changed" id="what-has-changed"></a>
 
-If you would like to see a full list of feature changes from the old 365 Analytics platform to the new 365 Analytics platform, see [What has changed in the new 365 Analytics?](introduction-to-365-analytics.md#what-has-changed)
+If you would like to see a full list of feature changes from the old 365 Analytics platform to the new 365 Analytics platform, see [What has changed in the new 365 Analytics?](./#what-has-changed)
 
 #### Other useful articles <a href="#other-useful-articles" id="other-useful-articles"></a>
 
-**Steps to Connect your 365 Tenant for Data Collection** – 365 Analytics requires a Microsoft Application consent. 365 Analytics Reporting uses application consent to collect data from your Office 365 tenant. Application consent is used to collect data via Graph API. [This article](../../help-and-support/frequently-asked-questions/how-to-connect-your-365-tenant-for-data-collection.md) explains the steps you need to take to connect your 365 Tenant for Data Collection.
+**Steps to Connect your 365 Tenant for Data Collection** – 365 Analytics requires a Microsoft Application consent. 365 Analytics Reporting uses application consent to collect data from your Office 365 tenant. Application consent is used to collect data via Graph API. [This article](../../../help-and-support/frequently-asked-questions/how-to-connect-your-365-tenant-for-data-collection.md) explains the steps you need to take to connect your 365 Tenant for Data Collection.
 
-**How is data collected?** – 365 Analytics Reporting uses a service account to collect data from O365 tenants. Service accounts are used to collect data via PowerShell in cases where data can’t be collected via GraphAPI. [This article](../../help-and-support/frequently-asked-questions/how-to-create-service-accounts-for-365-analytics-reporting.md) explains how to create a Read-Only Administrator account in Office 365 for use with 365 Analytics.
+**How is data collected?** – 365 Analytics Reporting uses a service account to collect data from O365 tenants. Service accounts are used to collect data via PowerShell in cases where data can’t be collected via GraphAPI. [This article](../../../help-and-support/frequently-asked-questions/how-to-create-service-accounts-for-365-analytics-reporting.md) explains how to create a Read-Only Administrator account in Office 365 for use with 365 Analytics.
 
-**What data is collected?** – [This article](../../help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md) explains the importance of creating a Service Account for 365 Analytics, what data is collected, and what security measures are in place.
+**What data is collected?** – [This article](../../../help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md) explains the importance of creating a Service Account for 365 Analytics, what data is collected, and what security measures are in place.
 
 **365Simple Customers** – If you are a 365Simple customer, you can adjust your existing license quantities or purchase new subscriptions from our Cloud Subscriptions Marketplace.&#x20;

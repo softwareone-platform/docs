@@ -2,7 +2,7 @@
 description: Tiles display a summary of your Office 365 Subscription.
 ---
 
-# Understanding the Office 365 Analytics Tiles
+# Office 365 Analytics Tiles
 
 The Office 365 consumption module contains tiles with summary information about your Office 365 subscription, sourced from your Office 365 Analytics subscription.
 
@@ -49,7 +49,7 @@ The Office 365 tiles display either Licensed or In Use information.
 
 The tiles currently show the three top workloads within Office 365. The following is an example of the Office 365 Licensed tile:
 
-<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 1. This is the last time the system synchronized your Office 365 subscription information from Office 365 Analytics.
 2.  These three dials show your total licenses for each workload and how many of those licenses are actually assigned to your users. Specifically, if you own an E3 license and have enabled Exchange within that license bundle, that Exchange license will be counted in the Exchange dial as an assigned license and towards to total license count for Exchange. The dial will change colors, based on how many licenses are assigned to users compared to the total licenses available for that workload.
@@ -64,7 +64,7 @@ The tiles currently show the three top workloads within Office 365. The followin
 
 The following is an example of the Office 365 In Use Tile:
 
-<figure><img src="../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
 1. This is the last time the system synchronized your Office 365 subscription information from Office 365 Analytics.
 2.  These three dials show your active use of the licenses you own for each workload. Active use is measured over a 90-day period. The dial will change colors, based on how many active users you have compared to the total licenses available for that workload.

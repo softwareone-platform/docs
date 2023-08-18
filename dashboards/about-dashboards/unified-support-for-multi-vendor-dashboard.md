@@ -1,8 +1,8 @@
 ---
-description: Learn how to use the Unified Support for MultiVendor dashboard.
+description: Learn how to use the Unified Support for Multi-vendor dashboard.
 ---
 
-# Unified support for multi vendor
+# Unified Support for Multi-vendor Dashboard
 
 ***
 

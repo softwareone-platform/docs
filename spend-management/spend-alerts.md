@@ -1,6 +1,10 @@
-# Creating cloud spend alerts
+---
+description: >-
+  You can set up cloud consumption alerts so that you are notified when your
+  cloud spend exceeds certain thresholds.
+---
 
-You can set up cloud consumption alerts so that you are notified when your cloud spend exceeds certain thresholds.
+# Spend Alerts
 
 Consumption alerts are supported for IaaS/PaaS cloud platforms:
 
@@ -20,7 +24,7 @@ You can also define consumption parameters over a period. The Overage Alert will
 * **Overage alerting** gives very granular control, allowing you to set the consumption value as well as a period against which the service is monitoring consumption.
 * **Reserved Instance alerting** allows you to set minimum utilization thresholds that monitor the consumption of your reservation purchase.
 
-<figure><img src="../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 * The top section (1) describes Notification Hub settings. In the example above, you can see that this user only has Web notification enabled for both Spike and Overage alert types.
 * The left Pane (2) is a list of all alerts for the past 30 days and the right pane (3) shows details about the currently selected alert.
@@ -31,7 +35,7 @@ You can also define consumption parameters over a period. The Overage Alert will
 
 You can access consumption alerts from any cloud consumption reports.
 
-<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 You see the alert list by default. This report provides a basic overview of generated consumption alerts for every Cloud Provider that you configured.
 
@@ -48,7 +52,7 @@ Essentially two modules are available in consumption alerts:
 
 This tab contains information about all generated alerts.
 
-<figure><img src="../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 * The top section (1) describes Notification Hub settings. In the example above, you can see that this user only has Web notification enabled for both Spike and Overage alert types.
 * The left Pane (2) is a list of all alerts for the past 30 days and the right pane (3) shows details about the currently selected alert.&#x20;
@@ -57,7 +61,7 @@ This tab contains information about all generated alerts.
 
 This tab allows you to manage your alert definitions and notifications.
 
-<figure><img src="../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
 
 * **Create new alert** (1) opens a new interactive form where you can precisely configure your alert definition.
 * **Manage Notification** (2), brings you to the Notification Hub configuration page, where you can precisely configure in which form you wish to see notifications.&#x20;
@@ -75,11 +79,11 @@ The **Consumption Alerts** tab presents all created alerts. Alerts are evaluated
 
 New execution entries have a “New” badge and by default, you can view entries from the last 30 days. By clicking on an entry, you are marking it as read thus the “New” badge will be removed.
 
-<figure><img src="../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
 the To load more alerts, click “Load more” button when you reach the bottom of the execution list.
 
-<figure><img src="../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
 #### Execution details <a href="#post-1457-_toc19114683" id="post-1457-_toc19114683"></a>
 
@@ -87,7 +91,7 @@ The details section is loaded immediately after clicking on the alert from the l
 
 The top section (1) shows a brief explanation of why the alert was created, for example: _13.39 USD above the set threshold_.
 
-<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 You can also see details loaded directly from the alerts definition (2), like threshold, time range, and applied filters.&#x20;
 
@@ -97,7 +101,7 @@ The bottom section (3) shows the Filters that have been applied.
 
 The preview section is a graphical representation of the alert and highlights the point of time when it occurs.
 
-<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
 You can interact with this chart similarly to the Consumption Reports, which includes “hover-over text” when you are viewing a vertical bar in the chart.
 
@@ -105,7 +109,7 @@ You can interact with this chart similarly to the Consumption Reports, which inc
 
 The Alert item allows you to perform more detailed analysis in Consumption Reports so you can find the root cause of that alert. When you follow the “Analyze Consumption” link, the report will be opened in a new tab with the filters and dates extracted from the alert.
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -117,13 +121,13 @@ Notification configuration allows you to set your preferred delivery methods for
 
 Once the Notification Hub page appears, a section for consumption settings is displayed. This is where you can individually configure delivery methods for Spike and Overage alert types.
 
-<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 #### Adding alert definition <a href="#post-1457-_alert_parameters" id="post-1457-_alert_parameters"></a>
 
 You can access the wizard by clicking **Create New Alert** or **Edit**. Remember that the alert name has to be unique across all of your alerts.
 
-<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 #### Alert types <a href="#post-1457-_toc19114689" id="post-1457-_toc19114689"></a>
 
@@ -132,7 +136,7 @@ Notification alerting supports the following two modes:
 * **Spike mode** is used to detect anomalies in your consumption characteristics, for instance, a Virtual Machine that was left running after performance tests executed by the team.
 * **Overage mode** is used to track if the overall consumption is in the defined boundary (threshold).
 
-<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 #### Parameters <a href="#post-1457-_spike_alert_type" id="post-1457-_spike_alert_type"></a>
 
@@ -145,13 +149,13 @@ For example, you configured the threshold as follows:
 
 This means that the above rule will be applied individually to all subscriptions or tenants. If the condition is met, a notification will be produced.
 
-<figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 The Custom option works slightly differently. First, you need to select a report type (1) and then you can precisely craft your definition, using that report (2).&#x20;
 
 For instance, you may only want to monitor virtual machines in a single subscription. To do that in the report selector (1) you should select **Azure EA Consumption Details**, then select **Virtual Machine** in the Meter Category, and then narrow down the subscription filter according to your requirements.
 
-<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 If you are actively using the **Save Filters** functionality, you can click **Save Search** and all saved filter combinations will be available.
 
@@ -170,8 +174,8 @@ Additionally, you can control two extra parameters (3):
 
 Alert definitions can be private. A private alert means that it will only be visible to you (1). A public alert means that you can share this alert configuration with anyone in your company (2).
 
-<figure><img src="../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
 When you select **share with your team**, an additional dropdown appears where you can add team members individually. By default people with whom the alert is shared are unsubscribed – they have to subscribe to the alert to see notifications, this prevents you from generating unwanted notifications on other user’s accounts.
 
-<figure><img src="../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>

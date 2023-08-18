@@ -24,7 +24,7 @@ We’ve also updated our URL to [https://client.softwareone.com](https://client.
 
 ### **New Home page**
 
-Previously, after signing in to PyraCloud, a predefined [dashboard](../analytics-and-reports/dashboards/working-with-dashboards.md) was displayed.&#x20;
+Previously, after signing in to PyraCloud, a predefined [dashboard](../dashboards/about-dashboards/) was displayed.&#x20;
 
 Now, when you sign in to the Client Portal, you'll see a new Home page that'll provide you quick access to different modules, platform news, and updates.&#x20;
 
@@ -48,7 +48,7 @@ Other changes include:
 
 #### Search bar and shortcut icons
 
-We've removed the Search bar and the icons for the shopping cart, [Reports](../analytics-and-reports/reports/working-with-reports.md), and [Notifications](../using-the-client-portal/viewing-and-managing-notifications.md) from the header. You can now access these pages directly from the navigation menu.
+We've removed the Search bar and the icons for the shopping cart, [Reports](../analytics-and-reports/reports/working-with-reports.md), and [Notifications](../using-the-client-portal/managing-notifications.md) from the header. You can now access these pages directly from the navigation menu.
 
 ***
 

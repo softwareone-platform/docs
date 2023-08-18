@@ -4,11 +4,11 @@ description: >-
   products (for example Virtual Machines and storage).
 ---
 
-# Working with cloud-reserved instances
+# Cloud Reserved Instances
 
 Committing allows you to get a discount for resources you are using. RIs are one of the cost-saving strategies that can give you the biggest savings.
 
-You can read more about other available cost optimization strategies in the [Cloud Cost Optimization](../../services/about-services/cloud-cost-optimization.md) topic.&#x20;
+You can read more about other available cost optimization strategies in the [Cloud Cost Optimization](broken-reference) topic.&#x20;
 
 The usage plans depend on the cloud provider. For information on the usage plans, see the [Azure ](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/)and [AWS ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html)websites.
 
@@ -18,9 +18,9 @@ The usage plans depend on the cloud provider. For information on the usage plans
 
 With the Client Portal, you can manage cloud reservations that allow you to accomplish the most savings.
 
-The Client Portal gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our [Spend Management Reporting](../../spend-management/cloud-spend-management/spend-reports/). We enable reporting automatically when our system detects an RI purchase.
+The Client Portal gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our [Spend Management Reporting](reports/spend-reports/). We enable reporting automatically when our system detects an RI purchase.
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 1. Recent average of your reservation utilization – you can check if there is any degradation in usage. If the average utilization is going down – resources that were utilizing RIs were likely deallocated.
 2. PyraCloud keeps track of your historical purchases so you can compare values at any time. For monitoring purposes look at **Active** status only.
@@ -30,7 +30,7 @@ The Client Portal gives you a central view to quickly check your reservation's h
 
 PyraCloud transforms billing data in a way that allows you to effortlessly explore resources utilizing your RI at a given point in time.
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 1. Reservation details are exposed by the cloud provider.
 2. The Amortized View groups data by resource, so you can see which resources are using this Reserved Instance. You can “drill down” to a selected month to see daily distribution.
@@ -42,7 +42,7 @@ You should keep this bar as low as possible (because of the delay in receiving d
 
 3. In the Utilization tab, you can monitor the daily utilization of your reservation.
 
-<figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -66,7 +66,7 @@ We value your time, so we automatically created notifications for all your RI’
 
 If you want to receive an email or SMS, be sure to verify your subscription in the Consumption Section (1) of the Notification Hub.
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -91,7 +91,7 @@ Important:
 
 To register for the Enterprise Application, use the following link: [Perform Consent](https://login.microsoftonline.com/common/oauth2/authorize?response\_type=code\&client\_id=2a4807a4-d9e4-457d-b32f-a455e0d3662a\&prompt=consent\&redirect\_uri=https://www.softwareone.com/)
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 **Confirm the Enterprise Application Exists**
 
@@ -99,7 +99,7 @@ To confirm the “PyraCloud (Azure)” Enterprise Application exists, sign in to
 
 The “PyraCloud (Azure)” application should be visible in the list. If it is not visible, try searching for “pyra”.
 
-<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 **Assign IAM Roles to the “PyraCloud (Azure)” Enterprise Application**
 
