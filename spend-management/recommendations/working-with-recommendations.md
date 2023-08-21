@@ -4,13 +4,7 @@ description: >-
   intelligent recommendations.
 ---
 
-# Working with recommendations
-
-The Recommendations module is a set of functionalities that facilitate intelligent recommendations and suggestions to optimize, streamline, and improve your software environment, be that on-premise or the cloud.
-
-The Recommendations module offers recommendations from a variety of sources, such as Azure Advisor, AWS Cost Explorer, and AWS Trusted Advisor as well as integrating with SoftwareONE Services to provide bespoke and tailored recommendations that optimize a customer’s software environment.
-
-Additionally, the Recommendation module provides capabilities to track metrics such as realized savings and completed recommendations for example, so these can be further used to track, manage, and report on savings opportunities and other key success metrics as well as justify return on investment.
+# Working with Recommendations
 
 ***
 
@@ -43,45 +37,45 @@ All customer recommendations are divided into three areas:
 
 Tiles on the Overview page enable you to understand how recommendations are distributed across different areas, and how advanced you are in implementing them. Additionally, below each tile, you can find information about the most impactful recommendation type.
 
-<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 As mentioned previously, the Recommendation module presents data from different sources. This information is presented in the grid below the tiles. This view helps you to understand where your biggest opportunities to improve are.
 
-<figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 #### **Cost Optimization** <a href="#cost-optimization" id="cost-optimization"></a>
 
 The Cost Optimization page enables you to understand the potential savings structure. On the grid, you can find information about realized and active saving recommendations.
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
 At the top of the page, there are filters that allow you to filter recommendations. All charts are adjusted for the provided search criteria.
 
-<figure><img src="../../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 You can find more details for each recommendation type by clicking on it. This will open up more information about Potential and Realized saving.
 
-<figure><img src="../../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 #### **Operational Excellence** <a href="#operational-excellence" id="operational-excellence"></a>
 
 The Operational Excellence page enables you to understand the Operational Excellence recommendations structure. On the grid, you can find information about realized and active Operational Excellence recommendations. At the top of the page, there are filters that allow you to filter recommendations. All charts are adjusted for the provided search criteria.
 
-<figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 You can find more details for the Operational Excellence recommendation type by clicking on it.
 
-<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 #### **Security** <a href="#security" id="security"></a>
 
 The Security page enables you to understand the Security recommendations structure. On the grid, you can find information about realized and active Security recommendations. At the top of the page, there are filters that allow users to filter recommendations. All charts are adjusted for the provided search criteria.
 
-<figure><img src="../../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
 You can find more details about the Security recommendation type by clicking on it.
 
-<figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -106,7 +100,7 @@ This is available by typing ‘@’ and then typing the user’s first/last name
 
 Every recommendation can be tracked through its lifecycle with the progress log functionality. You can track progress by navigating to the progress log.
 
-<figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 #### Marking a Recommendation as Complete <a href="#marking-a-recommendation-as-complete" id="marking-a-recommendation-as-complete"></a>
 
@@ -114,7 +108,7 @@ All recommendations can be marked as complete from the Recommendation Type page 
 
 For Azure and AWS recommendations, you don’t need to Mark recommendations as Complete because the Recommendations system automatically detects when recommendations are being executed and moves them to the completed/realized state. However, there are some exceptions to automatically realizing savings amounts from Azure and AWS Recommendations. For details, see [Completion of Azure Recommendations](working-with-recommendations.md#completion-of-azure-recommendations) and [AWS Recommendations](working-with-recommendations.md#aws-recommendations).
 
-<figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 Once a recommendation has been completed, it is moved from the Active tab on the main page to the Realised tab.
 
@@ -122,7 +116,7 @@ Once a recommendation has been completed, it is moved from the Active tab on the
 
 If a recommendation is not planned to be actioned on, you can dismiss the recommendation from the Recommendation type page. There is an option to dismiss all recommendations of the given type.
 
-<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 ### SLM Recommendations <a href="#slm-recommendations" id="slm-recommendations"></a>
 
@@ -157,7 +151,7 @@ For example, Recommendations of type ‘SQL DB Advisor recommendations’ are as
 
 The association from a recommendation to a related PyraCloud resource is available in the Related Resources tab on the Recommendation Details page.
 
-<figure><img src="../../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 #### Completion of Azure Recommendations <a href="#completion-of-azure-recommendations" id="completion-of-azure-recommendations"></a>
 
@@ -185,7 +179,7 @@ The AWS tab displays six tiles at the top. These are:
 Recommendations can be fetched from the AWS Trusted Advisor if:
 
 * AWS Business or Enterprise [support plan](https://aws.amazon.com/premiumsupport/plans/) is enabled for an account within AWS.&#x20;
-* The right permissions are enabled for AWS account(s) within PyraCloud. For information on permission required to download recommendations from AWS Trusted Advisor, see [Reonboarding AWS Recommendations](../../../cloud-account-onboarding/aws-onboarding/updating-your-aws-account-permissions.md#re-onboard-aws-recommendations).
+* The right permissions are enabled for AWS account(s) within PyraCloud. For information on permission required to download recommendations from AWS Trusted Advisor, see [Reonboarding AWS Recommendations](../../cloud-account-onboarding/aws-onboarding/update-your-aws-account-permissions.md#re-onboard-aws-recommendations).
 
 #### AWS Cost Explorer <a href="#aws-cost-explorer" id="aws-cost-explorer"></a>
 
@@ -202,7 +196,7 @@ By default, all your AWS accounts will be configured to pull recommendations fro
 
 Charges for synchronizing AWS Cost Explorer RecommendationsPlease be aware that AWS charges 0.05 USD per account for every sync. PyraCloud will sync recommendation data per account once a week. When Cost Explorer is turned on (within AWS and PyraCloud), this should be a maximum of 0.20 USD per AWS account per month.
 
-To turn off these recommendations, see [How to turn off Cost Explorer Recommendations](../../../help-and-support/frequently-asked-questions/how-to-turn-off-the-cost-explorer-recommendations.md).
+To turn off these recommendations, see [How to turn off Cost Explorer Recommendations](../../help-and-support/frequently-asked-questions/how-to-turn-off-the-cost-explorer-recommendations.md).
 
 To effectively utilize these recommendations, make sure AWS Cost Explorer is turned on within AWS for each of your accounts. See [Enabling Cost Explorer](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-enable.html) to turn on Cost Explorer within AWS.
 

@@ -24,11 +24,11 @@ We’ve also updated our URL to [https://client.softwareone.com](https://client.
 
 ### **New Home page**
 
-Previously, after signing in to PyraCloud, a predefined [dashboard](../analytics-and-reports/dashboards/) was displayed.&#x20;
+Previously, after signing in to PyraCloud, a predefined [dashboard](../dashboards/about-dashboards/) was displayed.&#x20;
 
 Now, when you sign in to the Client Portal, you'll see a new Home page that'll provide you quick access to different modules, platform news, and updates.&#x20;
 
-You'll also be able to view your account information, favorites, and a list of your recently viewed pages. To learn more about the new page, see [Understanding the Home page](../using-the-client-portal/navigating-the-home-page.md).&#x20;
+You'll also be able to view your account information, favorites, and a list of your recently viewed pages. To learn more about the new page, see [Understanding the Home page](../using-the-client-portal/navigate-the-home-page.md).&#x20;
 
 The dashboards are accessible via **Analyze** > **Dashboard** in the navigation menu.
 
@@ -48,7 +48,7 @@ Other changes include:
 
 #### Search bar and shortcut icons
 
-We've removed the Search bar and the icons for the shopping cart, [Reports](../analytics-and-reports/reports/working-with-reports.md), and [Notifications](../using-the-client-portal/managing-notifications.md) from the header. You can now access these pages directly from the navigation menu.
+We've removed the Search bar and the icons for the shopping cart, [Reports](../analytics-and-reports/reports/), and [Notifications](../account-management/view-and-configure-notifications.md) from the header. You can now access these pages directly from the navigation menu.
 
 ***
 

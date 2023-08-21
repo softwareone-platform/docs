@@ -17,4 +17,4 @@ Only the users who have administrator privileges can access the User Management 
 * Manage access to Collaboration Site folders
 * Disable access to the Client Portal
 
-For information on how to access and manage user permissions, see [Managing Users and Their Permissions](managing-users-and-their-permissions.md).
+For information on how to access and manage user permissions, see [Managing Users and Their Permissions](manage-users-and-permissions.md).
