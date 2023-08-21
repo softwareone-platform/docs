@@ -2,7 +2,7 @@
 description: Follow these instructions to reset or change your password.
 ---
 
-# Resetting or changing your password
+# Resetting or Changing Password
 
 ***
 
@@ -33,5 +33,5 @@ If you wish to change your current password, you can do so when you're signed in
 **NOTES**:&#x20;
 
 * The link is valid for one day and can only be used once. If you don't reset your password within a day of receiving the password reset email, you'll need to regenerate the link. If you requested the password reset link multiple times, only the link in the most recent email will be valid.
-* Your new password must be unique and contain at least 8 characters. It must also be a combination of lower case letters (a-z), upper case letters (A-Z), numbers (0-9), and special characters (e.g. ! @ # $ % ^ & \*).
+* The new password that you choose must be unique and contain at least 8 characters. It must also be a combination of lower case letters (a-z), upper case letters (A-Z), numbers (0-9), and special characters (e.g. ! @ # $ % ^ & \*).
 {% endhint %}

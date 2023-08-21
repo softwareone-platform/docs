@@ -16,10 +16,10 @@
 
 * [Collaboration Site](administration/collaboration-site/README.md)
   * [Working with Collaboration Site](administration/collaboration-site/working-with-collaboration-site.md)
-* [Purchase Approval Setup](administration/purchase-approval-setup/README.md)
-  * [Creating and Managing Approval Groups](administration/purchase-approval-setup/creating-and-managing-approval-groups.md)
+* [Purchase Approval Workflows](administration/purchase-approval-workflows/README.md)
+  * [Setting Up and Using Approval Workflows](administration/purchase-approval-workflows/setting-up-and-using-approval-workflows.md)
 * [User Management](administration/user-management/README.md)
-  * [Managing users and their permissions](administration/user-management/managing-users-and-their-permissions.md)
+  * [Managing Users and Their permissions](administration/user-management/managing-users-and-their-permissions.md)
 
 ## Cloud Account Onboarding
 
@@ -48,10 +48,10 @@
   * [Understanding the Cloud Subscription billing page for 365Simple](marketplace/cloud-subscriptions/understanding-the-cloud-subscription-billing-page-for-365simple.md)
   * [Updating a single 365Simple subscription](marketplace/cloud-subscriptions/updating-a-single-365simple-subscription.md)
 * [Orders and Invoices](marketplace/orders-and-invoices/README.md)
+  * [Buying products and services](marketplace/orders-and-invoices/buying-products-and-services.md)
   * [Making payments with a credit card](marketplace/orders-and-invoices/making-payments-with-a-credit-card.md)
   * [Creating and viewing orders](marketplace/orders-and-invoices/creating-and-viewing-orders.md)
   * [Viewing invoices](marketplace/orders-and-invoices/viewing-invoices.md)
-  * [Buying products and services](marketplace/orders-and-invoices/buying-products-and-services.md)
 * [Pricelist Center](marketplace/pricelist-center/README.md)
   * [About the Pricelist Center](marketplace/pricelist-center/about-the-pricelist-center.md)
 * [Procurement Workbench](marketplace/procurement-workbench/README.md)
@@ -74,6 +74,14 @@
 ## Analytics and Reports
 
 * [About Analytics and Reports](analytics-and-reports/about-analytics-and-reports.md)
+* [Dashboards](analytics-and-reports/dashboards/README.md)
+  * [365 Analytics Dashboard](analytics-and-reports/dashboards/365-analytics-dashboard/README.md)
+    * [Office 365 Analytics Tiles](analytics-and-reports/dashboards/365-analytics-dashboard/office-365-analytics-tiles.md)
+  * [AzureSimple Dashboard](analytics-and-reports/dashboards/azuresimple-dashboard.md)
+  * [365 EA + Unified Support Dashboard](analytics-and-reports/dashboards/365-ea-+-unified-support-dashboard.md)
+  * [Simple for AWS Dashboard](analytics-and-reports/dashboards/simple-for-aws-dashboard.md)
+  * [Unified Support for Multi-vendor Dashboard](analytics-and-reports/dashboards/unified-support-for-multi-vendor-dashboard.md)
+  * [365Simple Dashboard](analytics-and-reports/dashboards/365simple-dashboard.md)
 * [Cloud Reserved Instances](analytics-and-reports/cloud-reserved-instances.md)
 * [Enterprise Agreements](analytics-and-reports/enterprise-agreements/README.md)
   * [Enterprise Agreement TrueUp](analytics-and-reports/enterprise-agreements/enterprise-agreement-trueup.md)
@@ -90,17 +98,6 @@
 * [Utilization](analytics-and-reports/utilization/README.md)
   * [Cloud utilization](analytics-and-reports/utilization/cloud-utilization.md)
 
-## Dashboards
-
-* [About Dashboards](dashboards/about-dashboards/README.md)
-  * [365 Analytics Dashboard](dashboards/about-dashboards/365-analytics-dashboard/README.md)
-    * [Office 365 Analytics Tiles](dashboards/about-dashboards/365-analytics-dashboard/office-365-analytics-tiles.md)
-  * [AzureSimple Dashboard](dashboards/about-dashboards/azuresimple-dashboard.md)
-  * [365 EA + Unified Support Dashboard](dashboards/about-dashboards/365-ea-+-unified-support-dashboard.md)
-  * [Simple for AWS Dashboard](dashboards/about-dashboards/simple-for-aws-dashboard.md)
-  * [Unified Support for Multi-vendor Dashboard](dashboards/about-dashboards/unified-support-for-multi-vendor-dashboard.md)
-  * [365Simple Dashboard](dashboards/about-dashboards/365simple-dashboard.md)
-
 ## SPEND MANAGEMENT
 
 * [Software Assets Spend Management](spend-management/software-assets-spend-management.md)
@@ -113,7 +110,7 @@
 * [Chargebacks](spend-management/chargebacks/README.md)
   * [Working with chargebacks](spend-management/chargebacks/working-with-chargebacks.md)
 * [Recommendations](spend-management/recommendations/README.md)
-  * [Working with recommendations](spend-management/recommendations/working-with-recommendations.md)
+  * [Working with Recommendations](spend-management/recommendations/working-with-recommendations.md)
 * [Spend Alerts](spend-management/spend-alerts.md)
 * [Tags and Resources](spend-management/tags-and-resources/README.md)
   * [Defining tags and managing resources](spend-management/tags-and-resources/defining-tags-and-managing-resources.md)

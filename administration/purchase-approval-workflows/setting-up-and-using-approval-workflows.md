@@ -1,4 +1,8 @@
-# Creating and Managing approval groups
+---
+description: Administrators can set up multi-step approval workflows for purchasing.
+---
+
+# Setting Up and Using Approval Workflows
 
 ***
 

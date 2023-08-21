@@ -1,8 +1,21 @@
 ---
-description: Manage users and define user permissions through the User Management module.
+description: >-
+  Administrators can manage users and define user permissions through the User
+  Management module.
 ---
 
-# Managing users and their permissions
+# Managing Users and Their permissions
+
+***
+
+### Accessing User Management
+
+Only the users with administrator rights can access this module.&#x20;
+
+**To access User Management**
+
+1. From the main menu, navigate to **Setup.**
+2. Select **User Management**.
 
 ***
 

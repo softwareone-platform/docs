@@ -6,19 +6,14 @@ description: Learn how to grant access and use the collaboration site.
 
 ***
 
-### Security and permissions <a href="#security-and-permissions" id="security-and-permissions"></a>
+### Accessing the Collaboration Site&#x20;
 
-Initially, only the top-level administrators are granted access to the Collaboration Site. If you're unable to view this module, it might be because of your permissions. For access, contact your administrator or your SoftwareOne Account Manager.&#x20;
+**To access the Collaboration Site**
 
-#### Workspace-level permissions <a href="#workspace-level-permissions" id="workspace-level-permissions"></a>
+1. Select your account menu in the upper-right corner of the top navigation bar.
+2. Choose **Collaboration Site.**
 
-Administrators can also manage access to each workspace. A workspace is an area where you can share files and links with other users. There are different levels of access to a workspace:
-
-* **None**: Access is not permitted. Users are unable to view the workspace, and it's not displayed in the list of available workspaces.
-* **Read**: Users can access all elements of the workspace in read-only mode. Users can browse through a directory structure, list files, and download them. Modification of resources is not allowed.
-* **Read, Write**: Users have all permissions included in the Read mode. Additionally, users can upload files, create directories and links, delete files, directories, and links.
-
-A regular user will have access to a workspace and they'll see the Access Denied message.
+The Collaboration Site page will display the workspaces that you have access to. If you have access to only one workspace, you are automatically redirected to the location.
 
 ***
 
@@ -121,7 +116,7 @@ You can upload single or multiple files. Before uploading a file, ensure that th
 
 ***
 
-### Moving files and folders <a href="#moving-files-and-folders" id="moving-files-and-folders"></a>
+### Moving files and folders **to a different location** <a href="#moving-files-and-folders" id="moving-files-and-folders"></a>
 
 **To move a file or a folder to a different location**
 

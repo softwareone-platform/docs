@@ -24,7 +24,7 @@ We’ve also updated our URL to [https://client.softwareone.com](https://client.
 
 ### **New Home page**
 
-Previously, after signing in to PyraCloud, a predefined [dashboard](../dashboards/about-dashboards/) was displayed.&#x20;
+Previously, after signing in to PyraCloud, a predefined [dashboard](../analytics-and-reports/dashboards/) was displayed.&#x20;
 
 Now, when you sign in to the Client Portal, you'll see a new Home page that'll provide you quick access to different modules, platform news, and updates.&#x20;
 

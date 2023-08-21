@@ -1,10 +1,10 @@
 ---
 description: >-
   If you need assistance with an issue, you can submit a ticket to our Support
-  team.
+  team through the Client Portal or email us.
 ---
 
-# Contacting support
+# Contacting Support
 
 ***
 
@@ -12,15 +12,19 @@ description: >-
 **NOTE**: To allow us to better support you, please submit your tickets in English.
 {% endhint %}
 
-### Submitting a ticket
+**Submitting a ticket**
 
-**To submit a ticket**
+**To submit a ticket from the Client Portal**
 
 1. From the main menu, navigate to **Help** and select **Help + Support**.
 2. Select **Submit a Ticket** and fill out the form. You can also upload supporting documentation to help us understand and resolve your issue quickly.
 3. Select **Send**.
 
 After you've created the ticket,  the Help and Support page will display your ticket details, including the status.
+
+**To contact us through email**
+
+* Send an email to `mailto:marketplace-support@softwareone.com`.
 
 ***
 

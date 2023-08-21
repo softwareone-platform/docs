@@ -4,23 +4,17 @@ description: Manage users and define user permissions through the User Managemen
 
 # User Management
 
-The User Management module allows administrators to perform the following tasks:
-
-* Create new users
-* Change user security settings
-* Manage user feature privileges
-* Manage user access to Spend Management
-* Access or request user procurement settings
-* Manage user access to Collaboration Site folders
-* Block or enable access to the SoftwareOne Client Portal
-
 ***
 
-### Accessing the User Management module
+The User Management module allows administrators to create new users and manage the access permissions for new and existing users. Administrator privileges are set up for your specified users during onboarding.
 
-Only the users that have administrator privileges can access User Management. Administrator privileges are set up for your specified users during onboarding.
+Only the users who have administrator privileges can access the User Management module.  Through this module, administrators can also:
 
-**To access the User Management module**
+* Change the user details and permissions
+* Manage access to a feature&#x20;
+* Configure and manage access to Spend Management
+* Manage procurement settings
+* Manage access to Collaboration Site folders
+* Disable access to the Client Portal
 
-* From the main navigation menu, navigate to **Setup** and select **User Management**.
-
+For information on how to access and manage user permissions, see [Managing Users and Their Permissions](managing-users-and-their-permissions.md).
