@@ -2,35 +2,23 @@
 description: Choose the preferred language for your account.
 ---
 
-# Changing Language Settings
+# Change Language Settings
 
 ***
 
-You can change the default language of your account at any time using the **Language** option.&#x20;
+You can change the default language of your account at any time using the **Language** option. We currently support the following languages:
 
-### Supported languages
-
-We currently support the following languages:
-
-* Chinese (Simplified)
-* Chinese (Traditional)
-* Czech
-* Dutch
-* English (UK)
-* English (US)
-* Finnish
-* French
-* German
-* Hungarian
-* Italian
-* Japanese
-* Korean
-* Norwegian
-* Portuguese&#x20;
-* Polish
-* Russian
-* Spanish
-* Swedish
+| Chinese (Simplified)  | Italian    |
+| --------------------- | ---------- |
+| Chinese (Traditional) | Japanese   |
+| Czech                 | Korean     |
+| Dutch                 | Norwegian  |
+| English (UK)          | Portuguese |
+| English (US)          | Polish     |
+| Finnish               | Russian    |
+| French                | Spanish    |
+| German                | Swedish    |
+| Hungarian             |            |
 
 **To change your language preference**
 

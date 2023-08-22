@@ -12,7 +12,7 @@ description: >-
 **NOTE**: To allow us to better support you, please submit your tickets in English.
 {% endhint %}
 
-**Submitting a ticket**
+### **Submitting a ticket**
 
 **To submit a ticket from the Client Portal**
 

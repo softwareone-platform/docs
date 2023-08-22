@@ -26,7 +26,7 @@ The Notification Hub is a centralized place where you to view and manage notific
 4. From the list of notifications, select the notification title to see more information.
 
 {% hint style="info" %}
-**NOTE**: By default, all notifications are erased after 30 days, regardless of whether they have been read.
+**NOTE**: By default, all notifications are deleted after 30 days, regardless of whether they've been read.
 {% endhint %}
 
 ***
