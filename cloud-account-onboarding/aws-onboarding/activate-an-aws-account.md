@@ -102,7 +102,7 @@ If you would like Tag and Resource Manager to synchronize tags back to AWS, you 
 
 ### Syncing AWS Cost Explorer recommendations <a href="#sync-aws-cost-explorer-recommendations" id="sync-aws-cost-explorer-recommendations"></a>
 
-The [Recommendations ](../../spend-management/recommendations/view-recommendations.md)module downloads recommendations from AWS Cost Explorer, which includes Reserved Instance purchase recommendations for Amazon EC2, Amazon RDS, ElastiCache, Amazon ES, and Amazon Redshift.&#x20;
+The [Recommendations ](../../spend-management/recommendations/working-with-recommendations.md)module downloads recommendations from AWS Cost Explorer, which includes Reserved Instance purchase recommendations for Amazon EC2, Amazon RDS, ElastiCache, Amazon ES, and Amazon Redshift.&#x20;
 
 By default, the **Enable sync with AWS Cost Explorer to see AWS Recommendations** setting is enabled in the Client Portal. It means that Client Portal will download your account's AWS Cost Explorer recommendations.
 

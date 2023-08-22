@@ -16,4 +16,4 @@ You can also easily access your frequently purchased items, generate a quote for
 
 Procurement Workbench also allows you to check items that are awaiting approval along with your open and overdue invoices.
 
-For information on how to access this module and use various features, see [View and Manage Software Transactions](view-and-manage-software-transactions.md).
+For information on how to access this module and use various features, see [View and Manage Software Transactions](view-software-transactions.md).

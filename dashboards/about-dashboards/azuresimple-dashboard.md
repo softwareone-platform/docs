@@ -17,6 +17,8 @@ The dashboard provides:
 
 <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ### Selecting your Tenant <a href="#selecting-your-tenant" id="selecting-your-tenant"></a>
 
 <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
@@ -35,11 +37,15 @@ If you are unable to see the widgets, contact your administrator to check your p
 
 <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ### Monthly Potential Savings <a href="#monthly-potential-savings" id="monthly-potential-savings"></a>
 
 <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 This widget is a monthly representation of potential AzureSimple savings opportunities. Clicking the widget takes you to the “Recommendations” page where more detailed filtering and other savings recommendations can be found.
+
+***
 
 ### Billing Information <a href="#billing-information" id="billing-information"></a>
 
@@ -51,6 +57,8 @@ Clicking the widget will take you to the “Consumption Report” page where you
 
 **Note:** if you have multiple CSP agreements, this widget currently displays the default CSP agreement. Switching between agreements is currently not supported, but will be added.
 
+***
+
 ### Spike & Outage Alerts <a href="#spike-outage-alerts" id="spike-outage-alerts"></a>
 
 The Alerts widget displays the three latest and most severe alerts from the past 30 days.
@@ -61,11 +69,15 @@ Clicking the widget takes you to the Notifications Hub where all other notificat
 
 <figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ### Service Recommendations Articles <a href="#service-recommendations-articles" id="service-recommendations-articles"></a>
 
 One of the biggest advantages for our customers is access to custom tailored recommendations. All AzureSimple recommendations are provided directly, articles are written by SoftwareONE experts and backed by data driven intelligence.
 
 <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ### Help and Support Overview <a href="#help-and-support-overview" id="help-and-support-overview"></a>
 
@@ -76,6 +88,8 @@ If no tickets have been logged, users will have the option to create a new reque
 Clicking on the widget takes you to the “Help and Support” page where all ticket details can be found.
 
 <figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ### Data Refresh Rate <a href="#data-refresh-rate" id="data-refresh-rate"></a>
 

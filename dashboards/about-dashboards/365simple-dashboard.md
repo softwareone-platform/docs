@@ -4,6 +4,8 @@ description: See an overview of your 365Simple Managed service.
 
 # 365Simple Dashboard
 
+***
+
 The 365Simple dashboard in PyraCloud provides an overview for customers taking advantage of SoftwareONE’s 365Simple service.
 
 The dashboard provides:
@@ -16,6 +18,8 @@ The dashboard provides:
 * Service recommendations and articles
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ### Selecting your Tenant <a href="#selecting-your-tenant" id="selecting-your-tenant"></a>
 
@@ -35,6 +39,8 @@ If you are unable to see the widgets, contact your administrator to check your p
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ### Billing Information <a href="#billing-information" id="billing-information"></a>
 
 This widget displays billing cycles from the past 90 days. It will usually contain the last 3 billing cycles, but it may also contain 4 if the billing cycle is spanning across two months.
@@ -45,7 +51,11 @@ If you hover over each billing cycle, you will see the billing date range, curre
 
 Clicking on the widget will take you to the “My Subscriptions” page where you can see more details.
 
-**Note:** if you have multiple CSP agreements, this widget currently displays the default CSP agreements. Switching between agreements is currently not supported, but will be added.
+{% hint style="info" %}
+**NOTE:** If you have multiple CSP agreements, this widget currently displays the default CSP agreements. Switching between agreements is currently not supported, but will be added.
+{% endhint %}
+
+***
 
 ### Product Usage & Subscriptions Assignment <a href="#product-usage-subscriptions-assignment" id="product-usage-subscriptions-assignment"></a>
 
@@ -61,6 +71,8 @@ The “Product Usage” widget provides you with an overview of active and inact
 
 “Top 5 Subscriptions By Assigned” can also be used to evaluate subscription utilization and accompanying costs. Clicking on the widget will take you to a full consumption report where you can see a more detailed analysis.
 
+***
+
 ### Service Recommendations & Articles <a href="#service-recommendations-articles" id="service-recommendations-articles"></a>
 
 One of the biggest advantages for our customers is access to custom-tailored recommendations.
@@ -68,6 +80,8 @@ One of the biggest advantages for our customers is access to custom-tailored rec
 All 365Simple recommendations are provided directly, articles are written by SoftwareONE experts and backed by data-driven intelligence.
 
 <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ### Help and Support Overview <a href="#help-and-support-overview" id="help-and-support-overview"></a>
 
@@ -79,6 +93,8 @@ Clicking on the widget takes you to the “Help and Support” page where all ti
 
 <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ### Recent Subscription Changes <a href="#recent-subscription-changes" id="recent-subscription-changes"></a>
 
 <figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
@@ -87,6 +103,8 @@ This widget provides a quick overview of all subscription changes in the current
 
 If no changes are available, the widget will provide you with easy access to the “My Subscriptions” page.
 
+***
+
 ### Recent News from Microsoft <a href="#recent-news-from-microsoft" id="recent-news-from-microsoft"></a>
 
 365Simple customers can also quickly check the latest Microsoft 365 news without leaving the platform. Highly versatile filters can narrow down new features by products that are already rolled out, products that are planned, and products that are currently in development.
@@ -94,6 +112,8 @@ If no changes are available, the widget will provide you with easy access to the
 <figure><img src="../../.gitbook/assets/image (11) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="536"><figcaption></figcaption></figure>
+
+***
 
 ### Data Refresh Rate <a href="#data-refresh-rate" id="data-refresh-rate"></a>
 

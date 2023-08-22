@@ -1,3 +1,0 @@
-# Updating Profile Settings
-
-\<PLACEHOLDER>

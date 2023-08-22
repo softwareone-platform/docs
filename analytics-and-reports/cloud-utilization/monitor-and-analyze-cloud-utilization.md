@@ -4,7 +4,7 @@ description: >-
   de-allocated or resized.
 ---
 
-# Cloud Utilization
+# Monitor Cloud Utilization
 
 ***
 

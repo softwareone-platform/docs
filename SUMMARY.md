@@ -4,7 +4,7 @@
 
 ## Using the client portal
 
-* [Client Portal Interface](using-the-client-portal/client-portal-interface/README.md)
+* [Client Portal Interface](using-the-client-portal/navigate-the-home-page.md)
   * [Home Page](using-the-client-portal/client-portal-interface/home-page.md)
 * [Supported Browsers](using-the-client-portal/supported-browsers.md)
 
@@ -13,7 +13,6 @@
 * [Change Language Settings](account-management/change-language-settings.md)
 * [Manage Favorites](account-management/manage-favorites.md)
 * [Reset or Change Password](account-management/reset-or-change-password.md)
-* [Update Profile Settings](account-management/update-profile-settings.md)
 * [View and Configure Notifications](account-management/view-and-configure-notifications.md)
 
 ## Administration
@@ -54,10 +53,10 @@
 * [Pricelist Center](cloud-marketplace/pricelist-center/README.md)
   * [View and Manage Prices](cloud-marketplace/pricelist-center/view-and-manage-prices.md)
 * [Procurement Workbench](cloud-marketplace/procurement-workbench/README.md)
-  * [View and Manage Software Transactions](cloud-marketplace/procurement-workbench/view-and-manage-software-transactions.md)
+  * [View and Manage Software Transactions](cloud-marketplace/procurement-workbench/view-software-transactions.md)
 * [Quotes and Special Quotes](cloud-marketplace/quotes-and-special-quotes/README.md)
-  * [Create and Manage Quotes](cloud-marketplace/quotes-and-special-quotes/create-and-manage-quotes.md)
-  * [Request Off-Catalog Product Prices](cloud-marketplace/quotes-and-special-quotes/request-off-catalog-product-prices.md)
+  * [Create and Manage Quotes](cloud-marketplace/quotes-and-special-quotes/create-and-view-quotes.md)
+  * [Using Special Quotes to Request Prices](cloud-marketplace/quotes-and-special-quotes/using-special-quotes-to-request-prices.md)
 * [Renewal Manager](cloud-marketplace/renewal-manager/README.md)
   * [Manage Software Renewals](cloud-marketplace/renewal-manager/manage-software-renewals.md)
 * [Software Downloads](cloud-marketplace/software-downloads/README.md)
@@ -74,7 +73,7 @@
 
 * [About Analytics and Reports](analytics-and-reports/about-analytics-and-reports.md)
 * [Cloud Utilization](analytics-and-reports/cloud-utilization/README.md)
-  * [Monitor Cloud Utilization](analytics-and-reports/cloud-utilization/monitor-cloud-utilization.md)
+  * [Monitor Cloud Utilization](analytics-and-reports/cloud-utilization/monitor-and-analyze-cloud-utilization.md)
 * [Dashboards](dashboards/about-dashboards/README.md)
   * [365 Analytics Dashboard](dashboards/about-dashboards/365-analytics-dashboard/README.md)
     * [Office 365 Analytics Tiles](dashboards/about-dashboards/365-analytics-dashboard/office-365-analytics-tiles.md)
@@ -100,20 +99,20 @@
 
 * [About Spend Management](spend-management/about-spend-management.md)
 * [Budgets](spend-management/budgets/README.md)
-  * [Create Budgets](spend-management/budgets/create-budgets.md)
+  * [Create Budgets](spend-management/budgets/working-with-budgets.md)
 * [Chargebacks](spend-management/chargebacks/README.md)
-  * [Create Chargebacks](spend-management/chargebacks/create-chargebacks.md)
+  * [Create Chargebacks](spend-management/chargebacks/working-with-chargebacks.md)
 * [Custom Groups](spend-management/custom-groups/README.md)
-  * [Create Custom Groups](spend-management/custom-groups/create-custom-groups.md)
+  * [Create Custom Groups](spend-management/custom-groups/working-with-custom-groups.md)
 * [Recommendations](spend-management/recommendations/README.md)
-  * [View Recommendations](spend-management/recommendations/view-recommendations.md)
+  * [View Recommendations](spend-management/recommendations/working-with-recommendations.md)
 * [Tags and Resources](spend-management/tags-and-resources/README.md)
-  * [Manage Tags and Resources](spend-management/tags-and-resources/manage-tags-and-resources.md)
+  * [Manage Tags and Resources](spend-management/tags-and-resources/defining-tags-and-managing-resources.md)
 
 ## Help and Support
 
-* [View System Status](help-and-support/view-system-status.md)
-* [Contact Support](help-and-support/contact-support.md)
+* [View System Status](help-and-support/viewing-system-status.md)
+* [Contact Support](help-and-support/getting-support.md)
 * [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
   * [How to change your currency](help-and-support/frequently-asked-questions/how-to-change-your-currency.md)
   * [How to configure conditional access policies](help-and-support/frequently-asked-questions/how-to-configure-conditional-access-policies.md)
@@ -128,7 +127,7 @@
   * [How to view available currencies](help-and-support/frequently-asked-questions/how-to-view-available-currencies.md)
   * [How does PyraCloud access my Microsoft 365 tenant under CSP?](help-and-support/frequently-asked-questions/how-does-pyracloud-access-my-microsoft-365-tenant-under-csp.md)
   * [How does PyraCloud connect to my Azure tenant?](help-and-support/frequently-asked-questions/how-does-pyracloud-connect-to-my-azure-tenant.md)
-  * [How to manage users using the User Management wizard](help-and-support/frequently-asked-questions/how-to-manage-users-using-the-user-management-wizard.md)
+  * [How to manage users using the User Management wizard](help-and-support/frequently-asked-questions/how-to-manage-users-with-the-user-management-wizard.md)
   * [How to delete, restore, disable, and enable users](help-and-support/frequently-asked-questions/how-to-delete-restore-disable-and-enable-users.md)
   * [How to edit your company structure](help-and-support/frequently-asked-questions/how-to-edit-your-company-structure.md)
   * [I'm unable to see the Microsoft products via CSP/Client Portal](help-and-support/frequently-asked-questions/im-unable-to-see-the-microsoft-products-via-csp-client-portal.md)
@@ -136,7 +135,7 @@
   * [I have questions about access tokens and consent](help-and-support/frequently-asked-questions/i-have-questions-about-access-tokens-and-consent.md)
   * [My Azure billing data isn't up to date](help-and-support/frequently-asked-questions/my-azure-billing-data-isnt-up-to-date.md)
   * [My 365 Analytics report doesn't contain any data](help-and-support/frequently-asked-questions/my-365-analytics-report-doesnt-contain-any-data.md)
-  * [How to setup single sign-on (SSO)](help-and-support/frequently-asked-questions/how-to-setup-single-sign-on-sso.md)
+  * [How to setup single sign-on (SSO)](help-and-support/frequently-asked-questions/single-sign-on-sso-integration.md)
   * [What data do you collect for 365 Analytics?](help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md)
   * [What has changed in the new 365 Analytics?](help-and-support/frequently-asked-questions/what-has-changed-in-the-new-365-analytics.md)
   * [What is 365 analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)

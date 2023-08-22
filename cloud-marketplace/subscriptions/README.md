@@ -20,7 +20,7 @@ description: >-
 
 The Cloud Subscriptions page contains the following tabs:
 
-* **Marketplace**: Displays the popular subscriptions and add-ons for your existing tenant. For information on how to buy a new subscription or an add-on, see [Buying a new subscription or an add-on](buy-new-subscriptions-or-add-ons.md).
+* **Marketplace**: Displays the popular subscriptions and add-ons for your existing tenant. For information on how to buy a new subscription or an add-on, see [Buy New Subscriptions or Add-Ons](buy-new-subscriptions-or-add-ons.md).
 * **My Subscriptions**: Allows you to add or update your subscriptions. You can also view your tenant and contract details, analyze consumption, and adjust the license quantity as well as the status of your existing 365Simple subscription.
 * **Billing**: The **Billing** page of Cloud Subscriptions shows your subscription history. This includes all updates made to existing subscriptions, as well as new subscriptions purchased across all of your 365Simple tenants. Select **View** to see the detailed billing information, edit your purchase order, remove a bill, or split the bill.
 * **Invoices**: Allows you to search for an invoice and view details. You can also download your invoice.&#x20;

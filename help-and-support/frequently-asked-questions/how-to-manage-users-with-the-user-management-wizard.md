@@ -1,4 +1,4 @@
-# How to Manage Users With the User Management Wizard
+# How to manage users using the User Management wizard
 
 **Disclaimer:** The new version of User Management is currently available for most PyraCloud customers. If you cannot see the User Management wizard, then SoftwareONE will need to migrate your data first.
 

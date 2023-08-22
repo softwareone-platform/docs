@@ -2,7 +2,7 @@
 description: You can monitor the health and status of the SoftwareOne Marketplace Platform.
 ---
 
-# Viewing system status
+# View System Status
 
 ***
 

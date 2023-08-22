@@ -8,6 +8,6 @@ You can also use the module to generate various reports, view your software asse
 
 For information, see the following links:
 
-* [Monitor and Analyze Cloud Utilization](cloud-utilization/monitor-cloud-utilization.md)
+* [Monitor and Analyze Cloud Utilization](cloud-utilization/monitor-and-analyze-cloud-utilization.md)
 * [Dashboards](../dashboards/about-dashboards/)
 * [Reports](reports/)

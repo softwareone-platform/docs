@@ -1,3 +1,7 @@
+---
+description: Learn how to access and use the Cloud Cost Optimization dashboard.
+---
+
 # Cloud Cost Optimization Dashboard
 
 The Cloud Cost Optimization module allows organizations to deliver optimization to their cloud infrastructure, and deliver savings through various strategies that form a part of the framework.
@@ -8,11 +12,15 @@ The Cloud Cost Optimization module allows organizations to deliver optimization 
   * **Right-sizing** savings are those that allow you to optimize cost by changing the technical specifications of the resources that are running in the cloud environment
 * SoftwareOne’s Cloud Cost Optimization Service leverages our unique methodology to achieve the best of both right-costing and right-sizing optimization strategies.
 
+***
+
 #### Accessing Cloud Cost Optimization <a href="#accessing-cloud-cost-optimization" id="accessing-cloud-cost-optimization"></a>
 
 **To access Cloud Cost Optimization**
 
 * From the main menu, navigate to **Services** and select **Cloud Cost Optimization**.
+
+***
 
 #### Requirements for Cloud Cost Optimization <a href="#requirements-for-cloud-cost-optimization" id="requirements-for-cloud-cost-optimization"></a>
 
@@ -66,11 +74,15 @@ One can navigate to the next strategy in sequence by clicking on the Next Strate
 
 ![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FPOWb4AN2xQNP7DwWAnUd%2Fimage.png?alt=media\&token=279b5a7e-7e8d-44d0-a283-e6d4a28f7307)
 
+***
+
 **Marking a strategy as complete / Re-opening a strategy**
 
 A strategy can be marked as complete only if all previous strategies are completed. This is because every complete strategy influences the savings achievable on subsequent strategies. Marking a strategy as complete, will mean no changes can be made to the strategy i.e. no resources can be dismissed from the strategy, or no already dismissed resources can be included in the strategy. In order to do these operations on a completed strategy, one has to re-open a strategy.
 
 One can reopen a strategy, only if all strategies subsequent to it are open.
+
+***
 
 **Key Metrics on Strategy pages**
 
@@ -96,6 +108,8 @@ This tab shows you a list of the resources that are being recommended as a candi
 
 ![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FtX2lBSfCr9aZEjCVGwYT%2Fimage.png?alt=media\&token=a6a69f76-d90a-4808-970e-64d8d727075d)
 
+***
+
 **What if an impacted resource is no longer a candidate for a strategy ?**
 
 In such a scenario, the system will automatically remove the affected candidate from the Impacted Resources tab, and will appropriately reflect the costs and savings on the Strategy and the Overview pages.
@@ -110,11 +124,15 @@ The review changes tab is a list of all changes to resource candidates applied a
 
 We recommend that you review the Review changes tab every time you login, so you are aware of all recent activity within the Cloud Cost Optimization system.
 
+***
+
 **Advanced Filters on Impacted Resources, Dismissed and Review Changes tab**
 
 There are a host of filters one can use to narrow the data you are seeing on the tabs based on specific criteria. The filters available are
 
 Please note that applying a filter will filter all the pages within the tab, as opposed to just the page you are on.
+
+***
 
 **Exporting data from Cloud Cost Optimization**
 
@@ -123,6 +141,8 @@ Each of the strategy pages enable users to export data on the grid to an excel f
 The export button will only export the columns visible on the grid at the time of the export. However, you can customize the grid to show extra columns using the Customize button to the left of “Export”.
 
 Please note that the export capability is not available on the Overview page yet.
+
+***
 
 #### Strategy – Orphaned Resources <a href="#strategy-orphaned-resources" id="strategy-orphaned-resources"></a>
 

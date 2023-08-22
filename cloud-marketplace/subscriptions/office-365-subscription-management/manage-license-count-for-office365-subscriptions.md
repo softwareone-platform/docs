@@ -6,9 +6,7 @@ description: >-
 
 # Manage License Count for Office365 subscriptions
 
-***
-
-### Navigating to Subscription Manager <a href="#navigating-to-subscription-manager" id="navigating-to-subscription-manager"></a>
+### avigating to Subscription Manager <a href="#navigating-to-subscription-manager" id="navigating-to-subscription-manager"></a>
 
 On the main PyraCloud dashboard, click on Manage in the navigation menu and click on Subscription Manager.
 
@@ -19,8 +17,6 @@ On the main PyraCloud dashboard, click on Manage in the navigation menu and clic
 On the Subscription Updates tab, select the tenant you wish to work with under the Select Cloud Account heading.
 
 If you only have one tenant, it will be selected automatically.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-2-1-1024x810.png" alt=""><figcaption><p><strong>Figure 2 – Select your Tenant</strong></p></figcaption></figure>
 
 ***
 
@@ -51,16 +47,8 @@ Once you are happy with your changes, you can then apply them immediately, or se
 You can adjust the quantity of your subscriptions in two ways:
 
 * Update the subscription quantity on the main Subscriptions tab. Click the number in the New Quantity column of the grid and adjust it up and down as desired:
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-3-1-1024x616.png" alt=""><figcaption><p><strong>Figure 3 – Adjust Subscription Quantity</strong></p></figcaption></figure>
-
 * Update the subscription quantity on the Subscription Detail page. To do this, click the View link in the Actions column.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-4-1-1024x616.png" alt=""><figcaption><p><strong>Figure 4 – View Subscription Details</strong></p></figcaption></figure>
-
 * Then scroll down and adjust the quantity in the Adjustments section of the page.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-5-1-1024x616.png" alt=""><figcaption><p><strong>Figure 5 – Adjust Subscription Quantity</strong></p></figcaption></figure>
 
 #### Adjust Subscription Status <a href="#adjust-subscription-status" id="adjust-subscription-status"></a>
 
@@ -70,27 +58,17 @@ To do this, click the View link in the Actions column on the Subscriptions tab. 
 
 **Important:** You can only adjust the status of subscriptions if you have been granted the “Can Suspend” permission in Subscription Manager. If you require this permission, please contact your account team.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-6-1-1024x616.png" alt=""><figcaption><p><strong>Figure 6 – Adjust Subscription Status</strong></p></figcaption></figure>
-
 #### Adjust Add-on Quantity and Status <a href="#adjust-add-on-quantity-and-status" id="adjust-add-on-quantity-and-status"></a>
 
 You can adjust the quantity and status of your add-ons under the Add-ons tab in the Subscription Details page.
 
 To do this, click the View link in the Actions column on the Subscriptions tab.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-7-1-1024x616.png" alt=""><figcaption><p><strong>Figure 7 – View Add-ons</strong></p></figcaption></figure>
-
 Then on the Subscription Details page, click the Add-ons tab.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-8-1-1024x617.png" alt=""><figcaption><p><strong>Figure 8 – Navigate to Add-ons</strong></p></figcaption></figure>
 
 Change the status of add-ons in the grid.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-9-1-1024x616.png" alt=""><figcaption><p><strong>Figure 9 – Change Add-ons Status</strong></p></figcaption></figure>
-
 Finally, adjust the quantity of add-ons in the grid.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-10-1-1024x616.png" alt=""><figcaption><p><strong>Figure 10 – Change Add-ons Quantity</strong></p></figcaption></figure>
 
 ***
 
@@ -117,10 +95,6 @@ If you have the Apply Now permission and you have made changes to your subscript
 
 Click Apply Now to apply your changes.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-11-1-1024x616.png" alt=""><figcaption><p><strong>Figure 11 – Apply Now</strong></p></figcaption></figure>
-
 When you click Apply Now, a progress bar will be displayed above the grid showing the progress of the operation. Once it is complete, you will be able to assign those new licenses to users in the Office 365 admin portal.
 
 **Important**: While your changes are being applied, you will not be able to make further changes to your subscriptions. Please wait until the process is complete before continuing to make new changes.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/08/Figure-12-1-1024x616.png" alt=""><figcaption><p><strong>Figure 12 – Progress Bar</strong></p></figcaption></figure>

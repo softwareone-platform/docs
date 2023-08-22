@@ -20,4 +20,4 @@ Approval groups are assigned to users and they represent a set of individuals wh
 
 To reduce the effort of maintaining a group, you can link approval groups together through parent-child relationships. Each approval group can only have one parent but it can be used as a child in several approval groups.
 
-Administrators can create three levels of purchase approval groups, add users to an approval group, and assign individual workflow for each user. For information, see [Setting Up and Using Approval Workflows](../purchase-approval-workflows/set-up-approval-workflows.md).
+Administrators can create three levels of purchase approval groups, add users to an approval group, and assign individual workflow for each user. For information, see [Set Up Approval Workflows](../purchase-approval-workflows/set-up-approval-workflows.md).

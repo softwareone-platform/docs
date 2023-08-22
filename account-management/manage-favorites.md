@@ -6,7 +6,7 @@ description: >-
 
 # Manage Favorites
 
-The **Favorites** module is displayed in the [main menu](../using-the-client-portal/client-portal-interface/#main-menu) only if you've marked at least one page as your favorite.
+The **Favorites** module is displayed in the [navigation menu](../using-the-client-portal/navigate-the-home-page.md#main-menu) only if you've marked at least one page as your favorite.
 
 ***
 
