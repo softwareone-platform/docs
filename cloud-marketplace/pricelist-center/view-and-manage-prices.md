@@ -50,11 +50,11 @@ IaaS/PaaS Price Lists often have specific prices for certain Regions. For instan
 
 Use the **Product Name** text input field and the **Region** field to help narrow down the prices. Here is an example:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As a result, many A3 options will be displayed, but only based on those two regions. Here is an example:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 SaaS Price Lists are different from IaaS/PaaS Pricelists from Cloud Providers. SaaS Price lists are based on what Subscriptions or Licenses are active for that SaaS Provider. To search for a specific Price for an Office 365 product, be sure to select the Office 365 Pricelist and type in a product name or select from an Active Tenant attached to PyraCloud.
 
@@ -64,13 +64,13 @@ SaaS Price Lists are different from IaaS/PaaS Pricelists from Cloud Providers. S
 
 It’s important to add any missing price to the Pricelist Center, to ensure accurate Consumption reports as generated as users analyze their spend over time with the Consumption Overview page. To determine what SaaS Subscriptions/Licenses require prices, go to the Pricelist Center and select **Missing Prices** tab.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If this is the first time entering prices, users may notice several Subscriptions/Licenses with missing prices.
 
 Add the proper pricing to each Subscription/License by selecting **+ Add new price** button.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 |   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | - | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -88,12 +88,12 @@ After the SaaS prices are added, users may want to update them in the future or 
 
 To do so, find the SaaS prices in the Pricelist Center. Navigate to the Pricelist Center and select the **Customer Set Prices** 1 tab.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On this page, users will see all the current prices that have been set for all of their SaaS products. If users would like to refine this list to a specific Price List or Product name, use the filters above to find the specific Price Lists or products.
 
 By selecting **View**, you can review the history of prices and their start dates, for example, if users are renewing a contract with a different price or would like to see how far back prices are applied. Within this Product Details view the user can view the historical prices, change them, or add new ones.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you're unable to Edit Price or Add Price, it might be due to your permissions. Contact your administrator to change permissions.

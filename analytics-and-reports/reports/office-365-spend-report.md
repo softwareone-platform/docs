@@ -2,13 +2,13 @@
 description: Gain detailed analysis of your Office 365 spend.
 ---
 
-# Office 365 spend reports
+# Office 365 Spend Report
 
 ### What is Office 365 Consumption in PyraCloud?   <a href="#what-is-office-365-consumption-in-pyracloud" id="what-is-office-365-consumption-in-pyracloud"></a>
 
 Office 365 Consumption in PyraCloud provides users with detailed Office 365 spend analysis. The data is based on billing data fetched daily.
 
-Users can access multiple analytic reports and browse consumption cost information in easy-to-use interactive charts. The analysis is extended by leveraging information from other PyraCloud modules. Users can analyze spend per [Custom Group](broken-reference) or per [Budget.](../../../spend-management/budgets/working-with-budgets.md)
+Users can access multiple analytic reports and browse consumption cost information in easy-to-use interactive charts. The analysis is extended by leveraging information from other PyraCloud modules. Users can analyze spend per [Custom Group](broken-reference) or per [Budget.](../../spend-management/budgets/create-budgets.md)
 
 ***
 
@@ -31,13 +31,13 @@ The Office365 Consumption Details Report displays the Cost or the Quantity data.
 
 The Cost data is always reporting the initial monthly cost at the first day of month and additional cost due to subscription updates on a day that it happened. Cost data is calculated in single currency.
 
-<figure><img src="../../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
 
 
 The Quantity data is showing maximum number of subscriptions by product subscription per month.
 
-<figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -55,11 +55,11 @@ The Cost data for Office 365 EA Tenant uses the average price set manually in th
 
 If the price for a subscription is not set, an information banner will be displayed.
 
-<figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 The price in Price List Center is set for every subscription per month and average calculation has to be done manually. All missing prices are visible in the missing prices Tab. If historical Quantity data is available, Cost data will be recalculated starting from “Effective Date”.
 
-<figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 **Office 365 Tenant with Mixed Purchase Agreements**
 
@@ -67,7 +67,7 @@ The cost data for an Office 365 Tenant with mixed purchase agreements (i.e. Offi
 
 We do not currently support setting custom prices for the subscriptions bought through Office 365 EA agreement. For Office 365 Tenants with mixed purchase agreements, an information banner will be displayed.
 
-<figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 #### Understand the Office 365 Resource Spend <a href="#understand-the-office-365-resource-spend" id="understand-the-office-365-resource-spend"></a>
 
@@ -77,4 +77,4 @@ Azure Active Directory user **resource** cost, is a sum of costs of all subscrip
 
 Subscription **resource** cost is a cost of all subscriptions that are not assigned to any Azure Active Directory user (Subscription **resource** has a name set to Subscription name and “Unassigned Pool” suffix).
 
-<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>

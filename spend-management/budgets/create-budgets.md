@@ -4,28 +4,7 @@ description: >-
   service provider.
 ---
 
-# Working with budgets
-
-Budgets are a part of Spend Management. Budgets allow you to assign individual budgets in two areas:
-
-* **Customer-Centric Budgeting**: This area of Budgets allows you to assign individual Budgets to Custom Groups defined within Custom Groups (CG). This allows you to manage time periods and monetary values for your Spend defined by your business.
-* **Service Provider Centric Budgeting**: This area of Budgets allows you to assign individual budgets to Enrollments, Subscriptions, or Tenants (depending on the provider terms). This allows you to manage time periods and monetary values for your spend tied to your providers.
-
-***
-
-### Before creating budgets <a href="#before-you-start" id="before-you-start"></a>
-
-* **Set up a customer-centric view**. In order to assign budgets to individual groups, it is required to set up the structure in Custom Groups first. Without the setup of Custom Groups, you will only be able to see the “Per Provider” view in Budget Manager.
-* **Set up a currency**. This is required to allow you to use your internal reporting currency across all Custom Groups, and manage the budgets and consumption in your individual currency. This is done for the following reasons:
-  * If you are using multiple Providers in different sourcing currencies, PyraCloud will convert them to your set currency to harmonize the use for your convenience
-  * The configured currency is also the default currency within Consumption Overview (native sourcing currency available at any time)
-  * Consumption values are converted on a daily basis based on the Foreign Exchange rates
-
-{% hint style="info" %}
-**NOTE**: The currency can only be changed before configuring the first Budget. Changing currencies later will require the removal of all Budgets.
-{% endhint %}
-
-* **Currency in the Per Provider View**: The “Per Provider” view is always shown in the native sourcing currency and allows you to prepare your engagement with the Provider. Amounts and utilization are not converted and are available at any time within Budgets or for further reporting through Consumption Overview.
+# Create Budgets
 
 ***
 
@@ -89,7 +68,7 @@ You can edit the monthly budgets to adjust the budget amount for every month.
 
 This tab provides information about child budget amounts and utilization. Consumption in child budgets is included in the parent budget utilization value.
 
-<figure><img src="../../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 You can edit the child budget amounts by selecting **Edit Budgets.**
 
@@ -100,7 +79,7 @@ This tab shows the top-consuming resources of the displayed budget. You can expa
 * Select **View in Resource Manager** to open resource details in Resource Manager.
 * Select **View Consumption** to open resource spend analytics.
 
-<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -108,17 +87,17 @@ This tab shows the top-consuming resources of the displayed budget. You can expa
 
 Select the **Per Provider** tab to open and manage budgets for your accounts.
 
-<figure><img src="../../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 #### Creating Per Provider budgets <a href="#creating-per-provider-budgets" id="creating-per-provider-budgets"></a>
 
 Select the **Add Budget** action to create a new budget. Depending on the Provider, the budget can be created for an Account and a Subscription.
 
-<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 You will be taken to the new budget creation form. Provide the budget amount and email address of the person responsible for creating the budget.
 
-<figure><img src="../../../.gitbook/assets/image (107).png" alt="" width="508"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (107).png" alt="" width="508"><figcaption></figcaption></figure>
 
 If you create a budget for an Account – you will be asked to provide a budget name. In the case of subscription budgets, the name is automatically set to the subscription name.
 
@@ -130,7 +109,7 @@ If you create a budget for an Account – you will be asked to provide a budget 
 
 To view more details, select a budget from the list and select **View.**
 
-<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 The scope of the information is similar to the Custom Group Budget details page. If you are displaying Account budget details, the chart values are split by the account subscriptions.
 
@@ -144,7 +123,7 @@ You can add and edit the budget for a selected subscription by clicking on “Ed
 
 Click on the “Top 50 Resources” tab to see a list of the top resources consuming the most for that budget (Account or Subscription).
 
-<figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 You can expand the selected resource to view more details and navigate to the Resource page, or the Consumption Details page in Consumption Overview.
 
@@ -160,7 +139,7 @@ In the case of limited access, you cannot manage the budgets of the top-level Cu
 
 You will see the following option when you request a new Budget (available both for Custom Group and Per Provider Budgets):
 
-<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 If you choose this option, the Budget Request form will be displayed:
 
@@ -170,7 +149,7 @@ Fill in the required Budget amount and confirm the request. The Budget Owner of 
 
 Similarly to new Budget requests, you can request for a change to be made to Budgets that you cannot modify yourself. Choose the “Request Budget Change” option to create your request:
 
-<figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 amountProvide the amount you request and submit your request. The Budget Owner of the parent Budget will receive your request.
 
@@ -194,9 +173,9 @@ Both Custom Group and the Per Provider Budgets offer utilization alerts.
 
 You can set three thresholds that will trigger notifications for particular Budget Owners. These values are initially set by default, but you can adjust the percentage values by clicking on Edit as shown below:
 
-<figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE**: Alert settings are individual for Custom Group and Per Provider budgets.
@@ -213,7 +192,7 @@ If you have purchased any Reserved Instances, you can choose between two Cost Mo
 * **Actual Cost**: Represents Reserved Instance purchase cost as a one-time cost (single spend record)
 *   **Amortized Cost**: Equally distributes Reserved Instance purchase cost across months of the reservation time period
 
-    <figure><img src="../../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 
 

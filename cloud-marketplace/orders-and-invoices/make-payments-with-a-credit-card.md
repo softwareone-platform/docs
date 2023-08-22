@@ -4,7 +4,7 @@ description: >-
   payments.
 ---
 
-# Making payments with a credit card
+# Make Payments with a Credit Card
 
 {% hint style="info" %}
 **NOTE**: This feature is available only for our clients in the United States and Canada.
@@ -19,7 +19,7 @@ description: >-
 1. Choose the product you want to buy and add it to your shopping cart.
 2. Navigate to your cart and select **Create Order**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Provide your address information and your contact details.
 4. In **Conditions & References**, perform the following steps:

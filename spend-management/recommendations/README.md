@@ -6,6 +6,8 @@ description: >-
 
 # Recommendations
 
+***
+
 The Recommendations module is a set of functionalities that facilitate intelligent recommendations and suggestions to optimize, streamline, and improve your software environment, be that on-premise or the cloud.
 
 The Recommendations module offers recommendations from a variety of sources, such as Azure Advisor, AWS Cost Explorer, and AWS Trusted Advisor as well as integrating with SoftwareONE Services to provide bespoke and tailored recommendations that optimize a customer’s software environment.

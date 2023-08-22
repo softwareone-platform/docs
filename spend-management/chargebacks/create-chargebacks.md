@@ -1,8 +1,8 @@
 ---
-description: Learn about the access levels and settings, and add new chargebacks.
+description: Learn about the access levels and settings, and create new chargebacks.
 ---
 
-# Working with chargebacks
+# Create Chargebacks
 
 ***
 

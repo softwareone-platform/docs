@@ -36,7 +36,7 @@ _**Figure 1 – Access Company Structure Editor**_
 
 From here the company structure can be viewed. Click on “**Edit Company Structure**” to make changes to the structure:
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Company Structure Editor <a href="#post-4917-_toc63257169" id="post-4917-_toc63257169"></a>
 

@@ -1,10 +1,10 @@
 ---
 description: >-
-  View, track and manage all software transactions, orders, quotes, invoices and
-  contracts.
+  View, track, and manage all software transactions, orders, quotes, invoices
+  and contracts.
 ---
 
-# About Marketplace
+# About Cloud Marketplace
 
 ***
 

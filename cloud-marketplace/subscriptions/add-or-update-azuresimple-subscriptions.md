@@ -16,12 +16,12 @@ description: >-
 2. On the Cloud Subscriptions page, select **My Subscriptions**.
 3. On the My Subscriptions page, select **AzureSimple**. If you don't own AzureSimple subscriptions, this option will not be visible.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Select **Add Subscription**.
 5. On the **Add Subscription** page, provide a name for your subscription and internal details associated with your subscription.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6. Click **Add Subscription**.
 
@@ -40,7 +40,7 @@ You can rename a subscription or update internal details associated with the sub
    * If you're updating the name, enter the new name and select **Update Subscription.**
    * If you're updating your internal details, enter the new information and select **Save.**
 
-<figure><img src="../../.gitbook/assets/image (20) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A confirmation message is displayed after your changes are saved.
 

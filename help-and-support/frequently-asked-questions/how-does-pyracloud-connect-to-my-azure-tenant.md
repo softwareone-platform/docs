@@ -58,7 +58,7 @@ Yes, PyraCloud offers application-level rights that you can change, after adding
 
 Here is an example of how PyraCloud:
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

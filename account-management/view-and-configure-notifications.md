@@ -13,8 +13,7 @@ The Notification Hub is a centralized place where you to view and manage notific
 | Notification type | Description                                                                                                                               |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | System            | The system notifications are associated with your profile. You cannot subscribe or unsubscribe from these notifications.                  |
-|                   | The user notifications are also called as feature notifications. These notifications are sent only if you are subscribed to receive them. |
-| User              |                                                                                                                                           |
+| User              | The user notifications are also called as feature notifications. These notifications are sent only if you are subscribed to receive them. |
 
 ### Viewing notifications
 

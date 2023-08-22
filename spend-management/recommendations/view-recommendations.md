@@ -4,7 +4,7 @@ description: >-
   intelligent recommendations.
 ---
 
-# Working with Recommendations
+# View Recommendations
 
 ***
 
@@ -106,7 +106,7 @@ Every recommendation can be tracked through its lifecycle with the progress log 
 
 All recommendations can be marked as complete from the Recommendation Type page when completed. There is an option to complete one or all recommendations of the given type.
 
-For Azure and AWS recommendations, you don’t need to Mark recommendations as Complete because the Recommendations system automatically detects when recommendations are being executed and moves them to the completed/realized state. However, there are some exceptions to automatically realizing savings amounts from Azure and AWS Recommendations. For details, see [Completion of Azure Recommendations](working-with-recommendations.md#completion-of-azure-recommendations) and [AWS Recommendations](working-with-recommendations.md#aws-recommendations).
+For Azure and AWS recommendations, you don’t need to Mark recommendations as Complete because the Recommendations system automatically detects when recommendations are being executed and moves them to the completed/realized state. However, there are some exceptions to automatically realizing savings amounts from Azure and AWS Recommendations. For details, see [Completion of Azure Recommendations](view-recommendations.md#completion-of-azure-recommendations) and [AWS Recommendations](view-recommendations.md#aws-recommendations).
 
 <figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 

@@ -6,7 +6,7 @@ description: >-
 
 # Manage Favorites
 
-The **Favorites** module is displayed in the [main menu](../using-the-client-portal/navigate-the-home-page.md#main-menu) only if you've marked at least one page as your favorite.
+The **Favorites** module is displayed in the [main menu](../using-the-client-portal/client-portal-interface/#main-menu) only if you've marked at least one page as your favorite.
 
 ***
 
@@ -16,7 +16,7 @@ The **Favorites** module is displayed in the [main menu](../using-the-client-por
 
 * In the main menu, hover over the page and select the star icon.&#x20;
 
-<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The star icon will change from empty to filled, and the page will appear under **Favorites** in the main menu.
 
@@ -30,10 +30,10 @@ You can remove a page from your favorites in two different ways.
 
 * In the main menu, go to **Favorites** and select the star icon next to the page you want to remove.
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * In the main menu, navigate to the module that contains the page and select the star icon.&#x20;
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When you remove a page from your favorites, the star icon changes from filled to empty, which indicates that the page is not a favorite.&#x20;

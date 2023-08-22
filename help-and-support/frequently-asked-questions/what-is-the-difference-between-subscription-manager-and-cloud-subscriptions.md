@@ -1,4 +1,10 @@
+---
+description: Learn the differences between subscription manager and cloud subscriptions.
+---
+
 # What is the difference between subscription manager and cloud subscriptions?
+
+***
 
 We initially developed Subscription Manager to help you to manage your existing license quantities for your Office 365 Subscriptions.
 
@@ -14,17 +20,17 @@ Cloud Subscription is comprised of three modules:
 
 The below table outlines the enhanced functionality that you now receive with Cloud Subscriptions:
 
-| **Feature**                                                  | **Cloud Subscriptions** | **Subscription Manager** |
-| ------------------------------------------------------------ | ----------------------- | ------------------------ |
-| Increase /Decrease number of seats of existing subscriptions | Yes                     | Yes                      |
-| Suspend / Reactivate existing subscriptions                  | Yes                     | Yes                      |
-| Manage existing Add-Ons                                      | Yes                     | Yes                      |
-| See monthly costs of existing subscriptions                  | Yes                     | Yes                      |
-| Manage several Microsoft tenants                             | Yes                     | Yes                      |
-| Order History (Log)                                          | Yes                     | Yes                      |
-| Search full Marketplace                                      | Yes                     |                          |
-| Purchase net new products                                    | Yes                     |                          |
-| Purchase additional subscriptions of existing products       | Yes                     |                          |
-| Purchase Add-Ons based on existing base subscription         | Yes                     |                          |
-| Purchase Add-Ons based on new base subscription              | Yes                     |                          |
-| Add and manage internal references for each subscription     | Yes                     |                          |
+| Feature                                                       | Cloud Subscriptions | Subscription Manager |
+| ------------------------------------------------------------- | ------------------- | -------------------- |
+| Increase / Decrease number of seats of existing subscriptions | Yes                 | Yes                  |
+| Suspend / Reactivate existing subscriptions                   | Yes                 | Yes                  |
+| Manage existing Add-Ons                                       | Yes                 | Yes                  |
+| See monthly costs of existing subscriptions                   | Yes                 | Yes                  |
+| Manage several Microsoft tenants                              | Yes                 | Yes                  |
+| Order History (Log)                                           | Yes                 | Yes                  |
+| Search full Marketplace                                       | Yes                 |                      |
+| Purchase net new products                                     | Yes                 |                      |
+| Purchase additional subscriptions of existing products        | Yes                 |                      |
+| Purchase Add-Ons based on existing base subscription          | Yes                 |                      |
+| Purchase Add-Ons based on new base subscription               | Yes                 |                      |
+| Add and manage internal references for each subscription      | Yes                 |                      |

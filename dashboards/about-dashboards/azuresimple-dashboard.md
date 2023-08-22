@@ -15,11 +15,11 @@ The dashboard provides:
 * Help & support tickets
 * Service articles
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Selecting your Tenant <a href="#selecting-your-tenant" id="selecting-your-tenant"></a>
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you have multiple Microsoft tenants, you will see a dropdown option next to your tenant name on the AzureSimple dashboard, allowing you to switch between tenants.
 
@@ -31,13 +31,13 @@ Widgets like “Invoices”, “Add user” and “Service Review” are based o
 
 If you are unable to see the widgets, contact your administrator to check your permissions.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Monthly Potential Savings <a href="#monthly-potential-savings" id="monthly-potential-savings"></a>
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 This widget is a monthly representation of potential AzureSimple savings opportunities. Clicking the widget takes you to the “Recommendations” page where more detailed filtering and other savings recommendations can be found.
 
@@ -45,7 +45,7 @@ This widget is a monthly representation of potential AzureSimple savings opportu
 
 This widget displays billing cycles from the past 90 days. It will usually contain the last 3 billing cycles, but it may also contain 4 if the billing cycle is spanning across two months.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clicking the widget will take you to the “Consumption Report” page where you can see more details.
 
@@ -59,13 +59,13 @@ This gives you the opportunity to address any unusual spend and prevent any furt
 
 Clicking the widget takes you to the Notifications Hub where all other notifications can be found.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Service Recommendations Articles <a href="#service-recommendations-articles" id="service-recommendations-articles"></a>
 
 One of the biggest advantages for our customers is access to custom tailored recommendations. All AzureSimple recommendations are provided directly, articles are written by SoftwareONE experts and backed by data driven intelligence.
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Help and Support Overview <a href="#help-and-support-overview" id="help-and-support-overview"></a>
 
@@ -75,7 +75,7 @@ If no tickets have been logged, users will have the option to create a new reque
 
 Clicking on the widget takes you to the “Help and Support” page where all ticket details can be found.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Data Refresh Rate <a href="#data-refresh-rate" id="data-refresh-rate"></a>
 

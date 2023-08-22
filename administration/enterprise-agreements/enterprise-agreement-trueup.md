@@ -6,7 +6,9 @@ description: >-
 
 # Enterprise Agreement TrueUp
 
-This section of the document will guide users through the Enterprise Agreement Setup Wizard. Running through the Wizard and enabling reporting is the first step in the EA module onboarding process.
+***
+
+This section of the document will guide you through the Enterprise Agreement Setup Wizard. Running through the Wizard and enabling reporting is the first step in the EA module onboarding process.
 
 The onboarding process consists of 2 phases:
 
@@ -21,11 +23,15 @@ The following prerequisites are required to run through the Setup Wizard :
 * Company structure information
 * Customer Price Sheet
 
+***
+
 ### Accessing EA Setup <a href="#post-3370-_toc513023077" id="post-3370-_toc513023077"></a>
 
 Only EA Admins can access the wizard. If you do not see this option, it may be a permissions issue.&#x20;
 
 * From the main menu, navigate to **Set up** and **EA Setup Wizard**.
+
+***
 
 ### Setup Wizard <a href="#post-3370-_toc513023078" id="post-3370-_toc513023078"></a>
 
@@ -38,7 +44,7 @@ To reset the Wizard click on the “Discard all progress” button visible on th
 
 #### Step 1 – Select Agreement <a href="#post-3370-_toc513023079" id="post-3370-_toc513023079"></a>
 
-Select your EA Agreement from the drop down. The following license model agreements are supported:
+Select your EA Agreement from the drop-down. The following license model agreements are supported:
 
 * Direct Enterprise Agreement
 * Indirect Enterprise Agreement
@@ -47,27 +53,25 @@ Select your EA Agreement from the drop down. The following license model agreeme
 
 Users need to have permission to inspect agreements.
 
-Agreements which have already been setup i.e. moved to Asset Allocation or Reporting, are not displayed on the list.
+Agreements that have already been set i.e. moved to Asset Allocation or Reporting, are not displayed on the list.
 
 **Note:** In cases where either:
 
 – the user does not have proper permission,\
-– all agreements have already been setup,\
+– all agreements have already been set up,\
 – no agreement exists in the system
 
-Then only the form for registering new agreement will be available.
+Then only the form for registering a new agreement will be available.
 
 If you can see your target agreement on the License Agreements page (i.e. Manage>Contracts), and no setup has been completed but you still do not find it on this page, submit a support request.
 
-**Note:** If you do not find your EA Agreement in the list, click on the “Register New Agreement” tile to create new agreement.
+**Note:** If you do not find your EA Agreement in the list, click on the “Register New Agreement” tile to create a new agreement.
 
-Your SoftwareONE Account Manager will receive a notification and will need to setup the agreement in our backend system in order to get the process completed.
+Your SoftwareONE Account Manager will receive a notification and will need to set up the agreement in our backend system in order to get the process completed.
 
 Please refer to the “**Register New Agreement**” section for more information.
 
 Once selected, click on “Next” button to move on to the next step – **Structure.**
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2 – Structure <a href="#post-3370-_toc513023080" id="post-3370-_toc513023080"></a>
 
@@ -75,113 +79,83 @@ This is to define the structure of the agreement. From this step onwards, you ne
 
 This page **allows you to set tenants and products profiles** (as available in your CPS), however both of these fields are not mandatory, so you can have these disabled as shown in below screen shot:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 **Profiles**
 
 Typically profiles and tenants can be found as a subsection in CPS. Profiles can be found in both “SECTION 1. Licenses and Software Assurance” and “Future Pricing”. Please note that “Enterprise” subsection should not be treated as a profile and will be automatically added in the Wizard. Please inspect the below screenshot from a sample CPS with “Industry Device II” and “Manufacturing” profiles.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-The screenshot below shows “Enterprise” subsection which should not be counted as a profile:
+The screenshot below shows the “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
-Tenants represent the domain of subscription products. They can be found in “SECTION 2: Monthly Subscriptions” as well as proper “Future Pricing” subsection. The screenshot below shows two tenants have been identified. Subsection should not be treated as tenants and will be automatically added by default.
+Tenants represent the domain of subscription products. They can be found in “SECTION 2: Monthly Subscriptions” as well as the proper “Future Pricing” subsection. The screenshot below shows two tenants have been identified. Subsections should not be treated as tenants and will be automatically added by default.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Adding Profiles and Tenants**
 
-If you want to add tenants or product profiles, you can enable these by clicking on the “switch buttons” as shown below. It is also possible to delete existing profiles and tenants.
-
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+If you want to add tenants or product profiles, you can enable these by clicking on the “switch buttons”. It is also possible to delete existing profiles and tenants.
 
 Once you have inserted the details, click on the “Next” button to move on to next step i.e. **Reporting Location**.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
-**NOTE**: If you do not have tenant or product profile information in your price sheet, you do not need to add this information into the Wizard. Both of these are optional so you can simply click on next button to move on to Step 3.
+**NOTE**: If you do not have tenant or product profile information in your price sheet, you do not need to add this information to the Wizard. Both of these are optional so you can simply click on the next button to move on to Step 3.
 {% endhint %}
 
 #### Step 3 – Reporting Location <a href="#post-3370-_toc513023081" id="post-3370-_toc513023081"></a>
 
-This step is to add locations which will be used for reporting purposes. Customer Price Sheet is oriented around “Usage Countries”. Each country aggregates license quantities from all locations (e.g. companies) within that country. However, to provide accurate reports we suggest using a more detailed location structure.
+This step is to add locations that will be used for reporting purposes. The customer Price Sheet is oriented around “Usage Countries”. Each country aggregates license quantities from all locations (e.g. companies) within that country. However, to provide accurate reports we suggest using a more detailed location structure.
 
-Location is the extension of the company which should exist in backend systems. If it does not exist then both “Company” and “extended Location” can be added in the form below. It is advised to have permissions to all companies in address tree relevant to agreement being setup. Only one location can be added per company.
+Location is the extension of the company which should exist in backend systems. If it does not exist then both “Company” and “extended Location” can be added in the form below. It is advised to have permissions for all companies in the address tree relevant to the agreement being set up. Only one location can be added per company.
 
-Location form consist of:
+The location form consists of:
 
-**Company-** You can select company from drop down list as it will show you all the companies available in the address tree. Company is required to add location.
+* **Company-** You can select a company from the drop-down list as it will show you all the companies available in the address tree. The company is required to add a location. If you think a company is missing, you can “**Create New Company**” by following the steps in the “Add New Company” section.
+* **Location Group** – This is a user-defined grouping, you can group the companies based on your requirements. One group may have multiple locations, however, one location may only exist in one group.
+* **Product Profile** – is a drop-down that has profiles from Step 2. Multiple values can be selected.
+* **Company identifier** – is user defined identifier for each location. There are no strict rules around identifier but it is recommended to use a number that does not changes frequently. (like internal subsidiary identifier).
 
-**Note**: If you think a company is missing, you can “**Create New Company**” by following the steps in the “Add New Company” section.
-
-**Location Group** – This is user defined grouping, you can group the companies based on your requirements.
-
-**Note:** One group may have multiple locations, however one location may only exists in one group.
-
-**Product Profile** – is a drop down which has profiles from Step 2. Multiple values can be selected.
-
-**Company identifier** – is user defined identifier for each location. There are no strict rules around identifier but it is recommended to use a number that does not changes frequently. (like internal subsidiary identifier).
-
-Once all the details are provided, **click on “Add”** button as shown in below snap shot:
-
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Once all the details are provided, **click on the “Add”** button.
 
 Clicking on the “Add” button would bring the reporting location record down and a new form would be available to add more locations.
 
-You can also delete or edit already added reporting locations by using “Edit” or “Delete” options.
+You can also delete or edit already added reporting locations by using the “Edit” or “Delete” options.
 
-You have to add at least one reporting location in order to proceed to next step.
-
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+You have to add at least one reporting location in order to proceed to the next step.
 
 When all the reporting locations are added, click on “Next” button to move on to next step i.e. **“License and Software Assurance”.**
-
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 4 – License and Software Assurance <a href="#post-3370-_toc513023082" id="post-3370-_toc513023082"></a>
 
 The purpose of this step is to add License and Software Assurance details i.e. product and price details from Customer Price Sheet.
 
-Data required in this step can be found in CPS table under the header “Section 1 – License and Software Assurance” as shown below. Products for every year should be added (please inspect note regarding auto populate feature below).
+Data required in this step can be found in CPS table under the header “Section 1 – License and Software Assurance” as shown below. Products for every year should be added (please inspect the note regarding auto auto-populate feature below).
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Pricing information for all products across every year is required. However, due to the structure of agreements only data for the first year need to be added. Subsequent years are auto populated and only need to be adjusted in singular cases (please see note below).
+Pricing information for all products across every year is required. However, due to the structure of agreements only data for the first year need to be added. Subsequent years are auto-populated and only need to be adjusted in singular cases (please see note below).
 
 The screenshot below shows the tabs representing each year relating to your agreement. Pricing for 3 years is available by default.. Additional years can be added if needed in alignment with the agreement duration and details available in the CPS. When selecting a year tab it will display all the data for that selected year.
 
 Each year tab has a grid available with two main sections i.e. **“Enterprise Products” and “Additional Products”.**
 
-In case you have added any product profiles in Step 2, those would also be available under Enterprise Products section. Products with the same part number but different pricing can be added to multiple profiles.
+In case you have added any product profiles in Step 2, those would also be available under the Enterprise Products section. Products with the same part number but different pricing can be added to multiple profiles.
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+The order of columns in the Wizard and CPS is different. More importantly, the “Part Number” of the product is the first column and should be inserted before other data. This is due to the fact that “Product Description” and “License Type” are auto-filled based on the product part number. In case that part number can not be found and auto-filled then data should be added manually.
 
-The order of columns in the Wizard and CPS is different. More importantly, “Part Number” of product is the first column and should be inserted before other data. This is due to the fact that “Product Description” and “License Type” are autofilled based on product part number. In case that part number can not be found and auto filled then data should be added manually.
+After providing base product information the “Net Unit Price” and “License Quantity” should be filled out. As a result “Extended Amount” will be calculated. The “Calculated Extended Amount” value should match the corresponding value in CPS.
 
-After providing base product information the “Net Unit Price” and “License Quantity” should be filled out. As a result “Extended Amount” will be calculated. “Calculated Extended Amount” value should match corresponding value in CPS.
+The “Usage Country” field is optional. It may be used for the review process after the list is completed. Especially when “Total Year Payment” (seen at the bottom of the screen) in the Wizard does not match the corresponding value in CPS.
 
-“Usage Country” field is optional. It may be used for review process after list is completed. Especially when “Total Year Payment” (seen at the bottom of the screen) in the Wizard does not match the corresponding value in CPS.
+Following the same process, you need to fill in all the products from CPS. You should see the total payment for that year at the bottom of the screen and this amount should match with the total year payment on CPS for the corresponding year.
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Following the same process, you need to fill in all the products from CPS. You should see total payment for that year at the bottom of the screen and this amount should match with the total year payment on CPS for the corresponding year.
-
-**“Total Year Payment”:** Total Year Payment presented in Step 4 should be compared to Total Year Payment contained in “Section 1 – Licenses and Software Assurance” for particular year table in CPS.
-
-Fill in the details for each year and once done, click on” Next” to proceed to the next step i.e. Subscription.
-
-**“Products auto-population across years”:** Data from Year 1 is auto populated to subsequent years. Typically year-to-year data in CPS does not change. However, if it is required, products in every year can be altered manually. Please note that auto-populate propagates changes from given year to the next ones.
-
-**Example:** For a 3 year agreement. After adding data to Year 1, the user decides to add one new product to Year 2. The auto-populate feature will copy the new product to Year 3, but will not touch Year 1. After that, change from Year 1 will not be propagated to Year 2 and Year 3.
+* **“Total Year Payment”:** Total Year Payment presented in Step 4 should be compared to Total Year Payment contained in “Section 1 – Licenses and Software Assurance” for particular year table in CPS. Fill in the details for each year and once done, click on” Next” to proceed to the next step i.e. Subscription.
+* **Products auto-population across years”:** Data from Year 1 is auto populated to subsequent years. Typically year-to-year data in CPS does not change. However, if it is required, products in every year can be altered manually. Please note that auto-populate propagates changes from given year to the next ones. **Example:** For a 3 year agreement. After adding data to Year 1, the user decides to add one new product to Year 2. The auto-populate feature will copy the new product to Year 3, but will not touch Year 1. After that, change from Year 1 will not be propagated to Year 2 and Year 3.
 
 **Note:** In the screenshot below, details for a few of the products are inserted. However you still need to fill in the details for each product in the price sheet and under all relevant years.
-
-<figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 5 – Subscriptions <a href="#post-3370-_toc513023083" id="post-3370-_toc513023083"></a>
 
@@ -189,43 +163,43 @@ This step lets you fill in details for subscriptions.
 
 Data required in this step can be found in CPS table under the header “Section 2 – Monthly Subscriptions” as shown below. There are a few columns in CPS that you do not have to take into consideration from now on: “Usage indicator”, “Usage Start Date” and “Unit of Measure”. Those columns should be omitted when inputting pricing information.
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Step 5 has a similar grid to Step 4, the only difference is the “Unit Quantity” field is added. “Unit Quantity” represents the number of months. It is set to 12 months by default, however it can be changed if required.
+Step 5 has a similar grid to Step 4, the only difference is the “Unit Quantity” field is added. “Unit Quantity” represents the number of months. It is set to 12 months by default, however, it can be changed if required.
 
 The grid has two sections i.e. **“Enterprise Products”** and **“Additional Products”.** Both sections need to be mapped correctly from CPS.
 
-Filling in “Part Number” will auto populate “Product Description”..
+Filling in “Part Number” will auto-populate “Product Description”..
 
-Filling “Net Unit Price” / “Month and License Quantity” will auto populate “Extended Amount”. Please note that price is for one single month, therefore it should be the same as in CPS.
+Filling “Net Unit Price” / “Month and License Quantity” will auto-populate “Extended Amount”. Please note that the price is for one single month, therefore it should be the same as in CPS.
 
 You can “Edit>Inserted Row” anytime. Adding a new product is achievable by clicking on the “Add Product” button.
 
-**“Products auto-population across years”:** Data from Year 1 is auto populated to subsequent years. Typically year-to-year data in CPS does not change. However, if it is required, products in every year can be altered manually. Please note that auto-populate propagates changes from given year to the next ones.
+**“Products auto-population across years”:** Data from Year 1 is auto-populated to subsequent years. Typically year-to-year data in CPS does not change. However, if it is required, products in every year can be altered manually. Please note that auto-populate propagates changes from a given year to the next.
 
-**Example:** For a 3 year agreement. After adding data to Year 1, the user decides to add one new product to Year 2. The auto-populate feature will copy the new product to Year 3, but will not touch Year 1. After that, changes from Year 1 will not be propagated to Year 2 and Year 3.
+**Example:** For a 3-year agreement. After adding data to Year 1, the user decides to add one new product to Year 2. The auto-populate feature will copy the new product to Year 3, but will not touch Year 1. After that, changes from Year 1 will not be propagated to Year 2 and Year 3.
 
 In this step, data inserted for Year 1 is copied for subsequent years. Please inspect the notes in Step 4 for more details.
 
 Once completed, click on the “Next” button to move to the next step i.e. Future Pricing.
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 #### Step 6 – Future Pricing <a href="#post-3370-_toc513023084" id="post-3370-_toc513023084"></a>
 
-This step is to insert future pricing details which come from “Future Pricing” section of Customer Price Sheet. Rows in CPS represent products and columns with the right prices for the TrueUp process for that given year. The “Future Pricing” section in CPS looks similar to what is shown below:
+This step is to insert future pricing details that come from the “Future Pricing” section of the Customer Price Sheet. Rows in CPS represent products and columns with the right prices for the TrueUp process for that given year. The “Future Pricing” section in CPS looks similar to what is shown below:
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-The “Future Pricing” section in CPS typically consist of multiple subsections such as “TrueUps”, “Higher Editions”, “Step-Ups”, “Future Monthly – Enterprise Online Services”, “Future Monthly – Enterprise Online Services”, etc.
 
-Even though these sections are not represented directly in the Wizard, they can be divided into subscriptions and non-subscriptions products. It is recommended to add all products from “Future Pricing” by in the relevant section in the Wizard based on the following three questions:
+
+The “Future Pricing” section in CPS typically consists of multiple subsections such as “TrueUps”, “Higher Editions”, “Step-Ups”, “Future Monthly – Enterprise Online Services”, “Future Monthly – Enterprise Online Services”, etc.
+
+Even though these sections are not represented directly in the Wizard, they can be divided into subscriptions and non-subscription products. It is recommended to add all products from “Future Pricing” in the relevant section in the Wizard based on the following three questions:
 
 1. Is the product a subscription? Yes/No
 2. What is the product category? Enterprise/Additional
 3. What is the product profile? – (Reference profiles added in Step 2 if applicable)
 
-This step is designed around two sections(Related to Question 1 – Is product a subscription?):
+This step is designed around two sections(Related to Question 1 – Is the product a subscription?):
 
 * “License and Software Assurance” – referencing products from Step 4
 * “Subscriptions” – referencing products from Step 5
@@ -239,76 +213,70 @@ The following products will be automatically added from previous steps:
 * All products of type UpgSA (Upgrade and Software Assurance Pack)
 * All subscriptions with prices
 
-<figure><img src="../../.gitbook/assets/image (19) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-Number of years on Step 6 is equal to the number of years you have defined in Steps 4 and 5.
+The number of years on Step 6 is equal to the number of years you have defined in Steps 4 and 5.
 
 Fill in the prices for all products in Y1, Y2, Y3 until Yn (n = no. of years tab you have added in Step 4).
 
-<figure><img src="../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-Prices for subscriptions is already populated from Step 5, however you can add more if needed but existing subscriptions (added in Step 5) cannot be removed.
+Prices for subscriptions are already populated from Step 5, however, you can add more if needed but existing subscriptions (added in Step 5) cannot be removed.
 
 Once all the details are entered into the Wizard, click on the “Next” button to move on to the next step i.e. Review.
 
-<figure><img src="../../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 #### Step 7 – Review <a href="#post-3370-_toc513023085" id="post-3370-_toc513023085"></a>
 
-The review step summarizes all the information provided in the Wizard. It allows you to review important details and if something is not correct, you can navigate to the respective step to correct.
-
-<figure><img src="../../.gitbook/assets/image (22) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-This step allows you to:
+The review step summarizes all the information provided in the Wizard. It allows you to review important details and if something is not correct, you can navigate to the respective step to correct. This step allows you to:
 
 * Review all the details.
 * Go back to any of the steps to edit/amend the details.
 * Submit all the entered details by clicking on the “Finish” button.
 * Review the annual and total payment details for the reported agreement. The figures for all years should match with the figures in the summary section of CPS sheet for respective years.
 
-<figure><img src="../../.gitbook/assets/image (23) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 If you feel that all the details are correct, submit by clicking on the “Finish” button. Clicking on “Finish” will submit the agreement for Asset Allocation as shown below:
 
-<figure><img src="../../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 All 7 steps have a “Discard all progress” button that allows you to reset the agreement and will remove all the details you have set in the Wizard against this agreement.
 
-**Note:** Once you have clicked on “Finish” in Step 7 and submitted the details, you cannot make any changes. If you want to make any changes you need to raise a [support request](https://apps.pyracloud.com/help-and-support/submit).
+**Note:** Once you have clicked on “Finish” in Step 7 and submitted the details, you cannot make any changes. If you want to make any changes you need to raise a support request.
+
+***
 
 ### Register New Agreement <a href="#post-3370-_register_new_agreement" id="post-3370-_register_new_agreement"></a>
 
-At Step 1, if the user does not find the agreement listed in the drop down, they can go ahead and register the new agreement by clicking on “Register New Agreement “as shown below:
-
-<figure><img src="../../.gitbook/assets/image (25) (1) (1).png" alt=""><figcaption></figcaption></figure>
+At Step 1, if the user does not find the agreement listed in the drop-down, they can go ahead and register the new agreement by clicking on “Register New Agreement “:
 
 Clicking this tile will take you to the next form as shown below:
 
-<figure><img src="../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Fill in the details and click on “Next” to proceed with this agreement.
 
 **Note:** You can proceed to the next step after registering a new agreement. Creation of the agreement via Wizard will trigger an email to inside sales. Finishing agreement onboarding (via asset allocation) **can only be done when the agreement is created in the backend database** (i.e. Navision) by inside sales.
 
+***
+
 ### Add New Company <a href="#post-3370-_add_new_company" id="post-3370-_add_new_company"></a>
 
-In Step 3 the user configures the reporting locations. If target company is not available in drop down, then a new company may be requested.
+In Step 3 the user configures the reporting locations. If the target company is not available in drop-down, then a new company may be requested.
 
-Click on “Add New Company” under company name drop down.
+Click on “Add New Company” under the company name drop-down. It will take you to the below form where you can provide the details and click on “**Save**”.
 
-<figure><img src="../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-It will take you to the below form where you can provide the details and click on “Save” .
 
-<figure><img src="../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Note:** You can proceed to the next step after requesting the New Company, however, creation of the new company via the Wizard will trigger an email to inside sales. Finishing new company onboarding **can only be done when the company is created in the backend database** (i.e. Navision) by inside sales.
+**Note:** You can proceed to the next step after requesting the New Company, however, the creation of the new company via the Wizard will trigger an email to inside sales. Finishing new company onboarding **can only be done when the company is created in the backend database** (i.e. Navision) by inside sales.
+
+***
 
 ### EA Asset Allocation <a href="#post-3370-_toc513023088" id="post-3370-_toc513023088"></a>
 
-This section will guide you on how to do asset allocations once the Setup Wizard step is completed and the specific agreement has been submitted. The purpose of asset allocation is to link the products with the reporting locations, i.e. distributing the licenses across all companies. After completion the chosen Agreement will be accessible from the EA Reporting module.
+This section will guide you on how to do asset allocations once the Setup Wizard step is completed and the specific agreement has been submitted. The purpose of asset allocation is to link the products with the reporting locations, i.e. distributing the licenses across all companies. After completion, the chosen Agreement will be accessible from the EA Reporting module.
 
-Below are the pre-requisites to proceed with the asset allocation process.
+Below are the prerequisites to proceed with the asset allocation process.
 
 * “Wizard Setup” for the required agreement is completed
 * EA Admin (who would follow this document) should have allocation data available
@@ -329,13 +297,9 @@ Clicking on “Asset Allocation” takes you to the below page where you can sel
 
 Once the agreement is selected, you are taken to the Asset Allocation page for the selected agreement as shown below:
 
-**Note**: If you submit the details in the Wizard in Step 7, then you are taken to the below page for the contract you have submitted the details for. You do not need to find and select your contract from drop down.
-
-<figure><img src="../../.gitbook/assets/image (29) (1) (1).png" alt=""><figcaption></figcaption></figure>
+**Note**: If you submit the details in the Wizard in Step 7, then you are taken to the below page for the contract you have submitted the details. You do not need to find and select your contract from drop-down.
 
 This page is an overview page and you can navigate to the details page for each product by clicking on the “Edit” option under the “Actions” column. The details page is shown below:
-
-<figure><img src="../../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Overview Page <a href="#post-3370-_toc513023091" id="post-3370-_toc513023091"></a>
 
@@ -359,8 +323,6 @@ For Example: 0 of 100 – would mean that none of the licenses are allocated yet
 
 Asset Allocation overview page also has a drop down to select the products based on the required status (as shown below). If nothing is selected from this drop down list, all the products irrespective of their status would be shown in the grid.
 
-<figure><img src="../../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 **Action** – This column has “Edit” option which can be used to navigate to the details page for the respective product
 
 There is a “Submit” button on the overview page to submit the final asset allocation. However, this button is greyed out and would only be enabled when all the assets are allocated properly i.e. status of all the assets changes to complete.
@@ -375,43 +337,39 @@ On this page, all details are shown for the respective product. i.e. if the same
 
 Even though you have come to this page via a specific product record on the overview page, you can still select any other product directly from top dropdown. There is no need to go back to the overview page.
 
-<figure><img src="../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 **Reporting Location**
 
-For the selected product, the reporting location drop down will only contain those options which belong to the available “Product Profile” for the selected product. Depending on profile setup, different allocation rows may be displayed. Therefore, no invalid allocation can be added.
+For the selected product, the reporting location drop-down will only contain those options that belong to the available “Product Profile” for the selected product. Depending on the profile setup, different allocation rows may be displayed. Therefore, no invalid allocation can be added.
 
-For example, if a product is setup under the “Industry Device” product profile, only those reporting locations would be available in the drop down which belong to this profile.
+For example, if a product is set up under the “Industry Device” product profile, only those reporting locations would be available in the drop-down which belong to this profile.
 
-<figure><img src="../../.gitbook/assets/image (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-If nothing is selected in “Reporting Locations” drop down, all the available reporting locations are shown in the grid and are grouped by Location Group, as defined in Step 3 of the Wizard setup process.
+If nothing is selected in the “Reporting Locations” drop-down, all the available reporting locations are shown in the grid and are grouped by Location Group, as defined in Step 3 of the Wizard setup process.
 
-At this step, you need to have the allocation data for the selected product. Numbers representing quantities should be added to “Quantity” column as shown below:
-
-<figure><img src="../../.gitbook/assets/image (34) (1) (1).png" alt=""><figcaption></figcaption></figure>
+At this step, you need to have the allocation data for the selected product. Numbers representing quantities should be added to the “Quantity” column:
 
 Once you have defined the quantity, the amount will get calculated automatically based on the unit price you have setup in the Wizard (Year 1 of Steps 4 and 5) using CPS.
 
-<figure><img src="../../.gitbook/assets/image (35) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-**Total Cost** – shows the total cost of all the allocated assets/licenses. i.e. if only 40 assets are allocated out of 90, total cost will show the amount for 40 assets.
+**Total Cost** – shows the total cost of all the allocated assets/licenses. i.e. if only 40 assets are allocated out of 90, the total cost will show the amount for 40 assets.
 
-At the bottom of the reporting location column, you can see if all the available assets are allocated or not. Three possible values can be displayed here as shown below
+At the bottom of the reporting location column, you can see if all the available assets are allocated or not. Three possible values can be displayed here:
 
-![](https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-68.png) ![](https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-71.png) Depicts that all the assets are allocated properly and status field is set to “Complete”
+&#x20;![](<../../.gitbook/assets/image (17).png>) ![](<../../.gitbook/assets/image (18).png>) Depicts that all the assets are allocated properly and status field is set to “Complete”
 
-Depicts that too many licenses have been allocated and status field is set to “over allocated”
+Depicts that too many licenses have been allocated and the status field is set to “over-allocated”
 
 ![](https://help.pyracloud.com/wp-content/uploads/2020/07/word-image-72.png) Depicts that licenses are still left unallocated and status field is set to “Incomplete”
 
-You can select the products from the product drop down and allocate the assets to bring the status of all products to “complete”.
+You can select the products from the product drop-down and allocate the assets to bring the status of all products to “complete”.
 
 If there is no value reported against any location it is considered as 0.
 
-<figure><img src="../../.gitbook/assets/image (36) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-**Note**: All the changes made on this page are auto saved.
+**Note**: All the changes made on this page are auto-saved.
 
 You can navigate to the Overview page at any time by clicking on “Back to Asset Overview”.
 
@@ -431,7 +389,7 @@ Once this is completed for all the products, the “Submit” button on the Over
 
 Once the ”Submit” button is enabled you can go ahead and submit the form. You will then see apop message informing you that the data will be sent to the “EA Reporting Tool”, and this page will be locked i.e. no further changes can be made.
 
-You can either “Cancel” or proceed submitting the data by clicking the “Yes, Send Data” button.
+You can either “Cancel” or proceed to submit the data by clicking the “Yes, Send Data” button.
 
 <figure><img src="../../.gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -439,13 +397,15 @@ You can either “Cancel” or proceed submitting the data by clicking the “Ye
 
 At this point, the agreement and company details are validated.
 
-If the allocation data you are submitting belongs to a newly registered agreement, then it is verified in the backend system. After requesting the new agreement in the Setup Wizard, your SoftwareONE Account Manager receives an email with all of the agreement information. Propagating data across all systems may take up to 24h. If the agreement has not been setup yet, then an error message will be displayed. It is recommended that you try submitting the form again the next working day.
+If the allocation data you are submitting belongs to a newly registered agreement, then it is verified in the backend system. After requesting the new agreement in the Setup Wizard, your SoftwareONE Account Manager receives an email with all of the agreement information. Propagating data across all systems may take up to 24 hours. If the agreement has not been set up yet, then an error message will be displayed. It is recommended that you try submitting the form again the next working day.
 
 <figure><img src="../../.gitbook/assets/image (41) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-If you continue to get the error message, please report this to your Account Manager to get this setup in the database. Once this has been done you will be able to submit the form.
+If you continue to get the error message, please report this to your Account Manager to get this set up in the database. Once this has been done you will be able to submit the form.
 
 **Note**: If you have created a company in the Wizard, it will follow the same process, i.e. your Account Manager needs to set it up in the database. If this has not been done you will get a similar error message.
+
+***
 
 ### EA Reporting Module <a href="#post-3370-_toc513023094" id="post-3370-_toc513023094"></a>
 
@@ -457,9 +417,11 @@ The onboarding process for the EA Reporting module is outlined in this section o
 
 Below are key points to note whilst setting up the EA Reporting Module for a customer.
 
-* All customer locations and users must be setup within NAV, including Web shop access
+* All customer locations and users must be set within NAV, including Web shop access
 * The tree and global NAV push (if needed) must also be set up
 * Ensure the EA Setup Wizard and Asset Allocation steps have been completed in order to have reporting data available here.
+
+***
 
 ### Where to find EA Reporting in PyraCloud <a href="#post-3370-_toc513023095" id="post-3370-_toc513023095"></a>
 
@@ -472,6 +434,8 @@ Once you click on “Enterprise Agreement” under the “Manage” menu you are
 <figure><img src="../../.gitbook/assets/image (42) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 There are two types of permissions for the EA module i.e. **EA Admin** and **EA User**. Based on those permissions, the UI and available options on this page might differ as explained later in this document.
+
+***
 
 ### EA Reporting – User View <a href="#post-3370-_toc513023096" id="post-3370-_toc513023096"></a>
 
@@ -676,6 +640,8 @@ If the user wants to make further changes, they need to follow the steps outline
 * Make the required change and click “Update”
 * Save the changes
 * Commit the report again
+
+***
 
 ### EA Module – Admin View <a href="#post-3370-_toc513023104" id="post-3370-_toc513023104"></a>
 

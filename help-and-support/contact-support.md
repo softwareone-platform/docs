@@ -4,7 +4,7 @@ description: >-
   team through the Client Portal or email us.
 ---
 
-# Getting Support
+# Contact Support
 
 ***
 
@@ -48,7 +48,7 @@ The details page will display the ticket information, attachments, and messages 
 
 ***
 
-### Understanding the ticket status and messages
+### Understanding ticket status and messages
 
 The **Status and Messages** section on the Ticket Details page allows you to view the status of your ticket and optionally, write a message to our Support team.&#x20;
 
