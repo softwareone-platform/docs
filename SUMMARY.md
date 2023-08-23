@@ -56,7 +56,7 @@
   * [View and Manage Software Transactions](cloud-marketplace/procurement-workbench/view-software-transactions.md)
 * [Quotes and Special Quotes](cloud-marketplace/quotes-and-special-quotes/README.md)
   * [Create and Manage Quotes](cloud-marketplace/quotes-and-special-quotes/create-and-view-quotes.md)
-  * [Using Special Quotes to Request Prices](cloud-marketplace/quotes-and-special-quotes/using-special-quotes-to-request-prices.md)
+  * [Request Pricing for Non-Catalog Products](cloud-marketplace/quotes-and-special-quotes/request-pricing-for-non-catalog-products.md)
 * [Renewal Manager](cloud-marketplace/renewal-manager/README.md)
   * [Manage Software Renewals](cloud-marketplace/renewal-manager/manage-software-renewals.md)
 * [Software Downloads](cloud-marketplace/software-downloads/README.md)

@@ -1,8 +1,8 @@
 ---
-description: You can use Special quotes to request prices for off-catalog products.
+description: You can use Special quotes to request prices for non-catalog products.
 ---
 
-# Using Special Quotes to Request Prices
+# Request Pricing for Non-Catalog Products
 
 In addition to requesting prices for non-catalog products, you can create a special quote request if:
 
