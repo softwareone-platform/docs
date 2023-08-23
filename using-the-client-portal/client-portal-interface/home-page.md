@@ -30,7 +30,7 @@ The information in this section is read-only and cannot be edited.&#x20;
 
 The Favorites section displays the pages that you've added as favorites.&#x20;
 
-Click the module name to go to the main page for the related module. To learn about favorites, see [Manage Favorites](../../account-management/manage-favorites.md).&#x20;
+Click the module name to go to the main page for the related module. To learn about favorites, see [Manage Favorites](../../account-settings/manage-favorites.md).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 

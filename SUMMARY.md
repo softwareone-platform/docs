@@ -8,12 +8,12 @@
   * [Home Page](using-the-client-portal/client-portal-interface/home-page.md)
 * [Supported Browsers](using-the-client-portal/supported-browsers.md)
 
-## Account Management
+## Account Settings
 
-* [Change Language Settings](account-management/change-language-settings.md)
-* [Manage Favorites](account-management/manage-favorites.md)
-* [Reset or Change Password](account-management/reset-or-change-password.md)
-* [View and Configure Notifications](account-management/view-and-configure-notifications.md)
+* [Change Language Settings](account-settings/change-language-settings.md)
+* [Manage Favorites](account-settings/manage-favorites.md)
+* [Reset or Change Password](account-settings/reset-or-change-password.md)
+* [View and Configure Notifications](account-settings/view-and-configure-notifications.md)
 
 ## Administration
 

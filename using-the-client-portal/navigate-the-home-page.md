@@ -21,7 +21,7 @@ The header is global and displayed on all pages in the Client Portal.
 
 The navigation menu gives you access to various modules and submodules. The menu is collapsed by default, but you can open it by selecting it.&#x20;
 
-You can also use the menu to view your recently-viewed modules and favorites. For information on favorites, see [Manage Favorites](../account-management/manage-favorites.md).
+You can also use the menu to view your recently-viewed modules and favorites. For information on favorites, see [Manage Favorites](../account-settings/manage-favorites.md).
 
 <figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@ The Account menu displays your name along with your organization name. Select yo
 
 You can use this menu to:
 
-* [Change your password](../account-management/reset-or-change-password.md).
+* [Change your password](../account-settings/reset-or-change-password.md).
 * Access the [Collaboration Site](../administration/collaboration-site/) to store and share large files.
 * View your company contacts.
 * View or edit your company structure.&#x20;
@@ -57,7 +57,7 @@ The Footer appears at the bottom of all pages and it contains links to the impor
 
 You can use the links in the footer to perform these actions:
 
-* [Change the default language of the Client Portal.](../account-management/change-language-settings.md)
+* [Change the default language of the Client Portal.](../account-settings/change-language-settings.md)
 * Access the product documentation.
 * [Contact the Support team.](../help-and-support/getting-support.md)
 * Read our [blogs](https://www.softwareone.com/en/blog/articles) and [media releases](https://www.softwareone.com/en/media-releases).
