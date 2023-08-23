@@ -29,7 +29,7 @@ When you select a module from the navigation menu, all of the nested sub-modules
 
 <figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
-### Account Menu
+### Account menu
 
 The Account menu displays your name along with your organization name. Select your user name at the top-right corner of the page to display the menu.&#x20;
 

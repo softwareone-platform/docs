@@ -1,8 +1,20 @@
+---
+description: >-
+  The Home page is the first page that is displayed after you sign in to the
+  Client Portal.
+---
+
 # Home Page
 
-The Home page is the first page that is displayed after you sign in to the Client Portal.&#x20;
+The Home page of the Client Portal consists of three main elements: a header, a footer, and a content area, which is divided into the following sections:
 
-The Home page consists of sections that provide you quick access to different modules and your favorites, view your account information, and stay up to date with latest platform updates.&#x20;
+* Top Modules
+* Account Information
+* Favorites
+* Recently Visited
+* News and Updates
+
+Each of these sections is explained in this topic. For information on the header and footer, see [Client Portal Interface](../navigate-the-home-page.md).
 
 ***
 
@@ -10,7 +22,7 @@ The Home page consists of sections that provide you quick access to different mo
 
 The top modules section displays our top 6 modules.  The list of modules is displayed based on your access permissions, which means that you can view the modules only if you have access to them.
 
-Click the module name to go to the main page for that module.
+Selecting the module name opens up the main page for the module.
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +32,7 @@ Click the module name to go to the main page for that module.
 
 The Account Information section displays the name of your tenant, your account ID, and the service level assigned to your account.&#x20;
 
-The information in this section is read-only and cannot be edited.&#x20;
+The information in this section is read-only and you cannot edit it.
 
 <figure><img src="../../.gitbook/assets/image (37) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,9 +40,9 @@ The information in this section is read-only and cannot be edited.&#x20;
 
 ### Favorites
 
-The Favorites section displays the pages that you've added as favorites.&#x20;
+The Favorites section displays the pages that you've added as your favorites.&#x20;
 
-Click the module name to go to the main page for the related module. To learn about favorites, see [Manage Favorites](../../account-settings/manage-favorites.md).&#x20;
+Selecting a module name opens up the main page for the module. For detailed information on how to work with favorites, see [Manage Favorites](../../account-settings/manage-favorites.md).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +50,9 @@ Click the module name to go to the main page for the related module. To learn ab
 
 ### Recently Visited <a href="#recently-visited" id="recently-visited"></a>
 
-The Recently Visited section displays your five most recently visited pages. The list of pages is updated each time you visit a page. Click the module name to go to the main page for the related module.
+The Recently Visited section displays your five most recently visited pages. The list of pages is updated each time you visit a page.&#x20;
+
+When you select a module, the main page for that module opens.
 
 <figure><img src="../../.gitbook/assets/image (35) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
