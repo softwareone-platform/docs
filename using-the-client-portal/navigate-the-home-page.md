@@ -4,28 +4,28 @@ description: Find information on how to navigate the Client Portal.
 
 # Client Portal Interface
 
-The Client Portal provides an easy-to-use experience that allows you to access different modules and features. The layout consists of three sections: Header, Content area, and Footer.
+The Client Portal provides an easy-to-use experience that allows you to discover and access the modules. The portal's layout consists of three sections: a horizontal header bar, the main content area, and a footer.
 
 ***
 
-## Header
+## Header bar
 
-The header is global and displayed on all pages in the Client Portal.
+The Header bar is global and displayed on all pages in the Client Portal.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-* The left side of the header contains the SoftwareOne logo and the navigation menu. Selecting the logo at any time brings you back to the Home page of the Client Portal.
-* The right side contains the [account menu](navigate-the-home-page.md#account-menu) that allows you to perform various actions.
+* The left side of the header bar contains the SoftwareOne logo and a collapsible navigation menu. Selecting the logo at any time brings you back to the Home page of the Client Portal.
+* The right side of the header bar contains the [account menu](navigate-the-home-page.md#account-menu) that allows you to perform various actions.
 
 ### Navigation menu
 
-The navigation menu gives you access to various modules and submodules. The menu is collapsed by default, but you can open it by selecting it.&#x20;
+The navigation menu gives you access to various modules and submodules in the Client Portal. The menu is hidden by default, but you can open it by selecting it.&#x20;
 
-You can also use the menu to view your recently-viewed modules and favorites. For information on favorites, see [Manage Favorites](../account-settings/manage-favorites.md).
+From the navigation menu, you can also view your recently-viewed modules and favorites. For information on favorites, see [Manage Favorites](../account-settings/manage-favorites.md).
 
 <figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
-When you select a module from the navigation menu, all of the nested sub-modules are displayed.
+When you select a module from the navigation menu, all of the nested submodules are displayed.
 
 <figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 

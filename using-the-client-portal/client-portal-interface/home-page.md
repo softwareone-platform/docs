@@ -60,8 +60,8 @@ When you select a module, the main page for that module opens.
 
 ### News and updates <a href="#news-and-updates" id="news-and-updates"></a>
 
-The News and Updates section shows important information about product releases and improvements made to the Client Portal.
+The News and Updates section shows important information about product releases and improvements made to the Client Portal. These updates are displayed as tiles.
 
 <figure><img src="../../.gitbook/assets/image (34) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-When you select an announcement, a details page opens where you can read detailed information about the update. If you want to view all updates and announcements, select **View all**.&#x20;
+When you select a tile, a details page opens where you can read detailed information about the update. If you want to view all updates and announcements, select **View all**.&#x20;
