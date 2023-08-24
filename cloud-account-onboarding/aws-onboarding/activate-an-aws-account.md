@@ -21,20 +21,19 @@ If you start by activating a linked account, the Client Portal will discover you
 However, if you start by activating your master account, the Client Portal will discover your linked accounts first and provide the option to activate them individually, after the master account is activated.
 {% endhint %}
 
-
-
 ***
 
 ### Adding your AWS cloud account <a href="#activate-your-aws-cloud-account" id="activate-your-aws-cloud-account"></a>
 
 **To add your AWS cloud account**
 
-1. From the main menu, navigate to **Setup** and select **Cloud tenant setup**.
-2. On the Cloud Tenant Setup page, select **Add Cloud Account** and choose **Amazon Web Services** as your cloud service provider.
+1. From the navigation menu, go to **Setup** and select **Cloud tenant setup**.
+2. On the Cloud tenant setup page, select **Add Cloud Account** and choose **Amazon Web Services** as your cloud service provider.
 3. Provide the following details:
    1. A name for your AWS account.
    2. Your AWS account ID.&#x20;
-4. Select the region where you want to create the CloudFormation stack. Select **Add Cloud Account**. The login page for the AWS Console opens.&#x20;
+   3. Choose the region where you want to create the CloudFormation stack.&#x20;
+4. Select **Add Cloud Account**. The login page for the AWS Console opens.&#x20;
 
 {% hint style="info" %}
 **NOTE**: Your pop-up blocker might prevent the new browser tab from opening. Ensure that the pop-up blocker is turned off. If required, enable pop-ups and select **Add Cloud Account** again.
@@ -46,18 +45,18 @@ However, if you start by activating your master account, the Client Portal will 
    3. Select **Create**. The CloudFormation script will start executing.
 6. When the activation status changes from `CREATE_IN_PROGRESS`to `CREATE_COMPLETE`, navigate to the Client Portal, and refresh the page. Your account is activated.&#x20;
 
-If you use AWS Organizations and have linked accounts, these accounts will be shown as **Not Activated** in the list.
+If you use AWS Organizations and have linked accounts, these accounts will be shown as **Not Activated** in the list. See the next section for information on how to activate linked accounts.
 
 ***
 
 ### Activating linked accounts
 
-Many organizations have several AWS accounts in their AWS Organizations hierarchy. In some cases, it is not the same person who owns each of those accounts. Therefore, each account owner must activate the account they own.
+Many organizations have several AWS accounts in their AWS Organizations hierarchy. In some cases, it's not the same person who owns each of those accounts. Therefore, each account owner must activate the account they own.
 
 #### To activate linked accounts <a href="#next-steps" id="next-steps"></a>
 
-1. From the main menu, navigate to **Setup** and select **Cloud tenant setup**.
-2. Expand the master AWS account containing the linked accounts you want to add.&#x20;
+1. From the navigation menu, navigate to **Setup** and select **Cloud tenant setup**.
+2. On the Cloud tenant setup page, expand the master AWS account containing the linked accounts.&#x20;
 3. Select **Activate** next to the linked account that you want to activate.
 4. Perform the same activation steps as for the master account. Follow steps 3-6 in [Adding your AWS cloud account](activate-an-aws-account.md#activate-your-aws-cloud-account).
 
@@ -75,7 +74,7 @@ The process for activating multiple linked accounts is similar to the process fo
 
 **To activate multiple linked accounts automatically**
 
-1. Expand the AWS account on the Cloud tenant setup page containing the linked accounts you want to add.
+1. On the Cloud tenant setup page, expand the AWS account containing the linked accounts you want to add.
 2. Select the checkbox next to each linked account you want to activate.
 3. Select **Activate Selected**.
 

@@ -12,7 +12,7 @@ You can see your active and default currencies on the Currency Overview page. Yo
 
 **To see your currencies**
 
-* From the main menu, navigate to **Setup** and select **Currency Overview**.
+* From the navigation menu, navigate to **Setup** and select **Currency Overview**.
 
 ***
 

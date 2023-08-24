@@ -12,7 +12,7 @@ You can create up to 3 levels of purchase approval groups.
 
 **To create an approval group**
 
-1. From the main navigation menu, navigate to **Setup** and select **Purchase Approval Setup**.
+1. From the navigation menu, navigate to **Setup** and select **Purchase Approval Setup**.
 2. Select **New Group**. The Create Approval Group window opens.
 3. Provide a name for your approval group, select the approval level, and log in from the list.
 4. Select **Create** to create the approval group.

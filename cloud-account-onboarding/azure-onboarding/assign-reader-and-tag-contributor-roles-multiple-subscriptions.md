@@ -4,7 +4,7 @@ description: >-
   in a single step.
 ---
 
-# Assign Reader and Tag Contributor roles (multiple subscriptions)
+# Assign Reader and Tag Contributor Roles (multiple subscriptions)
 
 ***
 
@@ -20,8 +20,6 @@ You can use Azure Management Groups to grant the Client Portal access to your Az
 When you onboard your tenant to the Client Portal, an Enterprise Application called PyraCloud (Azure) is created in your tenant. You must then assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the "PyraCloud (Azure)" Enterprise Application:
 
 These roles allow the Client Portal to read a list of all the resources in your Azure subscriptions, and read and write tags on those resources. You can choose whether you want the Client Portal to write tags back to resources in your Azure subscription using the Cloud Tenant Setup feature.
-
-***
 
 ***
 
@@ -69,7 +67,7 @@ The following table explains these commands:
 
 **To grant access to PyraCloud**
 
-1. Sign in to the [Azure Portal](https://portal.azure.com/#home) and search for **Management groups**.
+1. Launch the [Azure Portal](https://portal.azure.com/#home) and search for **Management groups**.
 2. On the **Management groups** page, select **Tenant Root Group**.
 
 {% hint style="info" %}

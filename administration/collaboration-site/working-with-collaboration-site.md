@@ -10,10 +10,10 @@ description: Learn how to grant access and use the collaboration site.
 
 **To access the Collaboration Site**
 
-1. Select your account menu in the upper-right corner of the top navigation bar.
+1. Select your account menu in the upper-right corner of the header.
 2. Choose **Collaboration Site.**
 
-The Collaboration Site page will display the workspaces that you have access to. If you have access to only one workspace, you are automatically redirected to the location.
+The Collaboration Site page will display the workspaces that you have access to. If you have access to only one workspace, you will be automatically redirected to that workspace.
 
 ***
 
@@ -23,7 +23,7 @@ Administrators can grant access permissions to the Collaboration Site from the U
 
 **To assign permissions from the User Management module**
 
-1. From the main menu, navigate to **Set up** and select **User Management**.&#x20;
+1. From the navigation menu, navigate to **Setup** and select **User Management**.&#x20;
 2. On the User Management page, locate the user and select **View** in the **Actions** column. The user permissions will be displayed.&#x20;
 3. Select the **Collaboration Site** tab and then choose the access level. You can assign access levels for each workspace.
 4. Select **Save**.
@@ -31,7 +31,7 @@ Administrators can grant access permissions to the Collaboration Site from the U
 **To assign permissions directly from the Collaboration Site**
 
 1. Open the Collaboration Site.&#x20;
-2. In the Actions column, select the Manage permissions icon (represented by three dots).
+2. In the **Actions** column, select the Manage permissions icon (represented by three dots).
 3. On the Manage Permissions page, make changes as necessary. You can update permissions, assign multiple users to a workspace, and delete a user to remove their access rights.
 4. Select **Save**.
 
@@ -43,7 +43,7 @@ The **Transactions** workspace in the Collaboration Site contains files attached
 
 **To enable access to the Transactions area**
 
-1. From the main menu, navigate to **Set up** and select **User Management**.&#x20;
+1. From the navigation menu, navigate to **Setup** and select **User Management**.&#x20;
 2. On the User Management page, locate the user and select **View** in the **Actions** column. The user permissions will be displayed.&#x20;
 3. On the **Features** tab, navigate to **Collaboration Site** and choose **View Storefront Documents.**
 4. Select **Save**.
@@ -59,7 +59,7 @@ The permissions are applied within a few minutes.
 1. Navigate to the folder and locate the file that you want to download.
 2. Select the file name or select **Download** in the **Actions** column.&#x20;
 
-Your download will begin. Note that it might take some time for the large files to download completely.&#x20;
+Your download will begin. Note that it might take some time for the large files to download fully.&#x20;
 
 **To download a folder**
 

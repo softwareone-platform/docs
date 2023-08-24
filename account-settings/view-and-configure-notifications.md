@@ -19,10 +19,10 @@ The Notification Hub is a centralized place where you to view and manage notific
 
 **To view your notifications**
 
-1. From the main menu, navigate to **Setup** and select **Notifications**. The Notifications page opens.
-2. From the **Topic** list, choose the feature for which you want to view the notifications or select **All** to include all features.&#x20;
+1. From the navigation menu, navigate to **Setup** and select **Notifications**. The Notifications page opens.
+2. From the **Topic** list, choose the feature for which you want to view notifications or select **All** to include all features.&#x20;
 3. Choose whether you want to view all notifications or unread only.&#x20;
-4. From the list of notifications, select the notification title to see more information.
+4. From the list of notifications, select the notification title to view detailed information.
 
 {% hint style="info" %}
 **NOTE**: By default, all notifications are deleted after 30 days, regardless of whether they've been read.

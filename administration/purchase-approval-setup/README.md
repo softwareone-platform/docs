@@ -11,10 +11,10 @@ description: >-
 The Client Portal allows you to set up approval workflows depending on the price or publisher.&#x20;
 
 {% hint style="info" %}
-**NOTE**: Only administrators can Purchase Approval Workflows. If any other user requires access, either the administrator can set it up or the user can contact their SoftwareOne representative.
+**NOTE**: Only administrators can create Purchase Approval Workflows. If any other user requires access, either the administrator can set it up or the user can contact their SoftwareOne Account Manager.
 {% endhint %}
 
-Workflows and approval groups help you simplify the configuration and maintenance of the approval limits, which you can assign to individual users.
+Workflows and approval groups help you simplify the configuration and maintenance of the approval limits that are assigned to individual users.
 
 Approval groups are assigned to users and they represent a set of individuals who can approve orders. Through approval groups, you can create a group of users who are responsible for approvals.
 

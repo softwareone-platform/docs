@@ -14,7 +14,7 @@ The **Favorites** module is displayed in the [navigation menu](../using-the-clie
 
 **To add a page to your favorites**
 
-* In the main menu, hover over the page and select the star icon.&#x20;
+* In the navigation menu, hover over the page and select the star icon.&#x20;
 
 <figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -28,11 +28,11 @@ You can remove a page from your favorites in two different ways.
 
 **To remove a page from your favorites**
 
-* In the main menu, go to **Favorites** and select the star icon next to the page you want to remove.
+* In the navigation menu, select **Favorites** and then select the star icon next to the page you want to remove.
 
 <figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* In the main menu, navigate to the module that contains the page and select the star icon.&#x20;
+* In the navigation menu, go to the module that contains the page and select the star icon.&#x20;
 
 <figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

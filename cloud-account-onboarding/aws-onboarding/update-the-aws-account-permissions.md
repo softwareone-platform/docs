@@ -2,16 +2,16 @@
 description: Update your permissions so that the Client Portal can access your AWS account.
 ---
 
-# Update your AWS Account Permissions
+# Update the AWS Account Permissions
+
+***
 
 {% hint style="info" %}
 **NOTES:**
 
 * This topic only applies to the AWS accounts that are added using the **Add Cloud Account** option on the Cloud Tenant Setup page.
-* You must have an advance understanding of AWS, CloudFormation, and IAM policies and roles to execute these steps.
+* You must have an advanced understanding of AWS, CloudFormation, and IAM policies and roles to execute these steps.
 {% endhint %}
-
-***
 
 ### Updating permissions
 
@@ -70,7 +70,7 @@ The following permissions are required to view the AWS Recommendations from AWS 
 * support:\*
 * trustedadvisor:Describe\*
 
-Follow the [Updating permissions](update-your-aws-account-permissions.md#updating-permissions) section to re-onboard your AWS account with these permissions.
+Follow [Updating permissions](update-the-aws-account-permissions.md#updating-permissions) to re-onboard your AWS account with these permissions.
 
 ***
 

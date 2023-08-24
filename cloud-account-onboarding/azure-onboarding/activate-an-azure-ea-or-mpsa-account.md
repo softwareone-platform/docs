@@ -21,7 +21,7 @@ Before adding an account, make sure that you have the following details:
 
 **To activate your account**
 
-1. From the main menu, navigate to **Setup** and select **Cloud Tenant Setup**.
+1. From the navigation menu, navigate to **Setup** and select **Cloud Tenant Setup**.
 2. On the Cloud Tenant Setup page, select **Add Cloud Account**.
 3. On the Add Cloud Account page, select **Azure** or **Office 365** and provide the following details:
    1. A name for your Microsoft tenant.

@@ -4,7 +4,7 @@ description: >-
   SoftwareOne and third parties.
 ---
 
-# Managing your software assets and financial transactions
+# Manage Software Assets and Financial Transactions
 
 ***
 
@@ -12,7 +12,7 @@ description: >-
 
 **To view your software assets and financial transactions**
 
-1\. From the main navigation menu, navigate to **Inventory** and select **Software Assets**.
+1\. From the navigation menu, navigate to **Inventory** and select **Software Assets**.
 
 2\. Use the search options to view your software asset inventory list. You can either enter your PO number or reference number in the **Reference** field or use the filters to narrow down the search results.
 

@@ -10,11 +10,11 @@ description: Administrators can enable the software assets integration.
 
 **To enable the integration**
 
-1. From the main menu, navigate to **Setup** and select **Cloud Tenant Setup.**
+1. From the navigation menu, navigate to **Setup** and select **Cloud Tenant Setup.**
 2. On the Cloud Tenant Setup page, select **Activate.**
 
 {% hint style="info" %}
-&#x20;**NOTE**: The Software Assets row is only visible to the admin accounts.
+&#x20;**NOTE**: The Software Assets row is only visible to the administrators.
 {% endhint %}
 
 After you select **Activate**, the activated account will be visible in Spend Management (Resources / Budgets / Consumption ) within 24 hours.

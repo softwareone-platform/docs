@@ -6,13 +6,15 @@ description: Use the Collaboration Site to store and share large files.
 
 ***
 
-The Collaboration Site allows you to share files that are too large to be shared via email, for example, your project files and deliverables for a managed service engagement. Access to the Collaboration Site is based on permissions and only authorized users can access the site.
+The Collaboration Site allows you to share files that are too large to be shared via email, for example, your project files and deliverables for a managed service engagement.&#x20;
+
+Access to the Collaboration Site is based on permissions and only authorized users can access the site.
 
 ### Security and Permissions
 
-Initially, only the top-level administrators are granted access to the Collaboration Site. If you are unable to view this module, contact your administrator or your SoftwareOne Account Manager.
+Initially, only top-level administrators are granted access to the Collaboration Site. If you are unable to view this module, contact your administrator or your SoftwareOne Account Manager.
 
-Administrators can assign user permissions in two different ways - through the User Management module or directly from the Collaboration Site. For more information, see [Working with Collaboration Site](working-with-collaboration-site.md).
+Administrators can assign user permissions in two different ways - through the User Management module or directly from the Collaboration Site. For information on how to assign permissions, see [Working with Collaboration Site](working-with-collaboration-site.md).
 
 When assigning access permissions to the other users, administrators can also manage access to each workspace. A workspace is an area where you can share files and links with other users. The following are the different levels of access to a workspace:
 
@@ -20,7 +22,7 @@ When assigning access permissions to the other users, administrators can also ma
 * **Read**: Users can access all elements of the workspace in read-only mode. Users can browse through a directory structure, list files, and download them. Modification of resources is not allowed.
 * **Read, Write**: Users have all permissions included in the Read mode. Additionally, users can upload files, create directories and links, delete files, directories, and links.
 
-When the access is granted, authorized users can perform the following actions:
+After the access is granted, authorized users can perform the following actions:
 
 * [Download files and folders](working-with-collaboration-site.md#downloading-files-and-folders)
 * [Create new folders](working-with-collaboration-site.md#creating-a-new-folder)

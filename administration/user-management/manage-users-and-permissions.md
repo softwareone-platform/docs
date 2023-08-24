@@ -4,7 +4,7 @@ description: >-
   Management module.
 ---
 
-# Managing Users and Their permissions
+# Manage Users and Permissions
 
 ***
 
@@ -14,7 +14,7 @@ Only the users with administrator rights can access this module.&#x20;
 
 **To access User Management**
 
-1. From the main menu, navigate to **Setup.**
+1. From the navigation menu, navigate to **Setup.**
 2. Select **User Management**.
 
 ***
@@ -58,15 +58,6 @@ You can edit the permissions and the security settings for a user. &#x20;
 Select the **Feature** tab on the User Details page to view user permissions.
 
 To grant or remove access to a feature, enable or disable a selected feature, and specify the roles to be assigned to that user.
-
-***
-
-#### Unable to grant permission?
-
-If you're unable to provide access to a selected feature or select a specific role, it might be because of the following reasons:
-
-* The user has no Procurement Permissions set up. To resolve this, request Procurement Permissions for this user. The feature will become available after these permissions are provided.
-* The roles) are read-only. To resolve this issue, contact our Support team because there might be an issue with the legacy access configuration.
 
 ***
 
@@ -156,7 +147,7 @@ You can manage user access to folders existing in the Collaboration Site. Select
 
 <figure><img src="../../.gitbook/assets/image (49) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Selected folder access configuration will be immediately reflected in the Collaboration Site.
+Selected folder access configuration will be immediately reflected in the [Collaboration Site](../collaboration-site/).&#x20;
 
 ***
 
