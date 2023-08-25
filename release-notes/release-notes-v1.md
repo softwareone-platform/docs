@@ -28,9 +28,9 @@ Previously, after signing in to PyraCloud, a predefined [dashboard](../dashboard
 
 Now, when you sign in to the Client Portal, you'll see a new Home page that'll provide you quick access to different modules, platform news, and updates.&#x20;
 
-You'll also be able to view your account information, favorites, and a list of your recently viewed pages. To learn more about the new page, see the [Home page](../using-the-client-portal/navigate-the-home-page.md).&#x20;
+You'll also be able to view your account information, favorites, and a list of your recently viewed pages. To learn more about the new page, see the [Home page](../using-the-client-portal/client-portal-interface/home-page.md).&#x20;
 
-The dashboards are accessible via **Analyze** > **Dashboard** in the navigation menu.
+The dashboards are now accessible via **Analyze** > **Dashboard** in the navigation menu.
 
 ***
 
@@ -48,7 +48,7 @@ Other changes include:
 
 #### Search bar and shortcut icons
 
-We've removed the Search bar and the icons for the shopping cart, [Reports](../analytics-and-reports/reports/), and [Notifications](../account-settings/view-and-configure-notifications.md) from the header. You can now access these pages directly from the navigation menu.
+We've removed the Search bar and the icons for the shopping cart, [Reports](../analytics-and-reports/reports/), and [Notifications](../using-the-client-portal/notifications.md) from the header. You can now access these pages directly from the navigation menu.
 
 ***
 

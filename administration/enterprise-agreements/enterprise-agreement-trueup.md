@@ -29,7 +29,7 @@ The following prerequisites are required to run through the Setup Wizard :
 
 Only EA Admins can access the wizard. If you do not see this option, it may be a permissions issue.&#x20;
 
-* From the main menu, navigate to **Set Up** and select **EA Setup Wizard**.
+* From the navigation menu, go to **Setup** and select **EA Setup Wizard**.
 
 ***
 
@@ -58,9 +58,9 @@ Agreements that have already been set i.e. moved to Asset Allocation or Reportin
 {% hint style="info" %}
 In cases where either:
 
-* the user does not have proper permission
-* all agreements have already been set up
-* no agreement exists in the system
+* The user does not have proper permission
+* All agreements have already been set up
+* No agreement exists in the system
 
 Then only the form for registering a new agreement will be available. If you can see your target agreement on the License Agreements page (i.e. Manage>Contracts), and no setup has been completed but you still do not find it on this page, submit a support request.
 {% endhint %}

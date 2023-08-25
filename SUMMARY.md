@@ -7,13 +7,10 @@
 * [Client Portal Interface](using-the-client-portal/navigate-the-home-page.md)
   * [Home Page](using-the-client-portal/client-portal-interface/home-page.md)
 * [Supported Browsers](using-the-client-portal/supported-browsers.md)
-
-## Account Settings
-
-* [Change Language Settings](account-settings/change-language-settings.md)
-* [Manage Favorites](account-settings/manage-favorites.md)
-* [Reset or Change Password](account-settings/reset-or-change-password.md)
-* [View and Configure Notifications](account-settings/view-and-configure-notifications.md)
+* [Language Settings](using-the-client-portal/language-settings.md)
+* [Password Reset](using-the-client-portal/password-reset.md)
+* [Favorites](using-the-client-portal/favorites.md)
+* [Notifications](using-the-client-portal/notifications.md)
 
 ## Administration
 

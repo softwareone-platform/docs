@@ -4,9 +4,9 @@ description: >-
   pages easily.
 ---
 
-# Manage Favorites
+# Favorites
 
-The **Favorites** module is displayed in the [navigation menu](../using-the-client-portal/navigate-the-home-page.md#main-menu) only if you've marked at least one page as your favorite.
+The **Favorites** module is displayed in the navigation menu only if you've marked at least one page as your favorite.
 
 ***
 

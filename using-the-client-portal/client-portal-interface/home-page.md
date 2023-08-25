@@ -22,7 +22,7 @@ Each of these sections is explained in this topic. For information on the header
 
 The top modules section displays our top 6 modules.  The list of modules is displayed based on your access permissions, which means that you can view the module names only if you are authorized to access them.
 
-When you select a module, the main page for the module opens.
+When you select a tile, the main page for the module opens.
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ The information in this section is read-only and you cannot edit it.
 
 The Favorites section displays the pages that you've added as your favorites.&#x20;
 
-When you select a link in this section, it opens the main page for that module. For detailed information on how to work with favorites, see [Manage Favorites](../../account-settings/manage-favorites.md).&#x20;
+When you select a link in this section, it opens the main page for that module. For detailed information on how to work with favorites, see [Manage Favorites](../favorites.md).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
