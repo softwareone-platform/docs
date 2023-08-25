@@ -10,4 +10,4 @@ You can view real-time updates and stay informed about any potential issues with
 
 Select the following link to access the status page:
 
-{% embed url="https://status.client.softwareone.com/" fullWidth="false" %}
+{% embed url="https://status.platform.softwareone.com" %}
