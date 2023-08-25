@@ -76,7 +76,7 @@ Follow [Updating permissions](update-the-aws-account-permissions.md#updating-per
 
 ### Updating read and write-back permissions for AWS resources <a href="#update-read-and-write-back-permissions-for-aws-resources" id="update-read-and-write-back-permissions-for-aws-resources"></a>
 
-If you're unable to read resources, that is, you are missing read permissions for AWS resources, follow the Updating permissions section.
+If you're unable to read resources, that is, you are missing read permissions for AWS resources, follow the [Updating permissions](update-the-aws-account-permissions.md#updating-permissions) section.
 
 If you're unable to tag resources, that is, you are missing write-back permissions for AWS resources), follow these steps:
 

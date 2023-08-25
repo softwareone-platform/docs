@@ -196,7 +196,7 @@ By default, all your AWS accounts will be configured to pull recommendations fro
 
 Charges for synchronizing AWS Cost Explorer RecommendationsPlease be aware that AWS charges 0.05 USD per account for every sync. PyraCloud will sync recommendation data per account once a week. When Cost Explorer is turned on (within AWS and PyraCloud), this should be a maximum of 0.20 USD per AWS account per month.
 
-To turn off these recommendations, see [How to turn off Cost Explorer Recommendations](../../help-and-support/frequently-asked-questions/how-to-turn-off-the-cost-explorer-recommendations.md).
+To turn off these recommendations, see [How to turn off Cost Explorer Recommendations](../../help-and-support/frequently-asked-questions/how-to-turn-off-cost-explorer-recommendations.md).
 
 To effectively utilize these recommendations, make sure AWS Cost Explorer is turned on within AWS for each of your accounts. See [Enabling Cost Explorer](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-enable.html) to turn on Cost Explorer within AWS.
 

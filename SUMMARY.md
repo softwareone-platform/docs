@@ -119,7 +119,7 @@
   * [How to generate an access token](help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md)
   * [How to request pricing](help-and-support/frequently-asked-questions/how-to-request-pricing.md)
   * [How to sign in using Multi-factor Authentication (MFA)](help-and-support/frequently-asked-questions/how-to-sign-in-using-multi-factor-authentication-mfa.md)
-  * [How to turn off the Cost Explorer recommendations](help-and-support/frequently-asked-questions/how-to-turn-off-the-cost-explorer-recommendations.md)
+  * [How to turn off Cost Explorer recommendations](help-and-support/frequently-asked-questions/how-to-turn-off-cost-explorer-recommendations.md)
   * [How to view your generated reports](help-and-support/frequently-asked-questions/how-to-view-your-generated-reports.md)
   * [How to view available currencies](help-and-support/frequently-asked-questions/how-to-view-available-currencies.md)
   * [How does PyraCloud access my Microsoft 365 tenant under CSP?](help-and-support/frequently-asked-questions/how-does-pyracloud-access-my-microsoft-365-tenant-under-csp.md)

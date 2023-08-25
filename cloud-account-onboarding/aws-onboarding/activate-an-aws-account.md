@@ -101,15 +101,16 @@ If you would like Tag and Resource Manager to synchronize tags back to AWS, you 
 
 ### Syncing AWS Cost Explorer recommendations <a href="#sync-aws-cost-explorer-recommendations" id="sync-aws-cost-explorer-recommendations"></a>
 
-The [Recommendations ](../../spend-management/recommendations/working-with-recommendations.md)module downloads recommendations from AWS Cost Explorer, which includes Reserved Instance purchase recommendations for Amazon EC2, Amazon RDS, ElastiCache, Amazon ES, and Amazon Redshift.&#x20;
+The Recommendations module downloads recommendations from AWS Cost Explorer, which includes Reserved Instance purchase recommendations for Amazon EC2, Amazon RDS, ElastiCache, Amazon ES, and Amazon Redshift.&#x20;
 
-By default, the **Enable sync with AWS Cost Explorer to see AWS Recommendations** setting is enabled in the Client Portal. It means that Client Portal will download your account's AWS Cost Explorer recommendations.
+By default, the **Enable sync with AWS Cost Explorer to see AWS Recommendations** setting is enabled in the Client Portal. It means that Client Portal will download your account's AWS Cost Explorer recommendations.&#x20;
 
-**To update the settings**
+**To disable this setting**
 
-1. Expand the AWS account on the Cloud tenant setup page and select **Change Access** next to the account you want to modify.
+1. On the Cloud Tenant setup page, navigate to the AWS account and select **Change Access** from the **Action** column.
 2. In **Change PyraCloud Access Level,** choose the access level and select **Change**.
-3. Review the updated access level for the account.
+3. Select **Enable sync with AWS Cost Explorer to see AWS Recommendations in PyraCloud**.
+4. Select **Change**.
 
 ***
 
