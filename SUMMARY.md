@@ -103,6 +103,9 @@
   * [Create Custom Groups](spend-management/custom-groups/working-with-custom-groups.md)
 * [Recommendations](spend-management/recommendations/README.md)
   * [View Recommendations](spend-management/recommendations/working-with-recommendations.md)
+  * [Azure Recommendations](spend-management/recommendations/azure-recommendations.md)
+  * [AWS Recommendations](spend-management/recommendations/aws-recommendations.md)
+  * [Office 365 Recommendations](spend-management/recommendations/office-365-recommendations.md)
 * [Tags and Resources](spend-management/tags-and-resources/README.md)
   * [Manage Tags and Resources](spend-management/tags-and-resources/defining-tags-and-managing-resources.md)
 
@@ -119,7 +122,7 @@
   * [How to generate an access token](help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md)
   * [How to request pricing](help-and-support/frequently-asked-questions/how-to-request-pricing.md)
   * [How to sign in using Multi-factor Authentication (MFA)](help-and-support/frequently-asked-questions/how-to-sign-in-using-multi-factor-authentication-mfa.md)
-  * [How to turn off Cost Explorer recommendations](help-and-support/frequently-asked-questions/how-to-turn-off-cost-explorer-recommendations.md)
+  * [How to resolve AWS recommendation synchronization errors](help-and-support/frequently-asked-questions/how-to-resolve-aws-recommendation-synchronization-errors.md)
   * [How to view your generated reports](help-and-support/frequently-asked-questions/how-to-view-your-generated-reports.md)
   * [How to view available currencies](help-and-support/frequently-asked-questions/how-to-view-available-currencies.md)
   * [How does PyraCloud access my Microsoft 365 tenant under CSP?](help-and-support/frequently-asked-questions/how-does-pyracloud-access-my-microsoft-365-tenant-under-csp.md)

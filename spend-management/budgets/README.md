@@ -17,8 +17,8 @@ Budgets are a part of Spend Management. Budgets allow you to assign individual b
 
 ### Before creating budgets <a href="#before-you-start" id="before-you-start"></a>
 
-* **Set up a customer-centric view**. In order to assign budgets to individual groups, it is required to set up the structure in Custom Groups first. Without the setup of Custom Groups, you will only be able to see the “Per Provider” view in Budget Manager.
-* **Set up a currency**. This is required to allow you to use your internal reporting currency across all Custom Groups, and manage the budgets and consumption in your individual currency. This is done for the following reasons:
+* **Set up a customer-centric view:** In order to assign budgets to individual groups, it is required to set up the structure in Custom Groups first. Without the setup of Custom Groups, you will only be able to see the “Per Provider” view in Budget Manager.
+* **Set up a currency:** This is required to allow you to use your internal reporting currency across all Custom Groups, and manage the budgets and consumption in your individual currency. This is done for the following reasons:
   * If you are using multiple Providers in different sourcing currencies, PyraCloud will convert them to your set currency to harmonize the use for your convenience
   * The configured currency is also the default currency within Consumption Overview (native sourcing currency available at any time)
   * Consumption values are converted on a daily basis based on the Foreign Exchange rates

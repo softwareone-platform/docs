@@ -27,15 +27,15 @@ If you see the screen below
 
 If you do not have an Authenticator app installed on your mobile phone yet, install one first. You can use any generic Authenticator app like Google Authenticator or Microsoft Authenticator. We use Google Authenticator as an example. The steps are very similar for any other Authenticator app.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Open the Authenticator app and choose “Scan a QR code” as shown below**.**
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Point the camera of your mobile phone to the QR code on the PyraCloud page and wait for the scanned data to be added to your Authenticator app.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Use Existing Authenticator App**
 
