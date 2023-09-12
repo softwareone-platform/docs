@@ -10,7 +10,7 @@ You can view and manage your invoices on the Invoices page. You can filter invoi
 
 **To view your invoices**
 
-1. From the main menu, navigate to **Inventory** and select **Invoices**. The Invoices page opens where you can view a list of invoices.
+1. From the main menu, go to **Inventory** and select **Invoices**. The Invoices page opens where you can view a list of invoices.
    * If you have a long list of invoices, you can refine the list based on the filters and search options.
    * Select the appropriate search options, and select **Search**. If you want to reset the filter options, select **Reset**.
 2. In the **Actions** column, select **View** to see the invoice details.&#x20;

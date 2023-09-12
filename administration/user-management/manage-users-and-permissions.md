@@ -14,7 +14,7 @@ Only the users with administrator rights can access this module.&#x20;
 
 **To access User Management**
 
-1. From the navigation menu, navigate to **Setup.**
+1. From the navigation menu, go to **Setup.**
 2. Select **User Management**.
 
 ***
@@ -34,7 +34,7 @@ Only the users with administrator rights can access this module.&#x20;
 
 4\. Select **Save Changes**.
 
-A welcome email with the login details is sent to the new user.
+A welcome email with the sign-in details is sent to the new user.
 
 ***
 
@@ -87,7 +87,7 @@ Select **Accounts** to use existing providers and subscriptions to configure acc
 
 Choose whether the user will be able to access the following data:
 
-* Any account out of existing the providers.
+* Any account out of existing providers.
 * Selected cloud accounts (Tenants).
 * Selected subscriptions.
 

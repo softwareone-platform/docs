@@ -10,11 +10,11 @@ The User Management module allows administrators to create new users and manage 
 
 Only the users who have administrator privileges can access the User Management module.  Through this module, administrators can also:
 
-* Change the user details and permissions
-* Manage access to a feature&#x20;
-* Configure and manage access to Spend Management
-* Manage procurement settings
-* Manage access to Collaboration Site folders
-* Disable access to the Client Portal
+* Change the user details and permissions.
+* Manage access to a feature.
+* Configure and manage access to Spend Management.
+* Manage procurement settings.
+* Manage access to Collaboration Site folders.
+* Disable access to the Client Portal.
 
 For information on how to access and manage user permissions, see [Manage Users and Permissions](manage-users-and-permissions.md).

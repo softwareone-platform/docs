@@ -11,9 +11,9 @@ description: Learn how to grant access and use the collaboration site.
 **To access the Collaboration Site**
 
 1. Select your account menu in the upper-right corner of the header.
-2. Choose **Collaboration Site.**
+2. Choose **Collaboration site.**
 
-The Collaboration Site page will display the workspaces that you have access to. If you have access to only one workspace, you will be automatically redirected to that workspace.
+The Collaboration site page will display the workspaces that you have access to. If you have access to only one workspace, you will be automatically redirected to that workspace.
 
 ***
 
@@ -23,7 +23,7 @@ Administrators can grant access permissions to the Collaboration Site from the U
 
 **To assign permissions from the User Management module**
 
-1. From the navigation menu, navigate to **Setup** and select **User Management**.&#x20;
+1. From the navigation menu, go to **Setup** and select **User Management**.&#x20;
 2. On the User Management page, locate the user and select **View** in the **Actions** column. The user permissions will be displayed.&#x20;
 3. Select the **Collaboration Site** tab and then choose the access level. You can assign access levels for each workspace.
 4. Select **Save**.

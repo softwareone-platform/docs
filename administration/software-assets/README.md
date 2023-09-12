@@ -10,7 +10,7 @@ description: Administrators can enable the software assets integration.
 
 **To enable the integration**
 
-1. From the navigation menu, navigate to **Setup** and select **Cloud Tenant Setup.**
+1. From the navigation menu, go to **Setup** and select **Cloud Tenant Setup.**
 2. On the Cloud Tenant Setup page, select **Activate.**
 
 {% hint style="info" %}

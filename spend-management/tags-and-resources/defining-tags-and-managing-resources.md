@@ -30,8 +30,8 @@ Throughout the rest of this article, we will show you how to use Tags and Resour
 
 ### Accessing Tags and Resources
 
-* To access Tags, from the main menu, navigate to **Setup** and select **Tags**.
-* To access Resources, from the main menu, navigate to **Inventory** and select **Resources**.
+* To access Tags, from the navigation menu, go to **Setup** and select **Tags**.
+* To access Resources, from the navigation menu, go to **Inventory** and select **Resources**.
 
 Alternatively, you can view your stats using the Resource Manager tile. These stats are pulled from Tags and Resources. Selecting this tile will direct you to Resources.&#x20;
 

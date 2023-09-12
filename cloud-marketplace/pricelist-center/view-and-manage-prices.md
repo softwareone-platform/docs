@@ -12,7 +12,7 @@ description: >-
 
 **To access the Pricelist Center**
 
-* From the main menu, navigate to **Setup** and select **Pricelist Center**.
+* From the main menu, go to **Setup** and select **Pricelist Center**.
 
 The Pricelist Center page contains several sections.
 
