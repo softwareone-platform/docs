@@ -53,4 +53,4 @@ Microsoft’s recommended solution is to enable conditional access whitelisting 
 **NOTE:** The default conditional access policies available to all Office 365 customers do not support whitelisting; customers who do not currently have O365 licenses with support for the full set of conditional access features may need to purchase additional licenses from Microsoft.
 {% endhint %}
 
-Contact [support@pyracloud.com](mailto:support@pyracloud.com) if you require the list of IP addresses used for the reporting service account.
+Contact [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com) if you require the list of IP addresses used for the reporting service account.
