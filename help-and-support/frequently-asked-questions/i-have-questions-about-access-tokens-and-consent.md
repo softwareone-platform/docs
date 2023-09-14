@@ -12,9 +12,9 @@ description: >-
 
 An access token may be invalid due to the following reasons:
 
-* The token is incomplete: If your access token is incomplete, sign in to the Azure EA Portal and copy your access token again.&#x20;
-* The token is complete but it has expired: If your access token has expired, you must generate a new token.
-* The token is complete but it has been revoked: If your access token has been revoked, you must generate a new token.
+* The token is incomplete: If your access token is incomplete, sign in to the Azure Portal and copy your access token again.&#x20;
+* The token is complete but has expired: If your access token has expired, you must generate a new token.
+* The token is complete but has been revoked: If your access token has been revoked, you must generate a new token.
 
 ***
 

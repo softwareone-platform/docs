@@ -14,11 +14,11 @@ You can now use the new Cloud Subscription features in PyraCloud to search for a
 
 Cloud Subscription is comprised of three modules:
 
-* **Marketplace**: Use the Marketplace to purchase new subscriptions or add-ons in your existing 365Simple tenant
-* **My Subscriptions:** Use “My Subscriptions” to adjust the license quantity and/or status of your existing 365Simple subscriptions
-* **Billing:** Use “Billing” to view the history of your Marketplace purchases and the adjustments
+* **Marketplace**: Use **Marketplace** to purchase new subscriptions or add-ons in your existing 365Simple tenant
+* **My Subscriptions**: Use **My Subscriptions** to adjust the license quantity and/or status of your existing 365Simple subscriptions
+* **Billing**: Use **Billing** to view the history of your purchases and adjustments.
 
-The below table outlines the enhanced functionality that you now receive with Cloud Subscriptions:
+The following table outlines the enhanced functionality that you now receive with Cloud Subscriptions:
 
 | Feature                                                       | Cloud Subscriptions | Subscription Manager |
 | ------------------------------------------------------------- | ------------------- | -------------------- |

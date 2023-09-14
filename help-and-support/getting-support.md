@@ -1,7 +1,7 @@
 ---
 description: >-
   If you need assistance with an issue, you can submit a ticket to our Support
-  team through the Client Portal or email us.
+  team through our platform or email us.
 ---
 
 # Contact Support
@@ -32,9 +32,24 @@ After you've created the ticket,  the Help and Support page will display your ti
 
 **To view your ticket details**
 
-* On the Help and Support page, select the ticket or select **View** in the **Actions** column.
+* On the Help and Support page, click on the ticket or select **View** in the **Actions** column.
 
-The details page will display the ticket information, attachments, and messages along with the following information:
+The Ticket Details page opens where you can view the ticket information, attachments, and status of your ticket, and optionally, write a message to our Support team.&#x20;
+
+&#x20;**Status and Messages**
+
+You'll see one of the following statuses on the page:
+
+| Status             | Description                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| Requested          | Indicates that the ticket is waiting to be processed by a member of the support team.                                    |
+| Information needed | Indicates that we require additional information from you to proceed further.                                            |
+| In progress        | Indicates that an associate is working on your ticket.                                                                   |
+| Resolved           | Indicates that your ticket is closed. After a ticket is closed, you cannot reopen it or add new messages or attachments. |
+
+**Ticket Information**
+
+You can view the following information in relation to your ticket:&#x20;
 
 | Field                 | Description                                                                                                        |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -48,15 +63,10 @@ The details page will display the ticket information, attachments, and messages 
 
 ***
 
-### Understanding ticket status and messages
+**Ticket Attachments**
 
-The **Status and Messages** section on the Ticket Details page allows you to view the status of your ticket and optionally, write a message to our Support team.&#x20;
+You can use this section to preview attachments or upload supporting documentation or files.&#x20;
 
-You'll see one of the following statuses on the page:
+To attach a file**,** choose **Select files** and then select the file that you want to upload.
 
-| Status             | Description                                                                                                              |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| Requested          | Indicates that the ticket is waiting to be processed by a member of the support team.                                    |
-| Information needed | Indicates that we require additional information from you to proceed further.                                            |
-| In progress        | Indicates that someone is working on your ticket.                                                                        |
-| Resolved           | Indicates that your ticket is closed. After a ticket is closed, you cannot reopen it or add new messages or attachments. |
+A confirmation message is displayed when the file is attached.

@@ -4,7 +4,7 @@ description: Learn the technical aspects of the SSO integration.
 
 # How to setup single sign-on (SSO)
 
-PyraCloud has an SSO Authentication framework that integrates with existing Identity provider tools like Azure AD, ADFS, and SAML-based tools like Okta and Ping.
+Our platform has an SSO Authentication framework that integrates with existing Identity provider tools like Azure AD, ADFS, and SAML-based tools like Okta and Ping.
 
 ***
 
@@ -12,7 +12,7 @@ PyraCloud has an SSO Authentication framework that integrates with existing Iden
 
 #### **Simplified setup process**
 
-1. The customer provides SoftwareONE with basic metadata about their IdP. If your SSO tool requires to know the Assertion Consumer Service URL and Entity ID, please contact SoftwareONE to get this input.
+1. The customer provides SoftwareOne with basic metadata about their IdP. If your SSO tool requires to know the Assertion Consumer Service URL and Entity ID, please contact SoftwareONE to get this input.
 2. SoftwareONE proceeds with basic setup on the PyraCloud IdP and provides the customer with {connection\_name} that will be used for further configuration.
 3. The customer proceeds & finalizes the setup on their end.
 4. All logins to PyraCloud for any of the specified IdP domains will now be federated out to the user's SAML-based IdP.
