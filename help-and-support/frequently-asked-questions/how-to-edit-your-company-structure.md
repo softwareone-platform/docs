@@ -6,7 +6,7 @@ description: >-
 
 # How to edit your company structure
 
-This feature is currently available to most PyraCloud customers. If you cannot manage the company structure on your own yet, then SoftwareONE will need to migrate your company structure first.
+This feature is currently available to most PyraCloud customers. If you cannot manage the company structure on your own yet, then SoftwareOne will need to migrate your company structure first.
 
 ### Introduction <a href="#post-4917-_ref61592726" id="post-4917-_ref61592726"></a>
 

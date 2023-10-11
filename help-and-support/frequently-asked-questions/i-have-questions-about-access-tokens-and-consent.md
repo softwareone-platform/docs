@@ -20,25 +20,25 @@ An access token may be invalid due to the following reasons:
 
 ### What happens after I grant consent? <a href="#what-happens-when-i-perform-consent" id="what-happens-when-i-perform-consent"></a>
 
-When you perform consent, you are redirected to Microsoft to accept permissions required by PyraCloud. As part of this process, PyraCloud is able to “impersonate” the consenting user for a short period (1 hour).
+When you perform consent, you are redirected to Microsoft to accept permissions required by the Client Portal. As part of this process, the Client Portal is able to “impersonate” the consenting user for a short period (1 hour).
 
-PyraCloud uses this impersonation to perform actions on behalf of the consenting user. This includes:
+The Client Portal uses this impersonation to perform actions on behalf of the consenting user. This includes:
 
-1. Assigning the Reader role to the PyraCloud application for subscriptions owned by the consenting user during onboarding.&#x20;
-2. Assigning the Reader role to the PyraCloud application for subscriptions owned by the consenting user during the addition of more subscriptions to PyraCloud. For more information, see [Adding more subscriptions](../../cloud-account-onboarding/azure-onboarding/activate-an-azure-ea-or-mpsa-account.md#add-more-azure-subscriptions).
+1. Assigning the Reader role to the Client Portal for subscriptions owned by the consenting user during onboarding.&#x20;
+2. Assigning the Reader role to the Client Portal for subscriptions owned by the consenting user during the addition of more subscriptions to the Client Portal. For more information, see [Adding more subscriptions](../../cloud-account-onboarding/azure-onboarding/activate-an-azure-ea-or-mpsa-account.md#add-more-azure-subscriptions).
 3. Modify the default Reader role to the Tag Contributor role (and vice versa) during the Change Access process. For more information, see [Sync your tags to Azure](../../cloud-account-onboarding/azure-onboarding/activate-an-azure-ea-or-mpsa-account.md#syncing-your-tags-to-azure).
 
 ***
 
 ### What are the security implications of activating my tenant in the Client Portal? <a href="#what-are-the-security-implications-of-activating-my-tenant-in-pyracloud" id="what-are-the-security-implications-of-activating-my-tenant-in-pyracloud"></a>
 
-When the consent process is performed, a “service principal” is created in your tenant. This is conceptually similar to adding a user dedicated to PyraCloud for the purposes of accessing your tenant and subscriptions.
+When the consent process is performed, a “service principal” is created in your tenant. This is conceptually similar to adding a user dedicated to the Client Portal for the purposes of accessing your tenant and subscriptions.
 
 #### **Azure Subscriptions**
 
-When adding Azure subscriptions, the service principal is granted “Reader” access to those subscriptions. This is a built-in role in your Microsoft tenant that allows read-only access to your resources. PyraCloud uses this access to retrieve a list of your resources (virtual machines, websites) and the tags assigned to them.
+When adding Azure subscriptions, the service principal is granted “Reader” access to those subscriptions. This is a built-in role in your Microsoft tenant that allows read-only access to your resources. The Client Portal uses this access to retrieve a list of your resources (virtual machines, websites) and the tags assigned to them.
 
-If you change the level of access to a setting that allows the write-back of tags, PyraCloud requires the “Tag Contributor” role. This level of access allows full access to your subscription with the notable exception of managing security settings in the subscription. PyraCloud uses this access to retrieve a list of your resources (virtual machines, websites, etc.) and the tags assigned to them. It also requires this level of access to synchronize the tags you assign in PyraCloud back to the resources of your Azure subscription.
+If you change the level of access to a setting that allows the write-back of tags, the Client Portal requires the “Tag Contributor” role. This level of access allows full access to your subscription with the notable exception of managing security settings in the subscription. The Client Portal uses this access to retrieve a list of your resources (virtual machines, websites, etc.) and the tags assigned to them. It also requires this level of access to synchronize the tags you assign in the Client Portal back to the resources of your Azure subscription.
 
 For more information, see [Microsoft documentation - Azure built-on roles reference](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles).
 

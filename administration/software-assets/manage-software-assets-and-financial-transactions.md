@@ -48,12 +48,21 @@ You can use our Import templates to import your software assets to the Client Po
 
 **To import your software assets**
 
-1. Download the import template. The following options are available:
-   * [Activation Import Template](https://help.pyracloud.com/wp-content/uploads/2020/11/Activation-Key-Import-Template.xlsx)
-   * [Contract Import Template](https://help.pyracloud.com/wp-content/uploads/2020/11/Contract-Import-Template.xlsx)
-   * [Inventory Import Template](https://help.pyracloud.com/wp-content/uploads/2020/11/Inventory-Import-Template.xls)
+1. Download the import template. The following templates are available:
 
-2\. Fill in the required data and return your file to your SoftwareOne Account Manager via email.
+{% file src="../../.gitbook/assets/Activation-Key-Import-Template.xlsx" %}
+Activation Key Import Tempate
+{% endfile %}
+
+{% file src="../../.gitbook/assets/Contract-Import-Template.xlsx" %}
+Contract Import Template
+{% endfile %}
+
+{% file src="../../.gitbook/assets/Inventory-Import-Template (3).xls" %}
+Inventory Import Template
+{% endfile %}
+
+2\. Fill the required data and email the file to your SoftwareOne Account Manager.&#x20;
 
 Our team will validate the data and upload the file when the validation is completed. The processing time might vary depending on the amount of data.
 

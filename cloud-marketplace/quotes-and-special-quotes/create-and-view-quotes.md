@@ -21,18 +21,18 @@ A confirmation message is displayed and you are redirected to the Quote Detail p
 
 ***
 
-### Viewing quote history
+### Searching for a quote
 
-You can view a list of all quotes that you've generated.
-
-**To view a list of your quotes**
+**To search for a quote**
 
 1. Navigate to the Quotes page. To do so, choose either **Inventory** > **Quotes** or **Marketplace** > **Quote** from the main menu.  The Quotes page opens, where you can view a list of all products in your quote.
    * If you have a long list of quotes, you can refine the list based on the filters and search options.
    * Select the appropriate search options, and then select **Search**. If you want to reset the filter options, select **Reset**.&#x20;
 2. Select **View** in the **Actions** column to see the quote details. The Quote Detail page will show all products in the quote. To view more product details, click **View** again.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+#### **Related video**
+
+{% embed url="https://vimeo.com/872543584/f350c3fc34" %}
 
 ***
 

@@ -10,7 +10,7 @@ We initially developed Subscription Manager to help you to manage your existing 
 
 We wanted to enhance this functionality so users could also buy new subscriptions, so we developed the new Cloud Subscriptions experience.
 
-You can now use the new Cloud Subscription features in PyraCloud to search for and buy new services, manage subscription status, and seat counts, and review your order history.
+You can now use the new Cloud Subscription features to search for and buy new services, manage subscription status, and seat counts, and review your order history.
 
 Cloud Subscription is comprised of three modules:
 
