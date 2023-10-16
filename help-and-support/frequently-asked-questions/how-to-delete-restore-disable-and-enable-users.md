@@ -2,12 +2,12 @@
 
 The “delete and restore users” functionality is available for all customers with access to the new version of User Management.
 
-If users do not need their PyraCloud access anymore (e.g. because they left the company), there are the following 2 options to revoke their access:
+If users do not need their access anymore (e.g. because they left the company), there are the following 2 options to revoke their access:
 
 1. Delete the user
 2. Disable the user
 
-Choose to delete users if this is permanent and disable users if they might need to get access to PyraCloud in the future again (e.g. after coming back from a parental leave).
+Choose to delete users if this is permanent and disable users if they might need to get access in the future again (e.g. after coming back from a parental leave).
 
 ### Delete Users <a href="#delete-users" id="delete-users"></a>
 
@@ -78,7 +78,7 @@ Create a new user to specify their permissions and settings. When the deleted us
 
 ### Disable Users <a href="#disable-users" id="disable-users"></a>
 
-Disable users to temporarily revoke their PyraCloud access.
+Disable users to temporarily revoke their access.
 
 If required, use the search to find the user. Click on “View” to go to the user details. Click on the “Enabled” status toggle and confirm the action to disable the user. Disabled users can still be edited.
 
@@ -88,7 +88,7 @@ If required, use the search to find the user. Click on “View” to go to the u
 
 ### Enable Users <a href="#enable-users" id="enable-users"></a>
 
-Enable users to grant them access to PyraCloud again.
+Enable users to grant them access again.
 
 If required, use the search to find the user. Click on “View” to go to the user details. Click on the “Disabled” status toggle and confirm the action to enable the user.
 

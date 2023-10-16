@@ -73,24 +73,24 @@ Many organizations have several Azure subscriptions in a single Microsoft tenant
 3. Sign in to the Microsoft portal using the credentials of the user who has Owner permissions to the Azure subscriptions you wish to add to the Client Portal.
 4. On the consent page, review the permissions and select **Accept** to grant consent.
 
-After granting consent, you'll be redirected to PyraCloud where you will see the subscriptions owned by the user added to PyraCloud.
+After granting consent, you'll be redirected to the Client Portal where you will see the subscriptions owned by the user added to the Client Portal.
 
 ***
 
 ### Syncing your tags to Azure
 
-When you activate your Azure subscriptions for the first time, PyraCloud assigns the Reader role by default. This means that the Tags and Resources feature can import your resources and tags from Azure, but it cannot synchronize any tag changes you make in PyraCloud back to Azure.
+When you activate your Azure subscriptions for the first time, the Client Portal assigns the Reader role by default. This means that the Tags and Resources feature can import your resources and tags from Azure, but it cannot synchronize any tag changes you make in the Client Portal back to Azure.
 
-If you would like Tags and Resources to synchronize tags back to Azure, you must to change the level of access PyraCloud has for your Azure subscription.
+If you would like Tags and Resources to synchronize tags back to Azure, you must change the level of access the Client Portal has for your Azure subscription.
 
 **To change the level of access the Client Portal has for an Azure subscription**
 
 1. On the Cloud Tenant Setup page, select **Manage** and select **Change Access** next to the subscription you want to modify.
-2. In **Change PyraCloud Access Level**, choose your desired access level and select **Change**. The following options are available:&#x20;
-   * **Sync resources only, no tags – write back of tags disabled:** Tags and Resources will download your resources to the Client Portal without the tags currently assigned in Azure. Any changes to tags will be stored in PyraCloud only. This setting requires the “Reader” role in your Azure subscription and will not make any changes to resources or tags in your Azure subscription.
-   * **Sync resources and tags – write back of tags disabled:** Tags and Resources will download your resources to PyraCloud including the tags currently assigned in Azure. Any changes to tags will be stored in the Client Portal only. Any tags assigned to resources in Azure will overwrite the tags for the corresponding resource in PyraCloud. This setting requires the “**Reader**” role in your Azure subscription and will not make any changes to resources or tags in your Azure subscription.
+2. Choose your desired access level and select **Change**. The following options are available:&#x20;
+   * **Sync resources only, no tags – write back of tags disabled:** Tags and Resources will download your resources to the Client Portal without the tags currently assigned in Azure. Any changes to tags will be stored in the Client Portal only. This setting requires the “Reader” role in your Azure subscription and will not make any changes to resources or tags in your Azure subscription.
+   * **Sync resources and tags – write back of tags disabled:** Tags and Resources will download your resources, including the tags currently assigned in Azure. Any changes to tags will be stored in the Client Portal only. Any tags assigned to resources in Azure will overwrite the tags for the corresponding resource in the Client Portal. This setting requires the **Reader** role in your Azure subscription and will not make any changes to resources or tags in your Azure subscription.
    * **Sync resources and tags – write back of tags enabled:** Tags and Resources will download your resources to the Client Portal including the tags currently assigned in Azure. Any changes to tags will be synchronized back to your resources in Azure. This setting requires the “Tag Contributor” role in your Azure subscription and will only make changes to tags.
-3. Sign in to the Microsoft portal using the credentials of the user who has Owner permissions to the Azure subscriptions for which you wish to modify the PyraCloud access level.
+3. Sign in to the Microsoft portal using the credentials of the user who has Owner permissions to the Azure subscriptions for which you wish to modify the access level.
 4. On the consent page, review the permissions and select **Accept** to grant consent.&#x20;
 
 After granting consent, you'll be redirected to the Client Portal where you can view the updated access level. If you notice a blank screen, refresh the page.&#x20;

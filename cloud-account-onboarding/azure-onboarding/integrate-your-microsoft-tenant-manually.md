@@ -4,7 +4,7 @@ description: >-
   Contributor roles.
 ---
 
-# Integrate your Microsoft tenant manually
+# Integrate Your Microsoft Tenant Manually
 
 ***
 
@@ -26,13 +26,13 @@ The Tag Contributor and Reader roles allow the Client Portal to read a list of a
    * [Azure](https://login.microsoftonline.com/common/oauth2/authorize?response\_type=code\&client\_id=2a4807a4-d9e4-457d-b32f-a455e0d3662a\&prompt=consent\&redirect\_uri=https://www.softwareone.com/)
    * [Office365](https://login.microsoftonline.com/common/oauth2/authorize?response\_type=code\&client\_id=3f18953a-acbf-48cf-b485-06e451411aef\&prompt=consent\&redirect\_uri=https://www.softwareone.com/)
 2. On the **Permissions Requested** page, review the permissions, and select **Accept** to grant consent.
-3. After granting consent, launch the Azure Portal and navigate to **Azure Active Directory** > **Enterprise applications** to ensure that PyraCloud is listed in your enterprise applications.
+3. After granting consent, launch the Azure Portal and navigate to **Azure Active Directory** > **Enterprise applications** to ensure that the Client Portal/PyraCloud is listed in your enterprise applications.
 
 ***
 
-### Granting access to PyraCloud with Azure Management Groups <a href="#granting-access-to-pyracloud-with-azure-management-groups" id="granting-access-to-pyracloud-with-azure-management-groups"></a>
+### Granting access to the Client Portal/PyraCloud with Azure Management Groups <a href="#granting-access-to-pyracloud-with-azure-management-groups" id="granting-access-to-pyracloud-with-azure-management-groups"></a>
 
-**To grant access to PyraCloud with Azure Management Groups:**
+**To grant access to** t**he Client Portal/PyraCloud with Azure Management Groups:**
 
 1. Launch the [Azure Portal](https://portal.azure.com/) and search for **Management groups**.
 2. On the **Management groups** page, select **Start using management groups**.
