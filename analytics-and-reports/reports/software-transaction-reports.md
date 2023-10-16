@@ -4,7 +4,7 @@ description: >-
   run at a chosen time and frequency.
 ---
 
-# Software Transaction reports
+# Software Transaction Reports
 
 ***
 
@@ -137,7 +137,7 @@ To download multiple reports at once, select up to ten reports, select **Actions
 To send a report via email, click (**…**) in the **Actions** column and click **Email**. In the opened dialog, enter email addresses (separated by semicolon), select whether the report shall be send as an **Attachment** or **Link,** and click **Send**.
 
 {% hint style="info" %}
-**Note**: If a report’s size is bigger than 25 MB, it will be always sent as a link only. To be able to download a report from the link, the email recipients need to have access to the report in PyraCloud.
+**Note**: If a report’s size is bigger than 25 MB, it will be always sent as a link only. To be able to download a report from the link, the email recipients need to have access to the report in the client portal.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
@@ -200,7 +200,7 @@ To create a Quick Report, select a report type and click **Create** – this wil
 
 ### On-Page reporting <a href="#post-988-_toc51828573" id="post-988-_toc51828573"></a>
 
-On some PyraCloud pages, it is possible to create new reports (Run Once and Scheduled) directly from the page. You can find **Exports** (top right) on pages that support On Page reporting.
+On some pages, it is possible to create new reports (Run Once and Scheduled) directly from the page. You can find **Exports** (top right) on pages that support On Page reporting.
 
 To create a report using “**On-Page**” reporting, select **Exports** and select the report type you require, or click on the **Create / Schedule Report** option.
 
@@ -337,7 +337,7 @@ To add a new sFTP configuration click **Add New SFTP**. In the opened dialog, fi
 
 #### Edit an SFTP configuration <a href="#post-988-_toc51828590" id="post-988-_toc51828590"></a>
 
-To update an sFTP configuration, click **Edit** in **Actions** column. In opened dialog update fields and click **Update.**
+To update an sFTP configuration, click **Edit** in the **Actions** column. In opened dialog update fields and click **Update.**
 
 #### Delete an SFTP configuration <a href="#post-988-_toc51828591" id="post-988-_toc51828591"></a>
 
@@ -347,9 +347,9 @@ To delete an sFTP configuration, click **Delete** in the **Actions** column and 
 
 ***
 
-### Grid functionality <a href="#post-988-_ref38437292" id="post-988-_ref38437292"></a>
+### Grid Functionality <a href="#post-988-_ref38437292" id="post-988-_ref38437292"></a>
 
-PyraCloud grids allow you to select which columns should be displayed, and in what order. Filtering and grouping data or selecting how many rows should be visible on a single page.
+The grids allow you to select which columns should be displayed, and in what order. Filtering and grouping data or selecting how many rows should be visible on a single page.
 
 #### Show and hide columns <a href="#post-988-_toc51828593" id="post-988-_toc51828593"></a>
 

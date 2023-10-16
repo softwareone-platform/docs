@@ -281,12 +281,12 @@ Below are the prerequisites to proceed with the asset allocation process.
 
 #### Where to find Asset Allocation <a href="#post-3370-_toc513023089" id="post-3370-_toc513023089"></a>
 
-Asset Allocation can be found in PyraCloud under the “Manage” menu option as shown below:
+Asset Allocation can be found under the “Manage” menu option as shown below:
 
 Users can also be taken to the Asset Allocation page when they complete the Setup Wizard by clicking on the “**Finish**” button in Step 7.
 
 {% hint style="info" %}
-**NOTE:** Only EA Admins will have access to the Asset Allocation page in PyraCloud. If you do not see this option available, it may be a permissions issue, in which case please get in touch with your Account Manager.
+**NOTE:** Only EA Admins will have access to the Asset Allocation page. If you do not see this option available, it may be a permissions issue, in which case please get in touch with your Account Manager.
 {% endhint %}
 
 #### Asset Allocation <a href="#post-3370-_toc513023090" id="post-3370-_toc513023090"></a>
@@ -409,7 +409,7 @@ If you continue to get the error message, please report this to your Account Man
 
 ### EA Reporting Module <a href="#post-3370-_toc513023094" id="post-3370-_toc513023094"></a>
 
-The EA Reporting Module in PyraCloud simplifies the EA TrueUp reporting process for customers. Due to the individual agreement structure of the Microsoft EA, customers can report on the products they have added within their environment on an ad-hoc or annual basis.
+The EA Reporting Module simplifies the EA TrueUp reporting process for customers. Due to the individual agreement structure of the Microsoft EA, customers can report on the products they have added within their environment on an ad-hoc or annual basis.
 
 When organizations are multinational or global it brings added complexity. The EA Reporting Module has been designed to allow organizations to determine which locations and users need to report on their current environments license usage. The local users may add in these license counts depending on how the organization determines their reporting cycle i.e monthly, quarterly or yearly.
 
@@ -423,9 +423,9 @@ Below are key points to note whilst setting up the EA Reporting Module for a cus
 
 ***
 
-### Where to find EA Reporting in PyraCloud <a href="#post-3370-_toc513023095" id="post-3370-_toc513023095"></a>
+### Where to find EA Reporting <a href="#post-3370-_toc513023095" id="post-3370-_toc513023095"></a>
 
-EA Reporting can be found in PyraCloud under the “Manage” menu option as shown below.
+EA Reporting can be found under the “Manage” menu option as shown below.
 
 **Note:** If you do not see this option available it may be a permissions issue, in which case please get in touch with your Account Manager.
 

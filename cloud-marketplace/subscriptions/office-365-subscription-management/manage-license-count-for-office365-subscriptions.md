@@ -26,7 +26,7 @@ Directly below the Selected Cloud Account, the tenant summary information is vis
 
 * **Microsoft Details**: The tenant ID and primary tenant domain are displayed
 * **Contract Details:** The contract number, contract start date and your support level are displayed.
-* **Links**: Links to PyraCloud Consumption Analytics (for this tenant), your 365Simple contract, and the Microsoft Office 365 Portal are displayed.
+* **Links**: Links to Consumption Analytics (for this tenant), your 365Simple contract, and the Microsoft Office 365 Portal are displayed.
 
 ***
 

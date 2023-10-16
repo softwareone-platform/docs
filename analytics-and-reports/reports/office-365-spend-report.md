@@ -4,11 +4,11 @@ description: Gain detailed analysis of your Office 365 spend.
 
 # Office 365 Spend Report
 
-### What is Office 365 Consumption in PyraCloud?   <a href="#what-is-office-365-consumption-in-pyracloud" id="what-is-office-365-consumption-in-pyracloud"></a>
+### What is Office 365 Consumption?   <a href="#what-is-office-365-consumption-in-pyracloud" id="what-is-office-365-consumption-in-pyracloud"></a>
 
-Office 365 Consumption in PyraCloud provides users with detailed Office 365 spend analysis. The data is based on billing data fetched daily.
+Office 365 Consumption provides users with detailed Office 365 spend analysis. The data is based on billing data fetched daily.
 
-Users can access multiple analytic reports and browse consumption cost information in easy-to-use interactive charts. The analysis is extended by leveraging information from other PyraCloud modules. Users can analyze spend per [Custom Group](broken-reference) or per [Budget.](../../spend-management/budgets/working-with-budgets.md)
+Users can access multiple analytic reports and browse consumption cost information in easy-to-use interactive charts. The analysis is extended by leveraging information from the other modules. Users can analyze spend per [Custom Group](broken-reference) or per [Budget.](../../spend-management/budgets/working-with-budgets.md)
 
 ***
 
@@ -29,13 +29,13 @@ You can visualize and analyze your Office 365 EA and Office 365Simple spend. Eac
 
 The Office365 Consumption Details Report displays the Cost or the Quantity data.
 
-The Cost data is always reporting the initial monthly cost at the first day of month and additional cost due to subscription updates on a day that it happened. Cost data is calculated in single currency.
+The Cost data always reports the initial monthly cost on the first day of the month and additional costs due to subscription updates on the day that it happened. Cost data is calculated in the single currency.
 
 <figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
 
 
-The Quantity data is showing maximum number of subscriptions by product subscription per month.
+The Quantity data shows maximum number of subscriptions by product subscription per month.
 
 <figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
@@ -75,6 +75,6 @@ Azure Active Directory users and subscriptions are treated like **resources**.
 
 Azure Active Directory user **resource** cost, is a sum of costs of all subscriptions assigned to this user.
 
-Subscription **resource** cost is a cost of all subscriptions that are not assigned to any Azure Active Directory user (Subscription **resource** has a name set to Subscription name and “Unassigned Pool” suffix).
+Subscription **resource** cost is the cost of all subscriptions that are not assigned to any Azure Active Directory user (Subscription **resource** has a name set to Subscription name and “Unassigned Pool” suffix).
 
 <figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
