@@ -6,11 +6,11 @@ description: See an overview of your 365Simple Managed service.
 
 ***
 
-The 365Simple dashboard in PyraCloud provides an overview for customers taking advantage of SoftwareONE’s 365Simple service.
+The 365Simple dashboard provides an overview for customers taking advantage of SoftwareONE’s 365Simple service.
 
 The dashboard provides:
 
-* A single point of access to relevant parts of the PyraCloud platform (ie. invoices, user administration, collaboration site, etc.)
+* A single point of access to relevant parts of the platform (ie. invoices, user administration, collaboration site, etc.)
 * Quarterly billing information
 * Product usage
 * Subscription assignment details

@@ -6,9 +6,9 @@ description: >-
 
 # Manage License Count for Office365 subscriptions
 
-### avigating to Subscription Manager <a href="#navigating-to-subscription-manager" id="navigating-to-subscription-manager"></a>
+### Navigating to Subscription Manager <a href="#navigating-to-subscription-manager" id="navigating-to-subscription-manager"></a>
 
-On the main PyraCloud dashboard, click on Manage in the navigation menu and click on Subscription Manager.
+On the dashboard, click **Manage** in the navigation menu and choose **Subscription Manager**.
 
 ***
 

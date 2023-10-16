@@ -4,11 +4,11 @@ description: See an overview of your AzureSimple Managed service.
 
 # AzureSimple Dashboard
 
-The AzureSimple dashboard in PyraCloud provides an overview for customers taking advantage of SoftwareONE’s AzureSimple service.
+The AzureSimple dashboard provides an overview for customers taking advantage of SoftwareONE’s AzureSimple service.
 
 The dashboard provides:
 
-* A single point of access to relevant parts of the PyraCloud platform (ie. invoices, user administration, collaboration site etc.)
+* A single point of access to relevant parts of the platform, including invoices, user administration, collaboration site, and so on.
 * Savings opportunities
 * Quarterly billing information
 * Spike & outage alerts
@@ -53,9 +53,9 @@ This widget displays billing cycles from the past 90 days. It will usually conta
 
 <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
-Clicking the widget will take you to the “Consumption Report” page where you can see more details.
+Clicking the widget will take you to the **Consumption Report** page where you can see more details.
 
-**Note:** if you have multiple CSP agreements, this widget currently displays the default CSP agreement. Switching between agreements is currently not supported, but will be added.
+**Note:** If you have multiple CSP agreements, this widget currently displays the default CSP agreement. Switching between agreements is currently not supported, but will be added.
 
 ***
 
@@ -63,7 +63,7 @@ Clicking the widget will take you to the “Consumption Report” page where you
 
 The Alerts widget displays the three latest and most severe alerts from the past 30 days.
 
-This gives you the opportunity to address any unusual spend and prevent any further cost impact.
+This gives you the opportunity to address any unusual spending and prevent any further cost impact.
 
 Clicking the widget takes you to the Notifications Hub where all other notifications can be found.
 
@@ -73,7 +73,7 @@ Clicking the widget takes you to the Notifications Hub where all other notificat
 
 ### Service Recommendations Articles <a href="#service-recommendations-articles" id="service-recommendations-articles"></a>
 
-One of the biggest advantages for our customers is access to custom tailored recommendations. All AzureSimple recommendations are provided directly, articles are written by SoftwareONE experts and backed by data driven intelligence.
+One of the biggest advantages for our customers is access to custom-tailored recommendations. All AzureSimple recommendations are provided directly, articles are written by SoftwareONE experts and backed by data-driven intelligence.
 
 <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 

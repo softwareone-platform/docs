@@ -4,7 +4,7 @@ description: >-
   business requirements.
 ---
 
-# About Custom Groups
+# Custom Groups
 
 ***
 
@@ -18,7 +18,7 @@ With Custom Groups, you can build a hierarchical structure based on custom-defin
 
 ### Using custom groups <a href="#using-custom-groups" id="using-custom-groups"></a>
 
-To keep the organizational assignments of a resource (tag) consistent with the tagging on the cloud provider environment, Custom Groups interfaces with the Tags and Resources. This allows you to ensure data consistency within PyraCloud and within the cloud environments of Azure and AWS.
+To keep the organizational assignments of a resource (tag) consistent with the tagging on the cloud provider environment, Custom Groups interfaces with the Tags and Resources. This allows you to ensure data consistency within the portal and within the cloud environments of Azure and AWS.
 
 The built-in functionalities across Custom Groups and Resources allow users to decide how to handle those tag assignments (lock, allow overwrite, and so on) and are included as a framework that can be configured according to your individual requirements.
 
@@ -41,14 +41,14 @@ The built-in functionalities across Custom Groups and Resources allow users to d
   * Team
   * Service
 
-These dimensions are directly mapped to Tags and Resources as tag keys. This allows you to directly synchronize between PyraCloud and the Cloud Provider.
+These dimensions are directly mapped to Tags and Resources as tag keys. This allows you to directly synchronize between the portal and the Cloud Provider.
 
 {% hint style="warning" %}
 **IMPORTANT**: Identifying the right setup and sequence of dimensions is critical to keeping flexibility throughout the use of Custom Groups. The dimensions are the predecessor to the hierarchical structure of Custom Groups and changing a dimension requires removing the groups.
 {% endhint %}
 
 * Identify the Right Groupings: Defining the group name is a bit more flexible than defining the dimensions. Group names correspond with the tag values and can be created and deleted at any time. Examples of common group names include:
-  * SoftwareONE (for Company)
+  * SoftwareOne (for Company)
   * Switzerland (for Location)
   * Marketing (for Department)
   * Sales Area South (for Team)

@@ -6,27 +6,27 @@ description: >-
 
 # How to edit your company structure
 
-This feature is currently available to most PyraCloud customers. If you cannot manage the company structure on your own yet, then SoftwareOne will need to migrate your company structure first.
+This feature is currently available to most customers. If you cannot manage the company structure on your own yet, then SoftwareOne will need to migrate your company structure first.
 
 ### Introduction <a href="#post-4917-_ref61592726" id="post-4917-_ref61592726"></a>
 
-The purpose of the company structure is to grant procurement users access to a set of companies. Procurement users use PyraCloud to purchase from SoftwareONE. If you change the company structure, this can have an impact on the companies that your users can purchase through.
+The purpose of the company structure is to grant procurement users access to a set of companies. Procurement users use the Client Portal to purchase from SoftwareOne. If you change the company structure, this can have an impact on the companies that your users can purchase through.
 
 A company structure that is used to grant procurement access can be different from your legal company structure (or any other structure you use internally).
 
 ### Why do I already have a Company Structure? <a href="#post-4917-_toc63257167" id="post-4917-_toc63257167"></a>
 
-SoftwareONE automatically generates a company structure for a customer’s PyraCloud tenant. Each company is created in a separate sub-folder below your top-level folder. Therefore, each company is on the same level.
+SoftwareONE automatically generates a company structure for a customer’s tenant. Each company is created in a separate sub-folder below your top-level folder. Therefore, each company is on the same level.
 
 If this automatically generated company structure works (e.g., if only a small number of companies are present), then the company structure can be used as is.
 
-If a more hierarchical company structure is needed, the “Company Structure” editor can be used in PyraCloud to make changes to the company structure. This is described in detail in the following sections of this document.
+If a more hierarchical company structure is needed, the “Company Structure” editor can be used to make changes to the company structure. This is described in detail in the following sections of this document.
 
-**Note:** A company structure is set up during the PyraCloud onboarding process. The “Company Structure” editor can only be used following the migration of your company structure by SoftwareONE.
+**Note:** A company structure is set up during the onboarding process. The “Company Structure” editor can only be used following the migration of your company structure by SoftwareONE.
 
 ### Accessing the Company Structure Editor <a href="#post-4917-_toc63257168" id="post-4917-_toc63257168"></a>
 
-The Company Structure Editor can only be accessed by users who have admin privileges. Admin privileges are set up for specified users during the PyraCloud onboarding process.
+The Company Structure Editor can only be accessed by users who have admin privileges. Admin privileges are set up for specified users during the onboarding process.
 
 In order to access the Company Structure Editor, click on the “**Company Structure**” menu item under the user account (top right corner)
 
@@ -237,15 +237,15 @@ _**Figure 26 – Confirmation message when removing a company from a folder and 
 
 ### Manage how new companies are added to your Company Structure (auto-add options) <a href="#post-4917-_toc63257178" id="post-4917-_toc63257178"></a>
 
-If there are companies missing in the “Company Structure” editor, then please contact SoftwareONE. SoftwareONE will add these companies to our systems.
+If there are companies missing in the “Company Structure” editor, contact SoftwareOne. SoftwareOnewill add these companies to our systems.
 
-PyraCloud offers different ways to add new companies to the company structure:
+There are different ways to add new companies to the company structure:
 
-| **Option**                                                                         | **Description**                                                                                                                                                                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1. Add new companies to separate sub-folders below a selected folder (Recommended) | <p>This option will add new companies automatically to a company structure. By using separate sub-folders, <strong>PyraCloud users can be granted fine granular access to companies</strong>. More details can be found in the section “Add an Unassigned Company to the Company Structure”.<br>This is the default behavior and the preselected folder is the top level folder.</p> |
-| 2. Add new companies to an existing folder                                         | This option will add new companies automatically to a company structure. By using an existing folder, **PyraCloud users cannot be granted fine granular access to the companies** in the selected folders. More details can be found in the section “Add an Unassigned Company to the Company Structure”.                                                                            |
-| 3. Add new companies to “Unassigned Companies”                                     | This option will **not** add new companies automatically to a company structure. You will need to add these companies manually before you can grant PyraCloud users access to them.                                                                                                                                                                                                  |
+| **Option**                                                                         | **Description**                                                                                                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Add new companies to separate sub-folders below a selected folder (Recommended) | <p>This option will add new companies automatically to a company structure. By using separate sub-folders, users can be granted fine granular access to companies. More details can be found in the section “Add an Unassigned Company to the Company Structure”.<br>This is the default behavior and the preselected folder is the top level folder.</p> |
+| 2. Add new companies to an existing folder                                         | This option will add new companies automatically to a company structure. By using an existing folder, users cannot be granted fine granular access to the companies in the selected folders. More details can be found in the section “Add an Unassigned Company to the Company Structure”.                                                               |
+| 3. Add new companies to “Unassigned Companies”                                     | This option will **not** add new companies automatically to a company structure. You will need to add these companies manually before you can grant users access to them.                                                                                                                                                                                 |
 
 **1. Add new companies to separate sub-folders below a selected folder (Recommended)**
 

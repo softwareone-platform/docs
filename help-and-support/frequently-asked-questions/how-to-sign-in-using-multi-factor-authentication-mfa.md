@@ -5,96 +5,97 @@ description: Follow these steps to setup Multi Factor Authentication (MFA).
 # How to sign in using Multi-factor Authentication (MFA)
 
 {% hint style="info" %}
-If you have a new mobile phone and want to set up MFA for your PyraCloud login again, please contact PyraCloud support. After we reset your MFA, you can scan a new QR code with your new phone. Please make sure to use the e-mail address that matches your PyraCloud username.
+**NOTE**: If you have a new mobile phone and want to set up MFA for your login again, please [Contact Support](../getting-support.md). After we reset your MFA, you can scan a new QR code with your new phone. Please make sure to use the email address that matches your Client Portal username.
 {% endhint %}
 
-### Setup Multi-Factor Authentication (MFA)
+## **Prerequisites**
 
-Follow these steps to setup Multi-Factor Authentication (MFA) for PyraCloud.
+To set up MFA, you'll require the following:
 
-#### **Prerequisites**
+1. A mobile phone with an Android or iOS operating system.
+2. Your username and password for the Client Portal.
+3. An Authenticator app. You can use any Authenticator app like Google Authenticator or Microsoft Authenticator.
 
-* Mobile phone with Android or iOS operating system
-* Login and password for PyraCloud
+### **Installing the Authenticator App**
 
-If you see the screen below
+In this example, we've used Google Authenticator, but the steps are the same for any Authenticator app.
 
-![](<../../.gitbook/assets/image (7) (1) (1) (1).png>)
+1. Download the Google Authenticator app from the Google Play store.
+2. Open the Authenticator app and choose **Scan a QR code.**
 
-#### Setup Authenticator App
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="252"><figcaption></figcaption></figure>
 
-**Install Authenticator App**
-
-If you do not have an Authenticator app installed on your mobile phone yet, install one first. You can use any generic Authenticator app like Google Authenticator or Microsoft Authenticator. We use Google Authenticator as an example. The steps are very similar for any other Authenticator app.
-
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Open the Authenticator app and choose “Scan a QR code” as shown below**.**
-
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Point the camera of your mobile phone to the QR code on the PyraCloud page and wait for the scanned data to be added to your Authenticator app.
+3. Point the camera of your mobile phone to the QR code on the Client Portal page and wait for the scanned data to be added to your Authenticator app.
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**Use Existing Authenticator App**
+### **Use an existing Authenticator app**
 
-If you already have an Authenticator app installed, open it and tap on the “Plus” sign in the bottom right corner (as shown below). Then choose “Scan QR Code”. Once done, point the camera of your mobile phone to the QR code on the PyraCloud page and wait for the scanned data to be added to your Authenticator app.
+If you already have an Authenticator app installed on your phone, perform these steps:
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+1\. Open the app and tap on the **Plus** sign in the bottom right corner.&#x20;
 
-**Manual Setup Without QR Code**
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="251"><figcaption></figcaption></figure>
 
-If you have problems to scan the QR Code, click on the “Trouble scanning?” option on the PyraCloud page and write down or copy the presented code as shown below.
+2. Choose **Scan QR Code**.&#x20;
+3. Point the camera of your phone to the QR code on the Client Portal and wait for the scanned data to be added to your Authenticator app.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### **Manual setup without QR code**
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+If you have problems scanning the QR Code,&#x20;
 
-Tap on “Enter a setup key” in your Authenticator app and provide your account name, secret code and choose your preferred time criteria.
+1. Select **Trouble Scanning?** on the login page:
 
-#### Complete PyraCloud MFA Setup
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt="" width="361"><figcaption></figcaption></figure>
 
-After you successfully performed the above mentioned steps, your PyraCloud account will be on a list similar to this one:
+2. Write down or copy the one-time code:
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
-Each account is shown in a separate row. The six digit code is the OTP code you will need to enter on the PyraCloud login page when you are asked for your one-time code.
+3. Tap on **Enter a setup key** in your Authenticator app and provide your account name, secret code, and choose your preferred time criteria.
 
-Next, enter the OTP code on the PyraCloud login screen and click "Continue":
+## Completing the MFA setup
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+After you successfully perform the above steps, your Client Portal account will be on a list similar to the following image. Each account is shown in a separate row. The six-digit code is the OTP code you will need to enter on the login page when you are asked for your one-time code.
 
-Copy the recovery code and store it in a secure place. You can use the recovery code to login to PyraCloud when you do not have access to the Authenticator app on your mobile phone.
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt="" width="316"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+1. Enter the OTP code on the login screen and click **Continue.**
 
-After your successful setup and initial login, you can use PyraCloud.
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
-### Login Using Multi-Factor Authentication (MFA)
+2. Copy the recovery code and store it in a secure place. You can use the recovery code to sign in to the Client Portal when you don't have access to the Authenticator app on your mobile phone.
 
-#### Login With an OTP Code
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
-After your successful setup, enter the OTP code from your Authenticator app to login to PyraCloud with Multi-factor authentication.
+After your successful setup and initial login, you can use the Client Portal.
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+## Signing in using MFA
 
-{% hint style="info" %}
-The Authenticator app shows how long the OTP code will be valid (maximum of 30 seconds). Enter the OTP code in time for a successful login. If there are only a few seconds left, we recommend to wait for the code to refresh.
-{% endhint %}
+### Signing in with an OTP
 
-#### Login With a Recovery Code
+After setup, enter the OTP code from your Authenticator app to sign-in page.&#x20;
 
-If you do not have access to your Authenticator app, you can also login to PyraCloud using your one-time recovery code. When you are asked for the OTP code, click on “Try another method” and then on “Recovery code”. On the next screen, enter your recovery code to login to PyraCloud.
-
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-When you login using your recovery code, you will get another one-time recovery code. Make sure to store this code securely for your next login without your Authenticator app.
+**NOTE**: The Authenticator app shows the duration the OTP code will be valid for (maximum of 30 seconds). Enter the OTP code in time for a successful login. If there are only a few seconds left, we recommend to wait for the code to refresh.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### Signing in with a recovery code
+
+If you don't have access to your Authenticator app, you can also sign in using your one-time recovery code. When you are asked for the OTP code, select **Try another method** and then **Recovery code**.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1).png" alt="" width="364"><figcaption></figcaption></figure>
+
+On the next screen, enter your recovery code to sign in:&#x20;
+
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt="" width="354"><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**NOTE**: When you sign in using your recovery code, you will get another one-time recovery code. Make sure to store this code securely for your next login without your Authenticator app.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>

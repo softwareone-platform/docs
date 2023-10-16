@@ -20,10 +20,6 @@ As you can see from the three examples above, the administrators managing the di
 
 This would make aggregating information within each platform or outside each platform difficult. To solve this, you can use Tags and Resources to apply a consistent tag naming standard to all resources across all platforms. You just define the naming standard you want and add/move those resources to that new naming standard. Once done, the Tags module will allow you to clean up the old tags.
 
-Here is an example of how PyraCloud solves the problem:
-
-<figure><img src="../../.gitbook/assets/image (26) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 Throughout the rest of this article, we will show you how to use Tags and Resources to drive a consistent standard within your business.
 
 ***
@@ -47,7 +43,7 @@ The tile displays three sets of information:
 
 Tags is a management page that allows you to view and manage the tag structure used, or to be used, by your Cloud Platforms.
 
-Tags do not need to exist within your Cloud Platforms to create them within the Tags module. Tags will show up if they have been already applied to resources from the Cloud Platforms you are synchronizing with PyraCloud.
+Tags do not need to exist within your Cloud Platforms to create them within the Tags module. Tags will show up if they have been already applied to resources from the Cloud Platforms you are synchronizing with the platform.
 
 Once you apply tags to resources, by default, they will synchronize back to the resource’s Cloud Platform. This functionality can be disabled.
 
@@ -104,7 +100,7 @@ There are a number of items on the Resources Page:
 | Tag Conflicts tile            | This tile informs about the conflicts in tagging that exist within the system.                                                                                                                                                                                                                                                          |
 | Sync Health tile              | Upon clicking, you will be presented with a window that will show you all of your Cloud Subscriptions being synchronized with the Tags and Resources.                                                                                                                                                                                   |
 | Advanced Search               |  This allows you to filter down the resource list based on properties related to the resources, so you can make quick decisions based on the results.                                                                                                                                                                                   |
-| Add Virtual Resource          | This functionality allows you to add virtual resources, so you can visualize and track their costs within PyraCloud.                                                                                                                                                                                                                    |
+| Add Virtual Resource          | This functionality allows you to add virtual resources, so you can visualize and track their costs.                                                                                                                                                                                                                                     |
 | Single or Multi-Select Column | You can select a single resource or multiple resources to take action. When you select a resource you will see the “Key” and “Value” fields appear. Enter the Tag Key: Value and click the “**+ Add Tag**” button to add different tags to the selected resource(s).                                                                    |
 | Resource List                 | This is a list of all of your resources, either in filtered or unfiltered view.                                                                                                                                                                                                                                                         |
 
@@ -136,7 +132,7 @@ Select **Show Details** to view details of the resource type, AWS account, and A
 This modal explains the permissions that are missing for each resource type within an AWS account and region. For example, in the third row, we are missing permissions for RedShiftReservedNodes in the ap-northeast region for the account swo-test.
 
 {% hint style="info" %}
-**NOTE**: The link in the Actions column will navigate you to the appropriate AWS account in question. However, due to caching within the AWS UI, you may be navigated to the last visited region for that account. Therefore make sure you locate the PyraCloud stack as mentioned [here](https://help.pyracloud.com/knowledge-base/update-aws-account-permissions-for-pyracloud/#locate-the-pyracloud-stack).
+**NOTE**: The link in the Actions column will navigate you to the appropriate AWS account in question. However, due to caching within the AWS UI, you may be navigated to the last visited region for that account. Therefore make sure you locate the Client Portal stack.
 {% endhint %}
 
 **Resource Details Page**
@@ -157,7 +153,7 @@ As mentioned above, clicking on View in the Actions column will open up the Reso
   * **Status:** When adding, changing, or removing the Tag, we actively show the status of that change in this column. If you just added the Tag, you will see a “pending” status until the Tag has been applied to the Tag. The “pending” status may take longer if we are synchronizing that Tag back to the Cloud Platform Subscription’s resource.
   * **Platform Sync:** Platform Sync has two states
     * **On** – When Platform Sync is on, the Tag will synchronize back to the Cloud Platform Subscription’s Resource.
-    * **Off** – When Platform Sync is off, the Tag will only exist within PyraCloud. If you actively change the sync status from On to Off, the Tag will be removed from the Cloud Platform.
+    * **Off** – When Platform Sync is off, the Tag will only exist within the Client Portal. If you actively change the sync status from On to Off, the Tag will be removed from the Cloud Platform.
 
 {% hint style="info" %}
 **NOTE:** The Tags are always pulled in from the Cloud Platform, no matter what state all the existing Tags on this resource are in.
@@ -178,14 +174,14 @@ Virtual Resources are associated with cloud resources (that have been discovered
 
 Adding a virtual resource can be performed by clicking on the ‘Add Virtual Resource’ button on the Resources landing page. Clicking on this will navigate you to a screen requesting more information as shown below:
 
-| Field         | Description                                                                                                                                                                                                                                                            |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Provider      | This is the name of the Virtual Provider to track the virtual resource against while measuring your costs for the virtual resource. The value entered here will appear in various searches within PyraCloud for the filter name ‘Provider’. This is a mandatory field. |
-| Resource Name | This field describes the name of the virtual resource. The name here will appear in searches within PyraCloud for the filter name ‘Resource Name’. This is a mandatory field.                                                                                          |
-| Quantity      | Quantity is the amount of resources that you have for that resource name. This is a mandatory field.                                                                                                                                                                   |
-| Date          | This is the date that you would like to track your virtual resources. This is a mandatory field.                                                                                                                                                                       |
-| Currency      | Currency in which you would like to track the costs of your virtual resources. This is a mandatory field.                                                                                                                                                              |
-| Unit Cost     | This is the cost per unit of the virtual resource. The total cost of the virtual resource will be calculated by multiplying the unit cost with the quantity.                                                                                                           |
+| Field         | Description                                                                                                                                                                                                                                                                    |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Provider      | This is the name of the Virtual Provider to track the virtual resource against while measuring your costs for the virtual resource. The value entered here will appear in various searches within the Client Portal for the filter name ‘Provider’. This is a mandatory field. |
+| Resource Name | This field describes the name of the virtual resource. The name here will appear in searches within the Client Portal for the filter name ‘Resource Name’. This is a mandatory field.                                                                                          |
+| Quantity      | Quantity is the amount of resources that you have for that resource name. This is a mandatory field.                                                                                                                                                                           |
+| Date          | This is the date that you would like to track your virtual resources. This is a mandatory field.                                                                                                                                                                               |
+| Currency      | Currency in which you would like to track the costs of your virtual resources. This is a mandatory field.                                                                                                                                                                      |
+| Unit Cost     | This is the cost per unit of the virtual resource. The total cost of the virtual resource will be calculated by multiplying the unit cost with the quantity.                                                                                                                   |
 
 ### Visualizing virtual resources in resources and resource details <a href="#visualizing-virtual-resources-in-resources-and-resource-details" id="visualizing-virtual-resources-in-resources-and-resource-details"></a>
 
@@ -207,11 +203,11 @@ The parent resource the virtual resource is attached to can be viewed within the
 
 ### **What are tag conflicts?** <a href="#what-are-tag-conflicts" id="what-are-tag-conflicts"></a>
 
-PyraCloud will synchronize with your Cloud Platform on a set interval. This means there is a chance the Tags you see within PyraCloud are out of date (by hours). We try to Synchronize often, to prevent this, but in some cases, changes will be made in Azure or AWS in between Sync cycles.
+The Client Portal will synchronize with your Cloud Platform at a set interval. This means there is a chance the Tags you see within the Client Portal are out of date (by hours). We try to Synchronize often, to prevent this, but in some cases, changes will be made in Azure or AWS in between Sync cycles.
 
-When the addition/removal/change of a Tag is made to the same Tag Key, this will cause a conflict. (Since the Cloud Platform will only allow for a single Tag Key and any value on a resource.) If the same Tag Key is added or changed on both platforms, in between sync cycles, the PyraCloud Tag Key:Value will overwrite the Cloud Platform’s Tag Key:Value.
+When the addition/removal/change of a Tag is made to the same Tag Key, this will cause a conflict. (Since the Cloud Platform will only allow for a single Tag Key and any value on a resource.) If the same Tag Key is added or changed on both platforms, in between sync cycles, the Client Portal Tag Key:Value will overwrite the Cloud Platform’s Tag Key:Value.
 
-We realize the Cloud Platform Tag change may have been intentional, so we save this as a conflict. This Conflict will allow you to accept the change proposed by the user from the Cloud Platform or leave in place the PyraCloud change that was made.
+We realize the Cloud Platform Tag change may have been intentional, so we save this as a conflict. This conflict will allow you to accept the change proposed by the user from the Cloud Platform or leave in place the Client Portal change that was made.
 
 If you ignore this conflict, the conflict notification will expire. To avoid Tag Conflicts, you can always manually run a synchronization on your subscription.
 
@@ -219,13 +215,13 @@ If you ignore this conflict, the conflict notification will expire. To avoid Tag
 
 There are a number of items on the Resource Details Page:
 
-| UI element          | Description                                                                                                                                                                                                                                                                                                                                           |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Navigation links    | Quick links to Resources, Tags, Cloud Tenant Setup, Custom Groups, Budgets and Consumption Overview                                                                                                                                                                                                                                                   |
-| Resource Stats tile | <p></p><p>These are common stats about your synchronized resources.</p><ul><li><p><strong>Cloud Resources:</strong> The total number of cloud resources that are tagged within the Tags and Resources.</p><ul><li><strong>Users:</strong> The total number of cloud user resources that are tagged within the Tags and Resources.</li></ul></li></ul> |
-| Most Used Tags tile | This tile talks about the most actively used tags in the system, sorted in descending order.                                                                                                                                                                                                                                                          |
-| Tag Conflicts tile  | This tile informs about the conflicts in tagging that exist within the system.                                                                                                                                                                                                                                                                        |
-| Sync Health tile    | Upon clicking, you will be presented with a window that will show you all of your Cloud Subscriptions being synchronized with the Tags and Resources.                                                                                                                                                                                                 |
+| UI element          | Description                                                                                                                                                                                                                                                                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Navigation links    | Quick links to Resources, Tags, Cloud Tenant Setup, Custom Groups, Budgets and Consumption Overview                                                                                                                                                                                                                                   |
+| Resource Stats tile | <p></p><p>These are common stats about your synchronized resources.</p><ul><li><strong>Cloud Resources:</strong> The total number of cloud resources that are tagged within the Tags and Resources.</li><li><strong>Users:</strong> The total number of cloud user resources that are tagged within the Tags and Resources.</li></ul> |
+| Most Used Tags tile | This tile talks about the most actively used tags in the system, sorted in descending order.                                                                                                                                                                                                                                          |
+| Tag Conflicts tile  | This tile informs about the conflicts in tagging that exist within the system.                                                                                                                                                                                                                                                        |
+| Sync Health tile    | Upon clicking, you will be presented with a window that will show you all of your Cloud Subscriptions being synchronized with the Tags and Resources.                                                                                                                                                                                 |
 
 If you have conflicts, you will see a table that lists all of the Tags that are in conflict, from the Tag perspective.
 
@@ -314,7 +310,7 @@ In order to do this, edit the resource rule, and edit the search criteria of the
 
 ### **What is the sync health window?** <a href="#what-is-the-sync-health-window" id="what-is-the-sync-health-window"></a>
 
-Clicking on the Sync Health tile will take you to the Sync Health window. The Sync Health window will show you all of the Cloud Platform Subscriptions you are synchronizing with PyraCloud. It will also show you the synchronization status state and allow you to run a synchronization process.
+Clicking on the Sync Health tile will take you to the Sync Health window. The Sync Health window will show you all of the Cloud Platform Subscriptions you are synchronizing with the Client Portal. It will also show you the synchronization status state and allow you to run a synchronization process.
 
 <figure><img src="../../.gitbook/assets/image (98) (1).png" alt=""><figcaption></figcaption></figure>
 

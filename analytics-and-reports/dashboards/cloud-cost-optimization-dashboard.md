@@ -30,45 +30,43 @@ The Cloud Cost Optimization Overview page is broken down into two sections –
 
 **Overview Chart** and the **Overview Grid**.
 
-1. Tabs – These summarize cost optimization opportunities for the different cloud environments you may have connected to PyraCloud
+1. Tabs: These summarize cost optimization opportunities for the cloud environments.
 
 ![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FvDlLKXxw37eUXbVH0JUK%2Fimage.png?alt=media\&token=90a48b77-c354-41da-a373-87daad8e9252)
 
-1. The top pane summarizes savings through a pie chart and a few key metrics (see figure below).
-
-The top pane summarizes the following metrics –
+2. The top pane summarizes savings through a pie chart and a few key metrics. The top pane summarizes the following metrics:
 
 * **Savings breakdown by Strategy** – The pie chart shows a percentage breakdown of achievable Savings as a proportion of the total savings. For e.g. in the chart above, Savings through Azure Hybrid Benefit is 41.45% of Total Predicted Savings (EUR 1,080,421.31). All the numbers are calculated for 1 year or 3 years depending on the selection in the dropdown.
 * **Year selection** – The metrics shown on the top pane are based on the year selection of 1 year or 3 years.
 
-Changing the year selection in the dropdown does not persist the year setting in the system. It is only meant to show you the savings achievable over 1 or 3 years. Changing the setting in the backend is only available to Cloud Cost Optimization consultants. If you need to change the year setting, please speak to your Cloud Cost Optimization Consultant, who will be able to do it for you.
+Changing the year selection in the dropdown does not persist in the year setting in the system. It is only meant to show you the savings achievable over 1 or 3 years. Changing the setting in the backend is only available to Cloud Cost Optimization consultants. If you need to change the year setting, please speak to your Cloud Cost Optimization Consultant, who will be able to do it for you.
 
 * **Total Predicted Cost** – This value represents the cost of your Azure environment over the next year or three years.
 * **Total Predicted Savings** – This value represents the savings achievable as a proportion of the total cost.
 
-Calculations across the Cloud Cost Optimization system assume consumption data and costs for the last 2 weeks. This setting can be configured by your Cloud Cost Optimization Consultant to one of last 2 weeks, last 4 weeks, last 12 weeks, last 52 weeks.
+Calculations across the Cloud Cost Optimization system assume consumption data and costs for the last 2 weeks. This setting can be configured by your Cloud Cost Optimization Consultant to one of the last 2 weeks, last 4 weeks, last 12 weeks, and last 52 weeks.
 
 2\. The bottom pane contains a grid that breaks down the savings achievable through each of the strategies (see figure below).
 
-The Predicted Savings percentage in the grid for each strategy is a proportion of the cost for that strategy. Therefore this may be different to the percentage shown in the pie chat above (which shows it as a proportion of total savings).
+The Predicted Savings percentage in the grid for each strategy is a proportion of the cost for that strategy. Therefore this may be different from the percentage shown in the pie chart above (which shows it as a proportion of total savings).
 
-The Strategy pages each explain an optimization strategy that allows you to achieve savings. This section explains components of any optimization strategy, and allows you to understand common operations on these pages.
+The Strategy pages each explain an optimization strategy that allows you to achieve savings. This section explains the components of any optimization strategy and allows you to understand common operations on these pages.
 
-The strategies in Cloud Cost Optimization are listed below. If you are looking for something specific relating to any of these strategies, please navigate to the appropriate strategy section.
+The strategies for Cloud Cost Optimization are listed below. If you are looking for something specific relating to any of these strategies, please navigate to the appropriate strategy section.
 
-**Note**: If the strategy contain 0% savings then that strategy will not be visible.
+**Note**: If the strategy contains 0% savings, then that strategy will not be visible.
 
-1.  2\.
+1. Orphaned Resources
+2. DEV/TEST (Not available for AWS environments)
+3. Rightsizing
+4. Resource Automation
+5. Cross Region Optimization
+6. Instance Modernization
+7. Reserved Instances
+8. Azure Hybrid Benefit (Not available for AWS environments)
+9. Bring your own License
 
-    DEV/TEST (Not available for AWS environments)
-2.  5\.
-
-    Cross Region Optimization
-3.  8\.
-
-    Azure Hybrid Benefit (Not available for AWS environments)
-
-**Navigating to next strategy**
+**Navigating to the next strategy**
 
 One can navigate to the next strategy in sequence by clicking on the Next Strategy arrow to the top right of the page.
 
@@ -78,7 +76,7 @@ One can navigate to the next strategy in sequence by clicking on the Next Strate
 
 **Marking a strategy as complete / Re-opening a strategy**
 
-A strategy can be marked as complete only if all previous strategies are completed. This is because every complete strategy influences the savings achievable on subsequent strategies. Marking a strategy as complete, will mean no changes can be made to the strategy i.e. no resources can be dismissed from the strategy, or no already dismissed resources can be included in the strategy. In order to do these operations on a completed strategy, one has to re-open a strategy.
+A strategy can be marked as complete only if all previous strategies are completed. This is because every complete strategy influences the savings achievable on subsequent strategies. Marking a strategy as complete will mean no changes can be made to the strategy i.e. no resources can be dismissed from the strategy, or no already dismissed resources can be included in the strategy. In order to do these operations on a completed strategy, one has to re-open a strategy.
 
 One can reopen a strategy, only if all strategies subsequent to it are open.
 
@@ -94,39 +92,39 @@ This indicates the year selection that the rest of the metrics are based on. Thi
 
 This indicates the cost at the point of optimizing all the impacted resources in the strategy.
 
-**Why is it called “Cost at point of optimization” ?**
+**Why is it called “Cost at point of optimization”?**
 
-Lets take an example of a resource which is a candidate for the Rightsizing and Cross-Region Optimization strategies. Let us assume that the cost of the resource today is 100$ a year. The cost at point of optimization of the resource on the Rightsizing strategy page will show up as 100$. However, if the resource is being recommended to be rightsized, so that the new cost of the resource is 50$, then the cost at the point of optimization of the resource on the Cross-Region Optimization strategy will show up as 50$. Cost at point of optimization takes into account all savings for the resource on previous strategies. If you want to look at the cost of the resource, Click on customize grid, and choose “Predicted Current Cost”.
+Let's take an example of a resource that is a candidate for the Rightsizing and Cross-Region Optimization strategies. Let us assume that the cost of the resource today is 100$ a year. The cost at the point of optimization of the resource on the Rightsizing strategy page will show up as 100$. However, if the resource is being recommended to be rightsized, so that the new cost of the resource is 50$, then the cost at the point of optimization of the resource on the Cross-Region Optimization strategy will show up as 50$. Cost at the point of optimization takes into account all savings for the resource on previous strategies. If you want to look at the cost of the resource, Click on Customize grid, and choose “Predicted Current Cost”.
 
-Cost at point of optimization for the strategy is the sum of the cost at point of optimization of all resources in the Impacted Resources tab of the strategy.
+Cost at the point of optimization for the strategy is the sum of the cost at the point of optimization of all resources in the Impacted Resources tab of the strategy.
 
 This is the predicted new cost of the resources in the strategy once the strategy optimizations have been applied to the resources in the strategy.
 
-This is the amount of money you can save on the resources in the Impacted resources tab of the given strategy.
+This is the amount of money you can save on the resources in the Impacted Resources tab of the given strategy.
 
-This tab shows you a list of the resources that are being recommended as a candidate for the specific strategy optimization in question. If you do not want to optimize the resource using the optimization recommend, one can dismiss the resource from the strategy. Dismissing the strategy will move the strategy into the Dismissed tab, and will not count the cost and savings from the resource towards that strategy.
+This tab shows you a list of the resources that are being recommended as a candidate for the specific strategy optimization in question. If you do not want to optimize the resource using the optimization recommendation, you can dismiss the resource from the strategy. Dismissing the strategy will move the strategy into the Dismissed tab, and will not count the cost and savings from the resource towards that strategy.
 
 ![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FtX2lBSfCr9aZEjCVGwYT%2Fimage.png?alt=media\&token=a6a69f76-d90a-4808-970e-64d8d727075d)
 
 ***
 
-**What if an impacted resource is no longer a candidate for a strategy ?**
+**What if an impacted resource is no longer a candidate for a strategy?**
 
 In such a scenario, the system will automatically remove the affected candidate from the Impacted Resources tab, and will appropriately reflect the costs and savings on the Strategy and the Overview pages.
 
-Note that if a resource is identified to not be a candidate for a strategy anymore, it will not show up in the Dismissed tab, as the resource has not been manually excluded. Such a resource will show up in the Review changes tab with Status “Removed”.
+Note that if a resource is identified as not a candidate for a strategy anymore, it will not show up in the Dismissed tab, as the resource has not been manually excluded. Such a resource will show up in the Review Changes tab with the Status “Removed”.
 
 Similarly, if a new resource is identified as a candidate for a strategy, then the resource will be automatically included in the strategy and the Impacted Resources tab.
 
 The dismissed tab shows resources that have been manually excluded from a strategy by a user. Any dismissed resource can be included back in the strategy so long as the strategy has not been marked as complete.
 
-The review changes tab is a list of all changes to resource candidates applied automatically by the system. Newly identified candidates will show up in the Review Changes tab till they are marked as reviewed as well as the Impacted Resources tab. Candidates which are no longer candidates will also show up in the Review changes tab with status “Removed”.
+The review changes tab is a list of all changes to resource candidates applied automatically by the system. Newly identified candidates will show up in the Review Changes tab till they are marked as reviewed as well as the Impacted Resources tab. Candidates who are no longer candidates will also show up in the Review Changes tab with the status “Removed”.
 
-We recommend that you review the Review changes tab every time you login, so you are aware of all recent activity within the Cloud Cost Optimization system.
+We recommend that you review the Review Changes tab every time you log in, so you are aware of all recent activity within the Cloud Cost Optimization system.
 
 ***
 
-**Advanced Filters on Impacted Resources, Dismissed and Review Changes tab**
+**Advanced Filters on Impacted Resources, Dismissed, and Review Changes tab**
 
 There are a host of filters one can use to narrow the data you are seeing on the tabs based on specific criteria. The filters available are
 
@@ -136,7 +134,7 @@ Please note that applying a filter will filter all the pages within the tab, as 
 
 **Exporting data from Cloud Cost Optimization**
 
-Each of the strategy pages enable users to export data on the grid to an excel file using the Export button on the top right of the grid.
+Each of the strategy pages enables users to export data on the grid to an Excel file using the Export button on the top right of the grid.
 
 The export button will only export the columns visible on the grid at the time of the export. However, you can customize the grid to show extra columns using the Customize button to the left of “Export”.
 
@@ -146,7 +144,7 @@ Please note that the export capability is not available on the Overview page yet
 
 #### Strategy – Orphaned Resources <a href="#strategy-orphaned-resources" id="strategy-orphaned-resources"></a>
 
-The Orphaned resources allows one to identify resources that can be shut down or decommissioned as they are not being effectively utilized.
+The Orphaned resources allow one to identify resources that can be shut down or decommissioned as they are not being effectively utilized.
 
 **Note that resources that show up in Orphaned Resources, will not show up in other strategies, as they will be shut down on completion of the Orphaned Resources strategy.**
 
@@ -154,11 +152,11 @@ No configuration is available on this strategy.
 
 This strategy is not available for AWS Cloud Cost Optimization
 
-This strategy identifies resources that can be flagged as Development or Test resources, thereby reducing overall cost on the resource.
+This strategy identifies resources that can be flagged as Development or Test resources, thereby reducing the overall cost of the resource.
 
 No configuration is available on this strategy.
 
-This strategy identifies resources that can be rightsized to a lower tier/size, thereby reducing overall cost on the resource.
+This strategy identifies resources that can be rightsized to a lower tier/size, thereby reducing the overall cost of the resource.
 
 No configuration is available on this strategy.
 
