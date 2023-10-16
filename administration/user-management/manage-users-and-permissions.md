@@ -131,7 +131,7 @@ You will see all the countries where the user can procure. Choose a country to s
 
 ### Requesting procurement settings
 
-Newly created users will not have Procurement Settings provided. Users need to be defined to transact through PyraCloud, therefore it may not be possible to enable some of the features for such users.
+Newly created users will not have Procurement Settings provided. Users need to be defined to transact through the Client Portal, therefore it may not be possible to enable some of the features for such users.
 
 You can request for these users to be configured. First, choose the **Procurement** tab and click on the **Request Procurement** option.
 

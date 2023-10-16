@@ -23,7 +23,7 @@ The Client Portal gives you a central view to quickly check your reservation's h
 <figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 1. Recent average of your reservation utilization – you can check if there is any degradation in usage. If the average utilization is going down – resources that were utilizing RIs were likely deallocated.
-2. PyraCloud keeps track of your historical purchases so you can compare values at any time. For monitoring purposes look at **Active** status only.
+2. The Client Portal keeps track of your historical purchases so you can compare values at any time. For monitoring purposes look at **Active** status only.
 3. If you want to keep the reservation list for your internal records, you can export it to an XLS file.
 
 ***
@@ -77,13 +77,13 @@ If you want to receive an email or SMS, be sure to verify your subscription in t
 
 #### Why reservation utilization is not showing for my Azure Simple tenant <a href="#why-reservation-utilization-is-not-showing-for-my-azure-simple-tenant" id="why-reservation-utilization-is-not-showing-for-my-azure-simple-tenant"></a>
 
-When a Microsoft tenant has conditional access policies enabled and is moved to a SoftwareOne partner account, PyraCloud automated onboarding may not be able to integrate correctly.
+When a Microsoft tenant has conditional access policies enabled and is moved to a SoftwareOne partner account, the Client Portal automated onboarding may not be able to integrate correctly.
 
-For PyraCloud to work, the customer must manually configure their tenant so that PyraCloud can access it. Follow these steps to onboard PyraCloud.
+For the Client Portal to work, the customer must manually configure their tenant so that the Client Portal can access it. Follow these steps to onboard the Client Portal.
 
 **Create the “PyraCloud (Azure)” Enterprise Application**
 
-The first step is to perform consent. PyraCloud uses an Enterprise Application to access the customer tenant.
+The first step is to perform consent. The Client Portal uses an Enterprise Application to access the customer tenant.
 
 Important:
 
@@ -104,11 +104,9 @@ The “PyraCloud (Azure)” application should be visible in the list. If it is 
 
 **Assign IAM Roles to the “PyraCloud (Azure)” Enterprise Application**
 
-PyraCloud requires the following roles in each Azure subscription being activated:
+the Client Portal requires the following roles in each Azure subscription being activated:
 
-* **Reader**: This role allows PyraCloud to import resources from your Azure subscription into PyraCloud. You can then manage these resources and tag them in the Tags and Resources features.
-* **Tag Contributor**: This role is required to synchronize tags to and from your Azure subscription. PyraCloud will only synchronize tags back to your Azure subscription if you select write-back of tags in Cloud Tenant Setup. The default setting is read-only.
+* **Reader**: This role allows the Client Portal to import resources from your Azure subscription into the Client Portal. You can then manage these resources and tag them in the Tags and Resources features.
+* **Tag Contributor**: This role is required to synchronize tags to and from your Azure subscription. The Client Portal will only synchronize tags back to your Azure subscription if you select write-back of tags in Cloud Tenant Setup. The default setting is read-only.
 
-For assigning roles to subscriptions, see Grant Access to PyraCloud with Azure Management Groups.
-
-Once completed, during the next scheduled synchronization, PyraCloud will be able to pull reservation utilization data.
+Once completed, during the next scheduled synchronization, the Client Portal will be able to pull reservation utilization data.

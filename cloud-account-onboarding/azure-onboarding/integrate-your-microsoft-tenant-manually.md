@@ -39,11 +39,11 @@ The Tag Contributor and Reader roles allow the Client Portal to read a list of a
 3. Provide the Group ID and a display name for your group. Select **Submit**. The new group will be created and displayed under the Tenant Root Group.
 4. Select the newly created management group and then from the left sidebar, select **Access Control (IAM)**.
 5. Navigate to **Role assignments** and select **Add > Add role assignment** from the dropdown.
-6. Assign the Reader role to PyraCloud:
+6. Assign the Reader role to the Client Portal:
    1. Choose **Reader** from the list of roles and select **Next**.
    2. On the **Members** tab, click on **Select Members,** and then in the **Search** box, type **PyraCloud**.
    3. From the search results, choose **PyraCloud (Azure)** for Azure or **PyraCloud (Office 365)** for Office 365. Select **Save**.
-7. Assign the Tag Contributor role to PyraCloud:
+7. Assign the Tag Contributor role to the Client Portal:
    1. Choose **Tag Contributor** from the list of roles. Select **Next**.
    2. On the **Members** tab, click on **Select Members,** and then in the **Search** box, type **PyraCloud**.
    3. From the search results, choose **PyraCloud (Azure)** for Azure or **PyraCloud (Office 365)** for Office 365. Select **Save**.
@@ -58,7 +58,7 @@ The new roles will be displayed on the page.
 After you’ve completed the integration steps, provide the following details so that we can complete the onboarding of your tenant:
 
 * Your Microsoft Tenant ID (or domain).
-* A friendly name for your tenant to recognize easily across PyraCloud.
+* A friendly name for your tenant to recognize easily across the Client Portal.
 * The start and end date of your Enterprise Agreement.
 
 After we’ve added your tenant, you will also need to provide an access token from the EA Portal. For information on how to provide an access token, see Add an Access Token.
@@ -69,9 +69,9 @@ After we’ve added your tenant, you will also need to provide an access token f
 
 The Reader role is mandatory for all consumption modules including Reporting, Budgeting, Resources, and Tag Management.
 
-The Tag Contributor role is required for PyraCloud to write back resource tagging information to the publisher (Azure). It is recommended to grant such a role to have consistent resource tag representation between Azure and PyraCloud. However, the Tag Contributor role can be revoked and PyraCloud will use Virtual Tags that will be visible only in the PyraCloud module
+The Tag Contributor role is required for the Client Portal to write back resource tagging information to the publisher (Azure). It is recommended to grant such a role to have consistent resource tag representation between Azure and the Client Portal. However, the Tag Contributor role can be revoked and the Client Portal will use Virtual Tags that will be visible only in the module.
 
-However, the Tag Contributor role can be revoked and PyraCloud will use Virtual Tags that will be visible only in the PyraCloud module.
+However, the Tag Contributor role can be revoked and the Client Portal will use Virtual Tags that will be visible only in the module.
 
 **To remove the Tag Contributor role**
 

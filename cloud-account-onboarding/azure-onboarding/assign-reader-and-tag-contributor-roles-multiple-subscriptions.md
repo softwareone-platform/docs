@@ -65,7 +65,7 @@ The following table explains these commands:
 * Ensure that you've [onboarded your tenant](activate-an-azure-ea-or-mpsa-account.md).
 * Ensure that have the correct permissions to manage access to all Azure subscriptions and management groups in your tenant. For instructions, see [Elevate access to manage all Azure subscriptions and management groups](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin) in the Microsoft documentation.&#x20;
 
-**To grant access to PyraCloud**
+**To grant access to the Client Portal/PyraCloud**
 
 1. Launch the [Azure Portal](https://portal.azure.com/#home) and search for **Management groups**.
 2. On the **Management groups** page, select **Tenant Root Group**.
@@ -80,7 +80,7 @@ The following table explains these commands:
    1. Choose **Reader** from the list of roles.
    2. In **Select,** type **Pyra** and select **PyraCloud (Azure)** from the search results.&#x20;
    3. Select **Save**.
-6. In Add Role Assignment, assign the Tag Contributor role to PyraCloud:
+6. In Add Role Assignment, assign the Tag Contributor role to the Client Portal/PyraCloud:
    1. Choose **Tag Contributor** from the list of roles.
    2. In **Select,** type **Pyra** and select **PyraCloud (Azure)** from the search results.&#x20;
    3. Select **Save**.

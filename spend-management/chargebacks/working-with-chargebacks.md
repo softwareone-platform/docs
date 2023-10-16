@@ -10,7 +10,7 @@ description: Learn about the access levels and settings, and create new chargeba
 
 Chargebacks have two access levels:
 
-* **User Level**: Users with this access level will only be able to see the Chargebacks tab. The Add New Chargebacks page will not be available to users who have “User Level Access”. User Level Access is for users who need to view chargebacks but do not have permission to create chargebacks. These users can then access the document details in order to analyze the charges using PyraCloud’s Consumption module. This will give users detailed information on the relevant chargeback
+* **User Level**: Users with this access level will only be able to see the Chargebacks tab. The Add New Chargebacks page will not be available to users who have “User Level Access”. User Level Access is for users who need to view chargebacks but do not have permission to create chargebacks. These users can then access the document details in order to analyze the charges using the Consumption module. This will give users detailed information on the relevant chargeback
 * **Admin Level**: Users with this access level will be able to see both the Chargeback tab as well as the Add New Chargebacks tab. Admins can view, create, modify, and delete chargebacks.
 
 {% hint style="info" %}
@@ -145,7 +145,7 @@ The Chargebacks page has an “Actions” panel on the right side, which will al
 <figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**NOTE:** Delete Chargeback option is only available for users with an “Admin Access Level”. In most cases, it is the owner of the chargeback invoice i.e. the user who has generated the invoice. Analyze Spend Report is a drop-down wherein users can select the required providers. This will redirect users to the PyraCloud Consumption Module for the selected provider.
+**NOTE:** Delete Chargeback option is only available for users with an “Admin Access Level”. In most cases, it is the owner of the chargeback invoice i.e. the user who has generated the invoice. Analyze Spend Report is a drop-down wherein users can select the required providers. This will redirect users to the Consumption Module for the selected provider.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
@@ -175,7 +175,7 @@ The first section is “Providers”. This represents a list of all available an
 Admins need to select all of the providers they want to create chargeback invoices for. By selecting a provider, the system fetches consumption data for every tenant that is enabled under that provider.
 
 {% hint style="info" %}
-**NOTE**: We currently support five providers (AWS, Azure EA, Azure, CSP, Office 365, and Adobe). This section will only show those providers that the customer has subscriptions with, and are supported by PyraCloud. Customers must be migrated to the new consumption module as the data is pulled from this module. Customers using the Old Azure EA Module must first upgrade to the new consumption module. Your Account Team can help you with this request. At least one provider has to be selected to create a chargeback invoice
+**NOTE**: We currently support five providers (AWS, Azure EA, Azure, CSP, Office 365, and Adobe). This section will only show those providers that the customer has subscriptions with, and are supported. Customers must be migrated to the new consumption module as the data is pulled from this module. Customers using the Old Azure EA Module must first upgrade to the new consumption module. Your Account Team can help you with this request. At least one provider has to be selected to create a chargeback invoice
 {% endhint %}
 
 Once providers have been selected, select **Done** to navigate to the next section **Date Range.**
@@ -197,12 +197,12 @@ Once the date range has been selected, click on “Done” to navigate to the ne
 
 Newly selected consumption spend (by selecting providers and date range) may be optionally divided in two ways:
 
-* Using Custom Group structure
+* Using a Custom Group structure
 * Using Tenants & Subscriptions hierarchy
 
 **Split by Custom Groups**
 
-The Custom Groups section shows group structure as defined in PyraCloud Custom Groups. This allows Admins to select departments/groups they would like chargebacks for.
+The Custom Groups section shows the group structure as defined in Custom Groups. This allows Admins to select departments/groups they would like chargebacks for.
 
 <figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 

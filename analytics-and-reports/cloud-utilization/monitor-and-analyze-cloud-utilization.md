@@ -105,4 +105,4 @@ To fix this:
 
 If you are using AWS Organizations, repeat these steps for all linked accounts.
 
-Utilization synchronizes data every hour, so your utilization metrics will be synchronized with PyraCloud during the next sync.
+Utilization synchronizes data every hour, so your utilization metrics will be synchronized with the Client Portal/PyraCloud during the next sync.
