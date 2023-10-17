@@ -145,7 +145,7 @@ By default, the Client Portal expects the following attributes from ADFS via the
 
 | LDAP Attribute      | Outgoing Claim Type | Namespace                                                            |
 | ------------------- | ------------------- | -------------------------------------------------------------------- |
-| E-Mail-Addresses    | E-Mail Address      | ttp://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress    |
+| E-Mail-Addresses    | E-Mail Address      | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress   |
 | Display-Name        | Name                | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name           |
 | User-Principal-Name | Name ID             | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier |
 | Given-Name          | Given Name          | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname      |
