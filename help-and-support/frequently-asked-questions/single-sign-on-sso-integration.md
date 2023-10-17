@@ -59,7 +59,7 @@ URLs are sometimes changed by security software, for example, Proofpoint’s Tar
 
 ## Setting up SSO with Azure AD <a href="#azure-a-d" id="azure-a-d"></a>
 
-### **Setup Process**
+### **Setup process**
 
 1. The customer registers the Client Portal as an application inside their Azure subscription.
 2. The customer creates a client secret for this application that can then be used by SoftwareOne to interact with the user's Azure subscription on behalf of the created application.
@@ -112,7 +112,7 @@ The Client Portal queries the following basic profile attributes from Azure AD:
 
 ## Setting up SSO with ADFS <a href="#adfs" id="adfs"></a>
 
-### **Setup Process**
+### **Setup process**
 
 1. The customer configures their ADFS server according to technical requirements.
 2. The customer provides ADFS Metadata/IdP domains to SoftwareOne.
@@ -155,7 +155,7 @@ By default, the Client Portal expects the following attributes from ADFS via the
 
 ## Setting up SSO with PingFederate <a href="#ping-federate" id="ping-federate"></a>
 
-### **Setup Process**
+### **Setup process**
 
 1. The customer provides Signing Certificates/IdP domains to SoftwareOne.
 2. SoftwareOne will complete the SSO setup.
