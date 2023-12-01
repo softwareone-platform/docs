@@ -82,21 +82,24 @@ Depending on your chosen report schedule, the **Scheduled Reports** page or the 
 
 The **Scheduled Reports** page displays the scheduled report configurations and allows you to edit, run, pause, resume, preview, and delete reports. Note that you must have the `SCHEDULED_REPORTING` permission to access this tab.&#x20;
 
-| Column          | Description                                                                                                                                                                                                        |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Name            | Name of the report.                                                                                                                                                                                                |
-| Frequency       | Indicates if this is a **Daily**, **Weekly,** or **Monthly** report. **Off** means that recurrence for the report is not yet defined (this is only possible when the report has been created using old reporting). |
-| Status          | Indicates whether the report generation is turned on (**Running**) or generation has been paused (**Paused**).                                                                                                     |
-| Delivery Method | Indicates how generated reports will be delivered.                                                                                                                                                                 |
-| Next Report     | The time of next report generation.                                                                                                                                                                                |
-| Last Report     | The last report generation time (in the local time zone).                                                                                                                                                          |
-| Last Modified   | The date and time of the last update of the report configuration (in the local time zone).                                                                                                                         |
-| Created         | The date and time of the report configuration creation (in the local time zone).                                                                                                                                   |
-| Group and Type  | The group and type of the report.                                                                                                                                                                                  |
-| Render type     | The format of the report.                                                                                                                                                                                          |
-| Recipients­     | The list of email recipients (for **Email** delivery method only).                                                                                                                                                 |
-| Template        | Indicates if any template has been selected for the report.                                                                                                                                                        |
-| Actions         | The list of actions for the report.                                                                                                                                                                                |
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+| Column         | Description                                                                                                                                                                                                        |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Name           | The name of the report.                                                                                                                                                                                            |
+| Frequency      | Indicates if this is a **Daily**, **Weekly,** or **Monthly** report. **Off** means that recurrence for the report is not yet defined (this is only possible when the report has been created using old reporting). |
+| Status         | Indicates whether the report generation is turned on (**Running**) or generation has been paused (**Paused**).                                                                                                     |
+| Delivery       | Indicates how generated reports will be delivered.                                                                                                                                                                 |
+| Last Report    | The last report generation time (in the local time zone).                                                                                                                                                          |
+| Created        | The date and time of the report configuration creation (in the local time zone).                                                                                                                                   |
+| Next Report    | The time of next report generation.                                                                                                                                                                                |
+| Last Modified  | The date and time of the last update of the report configuration (in the local time zone).                                                                                                                         |
+| Created        | The date and time of the report configuration creation (in the local time zone).                                                                                                                                   |
+| Group and Type | The group and type of the report.                                                                                                                                                                                  |
+| Render type    | The format of the report.                                                                                                                                                                                          |
+| Recipients­    | The list of email recipients (for **Email** delivery method only).                                                                                                                                                 |
+| Template       | Indicates if any template has been selected for the report.                                                                                                                                                        |
+| Actions        | The list of actions for the report.                                                                                                                                                                                |
 
 ### Updating reports <a href="#post-988-_ref38824725" id="post-988-_ref38824725"></a>
 
@@ -120,15 +123,13 @@ You can pause or resume a scheduled report.
 
 To pause or resume a report, select the ellipses ( ••• ) and select **Pause** (to pause the generating report) or **Resume** (to re-activate the paused report).
 
-![](<../../.gitbook/assets/image (200).png>)
-
 ***
 
 ### Deleting reports <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
 
 You can delete a scheduled report. Note that deleted reports cannot be recovered.&#x20;
 
-Removing the scheduled report configuration does not remove reports that have already been generated (which can be found in Reports History).
+Removing the scheduled report configuration doesn't remove reports that are already generated.
 
 **To delete a report**
 
@@ -206,7 +207,7 @@ You can create a new template when you are creating a report. Note that only som
    * To change a column position, drag the column to the desired position. You can move columns between groups.
    * To move all columns from one group to another, drag the entire group to an unfolded group.
    * To override a column’s value, enter a new value in the **Override value.**
-   * To duplicate or delete a column, select (**…**) in the **Actions** column and then choose **Duplicate** or **Delete**.
+   * To duplicate or delete a column, select ( ••• ) in the **Actions** column and choose **Duplicate** or **Delete**.
 4. Provide the **Template Name** and choose whether the template is **Personal** (only you can see or edit it) or **Shared** (anyone in your company can see or edit it).
 5. Select **Save as new template**.
 
@@ -215,7 +216,7 @@ You can create a new template when you are creating a report. Note that only som
 | Column           | Descriptions                                                                                                                                                                                                        |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Order            | The position of the column in the report.                                                                                                                                                                           |
-| Name             | <p>The default name of the column (as it will be shown in the generated report if the Name override is empty). </p><p></p><p>To override a column’s name, provide a new name in <strong>Name override.</strong></p> |
+| Name             | <p>The default name of the column (as it will be shown in the generated report if the Name override is empty). </p><p></p><p>To override a column’s name, provide a new name in <strong>Name override</strong>.</p> |
 | Name override    | The column name that will be visible in a report. If blank, the column name from Name will be used.                                                                                                                 |
 | Override value   | The value that will be visible in a report for the column. If blank, then generated data will be used.                                                                                                              |
 | Value when blank | The value that will be visible in a report if there is no data for the column.                                                                                                                                      |
