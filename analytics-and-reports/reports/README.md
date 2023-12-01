@@ -1,136 +1,237 @@
 ---
-description: You can use the Reports module to create and view various reports.
+description: >-
+  You can use Reports to gain valuable insights on your software asset
+  inventory, resource utilization, cloud consumption, renewals, and more.
 ---
 
-# Working with reports
+# Reports
 
-Using the Reports module, you can create single-run as well as recurring scheduled reports. You can also edit the existing Scheduled report configurations.&#x20;
+Through the **Reports** feature (**Analyze** > **Reports**), you can create reports and download your generated report files. You can also:
 
-The Reports module supports the latest stable versions of the most popular browsers (desktop only), including Chrome, Edge, and Firefox. On-Page reporting (together with old reporting) is supported for Punchout users.
+* Run and publish reports only once.
+* Schedule reports daily, weekly, or monthly.
+* Modify report configuration and existing schedule.&#x20;
+* Delete reports.
+* Pause or resume scheduled reports.
+* View, search, and share reports.
+* Create custom report templates.
 
-***
-
-### Accessing reports
-
-Access to the Reports module depends on your user permissions and job role. In addition, each report type has its own specific permission. Reports are generated with their creators’ permission.
-
-**To access your reports**
-
-* From the main menu, navigate to **Analyze** and select **Reports**.
+You can create and access various types of reports within the Client Portal. Access to the **Reports** feature depends on your user permissions and role. Additionally, each report type has specific permissions, and reports are generated with their owner's permission.
 
 ***
 
-### Creating a new report  <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
+## About Quick Reports <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
-**To create a new report**
+The **Quick Reports** page displays all report options that are available to you and allows you to quickly create a new report based on predefined filters. Note that by default, all quick reports are created as Run Once only.
 
-1. On the Reports page, select **Create New Report**.
-2. Select the type and output format of the report. Available report types depend on your permissions. There are a large number of report types, which are grouped into business areas. To select a report type, first select **Group** and then **Type**.
-3. Choose the filters. Filters allow you to restrict the data that appear in a report (the date range for data can be set in the Date Range step). Available filters depend on the selected report type. Common filters:
-   * SoftwareOne Company: Allows you to restrict data in a report to only selected SoftwareOne companies. This is a multi-select field. If none are selected, then data for all SoftwareOne companies will be included.
-   * Also include countries added in the future: When selected, any new countries added in the future will be automatically added to the report.
-   * Companies: Allows you to restrict data in a report to selected companies. Users can select multiple companies. If none are selected, then data for all companies will be included.
-   * Also include companies added in the future: When selected, any new companies added in the future will be automatically added to the report
+### Creating a quick report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
-To set additional filters (related to dates and number formatting, and also whether empty reports shall be generated) click **Show more formatting options** (only available for some report types).
+**To create a quick report**
 
-* Date Format: Select your preferred date format for reports generated. By default, the regional format settings defined in **My Profile** are selected (not applicable to PDF reports)
-* Decimal Separator: Allows you to select a separator for decimal numbers (not applicable to PDF nor JSON reports)
-* Report Contains No Data: If a generated report is empty, you can decide if the report should be delivered.
+1. From the main menu, navigate to **Analyze** > **Reports.**
+2. On the **Quick Reports** tab, navigate to the report group and choose the reporting template from the menu.&#x20;
+3. Select **Create**. The Create Quick Report page opens.&#x20;
+4. Review the report summary, name, and delivery method. Note that you can adjust the details and apply filters as needed.
+5. Select **Finish**. Your report is created and a confirmation message is displayed.
 
-5. Choose the report schedule.
-6. Select the date range for the data in the report.
-7. Create a new template or select an existing one (if the report type supports templates). If no template is selected, a default template with all visible columns for that given report type will be applied. If there are existing templates for the report type, you can find them under **Saved Templates.**&#x20;
-8. Provide a unique **Report Name** and choose the report delivery method.
-9. Select **Finish**.&#x20;
+Watch this video tutorial on how to create a Software Asset Inventory quick report:
 
-You'll be redirected to Scheduled Reports (if a Scheduled report was created) or to Reports History (if a Run Once report was created). Run Once reports are triggered immediately.
+{% embed url="https://vimeo.com/889172885" %}
 
 ***
 
-### Creating a template
+### Creating new reports <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
-Select **Edit Default Columns** to start creating a template (if there are already existing templates for the report type, the option is under **Saved Templates**).
+In addition to Quick Reports, you can also create custom reports with your choice of filters, report format, schedule, and other options.&#x20;
 
-You can apply all required modifications and click **Save as new template** to save it. In the opened dialog window, enter the **Template Name** and select whether the template shall be **Personal** (only the user can see or edit it) or **Shared** (anyone in the user’s entire company can see or edit it), and select **Save as new template.**
+**To create a custom report**
 
-Columns and their default grouping depend on the selected report type (not all templates utilize grouping of columns). Column grouping is applied in the template editor to facilitate its creation (column grouping is not visible in generated reports). To unfold or fold a group, click on the group name.
+1. From the main menu, navigate to **Analyze** > **Reports** and select **Create New Report**.
+2. Choose the **Group**, **Type**, and **Format** of your report.
+3. Choose the filters and select **Next**. To set additional filters (related to dates and number formatting), select **Show more formatting options**.
 
-<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<details>
+
+<summary>Learn about report filters</summary>
+
+Filters allow you to restrict the data that appears in a report. The list of available filters depends on the selected report type. The following are the common filters:
+
+* **SoftwareOne Company**: Allows you to restrict data in a report to only selected SoftwareOne companies. This is a multi-select field. If none is selected, the data for all SoftwareOne companies is included.
+* **Also include countries added in the future**: When selected, any new countries added in the future will be automatically added to the report.
+* **Companies**: Allows you to restrict data in a report to selected companies. Users can select multiple companies. If none are selected, then data for all companies will be included.
+* **Also include companies added in the future**: When selected, any new companies added in the future will be automatically added to the report.
+
+</details>
+
+4. Choose the report schedule. You can run the report once, daily, weekly, or monthly.
+5. Select the date range for the data you want to include in the report.
+6. Select an existing template from **Saved Templates** or create a new template.&#x20;
+
+{% hint style="info" %}
+This option is displayed only if the report supports templates. If the report supports templates, but you choose not to apply a template, the system will use the default template.
+{% endhint %}
+
+7. Provide a unique **Report Name** and choose the report delivery method.
+8. Select **Finish**. A confirmation message is displayed.&#x20;
+
+Depending on your chosen report schedule, the **Scheduled Reports** page or the **Reports History** page is displayed. Note that all Run Once reports are triggered immediately.
+
+***
+
+## About Scheduled Reports
+
+The **Scheduled Reports** page displays the scheduled report configurations and allows you to edit, run, pause, resume, preview, and delete reports. Note that you must have the `SCHEDULED_REPORTING` permission to access this tab.&#x20;
+
+| Column          | Description                                                                                                                                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Name            | Name of the report.                                                                                                                                                                                                |
+| Frequency       | Indicates if this is a **Daily**, **Weekly,** or **Monthly** report. **Off** means that recurrence for the report is not yet defined (this is only possible when the report has been created using old reporting). |
+| Status          | Indicates whether the report generation is turned on (**Running**) or generation has been paused (**Paused**).                                                                                                     |
+| Delivery Method | Indicates how generated reports will be delivered.                                                                                                                                                                 |
+| Next Report     | The time of next report generation.                                                                                                                                                                                |
+| Last Report     | The last report generation time (in the local time zone).                                                                                                                                                          |
+| Last Modified   | The date and time of the last update of the report configuration (in the local time zone).                                                                                                                         |
+| Created         | The date and time of the report configuration creation (in the local time zone).                                                                                                                                   |
+| Group and Type  | The group and type of the report.                                                                                                                                                                                  |
+| Render type     | The format of the report.                                                                                                                                                                                          |
+| Recipients­     | The list of email recipients (for **Email** delivery method only).                                                                                                                                                 |
+| Template        | Indicates if any template has been selected for the report.                                                                                                                                                        |
+| Actions         | The list of actions for the report.                                                                                                                                                                                |
+
+### Updating reports <a href="#post-988-_ref38824725" id="post-988-_ref38824725"></a>
+
+You can update the configuration of a scheduled report, except the report group and the type of report.&#x20;
+
+To update a report, select the ellipses ( ••• ) in the **Actions** column and select **Edit**.
+
+***
+
+### Running reports <a href="#post-988-_toc51828560" id="post-988-_toc51828560"></a>
+
+You can trigger scheduled reports at any time. After a report is generated, it downloads automatically and is available on the **History** tab. Note that triggering a report manually doesn’t impact its next generation time (nor will it update its last execution time in the **Last Report**).
+
+To run a report, select **Download** in the **Actions** column.
+
+***
+
+### Pausing or resuming scheduled reports <a href="#post-988-_ref38458440" id="post-988-_ref38458440"></a>
+
+You can pause or resume a scheduled report.
+
+To pause or resume a report, select the ellipses ( ••• ) and select **Pause** (to pause the generating report) or **Resume** (to re-activate the paused report).
+
+![](<../../.gitbook/assets/image (200).png>)
+
+***
+
+### Deleting reports <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
+
+You can delete a scheduled report. Note that deleted reports cannot be recovered.&#x20;
+
+Removing the scheduled report configuration does not remove reports that have already been generated (which can be found in Reports History).
+
+**To delete a report**
+
+1. Select the ellipses ( ••• ) in the **Actions** column and choose **Delete.**&#x20;
+2. Confirm that you want to delete the report.&#x20;
+
+***
+
+## About Report history <a href="#post-988-_toc51828563" id="post-988-_toc51828563"></a>
+
+The **History** tab displays your generated reports (scheduled and run once). You can also download, send, delete, or edit a report.
+
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+
+| Column          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Report Name     | The name of the report.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Report Type     | The output format of the report                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Time Requested  | The approximate time when the report has been requested                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Scheduled       | The information whether it is **Scheduled** or **Run Once** report.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Status          | <p>The status of the report:</p><ul><li><strong>Queued</strong>: The report is queued for creation.</li><li><strong>Processing</strong>: The report is being generated.</li><li><strong>Ready</strong>: The report has been generated and can be downloaded.</li><li><strong>Report Ready - SFTP Failed</strong>: The report has been generated but there was an issue when sending it to the configured SFTP server. You can manually download the report and send it to an SFTP.</li><li><strong>No Data</strong>: The generated report contains no data.</li><li><strong>Error</strong>: There was an unexpected error during the report generation.</li><li><strong>Error – Bad Configuration</strong>: There was an error in the report configuration. </li><li><strong>No permissions</strong>: The report couldn’t be generated because the user no longer has permissions.</li></ul> |
+| File Name       | The file name of the report (visible only for generated reports).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| File Size       | The size of the generated report file (visible only for generated reports).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Recipients      | The list of recipients for the **Email** delivery method only.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Actions         | The list of actions for reports.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+***
+
+### Editing report name <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
+
+You can only update the name of a generated report and file name. Updating a generated report name does not change the scheduled report name based on which the report has been generated.
+
+**To update a report or file name**
+
+1. Select the ellipses ( ••• ) in the **Actions** column and select **Edit.**
+2. Update the file name and report name as needed.
+3. Select **Update**.
+
+***
+
+### Emailing reports <a href="#post-988-_toc51828566" id="post-988-_toc51828566"></a>
+
+If a report’s size is bigger than 25 MB, it will be always sent as a link only. To download a report from the link, the email recipients must have access to the report in the Client Portal.
+
+**To send a report via email**
+
+1. Select the ellipses ( ••• ) in the **Actions** column and select **Email**.
+2. Provide the email addresses (separated by semicolon) and choose if you want to send the report as an **Attachment** or **Link**.&#x20;
+3. Select **Send**.
+
+***
+
+### Sending reports to an SFTP server <a href="#post-988-_ref51684117" id="post-988-_ref51684117"></a>
+
+You can send a report directly to a secure FTP server. If needed, you can also add a new SFTP configuration or edit an existing one.&#x20;
+
+**To send a report to an SFTP**
+
+1. Select the ellipses ( ••• ) in the **Actions** column and select **SFTP**.&#x20;
+2. Select an SFTP server from the list and choose **Use Selected Server**.
+
+***
+
+## About Templates
+
+### Creating report templates
+
+You can create a new template when you are creating a report. Note that only some reports support templates.&#x20;
+
+**To create a template**
+
+1. On the **Reports** page, select **Create new report**.
+2. On the Template page, select **Saved Templates** > **Edit Default Columns**.&#x20;
+3. Make changes as needed and select **Save as new template**.&#x20;
+   * To change a column position, drag the column to the desired position. You can move columns between groups.
+   * To move all columns from one group to another, drag the entire group to an unfolded group.
+   * To override a column’s value, enter a new value in the **Override value.**
+   * To duplicate or delete a column, select (**…**) in the **Actions** column and then choose **Duplicate** or **Delete**.
+4. Provide the **Template Name** and choose whether the template is **Personal** (only you can see or edit it) or **Shared** (anyone in your company can see or edit it).
+5. Select **Save as new template**.
 
 **Column Descriptions**
 
-* Order – position of the column in the report
-* Name – default name of the column (as it will be shown in the generated report if Name override is empty)
-* Name override – column name that will be visible in a report (if blank, then column name from Name will be used)
-* Override value – value that will be visible in a report for the column. If left blank, then generated data will be used
-* Value when blank – value that will be visible in a report if there is no data for the column
-* Max text length – the maximum number of characters for the field. Blank means no limitation
-* Actions – list of actions for a column
+| Column           | Descriptions                                                                                                                                                                                                        |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Order            | The position of the column in the report.                                                                                                                                                                           |
+| Name             | <p>The default name of the column (as it will be shown in the generated report if the Name override is empty). </p><p></p><p>To override a column’s name, provide a new name in <strong>Name override.</strong></p> |
+| Name override    | The column name that will be visible in a report. If blank, the column name from Name will be used.                                                                                                                 |
+| Override value   | The value that will be visible in a report for the column. If blank, then generated data will be used.                                                                                                              |
+| Value when blank | The value that will be visible in a report if there is no data for the column.                                                                                                                                      |
+| Max text length  | The maximum number of characters for the field. Blank means no limitation.                                                                                                                                          |
+| Actions          | The list of actions for a column.                                                                                                                                                                                   |
 
-**Find in Columns**
+### Updating a template <a href="#post-4285-_toc51828553" id="post-4285-_toc51828553"></a>
 
-To search columns, start typing in the **Search Columns** field (a list of matching column names will be suggested). Matches will be highlighted and you will also see the number of results calculated. To navigate to the first match, click **Go to first match**.
+You can edit all templates, except the default template.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
-
-**Change the Order of Columns (and groups)**
-
-To change a column position, drag and drop the column name into the desired position. Columns can be moved between groups. To move all columns from one group to another, drag and drop a folded group into an unfolded one.
-
-You can re-order groups in the same way (only if they are folded). It is also possible to enter a new index for a column – the column will be automatically located in the new position.
-
-**Change a Column Name**
-
-By default, the name from the **Name** column will be visible in the generated report.
-
-To override a column’s name, type a new name in **Name override.**
-
-**Override Value**
-
-By default, data generated by the reporting engine will be visible in the generated report.
-
-To override a column’s value, enter a new value in the **Override value.**
-
-**Set Value when Blank**
-
-To override a blank value column in a generated report, enter a new value in the **Override value.**
-
-**Limit Length of Column**
-
-To limit the maximum length of characters in a column, you can type a number in **Max text length**.
-
-**Duplicating a Column**
-
-You can duplicate an existing column, and then, for example, change its name or override values.
-
-* To duplicate a column click (**…**) in the **Actions** column and then click **Duplicate**. A new column will be added just below the original one.
-* To delete a duplicated column, click (**…**) in the **Actions** column and click **Delete**.
-
-**Automatically include or exclude new columns**
-
-In the future, additional columns may be added to the report type. You can decide if these columns should be automatically added to the template (and thus to generated reports). New columns will be added at the end. This option is switched on for the default template.
-
-To automatically include new columns, check **Yes, automatically include new columns**.
-
-<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
-
-#### Updating a template <a href="#post-4285-_toc51828553" id="post-4285-_toc51828553"></a>
-
-To update a template, first select it, then click on the template name and click **Edit**. Note that you cannot edit the default and universal templates.
+To update a template, select the template and choose **Edit**.
 
 <figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
-#### Deleting a template <a href="#post-4285-_toc51828554" id="post-4285-_toc51828554"></a>
+### Deleting a template <a href="#post-4285-_toc51828554" id="post-4285-_toc51828554"></a>
 
-To delete a template, select it and click **Delete.**&#x20;
+You can only delete templates that are not used in other reports. Note that the deleted templates cannot be recovered. Removing a template doesn’t impact already generated reports.
 
-In the confirmation dialog, click **Delete template** (templates that are being used in other reports’ configurations can’t be deleted). Deleted templates can’t be recovered. Removing a template doesn’t impact already generated reports.
-
-#### Request additional fields <a href="#post-4285-_toc51828555" id="post-4285-_toc51828555"></a>
-
-You can request additional fields for a report type. To send a request for additional fields, start editing or creating a new template, then click (**…**) next to **Cancel** and then click **Request Additional Fields**.
-
-<figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
-
-Fill in the fields and select **Request Additional Fields**.
+To delete a template, select the template and then choose **Delete**.&#x20;

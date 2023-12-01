@@ -86,7 +86,6 @@
   * [Customized Spend Reports](analytics-and-reports/reports/customized-spend-reports.md)
   * [Microsoft Services Provider License Agreement (SPLA) Report](analytics-and-reports/reports/microsoft-services-provider-license-agreement-spla-report.md)
   * [Office365 Spend Report](analytics-and-reports/reports/office365-spend-report.md)
-  * [Software Transaction Reports](analytics-and-reports/reports/software-transaction-reports.md)
   * [Spend Reports - Consumption Overview](analytics-and-reports/reports/spend-reports-consumption-overview.md)
   * [ServiceNow Asset Report](analytics-and-reports/reports/servicenow-asset-report.md)
   * [USU License Agreement Report](analytics-and-reports/reports/usu-license-agreement-report.md)

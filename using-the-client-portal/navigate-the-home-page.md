@@ -4,7 +4,9 @@ description: Find information on how to navigate the Client Portal.
 
 # Client Portal Interface
 
-The Client Portal provides an easy-to-use experience that allows you to discover and access the modules. The portal's layout consists of three sections: a horizontal header bar, the main content area, and a footer.
+The Client Portal provides an easy-to-use experience that allows you to discover and access the modules. The portal's layout consists of three sections: a horizontal header bar, the main content area, and a footer.&#x20;
+
+[Watch this video to learn about the Client Portal navigation.](https://vimeo.com/889170042)
 
 ***
 
@@ -41,6 +43,7 @@ You can use this menu to:
 * Access the [Collaboration Site](../administration/collaboration-site/) to store and share large files.
 * View your company contacts.
 * View or edit your company structure.&#x20;
+* View global account and procurement settings via **My Profile**.
 * Sign out of your account.
 
 ***
