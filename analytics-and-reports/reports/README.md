@@ -6,7 +6,7 @@ description: >-
 
 # Reports
 
-hrough the **Reports** feature (**Analyze** > **Reports**), you can create reports and download your generated report files. You can also:
+Through the **Reports** feature (**Analyze** > **Reports**), you can create reports and download your generated report files. You can also:
 
 * Run and publish reports only once.
 * Schedule reports daily, weekly, or monthly.
