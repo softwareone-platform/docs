@@ -1,6 +1,6 @@
 ---
 description: >-
-  You can use the Procurement Workbench module to manage and view your software
+  You can use Procurement Workbench to manage and view your software
   transactions.
 layout:
   title:
@@ -19,17 +19,13 @@ layout:
 
 ***
 
-**To access Procurement Workbench**
-
-* In the main menu, navigate to **Marketplace** and select **Procurement Workbench**.
-
-### Navigating the Procurement Workbench UI
-
-The Procurement Workbench page contains various sections.
+On the Procurement Workbench page, you will find different sections that enable you to purchase products, view your transactions, and check your purchase history. Additionally, you can get an overview of your transactions and see the necessary actions you need to take. This topic provides a detailed explanation of each of these sections.
 
 <figure><img src="../../.gitbook/assets/image (72) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Transaction Status and Actions
+
+The Transaction Status and Actions section contains the following information:
 
 * **Open Product Requests**: Allows you to view special quotes that are open. When a special quote is complete, it's no longer displayed in this section. You can also use this tab to request a new quote by selecting **Request Special Quote**. For information on how to create a special quote, see [Using Special Quotes to Request Prices](../quotes-and-special-quotes/request-pricing-for-non-catalog-products.md).
 * **Quotes Ready**: Allows you to view a list of quotes that are ready to be converted to an order. You can also view detailed information for a quote, delete a quote, convert a quote to an order, or export a quote to PDF or Excel.

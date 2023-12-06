@@ -50,7 +50,7 @@ IaaS/PaaS Price Lists often have specific prices for certain Regions. For instan
 
 Use the **Product Name** text input field and the **Region** field to help narrow down the prices. Here is an example:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As a result, many A3 options will be displayed, but only based on those two regions. Here is an example:
 

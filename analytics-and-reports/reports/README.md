@@ -34,7 +34,7 @@ The **Quick Reports** page displays all report options that are available to you
 4. Review the report summary, name, and delivery method. Note that you can adjust the details and apply filters as needed.
 5. Select **Finish**. Your report is created and a confirmation message is displayed.
 
-Watch this video tutorial on how to create a Software Asset Inventory quick report:
+Watch the following video tutorial on how to create a Software Asset Inventory quick report:
 
 {% embed url="https://vimeo.com/889172885" %}
 
@@ -82,7 +82,7 @@ Depending on your chosen report schedule, the **Scheduled Reports** page or the 
 
 The **Scheduled Reports** page displays the scheduled report configurations and allows you to edit, run, pause, resume, preview, and delete reports. Note that you must have the `SCHEDULED_REPORTING` permission to access this tab.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Column        | Description                                                                                                                                                                                                        |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

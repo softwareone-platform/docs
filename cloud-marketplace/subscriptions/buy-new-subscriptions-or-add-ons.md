@@ -37,7 +37,7 @@ If you want to buy a new base subscription, enter the following fields:&#x20;
 * **Billing Cycle**: Choose your preferred billing cycle. The options are **Monthly** and **Annual**.
 * **Your Internal Details**: Enter order-specific details that you might need later for internal cost allocation and billing purposes.
 
-After you have finished the Base Subscription step, select **Next** and setup your **Add-on** details. The fields are the same as for the Base Subscription but you can fill in different values as you need.
+After you have finished the Base Subscription step, select **Next** and set up your **Add-on** details. The fields are the same as for the Base Subscription but you can fill in different values as you need.
 
 Once you have finished the Add-on detail page step, select **Next** and check your order summary.
 

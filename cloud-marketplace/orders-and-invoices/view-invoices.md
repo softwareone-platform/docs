@@ -15,7 +15,7 @@ You can view and manage your invoices on the Invoices page. You can filter invoi
    * Select the appropriate search options, and select **Search**. If you want to reset the filter options, select **Reset**.
 2. In the **Actions** column, select **View** to see the invoice details.&#x20;
 
-When you select an invoice on the Invoices page, the details page opens. You can perform several actions on the details page, such as viewing further information about the product, viewing transaction history, and the contracts associated with the transaction. You can also download the invoice as a PDF.
+When you select an invoice on the Invoices page, the details page opens. You can perform several actions on the details page, such as viewing further information about the product, viewing transaction history, and the contracts associated with the transaction.
 
 ***
 
@@ -29,4 +29,6 @@ You can export an invoice to PDF, CSV, or Excel.
 2.  Select the More icon (three dots) from the **Actions** column and choose the export format.&#x20;
 
     <figure><img src="../../.gitbook/assets/image (21) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-3. A confirmation message is displayed when the invoice is exported successfully.
+
+Your invoice is queued and a confirmation message is displayed.
+

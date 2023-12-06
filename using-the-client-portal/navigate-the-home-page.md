@@ -31,9 +31,9 @@ When you select a module from the navigation menu, all of the nested submodules 
 
 <figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
-### Account menu
+### User menu
 
-The Account menu displays your name along with your organization name. Select your user name at the top-right corner of the page to display the menu.&#x20;
+The User menu displays your name along with your organization name. Select your user name at the top-right corner of the page to display the menu.&#x20;
 
 <figure><img src="../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
 

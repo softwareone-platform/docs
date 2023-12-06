@@ -4,7 +4,7 @@ description: You can leverage the Client Portal for your 365 subscription manage
 
 # Office 365 Subscription Management
 
-### Cloud Spend Management Overview <a href="#cloud-spend-management-overview" id="cloud-spend-management-overview"></a>
+***
 
 The Cloud Spend Management allows you to tag cloud resources, set budgets and track usage and spend against budgets, split shared cloud resources, and set up chargebacks so you can distribute the cost of consumption to the departments driving usage. You can also set up alerts so you are notified if you are close to certain thresholds, and we also provide recommendations that can identify possible cost savings as well as performance and security enhancements.
 

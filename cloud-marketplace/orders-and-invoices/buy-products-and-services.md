@@ -8,7 +8,7 @@ description: >-
 
 ***
 
-The Products page in the Marketplace module allows you to explore our catalog, search for products, view product prices, and add products to your shopping cart.&#x20;
+The **Products** page in the Marketplace module allows you to explore our catalog, search for products, view product prices, and add products to your shopping cart.&#x20;
 
 **To buy a product**
 
@@ -27,7 +27,7 @@ The Products page in the Marketplace module allows you to explore our catalog, s
 
 4. When you're ready to complete your purchase, open your shopping cart, verify the order details, and select **Create Order**.
 5. Verify your address information, edit it if necessary, and provide your contact details, including your email address.
-6. Choose your payment method, provide your reference name, and purchase order number.
+6. Choose your payment method, and provide your reference name, and purchase order number.
 7. Select **Create Order** to submit your order.
 
 A confirmation message is displayed indicating that your order is sent to SoftwareOne. You'll be redirected to the Order Details page where you can download a PDF of your order.
