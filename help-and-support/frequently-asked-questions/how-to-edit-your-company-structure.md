@@ -8,15 +8,13 @@ description: >-
 
 This feature is currently available to most customers. If you cannot manage the company structure on your own yet, then SoftwareOne will need to migrate your company structure first.
 
-### Introduction <a href="#post-4917-_ref61592726" id="post-4917-_ref61592726"></a>
-
 The purpose of the company structure is to grant procurement users access to a set of companies. Procurement users use the Client Portal to purchase from SoftwareOne. If you change the company structure, this can have an impact on the companies that your users can purchase through.
 
 A company structure that is used to grant procurement access can be different from your legal company structure (or any other structure you use internally).
 
 ### Why do I already have a Company Structure? <a href="#post-4917-_toc63257167" id="post-4917-_toc63257167"></a>
 
-SoftwareONE automatically generates a company structure for a customer’s tenant. Each company is created in a separate sub-folder below your top-level folder. Therefore, each company is on the same level.
+SoftwareOne automatically generates a company structure for a customer’s tenant. Each company is created in a separate sub-folder below your top-level folder. Therefore, each company is on the same level.
 
 If this automatically generated company structure works (e.g., if only a small number of companies are present), then the company structure can be used as is.
 

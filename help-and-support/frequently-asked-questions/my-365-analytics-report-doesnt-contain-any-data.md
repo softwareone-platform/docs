@@ -6,7 +6,7 @@ description: If your 365 Analytics report doesn't show any data, follow these st
 
 ***
 
-If your report is empty and you receive this message as you are building a report 'There is no data for this chart‘, there are a few reasons for this, including:
+If your report is empty and you receive this message as you are building a report 'There is no data for this chart, there are a few reasons for this, including:
 
 * The data is being filtered in a way that no data is returning. You may need to edit your report and modify the filters that you have applied.
 * The data may require access to the Security and Audit Logs that may not have been configured. Check your 365 Analytics settings.

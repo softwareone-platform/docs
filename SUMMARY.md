@@ -117,11 +117,9 @@
   * [How to configure conditional access policies](help-and-support/frequently-asked-questions/how-to-configure-conditional-access-policies.md)
   * [How to create service accounts for 365 Analytics reporting](help-and-support/frequently-asked-questions/how-to-create-service-accounts-for-365-analytics-reporting.md)
   * [How to connect your 365 tenant for data collection](help-and-support/frequently-asked-questions/how-to-connect-your-365-tenant-for-data-collection.md)
-  * [How to generate a report of your overdue invoices](help-and-support/frequently-asked-questions/how-to-generate-a-report-of-your-overdue-invoices.md)
   * [How to generate an access token](help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md)
   * [How to sign in using Multi-factor Authentication (MFA)](help-and-support/frequently-asked-questions/how-to-sign-in-using-multi-factor-authentication-mfa.md)
   * [How to resolve AWS recommendation synchronization errors](help-and-support/frequently-asked-questions/how-to-resolve-aws-recommendation-synchronization-errors.md)
-  * [How to view available currencies](help-and-support/frequently-asked-questions/how-to-view-available-currencies.md)
   * [How does the Client Portal access my Microsoft 365 tenant under CSP?](help-and-support/frequently-asked-questions/how-does-the-client-portal-access-my-microsoft-365-tenant-under-csp.md)
   * [How does the Client Portal connect to my Azure tenant?](help-and-support/frequently-asked-questions/how-does-the-client-portal-connect-to-my-azure-tenant.md)
   * [How to manage users using the User Management wizard](help-and-support/frequently-asked-questions/how-to-manage-users-with-the-user-management-wizard.md)
@@ -135,10 +133,8 @@
   * [My 365 Analytics report doesn't contain any data](help-and-support/frequently-asked-questions/my-365-analytics-report-doesnt-contain-any-data.md)
   * [How to setup single sign-on (SSO)](help-and-support/frequently-asked-questions/single-sign-on-sso-integration.md)
   * [What data do you collect for 365 Analytics?](help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md)
-  * [What has changed in the new 365 Analytics?](help-and-support/frequently-asked-questions/what-has-changed-in-the-new-365-analytics.md)
   * [What is 365 analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)
   * [What is the difference between subscription manager and cloud subscriptions?](help-and-support/frequently-asked-questions/what-is-the-difference-between-subscription-manager-and-cloud-subscriptions.md)
-  * [Microsoft New Commerce Offers for CSP](help-and-support/frequently-asked-questions/microsoft-new-commerce-offers-for-csp.md)
 
 ## Terms and Conditions
 
