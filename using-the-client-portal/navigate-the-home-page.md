@@ -31,7 +31,7 @@ When you select a module from the navigation menu, all of the nested submodules 
 
 <figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
 
-### User menu
+### User profile menu
 
 The User menu displays your name along with your organization name. Select your user name at the top-right corner of the page to display the menu.&#x20;
 
@@ -40,7 +40,7 @@ The User menu displays your name along with your organization name. Select your 
 You can use this menu to:
 
 * [Change your password](password-reset.md).
-* Access the [Collaboration Site](../administration/collaboration-site/) to store and share large files.
+* Access the [Collaboration Site](../administration/collaboration-site.md) to store and share large files.
 * View your company contacts.
 * View or edit your company structure.&#x20;
 * View global account and procurement settings via **My Profile**.

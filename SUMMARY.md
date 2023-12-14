@@ -15,16 +15,14 @@
 
 ## Administration
 
-* [Collaboration Site](administration/collaboration-site/README.md)
-  * [Working with Collaboration Site](administration/collaboration-site/working-with-collaboration-site.md)
+* [Collaboration Site](administration/collaboration-site.md)
 * [Enterprise Agreements](administration/enterprise-agreements/README.md)
   * [Enterprise Agreement TrueUp](administration/enterprise-agreements/enterprise-agreement-trueup.md)
 * [Purchase Approval Workflows](administration/purchase-approval-setup/README.md)
   * [Set Up Approval Workflows](administration/purchase-approval-workflows/set-up-approval-workflows.md)
 * [Software Assets](administration/software-assets/README.md)
   * [Manage Software Assets and Financial Transactions](administration/software-assets/manage-software-assets-and-financial-transactions.md)
-* [User Management](administration/user-management/README.md)
-  * [Manage Users and Permissions](administration/user-management/manage-users-and-permissions.md)
+* [User Management](administration/user-management.md)
 
 ## Cloud Account Onboarding
 
@@ -122,8 +120,6 @@
   * [How to resolve AWS recommendation synchronization errors](help-and-support/frequently-asked-questions/how-to-resolve-aws-recommendation-synchronization-errors.md)
   * [How does the Client Portal access my Microsoft 365 tenant under CSP?](help-and-support/frequently-asked-questions/how-does-the-client-portal-access-my-microsoft-365-tenant-under-csp.md)
   * [How does the Client Portal connect to my Azure tenant?](help-and-support/frequently-asked-questions/how-does-the-client-portal-connect-to-my-azure-tenant.md)
-  * [How to manage users using the User Management wizard](help-and-support/frequently-asked-questions/how-to-manage-users-with-the-user-management-wizard.md)
-  * [How to delete, restore, disable, and enable users](help-and-support/frequently-asked-questions/how-to-delete-restore-disable-and-enable-users.md)
   * [How to edit your company structure](help-and-support/frequently-asked-questions/how-to-edit-your-company-structure.md)
   * [I'm unable to see the Microsoft products via CSP/Client Portal](help-and-support/frequently-asked-questions/im-unable-to-see-the-microsoft-products-via-csp-client-portal.md)
   * [I'm unable to grant permissions via User Management](help-and-support/frequently-asked-questions/im-unable-to-grant-permissions-via-user-management.md)

@@ -1,19 +1,22 @@
 ---
 description: >-
-  This topic explains how you can buy products and services through the Client
-  Portal.
+  You can buy new products and services through the Products section of the
+  Client Portal.
 ---
 
 # Buy Products and Services
 
 ***
 
-The **Products** page in the Marketplace module allows you to explore our catalog, search for products, view product prices, and add products to your shopping cart.&#x20;
+The **Products** page can be accessed by navigating to **Marketplace** > **Products**.&#x20;
+
+On the Products page, you can easily explore our catalog, search for products, view product prices, and add products to your shopping cart. You can also [request pricing for non-catalog items](../quotes-and-special-quotes/request-pricing-for-non-catalog-products.md).&#x20;
 
 **To buy a product**
 
-1. From the navigation menu, go to **Marketplace** and select **Products**.
-2. On the **Products** page, search for the product you wish to buy. You can either select the product from the recommended results (displayed as you're typing) or select **Search**.&#x20;
+1. Navigate to the **Products** page.&#x20;
+2. On the **Products** page, select the **Products** or **Top Publishers** tab and then search for the product.
+3. Select the product from the list of recommended results (displayed as you're typing) or select **Search** to view all products.&#x20;
 
 <div data-full-width="true">
 
@@ -21,13 +24,14 @@ The **Products** page in the Marketplace module allows you to explore our catalo
 
 </div>
 
-3. When the product is displayed, select the **More** icon (3 dots) > **Add to Cart** and add the product to your shopping cart.&#x20;
+3. When the product details are displayed, select the ellipsis ( ••• ) in the **Actions** column and choose **Add to Cart**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/products.png" alt=""><figcaption></figcaption></figure>
 
-4. When you're ready to complete your purchase, open your shopping cart, verify the order details, and select **Create Order**.
-5. Verify your address information, edit it if necessary, and provide your contact details, including your email address.
-6. Choose your payment method, and provide your reference name, and purchase order number.
-7. Select **Create Order** to submit your order.
+4. In the Add to Cart dialog_, c_onfirm that you want to add the product to your cart. A confirmation message is displayed when the product is added.
+5. Navigate to your cart and select **Create Order**. You can access your cart by selecting the **Go to Shopping Cart** link in the confirmation message or through the main menu (**Marketplace** > **Cart**).
+6. Verify your address information, edit it if necessary, and provide your contact details, including your email address.
+7. Choose your payment method, and provide your reference name, and purchase order number.
+8. Select **Create Order** to submit your order.
 
-A confirmation message is displayed indicating that your order is sent to SoftwareOne. You'll be redirected to the Order Details page where you can download a PDF of your order.
+Your order is created and a confirmation message is displayed. To download your order confirmation, select  **Download PDF** on the Order Details page.

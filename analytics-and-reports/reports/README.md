@@ -105,7 +105,7 @@ The **Scheduled Reports** page displays the scheduled report configurations and 
 
 You can update the configuration of a scheduled report, except the report group and the type of report.&#x20;
 
-To update a report, select the ellipses ( ••• ) in the **Actions** column and select **Edit**.
+To update a report, select the ellipsis ( ••• ) in the **Actions** column and select **Edit**.
 
 ***
 
@@ -121,7 +121,7 @@ To run a report, select **Download** in the **Actions** column.
 
 You can pause or resume a scheduled report.
 
-To pause or resume a report, select the ellipses ( ••• ) and select **Pause** (to pause the generating report) or **Resume** (to reactivate the paused report).
+To pause or resume a report, select the ellipsis ( ••• ) and select **Pause** (to pause the generating report) or **Resume** (to reactivate the paused report).
 
 ***
 
@@ -133,7 +133,7 @@ Removing the scheduled report configuration doesn't remove reports that are alre
 
 **To delete a report**
 
-1. Select the ellipses ( ••• ) in the **Actions** column and choose **Delete.**&#x20;
+1. Select the ellipsis ( ••• ) in the **Actions** column and choose **Delete.**&#x20;
 2. Confirm that you want to delete the report.&#x20;
 
 ***
@@ -164,7 +164,7 @@ You can only update the name of a generated report and file name. Updating a gen
 
 **To update a report or file name**
 
-1. Select the ellipses ( ••• ) in the **Actions** column and select **Edit.**
+1. Select the ellipsis ( ••• ) in the **Actions** column and select **Edit.**
 2. Update the file name and report name as needed.
 3. Select **Update**.
 
@@ -176,7 +176,7 @@ If a report’s size is bigger than 25 MB, it will be always sent as a link only
 
 **To send a report via email**
 
-1. Select the ellipses ( ••• ) in the **Actions** column and select **Email**.
+1. Select the ellipsis ( ••• ) in the **Actions** column and select **Email**.
 2. Provide the email addresses (separated by semicolon) and choose if you want to send the report as an **Attachment** or **Link**.&#x20;
 3. Select **Send**.
 
@@ -188,7 +188,7 @@ You can send a report directly to a secure FTP server. If needed, you can also a
 
 **To send a report to an SFTP**
 
-1. Select the ellipses ( ••• ) in the **Actions** column and select **SFTP**.&#x20;
+1. Select the ellipsis ( ••• ) in the **Actions** column and select **SFTP**.&#x20;
 2. Select an SFTP server from the list and choose **Use Selected Server**.
 
 ***
@@ -207,7 +207,7 @@ You can create a new template when you are creating a report. Note that only som
    * To change a column position, drag the column to the desired position. You can move columns between groups.
    * To move all columns from one group to another, drag the entire group to an unfolded group.
    * To override a column’s value, enter a new value in the **Override value.**
-   * To duplicate or delete a column, select ( ••• ) in the **Actions** column and choose **Duplicate** or **Delete**.
+   * To duplicate or delete a column, select the ellipsis ( ••• ) in the **Actions** column and choose **Duplicate** or **Delete**.
 4. Provide the **Template Name** and choose whether the template is **Personal** (only you can see or edit it) or **Shared** (anyone in your company can see or edit it).
 5. Select **Save as new template**.
 
