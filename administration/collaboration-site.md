@@ -76,24 +76,22 @@ Authorized users can create new folders within the Collaboration Site.
 
 ***
 
-### Adding files to a folder <a href="#uploading-files" id="uploading-files"></a>
+## Managing files and folders <a href="#uploading-files" id="uploading-files"></a>
 
-You can upload single or multiple files. Before uploading a file, ensure that the file names are unique. If a file with the same name already exists, you can overwrite the file by selecting the **Overwrite existing files** checkbox.
+### Adding new files <a href="#uploading-files" id="uploading-files"></a>
+
+You can upload a single or multiple files to a new folder. Before uploading a file, ensure that the file names are unique. If a file with the same name already exists, you can overwrite the file by selecting the **Overwrite existing files** checkbox. Note that you can upload files up to 50 MB in size. There's no limit to the number of files in a single folder.
 
 **To upload a file**
 
 1. Select the **Upload file** option.
 2. Choose the file that you want to upload.
 
-{% hint style="info" %}
-**NOTE**: You can upload files up to 50 MB in size. There's no limit to the number of files in a single folder.
-{% endhint %}
-
 ***
 
 ### Renaming files and folders <a href="#renaming-files-and-folders" id="renaming-files-and-folders"></a>
 
-**To rename a folder or a file**
+**To rename a file or folder**
 
 1. Navigate to the folder or file that you want to rename.
 2. In the **Actions** column, select the ellipsis ( ••• ) and choose **Rename**.&#x20;
@@ -103,7 +101,9 @@ You can upload single or multiple files. Before uploading a file, ensure that th
 
 ### Deleting files and folders <a href="#deleting-files-and-folders" id="deleting-files-and-folders"></a>
 
-**To delete a folder or a file**
+Use caution when deleting files and folders.
+
+**To delete a file or folder**
 
 1. Navigate to the folder or the file that you want to delete.
 2. In the **Actions** column, select the ellipsis ( ••• ) and choose **Delete**.&#x20;
@@ -113,12 +113,10 @@ You can upload single or multiple files. Before uploading a file, ensure that th
 
 ### Moving files and folders **to a different location** <a href="#moving-files-and-folders" id="moving-files-and-folders"></a>
 
-**To move a file or a folder to a different location**
+**To move a file or folder to a different location**
 
 1. Select the checkboxes next to the file/folder that you want to move.&#x20;
 2. Select **Move**.
 3. Select the new location or the target directory.
 
-{% hint style="info" %}
-**NOTE**: If the file or the directory already exists in your chosen location, you'll receive a message and the move action will be canceled.
-{% endhint %}
+Note that if the file or the directory already exists in your chosen location, a message is displayed.
