@@ -24,9 +24,11 @@ Note that the access to the **Reports** feature depends on your user permissions
 
 ## Creating Reports <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
-The **Create New Report** option allows you to create a new report from scratch using your choice of report filters, schedule, and delivery details.&#x20;
+The **Create New Report** option allows you to create a new report from scratch using options, including report filters, schedule, template, and delivery details.&#x20;
 
-Note that the set of available options varies based on the report you've selected. Some reports can be run once only, whereas others can be run once or scheduled periodically. Similarly, some reports support report templates, while others don't. For each report type, you can view the available options when you are creating the report.
+{% hint style="info" %}
+**NOTE**: The available options vary based on the report you've selected. Some reports can be run once only, whereas others can be run once or scheduled periodically. Similarly, some reports support report templates, while others don't. For each report type, you can view the available options when you are creating the report.
+{% endhint %}
 
 **To create a customizable report**
 
