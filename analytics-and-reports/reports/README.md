@@ -1,53 +1,37 @@
 ---
 description: >-
-  You can use Reports to gain valuable insights on your software asset
-  inventory, resource utilization, cloud consumption, renewals, and more.
+  The Client Portal offers a large number of reports, allowing you to gain
+  valuable insights into your software asset inventory, resource utilization,
+  cloud consumption, renewals, and more.
 ---
 
 # Reports
 
-Through the **Reports** feature (**Analyze** > **Reports**), you can create reports and download your generated report files. You can also:
+The **Reports** feature, located under **Analyze** in the main menu, enables you to create and export reports to your desired format.&#x20;
 
-* Run and publish reports only once.
-* Schedule reports daily, weekly, or monthly.
+You can quickly set up a report using the Quick Reports feature or create a customized report using the available report options. Additionally, you can:
+
+* Run and publish reports only once, daily, weekly, or monthly.
 * Modify report configuration and existing schedule.&#x20;
 * Delete reports.
 * Pause or resume scheduled reports.
 * View, search, and share reports.
-* Create custom report templates.
+* Create report templates.
 
-You can create and access various types of reports within the Client Portal. Access to the **Reports** feature depends on your user permissions and role. Additionally, each report type has specific permissions, and reports are generated with their owner's permission.
-
-***
-
-## About Quick Reports <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
-
-The **Quick Reports** page displays all report options that are available to you and allows you to quickly create a new report based on predefined filters. Note that by default, all quick reports are created as Run Once only.
-
-### Creating a quick report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
-
-**To create a quick report**
-
-1. From the main menu, navigate to **Analyze** > **Reports.**
-2. On the **Quick Reports** tab, navigate to the report group and choose the reporting template from the menu.&#x20;
-3. Select **Create**. The Create Quick Report page opens.&#x20;
-4. Review the report summary, name, and delivery method. Note that you can adjust the details and apply filters as needed.
-5. Select **Finish**. Your report is created and a confirmation message is displayed.
-
-Watch the following video tutorial on how to create a Software Asset Inventory quick report:
-
-{% embed url="https://vimeo.com/889172885" %}
+Note that the access to the **Reports** feature depends on your user permissions and role. Additionally, each report type has specific permissions, and reports are generated with their owner's permission.
 
 ***
 
-### Creating new reports <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
+## Creating Reports <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
-In addition to Quick Reports, you can also create custom reports with your choice of filters, report format, schedule, and other options.&#x20;
+The **Create New Report** option allows you to create a new report from scratch using your choice of report filters, schedule, and delivery details.&#x20;
 
-**To create a custom report**
+Note that the set of available options varies based on the report you've selected. Some reports can be run once only, whereas others can be run once or scheduled periodically. Similarly, some reports support report templates, while others don't. For each report type, you can view the available options when you are creating the report.
+
+**To create a customizable report**
 
 1. From the main menu, navigate to **Analyze** > **Reports** and select **Create New Report**.
-2. Choose the **Group**, **Type**, and **Format** of your report.
+2. Select the report group and the type of report, and then choose the format in which you wish to generate the report. Note that the format varies depending on the report.&#x20;
 3. Choose the filters and select **Next**. To set additional filters (related to dates and number formatting), select **Show more formatting options**.
 
 <details>
@@ -63,18 +47,33 @@ Filters allow you to restrict the data that appears in a report. The list of ava
 
 </details>
 
-4. Choose the report schedule. You can run the report once, daily, weekly, or monthly.
+4. Select the schedule type. You can run the report once, daily, weekly, or monthly. Note that for the reports that can be run once only, the **Run Once** option is selected by default and you cannot change it. All other options are unavailable.
 5. Select the date range for the data you want to include in the report.
-6. Select an existing template from **Saved Templates** or create a new template.&#x20;
-
-{% hint style="info" %}
-This option is displayed only if the report supports templates. If the report supports templates, but you choose not to apply a template, the system will use the default template.
-{% endhint %}
-
+6. Select an existing template from **Saved Templates** or create a new template. Note that the **Saved Templates** option is displayed only if the report supports templates. If the report does support templates, but you choose not to apply the template, the system will use the default template.
 7. Provide a unique **Report Name** and choose the report delivery method.
 8. Select **Finish**. A confirmation message is displayed.&#x20;
 
 Depending on your chosen report schedule, the **Scheduled Reports** page or the **Reports History** page is displayed. Note that all Run Once reports are triggered immediately.
+
+***
+
+## About Quick Reports <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
+
+The **Quick Reports** page displays all report options that are available to you and allows you to create a new report based on predefined filters quickly. Note that by default, all quick reports are created as Run Once only.
+
+### Creating a quick report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
+
+**To create a quick report**
+
+1. From the main menu, navigate to **Analyze** > **Reports.**
+2. On the **Quick Reports** tab, navigate to the report group and choose the reporting template from the menu.&#x20;
+3. Select **Create**. The Create Quick Report page opens.&#x20;
+4. Review the report summary, name, and delivery method. Note that you can adjust the details and apply filters as needed.
+5. Select **Finish**. Your report is created and a confirmation message is displayed.
+
+Watch the following video tutorial on how to create a Software Asset Inventory quick report:
+
+{% embed url="https://vimeo.com/889172885" %}
 
 ***
 
@@ -93,7 +92,7 @@ The **Scheduled Reports** page displays the scheduled report configurations and 
 | Last Report   | The last report generation time (in the local time zone).                                                                                                                                                          |
 | Created       | The date and time of the report configuration creation (in the local time zone).                                                                                                                                   |
 | Next Report   | The time of next report generation.                                                                                                                                                                                |
-| Group         | The type of the report.                                                                                                                                                                                            |
+| Group         | The type of the report group.                                                                                                                                                                                      |
 | Recipients­   | Recipients­                                                                                                                                                                                                        |
 | Render type   | The format of the report.                                                                                                                                                                                          |
 | Type          | The type of the report.                                                                                                                                                                                            |
@@ -101,7 +100,7 @@ The **Scheduled Reports** page displays the scheduled report configurations and 
 | Last Modified | The date and time of the last update of the report configuration (in the local time zone).                                                                                                                         |
 | Actions       | The list of actions for the report.                                                                                                                                                                                |
 
-### Updating reports <a href="#post-988-_ref38824725" id="post-988-_ref38824725"></a>
+### Updating scheduled reports <a href="#post-988-_ref38824725" id="post-988-_ref38824725"></a>
 
 You can update the configuration of a scheduled report, except the report group and the type of report.&#x20;
 
@@ -109,7 +108,7 @@ To update a report, select the ellipsis ( ••• ) in the **Actions** column 
 
 ***
 
-### Running reports <a href="#post-988-_toc51828560" id="post-988-_toc51828560"></a>
+### Running scheduled reports <a href="#post-988-_toc51828560" id="post-988-_toc51828560"></a>
 
 You can trigger scheduled reports at any time. After a report is generated, it downloads automatically and is available on the **History** tab. Note that triggering a report manually doesn’t impact its next generation time (nor will it update its last execution time in the **Last Report**).
 
@@ -125,22 +124,22 @@ To pause or resume a report, select the ellipsis ( ••• ) and select **Paus
 
 ***
 
-### Deleting reports <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
+### Deleting scheduled reports <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
 
 You can delete a scheduled report. Note that deleted reports cannot be recovered.&#x20;
 
 Removing the scheduled report configuration doesn't remove reports that are already generated.
 
-**To delete a report**
+**To delete a scheduled report**
 
 1. Select the ellipsis ( ••• ) in the **Actions** column and choose **Delete.**&#x20;
 2. Confirm that you want to delete the report.&#x20;
 
 ***
 
-## About Report history <a href="#post-988-_toc51828563" id="post-988-_toc51828563"></a>
+## About Report History <a href="#post-988-_toc51828563" id="post-988-_toc51828563"></a>
 
-The **History** tab displays your generated reports (scheduled and run once). You can also download, send, delete, or edit a report.
+The **History** tab displays all reports that you've generated. The list includes scheduled and run-once reports. From the Reports History page, you can download, send, delete, or edit a report.
 
 <figure><img src="../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
