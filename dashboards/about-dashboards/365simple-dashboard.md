@@ -17,13 +17,13 @@ The dashboard provides:
 * Help & support tickets
 * Service recommendations and articles
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Selecting your Tenant <a href="#selecting-your-tenant" id="selecting-your-tenant"></a>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you have multiple Microsoft tenants, you will see a dropdown next to your tenant name on the 365Simple dashboard, allowing you to switch between tenants.
 
@@ -35,7 +35,7 @@ Widgets like “Invoices”, “Add user” and “Service Review” are based o
 
 If you are unable to see the widgets, contact your administrator to check your permissions.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

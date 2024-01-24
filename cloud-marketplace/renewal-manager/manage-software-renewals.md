@@ -12,7 +12,7 @@ When you log into Renewal Manager for the first time, the application will set u
 
 ***
 
-### Summary Page <a href="#summary-page" id="summary-page"></a>
+## Summary Page <a href="#summary-page" id="summary-page"></a>
 
 The Renewal Manager Summary Page shows:
 
@@ -53,7 +53,7 @@ Advanced search gives you the option to narrow down the agreements that are aggr
 
 ***
 
-### Agreements Page <a href="#agreements-page" id="agreements-page"></a>
+## Agreements Page <a href="#agreements-page" id="agreements-page"></a>
 
 On the Agreements tab, you can:
 
@@ -159,7 +159,7 @@ You can remove the responsible person from the selected agreement.
 
 ***
 
-### Agreement Details Page <a href="#post-796-_toc14239621" id="post-796-_toc14239621"></a>
+## Agreement Details Page <a href="#post-796-_toc14239621" id="post-796-_toc14239621"></a>
 
 The Agreement Details page shows all data stored for specific agreements. From this view, you can use the various tabs to manage agreement data.
 
@@ -226,7 +226,7 @@ When agreements have related products, a list with all related products will be 
 
 Agreements purchased through SoftwareONE, or agreements imported automatically from Entitlement Manager, the related products will be displayed automatically.
 
-**Product Details View**
+#### **Product Details View**
 
 To see more details for a specific product in the list, click on the row with the product or click “View” in the Actions column.
 
@@ -249,7 +249,7 @@ The payment table will change according to the new payment number.
 
 Changing the “Start Date” and “End Date” for an Agreement (Edit Agreement) can also trigger changes to the payment plans for products that are related to the agreement being edited.
 
-**Adding Products Manually**
+#### **Adding Products Manually**
 
 Within each agreement, you can allocate products (in addition) manually.
 
@@ -264,19 +264,19 @@ Fields marked with an asterisk (\*) are mandatory. You will need to fill in all 
 
 The Renewal History Tab shows Renewal Activity (1) of the currently selected Agreement and the connections to other agreements (2) if they exist. The Renewal Progress Tile (3) and the Toaster message (4) visible in the upper section of the Agreement Details Page give you the latest Renewal Activity Status.
 
-**Renewal Activity**
+#### **Renewal Activity**
 
 This section shows the list of all renewal activities for the currently selected agreement. It starts from “Quote in Progress” until the renewal has been renewed.
 
 If the agreement was transacted through SoftwareONE, the Renewal Progress Status is linked with SoftwareONE’s internal Renewal Process and is updated automatically. The related Sales Documents (e.g. Quotes, Orders) can be accessed directly from this view.
 
-**Add New Update**
+#### **Add New Update**
 
 For Agreements not purchased through SoftwareONE, you can update the status manually.
 
 For manually registered agreements or agreements imported from Entitlement Manager, you can select a Renewal Progress Status and add optional notes.
 
-**Agreement Renewal History**
+#### **Agreement Renewal History**
 
 This section shows the history of agreements. If agreements co-terminate or renew into another agreement, those agreements are collated and are displayed in the Agreement Renewal History section.
 
@@ -284,7 +284,9 @@ This section shows the history of agreements. If agreements co-terminate or rene
 
 On the Savings tab, you can add savings relating to a specific agreement. The “Total Savings” tile shows you the savings sum for the agreement.
 
-In the “Date of savings” field, you can enter the date you would like for your “Savings Analysis”. By default, this is set to the agreement start date.
+In the “Date of savings” field, you can enter the date you would like for your [Savings Analysis](manage-software-renewals.md#post-796-\_toc14239659). By default, this is set to the agreement start date.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Tags and Cost Split Tab <a href="#post-796-_toc14180237" id="post-796-_toc14180237"></a>
 
@@ -315,7 +317,7 @@ In this section you will see:
 
 When you click on the “Add New Document” Button the below form will open.
 
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2019/09/Figure-44.png" alt="" height="277" width="740"><figcaption><p><strong>Figure 45 – Add New Document</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 From here you can upload a file (1) and describe it with a note (2).
 
@@ -323,7 +325,7 @@ When you click on “Save” (3) the file is saved in the documents section.
 
 ***
 
-### Costs <a href="#post-796-_toc14180241" id="post-796-_toc14180241"></a>
+## Costs <a href="#post-796-_toc14180241" id="post-796-_toc14180241"></a>
 
 Within the Costs tab, you can use two diagrams to analyze the costs on a timeline – a Bar Chart and a Gant Chart.
 
@@ -338,7 +340,7 @@ You can use the “Cost By” drop-down to switch to a stacked bar chart. You ca
 * Cost Type (Paid/Still to Pay/Renewal Costs)
 * Tag
 
-If you click on one of the stacked bars in the chart you are going to drill down into this bar. If you click on one of the drilled-down bars you will see a list open beneath the chart e.g. list of agreements (as shown below).
+If you click on one of the stacked bars in the chart you are going to drill down into this bar. If you click on one of the drilled-down bars you will see a list open beneath the chart e.g. list of agreements.
 
 #### Gantt Chart <a href="#post-796-_toc14180243" id="post-796-_toc14180243"></a>
 
@@ -352,15 +354,15 @@ Filter options are also available above the chart.
 
 ***
 
-### Savings Analysis <a href="#post-796-_toc14239659" id="post-796-_toc14239659"></a>
+## Savings Analysis <a href="#post-796-_toc14239659" id="post-796-_toc14239659"></a>
 
 Savings Analysis shows you a summary of your savings for all agreements. The savings data displayed will be for the “Start – End” date period defined.
 
-You can reference the “how to add Savings for Agreements” section to learn more.
+You can reference the [Savings tab](manage-software-renewals.md#post-796-\_toc14239646) to learn more.
 
 ***
 
-### Products Overview <a href="#post-796-_toc14239660" id="post-796-_toc14239660"></a>
+## Products Overview <a href="#post-796-_toc14239660" id="post-796-_toc14239660"></a>
 
 Products Overview shows you the list of all products available in Renewal Manager, no matter which agreements they come from.
 
@@ -370,11 +372,9 @@ Within this list of products you can:
 * Customize the list by sorting and grouping displayed elements
 * View more product details by clicking on the product name
 
-The below screenshot shows you the product list by Publisher.
-
 ***
 
-### User Role – Read Only Access <a href="#post-796-_toc14180246" id="post-796-_toc14180246"></a>
+## User Role – Read Only Access <a href="#post-796-_toc14180246" id="post-796-_toc14180246"></a>
 
 You have the option to assign “Read Only” user access.
 
@@ -389,7 +389,7 @@ They won’t be able to do any of the following:
 
 ***
 
-### Grid Customization <a href="#post-796-_toc14180248" id="post-796-_toc14180248"></a>
+## Grid Customization <a href="#post-796-_toc14180248" id="post-796-_toc14180248"></a>
 
 Each grid available in Renewal Manager can be personalized. Once you click on “Customize” you will see the list of columns that can be added to the grid. Simply click on the check boxes next to the information you would like to view.
 
@@ -403,7 +403,7 @@ Use the horizontal scroll bar to navigate across.
 
 ***
 
-### Exports <a href="#post-796-_toc14180249" id="post-796-_toc14180249"></a>
+## Exports <a href="#post-796-_toc14180249" id="post-796-_toc14180249"></a>
 
 You can generate reports from Agreements, Products, and Payments. To do this you need to click on the “Export” button and select the relevant export list you would like.
 
@@ -415,8 +415,8 @@ To view generated reports click **Go to My Reports**
 
 ***
 
-### Notifications <a href="#post-796-_toc14180250" id="post-796-_toc14180250"></a>
+## Notifications <a href="#post-796-_toc14180250" id="post-796-_toc14180250"></a>
 
 The Alert icon on the top right of the page shows the number of recent notifications. Once clicked, a list of notifications will open which shows the notification details.
 
-To manage Renewal Manager Notifications click “Manage”. This will open up the Notification Hub Manager (as shown below) where you can manage your notifications.
+To manage Renewal Manager Notifications click “Manage”. This will open up the Notification Hub Manager where you can manage your notifications.

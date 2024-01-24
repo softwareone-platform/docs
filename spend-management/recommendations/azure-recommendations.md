@@ -26,7 +26,7 @@ For example, recommendations of type ‘SQL DB Advisor recommendations’ are as
 
 The association from a recommendation to a related PyraCloud resource is available on the **Related Resources** tab on the Recommendation Details page.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

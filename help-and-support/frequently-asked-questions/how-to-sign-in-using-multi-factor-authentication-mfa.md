@@ -23,7 +23,7 @@ In this example, we've used Google Authenticator, but the steps are the same for
 1. Download the Google Authenticator app from the Google Play store.
 2. Open the Authenticator app and choose **Scan a QR code.**
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="252"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="252"><figcaption></figcaption></figure>
 
 3. Point the camera of your mobile phone to the QR code on the Client Portal page and wait for the scanned data to be added to your Authenticator app.
 
