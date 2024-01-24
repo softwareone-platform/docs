@@ -83,13 +83,13 @@ Typically profiles and tenants can be found as a subsection in CPS. Profiles can
 
 The screenshot below shows the “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
 Tenants represent the domain of subscription products. They can be found in “SECTION 2: Monthly Subscriptions” as well as the proper “Future Pricing” subsection. The screenshot below shows two tenants have been identified. Subsections should not be treated as tenants and will be automatically added by default.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Adding Profiles and Tenants**
 

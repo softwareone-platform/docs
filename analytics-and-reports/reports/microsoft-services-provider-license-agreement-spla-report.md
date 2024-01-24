@@ -95,11 +95,11 @@ You can add new products from the SPLA catalog using the **Add Product** option.
 
 * Enter the product name or article number. The list will be filtered automatically.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If an incorrect list is selected, you can remove the products from the list. To do this, remove the product with the displayed '**X**' next to the product name before saving.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To save these changes, click **Save**. The feature creates or updates a draft for the revised month, which can be edited until it is finally transferred via **Create Order**.
 

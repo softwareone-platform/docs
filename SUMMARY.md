@@ -20,8 +20,7 @@
   * [Enterprise Agreement TrueUp](administration/enterprise-agreements/enterprise-agreement-trueup.md)
 * [Purchase Approval Workflows](administration/purchase-approval-setup/README.md)
   * [Set Up Approval Workflows](administration/purchase-approval-workflows/set-up-approval-workflows.md)
-* [Software Assets](administration/software-assets/README.md)
-  * [Manage Software Assets and Financial Transactions](administration/software-assets/manage-software-assets-and-financial-transactions.md)
+* [Software Assets](administration/software-assets.md)
 * [User Management](administration/user-management.md)
 
 ## Cloud Account Onboarding

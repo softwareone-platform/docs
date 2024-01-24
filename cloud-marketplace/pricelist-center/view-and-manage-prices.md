@@ -50,11 +50,11 @@ IaaS/PaaS Price Lists often have specific prices for certain Regions. For instan
 
 Use the **Product Name** text input field and the **Region** field to help narrow down the prices. Here is an example:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As a result, many A3 options will be displayed, but only based on those two regions. Here is an example:
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 SaaS Price Lists are different from IaaS/PaaS Pricelists from Cloud Providers. SaaS Price lists are based on what Subscriptions or Licenses are active for that SaaS Provider. To search for a specific Price for an Office 365 product, be sure to select the Office 365 Pricelist and type in a product name or select from an Active Tenant attached to PyraCloud.
 

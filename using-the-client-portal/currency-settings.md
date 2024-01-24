@@ -18,7 +18,7 @@ The Client Portal allows you to change your currency and view a list of currenci
 
 
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4. Select **Save**. The new currency will be set as your favorite when you are transacting.&#x20;
 
 {% hint style="info" %}
