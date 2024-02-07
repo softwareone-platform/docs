@@ -19,9 +19,9 @@ The Header bar is global and displayed on all pages in the Client Portal.
 * The left side of the header bar contains the SoftwareOne logo and a collapsible [navigation menu](navigate-the-home-page.md#navigation-menu). Selecting the logo at any time brings you back to the Home page of the Client Portal.
 * The right side of the header bar contains the [account menu](navigate-the-home-page.md#account-menu) that allows you to perform various actions.
 
-### Navigation menu
+### Main menu
 
-The navigation menu gives you access to various modules and submodules in the Client Portal. The menu is hidden by default, but you can open it by selecting it.&#x20;
+The main menu gives you access to various modules and submodules in the Client Portal. The menu is hidden by default, but you can open it by selecting it.&#x20;
 
 From the navigation menu, you can also view your recently-viewed modules and [favorites](favorites.md).
 

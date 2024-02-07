@@ -32,7 +32,7 @@ The **Create New Report** option allows you to create a new report from scratch 
 
 **To create a customizable report**
 
-1. From the main menu, navigate to **Analyze** > **Reports** and select **Create New Report**.
+1. From the main menu of the Client Portal, navigate to **Analyze** > **Reports**. Select **Create New Report**.
 2. Select the report group and the type of report, and then choose the format in which you wish to generate the report. Note that the format varies depending on the report.&#x20;
 3. Choose the filters and select **Next**. To set additional filters (related to dates and number formatting), select **Show more formatting options**.
 
@@ -89,13 +89,13 @@ The **Scheduled Reports** page displays the scheduled report configurations and 
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Name          | The name of the report.                                                                                                                                                                                            |
 | Frequency     | Indicates if this is a **Daily**, **Weekly,** or **Monthly** report. **Off** means that recurrence for the report is not yet defined (this is only possible when the report has been created using old reporting). |
-| Status        | Indicates whether the report generation is turned on (**Running**) or generation has been paused (**Paused**).                                                                                                     |
-| Delivery      | Indicates how generated reports will be delivered.                                                                                                                                                                 |
-| Last Report   | The last report generation time (in the local time zone).                                                                                                                                                          |
-| Created       | The date and time of the report configuration creation (in the local time zone).                                                                                                                                   |
-| Next Report   | The time of next report generation.                                                                                                                                                                                |
+| Status        | Indicates whether the report is being generated or paused.                                                                                                                                                         |
+| Delivery      | The delivery format for the report.                                                                                                                                                                                |
+| Last Report   | The time when the report was last generated.                                                                                                                                                                       |
+| Created       | The date and time when the report was created.                                                                                                                                                                     |
+| Next Report   | The time when the next report will be generated.                                                                                                                                                                   |
 | Group         | The type of the report group.                                                                                                                                                                                      |
-| Recipients­   | Recipients­                                                                                                                                                                                                        |
+| Recipients­   | The email address of the recipient.                                                                                                                                                                                |
 | Render type   | The format of the report.                                                                                                                                                                                          |
 | Type          | The type of the report.                                                                                                                                                                                            |
 | Template      | Indicates if any template has been selected for the report.                                                                                                                                                        |
@@ -106,13 +106,15 @@ The **Scheduled Reports** page displays the scheduled report configurations and 
 
 You can update the configuration of a scheduled report, except the report group and the type of report.&#x20;
 
-To update a report, select the ellipsis ( ••• ) in the **Actions** column and select **Edit**.
+To update a report, select the actions icon (•••) and choose **Edit**.
 
 ***
 
 ### Running scheduled reports <a href="#post-988-_toc51828560" id="post-988-_toc51828560"></a>
 
-You can trigger scheduled reports at any time. After a report is generated, it downloads automatically and is available on the **History** tab. Note that triggering a report manually doesn’t impact its next generation time (nor will it update its last execution time in the **Last Report**).
+You can trigger scheduled reports at any time. After a report is generated, it downloads automatically and is available on the **History** tab.&#x20;
+
+Note that triggering a report manually doesn’t impact its next generation time or the last execution time in the **Last Report**.
 
 To run a report, select **Download** in the **Actions** column.
 
@@ -122,7 +124,7 @@ To run a report, select **Download** in the **Actions** column.
 
 You can pause or resume a scheduled report.
 
-To pause or resume a report, select the ellipsis ( ••• ) and select **Pause** (to pause the generating report) or **Resume** (to reactivate the paused report).
+To pause or resume a report, select the actions icon (•••) and select **Pause** to pause the generating report or **Resume** to reactivate the paused report.
 
 ***
 
@@ -134,7 +136,7 @@ Removing the scheduled report configuration doesn't remove reports that are alre
 
 **To delete a scheduled report**
 
-1. Select the ellipsis ( ••• ) in the **Actions** column and choose **Delete.**&#x20;
+1. Select the actions icon (•••) and choose **Delete**.&#x20;
 2. Confirm that you want to delete the report.&#x20;
 
 ***
@@ -159,38 +161,65 @@ The **History** tab displays all reports that you've generated. The list include
 
 ***
 
+### Downloading reports <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
+
+You can download a single or multiple reports from the History page.
+
+**To download a report**
+
+1. Locate the report or select the checkbox for the report you wish to download.
+2. Do one of the following:
+   * In the **Actions** column, select **Download**.
+   * From the **Actions** menu, choose **Download**, **Copy to ZIP file**, or **Move to Zip File**. Note that this menu is enabled only after you select a checkbox.
+
+***
+
 ### Editing report name <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
 
-You can only update the name of a generated report and file name. Updating a generated report name does not change the scheduled report name based on which the report has been generated.
+You can only update the name of a generated report and file name. Updating a generated report name doesn't change the scheduled report name based on which the report has been generated.
 
 **To update a report or file name**
 
-1. Select the ellipsis ( ••• ) in the **Actions** column and select **Edit.**
-2. Update the file name and report name as needed.
-3. Select **Update**.
+1. Select the actions icon (•••) and choose **Edit**. The edit mode is enabled.
+2. Update the report name and file name as needed. Note that the file name must include an extension, Invoices.xlsx.
+3. Update your changes.
 
 ***
 
 ### Emailing reports <a href="#post-988-_toc51828566" id="post-988-_toc51828566"></a>
 
-If a report’s size is bigger than 25 MB, it will be always sent as a link only. To download a report from the link, the email recipients must have access to the report in the Client Portal.
+If a report’s size is bigger than 25 MB, it is always sent as a link only. Note that to download a report from the link, your email recipients must have access to the report in the Client Portal.
 
-**To send a report via email**
+**To send a report through email**
 
-1. Select the ellipsis ( ••• ) in the **Actions** column and select **Email**.
-2. Provide the email addresses (separated by semicolon) and choose if you want to send the report as an **Attachment** or **Link**.&#x20;
-3. Select **Send**.
+1. Select the actions icon (•••) and then choose **Email**.
+2. Provide the email addresses (separated by a semicolon) and choose if you want to send the report as an **Attachment** or **Link**.&#x20;
+3. Send your report.
 
 ***
 
 ### Sending reports to an SFTP server <a href="#post-988-_ref51684117" id="post-988-_ref51684117"></a>
 
-You can send a report directly to a secure FTP server. If needed, you can also add a new SFTP configuration or edit an existing one.&#x20;
+You can send a report directly to a secure FTP server. If needed, you can also add a new SFTP configuration or edit the existing configuration.&#x20;
 
 **To send a report to an SFTP**
 
-1. Select the ellipsis ( ••• ) in the **Actions** column and select **SFTP**.&#x20;
+1. Select the actions icon (•••) and select **SFTP**.&#x20;
 2. Select an SFTP server from the list and choose **Use Selected Server**.
+
+***
+
+### Deleting reports
+
+You can delete reports that are no longer needed. You can delete a single report or multiple reports at once. Note that once you delete a report, it can't be recovered.
+
+**To delete a report**
+
+1. Locate the report or select the checkbox for the report you wish to delete.
+2. Do one of the following:
+   * Select the actions icon (•••) and then select **Delete**.
+   * From the **Actions** menu,  choose **Delete**.  Note that this menu is enabled only after you select a checkbox.
+3. Confirm that you want to delete the report.
 
 ***
 
@@ -208,7 +237,7 @@ You can create a new template when you are creating a report. Note that only som
    * To change a column position, drag the column to the desired position. You can move columns between groups.
    * To move all columns from one group to another, drag the entire group to an unfolded group.
    * To override a column’s value, enter a new value in the **Override value.**
-   * To duplicate or delete a column, select the ellipsis ( ••• ) in the **Actions** column and choose **Duplicate** or **Delete**.
+   * To duplicate or delete a column, select the actions icon ( ••• ) and choose **Duplicate** or **Delete**.
 4. Provide the **Template Name** and choose whether the template is **Personal** (only you can see or edit it) or **Shared** (anyone in your company can see or edit it).
 5. Select **Save as new template**.
 
@@ -240,4 +269,4 @@ To update a template, select the template and choose **Edit**.
 
 You can only delete templates that are not used in other reports. Note that the deleted templates cannot be recovered. Removing a template doesn’t impact already generated reports.
 
-To delete a template, select the template and then choose **Delete**.&#x20;
+To delete a template, select the template and choose **Delete**.&#x20;

@@ -1,5 +1,5 @@
 ---
-description: Learn how to enable, use, and manage your software assets.
+description: Administrators can enable the software assets integration.
 ---
 
 # Software Assets
@@ -39,11 +39,11 @@ Take caution when disabling Software Assets. You can always enable it again, how
 
 To disable Software Assets, navigate to the **Cloud Tenant Setup** page and then select **Manage** from the Actions column.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When the Software Assets page opens, select **Disable Software Assets.** When the feature is disabled, your software assets are removed from the Resource Manager, Budgets, Custom Group Manager, Chargebacks, and Consumption modules.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 
 Note that by default, the filtering option is selected. It means that transactions relating to Azure or O365 will not be visible in the Resources, Budgets, and Consumption modules. Any changes to filtering settings take effect after 24 hours.
 
@@ -73,7 +73,7 @@ The **Export** option on the Software Assets page allows you to export your soft
 * Flexera
 * Service Now
 
-Depending on your SAM Tool setup, you may need to amend the standard reporting templates. To learn more about the reporting templates, see [Reports](../analytics-and-reports/reports/).
+Depending on your SAM Tool setup, you may need to amend the standard reporting templates. To learn more about the reporting templates, see [Reports](../../analytics-and-reports/reports/).
 
 From the **Exports** menu, you can also export your Assets Default, Financial Statement, and Customer License Statement to various formats.
 
@@ -91,15 +91,15 @@ To add items and contracts that haven't been purchased through SoftwareOne to th
 
 1. Download the import template. The following templates are available:
 
-{% file src="../.gitbook/assets/Activation-Key-Import-Template.xlsx" %}
+{% file src="../../.gitbook/assets/Activation-Key-Import-Template.xlsx" %}
 Activation Key Import Tempate
 {% endfile %}
 
-{% file src="../.gitbook/assets/Contract-Import-Template.xlsx" %}
+{% file src="../../.gitbook/assets/Contract-Import-Template.xlsx" %}
 Contract Import Template
 {% endfile %}
 
-{% file src="../.gitbook/assets/Inventory-Import-Template (3).xls" %}
+{% file src="../../.gitbook/assets/Inventory-Import-Template (3).xls" %}
 Inventory Import Template
 {% endfile %}
 

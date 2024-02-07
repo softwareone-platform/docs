@@ -20,8 +20,15 @@
   * [Enterprise Agreement TrueUp](administration/enterprise-agreements/enterprise-agreement-trueup.md)
 * [Purchase Approval Workflows](administration/purchase-approval-setup/README.md)
   * [Set Up Approval Workflows](administration/purchase-approval-workflows/set-up-approval-workflows.md)
-* [Software Assets](administration/software-assets.md)
+* [Software Assets](administration/software-assets/README.md)
 * [User Management](administration/user-management.md)
+
+## Inventory
+
+* [Invoices](inventory/invoices.md)
+* [License Agreements](inventory/license-agreements.md)
+* [Renewal Manager](inventory/renewal-manager.md)
+* [Software Downloads](inventory/software-downloads.md)
 
 ## Cloud Account Onboarding
 
@@ -44,7 +51,6 @@
   * [Buy Products and Services](cloud-marketplace/orders-and-invoices/buy-products-and-services.md)
   * [Make Payments with a Credit Card](cloud-marketplace/orders-and-invoices/make-payments-with-a-credit-card.md)
   * [View Orders](cloud-marketplace/orders-and-invoices/view-orders.md)
-  * [View Invoices](cloud-marketplace/orders-and-invoices/view-invoices.md)
 * [Pricelist Center](cloud-marketplace/pricelist-center/README.md)
   * [View and Manage Prices](cloud-marketplace/pricelist-center/view-and-manage-prices.md)
 * [Procurement Workbench](cloud-marketplace/procurement-workbench/README.md)
@@ -52,10 +58,6 @@
 * [Quotes and Special Quotes](cloud-marketplace/quotes-and-special-quotes/README.md)
   * [Create and Manage Quotes](cloud-marketplace/quotes-and-special-quotes/create-and-view-quotes.md)
   * [Request Pricing for Non-Catalog Products](cloud-marketplace/quotes-and-special-quotes/request-pricing-for-non-catalog-products.md)
-* [Renewal Manager](cloud-marketplace/renewal-manager/README.md)
-  * [Manage Software Renewals](cloud-marketplace/renewal-manager/manage-software-renewals.md)
-* [Software Downloads](cloud-marketplace/software-downloads/README.md)
-  * [View and Manage Software Downloads](cloud-marketplace/software-downloads/view-and-manage-software-downloads.md)
 * [Subscriptions](cloud-marketplace/subscriptions/README.md)
   * [Buy New Subscriptions or Add-Ons](cloud-marketplace/subscriptions/buy-new-subscriptions-or-add-ons.md)
   * [Add or Update AzureSimple Subscriptions](cloud-marketplace/subscriptions/add-or-update-azuresimple-subscriptions.md)
