@@ -96,7 +96,7 @@ The Add role assignment page opens.
 4. Click **Select** to add PyraCloud (Azure) to the Members list. Once PyraCloud (Azure) is added, click **Review + assign**.&#x20;
 5. On the **Review + assign tab**, review the details and click **Review + assign** to confirm the role assignment.&#x20;
 
-### Step 4: Assign the Tag Contributor
+### Step 4: Assign the Tag Contributor role
 
 To assign the Tag Contributor role, follow all of the steps in [Step 3: Assign the Reader role](assign-reader-and-tag-contributor-roles-multiple-subscriptions.md#step-3-assign-the-reader-role), but choose **Tag Contributor** as your role instead of Reader.&#x20;
 
