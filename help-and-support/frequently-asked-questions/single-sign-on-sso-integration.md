@@ -6,8 +6,6 @@ description: Learn the technical aspects of the SSO integration.
 
 Our platform has an SSO Authentication framework that integrates with existing Identity provider tools (such as Azure AD and ADFS) and SAML-based tools (such as Okta and Ping).
 
-***
-
 ## Setting up SSO with SAML <a href="#saml" id="saml"></a>
 
 ### **Setup process**
@@ -59,22 +57,71 @@ URLs are sometimes changed by security software, for example, Proofpoint’s Tar
 
 ## Setting up SSO with Azure AD <a href="#azure-a-d" id="azure-a-d"></a>
 
-### **Setup process**
+To set up SSO with the Client Portal via Azure AD, you must complete the following steps. After you've completed these steps, SoftwareOne will enable SSO with your Azure AD.
 
-1. The customer registers the Client Portal as an application inside their Azure subscription.
-2. The customer creates a client secret for this application that can then be used by SoftwareOne to interact with the user's Azure subscription on behalf of the created application.
-3. The customer adds permissions to the application that allow read access to users and the user directory.
-4. The customer forwards their client secrets and additional information to SoftwareOne.
-5. SoftwareOne completes the SSO setup on the Client Portal side.
+1. [Register the Client Portal with Azure AD](single-sign-on-sso-integration.md#step-1-register-the-client-portal-with-azure-a-d)
+2. [Create a client secret](single-sign-on-sso-integration.md#step-2-create-a-client-secret)
+3. [Add API permissions](single-sign-on-sso-integration.md#step-3-add-api-permissions)
+4. [Collect and forward the information to SoftwareOne](single-sign-on-sso-integration.md#step-4-collect-and-forward-the-information-to-softwareone)
 
-### **Setup information required by the Client Portal**&#x20;
+### Setup Process
 
-| Inputs Required           | Notes                                                                                                                                                           |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Application Client ID     | You can find the **Application (client) ID** on the **Overview** page of the application created in Step 1 (in the Azure Portal).                               |
-| Application Client Secret | Created in step 2.                                                                                                                                              |
-| Microsoft Azure AD Domain | The customer's Azure AD domain name. You can find it on the Azure AD directory’s **Overview** page of the Azure portal.                                         |
-| IdP Domains               | A list of all email domains that must be authenticated through the federated Azure AD, for example, `@customer.com`. Usually 1 domain but can also be multiple. |
+#### Step 1: Register the Client Portal with Azure AD
+
+Follow these steps to register the Client Portal as an application inside your Azure subscription:
+
+1. Sign in to the [Microsoft Azure Portal](https://portal.azure.com/). If you have access to more than one tenant, select your account from the upper right corner. Set your portal session to the Azure AD tenant that you want.
+2. Search for and select **Azure Active Directory**.&#x20;
+3. Under **Manage**, select **App registrations**.
+4. Select **New Registration**.
+5. In **Register an application**, enter a meaningful application name to display to the users, for example, Client Portal.
+6. In **Supported account types**, select **Accounts in any organizational directory (Any Microsoft Entra directory - Multitenant)**.
+7. In **Redirect URI**, select the Redirect URI type as **Web**, and enter your callback URL: [https://login.pyracloud.com/login/callback](https://login.pyracloud.com/login/callback).
+8. Click **Register**.
+
+#### Step 2: Create a client secret
+
+SoftwareOne will use the client secret to interact with your Azure subscription on behalf of the created application.&#x20;
+
+Follow these steps to create a secret:
+
+1. From the **Overview** page of the app, select **Certificates & secrets** > **Client secrets** > **New client secret**.
+2. Add a description for your client secret.
+3. Set the expiration date for the secret.
+4. Select **Add**.
+5. Make a note of the client secret value. Note that the value will not be accessible again after you leave this page.
+
+{% hint style="info" %}
+We recommend that you create a reminder to renew your client secret, at least two weeks before it expires. Once you've created a new secret, provide the value to SoftwareOne so that it can be updated in the system. If your client secret has expired or is no longer valid, you will be unable to sign in to the Client Portal using SSO.
+{% endhint %}
+
+#### Step 3: Add API permissions
+
+Follow these steps to add permissions that allow read access to users and the user directory:
+
+1. From the app Overview page, select **API permissions**.&#x20;
+2. Under **Configured permissions**, select **Add a permission**.&#x20;
+3. Configure permissions for the Microsoft Graph API.
+4. Once you've selected the API, you'll see the **Request API Permissions** page.&#x20;
+5. Enable the following permissions:&#x20;
+   * **Users** > **User.Read**
+   * **Directory** > **Directory.Read.All**
+6. Select **Add permissions** to complete the process.
+
+{% hint style="info" %}
+Enabling the **Directory** > **Directory.Read.All** permission is optional. If you want to benefit from future user auto-provisioning, then turn it on. However, for SSO to work, this permission is not required.
+{% endhint %}
+
+#### Step 4: Collect and forward the information to SoftwareOne
+
+Provide the following information to SoftwareOne. Once received, SoftwareOne can complete the setup and the Client Portal will automatically start forwarding all users of the specified IdP domains to your Azure AD for federated authentication.
+
+| Inputs Required           | Notes                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Application Client ID     | You can find the Application (client) ID on the overview page of the application created in [Step 1: Register the Client Portal with Azure AD](https://docs.platform.softwareone.com/\~/changes/NARGHMkE84GBJ3EnprxK/help-and-support/frequently-asked-questions/how-to-setup-single-sign-on-sso#step-1-register-the-client-portal-with-azure-a-d). |
+| Application Client Secret | Your client secret as created in [Step 2: Create a client secret](https://docs.platform.softwareone.com/\~/changes/NARGHMkE84GBJ3EnprxK/help-and-support/frequently-asked-questions/how-to-setup-single-sign-on-sso#step-2-create-a-client-secret).                                                                                                 |
+| Microsoft Azure AD Domain | Your Azure AD domain name. You can find this on your Azure AD directory's overview page in the Microsoft Azure portal.                                                                                                                                                                                                                              |
+| IdP Domains               | A list of all email domains that must be authenticated through the federated Azure AD, for example, `@customer.com`. Usually 1 domain but can also be multiple.                                                                                                                                                                                     |
 
 ### **Technical specification**
 
