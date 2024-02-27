@@ -132,6 +132,7 @@
   * [What data do you collect for 365 Analytics?](help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md)
   * [What is 365 analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)
   * [What is the difference between subscription manager and cloud subscriptions?](help-and-support/frequently-asked-questions/what-is-the-difference-between-subscription-manager-and-cloud-subscriptions.md)
+  * [I'm unable to view the Reserved Instance data in the Client Portal](help-and-support/frequently-asked-questions/im-unable-to-view-the-reserved-instance-data-in-the-client-portal.md)
 
 ## Terms and Conditions
 

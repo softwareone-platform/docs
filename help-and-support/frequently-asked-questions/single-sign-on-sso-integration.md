@@ -1,7 +1,3 @@
----
-description: Learn the technical aspects of the SSO integration.
----
-
 # How to setup single sign-on (SSO)
 
 Our platform has an SSO Authentication framework that integrates with existing Identity provider tools (such as Azure AD and ADFS) and SAML-based tools (such as Okta and Ping).

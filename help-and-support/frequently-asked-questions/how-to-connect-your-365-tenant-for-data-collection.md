@@ -6,15 +6,11 @@ description: >-
 
 # How to connect your 365 tenant for data collection
 
-***
-
 365 Analytics reporting uses application consent to collect data from your Office 365 tenant. Application consent is used to collect data via the Graph API.&#x20;
 
 To learn why this is important, what data is collected, and what security measures are in place, [What data do you collect for 365 Analytics?](what-data-do-you-collect-for-365-analytics.md)
 
-***
-
-**To connect your 365 tenant**
+Follow these steps to connect your 365 tenant:
 
 1. Browse to the URL that SoftwareOne provided. You'll either receive the URL from the SoftwareOne support team or you'll see a banner in 365 Analytics stating that the data collector requires additional permissions.
 2. Sign in to PyraCloud with the agreed global administrator account. Use the password that was set in PyraCloud, not your Office 365 account password.

@@ -1,41 +1,29 @@
----
-description: >-
-  You can create a read-only administrator account in Office 365 for use with
-  365 Analytics.
----
-
 # How to create service accounts for 365 Analytics reporting
 
-***
-
-365 Analytics Reporting uses a service account to collect data from O365 tenants. Service accounts are used to collect data via PowerShell in cases where data can’t be collected via GraphAPI.
-
-You can create service accounts using PowerShell and Microsoft 365 Admin Center.
+365 Analytics Reporting uses a service account to collect data from O365 tenants. Service accounts are used to collect data via PowerShell in cases where data can’t be collected via GraphAPI. You can create service accounts using PowerShell and Microsoft 365 Admin Center.
 
 Your organization will not be charged by Microsoft for this account as it does not require an Office 365 license.
 
-***
-
 ### Creating a Service Account using PowerShell
 
-We recommend that you use PowerShell to create service accounts because this method contains fewer steps. Before creating an account, ensure that you're connected to Office 365.
+We recommend that you use PowerShell to create service accounts because this method contains fewer steps.&#x20;
 
-**To connect to Office 365**
+{% hint style="info" %}
+Before creating an account, make sure that you're connected to Office 365. If you are not, then follow these steps to connect to Office 365:
 
 1. Install the Microsoft Online Service Module on your system.
 2. Open Windows PowerShell and copy and paste the following commands:
 
 ```powershell
-$Office365credentials = Get-Credential
-Import-Module MSOnline
-Connect-MsolService -Credential $Office365credentials
+    $Office365credentials = Get-Credential
+    Import-Module MSOnline
+    Connect-MsolService -Credential $Office365credentials
 ```
 
-3. When prompted, enter the username and password of the Office 365 Administrator account.
+3. When prompted, enter the username and password of the Office 365 Administrator account. Your account will be connected to Office 365 in PowerShell.
+{% endhint %}
 
-Your account will be connected to Office 365 in PowerShell.
-
-**To create a service account**
+Follow these steps to create a service account:
 
 After your account is connected to Office 365 in PowerShell, follow these steps to create a service account:
 
@@ -60,10 +48,8 @@ Get-MsolRoleMember -RoleObjectId $role.ObjectId
 ```
 
 {% hint style="info" %}
-**NOTE:** You'll not receive a confirmation if the commands are successful.
+You'll not receive a confirmation if the commands are successful.
 {% endhint %}
-
-***
 
 ### Creating a Service Account using the Microsoft 365 Admin Center
 
@@ -81,7 +67,7 @@ You can create a service account via the Microsoft 365 Admin Center, however, yo
 8. Review the data and select **Finish adding** on the last page.
 
 {% hint style="info" %}
-**NOTE:** If the password of the service account has expired or needs to be changed, you must change it in Office and in the Tenant Management System Client.
+If the password of the service account has expired or needs to be changed, you must change it in Office and in the Tenant Management System Client.
 {% endhint %}
 
 If your company policy allows passwords to never expire, you can do so using the following PowerShell command:
@@ -91,8 +77,6 @@ If your company policy allows passwords to never expire, you can do so using the
 Set-MsolUser -UserPrincipalName 365Analyitcs@company.onmicrosoft.com -PasswordNeverExpires $true
 ```
 {% endcode %}
-
-***
 
 ### Connecting your tenant
 

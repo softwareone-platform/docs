@@ -1,14 +1,6 @@
----
-description: >-
-  Follow these steps to allow the Client Portal and SoftwareOne to access your
-  Microsoft tenant.
----
-
 # How to configure conditional access policies
 
 Microsoft has released a preview feature to support allowing access to service providers (like SoftwareOne) through Conditional Access policies. To learn about Conditional Access, see the [Microsoft documentation](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/authentication-conditional-access#conditional-access-for-external-users.).&#x20;
-
-***
 
 ### Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
@@ -16,15 +8,13 @@ To exclude SoftwareOne and the Client Portal from your blocking Conditional Acce
 
 Even though SoftwareOne has over one hundred of these reseller tenants, only one or two will apply to you. The only way to find out the reseller tenant IDs you need to use is to log a support ticket with our Support team.
 
-***
-
 ### Configuring conditional access policies <a href="#configure-conditional-access" id="configure-conditional-access"></a>
 
 For configuring conditional access policies, determine which Conditional Access policies are blocking SoftwareOne and the Client Portal.&#x20;
 
 Before you can exclude Client Portal and SoftwareOne from your policies, you need to know exactly which policies are affecting access. You can do this using the **What If** capability of Conditional Access.
 
-**To configure conditional access policies**
+Follow these steps to configure conditional access policies
 
 1. In the Azure portal, navigate to [Azure AD Conditional Access](https://portal.azure.com/#view/Microsoft\_AAD\_ConditionalAccess/ConditionalAccessBlade/\~/Policies).&#x20;
 
@@ -51,8 +41,6 @@ Before you can exclude Client Portal and SoftwareOne from your policies, you nee
 At the bottom of the page, you will see the list of **Policies that will apply**. Make a note of these policies as these are the ones you will need to modify to exclude the Client Portal and SoftwareOne.
 
 <figure><img src="../../.gitbook/assets/Policies that will apply.png" alt=""><figcaption></figcaption></figure>
-
-***
 
 ### Excluding the Client Portal and SoftwareOne from the policy <a href="#exclude-pyracloud-and-softwareone-from-a-policy" id="exclude-pyracloud-and-softwareone-from-a-policy"></a>
 
@@ -101,5 +89,5 @@ SoftwareOne cannot be held liable for damages caused by the misconfiguration of 
 Repeat the steps in this section for each policy that you noted in the previous section.
 
 {% hint style="info" %}
-**NOTE**: At this point, you may wish to temporarily change the policy to **Report-only** to check whether existing access is still working correctly. If you do this, please remember to enable the policy again once you are confident it is working as expected.
+At this point, you may wish to temporarily change the policy to **Report-only** to check whether existing access is still working correctly. If you do this, please remember to enable the policy again once you are confident it is working as expected.
 {% endhint %}

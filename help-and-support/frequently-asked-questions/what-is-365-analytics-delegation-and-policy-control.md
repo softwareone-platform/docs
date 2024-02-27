@@ -1,19 +1,12 @@
----
-description: >-
-  Delegation and Policy Control allows a variety of user types to do their jobs
-  more productively, in a secure fashion, and without requiring elevated
-  administration credentials.
----
-
 # What is 365 analytics delegation and policy control?
+
+Delegation and Policy Control allows a variety of user types to do their jobs more productively, in a secure fashion, and without requiring elevated administration credentials.
 
 ### Office 365 Delegated Administration
 
 Delegation and Policy Control (DPC) for Office 365 helps organizations become more productive by enabling granular roles and responsibilities to be assigned to selected users, such as help desk operators, country-level administrators, or even end-users, setting clear boundaries on all delegated permissions.
 
 Providing more granular delegation than the default Microsoft administrator roles is especially important for larger enterprises, companies that have multiple operating entities or business units, universities, and any organization that needs to delegate access widely across the organization.
-
-***
 
 ### The benefits of 365 Analytics DPC
 
@@ -24,8 +17,6 @@ Delegation and Policy Control allow a variety of user types to do their jobs mor
 * **Business owners** can manage their own teams whilst ensuring that naming conventions are adhered to&#x20;
 * **Office managers** can set out-of-the-office notifications for users within a specific geography or business unit &#x20;
 * **HR personnel** can correct data for users in AD or AAD and create mailbox aliases or set forwarding.
-
-***
 
 ### Office 365 Delegated Admin Access
 
@@ -38,8 +29,6 @@ Having a member of the HR team raise a ticket to change an incorrect detail in A
 DPC also provides a Virtual Organizational Unit (OU) which provides a way to group users, teams, or other elements into logical units which can then again be used to delegate rights to those who need to operate on these groups or teams.&#x20;
 
 All DPC actions are recorded in a 365 Analytics read-only log file, which enables the organization to track which actions were taken, by whom, and at what time.
-
-***
 
 ### Authorization, Licensing, and Configuration Policies
 

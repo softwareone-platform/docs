@@ -1,10 +1,4 @@
----
-description: Learn the differences between subscription manager and cloud subscriptions.
----
-
 # What is the difference between subscription manager and cloud subscriptions?
-
-***
 
 We initially developed Subscription Manager to help you to manage your existing license quantities for your Office 365 Subscriptions.
 
