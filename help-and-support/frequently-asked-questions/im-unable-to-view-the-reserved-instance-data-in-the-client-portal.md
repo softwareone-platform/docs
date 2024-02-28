@@ -4,7 +4,13 @@ In some cases, the consumption data for your Azure Reserved Instances might be u
 
 If you are not able to view the data, you must update your permissions and assign the Reservations reader role to each tenant through the Azure Portal.&#x20;
 
-To learn about the Reservation reader role and how to assign it, see [Permissions to view and manage Azure reservations](https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/view-reservations) in the Microsoft documentation. You can also assign the role by following the steps in this topic.
+To learn about the Reservation reader role and how to assign it, see [Permissions to view and manage Azure reservations](https://docs.microsoft.com/en-us/azure/cost-management-billing/reservations/view-reservations). You can also assign the role by following the steps in this topic.
+
+## Before you begin <a href="#assign-the-owner-role-for-all-reservations" id="assign-the-owner-role-for-all-reservations"></a>
+
+{% hint style="info" %}
+You can assign the Reservations reader role only if you have the User Access Administrator or Owner role in Azure. If you need to elevate your access, see [Elevate access to manage all Azure subscriptions and management groups](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin?tabs=azure-portal).
+{% endhint %}
 
 ## Assign the **Reservations Reader** role through Azure <a href="#assign-the-owner-role-for-all-reservations" id="assign-the-owner-role-for-all-reservations"></a>
 
