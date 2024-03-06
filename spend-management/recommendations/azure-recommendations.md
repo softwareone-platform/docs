@@ -1,14 +1,18 @@
-# Azure Recommendations
+---
+description: Manage your Azure recommendations.
+---
 
-Azure recommendations are categorized under the following categories:
+# Azure recommendations
 
-* **Savings:** These recommendations when actioned can enable cost savings.
-* **Risk:** These recommendations help mitigate compliance risk for licenses that seem to come from a non-compliance position.
-* **Security:** These recommendations help to improve the security of the Azure environment.
-* **High Availability:** These recommendations help to improve the high availability of the Azure environment.
-* **Performance:** These recommendations help improve the performance of the Azure environment.
+Microsoft Azure recommendations are divided into the following categories:
 
-All Azure Recommendations have a Cloud Recommendation Type. For recommendations recommended by Azure, some examples of recommendation types are:
+* **Savings** - These recommendations enable cost savings.
+* **Risk** - These recommendations help mitigate compliance risk for licenses that may come from a non-compliance position.
+* **Security** - These recommendations help to improve the security of an Azure environment.
+* **High Availability** - These recommendations help to improve the availability of an Azure environment.
+* **Performance** - These recommendations help improve the performance of an Azure environment.
+
+All Azure Recommendations have a Cloud Recommendation type. The following are some examples of the Azure recommendations:
 
 * Buy Reserved Instances
 * Shutdown or Resize your Virtual Machine
@@ -16,26 +20,45 @@ All Azure Recommendations have a Cloud Recommendation Type. For recommendations 
 * Enable Soft Delete
 * Enable Backup
 
-***
+## Associate recommendations with resources <a href="#associating-recommendations-with-resources" id="associating-recommendations-with-resources"></a>
 
-### Associating Recommendations with Resources <a href="#associating-recommendations-with-resources" id="associating-recommendations-with-resources"></a>
+All Azure recommendations that are recommended by Azure (and not by SoftwareOne services) are automatically associated with resources whether they are virtual machines, storage accounts, or databases. For example, recommendations of **SQL DB Advisor recommendations** type are associated with SQL databases that need to be acted on.
 
-All Azure recommendations that are recommended by ‘Azure’ (and not by SoftwareONE services) are automatically associated with resources whether they are virtual machines, storage accounts, or databases.
+The association from a recommendation to a related Client Portal resource is available on the **Related Resources** tab:
 
-For example, recommendations of type ‘SQL DB Advisor recommendations’ are associated with SQL databases that need to be acted on.
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Related Resources tab</p></figcaption></figure>
 
-The association from a recommendation to a related PyraCloud resource is available on the **Related Resources** tab on the Recommendation Details page.
+## Complete Azure recommendations <a href="#completion-of-azure-recommendations" id="completion-of-azure-recommendations"></a>
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+The Client Portal can detect the completion of recommendations in Azure. When a recommendation is completed in Azure:
 
-***
-
-### Completion of Azure recommendations <a href="#completion-of-azure-recommendations" id="completion-of-azure-recommendations"></a>
-
-The Client Portal can detect the completion of recommendations in Microsoft Azure.&#x20;
-
-When a recommendation is detected as being completed on Azure, the status on that recommendation will automatically be set to Completed, and the potential savings amount on the recommendations will be set to **Realised**. When this happens, the recommendation will be moved from the **Active** tab to the **Realised** tab, and the realized savings from the recommendation will start to reflect on the Savings tile on the Azure tab.
+* The status of that recommendation is set to **Completed** in the Client Portal.&#x20;
+* The potential savings amount on the recommendations is set to **Realised**.
+* The recommendation is moved from the **Active** tab to the **Realised** tab.
+* The realized savings from the recommendation are displayed on the **Savings** tile.
 
 {% hint style="info" %}
-**NOTE**: The Client Portal doesn't track the realization of Reserved Instance recommendations from Microsoft Azure. This means when recommendations with the **Buy Reserved Instances** or **Renew Reserved Instances** type are completed, the Client Portal will not track any savings realized as part of completing these recommendations.
+The Client Portal doesn't track the realization of Reserved Instance recommendations from Microsoft Azure. It means that when a Buy Reserved Instances or Renew Reserved Instances recommendation is completed, the Client Portal won't track any savings realized as part of completing these recommendations.
 {% endhint %}
+
+## Related topics
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
+{% content-ref url="working-with-recommendations.md" %}
+[working-with-recommendations.md](working-with-recommendations.md)
+{% endcontent-ref %}
+
+{% content-ref url="manage-recommendations.md" %}
+[manage-recommendations.md](manage-recommendations.md)
+{% endcontent-ref %}
+
+{% content-ref url="aws-recommendations.md" %}
+[aws-recommendations.md](aws-recommendations.md)
+{% endcontent-ref %}
+
+{% content-ref url="office-365-recommendations.md" %}
+[office-365-recommendations.md](office-365-recommendations.md)
+{% endcontent-ref %}

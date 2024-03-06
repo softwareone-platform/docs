@@ -4,13 +4,9 @@ description: Learn how to access and view your invoices.
 
 # Invoices
 
-***
-
 The Invoices module allows you to search for and view your invoices. You can also export your invoices to the available formats, including PDF and Excel, and create a report of your invoices.&#x20;
 
 To access your invoices, navigate to the [main menu](../using-the-client-portal/navigate-the-home-page.md#main-menu) of the Client Portal and select **Inventory** > **Invoices**.&#x20;
-
-***
 
 ## Finding and viewing invoices
 

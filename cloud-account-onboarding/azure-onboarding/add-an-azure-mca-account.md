@@ -19,7 +19,7 @@ The Client Portal supports both legacy Enterprise Agreement and modern [Microsof
 2. From the left navigation pane, select **Cost Management + Billing.**
 3. Navigate to **Settings** > **Properties** to verify your Azure billing account type.
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Assigning the Billing Account Reader role (Azure Portal)
 
@@ -28,11 +28,11 @@ The Client Portal supports both legacy Enterprise Agreement and modern [Microsof
 1. Sign in to the [Azure Portal](https://portal.azure.com). Search for **Cost Management + Billing.**
 2. In the left navigation pane, select **Billing scopes** and then select your MCA billing scope.
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Select **Access Control (IAM)** to assign permissions.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Select **Add** and then from the Role dropdown list, select **Billing account reader**.
 

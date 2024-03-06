@@ -4,8 +4,6 @@ description: Use the Collaboration Site to store and share large files.
 
 # Collaboration Site
 
-***
-
 The Collaboration Site can be accessed by navigating to the [user profile menu](../using-the-client-portal/navigate-the-home-page.md#user-profile-menu) and then selecting **Collaboration Site**.
 
 Collaboration Site allows you to share files large files, for example, your project files and deliverables for a managed service engagement. Access to the Collaboration Site is based on permissions and only authorized users can access the site.&#x20;
@@ -35,8 +33,6 @@ Administrators can grant access to the Collaboration Site from within the site o
 3. On the Manage Permissions page, make changes as necessary. You can update permissions, assign multiple users to a workspace, and delete a user to remove their access rights.
 4. Select **Save**.
 
-***
-
 ## Granting access to the **Transactions** workspace <a href="#storefront-documents" id="storefront-documents"></a>
 
 The **Transactions** workspace within the Collaboration Site contains files attached to the orders placed through the Client Portal. Only those users who have access to the folder can view and download files.
@@ -47,8 +43,6 @@ The **Transactions** workspace within the Collaboration Site contains files atta
 2. On the User Management page, locate the user that requires access to the **Transactions** workspace, and select **View** in the **Actions** column. The user details page is displayed.&#x20;
 3. Under **Feature Permissions**, navigate to **Collaboration Site** and enable **View Storefront Documents.**
 4. Save your changes.
-
-***
 
 ## Downloading files and folders <a href="#downloading-files-and-folders" id="downloading-files-and-folders"></a>
 
@@ -63,8 +57,6 @@ Authorized users can easily download a folder and its contents from the Collabor
 
 Your download will begin. Note that it might take some time for the large files to download completely.
 
-***
-
 ## Creating new folders
 
 Authorized users can create new folders within the Collaboration Site.
@@ -73,8 +65,6 @@ Authorized users can create new folders within the Collaboration Site.
 
 1. Select **Add New Folder** and provide a unique name for your folder.
 2. Select **Create**. The new folder is created and displayed as a child folder within the main folder.&#x20;
-
-***
 
 ## Managing files and folders <a href="#uploading-files" id="uploading-files"></a>
 
@@ -87,8 +77,6 @@ You can upload a single or multiple files to a new folder. Before uploading a fi
 1. Select the **Upload file** option.
 2. Choose the file that you want to upload.
 
-***
-
 ### Renaming files and folders <a href="#renaming-files-and-folders" id="renaming-files-and-folders"></a>
 
 **To rename a file or folder**
@@ -96,8 +84,6 @@ You can upload a single or multiple files to a new folder. Before uploading a fi
 1. Navigate to the folder or file that you want to rename.
 2. In the **Actions** column, select the ellipsis ( ••• ) and choose **Rename**.&#x20;
 3. Provide a unique name and save your changes.
-
-***
 
 ### Deleting files and folders <a href="#deleting-files-and-folders" id="deleting-files-and-folders"></a>
 
@@ -108,8 +94,6 @@ Use caution when deleting files and folders.
 1. Navigate to the folder or the file that you want to delete.
 2. In the **Actions** column, select the ellipsis ( ••• ) and choose **Delete**.&#x20;
 3. Confirm that you want to delete the file or folder.
-
-***
 
 ### Moving files and folders **to a different location** <a href="#moving-files-and-folders" id="moving-files-and-folders"></a>
 

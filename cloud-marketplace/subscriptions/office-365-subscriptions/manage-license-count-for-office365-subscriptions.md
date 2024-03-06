@@ -10,15 +10,11 @@ description: >-
 
 On the dashboard, click **Manage** in the navigation menu and choose **Subscription Manager**.
 
-***
-
 ### Select Your Tenant <a href="#select-your-tenant" id="select-your-tenant"></a>
 
 On the Subscription Updates tab, select the tenant you wish to work with under the Select Cloud Account heading.
 
 If you only have one tenant, it will be selected automatically.
-
-***
 
 ### View Your Tenant Summary <a href="#view-your-tenant-summary" id="view-your-tenant-summary"></a>
 
@@ -28,8 +24,6 @@ Directly below the Selected Cloud Account, the tenant summary information is vis
 * **Contract Details:** The contract number, contract start date and your support level are displayed.
 * **Links**: Links to Consumption Analytics (for this tenant), your 365Simple contract, and the Microsoft Office 365 Portal are displayed.
 
-***
-
 ### Update Your Subscriptions <a href="#update-your-subscriptions" id="update-your-subscriptions"></a>
 
 Subscription Manager supports storing several changes and applying them all together as a single order.
@@ -37,8 +31,6 @@ Subscription Manager supports storing several changes and applying them all toge
 As you adjust subscriptions and add-ons in Subscription Manager, your changes are stored as a “draft”. A “draft” represents a set of changes to one or more subscriptions or add-ons in your tenant.
 
 Once you are happy with your changes, you can then apply them immediately, or send them for approval by another user in your organization.
-
-***
 
 ### Prepare Your Changes <a href="#prepare-your-changes" id="prepare-your-changes"></a>
 
@@ -70,8 +62,6 @@ Change the status of add-ons in the grid.
 
 Finally, adjust the quantity of add-ons in the grid.
 
-***
-
 #### Apply Your Changes Immediately <a href="#apply-your-changes-immediately" id="apply-your-changes-immediately"></a>
 
 Once you have made all the required adjustments, navigate back to the main subscriptions tab by clicking the Back to Subscription Manager button at the bottom of any page.
@@ -86,8 +76,6 @@ There are two ways to apply your changes depending on the permissions you have b
 
 1. **Apply Now**: If you have been granted the “Apply Now” permission, you can apply your changes straight away. These changes will take effect immediately, and your new licenses will be available to assign to users within a few minutes.
 2. **Send for Approval**: If you have been granted the “Send for Approval” permission, you can select another user in your organization who has the “Apply Now” permission to apply your changes for you
-
-***
 
 #### Apply Now <a href="#apply-now" id="apply-now"></a>
 

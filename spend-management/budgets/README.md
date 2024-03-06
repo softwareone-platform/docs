@@ -1,30 +1,54 @@
 ---
-description: >-
-  Define cloud budgets and assign them to groups within your business or cloud
-  service provider.
+description: Create and manage your budgets.
 ---
 
 # Budgets
 
-***
+Budgets allow you to define cloud budgets and assign them to groups within your business or cloud service provider. You can assign individual budgets in the following two areas:
 
-Budgets are a part of Spend Management. Budgets allow you to assign individual budgets in two areas:
+* **Custom groups** - Allows you to assign individual budgets to Custom Groups defined within Custom Groups. This allows you to manage time period and monetary values for your spending defined by your business.
+* **Service Provider** - Allows you to assign individual budgets to Enrollments, Subscriptions, or Tenants (depending on the provider terms). Service provider budgets enable you to manage time period and monetary values for your spending tied to your providers.
 
-* **Customer-Centric Budgeting**: This area of Budgets allows you to assign individual Budgets to Custom Groups defined within Custom Groups (CG). This allows you to manage time periods and monetary values for your Spend defined by your business.
-* **Service Provider Centric Budgeting**: This area of Budgets allows you to assign individual budgets to Enrollments, Subscriptions, or Tenants (depending on the provider terms). This allows you to manage time periods and monetary values for your spend tied to your providers.
+To access Budgets, navigate to the main menu of the Client Portal and select **Analyze** > **Budgets**.
 
-***
+## Budget cost models
 
-### Before creating budgets <a href="#before-you-start" id="before-you-start"></a>
+If you have purchased any Reserved Instances, you can choose between the following two cost models:
 
-* **Set up a customer-centric view:** In order to assign budgets to individual groups, it is required to set up the structure in Custom Groups first. Without the setup of Custom Groups, you will only be able to see the “Per Provider” view in Budget Manager.
-* **Set up a currency:** This is required to allow you to use your internal reporting currency across all Custom Groups, and manage the budgets and consumption in your individual currency. This is done for the following reasons:
-  * If you are using multiple Providers in different sourcing currencies, the platform will convert them to your set currency to harmonize the use for your convenience
-  * The configured currency is also the default currency within Consumption Overview (native sourcing currency available at any time)
-  * Consumption values are converted on a daily basis based on the Foreign Exchange rates
+* **Actual Cost** - Represents Reserved Instance purchase cost as a one-time cost (single spend record).
+* **Amortized Cost** - Equally distributes Reserved Instance purchase cost across months of the reservation time period.
 
-{% hint style="info" %}
-**NOTE**: The currency can only be changed before configuring the first Budget. Changing currencies later will require the removal of all Budgets.
-{% endhint %}
+## Budget notifications <a href="#budget-creation-and-change-notifications" id="budget-creation-and-change-notifications"></a>
 
-* **Currency in the Per Provider View**: The “Per Provider” view is always shown in the native sourcing currency and allows you to prepare your engagement with the Provider. Amounts and utilization are not converted and are available at any time within Budgets or for further reporting through Consumption Overview.
+When a budget is created or changed by someone other than the budget owner, the owner will receive a notification regarding the change, including when:&#x20;
+
+* A new budget is created.
+* The budget amount has changed.
+* The budget name has been changed.
+* The start date or end date of the budget has been changed.
+
+## Related topics
+
+{% content-ref url="create-a-reporting-period.md" %}
+[create-a-reporting-period.md](create-a-reporting-period.md)
+{% endcontent-ref %}
+
+{% content-ref url="create-custom-group-budgets.md" %}
+[create-custom-group-budgets.md](create-custom-group-budgets.md)
+{% endcontent-ref %}
+
+{% content-ref url="create-per-provider-budgets.md" %}
+[create-per-provider-budgets.md](create-per-provider-budgets.md)
+{% endcontent-ref %}
+
+{% content-ref url="view-budgets.md" %}
+[view-budgets.md](view-budgets.md)
+{% endcontent-ref %}
+
+{% content-ref url="request-to-create-or-update-budgets.md" %}
+[request-to-create-or-update-budgets.md](request-to-create-or-update-budgets.md)
+{% endcontent-ref %}
+
+{% content-ref url="edit-budget-utilization-alerts.md" %}
+[edit-budget-utilization-alerts.md](edit-budget-utilization-alerts.md)
+{% endcontent-ref %}

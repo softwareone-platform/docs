@@ -6,18 +6,22 @@ description: >-
 
 # Purchase Approval Workflows
 
-***
+The Client Portal allows you to set up approval workflows and approval groups depending on the price or publisher. An approval group represents a set of individuals who can approve orders.&#x20;
 
-The Client Portal allows you to set up approval workflows depending on the price or publisher.&#x20;
+By creating workflows and approval groups, you can simplify the configuration and maintenance of the approval limits assigned to individual users.&#x20;
 
-{% hint style="info" %}
-**NOTE**: Only administrators can create Purchase Approval Workflows. If any other user requires access, either the administrator can set it up or the user can contact their SoftwareOne Account Manager.
-{% endhint %}
+After creating groups, you can maintain them easily by linking approval groups together through parent-child relationships. Each approval group can only have one parent but it can be used as a child in several approval groups.
 
-Workflows and approval groups help you simplify the configuration and maintenance of the approval limits that are assigned to individual users.
+## Related topics
 
-Approval groups are assigned to users and they represent a set of individuals who can approve orders. Through approval groups, you can create a group of users who are responsible for approvals.
+{% content-ref url="../purchase-approval-workflows/create-approval-groups.md" %}
+[create-approval-groups.md](../purchase-approval-workflows/create-approval-groups.md)
+{% endcontent-ref %}
 
-To reduce the effort of maintaining a group, you can link approval groups together through parent-child relationships. Each approval group can only have one parent but it can be used as a child in several approval groups.
+{% content-ref url="../purchase-approval-workflows/create-approval-workflows.md" %}
+[create-approval-workflows.md](../purchase-approval-workflows/create-approval-workflows.md)
+{% endcontent-ref %}
 
-Administrators can create three levels of purchase approval groups, add users to an approval group, and assign individual workflow for each user. For information, see [Set Up Approval Workflows](../purchase-approval-workflows/set-up-approval-workflows.md).
+{% content-ref url="../purchase-approval-workflows/delete-workflow-rules.md" %}
+[delete-workflow-rules.md](../purchase-approval-workflows/delete-workflow-rules.md)
+{% endcontent-ref %}

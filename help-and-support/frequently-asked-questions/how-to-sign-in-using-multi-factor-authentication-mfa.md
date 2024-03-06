@@ -23,11 +23,11 @@ In this example, we've used Google Authenticator, but the steps are the same for
 1. Download the Google Authenticator app from the Google Play store.
 2. Open the Authenticator app and choose **Scan a QR code.**
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="252"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="252"><figcaption></figcaption></figure>
 
 3. Point the camera of your mobile phone to the QR code on the Client Portal page and wait for the scanned data to be added to your Authenticator app.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Use an existing Authenticator app**
 
@@ -35,7 +35,7 @@ If you already have an Authenticator app installed on your phone, perform these 
 
 1\. Open the app and tap on the **Plus** sign in the bottom right corner.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="251"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt="" width="251"><figcaption></figcaption></figure>
 
 2. Choose **Scan QR Code**.&#x20;
 3. Point the camera of your phone to the QR code on the Client Portal and wait for the scanned data to be added to your Authenticator app.
@@ -46,11 +46,11 @@ If you have problems scanning the QR Code,&#x20;
 
 1. Select **Trouble Scanning?** on the login page:
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt="" width="361"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt="" width="361"><figcaption></figcaption></figure>
 
 2. Write down or copy the one-time code:
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 3. Tap on **Enter a setup key** in your Authenticator app and provide your account name, secret code, and choose your preferred time criteria.
 
@@ -58,15 +58,15 @@ If you have problems scanning the QR Code,&#x20;
 
 After you successfully perform the above steps, your Client Portal account will be on a list similar to the following image. Each account is shown in a separate row. The six-digit code is the OTP code you will need to enter on the login page when you are asked for your one-time code.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt="" width="316"><figcaption></figcaption></figure>
 
 1. Enter the OTP code on the login screen and click **Continue.**
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 2. Copy the recovery code and store it in a secure place. You can use the recovery code to sign in to the Client Portal when you don't have access to the Authenticator app on your mobile phone.
 
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 After your successful setup and initial login, you can use the Client Portal.
 
@@ -76,7 +76,7 @@ After your successful setup and initial login, you can use the Client Portal.
 
 After setup, enter the OTP code from your Authenticator app to sign-in page.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE**: The Authenticator app shows the duration the OTP code will be valid for (maximum of 30 seconds). Enter the OTP code in time for a successful login. If there are only a few seconds left, we recommend to wait for the code to refresh.
@@ -86,7 +86,7 @@ After setup, enter the OTP code from your Authenticator app to sign-in page.&#x2
 
 If you don't have access to your Authenticator app, you can also sign in using your one-time recovery code. When you are asked for the OTP code, select **Try another method** and then **Recovery code**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (15) (1) (1) (1).png" alt="" width="364"><figcaption></figcaption></figure>
 

@@ -31,7 +31,7 @@ The Client Portal allows you to change your currency and view a list of currenci
 
 The **Currency Overview** page (**Setup** > **Currency Overview**) displays a list of currencies you can transact in.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

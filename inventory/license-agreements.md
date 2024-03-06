@@ -12,8 +12,6 @@ Watch the following video tutorial on how to access and use License Agreements:
 
 {% embed url="https://vimeo.com/901511253" %}
 
-***
-
 ## Searching for agreements
 
 The License Agreements page contains filters to help you find the agreement you want to view or manage. You can search using:
@@ -32,8 +30,6 @@ To find an agreement, specify the search parameters and then select **Search**. 
 
 After you have found the agreement, you can view detailed information or export the agreement to any of the available formats.
 
-***
-
 ## Using Grid and Timeline View options
 
 By default, the License Agreements page displays the agreement data in a Grid View. You can customize the data to show selected columns and rearrange them in the order you wish.
@@ -41,8 +37,6 @@ By default, the License Agreements page displays the agreement data in a Grid Vi
 You can also change the view and select **Timeline View** to view your agreements as a timeline. The timeline view allows you to track and visualize your expiring agreements.&#x20;
 
 By selecting **Export to PDF**, you can export the timeline view to a PDF file. Note that you must have a PDF reader installed on your system to view the exported PDF document.
-
-***
 
 ## Exporting license agreement reports
 
@@ -64,8 +58,6 @@ Once your export is complete, you can view it by hovering over **Exports** and s
 
 Alternatively, select the main menu of the Client Portal and navigate to **Analyze** > **Reports**. To learn more about reports and their features, see [Reports](../analytics-and-reports/reports/).
 
-***
-
 ## **Exporting** expiration **date to Outlook**
 
 You can export an agreement expiration date to Outlook to keep track of your expiring agreements.&#x20;
@@ -80,8 +72,6 @@ Note that Outlook reminders can only be set for contracts that have an end date 
    * Open the agreement and select **Outlook Export** in the upper right.&#x20;
 3. When the download completes, open the downloaded file in Outlook.
 4. Verify the agreement details and save the event in your calendar.
-
-***
 
 ## Viewing agreement details
 

@@ -48,7 +48,7 @@ Watch the following video tutorial or continue reading for information on how to
    5. Select the **Renewal** check box if your special quote request is for product renewal. Clear the checkbox if you're requesting a new product.
 4. Provide details of the product. Note that this section is displayed only after you choose the publisher.
 
-<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Under **Request Instructions**, do the following:
    1. Select a priority level for your request.&#x20;

@@ -35,9 +35,9 @@ Widgets like “Invoices”, “Add user” and “Service Review” are based o
 
 If you are unable to see the widgets, contact your administrator to check your permissions.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -45,7 +45,7 @@ If you are unable to see the widgets, contact your administrator to check your p
 
 This widget displays billing cycles from the past 90 days. It will usually contain the last 3 billing cycles, but it may also contain 4 if the billing cycle is spanning across two months.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you hover over each billing cycle, you will see the billing date range, currency, subscription breakdown and total amount.
 
@@ -61,13 +61,13 @@ Clicking on the widget will take you to the “My Subscriptions” page where yo
 
 In contrast to billing information, it is not possible to show usage and subscription assignments per agreement (this is not supported by vendors). Therefore “Product Usage” and “Top 5 Assigned Subscriptions” show information per Microsoft tenant (as noted on the yellow label within each widget).
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The “Product Usage” widget provides you with an overview of active and inactive licenses and highlights opportunities to adjust the use vs. cost ratio. By clicking on the widget you are taken to 365Analytics where more in-depth analysis can be performed.
 
 **Note:** Users without permission will not be able to access 365Analytics.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 “Top 5 Subscriptions By Assigned” can also be used to evaluate subscription utilization and accompanying costs. Clicking on the widget will take you to a full consumption report where you can see a more detailed analysis.
 
@@ -79,7 +79,7 @@ One of the biggest advantages for our customers is access to custom-tailored rec
 
 All 365Simple recommendations are provided directly, articles are written by SoftwareONE experts and backed by data-driven intelligence.
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -91,13 +91,13 @@ If no tickets have been logged, users will have the option to create a new reque
 
 Clicking on the widget takes you to the “Help and Support” page where all ticket details can be found.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Recent Subscription Changes <a href="#recent-subscription-changes" id="recent-subscription-changes"></a>
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This widget provides a quick overview of all subscription changes in the current month, ordered by biggest license seat count change.
 
@@ -109,9 +109,9 @@ If no changes are available, the widget will provide you with easy access to the
 
 365Simple customers can also quickly check the latest Microsoft 365 news without leaving the platform. Highly versatile filters can narrow down new features by products that are already rolled out, products that are planned, and products that are currently in development.
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="536"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt="" width="536"><figcaption></figcaption></figure>
 
 ***
 

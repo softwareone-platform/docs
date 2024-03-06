@@ -1,22 +1,43 @@
 ---
 description: >-
-  You can create cloud spend management as well as software asset spend
-  management.
+  Cloud Managed Services customers can manage spending with ease through the
+  Client Portal.
 ---
 
 # About Spend Management
 
-***
+SoftwareOne's Cloud Managed Services customers can optimize spending across multiple cloud resources through the Client Portal. To manage spending effectively, you can create a customized cloud and spend management solution that caters specifically to your business needs.
 
-The Client Portal can help you create a cloud spend and software assets spend governance solution tailored to your business.
+#### Cloud Spend Management&#x20;
 
-* With Cloud spend management, you can view and predict cloud usage and spending across Azure, AWS, Office 365, and Adobe.
-* With Software Assets spend management, you can tag, track, and manage your software asset spend across your business.
+With Cloud Spend Management, you can view and predict cloud usage across Azure, AWS, and Office 365. You can also tag cloud resources, set budgets, track usage and spending against budgets, and set up chargebacks. You can also create alerts so you are notified if you are nearing certain thresholds, and view recommendations that can identify possible cost savings, performance, and security enhancements.
 
-For information about the various features that make up our Spend Management solution, see the following links:
+#### Software Asset Spend Management
 
-* [Budgets](budgets/)
-* [Chargebacks](chargebacks/)
-* [Custom Groups](custom-groups/)
-* [Recommendations](recommendations/)
-* [Tags and Resources](tags-and-resources/)
+With Software Asset Spend Management, you can efficiently oversee and manage your software asset spending across your organization. You can export your software assets to the other Software Asset Management (SAM) tools and import software assets, including those not procured through SoftwareOne.
+
+## Related topics
+
+{% content-ref url="software-assets/" %}
+[software-assets](software-assets/)
+{% endcontent-ref %}
+
+{% content-ref url="budgets/" %}
+[budgets](budgets/)
+{% endcontent-ref %}
+
+{% content-ref url="chargebacks/" %}
+[chargebacks](chargebacks/)
+{% endcontent-ref %}
+
+{% content-ref url="custom-groups/" %}
+[custom-groups](custom-groups/)
+{% endcontent-ref %}
+
+{% content-ref url="recommendations/" %}
+[recommendations](recommendations/)
+{% endcontent-ref %}
+
+{% content-ref url="tags-and-resources/" %}
+[tags-and-resources](tags-and-resources/)
+{% endcontent-ref %}

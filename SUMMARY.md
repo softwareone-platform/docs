@@ -19,8 +19,9 @@
 * [Enterprise Agreements](administration/enterprise-agreements/README.md)
   * [Enterprise Agreement TrueUp](administration/enterprise-agreements/enterprise-agreement-trueup.md)
 * [Purchase Approval Workflows](administration/purchase-approval-setup/README.md)
-  * [Set Up Approval Workflows](administration/purchase-approval-workflows/set-up-approval-workflows.md)
-* [Software Assets](administration/software-assets/README.md)
+  * [Create approval groups](administration/purchase-approval-workflows/create-approval-groups.md)
+  * [Create approval workflows](administration/purchase-approval-workflows/create-approval-workflows.md)
+  * [Delete workflow rules](administration/purchase-approval-workflows/delete-workflow-rules.md)
 * [User Management](administration/user-management.md)
 
 ## Inventory
@@ -62,8 +63,8 @@
   * [Buy New Subscriptions or Add-Ons](cloud-marketplace/subscriptions/buy-new-subscriptions-or-add-ons.md)
   * [Add or Update AzureSimple Subscriptions](cloud-marketplace/subscriptions/add-or-update-azuresimple-subscriptions.md)
   * [Update a 365Simple Subscription](cloud-marketplace/subscriptions/update-a-365simple-subscription.md)
-  * [Office 365 Subscription Management](cloud-marketplace/subscriptions/office-365-subscription-management/README.md)
-    * [Manage License Count for Office365 subscriptions](cloud-marketplace/subscriptions/office-365-subscription-management/manage-license-count-for-office365-subscriptions.md)
+  * [Office 365 Subscriptions](cloud-marketplace/subscriptions/office-365-subscriptions/README.md)
+    * [Manage License Count for Office365 subscriptions](cloud-marketplace/subscriptions/office-365-subscriptions/manage-license-count-for-office365-subscriptions.md)
 
 ## Analytics and Reports
 
@@ -93,17 +94,28 @@
 ## Spend Management
 
 * [About Spend Management](spend-management/about-spend-management.md)
+* [Software Assets](spend-management/software-assets/README.md)
+  * [Enable or disable software assets](spend-management/software-assets/enable-or-disable-software-assets.md)
+  * [View software assets](spend-management/software-assets/view-software-assets.md)
+  * [Export software assets](spend-management/software-assets/export-software-assets.md)
+  * [Import software assets](spend-management/software-assets/import-software-assets.md)
 * [Budgets](spend-management/budgets/README.md)
-  * [Create Budgets](spend-management/budgets/working-with-budgets.md)
+  * [Create a reporting period](spend-management/budgets/create-a-reporting-period.md)
+  * [Create Custom Group budgets](spend-management/budgets/create-custom-group-budgets.md)
+  * [Create Per-Provider budgets](spend-management/budgets/create-per-provider-budgets.md)
+  * [View budgets](spend-management/budgets/view-budgets.md)
+  * [Request to create or update budgets](spend-management/budgets/request-to-create-or-update-budgets.md)
+  * [Edit budget utilization alerts](spend-management/budgets/edit-budget-utilization-alerts.md)
 * [Chargebacks](spend-management/chargebacks/README.md)
   * [Create Chargebacks](spend-management/chargebacks/working-with-chargebacks.md)
 * [Custom Groups](spend-management/custom-groups/README.md)
   * [Create Custom Groups](spend-management/custom-groups/working-with-custom-groups.md)
 * [Recommendations](spend-management/recommendations/README.md)
-  * [View Recommendations](spend-management/recommendations/working-with-recommendations.md)
-  * [Azure Recommendations](spend-management/recommendations/azure-recommendations.md)
-  * [AWS Recommendations](spend-management/recommendations/aws-recommendations.md)
-  * [Office 365 Recommendations](spend-management/recommendations/office-365-recommendations.md)
+  * [View recommendations](spend-management/recommendations/working-with-recommendations.md)
+  * [Manage recommendations](spend-management/recommendations/manage-recommendations.md)
+  * [Azure recommendations](spend-management/recommendations/azure-recommendations.md)
+  * [AWS recommendations](spend-management/recommendations/aws-recommendations.md)
+  * [Office 365 recommendations](spend-management/recommendations/office-365-recommendations.md)
 * [Tags and Resources](spend-management/tags-and-resources/README.md)
   * [Manage Tags and Resources](spend-management/tags-and-resources/defining-tags-and-managing-resources.md)
 

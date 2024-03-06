@@ -1,14 +1,10 @@
 ---
 description: >-
-  You can adjust the quantity or change the status of your existing 365Simple
+  Adjust the quantity or change the status of your existing 365Simple
   subscription.
 ---
 
 # Update a 365Simple Subscription
-
-***
-
-## About 365Simple Subscriptions
 
 For each 365Simple subscription or add-one, you can view the following information on the **My Subscription** page:
 
@@ -50,8 +46,6 @@ After you update the subscription, it can take up to 30 seconds for your changes
 When the confirmation message is displayed, select **View Order** to go to the Billing section to view more details about your order, or select **Manage Subscriptions** to continue managing your 365Simple tenant.
 
 {% hint style="info" %}
-**NOTES**:&#x20;
-
 * You cannot edit the quantity of a suspended subscription. You can edit the quantity only if you change the status from **Suspended** to **Active**.&#x20;
 * If you update the license quantity, you must also update the adjusted quantity on the [Microsoft Office Portal](https://portal.office.com/).
 {% endhint %}

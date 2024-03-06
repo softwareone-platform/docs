@@ -1,46 +1,32 @@
 ---
-description: You can buy new licenses and products across your 365Simple tenant.
+description: Buy new licenses and products across your 365Simple tenant.
 ---
 
 # Buy New Subscriptions or Add-Ons
 
-***
+In the Cloud Subscriptions Marketplace, you can purchase new subscriptions and add-ons from the Microsoft CSP program. The Cloud Subscriptions Marketplace displays the most popular categories as well as the most popular subscriptions. Selecting a category displays a list of products that are available within that category along with pricing details.
 
-### Buying a new subscription
+## Buy a new subscription
 
-In the Cloud Subscriptions Marketplace, you can purchase new subscriptions and add-ons from the Microsoft CSP program.
+Follow these steps to buy a new subscription:
 
-The Cloud Subscriptions page displays the most popular categories as well as the most popular subscriptions. Selecting a category displays a list of products that are available within that category along with pricing details.
+1. In the Cloud Subscriptions Marketplace, locate the subscriptions you want to buy.
+2. Click **Buy Now**. The details page of the subscription opens.
+3. In the **Configure Your Plan** section, do the following:
+   * **Microsoft Tenant** - Choose the tenant for which you want to buy the new subscription. The list displays all Microsoft tenants where the reseller relationship has been established and onboarded.
+   * **Subscription Commitment Term** - Select a commitment term.
+   * **Subscription Billing Frequency** - Choose your preferred billing cycle. The options are **Monthly** and **Annual**.
+   * **License Qty** - Enter the number of licenses required.
+4. Click **Buy Now**.
+5. On the **Order Subscription** page, do the following:&#x20;
+   * **Subscription Name** - Provide a unique name for your subscription, for example, Office 365 E3 for Marketing.
+   * **License** **Quantity** - Enter the number of licenses required.
+   * **Subscription Billing Frequency** - Choose your preferred billing cycle. The options are **Monthly** and **Annual**.
+   * **Your Internal Details** - Enter order-specific details that you might need later for internal cost allocation and billing purposes.
+6. Click **Order Subscription**.
 
-**To buy a new subscription**
+## Buy an add-on
 
-1. Select **Buy Now** on the Cloud Subscriptions Marketplace page.
-2. Choose the tenant for which you want to buy a new subscription. The Tenant list contains all of your Microsoft tenants where the reseller relationship has been established and onboarded.
-3. Choose the commitment term and your billing frequency.
-4. Enter the quantity and select **Buy Now**. The Order Subscription page displays where you can change the following details:
-   * **Subscription Name**: Provide a unique name for your subscription, for example, Office 365 E3 for Marketing.
-   * **License** **Quantity**: Enter the number of licenses required.
-   * **Billing Cycle**: Choose your preferred billing cycle. The options are **Monthly** and **Annual**.
-   * **Your Internal Details**: Enter order-specific details that you might need later for internal cost allocation and billing purposes.
-5. Once you have added the details, select the consent checkbox and select **Order Subscription** to complete your order.
+When you've finished the Base Subscription step, click **Next** and set up your Add-on details. The fields are the same as for the base Subscription, but you can fill in different values.
 
-***
-
-### Buying an add-on
-
-After selecting **Buy Now**, the **Order Subscription** wizard will appear which will guide you through the whole purchasing process. You can choose whether you want to purchase the **Add-on** for **Your Existing Base Subscription** or if you want to purchase a **New Base Subscription**.
-
-If you want to buy a new base subscription, enter the following fields:&#x20;
-
-* **Subscription Name:** Provide a unique name for your subscription, for example, Office 365 E3 for Marketing.
-* **License Quantity**: Enter the number of licenses required.
-* **Billing Cycle**: Choose your preferred billing cycle. The options are **Monthly** and **Annual**.
-* **Your Internal Details**: Enter order-specific details that you might need later for internal cost allocation and billing purposes.
-
-After you have finished the Base Subscription step, select **Next** and set up your **Add-on** details. The fields are the same as for the Base Subscription but you can fill in different values as you need.
-
-Once you have finished the Add-on detail page step, select **Next** and check your order summary.
-
-Once you have checked the order summary, select the consent checkbox and click on **Order Subscription**. A confirmation message will be displayed.
-
-***
+After you've finished the Add-on detail page step, click **Next** and check your order summary. Once you've reviewed the summary, select the consent checkbox and click **Order Subscription**. A confirmation message is displayed.
