@@ -21,11 +21,15 @@ On the details page of your budget, you can also select the following tabs to vi
 
 {% tabs %}
 {% tab title="Monthly Budget Breakdown" %}
-By default, the budget amount will be equally distributed across budget months. Based on that, the table will provide you with consumption and utilization information for every month. You **Edit Monthly Budgets** to adjust the budget amount for every month.
+By default, the budget amount is equally distributed across budget months.&#x20;
+
+Based on this, the table displays consumption and utilization information for every month. You can **Edit Monthly Budgets** to adjust the budget amount for each month.
 {% endtab %}
 
 {% tab title="Child Budgets" %}
-This tab provides information about child budget amounts and utilization. Consumption in child budgets is included in the parent budget utilization value. You can edit the child budget amounts by selecting **Edit Budgets**.
+This tab provides information about child budget amounts and utilization.&#x20;
+
+Consumption in child budgets is included in the parent budget utilization value. You can edit the child budget amounts by selecting **Edit Budgets**.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Child budgets</p></figcaption></figure>
 {% endtab %}

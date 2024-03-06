@@ -94,11 +94,6 @@
 ## Spend Management
 
 * [About Spend Management](spend-management/about-spend-management.md)
-* [Software Assets](spend-management/software-assets/README.md)
-  * [Enable or disable software assets](spend-management/software-assets/enable-or-disable-software-assets.md)
-  * [View software assets](spend-management/software-assets/view-software-assets.md)
-  * [Export software assets](spend-management/software-assets/export-software-assets.md)
-  * [Import software assets](spend-management/software-assets/import-software-assets.md)
 * [Budgets](spend-management/budgets/README.md)
   * [Create a reporting period](spend-management/budgets/create-a-reporting-period.md)
   * [Create Custom Group budgets](spend-management/budgets/create-custom-group-budgets.md)
@@ -116,6 +111,11 @@
   * [Azure recommendations](spend-management/recommendations/azure-recommendations.md)
   * [AWS recommendations](spend-management/recommendations/aws-recommendations.md)
   * [Office 365 recommendations](spend-management/recommendations/office-365-recommendations.md)
+* [Software Assets](spend-management/software-assets/README.md)
+  * [Enable or disable software assets](spend-management/software-assets/enable-or-disable-software-assets.md)
+  * [View software assets](spend-management/software-assets/view-software-assets.md)
+  * [Export software assets](spend-management/software-assets/export-software-assets.md)
+  * [Import software assets](spend-management/software-assets/import-software-assets.md)
 * [Tags and Resources](spend-management/tags-and-resources/README.md)
   * [Manage Tags and Resources](spend-management/tags-and-resources/defining-tags-and-managing-resources.md)
 

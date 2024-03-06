@@ -18,10 +18,6 @@ With Software Asset Spend Management, you can efficiently oversee and manage you
 
 ## Related topics
 
-{% content-ref url="software-assets/" %}
-[software-assets](software-assets/)
-{% endcontent-ref %}
-
 {% content-ref url="budgets/" %}
 [budgets](budgets/)
 {% endcontent-ref %}
@@ -36,6 +32,10 @@ With Software Asset Spend Management, you can efficiently oversee and manage you
 
 {% content-ref url="recommendations/" %}
 [recommendations](recommendations/)
+{% endcontent-ref %}
+
+{% content-ref url="software-assets/" %}
+[software-assets](software-assets/)
 {% endcontent-ref %}
 
 {% content-ref url="tags-and-resources/" %}
