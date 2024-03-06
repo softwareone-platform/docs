@@ -1,5 +1,7 @@
 ---
-description: Create and manage your budgets.
+description: >-
+  Define cloud budgets and assign them to groups within your business or cloud
+  service provider.
 ---
 
 # Budgets
