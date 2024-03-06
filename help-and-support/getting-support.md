@@ -15,11 +15,13 @@ Before contacting us, note the following points:
 
 ## **Contact us through email**
 
-To contact us through email, use this email address: [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com).&#x20;
+You can contact us through email at [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com).&#x20;
 
 ## **Create a support ticket**
 
-Follow these steps to create a support case through the Client Portal:
+You can create a support ticket from within the Client Portal.&#x20;
+
+Follow these steps to create a ticket:
 
 1. Sign in to your account.
 2. From the main menu, navigate to **Help** > **Help + Support**.
@@ -38,7 +40,7 @@ Follow these steps to view your tickets:
 
 1. Navigate to the **Help + Support** page. The page displays all tickets that you've created.&#x20;
 2. (Optional) Use the search filters to find a specific ticket.&#x20;
-3. Click the ticket you want to view or click **View** in the **Actions** column. The details page of your selected ticket, containing the following sections opens:
+3. Click the ticket you want to view or click **View** in the **Actions** column. The details page of your selected ticket opens. On this page, you can view the following sections:
    1. **Status and Messages**: Displays one of the following statuses and message history:
       * **Requested** - Indicates that the ticket is waiting to be processed by a member of the support team.
       * **Information needed** - Indicates that we require additional information from you to proceed further.
