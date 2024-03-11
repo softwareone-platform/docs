@@ -44,7 +44,7 @@ At the bottom of the page, you will see the list of **Policies that will apply**
 
 ### Excluding the Client Portal and SoftwareOne from the policy <a href="#exclude-pyracloud-and-softwareone-from-a-policy" id="exclude-pyracloud-and-softwareone-from-a-policy"></a>
 
-{% hint style="warning" %}
+{% hint style="success" %}
 When modifying Conditional Access policy exclusions, do not remove any of your existing excluded users, groups, or other principals. With Conditional Access, there is a very real possibility of locking yourself out of your tenant. Only attempt the following steps if you are a Conditional Access expert and you are confident configuring them.
 
 SoftwareOne cannot be held liable for damages caused by the misconfiguration of this feature.

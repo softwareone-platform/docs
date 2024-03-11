@@ -1,12 +1,8 @@
 ---
-description: >-
-  You can buy new products and services through the Products section of the
-  Client Portal.
+description: Buy new products and services.
 ---
 
 # Buy Products and Services
-
-***
 
 The **Products** page can be accessed by navigating to **Marketplace** > **Products**.&#x20;
 

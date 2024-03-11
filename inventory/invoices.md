@@ -31,8 +31,6 @@ On the Invoice Details page, you can view further information about the product 
 * View the contracts associated with this transaction.
 * Download the information as PDF.
 
-***
-
 ## **Exporting invoices**
 
 You can export an individual invoice or all of your invoices.
