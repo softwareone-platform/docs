@@ -6,9 +6,9 @@ description: View and export your list of currencies.
 
 The Client Portal allows you to change your currency and view a list of currencies that are available to you for transactions.&#x20;
 
-## Changing currency
+## Change currency settings
 
-Follow these steps to change your currency:
+Follow these steps to change your currency setting:
 
 1. Sign in to your account.
 2. Navigate to **Marketplace** > **Products** or **Marketplace** > **Procurement Workbench**.
@@ -24,7 +24,7 @@ Follow these steps to change your currency:
 If the currency you are looking for is unavailable in the **Selected Currency** list, it might not be possible to transact in that currency. You can verify by viewing your list of active and default currencies on the **Currency Overview** page.
 {% endhint %}
 
-## Viewing currencies&#x20;
+## View all currencies&#x20;
 
 The **Currency Overview** page, located under **Setup** > **Currency Overview**, displays a list of currencies you can transact in.&#x20;
 
@@ -32,7 +32,7 @@ The **Currency Overview** page, located under **Setup** > **Currency Overview**,
 
 You can view the active and default currency for a country, and create a quick report of all the currencies.&#x20;
 
-## Exporting currencies
+## Export your list of currencies
 
 You can export the list of active and default currencies to Excel, CSV, JSON, or XML formats.
 
