@@ -9,6 +9,8 @@ The **Notification** page, located under **Setup** > **Notifications** displays 
 * **System notifications** - These notifications are associated with your profile. You cannot subscribe or unsubscribe from these notifications.
 * **User notifications** - These notifications are also called feature notifications. These notifications are sent only if you are subscribed to receive them.
 
+By default, the system deletes all notifications after 30 days, regardless of whether you've read them.
+
 ## View your notifications
 
 Follow these steps to view all of your notifications:
@@ -18,10 +20,6 @@ Follow these steps to view all of your notifications:
 3. On the **Notifications** page, use the **Topic** option to select the feature you want to view the notifications for. To include all features, select **All**.
 4. Choose whether you want to view all notifications or unread only.
 5. Click the title of the notification to view more details.&#x20;
-
-{% hint style="info" %}
-By default, the system deletes all notifications after 30 days, regardless of whether you've read them.
-{% endhint %}
 
 ## Manage notifications
 
@@ -38,7 +36,7 @@ Follow these steps to update your notification settings:
    3. Click **Get Code**. You'll receive a validation code on the phone number you provided.
    4. Enter the validation code and click **Verify**. You'll start receiving notifications as per your updated settings. &#x20;
 
-## Related Topics
+## Related topics
 
 {% content-ref url="../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md" %}
 [im-facing-issues-with-notifications.md](../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md)

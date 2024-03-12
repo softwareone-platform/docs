@@ -4,7 +4,7 @@ description: Choose the preferred display language for your account.
 
 # Language Settings
 
-You can change the default language of your account at any time using the **Language** option in the footer or through your profile. &#x20;
+You can change the default language of your account at any time using the **Language** option in the footer or your profile. &#x20;
 
 ## Supported languages
 
@@ -17,10 +17,8 @@ We currently support the following languages:
 Follow these steps to change the display language:
 
 1. Sign in to your account.&#x20;
-2. Navigate to the **Language** option in the lower-right corner of the **Home** page or any page in the Client Portal. Alternatively, select [your account](navigate-the-home-page.md#account-menu) menu and choose **My Profile**.
-3. Choose your preferred language from the list of languages.
-
-The selected language will become the default language of your account.&#x20;
+2. Navigate to the **Language** option in the lower-right corner of the **Home** page or any page in the Client Portal. Alternatively, select your [user profile menu](navigate-the-home-page.md#user-profile-menu) and click **My Profile**.
+3. Choose your preferred language from the list of languages. The selected language will become the default language of your account.&#x20;
 
 Watch the following video tutorial on how to change language settings:
 
