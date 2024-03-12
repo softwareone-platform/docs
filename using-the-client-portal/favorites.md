@@ -1,39 +1,37 @@
 ---
 description: >-
-  You can mark pages that you frequently use as favorites so you can access such
-  pages easily.
+  Mark pages that you frequently use as favorites so you can access such pages
+  easily.
 ---
 
 # Favorites
 
-The **Favorites** module is displayed in the navigation menu only if you've marked at least one page as your favorite.
+The **Favorites** section is displayed in the navigation menu only if you've marked at least one page as your favorite.
 
-***
+## Add a page to your favorites
 
-### Adding favorites
+Follow these steps to add a page to your favorites:
 
-**To add a page to your favorites**
+1. Sign in to your account.
+2. Click the main menu and then navigate to the required page.&#x20;
+3. Hover over the page and select the star icon. The star icon will change from empty to filled, and the page will be displayed under **Favorites**.
 
-* In the navigation menu, hover over the page and select the star icon.&#x20;
+<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption><p>Add to favorites</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-The star icon will change from empty to filled, and the page will appear under **Favorites** in the main menu.
-
-***
-
-### Removing favorites
+## Remove a page from your favorites
 
 You can remove a page from your favorites in two different ways.
 
-**To remove a page from your favorites**
+Follow these steps to remove a page from your favorites:
 
-* In the navigation menu, select **Favorites** and then select the star icon next to the page you want to remove.
+1. Sign in to your account.&#x20;
+2. Click the main menu and select **Favorites.**
+3. Click the star icon next to the page you want to remove.
 
-<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption><p>Remove from favorites</p></figcaption></figure>
 
-* In the navigation menu, go to the module that contains the page and select the star icon.&#x20;
+4. Alternatively, navigate to the required module and click the star icon corresponding to the page you want to remove.
 
-<figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption><p>Remove from favorites</p></figcaption></figure>
 
-When you remove a page from your favorites, the star icon changes from filled to empty, which indicates that the page is not a favorite.&#x20;
+The page is removed and no longer displayed in your list of favorites. When you remove a page from your favorites, the star icon changes from filled to empty, which indicates that the page is not a favorite.&#x20;

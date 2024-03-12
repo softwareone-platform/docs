@@ -1,49 +1,41 @@
 ---
-description: >-
-  You can set up and view notifications using our customizable notification
-  system.
+description: Set up and view system and other notifications.
 ---
 
-# View and Configure Notifications
+# Notifications
 
-***
+The **Notification** page, located under **Setup** > **Notifications** displays all notifications and allows you to manage them easily.  There are two types of notifications in the Client Portal:
 
-The Notification Hub is a centralized place where you to view and manage notifications. There are two types of notifications in the Client Portal:
+* **System notifications** - These notifications are associated with your profile. You cannot subscribe or unsubscribe from these notifications.
+* **User notifications** - These notifications are also called feature notifications. These notifications are sent only if you are subscribed to receive them.
 
-| Notification type | Description                                                                                                                               |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| System            | The system notifications are associated with your profile. You cannot subscribe or unsubscribe from these notifications.                  |
-| User              | The user notifications are also called as feature notifications. These notifications are sent only if you are subscribed to receive them. |
+## View your notifications
 
-### Viewing notifications
+Follow these steps to view all of your notifications:
 
-**To view your notifications**
-
-1. From the navigation menu, navigate to **Setup** and select **Notifications**. The Notifications page opens.
-2. From the **Topic** list, choose the feature for which you want to view notifications or select **All** to include all features.&#x20;
-3. Choose whether you want to view all notifications or unread only.&#x20;
-4. From the list of notifications, select the notification title to view detailed information.
+1. Sign in to your account.&#x20;
+2. From the main menu, navigate to **Setup** and select **Notifications**.&#x20;
+3. On the **Notifications** page, use the **Topic** option to select the feature you want to view the notifications for. To include all features, select **All**.
+4. Choose whether you want to view all notifications or unread only.
+5. Click the title of the notification to view more details.&#x20;
 
 {% hint style="info" %}
-**NOTE**: By default, all notifications are deleted after 30 days, regardless of whether they've been read.
+By default, the system deletes all notifications after 30 days, regardless of whether you've read them.
 {% endhint %}
 
-***
+## Manage notifications
 
-### Editing notification settings
+If you want to start or stop receiving notifications, you can update your notification settings. You can also choose the events for which you want to receive notifications, along with the method of receiving notifications - by email or phone.&#x20;
 
-You can use the Settings page to opt in or opt out of notifications. You can also choose the events for which you want to receive notifications, along with the method of receiving notifications - by email or phone.&#x20;
+Follow these steps to update your notification settings:
 
-**To edit your settings**
-
-1. On the Notifications page, select the **Settings** tab.
-2. Do the following:
-   * To receive notifications by phone, select **Add phone number** and then provide the validation code, which will be sent to your phone.&#x20;
-   * Expand the feature for which you want to update the settings and make changes as necessary.&#x20;
+1. Sign in to your account and navigate to the **Notifications** page.
+2. On the **Notifications** page, click **Settings**.
+3. To update notification settings for a feature, click the feature name and make changes as necessary. Note that the web notifications are turned on by default and cannot be turned off.
+4. To receive notifications by phone, do the following:
+   1. Click **Add phone number**.
+   2. In **Update Mobile Number**, enter the phone number you want to use and click **Select**.&#x20;
+   3. Click **Get Cod**e. You'll receive a validation code.
+   4. Enter the validation code and click **Verify**.
 
 You'll receive notifications as per your updated settings. If you face issues, see [I'm facing issues with my notifications](../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md).&#x20;
-
-{% hint style="info" %}
-**NOTE**: The web notifications are turned on by default and cannot be turned off.
-{% endhint %}
-
