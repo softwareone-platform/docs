@@ -28,8 +28,6 @@ Follow these steps to remove a page from your favorites:
 
 <figure><img src="../.gitbook/assets/image (19) (1) (1).png" alt="" width="563"><figcaption><p>Remove from favorites</p></figcaption></figure>
 
-4. Alternatively, navigate to the required module and then click the star icon.&#x20;
+4. Alternatively, navigate to the required module and then click the star icon. The page is removed from your favorites.&#x20;
 
 <figure><img src="../.gitbook/assets/image (20) (1) (1).png" alt="" width="563"><figcaption><p>Remove from favorites</p></figcaption></figure>
-
-The page is removed from your favorites.&#x20;

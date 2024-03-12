@@ -11,18 +11,19 @@ The Client Portal allows you to change your currency and view a list of currenci
 Follow these steps to change your currency setting:
 
 1. Sign in to your account.
-2. Navigate to **Marketplace** > **Products** or **Marketplace** > **Procurement Workbench**.
+2. From the main menu, navigate to **Marketplace** > **Products** or **Marketplace** > **Procurement Workbench**.
 3. Click **Change currency**.
-4.  On the **Change your currency settings** page, choose the country from the menu and select the new currency.&#x20;
+4.  On the **Change your currency settings** page, select the country and the new currency. &#x20;
 
 
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Currency settings</p></figcaption></figure>
-5. Click **Save**. The new currency will be set as your favorite when you are transacting.&#x20;
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="393"><figcaption><p>Currency settings</p></figcaption></figure>
 
 {% hint style="info" %}
-If the currency you are looking for is unavailable in the **Selected Currency** list, it might not be possible to transact in that currency. You can verify by viewing your list of active and default currencies on the **Currency Overview** page.
+If the currency you are looking for is unavailable in the **Selected Currency** list, it might not be possible to transact in that currency. You can verify this on the **Currency Overview** page, which displays your active and default currencies.
 {% endhint %}
+
+5. Click **Save**.&#x20;
 
 ## View all currencies&#x20;
 
@@ -30,7 +31,7 @@ The **Currency Overview** page, located under **Setup** > **Currency Overview**,
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Currency Overview</p></figcaption></figure>
 
-You can view the active and default currency for a country, and create a quick report of all the currencies.&#x20;
+You can view the active and default currency for a country, and create a quick report of all the currencies by clicking **Export**.&#x20;
 
 ## Export your list of currencies
 
