@@ -146,10 +146,14 @@
   * [What is the difference between subscription manager and cloud subscriptions?](help-and-support/frequently-asked-questions/what-is-the-difference-between-subscription-manager-and-cloud-subscriptions.md)
   * [I'm unable to view the Reserved Instance data in the Client Portal](help-and-support/frequently-asked-questions/im-unable-to-view-the-reserved-instance-data-in-the-client-portal.md)
 
-## Terms and Conditions
-
-* [Terms of Use](terms-and-conditions/terms-of-use.md)
-
 ## Release Notes
 
 * [Release Notes v1](release-notes/release-notes-v1.md)
+
+## USEFUL LINKS
+
+* [About SoftwareOne](https://www.softwareone.com/en-ie)
+* [ Code of Conduct](https://www.softwareone.com/en/our-story/code-of-conduct)
+* [Privacy Statement](https://www.softwareone.com/en/privacy-statement)
+* [Terms & Conditions](https://www.softwareone.com/en/terms-conditions)
+* [Terms of Use](useful-links/terms-of-use.md)
