@@ -6,14 +6,10 @@ description: >-
 
 # Assign Reader and Tag Contributor Roles (multiple subscriptions)
 
-***
-
 You can use Azure Management Groups to grant the Client Portal access to your Azure subscriptions. This approach has the following benefits:&#x20;
 
 * You can assign access to multiple subscriptions in a single step.
 * If you create more Azure subscriptions in the future, the access will be automatically granted. It means when you add an Azure subscription to your tenant, there is no need to activate it in the Client Portal.
-
-***
 
 ## How does it work?
 
@@ -103,7 +99,5 @@ To assign the Tag Contributor role, follow all of the steps in [Step 3: Assign t
 After you've completed the steps, the roles are assigned and displayed on the **Role assignments** tab.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-02-15 155343.png" alt=""><figcaption><p>Role assignment</p></figcaption></figure>
-
-
 
 [^1]: 

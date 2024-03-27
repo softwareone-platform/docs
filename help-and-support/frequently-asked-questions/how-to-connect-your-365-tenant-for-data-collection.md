@@ -1,9 +1,3 @@
----
-description: >-
-  Learn how to authorize the 365 Analytics application for read-only access to
-  your Office 365 tenant for use with 365 Analytics.
----
-
 # How to connect your 365 tenant for data collection
 
 365 Analytics reporting uses application consent to collect data from your Office 365 tenant. Application consent is used to collect data via the Graph API.&#x20;

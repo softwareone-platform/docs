@@ -2,19 +2,15 @@
 description: Finalize the activation of your Microsoft tenant.
 ---
 
-# Completing your Microsoft 365 or Microsoft Azure activation
-
-***
+# Complete Your Microsoft 365 or Microsoft Azure Activation
 
 For Microsoft 365 and Microsoft Azure under the Digital Workplace Essentials or Azure Simple offerings respectively, you must complete a final step once Guided Activation is complete.
 
 {% hint style="info" %}
-**NOTE**: This topic contains instructions for both Microsoft 365 and Microsoft Azure. You'll likely need to execute only one of these instructions depending on your purchase.
+This topic contains instructions for both Microsoft 365 and Microsoft Azure. You'll likely need to execute only one of these instructions depending on your purchase.
 {% endhint %}
 
-***
-
-### Activating Microsoft 365
+## Activating Microsoft 365
 
 If you purchased 365Simple or Digital Workplace Essentials, follow these steps to activate your tenant:
 
@@ -25,9 +21,7 @@ If you purchased 365Simple or Digital Workplace Essentials, follow these steps t
 
 On successful validation of your credentials, Microsoft 365 will be activated, and the activation status will change from **Activation Required** to **Connected.**
 
-***
-
-### Activating Microsoft Azure
+## Activating Microsoft Azure
 
 If you purchased AzureSimple, follow these steps to activate your subscription.
 
