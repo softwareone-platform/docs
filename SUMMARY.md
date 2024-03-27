@@ -69,8 +69,7 @@
 ## Analytics and Reports
 
 * [About Analytics and Reports](analytics-and-reports/about-analytics-and-reports.md)
-* [Cloud Utilization](analytics-and-reports/cloud-utilization/README.md)
-  * [Monitor Cloud Utilization](analytics-and-reports/cloud-utilization/monitor-and-analyze-cloud-utilization.md)
+* [Cloud Utilization](analytics-and-reports/cloud-utilization.md)
 * [Dashboards](dashboards/about-dashboards/README.md)
   * [365 EA + Unified Support Dashboard](dashboards/about-dashboards/365-ea-+-unified-support-dashboard.md)
   * [365Simple Dashboard](dashboards/about-dashboards/365simple-dashboard.md)
