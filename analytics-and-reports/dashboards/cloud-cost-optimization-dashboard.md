@@ -6,7 +6,11 @@ description: Cloud Cost Optimization Dashboard.
 
 The Cloud Cost Optimization module allows organizations to deliver optimization to their cloud infrastructure, and deliver savings through various strategies that form a part of the framework.
 
-To access Cloud Cost Optimization, navigate to the main menu and select **Services** > **Cloud Cost Optimization**. The Cloud Cost Optimization solution requires all the permissions for the Tag and Resource Manager and Consumption modules in Cloud Spend Management.&#x20;
+You can access the dashboard by navigating to the main menu of the Client Portal and selecting  **Services** > **Cloud Cost Optimization**.&#x20;
+
+{% hint style="info" %}
+The Cloud Cost Optimization dashboard requires all the permissions for the Tag and Resource Manager and Consumption modules in Cloud Spend Management.&#x20;
+{% endhint %}
 
 ## Dashboard interface
 

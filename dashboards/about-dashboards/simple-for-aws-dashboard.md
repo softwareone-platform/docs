@@ -4,13 +4,13 @@ description: Simple for AWS Dashboard.
 
 # Simple for AWS Dashboard
 
-The Simple for AWS dashboard provides an overview for customers using SoftwareOne’s Simple for AWS service. You can access the dashboard from the Client Portal by navigating to the main menu and selecting **Services >** **Simple for AWS**.
+The Simple for AWS dashboard provides an overview for customers using SoftwareOne’s Simple for AWS service.&#x20;
 
-The dashboard is a single point of access to various sections of the platform and allows you to view your quarterly spending information, support tickets, service recommendations, and articles.
+You can access the dashboard by navigating to the main menu of the Client Portal and selecting  **Services >** **Simple for AWS**.
 
 ## Dashboard interface
 
-The dashboard consists of the following sections:
+The dashboard is a single point of access to various sections of the platform and allows you to view your quarterly spending information, support tickets, service recommendations, and articles. It consists of the following sections:
 
 * [Invoices](simple-for-aws-dashboard.md#aws-spend-information)
 * [AWS spend information](simple-for-aws-dashboard.md#aws-spend-information-1)

@@ -4,19 +4,15 @@ description: AzureSimple Dashboard.
 
 # AzureSimple Dashboard
 
-The AzureSimple dashboard provides an overview for clients using SoftwareOne’s AzureSimple service.   You can access the dashboard from the Client Portal by navigating to the main menu and selecting **Services >  AzureSimple**.
+The AzureSimple dashboard provides an overview for clients using SoftwareOne’s AzureSimple service.  &#x20;
 
-The dashboard provides a single point of access to relevant areas of the platform. It also provides the following:
-
-* Savings opportunities.
-* Quarterly billing information.
-* Spike and outage alerts.
-* Help and support tickets.
-* Service articles.
-
-<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>AzureSimple dashboard</p></figcaption></figure>
+You can access the dashboard by navigating to the main menu of the Client Portal and selecting **Services >  AzureSimple**.
 
 ## Dashboard interface <a href="#selecting-your-tenant" id="selecting-your-tenant"></a>
+
+The dashboard provides a single point of access to other areas of the platform, such as invoices and user administration. Through the dashboard, you can also view your saving opportunities, billing information, spike and outage alerts, and more.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>AzureSimple dashboard</p></figcaption></figure>
 
 The dashboard consists of the following sections:
 

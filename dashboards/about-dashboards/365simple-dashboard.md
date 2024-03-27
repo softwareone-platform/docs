@@ -4,19 +4,15 @@ description: 365Simple Dashboard.
 
 # 365Simple Dashboard
 
-The 365Simple dashboard provides an overview for customers using SoftwareOne’s 365Simple service. You can access the dashboard from the Client Portal by navigating to the main menu and selecting **Services >  365Simple**.
+The 365Simple dashboard provides an overview for clients using SoftwareOne’s 365Simple service.&#x20;
 
-The dashboard is a single point of access to relevant areas of the platform and provides the following information:
-
-* Quarterly billing information.
-* Product usage.
-* Subscription assignment details.
-* Help and support tickets.
-* Service recommendations and articles.
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>365Simple dashboard</p></figcaption></figure>
+You can access the dashboard by navigating to the main menu of the Client Portal and selecting  **Services >  365Simple**.
 
 ## Dashboard interface <a href="#selecting-your-tenant" id="selecting-your-tenant"></a>
+
+The dashboard provides a single point of access to other areas of the platform, such as invoices and user administration. Through the dashboard, you can also view your billing information, product usage, and more.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>365Simple dashboard</p></figcaption></figure>
 
 The dashboard consists of the following sections:
 

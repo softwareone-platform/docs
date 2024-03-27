@@ -16,7 +16,7 @@ The Unified Support for MultiVendor (USMV) dashboard is for our clients who have
 * TrendMicro
 * VMware
 
-You can access the dashboard from the Client Portal by navigating to the main menu and selecting **Services >** **Unified Support for MultiVendor**.
+You can access the dashboard by navigating to the main menu of the Client Portal and selecting **Services >** **Unified Support for MultiVendor**.
 
 <figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption><p>Unified Support for MultiVendor</p></figcaption></figure>
 

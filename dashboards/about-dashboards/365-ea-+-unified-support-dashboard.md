@@ -4,18 +4,13 @@ description: 365 EA + Unified Support dashboard.
 
 # 365 EA + Unified Support Dashboard
 
-The 365 EA with Unified Support Dashboard provides an overview for Microsoft 365 EA customers who purchased our unified support service. You can access the dashboard from the Client Portal by navigating to the main menu and selecting **Services >  365 EA + Unified Support**.
+The 365 EA with Unified Support Dashboard provides an overview for Microsoft 365 EA customers who purchased our unified support service.&#x20;
 
-The dashboard contains quick links and provides a single point of access to relevant parts of the platform, for example, invoices and user administration. You can also use the dashboard to view:
-
-* Product usage.
-* Subscription assignment details.
-* Help and support tickets.
-* Recent news from Microsoft.
+You can access the dashboard by navigating to the main menu of the Client Portal and selecting **Services >  365 EA + Unified Support**.
 
 ## Dashboard interface <a href="#selecting-your-tenant" id="selecting-your-tenant"></a>
 
-The dashboard consists of the following sections:
+The dashboard provides a single point of access to other areas of the platform, such as invoices and user administration. It consists of the following sections:
 
 * [Select Microsoft Tenant](365-ea-+-unified-support-dashboard.md#select-microsoft-tenant)
 * [Permission-based widgets](365-ea-+-unified-support-dashboard.md#block-bea31af0-a8d0-45a6-bd38-cdca3fe1497a)
