@@ -16,7 +16,7 @@ On the dashboard, you can select a date range for your SPLA report and use filte
 
 <figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption><p>Filter options</p></figcaption></figure>
 
-After you've applied your filters, click **Submit**. The dashboard will then display the following data accordingly:
+After you've applied the filters, click **Submit**. The following data will be displayed on the dashboard:
 
 * The cost of monthly usage by pool.
 * The distribution of costs by product.
@@ -25,6 +25,6 @@ After you've applied your filters, click **Submit**. The dashboard will then dis
 
 <figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption><p>Data visaulization</p></figcaption></figure>
 
-Once the data is displayed, you can also click a digram's legend to apply filters directly.&#x20;
+After the data appears, you can further refine your filters by clicking on any legend within a diagram. To adjust or clear your current filters, click **Reset** or **Remove filters**, respectively.&#x20;
 
-To set the filters again or remove the filters altogether, click **Reset** or **Remove filters**, respectively. To export the page, click **Export to PDF** in the filter options area. The PDF file will be downloaded to your system.
+To export the current page as a PDF, click **Export to PDF** in the filter options. Your system will automatically download the PDF file.&#x20;
