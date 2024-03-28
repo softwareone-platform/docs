@@ -27,4 +27,4 @@ After you've applied the filters, click **Submit**. The following data will be d
 
 After the data appears, you can further refine your filters by clicking on any legend within a diagram. To adjust or clear your current filters, click **Reset** or **Remove filters**, respectively.&#x20;
 
-To export the current page as a PDF, click **Export to PDF** in the filter options. Your system will automatically download the PDF file.&#x20;
+To export the current page as a PDF, click **Export to PDF** in the filter options. The file will be downloaded automatically to your system.&#x20;
