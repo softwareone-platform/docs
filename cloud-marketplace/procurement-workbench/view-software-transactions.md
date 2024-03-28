@@ -17,13 +17,13 @@ layout:
 
 # View and Manage Software Transactions
 
-***
+On the Procurement Workbench page, you will find different sections that enable you to purchase products, view your transactions, and check your purchase history.&#x20;
 
-On the Procurement Workbench page, you will find different sections that enable you to purchase products, view your transactions, and check your purchase history. Additionally, you can get an overview of your transactions and see the necessary actions you need to take. This topic provides a detailed explanation of each of these sections.
+Additionally, you can get an overview of your transactions and see the necessary actions you need to take.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (72) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Transaction Status and Actions
+## Transaction Status and Actions
 
 The Transaction Status and Actions section contains the following information:
 
@@ -31,7 +31,7 @@ The Transaction Status and Actions section contains the following information:
 * **Quotes Ready**: Allows you to view a list of quotes that are ready to be converted to an order. You can also view detailed information for a quote, delete a quote, convert a quote to an order, or export a quote to PDF or Excel.
 
 {% hint style="info" %}
-**NOTE**: You can only view quotes that are opened within the last 90 days. If the quotes were opened before 90 days, you can see those quotes on the special quote history page (**Documents** > **Special Quotes**).
+You can only view quotes that are opened within the last 90 days. If the quotes were opened before 90 days, you can see those quotes on the special quote history page (**Documents** > **Special Quotes**).
 {% endhint %}
 
 * **Approval Required**: Allows you to view orders that are pending approval. Depending on the purchase approval workflow:
@@ -40,7 +40,7 @@ The Transaction Status and Actions section contains the following information:
 * **Open Invoices**: Allows you to view the open invoices.
 * **Overdue Invoices**: Allows you to view overdue invoices.
 
-### Buy Now
+## Buy Now
 
 The **Buy Now** tab contains the **Search**, **Advance Search**, and **Buying for** options. It also contains the following tabs:
 
@@ -50,7 +50,7 @@ The **Buy Now** tab contains the **Search**, **Advance Search**, and **Buying fo
 | Cloud Subscriptions | Allows you to select your cloud account. This will list the subscriptions that are active and inactive. You can make changes to your subscriptions by selecting **Manage Subscription**. |
 | Buying for          | Allows you to purchase a product for a company different from your default company. This option is only available if you have multiple catalogs available                                |
 
-### Purchase History
+## Purchase History
 
 The **Purchase History** tab displays the complete purchase history based on the time range that you choose from the **Show** menu. It provides visibility into the full purchase history and provides links to all documents generated in the procurement cycle. This includes special quotes, and invoices along with PO, country, and amount details.&#x20;
 

@@ -6,9 +6,9 @@ description: >-
 
 # Procurement Workbench
 
-***
+Procurement Workbench provides procurement users with a comprehensive set of features to manage software transactions.&#x20;
 
-Procurement Workbench provides procurement users with a comprehensive set of features to manage software transactions. To access Procurement Workbench, navigate to **Marketplace** and select **Procurement Workbench**.
+To access Procurement Workbench, navigate to the main menu of the Client Portal and select **Marketplace** > **Procurement Workbench**.
 
 With Procurement Workbench, you can easily access all information related to your quotes and orders. You can also:
 

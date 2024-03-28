@@ -22,7 +22,7 @@ Follow these steps to assign the Billing account reader role to the Client Porta
 1. Sign in to the [Azure Portal](https://portal.azure.com) and search for **Cost Management + Billing**.
 2. In the left navigation pane, select **Billing scopes** and then select your MCA billing scope.
 
-<div data-full-width="true">
+<div data-full-width="false">
 
 <figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ Follow these steps to assign the Billing account reader role to the Client Porta
 
 3. Select **Access Control (IAM)** to assign permissions.&#x20;
 
-<div data-full-width="true">
+<div data-full-width="false">
 
 <figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
 
@@ -38,14 +38,11 @@ Follow these steps to assign the Billing account reader role to the Client Porta
 
 4. Select **Add** and then from the Role dropdown list, select **Billing account reader**.
 
-<div data-full-width="true">
+<div data-full-width="false">
 
 <figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1).png" alt="" width="439"><figcaption></figcaption></figure>
 
 </div>
 
 5. Select the **PyraCloud (Azure)** application. &#x20;
-
-![](<../../.gitbook/assets/image (18) (1) (1) (1).png>)
-
 6. Select **Save**. Your MCA billing data will be synchronized with the Client Portal after 24 hours.
