@@ -105,3 +105,9 @@ It means that your request has been sent to the appropriate team. If there are i
 The **Submit Zero** option allows you to confirm that no usage statement should be sent for a given month.
 
 For security reasons, the page will open a new dialog window asking you to confirm the action. Then the column background of the submitted month in the overview changes from green to gray, and the status changes to Reported Zero.
+
+## Related topics
+
+{% content-ref url="../dashboards/service-provider-dashboard.md" %}
+[service-provider-dashboard.md](../dashboards/service-provider-dashboard.md)
+{% endcontent-ref %}
