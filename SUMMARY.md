@@ -77,6 +77,7 @@
   * [Cloud Cost Optimization Dashboard](analytics-and-reports/dashboards/cloud-cost-optimization-dashboard.md)
   * [Simple for AWS Dashboard](dashboards/about-dashboards/simple-for-aws-dashboard.md)
   * [Unified Support for Multi-vendor Dashboard](dashboards/about-dashboards/unified-support-for-multi-vendor-dashboard.md)
+  * [Service Provider Dashboard](analytics-and-reports/dashboards/service-provider-dashboard.md)
 * [Reports](analytics-and-reports/reports/README.md)
   * [Consumption Alerts](analytics-and-reports/reports/consumption-alerts.md)
   * [Cloud Journey Report](analytics-and-reports/reports/cloud-journey-report.md)

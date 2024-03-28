@@ -6,68 +6,61 @@ description: >-
 
 # Dashboards
 
-The Client Portal contains predefined dashboards that you can use to view the data. You can also create your own custom dashboards.
+The Client Portal contains predefined dashboards that you can use to view the data. You can also create your custom dashboards.
 
-The dashboards mainly consist of tiles that display different information such as the data about your preferred statistic, such as the number of invoices, orders, quotes, and so on.
+The dashboards mainly consist of tiles displaying different information such as the data about your preferred statistic, such as the number of invoices, orders, quotes, and more.
 
 Each tile can have multiple functionalities, for example, they can display data and act as a shortcut. You can also configure the size of a tile and define how data is displayed in certain tiles. If there is no data for a specific tile, a message is displayed in the tile.
 
-***
+## Access dashboards
 
-### Accessing predefined dashboards
+Follow these steps to access the predefined dashboards:
 
-You can access the dashboards from the main menu.
+1. Navigate to the main menu of the Client Portal and select **Analyze >** **Dashboards**. The **Dashboard** page opens.
+2. From the **Choose a template**, choose the dashboard you want to view. The following dashboards are available:
 
-**To access the predefined dashboards**
+| Dashboard                       | Availability                                               |
+| ------------------------------- | ---------------------------------------------------------- |
+| Finance                         | Available to all users.                                    |
+| Procurement                     | Available to all users.                                    |
+| Software Asset Management (SAM) | Available only if you've purchased SAMSimple.              |
+| Cloud                           | Available only if you've purchased Cloud Spend Management. |
 
-1. From the main menu, navigate to **Analyze** and choose **Dashboards**.
-2. Select a dashboard from the **Choose a template** option. The following predefined dashboards are available:
+## Create custom dashboards
 
-| Dashboard                       | Description                                                                             |
-| ------------------------------- | --------------------------------------------------------------------------------------- |
-| Finance                         | This predefined dashboard is available to all users.                                    |
-| Procurement                     | This predefined dashboard is available to all users.                                    |
-| Software Asset Management (SAM) | This predefined dashboard is available only if you've purchased SAMSimple.              |
-| Cloud                           | This predefined dashboard is available only if you've purchased Cloud Spend Management. |
+You can create new dashboards, customize your dashboards, or remove a dashboard. Customized dashboards are displayed under **Choose a template.**
 
-***
+Follow these steps to create a new dashboard:
 
-### Creating custom dashboards
-
-You can create a new dashboard, customize an existing dashboard, or remove a dashboard. Customized dashboards are displayed in **Choose a template** menu:
-
-<figure><img src="../../.gitbook/assets/image (22) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-**To create a new dashboard**
-
-1. On the Dashboard page, select **Create New**.
-2. On the Create New Dashboard page, select **New**.
+1. On the **Dashboard** page, click **Create New**.
+2. On the **Create New Dashboard** page, click **New**.
 3. Provide a name for your custom dashboard and then in **Add a tile,** choose the tile that you want to add.
-4. Select **Save**.
+4. Click **Save**.
 
-**To customize a dashboard**
+## Customize a dashboard
 
-1. On the Dashboard page, select **Edit this dashboard**. The dashboard opens in the edit mode.
+Follow these steps to customize a dashboard:
+
+1. On the **Dashboard** page, select **Edit this dashboard**. The dashboard opens in the edit mode.
 2. Make changes as necessary.
    * To remove a tile from your dashboard, select **Remove**. If the tile is too small to accommodate the full button, you'll only see the trashcan icon.
    * To configure a tile, select **Configure** or the cogwheel icon and then choose the configuration options.
+3. Save your customized dashboard to make it available under **Choose a template**.
 
 {% hint style="info" %}
-**Note**: Each tile has different configuration options relevant to the function it serves. You can have multiple instances of the same tile with different configurations (for example: Invoices for last month and Invoices for the last six months).
+Each tile has different configuration options relevant to the function it serves. You can have multiple instances of the same tile with different configurations (for example: Invoices for last month and Invoices for the last six months).
 {% endhint %}
 
-3. Save your customized dashboard so that it's available in the **Choose a template** option.
+## **Remove a dashboard**
 
-**To permanently remove a dashboard**
+Follow these steps to remove a dashboard permanently&#x20;
 
-1. On the Dashboard page, select the **Edit this dashboard** option.
-2. Select **Delete**.
+1. On the **Dashboard** page, click **Edit this dashboard**.
+2. Click **Delete**.
 3. Select the checkbox to grant consent.
-4. Select **Delete** to confirm the deletion.
+4. Click **Delete** to confirm the deletion.
 
-***
-
-### Moving and resizing tiles
+## Move and resize dashboard tiles
 
 After you've added a tile to the dashboard,  you can move or resize it. Most of the tiles can be resized from their default size.
 
