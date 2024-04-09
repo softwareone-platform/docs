@@ -142,14 +142,14 @@
   * [What is 365 Analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)
   * [I'm unable to view the Reserved Instance data in the Client Portal](help-and-support/frequently-asked-questions/im-unable-to-view-the-reserved-instance-data-in-the-client-portal.md)
 
-## Release Notes
+## PLATFORM RELEASE NOTES
 
-* [Release Notes v1](release-notes/release-notes-v1.md)
+* [Release Notes v1](platform-release-notes/release-notes-v1.md)
 
-## USEFUL LINKS
+## USEFUL PAGES
 
+* [Terms of Use](useful-pages/terms-of-use.md)
 * [About SoftwareOne](https://www.softwareone.com/en-ie)
 * [ Code of Conduct](https://www.softwareone.com/en/our-story/code-of-conduct)
 * [Privacy Statement](https://www.softwareone.com/en/privacy-statement)
 * [Terms & Conditions](https://www.softwareone.com/en/terms-conditions)
-* [Terms of Use](useful-links/terms-of-use.md)
