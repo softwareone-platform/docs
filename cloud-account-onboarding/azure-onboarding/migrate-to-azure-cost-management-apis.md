@@ -26,9 +26,9 @@ If you've already onboarded your EA cloud account to the Client Portal, follow t
 <figure><img src="../../.gitbook/assets/image (292).png" alt="" width="563"><figcaption><p>Status column displays EA API migration required</p></figcaption></figure>
 
 2. Click **Migrate EA API**.&#x20;
-3. In the **Migrate EA API** window, enter the enrollment number and click **Migrate**.&#x20;
+3. In the **Migrate to EA API** window, enter the enrollment number and click **Migrate**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (293).png" alt="" width="429"><figcaption><p>Migrate EA API</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (296).png" alt="" width="428"><figcaption></figcaption></figure>
 
 4. Sign in to the Microsoft portal using the credentials of a user with **Enterprise administrator** permission.
 5. On the consent page, review the permissions required by the Client Portal and click **Accept** to grant consent.
