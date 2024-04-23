@@ -6,12 +6,10 @@ description: Submit a ticket to our Support team through our platform or email u
 
 ## **Before you begin**
 
-{% hint style="info" %}
 Before contacting us, note the following points:
 
 * To ensure we can assist you effectively, please submit your queries in English.
-* Consider browsing our [Frequently Asked Questions](frequently-asked-questions/) to see if your question has already been answered.
-{% endhint %}
+* Consider browsing our [Frequently Asked Questions](frequently-asked-questions/) to see if your question has been answered.
 
 ## **Contact us through email**
 

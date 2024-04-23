@@ -6,7 +6,6 @@ description: Create a custom group budget.
 
 ## Before you begin <a href="#before-you-start" id="before-you-start"></a>
 
-{% hint style="info" %}
 Before creating budgets, note the following prerequisites:
 
 * **Setup the customer-centric view** - To assign budgets to individual groups, you must first set up the structure in Custom Groups. Without Custom Groups, you can only see the **Per Provider** view in Budgets.
@@ -14,7 +13,6 @@ Before creating budgets, note the following prerequisites:
   * If you are using multiple providers in different sourcing currencies, the platform will convert them to your set currency.
   * The configured currency is also the default currency within Consumption Overview (native sourcing currency available at any time).
   * Consumption values are converted daily based on the Foreign Exchange rates. A currency can only be changed before configuring the first budget. Changing currencies later will require the removal of all budgets.
-{% endhint %}
 
 ## Create a Custom Group budget <a href="#creating-custom-group-budgets" id="creating-custom-group-budgets"></a>
 

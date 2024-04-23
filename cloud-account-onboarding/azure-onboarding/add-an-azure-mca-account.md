@@ -4,20 +4,18 @@ description: Add your Azure Microsoft Customer Agreement account to the Client P
 
 # Add an Azure MCA Account
 
-The Client Portal supports both legacy Enterprise Agreement and modern [Microsoft Customer Agreement](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview) models.  If you are adding an EA or MPSA account, see [Activating an Azure EA or MPSA accoun](activate-an-azure-ea-or-mpsa-account.md)t.
+The Client Portal supports both legacy Enterprise Agreement and modern [Microsoft Customer Agreement](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview) models.  If you are adding an EA or MPSA account, see [Activating an Azure EA or MPSA account](activate-an-azure-ea-or-mpsa-account.md).
 
 ## Before you begin <a href="#before-you-start" id="before-you-start"></a>
 
-{% hint style="info" %}
 Before adding an account, note the following points:
 
 * Make sure you've followed the steps in [Activating your account](activate-an-azure-ea-or-mpsa-account.md#activating-your-account).
-* Make sure your account has the proper billing account type set up. To verify this, launch the [Azure Portal](https://portal.azure.com). From the left navigation pane, select **Cost Management + Billing.** Then, navigate to **Settings** > **Properties**. The account type is displayed in the right pane.
-{% endhint %}
+* Make sure your account has the proper billing account type set up. To verify this, launch the [Azure Portal](https://portal.azure.com). From the left navigation pane, select **Cost Management + Billing**. Then, navigate to **Settings** > **Properties**. The account type is displayed in the right pane.
 
 ## Assign the Billing Account Reader role (Azure Portal)
 
-Follow these steps to assign the Billing account reader role to the Client Portal:
+Follow these steps to assign the **Billing account reader** role to the Client Portal:
 
 1. Sign in to the [Azure Portal](https://portal.azure.com) and search for **Cost Management + Billing**.
 2. In the left navigation pane, select **Billing scopes** and then select your MCA billing scope.

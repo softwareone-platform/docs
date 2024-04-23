@@ -6,9 +6,7 @@ description: Create approval groups.
 
 ## Before you begin
 
-{% hint style="info" %}
 Only administrators can create new approval groups. If another person wants to create workflows, either the administrator can enable access for that person or the individual can contact their SoftwareOne Account Manager.
-{% endhint %}
 
 ## Create a new approval group
 

@@ -6,9 +6,7 @@ description: Create a per provider budget.
 
 ## Before you begin <a href="#per-provider-budgets" id="per-provider-budgets"></a>
 
-{% hint style="info" %}
 Before creating a budget, note that there can be only one subscription budget under an Account budget.
-{% endhint %}
 
 ## Create a per-provider budget <a href="#per-provider-budgets" id="per-provider-budgets"></a>
 

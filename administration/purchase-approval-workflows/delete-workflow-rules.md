@@ -6,9 +6,9 @@ description: Delete a workflow rule.
 
 ## Before you begin
 
-{% hint style="info" %}
 Only administrators can access the existing workflows and delete rules within each workflow.
-{% endhint %}
+
+## Delete workflow rules
 
 Follow these steps to delete a rule within a workflow:
 

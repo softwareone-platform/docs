@@ -12,8 +12,6 @@ The Microsoft Enterprise Agreement offers organizations a cost-effective way to 
 
 Once a year, customers are asked to align their Enterprise Agreement with the total number of licenses that they have added in the previous 12 months. This is the True-Up process: an inventory of all the qualified devices, users, and processors added over the course of the year.
 
-***
-
 ### **EA TrueUp Timeline**
 
 Although organizations with Enterprise Agreements may place any number of orders throughout the calendar year, the annual TrueUp order must be received by Microsoft in the period between 60 days and 30 days prior to the anniversary of enrolment.
@@ -21,8 +19,6 @@ Although organizations with Enterprise Agreements may place any number of orders
 It is important to note that the annual TrueUp applies only to products that organizations have already licensed under their current Enterprise Agreement. New products and online services that are not in the current EA must be purchased in the month they are first used. If organizations have not increased device or user counts or used any additional Enterprise Agreement products within the calendar year, they still need to submit an Update Statement (also called a zero-usage order), which must be signed by an authorized signatory within the organization.
 
 <figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
-
-***
 
 ### EA TrueUp Module <a href="#pyracloud-ea-trueup-module" id="pyracloud-ea-trueup-module"></a>
 

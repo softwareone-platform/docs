@@ -44,6 +44,7 @@
   * [Complete Your Microsoft 365 or Microsoft Azure Activation](cloud-account-onboarding/azure-onboarding/complete-your-microsoft-365-or-microsoft-azure-activation.md)
   * [Assign Reader and Tag Contributor Roles (single subscription)](cloud-account-onboarding/azure-onboarding/assign-reader-and-tag-contributor-roles-single-subscription.md)
   * [Assign Reader and Tag Contributor Roles (multiple subscriptions)](cloud-account-onboarding/azure-onboarding/assign-reader-and-tag-contributor-roles-multiple-subscriptions.md)
+  * [Migrate to Azure Cost Management APIs](cloud-account-onboarding/azure-onboarding/migrate-to-azure-cost-management-apis.md)
 
 ## Cloud Marketplace
 
@@ -53,7 +54,7 @@
   * [Make Payments with a Credit Card](cloud-marketplace/orders-and-invoices/make-payments-with-a-credit-card.md)
   * [View Orders](cloud-marketplace/orders-and-invoices/view-orders.md)
 * [Pricelist Center](cloud-marketplace/pricelist-center/README.md)
-  * [View and Manage Prices](cloud-marketplace/pricelist-center/view-and-manage-prices.md)
+  * [View and add prices](cloud-marketplace/pricelist-center/view-and-add-prices.md)
 * [Procurement Workbench](cloud-marketplace/procurement-workbench/README.md)
   * [View and Manage Software Transactions](cloud-marketplace/procurement-workbench/view-software-transactions.md)
 * [Quotes and Special Quotes](cloud-marketplace/quotes-and-special-quotes/README.md)
@@ -100,7 +101,7 @@
   * [Request to create or update budgets](spend-management/budgets/request-to-create-or-update-budgets.md)
   * [Edit budget utilization alerts](spend-management/budgets/edit-budget-utilization-alerts.md)
 * [Chargebacks](spend-management/chargebacks/README.md)
-  * [Create Chargebacks](spend-management/chargebacks/working-with-chargebacks.md)
+  * [About Chargebacks](spend-management/chargebacks/about-chargebacks.md)
 * [Custom Groups](spend-management/custom-groups/README.md)
   * [Create Custom Groups](spend-management/custom-groups/working-with-custom-groups.md)
 * [Recommendations](spend-management/recommendations/README.md)
@@ -125,7 +126,6 @@
   * [How to search in the Client Portal](help-and-support/frequently-asked-questions/how-to-search-in-the-client-portal.md)
   * [How to configure conditional access policies](help-and-support/frequently-asked-questions/how-to-configure-conditional-access-policies.md)
   * [How to setup single sign-on (SSO)](help-and-support/frequently-asked-questions/single-sign-on-sso-integration.md)
-  * [How to generate an access token](help-and-support/frequently-asked-questions/how-to-generate-an-azure-ea-access-token.md)
   * [How to sign in using Multi-factor Authentication (MFA)](help-and-support/frequently-asked-questions/how-to-sign-in-using-multi-factor-authentication-mfa.md)
   * [How to resolve AWS recommendation synchronization errors](help-and-support/frequently-asked-questions/how-to-resolve-aws-recommendation-synchronization-errors.md)
   * [How does the Client Portal access my Microsoft 365 tenant under CSP?](help-and-support/frequently-asked-questions/how-does-the-client-portal-access-my-microsoft-365-tenant-under-csp.md)
@@ -146,9 +146,13 @@
 
 * [Release Notes v1](platform-release-notes/release-notes-v1.md)
 
-## USEFUL PAGES
+## SPEND MANAGEMENT RELEASE NOTES
 
-* [Terms of Use](useful-pages/terms-of-use.md)
+* [Release Notes](spend-management-release-notes/release-notes.md)
+
+## USEFUL PAGES & LINKS
+
+* [Terms of Use](useful-pages-and-links/terms-of-use.md)
 * [About SoftwareOne](https://www.softwareone.com/en-ie)
 * [ Code of Conduct](https://www.softwareone.com/en/our-story/code-of-conduct)
 * [Privacy Statement](https://www.softwareone.com/en/privacy-statement)

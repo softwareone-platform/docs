@@ -4,20 +4,18 @@ description: You can create, remove, and manage custom groups.
 
 # Create Custom Groups
 
-***
+## Creating custom groups <a href="#navigate-to-custom-groups" id="navigate-to-custom-groups"></a>
 
-### Creating custom groups <a href="#navigate-to-custom-groups" id="navigate-to-custom-groups"></a>
-
-**To create custom groups**
+Follow these steps to create custom groups:
 
 1. From the main menu, navigate to **Setup** and select **Custom Groups**.&#x20;
-2. Select **Create a group** to start building the group structure.&#x20;
+2. Click **Create a group** to start building the group structure.&#x20;
 3.  On the **Edit Group Structure** page, set up the structure levels. Choose Tag Keys as Structure Levels.&#x20;
 
     <figure><img src="../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**NOTE**: If you are using tags on your provider platform to organize your resources, you can use these tags to create the structure. If you do not want to use existing tags, you can create your structure manually.
+If you are using tags on your provider platform to organize your resources, you can use these tags to create the structure. If you don't want to use existing tags, you can create your structure manually.
 {% endhint %}
 
 4.  Assign groups to the created structure levels. To create the groups, choose the **New** group functionality for the required structure level:
@@ -33,7 +31,7 @@ You can create groups using already existing tags or manually.
 <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**NOTE**: If there are any resources that have tags matching to created groups, they will automatically be assigned.
+If any resources have tags matching to created groups, they will automatically be assigned.
 {% endhint %}
 
 **Example**
@@ -44,9 +42,7 @@ You can create groups using already existing tags or manually.
 | Enterprise Customer | ![](<../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png>)     | ![](<../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     |
 | Service Based       | ![](<../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png>)     | ![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)             |
 
-***
-
-### Creating the structure automatically <a href="#create-structure-automatically" id="create-structure-automatically"></a>
+## Creating the structure automatically <a href="#create-structure-automatically" id="create-structure-automatically"></a>
 
 It is possible to create Custom Groups automatically. The system can create groups for you based on existing tag combinations that match the defined structure levels.
 
@@ -58,9 +54,7 @@ If groups do not exist, they will automatically be created if automation is enab
 
 When the automation is enabled, it is not possible to remove a group with resources assigned. Such a group would immediately be created again.
 
-***
-
-### Removing empty groups automatically <a href="#remove-empty-groups-automatically" id="remove-empty-groups-automatically"></a>
+## Removing empty groups automatically <a href="#remove-empty-groups-automatically" id="remove-empty-groups-automatically"></a>
 
 Enable the following option to allow the system to automatically remove groups without resources and budgets:
 
@@ -70,15 +64,13 @@ Once enabled, the system will periodically scan your structure and remove groups
 
 Consider this setting if you want to have your structure maintained fully automatic.
 
-***
-
-### Assigning resources to a group <a href="#assign-resources-to-a-group" id="assign-resources-to-a-group"></a>
+## Assigning resources to a group <a href="#assign-resources-to-a-group" id="assign-resources-to-a-group"></a>
 
 Once the structure has been created, users can go back to Custom Groups to see all resources:
 
 <figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Users will see the view shown below. The next step is to navigate to “Unassigned Resources”:
+You will see the view shown below. The next step is to navigate to “Unassigned Resources”:
 
 <figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -91,9 +83,7 @@ There are two possible ways to group resources:
 * Assign resources to a group.
 * Assign resources to multiple groups
 
-***
-
-### Assigning resources to a group <a href="#assign-resources-to-a-group-2" id="assign-resources-to-a-group-2"></a>
+## Assigning resources to a group <a href="#assign-resources-to-a-group-2" id="assign-resources-to-a-group-2"></a>
 
 If required, search for the resources. Then select the check boxes of the resources, click on “Move” and select the group:
 
@@ -107,9 +97,7 @@ Assigned resources receive tags that reflect the group assignment structure. As 
 
 <figure><img src="../../.gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-***
-
-### Assigning resources to multiple groups <a href="#assign-resources-to-multiple-groups" id="assign-resources-to-multiple-groups"></a>
+## Assigning resources to multiple groups <a href="#assign-resources-to-multiple-groups" id="assign-resources-to-multiple-groups"></a>
 
 Assigning resources to multiple groups means that the spend of such resources will be split between selected groups according to the way users specify.
 
@@ -137,21 +125,19 @@ Users can see the split resources assigned to the groups provided. They are mark
 <figure><img src="../../.gitbook/assets/image (20) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**NOTE**: Split resources will not receive tags reflecting the assignment to the group structure. Assigning such tags to the resource on the provider platform (for example, Azure) will not change the group assignment.
+Split resources will not receive tags reflecting the assignment to the group structure. Assigning such tags to the resource on the provider platform (for example, Azure) will not change the group assignment.
 {% endhint %}
 
-***
-
-### Managing group association <a href="#manage-group-association" id="manage-group-association"></a>
+## Managing group association <a href="#manage-group-association" id="manage-group-association"></a>
 
 Resource group assignments can be managed through the following modules:
 
-* Custom Groups: Go to the details of a resource and select **View Cost Allocation**.
+* **Custom Groups -** Go to the details of a resource and select **View Cost Allocation**.
 
 <figure><img src="../../.gitbook/assets/image (22) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (23) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Resources: Go to the selected Resource Details page. Resource group assignment information is provided in the **Groups** section.
+* **Resources** **-** Go to the selected Resource Details page. Resource group assignment information is provided in the **Groups** section.
 
 <figure><img src="../../.gitbook/assets/image (24) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

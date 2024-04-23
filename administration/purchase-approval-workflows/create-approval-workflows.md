@@ -6,9 +6,7 @@ description: Create and manage approval workflows.
 
 ## Before you begin
 
-{% hint style="info" %}
 Only administrators can create new approval workflows.&#x20;
-{% endhint %}
 
 ## Create a new approval workflow
 
