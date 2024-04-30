@@ -63,7 +63,7 @@ If you cannot provide consent to approve enterprise applications or have environ
 <figure><img src="../../.gitbook/assets/Migrate.png" alt="" width="509"><figcaption><p>Migrate without consent </p></figcaption></figure>
 
 4. On the details page of the tenant, select the **Enrollment Numbers** tab and click **Show manual steps**.
-5. In **Manual steps**, assign permissions using Cloud Shell or REST API and then click **Close**. Note you must have the **Azure EA Enterprise Administrator** role to assign permission.
+5. In **Manual steps**, assign permissions using Cloud Shell or REST API and click **Close**. Note that you must have the **Azure EA Enterprise Administrator** role to assign permission.
 
 ## Enrollment statuses
 
