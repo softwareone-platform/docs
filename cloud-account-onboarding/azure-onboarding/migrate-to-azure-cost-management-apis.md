@@ -51,7 +51,7 @@ If you are still unable to migrate, contact your support team.
 
 ## Migrate without consent
 
-If you cannot provide consent to approve enterprise applications or have environment restrictions, you can follow these steps to migrate the configuration and assign permissions manually:
+If you cannot provide consent to approve enterprise applications or have environment restrictions, you can follow these steps to migrate and assign permissions manually:
 
 1. On the [Cloud Tenant Setup](https://v1.client.softwareone.com/integration-manager/start) page, locate the required EA cloud account with the status **EA API Migration** required.
 
