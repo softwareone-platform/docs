@@ -14,30 +14,30 @@ Before migrating to the new Cost Management APIs, note the following points:
 
 * The new APIs don't require access tokens because the authorization is done through Microsoft Entra ID (also known as Azure Active Directory) using service principals.&#x20;
 * Only individuals with the **Azure EA Enterprise Administrator** role permission can carry out the migration steps. If you have trouble finding out who is your EA admin in Azure, see Microsoft's documentation on [EA Billing administration on the Azure portal](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/direct-ea-administration#add-another-enterprise-administrator).&#x20;
-* If your EA admin doesn't have access to the Client Portal, you can collaborate with them by sharing your screen, so that your EA admin can sign in and complete the authorization required for migration.&#x20;
-* During migration, our system will automatically assign the [EnrollmentReader role permission](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/assign-roles-azure-service-principals#permissions-that-can-be-assigned-to-the-service-principal) to the service principal.&#x20;
+* If your EA admin doesn't have access to the Client Portal, you can collaborate with them by sharing your screen, so your EA admin can sign in and complete the authorization required for migration.
+* During migration, our system automatically assigns the [EnrollmentReader role permission](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/assign-roles-azure-service-principals#permissions-that-can-be-assigned-to-the-service-principal) to the service principal. &#x20;
 
 ## Migrate your existing EA cloud account
 
-If you've already onboarded your EA cloud account to the Client Portal, follow these steps to transition to the new API:
+If you've already onboarded your EA cloud account to the Client Portal and have appropriate permissions to approve Enterprise Applications, follow these steps to transition to the new API:
 
-1. Open the [Cloud Tenant Setup](https://v1.client.softwareone.com/integration-manager/start) page. The EA cloud accounts that haven't been migrated will display **EA API migration required** in the **Status** column.
+1. Open the [Cloud Tenant Setup](https://v1.client.softwareone.com/integration-manager/start) page. EA cloud accounts that haven't been migrated will display **EA API migration required** in the **Status** column.
 
 <figure><img src="../../.gitbook/assets/image (292).png" alt="" width="563"><figcaption><p>Status column displays EA API migration required</p></figcaption></figure>
 
 2. Click **Migrate EA API**.&#x20;
 3. In the **Migrate to EA API** window, enter the enrollment number and click **Migrate**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (296).png" alt="" width="428"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Migrate.png" alt="" width="509"><figcaption><p>Migrate option</p></figcaption></figure>
 
 4. Sign in to the Microsoft portal using the credentials of a user with **Enterprise administrator** permission.
 5. On the consent page, review the permissions required by the Client Portal and click **Accept** to grant consent.
 
-<figure><img src="../../.gitbook/assets/image (294).png" alt="" width="338"><figcaption><p>Permissions and consent</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Permissions.png" alt="" width="377"><figcaption><p>Permissions and consent</p></figcaption></figure>
 
 After clicking **Accept**, you'll be redirected to the Cloud Tenant Setup details page.&#x20;
 
-The system will mark the enrollment number you provided as migrated, and automatically assign the **Enrollment reader** permission to the PyraCloud (Azure) application. When the migration is completed, the consumption data will be fetched from Microsoft.
+The system will mark the enrollment number you provided as migrated, and automatically assign the **Enrollment reader** permission to the PyraCloud (Azure) application. When the migration is completed, the consumption data is fetched from Microsoft.
 
 {% hint style="info" %}
 **Migration did not complete successfully?**&#x20;
@@ -49,7 +49,23 @@ To do so, go to the **Enrollment Numbers** tab of the tenant and click **Show ma
 If you are still unable to migrate, contact your support team.
 {% endhint %}
 
-### Enrollment statuses
+## Migrate without consent
+
+If you cannot provide consent to approve enterprise applications or have environment restrictions, you can follow these steps to migrate the configuration and assign permissions manually:
+
+1. On the [Cloud Tenant Setup](https://v1.client.softwareone.com/integration-manager/start) page, locate the required EA cloud account with the status **EA API Migration** required.
+
+<figure><img src="../../.gitbook/assets/image (292).png" alt="" width="563"><figcaption><p> EA API migration required</p></figcaption></figure>
+
+2. In the **Actions** column, click **Migrate EA API**.&#x20;
+3. In the **Migrate to EA API** window, enter the enrollment number and click **Migrate without consent**.&#x20;
+
+<figure><img src="../../.gitbook/assets/Migrate.png" alt="" width="509"><figcaption><p>Migrate without consent </p></figcaption></figure>
+
+4. On the details page of the tenant, select the **Enrollment Numbers** tab and click **Show manual steps**.
+5. In **Manual steps**, assign permissions using Cloud Shell or REST API and then click **Close**. Note you must have the **Azure EA Enterprise Administrator** role to assign permission.
+
+## Enrollment statuses
 
 The **Enrollment Numbers** tab on the details page of the cloud tenant displays the enrollment numbers that are migrated to the new API, along with the respective enrollment status:
 
