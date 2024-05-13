@@ -25,7 +25,7 @@ Follow these steps to update the groups assigned to a user:
 
 <figure><img src="../../../.gitbook/assets/image (414).png" alt=""><figcaption><p>Edit user</p></figcaption></figure>
 
-5. Click **Save**. Your changes are applied immediately.
+4. Click **Save**. Your changes are applied immediately.
 
 ## Related topics
 
