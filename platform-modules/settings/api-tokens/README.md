@@ -16,7 +16,7 @@ Within the Marketplace Platform, API tokens allow programmatic access to the wor
 
 As an account administrator, you can access the **API tokens** page by navigating to the main menu and selecting **Settings** > **API tokens**.&#x20;
 
-From the **Buyers** page, you can:
+From the **API tokens** page, you can:
 
 * Create new tokens and then use those tokens to access different workflows and modules within the Marketplace Platform.
 * View a list of your tokens.&#x20;

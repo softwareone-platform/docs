@@ -8,7 +8,7 @@ description: Learn about the fields and actions available on the API tokens page
 
 The **API tokens** page, located under **Settings** > **API tokens**, displays all tokens in your account.
 
-<figure><img src="../../../.gitbook/assets/image (330).png" alt=""><figcaption><p>API tokens page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (330).png" alt=""><figcaption><p>API tokens page page</p></figcaption></figure>
 
 For each token, you can view the following information:
 

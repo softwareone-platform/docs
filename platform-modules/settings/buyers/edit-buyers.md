@@ -13,7 +13,7 @@ Follow these steps to edit buyer details:
 1. Navigate to the **Buyers** page (**Settings** > **Buyer**).
 2. Click the actions icon (**•••**) for the buyer you want to edit and select **Edit**. The **Edit buyer** page opens.
 
-<figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption><p>Edit buyer page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (352).png" alt="" width="563"><figcaption><p>Edit buyer page</p></figcaption></figure>
 
 3. In the **General** section, change the logo if necessary.
 4.  In the **Contact Person** section, select one of the following options:
@@ -24,7 +24,7 @@ Follow these steps to edit buyer details:
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (353).png" alt=""><figcaption><p>Contact person section</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (353).png" alt="" width="563"><figcaption><p>Contact person section</p></figcaption></figure>
 5. Click **Save**.
 
 ## Related topics

@@ -8,7 +8,7 @@ description: Access the product documentation for the Marketplace platform.
 
 Follow these steps to access the product documentation for the Marketplace Platform:
 
-1. Sign in to your account.
+1. [Sign in to your account](sign-in-to-your-account.md).
 2. Click the help icon in the header area.&#x20;
 3. Click **Documentation**. The documentation opens in a new browser window.&#x20;
 

@@ -4,9 +4,11 @@ description: Sign out of your account.
 
 # Sign out of your account
 
-To sign out of your account, click your profile menu in the header, and then click **Sign out**. You'll be signed out and the sign-in page of the Marketplace Platform page will be displayed.
+To sign out of your account, click your profile menu in the header, and then click **Sign out**.&#x20;
 
 <figure><img src="../.gitbook/assets/image (315).png" alt="" width="247"><figcaption><p>Sign out option</p></figcaption></figure>
+
+You'll be signed out and the sign-in page of the Marketplace Platform page will be displayed.
 
 ## Related topics
 
