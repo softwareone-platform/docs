@@ -8,6 +8,10 @@ description: Learn what's new in this release.
 
 We are happy to announce the v2 release of the Marketplace Platform. As part of this release, we’ve introduced several new modules, features, and improvements.
 
+Watch the following video or continue reading to learn about this release:
+
+{% embed url="https://vimeo.com/933735429" %}
+
 ## Accounts Management
 
 We’ve redefined account management to offer new user and group management possibilities. Now, you can manage your account, view account settings, and manage users, groups, and other entities in a self-service way through the [Settings](../../platform-modules/settings/) module.
