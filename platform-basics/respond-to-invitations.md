@@ -30,7 +30,7 @@ If single sign-on (SSO) is configured, you'll be automatically redirected to you
 ![](<../.gitbook/assets/image (303).png>)
 {% endhint %}
 
-5. [Sign in to your account](sign-in-to-your-account.md) using your email address and password.&#x20;
+4. [Sign in to your account](sign-in-to-your-account.md) using your email address and password.&#x20;
 
 After signing in, you'll be redirected to the [Home](platform-interface/home-page.md) page. Depending on your groups and permissions (assigned by your administrator), you'll be able to access platform modules, view data, and complete your tasks.&#x20;
 
