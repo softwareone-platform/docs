@@ -23,7 +23,7 @@ Follow these steps to remove an individual from your account:
 
 <figure><img src="../../../.gitbook/assets/image (416).png" alt=""><figcaption><p>Remove option</p></figcaption></figure>
 
-4. In **Remove user**, click **Remove** to confirm the action.
+3. In **Remove user**, click **Remove** to confirm the action.
 
 <figure><img src="../../../.gitbook/assets/image (417).png" alt=""><figcaption><p>Remove user</p></figcaption></figure>
 
