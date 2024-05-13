@@ -15,8 +15,8 @@ When you perform consent, you are redirected to Microsoft to accept permissions 
 The Client Portal uses this impersonation to perform actions on behalf of the consenting user. This includes:
 
 1. Assigning the **Reader** role to the Client Portal for subscriptions owned by the consenting user during onboarding.&#x20;
-2. Assigning the **Reader** role to the Client Portal for subscriptions owned by the consenting user during the addition of more subscriptions to the Client Portal. For more information, see [Adding more subscriptions](../../cloud-account-onboarding/azure-onboarding/activate-an-azure-ea-or-mpsa-account.md#add-more-azure-subscriptions).
-3. Modify the default Reader role to the Tag Contributor role (and vice versa) during the Change Access process. For more information, see [Sync your tags to Azure](../../cloud-account-onboarding/azure-onboarding/activate-an-azure-ea-or-mpsa-account.md#syncing-your-tags-to-azure).
+2. Assigning the **Reader** role to the Client Portal for subscriptions owned by the consenting user during the addition of more subscriptions to the Client Portal. For more information, see [Adding more subscriptions](../../extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/activate-an-azure-ea-or-mpsa-account.md#add-more-azure-subscriptions).
+3. Modify the default Reader role to the Tag Contributor role (and vice versa) during the Change Access process. For more information, see [Sync your tags to Azure](../../extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/activate-an-azure-ea-or-mpsa-account.md#syncing-your-tags-to-azure).
 
 ## What are the security implications of activating my tenant in the Client Portal? <a href="#what-are-the-security-implications-of-activating-my-tenant-in-pyracloud" id="what-are-the-security-implications-of-activating-my-tenant-in-pyracloud"></a>
 

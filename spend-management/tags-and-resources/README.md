@@ -1,2 +1,0 @@
-# Tags and Resources
-
