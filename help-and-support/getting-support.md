@@ -4,18 +4,18 @@ description: Create a ticket through the platform or send us an email.
 
 # Contact support
 
-## **Before you begin**
+## Before you begin
 
 Before contacting us, note the following points:
 
 * To ensure we can assist you effectively, please submit your query in English.
 * Consider browsing our [Frequently Asked Questions](frequently-asked-questions/) to see if your question has been answered.
 
-## **Contact us through email**
+## Contact us through email
 
 You can contact us through email at [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com).&#x20;
 
-## **Create a new ticket**
+## Create a new ticket
 
 You can create a support ticket from the **Help and Support** page of the platform.
 
@@ -32,11 +32,15 @@ A confirmation message is displayed stating that your ticket has been created. I
 
 ## View your tickets
 
-The **Help and Support** page displays all tickets that you've created for our Support team.&#x20;
+The **Help and Support** page displays all tickets you've created for our Support team.&#x20;
 
 Clicking a ticket opens its details page, which shows the status of your ticket and other general information.
 
 ## Related topics
+
+{% content-ref url="../platform-basics/profile-settings/" %}
+[profile-settings](../platform-basics/profile-settings/)
+{% endcontent-ref %}
 
 {% content-ref url="../platform-basics/view-documentation.md" %}
 [view-documentation.md](../platform-basics/view-documentation.md)
