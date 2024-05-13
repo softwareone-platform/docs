@@ -34,21 +34,21 @@ The agreement represents an instance of a relationship between Seller, Buyer, an
     "name": "John Smith",
     "icon": "/static/LCE-9625-9634/icon.png"
 }
-</code></pre></td></tr><tr><td><strong><code>product</code></strong></td><td><a href="../../catalog-api/product/">Product</a></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to Product object </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>product</code></strong></td><td><a href="../../catalog-api/product/">Product</a></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to the <a href="../../catalog-api/product/#product-object">Product</a> object.</p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
     "id": "PRD-1111-1111-1111",
     "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
 }
-</code></pre></td></tr><tr><td><strong><code>listing</code></strong></td><td>Listing</td><td><code>IDX</code> </td><td><p>Reference to Listing which allows this agreement </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>listing</code></strong></td><td>Listing</td><td><code>IDX</code> </td><td><p>Reference to the listing which allows this agreement.</p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
     "id": "LST-1234-1234"
 }
-</code></pre></td></tr><tr><td><strong><code>authorization</code></strong></td><td>Authorization</td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to Authorization object used for the agreement </p><p>Example: </p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>authorization</code></strong></td><td>Authorization</td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to the Authorization object used for the agreement.</p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
     "id": "AUT-1234-4567",
     "href": "/authorization/ATH-1234-45678",
     "name": "Salesforce Enterprise License"
 }
-</code></pre></td></tr><tr><td><strong><code>price</code></strong></td><td>Price</td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p></td><td><p>Price for the agreement, explains the monthly and yearly prices for the whole agreement, one-time price tags are never included into it.<br>different parts of price object visible to different actors, see Price Object. </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>price</code></strong></td><td>Price</td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p></td><td><p>The price for the agreement, explains the monthly and yearly prices for the whole agreement, one-time price tags are never included into it.<br>different parts of price object visible to different actors, see Price Object. </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
   "PPxY": 150,
   "PPxM": 12.50,
   "SPxY": 165,
