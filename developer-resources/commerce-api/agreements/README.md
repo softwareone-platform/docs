@@ -28,13 +28,13 @@ The agreement represents an instance of a relationship between Seller, Buyer, an
     "name": "Software LN",
     "icon": "/static/SEL-9121-8944/icon.png"
 }
-</code></pre></td></tr><tr><td><strong><code>licensee</code></strong></td><td>Ref&#x3C;Licensee></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to <a href="https://softwareone.atlassian.net/wiki/spaces/GPTEAM/pages/5243174984">Licensee</a> object </p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>licensee</code></strong></td><td>Ref&#x3C;Licensee></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to Licensee object </p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
     "id": "LCE-9625-9634",
     "href": "/accounts/licensees/LCE-9625-9634",
     "name": "John Smith",
     "icon": "/static/LCE-9625-9634/icon.png"
 }
-</code></pre></td></tr><tr><td><strong><code>product</code></strong></td><td>Ref&#x3C;Product></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to <a href="https://softwareone.atlassian.net/wiki/spaces/GPTEAM/pages/5233213467">Product</a> object </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>product</code></strong></td><td>Ref&#x3C;Product></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to Product object </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
     "id": "PRD-1111-1111-1111",
     "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
@@ -57,7 +57,7 @@ The agreement represents an instance of a relationship between Seller, Buyer, an
   "margin": 0.11,
   "currency": "USD"
 }
-</code></pre></td></tr><tr><td><strong><code>template</code></strong></td><td>Ref&#x3C;Template></td><td><code>IDX</code></td><td><p>Reference to <a href="https://softwareone.atlassian.net/wiki/spaces/GPTEAM/pages/5238980657">Template</a> object. </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>template</code></strong></td><td>Ref&#x3C;Template></td><td><code>IDX</code></td><td><p>Reference to Template object. </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
     "id": "TPL-1234-4444",
     "href": "/products/product/&#x3C;id>/templates/TPL-1234-4444",
     "name": "Succesful Activation"
@@ -66,7 +66,7 @@ The agreement represents an instance of a relationship between Seller, Buyer, an
      "id": "E001234",
      "message": "Agreement provisioning failed due to unavailability of the item"
 }
-</code></pre></td></tr><tr><td><strong><code>lines</code></strong></td><td><a href="https://softwareone.atlassian.net/wiki/spaces/GPTEAM/pages/5286299310">Lines</a>[]</td><td><code>FINAL</code></td><td><p>List of items in Agreement. </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">[
+</code></pre></td></tr><tr><td><strong><code>lines</code></strong></td><td>Lines[]</td><td><code>FINAL</code></td><td><p>List of items in Agreement. </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">[
   {
     "id": "ALI-1234-1234-1234-0127",
     "item": {
@@ -86,7 +86,7 @@ The agreement represents an instance of a relationship between Seller, Buyer, an
     "order": { "id": "ORD-6869-4529-8975-9005" }
   }
 ]
-</code></pre></td></tr><tr><td><strong><code>subscriptions</code></strong></td><td><a href="https://softwareone.atlassian.net/wiki/spaces/GPTEAM/pages/5230395427">Subscription</a>[]</td><td><code>FINAL</code></td><td><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">[
+</code></pre></td></tr><tr><td><strong><code>subscriptions</code></strong></td><td>Subscription[]</td><td><code>FINAL</code></td><td><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">[
     {
       "id": "SUB-0792-5000-2253",
       "href": "/commerce/agreements/AGR-2119-4550-8674-5962/subscriptions/SUB-0792-5000-2253"

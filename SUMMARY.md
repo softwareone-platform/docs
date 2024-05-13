@@ -229,7 +229,7 @@
     * [Update user](developer-resources/accounts-api/user/update-user.md)
     * [Unblock user](developer-resources/accounts-api/user/unblock-user.md)
     * [Block user](developer-resources/accounts-api/user/block-user.md)
-  * [User Groups](developer-resources/accounts-api/user-groups/README.md)
+  * [User groups](developer-resources/accounts-api/user-groups/README.md)
     * [List user groups](developer-resources/accounts-api/user-groups/list-user-groups.md)
     * [Get user group](developer-resources/accounts-api/user-groups/get-user-group.md)
     * [Create user group](developer-resources/accounts-api/user-groups/create-user-group.md)
