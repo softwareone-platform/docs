@@ -57,10 +57,6 @@ Follow these steps to change your password:
 [view-notifications.md](view-notifications.md)
 {% endcontent-ref %}
 
-{% content-ref url="../view-documentation.md" %}
-[view-documentation.md](../view-documentation.md)
-{% endcontent-ref %}
-
-{% content-ref url="../sign-out-of-your-account.md" %}
-[sign-out-of-your-account.md](../sign-out-of-your-account.md)
+{% content-ref url="switch-accounts.md" %}
+[switch-accounts.md](switch-accounts.md)
 {% endcontent-ref %}

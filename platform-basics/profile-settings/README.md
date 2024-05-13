@@ -1,5 +1,5 @@
 ---
-description: Update profile settings for your account.
+description: Update the profile settings for your account.
 ---
 
 # Profile settings
@@ -20,3 +20,6 @@ description: Update profile settings for your account.
 [view-notifications.md](view-notifications.md)
 {% endcontent-ref %}
 
+{% content-ref url="switch-accounts.md" %}
+[switch-accounts.md](switch-accounts.md)
+{% endcontent-ref %}

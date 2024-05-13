@@ -25,7 +25,7 @@ Follow these steps to remove a page :
 
 1. Go to **Favorites** in the main menu. All pages that you've marked as favorites are displayed.&#x20;
 2. Find the page to remove and click the corresponding star icon.&#x20;
-3. Alternatively, navigate to the required module or page directly and then click the star icon.&#x20;
+3. Alternatively, navigate to the required module or page directly and click the star icon.&#x20;
 
 The page is removed from your favorites and the star icon changes from filled to empty, which indicates that the page is no longer a favorite.&#x20;
 

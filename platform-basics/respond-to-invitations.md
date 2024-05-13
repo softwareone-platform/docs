@@ -56,26 +56,18 @@ To decline, open the invitation link and click **Decline invitation**.
 [sign-in-to-your-account.md](sign-in-to-your-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="profile-settings/switch-accounts.md" %}
-[switch-accounts.md](profile-settings/switch-accounts.md)
+{% content-ref url="platform-interface/" %}
+[platform-interface](platform-interface/)
 {% endcontent-ref %}
 
-{% content-ref url="profile-settings/manage-your-profile.md" %}
-[manage-your-profile.md](profile-settings/manage-your-profile.md)
-{% endcontent-ref %}
-
-{% content-ref url="profile-settings/update-your-password.md" %}
-[update-your-password.md](profile-settings/update-your-password.md)
-{% endcontent-ref %}
-
-{% content-ref url="profile-settings/view-notifications.md" %}
-[view-notifications.md](profile-settings/view-notifications.md)
-{% endcontent-ref %}
-
-{% content-ref url="profile-settings/manage-favorites.md" %}
-[manage-favorites.md](profile-settings/manage-favorites.md)
+{% content-ref url="profile-settings/" %}
+[profile-settings](profile-settings/)
 {% endcontent-ref %}
 
 {% content-ref url="view-documentation.md" %}
 [view-documentation.md](view-documentation.md)
+{% endcontent-ref %}
+
+{% content-ref url="sign-out-of-your-account.md" %}
+[sign-out-of-your-account.md](sign-out-of-your-account.md)
 {% endcontent-ref %}

@@ -62,22 +62,14 @@ The layout of the content area depends on the module and the type of data it dis
 [table-filters](table-filters/)
 {% endcontent-ref %}
 
-{% content-ref url="../profile-settings/manage-your-profile.md" %}
-[manage-your-profile.md](../profile-settings/manage-your-profile.md)
-{% endcontent-ref %}
-
-{% content-ref url="../profile-settings/update-your-password.md" %}
-[update-your-password.md](../profile-settings/update-your-password.md)
-{% endcontent-ref %}
-
-{% content-ref url="../profile-settings/manage-favorites.md" %}
-[manage-favorites.md](../profile-settings/manage-favorites.md)
-{% endcontent-ref %}
-
-{% content-ref url="../profile-settings/view-notifications.md" %}
-[view-notifications.md](../profile-settings/view-notifications.md)
+{% content-ref url="../profile-settings/" %}
+[profile-settings](../profile-settings/)
 {% endcontent-ref %}
 
 {% content-ref url="../view-documentation.md" %}
 [view-documentation.md](../view-documentation.md)
+{% endcontent-ref %}
+
+{% content-ref url="../sign-out-of-your-account.md" %}
+[sign-out-of-your-account.md](../sign-out-of-your-account.md)
 {% endcontent-ref %}

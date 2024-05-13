@@ -33,7 +33,7 @@ Explore our documentation to learn about our platform and how you can use it to 
 
 ### Platform Extensions
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Cloud tools</strong></td><td>Govern cloud resources, manage spending, and establish budgets.</td><td></td></tr><tr><td><strong>ITAM tools</strong></td><td>Find information relating to the IT Asset Management service modules.</td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Cloud tools</strong></td><td>Govern cloud resources, manage spending, and establish budgets.</td><td></td></tr><tr><td><strong>ITAM tools</strong></td><td>Find information relating to the IT Asset Management service modules.</td><td></td></tr></tbody></table>
 
 ### Help and Support
 

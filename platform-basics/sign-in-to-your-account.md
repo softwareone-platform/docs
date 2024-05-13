@@ -23,24 +23,12 @@ If you can’t remember your password, select the **Forgot password?** link on t
 
 ## Related topics
 
-{% content-ref url="profile-settings/switch-accounts.md" %}
-[switch-accounts.md](profile-settings/switch-accounts.md)
+{% content-ref url="platform-interface/" %}
+[platform-interface](platform-interface/)
 {% endcontent-ref %}
 
-{% content-ref url="profile-settings/manage-your-profile.md" %}
-[manage-your-profile.md](profile-settings/manage-your-profile.md)
-{% endcontent-ref %}
-
-{% content-ref url="profile-settings/update-your-password.md" %}
-[update-your-password.md](profile-settings/update-your-password.md)
-{% endcontent-ref %}
-
-{% content-ref url="profile-settings/manage-favorites.md" %}
-[manage-favorites.md](profile-settings/manage-favorites.md)
-{% endcontent-ref %}
-
-{% content-ref url="profile-settings/view-notifications.md" %}
-[view-notifications.md](profile-settings/view-notifications.md)
+{% content-ref url="profile-settings/" %}
+[profile-settings](profile-settings/)
 {% endcontent-ref %}
 
 {% content-ref url="view-documentation.md" %}
