@@ -22,7 +22,7 @@ Follow these steps to send the previously generated invitation again:
 
 <figure><img src="../../../.gitbook/assets/image (420).png" alt=""><figcaption><p>Resend invitation link</p></figcaption></figure>
 
-5. To copy the invitation link to your clipboard and share it directly with the individual, click **Copy invitation link**.&#x20;
+4. To copy the invitation link to your clipboard and share it directly with the individual, click **Copy invitation link**.&#x20;
 
 When you invite the individual again, the expiration time for their invitation is reset to seven (7) days.
 
