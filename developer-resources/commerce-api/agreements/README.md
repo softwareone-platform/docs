@@ -4,37 +4,37 @@
 
 The agreement represents an instance of a relationship between Seller, Buyer, and Licensee. It may refer to one-time purchases or/and set of subscriptions.
 
-<table data-full-width="false"><thead><tr><th width="120">Field</th><th width="125">Type</th><th width="147">Constraints</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p></td><td><p>Primary account identifier. </p><p></p><p>Example: "AGR-2119-4550-8674"</p></td></tr><tr><td><strong><code>href</code></strong></td><td>string</td><td><code>READONLY</code> </td><td><p>Relative reference to object on API (always /commerce/agreements/{id}). </p><p></p><p>Example: "/v1/commerce/agreements/AGR-2119-4550-8674"</p></td></tr><tr><td><strong><code>status</code></strong></td><td>string</td><td><code>IDX</code> </td><td>The key status of the object. May only be specified on creation - <strong>Draft</strong> or <strong>Provisioning</strong>, and cannot be updated with PUT.</td></tr><tr><td><strong><code>name</code></strong></td><td>string</td><td><code>IDX</code> </td><td><p>Agreement name, will be assigned automatically on creation, as <code>{product.name} for {licensee.name}</code> but can be changed later.</p><p></p><p>Example: "Microsoft Office 365 NCE E1"</p></td></tr><tr><td><strong><code>vendor</code></strong></td><td><a href="../../accounts-api/account/#account-object">Account</a></td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p><p><code>OPTIONAL</code></p></td><td><p>Reference to the vendor Account object<br>filled-in on creation according product</p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="120">Field</th><th width="125">Type</th><th width="147">Constraints</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p></td><td><p>Primary account identifier. </p><p></p><p>Example: "AGR-2119-4550-8674"</p></td></tr><tr><td><strong><code>href</code></strong></td><td>string</td><td><code>READONLY</code> </td><td><p>Relative reference to object on API (always /commerce/agreements/{id}). </p><p></p><p>Example: "/v1/commerce/agreements/AGR-2119-4550-8674"</p></td></tr><tr><td><strong><code>status</code></strong></td><td>string</td><td><code>IDX</code> </td><td>The key status of the object. May only be specified on creation - Draft or Provisioning, and cannot be updated with <code>PUT</code>.</td></tr><tr><td><strong><code>name</code></strong></td><td>string</td><td><code>IDX</code> </td><td><p>Agreement name, will be assigned automatically on creation, as <code>{product.name} for {licensee.name}</code> but can be changed later.</p><p></p><p>Example: "Microsoft Office 365 NCE E1"</p></td></tr><tr><td><strong><code>vendor</code></strong></td><td><a href="../../accounts-api/account/#account-object">Account</a></td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p><p><code>OPTIONAL</code></p></td><td><p>Reference to the vendor <a href="../../accounts-api/account/#account-object">Account</a> object<br>filled-in on creation according product.</p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
     "id": "ACC-1234-1234",
     "href": "/accounts/accounts/ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
 }
-</code></pre></td></tr><tr><td><strong><code>client</code></strong></td><td><a href="../../accounts-api/account/#account-object">Account</a></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to Client Account object</p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>client</code></strong></td><td><a href="../../accounts-api/account/#account-object">Account</a></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to the Client <a href="../../accounts-api/account/#account-object">Account</a> object.</p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
     "id": "ACC-1234-4444",
     "href": "/accounts/accounts/ACC-1234-4444",
     "name": "Best LLC",
     "icon": "/static/ACC-1234-4444/account.png"
 }
-</code></pre></td></tr><tr><td><strong><code>buyer</code></strong></td><td><a href="../../accounts-api/buyer/#buyer-object">Buyer</a></td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p><p><code>OPTIONAL</code></p></td><td><p>Reference to Buyer object</p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>buyer</code></strong></td><td><a href="../../accounts-api/buyer/#buyer-object">Buyer</a></td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p><p><code>OPTIONAL</code></p></td><td><p>Reference to <a href="../../accounts-api/buyer/#buyer-object">Buyer</a> object.</p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
     "id": "BUY-3731-7971",
     "href": "/accounts/buyers/BUY-3731-7971",
     "name": "Adam Ruszczak",
     "icon": "/static/BUY-3731-7971/icon.png"
 }
-</code></pre></td></tr><tr><td><strong><code>seller</code></strong></td><td><a href="../../accounts-api/seller/#seller-object">Seller</a></td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to Seller object</p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>seller</code></strong></td><td><a href="../../accounts-api/seller/#seller-object">Seller</a></td><td><p><code>READONLY</code> </p><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to the <a href="../../accounts-api/seller/#seller-object">Seller</a> object.</p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
     "id": "SEL-9121-8944",
     "href": "/accounts/sellers/SEL-9121-8944",
     "name": "Software LN",
     "icon": "/static/SEL-9121-8944/icon.png"
 }
-</code></pre></td></tr><tr><td><strong><code>licensee</code></strong></td><td><a href="../../accounts-api/licensee/#licensee-object">Licensee</a></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to Licensee object </p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>licensee</code></strong></td><td><a href="../../accounts-api/licensee/#licensee-object">Licensee</a></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to the <a href="../../accounts-api/licensee/#licensee-object">Licensee</a> object.</p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{
     "id": "LCE-9625-9634",
     "href": "/accounts/licensees/LCE-9625-9634",
     "name": "John Smith",
     "icon": "/static/LCE-9625-9634/icon.png"
 }
-</code></pre></td></tr><tr><td><strong><code>product</code></strong></td><td>Product</td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to Product object </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>product</code></strong></td><td><a href="../../catalog-api/product/">Product</a></td><td><p><code>IDX</code> </p><p><code>FINAL</code></p></td><td><p>Reference to Product object </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
     "id": "PRD-1111-1111-1111",
     "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
