@@ -14,7 +14,7 @@ We’ve redefined account management to offer new user and group management poss
 
 Here are some additional highlights:&#x20;
 
-* **Invite new members** - Account administrators can invite new members to join the account on the Marketplace Platform. New members can be invited by email or by copying the invitation link from the interface and sharing it directly with the individual. Once invited, the individual must click the link to accept the invitation and set up their platform account. To learn more, see [Add new users](../../platform-modules/settings/users/add-new-users.md) and [Respond to an invitation](../../platform-basics/respond-to-invitations.md).
+* **Invite new members** - Account administrators can invite new members to join the account on the Marketplace Platform. New members can be invited by email or by copying the invitation link from the interface and sharing it directly with the individual. Once invited, the individual must click the link to accept the invitation and set up their platform account. To learn more, see [Add new users](../../platform-modules/settings/users/add-new-users.md) and [Respond to invitations](../../platform-basics/respond-to-invitations.md).
 * **Switch accounts** - The Marketplace Platform allows individuals to be a part of multiple accounts and switch between those accounts seamlessly, without signing out of the platform. To learn more, see [Switch accounts](../../platform-basics/profile-settings/switch-accounts.md).&#x20;
 * **Manage users and permissions** - Account administrators can manage users and their permissions through the platform. However, permissions must be assigned at the group level, rather than the individual user level. Group-level permissions can be assigned by creating groups and then granting permissions that apply to all users in that group. To learn more, see [Groups](../../platform-modules/settings/groups/) and [Users](../../platform-modules/settings/users/).
 * **Manage profile** - You can update your personal account settings (user details, display preferences, and communication settings) and change your password through the **My Profile** option in your user profile menu. To learn more, see [Manage your profile](../../platform-basics/profile-settings/manage-your-profile.md).
@@ -23,9 +23,9 @@ Here are some additional highlights:&#x20;
 
 We've introduced a new **Orders** module so you can view and manage your orders easily.
 
-The new module displays a list of orders in your account, including purchase orders, change orders, and termination orders.&#x20;
+The new module displays a list of orders in your account, including purchase orders, change orders, and termination orders, and lets you complete order management tasks (such as adding notes to your order, downloading attachments, and more).
 
-You can also find the items assigned to your order, pricing details, provisioning and ordering parameters, and other order-related attributes. You can also complete all order management tasks, such as adding notes to your order, downloading files attached to your order, and responding to vendor queries from within the module. To learn more, see [Orders](../../platform-modules/marketplace/orders/).
+You can also find the items assigned to your order, pricing details, provisioning and ordering parameters, and other order-related attributes. To learn more, see [Orders](../../platform-modules/marketplace/orders/).
 
 ## Subscriptions and Agreements Management&#x20;
 
