@@ -6,7 +6,7 @@ The `subscriptions` object represents a collection of Product Items inside the A
 
 This object contains the following properties:
 
-<table><thead><tr><th width="195">Field</th><th width="175">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Human Friendly identifier of Subscription object. </p><p></p><p>Example: "SUB-2119-4550-8674-5962"</p></td></tr><tr><td>href</td><td>string</td><td><p>Relative reference to object on API (always <code>/commerce/agreements/{id}</code>) </p><p></p><p>Example: "/v1/commerce/subscriptions/SUB-2119-4550-8674-5962)"</p></td></tr><tr><td>status</td><td>string</td><td><p>Key status of the object, possible values are by-product of an latest completed order that touched this specific subscription. Possible statuses are subset of all subscription statuses. </p><p></p><p>Example: "<strong>Active</strong>"</p></td></tr><tr><td>name</td><td>string</td><td><p>Subscription name. </p><p></p><p>Example: Subscription for Microsoft Office 365 NCE E1</p></td></tr><tr><td>agreement</td><td>Ref&#x3C;Agreement></td><td><p>Agreement that holds this particular Subscription instance. </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{   
+<table><thead><tr><th width="195">Field</th><th width="175">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Human Friendly identifier of Subscription object. </p><p></p><p>Example: "SUB-2119-4550-8674-5962"</p></td></tr><tr><td>href</td><td>string</td><td><p>Relative reference to object on API (always <code>/commerce/agreements/{id}</code>) </p><p></p><p>Example: "/v1/commerce/subscriptions/SUB-2119-4550-8674-5962)"</p></td></tr><tr><td>status</td><td>string</td><td><p>The key status of the object. </p><p>Possible values are a by-product of the latest completed order that touched this subscription. Possible statuses are a subset of all subscription statuses. </p><p></p><p>Example: "Active"</p></td></tr><tr><td>name</td><td>string</td><td><p>Subscription name. </p><p></p><p>Example: Subscription for Microsoft Office 365 NCE E1</p></td></tr><tr><td>agreement</td><td>Ref&#x3C;Agreement></td><td><p>Agreement that holds this particular Subscription instance. </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{   
     "id": "AGR-2119-4550-8674-5962",
     "href": "/commerce/agreements/ACC-1234-1234",
     "name": "Microsoft Office 365 for My Company"
@@ -64,7 +64,7 @@ This object contains the following properties:
         "unique": false
     }
 }
-</code></pre></td></tr><tr><td>audit</td><td>AuditObject</td><td><p>Audit object with possible entries: created, updated, activated, terminated, according to lifecycle of the object. Possible audit events: <strong>created</strong>, <strong>updated</strong>, <strong>activated</strong>, <strong>terminated</strong>, <strong>failed</strong>. </p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td>AuditObject</td><td><p>Audit object with possible entries: created, updated, activated, terminated, according to the object's lifecycle. </p><p></p><p>Possible audit events: Created, Updated, Activated, Terminated, and Failed. </p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } },
   "activated": { "at": "...", "by": { } },
