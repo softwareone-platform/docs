@@ -6,9 +6,7 @@ The definition represents an Attachment object in Marketplace. This Attachment o
 
 ## Fields <a href="#fields" id="fields"></a>
 
-| Field                         | Type   | Constraints | Description                                                                                                                                                                                      |
-| ----------------------------- | ------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **`inlineAttachmentContent`** | string | `OPTIONAL`  | <p>Inline attachment content. For example in the case of type LicenseKey, this field is actually populated with a license key string. </p><p></p><p>Example: "DFE25-GQ943-GH992-KL235-PY037"</p> |
+<table><thead><tr><th>Field</th><th width="127">Type</th><th>Constraints</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>inlineAttachmentContent</code></strong></td><td>string</td><td><code>OPTIONAL</code></td><td><p>Inline attachment content. For example in the case of type LicenseKey, this field is actually populated with a license key string. </p><p></p><p>Example: "DFE25-GQ943-GH992-KL235-PY037"</p></td></tr></tbody></table>
 
 ## Specific field behavior <a href="#specific-field-behaviour" id="specific-field-behaviour"></a>
 
@@ -28,7 +26,7 @@ The definition represents an Attachment object in Marketplace. This Attachment o
   "classification": "Text",
   "contentType": "application/x-iso9660-image",
   "size": 123,
-  "description" : "Some order attachment description",
+  "description": "Some order attachment description",
   "filename": "SomeOrderAttachment.txt",
   "inlineAttachmentContent": null,
   "audit": {
