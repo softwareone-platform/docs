@@ -8,13 +8,13 @@ The `user` object represents an individual user in the Marketplace platform. Thi
   "prefix": "+34",
   "number": "660707172"
 }
-</code></pre></td></tr><tr><td><strong><code>SSO</code></strong></td><td>bool</td><td><code>READONLY</code></td><td><p>Flag if a user logs using SSO. </p><p></p><p>Example: "true"</p></td></tr><tr><td><strong><code>acceptedTerms</code></strong></td><td>bool</td><td><code>READONLY</code></td><td><p>Flag if user has accepted terms and conditions. </p><p></p><p>Example: "true"</p></td></tr><tr><td><strong><code>accounts</code></strong></td><td><a href="broken-reference">Account</a></td><td><code>IDX</code></td><td><p>List of accounts that user is added to, not returned on users account sub-collection. </p><p></p><p>Example:  </p><pre class="language-json" data-line-numbers><code class="lang-json">[
+</code></pre></td></tr><tr><td><strong><code>SSO</code></strong></td><td>bool</td><td><code>READONLY</code></td><td><p>Flag if a user logs using SSO. </p><p></p><p>Example: "true"</p></td></tr><tr><td><strong><code>acceptedTerms</code></strong></td><td>bool</td><td><code>READONLY</code></td><td><p>Flag if user has accepted terms and conditions. </p><p></p><p>Example: "true"</p></td></tr><tr><td><strong><code>accounts</code></strong></td><td>Account</td><td><code>IDX</code></td><td><p>List of accounts that user is added to, not returned on users account sub-collection. </p><p></p><p>Example:  </p><pre class="language-json" data-line-numbers><code class="lang-json">[
   {
     "id": "ACC-1671-0642",
     "name": "You Are a Test Account"
   }
 ]
-</code></pre></td></tr><tr><td><strong><code>groups</code></strong></td><td><a href="broken-reference">Group</a></td><td></td><td><p>Groups that the user belongs to. </p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">[
+</code></pre></td></tr><tr><td><strong><code>groups</code></strong></td><td>Group</td><td></td><td><p>Groups that the user belongs to. </p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">[
   {
     "id": "UGR-5116-6265",
     "name": "Administrators"
@@ -24,7 +24,7 @@ The `user` object represents an individual user in the Marketplace platform. Thi
     "name": "Fulfillment Managers"
   }
 ]
-</code></pre></td></tr><tr><td><strong><code>settings</code></strong></td><td><mark style="color:red;">(tbd)</mark></td><td><code>OPTIONAL</code></td><td></td></tr><tr><td><strong><code>invitation</code></strong></td><td>object</td><td><code>OPTIONAL</code></td><td><p>Added only in context of account (on account sub-collection), and only in case of user being invited. </p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>settings</code></strong></td><td></td><td><code>OPTIONAL</code></td><td></td></tr><tr><td><strong><code>invitation</code></strong></td><td>object</td><td><code>OPTIONAL</code></td><td><p>Added only in context of account (on account sub-collection), and only in case of user being invited. </p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
   "code": "910B14E6CB2343A09CB32F24BBC4BEF1",
   "status": "Invited"
 }

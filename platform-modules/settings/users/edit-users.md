@@ -11,7 +11,7 @@ In certain situations, you might need to update a user's group membership. For e
 Before editing a user, note the following points:
 
 * You can only update groups that the user belongs to. You cannot edit any other information.&#x20;
-* If a user's general information (such as name, email address, or contact details) needs updating, the person must update the details themselves through **My Profile**. To learn more, see [Manage your profile](broken-reference).&#x20;
+* If a user's general information (such as name, email address, or contact details) needs updating, the person must update the details themselves through **My Profile**. To learn more, see [Manage your profile](../../../platform-basics/profile-settings/manage-your-profile.md).&#x20;
 
 ## Edit a user
 

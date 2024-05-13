@@ -12,7 +12,7 @@ The `seller` object represents a seller in the Marketplace platform. This object
   "state": "S",
   "country": "ST"
 }
-</code></pre></td></tr><tr><td><strong><code>currency</code></strong></td><td>string</td><td><a href="https://en.wikipedia.org/wiki/ISO_4217">ISO-4217</a></td><td><mark style="color:red;">(tbc)</mark></td></tr><tr><td><strong><code>buyers</code></strong></td><td><a href="broken-reference">Buyer</a></td><td></td><td></td></tr><tr><td><strong><code>audit</code></strong></td><td>object</td><td><p><code>READONLY</code> </p><p><code>IDX</code></p></td><td><p>Possible audit events: Created, Updated, Activated, Disabled, Deactivated, or Deleted</p><p></p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><strong><code>currency</code></strong></td><td>string</td><td><a href="https://en.wikipedia.org/wiki/ISO_4217">ISO-4217</a></td><td><mark style="color:red;">(tbc)</mark></td></tr><tr><td><strong><code>buyers</code></strong></td><td>Buyer</td><td></td><td></td></tr><tr><td><strong><code>audit</code></strong></td><td>object</td><td><p><code>READONLY</code> </p><p><code>IDX</code></p></td><td><p>Possible audit events: Created, Updated, Activated, Disabled, Deactivated, or Deleted</p><p></p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } },
   "activated": { "at": "...", "by": { } },

@@ -1,6 +1,6 @@
 # My Azure billing data isn't up to date
 
-The Client Portal uses several Microsoft APIs to pull data that allows you to create [Spend reports](../../platform-modules/other-tools/reports/spend-reports-consumption-overview.md), [Budgets](../../extensions/cloud-tools/budgets/), and [Chargebacks](../../extensions/cloud-tools/chargebacks/). In some cases, it can take up to 24 hours for the resource cost to be accessed through the interface.
+The Client Portal uses several Microsoft APIs to pull data that allows you to create Spend reports, [Budgets](../../extensions/cloud-tools/budgets/), and [Chargebacks](../../extensions/cloud-tools/chargebacks/). In some cases, it can take up to 24 hours for the resource cost to be accessed through the interface.
 
 As the Client Portal synchronizes your Azure billing data only once a day, sometimes, it might take 48 hours for the data to refresh.
 
