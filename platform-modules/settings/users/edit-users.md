@@ -17,10 +17,9 @@ Before editing a user, note the following points:
 
 Follow these steps to update the groups assigned to a user:
 
-1. Sign in to your account as an administrator.
-2. Navigate to the **Users** page (**Settings** > **Users**) and find the required user.&#x20;
-3. Click the actions icon (**•••**) for the user and select **Edit**. The **Edit user** page displays.
-4. In the **Groups** section, make changes as necessary:
+1. Navigate to the **Users** page (**Settings** > **Users**) and find the required user.&#x20;
+2. Click the actions icon (**•••**) for the user and select **Edit**. The **Edit user** page displays.
+3. In the **Groups** section, make changes as necessary:
    * To assign a group to the user, select the checkbox.
    * To remove the user from a group, clear the checkbox for that group.
 

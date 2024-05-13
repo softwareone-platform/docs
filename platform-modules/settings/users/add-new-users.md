@@ -16,8 +16,8 @@ Before adding an individual to your account, note the following points:
 
 Follow these steps to add a new member:
 
-1. Sign in to your account as an administrator.
-2. &#x20;Navigate to the **Users** page (**Settings** > **Users**) and click **Add**. The **Add user** page opens.&#x20;
+1. Navigate to the **Users** page (**Settings** > **Users**).
+2. Click **Add**. The **Add user** page opens.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (324).png" alt=""><figcaption><p>Add user page</p></figcaption></figure>
 

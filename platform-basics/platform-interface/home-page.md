@@ -14,7 +14,7 @@ The **Home** page consists of three main elements: header, footer, and main cont
 * Recently Visited
 * News and Updates
 
-Each of these sections is explained in this topic. For information on the header and footer, see [Client Portal Interface](./).
+Each of these sections is explained in this topic. For information on the header and footer, see [Platform Interface](./).
 
 ## Top modules
 

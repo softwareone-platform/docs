@@ -8,8 +8,8 @@ description: Update your account's general information.
 
 Follow these steps to update your account information:
 
-1. Sign in to your account.
-2. Navigate to the **Account** page (**Settings** > **Account**) and click **Edit**. The **Edit account** page opens.
+1. Navigate to the **Account** page (**Settings** > **Account**).
+2. Click **Edit**. The **Edit account** page opens.
 
 <figure><img src="../../../.gitbook/assets/image (322).png" alt=""><figcaption><p>Edit account page</p></figcaption></figure>
 

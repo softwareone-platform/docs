@@ -18,7 +18,7 @@ If you provide inaccurate credentials, an error message is displayed.&#x20;
 
 ![](<../.gitbook/assets/image (305).png>)
 
-If you can’t remember your password, select the **Forgot password?** link on the **Sign-in** page and then follow the instructions. For more information, see [Reset or change password](profile-settings/update-your-password.md).
+If you can’t remember your password, select the **Forgot password?** link on the **Sign-in** page and then follow the instructions. For more information, see [Update your password](profile-settings/update-your-password.md).
 {% endhint %}
 
 ## Related topics

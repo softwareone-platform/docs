@@ -10,9 +10,8 @@ To share an invitation link directly with a user, you can copy it in two ways: f
 
 Follow these steps to copy the invitation link:
 
-1. Sign in to your account as an administrator.
-2. Navigate to the **Users** page (**Settings** > **Users**) and find the required user.
-3. Click the actions icon (**•••**) for the user and then click **Copy invitation link**.&#x20;
+1. Navigate to the **Users** page (**Settings** > **Users**) and find the required user.
+2. Click the actions icon (**•••**) for the user and then click **Copy invitation link**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (418).png" alt=""><figcaption><p>Copy invitation link</p></figcaption></figure>
 

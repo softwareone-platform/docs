@@ -2,15 +2,15 @@
 
 ## Requests page&#x20;
 
-The **Requests** page, located under **Marketplace** > **Requests**, displays a list of your requests. You can see an overview of each request and details like the request ID, name of the requester, and date and time of the request creation.
+The **Requests** page, located under **Marketplace** > **Requests**, displays a list of your requests.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (391).png" alt=""><figcaption><p> Requests page</p></figcaption></figure>
 
-On this page, you can view the following request details:
+On this page, you can view the following details of each request:
 
-* **ID** - Displays the unique identifier for the request.
+* **Request** - Displays the name and unique identifier for the request.
 * **Requester** - Displays the name of the person who created the request.&#x20;
-* **Vendor** - Displays the name of the vendor.
+* **To** - Displays the name of the vendor.
 * **Product** - Displays the product name for which the request is created.
 * **Assignee** - Displays the contact person assigned to the request.
 * **Created** -  Displays the date and time when the request was created.

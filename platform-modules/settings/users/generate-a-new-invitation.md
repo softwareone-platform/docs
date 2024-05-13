@@ -18,8 +18,8 @@ If the original link is still valid, you can resend the email invitation. For mo
 
 Follow these steps to generate a new invitation:
 
-1. Sign in to your account as an administrator.
-2. Navigate to the **Users** page (**Settings** > **Users**) and click the actions icon (**•••**) for the user to reinvite. Make sure that the **Joined** column displays the value as **Invitation Expired**.
+1. Navigate to the **Users** page (**Settings** > **Users**).
+2. Click the actions icon (**•••**) for the user to reinvite. Make sure that the **Joined** column displays the value as **Invitation Expired**.
 3. Click **Send new invitation**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (421).png" alt=""><figcaption><p>Send new invitation</p></figcaption></figure>

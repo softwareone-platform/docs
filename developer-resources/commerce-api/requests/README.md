@@ -28,7 +28,7 @@
   "status": "Querying",
   "client": { 
     "id": "ACC-1234-4444",
-    "name": "Rolls-Royce"
+    "name": "Stark-industries"
   },
   "vendor": { 
     "id": "ACC-1234-1111",
@@ -60,7 +60,7 @@
   "status": "Querying",
   "client": { 
     "id": "ACC-1234-4444",
-    "name": "Rolls-Royce"
+    "name": "Stark-industries"
   },
   "vendor": { 
     "id": "ACC-1234-1111",

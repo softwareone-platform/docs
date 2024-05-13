@@ -18,9 +18,8 @@ Before removing a user, note the following points:
 
 Follow these steps to remove an individual from your account:
 
-1. Sign in to your Marketplace account as an administrator.
-2. Navigate to the **Users** page (**Settings** > **Users**) and find the user to remove.
-3. Click the actions icon (**•••**) for the user and select **Remove**.
+1. Navigate to the **Users** page (**Settings** > **Users**) and find the user to remove.
+2. Click the actions icon (**•••**) for the user and select **Remove**.
 
 <figure><img src="../../../.gitbook/assets/image (416).png" alt=""><figcaption><p>Remove option</p></figcaption></figure>
 

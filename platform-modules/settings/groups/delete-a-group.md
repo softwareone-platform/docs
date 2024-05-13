@@ -15,11 +15,10 @@ Before deleting a group, note the following points:
 
 Follow these steps to delete an existing group:
 
-1. Sign in to your account as an administrator.
-2. Navigate to the **Groups** page located under **Settings** > **Groups**.&#x20;
-3. Click the actions icon (**•••**) for the group you want to delete and select **Delete**.&#x20;
-4. Alternatively, click the group's name. When the details page of your selected group opens, click the down arrow and then click **Delete**.&#x20;
-5. Confirm that you want to delete the group. A message is displayed stating that the group is deleted.&#x20;
+1. Navigate to the **Groups** page (**Settings** > **Groups)**.&#x20;
+2. Click the actions icon (**•••**) for the group to delete and select **Delete**.&#x20;
+3. Alternatively, click the group's name. When the details page of your selected group opens, click the down arrow and then click **Delete**.&#x20;
+4. Confirm that you want to delete the group. A message is displayed stating that the group is deleted.&#x20;
 
 ## Related topics
 

@@ -46,11 +46,3 @@ You'll be signed in to your selected account and have access to the account-spec
 {% content-ref url="view-notifications.md" %}
 [view-notifications.md](view-notifications.md)
 {% endcontent-ref %}
-
-{% content-ref url="../view-documentation.md" %}
-[view-documentation.md](../view-documentation.md)
-{% endcontent-ref %}
-
-{% content-ref url="../sign-out-of-your-account.md" %}
-[sign-out-of-your-account.md](../sign-out-of-your-account.md)
-{% endcontent-ref %}

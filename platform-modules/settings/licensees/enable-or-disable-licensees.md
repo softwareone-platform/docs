@@ -12,10 +12,9 @@ Note that the **Enable** option is shown only if you've disabled the licensee pr
 
 Follow these steps to enable or disable a licensee:
 
-1. Sign in to your account as an administrator.
-2. Navigate to the **Licensees** page (**Settings** > **Licensee**).
-3. Click the actions icon (**•••**) for the licensee and select **Enable** or **Disable**. &#x20;
-4. Alternatively, click the licensee's name. When the details page of your selected licensee opens, click the down arrow and then select **Enable** or **Disable**. The following image shows the **Disable** option.&#x20;
+1. Navigate to the **Licensees** page (**Settings** > **Licensee**).
+2. Click the actions icon (**•••**) for the required licensee and select **Enable** or **Disable**. &#x20;
+3. Alternatively, click the licensee's name. When the details page of your selected licensee opens, click the down arrow and then select **Enable** or **Disable**. The following image shows the **Disable** option.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (427).png" alt=""><figcaption><p>Disable a licensee</p></figcaption></figure>
 

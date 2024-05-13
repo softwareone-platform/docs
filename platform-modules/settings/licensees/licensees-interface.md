@@ -18,10 +18,10 @@ For each licensee, you can view the following details:
 * **Buyer** - Displays the buyer related to the licensee.
 * **Seller** - Displays the SoftwareOne entity facilitating the procurement of products and licenses.
 * **Status** - Displays the licensee's status in the system. Possible values include:&#x20;
-  * **Active -** The licensee is active and can be used when making a transaction.
-  * **Enabled -** The licensee has been set up, but you cannot use it for transactions. When a licensee is created in the system, the status is marked as **Enabled**.
-  * **Deleted -**  The licensee has been deleted.
-  * **Disabled -** The licensee has been disabled and can no longer be used.
+  * **Active** - The licensee is active and can be used when making a transaction.
+  * **Enabled** - The licensee has been set up, but you cannot use it for transactions. When a licensee is created in the system, the status is marked as **Enabled**.
+  * **Deleted** -  The licensee has been deleted.
+  * **Disabled** - The licensee has been disabled and can no longer be used.
 * **Actions** - Displays options that allow you to manage licensees. Depending on your permissions, you can update licensee inforamtion, and enable or disable a licensee.
 
 ## Licensee details page <a href="#subscription-details" id="subscription-details"></a>
