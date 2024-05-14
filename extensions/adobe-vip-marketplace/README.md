@@ -4,15 +4,9 @@ description: Adobe VIP Marketplace overview and terms
 
 # Adobe VIP Marketplace
 
-VIP Marketplace enables resellers to resell Adobe licenses that meet their customers’ needs directly on their online marketplaces. It was designed to provide streamlined automated purchasing, provisioning, and billing. A variety of term-length options, volume discounts, and product offerings help VIP Marketplace members—customer organizations of all sizes—meet their unique needs by purchasing as many licenses as they need in one flexible transaction.
+## Comparison of VIP Marketplace and VIP
 
-<details>
-
-<summary>Comparison of VIP Marketplace and VIP</summary>
-
-
-
-|  Capabilities                                | VIP Marketplace                                                                                                            | VIP                                                                           |
+| Capabilities                                 | VIP Marketplace                                                                                                            | VIP                                                                           |
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | Market segment                               | Commercial Customers                                                                                                       | Commercial, Government, Education                                             |
 | Products                                     | <p>Team and Enterprise products (CC, DC, Stock)</p><p>Adobe Sign SMB</p>                                                   | All VIP products including Enterprise                                         |
@@ -31,7 +25,9 @@ VIP Marketplace enables resellers to resell Adobe licenses that meet their custo
 | Anything added on Marketplace                | VIP MP order                                                                                                               | n/a                                                                           |
 | Proration                                    | Daily for added licenses against customer anniversary date                                                                 | Monthly                                                                       |
 
-</details>
+## VIP Marketplace: Overview and terms
+
+VIP Marketplace enables resellers to resell Adobe licenses that meet their customers’ needs directly on their online marketplaces. It was designed to provide streamlined automated purchasing, provisioning, and billing. A variety of term-length options, volume discounts, and product offerings help VIP Marketplace members—customer organizations of all sizes—meet their unique needs by purchasing as many licenses as they need in one flexible transaction.
 
 ### Easy online purchasing <a href="#easyonlinepurchasing" id="easyonlinepurchasing"></a>
 
