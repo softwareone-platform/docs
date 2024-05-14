@@ -1,6 +1,6 @@
 # Release Notes
 
-## Release Date: 22 May 2024
+### Release Date: 22 May 2024
 
 ### Adobe VIP Marketplace
 
