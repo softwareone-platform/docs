@@ -1,2 +1,0 @@
-# Adobe VIP Marketplace
-
