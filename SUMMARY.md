@@ -134,7 +134,7 @@
 ## EXTENSIONS
 
 * [Adobe VIP Marketplace](extensions/adobe-vip-marketplace/README.md)
-  * [Release Notes](extensions/adobe-vip-marketplace/release-notes.md)
+  * [Release notes](extensions/adobe-vip-marketplace/release-notes.md)
 * [Cloud tools](extensions/cloud-tools/README.md)
   * [365Simple](extensions/cloud-tools/365simple.md)
   * [AzureSimple](extensions/cloud-tools/azuresimple.md)
