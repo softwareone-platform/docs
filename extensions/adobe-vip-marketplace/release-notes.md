@@ -4,7 +4,7 @@ description: Adobe VIP Marketplace extension release notes.
 
 # Release notes
 
-## Release Date: 22 May 2024
+### Release Date: 22 May 2024
 
 ### Support for Adobe VIP Marketplace
 
