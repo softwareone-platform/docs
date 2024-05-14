@@ -1,5 +1,5 @@
 ---
-description: Adobe VIP Marketplace overview and terms
+description: Adobe VIP Marketplace overview and terms.
 ---
 
 # Adobe VIP Marketplace
