@@ -29,7 +29,7 @@ VIP Marketplace allows your reseller to purchase the Adobe licenses your team ne
 | Anything added on Marketplace                | VIP MP order                                                                                                               | n/a                                                                           |
 | Proration                                    | Daily for added licenses against customer anniversary date                                                                 | Monthly                                                                       |
 
-## How to get started <a href="#howtogetstarted" id="howtogetstarted"></a>
+## How to get started with VIP Marketplace <a href="#howtogetstarted" id="howtogetstarted"></a>
 
 After you place an order with your reseller, you will receive an invitation to accept the terms and conditions for VIP Marketplace. Once you’ve accepted the terms and conditions, you’ll have the ability to manage your licenses and begin deploying them to users immediately in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
