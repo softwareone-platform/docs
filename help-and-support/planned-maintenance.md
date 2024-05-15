@@ -14,37 +14,37 @@ The Marketplace Platform gets **several planned major updates each year** to kee
 
 ## **Why is planned maintenance important?**
 
-1. **Improves Performance** - Regular updates and optimizations help keep the platform running smoothly and efficiently.
-2. **Enhances Security** - Applying security patches helps protect against vulnerabilities and keeps your data safe.
-3. **Ensures Reliability** - Routine checks and fixes prevent issues that could lead to downtime or data loss.
-4. **Compliance** - Regular maintenance helps in adhering to industry standards and regulatory requirements.
+* **Improves performance** - Regular updates and optimizations help keep the platform running smoothly and efficiently.
+* **Enhances security** - Applying security patches helps protect against vulnerabilities and keeps your data safe.
+* **Ensures reliability** - Routine checks and fixes prevent issues that could lead to downtime or data loss.
+* **Compliance** - Regular maintenance helps in adhering to industry standards and regulatory requirements.
 
 ## **How does planned maintenance affect users?**
 
 ### **For Vendors**
 
-* **Temporary Inaccessibility** - During maintenance windows, some parts of the platform might be unavailable.
-* **Notification in Advance** - Vendors will be notified in advance about the scheduled maintenance, including expected downtime and what areas will be affected.
-* **Minimal Disruption** - We aim to schedule maintenance during off-peak hours to limit disruptions to your business operations.
+* **Temporary inaccessibility** - During maintenance windows, some parts of the platform might be unavailable.
+* **Notification in advance** - Vendors will be notified in advance about the scheduled maintenance, including expected downtime and what areas will be affected.
+* **Minimal disruption** - We aim to schedule maintenance during off-peak hours to limit disruptions to your business operations.
 
 ### **For Clients**
 
-* **Service Interruptions** - Certain functionalities might be temporarily unavailable.
-* **Advance Notice** - Clients receive prior information about when the maintenance will occur and the potential impact.
-* **Improved Services** - After maintenance, clients can expect improved platform performance and new features or enhancements.
+* **Service interruptions** - Certain functionalities might be temporarily unavailable.
+* **Advance notice** - Clients receive prior information about when the maintenance will occur and the potential impact.
+* **Improved services** - After maintenance, clients can expect improved platform performance and new features or enhancements.
 
 ## **How do we communicate planned maintenance?**
 
-1. **Advance Notifications** - Notifications are sent out well before the scheduled maintenance, through emails and dashboard alerts.
-2. **Detailed Information** - These notifications include the date, time, expected duration, and a list of affected services or functionalities.
-3. **Status Updates** - Real-time updates are provided during the maintenance to keep all users informed about the progress. See [**https://status.platform.softwareone.com**](https://status.platform.softwareone.com/)**.**&#x20;
-4. **Completion Notice** - Once maintenance is completed, a follow-up communication confirms the return to normal operations.
+* **Advance notifications** - Notifications are sent out well before the scheduled maintenance, through emails and dashboard alerts.
+* **Detailed information** - These notifications include the date, time, expected duration, and a list of affected services or functionalities.
+* **Status updates** - Real-time updates are provided during the maintenance to keep all users informed about the progress. See [**https://status.platform.softwareone.com**](https://status.platform.softwareone.com/)**.**&#x20;
+* **Completion notice** - Once maintenance is completed, a follow-up communication confirms the return to normal operations.
 
 ## **Best practices for handling planned maintenance**
 
-1. **Read Notifications** - Always read maintenance notifications to know when and how you might be affected.
-2. **Plan Ahead** - Adjust your schedule if needed to minimize the impact on your workflows.
-3. **Contact Support** - If you have any questions or face issues during maintenance, our support team is available to assist you.
+* **Read notifications** - Always read maintenance notifications to know when and how you might be affected.
+* **Plan ahead** - Adjust your schedule if needed to minimize the impact on your workflows.
+* **Contact support** - If you have any questions or face issues during maintenance, our support team is available to assist you.
 
 Planned maintenance is a necessary aspect of operating the SoftwareOne Marketplace Platform. It helps keep the platform secure, reliable, and efficient for vendors and clients.&#x20;
 
