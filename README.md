@@ -15,7 +15,7 @@ layout:
 
 # Home
 
-The [SoftwareOne](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that brings together a wide range of vendors and clients. This platform is designed to offer various software solutions while making sure that client needs match vendor capabilities effectively.
+e [SoftwareOne](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that brings together a wide range of vendors and clients. This platform is designed to offer various software solutions while making sure that client needs match vendor capabilities effectively.
 
 <div align="left">
 
@@ -33,7 +33,7 @@ Explore our documentation to learn about our platform and how you can use it to 
 
 ### Platform Extensions
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Cloud tools</strong></td><td>Govern cloud resources, manage spending, and establish budgets.</td><td></td><td><a href="extensions/cloud-tools/">cloud-tools</a></td></tr><tr><td><strong>ITAM tools</strong></td><td>Find information relating to the IT Asset Management service modules.</td><td></td><td><a href="extensions/itam-tools/">itam-tools</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adobe VIP Marketplace</strong></td><td>Learn about the Adobe VIP Marketplace program.</td><td><a href="extensions/adobe-vip-marketplace/">adobe-vip-marketplace</a></td></tr><tr><td><strong>Cloud tools</strong></td><td>Govern cloud resources, manage spending, and establish budgets.</td><td><a href="extensions/cloud-tools/">cloud-tools</a></td></tr><tr><td><strong>ITAM tools</strong></td><td>Find information relating to the IT Asset Management service modules.</td><td><a href="extensions/itam-tools/">itam-tools</a></td></tr><tr><td><strong>Microsoft CSP</strong></td><td>Learn about the Microsoft CSP program.</td><td><a href="extensions/microsoft-csp.md">microsoft-csp.md</a></td></tr></tbody></table>
 
 ### Help and Support
 
