@@ -20,7 +20,7 @@ You can also see Microsoft's documentation on [Migrate from Azure Enterprise Rep
 
 In the cloud tenant's details page, the **Access Tokens** tab has been replaced by a new tab called **Enrollment Numbers**.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Enrollment Numbers tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Enrollment Numbers tab</p></figcaption></figure>
 
 This change is made because the new Azure Cost Management APIs don't require access tokens. Instead, they use Microsoft Entra ID (also known as Azure Active Directory) for authentication.
 

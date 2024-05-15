@@ -15,11 +15,11 @@ layout:
 
 # Home
 
-The [SoftwareOne](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that seamlessly consolidates over 7,500 vendors and clients. This dynamic platform is meticulously designed to provide diverse software solutions while ensuring effective matchmaking between client needs and vendor capabilities.
+The [SoftwareOne](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that brings together a wide range of vendors and clients. This platform is designed to offer various software solutions while making sure that client needs match vendor capabilities effectively.
 
-<div align="left">
+<div align="left" data-full-width="false">
 
-<figure><img src=".gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

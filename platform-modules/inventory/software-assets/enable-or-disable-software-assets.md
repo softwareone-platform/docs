@@ -30,7 +30,7 @@ Follow these steps to deactivate the module:
 1. Navigate to the **Cloud Tenant Setup** page.
 2. In the **Actions** column, click **Manage**.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Cloud Tenant Setup page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption><p>Cloud Tenant Setup page</p></figcaption></figure>
 
 3. Click **Disable Software Assets**. Your software assets are removed from all the Cloud modules.&#x20;
 
