@@ -70,7 +70,7 @@
     * [Adjust subscription quantity](platform-modules/marketplace/subscriptions/adjust-subscription-quantity.md)
     * [Edit subscription ID](platform-modules/marketplace/subscriptions/edit-subscription-id.md)
     * [Terminate a subscription](platform-modules/marketplace/subscriptions/terminate-a-subscription.md)
-* [Other tools](platform-modules/other-tools/README.md)
+* [Other Tools](platform-modules/other-tools/README.md)
   * [Collaboration Site](platform-modules/other-tools/collaboration-site.md)
   * [Dashboards](platform-modules/other-tools/dashboards.md)
   * [Reports](platform-modules/other-tools/reports/README.md)
