@@ -1,8 +1,6 @@
 # Microsoft Cloud Solution Provider
 
-## Microsoft Cloud Solution Provider (CSP) Program <a href="#microsoft-cloud-solution-provider-csp-program" id="microsoft-cloud-solution-provider-csp-program"></a>
-
-The Microsoft CSP program was launched by Microsoft in 2015 and is a partner program that enables partners to sell Microsoft cloud services along with their own offerings and services. The CSP program is designed to help partners build a profitable cloud business by providing the tools and resources to manage their Customers' entire cloud lifecycle from provisioning, support and billing. Some of the benefits of the CSP program for the partner include:
+The Microsoft Cloud Solution Provider (CSP) program was launched by Microsoft in 2015 and is a partner program that enables partners to sell Microsoft cloud services along with their own offerings and services. The CSP program is designed to help partners build a profitable cloud business by providing the tools and resources to manage their Customers' entire cloud lifecycle from provisioning, support and billing. Some of the benefits of the CSP program for the partner include:
 
 * Access to Microsoft cloud services such as Microsoft 365, Dynamics 365, and Azure.
 * Ability to bundle Microsoft cloud services with your own offerings and services.
