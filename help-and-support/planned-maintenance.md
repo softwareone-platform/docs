@@ -10,7 +10,7 @@ Planned maintenance is a crucial part of managing and operating the SoftwareOne 
 
 Planned maintenance refers to scheduled activities aimed at improving the platform's performance, security, and reliability. These activities include software updates, security patches, infrastructure upgrades, and data cleaning. By scheduling these tasks, we ensure that disruptions are kept to a minimum and that the platform remains in optimal condition.
 
-The Marketplace Platform gets **several planned major updates each year** to keep it running well and secure. Usually, there are about **2-3 updates each year**, so you can expect one every **4-6 months**. These updates bring new features, important fixes, and improvements. For a list of past updates and more details, check out the [**Release Notes**](release-notes/) section.
+The Marketplace Platform gets **several planned major updates each year** to keep it running well and secure. Usually, there are about **2-3 updates each year**, so you can expect one every **4-6 months**. These updates bring new features, important fixes, and improvements. For a list of past updates and more details, check out the [Release Notes](release-notes/) section.
 
 ## **Why is planned maintenance important?**
 
@@ -37,7 +37,7 @@ The Marketplace Platform gets **several planned major updates each year** to kee
 
 * **Advance notifications** - Notifications are sent out well before the scheduled maintenance, through emails and dashboard alerts.
 * **Detailed information** - These notifications include the date, time, expected duration, and a list of affected services or functionalities.
-* **Status updates** - Real-time updates are provided during the maintenance to keep all users informed about the progress. See [**https://status.platform.softwareone.com**](https://status.platform.softwareone.com/)**.**&#x20;
+* **Status updates** - Real-time updates are provided during the maintenance to keep all users informed about the progress. See the [Status Page](https://status.platform.softwareone.com).
 * **Completion notice** - Once maintenance is completed, a follow-up communication confirms the return to normal operations.
 
 ## **Best practices for handling planned maintenance**
