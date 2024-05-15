@@ -4,7 +4,9 @@ description: Learn about the Microsoft Cloud Solution Provider (CSP) program.
 
 # Microsoft Cloud Solution Provider
 
-The Microsoft Cloud Solution Provider (CSP) program is designed to provide businesses with easy access to Microsoft's cloud services, such as Microsoft 365, Dynamics 365, and Azure, through certified partners. Working with a CSP provider like SoftwareOne offers numerous benefits and ensures a smooth onboarding process.
+The Microsoft CSP program is designed to provide businesses with easy access to Microsoft's cloud services, such as Microsoft 365, Dynamics 365, and Azure, through certified partners.&#x20;
+
+Working with a CSP provider like SoftwareOne offers numerous benefits and ensures a smooth onboarding process.
 
 ## Benefits of working with a CSP provider <a href="#benefits-of-working-with-a-csp-provider-like-softwareone" id="benefits-of-working-with-a-csp-provider-like-softwareone"></a>
 
@@ -12,7 +14,7 @@ The Microsoft Cloud Solution Provider (CSP) program is designed to provide busin
 * **Expert support** - Gain access to dedicated support from SoftwareOne's experts, who can help with everything from initial setup to ongoing management and technical issues.
 * **Simplified billing** - Enjoy the convenience of monthly billing and invoicing, making it easier to manage budgets and expenses.
 * **Strategic guidance** - SoftwareOne provides strategic guidance to help businesses optimize their use of Microsoft cloud services, ensuring they get the most value from their investment.
-* **Scalability and flexibility -** Easily scale services up or down based on business needs, with the flexibility to adapt to changing requirements.
+* **Scalability and flexibility** - Easily scale services up or down based on business needs, with the flexibility to adapt to changing requirements.
 
 ## Buying Microsoft products in the SoftwareOne Marketplace <a href="#buying-microsoft-products-in-the-softwareone-marketplace" id="buying-microsoft-products-in-the-softwareone-marketplace"></a>
 
