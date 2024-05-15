@@ -436,4 +436,5 @@
 * [Release notes](help-and-support/release-notes/README.md)
   * [Release notes v1](help-and-support/release-notes/release-notes-v1.md)
   * [Release notes v2](help-and-support/release-notes/release-notes-v2.md)
+* [Planned Maintenance](help-and-support/planned-maintenance.md)
 * [Terms of use](help-and-support/terms-of-use.md)
