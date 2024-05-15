@@ -43,13 +43,15 @@ Requests Management enables you to create a presale request from within the plat
 
 You can also track all requests you’ve created, mark requests as complete after they’ve been answered, and send a message to our business experts from your account. To learn more, see [Requests](../../platform-modules/marketplace/requests/).
 
-## Adobe VIP Marketplace and Microsoft 365
+## Adobe VIP Marketplace and Microsoft CSP
 
-We’ve redesigned the **Products** page to improve usability and make it easier for you to discover Adobe VIP Marketplace and Microsoft 365 products, and purchase licenses. &#x20;
+We’ve redesigned the **Products** page to improve usability and make it easier for you to discover Adobe and Microsoft products and buy subscriptions. &#x20;
 
 The new **Products** page has a cleaner look and feel so you can browse products in our catalog and easily select products you are interested in. You can also click a product to view its details page and see full product information. To learn more, see [Products interface](../../platform-modules/marketplace/products/products-interface.md)_._
 
-Additionally, we’ve introduced a new **Purchase Wizard** that guides you step-by-step through the purchasing process for subscription-based products. The **Purchase Wizard** uses a consistent interface, regardless of the product you are buying. It guides you through each step and allows you to enter your data as required. To learn more, see [Buy products and services](../../platform-modules/marketplace/products/buy-products-and-services.md)_._
+Additionally, we’ve introduced a new **Purchase Wizard** that guides you step-by-step through the purchasing process for subscription-based products. The **Purchase Wizard** uses a consistent interface, regardless of the product you are buying. It guides you through each step and allows you to enter your data as required.&#x20;
+
+To learn more, see [Buy products and services](../../platform-modules/marketplace/products/buy-products-and-services.md), [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/), and [Microsoft Cloud Solution Provider](../../extensions/microsoft-cloud-solution-provider/).
 
 ## New Navigation Structure&#x20;
 

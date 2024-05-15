@@ -135,7 +135,7 @@
 
 * [Adobe VIP Marketplace](extensions/adobe-vip-marketplace/README.md)
   * [Release notes](extensions/adobe-vip-marketplace/release-notes.md)
-* [Cloud tools](extensions/cloud-tools/README.md)
+* [Cloud Tools](extensions/cloud-tools/README.md)
   * [365Simple](extensions/cloud-tools/365simple.md)
   * [AzureSimple](extensions/cloud-tools/azuresimple.md)
   * [Budgets](extensions/cloud-tools/budgets/README.md)
@@ -175,11 +175,12 @@
   * [Tags and resources](extensions/cloud-tools/tags-and-resources.md)
   * [Utilization](extensions/cloud-tools/utilization.md)
   * [Release notes](extensions/cloud-tools/release-notes.md)
-* [ITAM tools](extensions/itam-tools/README.md)
+* [ITAM Tools](extensions/itam-tools/README.md)
   * [365 EA + unified support](extensions/itam-tools/365-ea-+-unified-support.md)
   * [Renewal manager](extensions/itam-tools/renewal-manager.md)
   * [Unified support for multi-vendor](extensions/itam-tools/unified-support-for-multi-vendor.md)
-* [Microsoft CSP](extensions/microsoft-csp.md)
+* [Microsoft Cloud Solution Provider](extensions/microsoft-cloud-solution-provider/README.md)
+  * [Release notes](extensions/microsoft-cloud-solution-provider/release-notes.md)
 
 ## Developer Resources
 
@@ -413,8 +414,8 @@
 
 ## Help and Support
 
-* [Contact support](help-and-support/getting-support.md)
-* [Frequently asked questions](help-and-support/frequently-asked-questions/README.md)
+* [Contact Support](help-and-support/getting-support.md)
+* [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
   * [How to search in the Client Portal](help-and-support/frequently-asked-questions/how-to-search-in-the-client-portal.md)
   * [How to configure conditional access policies](help-and-support/frequently-asked-questions/how-to-configure-conditional-access-policies.md)
   * [How to setup single sign-on (SSO)](help-and-support/frequently-asked-questions/single-sign-on-sso-integration.md)
@@ -433,8 +434,8 @@
   * [What data do you collect for 365 Analytics?](help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md)
   * [What is 365 Analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)
   * [I'm unable to view the Reserved Instance data in the Client Portal](help-and-support/frequently-asked-questions/im-unable-to-view-the-reserved-instance-data-in-the-client-portal.md)
-* [Release notes](help-and-support/release-notes/README.md)
+* [Release Notes](help-and-support/release-notes/README.md)
   * [Release notes v1](help-and-support/release-notes/release-notes-v1.md)
   * [Release notes v2](help-and-support/release-notes/release-notes-v2.md)
-* [Planned maintenance](help-and-support/planned-maintenance.md)
-* [Terms of use](help-and-support/terms-of-use.md)
+* [Planned Maintenance](help-and-support/planned-maintenance.md)
+* [Terms of Use](help-and-support/terms-of-use.md)
