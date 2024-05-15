@@ -1,35 +1,50 @@
+---
+description: Learn about the Microsoft Cloud Solution Provider (CSP) program.
+---
+
 # Microsoft Cloud Solution Provider
 
-The Microsoft Cloud Solution Provider (CSP) program was launched by Microsoft in 2015 and is a partner program that enables partners to sell Microsoft cloud services along with their own offerings and services. The CSP program is designed to help partners build a profitable cloud business by providing the tools and resources to manage their Customers' entire cloud lifecycle from provisioning, support and billing. Some of the benefits of the CSP program for the partner include:
+The Microsoft Cloud Solution Provider (CSP) program is designed to provide businesses with easy access to Microsoft's cloud services, such as Microsoft 365, Dynamics 365, and Azure, through certified partners. Working with a CSP provider like SoftwareOne offers numerous benefits and ensures a smooth onboarding process.
 
-* Access to Microsoft cloud services such as Microsoft 365, Dynamics 365, and Azure.
-* Ability to bundle Microsoft cloud services with your own offerings and services.
-* Monthly billing and invoicing for Microsoft cloud services.
-* Direct support for the Partner from Microsoft for technical issues
+## Benefits of working with a CSP provider <a href="#benefits-of-working-with-a-csp-provider-like-softwareone" id="benefits-of-working-with-a-csp-provider-like-softwareone"></a>
 
-## CSP models <a href="#which-csp-model-is-best-for-me" id="which-csp-model-is-best-for-me"></a>
+* **Tailored solutions** - SoftwareOne can bundle Microsoft cloud services with additional offerings and services, creating customized solutions that meet specific business needs.
+* **Expert support** - Gain access to dedicated support from SoftwareOne's experts, who can help with everything from initial setup to ongoing management and technical issues.
+* **Simplified billing** - Enjoy the convenience of monthly billing and invoicing, making it easier to manage budgets and expenses.
+* **Strategic guidance** - SoftwareOne provides strategic guidance to help businesses optimize their use of Microsoft cloud services, ensuring they get the most value from their investment.
+* **Scalability and flexibility -** Easily scale services up or down based on business needs, with the flexibility to adapt to changing requirements.
 
-The Microsoft CSP program is divided into two models: Direct and Indirect.
+## Buying Microsoft products in the SoftwareOne Marketplace <a href="#buying-microsoft-products-in-the-softwareone-marketplace" id="buying-microsoft-products-in-the-softwareone-marketplace"></a>
 
-### Direct model <a href="#direct" id="direct"></a>
+The SoftwareOne Marketplace empowers clients to manage the entire onboarding process for Microsoft cloud services, from creating a Microsoft organization tenant to accepting the Microsoft Customer Agreement and beyond.&#x20;
 
-In the direct model, partners purchase Microsoft products and subscriptions directly from Microsoft and sell them directly to their customers. The direct-bill model requires partners to sell to, bill, manage, and support their customers autonomously.
+Clients can track their Microsoft subscription purchases and manage the entire subscription lifecycle, all within the SoftwareOne Marketplace. By leveraging the marketplace, businesses enjoy a streamlined, efficient, and user-friendly experience, supported by SoftwareOne’s expertise and resources.
 
-### Indirect model <a href="#indirect" id="indirect"></a>
+## CSP onboarding with SoftwareOne <a href="#csp-onboarding-with-softwareone" id="csp-onboarding-with-softwareone"></a>
 
-In the Indirect model, Indirect Providers purchase Microsoft products and subscriptions directly from Microsoft and sell them to Indirect Resellers who then sell onto their customers. The Indirect Reseller owns the relationship with the end customer and is responsible for billing, managing and supporting them.
+Each step of the onboarding process can be executed by the client using the SoftwareOne Marketplace, providing a seamless and user-friendly experience.
 
-## Who benefits from CSP? <a href="#who-benefits-from-csp" id="who-benefits-from-csp"></a>
+### **Step 1: Creating a Microsoft Organization Tenant**
 
-Microsoft CSP is a program that enables partners to sell Microsoft cloud services and manage their customers' subscriptions. Various types of businesses and users can benefit from Microsoft CSP and require subscription management capabilities to efficiently handle their Microsoft CSP subscriptions. Some examples include:
+1. **Consultation** - SoftwareOne will begin with a consultation to understand your business needs and goals.
+2. **Setup** - They will then create a Microsoft organization tenant for your business. This tenant acts as a dedicated instance within Microsoft's cloud, housing all users, resources, and data.
+3. **Configuration** - SoftwareOne will configure the tenant to align with your business requirements, ensuring optimal setup for security, compliance, and performance.
 
-| Business Type                            | CSP Benefit                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Managed Service Providers (MSPs)         | MSPs are businesses that offer IT services and manage their clients' technology infrastructure. They utilize Microsoft CSP to provide and manage cloud solutions such as Office 365, Azure, and Dynamics 365 for their customers. Subscription management capabilities help MSPs streamline the provisioning, deployment, and billing processes.                                           |
-| Value-Added Resellers (VARs)             | VARs are businesses that resell software and hardware solutions, often adding value through customization, integration, or support services. VARs leverage Microsoft CSP to sell and manage subscriptions for Microsoft cloud services, allowing them to bundle these services with their own offerings and provide a comprehensive solution to their customers.                           |
-| IT Consultants                           | IT consultants provide expert advice and assistance on technology-related matters to businesses. They utilize Microsoft CSP to help their clients select, deploy, and manage the appropriate Microsoft cloud services. Subscription management capabilities allow consultants to handle licensing, user management, and billing efficiently.                                               |
-| Enterprise Organizations                 | Large enterprises often have complex IT environments and multiple departments or subsidiaries. They opt for Microsoft CSP to centralize the management of their Microsoft cloud service subscriptions, providing better visibility, control, and cost optimization. Subscription management capabilities help them efficiently allocate and manage licenses across various business units. |
-| Small and Medium-sized Businesses (SMBs) | SMBs may lack extensive IT resources and prefer to outsource their technology needs. Microsoft CSP offers them a cost-effective way to access and manage cloud services tailored to their requirements. Subscription management capabilities enable SMBs to easily provision and administer user accounts, monitor usage, and adjust licenses as needed.                                   |
-| Educational Institutions                 | Schools, colleges, and universities often utilize Microsoft cloud services for their administrative and educational needs. Microsoft CSP allows educational institutions to procure and manage these services for their staff and students. Subscription management capabilities assist in user provisioning, license allocation, and compliance tracking.                                 |
+### **Step 2: Accepting the Microsoft Customer Agreement**
 
-Overall, businesses and users across different industries can benefit from Microsoft CSP and its subscription management capabilities, enabling them to efficiently leverage Microsoft's cloud services while ensuring smooth operations and cost control.
+1. **Understanding terms** - SoftwareOne will guide you through the Microsoft Customer Agreement, explaining the terms and conditions for using Microsoft’s cloud services.
+2. **Agreement acceptance** - They will assist you in accepting the agreement, which simplifies the purchasing process and provides clear terms regarding service usage, data privacy, and compliance.
+
+### **Step 3: Service Provisioning and Integration**
+
+1. **Service activation** - Once the tenant is set up and the agreement is accepted, SoftwareOne will provision the required Microsoft cloud services for your business.
+2. **Integration** - They will integrate these services with your existing systems, ensuring seamless operation and minimal disruption to your business activities.
+3. **Customization** - SoftwareOne can further customize the services to meet specific needs, such as setting up user roles, permissions, and additional configurations.
+
+### **Step 4: Ongoing Support and Management**
+
+1. **Training** - SoftwareOne provides training to ensure your team can effectively use the new services.
+2. **Continuous support** - They offer ongoing support to address any issues and provide updates, helping your business adapt and grow with the evolving cloud landscape.
+3. **Optimization** - Regular reviews and optimization services are provided to ensure you continue to get the most out of your Microsoft cloud investment.
+
+For more information, please contact your account team.
