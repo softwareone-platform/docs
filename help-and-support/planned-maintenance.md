@@ -1,4 +1,8 @@
-# Planned maintenance
+---
+description: Learn about our planned maintenance releases.
+---
+
+# Planned Maintenance
 
 Planned maintenance is a crucial part of managing and operating the SoftwareOne Marketplace Platform. This topic explains what planned maintenance is, why it is important, and how it affects both vendors and clients using our platform.
 
