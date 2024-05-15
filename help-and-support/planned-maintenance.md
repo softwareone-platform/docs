@@ -37,7 +37,7 @@ The Marketplace Platform gets **several planned major updates each year** to kee
 
 * **Advance notifications** - Notifications are sent out well before the scheduled maintenance, through emails and dashboard alerts.
 * **Detailed information** - These notifications include the date, time, expected duration, and a list of affected services or functionalities.
-* **Status updates** - Real-time updates are provided during the maintenance to keep all users informed about the progress. See the [Status Page](https://status.platform.softwareone.com).
+* **Status updates** - Real-time updates are provided during the maintenance to keep all users informed about the progress. See [Status Page](https://status.platform.softwareone.com).
 * **Completion notice** - Once maintenance is completed, a follow-up communication confirms the return to normal operations.
 
 ## **Best practices for handling planned maintenance**
