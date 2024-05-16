@@ -34,11 +34,11 @@ Follow these steps to add comments or view the progress:
 1. Open the details page of your recommendation. You can do so by clicking the name of the recommendation.
 2. To add comments, select the **Comments** tab, and then type the individual's first name and last name. Save your comments.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Comments tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Comments tab</p></figcaption></figure>
 
 3. To track progress, select the **Progress Log** tab.
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Progress Log tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption><p>Progress Log tab</p></figcaption></figure>
 
 ## Related topics
 

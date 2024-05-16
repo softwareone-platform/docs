@@ -32,7 +32,7 @@ Selecting the filter icon<img src="../../.gitbook/assets/image (273).png" alt=""
 
 If you access some pages regularly to locate data, we recommend you mark those pages as your favorite and then use the search functionality and available filters.
 
-[Favorites](../../platform-basics/profile-settings/manage-favorites.md) is a new feature, which allows you to quickly access your frequently visited pages from the home page as well as through the **Favorites** option in the main menu.
+[Favorites](../../getting-started/platform-basics/manage-favorites.md) is a new feature, which allows you to quickly access your frequently visited pages from the home page as well as through the **Favorites** option in the main menu.
 
 ## How do I search for Cloud Subscriptions?
 

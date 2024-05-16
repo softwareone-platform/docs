@@ -86,16 +86,16 @@ After setup, enter the OTP code from your Authenticator app to sign-in page.&#x2
 
 If you don't have access to your Authenticator app, you can also sign in using your one-time recovery code. When you are asked for the OTP code, select **Try another method** and then **Recovery code**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1).png" alt="" width="364"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1) (1) (1).png" alt="" width="364"><figcaption></figcaption></figure>
 
 On the next screen, enter your recovery code to sign in:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1).png" alt="" width="354"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1) (1) (1).png" alt="" width="354"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE**: When you sign in using your recovery code, you will get another one-time recovery code. Make sure to store this code securely for your next login without your Authenticator app.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>

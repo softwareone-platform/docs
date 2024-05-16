@@ -35,10 +35,10 @@ The page is removed from your favorites and the star icon changes from filled to
 [view-notifications.md](view-notifications.md)
 {% endcontent-ref %}
 
-{% content-ref url="../view-documentation.md" %}
-[view-documentation.md](../view-documentation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../sign-out-of-your-account.md" %}
-[sign-out-of-your-account.md](../sign-out-of-your-account.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

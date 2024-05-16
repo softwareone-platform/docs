@@ -12,7 +12,7 @@ Follow these steps to create custom groups:
 2. Click **Create a group** to start building the group structure.&#x20;
 3.  On the **Edit Group Structure** page, set up the structure levels. Choose Tag Keys as Structure Levels.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If you are using tags on your provider platform to organize your resources, you can use these tags to create the structure. If you don't want to use existing tags, you can create your structure manually.
@@ -20,7 +20,7 @@ If you are using tags on your provider platform to organize your resources, you 
 
 4.  Assign groups to the created structure levels. To create the groups, choose the **New** group functionality for the required structure level:
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can create groups using already existing tags or manually.
 
@@ -72,7 +72,7 @@ Once the structure has been created, users can go back to Custom Groups to see a
 
 You will see the view shown below. The next step is to navigate to “Unassigned Resources”:
 
-<figure><img src="../../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In unassigned resources, users will find all resources that are not assigned to groups.
 
@@ -87,15 +87,15 @@ There are two possible ways to group resources:
 
 If required, search for the resources. Then select the check boxes of the resources, click on “Move” and select the group:
 
-<figure><img src="../../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Those resources are now assigned to the selected group and their entire resource spend will be fully associated with this group.
 
 Assigned resources receive tags that reflect the group assignment structure. As an example, the resources assigned to group “Location-A” have the following tags:
 
-<figure><img src="../../../.gitbook/assets/image (16) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Assigning resources to multiple groups <a href="#assign-resources-to-multiple-groups" id="assign-resources-to-multiple-groups"></a>
 
@@ -103,15 +103,15 @@ Assigning resources to multiple groups means that the spend of such resources wi
 
 If required, search for the resources. Then, select the checkboxes and select **Edit Allocation**.
 
-<figure><img src="../../../.gitbook/assets/image (17) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Specify the split details on the Split Allocation page:
 
-<figure><img src="../../../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the groups and provide an allocation percentage for each group.
 
-<figure><img src="../../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Repeat the step to select groups and specify the allocation percentages. If this is done, select **Save Cost Split**:
 

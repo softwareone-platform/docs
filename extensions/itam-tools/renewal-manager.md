@@ -286,7 +286,7 @@ On the Savings tab, you can add savings relating to a specific agreement. The �
 
 In the “Date of savings” field, you can enter the date you would like for your [Savings Analysis](renewal-manager.md#post-796-\_toc14239659). By default, this is set to the agreement start date.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Tags and Cost Split Tab <a href="#post-796-_toc14180237" id="post-796-_toc14180237"></a>
 
@@ -317,7 +317,7 @@ In this section you will see:
 
 When you click on the “Add New Document” Button the below form will open.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 From here you can upload a file (1) and describe it with a note (2).
 

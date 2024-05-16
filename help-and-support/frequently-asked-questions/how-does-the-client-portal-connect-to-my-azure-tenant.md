@@ -58,7 +58,7 @@ Yes, the Client Portal offers application-level rights that you can change, afte
 * Read Tags Only - Your resources will be synchronized from your Azure Subscription, including their Tags. Any changes to Tags in the Client Portal will not be written back to Azure.
 * Read and Write Tags (Default Role) – Your resources will be synchronized from your Azure Subscription, including their Tags. Any tag changes in the Client Portal will be written back to Azure.
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

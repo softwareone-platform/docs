@@ -2,7 +2,7 @@
 description: Reset or change your password.
 ---
 
-# Update your password
+# Update password
 
 If you forget your password, you can reset it using the **Forgot password?** link on the sign-in page. You can also change your current password through your profile page.
 
@@ -45,8 +45,8 @@ Follow these steps to change your password:
 
 ## Related topics
 
-{% content-ref url="manage-your-profile.md" %}
-[manage-your-profile.md](manage-your-profile.md)
+{% content-ref url="manage-profile.md" %}
+[manage-profile.md](manage-profile.md)
 {% endcontent-ref %}
 
 {% content-ref url="manage-favorites.md" %}
@@ -57,6 +57,6 @@ Follow these steps to change your password:
 [view-notifications.md](view-notifications.md)
 {% endcontent-ref %}
 
-{% content-ref url="switch-accounts.md" %}
-[switch-accounts.md](switch-accounts.md)
+{% content-ref url="switch-account.md" %}
+[switch-account.md](switch-account.md)
 {% endcontent-ref %}

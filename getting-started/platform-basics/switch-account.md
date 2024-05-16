@@ -2,7 +2,7 @@
 description: Switch between your accounts if you belong to multiple accounts.
 ---
 
-# Switch accounts
+# Switch account
 
 The Marketplace Platform allows an individual to be linked to several accounts. If you belong to multiple accounts, you can conveniently switch between those accounts without signing out of the platform.
 
@@ -16,7 +16,7 @@ The option to switch accounts is only available for members of multiple accounts
 
 Follow these steps to switch between your accounts:
 
-1. [Sign in to your account](../sign-in-to-your-account.md).&#x20;
+1. [Sign in to your account](broken-reference).&#x20;
 2. Click your user profile menu in the header and select **Switch account**.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (306).png" alt="" width="247"><figcaption><p>Switch account option in your user profile menu</p></figcaption></figure>
@@ -31,12 +31,12 @@ You'll be signed in to your selected account and have access to the account-spec
 
 ## Related topics
 
-{% content-ref url="manage-your-profile.md" %}
-[manage-your-profile.md](manage-your-profile.md)
+{% content-ref url="manage-profile.md" %}
+[manage-profile.md](manage-profile.md)
 {% endcontent-ref %}
 
-{% content-ref url="update-your-password.md" %}
-[update-your-password.md](update-your-password.md)
+{% content-ref url="update-password.md" %}
+[update-password.md](update-password.md)
 {% endcontent-ref %}
 
 {% content-ref url="manage-favorites.md" %}

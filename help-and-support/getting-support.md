@@ -2,7 +2,7 @@
 description: Create a ticket through the platform or send us an email.
 ---
 
-# Contact support
+# Contact Support
 
 ## Before you begin
 
@@ -38,12 +38,12 @@ Clicking a ticket opens its details page, which shows the status of your ticket 
 
 ## Related topics
 
-{% content-ref url="../platform-basics/profile-settings/" %}
-[profile-settings](../platform-basics/profile-settings/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../platform-basics/view-documentation.md" %}
-[view-documentation.md](../platform-basics/view-documentation.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="frequently-asked-questions/" %}

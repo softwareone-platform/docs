@@ -24,7 +24,7 @@ Depending on the provider, you can create a budget for an account and a subscrip
    * **End Date** - End date of the budget.
    * **Budget Owner** - Email address of the person responsible for creating the budget.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="446"><figcaption><p>Adding budget page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt="" width="446"><figcaption><p>Adding budget page</p></figcaption></figure>
 
 5. Click **Save**.
 

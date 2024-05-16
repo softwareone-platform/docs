@@ -4,6 +4,8 @@ description: Add new members to your Marketplace Platform account.
 
 # Add new users
 
+As an account administrator, you can invite users to your account. You can also track the invitations you send and resend invitations. Invitations are valid for up to 7 days.&#x20;
+
 ## Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
 
 Before adding an individual to your account, note the following points:

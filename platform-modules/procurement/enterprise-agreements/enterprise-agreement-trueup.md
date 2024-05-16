@@ -72,7 +72,7 @@ Typically profiles and tenants can be found as a subsection in CPS. Profiles can
 
 The screenshot below shows the “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
@@ -326,7 +326,7 @@ On this page, all details are shown for the respective product. i.e. if the same
 
 Even though you have come to this page via a specific product record on the overview page, you can still select any other product directly from top dropdown. There is no need to go back to the overview page.
 
-<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Reporting Location**
 
@@ -334,7 +334,7 @@ For the selected product, the reporting location drop-down will only contain tho
 
 For example, if a product is set up under the “Industry Device” product profile, only those reporting locations would be available in the drop-down which belongs to this profile.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 If nothing is selected in the “Reporting Locations” drop-down, all the available reporting locations are shown in the grid and are grouped by Location Group, as defined in Step 3 of the Wizard setup process.
 
@@ -342,13 +342,13 @@ At this step, you need to have the allocation data for the selected product. Num
 
 Once you have defined the quantity, the amount will get calculated automatically based on the unit price you have set up in the Wizard (Year 1 of Steps 4 and 5) using CPS.
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Total Cost** – shows the total cost of all the allocated assets/licenses. i.e. if only 40 assets are allocated out of 90, the total cost will show the amount for 40 assets.
 
 At the bottom of the reporting location column, you can see if all the available assets are allocated or not. Three possible values can be displayed here:
 
-&#x20;![](<../../../.gitbook/assets/image (17).png>) ![](<../../../.gitbook/assets/image (18).png>) Depicts that all the assets are allocated properly and status field is set to “Complete”
+&#x20;![](<../../../.gitbook/assets/image (17) (1).png>) ![](<../../../.gitbook/assets/image (18) (1).png>) Depicts that all the assets are allocated properly and status field is set to “Complete”
 
 Depicts that too many licenses have been allocated and the status field is set to “over-allocated”
 

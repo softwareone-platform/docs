@@ -2,7 +2,7 @@
 description: View and edit your profile settings.
 ---
 
-# Manage your profile
+# Manage profile
 
 ## Access your profile <a href="#access-your-profile" id="access-your-profile"></a>
 
@@ -78,8 +78,8 @@ Follow these steps to update your profile settings:
 
 ## Related topics
 
-{% content-ref url="update-your-password.md" %}
-[update-your-password.md](update-your-password.md)
+{% content-ref url="update-password.md" %}
+[update-password.md](update-password.md)
 {% endcontent-ref %}
 
 {% content-ref url="manage-favorites.md" %}
@@ -90,6 +90,6 @@ Follow these steps to update your profile settings:
 [view-notifications.md](view-notifications.md)
 {% endcontent-ref %}
 
-{% content-ref url="switch-accounts.md" %}
-[switch-accounts.md](switch-accounts.md)
+{% content-ref url="switch-account.md" %}
+[switch-account.md](switch-account.md)
 {% endcontent-ref %}

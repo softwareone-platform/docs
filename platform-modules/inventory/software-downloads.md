@@ -4,7 +4,7 @@ description: You can download software packages from SoftwareOne and upload your
 
 # Software downloads
 
-The **Software Downloads** module lets you download software packages that SoftwareOne provides, and upload your files and packages to the cloud storage.  To access software downloads, navigate to the [main menu](../../platform-basics/platform-interface/#main-menu) of the Client Portal and select **Inventory** > **Software Downloads**.&#x20;
+The **Software Downloads** module lets you download software packages that SoftwareOne provides, and upload your files and packages to the cloud storage.  To access software downloads, navigate to the [main menu](../../getting-started/platform-interface/#main-menu) of the Client Portal and select **Inventory** > **Software Downloads**.&#x20;
 
 ## Uploading software packages or files
 

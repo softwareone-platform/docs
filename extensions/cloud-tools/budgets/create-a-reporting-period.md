@@ -15,7 +15,7 @@ Follow these steps to create a reporting period:
 1. From the main menu of the Client Portal, navigate to **Analyze** > **Budgets**.
 2. On the **Budgets - Custom Groups** page, click **Add Reporting Period**.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption><p>Add Reporting Period</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt="" width="563"><figcaption><p>Add Reporting Period</p></figcaption></figure>
 
 3. Provide a name for the reporting period.
 4. Choose an end date for the reporting period.

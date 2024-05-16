@@ -36,7 +36,7 @@ The information in this section is read-only and you cannot edit it.
 
 The Favorites section displays the pages that you've added as your favorites.&#x20;
 
-When you select a link in this section, it opens the main page for that module. For detailed information on how to work with favorites, see [Favorites](../profile-settings/manage-favorites.md).&#x20;
+When you select a link in this section, it opens the main page for that module. For detailed information on how to work with favorites, see [Favorites](../platform-basics/manage-favorites.md).&#x20;
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 

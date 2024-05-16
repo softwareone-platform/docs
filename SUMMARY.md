@@ -2,27 +2,20 @@
 
 * [Home](README.md)
 
-## PLATFORM BASICS
+## GETTING STARTED
 
-* [Browser requirements](platform-basics/browser-requirements.md)
-* [Respond to invitations](platform-basics/respond-to-invitations.md)
-* [Sign in to your account](platform-basics/sign-in-to-your-account.md)
-* [Platform interface](platform-basics/platform-interface/README.md)
-  * [Home page](platform-basics/platform-interface/home-page.md)
-  * [Table filters](platform-basics/platform-interface/table-filters/README.md)
-    * [Sort and filter data](platform-basics/platform-interface/table-filters/sort-and-filter-data.md)
-    * [Navigate between pages](platform-basics/platform-interface/table-filters/navigate-between-pages.md)
-    * [Show or hide columns](platform-basics/platform-interface/table-filters/show-or-hide-columns.md)
-    * [View selector](platform-basics/platform-interface/table-filters/view-selector.md)
-    * [Change default rows per page](platform-basics/platform-interface/table-filters/change-default-rows-per-page.md)
-* [Profile settings](platform-basics/profile-settings/README.md)
-  * [Manage your profile](platform-basics/profile-settings/manage-your-profile.md)
-  * [Update your password](platform-basics/profile-settings/update-your-password.md)
-  * [Manage favorites](platform-basics/profile-settings/manage-favorites.md)
-  * [View notifications](platform-basics/profile-settings/view-notifications.md)
-  * [Switch accounts](platform-basics/profile-settings/switch-accounts.md)
-* [View documentation](platform-basics/view-documentation.md)
-* [Sign out of your account](platform-basics/sign-out-of-your-account.md)
+* [Platform Interface](getting-started/platform-interface/README.md)
+  * [Home page](getting-started/platform-interface/home-page.md)
+* [Platform Basics](getting-started/platform-basics/README.md)
+  * [Manage profile](getting-started/platform-basics/manage-profile.md)
+  * [Switch account](getting-started/platform-basics/switch-account.md)
+  * [Update password](getting-started/platform-basics/update-password.md)
+  * [Manage favorites](getting-started/platform-basics/manage-favorites.md)
+  * [View notifications](getting-started/platform-basics/view-notifications.md)
+* [Tutorials and Videos](getting-started/tutorials-and-videos/README.md)
+  * [How to buy Microsoft Azure (new agreement)](getting-started/tutorials-and-videos/how-to-buy-microsoft-azure-new-agreement.md)
+  * [How to buy Microsoft Azure (existing agreement)](getting-started/tutorials-and-videos/how-to-buy-microsoft-azure-existing-agreement.md)
+  * [How to buy additional Microsoft Azure subscriptions](getting-started/tutorials-and-videos/how-to-buy-additional-microsoft-azure-subscriptions.md)
 
 ## PLATFORM MODULES&#x20;
 
@@ -124,6 +117,7 @@
     * [Delete a group](platform-modules/settings/groups/delete-a-group.md)
   * [Users](platform-modules/settings/users/README.md)
     * [Users interface](platform-modules/settings/users/users-interface.md)
+    * [Respond to invitations](platform-modules/settings/users/respond-to-invitations.md)
     * [Add new users](platform-modules/settings/users/add-new-users.md)
     * [Edit users](platform-modules/settings/users/edit-users.md)
     * [Remove users](platform-modules/settings/users/remove-users.md)
@@ -414,6 +408,7 @@
 
 ## Help and Support
 
+* [Platform Glossary](help-and-support/platform-glossary.md)
 * [Contact Support](help-and-support/getting-support.md)
 * [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
   * [How to search in the Client Portal](help-and-support/frequently-asked-questions/how-to-search-in-the-client-portal.md)
@@ -434,6 +429,7 @@
   * [What data do you collect for 365 Analytics?](help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md)
   * [What is 365 Analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)
   * [I'm unable to view the Reserved Instance data in the Client Portal](help-and-support/frequently-asked-questions/im-unable-to-view-the-reserved-instance-data-in-the-client-portal.md)
+  * [What browsers do you support?](help-and-support/frequently-asked-questions/what-browsers-do-you-support.md)
 * [Release Notes](help-and-support/release-notes/README.md)
   * [Release notes v1](help-and-support/release-notes/release-notes-v1.md)
   * [Release notes v2](help-and-support/release-notes/release-notes-v2.md)

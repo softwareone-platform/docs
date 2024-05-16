@@ -16,7 +16,7 @@ Follow these steps to create an approval group:
 2. From the navigation menu, go to **Procurement** > **Purchase Approval Setup**.
 3. On the **Purchase Approval Setup** page, click **New Group**. The **Create Approval Group** window opens.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="408"><figcaption><p>Create Approval Group</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt="" width="408"><figcaption><p>Create Approval Group</p></figcaption></figure>
 
 4. Do the following:
    * **Name** - Enter the group name.

@@ -4,7 +4,7 @@ description: Use the Collaboration Site to store and share large files.
 
 # Collaboration Site
 
-The Collaboration Site can be accessed by navigating to the [user profile menu](../../platform-basics/platform-interface/#user-profile-menu) and then selecting **Collaboration Site**.
+The Collaboration Site can be accessed by navigating to the [user profile menu](../../getting-started/platform-interface/#user-profile-menu) and then selecting **Collaboration Site**.
 
 Collaboration Site allows you to share files large files, for example, your project files and deliverables for a managed service engagement. Access to the Collaboration Site is based on permissions and only authorized users can access the site.&#x20;
 
