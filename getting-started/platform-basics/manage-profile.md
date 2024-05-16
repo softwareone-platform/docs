@@ -78,6 +78,10 @@ Follow these steps to update your profile settings:
 
 ## Related topics
 
+{% content-ref url="switch-account.md" %}
+[switch-account.md](switch-account.md)
+{% endcontent-ref %}
+
 {% content-ref url="update-password.md" %}
 [update-password.md](update-password.md)
 {% endcontent-ref %}
@@ -88,8 +92,4 @@ Follow these steps to update your profile settings:
 
 {% content-ref url="view-notifications.md" %}
 [view-notifications.md](view-notifications.md)
-{% endcontent-ref %}
-
-{% content-ref url="switch-account.md" %}
-[switch-account.md](switch-account.md)
 {% endcontent-ref %}

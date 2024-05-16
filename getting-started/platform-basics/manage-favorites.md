@@ -31,14 +31,18 @@ The page is removed from your favorites and the star icon changes from filled to
 
 ## Related topics
 
+{% content-ref url="manage-profile.md" %}
+[manage-profile.md](manage-profile.md)
+{% endcontent-ref %}
+
+{% content-ref url="switch-account.md" %}
+[switch-account.md](switch-account.md)
+{% endcontent-ref %}
+
+{% content-ref url="update-password.md" %}
+[update-password.md](update-password.md)
+{% endcontent-ref %}
+
 {% content-ref url="view-notifications.md" %}
 [view-notifications.md](view-notifications.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}

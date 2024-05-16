@@ -4,7 +4,7 @@ description: Find information on how to navigate the Marketplace Platform.
 
 # Platform Interface
 
-## Signing in to the Marketplace Platform interface
+## Signing in to the platform interface
 
 1. Ensure that you are using a [supported browser](../../help-and-support/frequently-asked-questions/what-browsers-do-you-support.md).
 2. Navigate to the sign-in page: [https://client.softwareone.com/](https://client.softwareone.com/).
@@ -16,7 +16,7 @@ If you provide inaccurate credentials, an error message is displayed.&#x20;
 
 ![](<../../.gitbook/assets/image (305).png>)
 
-If you can’t remember your password, select the **Forgot password?** link on the **Sign-in** page and then follow the instructions. For more information, see [Update your password](../platform-basics/update-password.md).
+If you can’t remember your password, select the **Forgot password?** link on the **Sign-in** page and then follow the instructions. For more information, see [Update password](../platform-basics/update-password.md).
 {% endhint %}
 
 ## Navigating the interface
