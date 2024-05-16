@@ -4,7 +4,7 @@ description: Find information on how to navigate the Marketplace Platform.
 
 # Platform Interface
 
-## Signing in to the Marketplace Platform user interface
+## Signing in to the Marketplace Platform interface
 
 1. Ensure that you are using a [supported browser](../../help-and-support/frequently-asked-questions/what-browsers-do-you-support.md).
 2. Navigate to the sign-in page: [https://client.softwareone.com/](https://client.softwareone.com/).
@@ -44,4 +44,3 @@ The primary content section is the main working area that displays data and allo
 <figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption><p>Primary content section</p></figcaption></figure>
 
 The layout of the content area depends on the module and the type of data it displays. It can include elements, such as tables, which you can customize using the filters.
-

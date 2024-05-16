@@ -30,7 +30,7 @@ If single sign-on (SSO) is configured, you'll be automatically redirected to you
 ![](<../../../.gitbook/assets/image (303).png>)
 {% endhint %}
 
-4. [Sign in to your account](broken-reference) using your email address and password.&#x20;
+4. Sign in to your account using your email address and password.&#x20;
 
 After signing in, you'll be redirected to the [Home](../../../getting-started/platform-interface/home-page.md) page. Depending on your groups and permissions (assigned by your administrator), you'll be able to access platform modules, view data, and complete your tasks.&#x20;
 
@@ -52,22 +52,26 @@ To decline, open the invitation link and click **Decline invitation**.
 
 ## Related topics
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="add-new-users.md" %}
+[add-new-users.md](add-new-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started/platform-interface/" %}
-[platform-interface](../../../getting-started/platform-interface/)
+{% content-ref url="edit-users.md" %}
+[edit-users.md](edit-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="remove-users.md" %}
+[remove-users.md](remove-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="copy-the-invitation-link.md" %}
+[copy-the-invitation-link.md](copy-the-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="resend-an-invitation.md" %}
+[resend-an-invitation.md](resend-an-invitation.md)
+{% endcontent-ref %}
+
+{% content-ref url="generate-a-new-invitation.md" %}
+[generate-a-new-invitation.md](generate-a-new-invitation.md)
 {% endcontent-ref %}
