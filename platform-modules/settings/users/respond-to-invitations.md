@@ -32,9 +32,9 @@ If single sign-on (SSO) is configured, you'll be automatically redirected to you
 
 4. Sign in to your account using your email address and password.&#x20;
 
-After signing in, you'll be redirected to the [Home](../../../getting-started/platform-interface/home-page.md) page. Depending on your groups and permissions (assigned by your administrator), you'll be able to access platform modules, view data, and complete your tasks.&#x20;
+After signing in, you'll be redirected to the [Home](broken-reference) page. Depending on your groups and permissions (assigned by your administrator), you'll be able to access platform modules, view data, and complete your tasks.&#x20;
 
-For information on how to navigate the Marketplace Platform, see [Platform interface](../../../getting-started/platform-interface/).
+For information on how to navigate the Marketplace Platform, see [Platform interface](../../../getting-started/platform-overview/interface.md).
 
 {% hint style="info" %}
 **Invitation link has expired?**&#x20;

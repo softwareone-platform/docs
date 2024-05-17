@@ -6,7 +6,7 @@ description: Learn how you can access and manage your software license agreement
 
 A license agreement is a contract that outlines the conditions and terms under which an organization can use a specific software. Using the Client Portal's License Agreements module, you can easily view and manage your license agreements, and gain visibility into the entitlement data associated with those agreements. You can also create alerts for true-ups, renewals, and expiring contracts.
 
-To access your license agreements, navigate to the [main menu](../../getting-started/platform-interface/#main-menu) of the Client Portal and select **Inventory** > **License agreements**.&#x20;
+To access your license agreements, navigate to the [main menu](../../getting-started/platform-overview/interface.md#main-menu) of the Client Portal and select **Inventory** > **License agreements**.&#x20;
 
 Watch the following video tutorial on how to access and use License Agreements:
 

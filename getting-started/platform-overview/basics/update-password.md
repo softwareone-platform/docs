@@ -16,7 +16,7 @@ Follow these steps to reset your password:
 
 1. On the **Sign in** page, enter your email address and select **Continue**.
 
-<figure><img src="../../.gitbook/assets/image (428).png" alt="" width="375"><figcaption><p>Sign in page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (428).png" alt="" width="375"><figcaption><p>Sign in page</p></figcaption></figure>
 
 2. Click **Forgot password?**.
 3. Click **Send Email**. You'll receive an email containing a link to reset your password.
@@ -34,11 +34,11 @@ Follow these steps to change your password:
 
 1. Select your profile menu in the upper-right corner and click **My profile**. Your profile page opens.
 
-<figure><img src="../../.gitbook/assets/image (430).png" alt=""><figcaption><p>My profile page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (430).png" alt=""><figcaption><p>My profile page</p></figcaption></figure>
 
 2. Click the down arrow icon **n**ext to **Edit** and select **Change Password**. The **Change password** page opens.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (429).png" alt="" width="375"><figcaption><p>Change password page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (429).png" alt="" width="375"><figcaption><p>Change password page</p></figcaption></figure>
 
 3. Enter your new password and then confirm that your new password matches the one you entered in the **New Password** field.
 4. Click **Confirm** to save your changes.

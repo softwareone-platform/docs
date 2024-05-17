@@ -19,9 +19,9 @@ We’ve redefined account management to offer new user and group management poss
 Here are some additional highlights:&#x20;
 
 * **Invite new members** - Account administrators can invite new members to join the account on the Marketplace Platform. New members can be invited by email or by copying the invitation link from the interface and sharing it directly with the individual. Once invited, the individual must click the link to accept the invitation and set up their platform account. To learn more, see [Add new users](../../platform-modules/settings/users/add-new-users.md) and [Respond to invitations](../../platform-modules/settings/users/respond-to-invitations.md).
-* **Switch accounts** - The Marketplace Platform allows individuals to be a part of multiple accounts and switch between those accounts seamlessly, without signing out of the platform. To learn more, see [Switch accounts](../../getting-started/platform-basics/switch-account.md).&#x20;
+* **Switch accounts** - The Marketplace Platform allows individuals to be a part of multiple accounts and switch between those accounts seamlessly, without signing out of the platform. To learn more, see [Switch accounts](../../getting-started/platform-overview/basics/switch-account.md).&#x20;
 * **Manage users and permissions** - Account administrators can manage users and their permissions through the platform. However, permissions must be assigned at the group level, rather than the individual user level. Group-level permissions can be assigned by creating groups and then granting permissions that apply to all users in that group. To learn more, see [Groups](../../platform-modules/settings/groups/) and [Users](../../platform-modules/settings/users/).
-* **Manage profile** - You can update your personal account settings (user details, display preferences, and communication settings) and change your password through the **My Profile** option in your user profile menu. To learn more, see [Manage your profile](../../getting-started/platform-basics/manage-profile.md).
+* **Manage profile** - You can update your personal account settings (user details, display preferences, and communication settings) and change your password through the **My Profile** option in your user profile menu. To learn more, see [Manage your profile](../../getting-started/platform-overview/basics/manage-profile.md).
 
 ## Orders Management
 
@@ -63,14 +63,14 @@ Here's a summary of the changes:
 * The **Marketplace** module has been reorganized to include the new commerce and request management modules.&#x20;
 * The **Cloud Tools**, **ITAM Tools**, **Other tools**, and **Procurement** modules have been created for features related to these categories.
 * The **Help** module has been removed from the main menu. Now, you can access documentation and other content resources, and [view the help and support](../getting-support.md) page using the help icon in the header.&#x20;
-* [Notifications](../../getting-started/platform-basics/view-notifications.md) are now accessible through the notifications icon in the header, instead of the main menu.
+* [Notifications](../../getting-started/platform-overview/basics/view-notifications.md) are now accessible through the notifications icon in the header, instead of the main menu.
 
 ## Other Updates
 
 To provide a unified experience, we've implemented consistent styling and framework across the new modules and platform features:
 
 * Where applicable, data grids have been used to display the different types of data, and advanced filtering and sorting options are implemented so you can control the table display. We’ve also introduced a view selector to switch between different preconfigured view options.
-* We’ve removed the footer, containing links to the knowledge resources and language selector. Now, you can access all resources using the question mark icon in the header and change your display language from the **Sign-in** page of the platform or through the [My Profile](../../getting-started/platform-basics/manage-profile.md) option.
+* We’ve removed the footer, containing links to the knowledge resources and language selector. Now, you can access all resources using the question mark icon in the header and change your display language from the **Sign-in** page of the platform or through the [My Profile](../../getting-started/platform-overview/basics/manage-profile.md) option.
 
 ## APIs for Integration
 

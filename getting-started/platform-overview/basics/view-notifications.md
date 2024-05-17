@@ -15,11 +15,11 @@ By default, the system deletes all notifications after 30 days, regardless of wh
 
 You can view new notifications by clicking the bell icon in the header.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 
 When you click the icon, the **Notifications** page opens.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption><p>Notifications page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (312).png" alt=""><figcaption><p>Notifications page</p></figcaption></figure>
 
 By default, the **Notifications** page displays both read and unread notifications. You can view unread notifications only by enabling the **Show unread only** toggle. Unread notifications are displayed in bold. &#x20;
 
@@ -48,6 +48,6 @@ Follow these steps to receive notifications by phone:
 
 ## Related topics
 
-{% content-ref url="../../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md" %}
-[im-facing-issues-with-notifications.md](../../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md)
+{% content-ref url="../../../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md" %}
+[im-facing-issues-with-notifications.md](../../../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md)
 {% endcontent-ref %}

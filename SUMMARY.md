@@ -4,14 +4,14 @@
 
 ## GETTING STARTED
 
-* [Platform Interface](getting-started/platform-interface/README.md)
-  * [Home page](getting-started/platform-interface/home-page.md)
-* [Platform Basics](getting-started/platform-basics/README.md)
-  * [Manage profile](getting-started/platform-basics/manage-profile.md)
-  * [Switch account](getting-started/platform-basics/switch-account.md)
-  * [Update password](getting-started/platform-basics/update-password.md)
-  * [Manage favorites](getting-started/platform-basics/manage-favorites.md)
-  * [View notifications](getting-started/platform-basics/view-notifications.md)
+* [Platform Overview](getting-started/platform-overview/README.md)
+  * [Interface](getting-started/platform-overview/interface.md)
+  * [Basics](getting-started/platform-overview/basics/README.md)
+    * [Manage profile](getting-started/platform-overview/basics/manage-profile.md)
+    * [Switch account](getting-started/platform-overview/basics/switch-account.md)
+    * [Update password](getting-started/platform-overview/basics/update-password.md)
+    * [Manage favorites](getting-started/platform-overview/basics/manage-favorites.md)
+    * [View notifications](getting-started/platform-overview/basics/view-notifications.md)
 * [Tutorials and Videos](getting-started/tutorials-and-videos/README.md)
   * [How to buy Microsoft Azure (new agreement)](getting-started/tutorials-and-videos/how-to-buy-microsoft-azure-new-agreement.md)
   * [How to buy Microsoft Azure (existing agreement)](getting-started/tutorials-and-videos/how-to-buy-microsoft-azure-existing-agreement.md)
@@ -408,7 +408,7 @@
 
 ## Help and Support
 
-* [Platform Glossary](help-and-support/platform-glossary.md)
+* [Platform Terminology](help-and-support/platform-terminology.md)
 * [Contact Support](help-and-support/getting-support.md)
 * [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
   * [How to search in the Client Portal](help-and-support/frequently-asked-questions/how-to-search-in-the-client-portal.md)
