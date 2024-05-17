@@ -23,11 +23,11 @@ One of the significant changes in subscription-based models involves the handlin
 * **Non-Direct Linkage of PO Numbers** - In traditional models, each PO number is directly linked to a specific invoice or order. However, in subscription-based models, PO numbers are not directly tied to individual invoices or subscriptions due to the consolidated nature of billing.
 * **Use of PO Numbers** - Although PO numbers are not linked to specific invoices, they are still crucial for internal tracking, budgeting, and financial reconciliation. PO numbers can be referenced in the consolidated invoice to maintain a connection to internal purchase processes.
 
-## **Client guidance on PO numbers and invoices** <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
+## Client guidance on PO numbers and invoices <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
 
 Here’s how you can manage PO numbers and display them on invoices under subscription-based models:
 
-#### Providing PO Numbers
+### Providing PO Numbers
 
 When setting up your order, ensure you provide your open PO number if your organization's purchasing process requires it.&#x20;
 
@@ -37,7 +37,7 @@ You can find the example of the **Additional ID** field, which, when provided, i
 
 <figure><img src="../../.gitbook/assets/image (452).png" alt=""><figcaption><p>Additional ID field</p></figcaption></figure>
 
-#### **Display on Invoices**
+### Display on Invoices
 
 While PO numbers won’t be tied to specific transactions within the invoice, they can still be displayed on each invoice as a reference point. This helps maintain traceability for financial auditing and internal tracking.&#x20;
 
@@ -47,7 +47,7 @@ The following is an example of the invoice header with the **External Agreement 
 
 
 
-#### Updates and Changes
+### Updates and Changes
 
 If the PO number needs to be updated or changed during the subscription term, you can modify the Agreement External ID, which will be reflected on the invoice.
 
