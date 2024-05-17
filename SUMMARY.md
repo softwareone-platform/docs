@@ -431,6 +431,7 @@
   * [What is 365 Analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)
   * [I'm unable to view the Reserved Instance data in the Client Portal](help-and-support/frequently-asked-questions/im-unable-to-view-the-reserved-instance-data-in-the-client-portal.md)
   * [What browsers do you support?](help-and-support/frequently-asked-questions/what-browsers-do-you-support.md)
+  * [What is a subscription-based model?](help-and-support/frequently-asked-questions/what-is-a-subscription-based-model.md)
 * [Release Notes](help-and-support/release-notes/README.md)
   * [Release notes v1](help-and-support/release-notes/release-notes-v1.md)
   * [Release notes v2](help-and-support/release-notes/release-notes-v2.md)
