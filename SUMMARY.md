@@ -40,6 +40,7 @@
     * [Terminate an agreement](platform-modules/marketplace/agreements/terminate-an-agreement.md)
     * [Rename an agreement](platform-modules/marketplace/agreements/rename-an-agreement.md)
     * [Edit agreement ID](platform-modules/marketplace/agreements/edit-agreement-id.md)
+    * [Add items to an agreement](platform-modules/marketplace/agreements/add-items-to-an-agreement.md)
   * [Orders](platform-modules/marketplace/orders/README.md)
     * [Orders interface](platform-modules/marketplace/orders/orders-interface.md)
     * [Manage order notes](platform-modules/marketplace/orders/manage-order-notes.md)

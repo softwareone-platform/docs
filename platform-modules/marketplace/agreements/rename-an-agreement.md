@@ -46,3 +46,8 @@ The changes are applied and displayed across all pages featuring the agreement.
 {% content-ref url="edit-agreement-id.md" %}
 [edit-agreement-id.md](edit-agreement-id.md)
 {% endcontent-ref %}
+
+{% content-ref url="add-items-to-an-agreement.md" %}
+[add-items-to-an-agreement.md](add-items-to-an-agreement.md)
+{% endcontent-ref %}
+
