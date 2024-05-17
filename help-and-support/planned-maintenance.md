@@ -21,13 +21,13 @@ The Marketplace Platform gets **several planned major updates each year** to kee
 
 ## How does planned maintenance affect users?
 
-## For Vendors
+### For vendors:
 
 * **Temporary inaccessibility** - During maintenance windows, some parts of the platform might be unavailable.
 * **Notification in advance** - Vendors will be notified in advance about the scheduled maintenance, including expected downtime and what areas will be affected.
 * **Minimal disruption** - We aim to schedule maintenance during off-peak hours to limit disruptions to your business operations.
 
-## For Clients
+### For clients:
 
 * **Service interruptions** - Certain functionalities might be temporarily unavailable.
 * **Advance notice** - Clients receive prior information about when the maintenance will occur and the potential impact.
