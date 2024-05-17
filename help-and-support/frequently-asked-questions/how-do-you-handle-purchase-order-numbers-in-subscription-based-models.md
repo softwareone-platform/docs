@@ -1,8 +1,4 @@
----
-description: Subscription-based model and purchase order management on the invoice.
----
-
-# What is a subscription-based model?
+# How do you handle purchase order numbers in subscription-based models?
 
 Subscription-based models are designed to streamline licensing and renewal processes, offering a more seamless experience for managing software and service subscriptions. This model differs significantly from traditional transaction-based purchasing in several key ways.
 
@@ -16,7 +12,7 @@ Invoices in a subscription-based model are consolidated, typically on a monthly 
 
 It means multiple purchases or renewals are grouped into single invoices, reducing the number of individual transactions.
 
-## **Purchase orders in the subscription model** <a href="#handling-purchase-orders-in-the-subscription-model" id="handling-purchase-orders-in-the-subscription-model"></a>
+## Purchase orders in the subscription model <a href="#handling-purchase-orders-in-the-subscription-model" id="handling-purchase-orders-in-the-subscription-model"></a>
 
 One of the significant changes in subscription-based models involves the handling of Purchase Order numbers:
 
@@ -29,17 +25,17 @@ Here’s how you can manage PO numbers and display them on invoices under subscr
 
 ### Providing PO Numbers
 
-When setting up your order, ensure you provide your open PO number if your organization's purchasing process requires it.&#x20;
+When setting up your order, ensure that you provide your open PO number if your organization's purchasing process requires it.&#x20;
 
 This number will be noted and used for reference in all consolidated invoices in the scope of each Agreement in the Marketplace Platform.&#x20;
 
-You can find the example of the **Additional ID** field, which, when provided, is displayed on the consolidated invoice header.
+You can find the example of the **Additional ID** field, which is displayed on the consolidated invoice header if provided.
 
 <figure><img src="../../.gitbook/assets/image (452).png" alt=""><figcaption><p>Additional ID field</p></figcaption></figure>
 
 ### Display on Invoices
 
-While PO numbers won’t be tied to specific transactions within the invoice, they can still be displayed on each invoice as a reference point. This helps maintain traceability for financial auditing and internal tracking.&#x20;
+While PO numbers will not be tied to specific transactions within the invoice, they can still be displayed on each invoice as a reference point. This helps maintain traceability for financial auditing and internal tracking.&#x20;
 
 The following is an example of the invoice header with the **External Agreement ID**.
 
@@ -49,7 +45,7 @@ The following is an example of the invoice header with the **External Agreement 
 
 ### Updates and Changes
 
-If the PO number needs to be updated or changed during the subscription term, you can modify the Agreement External ID, which will be reflected on the invoice.
+If the PO number needs to be updated or changed during the subscription term, you can modify the **Agreement External ID**, which will be reflected on the invoice.
 
 ## **Conclusion** <a href="#conclusion" id="conclusion"></a>
 

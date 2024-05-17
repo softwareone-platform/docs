@@ -412,7 +412,7 @@
 * [Platform Terminology](help-and-support/platform-terminology.md)
 * [Contact Support](help-and-support/getting-support.md)
 * [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
-  * [What is a subscription-based model?](help-and-support/frequently-asked-questions/what-is-a-subscription-based-model.md)
+  * [How do you handle purchase order numbers in subscription-based models?](help-and-support/frequently-asked-questions/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
   * [How to search in the Client Portal](help-and-support/frequently-asked-questions/how-to-search-in-the-client-portal.md)
   * [What browsers do you support?](help-and-support/frequently-asked-questions/what-browsers-do-you-support.md)
   * [I'm unable to view the Reserved Instance data in the Client Portal](help-and-support/frequently-asked-questions/im-unable-to-view-the-reserved-instance-data-in-the-client-portal.md)
