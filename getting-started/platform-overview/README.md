@@ -19,7 +19,7 @@ Here are some of the key features of the platform:
 * **Product catalog** - Access to a vast catalog of products from the world's leading software vendors, so you can find and purchase products in one centralized location.
 * **Orders management** - Ability to view, track, and manage your orders while getting extended information on the order detail page.
 * **Subscriptions management** - Features to manage your subscriptions in a self-service way, including cancellations and renewals, and accessing relevant documents, such as terms and conditions and agreements in one place.
-* **Account management** - Simple ways of managing your account, such as inviting new members and managing permissions and roles, as well as your user profile so you can manage certain aspects of your account, such as password resets, profile updates, and more.
+* **Accounts management** - Simple ways of managing your account, such as inviting new members and managing permissions and roles, as well as your user profile so you can manage certain aspects of your account, such as password resets, profile updates, and more.
 * **Requests management** - Option to request product pricing directly from the vendor and the ability to track your requests.
 
 ### For vendors
