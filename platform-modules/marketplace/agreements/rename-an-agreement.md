@@ -4,7 +4,7 @@ description: Rename an existing agreement.
 
 # Rename an agreement
 
-ou can make certain changes to your agreement after it's created. This might include renaming the agreement and [editing the agreement ID](edit-agreement-id.md).
+You can make certain changes to your agreement after it's created. This might include renaming the agreement and [editing the agreement ID](edit-agreement-id.md).
 
 ## Before you begin <a href="#before-you-begin" id="before-you-begin"></a>
 
