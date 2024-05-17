@@ -60,6 +60,10 @@ The details page of an order contains several tabs that display corresponding or
 [.](./)
 {% endcontent-ref %}
 
+{% content-ref url="../products/buy-products-and-services.md" %}
+[buy-products-and-services.md](../products/buy-products-and-services.md)
+{% endcontent-ref %}
+
 {% content-ref url="manage-order-notes.md" %}
 [manage-order-notes.md](manage-order-notes.md)
 {% endcontent-ref %}

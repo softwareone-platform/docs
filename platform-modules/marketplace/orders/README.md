@@ -6,7 +6,7 @@ In the Marketplace Platform, an order is an object that signifies a business tra
 
 An order could be a request to buy a new product, change the number of purchased items and subscriptions, or terminate a subscription or the entire agreement. The following types of orders exist in the Marketplace Platform:
 
-* **Purchase order** - Represents an order where a new agreement is created when buying a new product or service through the Marketplace Platform.
+* **Purchase order** - Represents an order where a new agreement is created when [buying a new product or service](../../inventory/orders-and-invoices/buy-products-and-services.md) through the Marketplace Platform.
 * **Change order** - Represents an order where changes are needed to the product items or subscriptions within the agreement, such as downsizing the license quantity.
 * **Terminate order** - Represents an order where one or more subscriptions within the agreement have been terminated. A termination order also implies an order where the entire agreement has been terminated and consequently, all subscriptions within that agreement are also terminated.
 
@@ -30,6 +30,10 @@ From the **Orders** page, you can:
 
 {% content-ref url="orders-interface.md" %}
 [orders-interface.md](orders-interface.md)
+{% endcontent-ref %}
+
+{% content-ref url="../products/buy-products-and-services.md" %}
+[buy-products-and-services.md](../products/buy-products-and-services.md)
 {% endcontent-ref %}
 
 {% content-ref url="manage-order-notes.md" %}
