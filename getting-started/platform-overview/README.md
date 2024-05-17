@@ -21,8 +21,8 @@ Here are some of the key features of the platform:
 ### For vendors
 
 * **Product definition** - Define new products manually or through integrations, configure product parameters with ease, and sell your products globally to over 65,000 SoftwareOne clients across a wide range of industries.
-* **Catalog management -** Effortlessly manage all your product data in one place, and enhance your product listings and messaging templates with ease.
-* **Price management -** Update product pricing directly within the platform so that clients can see accurate pricing at all times.
+* **Catalog management** - Effortlessly manage all your product data in one place, and enhance your product listings and messaging templates with ease.
+* **Price management** - Update product pricing directly within the platform so that clients can see accurate pricing at all times.
 * **Orders management** - Manage all orders in a consistent manner and fulfill them quickly and efficiently.
 
 ## See also
