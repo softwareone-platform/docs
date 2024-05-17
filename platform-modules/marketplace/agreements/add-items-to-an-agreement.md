@@ -6,7 +6,7 @@ description: Add additional items to an agreement.
 
 You can add more items to an agreement as long as your agreement is **Active**. Additional items can be added by selecting the agreement and using the **Buy more** option on the agreement's details page.&#x20;
 
-When adding items, you can view the estimated cost impact of your changes, including the unit price and the revised monthly and yearly price for each item. After adding items, a change order is automatically created in the system and sent to the vendor for fulfillment. &#x20;
+When adding items, you can view the estimated cost impact of your changes, including the unit price and the revised monthly and yearly price for each item. After adding items, a change order is automatically created in the system and sent to the vendor for fulfillment.
 
 ## Add more items to an agreement
 
@@ -26,9 +26,9 @@ Follow these steps to add more items to your agreement:
    2. Click **Add items** again.
    3. Review the details including prices and then click **Next** to continue.&#x20;
 5. Complete the **Details** section of the wizard as required and click **Next**.
-6. Review your order and click **Place Order**.&#x20;
+6. Review your order and click **Place order**.&#x20;
 
-A change order is created in the system and sent to the vendor for fulfilment.&#x20;
+A change order is created in the system and sent to the vendor for fulfillment.&#x20;
 
 While the change order is in progress, the agreement shows as **Updating**. The agreement is temporarily locked, and no further orders can be placed under this agreement until the current change order is completed.
 
