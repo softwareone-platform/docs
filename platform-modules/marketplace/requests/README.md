@@ -14,7 +14,6 @@ You can access the **Requests** page by navigating to the main menu and selectin
 
 From the **Requests** page, you can:
 
-* Create new requests regarding any product or service available for buying through the Marketplace.
 * View all requests that you've created along with their status.
 * Change the status of your request to notify the vendor that your request is ready for their action.
 * Close your request after your query has been answered.
