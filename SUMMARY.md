@@ -12,10 +12,10 @@
     * [Update password](getting-started/platform-overview/basics/update-password.md)
     * [Manage favorites](getting-started/platform-overview/basics/manage-favorites.md)
     * [View notifications](getting-started/platform-overview/basics/view-notifications.md)
-* [Tutorials and Videos](getting-started/tutorials-and-videos/README.md)
-  * [How to buy Microsoft Azure (new agreement)](getting-started/tutorials-and-videos/how-to-buy-microsoft-azure-new-agreement.md)
-  * [How to buy Microsoft Azure (existing agreement)](getting-started/tutorials-and-videos/how-to-buy-microsoft-azure-existing-agreement.md)
-  * [How to buy additional Microsoft Azure subscriptions](getting-started/tutorials-and-videos/how-to-buy-additional-microsoft-azure-subscriptions.md)
+* [Tutorials](getting-started/tutorials/README.md)
+  * [How to buy Microsoft Azure (new agreement)](getting-started/tutorials/how-to-buy-microsoft-azure-new-agreement.md)
+  * [How to buy Microsoft Azure (existing agreement)](getting-started/tutorials/how-to-buy-microsoft-azure-existing-agreement.md)
+  * [How to buy additional Microsoft Azure subscriptions](getting-started/tutorials/how-to-buy-additional-microsoft-azure-subscriptions.md)
 
 ## PLATFORM MODULES&#x20;
 
