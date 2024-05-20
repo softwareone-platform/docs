@@ -32,14 +32,14 @@ If single sign-on (SSO) is configured, you'll be automatically redirected to you
 
 4. Sign in to your account using your email address and password.&#x20;
 
-After signing in, you'll be redirected to the [Home](broken-reference) page. Depending on your groups and permissions (assigned by your administrator), you'll be able to access platform modules, view data, and complete your tasks.&#x20;
+After signing in, you'll be redirected to the Home page. Depending on your groups and permissions (assigned by your administrator), you'll be able to access platform modules, view data, and complete your tasks.&#x20;
 
 For information on how to navigate the Marketplace Platform, see [Platform interface](../../../getting-started/platform-overview/interface.md).
 
 {% hint style="info" %}
 **Invitation link has expired?**&#x20;
 
-Invitation links are unique and they expire within seven (7) days of being issued. If your link has expired, your account administrator must create a new link. For more information, see [Generate a new invitation](generate-a-new-invitation.md).
+Invitation links are unique and they expire within 7 days of being issued. If your link has expired, your account administrator must create a new link. For more information, see [Generate a new invitation](generate-a-new-invitation.md).
 {% endhint %}
 
 ## Decline an invitation
