@@ -68,7 +68,7 @@ https://api.platform.softwareone.com/public/v1/accounts/buyers
 
 &#x20;Use this base endpoint with specific API paths to correctly access the resources and services provided by the Marketplace Platform.
 
-## Query Language
+## Resource Query Language
 
 The **Resource Query Language** (or **RQL**) is used for querying and manipulating resources in the Marketplace Platform's APIs. With RQL, you can filter, sort, paginate, and project data. It is simple to use but flexible enough to handle complex scenarios.
 
