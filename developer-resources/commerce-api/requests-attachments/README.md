@@ -6,7 +6,9 @@ The definition represents an Attachment object in Marketplace. This Attachment o
 
 ## Fields <a href="#fields" id="fields"></a>
 
-<table><thead><tr><th>Field</th><th width="127">Type</th><th width="182">Constraints</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>inlineAttachmentContent</code></strong></td><td>string</td><td><code>OPTIONAL</code></td><td><p>Inline attachment content. For example, in the case of type LicenseKey, this field is actually populated with a license key string. </p><p></p><p>Example: "DFE25-GQ943-GH992-KL235-PY037"</p></td></tr></tbody></table>
+| Field                         | Type   | Description                                                                                                                                                                                       |
+| ----------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **`inlineAttachmentContent`** | string | <p>Inline attachment content. For example, in the case of type LicenseKey, this field is actually populated with a license key string. </p><p></p><p>Example: "DFE25-GQ943-GH992-KL235-PY037"</p> |
 
 ## Specific field behavior <a href="#specific-field-behaviour" id="specific-field-behaviour"></a>
 
@@ -18,6 +20,8 @@ The definition represents an Attachment object in Marketplace. This Attachment o
 
 ## Example
 
+{% tabs %}
+{% tab title="REQUEST ATTACHMENTS OBJECT" %}
 ```json
 {
   "id": "ATT-1234-1234-1234",
@@ -37,3 +41,5 @@ The definition represents an Attachment object in Marketplace. This Attachment o
   }
 }
 ```
+{% endtab %}
+{% endtabs %}

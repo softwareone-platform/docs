@@ -76,8 +76,10 @@ This object contains the following properties:
 }
 </code></pre></td></tr></tbody></table>
 
-## Example subscription object
+## Example
 
+{% tabs %}
+{% tab title="SUBSCRIPTION OBJECT" %}
 ```json
 {
   "id": "SUB-5903-9370-1653-5455",
@@ -157,3 +159,5 @@ This object contains the following properties:
   ]
 }
 ```
+{% endtab %}
+{% endtabs %}
