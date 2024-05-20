@@ -69,7 +69,7 @@ Follow these steps to add a new product:
 1. On the **Service Provider Reporting** page, click **Add Product**.&#x20;
 2. Select a product from the list or type the product name. The product is added.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click **Save**. The feature creates or updates a draft for the revised month, which can be edited until it is transferred via **Create Order**.
 
