@@ -1,12 +1,12 @@
 ---
-description: Adobe VIP Marketplace overview and terms.
+description: Adobe VIP Marketplace overview and important information.
 ---
 
 # Adobe VIP Marketplace
 
 Adobe VIP Marketplace is Adobe’s new licensing program that will replace Adobe VIP.&#x20;
 
-VIP Marketplace is designed to make purchasing and managing Adobe software licenses easier. It's designed to provide streamlined automated purchasing, provisioning, and billing, and it allows SoftwareOne to resell Adobe licenses through the Marketplace Platform.&#x20;
+VIP Marketplace is designed to make purchasing and managing Adobe software licenses easier. It provides streamlined automated purchasing, provisioning, and billing, and allows SoftwareOne to resell Adobe licenses through the Marketplace Platform.&#x20;
 
 Various term-length options, volume discounts, and product offerings help clients (referred to as VIP Marketplace members) and organizations of all sizes meet their needs by purchasing as many licenses as needed in one flexible transaction.
 
