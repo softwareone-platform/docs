@@ -185,6 +185,7 @@
   * [Code of Conduct](developer-resources/open-source/code-of-conduct.md)
   * [Contributor License Agreement](developer-resources/open-source/contributor-license-agreement.md)
 * [REST API](developer-resources/rest-api/README.md)
+  * [Resource Query Language](developer-resources/rest-api/resource-query-language.md)
   * [Accounts API](developer-resources/rest-api/accounts-api/README.md)
     * [Account](developer-resources/rest-api/accounts-api/account/README.md)
       * [List accounts](developer-resources/rest-api/accounts-api/account/list-accounts.md)
