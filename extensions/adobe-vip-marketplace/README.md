@@ -18,7 +18,7 @@ As the next evolution of the VIP buying program, the Adobe VIP Marketplace progr
 
 The flexibility and breadth of the program allows SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
 
-VIP Marketplace enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient experience. As a result:
+VIP Marketplace enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient experience.&#x20;
 
 * Adobe is now included with many other vendors in the SoftwareOne Marketplace for a one-stop-shop experience.
 * Bundles and services are now easily available.
