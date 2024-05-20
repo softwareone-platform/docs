@@ -47,7 +47,7 @@ The `Price List` object includes key pricing details such as sales and purchase 
 ## Example
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="PRICE LIST OBJECT" %}
 ```json
 {
   "id": "PRC-1234-5678-9012",
