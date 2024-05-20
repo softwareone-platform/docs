@@ -180,9 +180,9 @@
 ## Developer Resources
 
 * [Open Source](developer-resources/open-source/README.md)
-  * [Contributor License Agreement](developer-resources/open-source/contributor-license-agreement.md)
   * [GitHub Projects](developer-resources/open-source/github-projects.md)
   * [Code of Conduct](developer-resources/open-source/code-of-conduct.md)
+  * [Contributor License Agreement](developer-resources/open-source/contributor-license-agreement.md)
 * [Accounts API](developer-resources/accounts-api/README.md)
   * [Account](developer-resources/accounts-api/account/README.md)
     * [List accounts](developer-resources/accounts-api/account/list-accounts.md)
