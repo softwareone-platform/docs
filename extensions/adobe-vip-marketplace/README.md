@@ -14,9 +14,11 @@ After your initial order has been set up with SoftwareOne, you can manage your l
 
 ## Key benefits <a href="#key-benefits" id="key-benefits"></a>
 
-As the next evolution of the VIP buying program, the Adobe VIP Marketplace program delivers a more customized and streamlined system, allowing you to purchase and manage your Adobe subscriptions easily. The flexibility and breadth of the program allows SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
+As the next evolution of the VIP buying program, the Adobe VIP Marketplace program delivers a more customized and streamlined system, allowing you to purchase and manage your Adobe subscriptions easily.&#x20;
 
-VIP Marketplace enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient customer experience. As a result,
+The flexibility and breadth of the program allows SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
+
+VIP Marketplace enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient experience. As a result:
 
 * Adobe is now included with many other vendors in the SoftwareOne Marketplace for a one-stop-shop experience.
 * Bundles and services are now easily available.
@@ -34,7 +36,7 @@ VIP Marketplace is the primary Adobe buying program for SoftwareOne clients, exc
 
 ### Become a VIP Marketplace member <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
 
-After you place an order with your reseller, you will receive an invitation to accept the terms and conditions for VIP Marketplace. Once you’ve accepted the terms and conditions, you’ll have the ability to manage your licenses and begin deploying them to users immediately in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).
+After you place an order with your reseller, you will receive an invitation to accept the terms and conditions for VIP Marketplace. Once you’ve accepted the terms and conditions, you’ll have the ability to manage your licenses and begin deploying them to users immediately in the Adobe Admin Console.
 
 If you are currently a member of the Value Incentive Plan, you can move seamlessly to VIP Marketplace to benefit from features like automatic renewal. Please talk to SoftwareOne for more details on moving to VIP Marketplace.
 
