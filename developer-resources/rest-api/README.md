@@ -36,7 +36,7 @@ All API requests must be made over **HTTPS**. Calls made over plain HTTP will fa
 
 ## Expected Content Type
 
-The Marketplace Platform API expects the content type of API requests to be "**application/json**" in almost all cases, unless stated otherwise.
+The Marketplace Platform API expects the content type of API requests to be "**application/json**" in most cases (except for cases where "multipart/form-data" is used to send attachments)
 
 ```http
 GET https://api.platform.softwareone.com/public/v1/accounts/buyers
@@ -66,7 +66,7 @@ The fully qualified URL that you need to use is:
 https://api.platform.softwareone.com/public/v1/accounts/buyers
 ```
 
-&#x20;Use this base endpoint with specific API paths to access the resources and services provided by the Marketplace Platform correctly.
+&#x20;Use this base endpoint with specific API paths to correctly access the resources and services provided by the Marketplace Platform.
 
 ## Explore the APIs <a href="#explore-the-apis" id="explore-the-apis"></a>
 
