@@ -1,6 +1,4 @@
-# Migrate from Adobe VIP to VIP Marketplace
-
-The migration from Adobe VIP to VIP Marketplace is automatic and you don't need to do anything.
+# Migration to VIP Marketplace
 
 After your Adobe VIP account is migrated to Adobe VIP Marketplace, you'll be able to use the  Marketplace Platform to purchase and manage your Adobe subscriptions. Fulfillment is fully automated so you can expect your orders to be completed quickly and reliably.
 
