@@ -14,9 +14,7 @@ After your initial order has been set up with SoftwareOne, you can manage your l
 
 ## Key benefits <a href="#key-benefits" id="key-benefits"></a>
 
-As the next evolution of the VIP buying program, the Adobe VIP Marketplace program delivers a more customized and streamlined system, allowing you to purchase and manage your Adobe subscriptions easily.&#x20;
-
-As clients often have unique needs for Adobe software licenses, the flexibility and breadth of the program allows SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
+As the next evolution of the VIP buying program, the Adobe VIP Marketplace program delivers a more customized and streamlined system, allowing you to purchase and manage your Adobe subscriptions easily. The flexibility and breadth of the program allows SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
 
 VIP Marketplace enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient customer experience. As a result,
 
