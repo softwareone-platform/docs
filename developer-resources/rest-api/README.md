@@ -68,6 +68,18 @@ https://api.platform.softwareone.com/public/v1/accounts/buyers
 
 &#x20;Use this base endpoint with specific API paths to correctly access the resources and services provided by the Marketplace Platform.
 
+## Query Language
+
+The **Resource Query Language** (or **RQL**) is used for querying and manipulating resources in the Marketplace Platform's APIs. With RQL, you can filter, sort, paginate, and project data. It is simple to use but flexible enough to handle complex scenarios.
+
+For example, to display all users with the first name "Buzz", your GET request would look like this:
+
+```
+GET /v1/accounts/users?eq(firstName,Buzz)
+```
+
+See [Resource Query Language](resource-query-language.md) for more details.
+
 ## Explore the APIs <a href="#explore-the-apis" id="explore-the-apis"></a>
 
 {% content-ref url="accounts-api/" %}
