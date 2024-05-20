@@ -57,16 +57,16 @@ https://api.platform.softwareone.com/public
 &#x20;All API requests start from that base URL. For example, if you have an endpoint like:
 
 ```
-/v1/accounts/accounts
+/v1/accounts/buyers
 ```
 
 The fully qualified URL that you need to use is:
 
 ```
-https://api.platform.softwareone.com/public/v1/accounts/accounts
+https://api.platform.softwareone.com/public/v1/accounts/buyers
 ```
 
-&#x20;Make sure to use this base endpoint with specific API paths to correctly access the resources and services provided by the Marketplace Platform.
+&#x20;Use this base endpoint with specific API paths to access the resources and services provided by the Marketplace Platform correctly.
 
 ## Explore the APIs <a href="#explore-the-apis" id="explore-the-apis"></a>
 
