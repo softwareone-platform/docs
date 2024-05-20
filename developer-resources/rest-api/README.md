@@ -46,6 +46,28 @@ Content-Type: application/json
 
 To communicate successfully with the Marketplace Platform APIs, ensure your API requests are formatted using the "**application/json**" content type. Using the wrong content type may result in unexpected behavior or errors.
 
+## Base API Endpoint
+
+The base endpoint for the Marketplace Platform API is:
+
+```
+https://api.platform.softwareone.com/public
+```
+
+&#x20;All API requests start from that base URL. For example, if you have an endpoint like:
+
+```
+/v1/accounts/accounts
+```
+
+The fully qualified URL that you need to use is:
+
+```
+https://api.platform.softwareone.com/public/v1/accounts/accounts
+```
+
+&#x20;Make sure to use this base endpoint with specific API paths to correctly access the resources and services provided by the Marketplace Platform.
+
 ## Explore the APIs <a href="#explore-the-apis" id="explore-the-apis"></a>
 
 {% content-ref url="accounts-api/" %}
