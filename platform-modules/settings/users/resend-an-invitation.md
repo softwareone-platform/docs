@@ -28,8 +28,16 @@ When you invite the individual again, the expiration time for their invitation i
 
 ## **Related topics**
 
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
 {% content-ref url="users-interface.md" %}
 [users-interface.md](users-interface.md)
+{% endcontent-ref %}
+
+{% content-ref url="respond-to-invitations.md" %}
+[respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-new-users.md" %}

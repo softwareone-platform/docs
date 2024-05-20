@@ -6,7 +6,7 @@ description: Find information on how to navigate the Marketplace Platform.
 
 ## Accessing the interface
 
-You can access the Marketplace Platform from an up-to-date desktop or mobile browser. For a list of browsers, see our FAQ on [What browsers do you support?](../../help-and-support/frequently-asked-questions/what-browsers-do-you-support.md).&#x20;
+You can access the Marketplace Platform from an up-to-date desktop or mobile browser. For a list of browsers, see [What browsers do you support?](../../help-and-support/frequently-asked-questions/what-browsers-do-you-support.md)&#x20;
 
 Follow these steps to access the platform:
 

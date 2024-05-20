@@ -35,8 +35,16 @@ Remember that if the user belongs to multiple accounts on the Marketplace Platfo
 
 ## Related topics
 
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
 {% content-ref url="users-interface.md" %}
 [users-interface.md](users-interface.md)
+{% endcontent-ref %}
+
+{% content-ref url="respond-to-invitations.md" %}
+[respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-new-users.md" %}

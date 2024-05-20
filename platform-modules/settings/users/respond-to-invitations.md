@@ -52,6 +52,14 @@ To decline, open the invitation link and click **Decline invitation**.
 
 ## Related topics
 
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
+{% content-ref url="users-interface.md" %}
+[users-interface.md](users-interface.md)
+{% endcontent-ref %}
+
 {% content-ref url="add-new-users.md" %}
 [add-new-users.md](add-new-users.md)
 {% endcontent-ref %}

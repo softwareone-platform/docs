@@ -16,7 +16,7 @@ By clicking “I Accept” in an electronic version of this Agreement, or making
 
 This Agreement is entered into on the date that it is accepted and is between Company and SoftwareOne. This Agreement contains the terms and conditions that govern Company’s access to and use of the Services and Interface for the purpose submitting and managing Content. **“Content”** means all information, data, files, software, code, text, images, photographs, graphics, e-mail addresses, web pages, reviews, discussion board postings and other materials uploaded or transmitted to SoftwareOne. **“Interface”** means SoftwareOne’s online application that allows Users to interact with the Services for the sole purposes of managing your Content, and utilizing SoftwareOne’s services described in the Interface or the Contracts. **“Services”** means: (i) SoftwareOne’s Client Portal SaaS, together with its Interface and Software, and any modifications, improvements, or updates to any of the forgoing; (ii) any additional services selected by Company within the Interface.
 
-### **1 – Using the Client Portal Services**
+## **1. Using the Client Portal Services**
 
 The Services are made available to achieve and manage the purposes described in the Contracts and to create, manage and submit Content. The Top Administrator must be at least eighteen (18) years of age to enter into this Agreement and open a Client Portal account with SoftwareOne. Once an authorized representative of Company creates the Client Portal account and identifies an initial Top Administrator, SoftwareOne will generate the Top Administrator’s login credentials and Company will be responsible for all activities occurring under its Client Portal account. The Top Administrator, and each User are responsible for keeping their respective account user names and passwords safe and secure. Users shall not share their login credentials with anyone. SoftwareOne may refuse any request to open an account for any reason. Certain Services may require the acceptance of additional terms or license agreements (**“Additional Terms”**), which will be presented to the Top Administrator within the Interface or another form, as SoftwareOne deems appropriate prior to the purchase of such Services. Upon acceptance, the Additional Terms will become part of this Agreement as if set forth in full herein. SoftwareOne may send Users announcements, administrative messages, and other information. Each individual User may opt out of some of those communications if they are not essential to the delivery of the Services. The type of Services available will be set by SoftwareOne and a Top Administrator and each User’s access to the Services is dependent upon the permissions role as set by the Top Administrator. **“Top Administrator”** means an employee of Company that has the authority and permission to edit user access, rights, and capabilities. **“User”** means an employee of Company that is authorized to use the Services by the Top Administrator. References to a User and Users herein include the Top Administrator.
 
@@ -25,7 +25,7 @@ The Top Administrator shall notify SoftwareOne if
 * any User of the Services leaves the employment of Company
 * Company wishes to remove any of Company’s designated Users from the Services. A Top Administrator may block, but not remove a Company user from accessing the Services.
 
-### **2 – Prohibited Activities**
+## **2. Prohibited Activities**
 
 Company shall ensure that each User of the Services and Interface use them only for lawful purposes and consistent with the terms of this Agreement; by way of example, the following are prohibited:
 
@@ -41,7 +41,7 @@ Company shall ensure that each User of the Services and Interface use them only 
 
 Company is responsible for use of the Services and Interface by its employees, independent contractors, and other representatives. SoftwareOne may suspend or cease providing access to the Services if Users do not comply with SoftwareOne’s requirements or if SoftwareOne is investigating suspected misconduct.
 
-### **3 – Content in Our Services**
+## **3. Content in Our Services**
 
 **Third Party Content.** The Services display some material that is not the property of SoftwareOne (e.g. software publisher license agreements, programs and offerings). This material is the sole responsibility of its owner. SoftwareOne may review third party material to determine whether it is illegal or violates our policies, and may remove or refuse to display what it reasonably believe violates our policies or the law.
 
@@ -53,7 +53,7 @@ Company is responsible for use of the Services and Interface by its employees, i
 
 **Deletion of Content.** SoftwareOne may permanently erase Content if: (i) Company’s account is delinquent, suspended, or terminated for 30 days or more; or (ii) Company breaches this Agreement or any Contract.
 
-### **4 – Limited License, Ownership, Obligations and Proprietary Rights**
+## **4. Limited License, Ownership, Obligations and Proprietary Rights**
 
 **Limited License.** The use of the Services may requires the use of downloadable and non-downloadable software (**“Software”**) that is the property of SoftwareOne or its licensors. During the term of this Agreement, SoftwareOne hereby grants Company a limited, non-assignable, non-sublicenseable, non-exclusive, license to use the Software through the Interface for the sole purpose of using the Services and submitting Content. This license will immediately and automatically terminate: (i) if Company fails to comply with its obligations under this Agreement or a licensor’s licensing terms at any time; or (ii) upon the termination of this Agreement.
 
@@ -61,11 +61,11 @@ Company is responsible for use of the Services and Interface by its employees, i
 
 **Reservation of Rights.** Except for the limited licenses granted in section 4(a), SoftwareOne hereby reserves all right, title and interest (including all intellectual property and proprietary rights) in and to the Services. If Company communicates any ideas or suggestions (**“Feedback”**) to SoftwareOne, SoftwareOne will own all right, title and interest in and to such Feedback and will be entitled to use it without restriction. Company hereby irrevocably assign all right, title and interest in and to such Feedback to SoftwareOne and shall provide SoftwareOne with such assistance as SoftwareOne may reasonably require to document, perfect or maintain its rights in and to such Feedback.
 
-### **5 – Fees & Taxes**
+## **5. Fees & Taxes**
 
 Any fees for the Services are stated either within the Interface or the applicable purchase order and invoice between SoftwareOne and Company. Modification to the Services beyond the scope of the applicable purchase order and invoice may result in an additional charge to Company. The fees exclude all applicable sales, use, and other taxes (other than taxes on SoftwareOne’s income), duties, charges, and related fees and penalties in each case arising from any payments to be made to SoftwareOne under this Agreement (collectively, **“Taxes”**), and Company will be responsible for payment of all Taxes. Company shall make all payments of fees to SoftwareOne free and clear of, and without reduction for, any withholding taxes; any such taxes are the sole responsibility of Company, and Company shall provide SoftwareOne with official receipts issued by the appropriate taxing authority, or such other evidence as SoftwareOne may reasonably request, to establish that such taxes have been paid. Fees are non-refundable upon the termination of this Agreement by Company. If SoftwareOne terminates this Agreement for any reason other than a breach of the Agreement by Company, then SoftwareOne will refund any prepaid fees for the remaining term of the Services. Any such refund will be paid within forty-five (45) days of SoftwareOne’s notice of termination.
 
-### **6 – Confidentiality**
+## **6. Confidentiality**
 
 **Confidential Information.** **“Confidential Information”** means non-public information of a competitive or commercially sensitive, proprietary, financial, or trade secret nature, or information that involves or implicates privacy interests. Confidential Information includes any information labeled “Confidential” or “Proprietary”, business plans, strategies, forecasts, analyses, financial information, employee information, technology information, trade secrets, products, technical data, specifications, documentation, rules and procedures, methods, contracts, presentations, know-how, product plans, business methods, product functionality, data, customers, markets, competitive analysis, databases, formats, methodologies, applications, developments, inventions, processes, payment, delivery and inspection procedures, designs, drawings, algorithms, formulas or information relating to engineering, marketing, or finance and any other information that the Recipient should reasonably believe to be confidential given the circumstances.
 
@@ -75,7 +75,7 @@ Any fees for the Services are stated either within the Interface or the applicab
 
 **Injunctive Relief.** Each party acknowledges that any violation of its obligations relating to Confidential Information, and Services would result in damages to the other party that are largely intangible but nonetheless real, and that cannot be remedied by an award of damages. Accordingly, any such violation will give the other party the immediate right to a court-ordered injunction or other appropriate order to enforce those obligations. A party’s right to injunctive relief is in addition to any other rights and remedies available to such party at law and in equity. The prevailing party obtaining injunction will be entitled to recover all reasonable expenses, including attorney fees, incurred in obtaining such enforcement.
 
-### **7 – Copyrights, Privacy and Data Protection**
+## **7. Copyrights, Privacy and Data Protection**
 
 **Copyrights.** SoftwareOne respects the intellectual property rights of others and expects Users to do the same. SoftwareOne will respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the US Digital Millennium Copyright Act. Copyright concerns should be delivered to [legal@softwareone.com](mailto:legal@softwareone.com).
 
@@ -87,23 +87,23 @@ Any fees for the Services are stated either within the Interface or the applicab
 
 **Security.** A User’s personal information, such as name, address, phone, email, or credit card number, is never stored in a cookie. It is stored on SoftwareOne’s secure server, and is not available to any other site.
 
-### **8 – Term and Termination**
+## **8. Term and Termination**
 
 The term of this Agreement will begin upon acceptance of this Agreement and will end when terminated by either Company or SoftwareOne. Company may terminate this Agreement at any time and for any reason by providing SoftwareOne with written notice. SoftwareOne may terminate this Agreement and all User accounts for any reason or no reason, without notice. This Agreement will automatically terminate, without notice, upon termination of the Contracts between SoftwareOne and Company. Upon any termination of this Agreement, Company shall immediately cease all use of all the Services and Interface. Any provisions that would, by their nature, survive the termination or expiration of this Agreement will so survive, including Sections 3, 4(e), 6, 7, 10, 11, 12, 14, 15 and 16.
 
-### **9 – Modification**
+## **9. Modification**
 
 SoftwareOne may change or improve the Services, including adding or removing functionalities and features, or suspend or stop the Services completely. Company may stop using the Services at any time. SoftwareOne may stop providing the Services or add or create new limits to the Services at any time. If SoftwareOne suspends Services that contain Content, it will provide Company with reasonable advance notice to allow it to remove that Content from that particular Service. Due to things like changes in the law or technology, SoftwareOne may modify the terms and conditions contained in this Agreement at any time by posting a change notice within the Interface. SoftwareOne may also require Company to accept an updated version of this Agreement reflecting such modified terms and conditions. If any modification is unacceptable Company’s only recourse is to terminate this Agreement. Company’s continued use of the Services following any posting of a change notice or revised Agreement will constitute binding acceptance of the revisions.
 
-### **10 – Representations and Warranties**
+## **10. Representations and Warranties**
 
 Each party represents that it has all necessary right, power and authority to enter into this Agreement and that upon Company’s acceptance it will create a binding contract between the parties. Company represents and warrants that: (i) it is the owner or authorized licensee of all Content uploaded or transmitted to the Services; (ii) Company has all necessary rights to grant the Content license to SoftwareOne; (iii) the submission of Content does not violate the intellectual property rights of any third party; (iv) that each User is at least eighteen (18) years of age; (v) all Content uploaded or transmit using the Services is complete, accurate and correct; and (vi) Company and its Users will comply with all applicable laws, rules, and regulations in the use of the Services.
 
-### **11 – Indemnification**
+## **11. Indemnification**
 
 Company shall indemnify SoftwareOne, including its employees, officers, directors and agents for all losses and liabilities, including reasonable attorneys’ fees and costs, arising from any of the following: (i) Company’s breach of any of its representations, warranties or obligations under this Agreement; (ii) Company’s use of the Services, including the use of Services by Company’s authorized users in violation of this Agreement; and (iii) any claim that the Content infringes any patent, copyright, trademark, trade secret, or other proprietary right. SoftwareOne shall indemnify Company, including its employees, officers, directors and for all losses and liabilities, including reasonable attorneys’ fees and costs, arising from any claim alleging that the Services infringe any patent, copyright, trademark, trade secret or other proprietary right. The forgoing indemnification is conditioned upon the indemnified party: (a) providing the indemnifying party with timely written notice of the applicable claim; (b) tendering the exclusive control over the defense and settlement of the claim to the indemnifying party; and (c) cooperating with the indemnifying party in the defense and settlement of the claim at the indemnifying party’s expense.
 
-### **12 – Disclaimers and Limitation of Liability**
+## **12. Disclaimers and Limitation of Liability**
 
 SoftwareOne cannot and does not warrant, verify, or guarantee the quality, accuracy, or integrity of Content uploaded or transmitted to the Services. Company is solely liable for all Content. SoftwareOne makes no representation or warranty that it will review any of the Content for accuracy. Company’s access to and use of the Services is at its own risk. The Services are licensed as a service on an “AS IS” and “AS AVAILABLE” basis. SOFTWAREONE HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. WITHOUT LIMITING THE GENERALITY OF THE FORGOING, SOFTWAREONE MAKES NO WARRANTY THAT: (I) THE SERVICES WILL MEET COMPANY’S REQUIREMENTS; OR (II) THE SERVICES BE AVAILABLE ON AN UNINTERRUPTED, SECURE OR ERROR-FREE BASIS.
 
@@ -111,18 +111,18 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, SOFTWAREONE WILL NOT BE LIABLE FOR ANY S
 
 Some jurisdictions do not allow for certain limitations on liability, so the above may not apply to Company.
 
-### **13 – Relationship of the Parties**
+## **13. Relationship of the Parties**
 
 The parties are independent contractors. Nothing in this Agreement creates any partnership, joint venture, agency, franchise, or employment relationship between Company, and SoftwareOne. Company has no authority to make or accept any offers or representations on SoftwareOne’s behalf.
 
-### **14 – Disputes**
+## **14. Disputes**
 
 In case of any controversy or dispute, SoftwareOne and Company shall discuss the matter in controversy or dispute and make a diligent effort to find an amicable solution. If an amicable solution is not reached, all disputes arising out of or in connection with this Agreement or its validity will be finally resolved by the courts of the state/country in which the offices of the SoftwareOne affiliate entering into the Contract are located. The United Nations Convention on the International Sales of Goods will not apply to these Terms or any Contract. SoftwareOne may obtain injunctive or other relief in any state, federal or national court of competent jurisdiction for any actual or alleged infringement of its intellectual property or proprietary rights. The Services are of a special, unique and extraordinary character which gives them a particular value to SoftwareOne that cannot be readily estimated and may not be adequately compensated for in monetary damages alone. Accordingly, in additional to all other remedies available at law or in equity, SoftwareOne will be entitled injunctive or equitable relief if Company breaches this Agreement.
 
-### **15 – Export Restrictions**
+## **15. Export Restrictions**
 
 The Services may be subject to the export control regulations of the U.S., Switzerland and the European Union. Company shall not use the Services or otherwise transfer, export or them or access thereto to countries against which the United States, Switzerland, or the European Union maintains an embargo (collectively, **“Embargoed Countries”**), or to or by a national or resident thereof, or any person or entity on a list of specially designated nationals (collectively, **“Designated Nationals”**). The lists of Embargoed Countries and Designated Nationals are subject to change without notice. Company hereby represents and warrants that it is not located in, under the control of, or are a national or resident of an Embargoed Country; that its Users are not Designated Nationals; and that it shall comply strictly with all U.S., Swiss, and European Union export laws, and assume sole responsibility for obtaining licenses to export or re-export as may be required.
 
-### **16 – Miscellaneous**
+## **16. Miscellaneous**
 
 There are no third party beneficiaries to this Agreement. Company shall not assign this Agreement without SoftwareOne’s prior written consent. This Agreement, together with the Contract and any other agreements for additional services accepted within the Interface, represent the entire agreement of the parties regarding the subject matter hereof. SoftwareOne’s failure to enforce any provision of this Agreement will not act as a waiver to enforce the same or any other provision in the future. SoftwareOne may provide Company with notices under this Agreement by delivering them to the electronic mail address listed within the interface.

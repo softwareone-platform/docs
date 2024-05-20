@@ -1,17 +1,17 @@
 ---
-description: Save your order as a draft during order creation.
+description: Save your order as a draft order so you can complete the order later.
 ---
 
-# Save the order as draft
+# Save orders as draft orders
 
-When you start an order, you can save it as a draft with all its details and return to it later to complete the order.&#x20;
+When you create an order, you can save it as a draft with all its details and return to it later to complete it.&#x20;
 
-## Save a draft order
+## Save an order as a draft
 
-Follow these steps to save the order:
+Follow these steps to save an order as a draft:
 
-1. On the **Products** page (**New Marketplace > Products**), locate the product to buy.
-2. Click **Buy Now**. The purchase wizard for your selected product opens.&#x20;
+1. Navigate to the **Products** page (**Marketplace** > **Products**) and locate the product to buy.
+2. Click **Buy Now**. The purchase wizard for your selected product starts.&#x20;
 3. Continue through the wizard and complete all sections until you reach the **Order Details** section. Note that a section is enabled only after you've completed the previous step.
 4. In the **Order Details** section, click **Save order**.&#x20;
 

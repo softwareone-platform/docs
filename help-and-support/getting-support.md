@@ -38,12 +38,12 @@ Clicking a ticket opens its details page, which shows the status of your ticket 
 
 ## Related topics
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../getting-started/platform-overview/basics/update-password.md" %}
+[update-password.md](../getting-started/platform-overview/basics/update-password.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../getting-started/platform-overview/basics/manage-profile.md" %}
+[manage-profile.md](../getting-started/platform-overview/basics/manage-profile.md)
 {% endcontent-ref %}
 
 {% content-ref url="frequently-asked-questions/" %}

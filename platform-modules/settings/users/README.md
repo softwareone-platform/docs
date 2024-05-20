@@ -33,6 +33,10 @@ From the **Users** page, you can:
 [users-interface.md](users-interface.md)
 {% endcontent-ref %}
 
+{% content-ref url="respond-to-invitations.md" %}
+[respond-to-invitations.md](respond-to-invitations.md)
+{% endcontent-ref %}
+
 {% content-ref url="add-new-users.md" %}
 [add-new-users.md](add-new-users.md)
 {% endcontent-ref %}

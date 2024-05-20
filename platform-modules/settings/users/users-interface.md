@@ -57,6 +57,14 @@ The page also contains the following tabs that display corresponding information
 
 ## Related topics
 
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
+{% content-ref url="respond-to-invitations.md" %}
+[respond-to-invitations.md](respond-to-invitations.md)
+{% endcontent-ref %}
+
 {% content-ref url="add-new-users.md" %}
 [add-new-users.md](add-new-users.md)
 {% endcontent-ref %}

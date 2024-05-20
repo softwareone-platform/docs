@@ -34,8 +34,16 @@ We recommend checking your Spam or Junk folder. If you still haven't received th
 
 ## Related topics
 
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
 {% content-ref url="users-interface.md" %}
 [users-interface.md](users-interface.md)
+{% endcontent-ref %}
+
+{% content-ref url="respond-to-invitations.md" %}
+[respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-new-users.md" %}

@@ -52,8 +52,16 @@ Your account administrator will need to generate a new invitation. To learn more
 
 ## Related topics
 
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
 {% content-ref url="users-interface.md" %}
 [users-interface.md](users-interface.md)
+{% endcontent-ref %}
+
+{% content-ref url="respond-to-invitations.md" %}
+[respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-users.md" %}

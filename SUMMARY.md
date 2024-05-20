@@ -49,7 +49,7 @@
     * [Delete draft orders](platform-modules/marketplace/orders/delete-draft-orders.md)
   * [Products](platform-modules/marketplace/products/README.md)
     * [Products interface](platform-modules/marketplace/products/products-interface.md)
-    * [Save the order as draft](platform-modules/marketplace/products/save-the-order-as-draft.md)
+    * [Save orders as draft orders](platform-modules/marketplace/products/save-orders-as-draft-orders.md)
     * [Buy products and services](platform-modules/marketplace/products/buy-products-and-services.md)
   * [Requests](platform-modules/marketplace/requests/README.md)
     * [Requests interface](platform-modules/marketplace/requests/requests-interface.md)
