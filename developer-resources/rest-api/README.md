@@ -1,10 +1,6 @@
 # REST API
 
-## Introduction
-
-The Marketplace Platform APIs let you interact with the platform programmatically. Use these APIs to create apps, automate tasks, or build integrations with the platform. This documentation covers the available REST resources, including HTTP response codes and example requests and responses.
-
-
+The **Marketplace Platform REST API** lets you interact with the platform programmatically. Our API is organized around [REST](http://en.wikipedia.org/wiki/Representational\_State\_Transfer), has predictable resource-oriented URLs, uses [JSON-encoded](http://www.json.org/) representations, and uses standard [HTTP response codes](https://en.wikipedia.org/wiki/List\_of\_HTTP\_status\_codes), authentication, and verbs. Use our API to create apps, automate tasks, or build integrations with the platform.&#x20;
 
 {% content-ref url="accounts-api/" %}
 [accounts-api](accounts-api/)
