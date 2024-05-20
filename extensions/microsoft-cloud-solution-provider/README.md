@@ -26,27 +26,27 @@ Clients can track their Microsoft subscription purchases and manage the entire s
 
 Each step of the onboarding process can be executed by the client using the SoftwareOne Marketplace, providing a seamless and user-friendly experience.
 
-### Step 1: Creating a Microsoft Organization Tenant
+### 1. Creating a Microsoft Organization Tenant
 
 1. **Consultation** - SoftwareOne will begin with a consultation to understand your business needs and goals.
 2. **Setup** - They will then create a Microsoft organization tenant for your business. This tenant acts as a dedicated instance within Microsoft's cloud, housing all users, resources, and data.
 3. **Configuration** - SoftwareOne will configure the tenant to align with your business requirements, ensuring optimal setup for security, compliance, and performance.
 
-### Step 2: Accepting the Microsoft Customer Agreement
+### 2. Accepting the Microsoft Customer Agreement
 
 1. **Understanding terms** - SoftwareOne will guide you through the Microsoft Customer Agreement, explaining the terms and conditions for using Microsoft’s cloud services.
 2. **Agreement acceptance** - They will assist you in accepting the agreement, which simplifies the purchasing process and provides clear terms regarding service usage, data privacy, and compliance.
 
-### Step 3: Service Provisioning and Integration
+### 3. Service Provisioning and Integration
 
 1. **Service activation** - Once the tenant is set up and the agreement is accepted, SoftwareOne will provision the required Microsoft cloud services for your business.
 2. **Integration** - They will integrate these services with your existing systems, ensuring seamless operation and minimal disruption to your business activities.
 3. **Customization** - SoftwareOne can further customize the services to meet specific needs, such as setting up user roles, permissions, and additional configurations.
 
-### Step 4: Ongoing Support and Management
+### 4. Ongoing Support and Management
 
 1. **Training** - SoftwareOne provides training to ensure your team can effectively use the new services.
 2. **Continuous support** - They offer ongoing support to address any issues and provide updates, helping your business adapt and grow with the evolving cloud landscape.
 3. **Optimization** - Regular reviews and optimization services are provided to ensure you continue to get the most out of your Microsoft cloud investment.
 
-For more information, please contact your account team.
+For more information, contact your account team.
