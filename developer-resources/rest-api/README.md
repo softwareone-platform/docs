@@ -80,6 +80,10 @@ GET /v1/accounts/users?firstName=Buzz
 
 See [Resource Query Language](resource-query-language.md) for more details.
 
+## Errors Handling <a href="#explore-the-apis" id="explore-the-apis"></a>
+
+Our platform reports errors using HTTP status codes in a standard format, ensuring consistency and clarity. For more details, please see [Errors Handling](./#explore-the-apis).
+
 ## Explore the APIs <a href="#explore-the-apis" id="explore-the-apis"></a>
 
 {% content-ref url="accounts-api/" %}
