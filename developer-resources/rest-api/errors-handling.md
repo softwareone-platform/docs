@@ -26,7 +26,7 @@ All errors reported by the [REST API](./) have an [HTTP status code](https://en.
 * **status:** \[number] The HTTP status code associated with the error.
 * **detail:** (Optional) \[string] A detailed human-readable description of the error, providing additional information to help clients understand the issue.
 * **instance:** (Optional) \[string] A URI reference that identifies the specific occurrence of the error, useful for debugging or tracing purposes.
-* **traceid:** (Optional) \[string] A unique identifier to trace requests in logs.
+* **traceId:** (Optional) \[string] A unique identifier to trace requests in logs.
 * **errors:** (Optional) \[key-value] A collection of errors detected by validation logic.
 
 ## Common Errors
