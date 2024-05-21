@@ -130,7 +130,7 @@
 
 * [Adobe VIP Marketplace](extensions/adobe-vip-marketplace/README.md)
   * [Migration to VIP Marketplace](extensions/adobe-vip-marketplace/migration-to-vip-marketplace.md)
-  * [Adobe VIP Marketplace Terms](extensions/adobe-vip-marketplace/adobe-vip-marketplace-terms.md)
+  * [Terms and Conditions](extensions/adobe-vip-marketplace/terms-and-conditions.md)
   * [Release notes](extensions/adobe-vip-marketplace/release-notes.md)
 * [Cloud Tools](extensions/cloud-tools/README.md)
   * [365Simple](extensions/cloud-tools/365simple.md)
