@@ -51,7 +51,7 @@ The new **Products** page has a cleaner look and feel so you can browse products
 
 Additionally, we’ve introduced a new **Purchase Wizard** that guides you step-by-step through the purchasing process for subscription-based products. The **Purchase Wizard** uses a consistent interface, regardless of the product you are buying. It guides you through each step and allows you to enter your data as required.&#x20;
 
-To learn more, see [Buy products and services](../../platform-modules/marketplace/products/buy-products-and-services.md), [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/), and [Microsoft Cloud Solution Provider](../../extensions/microsoft-cloud-solution-provider/).
+To learn more, see [Buy products and services](../../platform-modules/marketplace/products/buy-products-and-services.md), [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/), and [Microsoft Cloud Solution Provider](../../extensions/microsoft-csp/).
 
 ## New Navigation Structure&#x20;
 
