@@ -2,7 +2,7 @@
 description: Learn about the Microsoft Cloud Solution Provider (CSP) program.
 ---
 
-# Microsoft Cloud Solution Provider
+# Microsoft CSP
 
 The Microsoft CSP program is designed to provide businesses with easy access to Microsoft's cloud services, such as Microsoft 365, Dynamics 365, and Azure, through certified partners.&#x20;
 

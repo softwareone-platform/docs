@@ -6,11 +6,14 @@ description: Learn about API tokens and how to access the API tokens page.
 
 ## About API tokens
 
-API tokens, or authentication tokens or API keys, are a mechanism used in software development and web services to authenticate and authorize access to specific functionalities or resources within the platform.&#x20;
+The Marketplace Platform uses API tokens to authenticate requests to its [REST API](../../../developer-resources/rest-api/) .  Your API token must be included in the "**Authorization**" HTTP header with the "**Bearer**" prefix for authentication. For example, the following request could be used to retrieve a list of Buyers:
 
-They serve as a security credential to ensure that only authorized users or applications can interact with an API or access certain parts of the Marketplace Platform. API tokens are a fundamental part of API security and access control, allowing the platform to manage and secure interactions with the APIs while enabling fine-grained control over user access and privileges.
+```
+GET https://api.platform.softwareone.com/public/v1/accounts/buyers
+Authorization: Bearer {TOKEN_VALUE}
+```
 
-Within the Marketplace Platform, API tokens allow programmatic access to the workflows and resources linked to an account.
+Your API keys have permissions assigned to them, so keep them secure. Do not share your secret API keys in public areas like GitHub or client-side code. All API requests must be made over **HTTPS**. Calls made over plain HTTP will fail. API requests without authentication will also fail.
 
 ## How to access the API tokens page
 

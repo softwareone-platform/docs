@@ -176,8 +176,8 @@
   * [365 EA + unified support](extensions/itam-tools/365-ea-+-unified-support.md)
   * [Renewal manager](extensions/itam-tools/renewal-manager.md)
   * [Unified support for multi-vendor](extensions/itam-tools/unified-support-for-multi-vendor.md)
-* [Microsoft CSP](extensions/microsoft-csp/README.md)
-  * [Release notes](extensions/microsoft-csp/release-notes.md)
+* [Microsoft CSP](extensions/microsoft-cloud-solution-provider/README.md)
+  * [Release notes](extensions/microsoft-cloud-solution-provider/release-notes.md)
 
 ## Developer Resources
 
