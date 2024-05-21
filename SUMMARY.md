@@ -180,10 +180,6 @@
 
 ## Developer Resources
 
-* [Open Source](developer-resources/open-source/README.md)
-  * [GitHub Projects](developer-resources/open-source/github-projects.md)
-  * [Code of Conduct](developer-resources/open-source/code-of-conduct.md)
-  * [Contributor License Agreement](developer-resources/open-source/contributor-license-agreement.md)
 * [REST API](developer-resources/rest-api/README.md)
   * [Resource Query Language](developer-resources/rest-api/resource-query-language.md)
   * [Errors Handling](developer-resources/rest-api/errors-handling.md)
@@ -414,6 +410,10 @@
       * [List units of measure](developer-resources/rest-api/catalog-api/unit-of-measure/list-units-of-measure.md)
       * [Get a unit of measure](developer-resources/rest-api/catalog-api/unit-of-measure/get-a-unit-of-measure.md)
       * [Update unit of measure](developer-resources/rest-api/catalog-api/unit-of-measure/update-unit-of-measure.md)
+* [Open Source](developer-resources/open-source/README.md)
+  * [GitHub Projects](developer-resources/open-source/github-projects.md)
+  * [Code of Conduct](developer-resources/open-source/code-of-conduct.md)
+  * [Contributor License Agreement](developer-resources/open-source/contributor-license-agreement.md)
 
 ## Help and Support
 

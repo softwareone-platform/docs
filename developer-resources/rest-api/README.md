@@ -34,9 +34,9 @@ Your API keys have permissions assigned to them, so keep them secure. Do not sha
 
 All API requests must be made over **HTTPS**. Calls made over plain HTTP will fail. API requests without authentication will also fail.
 
-## Expected Content Type
+## Content Type
 
-The Marketplace Platform API expects the content type of API requests to be "**application/json**" in most cases (except for cases where "multipart/form-data" is used to send attachments)
+The Marketplace Platform API expects the **content type** of API requests to be "**application/json**" in most cases (except for cases where "multipart/form-data" is used to send attachments)
 
 ```http
 GET https://api.platform.softwareone.com/public/v1/accounts/buyers
@@ -46,7 +46,7 @@ Content-Type: application/json
 
 To communicate successfully with the Marketplace Platform APIs, ensure your API requests are formatted using the "**application/json**" content type. Using the wrong content type may result in unexpected behavior or errors.
 
-## Base API Endpoint
+## API Endpoint
 
 The base endpoint for the Marketplace Platform API is:
 
