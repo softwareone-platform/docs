@@ -50,19 +50,19 @@ To communicate successfully with the Marketplace Platform APIs, ensure your API 
 
 The base endpoint for the Marketplace Platform API is:
 
-```
+```http
 https://api.platform.softwareone.com/public
 ```
 
 &#x20;All API requests start from that base URL. For example, if you have an endpoint like:
 
-```
+```http
 /v1/accounts/buyers
 ```
 
 The fully qualified URL that you need to use is:
 
-```
+```http
 https://api.platform.softwareone.com/public/v1/accounts/buyers
 ```
 
@@ -74,8 +74,8 @@ The **Resource Query Language** (or **RQL**) is used for querying and manipulati
 
 For example, to display all users with the first name "Buzz", your GET request would look like this:
 
-```
-GET /v1/accounts/users?eq(firstName,Buzz)
+```http
+GET /v1/accounts/users?firstName=Buzz
 ```
 
 See [Resource Query Language](resource-query-language.md) for more details.

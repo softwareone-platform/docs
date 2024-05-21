@@ -28,13 +28,13 @@ Suppose you want to list all users with a specific domain. Implementing filterin
 
 To display all users with the first name "Buzz", your GET request would look like this:
 
-```
+```http
 GET /v1/accounts/users?firstName=Buzz
 ```
 
 the same expression can be written as:&#x20;
 
-```
+```http
 GET /v1/accounts/users?eq(firstName,Buzz)
 ```
 
@@ -42,13 +42,13 @@ GET /v1/accounts/users?eq(firstName,Buzz)
 
 To sort users based on their first name, your GET request would look like this:
 
-```
+```http
 GET /v1/accounts/users?order=firstName
 ```
 
 To sort in the opposite direction, the '-' operator can be used:
 
-```
+```http
 GET /v1/accounts/users?order=-firstName
 ```
 
@@ -56,7 +56,7 @@ GET /v1/accounts/users?order=-firstName
 
 To paginate your results with a limit of 10 users and to retrieve the third page (offset 20):
 
-```
+```http
 GET /v1/accounts/users?limit=10&offset=20
 ```
 
@@ -67,13 +67,13 @@ GET /v1/accounts/users?limit=10&offset=20
 
 To request specific fields, such as `forstName`, `lastName`, and `email` to be included, the `select=+` operator can be used:
 
-```
+```http
 GET /v1/accounts/users?select=+firstName,+lastName,+email
 ```
 
 To request certain fields to be excluded, the `select=-` operator can be used:
 
-```
+```http
 GET /v1/accounts/users?select=-firstName,-lastName,-email
 ```
 
@@ -81,7 +81,7 @@ GET /v1/accounts/users?select=-firstName,-lastName,-email
 
 To search for all users with the firstName starting from 'Bu', the following query can be used:
 
-```
+```http
 GET /v1/accounts/users?ilike(firstName,Bu*)
 ```
 
@@ -91,13 +91,13 @@ the operator `ilike` performs a case-insensitive search.
 
 Logical operators can be used to combine multiple operators. For example, to filter users with first name "Buzz" and last name "Astral":
 
-```
+```http
 GET /v1/accounts/users?and(eq(firstName,Buzz),eq(lastName,Astral))
 ```
 
 In simple cases, a combined expression can also be written in the following form:
 
-```
+```http
 GET /v1/accounts/users?firstName=Buzz&lastName=Astral
 ```
 
@@ -111,13 +111,13 @@ GET /v1/accounts/users?firstName=Buzz&lastName=Astral
 
 To pass special characters (e.g., &^$?) or whitespaces as values to RQL operators, enclose them in either double quotes (") or single quotes (') as shown in the following example:
 
-```
+```http
 GET /v1/accounts/users?firstName="Buzz !!!"
 ```
 
 If you need to include a quotation mark within the value, you can do so by enclosing it with a different type of quotation mark, as shown in the following example:
 
-```
+```http
 GET /v1/accounts/users?firstName="Buzz with the ' Quote"
 ```
 
@@ -129,7 +129,7 @@ The asterisk (\*) character has a special meaning in the `ilike` operator, match
 
 If you need to use the asterisk (\*) character itself in the pattern, you can escape it as '\*', as shown in the following example:
 
-```
+```http
 GET /v1/accounts/users?ilike(firstName,"The\**")
 ```
 
