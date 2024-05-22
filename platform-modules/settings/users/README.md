@@ -37,8 +37,8 @@ From the **Users** page, you can:
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
+{% content-ref url="add-new-user.md" %}
+[add-new-user.md](add-new-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-users.md" %}
@@ -49,14 +49,14 @@ From the **Users** page, you can:
 [remove-users.md](remove-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="copy-the-invitation-link.md" %}
-[copy-the-invitation-link.md](copy-the-invitation-link.md)
+{% content-ref url="copy-invitation-link.md" %}
+[copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-an-invitation.md" %}
-[resend-an-invitation.md](resend-an-invitation.md)
+{% content-ref url="resend-invitations.md" %}
+[resend-invitations.md](resend-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-a-new-invitation.md" %}
-[generate-a-new-invitation.md](generate-a-new-invitation.md)
+{% content-ref url="generate-new-invitations.md" %}
+[generate-new-invitations.md](generate-new-invitations.md)
 {% endcontent-ref %}

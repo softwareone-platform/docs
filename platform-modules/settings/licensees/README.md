@@ -35,14 +35,14 @@ From the **Licensees** page, you can:
 [licensees-interface.md](licensees-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-licensees.md" %}
-[create-licensees.md](create-licensees.md)
+{% content-ref url="create-licensee.md" %}
+[create-licensee.md](create-licensee.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-licensees.md" %}
-[edit-licensees.md](edit-licensees.md)
+{% content-ref url="edit-licensee.md" %}
+[edit-licensee.md](edit-licensee.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-licensees.md" %}
-[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
+{% content-ref url="enable-or-disable-licensee.md" %}
+[enable-or-disable-licensee.md](enable-or-disable-licensee.md)
 {% endcontent-ref %}

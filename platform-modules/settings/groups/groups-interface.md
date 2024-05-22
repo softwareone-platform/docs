@@ -2,7 +2,7 @@
 description: Learn about the fields and actions available on the Groups page.
 ---
 
-# Groups interface
+# Groups Interface
 
 ## Groups page
 
@@ -26,8 +26,8 @@ The details page of a group displays specific information about the group. You c
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Edit a group](edit-a-group.md)
-* [Delete a group](delete-a-group.md)
+* [Edit a group](edit-group.md)
+* [Delete a group](delete-group.md)
 
 </details>
 
@@ -46,14 +46,14 @@ The details page is organized into the following tabs:
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-groups.md" %}
-[create-groups.md](create-groups.md)
+{% content-ref url="create-group.md" %}
+[create-group.md](create-group.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-a-group.md" %}
-[edit-a-group.md](edit-a-group.md)
+{% content-ref url="edit-group.md" %}
+[edit-group.md](edit-group.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-a-group.md" %}
-[delete-a-group.md](delete-a-group.md)
+{% content-ref url="delete-group.md" %}
+[delete-group.md](delete-group.md)
 {% endcontent-ref %}

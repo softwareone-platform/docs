@@ -2,7 +2,7 @@
 description: Delete a group if it's no longer needed.
 ---
 
-# Delete a group
+# Delete Group
 
 ## **Before you begin**
 
@@ -30,10 +30,10 @@ Follow these steps to delete an existing group:
 [groups-interface.md](groups-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-groups.md" %}
-[create-groups.md](create-groups.md)
+{% content-ref url="create-group.md" %}
+[create-group.md](create-group.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-a-group.md" %}
-[edit-a-group.md](edit-a-group.md)
+{% content-ref url="edit-group.md" %}
+[edit-group.md](edit-group.md)
 {% endcontent-ref %}

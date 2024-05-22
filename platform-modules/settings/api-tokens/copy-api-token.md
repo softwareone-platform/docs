@@ -2,7 +2,7 @@
 description: Copy an API token.
 ---
 
-# Copy API tokens
+# Copy API Token
 
 ## Copy an API token
 
@@ -28,18 +28,18 @@ Follow these steps to copy your token values:
 [api-tokens-interface.md](api-tokens-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-api-tokens.md" %}
-[create-api-tokens.md](create-api-tokens.md)
+{% content-ref url="create-api-token.md" %}
+[create-api-token.md](create-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-api-tokens.md" %}
-[edit-api-tokens.md](edit-api-tokens.md)
+{% content-ref url="edit-api-token.md" %}
+[edit-api-token.md](edit-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-api-tokens.md" %}
-[enable-or-disable-api-tokens.md](enable-or-disable-api-tokens.md)
+{% content-ref url="enable-or-disable-api-token.md" %}
+[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-api-tokens.md" %}
-[delete-api-tokens.md](delete-api-tokens.md)
+{% content-ref url="delete-api-token.md" %}
+[delete-api-token.md](delete-api-token.md)
 {% endcontent-ref %}

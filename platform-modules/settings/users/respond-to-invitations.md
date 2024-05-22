@@ -2,7 +2,7 @@
 description: Accept or decline the invitation to join the Marketplace Platform.
 ---
 
-# Respond to invitations
+# Respond to Invitations
 
 When you've been invited to the Marketplace Platform by the SoftwareOne Operations team or your account administrator, you'll receive an email. You can accept the invitation to join the account or decline it.
 
@@ -39,7 +39,7 @@ For information on how to navigate the Marketplace Platform, see [Platform inter
 {% hint style="info" %}
 **Invitation link has expired?**&#x20;
 
-Invitation links are unique and they expire within 7 days of being issued. If your link has expired, your account administrator must create a new link. For more information, see [Generate a new invitation](generate-a-new-invitation.md).
+Invitation links are unique and they expire within 7 days of being issued. If your link has expired, your account administrator must create a new link. For more information, see [Generate a new invitation](generate-new-invitations.md).
 {% endhint %}
 
 ## Decline an invitation
@@ -60,8 +60,8 @@ To decline, open the invitation link and click **Decline invitation**.
 [users-interface.md](users-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
+{% content-ref url="add-new-user.md" %}
+[add-new-user.md](add-new-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-users.md" %}
@@ -72,14 +72,14 @@ To decline, open the invitation link and click **Decline invitation**.
 [remove-users.md](remove-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="copy-the-invitation-link.md" %}
-[copy-the-invitation-link.md](copy-the-invitation-link.md)
+{% content-ref url="copy-invitation-link.md" %}
+[copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-an-invitation.md" %}
-[resend-an-invitation.md](resend-an-invitation.md)
+{% content-ref url="resend-invitations.md" %}
+[resend-invitations.md](resend-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-a-new-invitation.md" %}
-[generate-a-new-invitation.md](generate-a-new-invitation.md)
+{% content-ref url="generate-new-invitations.md" %}
+[generate-new-invitations.md](generate-new-invitations.md)
 {% endcontent-ref %}

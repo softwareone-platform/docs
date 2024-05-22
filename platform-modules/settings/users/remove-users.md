@@ -2,7 +2,7 @@
 description: Remove users from your account.
 ---
 
-# Remove users
+# Remove Users
 
 In certain situations, you might need to remove a person from your account. Only account administrators can remove users.
 
@@ -11,7 +11,7 @@ In certain situations, you might need to remove a person from your account. Only
 Before removing a user, note the following points:
 
 * Ensure that you've reviewed the user's permissions and assigned groups. This is necessary to prevent accidental removal.
-* Removing a user doesn't delete them from the system. This allows you to reinvite them to your account. For more information, see [Invite new users](add-new-users.md).
+* Removing a user doesn't delete them from the system. This allows you to reinvite them to your account. For more information, see [Invite new users](add-new-user.md).
 * Removing a user only removes them from the respective account. If the user is associated with several accounts on the platform, they'll still be able to access those accounts.&#x20;
 
 ## Remove a user from your account
@@ -47,22 +47,22 @@ Remember that if the user belongs to multiple accounts on the Marketplace Platfo
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
+{% content-ref url="add-new-user.md" %}
+[add-new-user.md](add-new-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-users.md" %}
 [edit-users.md](edit-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="copy-the-invitation-link.md" %}
-[copy-the-invitation-link.md](copy-the-invitation-link.md)
+{% content-ref url="copy-invitation-link.md" %}
+[copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-an-invitation.md" %}
-[resend-an-invitation.md](resend-an-invitation.md)
+{% content-ref url="resend-invitations.md" %}
+[resend-invitations.md](resend-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-a-new-invitation.md" %}
-[generate-a-new-invitation.md](generate-a-new-invitation.md)
+{% content-ref url="generate-new-invitations.md" %}
+[generate-new-invitations.md](generate-new-invitations.md)
 {% endcontent-ref %}

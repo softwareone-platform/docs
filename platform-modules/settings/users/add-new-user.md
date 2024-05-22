@@ -2,7 +2,7 @@
 description: Add new members to your Marketplace Platform account.
 ---
 
-# Add new users
+# Add New User
 
 As an account administrator, you can invite users to your account. You can also track the invitations you send and resend invitations. Invitations are valid for up to 7 days.&#x20;
 
@@ -43,11 +43,11 @@ After clicking **Add**, the Marketplace Platform sends an invitation email to th
 {% hint style="info" %}
 #### **Didn't receive the invitation email?**
 
-We recommend checking your Spam or Junk folder. If you still haven't received the email, ask your administrator to resend the invite. To learn more, see [Resend an invitation](resend-an-invitation.md).&#x20;
+We recommend checking your Spam or Junk folder. If you still haven't received the email, ask your administrator to resend the invite. To learn more, see [Resend an invitation](resend-invitations.md).&#x20;
 
 #### **Received the invitation email but the link has expired?**
 
-Your account administrator will need to generate a new invitation. To learn more, see [Generate a new invitation](generate-a-new-invitation.md).
+Your account administrator will need to generate a new invitation. To learn more, see [Generate a new invitation](generate-new-invitations.md).
 {% endhint %}
 
 ## Related topics
@@ -72,14 +72,14 @@ Your account administrator will need to generate a new invitation. To learn more
 [remove-users.md](remove-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="copy-the-invitation-link.md" %}
-[copy-the-invitation-link.md](copy-the-invitation-link.md)
+{% content-ref url="copy-invitation-link.md" %}
+[copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-an-invitation.md" %}
-[resend-an-invitation.md](resend-an-invitation.md)
+{% content-ref url="resend-invitations.md" %}
+[resend-invitations.md](resend-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-a-new-invitation.md" %}
-[generate-a-new-invitation.md](generate-a-new-invitation.md)
+{% content-ref url="generate-new-invitations.md" %}
+[generate-new-invitations.md](generate-new-invitations.md)
 {% endcontent-ref %}

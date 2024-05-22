@@ -2,7 +2,7 @@
 description: Learn about the fields and actions available on the Licensees page.
 ---
 
-# Licensees interface
+# Licensees Interface
 
 ## Licensees page <a href="#agreements-interface" id="agreements-interface"></a>
 
@@ -34,8 +34,8 @@ The details page of a licensee displays additional information about the license
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Edit a licensee](edit-licensees.md)
-* [Enable or disable a licensee](enable-or-disable-licensees.md)
+* [Edit a licensee](edit-licensee.md)
+* [Enable or disable a licensee](enable-or-disable-licensee.md)
 
 </details>
 
@@ -52,14 +52,14 @@ When you open the details page of a licensee, it shows the licensee's name, mark
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-licensees.md" %}
-[create-licensees.md](create-licensees.md)
+{% content-ref url="create-licensee.md" %}
+[create-licensee.md](create-licensee.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-licensees.md" %}
-[edit-licensees.md](edit-licensees.md)
+{% content-ref url="edit-licensee.md" %}
+[edit-licensee.md](edit-licensee.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-licensees.md" %}
-[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
+{% content-ref url="enable-or-disable-licensee.md" %}
+[enable-or-disable-licensee.md](enable-or-disable-licensee.md)
 {% endcontent-ref %}

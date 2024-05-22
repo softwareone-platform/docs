@@ -2,7 +2,7 @@
 description: Learn about the fields and actions available on the API tokens page.
 ---
 
-# API tokens interface
+# API Tokens Interface
 
 ## API tokens page <a href="#agreements-interface" id="agreements-interface"></a>
 
@@ -33,9 +33,9 @@ The details page of a token displays additional information about the token. You
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Edit an API token](edit-api-tokens.md)
-* [Delete an API token](delete-api-tokens.md)
-* [Enable or disable a token](enable-or-disable-api-tokens.md)
+* [Edit an API token](edit-api-token.md)
+* [Delete an API token](delete-api-token.md)
+* [Enable or disable a token](enable-or-disable-api-token.md)
 
 </details>
 
@@ -53,22 +53,22 @@ When you open the details page, it shows the token's name, marketplace ID, and s
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-api-tokens.md" %}
-[create-api-tokens.md](create-api-tokens.md)
+{% content-ref url="create-api-token.md" %}
+[create-api-token.md](create-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-api-tokens.md" %}
-[edit-api-tokens.md](edit-api-tokens.md)
+{% content-ref url="edit-api-token.md" %}
+[edit-api-token.md](edit-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="copy-api-tokens.md" %}
-[copy-api-tokens.md](copy-api-tokens.md)
+{% content-ref url="copy-api-token.md" %}
+[copy-api-token.md](copy-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-api-tokens.md" %}
-[enable-or-disable-api-tokens.md](enable-or-disable-api-tokens.md)
+{% content-ref url="enable-or-disable-api-token.md" %}
+[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-api-tokens.md" %}
-[delete-api-tokens.md](delete-api-tokens.md)
+{% content-ref url="delete-api-token.md" %}
+[delete-api-token.md](delete-api-token.md)
 {% endcontent-ref %}

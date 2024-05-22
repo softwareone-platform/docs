@@ -1,14 +1,14 @@
-# Tutorials and Videos
+# Tutorials
 
-{% content-ref url="how-to-buy-microsoft-azure-new-agreement.md" %}
-[how-to-buy-microsoft-azure-new-agreement.md](how-to-buy-microsoft-azure-new-agreement.md)
+{% content-ref url="buying-microsoft-azure-new-agreement.md" %}
+[buying-microsoft-azure-new-agreement.md](buying-microsoft-azure-new-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-buy-microsoft-azure-existing-agreement.md" %}
-[how-to-buy-microsoft-azure-existing-agreement.md](how-to-buy-microsoft-azure-existing-agreement.md)
+{% content-ref url="buying-microsoft-azure-existing-agreement.md" %}
+[buying-microsoft-azure-existing-agreement.md](buying-microsoft-azure-existing-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-buy-additional-microsoft-azure-subscriptions.md" %}
-[how-to-buy-additional-microsoft-azure-subscriptions.md](how-to-buy-additional-microsoft-azure-subscriptions.md)
+{% content-ref url="buying-additional-microsoft-azure-subscriptions.md" %}
+[buying-additional-microsoft-azure-subscriptions.md](buying-additional-microsoft-azure-subscriptions.md)
 {% endcontent-ref %}
 

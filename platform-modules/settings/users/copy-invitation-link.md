@@ -2,7 +2,7 @@
 description: Copy the invitation link to your clipboard.
 ---
 
-# Copy the invitation link
+# Copy Invitation Link
 
 To share an invitation link directly with a user, you can copy it in two ways: from the main **Users** page or the user's details page.
 
@@ -33,8 +33,8 @@ The link is copied to your clipboard and a confirmation message is displayed.&#x
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
+{% content-ref url="add-new-user.md" %}
+[add-new-user.md](add-new-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-users.md" %}
@@ -45,10 +45,10 @@ The link is copied to your clipboard and a confirmation message is displayed.&#x
 [remove-users.md](remove-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-an-invitation.md" %}
-[resend-an-invitation.md](resend-an-invitation.md)
+{% content-ref url="resend-invitations.md" %}
+[resend-invitations.md](resend-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-a-new-invitation.md" %}
-[generate-a-new-invitation.md](generate-a-new-invitation.md)
+{% content-ref url="generate-new-invitations.md" %}
+[generate-new-invitations.md](generate-new-invitations.md)
 {% endcontent-ref %}

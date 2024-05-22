@@ -2,7 +2,7 @@
 description: Create new groups and add members to those groups.
 ---
 
-# Create groups
+# Create Group
 
 ## **Creat**e **a new group**
 
@@ -41,10 +41,10 @@ From this section, you can return to the **Groups** page by clicking **Close**, 
 [groups-interface.md](groups-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-a-group.md" %}
-[edit-a-group.md](edit-a-group.md)
+{% content-ref url="edit-group.md" %}
+[edit-group.md](edit-group.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-a-group.md" %}
-[delete-a-group.md](delete-a-group.md)
+{% content-ref url="delete-group.md" %}
+[delete-group.md](delete-group.md)
 {% endcontent-ref %}

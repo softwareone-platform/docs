@@ -2,13 +2,13 @@
 description: Disable an API token temporarily and enable it again when required.
 ---
 
-# Enable or disable API tokens
+# Enable or Disable API Token
 
 ## Before you begin
 
 Before disabling a token, note the following points:
 
-* Disabling does not [delete a token](delete-api-tokens.md) but makes it inactive until it is enabled again. When a token is disabled, any attempts to access the endpoint return an error.&#x20;
+* Disabling does not [delete a token](delete-api-token.md) but makes it inactive until it is enabled again. When a token is disabled, any attempts to access the endpoint return an error.&#x20;
 * The **Enable** option is shown only if you've disabled the token previously.
 
 ## **Enabl**e **or disabl**e **a** token
@@ -36,18 +36,18 @@ A message is displayed stating that the operation is successful. You can view th
 [api-tokens-interface.md](api-tokens-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-api-tokens.md" %}
-[create-api-tokens.md](create-api-tokens.md)
+{% content-ref url="create-api-token.md" %}
+[create-api-token.md](create-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-api-tokens.md" %}
-[edit-api-tokens.md](edit-api-tokens.md)
+{% content-ref url="edit-api-token.md" %}
+[edit-api-token.md](edit-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="copy-api-tokens.md" %}
-[copy-api-tokens.md](copy-api-tokens.md)
+{% content-ref url="copy-api-token.md" %}
+[copy-api-token.md](copy-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-api-tokens.md" %}
-[delete-api-tokens.md](delete-api-tokens.md)
+{% content-ref url="delete-api-token.md" %}
+[delete-api-token.md](delete-api-token.md)
 {% endcontent-ref %}

@@ -2,7 +2,7 @@
 description: Edit a user's group membership.
 ---
 
-# Edit users
+# Edit Users
 
 In certain situations, you might need to update a user's group membership. For example, you may need to remove them from a group and add them to a new group.&#x20;
 
@@ -41,22 +41,22 @@ Follow these steps to update the groups assigned to a user:
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
+{% content-ref url="add-new-user.md" %}
+[add-new-user.md](add-new-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="remove-users.md" %}
 [remove-users.md](remove-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="copy-the-invitation-link.md" %}
-[copy-the-invitation-link.md](copy-the-invitation-link.md)
+{% content-ref url="copy-invitation-link.md" %}
+[copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-an-invitation.md" %}
-[resend-an-invitation.md](resend-an-invitation.md)
+{% content-ref url="resend-invitations.md" %}
+[resend-invitations.md](resend-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-a-new-invitation.md" %}
-[generate-a-new-invitation.md](generate-a-new-invitation.md)
+{% content-ref url="generate-new-invitations.md" %}
+[generate-new-invitations.md](generate-new-invitations.md)
 {% endcontent-ref %}
