@@ -2,7 +2,7 @@
 description: Create an API token to access Marketplace Platform using APIs
 ---
 
-# Create API Tokens
+# Create API Token
 
 ## Create an API token
 
@@ -38,18 +38,18 @@ Follow these steps to create a new API token:
 [api-tokens-interface.md](api-tokens-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-api-tokens.md" %}
-[edit-api-tokens.md](edit-api-tokens.md)
+{% content-ref url="edit-api-token.md" %}
+[edit-api-token.md](edit-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="copy-an-api-token.md" %}
-[copy-an-api-token.md](copy-an-api-token.md)
+{% content-ref url="copy-api-token.md" %}
+[copy-api-token.md](copy-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-api-tokens.md" %}
-[enable-or-disable-api-tokens.md](enable-or-disable-api-tokens.md)
+{% content-ref url="enable-or-disable-tokens.md" %}
+[enable-or-disable-tokens.md](enable-or-disable-tokens.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-an-api-token.md" %}
-[delete-an-api-token.md](delete-an-api-token.md)
+{% content-ref url="delete-api-token.md" %}
+[delete-api-token.md](delete-api-token.md)
 {% endcontent-ref %}
