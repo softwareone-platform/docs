@@ -2,7 +2,7 @@
 description: Adjust the quantity of your subscriptions.
 ---
 
-# Adjust subscription quantity
+# Adjust Subscription Quantity
 
 You can add or remove items from your subscription as long as your subscription and its associated agreement are **Active**.&#x20;
 
@@ -12,7 +12,7 @@ Quantity can be adjusted as needed using the **Edit** option on the subscription
 
 Before adjusting the quantity, note the following points:
 
-* You cannot change the quantity to zero for subscriptions with only one item. In such cases, you must terminate the subscription entirely. For more information, see [Terminate subscriptions](terminate-a-subscription.md).
+* You cannot change the quantity to zero for subscriptions with only one item. In such cases, you must terminate the subscription entirely. For more information, see [Terminate subscriptions](terminate-subscriptions.md).
 * If your subscription includes several items, there must be at least one item where the quantity is greater than zero. You cannot change the quantity of all items to zero.&#x20;
 
 ## Change the quantity of subscription items
@@ -62,6 +62,6 @@ During the change order, both the subscription and the agreement show as **Updat
 [edit-subscription-id.md](edit-subscription-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-a-subscription.md" %}
-[terminate-a-subscription.md](terminate-a-subscription.md)
+{% content-ref url="terminate-subscriptions.md" %}
+[terminate-subscriptions.md](terminate-subscriptions.md)
 {% endcontent-ref %}

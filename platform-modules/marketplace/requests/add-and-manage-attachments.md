@@ -2,7 +2,7 @@
 description: Upload a new file as an attachment or remove the existing file.
 ---
 
-# Add and manage attachments
+# Add and Manage Attachments
 
 If you need to upload supporting documents, you can add those files as attachments to your request. You can also delete attachments associated with your request.
 
@@ -69,8 +69,8 @@ Follow these steps to edit or delete an attachment:
 [add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-your-request-to-processing.md" %}
-[set-your-request-to-processing.md](set-your-request-to-processing.md)
+{% content-ref url="set-the-request-to-processing.md" %}
+[set-the-request-to-processing.md](set-the-request-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="complete-a-request.md" %}

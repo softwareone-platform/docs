@@ -1,4 +1,4 @@
-# Requests interface
+# Requests Interface
 
 ## Requests page&#x20;
 
@@ -31,7 +31,7 @@ The details page of a request provides all the details about your request. You c
 From the details page, you can complete the following tasks:&#x20;
 
 * [Add a message to the conversation](add-a-message.md).
-* [Set your request from Querying to Processing](set-your-request-to-processing.md).
+* [Set your request from Querying to Processing](set-the-request-to-processing.md).
 * [Add and manage your file attachments](add-and-manage-attachments.md).
 * [Complete or close a request](complete-a-request.md).
 
@@ -62,8 +62,8 @@ The request details page is organized into several tabs, each providing specific
 [add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-your-request-to-processing.md" %}
-[set-your-request-to-processing.md](set-your-request-to-processing.md)
+{% content-ref url="set-the-request-to-processing.md" %}
+[set-the-request-to-processing.md](set-the-request-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-and-manage-attachments.md" %}

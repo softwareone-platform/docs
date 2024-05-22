@@ -2,7 +2,7 @@
 description: Edit your agreement's ID.
 ---
 
-# Edit agreement ID
+# Edit Agreement ID
 
 When you create a new agreement, the Marketplace Platform assigns a default reference ID to the agreement. You can change the default ID and assign a new ID.&#x20;
 
@@ -41,12 +41,12 @@ The new ID is updated and displayed on the details page of the agreement.
 [agreements-interface.md](agreements-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-an-agreement.md" %}
-[terminate-an-agreement.md](terminate-an-agreement.md)
+{% content-ref url="terminate-agreement.md" %}
+[terminate-agreement.md](terminate-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-an-agreement.md" %}
-[rename-an-agreement.md](rename-an-agreement.md)
+{% content-ref url="rename-agreements.md" %}
+[rename-agreements.md](rename-agreements.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-items-to-an-agreement.md" %}

@@ -2,7 +2,7 @@
 description: Delete your draft orders.
 ---
 
-# Delete draft orders
+# Delete Draft Orders
 
 If you've saved an order as a draft without submitting it, you have the option to delete it.
 
@@ -48,6 +48,6 @@ Your order is deleted and the order status changes from **Draft** to **Deleted**
 [view-and-download-attachments.md](view-and-download-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-the-order-to-processing.md" %}
-[set-the-order-to-processing.md](set-the-order-to-processing.md)
+{% content-ref url="set-order-to-processing.md" %}
+[set-order-to-processing.md](set-order-to-processing.md)
 {% endcontent-ref %}

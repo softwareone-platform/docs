@@ -27,12 +27,12 @@ From the **Agreements** page, you can:
 [agreements-interface.md](agreements-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-an-agreement.md" %}
-[terminate-an-agreement.md](terminate-an-agreement.md)
+{% content-ref url="terminate-agreement.md" %}
+[terminate-agreement.md](terminate-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-an-agreement.md" %}
-[rename-an-agreement.md](rename-an-agreement.md)
+{% content-ref url="rename-agreements.md" %}
+[rename-agreements.md](rename-agreements.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-agreement-id.md" %}

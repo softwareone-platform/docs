@@ -2,7 +2,7 @@
 description: View and update the notes associated with your order.
 ---
 
-# Manage order notes
+# Manage Order Notes
 
 If you added any notes or comments to your order while making the purchase, you can view and update the notes after your order is placed.&#x20;
 
@@ -39,8 +39,8 @@ Follow these steps to update the order notes:
 [view-and-download-attachments.md](view-and-download-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-the-order-to-processing.md" %}
-[set-the-order-to-processing.md](set-the-order-to-processing.md)
+{% content-ref url="set-order-to-processing.md" %}
+[set-order-to-processing.md](set-order-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="delete-draft-orders.md" %}

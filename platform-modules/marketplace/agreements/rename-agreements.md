@@ -2,7 +2,7 @@
 description: Rename an existing agreement.
 ---
 
-# Rename an agreement
+# Rename Agreements
 
 You can make certain changes to your agreement after it's created. This might include renaming the agreement and [editing the agreement ID](edit-agreement-id.md).
 
@@ -39,8 +39,8 @@ The changes are applied and displayed across all pages featuring the agreement.
 [agreements-interface.md](agreements-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-an-agreement.md" %}
-[terminate-an-agreement.md](terminate-an-agreement.md)
+{% content-ref url="terminate-agreement.md" %}
+[terminate-agreement.md](terminate-agreement.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-agreement-id.md" %}
@@ -50,4 +50,3 @@ The changes are applied and displayed across all pages featuring the agreement.
 {% content-ref url="add-items-to-an-agreement.md" %}
 [add-items-to-an-agreement.md](add-items-to-an-agreement.md)
 {% endcontent-ref %}
-

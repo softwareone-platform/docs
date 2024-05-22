@@ -2,7 +2,7 @@
 description: Complete your request after it has been answered.
 ---
 
-# Complete a request
+# Complete a Request
 
 You can complete or close your request after it has been attended to, by either the vendor or SoftwareOne.&#x20;
 
@@ -46,8 +46,8 @@ If you added any comments while marking the request as complete, your comments a
 [add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-your-request-to-processing.md" %}
-[set-your-request-to-processing.md](set-your-request-to-processing.md)
+{% content-ref url="set-the-request-to-processing.md" %}
+[set-the-request-to-processing.md](set-the-request-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-and-manage-attachments.md" %}

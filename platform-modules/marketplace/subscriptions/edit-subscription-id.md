@@ -1,4 +1,4 @@
-# Edit subscription ID
+# Edit Subscription ID
 
 When a subscription is created, it is assigned a default ID. You can change the default ID as needed.
 
@@ -43,6 +43,6 @@ The ID is updated and the new value is reflected on all pages that display the s
 [adjust-subscription-quantity.md](adjust-subscription-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-a-subscription.md" %}
-[terminate-a-subscription.md](terminate-a-subscription.md)
+{% content-ref url="terminate-subscriptions.md" %}
+[terminate-subscriptions.md](terminate-subscriptions.md)
 {% endcontent-ref %}

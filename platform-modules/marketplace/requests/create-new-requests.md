@@ -2,7 +2,7 @@
 description: Create a request to contact a vendor through the SoftwareOne Marketplace.
 ---
 
-# Create new requests
+# Create New Requests
 
 If you require personalized assistance or have queries regarding a product, you can contact the vendor directly through the SoftwareOne Marketplace.
 
@@ -43,8 +43,8 @@ Your request is submitted and assigned a **Processing** status. Click **Close** 
 [add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-your-request-to-processing.md" %}
-[set-your-request-to-processing.md](set-your-request-to-processing.md)
+{% content-ref url="set-the-request-to-processing.md" %}
+[set-the-request-to-processing.md](set-the-request-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-and-manage-attachments.md" %}

@@ -4,7 +4,7 @@ description: >-
   agreement.
 ---
 
-# Buy products and services
+# Buy Products and Services
 
 ## Before you begin <a href="#before-you-begin" id="before-you-begin"></a>
 
@@ -43,6 +43,6 @@ You can either close the purchase wizard or click **View order** to see your ord
 [products-interface.md](products-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="save-orders-as-draft-orders.md" %}
-[save-orders-as-draft-orders.md](save-orders-as-draft-orders.md)
+{% content-ref url="save-order-as-a-draft.md" %}
+[save-order-as-a-draft.md](save-order-as-a-draft.md)
 {% endcontent-ref %}

@@ -1,4 +1,4 @@
-# Products interface
+# Products Interface
 
 ## Products page
 
@@ -29,8 +29,8 @@ All products contain an **Overview** section, which displays a detailed product 
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="save-orders-as-draft-orders.md" %}
-[save-orders-as-draft-orders.md](save-orders-as-draft-orders.md)
+{% content-ref url="save-order-as-a-draft.md" %}
+[save-order-as-a-draft.md](save-order-as-a-draft.md)
 {% endcontent-ref %}
 
 {% content-ref url="buy-products-and-services.md" %}

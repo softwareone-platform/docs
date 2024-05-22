@@ -2,7 +2,7 @@
 description: View and download your files.
 ---
 
-# View and download attachments
+# View and Download Attachments
 
 The **Attachments** tab of your order displays all attachments associated with your agreement as well as your order. Attachments can include files in PDF format as well as your license keys.
 
@@ -36,8 +36,8 @@ License keys can only be viewed, not downloaded.
 [manage-order-notes.md](manage-order-notes.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-the-order-to-processing.md" %}
-[set-the-order-to-processing.md](set-the-order-to-processing.md)
+{% content-ref url="set-order-to-processing.md" %}
+[set-order-to-processing.md](set-order-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="delete-draft-orders.md" %}
