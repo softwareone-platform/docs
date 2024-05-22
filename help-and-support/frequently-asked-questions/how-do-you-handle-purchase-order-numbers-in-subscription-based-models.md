@@ -57,7 +57,7 @@ Unlike traditional POs, which are specific to single transactions, an Open PO is
 
 When setting up an agreement, you can issue an Open PO that covers the expected expense of the agreement for a defined term, such as one year. This PO should account for all foreseeable charges, including potential add-ons or tier changes.
 
-## **Conclusion** <a href="#conclusion" id="conclusion"></a>
+## Conclusion <a href="#conclusion" id="conclusion"></a>
 
 The shift to subscription-based models represents a transformation in how software and services are managed, moving from transaction-specific billing to a more streamlined, subscription-oriented approach.&#x20;
 
