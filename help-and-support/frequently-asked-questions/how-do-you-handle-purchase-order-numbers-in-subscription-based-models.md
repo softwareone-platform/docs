@@ -43,7 +43,7 @@ The following is an example of the invoice header with **External Agreement ID**
 
 ### Updating or changing PO numbers
 
-If a PO number needs updating or changing during the subscription term, you can modify the **Agreement External ID**, which will then be reflected on the invoice.
+If a PO number needs updating or changing during the subscription term, you can modify the **Agreement External ID**, which will then be reflected on the next invoice.
 
 {% hint style="info" %}
 This option is available for Adobe VIP Marketplace products only.
