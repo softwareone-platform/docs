@@ -420,8 +420,12 @@
 
 ## Help and Support
 
-* [Platform Terminology](help-and-support/platform-terminology.md)
 * [Contact Support](help-and-support/getting-support.md)
+* [Status Page](help-and-support/status-page.md)
+* [Release Notes](help-and-support/release-notes/README.md)
+  * [Release Notes v1](help-and-support/release-notes/release-notes-v1.md)
+  * [Release Notes v2](help-and-support/release-notes/release-notes-v2.md)
+* [Planned Maintenance](help-and-support/planned-maintenance.md)
 * [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
   * [How do you handle purchase order numbers in subscription-based models?](help-and-support/frequently-asked-questions/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
   * [What browsers do you support?](help-and-support/frequently-asked-questions/what-browsers-do-you-support.md)
@@ -440,8 +444,5 @@
   * [How to create service accounts for 365 Analytics reporting](help-and-support/frequently-asked-questions/how-to-create-service-accounts-for-365-analytics-reporting.md)
   * [What data do you collect for 365 Analytics?](help-and-support/frequently-asked-questions/what-data-do-you-collect-for-365-analytics.md)
   * [What is 365 Analytics delegation and policy control?](help-and-support/frequently-asked-questions/what-is-365-analytics-delegation-and-policy-control.md)
-* [Release Notes](help-and-support/release-notes/README.md)
-  * [Release Notes v1](help-and-support/release-notes/release-notes-v1.md)
-  * [Release Notes v2](help-and-support/release-notes/release-notes-v2.md)
-* [Planned Maintenance](help-and-support/planned-maintenance.md)
+* [Platform Terminology](help-and-support/platform-terminology.md)
 * [Terms of Use](help-and-support/terms-of-use.md)
