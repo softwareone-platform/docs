@@ -4,7 +4,7 @@ Subscription-based models are designed to streamline licensing and renewal proce
 
 ## Subscription-based billing
 
-Unlike transactional purchases that occur individually, subscription-based models operate on a recurring basis. You commit to a term that provides continuous access to services or software without the need to manage individual licenses manually.
+Unlike transactional purchases that occur individually, subscription-based models operate regularly. You commit to a term that provides continuous access to services or software without the need to manage individual licenses manually.
 
 ## Consolidated invoicing
 
@@ -12,18 +12,18 @@ Invoices in a subscription-based model are consolidated, typically on a monthly 
 
 It means multiple purchases or renewals are grouped into single invoices, reducing the number of individual transactions.
 
-## Purchase orders in the subscription model <a href="#handling-purchase-orders-in-the-subscription-model" id="handling-purchase-orders-in-the-subscription-model"></a>
+## Purchase orders in a subscription model <a href="#handling-purchase-orders-in-the-subscription-model" id="handling-purchase-orders-in-the-subscription-model"></a>
 
-One of the significant changes in subscription-based models involves the handling of Purchase Order numbers:
+One of the significant changes in subscription-based models involves the handling of Purchase Order (PO) numbers:
 
-* **Non-Direct Linkage of PO Numbers** - In traditional models, each PO number is directly linked to a specific invoice or order. However, in subscription-based models, PO numbers are not directly tied to individual invoices or subscriptions due to the consolidated nature of billing.
-* **Use of PO Numbers** - Although PO numbers are not linked to specific invoices, they are still crucial for internal tracking, budgeting, and financial reconciliation. PO numbers can be referenced in the consolidated invoice to maintain a connection to internal purchase processes.
+* **Non-direct linkage of PO numbers** - In traditional models, each PO number is directly linked to a specific invoice or order. However, in subscription-based models, PO numbers are not directly tied to individual invoices or subscriptions due to the consolidated nature of billing.
+* **Use of PO numbers** - Although PO numbers are not linked to specific invoices, they are still crucial for internal tracking, budgeting, and financial reconciliation. PO numbers can be referenced in the consolidated invoice to maintain a connection to internal purchase processes.
 
-## Client guidance on PO numbers and invoices <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
+## Guidance on PO numbers and invoices <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
 
 Here’s how you can manage PO numbers and display them on invoices under subscription-based models:
 
-### Providing PO Numbers
+### Providing PO numbers
 
 When setting up your order, ensure that you provide your open PO number if your organization's purchasing process requires it.&#x20;
 
@@ -33,19 +33,29 @@ You can find the example of the **Additional ID** field, which is displayed on t
 
 <figure><img src="../../.gitbook/assets/image (452).png" alt=""><figcaption><p>Additional ID field</p></figcaption></figure>
 
-### Display on Invoices
+### Displaying PO numbers on invoices
 
 While PO numbers will not be tied to specific transactions within the invoice, they can still be displayed on each invoice as a reference point. This helps maintain traceability for financial auditing and internal tracking.&#x20;
 
-The following is an example of the invoice header with the **External Agreement ID**.
+The following is an example of the invoice header with **External Agreement ID**.
 
-<figure><img src="../../.gitbook/assets/image (453).png" alt=""><figcaption><p>The header of the invoice (example)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (453).png" alt=""><figcaption><p>The header of an invoice (example)</p></figcaption></figure>
 
+### Updating or changing PO numbers
 
+If a PO number needs updating or changing during the subscription term, you can modify the **Agreement External ID**, which will then be reflected on the invoice.
 
-### Updates and Changes
+{% hint style="info" %}
+This option is available for Adobe VIP Marketplace products only.
+{% endhint %}
 
-If the PO number needs to be updated or changed during the subscription term, you can modify the **Agreement External ID**, which will be reflected on the invoice.
+## Understanding open POs
+
+An Open PO refers to a purchase order that remains active over a certain period and covers multiple transactions or billing cycles.&#x20;
+
+Unlike traditional POs, which are specific to single transactions, an Open PO is designed to accommodate ongoing purchases or subscriptions under a single order number. This approach is useful in environments where regular, repeated purchases are common, such as in subscription-based billing systems.&#x20;
+
+When setting up an agreement, you can issue an Open PO that covers the expected expense of the agreement for a defined term, such as one year. This PO should account for all foreseeable charges, including potential add-ons or tier changes.
 
 ## **Conclusion** <a href="#conclusion" id="conclusion"></a>
 
