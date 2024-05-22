@@ -33,8 +33,8 @@ From the **Groups** page, you can:&#x20;
 [groups-interface.md](groups-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-group.md" %}
-[create-group.md](create-group.md)
+{% content-ref url="create-new-group.md" %}
+[create-new-group.md](create-new-group.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-group.md" %}

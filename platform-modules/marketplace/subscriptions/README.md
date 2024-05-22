@@ -4,7 +4,7 @@
 
 The Subscriptions module in the Marketplace Platform is a single reference point for your subscriptions, allowing you to view and manage all of your purchased subscriptions.&#x20;
 
-A subscription refers to the ongoing provision of service under the terms and conditions detailed in your agreement. Subscriptions allow you to use a resource based on the number of licenses you order. In the Marketplace Platform, subscriptions are renewed automatically by default, unless you [cancel them](terminate-subscriptions.md).&#x20;
+A subscription refers to the ongoing provision of service under the terms and conditions detailed in your agreement. Subscriptions allow you to use a resource based on the number of licenses you order. In the Marketplace Platform, subscriptions are renewed automatically by default, unless you [cancel them](terminate-a-subscription.md).&#x20;
 
 ## How to access the Subscriptions page
 
@@ -24,8 +24,8 @@ From the **Subscriptions** page, you can:&#x20;
 [subscriptions-interface.md](subscriptions-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-subscriptions.md" %}
-[rename-subscriptions.md](rename-subscriptions.md)
+{% content-ref url="rename-a-subscription.md" %}
+[rename-a-subscription.md](rename-a-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="adjust-subscription-quantity.md" %}
@@ -36,6 +36,6 @@ From the **Subscriptions** page, you can:&#x20;
 [edit-subscription-id.md](edit-subscription-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-subscriptions.md" %}
-[terminate-subscriptions.md](terminate-subscriptions.md)
+{% content-ref url="terminate-a-subscription.md" %}
+[terminate-a-subscription.md](terminate-a-subscription.md)
 {% endcontent-ref %}

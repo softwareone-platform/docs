@@ -46,8 +46,8 @@ The details page is organized into the following tabs:
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-group.md" %}
-[create-group.md](create-group.md)
+{% content-ref url="create-new-group.md" %}
+[create-new-group.md](create-new-group.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-group.md" %}

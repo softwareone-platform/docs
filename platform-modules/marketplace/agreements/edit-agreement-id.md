@@ -41,12 +41,12 @@ The new ID is updated and displayed on the details page of the agreement.
 [agreements-interface.md](agreements-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-agreement.md" %}
-[terminate-agreement.md](terminate-agreement.md)
+{% content-ref url="terminate-an-agreement.md" %}
+[terminate-an-agreement.md](terminate-an-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-agreements.md" %}
-[rename-agreements.md](rename-agreements.md)
+{% content-ref url="rename-an-agreement.md" %}
+[rename-an-agreement.md](rename-an-agreement.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-items-to-an-agreement.md" %}

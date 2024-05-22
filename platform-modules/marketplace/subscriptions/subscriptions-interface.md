@@ -32,10 +32,10 @@ The details page of a subscription gives you in-depth information about your sub
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Rename your subscription](rename-subscriptions.md)
+* [Rename your subscription](rename-a-subscription.md)
 * [Adjust the quantity of your subscriptions](adjust-subscription-quantity.md).
 * [Edit the subscription ID](edit-subscription-id.md).
-* [Terminate a single or multiple subscriptions](terminate-subscriptions.md).
+* [Terminate a single or multiple subscriptions](terminate-a-subscription.md).
 
 </details>
 
@@ -57,8 +57,8 @@ The following tabs are available:&#x20;
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="rename-subscriptions.md" %}
-[rename-subscriptions.md](rename-subscriptions.md)
+{% content-ref url="rename-a-subscription.md" %}
+[rename-a-subscription.md](rename-a-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="adjust-subscription-quantity.md" %}
@@ -69,6 +69,6 @@ The following tabs are available:&#x20;
 [edit-subscription-id.md](edit-subscription-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-subscriptions.md" %}
-[terminate-subscriptions.md](terminate-subscriptions.md)
+{% content-ref url="terminate-a-subscription.md" %}
+[terminate-a-subscription.md](terminate-a-subscription.md)
 {% endcontent-ref %}

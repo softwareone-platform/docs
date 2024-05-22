@@ -32,8 +32,8 @@ The details page of an agreement provides all information related to the agreeme
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Terminate your agreement](terminate-agreement.md).
-* [Rename your agreement](rename-agreements.md).
+* [Terminate your agreement](terminate-an-agreement.md).
+* [Rename your agreement](rename-an-agreement.md).
 * [Edit your agreement's ID](edit-agreement-id.md).
 
 </details>
@@ -58,12 +58,12 @@ When you open the details page of an agreement, it shows the agreement's name, m
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-agreement.md" %}
-[terminate-agreement.md](terminate-agreement.md)
+{% content-ref url="terminate-an-agreement.md" %}
+[terminate-an-agreement.md](terminate-an-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-agreements.md" %}
-[rename-agreements.md](rename-agreements.md)
+{% content-ref url="rename-an-agreement.md" %}
+[rename-an-agreement.md](rename-an-agreement.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-agreement-id.md" %}

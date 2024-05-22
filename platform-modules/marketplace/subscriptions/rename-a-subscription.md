@@ -2,7 +2,7 @@
 description: Rename an active subscription.
 ---
 
-# Rename Subscriptions
+# Rename a Subscription
 
 In some cases, you might need to rename your subscription so you can find it easily in your list of subscriptions.&#x20;
 
@@ -44,6 +44,6 @@ Your subscription is renamed and the new name is visible across all pages that f
 [edit-subscription-id.md](edit-subscription-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-subscriptions.md" %}
-[terminate-subscriptions.md](terminate-subscriptions.md)
+{% content-ref url="terminate-a-subscription.md" %}
+[terminate-a-subscription.md](terminate-a-subscription.md)
 {% endcontent-ref %}

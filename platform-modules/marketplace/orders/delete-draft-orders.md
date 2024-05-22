@@ -48,6 +48,6 @@ Your order is deleted and the order status changes from **Draft** to **Deleted**
 [view-and-download-attachments.md](view-and-download-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-order-to-processing.md" %}
-[set-order-to-processing.md](set-order-to-processing.md)
+{% content-ref url="set-an-order-to-processing.md" %}
+[set-an-order-to-processing.md](set-an-order-to-processing.md)
 {% endcontent-ref %}

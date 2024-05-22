@@ -41,8 +41,8 @@ Follow these steps to edit a group:
 [groups-interface.md](groups-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-group.md" %}
-[create-group.md](create-group.md)
+{% content-ref url="create-new-group.md" %}
+[create-new-group.md](create-new-group.md)
 {% endcontent-ref %}
 
 {% content-ref url="delete-group.md" %}
