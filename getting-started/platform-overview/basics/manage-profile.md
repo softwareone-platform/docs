@@ -2,7 +2,7 @@
 description: View and edit your profile settings.
 ---
 
-# Manage profile
+# Manage Profile
 
 ## Access your profile <a href="#access-your-profile" id="access-your-profile"></a>
 
@@ -23,11 +23,9 @@ The following tabs are available on this page:
 
 Use the **Edit** option on your profile page to do the following:
 
-* Choose a profile picture.
 * Change your name and contact information.
-* Update your regional settings, such as date and time format.
 * Change the language of your account.
-* Manage your communication preferences.
+* Update your regional settings, such as date and time format.
 
 {% hint style="info" %}
 Click to see the supported languages.
@@ -62,19 +60,9 @@ Click to see the supported languages.
 Follow these steps to update your profile settings:
 
 1. On the profile details page, click **Edit**. The **Edit profile** page opens.
-
-<figure><img src="../../../.gitbook/assets/image (309).png" alt=""><figcaption><p>Edit profile and General section</p></figcaption></figure>
-
-2. In the **General** section, make the required changes. If you are adding or updating your profile picture, you can uploading a photo from your computer or drag it within the selection area.&#x20;
-3. In the **Preferences** section, change your regional settings as necessary.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (310).png" alt=""><figcaption><p>Preferences section</p></figcaption></figure>
-
-4. In the **Communications** section, choose whether you want to receive notifications and product announcements.
-
-<figure><img src="../../../.gitbook/assets/image (311).png" alt=""><figcaption><p>Communications section</p></figcaption></figure>
-
-5. Click **Save**. A message is displayed stating your profile has been updated successfully.
+2. In the **General** section, make the required changes. You can update your **first name**, **last name**, **country code**, and **phone number**.&#x20;
+3. In the **Preferences** section, change your account language and regional settings as necessary.&#x20;
+4. Click **Save**. A message is displayed stating your profile has been updated successfully.
 
 ## Related topics
 
