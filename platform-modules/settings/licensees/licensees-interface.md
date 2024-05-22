@@ -34,8 +34,8 @@ The details page of a licensee displays additional information about the license
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Edit a licensee](edit-licensee.md)
-* [Enable or disable a licensee](enable-or-disable-licensee.md)
+* [Edit a licensee](edit-licensees.md)
+* [Enable or disable a licensee](enable-or-disable-licensees.md)
 
 </details>
 
@@ -52,14 +52,14 @@ When you open the details page of a licensee, it shows the licensee's name, mark
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-licensee.md" %}
-[create-licensee.md](create-licensee.md)
+{% content-ref url="create-licensees.md" %}
+[create-licensees.md](create-licensees.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-licensee.md" %}
-[edit-licensee.md](edit-licensee.md)
+{% content-ref url="edit-licensees.md" %}
+[edit-licensees.md](edit-licensees.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-licensee.md" %}
-[enable-or-disable-licensee.md](enable-or-disable-licensee.md)
+{% content-ref url="enable-or-disable-licensees.md" %}
+[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
 {% endcontent-ref %}

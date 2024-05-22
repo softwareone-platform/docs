@@ -19,7 +19,7 @@ On this page, you can view the following buyer information:&#x20;
 * **Seller** -  Displays the name of the SoftwareOne legal entity that the buyer can procure from.&#x20;
 * **Licensee** - Displays the associated licensee.
 * **Status** - Displays the buyer's status in the system. Possible values include **Active**, **Enabled**, or **Disabled**.
-* **Actions** - Displays options that allow you to [edit a buyer](edit-buyer.md) or [enable or disable a buyer](enable-or-disable-buyers.md) if you have access to the Account Management module.
+* **Actions** - Displays options that allow you to [edit a buyer](edit-buyers.md) or [enable or disable a buyer](enable-or-disable-buyers.md) if you have access to the Account Management module.
 
 ## Buyer details page
 
@@ -31,7 +31,7 @@ The details page of a buyer provides all information related to the buyer. You c
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Edit a buyer](edit-buyer.md)
+* [Edit a buyer](edit-buyers.md)
 * [Enable or disable a buyer](enable-or-disable-buyers.md)
 
 </details>
@@ -53,8 +53,8 @@ The page also contains the following tabs that display corresponding information
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="edit-buyer.md" %}
-[edit-buyer.md](edit-buyer.md)
+{% content-ref url="edit-buyers.md" %}
+[edit-buyers.md](edit-buyers.md)
 {% endcontent-ref %}
 
 {% content-ref url="enable-or-disable-buyers.md" %}

@@ -28,8 +28,8 @@ From the **Buyers** page, you can:
 [buyers-interface.md](buyers-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-buyer.md" %}
-[edit-buyer.md](edit-buyer.md)
+{% content-ref url="edit-buyers.md" %}
+[edit-buyers.md](edit-buyers.md)
 {% endcontent-ref %}
 
 {% content-ref url="enable-or-disable-buyers.md" %}

@@ -40,8 +40,8 @@ When you invite the individual again, the expiration time for their invitation i
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-user.md" %}
-[add-new-user.md](add-new-user.md)
+{% content-ref url="add-new-users.md" %}
+[add-new-users.md](add-new-users.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-users.md" %}

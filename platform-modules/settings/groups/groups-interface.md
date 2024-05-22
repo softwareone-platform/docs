@@ -26,8 +26,8 @@ The details page of a group displays specific information about the group. You c
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Edit a group](edit-group.md)
-* [Delete a group](delete-group.md)
+* [Edit a group](edit-groups.md)
+* [Delete a group](delete-groups.md)
 
 </details>
 
@@ -46,14 +46,14 @@ The details page is organized into the following tabs:
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-new-group.md" %}
-[create-new-group.md](create-new-group.md)
+{% content-ref url="create-new-groups.md" %}
+[create-new-groups.md](create-new-groups.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-group.md" %}
-[edit-group.md](edit-group.md)
+{% content-ref url="edit-groups.md" %}
+[edit-groups.md](edit-groups.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-group.md" %}
-[delete-group.md](delete-group.md)
+{% content-ref url="delete-groups.md" %}
+[delete-groups.md](delete-groups.md)
 {% endcontent-ref %}

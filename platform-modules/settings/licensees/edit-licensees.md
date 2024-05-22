@@ -2,7 +2,7 @@
 description: Update licensees in the account.
 ---
 
-# Edit Licensee
+# Edit Licensees
 
 ## **Before you begin**
 
@@ -11,9 +11,9 @@ Before updating licensee details, note the following points:
 * You can only modify the licensee's general information, such as their name, external reference number, description, contact person, and address.&#x20;
 * You cannot update the buyer or seller entities associated with the licensee.
 
-## **Update licensee**
+## Editing **licensee details**
 
-Follow these steps to edit the licensee details:
+Follow these steps to edit the details of a licensee:
 
 1. Navigate to the **Licensees** page (**Settings** > **Licensees**).&#x20;
 2. Click the actions icon (**•••**) for the required licensee and select **Edit**. Alternatively, click the name of the licensee. When the details page of your selected licensee opens, click **Edit**.&#x20;
@@ -35,10 +35,10 @@ Follow these steps to edit the licensee details:
 [licensees-interface.md](licensees-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-licensee.md" %}
-[create-licensee.md](create-licensee.md)
+{% content-ref url="create-licensees.md" %}
+[create-licensees.md](create-licensees.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-licensee.md" %}
-[enable-or-disable-licensee.md](enable-or-disable-licensee.md)
+{% content-ref url="enable-or-disable-licensees.md" %}
+[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
 {% endcontent-ref %}

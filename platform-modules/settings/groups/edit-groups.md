@@ -2,7 +2,7 @@
 description: Update the details of an existing group.
 ---
 
-# Edit Group
+# Edit Groups
 
 ## **Before you begin**
 
@@ -41,10 +41,10 @@ Follow these steps to edit a group:
 [groups-interface.md](groups-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-new-group.md" %}
-[create-new-group.md](create-new-group.md)
+{% content-ref url="create-new-groups.md" %}
+[create-new-groups.md](create-new-groups.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-group.md" %}
-[delete-group.md](delete-group.md)
+{% content-ref url="delete-groups.md" %}
+[delete-groups.md](delete-groups.md)
 {% endcontent-ref %}

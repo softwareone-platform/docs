@@ -33,14 +33,14 @@ From the **Groups** page, you can:&#x20;
 [groups-interface.md](groups-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-new-group.md" %}
-[create-new-group.md](create-new-group.md)
+{% content-ref url="create-new-groups.md" %}
+[create-new-groups.md](create-new-groups.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-group.md" %}
-[edit-group.md](edit-group.md)
+{% content-ref url="edit-groups.md" %}
+[edit-groups.md](edit-groups.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-group.md" %}
-[delete-group.md](delete-group.md)
+{% content-ref url="delete-groups.md" %}
+[delete-groups.md](delete-groups.md)
 {% endcontent-ref %}

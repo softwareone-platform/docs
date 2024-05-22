@@ -46,8 +46,8 @@ We recommend checking your Spam or Junk folder. If you still haven't received th
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-user.md" %}
-[add-new-user.md](add-new-user.md)
+{% content-ref url="add-new-users.md" %}
+[add-new-users.md](add-new-users.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-users.md" %}
