@@ -178,6 +178,7 @@
   * [Unified support for multi-vendor](extensions/itam-tools/unified-support-for-multi-vendor.md)
 * [Microsoft CSP](extensions/microsoft-cloud-solution-provider/README.md)
   * [Digital Workplace Essentials Services Contract](extensions/microsoft-csp/digital-workplace-essentials-services-contract.md)
+  * [Cloud Managed Services for Azure Services Contract](extensions/microsoft-csp/cloud-managed-services-for-azure-services-contract.md)
   * [Release notes](extensions/microsoft-cloud-solution-provider/release-notes.md)
 
 ## Developer Resources
