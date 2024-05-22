@@ -13,7 +13,7 @@
     * [Manage Favorites](getting-started/platform-overview/basics/manage-favorites.md)
     * [View Notifications](getting-started/platform-overview/basics/view-notifications.md)
 * [Tutorials](getting-started/tutorials/README.md)
-  * [Buying Microsoft Azure (new agreement)](getting-started/tutorials/buying-microsoft-azure-new-agreement.md)
+  * [Buying Microsoft Azure (New Agreement)](getting-started/tutorials/buying-microsoft-azure-new-agreement.md)
   * [Buying Microsoft Azure (Existing Agreement)](getting-started/tutorials/buying-microsoft-azure-existing-agreement.md)
   * [Buying Additional Microsoft Azure Subscriptions](getting-started/tutorials/buying-additional-microsoft-azure-subscriptions.md)
 
