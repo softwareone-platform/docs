@@ -84,7 +84,7 @@ Advanced Tier Charge = \[All Essentials Tier charges set out in Section 6.1 in t
 
 For the avoidance of doubt, where the Advanced Tier Charge in the specific month for all Cloud Accounts allocated to the Advanced Tier is less than the Minimum Advanced Charge, the Advanced Tier Charge = \[All Essentials Tier charges set out in Section 6.1 in the specific month for all Cloud Accounts in Advanced Tier] + Minimum Advanced Charge.
 
-<table><thead><tr><th width="502">Monthly Charge</th><th>Service Tier Advanced</th></tr></thead><tbody><tr><td>Estimated Usage</td><td>$10,000</td></tr><tr><td>Service Charge Percentage*</td><td>27%</td></tr><tr><td>Advanced Backup Service Charge Percentage</td><td>5%</td></tr><tr><td>Minimum Advanced Charge</td><td>$4,000</td></tr></tbody></table>
+<table><thead><tr><th width="502">Monthly Charge</th><th>Service Tier Advanced</th></tr></thead><tbody><tr><td>Estimated Usage</td><td>$10,000</td></tr><tr><td>Service Charge Percentage*</td><td>22%</td></tr><tr><td>Advanced Backup Service Charge Percentage</td><td>5%</td></tr><tr><td>Minimum Advanced Charge</td><td>$4,000</td></tr></tbody></table>
 
 ### 6.3   Onboarding Charges
 
