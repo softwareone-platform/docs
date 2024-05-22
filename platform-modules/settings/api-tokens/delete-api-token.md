@@ -48,6 +48,6 @@ A message is displayed stating that the API token has been deleted successfully.
 [copy-api-token.md](copy-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-tokens.md" %}
-[enable-or-disable-tokens.md](enable-or-disable-tokens.md)
+{% content-ref url="enable-or-disable-api-token.md" %}
+[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
 {% endcontent-ref %}

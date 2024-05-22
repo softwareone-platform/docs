@@ -30,8 +30,8 @@ Follow these steps to edit an API token:
 [copy-api-token.md](copy-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-tokens.md" %}
-[enable-or-disable-tokens.md](enable-or-disable-tokens.md)
+{% content-ref url="enable-or-disable-api-token.md" %}
+[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
 {% endcontent-ref %}
 
 {% content-ref url="delete-api-token.md" %}

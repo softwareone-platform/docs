@@ -36,8 +36,8 @@ Follow these steps to copy your token values:
 [edit-api-token.md](edit-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-tokens.md" %}
-[enable-or-disable-tokens.md](enable-or-disable-tokens.md)
+{% content-ref url="enable-or-disable-api-token.md" %}
+[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
 {% endcontent-ref %}
 
 {% content-ref url="delete-api-token.md" %}

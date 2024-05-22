@@ -35,7 +35,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 * [Edit an API token](edit-api-token.md)
 * [Delete an API token](delete-api-token.md)
-* [Enable or disable a token](enable-or-disable-tokens.md)
+* [Enable or disable a token](enable-or-disable-api-token.md)
 
 </details>
 
@@ -65,8 +65,8 @@ When you open the details page, it shows the token's name, marketplace ID, and s
 [copy-api-token.md](copy-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-tokens.md" %}
-[enable-or-disable-tokens.md](enable-or-disable-tokens.md)
+{% content-ref url="enable-or-disable-api-token.md" %}
+[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
 {% endcontent-ref %}
 
 {% content-ref url="delete-api-token.md" %}
