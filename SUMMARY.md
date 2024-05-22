@@ -93,7 +93,7 @@
   * [Account](platform-modules/settings/account/README.md)
     * [Account Interface](platform-modules/settings/account/account-interface.md)
     * [Update Account Information](platform-modules/settings/account/update-account-information.md)
-  * [API tokens](platform-modules/settings/api-tokens/README.md)
+  * [API Tokens](platform-modules/settings/api-tokens/README.md)
     * [API Tokens Interface](platform-modules/settings/api-tokens/api-tokens-interface.md)
     * [Create API Tokens](platform-modules/settings/api-tokens/create-api-tokens.md)
     * [Edit API Tokens](platform-modules/settings/api-tokens/edit-api-tokens.md)
