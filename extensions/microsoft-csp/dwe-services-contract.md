@@ -1,4 +1,6 @@
-# Digital Workplace Essentials Services Contract
+# DWE Services Contract
+
+## Digital Workplace Essentials Services Contract
 
 ## 1. Service Contract
 

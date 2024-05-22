@@ -1,4 +1,6 @@
-# Cloud Managed Services for Azure Services Contract
+# Azure Services Contract
+
+## Cloud Managed Services for Azure Services Contract
 
 ## 1. Services Contract
 
