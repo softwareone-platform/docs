@@ -9,7 +9,7 @@ To complete your draft purchase order, follow these steps:
 1. Do one of the following:
    * Click the link you received in the email from SoftwareOne. If you are signed in to your account, you'll be redirected to the details page of your draft order.&#x20;
    * Navigate to the [Orders](../../platform-modules/marketplace/orders/) page (**Marketplace** > **Orders**) and click the Adobe order in the **Draft** state. The details page of the draft order opens.&#x20;
-2. Select the **Items** tab and click **Edit**.&#x20;
+2. Select the **Items** tab and click **Edit** in the upper-right section of the page.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (458).png" alt=""><figcaption><p>Items tab of your draft order</p></figcaption></figure>
 
