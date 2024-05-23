@@ -25,7 +25,7 @@ Unless configured, the Conditional Access policies (CAP) don't block authenticat
 
 Historically, it has been challenging to configure exceptions for the user accounts in partner (SoftwareOne's) Microsoft tenants because they don't exist in the customer's Microsoft tenant.
 
-Recently, Microsoft has added functionality to CAP to allow narrow (least privilege) exceptions to be configured for partner Microsoft tenants. For information, see [How to Configure Conditional Access Policies](how-do-you-configure-conditional-access-policies.md) and [Conditional Access for External Users (Microsoft documentation)](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/authentication-conditional-access#conditional-access-for-external-users).
+Recently, Microsoft has added functionality to CAP to allow narrow (least privilege) exceptions to be configured for partner Microsoft tenants. For information, see [How to Configure Conditional Access Policies](how-do-i-configure-conditional-access-policies.md) and [Conditional Access for External Users (Microsoft documentation)](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/authentication-conditional-access#conditional-access-for-external-users).
 
 ## Imported data fields
 

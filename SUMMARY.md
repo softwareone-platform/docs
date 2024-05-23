@@ -433,7 +433,7 @@
   * [I'm unable to view the Reserved Instance data](help-and-support/frequently-asked-questions/im-unable-to-view-the-reserved-instance-data.md)
   * [How do I set up SSO?](help-and-support/frequently-asked-questions/how-do-i-set-up-sso.md)
   * [How do I set up MFA?](help-and-support/frequently-asked-questions/how-do-i-set-up-mfa.md)
-  * [How do you configure conditional access policies?](help-and-support/frequently-asked-questions/how-do-you-configure-conditional-access-policies.md)
+  * [How do I configure conditional access policies?](help-and-support/frequently-asked-questions/how-do-i-configure-conditional-access-policies.md)
   * [How do I resolve AWS recommendation errors?](help-and-support/frequently-asked-questions/how-do-i-resolve-aws-recommendation-errors.md)
   * [How does the platform connect to my Azure tenant?](help-and-support/frequently-asked-questions/how-does-the-platform-connect-to-my-azure-tenant.md)
   * [I have questions about access tokens and consent](help-and-support/frequently-asked-questions/i-have-questions-about-access-tokens-and-consent.md)
