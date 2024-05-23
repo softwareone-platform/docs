@@ -33,7 +33,7 @@ You cannot add new items or change the quantity of existing items within a draft
 
 Your order is submitted for processing. Upon completion, your Adobe VIP Marketplace account is activated in the Marketplace Platform.&#x20;
 
-See any of the related topic links for information on how to self-manage your agreements, subscriptions, and orders.
+See any of the related topic links for information on how to self-manage your agreements, orders, and subscriptions.
 
 ## Related topics
 
