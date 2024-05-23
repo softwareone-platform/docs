@@ -2,7 +2,7 @@
 description: Set up and view system and other notifications.
 ---
 
-# View notifications
+# View Notifications
 
 The **Notification** page displays all notifications and allows you to manage them easily.  There are two types of notifications in Marketplace Platform:
 
@@ -48,6 +48,6 @@ Follow these steps to receive notifications by phone:
 
 ## Related topics
 
-{% content-ref url="../../../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md" %}
-[im-facing-issues-with-notifications.md](../../../help-and-support/frequently-asked-questions/im-facing-issues-with-notifications.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

@@ -1,4 +1,4 @@
-# How to setup single sign-on (SSO)
+# How do I set up SSO?
 
 Our platform has an SSO Authentication framework that integrates with existing Identity provider tools (such as Azure AD and ADFS) and SAML-based tools (such as Okta and Ping).
 
@@ -55,10 +55,10 @@ URLs are sometimes changed by security software, for example, Proofpoint’s Tar
 
 To set up SSO with the Client Portal via Azure AD, you must complete the following steps. After you've completed these steps, SoftwareOne will enable SSO with your Azure AD.
 
-1. [Register the Client Portal with Azure AD](single-sign-on-sso-integration.md#step-1-register-the-client-portal-with-azure-a-d)
-2. [Create a client secret](single-sign-on-sso-integration.md#step-2-create-a-client-secret)
-3. [Add API permissions](single-sign-on-sso-integration.md#step-3-add-api-permissions)
-4. [Collect and forward the information to SoftwareOne](single-sign-on-sso-integration.md#step-4-collect-and-forward-the-information-to-softwareone)
+1. [Register the Client Portal with Azure AD](how-do-i-set-up-sso.md#step-1-register-the-client-portal-with-azure-a-d)
+2. [Create a client secret](how-do-i-set-up-sso.md#step-2-create-a-client-secret)
+3. [Add API permissions](how-do-i-set-up-sso.md#step-3-add-api-permissions)
+4. [Collect and forward the information to SoftwareOne](how-do-i-set-up-sso.md#step-4-collect-and-forward-the-information-to-softwareone)
 
 ### Setup Process
 

@@ -1,6 +1,4 @@
-# How to resolve AWS recommendation synchronization errors
-
-***
+# How do I resolve AWS recommendation errors?
 
 The Client Portal downloads AWS recommendations from [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/) and [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/).&#x20;
 

@@ -2,7 +2,7 @@
 description: Manage your AWS recommendations.
 ---
 
-# AWS recommendations
+# AWS Recommendations
 
 AWS recommendations are divided into the following categories:
 
@@ -39,7 +39,7 @@ AWS charges 0.05 USD per account for every sync. The Client Portal will sync rec
 
 To effectively utilize these recommendations, make sure that AWS Cost Explorer is turned on within AWS for each of your accounts. See [Enabling Cost Explorer](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-enable.html) to turn on Cost Explorer within AWS.
 
-If you're facing synchronization issues, see [How to resolve AWS recommendation synchronization errors](../../../help-and-support/frequently-asked-questions/how-to-resolve-aws-recommendation-synchronization-errors.md).&#x20;
+If you're facing synchronization issues, see [How to resolve AWS recommendation synchronization errors](../../../help-and-support/frequently-asked-questions/how-do-i-resolve-aws-recommendation-errors.md).&#x20;
 
 ## Disable AWS Cost Explorer recommendations
 
