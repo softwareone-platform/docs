@@ -427,6 +427,7 @@
   * [Release Notes v2](help-and-support/release-notes/release-notes-v2.md)
 * [Planned Maintenance](help-and-support/planned-maintenance.md)
 * [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
+  * [How do I activate my VIP Marketplace agreement?](help-and-support/frequently-asked-questions/how-do-i-activate-my-vip-marketplace-agreement.md)
   * [How do you handle purchase order numbers in subscription-based models?](help-and-support/frequently-asked-questions/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
   * [What browsers do you support?](help-and-support/frequently-asked-questions/what-browsers-do-you-support.md)
   * [I'm unable to view the Reserved Instance data in the Client Portal](help-and-support/frequently-asked-questions/im-unable-to-view-the-reserved-instance-data-in-the-client-portal.md)
