@@ -82,4 +82,4 @@ Set-MsolUser -UserPrincipalName 365Analyitcs@company.onmicrosoft.com -PasswordNe
 
 365 Analytics requires a Microsoft Application consent. 365 Analytics Reporting uses application consent to collect data from your Office 365 tenant. Application consent is used to collect data via Graph API.
 
-For information on how to authorize the 365 Analytics Application for read-only access to your Office 365 tenant, see [How to connect your 365 tenant for data collection](how-to-connect-your-365-tenant-for-data-collection.md).
+For information on how to authorize the 365 Analytics Application for read-only access to your Office 365 tenant, see [How to connect your 365 tenant for data collection](how-do-i-connect-the-microsoft-tenant-for-data-collection.md).
