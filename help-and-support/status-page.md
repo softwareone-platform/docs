@@ -9,9 +9,11 @@ Our [Status Page](https://status.platform.softwareone.com/) serves as a central 
 
 ## When to check the Status page
 
-We recommend checking the [**Status Page**](https://status.platform.softwareone.com) if encountering any issues while using the Marketplace Platform. This can help you determine if a known issue affects the platform and save time by providing immediate answers without further steps.
+We recommend checking the [Status Page](https://status.platform.softwareone.com) if encountering any issues while using the Marketplace Platform.&#x20;
 
-## How to use the Status page
+This can help you determine if a known issue affects the platform and save time by providing immediate answers without further steps.
 
-* Access the Status page: Go to [https://status.platform.softwareone.com](https://status.platform.softwareone.com/).
+## How to use the Status Page
+
+* Access the Status Page: Go to [https://status.platform.softwareone.com](https://status.platform.softwareone.com/).
 * View current status: Check the top of the page for a quick overview of the current platform status.
