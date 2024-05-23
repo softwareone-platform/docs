@@ -10,15 +10,15 @@ Before contacting the Marketplace Support team, note the following points:
 * Consider browsing our [Frequently Asked Questions](frequently-asked-questions/) to see if your question has been answered.
 * If you need help with your password or user management, see [Update Password](../getting-started/platform-overview/basics/update-password.md) and [Settings](../platform-modules/settings/), respectively.
 
+If you still need assistance, you can contact us through email or create a ticket using the platform. &#x20;
+
 ## Contact us through email
 
 You can contact us through email at [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com).&#x20;
 
 ## Create a new ticket
 
-You can create a support ticket from the **Help and Support** page of the platform.
-
-Follow these steps to create a new ticket:
+You can create a support ticket from the **Help and Support** page of the platform. Follow these steps to create a ticket:
 
 1. Sign in to your account.
 2. Click the help icon in the header and select **Support**.&#x20;
