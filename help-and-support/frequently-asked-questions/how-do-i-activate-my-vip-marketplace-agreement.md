@@ -41,12 +41,12 @@ See any of the related topics links for information on how to self-manage your a
 [adobe-vip-marketplace](../../extensions/adobe-vip-marketplace/)
 {% endcontent-ref %}
 
-{% content-ref url="../../platform-modules/marketplace/orders/" %}
-[orders](../../platform-modules/marketplace/orders/)
-{% endcontent-ref %}
-
 {% content-ref url="../../platform-modules/marketplace/agreements/" %}
 [agreements](../../platform-modules/marketplace/agreements/)
+{% endcontent-ref %}
+
+{% content-ref url="../../platform-modules/marketplace/orders/" %}
+[orders](../../platform-modules/marketplace/orders/)
 {% endcontent-ref %}
 
 {% content-ref url="../../platform-modules/marketplace/subscriptions/" %}
