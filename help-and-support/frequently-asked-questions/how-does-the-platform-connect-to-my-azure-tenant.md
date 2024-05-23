@@ -44,8 +44,6 @@ Yes, the platform offers application-level rights that you can change, after add
 * Read Tags Only - Your resources will be synchronized from your Azure Subscription, including their Tags. Any changes to Tags in the platform will not be written back to Azure.
 * Read and Write Tags (Default Role) – Your resources will be synchronized from your Azure Subscription, including their Tags. Any tag changes in the platform will be written back to Azure.
 
-<figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 ## **What can** the platform **write back to my cloud provider?**
 
 When the Read/Write permissions are enabled, the platform can write into a customer environment. Write permissions are restricted to Tags only.
