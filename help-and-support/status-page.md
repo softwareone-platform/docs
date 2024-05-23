@@ -7,7 +7,7 @@ Our [Status Page](https://status.platform.softwareone.com/) serves as a central 
 * **Scheduled maintenance** - Be aware of any scheduled maintenance activities that could impact your access to the platform.
 * **Historical data** - Review the history of past incidents and maintenance activities to understand the platform's reliability and stability.
 
-## When to check the Status page
+## When to check the Status Page
 
 We recommend checking the [Status Page](https://status.platform.softwareone.com) if encountering any issues while using the Marketplace Platform.&#x20;
 
