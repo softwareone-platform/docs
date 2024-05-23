@@ -28,17 +28,3 @@ You can create a support ticket from the **Help and Support** page of the platfo
 6. Click **Send**.&#x20;
 
 A confirmation message is displayed stating that your ticket has been created. If the **Send** button is unavailable, make sure you've entered the required information.
-
-## Related topics
-
-{% content-ref url="../getting-started/platform-overview/basics/update-password.md" %}
-[update-password.md](../getting-started/platform-overview/basics/update-password.md)
-{% endcontent-ref %}
-
-{% content-ref url="../getting-started/platform-overview/basics/manage-profile.md" %}
-[manage-profile.md](../getting-started/platform-overview/basics/manage-profile.md)
-{% endcontent-ref %}
-
-{% content-ref url="frequently-asked-questions/" %}
-[frequently-asked-questions](frequently-asked-questions/)
-{% endcontent-ref %}
