@@ -29,12 +29,6 @@ You can create a support ticket from the **Help and Support** page of the platfo
 
 A confirmation message is displayed stating that your ticket has been created. If the **Send** button is unavailable, make sure you've entered the required information.
 
-## View your tickets
-
-The **Help and Support** page displays all tickets you've created for our Support team.&#x20;
-
-Clicking a ticket opens its details page, which shows the status of your ticket and other general information.
-
 ## Related topics
 
 {% content-ref url="../getting-started/platform-overview/basics/update-password.md" %}
