@@ -1,22 +1,18 @@
----
-description: Follow these steps to setup Multi Factor Authentication (MFA).
----
-
-# How to sign in using Multi-factor Authentication (MFA)
+# How do I set up MFA?
 
 {% hint style="info" %}
-**NOTE**: If you have a new mobile phone and want to set up MFA for your login again, please [Contact Support](../getting-support.md). After we reset your MFA, you can scan a new QR code with your new phone. Please make sure to use the email address that matches your Client Portal username.
+If you have a new mobile phone and want to set up Multi Factor Authentication (MFA) for your login again, please [Contact Support](../getting-support.md). After we reset your MFA, you can scan a new QR code with your new phone. Please make sure to use the email address that matches your Client Portal username.
 {% endhint %}
 
-## **Prerequisites**
+## **Before you begin**
 
-To set up MFA, you'll require the following:
+Before setting up MFA, make sure you have the following:
 
 1. A mobile phone with an Android or iOS operating system.
-2. Your username and password for the Client Portal.
+2. Your username and password for the Marketplace Platform.
 3. An Authenticator app. You can use any Authenticator app like Google Authenticator or Microsoft Authenticator.
 
-### **Installing the Authenticator App**
+## **Installing the Authenticator App**
 
 In this example, we've used Google Authenticator, but the steps are the same for any Authenticator app.
 
@@ -29,7 +25,7 @@ In this example, we've used Google Authenticator, but the steps are the same for
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### **Use an existing Authenticator app**
+## **Use an existing Authenticator app**
 
 If you already have an Authenticator app installed on your phone, perform these steps:
 
@@ -40,7 +36,7 @@ If you already have an Authenticator app installed on your phone, perform these 
 2. Choose **Scan QR Code**.&#x20;
 3. Point the camera of your phone to the QR code on the Client Portal and wait for the scanned data to be added to your Authenticator app.
 
-### **Manual setup without QR code**
+## **Manual setup without QR code**
 
 If you have problems scanning the QR Code,&#x20;
 
@@ -56,7 +52,7 @@ If you have problems scanning the QR Code,&#x20;
 
 ## Completing the MFA setup
 
-After you successfully perform the above steps, your Client Portal account will be on a list similar to the following image. Each account is shown in a separate row. The six-digit code is the OTP code you will need to enter on the login page when you are asked for your one-time code.
+After you've successfully performed the steps, your Client Portal account will be on a list similar to the following image. Each account is shown in a separate row. The six-digit code is the OTP code you will need to enter on the login page when you are asked for your one-time code.
 
 <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt="" width="316"><figcaption></figcaption></figure>
 
@@ -95,7 +91,7 @@ On the next screen, enter your recovery code to sign in:&#x20;
 <figure><img src="../../.gitbook/assets/image (16) (1) (1) (1) (1).png" alt="" width="354"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**NOTE**: When you sign in using your recovery code, you will get another one-time recovery code. Make sure to store this code securely for your next login without your Authenticator app.
+When you sign in using your recovery code, you will get another one-time recovery code. Make sure to store this code securely for your next login without your Authenticator app.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>

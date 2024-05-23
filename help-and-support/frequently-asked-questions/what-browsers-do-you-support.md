@@ -1,8 +1,4 @@
----
-description: Access Marketplace Platform on an up-to-date desktop or mobile browser.
----
-
-# Browser requirements
+# What browsers do you support?
 
 ## Desktop devices <a href="#supported-browsers-for-desktop-devices" id="supported-browsers-for-desktop-devices"></a>
 
