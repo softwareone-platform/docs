@@ -20,7 +20,7 @@ If you are using tags on your provider platform to organize your resources, you 
 
 4.  Assign groups to the created structure levels. To create the groups, choose the **New** group functionality for the required structure level:
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can create groups using already existing tags or manually.
 

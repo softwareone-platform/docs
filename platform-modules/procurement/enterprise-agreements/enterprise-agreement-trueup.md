@@ -4,7 +4,7 @@ description: >-
   global scale from collection to license allocation.
 ---
 
-# Enterprise agreement TrueUp
+# Enterprise Agreement TrueUp
 
 This section of the document will guide you through the Enterprise Agreement Setup Wizard. Running through the Wizard and enabling reporting is the first step in the EA module onboarding process.
 
@@ -72,7 +72,7 @@ Typically profiles and tenants can be found as a subsection in CPS. Profiles can
 
 The screenshot below shows the “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
