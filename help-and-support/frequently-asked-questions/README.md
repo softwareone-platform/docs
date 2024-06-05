@@ -12,20 +12,16 @@ description: Find answers to some of the commonly asked questions.
 [how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md](how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
 {% endcontent-ref %}
 
-{% content-ref url="im-unable-to-view-the-reserved-instance-data.md" %}
-[im-unable-to-view-the-reserved-instance-data.md](im-unable-to-view-the-reserved-instance-data.md)
-{% endcontent-ref %}
-
 {% content-ref url="which-browsers-do-you-support.md" %}
 [which-browsers-do-you-support.md](which-browsers-do-you-support.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-do-i-set-up-sso.md" %}
-[how-do-i-set-up-sso.md](how-do-i-set-up-sso.md)
+{% content-ref url="im-unable-to-view-the-reserved-instance-data.md" %}
+[im-unable-to-view-the-reserved-instance-data.md](im-unable-to-view-the-reserved-instance-data.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-do-i-set-up-mfa.md" %}
-[how-do-i-set-up-mfa.md](how-do-i-set-up-mfa.md)
+{% content-ref url="how-do-i-set-up-sso.md" %}
+[how-do-i-set-up-sso.md](how-do-i-set-up-sso.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-do-i-configure-conditional-access-policies.md" %}
