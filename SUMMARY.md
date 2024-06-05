@@ -25,7 +25,6 @@
   * [Software Downloads](platform-modules/inventory/software-downloads.md)
   * [Orders and Invoices](platform-modules/inventory/orders-and-invoices/README.md)
     * [Buy Products and Services](platform-modules/inventory/orders-and-invoices/buy-products-and-services.md)
-    * [Make Payments with a Credit Card](platform-modules/inventory/orders-and-invoices/make-payments-with-a-credit-card.md)
     * [View Orders](platform-modules/inventory/orders-and-invoices/view-orders.md)
   * [Quotes](platform-modules/inventory/quotes/README.md)
     * [Create and Manage Quotes](platform-modules/inventory/quotes/create-and-manage-quotes.md)
