@@ -12,9 +12,7 @@ The Special Quotes module can be accessed by navigating to **Marketplace** > **S
 
 <summary>Accessing Special Quotes from Procurement Workbench</summary>
 
-From the Procurement Workbench page:
-
-1. Navigate to **Marketplace** and select **Procurement Workbench**.&#x20;
+1. From the main menu, navigate to **Procurement** and select **Procurement Workbench**.&#x20;
 2. Select the **Open Product Requests** tab from the Procurement Workbench page and then select **Request Special Quote**.
 
 </details>
@@ -23,10 +21,8 @@ From the Procurement Workbench page:
 
 <summary>Accessing Special Quotes from Products page</summary>
 
-From the Products page:
-
-1. Navigate to **Marketplace** and select **Products**.
-2. Under **Can we help you?**, select **Request Special Quote from our Team**.
+1. From the main menu, navigate to **Procurement** and select **Products**.
+2. Under **Can we help you?**, select **Request Special Quote From Our Team**.
 
 </details>
 
