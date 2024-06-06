@@ -1,31 +1,31 @@
 ---
 description: >-
-  Edit certain details of a buyer, such as the buyer's logo and their contact
-  person information.
+  Edit certain details of a buyer, such as the buyer's contact person
+  information.
 ---
 
-# Edit buyers
+# Edit Buyers
 
 ## Edit a buyer <a href="#updating-buyer-information" id="updating-buyer-information"></a>
 
 Follow these steps to edit buyer details:
 
 1. Navigate to the **Buyers** page (**Settings** > **Buyer**).
-2. Click the actions icon (**•••**) for the buyer you want to edit and select **Edit**. The **Edit buyer** page opens.
+2. Do one of the following:
+   * Click the actions icon (**•••**) for the buyer you want to edit and select **Edit**. The **Edit buyer** page opens.
+   * Click the buyer's name. When the details page of your selected buyer opens, click **Edit** in the upper-right section of the page. The **Edit buyer** page opens.
+3.  Select the **Contact Person** section and choose one of the following options:
 
-<figure><img src="../../../.gitbook/assets/image (352).png" alt="" width="563"><figcaption><p>Edit buyer page</p></figcaption></figure>
-
-3. In the **General** section, change the logo if necessary.
-4.  In the **Contact Person** section, select one of the following options:
-
-    * **None (leave unassigned)** - Select this option to leave the contact person unassigned.
-    * **Select an account user** - Select this option to choose an existing user from your account. When you select this option, all active user accounts are displayed.
-    * **Add contact details manually** - Select this option to add the contact person manually.
+    * **None (leave unassigned)** - Select to leave the contact person unassigned.
+    * **Select an account user** - Select to choose an existing user from your account. When you select this option, all active user accounts are displayed.
+    * **Add contact details manually** - Select to add the contact person manually. You'll need to provide the individual's first name, last name, email address, and optionally contact information.
 
 
 
     <figure><img src="../../../.gitbook/assets/image (353).png" alt="" width="563"><figcaption><p>Contact person section</p></figcaption></figure>
-5. Click **Save**.
+4. Click **Save**.
+
+A message is displayed stating that the operation is successful.&#x20;
 
 ## Related topics
 

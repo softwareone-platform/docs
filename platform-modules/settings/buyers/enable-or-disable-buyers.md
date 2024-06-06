@@ -17,8 +17,8 @@ Before enabling or disabling a buyer, note the following points:
 Follow these steps to enable or disable a buyer:
 
 1. Navigate to the **Buyers** page (**Settings** > **Buyers**).
-2. Click the actions icon (**•••**) for the buyer and select **Enable** or **Disable**. Alternatively, click the name of the buyer. When the details page of your selected buyer opens, click the down arrow and then select **Enable** or **Disable**.&#x20;
-3. **Confirm** that you want to change the status of the buyer.&#x20;
+2. Click the actions icon (**•••**) for the buyer and select **Enable** or **Disable**. Note that only one of these options is shown depending on the current state of the buyer.
+3. Confirm that you want to change the status of the buyer.&#x20;
 
 A message is displayed stating that the operation is successful. You can view the updated status of the buyer in the **Status** column on the **Buyer** page.
 

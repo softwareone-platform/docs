@@ -2,7 +2,7 @@
 description: Learn about the fields and actions available on the Buyers page.
 ---
 
-# Buyers interface
+# Buyers Interface
 
 ## Buyers page <a href="#agreements-interface" id="agreements-interface"></a>
 
@@ -18,7 +18,10 @@ On this page, you can view the following buyer information:&#x20;
 * **Contact Person** - Displays the contact person for the buyer.
 * **Seller** -  Displays the name of the SoftwareOne legal entity that the buyer can procure from.&#x20;
 * **Licensee** - Displays the associated licensee.
-* **Status** - Displays the buyer's status in the system. Possible values include **Active**, **Enabled**, or **Disabled**.
+* **Status** - Displays the buyer's status in the system. Possible values include:
+  * **Enabled** - The buyer has been created in the system but it hasn't been activated yet by SoftwareOne.
+  * **Active** - The buyer is active and you can select it from your list of buyers when buying products.
+  * **Disabled** - The buyer has been disabled and can no longer be selected when buying products.
 * **Actions** - Displays options that allow you to [edit a buyer](edit-buyers.md) or [enable or disable a buyer](enable-or-disable-buyers.md) if you have access to the Account Management module.
 
 ## Buyer details page
@@ -31,8 +34,8 @@ The details page of a buyer provides all information related to the buyer. You c
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Edit a buyer](edit-buyers.md)
-* [Enable or disable a buyer](enable-or-disable-buyers.md)
+* [Edit a buyer](edit-buyers.md).
+* [Enable or disable a buyer](enable-or-disable-buyers.md).
 
 </details>
 
