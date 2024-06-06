@@ -21,7 +21,7 @@ On this page, you can view the following buyer information:&#x20;
 * **Status** - Displays the buyer's status in the system. Possible values include:
   * **Enabled** - The buyer has been created in the system but it hasn't been activated yet by SoftwareOne.
   * **Active** - The buyer is active and you can select it from your list of buyers when buying products.
-  * **Disabled** - The buyer has been disabled and can no longer be selected when buying products.
+  * **Disabled** - The buyer has been disabled and can no longer be selected when making a purchase.
 * **Actions** - Displays options that allow you to [edit a buyer](edit-buyers.md) or [enable or disable a buyer](enable-or-disable-buyers.md) if you have access to the Account Management module.
 
 ## Buyer details page
