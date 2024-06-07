@@ -24,9 +24,9 @@ Access to the **Reports** feature depends on your user permissions and role. Add
 
 ## Quick Reports <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
-The **Quick Reports** page displays all report options that are available to you and allows you to create a new report based on predefined filters quickly. Note that by default, all quick reports are created as Run Once only.
+The **Quick Reports** tab displays all report options that are available to you and allows you to create a new report based on predefined filters quickly. Note that by default, all quick reports are created as Run Once only.
 
-### Create a new quick report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
+### Create a quick report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
 Follow these steps to create a quick report:
 
@@ -42,26 +42,28 @@ Watch the following video tutorial on how to create a Software Asset Inventory q
 
 ## Scheduled Reports
 
-The **Scheduled Reports** page displays the scheduled report configurations and allows you to edit, run, pause, resume, preview, and delete reports. Note that you must have the `SCHEDULED_REPORTING` permission to access this tab.&#x20;
+The **Scheduled** tab displays the scheduled report configurations and allows you to edit, run, pause, resume, preview, and delete reports.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Note that you must have the `SCHEDULED_REPORTING` permission to access this tab.&#x20;
 
-| Column        | Description                                                                                                                                                                                                        |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Name          | The name of the report.                                                                                                                                                                                            |
-| Frequency     | Indicates if this is a **Daily**, **Weekly,** or **Monthly** report. **Off** means that recurrence for the report is not yet defined (this is only possible when the report has been created using old reporting). |
-| Status        | Indicates whether the report is being generated or paused.                                                                                                                                                         |
-| Delivery      | The delivery format for the report.                                                                                                                                                                                |
-| Last Report   | The time when the report was last generated.                                                                                                                                                                       |
-| Created       | The date and time when the report was created.                                                                                                                                                                     |
-| Next Report   | The time when the next report will be generated.                                                                                                                                                                   |
-| Group         | The type of the report group.                                                                                                                                                                                      |
-| Recipients­   | The email address of the recipient.                                                                                                                                                                                |
-| Render type   | The format of the report.                                                                                                                                                                                          |
-| Type          | The type of the report.                                                                                                                                                                                            |
-| Template      | Indicates if any template has been selected for the report.                                                                                                                                                        |
-| Last Modified | The date and time of the last update of the report configuration (in the local time zone).                                                                                                                         |
-| Actions       | The list of actions for the report.                                                                                                                                                                                |
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduled tab</p></figcaption></figure>
+
+On this tab, you can view the following details:
+
+* **Name** - The name of the report.
+* **Frequency** - Indicates if this is a **Daily**, **Weekly,** or **Monthly** report. **Off** means that recurrence for the report is not yet defined (this is only possible when the report has been created using old reporting).
+* **Status** - Indicates whether the report is being generated or paused.
+* **Delivery** - The delivery format for the report.
+* **Last Report** - The time when the report was last generated.
+* **Created** - The date and time when the report was created.
+* **Next Report** - The time when the next report will be generated.
+* **Group** - The type of the report group.
+* **Recipients**­ - The email address of the recipient.
+* **Render type** - The format of the report.
+* **Type** - The type of report.
+* **Template** - Indicates whether any template has been selected for the report.
+* **Last Modified** - The date and time of the last update of the report configuration (in the local time zone).
+* **Actions** - The list of actions for the report.
 
 ### Create a scheduled report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
@@ -114,36 +116,46 @@ To pause or resume a report, select the actions icon (•••) and select **Pa
 
 ### Delete a scheduled report <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
 
-To delete a scheduled report, select the actions icon (•••) and choose **Delete**. Next, confirm that you want to delete the report. Note that deleted reports cannot be recovered.&#x20;
+To delete a scheduled report, select the actions icon (•••) and choose **Delete**.&#x20;
+
+Next, confirm that you want to delete the report. Note that deleted reports cannot be recovered.&#x20;
 
 ## Report History <a href="#post-988-_toc51828563" id="post-988-_toc51828563"></a>
 
 The **History** tab displays all reports that you've generated. The list includes scheduled and run-once reports. From the **Reports History** page, you can download, send, delete, or edit a report.
 
-<figure><img src="../../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (276).png" alt=""><figcaption><p>History tab</p></figcaption></figure>
 
-| Column          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| File Name       | The file name of the report (visible only for generated reports).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Report Type     | The output format of the report                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Time Requested  | The approximate time when the report has been requested                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Status          | <p>The status of the report:</p><ul><li><strong>Queued</strong> - The report is queued for creation.</li><li><strong>Processing</strong> - The report is being generated.</li><li><strong>Ready</strong> - The report has been generated and can be downloaded.</li><li><strong>Report Ready - SFTP Failed</strong> - The report has been generated but there was an issue when sending it to the configured SFTP server. You can manually download the report and send it to an SFTP.</li><li><strong>No Data</strong> - The generated report contains no data.</li><li><strong>Error</strong> - There was an unexpected error during the report generation.</li><li><strong>Error – Bad Configuration</strong> - There was an error in the report configuration. </li><li><strong>No permissions</strong> - The report couldn’t be generated because the user no longer has permissions.</li></ul> |
-| Report Name     | The name of the report.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Recipients      | The list of recipients for the **Email** delivery method only.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| File Size       | The size of the generated report file (visible only for generated reports).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Scheduled       | The information whether it is **Scheduled** or **Run Once** report.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Actions         | The list of actions for reports.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+On this tab, you can view the following details:
 
-### Download a report <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
+* **File Name** - The file name of the report (visible only for generated reports).
+* **Report Type** - The output format of the report.
+* **Time Requested** - The approximate time when the report has been requested.
+* Status - The status of the report. Possible values include:
+  * **Queued** - The report is queued for creation.
+  * **Processing** - The report is being generated.
+  * **Ready** - The report has been generated and can be downloaded.
+  * **Report Ready - SFTP Failed** - The report has been generated but there was an issue when sending it to the configured SFTP server. You can manually download the report and send it to an SFTP.
+  * **No Data** - The generated report contains no data.
+  * **Error** - There was an unexpected error during the report generation.
+  * **Error – Bad Configuration** - There was an error in the report configuration.&#x20;
+  * **No permissions** - The report couldn’t be generated because the user no longer has permissions.
+* **Report Name** - The name of the report.
+* **Recipients** - The list of recipients for the **Email** delivery method only.
+* **File Size** - The size of the generated report file (visible only for generated reports).
+* **Scheduled -** The information whether it is **Scheduled** or **Run Once** report.
+* **Actions** - The list of actions for reports.
 
-You can download a single or multiple reports from the **History** page.
+### Download reports <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
+
+You can download a single or multiple reports from the **History** tab.
 
 Follow these steps to download a report:
 
-1. Locate the report or select the checkbox for the report you wish to download.
+1. Locate the report or select the checkbox for the report you wish to download. You can select multiple checkboxes.
 2. Do one of the following:
    * In the **Actions** column, click **Download**.
-   * From the **Actions** menu, choose **Download**, **Copy to ZIP file**, or **Move to Zip File**. Note that this menu is enabled only after you select a checkbox.
+   * From the **Actions** menu above the table, choose **Download**, **Copy to ZIP file**, or **Move to Zip File**. Note that this menu is enabled only after you select a checkbox.
 
 ### Edit the report name <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
 
