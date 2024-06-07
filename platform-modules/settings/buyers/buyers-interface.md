@@ -46,9 +46,9 @@ When you open the details page, it shows the buyer's name, marketplace ID, and s
 The page also contains the following tabs that display corresponding information:
 
 * **General** - Displays the buyer's address and the contact person details.&#x20;
-* **Sellers** -  Displays the sellers linked to the buyer. Clicking a seller's name opens up the details page for the seller.&#x20;
+* **Sellers** - Displays the sellers linked to the buyer. Clicking a seller's name opens up the details page for the seller.&#x20;
 * **Licensees** - Displays the licensee or the consumer of the product bought by the buyer.
-* **Details -** Displays the date and time information for the buyer, for example, the date and time when the buyer was created in the system.
+* **Details** - Displays the date and time information for the buyer, for example, the date and time when the buyer was created in the system.
 
 ## Related topics
 
