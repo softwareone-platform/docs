@@ -2,11 +2,11 @@
 description: Learn how you can access and manage your software license agreements.
 ---
 
-# License agreements
+# License Agreements
 
 A license agreement is a contract that outlines the conditions and terms under which an organization can use a specific software. Using the Client Portal's License Agreements module, you can easily view and manage your license agreements, and gain visibility into the entitlement data associated with those agreements. You can also create alerts for true-ups, renewals, and expiring contracts.
 
-To access your license agreements, navigate to the [main menu](../../getting-started/platform-overview/interface.md#main-menu) of the Client Portal and select **Inventory** > **License agreements**.&#x20;
+To access your license agreements, navigate to the main menu and select **Inventory** > **License agreements**.&#x20;
 
 Watch the following video tutorial on how to access and use License Agreements:
 
@@ -44,12 +44,12 @@ You can export an individual license agreement or all of your agreements.
 
 Follow these steps to export an individual license agreement:
 
-1. On the License Agreements page, find the contract you want to export.&#x20;
+1. On the **License Agreements** page, find the contract you want to export.&#x20;
 2. Select the actions icon (•••) and choose **Export to PDF**, **Export to CSV**, or **Export to Excel**. Your report is queued for processing and a confirmation message is displayed.&#x20;
 
 Follow these steps to export all of your license agreements:
 
-1. On the License Agreements page, hover over the **Exports** option and select **Contracts**. The **Create New Report - Contracts** page opens.
+1. On the **License Agreements** page, hover over the **Exports** option and select **Contracts**. The **Create New Report - Contracts** page opens.
 2. Choose the format for your report, and schedule frequency, and specify the start and the expiration date of your contract.&#x20;
 3. Select a template and provide a name for your report. If you don't want to use any template, choose **None** from the list.&#x20;
 4. Choose the delivery method and then select **Run** or **Create**, depending on whether you are creating a run once or a scheduled report.

@@ -2,7 +2,7 @@
 description: You can download software packages from SoftwareOne and upload your own files.
 ---
 
-# Software downloads
+# Software Downloads
 
 The **Software Downloads** module lets you download software packages that SoftwareOne provides, and upload your files and packages to the cloud storage.  To access software downloads, navigate to the [main menu](../../getting-started/platform-overview/interface.md#main-menu) of the Client Portal and select **Inventory** > **Software Downloads**.&#x20;
 
@@ -57,11 +57,9 @@ You can generate an email link to share with anyone in your organization. Note t
 
 Follow these steps to generate a link:
 
-1\. From the **Actions** column, select **Email**.
-
-2\. Select the duration that the link will be valid for and the total number of available downloads.
-
-3\. Select **OK**. An email with a link to the package will open.
+1. From the **Actions** column, select **Email**.
+2. Select the duration that the link will be valid for and the total number of available downloads.
+3. Select **OK**. An email with a link to the package will open.
 
 {% hint style="info" %}
 The email link will only be valid for the duration that you choose. The link expires when the duration ends, regardless of the number of downloads.

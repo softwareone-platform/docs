@@ -2,17 +2,15 @@
 description: You can export a report of your Aspera license agreements.
 ---
 
-# USU License Agreement report
+# USU License Agreement Report
 
-The Client Portal contains a license agreement report template specifically for USU. You can download the report and upload it directly into your USU system to populate your License Agreements.
+The Marketplace Platform contains a license agreement report template specifically for USU.&#x20;
 
-***
+You can download the report and upload it directly into your USU system to populate your License Agreements.
 
-### Accessing the USU License Agreement report
+Follow these steps to access the report:
 
-**To access the report**
-
-1. Navigate to **Inventory** in the main menu and select **License Agreements**.
-2. On the License Agreements page, hover over **Exports** and select **Contracts - Aspera**.
-3. On the Create New Report - Contracts - Aspera page, choose the format, schedule, date range, and delivery method.
+1. From the main menu, navigate to **Inventory** > **License Agreements**.
+2. On the **License Agreements** page, hover over **Exports** and select **Contracts - Aspera**.
+3. On the **Create New Report - Contracts - Aspera** page, choose the format, schedule, date range, and delivery method.
 4. Select **Run**.

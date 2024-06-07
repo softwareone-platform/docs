@@ -49,4 +49,4 @@ Follow these steps to export all of your invoices:
 
 Once your export completes, you can view it by hovering over **Exports** and selecting **Go to My Reports**. This link will take you directly to your generated reports page.&#x20;
 
-Alternatively, select the main menu of the Client Portal and navigate to **Other tools** > **Reports**. To learn more about reports and their features, see [Reports](../other-tools/reports/).
+Alternatively, from the main menu, navigate to **Other tools** > **Reports**. To learn more about reports and their features, see [Reports](../other-tools/reports/).

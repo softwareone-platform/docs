@@ -8,16 +8,12 @@ Office365 Consumption provides users with detailed Office365 spend analysis. The
 
 Using Office365 Consumption, you can access multiple analytic reports and browse consumption cost information through interactive charts. The analysis is extended by leveraging information from the other Client Portal modules. You can also analyze spend per [Custom Group](../../../extensions/cloud-tools/custom-groups/) or [Budget](../../../extensions/cloud-tools/budgets/).
 
-***
-
 ## Accessing Office 365 Consumption <a href="#how-to-access-office-365-consumption" id="how-to-access-office-365-consumption"></a>
 
-**To access Office365 Consumption**
+To access Office365 Consumption:
 
-1. From the main menu, navigate to **Analyze** and select **Consumption overview**. The Consolidated Consumption page displays.
+1. Navigate to **Other tools > Consumption overview**. The Consolidated Consumption page displays.
 2. From the **View** menu, select **SaaS Office365 Consumption Details** or **Office365 Billing Consumption Details (Preview)**.
-
-***
 
 ## Office365 Consumption <a href="#office-365-consumption" id="office-365-consumption"></a>
 
@@ -39,8 +35,6 @@ The **SaaS Office365 Consumption Details Report** report displays the cost or qu
 
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption><p><strong>Subscription quantity</strong></p></figcaption></figure>
 
-***
-
 ### **Office 365Simple Multiple Agreements Tenant**
 
 The cost data for the Office 365Simple Multiple Agreements Tenant uses the average price calculated in a single currency. The average price is calculated on the first day of the month and on every subscription update.&#x20;
@@ -48,7 +42,7 @@ The cost data for the Office 365Simple Multiple Agreements Tenant uses the avera
 To check the billing data per agreement, use the **Office365 Billing Consumption Details (Preview)** report or see the **Billing** tab under **Cloud Subscriptions**.
 
 {% hint style="info" %}
-**NOTE:** If your Office365 tenant has subscriptions in multiple currencies, the Client Portal will only display the consumption data in the default currency of the portal. Multicurrency calculations are not supported for Office365 consumption.&#x20;
+If your Office365 tenant has subscriptions in multiple currencies, the Client Portal will only display the consumption data in the default currency of the portal. Multicurrency calculations are not supported for Office365 consumption.&#x20;
 {% endhint %}
 
 ### **Office 365 EA Tenant**

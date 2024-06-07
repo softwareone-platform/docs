@@ -13,25 +13,13 @@ The consolidation allows you to analyze spend across multiple platforms in a sin
 * Access multiple analytic reports and browse consumption cost information in easy-to-use interactive charts. The analysis is extended by leveraging information from other modules.
 * Analyze spend per the Custom Groups or Budgets.
 
-***
-
 ### Accessing Consumption Overview
 
-**To access Consumption Overview**
-
-* From the main menu, navigate to **Analyze** and select **Consumption Overview**. The Consolidated Consumption page opens.
-
-***
+To access Consumption Overview, navigate to **Other tools** > **Consumption Overview**. The Consolidated Consumption page opens.
 
 ### Understanding the report data
 
-A report can consist of multiple pages. A single page can contain multiple charts or tables that provide report data. The data that is displayed depends on the filters set in the date filter and filter section.
-
-<figure><img src="https://help.pyracloud.com/wp-content/uploads/2022/08/image-3-1024x616.png" alt=""><figcaption></figcaption></figure>
-
-***
-
-***
+A report can consist of multiple pages. A single page can contain multiple charts or tables that provide report data. The data depends on the filters set in the date filter and filter section.
 
 ### Understanding the drill down and filter by functionalities
 
@@ -69,8 +57,6 @@ This action will set the selected resource as a filter.
 
 Now the entire report has data scoped to this single resource. You can use any page of the report to analyze its consumption.
 
-***
-
 ### Slicing and grouping the consumption data
 
 Selected report charts have the ability to slice data with the configured legend. The legend is an additional dimension added to data that slices the consumption values, for example, monthly consumption).
@@ -82,8 +68,6 @@ The following is an example of monthly consumption sliced with the meter categor
 You can change the legend dimension by choosing the legend picker (1) and selecting another dimension (2).
 
 <figure><img src="../../../.gitbook/assets/image (49) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-***
 
 ### Changing the chart types
 
@@ -100,8 +84,6 @@ To change the visualization type, select the dropdown (1) and select the visuali
 
 <figure><img src="../../../.gitbook/assets/image (51) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ### Understanding the resource details
 
 If a chart provides resource data, you can navigate to resource details which are available in [Resources](https://help.pyracloud.com/knowledge-base/managing-tags-and-resources/). When a chart or a table is displayed, you can select the resource name.
@@ -113,8 +95,6 @@ Such navigation is also available when displaying a table.
 <figure><img src="../../../.gitbook/assets/image (53) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The selected resource details are displayed in a new Resources window.
-
-***
 
 ### Predicting spend
 
@@ -128,8 +108,6 @@ Predictions can be disabled for a chart. Use the configuration option shown belo
 
 <figure><img src="../../../.gitbook/assets/image (55) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ### Filtering the data
 
 Each report allows users to filter data in a number of ways. Selecting filters and applying them will immediately change the data scope according to the filters selected. Filters apply to every page of a report.
@@ -141,14 +119,12 @@ Each report allows users to filter data in a number of ways. Selecting filters a
     The reset option sets the date range back to default. The default is 6 months back and 3 months forward from today’s date. The default time range adjusts to meet the first and last day of the month.
 
 {% hint style="info" %}
-**Note**: The AzureSimple Billing Consumption Details allows you to choose date ranges reflecting billing cycles instead of a start and end date.
+The AzureSimple Billing Consumption Details allows you to choose date ranges reflecting billing cycles instead of a start and end date.
 {% endhint %}
 
 *   Advanced Filtering: Each report provides users with the ability to filter data. The set of filters (depending on the available report data characteristics) available in the section shown below, allows users to select specific filter values and narrow down the report to the data they want. &#x20;
 
     <figure><img src="../../../.gitbook/assets/image (58) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-***
 
 ### Choosing the currency
 
@@ -157,10 +133,8 @@ If a report provides consumption cost, then the currency of that cost is the cur
 <figure><img src="../../../.gitbook/assets/image (59) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Note**: If the currency selected is a different currency from the billing currency – the most up-to-date exchange rates are applied. The exchange rates are updated daily by SoftwareOne using an external public rate source.
+If the currency selected is a different currency from the billing currency – the most up-to-date exchange rates are applied. The exchange rates are updated daily by SoftwareOne using an external public rate source.
 {% endhint %}
-
-***
 
 ### Working with the software assets
 
@@ -206,8 +180,6 @@ Or in combination with your resource costs.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (63) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ### Exporting the data
 
 Most of the reports provide a list of consumption cost for each resource on the last page (within the date range you specified in the Date Filter). This detailed table can be exported to an Excel file.
@@ -217,5 +189,5 @@ To export the file, select **Export** and save the generated file on your system
 <figure><img src="../../../.gitbook/assets/image (64) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**Note**: The file generated is compliant with the list of columns provided in the details table. Customize table columns before exporting to adjust the list of columns in the generated file.
+The file generated is compliant with the list of columns provided in the details table. Customize table columns before exporting to adjust the list of columns in the generated file.
 {% endhint %}

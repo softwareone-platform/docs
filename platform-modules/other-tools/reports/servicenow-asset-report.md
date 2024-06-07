@@ -4,13 +4,10 @@ description: You can export a report of your ServiceNow Assets.
 
 # ServiceNow Asset Report
 
-We have created an asset report template specifically for ServiceNow. You can download the report and then easily upload it directly to your ServiceNow to populate your software assets.
+We have created an asset report template specifically for ServiceNow.&#x20;
 
-***
+You can download the report and upload it directly to your ServiceNow to populate your software assets.
 
-### Accessing the ServiceNow Asset Report <a href="#accessing-the-servicenow-asset-report" id="accessing-the-servicenow-asset-report"></a>
+To access the report, navigate to **Inventory** > **Software Assets**. When the Software Assets page displays, hover over **Exports** and choose **Service Now**.
 
-**To access the report**
-
-* From the main menu, navigate to **Inventory** and select **Software Assets**.
-* Once on the Software Assets page, select **Exports** and choose **ServiceNow** from the menu.
+For information on how to create a report, see [Creating reports](./#post-4285-\_ref38442975).

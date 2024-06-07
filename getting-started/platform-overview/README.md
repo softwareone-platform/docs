@@ -1,5 +1,5 @@
 ---
-description: Learn about the Marketplace Platform and some of it's key features.
+description: Learn about the Marketplace Platform and some of its key features.
 ---
 
 # Platform Overview
@@ -10,24 +10,24 @@ The Marketplace Platform represents a modern approach to software and cloud serv
 
 ## Key features <a href="#section-key-features" id="section-key-features"></a>
 
-The Marketplace Platform seamlessly brings together software vendors, clients, developers, and partners to facilitate the buying, selling, provisioning, and billing of software products.
+The platform seamlessly brings together software vendors, clients, developers, and partners to facilitate software products' buying, selling, provisioning, and billing.
 
-Here are some of the key features of the platform:
+Here are some of the key features of our platform:
 
-### For clients
+### For clients:
 
-* **Product catalog** - Access to a vast catalog of products from the world's leading software vendors, so you can find and purchase products in one centralized location.
-* **Orders management** - Ability to view, track, and manage your orders while getting extended information on the order detail page.
-* **Subscriptions management** - Features to manage your subscriptions in a self-service way, including cancellations and renewals, and accessing relevant documents, such as terms and conditions and agreements in one place.
-* **Accounts management** - Simple ways of managing your account, such as inviting new members and managing permissions and roles, as well as your user profile so you can manage certain aspects of your account, such as password resets, profile updates, and more.
-* **Requests management** - Option to request product pricing directly from the vendor and the ability to track your requests.
+* **Product Catalog** - Access to a vast catalog of products from the world's leading software vendors, so you can find and purchase products in one centralized location.
+* **Orders Management** - Ability to view, track, and manage your orders while getting extended information about each order on the order detail page.
+* **Subscriptions Management** - Features to manage your subscriptions in a self-service way, including cancellations and renewals, and accessing relevant documents, such as terms and conditions and agreements in one place.
+* **Accounts Management** - Simple ways of managing your account, such as inviting new members and managing permissions and roles, as well as your user profile, such as password resets, profile updates, and more.
+* **Requests Management** - Option to contact our business experts as well as vendors through the platform and the ability to track all of your requests.
 
-### For vendors
+### For vendors:
 
-* **Product definition** - Define new products manually or through integrations, configure product parameters with ease, and sell your products globally to over 65,000 SoftwareOne clients across a wide range of industries.
-* **Catalog management** - Effortlessly manage all your product data in one place, and enhance your product listings and messaging templates with ease.
-* **Price management** - Update product pricing directly within the platform so that clients can see accurate pricing at all times.
-* **Orders management** - Manage all orders in a consistent manner and fulfill them quickly and efficiently.
+* **Product Definition** - Define new products manually or through integrations, configure product parameters, and sell your products globally to over 65,000 SoftwareOne clients across a wide range of industries.
+* **Catalog Management** - Effortlessly manage all your product data in one place, and enhance your product listings and messaging templates with ease.
+* **Price Management** - Update product pricing directly within the platform so that clients can see accurate pricing at all times.
+* **Orders Management** - Manage all orders in a consistent manner and fulfill them quickly and efficiently.
 
 ## Related topics
 

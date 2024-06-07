@@ -12,13 +12,11 @@ You can read more about other available cost optimization strategies in the [Clo
 
 The usage plans depend on the cloud provider. For information on the usage plans, see the [Azure ](https://azure.microsoft.com/en-us/pricing/reserved-vm-instances/)and [AWS ](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-capacity-reservations.html)websites.
 
-***
+## Gaining visibility into your reservations <a href="#gain-visibility-into-your-reservations" id="gain-visibility-into-your-reservations"></a>
 
-### Gaining visibility into your reservations <a href="#gain-visibility-into-your-reservations" id="gain-visibility-into-your-reservations"></a>
+With the Marketplace Platform, you can manage cloud reservations that allow you to accomplish the most savings.
 
-With the Client Portal, you can manage cloud reservations that allow you to accomplish the most savings.
-
-The Client Portal gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our Spend Management Reporting. We enable reporting automatically when our system detects an RI purchase.
+The platform gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our Spend Management Reporting. We enable reporting automatically when our system detects an RI purchase.
 
 <figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,9 +24,7 @@ The Client Portal gives you a central view to quickly check your reservation's h
 2. The Client Portal keeps track of your historical purchases so you can compare values at any time. For monitoring purposes look at **Active** status only.
 3. If you want to keep the reservation list for your internal records, you can export it to an XLS file.
 
-***
-
-### Resources attached to RI <a href="#resources-attached-to-ri" id="resources-attached-to-ri"></a>
+## Resources attached to RI <a href="#resources-attached-to-ri" id="resources-attached-to-ri"></a>
 
 The Client Portal transforms billing data in a way that allows you to effortlessly explore resources utilizing your RI at a given point in time.
 
@@ -38,28 +34,24 @@ The Client Portal transforms billing data in a way that allows you to effortless
 2. The Amortized View groups data by resource, so you can see which resources are using this Reserved Instance. You can “drill down” to a selected month to see daily distribution.
 
 {% hint style="info" %}
-**NOTE**: You will notice **Reservation Unused Cost** in the chart legend, which informs you if the full potential of your RI is not realized. You should keep this bar as low as possible (because of the delay in receiving data from cloud providers in the last 2 days you might see unused cost which is not accurate).
+You will notice **Reservation Unused Cost** in the chart legend, which informs you if the full potential of your RI is not realized. You should keep this bar as low as possible (because of the delay in receiving data from cloud providers in the last 2 days you might see unused cost which is not accurate).
 {% endhint %}
 
 3. In the Utilization tab, you can monitor the daily utilization of your reservation.
 
 <figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
-***
-
-### Spend and Budget Management <a href="#spend-and-budget-management" id="spend-and-budget-management"></a>
+## Spend and Budget Management <a href="#spend-and-budget-management" id="spend-and-budget-management"></a>
 
 The Client Portal creates resources for each reservation so that you can track costs in spend management, create budgets, or schedule a chargeback.
 
 The lifetime of a resource is determined by the term, once expired resources will be marked as removed.
 
-#### Predictions <a href="#predictions" id="predictions"></a>
+### Predictions <a href="#predictions" id="predictions"></a>
 
 We have incorporated RI metadata into our prediction engine. We assume that an RI will be renewed (if you don’t cancel it) so you may see “Purchase” spikes in your predictions if enabled.
 
 Additionally, monthly reservations will return predictions for every consecutive month.
-
-***
 
 ### Alerting <a href="#alerting" id="alerting"></a>
 
@@ -69,11 +61,7 @@ If you want to receive an email or SMS, be sure to verify your subscription in t
 
 <figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
-
-
-***
-
-### Frequently Asked Questions <a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
+## Frequently Asked Questions <a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
 
 #### Why reservation utilization is not showing for my Azure Simple tenant <a href="#why-reservation-utilization-is-not-showing-for-my-azure-simple-tenant" id="why-reservation-utilization-is-not-showing-for-my-azure-simple-tenant"></a>
 

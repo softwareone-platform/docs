@@ -1,5 +1,5 @@
 ---
-description: Find information on how to navigate the Marketplace Platform.
+description: Find information on how to access and navigate the platform.
 ---
 
 # Interface
@@ -26,22 +26,22 @@ The Marketplace Platform offers a seamless and intuitive interface for exploring
 
 It features a layout with a horizontal header at the top and a primary content section in the middle.
 
-### Using the header area
+### Header area
 
 The header is available on all pages throughout the platform.
 
 <figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption><p>Header area</p></figcaption></figure>
 
 * **SoftwareOne logo** - Clicking the logo returns you to the **Home** page of the portal.
-* **Navigation menu** - Clicking the main menu displays the platform modules that you have access to, along with your recently viewed modules and favorites.
-* **Help icon** - Clicking the **Help** icon opens a menu containing links to resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, and news and events. You can also access the **Help and Support** page from this menu.
+* **Navigation or main menu** - Clicking the main menu displays all the modules you have access to, along with your recently viewed modules and favorite pages.
+* **Help icon** - Clicking the **Help** icon opens a menu containing links to resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, and [news and updates](https://www.softwareone.com/en/media-releases). You can also [Contact Support](../../help-and-support/getting-support.md) from this menu.
 * **Notifications** - Clicking the notifications icon opens the **Notifications** page. For more information, see [View notifications](basics/view-notifications.md).
-* **Profile menu** - Displays the name of your account and the account type along with your username. Clicking the profile menu enables you to [manage your profile](basics/manage-profile.md), [switch accounts](basics/switch-account.md) (only if you belong to multiple accounts), and sign out of your account.&#x20;
+* **Account selector and profile** - Displays the name of your account and the account type along with your username. Clicking the profile menu enables you to [manage your profile](basics/manage-profile.md), [switch accounts](basics/switch-account.md) (only if you belong to multiple accounts), and sign out of your account.&#x20;
 
-### Using the primary content section
+### Primary content section
 
-The primary content section is the main working area that displays data and allows you to view information and complete tasks depending on your role and permissions.&#x20;
+The primary content section is the main working area that displays data and allows you to view information and complete operations depending on your role and permissions.&#x20;
+
+The layout of the content area depends on the module and the type of data it displays.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption><p>Primary content section</p></figcaption></figure>
-
-The layout of the content area depends on the module and the type of data it displays. It can include elements, such as tables.

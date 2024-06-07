@@ -15,13 +15,13 @@ Follow these steps to access your profile:
 
 The following tabs are available on this page:
 
-* **General** - Displays your general information, account preferences, and settings.
-* **Accounts** - Displays the accounts and the corresponding groups you belong to.
-* **Details** - Displays the date and time information for your account.
+* **General** - Displays your general profile information and account preferences.
+* **Accounts** - Displays all the accounts and groups you belong to.
+* **Details** - Displays the timestamps concerning your account.
 
 ## Update your profile settings <a href="#update-your-profile-settings" id="update-your-profile-settings"></a>
 
-Use the **Edit** option on your profile page to do the following:
+Use the **Edit** option on your profile page to:
 
 * Change your name and contact information.
 * Change the language of your account.

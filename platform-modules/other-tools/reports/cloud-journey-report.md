@@ -9,21 +9,17 @@ description: >-
 SoftwareOne is uniquely positioned to help businesses on their cloud journey, and with our xSimple customers in mind, we have built a complementary report for our “Simple” views.
 
 {% hint style="info" %}
-**NOTE**: We currently only support AzureSimple service.
+We currently only support AzureSimple service.
 {% endhint %}
-
-***
 
 The Cloud Journey Report gives our Simple customers a unique insight into market competitors' share of cloud services, which paints a picture of their own position compared to those competitors. By analyzing this information, you can take full advantage of improving your operations, maximizing cloud features, and optimizing your cloud cost. Market Competitors are companies of a similar size and from the same industry.
 
 The Cloud Journey Report is divided into 4 sections:
 
-1. Comparison Panel
-2. Information Panel
-3. Managed Service Panel
-4. Service Articles Panel
-
-***
+* Comparison Panel
+* Information Panel
+* Managed Service Panel
+* Service Articles Panel
 
 ### Comparison Panel <a href="#comparison-panel" id="comparison-panel"></a>
 
@@ -43,8 +39,6 @@ On the **Your service usage** tab, you can refer to a complete list of their ser
 
 <figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ### Information Panel <a href="#information-panel" id="information-panel"></a>
 
 As the name suggests, this panel gives you a brief description of your currently used SoftwareONE service. It also shows when it was last updated and you can download the report in PDF format.
@@ -52,10 +46,8 @@ As the name suggests, this panel gives you a brief description of your currently
 <figure><img src="../../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**NOTE**: For AzureSimple service data is collected once a month.
+For AzureSimple service data is collected once a month.
 {% endhint %}
-
-***
 
 ### Manage Service Panel <a href="#manage-service-panel" id="manage-service-panel"></a>
 
@@ -72,8 +64,6 @@ There is so much to learn and adapt in the cloud, but many organizations don’t
 Whether a business is using some or many cloud resources, not having a proper strategy will lead to a lack of operational standards, security risks, and wasted cloud costs.
 
 For that reason, we offer our customers an easy way to opt in for Managed Service.
-
-***
 
 ### Service Articles Panel <a href="#service-articles-panel" id="service-articles-panel"></a>
 

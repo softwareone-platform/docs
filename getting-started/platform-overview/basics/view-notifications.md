@@ -1,10 +1,10 @@
 ---
-description: Set up and view system and other notifications.
+description: Set up and view notifications.
 ---
 
 # View Notifications
 
-The **Notification** page displays all notifications and allows you to manage them easily.  There are two types of notifications in Marketplace Platform:
+The **Notification** page displays all notifications and allows you to manage them easily.  There are two types of notifications in the Marketplace Platform:
 
 * **System notifications** - These notifications are associated with your profile. You cannot subscribe or unsubscribe from these notifications.
 * **User notifications** - These notifications are also called feature notifications. These notifications are sent only if you are subscribed to receive them.
@@ -45,9 +45,3 @@ Follow these steps to receive notifications by phone:
 2. In **Update Mobile Number,** enter the phone number you want to use and click **Select**.
 3. Click **Get Code**. You'll receive a validation code on the phone number you provided.
 4. Enter the validation code and click **Verify**. You'll start receiving notifications as per your updated settings. You'll receive notifications as per your updated settings.
-
-## Related topics
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}

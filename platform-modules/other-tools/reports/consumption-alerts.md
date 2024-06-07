@@ -31,11 +31,7 @@ You can also define consumption parameters over a period. The Overage Alert will
 
 ### Accessing consumption alerts <a href="#post-1457-_toc14446607" id="post-1457-_toc14446607"></a>
 
-You can access consumption alerts from any cloud consumption reports.
-
-<figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
-
-You see the alert list by default. This report provides a basic overview of generated consumption alerts for every Cloud Provider that you configured.
+You can access consumption alerts from any cloud consumption reports. You see the alert list by default. This report provides a basic overview of generated consumption alerts for every Cloud Provider that you configured.
 
 ### Consumption alerts section <a href="#consumption-alerts-section" id="consumption-alerts-section"></a>
 
@@ -85,7 +81,7 @@ The details section is loaded immediately after clicking on the alert from the l
 
 The top section (1) shows a brief explanation of why the alert was created, for example: _13.39 USD above the set threshold_.
 
-<figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (217).png" alt="" width="440"><figcaption></figcaption></figure>
 
 You can also see details loaded directly from the alerts definition (2), like threshold, time range, and applied filters.&#x20;
 
@@ -104,8 +100,6 @@ You can interact with this chart similarly to the Consumption Reports, which inc
 The Alert item allows you to perform more detailed analysis in Consumption Reports so you can find the root cause of that alert. When you follow the “Analyze Consumption” link, the report will be opened in a new tab with the filters and dates extracted from the alert.
 
 <figure><img src="../../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
-
-***
 
 ### Creating alert definition <a href="#post-1457-_creating_alert_definition" id="post-1457-_creating_alert_definition"></a>
 

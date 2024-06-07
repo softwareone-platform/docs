@@ -16,7 +16,7 @@ Each tile can have multiple functionalities, for example, they can display data 
 
 Follow these steps to access the predefined dashboards:
 
-1. Navigate to the main menu of the Client Portal and select **Other tools >** **Dashboard**. The **Dashboard** page opens.
+1. From the main menu, navigate to **Other tools >** **Dashboard**. The **Dashboard** page opens.
 2. From **Choose a template**, choose the dashboard you want to view. The following dashboards are available:
 
 | Dashboard                       | Availability                                               |
