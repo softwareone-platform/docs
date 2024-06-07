@@ -206,9 +206,9 @@ You can create a new template when you are creating a report. Note that only som
 
 Follow these steps to create a template:
 
-1. On the **Reports** page, select **Create new report**.
-2. On the Template page, select **Saved Templates** > **Edit Default Columns**.&#x20;
-3. Make changes as needed and select **Save as new template**.&#x20;
+1. Click **Create New Report**. The report wizard starts.
+2. In the **Template** section, click **Saved Templates** > **Edit Default Columns**.&#x20;
+3. Make the following changes as needed and select **Save as new template**.&#x20;
    * To change a column position, drag the column to the desired position. You can move columns between groups.
    * To move all columns from one group to another, drag the entire group to an unfolded group.
    * To override a column’s value, enter a new value in the **Override value.**
@@ -216,26 +216,14 @@ Follow these steps to create a template:
 4. Provide the **Template Name** and choose whether the template is **Personal** (only you can see or edit it) or **Shared** (anyone in your company can see or edit it).
 5. Select **Save as new template**.
 
-**Column Descriptions**
+### Manage your report templates <a href="#post-4285-_toc51828553" id="post-4285-_toc51828553"></a>
 
-| Column           | Descriptions                                                                                                                                                                                                        |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Order            | The position of the column in the report.                                                                                                                                                                           |
-| Name             | <p>The default name of the column (as it will be shown in the generated report if the Name override is empty). </p><p></p><p>To override a column’s name, provide a new name in <strong>Name override</strong>.</p> |
-| Name override    | The column name that will be visible in a report. If blank, the column name from Name will be used.                                                                                                                 |
-| Override value   | The value that will be visible in a report for the column. If blank, then generated data will be used.                                                                                                              |
-| Value when blank | The value that will be visible in a report if there is no data for the column.                                                                                                                                      |
-| Max text length  | The maximum number of characters for the field. Blank means no limitation.                                                                                                                                          |
-| Actions          | The list of actions for a column.                                                                                                                                                                                   |
+You can edit or delete your report template by selecting the template and choosing **Edit or Delete**.&#x20;
 
-### Edit or delete a report template <a href="#post-4285-_toc51828553" id="post-4285-_toc51828553"></a>
+<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Edit or delete a template</p></figcaption></figure>
 
 {% hint style="info" %}
 * You can edit all templates, except the default template.&#x20;
 * You can only delete templates that are not used in other reports. Additionally, removing a template doesn’t impact already generated reports.
 * Deleted templates cannot be recovered.&#x20;
 {% endhint %}
-
-To update or delete a template, select the template and choose **Edit or Delete**.
-
-<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Edit or delete a template</p></figcaption></figure>
