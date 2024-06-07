@@ -1,16 +1,12 @@
----
-description: >-
-  The Client Portal offers a large number of reports, allowing you to gain
-  valuable insights into your software asset inventory, resource utilization,
-  cloud consumption, renewals, and more.
----
-
 # Reports
 
-The **Reports** feature enables you to create new reports and export your existing reports to any of the available formats.&#x20;
+## About Reports
+
+The Client Portal offers a large number of reports, allowing you to gain valuable insights into your software asset inventory, resource utilization, cloud consumption, renewals, and more.
 
 You can set up a report using the **Quick Reports** feature or create a customized report using the available report options. You can also:&#x20;
 
+* Export your reports to any of the available formats.
 * Run and publish reports only once, daily, weekly, or monthly.
 * Modify report configuration and existing schedule.&#x20;
 * Delete reports.
@@ -18,42 +14,13 @@ You can set up a report using the **Quick Reports** feature or create a customiz
 * View, search, and share reports.
 * Create report templates.
 
+## How to access the Reports page
+
+You can access the **Reports** page by navigating to the main menu and selecting **Other tools** > **Reports**.
+
 {% hint style="info" %}
 Access to the **Reports** feature depends on your user permissions and role. Additionally, each report type has specific permissions, and reports are generated with their owner's permission
 {% endhint %}
-
-## Create a new scheduled report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
-
-Follow these steps to create a new report:
-
-{% hint style="info" %}
-When creating a new report, the available options vary based on the type of report. Some reports can be run once only, whereas others can be run once or scheduled periodically. Similarly, some reports support report templates, while others don't. For each report type, you can view the available options when you are creating the report.
-{% endhint %}
-
-1. Navigate to the Reports page (**Other tools** > **Reports**) and click **Create New Report**.
-2. Select the report group and the type of report, and then choose the format in which you wish to generate the report. Note that the format varies depending on the report.&#x20;
-3. Choose the filters and select **Next**. To set additional filters (related to dates and number formatting), select **Show more formatting options**.
-
-<details>
-
-<summary>Learn about report filters</summary>
-
-Filters allow you to restrict the data that appears in a report. The list of available filters depends on the selected report type. The following are the common filters:
-
-* **SoftwareOne Company**: Allows you to restrict data in a report to only selected SoftwareOne companies. This is a multi-select field. If none is selected, the data for all SoftwareOne companies is included.
-* **Also include countries added in the future**: When selected, any new countries added in the future will be automatically added to the report.
-* **Companies**: Allows you to restrict data in a report to selected companies. Users can select multiple companies. If none are selected, then data for all companies will be included.
-* **Also include companies added in the future**: When selected, any new companies added in the future will be automatically added to the report.
-
-</details>
-
-4. Select the schedule type. You can run the report once, daily, weekly, or monthly. Note that for the reports that can be run once only, the **Run Once** option is selected by default and you cannot change it. All other options are unavailable.
-5. Select the date range for the data you want to include in the report.
-6. Select an existing template from **Saved Templates** or create a new template. Note that the **Saved Templates** option is displayed only if the report supports templates. If the report does support templates, but you choose not to apply the template, the system will use the default template.
-7. Provide a unique **Report Name** and choose the report delivery method.
-8. Select **Finish**. A confirmation message is displayed.&#x20;
-
-Depending on your chosen report schedule, the **Scheduled Reports** page or the **Reports History** page is displayed. Note that all Run Once reports are triggered immediately.
 
 ## Quick Reports <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
@@ -95,6 +62,39 @@ The **Scheduled Reports** page displays the scheduled report configurations and 
 | Template      | Indicates if any template has been selected for the report.                                                                                                                                                        |
 | Last Modified | The date and time of the last update of the report configuration (in the local time zone).                                                                                                                         |
 | Actions       | The list of actions for the report.                                                                                                                                                                                |
+
+### Create a scheduled report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
+
+Follow these steps to create a new report:
+
+{% hint style="info" %}
+When creating a new report, the available options vary based on the type of report. Some reports can be run once only, whereas others can be run once or scheduled periodically. Similarly, some reports support report templates, while others don't. For each report type, you can view the available options when you are creating the report.
+{% endhint %}
+
+1. Navigate to the Reports page (**Other tools** > **Reports**) and click **Create New Report**.
+2. Select the report group and the type of report, and then choose the format in which you wish to generate the report. Note that the format varies depending on the report.&#x20;
+3. Choose the filters and select **Next**. To set additional filters (related to dates and number formatting), select **Show more formatting options**.
+
+<details>
+
+<summary>Learn about report filters</summary>
+
+Filters allow you to restrict the data that appears in a report. The list of available filters depends on the selected report type. The following are the common filters:
+
+* **SoftwareOne Company**: Allows you to restrict data in a report to only selected SoftwareOne companies. This is a multi-select field. If none is selected, the data for all SoftwareOne companies is included.
+* **Also include countries added in the future**: When selected, any new countries added in the future will be automatically added to the report.
+* **Companies**: Allows you to restrict data in a report to selected companies. Users can select multiple companies. If none are selected, then data for all companies will be included.
+* **Also include companies added in the future**: When selected, any new companies added in the future will be automatically added to the report.
+
+</details>
+
+4. Select the schedule type. You can run the report once, daily, weekly, or monthly. Note that for the reports that can be run once only, the **Run Once** option is selected by default and you cannot change it. All other options are unavailable.
+5. Select the date range for the data you want to include in the report.
+6. Select an existing template from **Saved Templates** or create a new template. Note that the **Saved Templates** option is displayed only if the report supports templates. If the report does support templates, but you choose not to apply the template, the system will use the default template.
+7. Provide a unique **Report Name** and choose the report delivery method.
+8. Select **Finish**. A confirmation message is displayed.&#x20;
+
+Depending on your chosen report schedule, the **Scheduled Reports** page or the **Reports History** page is displayed. Note that all Run Once reports are triggered immediately.
 
 ### Update a scheduled report <a href="#post-988-_ref38824725" id="post-988-_ref38824725"></a>
 
