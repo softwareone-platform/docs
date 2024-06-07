@@ -22,7 +22,7 @@ You can set up a report using the **Quick Reports** feature or create a customiz
 Access to the **Reports** feature depends on your user permissions and role. Additionally, each report type has specific permissions, and reports are generated with their owner's permission
 {% endhint %}
 
-## Creating a new report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
+## Create a new scheduled report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
 Follow these steps to create a new report:
 
@@ -59,7 +59,7 @@ Depending on your chosen report schedule, the **Scheduled Reports** page or the 
 
 The **Quick Reports** page displays all report options that are available to you and allows you to create a new report based on predefined filters quickly. Note that by default, all quick reports are created as Run Once only.
 
-### Creating a quick report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
+### Create a new quick report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
 Follow these steps to create a quick report:
 
@@ -96,23 +96,23 @@ The **Scheduled Reports** page displays the scheduled report configurations and 
 | Last Modified | The date and time of the last update of the report configuration (in the local time zone).                                                                                                                         |
 | Actions       | The list of actions for the report.                                                                                                                                                                                |
 
-### Updating scheduled reports <a href="#post-988-_ref38824725" id="post-988-_ref38824725"></a>
+### Update scheduled reports <a href="#post-988-_ref38824725" id="post-988-_ref38824725"></a>
 
 You can update the configuration of a scheduled report, except the report group and the type of report.&#x20;
 
 To update a report, select the actions icon (•••) and choose **Edit**. When the Edit Scheduled Report page opens, make changes as necessary and then click **Finish** to save your changes.
 
-### Running scheduled reports <a href="#post-988-_toc51828560" id="post-988-_toc51828560"></a>
+### Run scheduled reports <a href="#post-988-_toc51828560" id="post-988-_toc51828560"></a>
 
 You can trigger scheduled reports at any time. After a report is generated, it downloads automatically and is available on the **History** tab. To run a report, select **Download** in the **Actions** column.
 
 Note that triggering a report manually doesn’t impact its next generation time or the last execution time in the **Last Report**.
 
-### Pausing or resuming scheduled reports <a href="#post-988-_ref38458440" id="post-988-_ref38458440"></a>
+### Pause or resume scheduled reports <a href="#post-988-_ref38458440" id="post-988-_ref38458440"></a>
 
 To pause or resume a report, select the actions icon (•••) and select **Pause** to pause the report or select **Resume** to reactivate the paused report.
 
-### Deleting scheduled reports <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
+### Delete scheduled reports <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
 
 To delete a scheduled report, select the actions icon (•••) and choose **Delete**. Next, confirm that you want to delete the report. Note that deleted reports cannot be recovered.&#x20;
 
@@ -134,7 +134,7 @@ The **History** tab displays all reports that you've generated. The list include
 | Scheduled       | The information whether it is **Scheduled** or **Run Once** report.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Actions         | The list of actions for reports.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-### Downloading reports <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
+### Download reports <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
 
 You can download a single or multiple reports from the **History** page.
 
@@ -145,7 +145,7 @@ Follow these steps to download a report:
    * In the **Actions** column, click **Download**.
    * From the **Actions** menu, choose **Download**, **Copy to ZIP file**, or **Move to Zip File**. Note that this menu is enabled only after you select a checkbox.
 
-### Editing report name <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
+### Edit report name <a href="#post-988-_toc51828570" id="post-988-_toc51828570"></a>
 
 You can only update the name of a generated report and file name. Updating a generated report name doesn't change the scheduled report name based on which the report has been generated.
 
@@ -155,7 +155,7 @@ Follow these steps to update a report or file name:
 2. Update the report name and file name as needed. Note that the file name must include an extension, Invoices.xlsx.
 3. Update your changes.
 
-### Emailing reports <a href="#post-988-_toc51828566" id="post-988-_toc51828566"></a>
+### Email reports <a href="#post-988-_toc51828566" id="post-988-_toc51828566"></a>
 
 If a report’s size is bigger than 25 MB, it is always sent as a link only. Note that to download a report from the link, your email recipients must have access to the report in the Client Portal.
 
@@ -165,7 +165,7 @@ Follow these steps to send a report through email:
 2. Provide the email addresses (separated by a semicolon) and choose if you want to send the report as an **Attachment** or **Link**.&#x20;
 3. Send your report.
 
-### Sending reports to an SFTP server <a href="#post-988-_ref51684117" id="post-988-_ref51684117"></a>
+### Send reports to an SFTP server <a href="#post-988-_ref51684117" id="post-988-_ref51684117"></a>
 
 You can send a report directly to a secure FTP server. If needed, you can also add a new SFTP configuration or edit the existing configuration.&#x20;
 
@@ -174,7 +174,7 @@ Follow these steps to send a report to an SFTP:
 1. Select the actions icon (•••) and select **SFTP**.&#x20;
 2. Select an SFTP server from the list and choose **Use Selected Server**.
 
-### Deleting reports
+### Delete reports
 
 You can delete reports that are no longer needed. You can delete a single report or multiple reports at once. Note that once you delete a report, it can't be recovered.
 
@@ -188,7 +188,7 @@ Follow these steps to delete a report:
 
 ## Report Templates
 
-### Creating report templates
+### Create report templates
 
 You can create a new template when you are creating a report. Note that only some reports support templates.&#x20;
 
@@ -216,7 +216,7 @@ Follow these steps to create a template:
 | Max text length  | The maximum number of characters for the field. Blank means no limitation.                                                                                                                                          |
 | Actions          | The list of actions for a column.                                                                                                                                                                                   |
 
-### Updating a template <a href="#post-4285-_toc51828553" id="post-4285-_toc51828553"></a>
+### Update a template <a href="#post-4285-_toc51828553" id="post-4285-_toc51828553"></a>
 
 You can edit all templates, except the default template.&#x20;
 
@@ -224,7 +224,7 @@ To update a template, select the template and choose **Edit**.
 
 <figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
-### Deleting a template <a href="#post-4285-_toc51828554" id="post-4285-_toc51828554"></a>
+### Delete a template <a href="#post-4285-_toc51828554" id="post-4285-_toc51828554"></a>
 
 You can only delete templates that are not used in other reports. Note that the deleted templates cannot be recovered. Removing a template doesn’t impact already generated reports.
 
