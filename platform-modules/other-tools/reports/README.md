@@ -100,7 +100,7 @@ The **Scheduled Reports** page displays the scheduled report configurations and 
 
 You can update the configuration of a scheduled report, except the report group and the type of report.&#x20;
 
-To update a report, select the actions icon (•••) and choose **Edit**.
+To update a report, select the actions icon (•••) and choose **Edit**. When the Edit Scheduled Report page opens, make changes as necessary and then click **Finish** to save your changes.
 
 ### Running scheduled reports <a href="#post-988-_toc51828560" id="post-988-_toc51828560"></a>
 
@@ -110,11 +110,11 @@ Note that triggering a report manually doesn’t impact its next generation time
 
 ### Pausing or resuming scheduled reports <a href="#post-988-_ref38458440" id="post-988-_ref38458440"></a>
 
-To pause or resume a report, select the actions icon (•••) and select **Pause** to pause the generating report or **Resume** to reactivate the paused report.
+To pause or resume a report, select the actions icon (•••) and select **Pause** to pause the report or select **Resume** to reactivate the paused report.
 
 ### Deleting scheduled reports <a href="#post-988-_toc51828562" id="post-988-_toc51828562"></a>
 
-To delete a scheduled report, select the actions icon (•••) and choose **Delete**. Then, confirm that you want to delete the report.  Note that deleted reports cannot be recovered.&#x20;
+To delete a scheduled report, select the actions icon (•••) and choose **Delete**. Next, confirm that you want to delete the report. Note that deleted reports cannot be recovered.&#x20;
 
 ## Report History <a href="#post-988-_toc51828563" id="post-988-_toc51828563"></a>
 
