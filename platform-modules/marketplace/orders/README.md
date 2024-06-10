@@ -8,9 +8,9 @@ An order could be a request to buy a new product, change the number of purchased
 
 The following types of orders exist in the Marketplace Platform:
 
-* **Purchase order** - Represents an order where a new agreement is created when [buying a new product or service](../products/buy-products-and-services.md) through the Marketplace Platform.
-* **Change order** - Represents an order where changes are needed to the product items or subscriptions within the agreement, such as downsizing the license quantity.
-* **Terminate order** - Represents an order where one or more subscriptions within the agreement have been terminated. A termination order also implies an order where the entire agreement has been terminated and consequently, all subscriptions within that agreement are also terminated.
+* **Purchase order** - Represents an order that is created when you [buy a new product or service](../products/buy-products-and-services.md) under a new agreement.
+* **Change order** - Represents an order that is created when you change the subscription quantity, such as downsizing the license quantity or buying additional resources.
+* **Terminate order** - Represents an order that is created when you terminate a subscription. A termination order also implies an order where the entire agreement has been terminated and consequently, all subscriptions within that agreement are also terminated.
 
 Through the Orders module, the Client Portal offers a streamlined, easy-to-navigate order management system that provides visibility and allows you to manage your orders easily.
 
