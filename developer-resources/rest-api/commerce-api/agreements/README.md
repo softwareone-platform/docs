@@ -53,8 +53,6 @@ The agreement represents an instance of a relationship between Seller, Buyer, an
   "PPxM": 12.50,
   "SPxY": 165,
   "SPxM": 13.75,
-  "markup": 0.10,
-  "margin": 0.11,
   "currency": "USD"
 }
 </code></pre></td></tr><tr><td><strong><code>template</code></strong></td><td>Template</td><td><p>Reference to Template object. </p><p></p><p>Example: </p><pre class="language-json"><code class="lang-json">{
@@ -79,8 +77,6 @@ The agreement represents an instance of a relationship between Seller, Buyer, an
       "unitPP": 1.25
       "SPx1": 13.50,
       "unitSP": 1.35,
-      "markup": 0.10,
-      "margin": 0.11,
       "currency": "USD"
     },
     "order": { "id": "ORD-6869-4529-8975-9005" }
@@ -167,8 +163,6 @@ The agreement represents an instance of a relationship between Seller, Buyer, an
     "PPxM": 12.50,
     "SPxY": 165,
     "SPxM": 13.75,
-    "markup": 0.10,
-    "margin": 0.11,
     "currency": "USD"
   },
   "startDate": "2023-12-14T17:28:57.667Z",
@@ -195,8 +189,6 @@ The agreement represents an instance of a relationship between Seller, Buyer, an
         "unitPP": 1.25
         "SPx1": 13.50,
         "unitSP": 1.35,
-        "markup": 0.10,
-        "margin": 0.11,
         "currency": "USD"
       },
       "order": { "id": "ORD-6869-4529-8975-9005" }
