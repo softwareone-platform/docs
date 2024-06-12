@@ -2,7 +2,7 @@
 description: Create new groups and add members to those groups.
 ---
 
-# Create New Groups
+# Create New Group
 
 ## Create a new group
 
@@ -10,14 +10,10 @@ Follow these steps to create a new group:
 
 1. Navigate to the **Groups** page (**Settings** > **Groups**).
 2. Click **Add**. The **Add group** page opens.
-
-<figure><img src="../../../.gitbook/assets/image (346).png" alt="" width="563"><figcaption><p>Add group page</p></figcaption></figure>
-
-3. In the **General** section, provide the group details and click **Next**.
-   * **Logo** - (Optional) Add an image for your group. By uploading images, you can easily identify the group from your list of groups. You can select a file to upload or drop your file to the location.
+3. In the **General** section, provide the following details and click **Next**.
    * **Name** - (Required) Provide a name for your group.&#x20;
-   * **Description** - (Required) Describe your group.
-4. In the **Modules** section, choose the modules that your group members should have access to. You must select at least one module. After this, click **Next**.&#x20;
+   * **Description** - (Optional) Describe your group.
+4. In the **Modules** section, choose all the modules that your group members should have access to and click **Next**. Note that you must select at least one module.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (345).png" alt="" width="563"><figcaption><p>Modules section</p></figcaption></figure>
 
@@ -25,13 +21,11 @@ Follow these steps to create a new group:
 
 <figure><img src="../../../.gitbook/assets/image (344).png" alt="" width="563"><figcaption><p>Users section</p></figcaption></figure>
 
-6. In the **Overview** section, review all the details and then click **Add**.&#x20;
-
-The new group is created. and the **Summary** section displays the details of the new group.&#x20;
+6. In the **Overview** section, review the group details and click **Add**. The new group is created and the **Summary** section displays the details of the new group.&#x20;
 
 From this section, you can return to the **Groups** page by clicking **Close**, or open the details page of the group by clicking **View Details.**
 
-## **Related topics**
+## Related topics
 
 {% content-ref url="./" %}
 [.](./)
@@ -41,10 +35,10 @@ From this section, you can return to the **Groups** page by clicking **Close**, 
 [groups-interface.md](groups-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-groups.md" %}
-[edit-groups.md](edit-groups.md)
+{% content-ref url="edit-group.md" %}
+[edit-group.md](edit-group.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-groups.md" %}
-[delete-groups.md](delete-groups.md)
+{% content-ref url="delete-group.md" %}
+[delete-group.md](delete-group.md)
 {% endcontent-ref %}

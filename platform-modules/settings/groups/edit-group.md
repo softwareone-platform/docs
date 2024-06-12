@@ -2,7 +2,7 @@
 description: Update the details of an existing group.
 ---
 
-# Edit Groups
+# Edit Group
 
 ## Before you begin
 
@@ -17,19 +17,16 @@ Follow these steps to edit a group:
 
 1. Navigate to the **Groups** page (**Settings** > **Groups**).&#x20;
 2. Click the actions icon (**•••**) for the group to modify and select **Edit**. The **Edit group** page opens.
-3. In the **General** section, update the logo, group name, and description as needed.
-
-<figure><img src="../../../.gitbook/assets/image (347).png" alt="" width="563"><figcaption><p>Edit group page</p></figcaption></figure>
-
-4. In the **Modules** section, select or clear the checkboxes to manage access to the platform modules.  Doing so updates the access for all users in the group.
+3. In the **General** section, update the group name and description as needed.
+4. In the **Modules** section, select or clear the checkboxes to manage access to the platform. Note that doing so updates the access for all users in the group.
 
 <figure><img src="../../../.gitbook/assets/image (348).png" alt="" width="563"><figcaption><p>Modules section</p></figcaption></figure>
 
-5. In the **Users** section, add or remove users by selecting or clearing the checkboxes, respectively.
+5. In the **Users** section, add or remove users as needed by selecting or clearing the checkboxes, respectively.
 
 <figure><img src="../../../.gitbook/assets/image (349).png" alt="" width="563"><figcaption><p>Users section</p></figcaption></figure>
 
-6. Click **Save**.
+6. Click **Save**. A message is displayed stating that the group is updated.
 
 ## Related topics
 
@@ -41,10 +38,10 @@ Follow these steps to edit a group:
 [groups-interface.md](groups-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-new-groups.md" %}
-[create-new-groups.md](create-new-groups.md)
+{% content-ref url="create-new-group.md" %}
+[create-new-group.md](create-new-group.md)
 {% endcontent-ref %}
 
-{% content-ref url="delete-groups.md" %}
-[delete-groups.md](delete-groups.md)
+{% content-ref url="delete-group.md" %}
+[delete-group.md](delete-group.md)
 {% endcontent-ref %}

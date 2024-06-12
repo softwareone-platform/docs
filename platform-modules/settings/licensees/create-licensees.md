@@ -37,7 +37,7 @@ Follow these steps to create a new licensee:
 
 <figure><img src="../../../.gitbook/assets/image (465).png" alt=""><figcaption><p>Address section</p></figcaption></figure>
 
-8. In the **Overview** section, review the details and then click **Add**.&#x20;
+8. In the **Overview** section, review the details and click **Add**.&#x20;
 
 The new licensee is created and the **Summary** section displays the details of your newly created licensee.&#x20;
 

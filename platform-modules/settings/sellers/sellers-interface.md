@@ -18,7 +18,7 @@ For each seller, you can view the following information:&#x20;
   * **Active** - The seller is active and available for transactions in the Marketplace.
   * **Disabled** - The seller is not operational and cannot be used for transactions. However, you can still access any historical data related to the seller that's been disabled.&#x20;
 
-## **Seller** details page <a href="#subscription-details" id="subscription-details"></a>
+## Seller details page <a href="#subscription-details" id="subscription-details"></a>
 
 The details page of a seller displays additional information about the seller. You can open the details page by clicking the seller's name.
 
