@@ -4,7 +4,7 @@ description: Edit an API token.
 
 # Edit API Token
 
-## **Edit an** API token
+## Edit an API token
 
 Follow these steps to edit an API token:
 

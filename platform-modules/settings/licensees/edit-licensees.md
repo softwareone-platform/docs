@@ -4,7 +4,7 @@ description: Update licensees in the account.
 
 # Edit Licensees
 
-## **Before you begin**
+## Before you begin
 
 Before updating licensee details, note the following points:
 

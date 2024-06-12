@@ -4,7 +4,7 @@ description: Enable or disable a licensee.
 
 # Enable or Disable Licensees
 
-## **Before you begin**
+## Before you begin
 
 Note that the **Enable** option is shown only if you've disabled the licensee previously.
 

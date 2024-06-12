@@ -4,7 +4,7 @@ description: Learn about the fields and actions available on the Sellers page.
 
 # Sellers Interface
 
-## **Sellers** page <a href="#agreements-interface" id="agreements-interface"></a>
+## Sellers page <a href="#agreements-interface" id="agreements-interface"></a>
 
 The **Sellers** page, located under **Settings** > **Sellers**, displays all sellers that are mapped to your account.&#x20;
 
