@@ -4,7 +4,7 @@ description: Update the details of an existing group.
 
 # Edit Groups
 
-## **Before you begin**
+## Before you begin
 
 Before editing a group, note the following points:
 

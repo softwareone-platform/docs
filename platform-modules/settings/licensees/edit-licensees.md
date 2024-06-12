@@ -11,7 +11,7 @@ Before updating licensee details, note the following points:
 * You can only modify the licensee's general information, such as their name, external reference number, description, contact person, and address.&#x20;
 * You cannot update the buyer or seller entities associated with the licensee.
 
-## Editing **licensee details**
+## Editing licensee details
 
 Follow these steps to edit the details of a licensee:
 

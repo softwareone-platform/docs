@@ -16,11 +16,11 @@ For each seller, you can view the following information:&#x20;
 * **Address** - Displays the address of the SoftwareOne entity.
 * **Status** - Displays the seller's status in the system. Possible values include:
   * **Active** - The seller is active and available for transactions in the Marketplace.
-  * **Disabled** - The seller is not currently operational and cannot be used for transactions. However, any historical data related to a disabled seller can still be accessed.&#x20;
+  * **Disabled** - The seller is not operational and cannot be used for transactions. However, you can still access any historical data related to the seller that's been disabled.&#x20;
 
 ## **Seller** details page <a href="#subscription-details" id="subscription-details"></a>
 
-The details page of a seller displays additional information about the seller. You can open the details page by clicking the name of the seller.
+The details page of a seller displays additional information about the seller. You can open the details page by clicking the seller's name.
 
 When you open the details page of a seller, it shows the seller's name, marketplace ID, and status.&#x20;
 

@@ -4,7 +4,7 @@ description: Create new groups and add members to those groups.
 
 # Create New Groups
 
-## **Creat**e **a new group**
+## Create a new group
 
 Follow these steps to create a new group:
 

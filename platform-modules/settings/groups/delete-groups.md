@@ -4,14 +4,14 @@ description: Delete a group if it's no longer needed.
 
 # Delete Groups
 
-## **Before you begin**
+## Before you begin
 
 Before deleting a group, note the following points:
 
 * Ensure you've removed all members from the group you want to delete. If the group contains members, the platform displays a message.
 * You cannot delete a default group because it's managed by the platform.&#x20;
 
-## **Delet**e **an existing group**
+## Delete an existing group
 
 Follow these steps to delete an existing group:
 

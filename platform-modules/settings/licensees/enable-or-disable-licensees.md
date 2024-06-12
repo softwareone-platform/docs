@@ -8,7 +8,7 @@ description: Enable or disable a licensee.
 
 Note that the **Enable** option is shown only if you've disabled the licensee previously.
 
-## **Enabl**e **or disable a** licensee
+## Enable or disable a licensee
 
 Follow these steps to enable or disable a licensee:
 

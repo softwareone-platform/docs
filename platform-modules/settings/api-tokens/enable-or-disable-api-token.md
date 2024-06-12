@@ -2,7 +2,7 @@
 description: Disable an API token temporarily and enable it again when required.
 ---
 
-# Enable or Disable Tokens
+# Enable or Disable API Token
 
 ## Before you begin
 
@@ -11,7 +11,7 @@ Before disabling a token, note the following points:
 * Disabling does not [delete a token](delete-api-token.md) but makes it inactive until it is enabled again. When a token is disabled, any attempts to access the endpoint return an error.&#x20;
 * The **Enable** option is shown only if you've disabled the token previously.
 
-## **Enabl**e **or disabl**e **a** token
+## Enable or disable a token
 
 Follow these steps to enable or disable a token:
 

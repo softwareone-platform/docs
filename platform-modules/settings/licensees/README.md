@@ -18,7 +18,7 @@ The following are some of the key points about licensees:&#x20;
 * Each licensee can only be linked to one buyer and one seller.&#x20;
 * Any modifications to the buyer's details are reflected automatically in the associated licensee's information.
 
-## How to access the **Licensees** page
+## How to access the Licensees page
 
 As an account administrator, you can access the **Licensees** page by navigating to **Settings** > **Licensees**.&#x20;
 
