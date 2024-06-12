@@ -10,7 +10,7 @@ You can access the Marketplace Platform from an up-to-date desktop or mobile bro
 
 Follow these steps to access the platform:
 
-1. Navigate to the sign-in page: [https://client.softwareone.com/](https://client.softwareone.com/).
+1. Navigate to the sign-in page: [https://portal.platform.softwareone.com/](https://portal.platform.softwareone.com/).
 2. Enter the email address associated with your account and click **Continue**.
 3. Enter your password and click **Continue**. If the sign-in is successful, the **Home** page is displayed.
 
