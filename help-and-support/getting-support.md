@@ -21,7 +21,10 @@ You can contact us through email at [marketplace-support@softwareone.com](mailto
 You can create a support ticket from the **Help and Support** page of the platform. Follow these steps to create a ticket:
 
 1. Sign in to your account.
-2. Click the help icon in the header and select **Support**.&#x20;
+2. Click the help icon in the header and select **Support**. The **Help and Support** page opens.
+
+<figure><img src="../.gitbook/assets/Support.png" alt=""><figcaption><p>Support option in the Help menu</p></figcaption></figure>
+
 3. On the **Help and Support** page, click **Submit a Ticket**.
 4. Fill out the form according to your issue. Optionally, click **Select files** to upload documentation that might help us understand and resolve your issue quickly.
 5. Click **Send**.&#x20;
