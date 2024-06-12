@@ -16,15 +16,15 @@ Follow these steps to access your profile:
 The following tabs are available on this page:
 
 * **General** - Displays your general profile information and account preferences.
-* **Accounts** - Displays all the accounts and groups you belong to.
-* **Details** - Displays the timestamps concerning your account.
+* **Accounts** - Displays the accounts and groups you belong to, and the account type.
+* **Details** - Displays the timestamps concerning your account. For example, the date and time when your account was created.
 
 ## Update your profile settings <a href="#update-your-profile-settings" id="update-your-profile-settings"></a>
 
-Use the **Edit** option on your profile page to:
+If you want to make the following changes to your profile, you can do so using the **Edit** option on your profile page:
 
-* Change your name and contact information.
-* Change the language of your account.
+* Change your name or contact information.
+* Change the display language of your account.
 * Update your regional settings, such as date and time format.
 
 {% hint style="info" %}
@@ -57,10 +57,10 @@ Click to see the supported languages.
 </details>
 {% endhint %}
 
-Follow these steps to update your profile settings:
+Follow these steps to update your settings:
 
 1. On the profile details page, click **Edit**. The **Edit profile** page opens.
-2. In the **General** section, make the required changes. You can update your **first name**, **last name**, **country code**, and **phone number**.&#x20;
+2. In the **General** section, make the changes as necessary. You can update your **first name**, **last name**, **country code**, and **phone number**.&#x20;
 3. In the **Preferences** section, change your account language and regional settings as necessary.&#x20;
 4. Click **Save**. A message is displayed stating your profile has been updated successfully.
 

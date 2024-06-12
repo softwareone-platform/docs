@@ -17,7 +17,7 @@ The purchase wizard opens and displays the **Select Items** section.
 
 3. Review the item details, including quantity and prices, and click **Next**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption><p>Select Items section</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (454) (1).png" alt=""><figcaption><p>Select Items section</p></figcaption></figure>
 
 {% hint style="info" %}
 You cannot add new items or change the quantity of existing items within a draft purchase order. Items can be added or updated only after you've accepted the terms and activated your agreement.
