@@ -1,8 +1,8 @@
-# What browsers do you support?
+# Which browsers do you support?
 
 ## Desktop devices <a href="#supported-browsers-for-desktop-devices" id="supported-browsers-for-desktop-devices"></a>
 
-You can access the Client Portal from a browser on a Windows, macOS, or Linux computer.&#x20;
+You can access the Marketplace Platform from a browser on a Windows, macOS, or Linux computer.&#x20;
 
 We support the following browsers:
 
@@ -11,11 +11,11 @@ We support the following browsers:
 * [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) (latest version)
 * [Apple Safari for macOS](https://www.apple.com/safari/) (latest version)
 
-If you don't use a supported browser, you might not be able to access the Client Portal or use all of its features.&#x20;
+If you don't use a supported browser, you might not be able to access the platform or use all of its features.&#x20;
 
 ## Mobile devices <a href="#supported-browsers-for-desktop-devices" id="supported-browsers-for-desktop-devices"></a>
 
-If you want to access the Client Portal on a mobile device, ensure that your mobile browser meets the following minimum requirements:
+If you want to access the platform on a mobile device, ensure that your mobile browser meets the following minimum requirements:
 
 * The screen resolution must be at least 1024 x 768 (when browsers are maximized).
 * The cookies must be enabled.
