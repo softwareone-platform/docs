@@ -2,7 +2,7 @@
 description: Reset or change your password.
 ---
 
-# Update password
+# Update Password
 
 If you forget your password, you can reset it using the **Forgot password?** link on the sign-in page. You can also change your current password through your profile page.
 
@@ -16,11 +16,14 @@ Follow these steps to reset your password:
 
 1. On the **Sign in** page, enter your email address and select **Continue**.
 
-<figure><img src="../../../.gitbook/assets/image (428).png" alt="" width="375"><figcaption><p>Sign in page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (459).png" alt="" width="375"><figcaption><p>Email address</p></figcaption></figure>
 
 2. Click **Forgot password?**.
-3. Click **Send Email**. You'll receive an email containing a link to reset your password.
-4. Click the link and follow the instructions to create a new password.
+
+<figure><img src="../../../.gitbook/assets/image (460).png" alt="" width="375"><figcaption><p>Forgot passeword</p></figcaption></figure>
+
+3. In **Forgot Your Password?**, enter your email address and click **Send Email**. You'll receive an email containing a link to reset your password.
+4. Click the link and follow the onscreen instructions to create a new password.
 
 {% hint style="info" %}
 #### **Didn't receive the email?**
@@ -32,7 +35,7 @@ We recommend checking your Spam or Junk folder.&#x20;
 
 Follow these steps to change your password:
 
-1. Select your profile menu in the upper-right corner and click **My profile**. Your profile page opens.
+1. Select your profile menu in the header and click **My profile**. Your profile page opens.
 
 <figure><img src="../../../.gitbook/assets/image (430).png" alt=""><figcaption><p>My profile page</p></figcaption></figure>
 
