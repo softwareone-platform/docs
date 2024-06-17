@@ -2,7 +2,7 @@
 description: Order a Microsoft Azure subscription through the Marketplace Platform.
 ---
 
-# How to buy Microsoft Azure (existing agreement)
+# Buying Microsoft Azure (Existing Agreement)
 
 In this tutorial, you'll learn how to order a Microsoft Azure subscription if you already have an agreement with SoftwareOne.
 
@@ -11,15 +11,19 @@ In this tutorial, you'll learn how to order a Microsoft Azure subscription if yo
 **To launch the purchase wizard**
 
 1. Sign in to your account and navigate to the **Products** page.
-2. Find Microsoft Azure from the list of products and click **Buy now**.&#x20;
+2. Click **Microsoft Azure** in the list of products.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Microsoft Azure</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Azure.png" alt=""><figcaption></figcaption></figure>
+
+3. Click **Buy now**.
+
+<figure><img src="../../.gitbook/assets/Azure BuyNow.png" alt=""><figcaption></figcaption></figure>
 
 The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure>
 
-## 2. Select the agreement
+## 2. Select agreement
 
 Select an active agreement from the list of your agreements and click **Next** to continue.
 

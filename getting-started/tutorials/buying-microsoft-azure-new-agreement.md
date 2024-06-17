@@ -11,9 +11,13 @@ In this tutorial, you'll learn how to order a Microsoft Azure subscription as pa
 **To launch the purchase wizard**
 
 1. Sign in to your account and navigate to the **Products** page.
-2. Find Microsoft Azure from the list of products and click **Buy now**.
+2. Click **Microsoft Azure** in the list of products.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Microsoft Azure</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Azure.png" alt=""><figcaption></figcaption></figure>
+
+3. Click **Buy now**.
+
+<figure><img src="../../.gitbook/assets/Azure BuyNow.png" alt=""><figcaption></figcaption></figure>
 
 The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
 
