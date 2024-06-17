@@ -23,7 +23,7 @@ However, if you start by activating your master account, the Client Portal will 
 
 Follow these steps to add your AWS cloud account:
 
-1. From the navigation menu, go to **Cloud tools > Cloud tenant setup**.
+1. From the navigation menu, go to **Cloud tools** > **Cloud tenant setup**.
 2. On the **Cloud tenant setup** page, select **Add Cloud Account** and choose **Amazon Web Services** as your cloud service provider.
 3. Provide the following details:
    1. A name for your AWS account.
@@ -80,7 +80,7 @@ If you would like Tag and Resource Manager to synchronize tags back to AWS, you 
 
 Follow these steps to change the level of access:
 
-1. On the Cloud Account Setup page, expand the AWS account and select **Change Access.**
+1. On the **Cloud Account Setup** page, expand the AWS account and select **Change Access.**
 2. In the **Change PyraCloud Access Level**, choose the access level:
    * **Sync resources only, no tags – write back of tags disabled**: Tag and Resource Manager will download your resources to the Client Portal without the tags currently assigned in AWS. Any changes to tags will be stored in the Client Portal only. This setting requires read-only access to your AWS account and will not make any changes to resources or tags in your AWS account.
    * **Sync resources and tags – write back of tags disabled**: Tag and Resource Manager will download your resources to the Client Portal, including the tags currently assigned in AWS. Any changes to tags will be stored in the Client Portal only. Any tags assigned to resources in AWS will overwrite the tags for the corresponding resource in the Client Portal. This setting requires read-only access to your AWS account and will not make any changes to resources or tags in your AWS account.
