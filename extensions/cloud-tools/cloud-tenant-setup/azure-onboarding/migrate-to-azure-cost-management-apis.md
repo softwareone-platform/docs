@@ -14,6 +14,7 @@ Before migrating to the new Cost Management APIs, note the following points:
 
 * The new APIs don't require access tokens because the authorization is done through Microsoft Entra ID (also known as Azure Active Directory) using service principals.&#x20;
 * Only individuals with the **Azure EA Enterprise Administrator** role permission can carry out the migration steps. If you have trouble finding out who is your EA admin in Azure, see Microsoft's documentation on [EA Billing administration on the Azure portal](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/direct-ea-administration#add-another-enterprise-administrator).&#x20;
+* During the consent flow, the SoftwareOne Cloud Consumption app is added to the organization tenant. This enterprise application is granted the EA Reader permission, which allows us to read the consumption data. To add the application to the tenant, you'll need permission to approve an Enterprise Application.
 * If your EA admin doesn't have access to the Client Portal, you can collaborate with them by sharing your screen, so your EA admin can sign in and complete the authorization required for migration.
 * During migration, our system automatically assigns the [EnrollmentReader role permission](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/assign-roles-azure-service-principals#permissions-that-can-be-assigned-to-the-service-principal) to the service principal. &#x20;
 
@@ -35,7 +36,7 @@ If you've already onboarded your EA cloud account to the Client Portal and have 
 
 <figure><img src="../../../../.gitbook/assets/Permissions.png" alt="" width="377"><figcaption><p>Permissions and consent</p></figcaption></figure>
 
-After clicking **Accept**, you'll be redirected to the Cloud Tenant Setup details page.&#x20;
+After clicking **Accept**, you'll be redirected to the **Cloud Tenant Setup** details page.&#x20;
 
 The system will mark the enrollment number you provided as migrated, and automatically assign the **Enrollment reader** permission to the PyraCloud (Azure) application. When the migration is completed, the consumption data is fetched from Microsoft.
 
