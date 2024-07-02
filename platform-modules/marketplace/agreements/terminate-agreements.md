@@ -2,7 +2,7 @@
 description: Cancel all subscriptions and terminate your agreement.
 ---
 
-# Terminate an Agreement
+# Terminate Agreements
 
 If you want to cancel all subscriptions under an agreement and terminate your agreement completely, you can do so by creating a termination order.&#x20;
 
@@ -47,8 +47,8 @@ The **Summary** section displays the confirmation.
 [agreements-interface.md](agreements-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-an-agreement.md" %}
-[rename-an-agreement.md](rename-an-agreement.md)
+{% content-ref url="rename-agreements.md" %}
+[rename-agreements.md](rename-agreements.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-agreement-id.md" %}

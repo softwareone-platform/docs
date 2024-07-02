@@ -2,7 +2,7 @@
 description: Add a message to the conversation.
 ---
 
-# Add a Message
+# Add Messages
 
 You can use the **Add Message** option on the **Activity** tab if you need to reply to a vendor's message or send a new message. This option allows you to communicate with the vendor from within the platform.
 
@@ -40,8 +40,8 @@ Follow these steps to add a new message:&#x20;
 [requests-interface.md](requests-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-new-requests.md" %}
-[create-new-requests.md](create-new-requests.md)
+{% content-ref url="create-new-request.md" %}
+[create-new-request.md](create-new-request.md)
 {% endcontent-ref %}
 
 {% content-ref url="set-the-request-to-processing.md" %}
@@ -52,6 +52,6 @@ Follow these steps to add a new message:&#x20;
 [add-and-manage-attachments.md](add-and-manage-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="complete-a-request.md" %}
-[complete-a-request.md](complete-a-request.md)
+{% content-ref url="complete-requests.md" %}
+[complete-requests.md](complete-requests.md)
 {% endcontent-ref %}

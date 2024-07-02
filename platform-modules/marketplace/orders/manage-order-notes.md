@@ -39,8 +39,8 @@ Follow these steps to update the order notes:
 [view-and-download-attachments.md](view-and-download-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-an-order-to-processing.md" %}
-[set-an-order-to-processing.md](set-an-order-to-processing.md)
+{% content-ref url="set-orders-to-processing.md" %}
+[set-orders-to-processing.md](set-orders-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="delete-draft-orders.md" %}

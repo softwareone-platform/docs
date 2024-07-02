@@ -46,8 +46,8 @@ While the change order is in progress, the agreement shows as **Updating**. The 
 [terminate-agreements.md](terminate-agreements.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-an-agreement.md" %}
-[rename-an-agreement.md](rename-an-agreement.md)
+{% content-ref url="rename-agreements.md" %}
+[rename-agreements.md](rename-agreements.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-agreement-id.md" %}

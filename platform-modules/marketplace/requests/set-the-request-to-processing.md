@@ -2,7 +2,7 @@
 description: Change the status of your request from Querying to Processing.
 ---
 
-# Set your request to Processing
+# Set the Request to Processing
 
 When you update your request, for example, by attaching documents, it's important to change the request status to **Processing** and send the request back to the vendor.&#x20;
 
@@ -41,18 +41,18 @@ Follow these steps to set your request to **Processing**:&#x20;
 [requests-interface.md](requests-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-new-requests.md" %}
-[create-new-requests.md](create-new-requests.md)
+{% content-ref url="create-new-request.md" %}
+[create-new-request.md](create-new-request.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-a-message.md" %}
-[add-a-message.md](add-a-message.md)
+{% content-ref url="add-messages.md" %}
+[add-messages.md](add-messages.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-and-manage-attachments.md" %}
 [add-and-manage-attachments.md](add-and-manage-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="complete-a-request.md" %}
-[complete-a-request.md](complete-a-request.md)
+{% content-ref url="complete-requests.md" %}
+[complete-requests.md](complete-requests.md)
 {% endcontent-ref %}

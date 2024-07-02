@@ -45,8 +45,8 @@ The new ID is updated and displayed on the details page of the agreement.
 [terminate-agreements.md](terminate-agreements.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-an-agreement.md" %}
-[rename-an-agreement.md](rename-an-agreement.md)
+{% content-ref url="rename-agreements.md" %}
+[rename-agreements.md](rename-agreements.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-items-to-an-agreement.md" %}

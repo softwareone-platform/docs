@@ -61,18 +61,18 @@ Follow these steps to edit or delete an attachment:
 [requests-interface.md](requests-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-new-requests.md" %}
-[create-new-requests.md](create-new-requests.md)
+{% content-ref url="create-new-request.md" %}
+[create-new-request.md](create-new-request.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-a-message.md" %}
-[add-a-message.md](add-a-message.md)
+{% content-ref url="add-messages.md" %}
+[add-messages.md](add-messages.md)
 {% endcontent-ref %}
 
 {% content-ref url="set-the-request-to-processing.md" %}
 [set-the-request-to-processing.md](set-the-request-to-processing.md)
 {% endcontent-ref %}
 
-{% content-ref url="complete-a-request.md" %}
-[complete-a-request.md](complete-a-request.md)
+{% content-ref url="complete-requests.md" %}
+[complete-requests.md](complete-requests.md)
 {% endcontent-ref %}
