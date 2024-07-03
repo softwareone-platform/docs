@@ -15,7 +15,7 @@ On this page, you can view the following details of each request:
 * **Assignee** - Displays the contact person assigned to the request.
 * **Created** -  Displays the date and time when the request was created.
 * **Updated** - Displays the date and time when the request was updated.
-* **Status** - Displays the status of your request. For more information on the status, see [Request States](requests-states.md).
+* **Status** - Displays the status of your request. For more information on the status, see [Request States](broken-reference).
 
 ## Request details page
 

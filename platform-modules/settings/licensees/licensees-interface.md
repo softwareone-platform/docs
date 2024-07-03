@@ -17,7 +17,7 @@ For each licensee, you can view the following details:
 * **Contact person** - Displays the contact associated with the licensee.
 * **Buyer** - Displays the buyer related to the licensee.
 * **Seller** - Displays the SoftwareOne entity facilitating the procurement of products and licenses.
-* **Status** - Displays the licensee's status. For more information on the status, see [Licensee States](licensee-states.md).
+* **Status** - Displays the licensee's status. For more information on the status, see [Licensee States](broken-reference).
 * **Actions** - Displays options that allow you to manage licensees. Depending on your permissions, you can update licensee information, and enable or disable a licensee.
 
 ## Licensee details page <a href="#subscription-details" id="subscription-details"></a>
