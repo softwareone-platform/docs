@@ -16,13 +16,7 @@ On this page, you can view the following order details:
 * **Buyer** - Displays the buyer's name and marketplace ID.
 * **Seller** - Displays the seller's name and marketplace ID.
 * **SPx** - Displays the estimated sales price of the product.
-* **Status** - Displays the order status. Possible values include:
-  * **Draft** - The order has been saved as a draft. This status applies to orders that you saved as a draft during the purchase process but didn't finalize.&#x20;
-  * **Processing** - The order has been created and is currently awaiting processing by the vendor.&#x20;
-  * **Completed** - The order has been processed and is now complete.
-  * **Querying** - The vendor requires information from you before processing your order.&#x20;
-  * **Failed** - The order could not be completed and has been failed. You can view the failure reason on the **General** tab of the order.
-  * **Deleted** - The draft order has been deleted.&#x20;
+* **Status** - Displays the order status. For more information on the status, see [Order States](order-states.md).
 
 ## Order details page <a href="#subscription-details" id="subscription-details"></a>
 

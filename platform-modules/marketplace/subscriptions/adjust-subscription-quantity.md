@@ -12,7 +12,7 @@ Quantity can be adjusted as needed using the **Edit** option on the subscription
 
 Before adjusting the quantity, note the following points:
 
-* You cannot change the quantity to zero for subscriptions with only one item. In such cases, you must terminate the subscription entirely. For more information, see [Terminate subscriptions](terminate-subscriptions.md).
+* You cannot change the quantity to zero for subscriptions with only one item. In such cases, you must terminate the subscription entirely. For more information, see [Terminate subscriptions](terminate-subscription.md).
 * If your subscription includes several items, there must be at least one item where the quantity is greater than zero. You cannot change the quantity of all items to zero.&#x20;
 
 ## Change the quantity of subscription items
@@ -54,14 +54,14 @@ During the change order, both the subscription and the agreement show as **Updat
 [subscriptions-interface.md](subscriptions-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-subscriptions.md" %}
-[rename-subscriptions.md](rename-subscriptions.md)
+{% content-ref url="rename-subscription.md" %}
+[rename-subscription.md](rename-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-subscription-id.md" %}
 [edit-subscription-id.md](edit-subscription-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-subscriptions.md" %}
-[terminate-subscriptions.md](terminate-subscriptions.md)
+{% content-ref url="terminate-subscription.md" %}
+[terminate-subscription.md](terminate-subscription.md)
 {% endcontent-ref %}

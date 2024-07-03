@@ -20,7 +20,7 @@ Before you begin, ensure you have the following:
 
 * An account on the Marketplace Platform.
 * Your company address and contact. You'll need to provide this information when creating your Adobe VIP Marketplace account.&#x20;
-* A licensee in the **active** state or permission to [create a new licensee](../../../platform-modules/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when creating the new agreement.&#x20;
+* A licensee in the **active** state or permission to [create a new licensee](../../../platform-modules/settings/licensees/create-licensee.md) (if you don't want to use an existing licensee). You'll need to select the licensee when creating the new agreement.&#x20;
 
 ## 1. Launch the Purchase wizard
 
@@ -42,7 +42,7 @@ Click **Create agreement** to start creating your new Adobe agreement.&#x20;
 
 ## 3. Select licensee
 
-1. Choose the licensee you want to use. A licensee is the end-user entity of the product being purchased. In this tutorial, we'll select an existing licensee, as shown in the following image. You can also add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../platform-modules/settings/licensees/create-licensees.md).
+1. Choose the licensee you want to use. A licensee is the end-user entity of the product being purchased. In this tutorial, we'll select an existing licensee, as shown in the following image. You can also add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../platform-modules/settings/licensees/create-licensee.md).
 2. Click **Next**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Licensee.png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>

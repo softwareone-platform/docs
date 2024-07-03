@@ -15,7 +15,7 @@ Make sure that the agreement you want to terminate is **Active**.&#x20;
 1. Navigate to the **Agreements** page (**Marketplace** > **Agreements**) and locate the agreement containing subscriptions you want to terminate.&#x20;
 2. Click the agreement name. The following image shows an example Adobe agreement:
 
-<figure><img src="../../../.gitbook/assets/Agreements.png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agreements (1).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 3. Click the chevron in the upper right on the details page and select **Terminate**.&#x20;
 

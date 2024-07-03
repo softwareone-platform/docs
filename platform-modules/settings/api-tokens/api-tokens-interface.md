@@ -17,10 +17,7 @@ For each token, you can view the following information:
 * **Created** **by** - Displays the name and marketplace ID of the person who created the token.&#x20;
 * **Date created** - Displays the date and time when the token was created.
 * **Last access** - Displays the date and time when the token was last used.
-* **Status** - Displays the current status of the token. Possible statuses include:
-  * **Active** - The token has been authenticated in the account and will allow access to the endpoint.
-  * **Disabled** - The token has been temporarily deactivated. Any attempts to access the endpoint will return an error.
-  * **Deleted** - The token has been permanently removed from the system.&#x20;
+* **Status** - Displays the current status of the token. For more information on the status, see [Token States](token-states.md).
 * **Actions** - Displays options that allow you to manage the API token. Depending on the status of the token, you can enable or disable a token, delete the token permanently, or edit token details.
 
 ## Token details page

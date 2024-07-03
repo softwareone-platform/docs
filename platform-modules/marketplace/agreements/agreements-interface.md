@@ -14,13 +14,7 @@ On this page, you can view the following agreement details:
 * **Buyer** - Displays the buyer's name and marketplace ID.
 * **Seller** - Displays the seller's name and marketplace ID.
 * **SPx** - Displays the estimated sales price of the product.
-* **Status** - Displays the status of the agreement. Possible values include:
-  * **Provisioning** - The purchase order associated with the agreement has been sent to the vendor and it's awaiting fulfillment.&#x20;
-  * **Updating** - An order is in progress for the agreement.  The order could be a termination order or a change order for adding or removing items.
-  * **Active** - The agreement is active. You can edit the subscriptions to review the quantity or buy more items by clicking **Buy more**.
-  * **Failed** - The agreement has failed because the order has been canceled.&#x20;
-  * **Terminated** - The agreement has been terminated and it no longer contains active subscriptions.
-  * **Deleted** - The agreement has been deleted because the draft purchase order associated with the agreement was deleted.
+* **Status** - Displays the status of the agreement. For more information on the status, see [Agreement States](agreement-states.md).&#x20;
 
 ## Agreement details page <a href="#subscription-details" id="subscription-details"></a>
 

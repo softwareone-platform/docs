@@ -2,7 +2,7 @@
 description: Create new licensees and map those licensees to buyers and sellers.
 ---
 
-# Create Licensees
+# Create Licensee
 
 ## Before you begin
 
@@ -49,14 +49,14 @@ From this section, you can return to the **Licensee** page by clicking **Close**
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="licensees-interface.md" %}
-[licensees-interface.md](licensees-interface.md)
+{% content-ref url="licensee-interface.md" %}
+[licensee-interface.md](licensee-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-licensees.md" %}
-[edit-licensees.md](edit-licensees.md)
+{% content-ref url="edit-licensee.md" %}
+[edit-licensee.md](edit-licensee.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-licensees.md" %}
-[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
+{% content-ref url="enable-or-disable-licensee.md" %}
+[enable-or-disable-licensee.md](enable-or-disable-licensee.md)
 {% endcontent-ref %}

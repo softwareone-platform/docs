@@ -31,7 +31,7 @@ The purchase wizard starts and the **Select agreement** section of the wizard is
 
 When you click **Next**, the **Select Items** section of the wizard is displayed directly. By default, all other sections are skipped because the details are fetched from your agreement.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Select items</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
 ## 3. Add new items
 
@@ -62,7 +62,7 @@ Review the details of your change order and click **Place order** to complete yo
 1. View your order summary and the latest status message.&#x20;
 2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Order summary </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Order summary </p></figcaption></figure>
 
 ## Next steps
 

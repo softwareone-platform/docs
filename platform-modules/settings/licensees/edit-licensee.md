@@ -2,7 +2,7 @@
 description: Update licensees in the account.
 ---
 
-# Edit Licensees
+# Edit Licensee
 
 ## Before you begin
 
@@ -31,14 +31,14 @@ Follow these steps to edit the details of a licensee:
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="licensees-interface.md" %}
-[licensees-interface.md](licensees-interface.md)
+{% content-ref url="licensee-interface.md" %}
+[licensee-interface.md](licensee-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-licensees.md" %}
-[create-licensees.md](create-licensees.md)
+{% content-ref url="create-licensee.md" %}
+[create-licensee.md](create-licensee.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-licensees.md" %}
-[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
+{% content-ref url="enable-or-disable-licensee.md" %}
+[enable-or-disable-licensee.md](enable-or-disable-licensee.md)
 {% endcontent-ref %}

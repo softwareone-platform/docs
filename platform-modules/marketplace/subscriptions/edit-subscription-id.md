@@ -35,14 +35,14 @@ The ID is updated and the new value is reflected on all pages that display the s
 [subscriptions-interface.md](subscriptions-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-subscriptions.md" %}
-[rename-subscriptions.md](rename-subscriptions.md)
+{% content-ref url="rename-subscription.md" %}
+[rename-subscription.md](rename-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="adjust-subscription-quantity.md" %}
 [adjust-subscription-quantity.md](adjust-subscription-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-subscriptions.md" %}
-[terminate-subscriptions.md](terminate-subscriptions.md)
+{% content-ref url="terminate-subscription.md" %}
+[terminate-subscription.md](terminate-subscription.md)
 {% endcontent-ref %}

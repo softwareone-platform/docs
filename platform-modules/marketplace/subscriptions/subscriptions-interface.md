@@ -15,12 +15,7 @@ On this page, you can view the following subscription details:
 * **Seller** - Displays the SoftwareOne legal entity that fulfilled the order and issued the invoice.
 * **Renewal date** - Displays the renewal date of your subscription.
 * **SPx** - Displays the estimated sales price of the subscription.
-* **Status** - Displays the current status of the subscription. Possible values include:
-  * **Draft** - The subscription has been created during the fulfillment of an order, but the order has not been completed yet. Draft subscriptions will move to **Active** when the related order is completed successfully.
-  * **Active** - The subscription is active and in use.
-  * **Updating** - The subscription is being updated and a change order is in progress.
-  * **Terminating** - A request to cancel your subscription is in progress.
-  * **Terminated**  - The subscription has been canceled.
+* **Status** - Displays the current status of the subscription.  For more information on the status, see [Subscription States](subscription-states.md).
 
 ## Subscription details page <a href="#subscription-details" id="subscription-details"></a>
 
@@ -32,10 +27,10 @@ The details page of a subscription gives you in-depth information about your sub
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Rename your subscription](rename-subscriptions.md)
+* [Rename your subscription](rename-subscription.md)
 * [Adjust the quantity of your subscriptions](adjust-subscription-quantity.md).
 * [Edit the subscription ID](edit-subscription-id.md).
-* [Terminate a single or multiple subscriptions](terminate-subscriptions.md).
+* [Terminate a single or multiple subscriptions](terminate-subscription.md).
 
 </details>
 
@@ -57,8 +52,8 @@ The following tabs are available:&#x20;
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="rename-subscriptions.md" %}
-[rename-subscriptions.md](rename-subscriptions.md)
+{% content-ref url="rename-subscription.md" %}
+[rename-subscription.md](rename-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="adjust-subscription-quantity.md" %}
@@ -69,6 +64,6 @@ The following tabs are available:&#x20;
 [edit-subscription-id.md](edit-subscription-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-subscriptions.md" %}
-[terminate-subscriptions.md](terminate-subscriptions.md)
+{% content-ref url="terminate-subscription.md" %}
+[terminate-subscription.md](terminate-subscription.md)
 {% endcontent-ref %}

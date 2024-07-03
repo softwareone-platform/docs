@@ -6,7 +6,7 @@ description: Save your order as a draft order so you can complete the order late
 
 When you create an order, you can save it as a draft with all its details and return to it later to complete it.&#x20;
 
-## Save an order as a draft order
+## Save the order as a draft order
 
 Follow these steps to save an order as a draft:
 

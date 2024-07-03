@@ -2,7 +2,7 @@
 description: Enable or disable a licensee.
 ---
 
-# Enable or Disable Licensees
+# Enable or Disable Licensee
 
 ## Before you begin
 
@@ -26,14 +26,14 @@ The licensee is enabled or disabled, depending on your chosen action, and a conf
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="licensees-interface.md" %}
-[licensees-interface.md](licensees-interface.md)
+{% content-ref url="licensee-interface.md" %}
+[licensee-interface.md](licensee-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-licensees.md" %}
-[create-licensees.md](create-licensees.md)
+{% content-ref url="create-licensee.md" %}
+[create-licensee.md](create-licensee.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-licensees.md" %}
-[edit-licensees.md](edit-licensees.md)
+{% content-ref url="edit-licensee.md" %}
+[edit-licensee.md](edit-licensee.md)
 {% endcontent-ref %}

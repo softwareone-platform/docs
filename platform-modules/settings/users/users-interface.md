@@ -40,13 +40,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (389).png" alt=""><figcaption><p>Details page of a user</p></figcaption></figure>
 
-When you open the details page of a user, it shows the properties associated with the user's profile and status. Possible statuses include:
-
-* **Invited** - The user has been invited to the account. This status remains until the user accepts the invitation.&#x20;
-* **Invitation Expired** - The user didn't accept the account invitation within the specified period, usually seven days from the invitation date.&#x20;
-* **Active** - The user has been invited to the account. This status remains until the user accepts the invitation.&#x20;
-* **Blocked** - The user has been restricted from accessing the account. This could be due to terms and conditions violations, security concerns, or at the administrator's discretion.
-* **Disabled** - The user has been removed from the account.
+When you open the details page of a user, it shows the properties associated with the user's profile.&#x20;
 
 The page also contains the following tabs that display corresponding information:
 

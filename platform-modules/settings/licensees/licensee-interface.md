@@ -2,9 +2,9 @@
 description: Learn about the fields and actions available on the Licensees page.
 ---
 
-# Licensees Interface
+# Licensee Interface
 
-## Licensees page <a href="#agreements-interface" id="agreements-interface"></a>
+## Licensee page <a href="#agreements-interface" id="agreements-interface"></a>
 
 The **Licensee** page, located under **Settings** > **Licensee**, displays all licensees in your account.&#x20;
 
@@ -17,12 +17,8 @@ For each licensee, you can view the following details:
 * **Contact person** - Displays the contact associated with the licensee.
 * **Buyer** - Displays the buyer related to the licensee.
 * **Seller** - Displays the SoftwareOne entity facilitating the procurement of products and licenses.
-* **Status** - Displays the licensee's status in the system. Possible values include:&#x20;
-  * **Active** - The licensee is active and can be used when making a transaction.
-  * **Enabled** - The licensee has been set up, but you cannot use it for transactions. When a licensee is created in the system, the status is marked as **Enabled**.
-  * **Deleted** -  The licensee has been deleted.
-  * **Disabled** - The licensee has been disabled and can no longer be used.
-* **Actions** - Displays options that allow you to manage licensees. Depending on your permissions, you can update licensee inforamtion, and enable or disable a licensee.
+* **Status** - Displays the licensee's status. For more information on the status, see [Licensee States](licensee-states.md).
+* **Actions** - Displays options that allow you to manage licensees. Depending on your permissions, you can update licensee information, and enable or disable a licensee.
 
 ## Licensee details page <a href="#subscription-details" id="subscription-details"></a>
 
@@ -34,8 +30,8 @@ The details page of a licensee displays additional information about the license
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Edit a licensee](edit-licensees.md)
-* [Enable or disable a licensee](enable-or-disable-licensees.md)
+* [Edit a licensee](edit-licensee.md)
+* [Enable or disable a licensee](enable-or-disable-licensee.md)
 
 </details>
 
@@ -52,14 +48,14 @@ When you open the details page of a licensee, it shows the licensee's name, mark
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-licensees.md" %}
-[create-licensees.md](create-licensees.md)
+{% content-ref url="create-licensee.md" %}
+[create-licensee.md](create-licensee.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-licensees.md" %}
-[edit-licensees.md](edit-licensees.md)
+{% content-ref url="edit-licensee.md" %}
+[edit-licensee.md](edit-licensee.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-licensees.md" %}
-[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
+{% content-ref url="enable-or-disable-licensee.md" %}
+[enable-or-disable-licensee.md](enable-or-disable-licensee.md)
 {% endcontent-ref %}
