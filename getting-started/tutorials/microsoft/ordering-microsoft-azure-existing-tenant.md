@@ -106,7 +106,3 @@ Enter the reference information as needed and click **Next**.
 2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
 <figure><img src="../../../.gitbook/assets/AzureSummary.png" alt=""><figcaption><p>Summary</p></figcaption></figure>
-
-## Next steps
-
-<mark style="background-color:red;">**\[Information needed]**</mark>
