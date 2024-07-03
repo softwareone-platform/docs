@@ -49,14 +49,14 @@ From this section, you can return to the **Licensee** page by clicking **Close**
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="licensee-interface.md" %}
-[licensee-interface.md](licensee-interface.md)
+{% content-ref url="licensees-interface.md" %}
+[licensees-interface.md](licensees-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-licensee.md" %}
-[edit-licensee.md](edit-licensee.md)
+{% content-ref url="edit-licensees.md" %}
+[edit-licensees.md](edit-licensees.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-licensee.md" %}
-[enable-or-disable-licensee.md](enable-or-disable-licensee.md)
+{% content-ref url="enable-or-disable-licensees.md" %}
+[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
 {% endcontent-ref %}

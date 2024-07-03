@@ -51,8 +51,8 @@ The **Summary** section displays the confirmation and subscription status as **T
 [subscriptions-interface.md](subscriptions-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-subscription.md" %}
-[rename-subscription.md](rename-subscription.md)
+{% content-ref url="rename-a-subscription.md" %}
+[rename-a-subscription.md](rename-a-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="adjust-subscription-quantity.md" %}

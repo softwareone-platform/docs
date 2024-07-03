@@ -44,6 +44,6 @@ Your subscription is renamed and the new name is visible across all pages that f
 [edit-subscription-id.md](edit-subscription-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-subscription.md" %}
-[terminate-subscription.md](terminate-subscription.md)
+{% content-ref url="terminate-a-subscription.md" %}
+[terminate-a-subscription.md](terminate-a-subscription.md)
 {% endcontent-ref %}

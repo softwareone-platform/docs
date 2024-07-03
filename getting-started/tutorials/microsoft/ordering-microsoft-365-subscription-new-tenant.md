@@ -10,7 +10,7 @@ This tutorial shows how to order a Microsoft 365 subscription by setting up a **
 
 Before you begin, ensure you have the following:
 
-* A licensee in the **active** state or permission to [create a new licensee](../../../platform-modules/settings/licensees/create-licensee.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
+* A licensee in the **active** state or permission to [create a new licensee](../../../platform-modules/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
 * Details, such as your company name, registration ID, and address. You'll need to provide these details while creating your new Microsoft tenant.&#x20;
 * Contact details of the person who will manage your account.&#x20;
 
@@ -34,7 +34,7 @@ Click **Create new agreement** to set up your new agreement.
 
 ## 3. Select licensee
 
-1. Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../platform-modules/settings/licensees/create-licensee.md).
+1. Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../platform-modules/settings/licensees/create-licensees.md).
 2. Click **Next**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>

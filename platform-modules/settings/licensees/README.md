@@ -31,18 +31,18 @@ From the **Licensees** page, you can:
 
 ## Related topics
 
-{% content-ref url="licensee-interface.md" %}
-[licensee-interface.md](licensee-interface.md)
+{% content-ref url="licensees-interface.md" %}
+[licensees-interface.md](licensees-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-licensee.md" %}
-[create-licensee.md](create-licensee.md)
+{% content-ref url="create-licensees.md" %}
+[create-licensees.md](create-licensees.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-licensee.md" %}
-[edit-licensee.md](edit-licensee.md)
+{% content-ref url="edit-licensees.md" %}
+[edit-licensees.md](edit-licensees.md)
 {% endcontent-ref %}
 
-{% content-ref url="enable-or-disable-licensee.md" %}
-[enable-or-disable-licensee.md](enable-or-disable-licensee.md)
+{% content-ref url="enable-or-disable-licensees.md" %}
+[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
 {% endcontent-ref %}
