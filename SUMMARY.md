@@ -12,14 +12,7 @@
     * [Update Password](getting-started/platform-overview/basics/update-password.md)
     * [Manage Favorites](getting-started/platform-overview/basics/manage-favorites.md)
     * [View Notifications](getting-started/platform-overview/basics/view-notifications.md)
-* [Tutorials](getting-started/tutorials/README.md)
-  * [Microsoft](getting-started/tutorials/microsoft/README.md)
-    * [Ordering Microsoft 365 Subscription (New Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-new-tenant.md)
-    * [Ordering Microsoft 365 Subscription (Existing Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-existing-tenant.md)
-    * [Ordering Microsoft Azure Subscriptions (New Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-azure-subscriptions-new-tenant.md)
-    * [Ordering Microsoft Azure (Existing Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-azure-existing-tenant.md)
-    * [Ordering Additional Microsoft Azure Subscriptions](getting-started/tutorials/microsoft/ordering-additional-microsoft-azure-subscriptions.md)
-    * [Terminating Microsoft Subscriptions](getting-started/tutorials/microsoft/terminating-microsoft-subscriptions.md)
+* [Tutorials](getting-started/tutorials.md)
 
 ## PLATFORM MODULES&#x20;
 
@@ -198,6 +191,13 @@
 * [Microsoft CSP](extensions/microsoft-cloud-solution-provider/README.md)
   * [DWE Services Contract](extensions/microsoft-csp/dwe-services-contract.md)
   * [Azure Services Contract](extensions/microsoft-csp/azure-services-contract.md)
+  * [Tutorials](extensions/microsoft-csp/tutorials/README.md)
+    * [Ordering Microsoft 365 Subscription (Existing Tenant)](extensions/microsoft-csp/tutorials/ordering-microsoft-365-subscription-existing-tenant.md)
+    * [Ordering Microsoft 365 Subscription (New Tenant)](extensions/microsoft-csp/tutorials/ordering-microsoft-365-subscription-new-tenant.md)
+    * [Ordering Microsoft Azure (Existing Tenant)](extensions/microsoft-csp/tutorials/ordering-microsoft-azure-existing-tenant.md)
+    * [Ordering Microsoft Azure Subscriptions (New Tenant)](extensions/microsoft-csp/tutorials/ordering-microsoft-azure-subscriptions-new-tenant.md)
+    * [Ordering Additional Microsoft Azure Subscriptions](extensions/microsoft-csp/tutorials/ordering-additional-microsoft-azure-subscriptions.md)
+    * [Terminating Microsoft Subscriptions](extensions/microsoft-csp/tutorials/terminating-microsoft-subscriptions.md)
   * [Release Notes](extensions/microsoft-cloud-solution-provider/release-notes.md)
 
 ## Developer Resources

@@ -39,6 +39,6 @@ Here are some of the key features of our platform:
 [basics](basics/)
 {% endcontent-ref %}
 
-{% content-ref url="../tutorials/" %}
-[tutorials](../tutorials/)
+{% content-ref url="../tutorials.md" %}
+[tutorials.md](../tutorials.md)
 {% endcontent-ref %}
