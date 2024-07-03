@@ -36,8 +36,8 @@ License keys can only be viewed, not downloaded.
 [manage-order-notes.md](manage-order-notes.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-orders-to-processing.md" %}
-[set-orders-to-processing.md](set-orders-to-processing.md)
+{% content-ref url="set-an-order-to-processing.md" %}
+[set-an-order-to-processing.md](set-an-order-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="delete-draft-orders.md" %}

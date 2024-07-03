@@ -22,7 +22,7 @@ Follow these steps to assign the **Billing account reader** role to the Client P
 
 <div data-full-width="false">
 
-<figure><img src="../../../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ Follow these steps to assign the **Billing account reader** role to the Client P
 
 <div data-full-width="false">
 
-<figure><img src="../../../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ Follow these steps to assign the **Billing account reader** role to the Client P
 
 <div data-full-width="false">
 
-<figure><img src="../../../../.gitbook/assets/image (14) (1) (1) (1) (1) (1).png" alt="" width="439"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1).png" alt="" width="439"><figcaption></figcaption></figure>
 
 </div>
 

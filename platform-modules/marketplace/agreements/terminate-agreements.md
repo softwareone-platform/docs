@@ -47,8 +47,8 @@ The **Summary** section displays the confirmation.
 [agreements-interface.md](agreements-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-agreements.md" %}
-[rename-agreements.md](rename-agreements.md)
+{% content-ref url="rename-an-agreement.md" %}
+[rename-an-agreement.md](rename-an-agreement.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-agreement-id.md" %}

@@ -68,17 +68,17 @@ This page **allows you to set tenants and products profiles** (as available in y
 
 Typically profiles and tenants can be found as a subsection in CPS. Profiles can be found in both “SECTION 1. Licenses and Software Assurance” and “Future Pricing”. Please note that the “Enterprise” subsection should not be treated as a profile and will be automatically added in the Wizard. Please inspect the below screenshot from a sample CPS with “Industry Device II” and “Manufacturing” profiles.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The screenshot below shows the “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
 Tenants represent the domain of subscription products. They can be found in “SECTION 2: Monthly Subscriptions” as well as the proper “Future Pricing” subsection. The screenshot below shows two tenants have been identified. Subsections should not be treated as tenants and will be automatically added by default.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Adding Profiles and Tenants**
 
@@ -119,7 +119,7 @@ The purpose of this step is to add License and Software Assurance details i.e. p
 
 Data required in this step can be found in CPS table under the header “Section 1 – License and Software Assurance” as shown below. Products for every year should be added (please inspect the note regarding auto auto-populate feature below).
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pricing information for all products across every year is required. However, due to the structure of agreements only data for the first year need to be added. Subsequent years are auto-populated and only need to be adjusted in singular cases (please see note below).
 
@@ -148,7 +148,7 @@ This step lets you fill in details for subscriptions.
 
 Data required in this step can be found in CPS table under the header “Section 2 – Monthly Subscriptions” as shown below. There are a few columns in CPS that you do not have to take into consideration from now on: “Usage indicator”, “Usage Start Date” and “Unit of Measure”. Those columns should be omitted when inputting pricing information.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 5 has a similar grid to Step 4, the only difference is the “Unit Quantity” field is added. “Unit Quantity” represents the number of months. It is set to 12 months by default, however, it can be changed if required.
 
@@ -172,7 +172,7 @@ Once completed, click on the “Next” button to move to the next step i.e. Fut
 
 This step is to insert future pricing details that come from the “Future Pricing” section of the Customer Price Sheet. Rows in CPS represent products and columns with the right prices for the TrueUp process for that given year. The “Future Pricing” section in CPS looks similar to what is shown below:
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The “Future Pricing” section in CPS typically consists of multiple subsections such as “TrueUps”, “Higher Editions”, “Step-Ups”, “Future Monthly – Enterprise Online Services”, “Future Monthly – Enterprise Online Services”, etc.
 
@@ -196,13 +196,13 @@ The following products will be automatically added from the previous steps:
 * All products of type UpgSA (Upgrade and Software Assurance Pack)
 * All subscriptions with prices
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The number of years on Step 6 is equal to the number of years you have defined in Steps 4 and 5.
 
 Fill in the prices for all products in Y1, Y2, Y3 until Yn (n = no. of years tab you have added in Step 4).
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Prices for subscriptions are already populated from Step 5, however, you can add more if needed but existing subscriptions (added in Step 5) cannot be removed.
 
@@ -217,7 +217,7 @@ The review step summarizes all the information provided in the Wizard. It allows
 * Submit all the entered details by clicking on the “Finish” button.
 * Review the annual and total payment details for the reported agreement. The figures for all years should match with the figures in the summary section of CPS sheet for respective years.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you feel that all the details are correct, submit by clicking on the “Finish” button. Clicking on “Finish” will submit the agreement for Asset Allocation as shown below:
 
@@ -235,7 +235,7 @@ In Step 1, if the user does not find the agreement listed in the drop-down, they
 
 Clicking this tile will take you to the next form as shown below:
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fill in the details and click on “Next” to proceed with this agreement.
 
@@ -251,7 +251,7 @@ In Step 3 the user configures the reporting locations. If the target company is 
 
 Click on “Add New Company” under the company name drop-down. It will take you to the below form where you can provide the details and click on “**Save**”.
 
-<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE:** You can proceed to the next step after requesting the New Company, however, the creation of the new company via the Wizard will trigger an email to inside sales. Finishing new company onboarding can only be done when the company is created in the backend database (i.e. Navision) by inside sales.
@@ -326,7 +326,7 @@ On this page, all details are shown for the respective product. i.e. if the same
 
 Even though you have come to this page via a specific product record on the overview page, you can still select any other product directly from top dropdown. There is no need to go back to the overview page.
 
-<figure><img src="../../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Reporting Location**
 
@@ -334,7 +334,7 @@ For the selected product, the reporting location drop-down will only contain tho
 
 For example, if a product is set up under the “Industry Device” product profile, only those reporting locations would be available in the drop-down which belongs to this profile.
 
-<figure><img src="../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If nothing is selected in the “Reporting Locations” drop-down, all the available reporting locations are shown in the grid and are grouped by Location Group, as defined in Step 3 of the Wizard setup process.
 
@@ -342,13 +342,13 @@ At this step, you need to have the allocation data for the selected product. Num
 
 Once you have defined the quantity, the amount will get calculated automatically based on the unit price you have set up in the Wizard (Year 1 of Steps 4 and 5) using CPS.
 
-<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Total Cost** – shows the total cost of all the allocated assets/licenses. i.e. if only 40 assets are allocated out of 90, the total cost will show the amount for 40 assets.
 
 At the bottom of the reporting location column, you can see if all the available assets are allocated or not. Three possible values can be displayed here:
 
-&#x20;![](<../../../.gitbook/assets/image (17) (1).png>) ![](<../../../.gitbook/assets/image (18) (1).png>) Depicts that all the assets are allocated properly and status field is set to “Complete”
+&#x20;![](<../../../.gitbook/assets/image (17) (1) (1).png>) ![](<../../../.gitbook/assets/image (18) (1) (1).png>) Depicts that all the assets are allocated properly and status field is set to “Complete”
 
 Depicts that too many licenses have been allocated and the status field is set to “over-allocated”
 

@@ -20,7 +20,7 @@ Follow these steps to switch between your accounts:
 2. Click your profile menu in the header. Your associated accounts are displayed under **Switch account**.
 3. Select the account you want to switch to. If you are linked to several accounts, use the **Search** field to find the account easily.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Switch your account</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Switch your account</p></figcaption></figure>
 
 You'll be signed in to your selected account and have access to the account-specific settings and modules associated with your profile.&#x20;
 

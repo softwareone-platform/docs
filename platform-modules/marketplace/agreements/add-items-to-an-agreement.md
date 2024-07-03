@@ -19,7 +19,7 @@ Follow these steps to add more items to your agreement:
 2. Select an active agreement from the list.
 3. On the details page of your selected agreement, click **Buy more**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p> Buy more option on the details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p> Buy more option on the details page</p></figcaption></figure>
 
 4. In the **Select items** section of the purchase wizard, do the following:
    1. Click **Add items** and then choose the items you want to buy.
@@ -46,8 +46,8 @@ While the change order is in progress, the agreement shows as **Updating**. The 
 [terminate-agreements.md](terminate-agreements.md)
 {% endcontent-ref %}
 
-{% content-ref url="rename-agreements.md" %}
-[rename-agreements.md](rename-agreements.md)
+{% content-ref url="rename-an-agreement.md" %}
+[rename-an-agreement.md](rename-an-agreement.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-agreement-id.md" %}

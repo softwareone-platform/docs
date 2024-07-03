@@ -35,7 +35,7 @@ The details page of an order gives you in-depth information about your order. Yo
 From the details page, you can complete the following tasks:&#x20;
 
 * [Manage your order notes](manage-order-notes.md).
-* [Set the order from the querying state to the processing state](set-orders-to-processing.md).
+* [Set the order from the querying state to the processing state](set-an-order-to-processing.md).
 * [View and download your file attachments](view-and-download-attachments.md).
 * [Delete your draft orders](delete-draft-orders.md).
 
@@ -72,8 +72,8 @@ The details page of an order contains several tabs that display corresponding or
 [view-and-download-attachments.md](view-and-download-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-orders-to-processing.md" %}
-[set-orders-to-processing.md](set-orders-to-processing.md)
+{% content-ref url="set-an-order-to-processing.md" %}
+[set-an-order-to-processing.md](set-an-order-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="delete-draft-orders.md" %}

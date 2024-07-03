@@ -46,7 +46,7 @@ The **Scheduled** tab displays the scheduled report configurations and allows yo
 
 Note that you must have the `SCHEDULED_REPORTING` permission to access this tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduled tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduled tab</p></figcaption></figure>
 
 On this tab, you can view the following details:
 

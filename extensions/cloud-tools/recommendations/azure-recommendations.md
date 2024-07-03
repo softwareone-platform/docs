@@ -2,7 +2,7 @@
 description: Manage your Azure recommendations.
 ---
 
-# Azure recommendations
+# Azure Recommendations
 
 Microsoft Azure recommendations are divided into the following categories:
 
@@ -26,7 +26,7 @@ All Azure recommendations that are recommended by Azure (and not by SoftwareOne 
 
 The association from a recommendation to a related Client Portal resource is available on the **Related Resources** tab:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Related Resources tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Related Resources tab</p></figcaption></figure>
 
 ## Complete Azure recommendations <a href="#completion-of-azure-recommendations" id="completion-of-azure-recommendations"></a>
 

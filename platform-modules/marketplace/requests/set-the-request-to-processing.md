@@ -41,18 +41,18 @@ Follow these steps to set your request to **Processing**:&#x20;
 [requests-interface.md](requests-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-new-request.md" %}
-[create-new-request.md](create-new-request.md)
+{% content-ref url="create-new-requests.md" %}
+[create-new-requests.md](create-new-requests.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-messages.md" %}
-[add-messages.md](add-messages.md)
+{% content-ref url="add-a-message.md" %}
+[add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-and-manage-attachments.md" %}
 [add-and-manage-attachments.md](add-and-manage-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="complete-requests.md" %}
-[complete-requests.md](complete-requests.md)
+{% content-ref url="complete-a-request.md" %}
+[complete-a-request.md](complete-a-request.md)
 {% endcontent-ref %}

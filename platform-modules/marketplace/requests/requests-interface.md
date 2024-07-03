@@ -30,10 +30,10 @@ The details page of a request provides all the details about your request. You c
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Add a message to the conversation](add-messages.md).
+* [Add a message to the conversation](add-a-message.md).
 * [Set your request from Querying to Processing](set-the-request-to-processing.md).
 * [Add and manage your file attachments](add-and-manage-attachments.md).
-* [Complete or close a request](complete-requests.md).
+* [Complete or close a request](complete-a-request.md).
 
 </details>
 
@@ -43,7 +43,7 @@ When you open the details page, it displays the name of the product against whic
 
 The request details page is organized into several tabs, each providing specific information. The following tabs are available:
 
-* **Activity** - Displays the activity information, including the message history for the request. From this tab, you can also [add a new message](add-messages.md) to the conversation.&#x20;
+* **Activity** - Displays the activity information, including the message history for the request. From this tab, you can also [add a new message](add-a-message.md) to the conversation.&#x20;
 * **Parameters** - Displays all request parameters and their values, if available. The information is for viewing only and cannot be edited.
 * **Attachments** - Displays the files attached to the request. You can also [add new attachments and manage existing attachments](add-and-manage-attachments.md).&#x20;
 * **Details** - Displays the date and time when the request was created. If the request was updated, the tab displays the timestamp when the request was last modified.
@@ -54,12 +54,12 @@ The request details page is organized into several tabs, each providing specific
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-new-request.md" %}
-[create-new-request.md](create-new-request.md)
+{% content-ref url="create-new-requests.md" %}
+[create-new-requests.md](create-new-requests.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-messages.md" %}
-[add-messages.md](add-messages.md)
+{% content-ref url="add-a-message.md" %}
+[add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
 {% content-ref url="set-the-request-to-processing.md" %}
@@ -70,6 +70,6 @@ The request details page is organized into several tabs, each providing specific
 [add-and-manage-attachments.md](add-and-manage-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="complete-requests.md" %}
-[complete-requests.md](complete-requests.md)
+{% content-ref url="complete-a-request.md" %}
+[complete-a-request.md](complete-a-request.md)
 {% endcontent-ref %}

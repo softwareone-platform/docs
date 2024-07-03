@@ -19,11 +19,11 @@ For instance, Microsoft may charge a different price for an A3 Cloud Service or 
 
 Use the **Product Name** and the **Region** fields to narrow down the prices:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filters</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filters</p></figcaption></figure>
 
 As a result, many A3 options will be displayed, but only based on those two regions. Here is an example:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 SaaS Price Lists are different from IaaS/PaaS Pricelists from Cloud Providers. SaaS Price lists are based on what Subscriptions or Licenses are active for that SaaS Provider.&#x20;
 
@@ -35,13 +35,13 @@ It’s important to add any missing price to the Pricelist Center, to ensure acc
 
 To determine what SaaS Subscriptions/Licenses require prices, go to the **Pricelist Center** and select the **Missing Prices** tab.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Missing Prices</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Missing Prices</p></figcaption></figure>
 
 If this is the first time entering prices, you might notice several Subscriptions/Licenses with missing prices.
 
 Add the proper pricing to each Subscription/License by selecting **+ Add new price** button. Note that adding prices requires a recalculation of the historical spending information within our system. This could take up to 24 hours to complete.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Number | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -55,12 +55,12 @@ After the SaaS prices are added, you can update them in the future or remove the
 
 To do so, navigate to the **Pricelist Center** and select **Customer Set Prices**.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption><p>Customer Set Prices</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Customer Set Prices</p></figcaption></figure>
 
 On this page, you can see the current prices for SaaS products.&#x20;
 
 By selecting **View**, you can review the history of prices and their start dates, for example, if you are renewing a contract with a different price or want to see how far back prices are applied. You can also view the historical prices, change prices, or add new prices.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If you are unable to edit or add a new price, it might be due to your permissions. Contact your administrator to change permissions.

@@ -14,7 +14,7 @@ You can access the module by navigating to the main menu of the Client Portal an
 
 The **Service Provider Reporting** page contains options that allow you to edit product quantities and view your contracts. The page also displays products within each contract, along with the prices, item numbers, and pool. Clicking a product opens up its **Product Detail** page.
 
-<figure><img src="../../../.gitbook/assets/image (15) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the **Service Provider Reporting** page:
 
@@ -69,7 +69,7 @@ Follow these steps to add a new product:
 1. On the **Service Provider Reporting** page, click **Add Product**.&#x20;
 2. Select a product from the list or type the product name. The product is added.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Click **Save**. The feature creates or updates a draft for the revised month, which can be edited until it is transferred via **Create Order**.
 
