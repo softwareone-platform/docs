@@ -6,7 +6,7 @@ description: Reinvite a user to your account.
 
 ## Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
 
-Follow the steps in this topic only if you want to resend a previously generated invitaiton. For example, if the person didn't receive the original invitation.&#x20;
+Follow the steps in this topic only if you want to resend a previously generated invitation. For example, if the person didn't receive the original invitation.&#x20;
 
 If the person's original invitation has expired and they're encountering the following message, you'll need to [generate a new link](generate-new-invitations.md):
 
@@ -24,7 +24,7 @@ Follow these steps to send the previously generated invitation again:
 
 4. To copy the invitation link to your clipboard and share it directly with the individual, click **Copy invitation link**.&#x20;
 
-When you invite the individual again, the expiration time for their invitation is reset to seven (7) days.
+When you invite the individual again, the expiration time for their invitation is reset to seven days.
 
 ## **Related topics**
 
@@ -40,12 +40,12 @@ When you invite the individual again, the expiration time for their invitation i
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
+{% content-ref url="add-new-user.md" %}
+[add-new-user.md](add-new-user.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-users.md" %}
-[edit-users.md](edit-users.md)
+{% content-ref url="edit-user.md" %}
+[edit-user.md](edit-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="remove-users.md" %}

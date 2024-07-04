@@ -33,12 +33,12 @@ The link is copied to your clipboard and a confirmation message is displayed.&#x
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
+{% content-ref url="add-new-user.md" %}
+[add-new-user.md](add-new-user.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-users.md" %}
-[edit-users.md](edit-users.md)
+{% content-ref url="edit-user.md" %}
+[edit-user.md](edit-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="remove-users.md" %}

@@ -2,9 +2,9 @@
 description: Order new Adobe items using an existing agreement.
 ---
 
-# Ordering New Adobe Items
+# Order New Adobe Items
 
-If you already have an agreement and want to order new Adobe items as part of the same agreement, you can place a change order. This tutorial shows how you can order additional Adobe items.
+If you already have an agreement and want to order new Adobe items as part of the same agreement, you can place a change order. This tutorial shows how you can do so.
 
 ## Prerequisites
 
@@ -29,7 +29,7 @@ The purchase wizard starts and the **Select agreement** section of the wizard is
 
 <figure><img src="../../../.gitbook/assets/AdobeSelectAgreement.png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 
-When you click **Next**, the **Select Items** section of the wizard is displayed directly. By default, all other sections are skipped because the details are fetched from your agreement.&#x20;
+When you click **Next**, the **Select Items** section of the wizard is displayed directly. All other sections are skipped by default because the details are fetched from your agreement.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
@@ -40,13 +40,13 @@ When you click **Next**, the **Select Items** section of the wizard is displayed
 
 <figure><img src="../../../.gitbook/assets/AddItems.png" alt=""><figcaption><p>Add items</p></figcaption></figure>
 
-3. When the new items are added, adjust the quantity as needed in the **New qty** field and click **Next**.
+3. When adding new items, adjust the quantity as needed in the **New qty** field and click **Next**.
 
 <figure><img src="../../../.gitbook/assets/AddItems1.png" alt=""><figcaption><p>Update quantity</p></figcaption></figure>
 
 ## 4. Provide agreement and order details
 
-1. (Optional) Enter the required details as necessary so you can identify the agreement and the order easily.&#x20;
+1. (Optional) Enter the required details so you can easily identify the agreement and order.&#x20;
 2. Click **Next**.
 
 <figure><img src="../../../.gitbook/assets/Details.png" alt=""><figcaption><p>Order details</p></figcaption></figure>

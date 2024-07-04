@@ -1,29 +1,29 @@
 # Tutorials
 
-{% content-ref url="../../../getting-started/tutorials/adobe/ordering-adobe-subscriptions.md" %}
-[ordering-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/ordering-adobe-subscriptions.md)
+{% content-ref url="order-adobe-subscription.md" %}
+[order-adobe-subscription.md](order-adobe-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started/tutorials/adobe/ordering-new-adobe-items.md" %}
-[ordering-new-adobe-items.md](../../../getting-started/tutorials/adobe/ordering-new-adobe-items.md)
+{% content-ref url="order-new-adobe-items.md" %}
+[order-new-adobe-items.md](order-new-adobe-items.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started/tutorials/adobe/renaming-adobe-subscriptions.md" %}
-[renaming-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/renaming-adobe-subscriptions.md)
+{% content-ref url="rename-adobe-subscription.md" %}
+[rename-adobe-subscription.md](rename-adobe-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started/tutorials/adobe/downsizing-adobe-subscriptions.md" %}
-[downsizing-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/downsizing-adobe-subscriptions.md)
+{% content-ref url="downsize-adobe-subscription.md" %}
+[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started/tutorials/adobe/upsizing-adobe-subscriptions.md" %}
-[upsizing-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/upsizing-adobe-subscriptions.md)
+{% content-ref url="upsize-adobe-subscription.md" %}
+[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started/tutorials/adobe/terminating-all-adobe-subscriptions.md" %}
-[terminating-all-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/terminating-all-adobe-subscriptions.md)
+{% content-ref url="terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md" %}
-[terminating-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md)
+{% content-ref url="terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
 {% endcontent-ref %}

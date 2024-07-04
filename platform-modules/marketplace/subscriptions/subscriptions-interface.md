@@ -15,7 +15,7 @@ On this page, you can view the following subscription details:
 * **Seller** - Displays the SoftwareOne legal entity that fulfilled the order and issued the invoice.
 * **Renewal date** - Displays the renewal date of your subscription.
 * **SPx** - Displays the estimated sales price of the subscription.
-* **Status** - Displays the current status of the subscription.  For more information on the status, see [Subscription States](broken-reference).
+* **Status** - Displays the current status of the subscription.&#x20;
 
 ## Subscription details page <a href="#subscription-details" id="subscription-details"></a>
 

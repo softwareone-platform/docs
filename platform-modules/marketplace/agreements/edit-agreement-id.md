@@ -25,7 +25,7 @@ Follow these steps to update the agreement ID:
 
 <figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption><p>Details tab of an agreement</p></figcaption></figure>
 
-4. In **Additional ID**, enter the new agreement ID and click **Save**.&#x20;
+4. In **Additional ID**, enter the new ID and then click **Save**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (361).png" alt="" width="563"><figcaption><p>Edit agreement ID</p></figcaption></figure>
 

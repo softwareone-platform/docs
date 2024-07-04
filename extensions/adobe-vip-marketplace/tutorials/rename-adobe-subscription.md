@@ -1,19 +1,19 @@
 ---
-description: Rename your Adobe subscriptions.
+description: Rename your Adobe subscription.
 ---
 
-# Renaming Adobe Subscriptions
+# Rename Adobe Subscription
 
 Your account on the Marketplace Platform might have several Adobe subscriptions. You can rename your subscriptions so you can identify and locate them easily. This tutorial shows how you can do so.
 
 ## Prerequisites
 
-Make sure that the subscription you want to rename is **active** or **updating**. Terminated subscriptions cannot be renamed.
+Make sure that the subscription you want to rename is in the **Active** or **Updating** state. Terminated subscriptions cannot be renamed.
 
 ## 1. Open the subscription <a href="#section-viewing-subscriptions" id="section-viewing-subscriptions"></a>
 
 1. Navigate to the **Subscriptions** page (**Marketplace** > **Subscriptions**).&#x20;
-2. Click the subscription you want to rename. The following image shows an example subscription called **Creative Cloud All Apps Pro for Enterprise**.
+2. Click the subscription you want to rename. The following image shows an example aDOBE subscription called **Creative Cloud All Apps Pro for Enterprise**.
 
 <figure><img src="../../../.gitbook/assets/Rename.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
@@ -27,6 +27,6 @@ Make sure that the subscription you want to rename is **active** or **updating**
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Subscription name</p></figcaption></figure>
 
-The subscription is updated immediately and the new name is reflected on the **Details** tab of your subscription:
+The subscription is updated immediately and the new name is reflected on the **Details** tab of the subscription and all other pages that feature the subscription.
 
 <figure><img src="../../../.gitbook/assets/Name.png" alt=""><figcaption><p>Details tab</p></figcaption></figure>

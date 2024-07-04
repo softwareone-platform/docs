@@ -10,7 +10,7 @@ If you want to cancel all subscriptions under an agreement and terminate your ag
 
 Before terminating an agreement, note the following points:
 
-* You can only terminate agreements that are in the **Active** state. Agreements in any other state (such as **Processing** or **Updating**) cannot be terminated. For a description of these states, see [Agreements interface](agreements-interface.md).
+* You can only terminate agreements that are in the **Active** state. Agreements in any other state (such as **Processing** or **Updating**) cannot be terminated. For a description of these states, see [Agreements Interface](agreements-interface.md).
 * Creating a termination order doesn't immediately cancel your agreement. An agreement is terminated only after the vendor has approved it for termination.
 
 ## Terminate an agreement
