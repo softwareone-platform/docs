@@ -2,7 +2,7 @@
 description: Order a Microsoft 365 subscription for a new Microsoft tenant.
 ---
 
-# Ordering Microsoft 365 Subscription (New Tenant)
+# Order Microsoft 365 Subscription (New Tenant)
 
 This tutorial shows how to order a Microsoft 365 subscription by setting up a **new agreement** and a **new Microsoft tenant**.
 

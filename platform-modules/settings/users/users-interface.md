@@ -31,7 +31,7 @@ The details page of a user provides all information related to the user. You can
 
 From the details page, you can complete the following tasks:&#x20;
 
-* [Edit a user](edit-user.md)
+* [Edit a user](edit-users.md)
 * [Remove a user](remove-users.md)
 * [Resend the invitation email](resend-invitations.md) (only if the user's status is **Invited**)
 * [Copy the invitation link](copy-invitation-link.md) (only if the user's status is **Invited**)
@@ -59,12 +59,12 @@ The page also contains the following tabs that display corresponding information
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-user.md" %}
-[add-new-user.md](add-new-user.md)
+{% content-ref url="add-new-users.md" %}
+[add-new-users.md](add-new-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-user.md" %}
-[edit-user.md](edit-user.md)
+{% content-ref url="edit-users.md" %}
+[edit-users.md](edit-users.md)
 {% endcontent-ref %}
 
 {% content-ref url="remove-users.md" %}

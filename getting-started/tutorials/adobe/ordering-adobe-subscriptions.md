@@ -4,7 +4,7 @@ description: >-
   Marketplace account.
 ---
 
-# Ordering Adobe Subscriptions
+# Order Adobe Subscription
 
 Buying from the Adobe VIP Marketplace buying program means purchasing subscription-based products. You subscribe to these products and pay periodically for their usage.&#x20;
 

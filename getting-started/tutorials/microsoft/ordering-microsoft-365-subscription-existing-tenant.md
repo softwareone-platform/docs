@@ -2,7 +2,7 @@
 description: Order a Microsoft 365 subscription for your existing Microsoft tenant.
 ---
 
-# Ordering Microsoft 365 Subscription (Existing Tenant)
+# Order Microsoft 365 Subscription (Existing Tenant)
 
 If you already have a Microsoft account and want to order a Microsoft 365 subscription using the same account, you can do so through the Marketplace Platform.
 

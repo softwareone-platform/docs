@@ -2,7 +2,7 @@
 description: Order additional Microsoft Azure subscriptions using an existing agreement.
 ---
 
-# Ordering Additional Microsoft Azure Subscriptions
+# Order Additional Microsoft Azure Subscriptions
 
 If you already have an active agreement and want to order additional Azure subscriptions under the same agreement, you can place a change order.&#x20;
 

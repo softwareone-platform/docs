@@ -4,7 +4,7 @@ description: >-
   account.
 ---
 
-# Ordering Microsoft Azure (Existing Tenant)
+# Order Microsoft Azure Subscription (Existing Tenant)
 
 This tutorial shows how to order a Microsoft Azure subscription by setting up a **new agreement** and connecting your **existing Microsoft tenant**.&#x20;
 

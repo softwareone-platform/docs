@@ -2,7 +2,7 @@
 description: Cancel a specific Adobe subscription in an agreement.
 ---
 
-# Terminating Adobe Subscriptions
+# Terminate Adobe Subscription
 
 If you want to cancel your Adobe subscriptions within the 14-day return period or if you are outside the 14-day return period and don't want your subscription to auto-renew on the renewal date, you'll need to create a termination order.&#x20;
 

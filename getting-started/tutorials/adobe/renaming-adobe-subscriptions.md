@@ -13,7 +13,7 @@ Make sure that the subscription you want to rename is in the **Active** or **Upd
 ## 1. Open the subscription <a href="#section-viewing-subscriptions" id="section-viewing-subscriptions"></a>
 
 1. Navigate to the **Subscriptions** page (**Marketplace** > **Subscriptions**).&#x20;
-2. Click the subscription you want to rename. The following image shows an example aDOBE subscription called **Creative Cloud All Apps Pro for Enterprise**.
+2. Click the subscription you want to rename. The following image shows an example Adobe subscription called **Creative Cloud All Apps Pro for Enterprise**.
 
 <figure><img src="../../../.gitbook/assets/Rename.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 

@@ -2,7 +2,7 @@
 description: Order a Microsoft Azure subscription through the Marketplace Platform.
 ---
 
-# Ordering Microsoft Azure Subscriptions (New Tenant)
+# Order Microsoft Azure Subscription (New Tenant)
 
 This tutorial shows how to order a Microsoft Azure subscription by setting up a **new agreement** and a **new Microsoft tenant**.
 

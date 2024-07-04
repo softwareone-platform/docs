@@ -11,7 +11,7 @@ In certain situations, you might need to remove a person from your account. Only
 Before removing a user, note the following points:
 
 * Ensure that you've reviewed the user's permissions and assigned groups. This is necessary to prevent accidental removal.
-* Removing a user doesn't delete them from the system. This allows you to reinvite them to your account. For more information, see [Add New User](add-new-user.md).
+* Removing a user doesn't delete them from the system. This allows you to reinvite them to your account. For more information, see [Add New User](add-new-users.md).
 * Removing a user only removes them from the respective account. If the user is associated with several accounts in the platform, they'll still be able to access those accounts.&#x20;
 
 ## Remove a user from your account
@@ -47,12 +47,12 @@ Remember that if the user belongs to multiple accounts in the Marketplace Platfo
 [respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-new-user.md" %}
-[add-new-user.md](add-new-user.md)
+{% content-ref url="add-new-users.md" %}
+[add-new-users.md](add-new-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="edit-user.md" %}
-[edit-user.md](edit-user.md)
+{% content-ref url="edit-users.md" %}
+[edit-users.md](edit-users.md)
 {% endcontent-ref %}
 
 {% content-ref url="copy-invitation-link.md" %}

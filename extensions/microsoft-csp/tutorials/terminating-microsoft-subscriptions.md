@@ -2,7 +2,7 @@
 description: Terminate your Microsoft subscription.
 ---
 
-# Terminating Microsoft Subscriptions
+# Terminate Microsoft Subscriptions
 
 If you want to cancel your Microsoft subscription, you'll need to create a termination order.&#x20;
 
