@@ -2,9 +2,9 @@
 
 ## Item object
 
-The Item Object represents a “product item” as a transactable element of a product that, for example, in a created order, is represented as a “line item” of that order.
+The Item object represents a “product item” as a transactable element of a product that, for example, in a created order, is represented as a “line item” of that order.
 
-<table><thead><tr><th>Field</th><th width="249">Type</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p>Platform generated Id. </p><p></p><p>Example: "ITM-0690-0539-0001"</p></td></tr><tr><td><strong><code>href</code></strong></td><td>string</td><td><p>The resource URI of the Item. </p><p></p><p>Example: "/product-items/ITM-0690-0539-0001"</p></td></tr><tr><td><strong><code>name</code></strong></td><td>string</td><td><p>Name of the item. </p><p></p><p>Example: "Microsoft 365 Apps for Business"</p></td></tr><tr><td><strong><code>description</code></strong></td><td>string</td><td><p>Item description. </p><p></p><p>Example: "Best for businesses that need Office apps across devices and cloud file storage. For businesses with up to 300 employees."</p></td></tr><tr><td><strong><code>externalIds</code></strong></td><td><a href="./#externalids">ExternalIds</a></td><td><p> Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="269">Field</th><th width="249">Type</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p>Platform generated Id. </p><p></p><p>Example: "ITM-0690-0539-0001"</p></td></tr><tr><td><strong><code>href</code></strong></td><td>string</td><td><p>The resource URI of the Item. </p><p></p><p>Example: "/product-items/ITM-0690-0539-0001"</p></td></tr><tr><td><strong><code>name</code></strong></td><td>string</td><td><p>Name of the item. </p><p></p><p>Example: "Microsoft 365 Apps for Business"</p></td></tr><tr><td><strong><code>description</code></strong></td><td>string</td><td><p>Item description. </p><p></p><p>Example: "Best for businesses that need Office apps across devices and cloud file storage. For businesses with up to 300 employees."</p></td></tr><tr><td><strong><code>externalIds</code></strong></td><td><a href="./#externalids">ExternalIds</a></td><td><p> Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
   "vendor": "ven-1233-3222",
   "operations": "op-322-322",
 }
@@ -12,7 +12,7 @@ The Item Object represents a “product item” as a transactable element of a p
   "period": "1m",
   "commitment": "1y"
 }
-</code></pre></td></tr><tr><td><strong><code>quantityNotApplicable</code></strong></td><td>boolean</td><td><p>Is quantity is not applicable or relevant to the product item being sold. </p><p></p><p>Example: "true"</p></td></tr><tr><td><strong><code>status</code></strong></td><td>Draft, Published, or Upublished</td><td><p>Status of the item. </p><p></p><p>Example: "Draft"</p></td></tr><tr><td><strong><code>parameters</code></strong></td><td><a href="./#parameter">ParameterValue</a></td><td><p>Captures any additional information required for a product item and is defined by item configuration parameters.</p><p><br>Only item configuration parameters are available on this list. </p><p></p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{ 
+</code></pre></td></tr><tr><td><strong><code>quantityNotApplicable</code></strong></td><td>boolean</td><td><p>Is quantity is not applicable or relevant to the product item being sold. </p><p></p><p>Example: "true"</p></td></tr><tr><td><strong><code>status</code></strong></td><td>See <a href="item-states.md">Item States</a>.</td><td><p>Status of the item. </p><p></p><p>Example: "Draft"</p></td></tr><tr><td><strong><code>parameters</code></strong></td><td><a href="./#parameter">ParameterValue</a></td><td><p>Captures any additional information required for a product item and is defined by item configuration parameters.</p><p><br>Only item configuration parameters are available on this list. </p><p></p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{ 
   "id": "PRM-1234-1234-1234",
   "externalId": "SKU",
   "value": "65272478BB01A12"
@@ -27,20 +27,13 @@ The Item Object represents a “product item” as a transactable element of a p
 
 The parameter object contains the value of the given parameter along with additional information like constraints.
 
-| Field            | Parameter | Description                                                                                                 |
-| ---------------- | --------- | ----------------------------------------------------------------------------------------------------------- |
-| **`id`**         | string    | <p>Identifier of parameter definition this value refers to. </p><p></p><p>Example: "PDF-1234-1234-1234"</p> |
-| **`externalId`** | string    | <p>Id of the parameter in external system. </p><p></p><p>Example: "SKU"</p>                                 |
-| **`name`**       | string    | <p>Parameter display name. </p><p></p><p>Example: "Stock keeping unit"</p>                                  |
-| **`value`**      | string    | <p>Value of the parameter. </p><p></p><p>Example: "65272478BB01A12"</p>                                     |
+<table><thead><tr><th width="223">Field</th><th width="186">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p>Identifier of parameter definition this value refers to. </p><p></p><p>Example: "PDF-1234-1234-1234"</p></td></tr><tr><td><strong><code>externalId</code></strong></td><td>string</td><td><p>Id of the parameter in external system. </p><p></p><p>Example: "SKU"</p></td></tr><tr><td><strong><code>name</code></strong></td><td>string</td><td><p>Parameter display name. </p><p></p><p>Example: "Stock keeping unit"</p></td></tr><tr><td><strong><code>value</code></strong></td><td>string</td><td><p>Value of the parameter. </p><p></p><p>Example: "65272478BB01A12"</p></td></tr></tbody></table>
 
 ## ExternalIds <a href="#externalids" id="externalids"></a>
 
 ExternalIds contain any external identifier
 
-| Field        | Type   | Description                                                                                                                                            |
-| ------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **`vendor`** | string | A vendor identifier is item identifier recognizable by vendor, so when an order is placed they will easily understand which item is to be provisioned. |
+<table><thead><tr><th width="210">Field</th><th width="175">Type</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>vendor</code></strong></td><td>string</td><td>A vendor identifier is item identifier recognizable by vendor, so when an order is placed they will easily understand which item is to be provisioned.</td></tr></tbody></table>
 
 ## Example
 

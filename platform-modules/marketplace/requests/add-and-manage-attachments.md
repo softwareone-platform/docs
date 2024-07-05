@@ -61,6 +61,10 @@ Follow these steps to edit or delete an attachment:
 [requests-interface.md](requests-interface.md)
 {% endcontent-ref %}
 
+{% content-ref url="requests-states.md" %}
+[requests-states.md](requests-states.md)
+{% endcontent-ref %}
+
 {% content-ref url="create-new-requests.md" %}
 [create-new-requests.md](create-new-requests.md)
 {% endcontent-ref %}

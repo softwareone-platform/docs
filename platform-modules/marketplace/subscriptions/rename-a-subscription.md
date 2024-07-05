@@ -36,6 +36,10 @@ Your subscription is renamed and the new name is visible across all pages that f
 [subscriptions-interface.md](subscriptions-interface.md)
 {% endcontent-ref %}
 
+{% content-ref url="subscription-states.md" %}
+[subscription-states.md](subscription-states.md)
+{% endcontent-ref %}
+
 {% content-ref url="adjust-subscription-quantity.md" %}
 [adjust-subscription-quantity.md](adjust-subscription-quantity.md)
 {% endcontent-ref %}

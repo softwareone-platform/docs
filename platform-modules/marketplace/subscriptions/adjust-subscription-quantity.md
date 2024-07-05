@@ -54,6 +54,10 @@ During the change order, both the subscription and the agreement show as **Updat
 [subscriptions-interface.md](subscriptions-interface.md)
 {% endcontent-ref %}
 
+{% content-ref url="subscription-states.md" %}
+[subscription-states.md](subscription-states.md)
+{% endcontent-ref %}
+
 {% content-ref url="rename-a-subscription.md" %}
 [rename-a-subscription.md](rename-a-subscription.md)
 {% endcontent-ref %}

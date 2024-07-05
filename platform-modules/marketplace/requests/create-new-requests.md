@@ -39,6 +39,10 @@ Your request is submitted and assigned a **Processing** status. Click **Close** 
 [requests-interface.md](requests-interface.md)
 {% endcontent-ref %}
 
+{% content-ref url="requests-states.md" %}
+[requests-states.md](requests-states.md)
+{% endcontent-ref %}
+
 {% content-ref url="add-a-message.md" %}
 [add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
