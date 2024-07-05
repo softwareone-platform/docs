@@ -1,5 +1,21 @@
 ---
 description: Adobe VIP Marketplace overview and important information.
+cover: ../../.gitbook/assets/FY24 Partner Connect Award Email Signature.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Adobe VIP Marketplace
@@ -16,7 +32,7 @@ After your initial order has been set up with SoftwareOne, you can manage your l
 
 As the next evolution of the VIP buying program, the Adobe VIP Marketplace program delivers a more customized and streamlined system. It enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient experience.&#x20;
 
-The flexibility and breadth of the program allows SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
+The flexibility and breadth of the program allow SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
 
 * Adobe is included with many other vendors in the SoftwareOne Marketplace for a one-stop-shop experience.
 * Bundles and services are easily available.
@@ -34,9 +50,9 @@ VIP Marketplace is the primary Adobe buying program for SoftwareOne clients, exc
 
 ### Become a VIP Marketplace member <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
 
-After you place an order with your reseller, you will receive an invitation to accept the terms and conditions for VIP Marketplace. Once you’ve accepted the terms and conditions, you’ll have the ability to manage your licenses and begin deploying them to users immediately in the Adobe Admin Console.
+After you place an order with your reseller, you will receive an invitation to accept the terms and conditions for VIP Marketplace. Once you’ve accepted the terms and conditions, you can manage your licenses and begin deploying them to users immediately in the Adobe Admin Console.
 
-If you are currently a member of the Value Incentive Plan, you can move seamlessly to VIP Marketplace to benefit from features like automatic renewal.&#x20;
+If you are currently a member of the Value Incentive Plan, you can move seamlessly to the VIP Marketplace to benefit from features like automatic renewal.&#x20;
 
 Contact SoftwareOne for details on transitioning to VIP Marketplace.
 
@@ -45,9 +61,9 @@ Contact SoftwareOne for details on transitioning to VIP Marketplace.
 To add licenses to your VIP Marketplace account, you have the following options:
 
 1. Add the license to the Marketplace Platform.
-2. Add the license in the Admin Console (also known as Purchase Authorisation), and then place a corresponding order in the Marketplace Platform within 7 days. If no order is placed in the Marketplace Platform, Adobe will automatically remove the license after 7 days.
+2. Add the license in the Admin Console (also known as Purchase Authorization), and then place a corresponding order in the Marketplace Platform within 7 days. If no order is placed in the Marketplace Platform, Adobe will automatically remove the license after 7 days.
 
-To reduce the effort associated with adding licenses, we recommend that you use option 1. Fulfillment is simple and quick in the Marketplace Platform.
+To reduce the effort associated with adding licenses, we recommend using option 1. Fulfillment is simple and quick in the Marketplace Platform.
 
 ### Assigning licenses <a href="#assigning-licenses" id="assigning-licenses"></a>
 
@@ -126,6 +142,6 @@ The program terms and conditions are subject to change at any time. You will be 
 VIP Members must purchase for the country where their team members reside. For team members residing in Europe, “country” shall mean Europe. In this case, “Europe” means EU Member countries Iceland, Liechtenstein, Norway, Switzerland, and the UK. To the extent there is inconsistency between this restriction and terms stated in an applicable end-user license agreement, this restriction shall govern.
 
 {% hint style="info" %}
-* This page has been created with information from [Adobe VIP Marketplace: Overview and terms](https://helpx.adobe.com/enterprise/vip/vip-marketplace.html).
+* This page has been created with information from [Adobe VIP Marketplace: Overview and Terms](https://helpx.adobe.com/enterprise/vip/vip-marketplace.html).
 * For VIP Marketplace members, the VIP Marketplace terms apply in addition to the VIP Program Guide for commercial and government. Where there is a conflict between the [VIP Program Guide](https://helpx.adobe.com/enterprise/vip/vip-overview.html) and the VIP Marketplace terms, the VIP Marketplace terms will govern.
 {% endhint %}
