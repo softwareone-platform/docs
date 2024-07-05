@@ -20,7 +20,7 @@ layout:
 # Adobe VIP Marketplace
 
 {% hint style="info" %}
-We are thrilled to announce that SoftwareOne EMEA has been recognized as a 'Highly Commended' partner by Adobe. We are honored to receive this special commendation and look forward to continuing our partnership and delivering value to our clients through the SoftwareOne Marketplace Platform.
+We are thrilled to announce that Adobe has recognized SoftwareOne EMEA as a 'Highly Commended' partner. We are honored to receive this special commendation and look forward to continuing the partnership and delivering value to our clients through the SoftwareOne Marketplace Platform.
 {% endhint %}
 
 Adobe VIP Marketplace is Adobe’s new licensing program that will replace Adobe VIP.&#x20;
