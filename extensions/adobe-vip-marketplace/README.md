@@ -1,5 +1,4 @@
 ---
-description: Adobe VIP Marketplace overview and important information.
 cover: ../../.gitbook/assets/FY24 Partner Connect Award Email Signature.png
 coverY: 0
 layout:
