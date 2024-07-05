@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/FY24 Partner Connect Award Email Signature.png
-coverY: 0
+cover: ../../.gitbook/assets/FY24 Partner Connect Award SWO.jpeg
+coverY: 73.36533333333333
 layout:
   cover:
     visible: true
