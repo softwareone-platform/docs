@@ -4,7 +4,7 @@ In the Marketplace Platform, an agreement can have several states (also known as
 
 The following diagram shows the possible states and the transition between these states:
 
-<figure><img src="../../../.gitbook/assets/Agreements (2).png" alt=""><figcaption><p>Agreement state transition</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Agreements (3).png" alt=""><figcaption><p>Agreement state transition</p></figcaption></figure>
 
 These states are displayed as **Status** within the platform. They are also shown beside the agreement name and ID on the details page.
 
