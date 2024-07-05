@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/FY24 Partner Connect Award SWO.jpeg
-coverY: -117.77066666666668
+cover: ../../.gitbook/assets/FY24 Partner Connect Award Email Signature.png
+coverY: 0
 layout:
   cover:
     visible: true
@@ -18,6 +18,10 @@ layout:
 ---
 
 # Adobe VIP Marketplace
+
+{% hint style="info" %}
+We are thrilled to announce that SoftwareOne EMEA has been recognized as a 'Highly Commended' partner by Adobe. We are honored to receive this special commendation and look forward to continuing our partnership and delivering value to our clients through the SoftwareOne Marketplace Platform.
+{% endhint %}
 
 Adobe VIP Marketplace is Adobe’s new licensing program that will replace Adobe VIP.&#x20;
 
