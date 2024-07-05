@@ -1,10 +1,10 @@
 ---
 cover: ../../.gitbook/assets/FY24 Partner Connect Award SWO.jpeg
-coverY: 73.36533333333333
+coverY: 100.39466666666665
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
