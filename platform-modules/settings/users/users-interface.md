@@ -16,7 +16,7 @@ On this page, you can view the following user details:
 * **Email** - Displays the email address used to create the account.
 * **Joined** - Displays the date when the user accepted the invite.&#x20;
   * If the user accepts the invite and joins your account, the user's status is displayed.&#x20;
-  * If the user hasn't accepted the invite, then only the invite status is displayed.
+  * If the user hasn't accepted the invite, then only the invite status is displayed. For more information on the status, see [User States](user-states.md).
 * **Last login** - Displays the date and time the user signed in to their account.
 * **Group** - Displays the group that the user belongs to. The total number of groups is displayed if the user belongs to multiple groups.
 * **Actions** - Displays options that allow you to edit or remove users from your account.&#x20;
@@ -53,6 +53,10 @@ The page also contains the following tabs that display corresponding information
 
 {% content-ref url="./" %}
 [.](./)
+{% endcontent-ref %}
+
+{% content-ref url="user-states.md" %}
+[user-states.md](user-states.md)
 {% endcontent-ref %}
 
 {% content-ref url="respond-to-invitations.md" %}

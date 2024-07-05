@@ -17,7 +17,7 @@ For each token, you can view the following information:
 * **Created** **by** - Displays the name and marketplace ID of the person who created the token.&#x20;
 * **Date created** - Displays the date and time when the token was created.
 * **Last access** - Displays the date and time when the token was last used.
-* **Status** - Displays the current status of the token.&#x20;
+* **Status** - Displays the current status of the token. For more information on the status, see [Token States](token-states.md).
 * **Actions** - Displays options that allow you to manage the API token. Depending on the status of the token, you can enable or disable a token, delete the token permanently, or edit token details.
 
 ## Token details page
@@ -48,6 +48,10 @@ When you open the details page, it shows the token's name, marketplace ID, and s
 
 {% content-ref url="./" %}
 [.](./)
+{% endcontent-ref %}
+
+{% content-ref url="token-states.md" %}
+[token-states.md](token-states.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-api-token.md" %}

@@ -56,24 +56,24 @@ You can have multiple Azure subscriptions in an Azure plan. In this new commerce
 
 You can execute each step of the onboarding process through the Marketplace Platform.
 
-### Step 1: Creating a Microsoft organization tenant <a href="#step-1-creating-a-microsoft-organization-tenant" id="step-1-creating-a-microsoft-organization-tenant"></a>
+### 1. Creating a Microsoft organization tenant <a href="#step-1-creating-a-microsoft-organization-tenant" id="step-1-creating-a-microsoft-organization-tenant"></a>
 
 1. **Consultation** - SoftwareOne begins with a consultation to understand your business needs and goals.
 2. **Setup** - SoftwareOne creates a Microsoft organization tenant for your business. This tenant acts as a dedicated instance within Microsoft's cloud, housing all users, resources, and data.
 3. **Configuration** - SoftwareOne configures the tenant to align with your business requirements, ensuring optimal setup for security, compliance, and performance.
 
-### Step 2: Accepting the Microsoft Customer Agreement <a href="#step-2-accepting-the-microsoft-customer-agreement" id="step-2-accepting-the-microsoft-customer-agreement"></a>
+### 2. Accepting the Microsoft Customer Agreement <a href="#step-2-accepting-the-microsoft-customer-agreement" id="step-2-accepting-the-microsoft-customer-agreement"></a>
 
 1. **Understanding Terms** - SoftwareOne guides you through the Microsoft Customer Agreement, explaining the terms and conditions for using Microsoft’s cloud services.
 2. **Agreement Acceptance** - SoftwareOne assists you in accepting the agreement, which simplifies the purchasing process and provides clear terms regarding service usage, data privacy, and compliance.
 
-### Step 3: Service provisioning and integration <a href="#step-3-service-provisioning-and-integration" id="step-3-service-provisioning-and-integration"></a>
+### 3. Service provisioning and integration <a href="#step-3-service-provisioning-and-integration" id="step-3-service-provisioning-and-integration"></a>
 
 1. **Service Activation** - Once the tenant is set up and the agreement is accepted, SoftwareOne provisions the required Microsoft cloud services for your business.
 2. **Integration** - SoftwareOne integrates these services with your existing systems, ensuring seamless operation and minimal disruption to your business activities.
 3. **Customization** - SoftwareOne can further customize the services to meet specific needs, such as setting up user roles, permissions, and additional configurations.
 
-### Step 4: Ongoing support and management <a href="#step-4-ongoing-support-and-management" id="step-4-ongoing-support-and-management"></a>
+### 4. Ongoing support and management <a href="#step-4-ongoing-support-and-management" id="step-4-ongoing-support-and-management"></a>
 
 1. **Training** - SoftwareOne provides training to ensure your team can effectively use the new services.
 2. **Continuous Support** - SoftwareOne offers ongoing support to address any issues and provide updates, helping your business adapt and grow with the evolving cloud landscape.
@@ -91,7 +91,7 @@ With GDAP, SoftwareOne can provide services to clients who might be uncomfortabl
 
 New Commerce Experience (NCE) is a specific update within the CSP program that introduces changes to the pricing, licensing, and billing of Microsoft’s cloud services.&#x20;
 
-Overall, the NCE is a more flexible and predictable option for clients who are looking for a longer-term commitment to Microsoft cloud services.
+Overall, the NCE is a more flexible and predictable option for clients looking for a longer-term commitment to Microsoft cloud services.
 
 NCE’s primary objectives are to simplify transactions, enhance customer purchasing experiences, and offer flexible pricing options. It aims to provide greater transparency and predictability in costs. This enables organizations to scale their services seamlessly based on their evolving needs.
 
@@ -109,7 +109,7 @@ Existing Commercial legacy seat-based offers can still be managed (quantity chan
 
 When a subscription is created, it can have several states throughout its lifecycle.
 
-### License-based NCE subscription states <a href="#license-based-new-commerce-subscription-states" id="license-based-new-commerce-subscription-states"></a>
+### License-based NCE subscriptions states <a href="#license-based-new-commerce-subscription-states" id="license-based-new-commerce-subscription-states"></a>
 
 NCE subscriptions can be in one of these states: **Active**, **Cancelled**, **Suspended**, **Expired**, **Disabled**, or **Deleted**.
 
@@ -258,7 +258,7 @@ After 90 days in the suspended state, the subscription will be deleted and is no
 
 The following table shows how the Microsoft subscription states are represented in the Marketplace Platform:
 
-| Product Type                                                                    | Microsoft States                                                                                              | Marketplace States                                                                                                  |
+| Product type                                                                    | Microsoft states                                                                                              | Marketplace States                                                                                                  |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | <p>License-based New Commerce</p><p>(example: Microsoft 365 / Dynamics 365)</p> | <ul><li>Active</li><li>Cancelled</li><li>Suspended</li><li>Expired</li><li>Disabled</li><li>Deleted</li></ul> | <ul><li>Active</li><li>Active</li><li>Terminated</li><li>Terminated</li><li>Terminated</li><li>Terminated</li></ul> |
 | <p>License-based Legacy</p><p>(example: Microsoft 365 / Dynamics 365)</p>       | <ul><li>Active</li><li>Suspended</li><li>Deleted</li></ul>                                                    | <ul><li>Active</li><li>Terminated</li><li>Terminated</li></ul>                                                      |

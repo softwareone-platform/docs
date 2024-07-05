@@ -45,7 +45,7 @@ Click **Create agreement** to start creating your new Adobe agreement.&#x20;
 1. Choose the licensee you want to use. A licensee is the end-user entity of the product being purchased. In this tutorial, we'll select an existing licensee, as shown in the following image. You can also add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../platform-modules/settings/licensees/create-licensees.md).
 2. Click **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Licensee.png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Licensee (3).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
 
 ## 4. Choose your account
 

@@ -1,10 +1,10 @@
-# Account user
+# Account User
 
 ## Account User Object
 
 The `user` object represents an individual user in the Marketplace platform. This object contains the following properties:&#x20;
 
-<table data-full-width="false"><thead><tr><th>Field</th><th>Type</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p>Primary account user identifier. </p><p></p><p>Example: "AUSR-5709-0422-8243"</p></td></tr><tr><td><strong><code>href</code></strong></td><td>string</td><td><p>Relative reference to object on API (always /v1/accounts/account-users/{id}). </p><p></p><p>Example: "/v1/accounts/account-users/AUSR-5709-0422-8243"</p></td></tr><tr><td><strong><code>user</code></strong></td><td><a href="../user/#user-object">User</a></td><td></td></tr><tr><td><strong><code>account</code></strong></td><td><a href="../account/#account-object">Account</a></td><td><pre class="language-json" data-line-numbers><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th>Field</th><th>Type</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p>Primary account user identifier. </p><p></p><p>Example: "AUSR-5709-0422-8243"</p></td></tr><tr><td><strong><code>href</code></strong></td><td>string</td><td><p>Relative reference to object on API (always /v1/accounts/account-users/{id}). </p><p></p><p>Example: "/v1/accounts/account-users/AUSR-5709-0422-8243"</p></td></tr><tr><td><strong><code>user</code></strong></td><td><a href="../users/#user-object">User</a></td><td></td></tr><tr><td><strong><code>account</code></strong></td><td><a href="../account/#account-object">Account</a></td><td><pre class="language-json" data-line-numbers><code class="lang-json">{
   "id": "ACC-1671-0642",
   "href": "/accounts/ACC-1671-0642",
   "icon": null,

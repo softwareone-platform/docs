@@ -1,7 +1,5 @@
 # Accounts API
 
-
-
 {% content-ref url="account/" %}
 [account](account/)
 {% endcontent-ref %}
@@ -22,8 +20,8 @@
 [module](module/)
 {% endcontent-ref %}
 
-{% content-ref url="user/" %}
-[user](user/)
+{% content-ref url="users/" %}
+[users](users/)
 {% endcontent-ref %}
 
 {% content-ref url="user-groups/" %}

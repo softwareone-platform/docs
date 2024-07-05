@@ -15,7 +15,7 @@ On this page, you can view the following details of each request:
 * **Assignee** - Displays the contact person assigned to the request.
 * **Created** -  Displays the date and time when the request was created.
 * **Updated** - Displays the date and time when the request was updated.
-* **Status** - Displays the status of your request.&#x20;
+* **Status** - Displays the status of your request. For more information on the status, see [Request States](requests-states.md).
 
 ## Request details page
 
@@ -49,6 +49,10 @@ The request details page is organized into several tabs, each providing specific
 
 {% content-ref url="./" %}
 [.](./)
+{% endcontent-ref %}
+
+{% content-ref url="requests-states.md" %}
+[requests-states.md](requests-states.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-new-requests.md" %}

@@ -17,12 +17,12 @@
   "name": "Microsoft"
 }
 </code></pre>                                                                                                                                                                                             |
-| **`requester`**        | [User](../../accounts-api/user/#user-object)          | <p>User of requester, in client account. </p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{ 
+| **`requester`**        | [User](../../accounts-api/users/#user-object)         | <p>User of requester, in client account. </p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{ 
   "id": "USR-1234-4444",
   "name": "John Smith"
 }
 </code></pre>                                                                                                                                                                                          |
-| **`assignee`**         | [User](../../accounts-api/user/#user-object)          | <p>User of vendor who is responsible to processing request. </p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{ 
+| **`assignee`**         | [User](../../accounts-api/users/#user-object)         | <p>User of vendor who is responsible to processing request. </p><p></p><p>Example:</p><pre class="language-json"><code class="lang-json">{ 
   "id": "USR-1234-1111",
   "name": "Santa Claus"
 }

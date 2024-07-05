@@ -27,6 +27,10 @@ From the **Agreements** page, you can:
 [agreements-interface.md](agreements-interface.md)
 {% endcontent-ref %}
 
+{% content-ref url="agreement-states.md" %}
+[agreement-states.md](agreement-states.md)
+{% endcontent-ref %}
+
 {% content-ref url="terminate-agreements.md" %}
 [terminate-agreements.md](terminate-agreements.md)
 {% endcontent-ref %}

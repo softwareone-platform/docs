@@ -14,7 +14,7 @@ On this page, you can view the following agreement details:
 * **Buyer** - Displays the buyer's name and marketplace ID.
 * **Seller** - Displays the seller's name and marketplace ID.
 * **SPx** - Displays the estimated sales price of the product.
-* **Status** - Displays the status of the agreement.&#x20;
+* **Status** - Displays the status of the agreement. For more information on the status, see [Agreement States](agreement-states.md).
 
 ## Agreement details page <a href="#subscription-details" id="subscription-details"></a>
 
@@ -50,6 +50,10 @@ When you open the details page of an agreement, it shows the agreement's name, m
 
 {% content-ref url="./" %}
 [.](./)
+{% endcontent-ref %}
+
+{% content-ref url="agreement-states.md" %}
+[agreement-states.md](agreement-states.md)
 {% endcontent-ref %}
 
 {% content-ref url="terminate-agreements.md" %}

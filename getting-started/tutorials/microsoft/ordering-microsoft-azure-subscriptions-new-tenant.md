@@ -26,7 +26,7 @@ Before you begin, ensure you have the following:
 
 The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 
 ## 2. Create agreement
 

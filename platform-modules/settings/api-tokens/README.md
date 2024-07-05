@@ -33,6 +33,10 @@ From the **API tokens** page, you can:
 [api-tokens-interface.md](api-tokens-interface.md)
 {% endcontent-ref %}
 
+{% content-ref url="token-states.md" %}
+[token-states.md](token-states.md)
+{% endcontent-ref %}
+
 {% content-ref url="create-api-token.md" %}
 [create-api-token.md](create-api-token.md)
 {% endcontent-ref %}

@@ -12,7 +12,7 @@ The following types of orders exist in the Marketplace Platform:
 * **Change order** - Represents an order that is created when you change the subscription quantity, such as downsizing the license quantity or buying additional resources.
 * **Terminate order** - Represents an order that is created when you terminate a subscription. A termination order also implies an order where the entire agreement has been terminated and consequently, all subscriptions within that agreement are also terminated.
 
-Through the Orders module, the Client Portal offers a streamlined, easy-to-navigate order management system that provides visibility and allows you to manage your orders easily.
+Through the Orders module, the platform offers a streamlined, easy-to-navigate order management system that provides visibility and allows you to manage your orders easily.
 
 ## How to access the Orders page
 
@@ -32,6 +32,10 @@ From the **Orders** page, you can:
 
 {% content-ref url="orders-interface.md" %}
 [orders-interface.md](orders-interface.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-states.md" %}
+[order-states.md](order-states.md)
 {% endcontent-ref %}
 
 {% content-ref url="../products/buy-products-and-services.md" %}

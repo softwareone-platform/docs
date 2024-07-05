@@ -24,6 +24,10 @@ From the **Subscriptions** page, you can:&#x20;
 [subscriptions-interface.md](subscriptions-interface.md)
 {% endcontent-ref %}
 
+{% content-ref url="subscription-states.md" %}
+[subscription-states.md](subscription-states.md)
+{% endcontent-ref %}
+
 {% content-ref url="rename-a-subscription.md" %}
 [rename-a-subscription.md](rename-a-subscription.md)
 {% endcontent-ref %}

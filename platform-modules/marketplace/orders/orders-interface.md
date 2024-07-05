@@ -16,7 +16,7 @@ On this page, you can view the following order details:
 * **Buyer** - Displays the buyer's name and marketplace ID.
 * **Seller** - Displays the seller's name and marketplace ID.
 * **SPx** - Displays the estimated sales price of the product.
-* **Status** - Displays the order status.&#x20;
+* **Status** - Displays the order status. For more information on the status, see [Order States](order-states.md).
 
 ## Order details page <a href="#subscription-details" id="subscription-details"></a>
 
@@ -52,6 +52,10 @@ The details page of an order contains several tabs that display corresponding or
 
 {% content-ref url="./" %}
 [.](./)
+{% endcontent-ref %}
+
+{% content-ref url="order-states.md" %}
+[order-states.md](order-states.md)
 {% endcontent-ref %}
 
 {% content-ref url="../products/buy-products-and-services.md" %}

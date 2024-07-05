@@ -35,6 +35,10 @@ From the **Licensees** page, you can:
 [licensees-interface.md](licensees-interface.md)
 {% endcontent-ref %}
 
+{% content-ref url="licensee-states.md" %}
+[licensee-states.md](licensee-states.md)
+{% endcontent-ref %}
+
 {% content-ref url="create-licensees.md" %}
 [create-licensees.md](create-licensees.md)
 {% endcontent-ref %}
