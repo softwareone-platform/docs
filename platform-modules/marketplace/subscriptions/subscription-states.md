@@ -4,7 +4,7 @@ Subscriptions in the Marketplace Platform can be in multiple states (also known 
 
 The following diagram shows the possible states and the transition between these states:
 
-<figure><img src="../../../.gitbook/assets/Subscriptions.png" alt=""><figcaption><p>Subscription state diagram</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Subscriptions.png" alt=""><figcaption><p>Subscription state transition</p></figcaption></figure>
 
 The subscription states are visible in the platform as **Status**. These states are also displayed as an icon beside the name of the subscription and its ID on the details page.
 
