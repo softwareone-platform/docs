@@ -28,7 +28,7 @@ The purchase wizard starts and the **Select agreement** section displays.
 
 ## 2. Create agreement
 
-Click **Create new agreement** to set up your new agreement.
+Click **Create agreement** to set up your new agreement.
 
 <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 

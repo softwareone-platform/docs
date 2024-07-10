@@ -35,7 +35,7 @@ The header is available on all pages throughout the platform.
 * **SoftwareOne logo** - Clicking the logo returns you to the **Home** page of the portal.
 * **Navigation or main menu** - Clicking the main menu displays all the modules you have access to, along with your recently viewed modules and favorite pages.
 * **Help icon** - Clicking the **Help** icon opens a menu containing links to resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, and [news and updates](https://www.softwareone.com/en/media-releases). You can also [Contact Support](../../help-and-support/getting-support.md) from this menu.
-* **Notifications** - Clicking the notifications icon opens the **Notifications** page. For more information, see [View notifications](basics/view-notifications.md).
+* **Notifications** - Clicking the notifications icon opens the **Notifications** page. For more information, see [View Notifications](basics/view-notifications.md).
 * **Account selector and profile** - Displays the name of your account and the account type along with your username. Clicking the profile menu enables you to [manage your profile](basics/manage-profile.md), [switch accounts](basics/switch-account.md) (only if you belong to multiple accounts), and sign out of your account.&#x20;
 
 ### Primary content section
