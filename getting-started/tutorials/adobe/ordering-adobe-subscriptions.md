@@ -99,7 +99,7 @@ If you are migrating your account, enter your Adobe membership ID.&#x20;
 1. View your order summary and the latest status message.&#x20;
 2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Order summary</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>Order summary</p></figcaption></figure>
 
 ## Next steps
 

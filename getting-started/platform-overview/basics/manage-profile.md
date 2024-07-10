@@ -58,8 +58,14 @@ Click to see the supported languages.
 Follow these steps to update your profile settings:
 
 1. On the profile details page, click **Edit**. The **Edit profile** page opens.
-2. In the **General** section, make the required changes. You can update your **profile picture**, **first name**, **last name**, **country code**, and **phone number**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Edit user page</p></figcaption></figure>
+
+2. In the **General** section, make the required changes. You can add or update your **Profile picture**, **First name**, **Last name**, **Country code**, and **Phone number**.&#x20;
 3. In the **Preferences** section, change your account language and regional settings as necessary.&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Preferences section</p></figcaption></figure>
+
 4. Click **Save**. A message is displayed stating your profile has been updated successfully.
 
 ## Related topics

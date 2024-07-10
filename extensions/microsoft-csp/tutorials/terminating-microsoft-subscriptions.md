@@ -14,31 +14,69 @@ The following specifics apply to Microsoft subscriptions:
 * For all other Microsoft products, such as Microsoft Dynamics and Microsoft 365, you can terminate or reduce the quantity within 7 days from your date of purchase.
 * Although Microsoft supports co-terming, the Marketplace Platform doesn't support co-terming for Microsoft products.
 
-## Terminating a subscription
+## Terminate a subscription
 
 If you have several Microsoft subscriptions in an agreement and want to cancel a subscription within that agreement, follow the steps in this section.&#x20;
 
+### 1. Open the subscription
+
 1. Navigate to the **Subscriptions** page (**Marketplace** > **Subscriptions**) and click the subscription to terminate. Make sure that the subscription is **Active**.
-2. Click the chevron in the upper right on the details page and select **Terminate**. The **Terminate subscription** wizard launches.
-3. Review the details to make sure that the quantity of the subscription you want to terminate is zero. Click **Next**.
-4. Enter the reference information as needed and then click **Next**.&#x20;
-5. Click **Place Order** to place your termination order.&#x20;
-6. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-## Terminating all subscriptions
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
-If you have several subscriptions in an agreement and want to cancel all subscriptions, you'll need to create a termination order for the agreement. Follow these steps to terminate the agreement:
+2. Click the chevron in the upper right on the details page and select **Terminate**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/Terminate.png" alt=""><figcaption><p>Terminate option</p></figcaption></figure>
+
+The **Terminate subscription** wizard launches.
+
+### 2. Place the termination order
+
+1. Review the details to make sure that the quantity of the subscription you want to terminate is zero. Click **Next**.
+
+<figure><img src="../../../.gitbook/assets/TerminateSubsCSP.png" alt=""><figcaption><p>Items</p></figcaption></figure>
+
+2. Enter the reference information as needed and then click **Next**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/DetailsCSP.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+
+3. Click **Place Order** to place your termination order.&#x20;
+
+<figure><img src="../../../.gitbook/assets/ReviewCSP.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+
+4. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
+
+## Terminate all subscriptions
+
+### 1. Open the agreement
 
 1. Navigate to the **Agreements** page (**Marketplace** > **Agreements**) and locate the agreement containing subscriptions you want to terminate.&#x20;
-2. Click the agreement name.
+2. Click the agreement name. The following image shows an example agreement:
+
+<figure><img src="../../../.gitbook/assets/AgreementCSP.png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+
 3. Click the chevron in the upper right on the details page and select **Terminate**.&#x20;
-4. Review the details to make sure that all subscriptions have zero quantity. The information is read-only. Click **Next**.
-5. Enter the optional reference information as needed and click **Next**.&#x20;
-6. Click **Place order** to place the termination order for your agreement.&#x20;
-7. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-## Next steps
+<figure><img src="../../../.gitbook/assets/TerminateAgreementCSP.png" alt=""><figcaption><p>Terminate option</p></figcaption></figure>
 
-Once the termination order is placed, it's submitted for processing. You can check the status of your termination order on the **Orders** page.&#x20;
+### 2. Terminate the agreement
 
-If you are within the 14-day return period, we'll terminate the subscriptions. If you are outside the return window, the termination will take effect from your renewal date.&#x20;
+1. Review the details to make sure that all subscriptions have zero quantity. Click **Next**.
+
+<figure><img src="../../../.gitbook/assets/ItemsCSP.png" alt=""><figcaption><p>Items</p></figcaption></figure>
+
+3. Enter the optional reference information as needed and click **Next**.&#x20;
+
+<figure><img src="../../../.gitbook/assets/DetailsCSP (1).png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+
+3. Click **Next** to place the termination order for your agreement.&#x20;
+
+<figure><img src="../../../.gitbook/assets/ReviewOrderCSP (1).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+
+4. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
+
+### Next steps <a href="#next-steps" id="next-steps"></a>
+
+Your termination order is submitted to the vendor for processing.
+
+You can view the most up-to-date information on your order and its status on the [Order details](https://docs.platform.softwareone.com/platform-modules/marketplace/orders/orders-interface#subscription-details) page.&#x20;
