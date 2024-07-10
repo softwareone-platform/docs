@@ -9,11 +9,9 @@ description: View and edit your profile settings.
 Follow these steps to access your profile:
 
 1. Sign in to your account.
-2. Click your profile menu and select **My profile**:
+2. Click your profile menu in the upper right and select **My profile.** Your profile overview page opens containing the following tabs:
 
 <figure><img src="../../../.gitbook/assets/image (308).png" alt=""><figcaption><p>My profile page</p></figcaption></figure>
-
-Your profile overview page opens containing the following tabs:
 
 * **General** - Displays your general profile information and account preferences.
 * **Accounts** - Displays the accounts and groups you belong to, and your account type.
