@@ -22,7 +22,7 @@ If you have several Microsoft subscriptions in an agreement and want to cancel a
 
 1. Navigate to the **Subscriptions** page (**Marketplace** > **Subscriptions**) and click the subscription to terminate. Make sure that the subscription is **Active**.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SubscriptionCSP.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 2. Click the chevron in the upper right on the details page and select **Terminate**.&#x20;
 
@@ -38,7 +38,7 @@ The **Terminate subscription** wizard launches.
 
 2. Enter the reference information as needed and then click **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/DetailsCSP.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DetailsCSP (1).png" alt=""><figcaption><p>Order details</p></figcaption></figure>
 
 3. Click **Place Order** to place your termination order.&#x20;
 
@@ -65,9 +65,9 @@ The **Terminate subscription** wizard launches.
 
 <figure><img src="../../../.gitbook/assets/ItemsCSP.png" alt=""><figcaption><p>Items</p></figcaption></figure>
 
-3. Enter the optional reference information as needed and click **Next**.&#x20;
+2. Enter the optional reference information as needed and click **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/DetailsCSP (1).png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DetailsCSP.png" alt=""><figcaption><p>Details</p></figcaption></figure>
 
 3. Click **Next** to place the termination order for your agreement.&#x20;
 
