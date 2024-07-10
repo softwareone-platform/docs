@@ -8,20 +8,20 @@ description: View and edit your profile settings.
 
 Follow these steps to access your profile:
 
-1. [Sign in to your account](https://docs.client.softwareone.com/docs-v2/d04yor4OXausqmezLP92/marketplace-platform/sign-in-to-your-account).
-2. Click your profile menu and select **My profile**. Your profile overview page opens.
+1. Sign in to your account.
+2. Click your profile menu and select **My profile**:
 
 <figure><img src="../../../.gitbook/assets/image (308).png" alt=""><figcaption><p>My profile page</p></figcaption></figure>
 
-The following tabs are displayed on this page:
+Your profile overview page opens containing the following tabs:
 
 * **General** - Displays your general profile information and account preferences.
 * **Accounts** - Displays the accounts and groups you belong to, and your account type.
-* **Details** - Displays the timestamps concerning your account. For example, the date and time when your account was created and updated.
+* **Details** - Displays the timestamps associated with your account, for example, the date and time your account was created.
 
 ## Update your profile settings <a href="#update-your-profile-settings" id="update-your-profile-settings"></a>
 
-If you want to make the following changes to your profile, you can do so using the **Edit** option on your profile page:
+If you want to make any changes to your profile, you can do so using the **Edit** option on your profile page. The **Edit** option allows you to:
 
 * Change your name or contact information.
 * Change the display language of your account.
