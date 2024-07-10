@@ -19,8 +19,8 @@ As an account administrator, you can access the **Account** page by navigating t
 
 From the **Account** page, you can:&#x20;
 
-* View all of the information related to the account. This includes general details (such as name and address) and modules enabled for your account.
-* Edit your account details, including account name, address, and company website.&#x20;
+* View all information related to the account. This includes general details (such as name and address) and modules enabled for your account.
+* Edit your account details, including the account logo and name, and company details, such as name, description, and address.
 
 ## Related topics
 
