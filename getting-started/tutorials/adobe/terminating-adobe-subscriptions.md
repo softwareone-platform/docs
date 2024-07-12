@@ -6,7 +6,7 @@ description: Cancel a specific Adobe subscription in an agreement.
 
 If you want to cancel your Adobe subscriptions within the 14-day return period or if you are outside the 14-day return period and don't want your subscription to auto-renew on the renewal date, you'll need to create a termination order.&#x20;
 
-Adobe subscriptions can be terminated both within and outside the 14-day return period. To learn about the cancellation policies, see [What happens if I cancel my Adobe subscription?](../../../help-and-support/frequently-asked-questions/what-happens-if-i-cancel-adobe-subscriptions.md)
+Adobe subscriptions can be terminated both within and outside the 14-day return period. To learn about the cancellation policies, see [What happens if I cancel my Adobe subscription?](../../../help-and-support/frequently-asked-questions/what-happens-if-i-terminate-my-adobe-subscription.md)
 
 ## Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
 
