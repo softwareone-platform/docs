@@ -9,6 +9,7 @@ The following are the key points regarding agreements in the Marketplace Platfor
 * Agreements can contain one or several subscriptions, regardless of the agreement's status.
 * Agreements can be terminated entirely by canceling all subscriptions related to that agreement.
 * An agreement can be renamed as long as it's in the **Active** state.&#x20;
+*
 
 ## How to access the Agreements page
 

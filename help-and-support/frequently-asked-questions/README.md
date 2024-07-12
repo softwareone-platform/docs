@@ -4,6 +4,10 @@ description: Find answers to some of the commonly asked questions.
 
 # Frequently Asked Questions
 
+{% content-ref url="what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md" %}
+[what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md](what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md)
+{% endcontent-ref %}
+
 {% content-ref url="how-do-i-activate-my-vip-marketplace-agreement.md" %}
 [how-do-i-activate-my-vip-marketplace-agreement.md](how-do-i-activate-my-vip-marketplace-agreement.md)
 {% endcontent-ref %}

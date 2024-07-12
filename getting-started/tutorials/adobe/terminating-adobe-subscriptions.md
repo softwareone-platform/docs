@@ -6,13 +6,22 @@ description: Cancel a specific Adobe subscription in an agreement.
 
 If you want to cancel your Adobe subscriptions within the 14-day return period or if you are outside the 14-day return period and don't want your subscription to auto-renew on the renewal date, you'll need to create a termination order.&#x20;
 
-This tutorial shows how you can create a termination order.
+Adobe subscriptions can be terminated both within and outside the 14-day return period. To learn about the cancellation policies, see [What happens if I cancel my Adobe subscription?](../../../help-and-support/frequently-asked-questions/what-happens-if-i-cancel-my-adobe-subscription.md)
 
 {% hint style="info" %}
-Adobe subscriptions can be terminated both within and outside the 14-day return period:&#x20;
+**Within the 14-day return period:**
 
-* Within the 14-day return period - If you terminate a subscription within the 14-day return period (from the date your order is placed), the subscription is terminated and you are not charged.
-* Outside the 14-day return period - If you terminate a subscription outside the 14-day return period, the subscription terminates on your renewal date. In this scenario, you'll see your Marketplace order as Terminated. In the Adobe admin console, you'll see an active subscription that terminates on the renewal date.&#x20;
+* In the Marketplace Platform, the items in the subscription will show the quantity as zero and the subscription status will be **Terminated** with auto-renewal disabled.
+* In the Adobe Admin Console, you will see that your subscriptions are removed.
+* If you **order and terminate the subscription within the same calendar month** there will be no charge.
+* If you order a subscription in one calendar month and terminate it in the following calendar month (within the 14-day return period) there will be a charge for the order at the end of the first calendar month and a credit of equal value for the termination at the end of the next calendar month.&#x20;
+  * For example if you order a subscription on the 28th June and then terminate it on the 4th July, you will be charged for the order in July and will be credited the same amount in August
+
+**Outside the 14-day return period:**
+
+* In the SoftwareOne Marketplace you will see the item(s) under the subscription change to a zero quantity and the subscription will move into 'Terminated' status with auto-renewal disabled.
+* &#x20;In the Adobe Admin Console, you'll see an active subscription that terminates on the renewal date.
+* There will be no refund for the 'Terminated' subscription .
 {% endhint %}
 
 ## Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
@@ -51,4 +60,16 @@ Make sure that the subscription you want to terminate is **active**. You can che
 
 Your termination order is submitted to the vendor for processing.&#x20;
 
-You can view the most up-to-date information on your order and its status on the [Order details](../../../platform-modules/marketplace/orders/orders-interface.md#subscription-details) page.
+For subscriptions cancelled within the 14-day return period:
+
+* In the Marketplace Platform, the items in the subscription will show the quantity as zero and the subscription status will be **Terminated** with auto-renewal disabled.
+* In the Adobe Admin Console, you will see that your subscriptions are removed.
+* If you **order and terminate the subscription within the same calendar month** there will be no charge.
+* If you order a subscription in one calendar month and terminate it in the following calendar month (within the 14-day return period) there will be a charge for the order at the end of the first calendar month and a credit of equal value for the termination at the end of the next calendar month.&#x20;
+  * For example if you order a subscription on the 28th June and then terminate it on the 4th July, you will be charged for the order in July and will be credited the same amount in August
+
+**Outside the 14-day return period:**
+
+* In the SoftwareOne Marketplace you will see the item(s) under the subscription change to a zero quantity and the subscription will move into 'Terminated' status with auto-renewal disabled.
+* &#x20;In the Adobe Admin Console, you'll see an active subscription that terminates on the renewal date.
+* There will be no refund for the 'Terminated' subscription .

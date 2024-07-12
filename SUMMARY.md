@@ -439,6 +439,8 @@
   * [Release Notes v2](help-and-support/release-notes/release-notes-v2.md)
 * [Planned Maintenance](help-and-support/planned-maintenance.md)
 * [Frequently Asked Questions](help-and-support/frequently-asked-questions/README.md)
+  * [What happens if I cancel my Adobe subscription?](help-and-support/frequently-asked-questions/what-happens-if-i-cancel-my-adobe-subscription.md)
+  * [What happens to an agreement when subscriptions expire or are terminated?](help-and-support/frequently-asked-questions/what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md)
   * [How do I activate my VIP Marketplace agreement?](help-and-support/frequently-asked-questions/how-do-i-activate-my-vip-marketplace-agreement.md)
   * [How do you handle purchase order numbers in subscription-based models?](help-and-support/frequently-asked-questions/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
   * [Which browsers do you support?](help-and-support/frequently-asked-questions/which-browsers-do-you-support.md)
