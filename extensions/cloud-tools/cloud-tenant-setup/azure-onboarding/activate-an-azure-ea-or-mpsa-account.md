@@ -34,7 +34,7 @@ If you wish to add more Azure subscriptions owned by other users, you can do thi
 
 After clicking **Accept**, you'll be redirected to the **Cloud Tenant Setup** details page to view the new tenant and its activation progress. After activating your tenant, you can add subscriptions and allow the Client Portal to write tags back to your Azure resources.&#x20;
 
-When you return to the Client Portal, you might see a blank page for a few seconds. To learn about the process that takes place after you provide consent, see [What happens after I grant consent.](../../../../help-and-support/faqs/i-have-questions-about-access-tokens-and-consent.md#what-happens-when-i-perform-consent)&#x20;
+When you return to the Client Portal, you might see a blank page for a few seconds. To learn about the process that takes place after you provide consent, see [What happens after I grant consent.](../../../../help-and-support/platform-faqs/i-have-questions-about-access-tokens-and-consent.md#what-happens-when-i-perform-consent)&#x20;
 
 ## Add more Azure subscriptions <a href="#add-more-azure-subscriptions" id="add-more-azure-subscriptions"></a>
 

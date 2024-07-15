@@ -7,7 +7,7 @@ description: Create a ticket through the platform or send us an email.
 Before contacting the Marketplace Support team, note the following points:
 
 * To ensure we can assist you effectively, please submit your query in English.
-* Consider browsing our [Frequently Asked Questions](faqs/) to see if your question has been answered.
+* Consider browsing our [Frequently Asked Questions](platform-faqs/) to see if your question has been answered.
 * If you need help with your password or user management, see [Update Password](../getting-started/platform-overview/basics/update-password.md) and [Settings](../platform-modules/settings/), respectively.
 
 If you still need assistance, you can contact us through email or create a ticket using the platform. &#x20;
