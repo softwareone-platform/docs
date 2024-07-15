@@ -1,4 +1,4 @@
-# What happens if I cancel my Adobe subscription?
+# What happens if I terminate my Adobe subscription?
 
 Adobe subscriptions can be terminated both within and outside the 14-day return period.&#x20;
 
@@ -19,10 +19,10 @@ If you terminate a subscription outside the 14-day return period:
 
 ## Related topics
 
-{% content-ref url="../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md" %}
-[terminating-adobe-subscriptions.md](../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md)
+{% content-ref url="../../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md" %}
+[terminating-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../getting-started/tutorials/adobe/terminating-all-adobe-subscriptions.md" %}
-[terminating-all-adobe-subscriptions.md](../../getting-started/tutorials/adobe/terminating-all-adobe-subscriptions.md)
+{% content-ref url="../../../getting-started/tutorials/adobe/terminating-all-adobe-subscriptions.md" %}
+[terminating-all-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/terminating-all-adobe-subscriptions.md)
 {% endcontent-ref %}
