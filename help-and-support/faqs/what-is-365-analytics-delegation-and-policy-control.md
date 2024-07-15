@@ -1,4 +1,4 @@
-# What is 365 analytics delegation and policy control?
+# What is 365 Analytics delegation and policy control?
 
 Delegation and Policy Control allows a variety of user types to do their jobs more productively, in a secure fashion, and without requiring elevated administration credentials.
 

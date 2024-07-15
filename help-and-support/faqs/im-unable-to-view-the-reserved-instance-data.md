@@ -1,4 +1,4 @@
-# I'm unable to view the Reserved Instance data in the Client Portal
+# I'm unable to view the Reserved Instance data
 
 In some cases, the consumption data for your Azure Reserved Instances might be unavailable in the Client Portal.&#x20;
 

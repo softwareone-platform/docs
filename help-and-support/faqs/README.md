@@ -2,14 +2,10 @@
 description: Find answers to some of the commonly asked questions.
 ---
 
-# FAQs
+# Platform FAQs
 
 {% content-ref url="what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md" %}
 [what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md](what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../extensions/adobe-vip-marketplace/faqs/how-do-i-activate-my-vip-marketplace-agreement.md" %}
-[how-do-i-activate-my-vip-marketplace-agreement.md](../../extensions/adobe-vip-marketplace/faqs/how-do-i-activate-my-vip-marketplace-agreement.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md" %}
