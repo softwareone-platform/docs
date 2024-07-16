@@ -8,7 +8,7 @@ The **Subscriptions** page, located under **Marketplace** > **Subscriptions**, d
 
 On this page, you can view the following subscription details:
 
-* **Subscription** - Displays the Iname and D of the subscription.
+* **Subscription** - Displays the name and D of the subscription.
 * **Agreement** - Displays the name and ID of the agreement associated with the subscription.
 * **Licensee** - Displays the name of the individual or legal entity to whom the subscription license is issued.
 * **Buyer** - Displays the buyer associated with the subscription.
