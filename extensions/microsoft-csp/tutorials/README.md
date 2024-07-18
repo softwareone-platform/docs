@@ -1,25 +1,7 @@
 # Tutorials
 
-{% content-ref url="../../../getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-new-tenant.md" %}
-[ordering-microsoft-365-subscription-new-tenant.md](../../../getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-new-tenant.md)
-{% endcontent-ref %}
+Read our step-by-step walkthroughs or watch tutorial videos to learn about ordering Microsoft subscriptions through the Marketplace platform and managing those subscriptions through self-service.
 
-{% content-ref url="../../../getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-existing-tenant.md" %}
-[ordering-microsoft-365-subscription-existing-tenant.md](../../../getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-existing-tenant.md)
-{% endcontent-ref %}
+### Browse topics <a href="#browse-topics" id="browse-topics"></a>
 
-{% content-ref url="../../../getting-started/tutorials/microsoft/ordering-microsoft-azure-subscriptions-new-tenant.md" %}
-[ordering-microsoft-azure-subscriptions-new-tenant.md](../../../getting-started/tutorials/microsoft/ordering-microsoft-azure-subscriptions-new-tenant.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../../getting-started/tutorials/microsoft/ordering-microsoft-azure-existing-tenant.md" %}
-[ordering-microsoft-azure-existing-tenant.md](../../../getting-started/tutorials/microsoft/ordering-microsoft-azure-existing-tenant.md)
-{% endcontent-ref %}
-
-{% content-ref url="ordering-additional-microsoft-azure-subscriptions.md" %}
-[ordering-additional-microsoft-azure-subscriptions.md](ordering-additional-microsoft-azure-subscriptions.md)
-{% endcontent-ref %}
-
-{% content-ref url="terminating-microsoft-subscriptions.md" %}
-[terminating-microsoft-subscriptions.md](terminating-microsoft-subscriptions.md)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Order Microsoft 365 Subscription (New Tenant)</strong></td><td>Order a Microsoft 365 subscription by creating a new agreement and a new Microsoft tenant.</td><td><a href="../../../getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-new-tenant.md">ordering-microsoft-365-subscription-new-tenant.md</a></td></tr><tr><td><strong>Order Microsoft 365 Subscription (Existing Tenant)</strong></td><td>Order a Microsoft 365 subscription for an existing Microsoft tenant.</td><td><a href="../../../getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-existing-tenant.md">ordering-microsoft-365-subscription-existing-tenant.md</a></td></tr><tr><td><strong>Order Microsoft Azure Subscription (New Tenant)</strong></td><td>Order an Azure subscription for a new Microsoft tenant.</td><td><a href="../../../getting-started/tutorials/microsoft/ordering-microsoft-azure-subscriptions-new-tenant.md">ordering-microsoft-azure-subscriptions-new-tenant.md</a></td></tr><tr><td><strong>Order Microsoft Azure Subscription (Existing Tenant)</strong></td><td>Order an Azure subscription for an existing Microsoft tenant.</td><td><a href="../../../getting-started/tutorials/microsoft/ordering-microsoft-azure-existing-tenant.md">ordering-microsoft-azure-existing-tenant.md</a></td></tr><tr><td><strong>Order Additional Microsoft Azure Subscriptions</strong></td><td>Order more licenses through an existing agreement.</td><td><a href="ordering-additional-microsoft-azure-subscriptions.md">ordering-additional-microsoft-azure-subscriptions.md</a></td></tr><tr><td><strong>Terminate Microsoft Subscription</strong></td><td>Cancel a single subscription in an agreement.</td><td><a href="terminate-microsoft-subscription.md">terminate-microsoft-subscription.md</a></td></tr><tr><td><strong>Terminate All Microsoft Subscriptions</strong></td><td>Cancel all subscriptions and terminate your agreement.</td><td><a href="terminate-all-microsoft-subscriptions.md">terminate-all-microsoft-subscriptions.md</a></td></tr></tbody></table>

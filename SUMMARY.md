@@ -199,7 +199,10 @@
     * [Order Microsoft Azure Subscription (New Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-azure-subscriptions-new-tenant.md)
     * [Order Microsoft Azure Subscription (Existing Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-azure-existing-tenant.md)
     * [Order Additional Microsoft Azure Subscriptions](extensions/microsoft-csp/tutorials/ordering-additional-microsoft-azure-subscriptions.md)
-    * [Terminate Microsoft Subscriptions](extensions/microsoft-csp/tutorials/terminating-microsoft-subscriptions.md)
+    * [Terminate Microsoft Subscription](extensions/microsoft-csp/tutorials/terminate-microsoft-subscription.md)
+    * [Terminate All Microsoft Subscriptions](extensions/microsoft-csp/tutorials/terminate-all-microsoft-subscriptions.md)
+  * [FAQs](extensions/microsoft-csp/faqs/README.md)
+    * [What happens if I cancel my Microsoft subscription?](extensions/microsoft-csp/faqs/what-happens-if-i-cancel-my-microsoft-subscription.md)
   * [Release Notes](extensions/microsoft-cloud-solution-provider/release-notes.md)
 
 ## Developer Resources

@@ -6,11 +6,11 @@ description: Cancel all Adobe subscriptions in an agreement.
 
 The only way to terminate all Adobe subscriptions in an agreement is by terminating the agreement altogether. This tutorial shows how to create a termination order for an existing Adobe agreement.
 
-Adobe subscriptions can be terminated both within and outside the 14-day return period. To learn about the cancellation policies, see  [What happens if I terminate my Adobe subscription?](../../../extensions/adobe-vip-marketplace/faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
+Adobe subscriptions can be terminated both within and outside the 14-day return period. To learn about the cancellation policies, see [What happens if I terminate my Adobe subscription?](../faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
 
 ## Prerequisites
 
-Make sure that the agreement you want to terminate is **Active**. Agreements in any other state cannot be terminated.
+Before starting this tutorial, make sure that the agreement you want to terminate is **Active**. Agreements in any other state cannot be terminated.
 
 ## 1. Open the agreement
 

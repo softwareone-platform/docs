@@ -6,7 +6,7 @@ description: Order new Adobe items using an existing agreement.
 
 If you already have an agreement and want to order new Adobe VIP Marketplace items as part of the same agreement, you can place a change order.&#x20;
 
-This tutorial shows how you can order new items using an existing agreement.&#x20;
+This tutorial shows how you can order new items using an existing agreement. You can watch the following video or continue reading for the step-by-step instructions.&#x20;
 
 {% embed url="https://vimeo.com/986322109/4702c0b2f1" %}
 Video tutorial: How to order new Adobe items
@@ -14,7 +14,7 @@ Video tutorial: How to order new Adobe items
 
 ## Prerequisites
 
-Make sure that the agreement you want to use is **Active**.
+Before starting this tutorial, make sure that the agreement you want to use is **Active**.
 
 ## 1**.** Launch the Purchase wizard
 

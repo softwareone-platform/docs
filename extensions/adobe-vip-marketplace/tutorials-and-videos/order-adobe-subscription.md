@@ -10,7 +10,7 @@ Buying from the Adobe VIP Marketplace buying program means purchasing subscripti
 
 To order a subscription, you must have an agreement. An agreement is a contractual relationship between a seller, buyer, and licensee. Therefore, each ordered subscription is part of an agreement. When you place an order, it either involves setting up a new agreement or adding to an existing agreement.&#x20;
 
-This tutorial shows how to order an Adobe subscription by setting up a new agreement and a new Adobe VIP Marketplace account.
+This tutorial shows how to order an Adobe subscription by setting up a new agreement and a new Adobe VIP Marketplace account. You can watch the following video or continue reading for the step-by-step instructions.&#x20;
 
 {% embed url="https://vimeo.com/986319438/c4d6c4113b" %}
 Video tutorial: How to order an Adobe subscription
@@ -18,10 +18,10 @@ Video tutorial: How to order an Adobe subscription
 
 ## Prerequisites
 
-Before you begin, ensure you have the following:
+Before starting this tutorial, make sure you have the following:
 
-* An account on the Marketplace Platform.
-* Your company address and contact. You'll need to provide this information when creating your Adobe VIP Marketplace account.&#x20;
+* A Marketplace Platform account.
+* Your company address and contact information. You'll need to provide this information when creating your Adobe VIP Marketplace account.&#x20;
 * A licensee in the **active** state or permission to [create a new licensee](../../../platform-modules/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when creating the new agreement.&#x20;
 
 ## 1. Launch the purchase wizard

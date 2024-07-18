@@ -10,7 +10,7 @@ This tutorial shows how to order a Microsoft 365 subscription by setting up a **
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
-Before you begin, ensure you have the following:
+Before starting this tutorial, make sure you have the following:
 
 * Your Microsoft tenant name.&#x20;
 * A Marketplace licensee in the **active** state or permission to [create a new licensee](../../../platform-modules/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when you are creating the agreement.&#x20;

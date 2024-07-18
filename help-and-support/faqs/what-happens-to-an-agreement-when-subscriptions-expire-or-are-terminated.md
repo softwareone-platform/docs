@@ -20,6 +20,6 @@ See any of the related topic links for information on agreements and subscriptio
 [terminate-adobe-subscription.md](../../extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../extensions/microsoft-csp/tutorials/terminating-microsoft-subscriptions.md" %}
-[terminating-microsoft-subscriptions.md](../../extensions/microsoft-csp/tutorials/terminating-microsoft-subscriptions.md)
+{% content-ref url="../../extensions/microsoft-csp/tutorials/terminate-microsoft-subscription.md" %}
+[terminate-microsoft-subscription.md](../../extensions/microsoft-csp/tutorials/terminate-microsoft-subscription.md)
 {% endcontent-ref %}

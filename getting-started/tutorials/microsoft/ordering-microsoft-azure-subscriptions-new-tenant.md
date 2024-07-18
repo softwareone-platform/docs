@@ -8,7 +8,7 @@ This tutorial shows how to order a Microsoft Azure subscription by setting up a 
 
 ## Prerequisites
 
-Before you begin, ensure you have the following:
+Before starting this tutorial, make sure you have the following:
 
 * A licensee in the **active** state or permission to [create a new licensee](../../../platform-modules/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
 * Details, such as your company name, registration ID, and address. You'll need to provide these details when creating the new Microsoft tenant.

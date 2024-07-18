@@ -8,7 +8,7 @@ Your account on the Marketplace Platform might have several Adobe subscriptions.
 
 ## Prerequisites
 
-Make sure that the subscription you want to rename is in the **Active** or **Updating** state. Terminated subscriptions cannot be renamed.
+Before starting this tutorial, make sure that the subscription you want to rename is in the **Active** or **Updating** state. Terminated subscriptions cannot be renamed.
 
 ## 1. Open the subscription <a href="#section-viewing-subscriptions" id="section-viewing-subscriptions"></a>
 

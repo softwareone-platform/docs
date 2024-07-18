@@ -8,7 +8,7 @@ If you already have an active agreement and want to order additional Azure subsc
 
 ## Prerequisites
 
-Make sure that the agreement you want to use is in the **Active** state.
+Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state.
 
 ## 1**.** Launch the Purchase wizard <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
