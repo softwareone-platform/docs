@@ -11,7 +11,7 @@ There are two ways to increase the number of licenses. The first is by increasin
 This tutorial shows how to order additional licenses by editing the subscription.&#x20;
 
 {% embed url="https://vimeo.com/986323945/a268e0a35b" %}
-Video tutorial: How to increses your Adobe subscription licenses
+Video tutorial: How to increase your Adobe subscription licenses
 {% endembed %}
 
 ## Prerequisites
