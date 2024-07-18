@@ -19,10 +19,10 @@ If you terminate a subscription outside the 14-day return period:
 
 ## Related topics
 
-{% content-ref url="../../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md" %}
-[terminating-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md)
+{% content-ref url="../tutorials-and-videos/terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](../tutorials-and-videos/terminate-adobe-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../getting-started/tutorials/adobe/terminating-all-adobe-subscriptions.md" %}
-[terminating-all-adobe-subscriptions.md](../../../getting-started/tutorials/adobe/terminating-all-adobe-subscriptions.md)
+{% content-ref url="../tutorials-and-videos/terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](../tutorials-and-videos/terminate-all-adobe-subscriptions.md)
 {% endcontent-ref %}

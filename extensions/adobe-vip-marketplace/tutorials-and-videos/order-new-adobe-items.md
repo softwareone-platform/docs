@@ -4,7 +4,13 @@ description: Order new Adobe items using an existing agreement.
 
 # Order New Adobe Items
 
-If you already have an agreement and want to order new Adobe items as part of the same agreement, you can place a change order. This tutorial shows how you can do so.
+If you already have an agreement and want to order new Adobe VIP Marketplace items as part of the same agreement, you can place a change order.&#x20;
+
+This tutorial shows how you can order new items using an existing agreement.&#x20;
+
+{% embed url="https://vimeo.com/986322109/4702c0b2f1" %}
+Video tutorial: How to order new Adobe items
+{% endembed %}
 
 ## Prerequisites
 

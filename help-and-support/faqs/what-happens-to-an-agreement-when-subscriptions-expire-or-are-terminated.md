@@ -16,8 +16,8 @@ See any of the related topic links for information on agreements and subscriptio
 [subscriptions](../../platform-modules/marketplace/subscriptions/)
 {% endcontent-ref %}
 
-{% content-ref url="../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md" %}
-[terminating-adobe-subscriptions.md](../../getting-started/tutorials/adobe/terminating-adobe-subscriptions.md)
+{% content-ref url="../../extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](../../extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../extensions/microsoft-csp/tutorials/terminating-microsoft-subscriptions.md" %}
