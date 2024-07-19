@@ -1,6 +1,6 @@
 # Tutorials
 
-Read our step-by-step walkthroughs or watch tutorial videos to learn about ordering Microsoft subscriptions through the Marketplace platform and managing those subscriptions through self-service.
+Read our step-by-step walkthroughs or watch videos to learn about ordering Microsoft subscriptions through the Marketplace platform and managing those subscriptions through self-service.
 
 ### Browse topics <a href="#browse-topics" id="browse-topics"></a>
 

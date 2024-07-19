@@ -23,9 +23,9 @@ The [SoftwareOne](https://softwareone.com) Marketplace Platform is a comprehensi
 
 </div>
 
-Empowering businesses to procure, manage, and optimize their software assets with ease, our platform is a catalyst for accelerating digital transformation and enhancing operational efficiency.
+Empowering clients to discover, compare, and procure software licenses from multiple vendors in one place, our platform is a catalyst for accelerating digital transformation and enhancing operational efficiency.
 
-Explore our documentation to learn about our platform and how you can use it to optimize your cloud environment, transact software licenses and cloud subscriptions, and manage your cloud spend.
+Explore our documentation to learn more about the features of our platform and find out how you can use it for procurement, subscription management, fulfillment, and more.
 
 ### Resources
 
