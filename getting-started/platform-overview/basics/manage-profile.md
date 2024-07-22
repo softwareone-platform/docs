@@ -46,7 +46,6 @@ Click to see the supported languages.
 * Dutch
 * English (UK)
 * English (US)
-* Finnish
 * French
 * German
 * Hungarian
