@@ -38,7 +38,3 @@ Here are some of the key features of our platform:
 {% content-ref url="basics/" %}
 [basics](basics/)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}

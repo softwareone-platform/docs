@@ -4,26 +4,34 @@ description: View and edit your profile settings.
 
 # Manage Profile
 
-## Access your profile <a href="#access-your-profile" id="access-your-profile"></a>
+You can view and manage your user profile information from the **My profile** page.&#x20;
 
-Follow these steps to access your profile:
+## View your profile <a href="#access-your-profile" id="access-your-profile"></a>
+
+Your profile page contains basic information about your account, including your account name, your first name and last profile photo, and email address. Your profile page also shows the language you've selected for your account, your chosen date format, and a list of accounts you belong to on the platform.&#x20;
+
+Follow these steps to view your profile:
 
 1. Sign in to your account.
-2. Click your profile menu in the upper right and select **My profile.** Your profile overview page opens containing the following tabs:
+2. Click your profile menu in the upper right and select **My profile**. Your profile overview page opens:
 
-<figure><img src="../../../.gitbook/assets/image (308).png" alt=""><figcaption><p>My profile page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (471).png" alt=""><figcaption><p>My profile page</p></figcaption></figure>
 
-* **General** - Displays your general profile information and account preferences.
-* **Accounts** - Displays the accounts and groups you belong to, and your account type.
+Your profile settings are also organized by tab:
+
+* **General** - Displays general settings, such as name, display language for your account, and date format.
+* **Accounts** - Displays a list of accounts and groups you belong to and your account type.
 * **Details** - Displays the timestamps associated with your account, for example, the date and time your account was created.
 
 ## Update your profile settings <a href="#update-your-profile-settings" id="update-your-profile-settings"></a>
 
-If you want to make any changes to your profile, you can do so using the **Edit** option on your profile page. The **Edit** option allows you to:
+If you want to make any changes to your profile and settings, you can do so using the **Edit** option on your profile page. You can modify the following:
 
-* Change your name or contact information.
-* Change the display language of your account.
-* Update your regional settings, such as date and time format.
+* Your profile picture.
+* Your first name and last name.
+* Your phone number.&#x20;
+* The language of your account.
+* The date format.
 
 {% hint style="info" %}
 Click to see the supported languages.
@@ -57,12 +65,19 @@ Click to see the supported languages.
 
 Follow these steps to update your profile settings:
 
-1. On the profile details page, click **Edit**. The **Edit profile** page opens.
+1. On the profile details page, click **Edit**. The **Edit user** page opens.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Edit user page</p></figcaption></figure>
 
-2. In the **General** section, make the required changes. You can add or update your **Profile picture**, **First name**, **Last name**, **Country code**, and **Phone number**.&#x20;
-3. In the **Preferences** section, change your account language and regional settings as necessary.&#x20;
+2. Change the **General** settings as necessary:
+   * **Profile picture** - Add or update your profile picture. You can add a photo of yourself, a logo, or anything that represents you and helps others identify you easily on the platform. Your image must be in PNG or JPG format. The maximum file size is 5 MB.
+   * **First name** - Update your first name.
+   * **Last name** - Update your last name.
+   * **Country code** - Select the country code for your phone number.
+   * **Phone number** - Enter your phone number.
+3. Update your **Preferences** as necessary:
+   * **Language** - Set the display language for your account.&#x20;
+   * **Regional settings** - Select the date format you want to use.
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Preferences section</p></figcaption></figure>
 
