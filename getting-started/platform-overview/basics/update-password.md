@@ -42,7 +42,7 @@ Follow these steps to change your password:
 
 <figure><img src="../../../.gitbook/assets/image (429).png" alt="" width="375"><figcaption><p>Change password page</p></figcaption></figure>
 
-4. Enter your new password and then confirm that your new password matches the one you entered in **New Password**. When you enter a new password, our password validation checks whether your password meets the criteria.&#x20;
+4. Enter your new password and then confirm that your new password matches the one you entered in **Confirm new password**. As you start typing your new password, our password validation checks whether your new password meets our password criteria.&#x20;
 5. Click **Confirm** to save your changes.
 
 ## Related topics

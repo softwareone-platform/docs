@@ -10,12 +10,12 @@ If there are any pages you visit often, you can add them to your list of favorit
 
 Follow these steps to add a page to your favorites:
 
-1. Click the main menu and then navigate to the required page (for example, **Account**).
+1. Click the main menu and then navigate to the required page (for example, the **Account** page).
 2. Hover over the page and select the star icon.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (426).png" alt=""><figcaption><p>Add to favorites</p></figcaption></figure>
 
-The star icon will change from empty to filled, and the page will be displayed under **Favorites**.
+The star icon changes from empty to filled and the page is displayed under **Favorites**.
 
 ## Remove old favorites
 
