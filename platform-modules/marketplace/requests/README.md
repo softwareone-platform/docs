@@ -10,11 +10,11 @@ In the context of the Marketplace Platform, a request is a pre-sale inquiry crea
 
 ## How to access the Requests page <a href="#how-to-access-the-requests-page" id="how-to-access-the-requests-page"></a>
 
-You can access the **Requests** page by navigating to the main menu and selecting **Marketplace** > **Requests**.
+You can access the **Requests** page by navigating to the main menu of the platform and selecting **Marketplace** > **Requests**.
 
 From the **Requests** page, you can:
 
-* View all requests that you've created along with their status.
+* View all requests you've created along with the request status.
 * Change the status of your request to notify the vendor that your request is ready for their action.
 * Close your request after your query has been answered.
 * Add comments to the request and upload supporting documents for vendors and other members of your account.

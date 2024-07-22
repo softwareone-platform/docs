@@ -12,7 +12,7 @@ Follow these steps to create a new API token:
 
 <figure><img src="../../../.gitbook/assets/image (404).png" alt=""><figcaption><p>Add API token</p></figcaption></figure>
 
-2. In the **General** section, provide the following details and click **Next**.
+2. In the **General** section, provide the following details and then click **Next**.
    1. **Logo** - (Optional) Add an image for your token. You can select a file to upload or drop your file to the selection area. By uploading an image, you can easily identify your token from the list of tokens.&#x20;
    2. **API token name** - (Required) Enter a name for your token.&#x20;
    3. **Description** - (Optional) Describe your token.
@@ -24,7 +24,7 @@ Follow these steps to create a new API token:
 
 <figure><img src="../../../.gitbook/assets/image (406).png" alt=""><figcaption><p>Overview section</p></figcaption></figure>
 
-5. Click **Close** to return to the API tokens page or click **View details** to open the details page of the token.&#x20;
+5. Click **View details** to open the details page of the token. Otherwise, click **Close** to close the page.
 
 <figure><img src="../../../.gitbook/assets/image (407).png" alt=""><figcaption><p>Summary page</p></figcaption></figure>
 

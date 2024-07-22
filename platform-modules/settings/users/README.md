@@ -17,14 +17,15 @@ The following are some of the key points about users:&#x20;
 
 ## How to access the Users page <a href="#ariaid-title2" id="ariaid-title2"></a>
 
-As an account administrator, you can access the **Users** page by navigating to the main menu and selecting **Settings** > **Users**.&#x20;
+Account administrators can access the **Users** page by navigating to the main menu of the platform and selecting **Settings** > **Users**.&#x20;
 
-From the **Users** page, you can:
+From the **Users** page, administrators can:
 
-* Add new users to your Marketplace platform account.
-* View and manage all users in your account.
-* Remove users from your account and re-invite when needed.
-* Send the invitation link again if the original one wasn't received.
+* Invite new members to join the account.
+* View a list of users in the account and manage those users.
+* Remove a user from the account.
+* Copy a user's invitation link and share it with them directly.
+* Resend the invitation email.&#x20;
 * Generate a new invitation link if the original link has expired.
 
 ## Related topics

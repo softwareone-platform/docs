@@ -12,9 +12,9 @@ Examples include SoftwareOne UK, SoftwareOne USA, and so on. Your account is lin
 
 ## How to access the Sellers page  <a href="#ariaid-title2" id="ariaid-title2"></a>
 
-As an account administrator, you can access the **Sellers** page by navigating to **Settings** > **Sellers**.&#x20;
+Account administrators can access the **Sellers** page by navigating to the main menu of the platform and selecting **Settings** > **Sellers**.&#x20;
 
-From the Sellers page, you can view all SoftwareOne sellers linked to your account.&#x20;
+On the **Sellers** page, administrators can view all SoftwareOne sellers linked to the account.&#x20;
 
 ## Related topics
 

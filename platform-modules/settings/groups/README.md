@@ -18,12 +18,12 @@ The following are some of the key points about groups:&#x20;
 
 ## How to access the Groups page
 
-As an account administrator, you can access the **Groups** page by navigating to the main menu and selecting **Settings** > **Groups**.&#x20;
+Account administrators can access the **Groups** page by navigating to the main menu of the platform and selecting **Settings** > **Groups**.&#x20;
 
-From the **Groups** page, you can:&#x20;
+From the **Groups** page, administrators can:&#x20;
 
 * Create new groups and add members to those groups.
-* View all groups that exist for your account.
+* View all groups that exist for the account.
 * Edit a group's information.&#x20;
 * Delete a group permanently if it's no longer needed.&#x20;
 

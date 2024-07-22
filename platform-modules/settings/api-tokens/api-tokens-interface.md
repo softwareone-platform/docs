@@ -41,7 +41,7 @@ From the details page, you can complete the following tasks:&#x20;
 When you open the details page, it shows the token's name, marketplace ID, and status. The page also contains the following tabs that display corresponding information:
 
 * **General** - Displays the token's description and allows you to show, hide, and copy the values.&#x20;
-* **Modules** - Displays the platform modules that the API token has been granted access to within the scope of an account.
+* **Modules** - Displays the modules that the API token has been granted access to within the scope of an account.
 * **Details** - Displays the date and time information for your selected token, for example, the date and time when the token was created.
 
 ## Related topics

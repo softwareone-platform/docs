@@ -12,7 +12,7 @@ The following are the key points regarding agreements in the Marketplace Platfor
 
 ## How to access the Agreements page
 
-You can access the **Agreements** page by navigating to the main menu and selecting **Marketplace** > **Agreements**.&#x20;
+You can access the **Agreements** page by navigating to the main menu of the platform and selecting **Marketplace** > **Agreements**.&#x20;
 
 From the **Agreements** page, you can:
 

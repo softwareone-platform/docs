@@ -14,9 +14,9 @@ However, note that only SoftwareOne can add new buyers to your account.
 
 ## How to access the Buyers page
 
-As an account administrator, you can access the **Buyers** page by navigating to the main menu and selecting **Settings** > **Buyers**.&#x20;
+Account administrators can access the **Buyers** page by navigating to the main menu of the platform and selecting **Settings** > **Buyers**.&#x20;
 
-From the **Buyers** page, you can:
+From the **Buyers** page, administrators can:
 
 * View a list of buyers mapped to your account. The list displays all buyers, including active, enabled, and disabled.
 * Update buyers to reflect any changes to their information, including the buyer logo and contact information.

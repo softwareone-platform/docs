@@ -16,7 +16,7 @@ Through the Orders module, the platform offers a streamlined, easy-to-navigate o
 
 ## How to access the Orders page
 
-You can access the **Orders** page by navigating to the main menu and selecting **Marketplace** > **Orders**.&#x20;
+You can access the **Orders** page by navigating to the main menu of the platform and selecting **Marketplace** > **Orders**.&#x20;
 
 From the **Orders** page, you can:
 

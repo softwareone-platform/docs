@@ -4,11 +4,13 @@
 
 The Subscriptions module in the Marketplace Platform is a single reference point for your subscriptions, allowing you to view and manage all of your purchased subscriptions.&#x20;
 
-A subscription refers to the ongoing provision of service under the terms and conditions detailed in your agreement. Subscriptions allow you to use a resource based on the number of licenses you order. In the Marketplace Platform, subscriptions are renewed automatically by default, unless you [cancel them](terminate-a-subscription.md).&#x20;
+A subscription refers to the ongoing provision of service under the terms and conditions detailed in your agreement. Subscriptions allow you to use a resource based on the number of licenses you order.&#x20;
+
+In the Marketplace Platform, subscriptions are renewed automatically by default, unless they are canceled.&#x20;
 
 ## How to access the Subscriptions page
 
-You can access the **Subscriptions** page by navigating to the main menu and selecting **Marketplace** > **Subscriptions**.&#x20;
+You can access the **Subscriptions** page by navigating to the main menu of the platform and selecting **Marketplace** > **Subscriptions**.&#x20;
 
 From the **Subscriptions** page, you can:&#x20;
 

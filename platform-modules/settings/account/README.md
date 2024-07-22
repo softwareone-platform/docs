@@ -17,7 +17,7 @@ The following account types exist on the Marketplace Platform:&#x20;
 
 Account administrators can access the **Account** page by navigating to the main menu of the platform and selecting **Settings** > **Account**.&#x20;
 
-From the **Account** page, you can view and manage your account information, including the general account settings and address details.
+On the **Account** page, administrators can view and manage the account information, including the general account settings and company address information.
 
 ## Related topics
 

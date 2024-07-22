@@ -17,12 +17,13 @@ Your API keys have permissions assigned to them, so keep them secure. Do not sha
 
 ## How to access the API tokens page
 
-As an account administrator, you can access the **API tokens** page by navigating to the main menu and selecting **Settings** > **API tokens**.&#x20;
+Account administrators can access the **API tokens** page by navigating to the main menu of the platform and selecting **Settings** > **API tokens**.&#x20;
 
-From the **API tokens** page, you can:
+From the **API tokens** page, administrators can:
 
-* Create new tokens and then use those tokens to access different workflows and modules within the Marketplace Platform.
-* View a list of your tokens.&#x20;
+* Create new tokens to access different workflows and modules within the Marketplace platform.
+* Edit a token to update its name, description, and list of modules.
+* View a list of tokens.&#x20;
 * Copy the token values for use in your application.
 * Delete a token if it's no longer needed.
 * Disable a token temporarily and then re-enable it as needed.

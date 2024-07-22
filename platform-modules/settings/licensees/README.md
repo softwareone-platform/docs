@@ -20,9 +20,9 @@ The following are some of the key points about licensees:&#x20;
 
 ## How to access the Licensees page
 
-As an account administrator, you can access the **Licensees** page by navigating to **Settings** > **Licensees**.&#x20;
+Account administrators can access the **Licensees** page by navigating to the main menu of the platform and selecting **Settings** > **Licensees**.&#x20;
 
-From the **Licensees** page, you can:
+From the **Licensees** page, administrators can:
 
 * Create new licensees and map licensees to buyers and sellers.
 * View all licensees and their associated details.
