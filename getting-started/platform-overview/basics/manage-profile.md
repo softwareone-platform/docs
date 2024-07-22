@@ -6,9 +6,9 @@ description: View and edit your profile settings.
 
 You can view and manage your user profile information from the **My profile** page.&#x20;
 
-## View your profile <a href="#access-your-profile" id="access-your-profile"></a>
+Your profile page contains basic information about your account, including your account name, first name and last name, profile photo, and email address. Your profile page also shows your language and date preferences.
 
-Your profile page contains basic information about your account, including your account name, your first name and last profile photo, and email address. Your profile page also shows the language you've selected for your account, your chosen date format, and a list of accounts you belong to on the platform.&#x20;
+## View your profile <a href="#access-your-profile" id="access-your-profile"></a>
 
 Follow these steps to view your profile:
 
@@ -25,7 +25,7 @@ Your profile settings are also organized by tab:
 
 ## Update your profile settings <a href="#update-your-profile-settings" id="update-your-profile-settings"></a>
 
-If you want to make any changes to your profile and settings, you can do so using the **Edit** option on your profile page. You can modify the following:
+If you want to update your profile and settings, you can do so using the **Edit** option on your profile page. You can modify the following:
 
 * Your profile picture.
 * Your first name and last name.
@@ -63,7 +63,7 @@ Click to see the supported languages.
 </details>
 {% endhint %}
 
-Follow these steps to update your profile settings:
+Follow these steps to update your profile:
 
 1. On the profile details page, click **Edit**. The **Edit user** page opens.
 
@@ -76,7 +76,7 @@ Follow these steps to update your profile settings:
    * **Country code** - Select the country code for your phone number.
    * **Phone number** - Enter your phone number.
 3. Update your **Preferences** as necessary:
-   * **Language** - Set the display language for your account.&#x20;
+   * **Language** - Choose your language preference.
    * **Regional settings** - Select the date format you want to use.
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Preferences section</p></figcaption></figure>

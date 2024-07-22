@@ -46,7 +46,7 @@ The details page of an order contains several tabs that display corresponding or
 * **Subscriptions** - Displays the subscriptions associated with the order. For each subscription, you can also view the subscription term, the start and the renewal date, the estimated sales price, and the subscription status.
 * **Notes** - Displays the notes entered for the order during the purchase process. You can also edit the existing notes.
 * **Attachments** - Displays all files associated with your order. You can view additional details for each file, such as the file name, marketplace ID, document type, and description. You can also download your attachments.
-* **Details** - Displays the additional ID of each actor related to the order, along with the date and time information.
+* **Details** - Displays the additional ID of each user related to the order, along with the date and time information.
 
 ## Related topics
 
