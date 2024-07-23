@@ -10,7 +10,7 @@ Buying from the Adobe VIP Marketplace buying program means purchasing subscripti
 
 To order a subscription, you must have an agreement. An agreement is a contractual relationship between a seller, buyer, and licensee. Therefore, each ordered subscription is part of an agreement. When you place an order, it either involves setting up a new agreement or adding to an existing agreement.&#x20;
 
-This tutorial shows how to order an Adobe subscription by setting up a new agreement and a new Adobe VIP Marketplace account. You can watch the following video or continue reading for the step-by-step instructions.&#x20;
+This tutorial shows how to order an Adobe subscription by setting up a new agreement and a new Adobe VIP Marketplace account. Watch the following video or continue reading for the step-by-step instructions.&#x20;
 
 {% embed url="https://vimeo.com/986319438/c4d6c4113b" %}
 Video tutorial: How to order an Adobe subscription
@@ -44,7 +44,7 @@ Click **Create agreement** to start creating your new Adobe agreement.&#x20;
 
 ## 3. Select licensee
 
-1. Choose the licensee you want to use. A licensee is the end-user entity of the product being purchased. In this tutorial, we'll select an existing licensee, as shown in the following image. You can also add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../platform-modules/settings/licensees/create-licensees.md).
+1. Choose the licensee you want to use. A licensee is the end-user entity of the product being purchased. In this tutorial, we'll select an existing licensee, as shown in the following image. You can also add a new licensee by clicking **Add licensee** and then following the instructions in [Create Licensees](../../../platform-modules/settings/licensees/create-licensees.md).
 2. Click **Next**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Licensee (3).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
@@ -56,15 +56,17 @@ Click **Create agreement** to start creating your new Adobe agreement.&#x20;
 
 <figure><img src="../../../.gitbook/assets/createaccount.png" alt=""><figcaption><p>Create account</p></figcaption></figure>
 
-Note that if you want to migrate your existing Adobe VIP account to Adobe VIP Marketplace, select **Migrate account**. If you choose this option, you'll only need to enter your Adobe membership ID in the next step.
+If you want to migrate your existing Adobe VIP account to Adobe VIP Marketplace, select **Migrate account**. If you choose this option, you'll only need to provide your Adobe membership ID in the next step.
 
 ## 5. Provide agreement details
 
-Fill out the contact form containing the following fields and click **Next**:
+Fill out the contact form and click **Next**.
 
 <figure><img src="../../../.gitbook/assets/Agreementdetails.png" alt=""><figcaption><p>Agreement details</p></figcaption></figure>
 
-* **Company Name** - Enter your company name in this field.&#x20;
+The following fields are available:
+
+* **Company Name** - Enter your company name.&#x20;
 * **Address** - Provide your address, including city, state, and zip/postal code.&#x20;
 * **Contact** - Provide your contact details.
 * **3-year commitment -** Select to apply to a 3-year commitment. For more information, see [3-year commit subscription](https://helpx.adobe.com/uk/enterprise/vip/vip-subscription-term-options-marketplace.html).

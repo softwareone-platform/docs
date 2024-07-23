@@ -16,7 +16,7 @@ Video tutorial: How to increase your Adobe subscription licenses
 
 ## Prerequisites
 
-Before starting this tutorial, ensure that your Adobe agreement and the subscription are in the **Active** state.
+Before starting this tutorial, make sure that your Adobe agreement and the subscription are in the **Active** state.
 
 ## 1. Open the subscription
 

@@ -51,13 +51,13 @@ On the Chargeback tab, you can see all chargeback invoices including specific de
 You can select any row to open a detailed view of the respective chargeback invoice. The page shows all information related to the document and allows you to edit it.
 
 * **Document view** – consists of header, body, and footer. On the right side “Actions”, “Activity” and “Versions” panels are available.
-* **Header** – consists of the name and date the document was generated. Bill-to-address, company logo, customer number, consumption/billing period date range and field to store custom notes.
+* **Header** – consists of the name and date the document was generated. Bill-to-address, company logo, customer number, consumption/billing period date range, and field to store custom notes.
 * **Body** – lists the line items. Each line item is described with appropriate providers, total resources count, and amount. Line items are further divided into sub-lines, which display top Resource Types.
 * **Resource Type** – defines provider and type of resource. If the resource type is virtual machines or storage, you will also see SaaS-connected resource types like “User” or “License”. See the Consumption Module for details.
-* **Footer** – displays contacts, company information, and exchange rates applied during currency conversion. Additionally system-wide unique Chargeback Number is visible and should be used during contact with Support in case of issues with the document.
+* **Footer** – displays contacts, company information, and exchange rates applied during currency conversion. Additionally, a system-wide unique Chargeback Number is visible and should be used during contact with Support in case of issues with the document.
 
 {% hint style="info" %}
-Subgroups structure is only available using Custom Group split. It is not possible to display both group structure and Resource Types at the same time. It is possible to switch between Subgroups and Resource types in the Customize menu which can be found in the middle section of the document **Volume** column is hidden by default. It can be adjusted in the Customize menu.
+Subgroup structure is only available using Custom Group split. It is not possible to display both group structure and Resource Types at the same time. It is possible to switch between Subgroups and Resource types in the Customize menu which can be found in the middle section of the document **Volume** column is hidden by default. It can be adjusted in the Customize menu.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
@@ -86,7 +86,7 @@ Documents based on Custom Groups can display nested group sublines. The whole pu
 
 <figure><img src="../../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
-Subgroups are organized in the tree structure. Visibility and depth of presented sublines can be selected in the Customize menu. Please note that the cost of the subline is not calculated into the total cost of the document. In other words, it provides justification for line costs.
+Subgroups are organized in the tree structure. Visibility and depth of presented sublines can be selected in the Customize menu. Please note that the cost of the subline is not calculated into the total cost of the document. In other words, it justifies line costs.
 
 <figure><img src="../../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
@@ -119,7 +119,7 @@ The Chargebacks page has an “Actions” panel on the right side, which will al
 <figure><img src="../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Delete Chargeback option is only available for users with an “Admin Access Level”. In most cases, it is the owner of the chargeback invoice i.e. the user who has generated the invoice. Analyze Spend Report is a drop-down wherein users can select the required providers. This will redirect users to the Consumption Module for the selected provider.
+The delete Chargeback option is only available for users with an “Admin Access Level”. In most cases, it is the owner of the chargeback invoice i.e. the user who has generated the invoice. Analyze Spend Report is a drop-down wherein users can select the required providers. This will redirect users to the Consumption Module for the selected provider.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
@@ -178,27 +178,27 @@ The Custom Groups section shows the group structure as defined in Custom Groups.
 
 <figure><img src="../../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
-Selecting each group allows Admins to split chargeback invoices for selected groups. If none of the groups are selected, one global chargeback invoice is created for complete consumption of selected providers.
+Selecting each group allows Admins to split chargeback invoices for selected groups. If none of the groups are selected, one global chargeback invoice is created for the complete consumption of selected providers.
 
-Costs displayed against each group is the estimated consumption by that group. Consumption for all ungrouped resources is reflected as “Untracked” in this section.
+Costs displayed against each group are the estimated consumption by that group. Consumption for all ungrouped resources is reflected as “Untracked” in this section.
 
 Click on “Done” to navigate to the next section “Review Chargeback”
 
-**Note:** Invoice will be created for first selected group. Lines will correspond to closest selected groups under document group. Consumption will show only for selected groups in the invoice.
+**Note:** Invoice will be created for the first selected group. Lines will correspond to the closest selected groups under the document group. Consumption will show only for selected groups in the invoice.
 
 <figure><img src="../../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 ### **Split by Tenants & Subscriptions**
 
-Tenants & Subscriptions are the foundation of the Consumption module. Chargebacks use the existing structure to create documents. No further configuration is required. Convention based approach is applied: every Tenant is documented with lines derived from its Subscriptions.
+Tenants & Subscriptions are the foundation of the Consumption module. Chargebacks use the existing structure to create documents. No further configuration is required. Convention-based approach is applied: every Tenant is documented with lines derived from its Subscriptions.
 
-**Note:** Document/line options can be set on Settings page. Scheduled generation is supported. Please consult Original Document subsection in Reporting section.
+**Note:** Document/line options can be set on the Settings page. Scheduled generation is supported. Please consult the Original Document subsection in the Reporting section.
 
 <figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
 ### Review Chargeback <a href="#review-chargeback" id="review-chargeback"></a>
 
-Review Chargeback is the last section that summarizes the selections Admin user has made and provides the following capabilities to Admins:
+Review Chargeback is the last section that summarizes the selections the Admin user has made and provides the following capabilities to Admins:
 
 * Admins can preview the document that will be generated
 * Admins can edit the Bill To details
@@ -206,9 +206,9 @@ Review Chargeback is the last section that summarizes the selections Admin user 
 
 <figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
-Selecting “Preview” will open a preview of the invoice so that Admins can see how it will be displayed on chargeback tab.
+Selecting “Preview” will open a preview of the invoice so that Admins can see how it will be displayed on the chargeback tab.
 
-**Note:** There will be no costs displayed on the preview tab because the document is not yet generated, however costs will be available once the document has been generated.
+**Note:** There will be no costs displayed on the preview tab because the document is not yet generated, however, costs will be available once the document has been generated.
 
 Selecting “Edit Bill To” will allow Admin to edit the Bill-To details if required. Admins can change the address and contact details for the chargeback.
 

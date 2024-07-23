@@ -6,7 +6,7 @@ description: Learn about users and how to access the Users page.
 
 ## About users
 
-In the Marketplace Platform, a user is an individual who interacts with the Marketplace Platform through a unique username and password. Each user has a profile consisting of attributes and settings (such as email address, name,  profile icon, and so on).&#x20;
+In the Marketplace Platform, a user is an individual who interacts with the Marketplace Platform through a unique username and password. Each user has a profile consisting of attributes and settings (such as email address, name,  profile icon, and more).&#x20;
 
 The following are some of the key points about users:&#x20;
 
