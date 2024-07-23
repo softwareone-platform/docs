@@ -1,6 +1,8 @@
-# DWE Services Contract
+---
+description: Digital Workplace Essentials Services Contract.
+---
 
-## Digital Workplace Essentials Services Contract
+# DWE Services Contract
 
 ## 1. Service Contract
 
@@ -14,23 +16,41 @@ This Services Contract is entered into under and is governed by SoftwareOne’s 
 
 For the purposes of this Services Contract, “**Agreement**” means the Services Addendum and the Standard Terms. The terms of the Agreement are incorporated into and apply to this Services Contract. In the event of any conflict or inconsistency between the terms of this Contract and the Standard Terms, the terms of this Contract shall take precedence.
 
-## 2. Services and Services Catalog
+## 2. Services, Service Catalog and Access Requirements
 
-The Service is comprised of a set of core Services with an optional add-on Service. Customer shall select the Services to be delivered by SoftwareOne under this Services Contract by choosing from the options available on the SoftwareOne Marketplace site page for the order of the Services.
+#### Services
+
+The Service is comprised of a set of core Services with an optional add-on Service. Customer shall select the Services to be delivered by SoftwareOne under this Services Contract by choosing from the options available on the SoftwareOne Marketplace site page for the order of the Services
+
+#### Service Catalog
 
 The scope of the Services selected is described in SoftwareOne’s Digital Workplace Essentials Service Catalog, a copy of which is available at: [Service Catalog](https://www.softwareone.com/-/media/publishing-documents/swo-digital-workplace-essentials-catalog-en.pdf). Please note that the ability for Customer to bring its own Microsoft Licenses (“**BYOL**”) and the optional add-on Service are not available if Customer is ordering the Services through the SoftwareOne Marketplace and are therefore out of scope.
 
 The terms set out in the Service Catalog are incorporated into and apply to this Services Contract.
 
+#### Access Requirements
+
+&#x20;Without prejudice to any other Customer obligations set out in the Agreement or this Services Contract, Customer shall, at its cost, provide SoftwareOne such administrative, co-administrative or other access (such as root access or subscription administrative rights) as required by SoftwareOne in the [Service Catalog](https://www.softwareone.com/-/media/publishing-documents/swo-digital-workplace-essentials-catalog-en.pdf) to perform the Services. &#x20;
+
 ## 3. Term
 
-The term of this Services Contract shall commence on the Effective Date and shall remain in effect until the longest term of the Microsoft Licenses resold by SoftwareOne (as Cloud Solution Provider (“**CSP**”)) hereunder expires or is terminated (“**Term**”).
+(a) Subject to the remaining provisions of this Section \[X], this Services Contract shall commence on the Effective Date and shall remain in effect in respect of each Microsoft License resold by SoftwareOne (as Cloud Solution Provider (“**CSP**”)) hereunder, for the respective Microsoft License’s committed term (the “**CSP Term**”). The Effective Date shall be the date that the order for the Services is set to “completed” on the SoftwareOne Marketplace (“**Completed**”).
 
-The Effective Date shall be the date that the order for the Services is set to “completed” on the SoftwareOne Marketplace (“**Completed**”).
+(b) Except as terminated in accordance with paragraph (c) below, this Services Contract will automatically renew in respect of each Microsoft License resold by SoftwareOne as CSP hereunder, for successive periods corresponding to the respective Microsoft License’s committed term (“**CSP Renewal Term**”).
 
-Notwithstanding any other provision of this Services Contract, the Services Catalog or the Agreement, Customer may not terminate this Services Contract (or any part thereof) for convenience during the Term.
+(c) Either party may terminate this Services Contract in respect of a Microsoft License resold by SoftwareOne as CSP hereunder by either:
 
-Customer acknowledges that the expiry or termination of this Services Contract (or any part thereof) may not cause Microsoft Licenses resold hereunder to terminate. Any such licenses will expire or terminate in accordance with their license terms.
+1. giving the other party thirty (30) days written notice prior to the end of the then current term of that Microsoft License; or
+2. fulfilling a termination request in the SoftwareOne Marketplace thirty (30) days’ prior to the end of the then current term of that Microsoft License.
+
+(d) Notwithstanding the foregoing, this Services Contract shall terminate immediately:
+
+1. where Customer has no active Microsoft Licenses resold by SoftwareOne as CSP hereunder; and/or
+2. where Customer only has active perpetual Microsoft Licenses resold by SoftwareOne as CSP hereunder.
+
+(e) Notwithstanding any other provision of this Services Contract, the Services Catalog or the Agreement, Customer may not terminate this Services Contract (or any part thereof) for convenience during its term.
+
+(f) Customer acknowledges that the expiry or termination of this Services Contract (or any part thereof) may not cause Microsoft Licenses resold hereunder to terminate. Any such licenses will expire or terminate in accordance with their license terms.
 
 ## 4. Data Processing Agreement
 
