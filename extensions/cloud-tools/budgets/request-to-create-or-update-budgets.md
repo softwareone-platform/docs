@@ -2,7 +2,7 @@
 description: Request to create a new budget or update an existing budget.
 ---
 
-# Request to create or update budgets
+# Request to Create or Update Budgets
 
 When you have limited access, you can't control budgets for your main Custom Groups or Subscriptions. Instead, you'll see a **Request** option for both types of budgets.&#x20;
 
@@ -31,8 +31,8 @@ Follow these steps to request an update to an existing budget that you're unable
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-a-reporting-period.md" %}
-[create-a-reporting-period.md](create-a-reporting-period.md)
+{% content-ref url="create-reporting-period.md" %}
+[create-reporting-period.md](create-reporting-period.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-custom-group-budgets.md" %}

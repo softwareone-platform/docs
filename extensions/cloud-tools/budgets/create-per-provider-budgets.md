@@ -2,7 +2,7 @@
 description: Create a per provider budget.
 ---
 
-# Create Per-Provider budgets
+# Create Per-Provider Budgets
 
 ## Before you begin <a href="#per-provider-budgets" id="per-provider-budgets"></a>
 
@@ -34,8 +34,8 @@ Depending on the provider, you can create a budget for an account and a subscrip
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-a-reporting-period.md" %}
-[create-a-reporting-period.md](create-a-reporting-period.md)
+{% content-ref url="create-reporting-period.md" %}
+[create-reporting-period.md](create-reporting-period.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-custom-group-budgets.md" %}

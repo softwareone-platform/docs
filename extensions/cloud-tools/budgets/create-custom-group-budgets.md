@@ -2,7 +2,7 @@
 description: Create a custom group budget.
 ---
 
-# Create Custom Group budgets
+# Create Custom Group Budgets
 
 ## Before you begin <a href="#before-you-start" id="before-you-start"></a>
 
@@ -36,8 +36,8 @@ You can assign a budget to any custom group defined within the Custom Groups. Fo
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-a-reporting-period.md" %}
-[create-a-reporting-period.md](create-a-reporting-period.md)
+{% content-ref url="create-reporting-period.md" %}
+[create-reporting-period.md](create-reporting-period.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-per-provider-budgets.md" %}

@@ -31,8 +31,8 @@ When a budget is created or changed by someone other than the budget owner, the 
 
 ## Related topics
 
-{% content-ref url="create-a-reporting-period.md" %}
-[create-a-reporting-period.md](create-a-reporting-period.md)
+{% content-ref url="create-reporting-period.md" %}
+[create-reporting-period.md](create-reporting-period.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-custom-group-budgets.md" %}

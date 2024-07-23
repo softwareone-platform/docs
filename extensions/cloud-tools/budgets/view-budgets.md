@@ -2,7 +2,7 @@
 description: View custom group and per-provide budgets.
 ---
 
-# View budgets
+# View Budgets
 
 ## View a custom group budget
 
@@ -78,8 +78,8 @@ Displays a list of the top resources consuming the most for that budget (Account
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-a-reporting-period.md" %}
-[create-a-reporting-period.md](create-a-reporting-period.md)
+{% content-ref url="create-reporting-period.md" %}
+[create-reporting-period.md](create-reporting-period.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-custom-group-budgets.md" %}

@@ -2,7 +2,7 @@
 description: Manage your budget utilization alerts.
 ---
 
-# Edit budget utilization alerts
+# Edit Budget Utilization Alerts
 
 Both Custom Group and the Per Provider Budgets offer utilization alerts.&#x20;
 
@@ -16,8 +16,8 @@ You can set three thresholds that will trigger notifications for particular budg
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="create-a-reporting-period.md" %}
-[create-a-reporting-period.md](create-a-reporting-period.md)
+{% content-ref url="create-reporting-period.md" %}
+[create-reporting-period.md](create-reporting-period.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-custom-group-budgets.md" %}
