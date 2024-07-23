@@ -4,7 +4,7 @@ description: >-
   business requirements.
 ---
 
-# Custom groups
+# Custom Groups
 
 Custom groups allow you to define an organizational hierarchy (for reporting and budgeting) and govern cloud environments (resources running on Azure, AWS, and Office365 licenses).
 
@@ -117,6 +117,6 @@ The primary purpose of Custom Groups is to create a multi-dimensional and hierar
 
 ## Related topics
 
-{% content-ref url="create-gustom-groups.md" %}
-[create-gustom-groups.md](create-gustom-groups.md)
+{% content-ref url="create-custom-groups.md" %}
+[create-custom-groups.md](create-custom-groups.md)
 {% endcontent-ref %}

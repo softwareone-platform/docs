@@ -173,7 +173,7 @@
       * [Migrate to Azure Cost Management APIs](extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/migrate-to-azure-cost-management-apis.md)
       * [Assign Azure Subscription Owner Rights](extensions/cloud-tools/cloud-tenant-setup/azure-onboarding/assign-azure-subscription-owner-rights.md)
   * [Custom Groups](extensions/cloud-tools/custom-groups/README.md)
-    * [Create gustom groups](extensions/cloud-tools/custom-groups/create-gustom-groups.md)
+    * [Create custom groups](extensions/cloud-tools/custom-groups/create-custom-groups.md)
   * [Pricelist Center](extensions/cloud-tools/pricelist-center/README.md)
     * [View and Add Prices](extensions/cloud-tools/pricelist-center/view-and-add-prices.md)
   * [Recommendations](extensions/cloud-tools/recommendations/README.md)
