@@ -14,11 +14,11 @@ Follow these steps to reset your password:
 
 1. On the **Sign in** page, enter your email address and select **Continue**.
 
-<figure><img src="../../../.gitbook/assets/image (459).png" alt="" width="375"><figcaption><p>Email address</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (459).png" alt="" width="375"><figcaption><p>Sign in page</p></figcaption></figure>
 
 2. Click **Forgot password?**.
 
-<figure><img src="../../../.gitbook/assets/image (460).png" alt="" width="375"><figcaption><p>Forgot passeword</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (460).png" alt="" width="375"><figcaption><p>Forgot passeword link</p></figcaption></figure>
 
 3. In **Forgot Your Password?**, enter your email address and click **Send Email**. You'll receive an email containing a link to reset your password.
 4. Click the link and follow the onscreen instructions to create a new password.
@@ -40,9 +40,9 @@ Follow these steps to change your password:
 
 3. Click the chevron in the upper right and select **Change password**. The **Change password** page opens.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (429).png" alt="" width="375"><figcaption><p>Change password page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (429).png" alt="" width="375"><figcaption><p>Change password</p></figcaption></figure>
 
-4. Enter your new password and then confirm that your new password matches the one you entered in **Confirm new password**. As you start typing your new password, our password validation checks whether your new password meets our password criteria.&#x20;
+4. Enter your new password and then confirm that your new password matches the one you entered in **Confirm new password**. As you start typing your new password, our password validation checks whether your new password meets the requirements.&#x20;
 5. Click **Confirm** to save your changes.
 
 ## Related topics

@@ -44,4 +44,4 @@ Follow these steps to receive notifications by phone:
 1. On the **Settings** tab, click **Add phone number**.
 2. In **Update Mobile Number,** enter the phone number you want to use and click **Select**.
 3. Click **Get Code**. You'll receive a validation code on the phone number you provided.
-4. Enter the validation code and click **Verify**. You'll start receiving notifications as per your updated settings. You'll receive notifications as per your updated settings.
+4. Enter the validation code and click **Verify**. You'll start receiving notifications as per your updated settings.
