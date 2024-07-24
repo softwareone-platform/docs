@@ -1,66 +1,60 @@
 # How do you handle purchase order numbers in subscription-based models?
 
-Subscription-based models are designed to streamline licensing and renewal processes, offering a more seamless experience for managing software and service subscriptions. This model differs significantly from traditional transaction-based purchasing in several key ways.
+The landscape of B2B subscriptions and procurement processes is undergoing significant changes as businesses transition towards subscription-based models. As a result, there is a need to navigate the complexities of managing orders and invoices in the context of subscription-based procurement.
 
-## Subscription-based billing
+This topic aims to answer your questions about B2B subscriptions while providing an overview of how subscription-based models differ from traditional procurement processes. It also describes how the Marketplace Platform makes it easier for you to manage and streamline subscription-based procurement.
 
-Unlike transactional purchases that occur individually, subscription-based models operate regularly. You commit to a term that provides continuous access to services or software without the need to manage individual licenses manually.
+{% embed url="https://youtu.be/DkN_6ZKzLRo" %}
+How B2B subscriptions are changing traditional procurement processes
+{% endembed %}
 
-## Consolidated invoicing
+## What is a subscription-based model?
 
-Invoices in a subscription-based model are consolidated, typically on a monthly or annual basis, depending on the subscription terms agreed upon.&#x20;
+In a subscription-based model, you pay a certain fee to access software or a service. You commit to a term and then pay a certain amount on a monthly or yearly basis.
 
-It means multiple purchases or renewals are grouped into single invoices, reducing the number of individual transactions.
+This model differs significantly from the traditional purchasing model where you place a purchase order, the vendor processes it, and then issues an invoice after the license is allocated. &#x20;
 
-## Purchase orders in a subscription model <a href="#handling-purchase-orders-in-the-subscription-model" id="handling-purchase-orders-in-the-subscription-model"></a>
+## What are the challenges of a subscription-based model?
 
-One of the significant changes in subscription-based models involves the handling of Purchase Order (PO) numbers:
+In traditional transactional procurement, the procurement process is linear, which means it involves placing a purchase order, processing of invoices, and reconciling them. In this model, each purchase order is directly linked to an invoice.
 
-* **Non-direct linkage of PO numbers** - In traditional models, each PO number is directly linked to a specific invoice or order. However, in subscription-based models, PO numbers are not directly tied to individual invoices or subscriptions due to the consolidated nature of billing.
-* **Use of PO numbers** - Although PO numbers are not linked to specific invoices, they are still crucial for internal tracking, budgeting, and financial reconciliation. PO numbers can be referenced in the consolidated invoice to maintain a connection to internal purchase processes.
+However, in a subscription-based model, the relationship between orders and invoices is complex. Unlike traditional procurement, where orders and invoices have a one-to-one relationship, in the subscription-based model, orders and invoices can have a many-to-many relationship.&#x20;
 
-## Guidance on PO numbers and invoices <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
+For example, you might place multiple orders for additional licenses in a month, but receive only one invoice at the end of the month. Alternatively, you might not place any order, yet receive an invoice for subscription renewal. In these scenarios, orders don't directly match the invoices.
 
-Here’s how you can manage PO numbers and display them on invoices under subscription-based models:
+This causes an issue during reconciliation due to a mismatch between the number of orders and invoices. &#x20;
 
-### Providing PO numbers
+## How do enterprise procurement systems support a subscription-based model?
 
-When setting up your order, ensure that you provide your open PO number if your organization's purchasing process requires it.&#x20;
+Many enterprise procurement systems support subscription-based models through various mechanisms, such as recurring purchase orders, standing orders, blanket purchase orders, open purchase orders, contract management, and more.
 
-This number will be noted and used for reference in all consolidated invoices in the scope of each Agreement in the Marketplace Platform.&#x20;
+Unlike traditional purchase orders, where each purchase order is linked to a single invoice, mechanisms (such as recurring purchase orders) represent long-term agreements, allowing multiple invoices to be associated with a single purchase order time. This approach is useful in environments where regular, repeated purchases are common, such as in subscription-based billing systems.&#x20;
 
-You can find the example of the **Additional ID** field, which is displayed on the consolidated invoice header if provided.
+## How does the Marketplace Platform support a subscription-based model?
 
-<figure><img src="../../.gitbook/assets/image (452).png" alt=""><figcaption><p>Additional ID field</p></figcaption></figure>
+To explain how our platform supports this process, it's important to understand the key elements of our platform.&#x20;
 
-### Displaying PO numbers on invoices
+The Marketplace Platform facilitates transactions between clients and vendors in various countries where SoftwareOne operates. We deal with objects such as orders, subscriptions, and agreements, which represent a relationship between the SoftwareOne entity and the client in specific regions.
 
-While PO numbers will not be tied to specific transactions within the invoice, they can still be displayed on each invoice as a reference point. This helps maintain traceability for financial auditing and internal tracking.&#x20;
+* Business transactions are represented by orders, which can be of different types, such as purchase orders, change orders, and termination orders.
+* Subscriptions are linked to agreements and represent the provision of service over a period of time. It's common for our clients to have multiple subscriptions within the same agreement.
 
-The following is an example of the invoice header with **External Agreement ID**.
+To modify subscriptions, an order needs to be placed. It’s not possible to modify a subscription directly without placing an order.
 
-<figure><img src="../../.gitbook/assets/image (453).png" alt=""><figcaption><p>The header of an invoice (example)</p></figcaption></figure>
+Placing an order establishes a relationship at the recurring purchase order level on the procurement system's side and the agreement on the marketplace platform's side. This simplifies the reconciliation process when invoices are received because each invoice has links to the agreement, recurring purchase order, and subscriptions.
 
-### Updating or changing PO numbers
+## How can I enter a purchase order number?  <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
 
-If a PO number needs updating or changing during the subscription term, you can modify the **Agreement External ID**, which will then be reflected on the next invoice.
+You can provide your recurring purchase order number in the **Additional ID** field when placing your order. This number will be used for reference in all consolidated invoices in the scope of each agreement in the platform.&#x20;
+
+<figure><img src="../../.gitbook/assets/Recurring PO.png" alt=""><figcaption><p>Recurring PO</p></figcaption></figure>
+
+After you've provided the number, it'll be displayed on the invoice as follows:
+
+<figure><img src="../../.gitbook/assets/Sample Invoice.png" alt=""><figcaption><p>Sample invoice</p></figcaption></figure>
+
+If a recurring purchase order number needs updating or changing during the subscription term, you can modify the **Additional Agreement ID** in the scope of the agreement. The updated number will then be reflected in your next invoice.
 
 {% hint style="info" %}
-This option is available for Adobe VIP Marketplace products only.
+This option to update the PO number is available for the Adobe VIP Marketplace products only.
 {% endhint %}
-
-## Understanding open POs
-
-An Open PO refers to a purchase order that remains active over a certain period and covers multiple transactions or billing cycles.&#x20;
-
-Unlike traditional POs, which are specific to single transactions, an Open PO is designed to accommodate ongoing purchases or subscriptions under a single order number. This approach is useful in environments where regular, repeated purchases are common, such as in subscription-based billing systems.&#x20;
-
-When setting up an agreement, you can issue an Open PO that covers the expected expense of the agreement for a defined term, such as one year. This PO should account for all foreseeable charges, including potential add-ons or tier changes.
-
-## Conclusion <a href="#conclusion" id="conclusion"></a>
-
-The shift to subscription-based models represents a transformation in how software and services are managed, moving from transaction-specific billing to a more streamlined, subscription-oriented approach.&#x20;
-
-Understanding the handling of PO numbers in this new context is crucial for effective financial management and operational efficiency.
-
-For further details or specific inquiries, contact our [support team](../getting-support.md).&#x20;
