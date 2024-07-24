@@ -144,7 +144,6 @@
   * [FAQs](extensions/adobe-vip-marketplace/faqs/README.md)
     * [How do I activate my VIP Marketplace agreement?](extensions/adobe-vip-marketplace/faqs/how-do-i-activate-my-vip-marketplace-agreement.md)
     * [What happens if I terminate my Adobe subscription?](extensions/adobe-vip-marketplace/faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
-    * [What happens when I reduce the quantity my Adobe subscription?](extensions/adobe-vip-marketplace/faqs/what-happens-when-i-reduce-the-quantity-my-adobe-subscription.md)
   * [Release Notes](extensions/adobe-vip-marketplace/release-notes.md)
 * [Cloud Tools](extensions/cloud-tools/README.md)
   * [365Simple](extensions/cloud-tools/365simple.md)
