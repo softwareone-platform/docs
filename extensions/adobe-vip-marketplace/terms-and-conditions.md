@@ -1,10 +1,10 @@
-# Adobe VIP Marketplace Terms
+# Terms and Conditions
 
 **Specific Terms: Adobe Value Incentive Plan Marketplace Program ("VIP Marketplace") Product Subscriptions from SoftwareOne**
 
 ## 1. Introduction
 
-1.1   SoftwareOne is a VIP Marketplace Direct Partner authorized to resell Adobe software products and services licensed under the VIP Marketplace (“**Adobe Products**” or “**Products**”) to members of the VIP Marketplace (“**Members**") through the SoftwareOne Marketplace.
+1.1   SoftwareOne is a VIP Marketplace Direct Partner authorized to resell Adobe software products and services licensed under the VIP Marketplace (“**Adobe Products**” or “**Products**”) to members of the VIP Marketplace (“**Members**") through the SoftwareOne Marketplace.d
 
 1.2   Please read these specific terms (“**Specific Terms**” or “**Contract**”) carefully. The terms of this Contract (as may be updated from time to time) govern Your purchase of Adobe Products from SoftwareOne as part of the VIP Marketplace via the SoftwareOne Marketplace and Your access and use of them.
 
@@ -34,7 +34,7 @@
 
 &#x20;       (i)   **Annual Plan (one (1) year) Paid Yearly in Advance (“Annual Plan”)**: Customer commits to a one (1) year Subscription Term and is charged yearly in advance at the price prevailing at the time the order status is set to “completed” on the SoftwareOne Marketplace (“**Completed**”) based on the quantity of Units that Customer chooses for its Subscription(s). Any additional Units that Customer adds during the Subscription Term will be charged yearly in advance on a prorated basis at the price prevailing at the time the order for such additional Units is Completed;
 
-&#x20;       (ii)   **Three (3) Year Commit (thirty-six (36) months) Paid Yearly in Advance (“Three Year Commit”)**: Customer commits to a three (3) year Subscription Term and to purchase a minimum quantity of Units for the Subscription Term (the “**Committed Quantity**”). Each year of the three (3) year Subscription Term, Customer will be charged yearly in advance for the Committed Quantity at the price prevailing at the time the initial Three Year Commit order was Completed. Any additional Units that Customer adds during any year of the Subscription Term will be charged in advance on a prorated basis for that year at the price prevailing at the time the order for such additional Units is Completed and renewed and charged yearly in advance for each remaining year of the Subscription Term at the price prevailing for such additional Units at the time of their yearly renewal.
+&#x20;       (ii)   **Three (3) Year Commit (thirty-six (36) months) Paid Yearly in Advance (“Three Year Commit”)**: Customer commits to purchase a minimum quantity of Units for a three (3) year Subscription Term (the “**Committed Quantity**”). Each year of the three (3) year Subscription Term, Customer will be charged yearly in advance for the Committed Quantity at the price prevailing at the time the Three Year Commit order was Completed. Any additional Units that Customer adds during any year of the Subscription Term will be charged in advance on a prorated basis for that year at the price prevailing for those additional Units at the time the Three Year Commit order was Completed and renewed and charged yearly in advance for each remaining year of the Subscription Term at such price.
 
 ## 4. Auto-renewal and Auto-renewal Terms
 
@@ -42,11 +42,11 @@
 
 &#x20;       (i)   **Annual Plan**: Subscriptions will automatically renew for additional successive one (1) year terms. For each automatically renewing Subscription SoftwareOne will charge Customer, at the price prevailing at the time of such renewal, for the Subscription and for any additional Units added during the then current Subscription Term, yearly in advance on or following the last day of Customer’s then current Subscription Term. Any additional Units that Customer adds during a renewed Subscription Term will be charged yearly in advance on a prorated basis at the price prevailing for such additional Units at the time the order is Completed;
 
-&#x20;       (ii)   **Three Year Commit**: Subscriptions (including any additional Units beyond the Committed Quantity) will automatically default to the Annual Plan (and renew for additional successive one (1) year terms in accordance with Clauses 3.2(i) and 4.1(i) above) unless Customer submits a recommitment request within the thirty (30) days, but not later than seven (7) Business Days, before the end of the current Subscription Term committing to renewing the Three Year Commit Subscription for a successive three year Subscription Term (“**Recommitment Request**”). For each renewed Three Year Commit Subscription:
+&#x20;       (ii)   **Three Year Commit**: Subscriptions (including any additional Units beyond the Committed Quantity) will automatically default to the Annual Plan (and renew for additional successive one (1) year terms in accordance with Clauses 3.2(i) and 4.1(i) above) unless Customer accepts a recommitment request within the thirty (30) days, but not later than seven (7) Business Days, before the end of the current Subscription Term committing to renewing the Three Year Commit Subscription for a successive three (3) year Subscription Term (“**Recommitment Request**”). For each renewed Three Year Commit Subscription:
 
-* Each year of the three (3) year renewed Subscription Term, Customer will be charged yearly in advance for the Committed Quantity at the price prevailing at the time of the renewal of the Subscription;
-* Any additional Units beyond the Committed Quantity will be renewed and charged yearly in advance for each year of the renewed Subscription Term at the price prevailing for such additional Units at the time of their yearly renewal; and
-* Any additional Units that Customer adds during any year of the renewed Subscription Term will be charged in advance on a prorated basis for that year at the price prevailing at the time the order for such additional Units is Completed and renewed and charged yearly in advance for each remaining year of the renewed Subscription Term at the price prevailing for such additional Units at the time of their yearly renewal.
+* Each year of the three (3) year renewed Subscription Term, Customer will be charged yearly in advance for the Committed Quantity at the price prevailing at the time of the acceptance of the Recommitment Request;
+* Any additional Units beyond the Committed Quantity will be renewed and charged yearly in advance for each year of the renewed Subscription Term at the price prevailing for such additional Units at the time of the acceptance of the Recommitment Request; and
+* Any additional Units that Customer adds during any year of the renewed Subscription Term will be charged in advance on a prorated basis for that year at the price prevailing for those additional Units at the time of the acceptance of the Recommitment Request and renewed and charged yearly in advance for each remaining year of the renewed Subscription Term at the price prevailing for such additional Units at the time of the acceptance of the Recommitment Request.
 
 4.2   In addition, and without prejudice, to the above, if the Adobe Product Subscription is an automatically-renewing Subscription Customer expressly agrees and consents to the following Auto-Renewal Terms:
 
@@ -54,7 +54,7 @@
 
 ## 5. Opting out of Auto-renewal and Providing Notice
 
-5.1   Customer may elect to opt out of auto-renewal for an automatically renewing Adobe Product Subscription at any time but no later than seven (7) Business Days before the renewal date by following the procedure for this on the SoftwareOne Marketplace or by calling or emailing its SoftwareOne Account Manager. By doing so, Customer’s Subscription will automatically terminate at the end of the then-current Subscription Term.
+5.1   Customer may elect to opt out of auto-renewal for an automatically renewing Adobe Product Subscription at any time but no later than seven (7) Business Days before the renewal date by following the procedure for this on the SoftwareOne Marketplace. By doing so, Customer’s Subscription will automatically terminate at the end of the then-current Subscription Term.
 
 ## 6. Changes, Additions and Returns
 
@@ -66,7 +66,7 @@
 
 &#x20;       (ii)   the quantity of additional Units added beyond the Committed Quantity of a Three Year Commit Subscription at the end of each year of the Subscription Term by providing notice of the revised quantity through the SoftwareOne Marketplace at least seven (7) Business Days prior to the end of the then current year of the Subscription Term.
 
-&#x20;       (iii)   without prejudice to Clause 4.1(iii), the Committed Quantity of a Three Year Commit Subscription at the end of the three year Subscription Term by providing notice of the revised minimum quantity through the SoftwareOne Marketplace at the time of submission of the Recommit Request.
+&#x20;       (iii)   without prejudice to Clause 4.1(iii), the Committed Quantity of a Three Year Commit Subscription at the end of the three year Subscription Term by providing notice of the revised minimum quantity through the SoftwareOne Marketplace prior to the acceptance of the Recommitment Request.
 
 6.2   Customer acknowledges and agrees that changes in quantities may effect price.
 
@@ -108,7 +108,7 @@
 
 7.9   SoftwareOne shall be entitled to vary prices, fees, expenses, Taxes or other charges (including any minimum charges, percentages or discounts applied) and/or the billing model related thereto at any time.
 
-7.10   For the avoidance of doubt, “**year**” or “**yearly**” means any successive period of one (1) year measured from the date an order is Completed.&#x20;
+7.10   For the avoidance of doubt, “**year**” or “**yearly**” means any successive period of one (1) year measured from: (i) the date an order is Completed; or (ii) in relation to the renewal of a Three Year Commit Subscription, the time of the acceptance of the Recommitment Request.&#x20;
 
 ## 8. Consents
 
