@@ -28,7 +28,7 @@ This causes an issue during reconciliation due to a mismatch between the number 
 
 Many enterprise procurement systems support subscription-based models through various mechanisms, such as recurring purchase orders, standing orders, blanket purchase orders, open purchase orders, contract management, and more.
 
-Unlike traditional purchase orders, where each purchase order is linked to a single invoice, mechanisms (such as recurring purchase orders) represent long-term agreements, allowing multiple invoices to be associated with a single purchase order time. This approach is useful in environments where regular, repeated purchases are common, such as in subscription-based billing systems.&#x20;
+Unlike traditional purchase orders, where each purchase order is linked to a single invoice, mechanisms (such as recurring purchase orders) represent long-term agreements, allowing multiple invoices to be associated with a single purchase order. This approach is useful in environments where regular, repeated purchases are common, such as in subscription-based billing systems.&#x20;
 
 ## How does the Marketplace Platform support a subscription-based model?
 
