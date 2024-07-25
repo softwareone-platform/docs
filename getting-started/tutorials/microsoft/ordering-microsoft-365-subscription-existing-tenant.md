@@ -6,7 +6,11 @@ description: Order a Microsoft 365 subscription for your existing Microsoft tena
 
 If you already have a Microsoft account and want to order a Microsoft 365 subscription using the same account, you can do so through the Marketplace Platform.
 
-This tutorial shows how to order a Microsoft 365 subscription by setting up a **new agreement** and connecting your **existing Microsoft tenant**.&#x20;
+This tutorial shows how to order a Microsoft 365 subscription by setting up a new agreement and connecting your existing Microsoft tenant.&#x20;
+
+{% embed url="https://vimeo.com/985744841/f08189d1c0" %}
+Video tutorial: How to order Microsoft 365 subscription for an existing tenant
+{% endembed %}
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 

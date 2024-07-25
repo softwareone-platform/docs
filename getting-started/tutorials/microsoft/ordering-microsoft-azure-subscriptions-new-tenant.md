@@ -4,7 +4,11 @@ description: Order a Microsoft Azure subscription through the Marketplace Platfo
 
 # Order Microsoft Azure Subscription (New Tenant)
 
-This tutorial shows how to order a Microsoft Azure subscription by setting up a **new agreement** and a **new Microsoft tenant**.
+This tutorial shows how to order a Microsoft Azure subscription by setting up a new agreement and a new Microsoft tenant.
+
+{% embed url="https://vimeo.com/985746673/dda41dd67e" %}
+Video tutorial: How to order Microsoft Azure subscription for a new Microsoft tenant
+{% endembed %}
 
 ## Prerequisites
 

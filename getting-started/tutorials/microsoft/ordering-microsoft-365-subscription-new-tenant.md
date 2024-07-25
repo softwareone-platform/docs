@@ -4,7 +4,11 @@ description: Order a Microsoft 365 subscription for a new Microsoft tenant.
 
 # Order Microsoft 365 Subscription (New Tenant)
 
-This tutorial shows how to order a Microsoft 365 subscription by setting up a **new agreement** and a **new Microsoft tenant**.
+This tutorial shows how to order a Microsoft 365 subscription by setting up a new agreement and a new Microsoft tenant.
+
+{% embed url="https://vimeo.com/985743941/17387d808a?share=copy" %}
+Video tutorial: How to order Microsoft 365 subscription for a new tenant
+{% endembed %}
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
@@ -12,7 +16,7 @@ Before starting this tutorial, make sure you have the following:
 
 * A licensee in the **active** state or permission to [create a new licensee](../../../platform-modules/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
 * Details, such as your company name, registration ID, and address. You'll need to provide these details while creating your new Microsoft tenant.&#x20;
-* Contact details of the person who will manage your account.&#x20;
+* The contact details of the person who will manage your account.&#x20;
 
 ## 1. Select the product
 

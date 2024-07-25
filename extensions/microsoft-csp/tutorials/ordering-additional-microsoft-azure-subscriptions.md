@@ -10,7 +10,7 @@ If you already have an active agreement and want to order additional Azure subsc
 
 Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state.
 
-## 1**.** Launch the Purchase wizard <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+## 1**.** Launch the purchase wizard <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 1. Navigate to the **Products** page (**Marketplace** > **Products**) and click **Microsoft Azure**.
 
@@ -30,7 +30,7 @@ Select an active agreement from the list of your agreements and click **Next**.&
 
 You'll be directed to the **Select Items** section of the purchase wizard.
 
-## 3. Add new items
+## 3. Add the Azure subscription
 
 Click **Add items** to add the new Azure subscription to your order. Click **Next**.&#x20;
 

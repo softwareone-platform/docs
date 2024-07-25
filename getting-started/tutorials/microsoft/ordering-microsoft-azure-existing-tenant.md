@@ -6,7 +6,11 @@ description: >-
 
 # Order Microsoft Azure Subscription (Existing Tenant)
 
-This tutorial shows how to order a Microsoft Azure subscription by setting up a **new agreement** and connecting your **existing Microsoft tenant**.&#x20;
+This tutorial shows how to order a Microsoft Azure subscription by setting up a new agreement and connecting your existing Microsoft tenant.&#x20;
+
+{% embed url="https://vimeo.com/985745743/ebef0c41c4" %}
+Video tutorial: How to order Microsoft Azure subscription for an existing tenant
+{% endembed %}
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
@@ -14,9 +18,9 @@ Before starting this tutorial, make sure you have the following:
 
 * A licensee in the **active** state or permission to [create a new licensee](../../../platform-modules/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
 * Your Microsoft tenant name.&#x20;
-* Contact details of the person who will manage your account.&#x20;
+* The contact details of the person who will manage your account.&#x20;
 
-## 1**.** Launch the Purchase wizard
+## 1**.** Launch the purchase wizard
 
 1. Navigate to the **Products** page and click **Microsoft Azure**.&#x20;
 

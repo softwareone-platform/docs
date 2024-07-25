@@ -196,6 +196,7 @@
   * [Tutorials](extensions/microsoft-csp/tutorials/README.md)
     * [Order Microsoft 365 Subscription (New Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-new-tenant.md)
     * [Order Microsoft 365 Subscription (Existing Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-365-subscription-existing-tenant.md)
+    * [Order More Licenses for Microsoft 365 Subscription](extensions/microsoft-csp/tutorials/order-more-licenses-for-microsoft-365-subscription.md)
     * [Order Microsoft Azure Subscription (New Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-azure-subscriptions-new-tenant.md)
     * [Order Microsoft Azure Subscription (Existing Tenant)](getting-started/tutorials/microsoft/ordering-microsoft-azure-existing-tenant.md)
     * [Order Additional Microsoft Azure Subscriptions](extensions/microsoft-csp/tutorials/ordering-additional-microsoft-azure-subscriptions.md)
