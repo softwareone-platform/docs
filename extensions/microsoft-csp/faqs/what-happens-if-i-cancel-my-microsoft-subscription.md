@@ -10,4 +10,4 @@ The following cancelation specifics apply to Microsoft subscriptions:
 * For all other Microsoft products, such as Microsoft Dynamics and Microsoft 365, you can terminate or reduce the quantity within 7 days from your date of purchase. Subscriptions terminated or reduced in quantity within 7 days of purchase are eligible for a prorated refund. To learn more, see [New Commerce Experience Cancellation Policy](https://learn.microsoft.com/en-us/partner-center/customers/new-commerce-cancellation-policy).&#x20;
 * Although Microsoft supports co-terming, the Marketplace Platform doesn't support co-terming for Microsoft products.
 
-For step-by-step instructions on canceling your subscription, see [Terminate Microsoft Subscriptions](../tutorials/terminate-microsoft-subscription.md) and [Terminate All Microsoft Subscriptions](../tutorials/terminate-all-microsoft-subscriptions.md).
+For step-by-step instructions on canceling your subscription, see [Terminate Microsoft Subscriptions](../tutorials-and-videos/terminate-microsoft-subscription.md) and [Terminate All Microsoft Subscriptions](../tutorials-and-videos/terminate-all-microsoft-subscriptions.md).

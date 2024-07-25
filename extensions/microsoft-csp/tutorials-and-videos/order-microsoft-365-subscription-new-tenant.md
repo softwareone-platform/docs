@@ -81,7 +81,7 @@ These fields are enabled only after the platform validates your Microsoft tenant
 
 <figure><img src="../../../.gitbook/assets/SelectItems (1).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
-2. After adding the new items, adjust the quantity as needed in the **New Qty** field and click **Next**.
+2. After adding new items, under **New Qty**, adjust the quantity of licenses as needed. Click **Next**.
 
 <figure><img src="../../../.gitbook/assets/SelectItems1.png" alt=""><figcaption><p>Add items</p></figcaption></figure>
 
