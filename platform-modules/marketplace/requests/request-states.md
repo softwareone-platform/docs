@@ -1,4 +1,4 @@
-# Requests States
+# Request States
 
 In the Marketplace Platform, a request can have several states (also known as status).&#x20;
 
@@ -24,8 +24,8 @@ These states are displayed as Status within the platform. They are also displaye
 [add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-the-request-to-processing.md" %}
-[set-the-request-to-processing.md](set-the-request-to-processing.md)
+{% content-ref url="set-request-to-processing.md" %}
+[set-request-to-processing.md](set-request-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-and-manage-attachments.md" %}

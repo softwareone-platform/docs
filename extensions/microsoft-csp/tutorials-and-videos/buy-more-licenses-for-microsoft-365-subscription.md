@@ -2,11 +2,9 @@
 description: Buy more licenses for your Microsoft  365 subscription.
 ---
 
-# Order More Licenses for Microsoft 365 Subscription
+# Buy More Licenses for Microsoft 365 Subscription
 
 If you already have an active agreement and want to buy more licenses for your 365 subscription under the same agreement, you can place a change order.&#x20;
-
-Check out this video or continue reading to order more licenses for your subscription.
 
 {% embed url="https://vimeo.com/985742107/1a72a8abed?share=copy" %}
 Video tutorial: How to buy more licenses for your 365 subscription

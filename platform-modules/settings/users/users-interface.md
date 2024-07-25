@@ -32,8 +32,8 @@ The details page of a user provides all information related to the user. You can
 From the details page, you can complete the following tasks:&#x20;
 
 * [Edit a user](edit-users.md)
-* [Remove a user](remove-users.md)
-* [Resend the invitation email](resend-invitations.md) (only if the user's status is **Invited**)
+* [Remove a user](remove-user.md)
+* [Resend the invitation email](resend-invitation.md) (only if the user's status is **Invited**)
 * [Copy the invitation link](copy-invitation-link.md) (only if the user's status is **Invited**)
 
 </details>
@@ -71,18 +71,18 @@ The page also contains the following tabs that display corresponding information
 [edit-users.md](edit-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="remove-users.md" %}
-[remove-users.md](remove-users.md)
+{% content-ref url="remove-user.md" %}
+[remove-user.md](remove-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="copy-invitation-link.md" %}
 [copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-invitations.md" %}
-[resend-invitations.md](resend-invitations.md)
+{% content-ref url="resend-invitation.md" %}
+[resend-invitation.md](resend-invitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-new-invitations.md" %}
-[generate-new-invitations.md](generate-new-invitations.md)
+{% content-ref url="generate-new-invitation.md" %}
+[generate-new-invitation.md](generate-new-invitation.md)
 {% endcontent-ref %}

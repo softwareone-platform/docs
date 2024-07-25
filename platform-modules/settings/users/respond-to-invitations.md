@@ -39,7 +39,7 @@ For information on how to navigate the Marketplace Platform, see [Platform inter
 {% hint style="info" %}
 **Invitation link has expired?**&#x20;
 
-Invitation links are unique and they expire within 7 days of being issued. If your link has expired, your account administrator must create a new link. For more information, see [Generate a new invitation](generate-new-invitations.md).
+Invitation links are unique and they expire within 7 days of being issued. If your link has expired, your account administrator must create a new link. For more information, see [Generate a new invitation](generate-new-invitation.md).
 {% endhint %}
 
 ## Decline an invitation
@@ -68,18 +68,18 @@ To decline, open the invitation link and click **Decline invitation**.
 [edit-users.md](edit-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="remove-users.md" %}
-[remove-users.md](remove-users.md)
+{% content-ref url="remove-user.md" %}
+[remove-user.md](remove-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="copy-invitation-link.md" %}
 [copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-invitations.md" %}
-[resend-invitations.md](resend-invitations.md)
+{% content-ref url="resend-invitation.md" %}
+[resend-invitation.md](resend-invitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-new-invitations.md" %}
-[generate-new-invitations.md](generate-new-invitations.md)
+{% content-ref url="generate-new-invitation.md" %}
+[generate-new-invitation.md](generate-new-invitation.md)
 {% endcontent-ref %}

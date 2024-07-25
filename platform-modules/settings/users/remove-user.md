@@ -2,7 +2,7 @@
 description: Remove users from your account.
 ---
 
-# Remove Users
+# Remove User
 
 In certain situations, you might need to remove a person from your account. Only account administrators can remove users.
 
@@ -59,10 +59,10 @@ Remember that if the user belongs to multiple accounts in the Marketplace Platfo
 [copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-invitations.md" %}
-[resend-invitations.md](resend-invitations.md)
+{% content-ref url="resend-invitation.md" %}
+[resend-invitation.md](resend-invitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-new-invitations.md" %}
-[generate-new-invitations.md](generate-new-invitations.md)
+{% content-ref url="generate-new-invitation.md" %}
+[generate-new-invitation.md](generate-new-invitation.md)
 {% endcontent-ref %}

@@ -45,18 +45,18 @@ Follow these steps to update the groups assigned to a user:
 [add-new-users.md](add-new-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="remove-users.md" %}
-[remove-users.md](remove-users.md)
+{% content-ref url="remove-user.md" %}
+[remove-user.md](remove-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="copy-invitation-link.md" %}
 [copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-invitations.md" %}
-[resend-invitations.md](resend-invitations.md)
+{% content-ref url="resend-invitation.md" %}
+[resend-invitation.md](resend-invitation.md)
 {% endcontent-ref %}
 
-{% content-ref url="generate-new-invitations.md" %}
-[generate-new-invitations.md](generate-new-invitations.md)
+{% content-ref url="generate-new-invitation.md" %}
+[generate-new-invitation.md](generate-new-invitation.md)
 {% endcontent-ref %}

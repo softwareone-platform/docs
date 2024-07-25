@@ -38,8 +38,8 @@ If you added any comments while marking the request as complete, your comments a
 [requests-interface.md](requests-interface.md)
 {% endcontent-ref %}
 
-{% content-ref url="requests-states.md" %}
-[requests-states.md](requests-states.md)
+{% content-ref url="request-states.md" %}
+[request-states.md](request-states.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-new-requests.md" %}
@@ -50,8 +50,8 @@ If you added any comments while marking the request as complete, your comments a
 [add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-the-request-to-processing.md" %}
-[set-the-request-to-processing.md](set-the-request-to-processing.md)
+{% content-ref url="set-request-to-processing.md" %}
+[set-request-to-processing.md](set-request-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-and-manage-attachments.md" %}

@@ -2,7 +2,7 @@
 description: Generate a new invitation, if the original one has expired.
 ---
 
-# Generate New Invitations
+# Generate New Invitation
 
 If an invitation is not accepted within seven days from when it was sent, it expires. Account administrators can create a new invitation and send it to the individual.
 
@@ -11,7 +11,7 @@ Follow the steps in this topic only if the individual's original invitation has 
 
 ![](<../../../.gitbook/assets/image (329).png>)
 
-If the original link is still valid, you can resend the email invitation. For more information, see [Resend Invitations](resend-invitations.md).
+If the original link is still valid, you can resend the email invitation. For more information, see [Resend Invitations](resend-invitation.md).
 {% endhint %}
 
 ## Generate a new invitation
@@ -29,7 +29,7 @@ A new invitation email is sent to the individual, and a confirmation message is 
 {% hint style="info" %}
 #### **Didn't receive the invitation email?**
 
-We recommend checking your Spam or Junk folder. If you still haven't received the email, ask your administrator to resend the invite. To learn more, see [Resend Invitations](resend-invitations.md).
+We recommend checking your Spam or Junk folder. If you still haven't received the email, ask your administrator to resend the invite. To learn more, see [Resend Invitations](resend-invitation.md).
 {% endhint %}
 
 ## Related topics
@@ -54,14 +54,14 @@ We recommend checking your Spam or Junk folder. If you still haven't received th
 [edit-users.md](edit-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="remove-users.md" %}
-[remove-users.md](remove-users.md)
+{% content-ref url="remove-user.md" %}
+[remove-user.md](remove-user.md)
 {% endcontent-ref %}
 
 {% content-ref url="copy-invitation-link.md" %}
 [copy-invitation-link.md](copy-invitation-link.md)
 {% endcontent-ref %}
 
-{% content-ref url="resend-invitations.md" %}
-[resend-invitations.md](resend-invitations.md)
+{% content-ref url="resend-invitation.md" %}
+[resend-invitation.md](resend-invitation.md)
 {% endcontent-ref %}

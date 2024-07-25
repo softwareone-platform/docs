@@ -15,7 +15,7 @@ On this page, you can view the following details of each request:
 * **Assignee** - Displays the contact person assigned to the request.
 * **Created** -  Displays the date and time when the request was created.
 * **Updated** - Displays the date and time when the request was updated.
-* **Status** - Displays the status of your request. For more information on the status, see [Request States](requests-states.md).
+* **Status** - Displays the status of your request. For more information on the status, see [Request States](request-states.md).
 
 ## Request details page
 
@@ -28,7 +28,7 @@ The details page of a request provides all the details about your request. You c
 From the details page, you can complete the following tasks:&#x20;
 
 * [Add a message to the conversation](add-a-message.md).
-* [Set your request from Querying to Processing](set-the-request-to-processing.md).
+* [Set your request from Querying to Processing](set-request-to-processing.md).
 * [Add and manage your file attachments](add-and-manage-attachments.md).
 * [Complete or close a request](complete-a-request.md).
 
@@ -51,8 +51,8 @@ The request details page is organized into several tabs, each providing specific
 [.](./)
 {% endcontent-ref %}
 
-{% content-ref url="requests-states.md" %}
-[requests-states.md](requests-states.md)
+{% content-ref url="request-states.md" %}
+[request-states.md](request-states.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-new-requests.md" %}
@@ -63,8 +63,8 @@ The request details page is organized into several tabs, each providing specific
 [add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
-{% content-ref url="set-the-request-to-processing.md" %}
-[set-the-request-to-processing.md](set-the-request-to-processing.md)
+{% content-ref url="set-request-to-processing.md" %}
+[set-request-to-processing.md](set-request-to-processing.md)
 {% endcontent-ref %}
 
 {% content-ref url="add-and-manage-attachments.md" %}

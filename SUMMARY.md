@@ -50,10 +50,10 @@
     * [Buy Products and Services](platform-modules/marketplace/products/buy-products-and-services.md)
   * [Requests](platform-modules/marketplace/requests/README.md)
     * [Requests Interface](platform-modules/marketplace/requests/requests-interface.md)
-    * [Requests States](platform-modules/marketplace/requests/requests-states.md)
+    * [Request States](platform-modules/marketplace/requests/request-states.md)
     * [Create New Request](platform-modules/marketplace/requests/create-new-requests.md)
     * [Add Messages](platform-modules/marketplace/requests/add-a-message.md)
-    * [Set the Request to Processing](platform-modules/marketplace/requests/set-the-request-to-processing.md)
+    * [Set Request to Processing](platform-modules/marketplace/requests/set-request-to-processing.md)
     * [Add and Manage Attachments](platform-modules/marketplace/requests/add-and-manage-attachments.md)
     * [Complete Requests](platform-modules/marketplace/requests/complete-a-request.md)
   * [Subscriptions](platform-modules/marketplace/subscriptions/README.md)
@@ -123,10 +123,10 @@
     * [Respond to Invitations](platform-modules/settings/users/respond-to-invitations.md)
     * [Add New User](platform-modules/settings/users/add-new-users.md)
     * [Edit User](platform-modules/settings/users/edit-users.md)
-    * [Remove Users](platform-modules/settings/users/remove-users.md)
+    * [Remove User](platform-modules/settings/users/remove-user.md)
     * [Copy Invitation Link](platform-modules/settings/users/copy-invitation-link.md)
-    * [Resend Invitations](platform-modules/settings/users/resend-invitations.md)
-    * [Generate New Invitations](platform-modules/settings/users/generate-new-invitations.md)
+    * [Resend Invitation](platform-modules/settings/users/resend-invitation.md)
+    * [Generate New Invitation](platform-modules/settings/users/generate-new-invitation.md)
 
 ## EXTENSIONS
 
