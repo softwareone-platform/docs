@@ -27,6 +27,10 @@ Empowering clients to discover, compare, and procure software licenses from mult
 
 Explore our documentation to learn more about the features of our platform and find out how you can use it for procurement, subscription management, fulfillment, and more.
 
+## Getting Started
+
+{% embed url="https://www.youtube.com/watch?v=LrMOMN8sjM4" %}
+
 ### Resources
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Platform Overview</strong></td><td>Find useful resources and reference information about the platform.</td><td><a href="getting-started/platform-overview/">platform-overview</a></td></tr><tr><td><strong>Inventory</strong></td><td>Manage your inventory of invoices, agreements, and software assets.</td><td><a href="platform-modules/inventory/">inventory</a></td></tr><tr><td><strong>Marketplace</strong></td><td>Buy subscription-based products and manage your licenses.</td><td><a href="platform-modules/marketplace/">marketplace</a></td></tr><tr><td><strong>Other Tools</strong></td><td>Learn how to create reports and view dashboards.</td><td><a href="platform-modules/other-tools/">other-tools</a></td></tr><tr><td><strong>Procurement</strong></td><td>Buy and manage transactional licenses.</td><td><a href="platform-modules/procurement/">procurement</a></td></tr><tr><td><strong>Settings</strong></td><td>Manage the basic details of your account and review account settings.</td><td><a href="platform-modules/settings/">settings</a></td></tr></tbody></table>
