@@ -1,5 +1,10 @@
 {
     "openapi": "3.0.1",
+    "host": "api.platform.softwareone.com",
+    "basePath": "/public",
+    "schemes": [
+        "https"
+    ],
     "info": {
         "title": "Marketplace Platform REST API",
         "version": "1.0"
@@ -81,8 +86,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/authorizations/{id}": {
             "put": {
@@ -247,8 +251,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/documents": {
             "get": {
@@ -376,8 +379,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/documents/{id}": {
             "get": {
@@ -565,8 +567,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/documents/{id}/review": {
             "post": {
@@ -633,8 +634,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/documents/{id}/publish": {
             "post": {
@@ -701,8 +701,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/documents/{id}/unpublish": {
             "post": {
@@ -769,8 +768,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/item-groups": {
             "post": {
@@ -868,8 +866,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/item-groups/{id}": {
             "put": {
@@ -1048,8 +1045,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/parameter-groups": {
             "post": {
@@ -1147,8 +1143,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/parameter-groups/{id}": {
             "put": {
@@ -1330,8 +1325,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/parameters": {
             "post": {
@@ -1429,8 +1423,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/parameters/{id}": {
             "put": {
@@ -1609,8 +1602,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/price-lists": {
             "post": {
@@ -1688,8 +1680,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/price-lists/{id}": {
             "put": {
@@ -1854,8 +1845,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/price-lists/{priceListId}/items/{id}": {
             "put": {
@@ -1993,8 +1983,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/price-lists/{priceListId}/items": {
             "get": {
@@ -2023,8 +2012,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/items": {
             "post": {
@@ -2102,8 +2090,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/product-items": {
             "post": {
@@ -2181,8 +2168,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/items/{id}": {
             "delete": {
@@ -2340,8 +2326,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/product-items/{id}": {
             "delete": {
@@ -2499,8 +2484,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/items/{id}/review": {
             "post": {
@@ -2555,8 +2539,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/product-items/{id}/review": {
             "post": {
@@ -2611,8 +2594,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/items/{id}/publish": {
             "post": {
@@ -2674,8 +2656,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/product-items/{id}/publish": {
             "post": {
@@ -2737,8 +2718,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/items/{id}/unpublish": {
             "post": {
@@ -2800,8 +2780,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/product-items/{id}/unpublish": {
             "post": {
@@ -2863,8 +2842,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/media": {
             "get": {
@@ -2986,8 +2964,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/media/{id}": {
             "get": {
@@ -3152,8 +3129,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/media/{id}/review": {
             "post": {
@@ -3223,8 +3199,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/media/{id}/publish": {
             "post": {
@@ -3294,8 +3269,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/media/{id}/unpublish": {
             "post": {
@@ -3365,8 +3339,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/media/{id}/image": {
             "get": {
@@ -3419,8 +3392,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products": {
             "post": {
@@ -3528,8 +3500,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{id}": {
             "put": {
@@ -3728,8 +3699,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{id}/settings": {
             "put": {
@@ -3800,8 +3770,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{id}/review": {
             "post": {
@@ -3863,8 +3832,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{id}/publish": {
             "post": {
@@ -3926,8 +3894,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{id}/unpublish": {
             "post": {
@@ -3989,8 +3956,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{id}/icon": {
             "get": {
@@ -4035,8 +4001,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/templates": {
             "post": {
@@ -4134,8 +4099,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/templates/{id}": {
             "put": {
@@ -4317,8 +4281,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms": {
             "post": {
@@ -4416,8 +4379,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions": {
             "post": {
@@ -4515,8 +4477,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms/{id}": {
             "put": {
@@ -4698,8 +4659,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions/{id}": {
             "put": {
@@ -4881,8 +4841,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms/{id}/review": {
             "post": {
@@ -4952,8 +4911,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions/{id}/review": {
             "post": {
@@ -5023,8 +4981,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms/{id}/publish": {
             "post": {
@@ -5094,8 +5051,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions/{id}/publish": {
             "post": {
@@ -5165,8 +5121,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms/{id}/unpublish": {
             "post": {
@@ -5236,8 +5191,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions/{id}/unpublish": {
             "post": {
@@ -5307,8 +5261,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms/{termsAndConditionsId}/variants": {
             "post": {
@@ -5462,8 +5415,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions/{termsAndConditionsId}/variants": {
             "post": {
@@ -5617,8 +5569,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms/{termsAndConditionsId}/variants/{id}": {
             "put": {
@@ -5837,8 +5788,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions/{termsAndConditionsId}/variants/{id}": {
             "put": {
@@ -6057,8 +6007,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms/{termsAndConditionsId}/variants/{id}/review": {
             "post": {
@@ -6136,8 +6085,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions/{termsAndConditionsId}/variants/{id}/review": {
             "post": {
@@ -6215,8 +6163,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms/{termsAndConditionsId}/variants/{id}/publish": {
             "post": {
@@ -6294,8 +6241,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions/{termsAndConditionsId}/variants/{id}/publish": {
             "post": {
@@ -6373,8 +6319,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms/{termsAndConditionsId}/variants/{id}/unpublish": {
             "post": {
@@ -6452,8 +6397,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/products/{productId}/terms-and-conditions/{termsAndConditionsId}/variants/{id}/unpublish": {
             "post": {
@@ -6531,8 +6475,7 @@
                         "description": "Server Error"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/units-of-measure": {
             "post": {
@@ -6597,8 +6540,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/units-of-measure/{id}": {
             "put": {
@@ -6710,8 +6652,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         }
     },
     "components": {

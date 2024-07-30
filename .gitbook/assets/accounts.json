@@ -1,5 +1,10 @@
 {
     "openapi": "3.0.1",
+    "host": "api.platform.softwareone.com",
+    "basePath": "/public",
+    "schemes": [
+        "https"
+    ],
     "info": {
         "title": "Marketplace Platform REST API",
         "version": "1.0"
@@ -407,8 +412,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/accounts/{id}/enable": {
             "post": {
@@ -457,8 +461,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/accounts/{id}/disable": {
             "post": {
@@ -507,8 +510,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/accounts/{id}/activate": {
             "post": {
@@ -576,8 +578,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/accounts/{id}": {
             "put": {
@@ -1028,8 +1029,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/accounts/{id}/validate": {
             "post": {
@@ -1087,8 +1087,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/accounts/{id}/external-buyers": {
             "post": {
@@ -1149,8 +1148,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/accounts/{id}/icon": {
             "get": {
@@ -1182,8 +1180,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/{accountId}/users": {
             "get": {
@@ -1268,8 +1265,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/{accountId}/users/{userId}": {
             "get": {
@@ -1371,8 +1367,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/{accountId}/users/{userId}/groups": {
             "post": {
@@ -1531,8 +1526,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/{accountId}/users/{userId}/groups/{userGroupId}": {
             "delete": {
@@ -1590,8 +1584,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/{accountId}/users/{userId}/resend-invite": {
             "post": {
@@ -1648,8 +1641,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/{accountId}/users/{userId}/send-new-invite": {
             "post": {
@@ -1706,8 +1698,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/{accountId}/users/{userId}/accept-invite": {
             "post": {
@@ -1764,8 +1755,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/account-users": {
             "post": {
@@ -1830,8 +1820,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/account-users/{id}/groups": {
             "post": {
@@ -1974,8 +1963,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/account-users/{id}/groups/{userGroupId}": {
             "delete": {
@@ -2025,8 +2013,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/account-users/{id}/accept-invite": {
             "post": {
@@ -2075,8 +2062,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/account-users/{id}/resend-invite": {
             "post": {
@@ -2125,8 +2111,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/account-users/{id}/send-new-invite": {
             "post": {
@@ -2175,8 +2160,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/account-users/{id}": {
             "delete": {
@@ -2262,8 +2246,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/api-tokens": {
             "post": {
@@ -2328,8 +2311,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/api-tokens/{id}": {
             "put": {
@@ -2481,8 +2463,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/api-tokens/{id}/enable": {
             "post": {
@@ -2531,8 +2512,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/api-tokens/{id}/disable": {
             "post": {
@@ -2581,8 +2561,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/buyers": {
             "post": {
@@ -3980,8 +3959,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/buyers/{id}/enable": {
             "post": {
@@ -4030,8 +4008,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/buyers/{id}/disable": {
             "post": {
@@ -4080,8 +4057,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/buyers/{id}/activate": {
             "post": {
@@ -4149,8 +4125,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/buyers/{id}/deactivate": {
             "post": {
@@ -4199,8 +4174,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/buyers/{id}": {
             "delete": {
@@ -5685,8 +5659,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/buyers/{id}/transfer": {
             "post": {
@@ -5754,8 +5727,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/buyers/{id}/validate": {
             "post": {
@@ -5813,8 +5785,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/buyers/{id}/icon": {
             "get": {
@@ -5846,8 +5817,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/licensees": {
             "post": {
@@ -8838,8 +8808,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/licensees/{id}": {
             "put": {
@@ -11917,8 +11886,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/licensees/{id}/enable": {
             "post": {
@@ -11967,8 +11935,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/licensees/{id}/disable": {
             "post": {
@@ -12017,8 +11984,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/licensees/{id}/icon": {
             "get": {
@@ -12050,8 +12016,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/modules": {
             "get": {
@@ -12070,8 +12035,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/modules/{id}": {
             "get": {
@@ -12117,8 +12081,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/sellers": {
             "post": {
@@ -12183,8 +12146,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/sellers/{id}/activate": {
             "post": {
@@ -12233,8 +12195,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/sellers/{id}/deactivate": {
             "post": {
@@ -12283,8 +12244,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/sellers/{id}/disable": {
             "post": {
@@ -12333,8 +12293,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/sellers/{id}": {
             "put": {
@@ -12486,8 +12445,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/user-groups": {
             "post": {
@@ -12552,8 +12510,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/user-groups/{id}": {
             "put": {
@@ -12705,8 +12662,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/users/{id}/set-password": {
             "post": {
@@ -12764,8 +12720,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/users/{id}": {
             "put": {
@@ -13597,8 +13552,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/users/{id}/unblock": {
             "post": {
@@ -13647,8 +13601,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/users/{id}/block": {
             "post": {
@@ -13697,8 +13650,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/users/{id}/sso-check": {
             "get": {
@@ -13720,8 +13672,7 @@
                         "description": "Success"
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/users/{id}/icon": {
             "get": {
@@ -13753,8 +13704,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         },
         "/v1/accounts/users": {
             "get": {
@@ -13773,8 +13723,7 @@
                         }
                     }
                 }
-            },
-            "x-hideTryItPane": true
+            }
         }
     },
     "components": {
