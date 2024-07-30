@@ -4,6 +4,7 @@
         "title": "Marketplace Platform REST API",
         "version": "1.0"
     },
+    "x-hideTryItPane": true,
     "paths": {
         "/v1/commerce/agreements": {
             "post": {
@@ -2912,10 +2913,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/AgreementEntityAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -2926,22 +2927,22 @@
                         "nullable": true
                     },
                     "status": {
-                        "$ref": "#/components/schemas/AgreementStatus"
+                        "type": "object"
                     },
                     "listing": {
-                        "$ref": "#/components/schemas/ListingEntity"
+                        "type": "object"
                     },
                     "authorization": {
-                        "$ref": "#/components/schemas/AuthorizationQueryModel"
+                        "type": "object"
                     },
                     "vendor": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "client": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "price": {
-                        "$ref": "#/components/schemas/AgreementSummaryPrice"
+                        "type": "object"
                     },
                     "startDate": {
                         "type": "string",
@@ -2954,10 +2955,10 @@
                         "nullable": true
                     },
                     "template": {
-                        "$ref": "#/components/schemas/TemplateEntity"
+                        "type": "object"
                     },
                     "error": {
-                        "$ref": "#/components/schemas/ParametrisedMessage"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string"
@@ -2977,22 +2978,22 @@
                         "nullable": true
                     },
                     "parameters": {
-                        "$ref": "#/components/schemas/ParameterBag"
+                        "type": "object"
                     },
                     "licensee": {
-                        "$ref": "#/components/schemas/LicenseeQueryModel"
+                        "type": "object"
                     },
                     "buyer": {
-                        "$ref": "#/components/schemas/BuyerQueryModel"
+                        "type": "object"
                     },
                     "seller": {
-                        "$ref": "#/components/schemas/SellerQueryModel"
+                        "type": "object"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/ExternalIds"
+                        "type": "object"
                     },
                     "termsAndConditions": {
                         "type": "array",
@@ -3034,7 +3035,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -3049,7 +3050,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -3074,10 +3075,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -3111,7 +3112,7 @@
                         "type": "string"
                     },
                     "agreement": {
-                        "$ref": "#/components/schemas/Agreement"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -3123,48 +3124,48 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/OrderEntityAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "type": {
-                        "$ref": "#/components/schemas/OrderType"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/OrderStatus"
+                        "type": "object"
                     },
                     "notes": {
                         "type": "string",
                         "nullable": true
                     },
                     "statusNotes": {
-                        "$ref": "#/components/schemas/ParametrisedMessage"
+                        "type": "object"
                     },
                     "template": {
-                        "$ref": "#/components/schemas/TemplateEntity"
+                        "type": "object"
                     },
                     "listing": {
-                        "$ref": "#/components/schemas/ListingEntity"
+                        "type": "object"
                     },
                     "authorization": {
-                        "$ref": "#/components/schemas/AuthorizationQueryModel"
+                        "type": "object"
                     },
                     "agreement": {
-                        "$ref": "#/components/schemas/Agreement"
+                        "type": "object"
                     },
                     "assignee": {
-                        "$ref": "#/components/schemas/IdentityQueryModel"
+                        "type": "object"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/ExternalIds"
+                        "type": "object"
                     },
                     "price": {
-                        "$ref": "#/components/schemas/OrderSummaryPrice"
+                        "type": "object"
                     },
                     "lines": {
                         "type": "array",
@@ -3179,28 +3180,28 @@
                         }
                     },
                     "parameters": {
-                        "$ref": "#/components/schemas/ParameterBag"
+                        "type": "object"
                     },
                     "error": {
-                        "$ref": "#/components/schemas/ParametrisedMessage"
+                        "type": "object"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     },
                     "client": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "licensee": {
-                        "$ref": "#/components/schemas/LicenseeQueryModel"
+                        "type": "object"
                     },
                     "buyer": {
-                        "$ref": "#/components/schemas/BuyerQueryModel"
+                        "type": "object"
                     },
                     "seller": {
-                        "$ref": "#/components/schemas/SellerQueryModel"
+                        "type": "object"
                     },
                     "vendor": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "termsAndConditions": {
                         "type": "array",
@@ -3215,7 +3216,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -3246,7 +3247,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -3264,10 +3265,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/OrderSubscriptionEntityAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -3286,22 +3287,22 @@
                         "nullable": true
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/ExternalIds"
+                        "type": "object"
                     },
                     "agreement": {
-                        "$ref": "#/components/schemas/Agreement"
+                        "type": "object"
                     },
                     "terms": {
-                        "$ref": "#/components/schemas/TermsEntity"
+                        "type": "object"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     },
                     "autoRenew": {
                         "type": "boolean"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/OrderSubscriptionStatus"
+                        "type": "object"
                     },
                     "commitmentDate": {
                         "type": "string",
@@ -3309,10 +3310,10 @@
                         "nullable": true
                     },
                     "parameters": {
-                        "$ref": "#/components/schemas/SubscriptionParameterBag"
+                        "type": "object"
                     },
                     "price": {
-                        "$ref": "#/components/schemas/SubscriptionSummaryPrice"
+                        "type": "object"
                     },
                     "lines": {
                         "type": "array",
@@ -3331,10 +3332,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/SubscriptionEntityAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -3353,41 +3354,41 @@
                         "nullable": true
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/ExternalIds"
+                        "type": "object"
                     },
                     "agreement": {
-                        "$ref": "#/components/schemas/Agreement"
+                        "type": "object"
                     },
                     "terms": {
-                        "$ref": "#/components/schemas/TermsEntity"
+                        "type": "object"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     },
                     "autoRenew": {
                         "type": "boolean"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/SubscriptionStatus"
+                        "type": "object"
                     },
                     "commitmentDate": {
                         "type": "string",
                         "format": "date-time"
                     },
                     "price": {
-                        "$ref": "#/components/schemas/SubscriptionSummaryPrice"
+                        "type": "object"
                     },
                     "parameters": {
-                        "$ref": "#/components/schemas/SubscriptionParameterBag"
+                        "type": "object"
                     },
                     "buyer": {
-                        "$ref": "#/components/schemas/BuyerQueryModel"
+                        "type": "object"
                     },
                     "licensee": {
-                        "$ref": "#/components/schemas/LicenseeQueryModel"
+                        "type": "object"
                     },
                     "seller": {
-                        "$ref": "#/components/schemas/SellerQueryModel"
+                        "type": "object"
                     },
                     "lines": {
                         "type": "array",
@@ -3403,7 +3404,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -3421,10 +3422,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -3450,7 +3451,7 @@
                         "type": "string"
                     },
                     "request": {
-                        "$ref": "#/components/schemas/RequestQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -3479,19 +3480,19 @@
                         "type": "string"
                     },
                     "from": {
-                        "$ref": "#/components/schemas/RequestFrom"
+                        "type": "object"
                     },
                     "requester": {
-                        "$ref": "#/components/schemas/RequestRequester"
+                        "type": "object"
                     },
                     "assignee": {
-                        "$ref": "#/components/schemas/RequestAssignee"
+                        "type": "object"
                     },
                     "to": {
-                        "$ref": "#/components/schemas/RequestTo"
+                        "type": "object"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/RequestProduct"
+                        "type": "object"
                     },
                     "parameters": {
                         "type": "array",
@@ -3510,10 +3511,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -3534,19 +3535,19 @@
                         "nullable": true
                     },
                     "from": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "requester": {
-                        "$ref": "#/components/schemas/UserQueryModel"
+                        "type": "object"
                     },
                     "assignee": {
-                        "$ref": "#/components/schemas/UserQueryModel"
+                        "type": "object"
                     },
                     "to": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     },
                     "parameters": {
                         "type": "array",
@@ -3567,7 +3568,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -3632,7 +3633,7 @@
                 "type": "object",
                 "properties": {
                     "visibility": {
-                        "$ref": "#/components/schemas/RequestMessageVisibility"
+                        "type": "object"
                     },
                     "content": {
                         "minLength": 1,
@@ -3648,20 +3649,20 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "visibility": {
-                        "$ref": "#/components/schemas/RequestMessageVisibilityQuery"
+                        "type": "object"
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "type": {
                         "type": "string"
@@ -3670,7 +3671,7 @@
                         "type": "string"
                     },
                     "request": {
-                        "$ref": "#/components/schemas/RequestQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -3679,7 +3680,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -3694,7 +3695,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",

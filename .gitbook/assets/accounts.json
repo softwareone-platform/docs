@@ -4,6 +4,7 @@
         "title": "Marketplace Platform REST API",
         "version": "1.0"
     },
+    "x-hideTryItPane": true,
     "paths": {
         "/v1/accounts/accounts": {
             "post": {
@@ -13758,10 +13759,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -13775,7 +13776,7 @@
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "modules": {
                         "type": "array",
@@ -13811,23 +13812,23 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/BuyerExternalIdsQueryModel"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/BuyerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -13835,7 +13836,7 @@
                         "readOnly": true
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "taxId": {
                         "maxLength": 18,
@@ -13843,7 +13844,7 @@
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "maxLength": 500,
@@ -13876,7 +13877,7 @@
                         "nullable": true
                     },
                     "by": {
-                        "$ref": "#/components/schemas/IdentityQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -13888,10 +13889,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -13919,10 +13920,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -13938,16 +13939,16 @@
                         "nullable": true
                     },
                     "type": {
-                        "$ref": "#/components/schemas/AccountType"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/AccountStatus"
+                        "type": "object"
                     },
                     "serviceLevel": {
-                        "$ref": "#/components/schemas/AccountServiceLevel"
+                        "type": "object"
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14004,10 +14005,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -14023,16 +14024,16 @@
                         "nullable": true
                     },
                     "type": {
-                        "$ref": "#/components/schemas/AccountType"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/AccountStatus"
+                        "type": "object"
                     },
                     "serviceLevel": {
-                        "$ref": "#/components/schemas/AccountServiceLevel"
+                        "type": "object"
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14108,7 +14109,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -14130,10 +14131,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -14149,16 +14150,16 @@
                         "nullable": true
                     },
                     "type": {
-                        "$ref": "#/components/schemas/AccountType"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/AccountStatus"
+                        "type": "object"
                     },
                     "serviceLevel": {
-                        "$ref": "#/components/schemas/AccountServiceLevel"
+                        "type": "object"
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14213,10 +14214,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -14232,16 +14233,16 @@
                         "nullable": true
                     },
                     "type": {
-                        "$ref": "#/components/schemas/AccountType"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/AccountStatus"
+                        "type": "object"
                     },
                     "serviceLevel": {
-                        "$ref": "#/components/schemas/AccountServiceLevel"
+                        "type": "object"
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14293,10 +14294,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -14311,16 +14312,16 @@
                         "nullable": true
                     },
                     "type": {
-                        "$ref": "#/components/schemas/AccountType"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/AccountStatus"
+                        "type": "object"
                     },
                     "serviceLevel": {
-                        "$ref": "#/components/schemas/AccountServiceLevel"
+                        "type": "object"
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14367,23 +14368,23 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/BuyerExternalIdsQueryModel"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/BuyerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14391,7 +14392,7 @@
                         "readOnly": true
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "taxId": {
                         "type": "string",
@@ -14409,7 +14410,7 @@
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -14418,7 +14419,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -14437,10 +14438,10 @@
                 "type": "object",
                 "properties": {
                     "user": {
-                        "$ref": "#/components/schemas/UserProfileDto"
+                        "type": "object"
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountDto"
+                        "type": "object"
                     },
                     "groups": {
                         "minItems": 1,
@@ -14450,7 +14451,7 @@
                         }
                     },
                     "invitation": {
-                        "$ref": "#/components/schemas/InvitationDto"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -14462,17 +14463,17 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/AccountUserAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "user": {
-                        "$ref": "#/components/schemas/UserQueryModel"
+                        "type": "object"
                     },
                     "groups": {
                         "type": "array",
@@ -14481,10 +14482,10 @@
                         }
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "invitation": {
-                        "$ref": "#/components/schemas/InvitationQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -14513,17 +14514,17 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/AccountUserLegacyAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "user": {
-                        "$ref": "#/components/schemas/UserQueryModel"
+                        "type": "object"
                     },
                     "groups": {
                         "type": "array",
@@ -14532,10 +14533,10 @@
                         }
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "invitation": {
-                        "$ref": "#/components/schemas/InvitationQueryModel"
+                        "type": "object"
                     },
                     "lastLoginAt": {
                         "type": "string",
@@ -14549,7 +14550,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -14564,7 +14565,7 @@
                 "type": "object",
                 "properties": {
                     "account": {
-                        "$ref": "#/components/schemas/AccountDto"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string"
@@ -14594,10 +14595,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -14626,7 +14627,7 @@
                         "type": "string"
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "modules": {
                         "type": "array",
@@ -14641,7 +14642,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -14694,10 +14695,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -14708,7 +14709,7 @@
                         "nullable": true
                     },
                     "status": {
-                        "$ref": "#/components/schemas/SellerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14722,7 +14723,7 @@
                         "nullable": true
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string"
@@ -14742,23 +14743,23 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/BuyerExternalIdsQueryModel"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/BuyerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14766,7 +14767,7 @@
                         "readOnly": true
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "taxId": {
                         "maxLength": 18,
@@ -14774,7 +14775,7 @@
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "maxLength": 500,
@@ -14795,7 +14796,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -14817,23 +14818,23 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/BuyerExternalIdsQueryModel"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/BuyerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14841,14 +14842,14 @@
                         "readOnly": true
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "taxId": {
                         "type": "string",
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string",
@@ -14871,23 +14872,23 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/BuyerExternalIdsQueryModel"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/BuyerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14895,14 +14896,14 @@
                         "readOnly": true
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "taxId": {
                         "type": "string",
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string",
@@ -14928,23 +14929,23 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/BuyerExternalIdsQueryModel"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/BuyerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -14952,14 +14953,14 @@
                         "readOnly": true
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "taxId": {
                         "type": "string",
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string",
@@ -14985,23 +14986,23 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/BuyerExternalIdsQueryModel"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/BuyerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "type": "string",
@@ -15009,14 +15010,14 @@
                         "readOnly": true
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "taxId": {
                         "type": "string",
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string",
@@ -15062,17 +15063,17 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "maxLength": 500,
@@ -15085,10 +15086,10 @@
                         "nullable": true
                     },
                     "status": {
-                        "$ref": "#/components/schemas/LicenseeStatus"
+                        "type": "object"
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "useBuyerAddress": {
                         "type": "boolean"
@@ -15105,13 +15106,13 @@
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "buyer": {
-                        "$ref": "#/components/schemas/BuyerQueryModel"
+                        "type": "object"
                     },
                     "seller": {
-                        "$ref": "#/components/schemas/SellerQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -15123,17 +15124,17 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string",
@@ -15144,10 +15145,10 @@
                         "nullable": true
                     },
                     "status": {
-                        "$ref": "#/components/schemas/LicenseeStatus"
+                        "type": "object"
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "useBuyerAddress": {
                         "type": "boolean",
@@ -15163,13 +15164,13 @@
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "buyer": {
-                        "$ref": "#/components/schemas/BuyerQueryModel"
+                        "type": "object"
                     },
                     "seller": {
-                        "$ref": "#/components/schemas/SellerQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -15178,7 +15179,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -15196,17 +15197,17 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
                         "readOnly": true
                     },
                     "contact": {
-                        "$ref": "#/components/schemas/ContactQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "maxLength": 500,
@@ -15219,10 +15220,10 @@
                         "nullable": true
                     },
                     "status": {
-                        "$ref": "#/components/schemas/LicenseeStatus"
+                        "type": "object"
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "useBuyerAddress": {
                         "type": "boolean",
@@ -15240,13 +15241,13 @@
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "buyer": {
-                        "$ref": "#/components/schemas/BuyerQueryModel"
+                        "type": "object"
                     },
                     "seller": {
-                        "$ref": "#/components/schemas/SellerQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -15255,7 +15256,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -15273,10 +15274,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -15317,10 +15318,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -15331,7 +15332,7 @@
                         "nullable": true
                     },
                     "status": {
-                        "$ref": "#/components/schemas/SellerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "maxLength": 2000,
@@ -15348,7 +15349,7 @@
                         }
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "maxLength": 500,
@@ -15362,7 +15363,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -15384,10 +15385,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -15398,7 +15399,7 @@
                         "nullable": true
                     },
                     "status": {
-                        "$ref": "#/components/schemas/SellerStatus"
+                        "type": "object"
                     },
                     "icon": {
                         "maxLength": 2000,
@@ -15415,7 +15416,7 @@
                         }
                     },
                     "address": {
-                        "$ref": "#/components/schemas/AddressQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "maxLength": 500,
@@ -15440,7 +15441,7 @@
                         "nullable": true
                     },
                     "account": {
-                        "$ref": "#/components/schemas/AccountDto"
+                        "type": "object"
                     },
                     "modules": {
                         "type": "array",
@@ -15455,7 +15456,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -15509,10 +15510,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/UserAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -15525,7 +15526,7 @@
                         "type": "string"
                     },
                     "phone": {
-                        "$ref": "#/components/schemas/PhoneNumberQueryModel"
+                        "type": "object"
                     },
                     "firstName": {
                         "type": "string"
@@ -15544,7 +15545,7 @@
                         "nullable": true
                     },
                     "settings": {
-                        "$ref": "#/components/schemas/UserSettingsQueryModel"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string"
@@ -15556,7 +15557,7 @@
                         }
                     },
                     "currentAccount": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -15565,13 +15566,13 @@
                 "type": "object",
                 "properties": {
                     "node": {
-                        "$ref": "#/components/schemas/DeltaNode"
+                        "type": "object"
                     },
                     "path": {
                         "type": "string"
                     },
                     "data": {
-                        "$ref": "#/components/schemas/UserQueryModel"
+                        "type": "object"
                     },
                     "isDefined": {
                         "type": "boolean",
@@ -15584,7 +15585,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",

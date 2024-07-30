@@ -4,6 +4,7 @@
         "title": "Marketplace Platform REST API",
         "version": "1.0"
     },
+    "x-hideTryItPane": true,
     "paths": {
         "/v1/authorizations": {
             "post": {
@@ -6663,7 +6664,7 @@
                         "type": "string"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/AuthorizationExternalIdInput"
+                        "type": "object"
                     },
                     "currency": {
                         "type": "string"
@@ -6673,10 +6674,10 @@
                         "nullable": true
                     },
                     "product": {
-                        "$ref": "#/components/schemas/RequestObjectLink"
+                        "type": "object"
                     },
                     "owner": {
-                        "$ref": "#/components/schemas/RequestObjectLink"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -6688,10 +6689,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -6701,7 +6702,7 @@
                         "type": "string"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/AuthorizationExternalIdBag"
+                        "type": "object"
                     },
                     "currency": {
                         "type": "string"
@@ -6711,16 +6712,16 @@
                         "nullable": true
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     },
                     "vendor": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "owner": {
-                        "$ref": "#/components/schemas/SellerQueryModel"
+                        "type": "object"
                     },
                     "statistics": {
-                        "$ref": "#/components/schemas/AuthorizationStatistics"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -6756,7 +6757,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -6774,7 +6775,7 @@
                         "type": "string"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/AuthorizationExternalIdModel"
+                        "type": "object"
                     },
                     "currency": {
                         "type": "string"
@@ -6790,7 +6791,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -6823,10 +6824,10 @@
                         "readOnly": true
                     },
                     "documentId": {
-                        "$ref": "#/components/schemas/DocumentId"
+                        "type": "object"
                     },
                     "fileId": {
-                        "$ref": "#/components/schemas/FileId"
+                        "type": "object"
                     },
                     "url": {
                         "type": "string",
@@ -6837,7 +6838,7 @@
                         "readOnly": true
                     },
                     "status": {
-                        "$ref": "#/components/schemas/State"
+                        "type": "object"
                     },
                     "isDeleted": {
                         "type": "boolean",
@@ -6853,10 +6854,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -6894,7 +6895,7 @@
                         "type": "string"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -6935,10 +6936,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -6971,7 +6972,7 @@
                         "format": "int32"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -6980,7 +6981,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -7055,10 +7056,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -7085,7 +7086,7 @@
                         "format": "int32"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -7094,7 +7095,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -7180,7 +7181,7 @@
                         "format": "int32"
                     },
                     "constraints": {
-                        "$ref": "#/components/schemas/ParameterConstraintsInput"
+                        "type": "object"
                     },
                     "type": {
                         "minLength": 1,
@@ -7242,7 +7243,7 @@
                         ]
                     },
                     "group": {
-                        "$ref": "#/components/schemas/RequestObjectLink"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -7254,10 +7255,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -7270,7 +7271,7 @@
                         "type": "string"
                     },
                     "group": {
-                        "$ref": "#/components/schemas/ParameterGroupQueryModel"
+                        "type": "object"
                     },
                     "scope": {
                         "enum": [
@@ -7298,10 +7299,10 @@
                         "format": "int32"
                     },
                     "constraints": {
-                        "$ref": "#/components/schemas/Constraints"
+                        "type": "object"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     },
                     "options": {
                         "type": "object",
@@ -7372,7 +7373,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -7448,7 +7449,7 @@
                         ]
                     },
                     "group": {
-                        "$ref": "#/components/schemas/GroupObjectLink"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -7473,10 +7474,10 @@
                         "nullable": true
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/PriceListExternalIdInput"
+                        "type": "object"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/RequestObjectLink"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -7488,10 +7489,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -7513,16 +7514,16 @@
                         "nullable": true
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/PriceListExternalIdBag"
+                        "type": "object"
                     },
                     "statistics": {
-                        "$ref": "#/components/schemas/PriceListStatistics"
+                        "type": "object"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     },
                     "vendor": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -7531,7 +7532,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -7546,7 +7547,7 @@
                 "type": "object",
                 "properties": {
                     "externalIds": {
-                        "$ref": "#/components/schemas/UpdatePriceListExternalIdModel"
+                        "type": "object"
                     },
                     "defaultMarkup": {
                         "type": "number",
@@ -7594,10 +7595,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/PriceListItemQueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -7682,10 +7683,10 @@
                         "nullable": true
                     },
                     "priceList": {
-                        "$ref": "#/components/schemas/PriceListEntity"
+                        "type": "object"
                     },
                     "item": {
-                        "$ref": "#/components/schemas/ProductItemEntity"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -7694,7 +7695,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -7715,7 +7716,7 @@
                 "type": "object",
                 "properties": {
                     "product": {
-                        "$ref": "#/components/schemas/RequestObjectLink"
+                        "type": "object"
                     },
                     "name": {
                         "type": "string"
@@ -7724,16 +7725,16 @@
                         "type": "string"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/ProductItemExternalIdInput"
+                        "type": "object"
                     },
                     "group": {
-                        "$ref": "#/components/schemas/RequestObjectLink"
+                        "type": "object"
                     },
                     "unit": {
-                        "$ref": "#/components/schemas/RequestObjectLink"
+                        "type": "object"
                     },
                     "terms": {
-                        "$ref": "#/components/schemas/Terms"
+                        "type": "object"
                     },
                     "quantityNotApplicable": {
                         "type": "boolean"
@@ -7755,10 +7756,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/ProductItemQueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -7771,16 +7772,16 @@
                         "type": "string"
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/ProductItemExternalIdBag"
+                        "type": "object"
                     },
                     "group": {
-                        "$ref": "#/components/schemas/ItemGroupQueryModel"
+                        "type": "object"
                     },
                     "unit": {
-                        "$ref": "#/components/schemas/UnitOfMeasureQueryModel"
+                        "type": "object"
                     },
                     "terms": {
-                        "$ref": "#/components/schemas/TermsEntity"
+                        "type": "object"
                     },
                     "quantityNotApplicable": {
                         "type": "boolean"
@@ -7789,7 +7790,7 @@
                         "type": "string"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     },
                     "parameters": {
                         "type": "array",
@@ -7804,7 +7805,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -7827,13 +7828,13 @@
                         "nullable": true
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/ProductItemExternalIdInput"
+                        "type": "object"
                     },
                     "group": {
-                        "$ref": "#/components/schemas/RequestObjectLink"
+                        "type": "object"
                     },
                     "unit": {
-                        "$ref": "#/components/schemas/RequestObjectLink"
+                        "type": "object"
                     },
                     "parameters": {
                         "type": "array",
@@ -7849,7 +7850,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -7882,20 +7883,20 @@
                         "readOnly": true
                     },
                     "mediaId": {
-                        "$ref": "#/components/schemas/MediaId"
+                        "type": "object"
                     },
                     "fileId": {
-                        "$ref": "#/components/schemas/FileId"
+                        "type": "object"
                     },
                     "url": {
                         "type": "string",
                         "readOnly": true
                     },
                     "displayOrder": {
-                        "$ref": "#/components/schemas/DisplayOrder"
+                        "type": "object"
                     },
                     "status": {
-                        "$ref": "#/components/schemas/State"
+                        "type": "object"
                     },
                     "isDeleted": {
                         "type": "boolean",
@@ -7911,10 +7912,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -7950,7 +7951,7 @@
                         "type": "string"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -7962,10 +7963,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/ProductQueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -7983,7 +7984,7 @@
                         "nullable": true
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/ProductExternalIdBag"
+                        "type": "object"
                     },
                     "website": {
                         "type": "string"
@@ -7996,13 +7997,13 @@
                         "type": "string"
                     },
                     "vendor": {
-                        "$ref": "#/components/schemas/AccountQueryModel"
+                        "type": "object"
                     },
                     "settings": {
-                        "$ref": "#/components/schemas/ProductSettings"
+                        "type": "object"
                     },
                     "statistics": {
-                        "$ref": "#/components/schemas/ProductStatistics"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -8011,7 +8012,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -8038,7 +8039,7 @@
                         "nullable": true
                     },
                     "externalIds": {
-                        "$ref": "#/components/schemas/ProductExternalIdInput"
+                        "type": "object"
                     },
                     "website": {
                         "type": "string",
@@ -8055,7 +8056,7 @@
                         "nullable": true
                     },
                     "productRequests": {
-                        "$ref": "#/components/schemas/ProductRequestsInput"
+                        "type": "object"
                     },
                     "itemSelection": {
                         "type": "boolean",
@@ -8066,7 +8067,7 @@
                         "nullable": true
                     },
                     "preValidation": {
-                        "$ref": "#/components/schemas/PreValidationInput"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -8108,10 +8109,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -8136,7 +8137,7 @@
                         "type": "boolean"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -8145,7 +8146,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -8196,10 +8197,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/TermsAndConditionsQueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -8220,7 +8221,7 @@
                         "type": "string"
                     },
                     "product": {
-                        "$ref": "#/components/schemas/ProductQueryModel"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -8229,7 +8230,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -8266,10 +8267,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -8307,7 +8308,7 @@
                         "type": "string"
                     },
                     "termsAndConditions": {
-                        "$ref": "#/components/schemas/TermsAndConditionsEntity"
+                        "type": "object"
                     },
                     "fileId": {
                         "type": "string"
@@ -8319,7 +8320,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
@@ -8362,10 +8363,10 @@
                         "type": "string"
                     },
                     "audit": {
-                        "$ref": "#/components/schemas/QueryModelAudit"
+                        "type": "object"
                     },
                     "$meta": {
-                        "$ref": "#/components/schemas/QueryModelMetadata"
+                        "type": "object"
                     },
                     "href": {
                         "type": "string",
@@ -8379,7 +8380,7 @@
                         "type": "string"
                     },
                     "statistics": {
-                        "$ref": "#/components/schemas/UnitOfMeasureStatistics"
+                        "type": "object"
                     }
                 },
                 "additionalProperties": false
@@ -8388,7 +8389,7 @@
                 "type": "object",
                 "properties": {
                     "$meta": {
-                        "$ref": "#/components/schemas/ListMetadata"
+                        "type": "object"
                     },
                     "data": {
                         "type": "array",
