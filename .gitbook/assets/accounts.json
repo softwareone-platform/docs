@@ -15993,5 +15993,10 @@
                 "additionalProperties": false
             }
         }
-    }
+    },
+    "security": [
+        {
+            "api_key": []
+        }
+    ]
 }
