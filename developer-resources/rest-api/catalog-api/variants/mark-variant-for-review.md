@@ -2,6 +2,6 @@
 
 Mark a variant for terms for review.
 
-{% swagger src="../../../../.gitbook/assets/api.json" path="/v1/products/{productId}/terms/{termsAndConditionsId}/variants/{id}/review" method="post" %}
-[api.json](../../../../.gitbook/assets/api.json)
+{% swagger src="../../../../.gitbook/assets/catalog.json" path="/v1/products/{productId}/terms/{termsAndConditionsId}/variants/{id}/review" method="post" %}
+[catalog.json](../../../../.gitbook/assets/catalog.json)
 {% endswagger %}
