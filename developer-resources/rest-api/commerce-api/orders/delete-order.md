@@ -1,5 +1,5 @@
 # Delete order
 
-{% swagger src="../../../../.gitbook/assets/api.json" path="/v1/commerce/orders/{id}" method="delete" %}
-[api.json](../../../../.gitbook/assets/api.json)
+{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/orders/{id}" method="delete" %}
+[commerce.json](../../../../.gitbook/assets/commerce.json)
 {% endswagger %}
