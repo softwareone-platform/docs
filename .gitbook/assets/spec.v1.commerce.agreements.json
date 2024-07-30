@@ -1,0 +1,233 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "title": "Marketplace Platform REST API",
+        "version": "1.0"
+    },
+    "paths": {
+        "/v1/commerce/agreements": {
+            "post": {
+                "tags": [
+                    "Agreements"
+                ],
+                "summary": "Creates a new agreement.",
+                "requestBody": {
+                    "description": "Details of the agreement to create",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/Agreement"
+                            }
+                        },
+                        "text/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/Agreement"
+                            }
+                        },
+                        "application/*+json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/Agreement"
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "201": {
+                        "description": "Created",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/Agreement"
+                                }
+                            }
+                        }
+                    },
+                    "403": {
+                        "description": "Forbidden",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/ProblemDetails"
+                                }
+                            }
+                        }
+                    },
+                    "400": {
+                        "description": "Bad Request",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/ProblemDetails"
+                                }
+                            }
+                        }
+                    },
+                    "500": {
+                        "description": "Server Error"
+                    }
+                }
+            },
+            "get": {
+                "tags": [
+                    "Agreements"
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/AgreementListResponse"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "Agreement": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "audit": {
+                        "$ref": "#/components/schemas/AgreementEntityAudit"
+                    },
+                    "$meta": {
+                        "$ref": "#/components/schemas/QueryModelMetadata"
+                    },
+                    "href": {
+                        "type": "string",
+                        "readOnly": true
+                    },
+                    "icon": {
+                        "type": "string",
+                        "nullable": true
+                    },
+                    "status": {
+                        "$ref": "#/components/schemas/AgreementStatus"
+                    },
+                    "listing": {
+                        "$ref": "#/components/schemas/ListingEntity"
+                    },
+                    "authorization": {
+                        "$ref": "#/components/schemas/AuthorizationQueryModel"
+                    },
+                    "vendor": {
+                        "$ref": "#/components/schemas/AccountQueryModel"
+                    },
+                    "client": {
+                        "$ref": "#/components/schemas/AccountQueryModel"
+                    },
+                    "price": {
+                        "$ref": "#/components/schemas/AgreementSummaryPrice"
+                    },
+                    "startDate": {
+                        "type": "string",
+                        "format": "date-time",
+                        "nullable": true
+                    },
+                    "endDate": {
+                        "type": "string",
+                        "format": "date-time",
+                        "nullable": true
+                    },
+                    "template": {
+                        "$ref": "#/components/schemas/TemplateEntity"
+                    },
+                    "error": {
+                        "$ref": "#/components/schemas/ParametrisedMessage"
+                    },
+                    "name": {
+                        "type": "string"
+                    },
+                    "lines": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/AgreementLine"
+                        },
+                        "nullable": true
+                    },
+                    "subscriptions": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/Subscription"
+                        },
+                        "nullable": true
+                    },
+                    "parameters": {
+                        "$ref": "#/components/schemas/ParameterBag"
+                    },
+                    "licensee": {
+                        "$ref": "#/components/schemas/LicenseeQueryModel"
+                    },
+                    "buyer": {
+                        "$ref": "#/components/schemas/BuyerQueryModel"
+                    },
+                    "seller": {
+                        "$ref": "#/components/schemas/SellerQueryModel"
+                    },
+                    "product": {
+                        "$ref": "#/components/schemas/ProductQueryModel"
+                    },
+                    "externalIds": {
+                        "$ref": "#/components/schemas/ExternalIds"
+                    },
+                    "termsAndConditions": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/CommerceTermsAndConditionsEntity"
+                        }
+                    }
+                },
+                "additionalProperties": false
+            },
+            "ProblemDetails": {
+                "type": "object",
+                "properties": {
+                    "type": {
+                        "type": "string",
+                        "nullable": true
+                    },
+                    "title": {
+                        "type": "string",
+                        "nullable": true
+                    },
+                    "status": {
+                        "type": "integer",
+                        "format": "int32",
+                        "nullable": true
+                    },
+                    "detail": {
+                        "type": "string",
+                        "nullable": true
+                    },
+                    "instance": {
+                        "type": "string",
+                        "nullable": true
+                    }
+                },
+                "additionalProperties": {}
+            },
+            "AgreementListResponse": {
+                "type": "object",
+                "properties": {
+                    "$meta": {
+                        "$ref": "#/components/schemas/ListMetadata"
+                    },
+                    "data": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/Agreement"
+                        }
+                    }
+                },
+                "additionalProperties": false
+            }
+        }
+    }
+}
