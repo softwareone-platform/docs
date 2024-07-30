@@ -3711,5 +3711,17 @@
                 "additionalProperties": false
             }
         }
-    }
+    },
+    "securitySchemes": {
+        "http_bearer": {
+            "description": "HTTP authentication with bearer token",
+            "type": "http",
+            "scheme": "bearer"
+        }
+    },
+    "security": [
+        {
+            "http_bearer": []
+        }
+    ]
 }
