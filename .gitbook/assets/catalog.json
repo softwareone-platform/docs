@@ -8418,11 +8418,15 @@
             }
         },
         "securitySchemes": {
-            "http_bearer": {
-                "description": "HTTP authentication with bearer token",
-                "type": "http",
-                "scheme": "bearer"
+            "ApiKey": {
+                "type": "apiKey",
+                "name": "Authorization",
+                "in": "header",
+                "description": "Prefix the value with \"Bearer \" to indicate the authorization type"
             }
         }
+    },
+    "security": {
+        "ApiKey": []
     }
 }
