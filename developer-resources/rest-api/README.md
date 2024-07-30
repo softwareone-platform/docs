@@ -4,6 +4,10 @@
 
 The **Marketplace Platform REST API** lets you interact with the platform programmatically. Our API is organized around [REST](http://en.wikipedia.org/wiki/Representational\_State\_Transfer), has predictable resource-oriented URLs, uses [JSON-encoded](http://www.json.org/) representations, and uses standard [HTTP response codes](https://en.wikipedia.org/wiki/List\_of\_HTTP\_status\_codes), authentication, and verbs. Use our API to create apps, automate tasks, or build integrations with the platform.&#x20;
 
+## Beginners Guide
+
+{% embed url="https://www.youtube.com/watch?v=0NF8OtCA-kU" %}
+
 ## What is a REST API?
 
 An [API](https://en.wikipedia.org/wiki/API) (Application Programming Interface) is a set of rules that allows programs to talk to each other and share data and functions in a standard format over the Internet.
