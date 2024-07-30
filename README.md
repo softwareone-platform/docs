@@ -41,7 +41,7 @@ Explore our documentation to learn more about the features of our platform and f
 
 ### Developer Resources
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>REST API</strong></td><td>Learn how to interact with our platform programmatically.</td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>RQL</strong></td><td>Resource Query Language (RQL) is a query language used in our REST API.</td><td></td><td></td></tr><tr><td><strong>Open Source</strong></td><td>We use GitHub to host all our projects - learn more at our <a href="developer-resources/open-source/github-projects.md">GitHub Projects</a> page.</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>REST API</strong></td><td>Learn how to interact with our platform programmatically.</td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>RQL</strong></td><td>Resource Query Language (RQL) is a query language used in our REST API.</td><td></td><td><a href="developer-resources/rest-api/resource-query-language.md">resource-query-language.md</a></td></tr><tr><td><strong>Open Source</strong></td><td>We use GitHub to host all our projects - learn more at our <a href="developer-resources/open-source/github-projects.md">GitHub Projects</a> page.</td><td></td><td><a href="developer-resources/open-source/">open-source</a></td></tr></tbody></table>
 
 ### Help and Support
 
