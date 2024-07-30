@@ -68,6 +68,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -85,13 +88,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -170,6 +169,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -213,6 +215,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -257,13 +262,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -293,6 +294,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "post": {
@@ -392,13 +396,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -466,6 +466,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -517,6 +520,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "put": {
@@ -587,13 +593,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -661,13 +663,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -735,13 +733,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -809,13 +803,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -887,6 +877,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -914,13 +907,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -997,6 +986,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -1048,6 +1040,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -1100,13 +1095,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -1178,6 +1169,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -1205,13 +1199,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -1291,6 +1281,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -1342,6 +1335,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -1394,13 +1390,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -1472,6 +1464,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -1499,13 +1494,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -1582,6 +1573,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -1633,6 +1627,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -1685,13 +1682,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -1753,6 +1746,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -1770,13 +1766,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -1855,6 +1847,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -1898,6 +1893,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -1942,13 +1940,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2035,6 +2029,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -2087,13 +2084,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2123,13 +2116,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2191,6 +2180,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -2208,13 +2200,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2276,6 +2264,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -2293,13 +2284,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2345,6 +2332,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "put": {
@@ -2414,6 +2404,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -2458,13 +2451,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2510,6 +2499,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "put": {
@@ -2579,6 +2571,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -2623,13 +2618,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2685,13 +2676,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2747,13 +2734,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2816,13 +2799,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2885,13 +2864,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -2954,13 +2929,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -3023,13 +2994,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -3059,6 +3026,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "post": {
@@ -3152,13 +3122,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -3216,6 +3182,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -3267,6 +3236,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "put": {
@@ -3324,13 +3296,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -3401,13 +3369,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -3478,13 +3442,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -3555,13 +3515,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -3615,13 +3571,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -3713,6 +3665,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -3730,13 +3685,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -3849,6 +3800,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -3892,6 +3846,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -3936,13 +3893,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4014,13 +3967,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4083,13 +4032,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4152,13 +4097,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4221,13 +4162,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4273,13 +4210,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4351,6 +4284,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -4378,13 +4314,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4464,6 +4396,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -4515,6 +4450,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -4567,13 +4505,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4645,6 +4579,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -4672,13 +4609,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4750,6 +4683,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -4777,13 +4713,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -4863,6 +4795,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -4914,6 +4849,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -4966,13 +4904,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -5052,6 +4986,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -5103,6 +5040,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -5155,13 +5095,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -5232,13 +5168,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -5309,13 +5241,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -5386,13 +5314,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -5463,13 +5387,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -5540,13 +5460,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -5617,13 +5533,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -5743,6 +5655,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -5778,13 +5693,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -5904,6 +5815,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -5939,13 +5853,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -6033,6 +5943,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -6092,6 +6005,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -6165,13 +6081,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -6259,6 +6171,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "delete": {
@@ -6318,6 +6233,9 @@
                     "500": {
                         "description": "Server Error"
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -6391,13 +6309,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -6476,13 +6390,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -6561,13 +6471,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -6646,13 +6552,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -6731,13 +6633,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -6816,13 +6714,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -6901,13 +6795,9 @@
                     "500": {
                         "description": "Server Error"
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -6956,6 +6846,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -6973,13 +6866,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         },
@@ -7048,6 +6937,9 @@
                             }
                         }
                     }
+                },
+                "security": {
+                    "http_bearer": []
                 }
             },
             "get": {
@@ -7092,13 +6984,9 @@
                             }
                         }
                     }
-                }
-            },
-            "securitySchemes": {
-                "http_bearer": {
-                    "description": "HTTP authentication with bearer token",
-                    "type": "http",
-                    "scheme": "bearer"
+                },
+                "security": {
+                    "http_bearer": []
                 }
             }
         }
@@ -8864,11 +8752,13 @@
                 },
                 "additionalProperties": false
             }
+        },
+        "securitySchemes": {
+            "http_bearer": {
+                "description": "HTTP authentication with bearer token",
+                "type": "http",
+                "scheme": "bearer"
+            }
         }
-    },
-    "security": [
-        {
-            "http_bearer": []
-        }
-    ]
+    }
 }
