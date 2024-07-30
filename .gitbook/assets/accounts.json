@@ -15996,7 +15996,7 @@
     },
     "security": [
         {
-            "api_key": []
+            "http_bearer": []
         }
     ]
 }
