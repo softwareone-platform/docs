@@ -4,6 +4,6 @@ description: Update the Buyer object. You can only update the logo and contact f
 
 # Update buyer
 
-{% swagger src="../../../../.gitbook/assets/api.json" path="/v1/accounts/buyers/{id}" method="put" %}
-[api.json](../../../../.gitbook/assets/api.json)
+{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/buyers/{id}" method="put" %}
+[accounts.json](../../../../.gitbook/assets/accounts.json)
 {% endswagger %}

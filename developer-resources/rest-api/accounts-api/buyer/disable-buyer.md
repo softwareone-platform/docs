@@ -4,6 +4,6 @@ description: Disable the Buyer object. Disabled buyers cannot be used in transac
 
 # Disable buyer
 
-{% swagger src="../../../../.gitbook/assets/api.json" path="/v1/accounts/buyers/{id}/disable" method="post" %}
-[api.json](../../../../.gitbook/assets/api.json)
+{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/buyers/{id}/disable" method="post" %}
+[accounts.json](../../../../.gitbook/assets/accounts.json)
 {% endswagger %}
