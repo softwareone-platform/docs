@@ -1,9 +1,9 @@
 {
     "openapi": "3.0.1",
-    "host": "api.platform.softwareone.com",
-    "basePath": "/public",
-    "schemes": [
-        "https"
+    "servers": [
+        {
+            "url": "https://api.platform.softwareone.com/public"
+        }
     ],
     "info": {
         "title": "Marketplace Platform REST API",
