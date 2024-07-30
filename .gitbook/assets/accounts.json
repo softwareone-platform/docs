@@ -412,6 +412,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/accounts/{id}/enable": {
@@ -461,6 +468,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/accounts/{id}/disable": {
@@ -509,6 +523,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -577,6 +598,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1029,6 +1057,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/accounts/{id}/validate": {
@@ -1086,6 +1121,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1148,6 +1190,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/accounts/{id}/icon": {
@@ -1179,6 +1228,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1264,6 +1320,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1366,6 +1429,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1526,6 +1596,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/{accountId}/users/{userId}/groups/{userGroupId}": {
@@ -1584,6 +1661,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/{accountId}/users/{userId}/resend-invite": {
@@ -1640,6 +1724,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1698,6 +1789,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/{accountId}/users/{userId}/accept-invite": {
@@ -1754,6 +1852,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1819,6 +1924,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1963,6 +2075,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/account-users/{id}/groups/{userGroupId}": {
@@ -2013,6 +2132,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/account-users/{id}/accept-invite": {
@@ -2061,6 +2187,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2111,6 +2244,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/account-users/{id}/send-new-invite": {
@@ -2159,6 +2299,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2246,6 +2393,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/api-tokens": {
@@ -2310,6 +2464,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2463,6 +2624,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/api-tokens/{id}/enable": {
@@ -2512,6 +2680,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/api-tokens/{id}/disable": {
@@ -2560,6 +2735,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -3959,6 +4141,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/buyers/{id}/enable": {
@@ -4008,6 +4197,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/buyers/{id}/disable": {
@@ -4056,6 +4252,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -4125,6 +4328,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/buyers/{id}/deactivate": {
@@ -4173,6 +4383,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -5659,6 +5876,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/buyers/{id}/transfer": {
@@ -5727,6 +5951,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/buyers/{id}/validate": {
@@ -5785,6 +6016,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/buyers/{id}/icon": {
@@ -5816,6 +6054,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -8807,6 +9052,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -11886,6 +12138,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/licensees/{id}/enable": {
@@ -11934,6 +12193,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -11984,6 +12250,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/licensees/{id}/icon": {
@@ -12016,6 +12289,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/modules": {
@@ -12034,6 +12314,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -12080,6 +12367,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -12146,6 +12440,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/sellers/{id}/activate": {
@@ -12194,6 +12495,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -12244,6 +12552,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/sellers/{id}/disable": {
@@ -12292,6 +12607,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -12445,6 +12767,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/user-groups": {
@@ -12509,6 +12838,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -12662,6 +12998,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/users/{id}/set-password": {
@@ -12719,6 +13062,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -13552,6 +13902,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/users/{id}/unblock": {
@@ -13600,6 +13957,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -13650,6 +14014,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/users/{id}/sso-check": {
@@ -13671,6 +14042,13 @@
                     "200": {
                         "description": "Success"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -13704,6 +14082,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/accounts/users": {
@@ -13722,6 +14107,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         }
@@ -15601,17 +15993,5 @@
                 "additionalProperties": false
             }
         }
-    },
-    "securitySchemes": {
-        "http_bearer": {
-            "description": "HTTP authentication with bearer token",
-            "type": "http",
-            "scheme": "bearer"
-        }
-    },
-    "security": [
-        {
-            "http_bearer": []
-        }
-    ]
+    }
 }

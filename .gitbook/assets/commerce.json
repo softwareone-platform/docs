@@ -88,6 +88,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/agreements/{id}": {
@@ -206,6 +213,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/agreements/{id}/template": {
@@ -266,6 +280,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/agreements/{id}/render": {
@@ -325,6 +346,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -446,6 +474,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -619,6 +654,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/orders": {
@@ -698,6 +740,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -862,6 +911,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/orders/{id}/process": {
@@ -932,6 +988,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1007,6 +1070,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/orders/{id}/complete": {
@@ -1077,6 +1147,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1152,6 +1229,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/orders/{id}/validate": {
@@ -1226,6 +1310,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/orders/{id}/template": {
@@ -1286,6 +1377,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/orders/{id}/render": {
@@ -1345,6 +1443,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1409,6 +1514,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1509,6 +1621,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1697,6 +1816,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/requests/{requestId}/attachments": {
@@ -1806,6 +1932,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1982,6 +2115,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/requests": {
@@ -2058,6 +2198,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2182,6 +2329,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/requests/{id}/validate": {
@@ -2222,6 +2376,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2295,6 +2456,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/requests/{id}/query": {
@@ -2366,6 +2534,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2439,6 +2614,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/requests/{id}/template": {
@@ -2490,6 +2672,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2579,6 +2768,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/requests/{requestId}/messages/{id}": {
@@ -2632,6 +2828,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2712,6 +2915,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2831,6 +3041,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/commerce/subscriptions/{id}/terminate": {
@@ -2904,6 +3121,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         }
@@ -3711,17 +3935,5 @@
                 "additionalProperties": false
             }
         }
-    },
-    "securitySchemes": {
-        "http_bearer": {
-            "description": "HTTP authentication with bearer token",
-            "type": "http",
-            "scheme": "bearer"
-        }
-    },
-    "security": [
-        {
-            "http_bearer": []
-        }
-    ]
+    }
 }

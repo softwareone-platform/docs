@@ -86,6 +86,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/authorizations/{id}": {
@@ -251,6 +258,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/documents": {
@@ -378,6 +392,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -567,6 +588,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/documents/{id}/review": {
@@ -633,6 +661,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -701,6 +736,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/documents/{id}/unpublish": {
@@ -767,6 +809,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -865,6 +914,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1045,6 +1101,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/parameter-groups": {
@@ -1142,6 +1205,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1325,6 +1395,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/parameters": {
@@ -1422,6 +1499,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1602,6 +1686,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/price-lists": {
@@ -1679,6 +1770,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -1845,6 +1943,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/price-lists/{priceListId}/items/{id}": {
@@ -1983,6 +2088,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/price-lists/{priceListId}/items": {
@@ -2011,6 +2123,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2090,6 +2209,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/product-items": {
@@ -2167,6 +2293,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2326,6 +2459,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/product-items/{id}": {
@@ -2484,6 +2624,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/items/{id}/review": {
@@ -2539,6 +2686,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/product-items/{id}/review": {
@@ -2593,6 +2747,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2656,6 +2817,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/product-items/{id}/publish": {
@@ -2717,6 +2885,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2780,6 +2955,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/product-items/{id}/unpublish": {
@@ -2841,6 +3023,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -2963,6 +3152,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -3129,6 +3325,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/media/{id}/review": {
@@ -3198,6 +3401,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -3269,6 +3479,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/media/{id}/unpublish": {
@@ -3339,6 +3556,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/media/{id}/image": {
@@ -3391,6 +3615,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -3499,6 +3730,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -3699,6 +3937,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{id}/settings": {
@@ -3770,6 +4015,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{id}/review": {
@@ -3831,6 +4083,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -3894,6 +4153,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{id}/unpublish": {
@@ -3956,6 +4222,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{id}/icon": {
@@ -4000,6 +4273,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -4098,6 +4378,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -4281,6 +4568,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms": {
@@ -4379,6 +4673,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms-and-conditions": {
@@ -4476,6 +4777,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -4659,6 +4967,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms-and-conditions/{id}": {
@@ -4841,6 +5156,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms/{id}/review": {
@@ -4910,6 +5232,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -4981,6 +5310,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms/{id}/publish": {
@@ -5050,6 +5386,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -5121,6 +5464,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms/{id}/unpublish": {
@@ -5191,6 +5541,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms-and-conditions/{id}/unpublish": {
@@ -5260,6 +5617,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -5415,6 +5779,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms-and-conditions/{termsAndConditionsId}/variants": {
@@ -5568,6 +5939,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -5788,6 +6166,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms-and-conditions/{termsAndConditionsId}/variants/{id}": {
@@ -6007,6 +6392,13 @@
                         }
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms/{termsAndConditionsId}/variants/{id}/review": {
@@ -6084,6 +6476,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -6163,6 +6562,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms/{termsAndConditionsId}/variants/{id}/publish": {
@@ -6240,6 +6646,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -6319,6 +6732,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/products/{productId}/terms/{termsAndConditionsId}/variants/{id}/unpublish": {
@@ -6396,6 +6816,13 @@
                     "500": {
                         "description": "Server Error"
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -6475,6 +6902,13 @@
                         "description": "Server Error"
                     }
                 }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
+                }
             }
         },
         "/v1/units-of-measure": {
@@ -6539,6 +6973,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         },
@@ -6651,6 +7092,13 @@
                             }
                         }
                     }
+                }
+            },
+            "securitySchemes": {
+                "http_bearer": {
+                    "description": "HTTP authentication with bearer token",
+                    "type": "http",
+                    "scheme": "bearer"
                 }
             }
         }
@@ -8417,17 +8865,5 @@
                 "additionalProperties": false
             }
         }
-    },
-    "securitySchemes": {
-        "http_bearer": {
-            "description": "HTTP authentication with bearer token",
-            "type": "http",
-            "scheme": "bearer"
-        }
-    },
-    "security": [
-        {
-            "http_bearer": []
-        }
-    ]
+    }
 }
