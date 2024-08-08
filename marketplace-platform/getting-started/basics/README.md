@@ -1,8 +1,8 @@
 # Basic Tasks
 
-This section covers some of the basic tasks related to your account preferences and profile settings.&#x20;
+This section contains links to some of the basic tasks you can perform to manage your account preferences and profile settings.&#x20;
 
-To learn more, see any of the following links:
+Select any of the following links to get started:
 
 {% content-ref url="manage-profile.md" %}
 [manage-profile.md](manage-profile.md)
