@@ -464,5 +464,4 @@
   * [How to create service accounts for 365 Analytics reporting](help-and-support/faqs/how-to-create-service-accounts-for-365-analytics-reporting.md)
   * [What data do you collect for 365 Analytics?](help-and-support/faqs/what-data-do-you-collect-for-365-analytics.md)
   * [What is 365 Analytics delegation and policy control?](help-and-support/faqs/what-is-365-analytics-delegation-and-policy-control.md)
-* [Platform Terminology](help-and-support/platform-terminology.md)
 * [Terms of Use](help-and-support/terms-of-use.md)
