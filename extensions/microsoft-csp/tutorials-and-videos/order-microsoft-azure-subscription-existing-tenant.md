@@ -43,14 +43,14 @@ Click **Create new agreement** to set up your new agreement.
 1. Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../platform-modules/settings/licensees/create-licensees.md).
 2. Click **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
 
 ## 4. **Choose the Microsoft** tenant
 
 1. Choose whether you want to create a new Microsoft account or use your existing account. In this tutorial, we'll select **Connect existing cloud account**, as shown in the following image.
 2. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Create agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25) (2).png" alt=""><figcaption><p>Create agreement</p></figcaption></figure>
 
 ## 5. Specify the domain
 

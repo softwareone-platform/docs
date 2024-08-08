@@ -4,7 +4,7 @@ In the Marketplace Platform, a request can have several states (also known as st
 
 The following diagram shows the possible states and the transition between these states:
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Request state transition</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>Request state transition</p></figcaption></figure>
 
 These states are displayed as Status within the platform. They are also displayed beside the request name and ID on the details page.
 

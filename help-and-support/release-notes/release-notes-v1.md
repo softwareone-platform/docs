@@ -2,7 +2,7 @@
 description: Meet the new SoftwareOne Client Portal and learn what's new in this release.
 ---
 
-# Release notes v1
+# Release Notes v1
 
 **Release Date: 28 August 2023**
 
@@ -42,7 +42,7 @@ Other changes include:
 
 ### Search bar and shortcut icons
 
-We've removed the Search bar and the icons for the shopping cart, [Reports](../../platform-modules/other-tools/reports/), and [Notifications](../../getting-started/platform-overview/basics/view-notifications.md) from the header. You can now access these pages directly from the navigation menu.
+We've removed the Search bar and the icons for the shopping cart, [Reports](../../platform-modules/other-tools/reports/), and [Notifications](../../marketplace-platform/getting-started/basics/view-notifications.md) from the header. You can now access these pages directly from the navigation menu.
 
 ## **Product documentation**
 

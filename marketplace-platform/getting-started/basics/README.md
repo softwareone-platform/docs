@@ -1,4 +1,8 @@
-# Platform Basics
+# Basic Tasks
+
+This section covers some of the basic tasks related to your account preferences and profile settings.&#x20;
+
+To learn more, see any of the following links:
 
 {% content-ref url="manage-profile.md" %}
 [manage-profile.md](manage-profile.md)
@@ -19,4 +23,3 @@
 {% content-ref url="view-notifications.md" %}
 [view-notifications.md](view-notifications.md)
 {% endcontent-ref %}
-

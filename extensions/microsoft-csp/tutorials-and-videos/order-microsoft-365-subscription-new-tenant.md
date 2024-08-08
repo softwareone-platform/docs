@@ -22,11 +22,11 @@ Before starting this tutorial, make sure you have the following:
 
 1. Navigate to the **Products** page (**Marketplace** > **Products**) and select **Microsoft 365 Business, Enterprise & Apps - Commercial**.
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (3).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 2. Click **Buy now** on the details page.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (3).png" alt=""><figcaption><p>Details page</p></figcaption></figure>
 
 The purchase wizard starts and the **Select agreement** section displays.
 
@@ -34,27 +34,27 @@ The purchase wizard starts and the **Select agreement** section displays.
 
 Click **Create agreement** to set up your new agreement.
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 
 ## 3. Select licensee
 
 1. Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../platform-modules/settings/licensees/create-licensees.md).
 2. Click **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (21) (2).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
 
 ## 4. Create your tenant
 
 Select **Create new cloud account** to create a new Microsoft tenant and click **Next** to continue.
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption><p>Create new tenant</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22) (2).png" alt=""><figcaption><p>Create new tenant</p></figcaption></figure>
 
 ## 5. Provide Microsoft details
 
 1. (Optional) Click **Access tenant name availability tool** to check if the tenant name is available.&#x20;
 2. After checking the availability, provide the name you want to use on the onmicrosoft.com domain. Make sure to enter the name without dots or spaces. Click **Next** to continue.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Microsoft details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19) (2).png" alt=""><figcaption><p>Microsoft details</p></figcaption></figure>
 
 3. Provide the following information and click **Next:**
    * Company name.
@@ -73,7 +73,7 @@ These fields are enabled only after the platform validates your Microsoft tenant
 1. Enter the contact you want to use for support and your preferred support language. The contact details are populated from the **Licensee** information, but you can change the details if required.&#x20;
 2. Click **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Support contacts</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17) (2).png" alt=""><figcaption><p>Support contacts</p></figcaption></figure>
 
 ## 7. Select items
 
@@ -90,7 +90,7 @@ These fields are enabled only after the platform validates your Microsoft tenant
 1. (Optional) Add your order and agreement details as necessary so you can identify these easily.&#x20;
 2. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14) (2).png" alt=""><figcaption><p>Details</p></figcaption></figure>
 
 ## 9. Place your order
 

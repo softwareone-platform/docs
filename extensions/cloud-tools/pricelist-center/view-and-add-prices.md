@@ -23,7 +23,7 @@ Use the **Product Name** and the **Region** fields to narrow down the prices:
 
 As a result, many A3 options will be displayed, but only based on those two regions. Here is an example:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 SaaS Price Lists are different from IaaS/PaaS Pricelists from Cloud Providers. SaaS Price lists are based on what Subscriptions or Licenses are active for that SaaS Provider.&#x20;
 
@@ -35,13 +35,13 @@ It’s important to add any missing price to the Pricelist Center, to ensure acc
 
 To determine what SaaS Subscriptions/Licenses require prices, go to the **Pricelist Center** and select the **Missing Prices** tab.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Missing Prices</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Missing Prices</p></figcaption></figure>
 
 If this is the first time entering prices, you might notice several Subscriptions/Licenses with missing prices.
 
 Add the proper pricing to each Subscription/License by selecting **+ Add new price** button. Note that adding prices requires a recalculation of the historical spending information within our system. This could take up to 24 hours to complete.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Number | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

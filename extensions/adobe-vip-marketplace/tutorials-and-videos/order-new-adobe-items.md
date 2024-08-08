@@ -61,7 +61,7 @@ When you click **Next**, the **Select Items** section of the wizard is displayed
 
 Review the details of your change order and click **Place order** to complete your purchase.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
 
 ## 6. View your order summary
 

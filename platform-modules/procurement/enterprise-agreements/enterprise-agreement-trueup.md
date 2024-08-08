@@ -68,7 +68,7 @@ This page **allows you to set tenants and products profiles** (as available in y
 
 Typically profiles and tenants can be found as a subsection in CPS. Profiles can be found in both “SECTION 1. Licenses and Software Assurance” and “Future Pricing”. Please note that the “Enterprise” subsection should not be treated as a profile and will be automatically added in the Wizard. Please inspect the below screenshot from a sample CPS with “Industry Device II” and “Manufacturing” profiles.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The screenshot below shows the “Enterprise” subsection which should not be counted as a profile:
 
@@ -78,7 +78,7 @@ The screenshot below shows the “Enterprise” subsection which should not be c
 
 Tenants represent the domain of subscription products. They can be found in “SECTION 2: Monthly Subscriptions” as well as the proper “Future Pricing” subsection. The screenshot below shows two tenants have been identified. Subsections should not be treated as tenants and will be automatically added by default.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Adding Profiles and Tenants**
 
@@ -119,7 +119,7 @@ The purpose of this step is to add License and Software Assurance details i.e. p
 
 Data required in this step can be found in CPS table under the header “Section 1 – License and Software Assurance” as shown below. Products for every year should be added (please inspect the note regarding auto auto-populate feature below).
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pricing information for all products across every year is required. However, due to the structure of agreements only data for the first year need to be added. Subsequent years are auto-populated and only need to be adjusted in singular cases (please see note below).
 
@@ -148,7 +148,7 @@ This step lets you fill in details for subscriptions.
 
 Data required in this step can be found in CPS table under the header “Section 2 – Monthly Subscriptions” as shown below. There are a few columns in CPS that you do not have to take into consideration from now on: “Usage indicator”, “Usage Start Date” and “Unit of Measure”. Those columns should be omitted when inputting pricing information.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Step 5 has a similar grid to Step 4, the only difference is the “Unit Quantity” field is added. “Unit Quantity” represents the number of months. It is set to 12 months by default, however, it can be changed if required.
 

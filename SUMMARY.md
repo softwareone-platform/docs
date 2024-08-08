@@ -2,18 +2,20 @@
 
 * [Home](README.md)
 
-## GETTING STARTED
+## Marketplace Platform
 
-* [Platform Overview](getting-started/platform-overview/README.md)
-  * [Interface](getting-started/platform-overview/interface.md)
-  * [Basics](getting-started/platform-overview/basics/README.md)
-    * [Manage Profile](getting-started/platform-overview/basics/manage-profile.md)
-    * [Switch Account](getting-started/platform-overview/basics/switch-account.md)
-    * [Update Password](getting-started/platform-overview/basics/update-password.md)
-    * [Manage Favorites](getting-started/platform-overview/basics/manage-favorites.md)
-    * [View Notifications](getting-started/platform-overview/basics/view-notifications.md)
+* [Platform Overview](marketplace-platform/platform-overview.md)
+* [Getting Started](marketplace-platform/getting-started/README.md)
+  * [Key Concepts](marketplace-platform/getting-started/key-concepts.md)
+  * [Platform Interface](marketplace-platform/getting-started/interface.md)
+  * [Basic Tasks](marketplace-platform/getting-started/basics/README.md)
+    * [Manage Profile](marketplace-platform/getting-started/basics/manage-profile.md)
+    * [Manage Favorites](marketplace-platform/getting-started/basics/manage-favorites.md)
+    * [Switch Account](marketplace-platform/getting-started/basics/switch-account.md)
+    * [Update Password](marketplace-platform/getting-started/basics/update-password.md)
+    * [View Notifications](marketplace-platform/getting-started/basics/view-notifications.md)
 
-## PLATFORM MODULES&#x20;
+## PLATFORM MODULES
 
 * [Inventory](platform-modules/inventory/README.md)
   * [Invoices](platform-modules/inventory/invoices.md)
@@ -427,7 +429,7 @@
       * [Pricelist Item States](developer-resources/rest-api/catalog-api/pricelists/pricelist-item-states.md)
       * [Create Pricelist](developer-resources/rest-api/catalog-api/pricelists/create-pricelist.md)
       * [List Pricelists](developer-resources/rest-api/catalog-api/pricelists/list-pricelists.md)
-      * [Get  Pricelist](developer-resources/rest-api/catalog-api/pricelists/get-pricelist.md)
+      * [Get Pricelist](developer-resources/rest-api/catalog-api/pricelists/get-pricelist.md)
       * [Update Pricelist](developer-resources/rest-api/catalog-api/pricelists/update-pricelist.md)
       * [List Pricelist Items](developer-resources/rest-api/catalog-api/pricelists/list-pricelist-items.md)
       * [Get Pricelist Item](developer-resources/rest-api/catalog-api/pricelists/get-pricelist-item.md)

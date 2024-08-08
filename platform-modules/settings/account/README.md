@@ -10,8 +10,8 @@ An account enables a company or organization to sign in to the Marketplace Platf
 
 The following account types exist on the Marketplace Platform:&#x20;
 
-* **Client** - Represents an entity that contains a collection of buyers and their related business dealings, such as agreements, orders, subscriptions, and licensees. All client accounts contain individuals or users, facilitating centralized management of various transactions and operational facets from a singular account viewpoint.
-* **Vendor** - Represents an entity responsible for defining products and configuring those products with items and related parameters for selling on the Marketplace Platform. Vendors supply the necessary product information and attributes used in creating listings and establishing pricelists.
+* **Client** - Represents an entity that contains a collection of buyers and their related business dealings, such as agreements, orders, subscriptions, and licensees. All client accounts contain individuals or users.
+* **Vendor** - Represents an entity responsible for defining products and configuring those products with items and other related parameters. Vendors are responsible for supplying the necessary product information and attributes used in creating listings and establishing pricelists.
 
 ## How to access the Account page
 

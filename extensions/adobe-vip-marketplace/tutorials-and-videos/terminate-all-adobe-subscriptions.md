@@ -39,7 +39,7 @@ Before starting this tutorial, make sure that the agreement you want to terminat
 
 4. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Order summary</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>Order summary</p></figcaption></figure>
 
 ## Next steps
 
