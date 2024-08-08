@@ -15,7 +15,7 @@ layout:
 
 # Home
 
-The [SoftwareOne](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that brings together a wide range of vendors and clients. This platform is designed to offer various software solutions while making sure that client needs match vendor capabilities effectively.
+The [SoftwareOne](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that brings together a wide range of vendors and clients. The platform is designed to offer various software solutions while making sure that client needs match vendor capabilities effectively.
 
 <div align="left">
 
@@ -25,7 +25,7 @@ The [SoftwareOne](https://softwareone.com) Marketplace Platform is a comprehensi
 
 Empowering clients to discover, compare, and procure software licenses from multiple vendors in one place, our platform is a catalyst for accelerating digital transformation and enhancing operational efficiency.
 
-Explore our documentation to learn more about our platform and its features, and explore how you can use our platform for procurement, subscription management, fulfillment, and more.
+Explore our documentation to learn more about the platform and its features, and discover how you can use it for procurement, subscription management, fulfillment, and more.
 
 ### Featured Resources
 
