@@ -52,17 +52,17 @@ Additionally, users can be a part of multiple groups, much like users can belong
 
 In the Marketplace Platform, sellers are responsible for generating and issuing invoices to the buyer entities of clients, acting as the intermediary in the transaction process.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Sellers in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (472).png" alt=""><figcaption><p>Sellers in the Marketplace Platform</p></figcaption></figure>
 
 **Buyer** - Buyers represent an entity that engages in commercial activities with the SoftwareOne reselling entity (known as Sellers).&#x20;
 
 Buyers are the recipients of invoices issued by SoftwareOne, and they are central to the creation and context of orders, agreements, and subscriptions in the platform.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Buyers in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (473).png" alt=""><figcaption><p>Buyers in the Marketplace Platform</p></figcaption></figure>
 
 **Licensee** - Licensees are the entities that consume the software products or services procured by the buyer. In our platform, licensees are critical in establishing agreements alongside buyers and sellers.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Licensees in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (474).png" alt=""><figcaption><p>Licensees in the Marketplace Platform</p></figcaption></figure>
 
 ## Agreement
 
@@ -70,7 +70,7 @@ An agreement is an object outlining the relationship between the seller, buyer, 
 
 Agreements establish the terms and conditions under which transactions occur. They are also the foundation for placing orders and creating subscriptions on the platform. Without an agreement, it's not possible to buy products on our platform.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Sellers in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (475).png" alt=""><figcaption><p>Agreements in the Marketplace Platform</p></figcaption></figure>
 
 ## Orders and Subscriptions
 
