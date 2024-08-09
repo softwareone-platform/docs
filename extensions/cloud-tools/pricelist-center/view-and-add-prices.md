@@ -19,11 +19,11 @@ For instance, Microsoft may charge a different price for an A3 Cloud Service or 
 
 Use the **Product Name** and the **Region** fields to narrow down the prices:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filters</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Filters</p></figcaption></figure>
 
 As a result, many A3 options will be displayed, but only based on those two regions. Here is an example:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 SaaS Price Lists are different from IaaS/PaaS Pricelists from Cloud Providers. SaaS Price lists are based on what Subscriptions or Licenses are active for that SaaS Provider.&#x20;
 

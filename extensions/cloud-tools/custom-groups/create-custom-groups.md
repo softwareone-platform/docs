@@ -20,11 +20,11 @@ If you are using tags on your provider platform to organize your resources, you 
 
 4.  Assign groups to the created structure levels. To create the groups, choose the **New** group functionality for the required structure level:
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can create groups using already existing tags or manually.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,11 +36,11 @@ If any resources have tags matching to created groups, they will automatically b
 
 **Example**
 
-| Example             | High-Level Org Chart                                                                  | Dimensions in Custom Groups                                                                           |
-| ------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Default Customer    | ![](<../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) | ![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) |
-| Enterprise Customer | ![](<../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     | ![](<../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     |
-| Service Based       | ![](<../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     | ![](<../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)             |
+| Example             | High-Level Org Chart                                                                  | Dimensions in Custom Groups                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Default Customer    | ![](<../../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) | ![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>) |
+| Enterprise Customer | ![](<../../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     | ![](<../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)         |
+| Service Based       | ![](<../../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)     | ![](<../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)                 |
 
 ## Creating the structure automatically <a href="#create-structure-automatically" id="create-structure-automatically"></a>
 

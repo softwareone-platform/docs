@@ -52,7 +52,7 @@ Additionally, users can be a part of multiple groups, much like users can belong
 
 In the Marketplace Platform, sellers are responsible for generating and issuing invoices to the buyer entities of clients, acting as the intermediary in the transaction process.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Sellers in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Sellers in the Marketplace Platform</p></figcaption></figure>
 
 **Buyer** - Buyers represent an entity that engages in commercial activities with the SoftwareOne reselling entity (known as Sellers).&#x20;
 
@@ -68,9 +68,9 @@ Buyers are the recipients of invoices issued by SoftwareOne, and they are centra
 
 An agreement is an object outlining the relationship between the seller, buyer, and licensee.&#x20;
 
-Agreements establish the terms and conditions under which transactions occur. They are also the foundation for placing orders and creating subscriptions in the platform. Without an agreement, it's not possible to buy products on our platform.
+Agreements establish the terms and conditions under which transactions occur. They are also the foundation for placing orders and creating subscriptions on the platform. Without an agreement, it's not possible to buy products on our platform.
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Agreements in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Sellers in the Marketplace Platform</p></figcaption></figure>
 
 ## Orders and Subscriptions
 
