@@ -32,13 +32,13 @@ The platform provides a seamless and intuitive interface, allowing access to the
 
 After signing in to your account, you can navigate through various modules, manage account settings, access the marketplace, view agreements, and track your orders.
 
-### **Main navigation menu**
+### Main navigation menu
 
 The main navigation menu in the top left is the starting point for accessing the modules enabled for your account. Click the navigation icon <img src="../../.gitbook/assets/menu_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line"> to access the modules and manage your account settings.
 
 <figure><img src="../../.gitbook/assets/Main menu.png" alt=""><figcaption><p>Main navigation menu</p></figcaption></figure>
 
-### **Help icon**
+### Help icon
 
 The help icon <img src="../../.gitbook/assets/help_24dp_5F6368_FILL0_wght400_GRAD0_opsz24 (1).png" alt="" data-size="line"> contains links to various content resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, [news and updates](https://www.softwareone.com/en/media-releases), and our legal pages. You can also [Contact Support](../../help-and-support/getting-support.md) by clicking the **Support** option.
 
