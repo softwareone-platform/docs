@@ -44,4 +44,4 @@ Before starting this tutorial, make sure that the subscription you want to termi
 
 Your termination order is submitted to the vendor for processing.&#x20;
 
-You can view the most up-to-date information on your order and its status on the [Order details](../../../platform-modules/marketplace/orders/orders-interface.md#subscription-details) page.
+You can view the most up-to-date information on your order and its status on the [Order details](../../../modules/marketplace/orders/orders-interface.md#subscription-details) page.

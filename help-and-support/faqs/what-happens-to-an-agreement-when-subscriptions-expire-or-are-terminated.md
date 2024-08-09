@@ -8,12 +8,12 @@ See any of the related topic links for information on agreements and subscriptio
 
 ## Related topics
 
-{% content-ref url="../../platform-modules/marketplace/agreements/" %}
-[agreements](../../platform-modules/marketplace/agreements/)
+{% content-ref url="../../modules/marketplace/agreements/" %}
+[agreements](../../modules/marketplace/agreements/)
 {% endcontent-ref %}
 
-{% content-ref url="../../platform-modules/marketplace/subscriptions/" %}
-[subscriptions](../../platform-modules/marketplace/subscriptions/)
+{% content-ref url="../../modules/marketplace/subscriptions/" %}
+[subscriptions](../../modules/marketplace/subscriptions/)
 {% endcontent-ref %}
 
 {% content-ref url="../../extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription.md" %}

@@ -10,7 +10,7 @@ Adobe subscriptions can be terminated both within and outside the 14-day return 
 
 ## Prerequisites
 
-Before starting this tutorial, make sure that the agreement you want to terminate is **Active**. Agreements in any other [state ](../../../platform-modules/marketplace/agreements/agreement-states.md)cannot be terminated.
+Before starting this tutorial, make sure that the agreement you want to terminate is **Active**. Agreements in any other [state ](../../../modules/marketplace/agreements/agreement-states.md)cannot be terminated.
 
 ## 1. Open the agreement
 
@@ -45,4 +45,4 @@ Before starting this tutorial, make sure that the agreement you want to terminat
 
 Your termination order is submitted to the vendor for processing.
 
-You can view the most up-to-date information on your order and its status on the [Order details](../../../platform-modules/marketplace/orders/orders-interface.md#subscription-details) page.
+You can view the most up-to-date information on your order and its status on the [Order details](../../../modules/marketplace/orders/orders-interface.md#subscription-details) page.

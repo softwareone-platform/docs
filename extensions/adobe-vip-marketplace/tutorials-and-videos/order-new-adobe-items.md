@@ -74,4 +74,4 @@ Review the details of your change order and click **Place order** to complete yo
 
 Your change order is submitted for processing.
 
-You can view the most up-to-date information on your order and its status on the [Order details](../../../platform-modules/marketplace/orders/orders-interface.md#subscription-details) page.
+You can view the most up-to-date information on your order and its status on the [Order details](../../../modules/marketplace/orders/orders-interface.md#subscription-details) page.

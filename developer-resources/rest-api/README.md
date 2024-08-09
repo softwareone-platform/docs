@@ -25,7 +25,7 @@ For example, the Marketplace Platform offers several REST APIs for tasks like ma
 
 ## Authentication
 
-The Marketplace Platform uses [API tokens](../../platform-modules/settings/api-tokens/) to authenticate requests. You can view and manage your API keys in the user interface of your account settings. Include your API token in the "**Authorization**" HTTP header with the "**Bearer**" prefix for authentication.&#x20;
+The Marketplace Platform uses [API tokens](../../modules/settings/api-tokens/) to authenticate requests. You can view and manage your API keys in the user interface of your account settings. Include your API token in the "**Authorization**" HTTP header with the "**Bearer**" prefix for authentication.&#x20;
 
 For example, the following request could be used to retrieve a list of Buyers:
 

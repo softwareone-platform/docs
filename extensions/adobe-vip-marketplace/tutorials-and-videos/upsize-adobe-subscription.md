@@ -62,4 +62,4 @@ The **Edit subscription** wizard launches and the **Items** section of the wizar
 
 Your order is submitted for processing, and the status of your subscription and the associated agreement changes from **Active** to **Updating**.&#x20;
 
-You won't be able to make any further changes until your change order is processed. You can view the most up-to-date information on your order and its status on the [Order details](../../../platform-modules/marketplace/orders/orders-interface.md#subscription-details) page.
+You won't be able to make any further changes until your change order is processed. You can view the most up-to-date information on your order and its status on the [Order details](../../../modules/marketplace/orders/orders-interface.md#subscription-details) page.
