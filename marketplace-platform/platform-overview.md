@@ -10,7 +10,7 @@ The platform’s functionality is further augmented by a public API and SDK, whi
 
 ## Why use the Marketplace Platform? <a href="#features" id="features"></a>
 
-The Marketplace Platform is a two-sided platform designed for clients to easily procure software and manage their purchases and for vendors to sell their software solutions globally.&#x20;
+The Marketplace Platform is a two-sided platform designed for clients to easily procure software, manage their purchases, and for vendors to sell their software solutions globally.&#x20;
 
 For clients, the Marketplace Platform simplifies SaaS purchases and optimizes procurement workflows through the Client Portal. This portal is a centralized hub, allowing clients to digitize the procurement journey. It offers an [intuitive interface](getting-started/interface.md) and functionalities that streamline various buying processes.&#x20;
 
@@ -19,32 +19,18 @@ As a client, here's what you can do with our platform:&#x20;
 * **Access Product Catalog** - Discover products from the world's leading software vendors and find everything you need in one centralized location.
 * **Manage Orders** - View, track, and manage your orders while getting extended information about each order on the order detail page.
 * **Manage Subscriptions** - Self-manage your subscriptions, including cancellations and renewals, and access relevant documents, such as terms and conditions and agreements in one place.
-* **Manage Account Settings** - Review your account settings, invite new members to your account, and create groups to manage user permissions. Also manage your user profile through password resets, profile updates, and more.
+* **Manage Account Settings** - Review your account settings, invite new members, and create groups to manage user permissions. Also manage your user profile through password resets, profile updates, and more.
 * **Create Requests** - Contact the SoftwareOne business experts or software vendors directly through the platform and track all contact requests you create.
 
 For vendors, the Marketplace Platform offers a way to set up and configure products through the Vendor Portal, making them available in the SoftwareOne Marketplace. Additionally, products can be configured to capture new leads.
 
 As a vendor, you can use our platform to do the following:
 
-* **Define Products** - Configure products manually or through integrations, configure product parameters and sell your products globally to over 65,000 SoftwareOne clients across a wide range of industries.
+* **Define Products** - Configure products manually or through integrations, configure product parameters, and sell your products globally to over 65,000 SoftwareOne clients across various industries.
 * **Manage Catalog Information** - Effortlessly manage all your product data in one place, and enhance your product listings and messaging templates with ease.
 * **Manage Products and Prices** - Update product pricing directly within the platform so that clients can see accurate pricing at all times.
 * **Fulfill Orders** - Consistently manage all orders and fulfill them quickly and efficiently.
 
-## Related topics
+## Learn more about
 
-{% content-ref url="getting-started/" %}
-[getting-started](getting-started/)
-{% endcontent-ref %}
-
-{% content-ref url="getting-started/key-concepts.md" %}
-[key-concepts.md](getting-started/key-concepts.md)
-{% endcontent-ref %}
-
-{% content-ref url="getting-started/interface.md" %}
-[interface.md](getting-started/interface.md)
-{% endcontent-ref %}
-
-{% content-ref url="getting-started/basics/" %}
-[basics](getting-started/basics/)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Watch our Getting Started video that explains our platform in detail. </td><td><a href="getting-started/">getting-started</a></td></tr><tr><td><strong>Key Concepts</strong></td><td>Learn the core concepts and terminology you'll need to know to use the platform.</td><td><a href="getting-started/key-concepts.md">key-concepts.md</a></td></tr><tr><td><strong>Platform Interface</strong></td><td>Gain an understanding of our user interface.</td><td><a href="getting-started/interface.md">interface.md</a></td></tr><tr><td><strong>Basic Tasks</strong></td><td>Set your account preferences and profile settings.</td><td><a href="getting-started/basics/">basics</a></td></tr></tbody></table>
