@@ -64,13 +64,13 @@ Buyers are the recipients of invoices issued by SoftwareOne, and they are centra
 
 <figure><img src="../../.gitbook/assets/image (474).png" alt=""><figcaption><p>Licensees in the Marketplace Platform</p></figcaption></figure>
 
-## Agreement
+## Agreements
 
 An agreement is an object outlining the relationship between the seller, buyer, and licensee.&#x20;
 
 Agreements establish the terms and conditions under which transactions occur. They are also the foundation for placing orders and creating subscriptions on the platform. Without an agreement, it's not possible to buy products on our platform.
 
-<figure><img src="../../.gitbook/assets/image (475).png" alt=""><figcaption><p>Agreements in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (476).png" alt=""><figcaption><p>Agreements in the Marketplace Platform</p></figcaption></figure>
 
 ## Orders and Subscriptions
 
