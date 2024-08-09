@@ -30,7 +30,7 @@ The following are the key actors in our platform:
 
 ## Users, Accounts, and Groups <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-**Users** - Users, as the name suggests, represent individuals or persons who can sign in to the platform using their credentials and perform all operations associated with permissions.&#x20;
+**Users** - Users, as the name suggests, represent individuals or persons who can sign in to the platform using their credentials and perform all operations associated with their permissions.&#x20;
 
 **Accounts** - An account is an object that represents a company or an organization utilizing the Marketplace Platform. In our platform, an account can contain one or multiple users:
 
@@ -44,11 +44,11 @@ Additionally, users are not restricted to a single account. They can belong to m
 
 Additionally, users can be a part of multiple groups, much like users can belong to multiple accounts.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Multiple groups contaning multiple users</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Multiple groups containing multiple users</p></figcaption></figure>
 
 ## Sellers, Buyers, and Licensees <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-**Seller** - A seller is a SoftwareOne entity (for example, SoftwareOne Canada) that buys software solutions from vendors and sells those solutions to clients.&#x20;
+**Seller** - A seller is a SoftwareOne entity (for example, SoftwareOne Canada) that buys software solutions from vendors (like Microsoft) and sells those solutions to clients.&#x20;
 
 In the Marketplace Platform, sellers are responsible for generating and issuing invoices to the buyer entities of clients, acting as the intermediary in the transaction process.
 
@@ -68,7 +68,7 @@ Buyers are the recipients of invoices issued by SoftwareOne, and they are centra
 
 An agreement is an object outlining the relationship between the seller, buyer, and licensee.&#x20;
 
-Agreements establish the terms and conditions under which transactions occur. They are also the foundation for placing orders and creating subscriptions on the platform. Without an agreement, you cannot buy products on our platform.
+Agreements establish the terms and conditions under which transactions occur. They are also the foundation for placing orders and creating subscriptions in the platform. Without an agreement, it's not possible to buy products on our platform.
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Agreements in the Marketplace Platform</p></figcaption></figure>
 
