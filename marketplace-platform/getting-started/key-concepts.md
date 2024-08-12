@@ -109,6 +109,6 @@ A Price List is an object that holds key pricing details of each item within the
 
 Our platform allows vendors to define price lists for different regions. These price lists are linked to specific sellers and are organized through an object called Listing.&#x20;
 
-The Listing object, established by SoftwareOne associates after reviewing products, links the product price list with the seller, ultimately making the product available for our clients.
+The Listing object is established by SoftwareOne associates after reviewing products. It links the product price list with the seller, ultimately making the product available for our clients in the SoftwareOne marketplace.
 
 <figure><img src="../../.gitbook/assets/image (480).png" alt=""><figcaption><p>Price List in the Marketplace Platform</p></figcaption></figure>
