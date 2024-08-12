@@ -70,7 +70,9 @@ Buyers are the recipients of invoices issued by SoftwareOne, and they are centra
 
 <figure><img src="../../.gitbook/assets/image (474).png" alt=""><figcaption><p>Licensees in the Marketplace Platform</p></figcaption></figure>
 
-**Agreements** - An agreement is an object outlining the relationship between the seller, buyer, and licensee.&#x20;
+## Agreements&#x20;
+
+An agreement is an object outlining the relationship between the seller, buyer, and licensee.&#x20;
 
 Agreements establish the terms and conditions under which transactions occur. They are also the foundation for placing orders and creating subscriptions on the platform. Without an agreement, it's not possible to buy products on our platform.
 
@@ -109,6 +111,6 @@ A Price List is an object that holds key pricing details of each item within the
 
 Our platform allows vendors to define price lists for different regions. These price lists are linked to specific sellers and are organized through an object called Listing.&#x20;
 
-The Listing object is established by SoftwareOne associates after reviewing products. It links the product price list with the seller, ultimately making the product available for our clients in the SoftwareOne marketplace.
+The Listing object is established by SoftwareOne associates after reviewing products. It links the product price list with the seller, ultimately making the product available for our clients in the SoftwareOne Marketplace.
 
 <figure><img src="../../.gitbook/assets/image (480).png" alt=""><figcaption><p>Price List in the Marketplace Platform</p></figcaption></figure>
