@@ -96,9 +96,9 @@ If you need to change subscriptions, you can only do so through orders. For exam
 
 ## Products, Items, and Parameters
 
-**Products** - Products are the solutions or services offered by vendors through the marketplace. They contain various items and parameters defined by vendors.&#x20;
+**Products** - Products are the solutions or services offered by vendors through the marketplace. They contain various items and parameters, which are also defined by vendors.&#x20;
 
-* **Items** - Items represent the individual stock-keeping units or SKUs. In our platform, a product can contain a single or multiple items with a specific name and price.
+* **Items** - Represent the individual stock-keeping units (SKUs). In our platform, a product can contain one or more items, each with its specific name and price.&#x20;
 * **Parameters** - Parameters represent structured data used by vendors to collect information from clients during the ordering process. Examples of this information might include contact details, address information, domain name, and more. Parameters can also be used by vendors to pass information to clients during provisioning.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (479).png" alt=""><figcaption><p>Products in the Marketplace Platform</p></figcaption></figure>
@@ -107,8 +107,8 @@ If you need to change subscriptions, you can only do so through orders. For exam
 
 A Price List is an object that holds key pricing details of each item within the product.
 
-Our platform allows vendors to define price lists for different regions. These price lists are linked to specific sellers and are organized through a process and business object called "listing."&#x20;
+Our platform allows vendors to define price lists for different regions. These price lists are linked to specific sellers and are organized through an object called Listing.&#x20;
 
-The listing object, established by SoftwareOne associates after reviewing products, links the product price list with the seller, ultimately making the product available for our clients.
+The Listing object, established by SoftwareOne associates after reviewing products, links the product price list with the seller, ultimately making the product available for our clients.
 
 <figure><img src="../../.gitbook/assets/image (480).png" alt=""><figcaption><p>Price List in the Marketplace Platform</p></figcaption></figure>
