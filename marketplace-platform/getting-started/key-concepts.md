@@ -82,7 +82,7 @@ Agreements establish the terms and conditions under which transactions occur. Th
 
 **Orders** - An order is an object that signifies a business transaction under the framework of an established agreement.&#x20;
 
-The Marketplace Platform accommodates a variety of order types, distinguishing between new purchases, change orders, and termination orders, each tailored to support different operations and client needs. The following types of orders can be created:
+The Marketplace Platform accommodates a variety of order types, distinguishing between new purchases, change orders, and termination orders to support different operations and client needs. The following types of orders exist in our platform:
 
 * **Purchase order** - Purchase orders are created when you buy a new product or service by creating a new agreement.&#x20;
 * **Change order** - Change orders are created when you modify your agreement or change the subscription quantity, such as downsizing the license quantity or buying additional resources.
