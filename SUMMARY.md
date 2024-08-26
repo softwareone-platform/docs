@@ -14,7 +14,7 @@
   * [Marketplace for Clients](marketplace-platform/getting-started/marketplace-for-clients/README.md)
     * [How to buy products in the Marketplace](marketplace-platform/getting-started/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md)
     * [How to filter and view your orders](marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-and-view-your-orders.md)
-    * [Where to access your agreements](marketplace-platform/getting-started/marketplace-for-clients/where-to-access-your-agreements.md)
+    * [Where to find your agreements](marketplace-platform/getting-started/marketplace-for-clients/where-to-find-your-agreements.md)
     * [How to manage your subscriptions](marketplace-platform/getting-started/marketplace-for-clients/how-to-manage-your-subscriptions.md)
     * [How to change license quantity in your subscription](marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md)
     * [How to add new items to your agreement](marketplace-platform/getting-started/marketplace-for-clients/add-items-to-an-agreement.md)
