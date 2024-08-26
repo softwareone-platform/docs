@@ -34,7 +34,7 @@ If single sign-on (SSO) is configured, you'll be automatically redirected to you
 
 After signing in, you'll be redirected to the Home page. Depending on your groups and permissions (assigned by your administrator), you'll be able to access platform modules, view data, and complete your tasks.&#x20;
 
-For information on how to navigate the Marketplace Platform, see [Platform interface](../../../marketplace-platform/getting-started/interface.md).
+For information on how to navigate the Marketplace Platform, see [Platform interface](../../../marketplace-platform/getting-started/interface/).
 
 {% hint style="info" %}
 **Invitation link has expired?**&#x20;

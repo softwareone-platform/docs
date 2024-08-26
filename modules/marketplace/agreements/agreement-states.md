@@ -36,6 +36,6 @@ These states are displayed as **Status** within the platform. They are also show
 [edit-agreement-id.md](edit-agreement-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-items-to-an-agreement.md" %}
-[add-items-to-an-agreement.md](add-items-to-an-agreement.md)
+{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/add-items-to-an-agreement.md" %}
+[add-items-to-an-agreement.md](../../../marketplace-platform/getting-started/marketplace-for-clients/add-items-to-an-agreement.md)
 {% endcontent-ref %}

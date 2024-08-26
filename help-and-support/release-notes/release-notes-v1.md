@@ -42,7 +42,7 @@ Other changes include:
 
 ### Search bar and shortcut icons
 
-We've removed the Search bar and the icons for the shopping cart, [Reports](../../modules/other-tools/reports/), and [Notifications](../../marketplace-platform/getting-started/basics/view-notifications.md) from the header. You can now access these pages directly from the navigation menu.
+We've removed the Search bar and the icons for the shopping cart, [Reports](../../modules/other-tools/reports/), and [Notifications](broken-reference) from the header. You can now access these pages directly from the navigation menu.
 
 ## **Product documentation**
 

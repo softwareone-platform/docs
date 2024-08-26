@@ -49,6 +49,6 @@ The new ID is updated and displayed on the details page of the agreement.
 [rename-an-agreement.md](rename-an-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="add-items-to-an-agreement.md" %}
-[add-items-to-an-agreement.md](add-items-to-an-agreement.md)
+{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/add-items-to-an-agreement.md" %}
+[add-items-to-an-agreement.md](../../../marketplace-platform/getting-started/marketplace-for-clients/add-items-to-an-agreement.md)
 {% endcontent-ref %}

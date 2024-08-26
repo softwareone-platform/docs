@@ -12,7 +12,7 @@ The platform’s functionality is further augmented by a public API and SDK, whi
 
 The Marketplace Platform is a two-sided platform designed for clients to easily procure software, manage their purchases, and for vendors to sell their software solutions globally.&#x20;
 
-For clients, the Marketplace Platform simplifies SaaS purchases and optimizes procurement workflows through the Client Portal. This portal is a centralized hub, allowing clients to digitize the procurement journey. It offers an [intuitive interface](getting-started/interface.md) and functionalities that streamline various buying processes.&#x20;
+For clients, the Marketplace Platform simplifies SaaS purchases and optimizes procurement workflows through the Client Portal. This portal is a centralized hub, allowing clients to digitize the procurement journey. It offers an [intuitive interface](getting-started/interface/) and functionalities that streamline various buying processes.&#x20;
 
 As a client, here's what you can do with our platform:&#x20;
 
@@ -29,8 +29,4 @@ As a vendor, you can use our platform to do the following:
 * **Define Products** - Configure products manually or through integrations, configure product parameters, and sell your products globally to over 65,000 SoftwareOne clients across various industries.
 * **Manage Catalog Information** - Effortlessly manage all your product data in one place, and enhance your product listings and messaging templates with ease.
 * **Manage Products and Prices** - Update product pricing directly within the platform so that clients can see accurate pricing at all times.
-* **Fulfill Orders** - Consistently manage all orders and fulfill them quickly and efficiently.
-
-## Learn more about
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Watch our Getting Started video that explains our platform in detail. </td><td><a href="getting-started/">getting-started</a></td></tr><tr><td><strong>Key Concepts</strong></td><td>Learn the core concepts and terminology you'll need to know to use the platform.</td><td><a href="getting-started/key-concepts.md">key-concepts.md</a></td></tr><tr><td><strong>Platform Interface</strong></td><td>Gain an understanding of our user interface.</td><td><a href="getting-started/interface.md">interface.md</a></td></tr><tr><td><strong>Basic Tasks</strong></td><td>Set your account preferences and profile settings.</td><td><a href="getting-started/basics/">basics</a></td></tr></tbody></table>
+* **Fulfil Orders** - Consistently manage all orders and fulfil them quickly and efficiently.

@@ -43,8 +43,8 @@ The ID is updated and the new value is reflected on all pages that display the s
 [rename-a-subscription.md](rename-a-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="adjust-subscription-quantity.md" %}
-[adjust-subscription-quantity.md](adjust-subscription-quantity.md)
+{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md" %}
+[adjust-subscription-quantity.md](../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md)
 {% endcontent-ref %}
 
 {% content-ref url="terminate-a-subscription.md" %}

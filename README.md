@@ -1,5 +1,5 @@
 ---
-description: Welcome to the SoftwareOne Marketplace Platform community!
+description: Welcome to the SoftwareOne Marketplace Platform Documentation!
 layout:
   title:
     visible: true

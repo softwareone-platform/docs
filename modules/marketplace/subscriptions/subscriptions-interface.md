@@ -28,7 +28,7 @@ The details page of a subscription gives you in-depth information about your sub
 From the details page, you can complete the following tasks:&#x20;
 
 * [Rename your subscription](rename-a-subscription.md)
-* [Adjust the quantity of your subscriptions](adjust-subscription-quantity.md).
+* [Adjust the quantity of your subscriptions](../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md).
 * [Edit the subscription ID](edit-subscription-id.md).
 * [Terminate a single or multiple subscriptions](terminate-a-subscription.md).
 
@@ -60,8 +60,8 @@ The following tabs are available:&#x20;
 [rename-a-subscription.md](rename-a-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="adjust-subscription-quantity.md" %}
-[adjust-subscription-quantity.md](adjust-subscription-quantity.md)
+{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md" %}
+[adjust-subscription-quantity.md](../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-subscription-id.md" %}

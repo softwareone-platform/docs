@@ -2,6 +2,7 @@
 description: >-
   Buy subscription-based products and services under a new or existing
   agreement.
+hidden: true
 ---
 
 # Buy Products and Services

@@ -40,8 +40,8 @@ Your subscription is renamed and the new name is visible across all pages that f
 [subscription-states.md](subscription-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="adjust-subscription-quantity.md" %}
-[adjust-subscription-quantity.md](adjust-subscription-quantity.md)
+{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md" %}
+[adjust-subscription-quantity.md](../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md)
 {% endcontent-ref %}
 
 {% content-ref url="edit-subscription-id.md" %}

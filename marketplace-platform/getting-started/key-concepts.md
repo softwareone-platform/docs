@@ -42,7 +42,7 @@ In the Marketplace Platform, an account can contain one or multiple users:
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Account containing multiple users</p></figcaption></figure>
 
-Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](basics/switch-account.md) seamlessly through the interface, without signing out of the platform:
+Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](interface/switch-account.md) seamlessly through the interface, without signing out of the platform:
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Users belonging to multiple accounts</p></figcaption></figure>
 
