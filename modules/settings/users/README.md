@@ -6,22 +6,21 @@ description: Learn about users and how to access the Users page.
 
 ## About users
 
-In the Marketplace Platform, a user is an individual who interacts with the Marketplace Platform through a unique username and password. Each user has a profile consisting of attributes and settings (such as email address, name,  profile icon, and more).&#x20;
+A user is an individual who interacts with the In the Marketplace Platform through a unique username and password. Each user has a profile consisting of attributes and settings (such as email address, name,  profile image, and more). To understand more about users and their role in our platform, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
 
-The following are some of the key points about users:&#x20;
+Here are some important points about users:&#x20;
 
 * Users can belong to one or more accounts, or none at all.&#x20;
 * Users associated with an account have tailored access to modules and functionalities, depending on their permissions.&#x20;
-* Users of multiple accounts can also switch between them without signing out of the platform.
-* Users who don't belong to an account have restricted capabilities. Such users can only sign in to the platform and adjust their profile settings. They cannot access any of the platform modules.
+* Users belonging to multiple accounts can also switch between those accounts without signing out of the platform.
+* Users who don't belong to any account have limited capabilities. Such users can only sign in to the platform and adjust their profile settings. They cannot access any of the platform modules.
 
 ## How to access the Users page <a href="#ariaid-title2" id="ariaid-title2"></a>
 
-Account administrators can access the **Users** page by navigating to the main menu of the platform and selecting **Settings** > **Users**.&#x20;
+If you are an account administrator, you can access the **Users** page by navigating to the main menu and selecting **Settings** > **Users**.&#x20;
 
-From the **Users** page, administrators can:
+From this page, you can invite new members to your account. You can also:
 
-* Invite new members to join the account.
 * View a list of users in the account and manage those users.
 * Remove a user from the account.
 * Copy a user's invitation link and share it with them directly.

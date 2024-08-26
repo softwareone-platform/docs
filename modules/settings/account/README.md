@@ -6,18 +6,15 @@ description: Learn about accounts and how to access the Account page.
 
 ## About account
 
-An account enables a company or organization to sign in to the Marketplace Platform and access its modules. Each account contains users and you can organize those users into groups.
+An account enables a company or organization to sign in to the Marketplace Platform and access various platform modules and features. Each account contains users and you can organize those users into groups.
 
-The following account types exist on the Marketplace Platform:&#x20;
+Different types of accounts exist on the Marketplace Platform. To learn more, see [Users, Accounts, and Groups](../../../marketplace-platform/getting-started/key-concepts.md#portals-accounts-and-users).
 
-* **Client** - Represents an entity that contains a collection of buyers and their related business dealings, such as agreements, orders, subscriptions, and licensees. All client accounts contain individuals or users.
-* **Vendor** - Represents an entity responsible for defining products and configuring those products with items and other related parameters. Vendors are responsible for supplying the necessary product information and attributes used in creating listings and establishing pricelists.
+## Accessing the Account page
 
-## How to access the Account page
+If you are an account administrator, you can access the **Account** page by navigating to the main menu and then selecting **Settings** > **Account**.&#x20;
 
-Account administrators can access the **Account** page by navigating to the main menu of the platform and selecting **Settings** > **Account**.&#x20;
-
-On the **Account** page, administrators can view and manage the account information, including the general account settings and company address information.
+Here, you can view and manage the account information, including the general account settings and company address information.
 
 ## Related topics
 

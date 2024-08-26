@@ -1,6 +1,10 @@
+---
+description: Change the subscription ID.
+---
+
 # Edit Subscription ID
 
-When a subscription is created, it is assigned a default ID. You can change the default ID as needed.
+When you create a subscription, the Marketplace Platform gives it a default ID. You can change this ID and add another one if you want.
 
 ## Before you begin
 
@@ -19,11 +23,9 @@ Follow these steps to edit the ID of your subscription:
 
 <figure><img src="../../../.gitbook/assets/image (381).png" alt=""><figcaption><p>Details tab</p></figcaption></figure>
 
-4. In the **Edit** dialog, enter the new reference ID and click **Save**.&#x20;
+4. In the **Edit** dialog, enter the new reference ID and click **Save**. The ID is updated and the new value is reflected on all pages that display the subscription.
 
 <figure><img src="../../../.gitbook/assets/image (382).png" alt="" width="375"><figcaption><p>Edit subscription ID</p></figcaption></figure>
-
-The ID is updated and the new value is reflected on all pages that display the subscription ID.
 
 ## Related topics
 

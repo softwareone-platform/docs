@@ -1,17 +1,15 @@
 # Products
 
-## About Products
+In the SoftwareOne Marketplace, you can browse and choose from a wide range of subscription-based products from the Microsoft CSP and Adobe VIP Marketplace programs.&#x20;
 
-In the SoftwareOne Marketplace, you can browse and choose from a wide range of subscription-based products from the Microsoft CSP and Adobe VIP Marketplace programs.
+The **Products** page is the main page that lists all products and lets you start the ordering process. You can buy new products by establishing a new agreement with SoftwareOne, or use your existing agreement:
 
-You can buy new products under an existing agreement with SoftwareOne, or create a new agreement.&#x20;
+* **New agreement** - You can set up a new agreement if you are new to SoftwareOne or if your procurement needs differ from your existing contracts.
+* **Existing agreement** - You can use an existing agreement to order new products, add new items to an existing agreement, and even adjust the quantity of your current licenses.&#x20;
 
-* **Existing Agreement** - When using an existing agreement, you have the flexibility to add new items and adjust the quantity of your current licenses.&#x20;
-* **New Agreement** - You can establish a new agreement if you are new to SoftwareOne or if your procurement needs differ from your existing contracts.
+When ordering a product, the parameters and steps required can vary based on the product and the vendor.  For example, when ordering Microsoft 365, you'll need to choose if you want to create a new Microsoft tenant or use your existing account. This step will not apply to Adobe purchases.&#x20;
 
-When making a purchase, you might need to provide certain parameters and complete specific steps, depending on the software vendor.&#x20;
-
-For example, when ordering Microsoft 365 Online Services, you might need to choose if you want to create a new Microsoft tenant or use your existing account. Similarly, when buying Adobe licenses, you might need to provide details of the individual who will be your account administrator. The steps will differ based on the vendor.
+For an overview of the purchasing process, see [How to buy products in the Marketplace](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md). To learn about the **Products** page, see [Products Interface](products-interface.md).
 
 ## Related topics
 
@@ -21,8 +19,4 @@ For example, when ordering Microsoft 365 Online Services, you might need to choo
 
 {% content-ref url="save-order-as-a-draft.md" %}
 [save-order-as-a-draft.md](save-order-as-a-draft.md)
-{% endcontent-ref %}
-
-{% content-ref url="buy-products-and-services.md" %}
-[buy-products-and-services.md](buy-products-and-services.md)
 {% endcontent-ref %}

@@ -6,28 +6,18 @@ description: Learn about sellers and how to access the Licensees page.
 
 ## About licensees
 
-A licensee refers to an individual, organization, or legal entity that receives the license and has permission to use the product, as per the terms and conditions of the licensor or copyright holder.&#x20;
+In the context of SoftwareOne, a licensee may represent a specific person within your account or a department that receives the license. To learn about the licensees, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
 
-In the context of SoftwareOne, a licensee may represent a specific person within your account or a department that receives the license.&#x20;
-
-When SoftwareOne sets up your account on the Marketplace Platform, it automatically creates licensees and links them to the buyers and sellers in your account.
-
-The following are some of the key points about licensees:&#x20;
-
-* An account can contain multiple licensees.
-* Each licensee can only be linked to one buyer and one seller.&#x20;
-* Any modifications to the buyer's details are reflected automatically in the associated licensee's information.
+Once your account is set up, SoftwareOne creates licensees and links them to the buyers and sellers in your account. Your account can contain multiple licensees, however, a licensee can only be linked to one buyer and one seller.&#x20;
 
 ## How to access the Licensees page
 
-Account administrators can access the **Licensees** page by navigating to the main menu of the platform and selecting **Settings** > **Licensees**.&#x20;
-
-From the **Licensees** page, administrators can:
+If you are an account administrator, you can access the **Licensees** page by navigating to the main menu and selecting **Settings** > **Licensees**. Here, you can do the following:
 
 * Create new licensees and map licensees to buyers and sellers.
 * View all licensees and their associated details.
 * Update the licensee information.
-* Disable a license and re-enable, as needed.
+* Disable a license and re-enable it as needed.
 
 ## Related topics
 

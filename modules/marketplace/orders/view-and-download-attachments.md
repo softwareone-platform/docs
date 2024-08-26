@@ -8,7 +8,7 @@ The **Attachments** tab of your order displays all attachments associated with y
 
 ## View and download attachments
 
-Follow these steps to view and download the files attached to your order:
+Follow these steps to view and download your file attachments:&#x20;
 
 1. Navigate to the **Orders** page (**Marketplace** > **Orders**). A list of your orders is displayed.
 2. Locate the order you want to manage and click the order number.

@@ -10,7 +10,7 @@ In the context of the Marketplace Platform, a request is a pre-sale inquiry crea
 
 ## How to access the Requests page <a href="#how-to-access-the-requests-page" id="how-to-access-the-requests-page"></a>
 
-You can access the **Requests** page by navigating to the main menu of the platform and selecting **Marketplace** > **Requests**.
+You can access the **Requests** page by navigating to the main menu and selecting **Marketplace** > **Requests**.
 
 From the **Requests** page, you can:
 

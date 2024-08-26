@@ -15,7 +15,7 @@ On this page, you can view the following subscription details:
 * **Seller** - Displays the SoftwareOne legal entity that fulfilled the order and issued the invoice.
 * **Renewal date** - Displays the renewal date of your subscription.
 * **SPx** - Displays the estimated sales price of the subscription.
-* **Status** - Displays the current status of the subscription. For more information on the status, see [Subscription States](subscription-states.md).
+* **Status** - Displays the current status of the subscription. For information on statuses, see [Subscription States](subscription-states.md).
 
 ## Subscription details page <a href="#subscription-details" id="subscription-details"></a>
 
@@ -40,7 +40,7 @@ The subscription details page is organized into several tabs, each providing spe
 
 The following tabs are available:&#x20;
 
-* **Items** - Displays your ordered items. Use the **Items** tab to view the item-specific details, such as the item name and ID, the quantity of ordered items, and the sales price for each time.&#x20;
+* **Items** - Displays your ordered items. Use the **Items** tab to view the item-specific details, such as the item name and ID, the quantity of ordered items, and the sales price of each time.&#x20;
 * **Parameters** - Displays the fulfillment parameters linked to the subscription, which can vary based on the parameter options enabled by the vendor.
 * **Entities** - Displays the details of the entities related to the subscription. Entities include licensees, buyers, and sellers. For each entity, you can view the name, marketplace ID, and address information.&#x20;
 * **Orders** -  Displays all orders associated with your subscription. Use the **Orders** tab to view the order-specific details, such as the order ID, type of order, date when the order was placed, and the sales price.  Clicking an order opens up the details page of the order.&#x20;

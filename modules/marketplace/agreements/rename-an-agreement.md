@@ -2,16 +2,16 @@
 description: Rename an existing agreement.
 ---
 
-# Rename Agreements
+# Rename Agreement
 
-If you have several agreements in your account, you can rename those agreements so you can locate them easily.
+If you have several agreements in your account, you can rename those agreements so you can locate them easily in your list of agreements.
 
 ## Before you begin <a href="#before-you-begin" id="before-you-begin"></a>
 
 Before renaming an agreement, note the following points:
 
-* You can only rename an agreement if it's in the **Active** state.
-* An agreement name cannot be blank. If the name is empty or invalid, the platform displays a message.
+* You can only rename an active agreement. To learn about the different statuses, see [Agreement States](agreement-states.md).
+* While renaming the agreement, the new name cannot be blank. If the name is empty or invalid, the platform displays a message.
 
 ## Rename an agreement
 
@@ -23,11 +23,11 @@ Follow these steps to update the name of your agreement:
 
 2. Select the agreement you want to rename. The details page of your selected agreement opens.
 3. Click the chevron in the upper right and select **Rename**.
-4. Enter the new name and then click **Save**.&#x20;
+4. Enter the new name in **Agreement name** and click **Save**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Rename (2).png" alt=""><figcaption><p>Rename option</p></figcaption></figure>
 
-The name is updated and displayed across all pages featuring the agreement.
+The agreement's name is updated and displayed across all pages featuring the agreement within the Marketplace Platform.
 
 ## Related topics
 

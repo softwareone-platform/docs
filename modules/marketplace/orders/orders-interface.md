@@ -2,7 +2,7 @@
 
 ## Orders page
 
-The **Orders** page, located under **Marketplace** > **Orders**, gives you a complete list of your orders, including purchase orders, change orders, or terminate orders.&#x20;
+The **Orders** page, located under **Marketplace** > **Orders**, gives you a complete list of your orders, including purchase orders, change orders, and terminate orders.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 

@@ -4,12 +4,10 @@ description: Edit your agreement's ID.
 
 # Edit Agreement ID
 
-When you create a new agreement, the Marketplace Platform assigns a default reference ID to the agreement. You can change the default ID and assign a new ID.&#x20;
-
-Assigning an ID of your choice helps identify and manage your agreements easily.
+When you create a new agreement, the Marketplace Platform assigns a default reference ID to the agreement. You can change the default ID and assign a new ID so you can identify and manage your agreements easily.
 
 {% hint style="info" %}
-Updating an agreement's ID is optional. The system will use the default ID if you don't update the ID.
+Updating an agreement's ID is optional. If you choose not to update the ID, the platform will use the default ID.
 {% endhint %}
 
 ## Edit your agreement's ID
@@ -25,11 +23,9 @@ Follow these steps to update the agreement ID:
 
 <figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption><p>Details tab of an agreement</p></figcaption></figure>
 
-4. In **Additional ID**, enter the new ID and then click **Save**.&#x20;
+4. In **Additional ID**, enter the new ID and then click **Save**. The agreement ID is updated and displayed on the details page of the agreement.
 
 <figure><img src="../../../.gitbook/assets/image (361).png" alt="" width="563"><figcaption><p>Edit agreement ID</p></figcaption></figure>
-
-The new ID is updated and displayed on the details page of the agreement.
 
 ## Related topics
 

@@ -67,7 +67,3 @@ When you open the details page of an agreement, it shows the agreement's name, m
 {% content-ref url="edit-agreement-id.md" %}
 [edit-agreement-id.md](edit-agreement-id.md)
 {% endcontent-ref %}
-
-{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/add-items-to-an-agreement.md" %}
-[add-items-to-an-agreement.md](../../../marketplace-platform/getting-started/marketplace-for-clients/add-items-to-an-agreement.md)
-{% endcontent-ref %}

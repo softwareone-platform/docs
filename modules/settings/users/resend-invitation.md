@@ -4,19 +4,17 @@ description: Reinvite a user to your account.
 
 # Resend Invitation
 
-## Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
+If the person you invited didn't receive the invitation email, you can resend the email through the platform. This can be done using the **Resend invitation link** option.
 
-Follow the steps in this topic only if you want to resend a previously generated invitation. For example, if the person didn't receive the original invitation.&#x20;
-
-If the person's original invitation has expired and they're encountering the following message, you'll need to [generate a new link](generate-new-invitation.md):
+Note that this option only works if the person's original invitation hasn't expired. If the invitation has expired and the individual is encountering the following message, you'll need to [generate a new link](generate-new-invitation.md):
 
 <figure><img src="../../../.gitbook/assets/image (328).png" alt=""><figcaption><p>Invitation expired message</p></figcaption></figure>
 
 ## Resend an invitation&#x20;
 
-Follow these steps to send the previously generated invitation again:
+Follow these steps to resend the invitation:
 
-1. Navigate to the **Users** page (**Settings** > **Users**) and find the user you want to reinvite.
+1. On the **Users** page (**Settings** > **Users**), find the user you want to reinvite.
 2. Click the actions icon (**•••**) for the user.
 3. To resend the invitation email, click **Resend invitation link**. A message is displayed when your invitation is sent successfully.
 

@@ -4,7 +4,7 @@ description: View and update the notes associated with your order.
 
 # Manage Order Notes
 
-If you added any notes or comments to your order while making the purchase, you can view and update the notes after your order is placed.&#x20;
+If you added any notes or comments to your order while making the purchase, you can view and update the notes, even after the order has been placed.&#x20;
 
 ## Manage your order notes
 

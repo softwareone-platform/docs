@@ -1,19 +1,20 @@
 ---
-description: Terminate a single subscription.
+description: Terminate a single subscription in your agreement.
 ---
 
 # Terminate Subscription
 
-You can terminate or cancel a subscription if you don't want it to renew automatically. A subscription can be canceled by creating a termination order for the subscription.&#x20;
+Subscriptions can be terminated if you no longer need them or don't want them to renew automatically. Depending on the number of subscriptions in your agreement, there are different steps to follow:
 
-Termination orders are sent to vendors for approval. When the termination order for a subscription is completed, the subscription status will show as **Terminated** on the **Subscriptions** page.
+* If your agreement contains several subscriptions and you want to cancel some, but not all, subscriptions, you'll need to place a termination order for the subscription.&#x20;
+* If your agreement contains several subscriptions and you want to cancel all of those subscriptions, you'll need to place a termination order for the agreement. To learn more, see [Terminate Agreement](../agreements/terminate-agreements.md).&#x20;
 
 ## Before you begin
 
 Before terminating a subscription, note the following points:
 
-* You can only terminate subscriptions that are in the **Active** state.
-* Submitting a termination request doesn't guarantee the cancellation of your subscription. A subscription is terminated only after the vendor approves it.
+* You can only terminate subscriptions in the **Active** state. Subscriptions in [any other state](subscription-states.md) cannot be terminated.
+* Creating a termination order doesn't guarantee the cancellation of your subscription. All termination orders are sent to the vendors for approval. Subscriptions are terminated only after they are approved by the vendor.
 
 ## Terminate a subscription
 
@@ -29,15 +30,15 @@ Follow these steps to terminate a subscription:
 
 <figure><img src="../../../.gitbook/assets/image (385).png" alt=""><figcaption><p>Items section</p></figcaption></figure>
 
-5. In the **Order details** section, add your reference number and notes. This step is optional.&#x20;
+5. In the **Order details** section, add the optional reference number and notes. Click **Next** to continue.
 
 <figure><img src="../../../.gitbook/assets/image (386).png" alt=""><figcaption><p>Order details section</p></figcaption></figure>
 
-6. In the **Review order** section, click **Place order**. A termination order is created in the system.
+6. In the **Review order** section, check all the details and then click **Place order** to finalize. A termination order is created in the system.
 
 <figure><img src="../../../.gitbook/assets/image (387).png" alt=""><figcaption><p>Review order section</p></figcaption></figure>
 
-The **Summary** section displays the confirmation and subscription status as **Terminating**. When the subscription is terminated, the status will change to **Terminated**.&#x20;
+The termination order is placed and the status of the agreement changes from **Active** to **Updating**.  Click **View order** to go to the order details page. Otherwise, click **Close**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (388).png" alt=""><figcaption><p>Summary section</p></figcaption></figure>
 

@@ -32,7 +32,3 @@ All products contain an **Overview** section, which displays a detailed product 
 {% content-ref url="save-order-as-a-draft.md" %}
 [save-order-as-a-draft.md](save-order-as-a-draft.md)
 {% endcontent-ref %}
-
-{% content-ref url="buy-products-and-services.md" %}
-[buy-products-and-services.md](buy-products-and-services.md)
-{% endcontent-ref %}

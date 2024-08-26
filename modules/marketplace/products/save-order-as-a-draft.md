@@ -30,7 +30,3 @@ For information on the **Orders** page, see [Orders interface](../orders/orders-
 {% content-ref url="products-interface.md" %}
 [products-interface.md](products-interface.md)
 {% endcontent-ref %}
-
-{% content-ref url="buy-products-and-services.md" %}
-[buy-products-and-services.md](buy-products-and-services.md)
-{% endcontent-ref %}

@@ -2,9 +2,9 @@
 description: Add new members to your Marketplace Platform account.
 ---
 
-# Add New User
+# Add New Users
 
-As an account administrator, you can invite users to your account. You can also track the invitations you send and resend invitations. Invitations are valid for up to 7 days.&#x20;
+As an account administrator, you can invite new users to your Marketplace Platform account. You can also track the invitations you send and resend invitations. Invitations are valid for up to 7 days.&#x20;
 
 ## Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
 
@@ -26,8 +26,8 @@ Follow these steps to add a new member:
 3. In the **User details** section, provide the following details and click **Next**:
    * **First name** - (Required) The first name of the individual associated with the account.
    * **Last name** - (Required) The last name of the individual associated with the account.
-   * **Email** - (Required) The email address the individual will use to sign in to the account.&#x20;
-   * **Country Code** - (Optional) The country code associated with the individual's phone number.
+   * **Email address** - (Required) The email address the individual will use to sign in to the account.&#x20;
+   * **Country code** - (Optional) The country code associated with the individual's phone number.
    * **Phone number** - (Optional) The individual's phone number.&#x20;
 4. In the **Groups** section, select the groups to add the individual to and click **Next**. You must choose at least one group. If you have several groups, use **Search** to find the group.
 
