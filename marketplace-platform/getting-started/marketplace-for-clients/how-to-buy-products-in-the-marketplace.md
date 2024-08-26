@@ -36,7 +36,7 @@ Note that the steps will vary depending on the product you are ordering and the 
 2. **Selecting a licensee** - Choose an existing licensee or create a new one.
 3. **Providing agreement details** - Fill out the contact form.
 4. **Selecting the items** - Choose the items you want to order and the quantity of those items.
-5. **Adding reference details** - Add your order and agreement details as necessary.&#x20;
+5. **Adding reference details** - Add the optional order and agreement details.&#x20;
 6. **Verifying the order** - Review the details and then click **Place order**.
 7. **Reviewing the summary** - View your order summary and the latest status message.
 

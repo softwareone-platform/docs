@@ -2,7 +2,7 @@
 
 Subscription management through self-service is one of the key features of our platform, providing you with the flexibility to manage your subscriptions.&#x20;
 
-You can easily order new subscriptions, increase or decrease your licenses, and cancel subscriptions. You also have the option to rename your subscriptions and modify a subscription's ID through the platform.
+it means you can easily order new subscriptions, increase or decrease your licenses, and cancel subscriptions. You also have the option to edit the name of your subscription and modify subscription IDs, if needed.
 
 ## Viewing your subscription and subscription details
 
@@ -14,17 +14,17 @@ The page displays the important information regarding your subscriptions. To vie
 
 ## Editing subscription licenses
 
-If you wish to make any changes to the quantity of items within your subscription, you can do so by editing the subscription yourself through the platform.
+If you want to change the quantity of items in your subscription, you can do this by placing a change order. You can edit the subscription to make these changes.
 
-For example, if you want to increase the number of licenses, you'll just need to change the quantity of items within the existing subscription. The same process applies if you want to decrease licenses.
+For instance, if you need more licenses, you just have to update the quantity of licenses in the subscription. The same process applies if you want to reduce the number of licenses.
 
-For more information, see [How to change license quantity in your subscription](adjust-subscription-quantity.md).
+For detailed instructions, see [How to change license quantity in your subscription](adjust-subscription-quantity.md).
 
 ## Adding new subscription items&#x20;
 
-If you want to add a new item to your subscription, you can do so by editing the agreement. It means if you want to purchase new items, you don't need to create a new agreement. You can simply edit your agreement to include the new items.
+If you want to add a new item to your subscription, you can edit the agreement. It means if you want to purchase new items, you don't need to create a new agreement. You can simply edit your agreement to include the new items.
 
-This can be done through the **Buy more** option on the agreement's details page. For step-by-step instructions, see [How to add new items to your agreement](add-items-to-an-agreement.md).
+This can be done through the **Buy more** option on the agreement's details page. For detailed instructions, see [How to add new items to your agreement](add-items-to-an-agreement.md).
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p> Buy more option on the details page of an agreement</p></figcaption></figure>
 
