@@ -1,4 +1,4 @@
-# How to manage your subscriptions
+# How to Manage Your Subscriptions
 
 Subscription management through self-service is one of the key features of our platform, providing you with the flexibility to manage your subscriptions.&#x20;
 
@@ -16,9 +16,9 @@ The page displays the important information regarding your subscriptions. To vie
 
 If you want to change the quantity of items in your subscription, you can do this by placing a change order. You can edit the subscription to make these changes.
 
-For instance, if you need more licenses, you just have to update the quantity of licenses in the subscription. The same process applies if you want to reduce the number of licenses.
+For instance, if you need more licenses, you can update the quantity of licenses in the subscription. The same process applies if you want to lower your licenses.
 
-For detailed instructions, see [How to change license quantity in your subscription](adjust-subscription-quantity.md).
+For detailed instructions, see [How to change license quantity](adjust-subscription-quantity.md).
 
 ## Adding new subscription items&#x20;
 
