@@ -13,7 +13,7 @@
     * [Managing your favorites](marketplace-platform/getting-started/interface/manage-favorites.md)
   * [Marketplace for Clients](marketplace-platform/getting-started/marketplace-for-clients/README.md)
     * [How to Buy Products in the Marketplace](marketplace-platform/getting-started/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md)
-    * [How to Access Your Orders](marketplace-platform/getting-started/marketplace-for-clients/how-to-access-your-orders.md)
+    * [How to Find Your Orders](marketplace-platform/getting-started/marketplace-for-clients/how-to-find-your-orders.md)
     * [Where to Find Your Agreements](marketplace-platform/getting-started/marketplace-for-clients/where-to-find-your-agreements.md)
     * [How to Manage Your Subscriptions](marketplace-platform/getting-started/marketplace-for-clients/how-to-manage-your-subscriptions.md)
     * [How to Change License Quantity](marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md)

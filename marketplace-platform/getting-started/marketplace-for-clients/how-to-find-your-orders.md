@@ -1,20 +1,21 @@
-# How to Access Your Orders
+# How to Find Your Orders
 
-Once you've placed an order through the Marketplace Platform, it's displayed on the **Orders** page. The platform supports various types of orders including change orders, purchase orders, and terminate orders, all of which are visible on the **Orders** page.&#x20;
+Once you've placed an order through the Marketplace Platform, it's displayed on the **Orders** page. The platform supports various types of orders including change orders, purchase orders, and terminate orders, all of which are visible on the **Orders** page.
 
-If you need to find a specific order, you can use the filter option to refine your list of orders. We provide several filter options that you can use to narrow down the orders.&#x20;
+To access the **Orders** page, select the main menu and then choose **Marketplace** > **Orders**.&#x20;
 
 ## Using filters to find an order
 
+If you need to find a specific order, you can use the filter option to refine your list of orders. We provide several filter options that you can use to narrow down the orders.&#x20;
+
 You can use a single filter or create a combination of filters by selecting different fields, operators, and values.
 
-1. Sign in to your account and go to the **Orders** page (**Marketplace** > **Orders**).
+1. On the **Orders** page, select the **Filter** option.
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Orders (2).png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
 
-2. On the **Orders** page, select the **Filter** option.&#x20;
-3. When the filter box displays, click **Add another condition** to open a menu of conditions.&#x20;
-4. Define the conditions:
+2. When the filter box displays, click **Add another condition** to open a menu of conditions.&#x20;
+3. Define the conditions:
    1. In the first field, choose the condition. For example, to filter your orders by their status, choose **Status**.
    2. In the second field, select the search operator. Different operators are displayed depending on the condition you selected in the first field. For this example, leave the value set to **Equal**.
    3. In the third field, type or select a value from the list of preconfigured values. The values displayed in this field are determined by your selection in the first field. To see your draft orders, select **Draft**.
