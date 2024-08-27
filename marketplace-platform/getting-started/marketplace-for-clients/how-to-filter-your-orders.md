@@ -1,8 +1,10 @@
-# How to Find Your Orders
+# How to Filter Your Orders
 
-Once you've placed an order through the Marketplace Platform, it's displayed on the **Orders** page. The platform supports various types of orders including change orders, purchase orders, and terminate orders, all of which are visible on the **Orders** page.
+Once you've placed an order through the Marketplace Platform, it's displayed on the **Orders** page.&#x20;
 
 To access the **Orders** page, select the main menu and then choose **Marketplace** > **Orders**.&#x20;
+
+The platform supports various types of orders including change orders, purchase orders, and terminate orders, all of which are visible on the **Orders** page.
 
 ## Using filters to find an order
 
