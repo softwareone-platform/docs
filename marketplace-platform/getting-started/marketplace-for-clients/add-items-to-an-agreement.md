@@ -1,8 +1,8 @@
-# How to add new items to your agreement
+# How to Add New Items to Your Agreement
 
-If you wish to buy new items and add them to your current agreement, you can do so through the **Agreements** page on the platform.&#x20;
+If you want to order new items as part of your current agreement, you can use the Agreements page on the platform.&#x20;
 
-New items can be added to an agreement by using the **Buy more** option on the details page of the agreement. Please note that items can only be added only while the agreement is in the **Active** state.
+Simply go to the details page of the agreement and select the **Buy more** option to add new items. Note that your agreement must be active in order to add new items.
 
 ## Adding new items to an agreement
 

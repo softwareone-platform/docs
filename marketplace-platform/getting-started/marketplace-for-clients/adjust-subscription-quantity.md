@@ -1,15 +1,17 @@
-# How to change license quantity in your subscription
+# How to Change License Quantity
 
-If you need more licenses for an existing subscription, you can modify the subscription to increase the number of licenses. You can also reduce the quantity if you no longer require all of your ordered licenses.
+The Marketplace Platform gives you the flexibility to add or remove licenses from your subscription at any time.&#x20;
 
-When reducing your licenses, there are a few important points to consider:
+If you need more licenses, you can alter the subscription to add more licenses. You can also lower the quantity of licenses if you no longer require all of your ordered licenses.
 
-* If your subscription contains one item, you cannot reduce the quantity to zero. In this case, you must terminate the subscription. To learn more, see [Terminate subscriptions](../../../modules/marketplace/subscriptions/terminate-a-subscription.md).
-* If your subscription contains multiple items, at least one item must have a quantity greater than zero. It's not possible to change the quantity of all items to zero.
+When lowering quantity, the following rules apply:&#x20;
 
-## Increasing or decreasing license quantity
+* If your subscription contains one item, you cannot lower the quantity to zero. In this case, you must terminate the subscription. To learn more, see [Terminate subscriptions](../../../modules/marketplace/subscriptions/terminate-a-subscription.md).
+* If your subscription contains multiple items, at least one item must have a quantity greater than zero. You cannot change the quantity of all items to zero.
 
-To increase or decrease the quantity of licenses:
+## Add or remove licenses from your subscription
+
+To add new licenses or lower the quantity of your existing licenses:
 
 1. Sign in to your account and navigate to the **Subscriptions** page (**Marketplace** > **Subscriptions**).&#x20;
 2. Select the required subscription.&#x20;
@@ -17,9 +19,9 @@ To increase or decrease the quantity of licenses:
 
 <figure><img src="../../../.gitbook/assets/image (376).png" alt=""><figcaption><p>Edit option on the details page</p></figcaption></figure>
 
-4. In the **Edit subscription** wizard, update the quantity as needed in the **New qty** field. Click **Next** to continue.
-5. Update the reference ID and notes. These details are optional. Click **Next** to continue.
-6. Review the details including prices and then click **Place Order** to finalize.&#x20;
+4. In the **Edit subscription** wizard, update the quantity as needed in the **New qty** field. As you increase or decrease the quantity, the sales price will change. Click **Next**.
+5. Update the reference ID and add your comments in the **Notes** field. Click **Next**.
+6. Preview the changes and then click **Place Order** to finalize the license quantity changes.
 
 A change order is created in the system and sent to the vendor for processing. You can see the order on the **Orders** page.&#x20;
 
