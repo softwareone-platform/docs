@@ -4,8 +4,6 @@ description: Learn about sellers and how to access the Licensees page.
 
 # Licensees
 
-## About licensees
-
 In the context of SoftwareOne, a licensee may represent a specific person within your account or a department that receives the license. To learn about the licensees, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
 
 Once your account is set up, SoftwareOne creates licensees and links them to the buyers and sellers in your account. Your account can contain multiple licensees, however, a licensee can only be linked to one buyer and one seller.&#x20;

@@ -1,7 +1,5 @@
 # Agreements
 
-## About Agreements
-
 An agreement is a formalized record that establishes the terms and conditions of transactions. An agreement outlines the relationship between entities, such as the buyer, seller, and licensee, and forms the basis for placing orders and creating subscriptions within the platform.&#x20;
 
 The following are the key points regarding agreements in the Marketplace Platform:

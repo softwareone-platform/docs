@@ -4,8 +4,6 @@ description: Learn about buyers and how to access the Buyers page.
 
 # Buyers
 
-## About buyers
-
 A buyer refers to any organization or legal entity that procures products or services from SoftwareOne and is issued an invoice for the transaction. To learn more about buyers, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
 
 The Marketplace Platform shows a list of buyers associated with your account. You can manage the buyers through the platform and enable or disable them as necessary.&#x20;

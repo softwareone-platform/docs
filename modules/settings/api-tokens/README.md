@@ -4,8 +4,6 @@ description: Learn about API tokens and how to access the API tokens page.
 
 # API Tokens
 
-## About API tokens
-
 The Marketplace Platform uses API tokens to authenticate requests to the [REST API](../../../developer-resources/rest-api/) .  Your API token must be included in the "**Authorization**" HTTP header with the "**Bearer**" prefix for authentication. For example, the following request could be used to retrieve a list of Buyers:
 
 ```http

@@ -1,7 +1,5 @@
 # Orders
 
-## About Orders
-
 In the Marketplace Platform, an order is an object that signifies a business transaction under the framework of an established agreement.&#x20;
 
 An order could be a request to buy a new product, change the number of purchased items and subscriptions, or terminate a subscription or the entire agreement.&#x20;
@@ -14,7 +12,7 @@ The following types of orders exist in the Marketplace Platform:
 
 Through the Orders module, the platform offers a streamlined, easy-to-navigate order management system that provides visibility and allows you to manage your orders easily.
 
-## How to access the Orders page
+## Orders page
 
 You can access the **Orders** page by navigating to the main menu of the platform and selecting **Marketplace** > **Orders**.&#x20;
 

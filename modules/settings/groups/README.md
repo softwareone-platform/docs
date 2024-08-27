@@ -4,8 +4,6 @@ description: Learn about groups and how to access the Groups page.
 
 # Groups
 
-## About groups
-
 A group represents a set of users who have the same roles and permissions. Groups are used to manage the permissions of multiple users at once, instead of at the individual user level.&#x20;
 
 In the Marketplace Platform, users can be part of different groups within the same account, such as the Administrator and Finance groups. They can also have roles in multiple accounts with varied permissions, for instance, being an Operations user in one account and an Administrator in another.

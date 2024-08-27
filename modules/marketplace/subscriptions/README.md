@@ -2,9 +2,9 @@
 
 A subscription refers to the ongoing provision of service under the terms and conditions detailed in your agreement. In the Marketplace Platform, subscriptions are renewed automatically by default, unless they are canceled. To learn about subscriptions, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
 
-## How to access the Subscriptions page
+## Subscriptions page
 
-The Subscriptions module in the Marketplace Platform is a single reference point for your subscriptions, allowing you to view and manage all of your purchased subscriptions.&#x20;
+The Subscriptions page in the Marketplace Platform is a single reference point for your subscriptions, allowing you to view and manage all of your purchased subscriptions.&#x20;
 
 You can access the **Subscriptions** page by navigating to the main menu and selecting **Marketplace** > **Subscriptions**.&#x20;
 

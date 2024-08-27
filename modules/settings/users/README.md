@@ -4,8 +4,6 @@ description: Learn about users and how to access the Users page.
 
 # Users
 
-## About users
-
 A user is an individual who interacts with the In the Marketplace Platform through a unique username and password. Each user has a profile consisting of attributes and settings (such as email address, name,  profile image, and more). To understand more about users and their role in our platform, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
 
 Here are some important points about users:&#x20;
@@ -15,7 +13,7 @@ Here are some important points about users:&#x20;
 * Users belonging to multiple accounts can also switch between those accounts without signing out of the platform.
 * Users who don't belong to any account have limited capabilities. Such users can only sign in to the platform and adjust their profile settings. They cannot access any of the platform modules.
 
-## How to access the Users page <a href="#ariaid-title2" id="ariaid-title2"></a>
+## How to access the Users page
 
 If you are an account administrator, you can access the **Users** page by navigating to the main menu and selecting **Settings** > **Users**.&#x20;
 

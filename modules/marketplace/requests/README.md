@@ -8,7 +8,7 @@ description: Create new requests and manage your existing requests.
 
 In the context of the Marketplace Platform, a request is a pre-sale inquiry created through the Request module. An inquiry represents questions about products, such as pricing, billing, product availability, and licensing.
 
-## How to access the Requests page <a href="#how-to-access-the-requests-page" id="how-to-access-the-requests-page"></a>
+## Requests page <a href="#how-to-access-the-requests-page" id="how-to-access-the-requests-page"></a>
 
 You can access the **Requests** page by navigating to the main menu and selecting **Marketplace** > **Requests**.
 
