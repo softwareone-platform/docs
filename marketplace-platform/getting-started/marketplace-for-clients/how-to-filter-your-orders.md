@@ -18,7 +18,7 @@ You can use a single filter or create a combination of filters by selecting diff
 
 2. When the filter box displays, click **Add another condition** to open a menu of conditions.&#x20;
 3. Define the conditions:
-   1. In the first field, choose the condition. For example, to filter your orders by their status, choose **Status**.
+   1. In the first field, choose the property. For example, to filter your orders by their status, choose **Status**.
    2. In the second field, select the search operator. Different operators are displayed depending on the condition you selected in the first field. For this example, leave the value set to **Equal**.
    3. In the third field, type or select a value from the list of preconfigured values. The values displayed in this field are determined by your selection in the first field. To see your draft orders, select **Draft**.
 
