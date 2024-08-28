@@ -2,7 +2,7 @@
 description: Manage your recommendations, add comments, and view progress logs.
 ---
 
-# Manage recommendations
+# Manage Recommendations
 
 ## Mark a recommendation as complete or dismiss it
 
@@ -54,8 +54,8 @@ Follow these steps to add comments or view the progress:
 [azure-recommendations.md](azure-recommendations.md)
 {% endcontent-ref %}
 
-{% content-ref url="aws-recommendations.md" %}
-[aws-recommendations.md](aws-recommendations.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="office-365-recommendations.md" %}

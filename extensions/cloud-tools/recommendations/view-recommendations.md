@@ -2,7 +2,7 @@
 description: View recommendations.
 ---
 
-# View recommendations
+# View Recommendations
 
 The **Overview** page of the Recommendations module is an analytics-based view that helps you understand how recommendations are associated with various parts of your infrastructure and how they are tracked (potential or completed).&#x20;
 
@@ -37,8 +37,8 @@ Each tile on the **Overview** page displays how recommendations are distributed 
 [azure-recommendations.md](azure-recommendations.md)
 {% endcontent-ref %}
 
-{% content-ref url="aws-recommendations.md" %}
-[aws-recommendations.md](aws-recommendations.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="office-365-recommendations.md" %}
