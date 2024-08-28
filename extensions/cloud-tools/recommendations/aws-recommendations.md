@@ -20,7 +20,7 @@ The Client Portal downloads AWS recommendations from [AWS Trusted Advisor](https
 AWS Trusted Advisor is available in any environment configured with the correct AWS [support plan](https://aws.amazon.com/premiumsupport/plans/). AWS Trusted Advisor provides information for various recommendation categories, for example, Savings, Security, Performance, High Availability, and Service Limits. Recommendations are fetched from the AWS Trusted Advisor if:
 
 * AWS Business or Enterprise support plan is enabled for an account within AWS.&#x20;
-* Correct permissions are enabled for AWS accounts in the Client Portal. For information on permissions required to download recommendations from AWS Trusted Advisor, see [Reonboarding AWS Recommendations](../cloud-tenant-setup/aws-onboarding/update-aws-account-permissions.md#re-onboard-aws-recommendations).
+* Correct permissions are enabled for AWS accounts in the Client Portal. For information on permissions required to download recommendations from AWS Trusted Advisor, see [Reonboarding AWS Recommendations](broken-reference).
 
 ### AWS Cost Explorer <a href="#aws-cost-explorer" id="aws-cost-explorer"></a>
 
@@ -45,7 +45,7 @@ If you're facing synchronization issues, see [How to resolve AWS recommendation 
 
 Cost Explorer recommendations provide reserved instance purchase recommendations for Amazon EC2, Redshift, and RDS. Turning off these recommendations will mean that you won't have access to these savings-based recommendations.
 
-You can turn off Cost Explorer at the AWS account level. There is no option to turn Cost Explorer for all AWS accounts in one go. See [Syncing AWS Cost Explorer recommendations](../cloud-tenant-setup/aws-onboarding/activate-an-aws-account.md#sync-aws-cost-explorer-recommendations) to disable AWS Cost Explorer Recommendations for your AWS account.
+You can turn off Cost Explorer at the AWS account level. There is no option to turn Cost Explorer for all AWS accounts in one go. See [Syncing AWS Cost Explorer recommendations](broken-reference) to disable AWS Cost Explorer Recommendations for your AWS account.
 
 ## Related topics
 
