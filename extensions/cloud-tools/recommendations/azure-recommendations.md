@@ -55,8 +55,8 @@ The Client Portal doesn't track the realization of Reserved Instance recommendat
 [manage-recommendations.md](manage-recommendations.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="aws-recommendations.md" %}
+[aws-recommendations.md](aws-recommendations.md)
 {% endcontent-ref %}
 
 {% content-ref url="office-365-recommendations.md" %}

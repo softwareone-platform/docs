@@ -42,8 +42,8 @@ The appropriate section within the **Recommendations** module is displayed. For 
 [azure-recommendations.md](azure-recommendations.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="aws-recommendations.md" %}
+[aws-recommendations.md](aws-recommendations.md)
 {% endcontent-ref %}
 
 {% content-ref url="office-365-recommendations.md" %}

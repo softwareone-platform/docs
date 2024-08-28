@@ -180,6 +180,7 @@
     * [View Recommendations](extensions/cloud-tools/recommendations/view-recommendations.md)
     * [Manage Recommendations](extensions/cloud-tools/recommendations/manage-recommendations.md)
     * [Azure Recommendations](extensions/cloud-tools/recommendations/azure-recommendations.md)
+    * [AWS Recommendations](extensions/cloud-tools/recommendations/aws-recommendations.md)
     * [Office 365 Recommendations](extensions/cloud-tools/recommendations/office-365-recommendations.md)
   * [Simple for AWS](extensions/cloud-tools/simple-for-aws.md)
   * [Tags and Resources](extensions/cloud-tools/tags-and-resources.md)
