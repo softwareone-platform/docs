@@ -38,6 +38,10 @@ The appropriate section within the **Recommendations** module is displayed. For 
 [view-recommendations.md](view-recommendations.md)
 {% endcontent-ref %}
 
+{% content-ref url="manage-recommendations.md" %}
+[manage-recommendations.md](manage-recommendations.md)
+{% endcontent-ref %}
+
 {% content-ref url="azure-recommendations.md" %}
 [azure-recommendations.md](azure-recommendations.md)
 {% endcontent-ref %}
