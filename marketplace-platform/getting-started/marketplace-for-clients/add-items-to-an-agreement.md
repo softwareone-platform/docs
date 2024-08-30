@@ -2,9 +2,9 @@
 
 If you want to order new items as part of your current agreement, you can use the Agreements page on the platform.&#x20;
 
-Simply go to the details page of the agreement and select the **Buy more** option to add new items. Note that your agreement must be active in order to add new items.
+Simply go to the details page of the agreement and select the **Buy more** option to add new items. Note that your agreement must be [active ](../../../modules/marketplace/agreements/agreement-states.md)to order new items.
 
-## Adding new items to an agreement
+## Adding new items to your agreement
 
 To add more items to your agreement:
 
