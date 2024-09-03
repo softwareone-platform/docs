@@ -1,4 +1,8 @@
-# Contrato De Prestação De Serviços\_PT
+---
+description: Digital Workplace Essentials Contrato De Prestação De Serviços (PT)
+---
+
+# Contrato De Prestação De Serviços
 
 ## 1. CONTRATO DE PRESTAÇÃO DE SERVIÇOS
 

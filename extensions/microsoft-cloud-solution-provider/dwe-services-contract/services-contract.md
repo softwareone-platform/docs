@@ -1,4 +1,8 @@
-# Services Contract\_NL
+---
+description: Digital Workplace Essentials Services Contract (NL)
+---
+
+# Services Contract
 
 ## 1. SERVICES CONTRACT
 

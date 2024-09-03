@@ -1,4 +1,8 @@
-# Contratto Di Servizi\_IT
+---
+description: Digital Workplace Essentials Contratto Di Servizi (IT)
+---
+
+# Contratto Di Servizi
 
 ## 1. CONTRATTO DI SERVIZI
 

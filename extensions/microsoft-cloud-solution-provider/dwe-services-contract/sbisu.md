@@ -1,4 +1,8 @@
-# サービス契約\_JP
+---
+description: Digital Workplace Essentials（デジタル ワークプレイス エッセンシャル）
+---
+
+# サービス契約
 
 ## 1. サービス契約
 
