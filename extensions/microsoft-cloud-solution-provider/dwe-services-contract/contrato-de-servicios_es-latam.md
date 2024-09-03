@@ -1,8 +1,4 @@
----
-description: Digital Workplace Essentials Contrato De Servicios (ES-LATAM)
----
-
-# Contrato De Servicios
+# Contrato De Servicios\_ES (LATAM)
 
 ## 1. CONTRATO DE SERVICIOS
 
