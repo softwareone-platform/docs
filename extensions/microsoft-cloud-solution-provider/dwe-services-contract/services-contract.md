@@ -1,5 +1,5 @@
 ---
-description: Digital Workplace Essentials Services Contract (nl)
+description: Digital Workplace Essentials Services Contract (NL)
 ---
 
 # Services Contract
@@ -32,13 +32,13 @@ De voorwaarden van de Services Catalogus zijn opgenomen in, en zijn van toepassi
 
 &#x20;Zonder afbreuk te doen aan andere verplichtingen van de Klant zoals uiteengezet in de Overeenkomst of dit Services Contract, zal de Klant SoftwareOne op zijn kosten dergelijke administratieve, mede-administratieve of andere toegang verlenen (zoals root-toegang of administratieve abonnementsrechten) zoals vereist door SoftwareOne in de [Service Catalogus](https://www.softwareone.com/-/media/publishing-documents/swo-digital-workplace-essentials-catalog-nl.pdf) om de Diensten uit te voeren. &#x20;
 
-## &#x20;3.  TERM
+## 3. TERM
 
 (a) Met inachtneming van de overige bepalingen van dit Artikel \[X], zal dit Dienstencontract ingaan op de Ingangsdatum en van kracht blijven met betrekking tot elke Microsoft-licentie die SoftwareOne (als Cloud Solution Provider ("**CSP**")) hieronder doorverkoopt, voor de respectieve toegezegde termijn van de Microsoft-licentie (de "**CSP-termijn**"). De Ingangsdatum is de datum waarop de bestelling voor de Diensten is ingesteld op "voltooid" op de SoftwareOne Marktplaats ("**Voltooid**").
 
-&#x20;(b) Behoudens beëindiging in overeenstemming met paragraaf (c) hieronder, zal dit Dienstencontract automatisch worden verlengd met betrekking tot elke Microsoft-licentie die door SoftwareOne als CSP hieronder wordt doorverkocht, voor opeenvolgende perioden die overeenkomen met de toegezegde termijn van de respectieve Microsoft-licentie ("**CSP-Vernieuwingstermijn**").
+(b) Behoudens beëindiging in overeenstemming met paragraaf (c) hieronder, zal dit Dienstencontract automatisch worden verlengd met betrekking tot elke Microsoft-licentie die door SoftwareOne als CSP hieronder wordt doorverkocht, voor opeenvolgende perioden die overeenkomen met de toegezegde termijn van de respectieve Microsoft-licentie ("**CSP-Vernieuwingstermijn**").
 
-&#x20;(c) Beide partijen kunnen dit Services Contract beëindigen met betrekking tot een Microsoft Licentie die door SoftwareOne als CSP hieronder wordt doorverkocht door:
+(c) Beide partijen kunnen dit Services Contract beëindigen met betrekking tot een Microsoft Licentie die door SoftwareOne als CSP hieronder wordt doorverkocht door:
 
 1. de andere partij dertig (30) dagen vóór het einde van de dan lopende termijn van die Microsoft-licentie daarvan schriftelijk in kennis stellen; of
 2. dertig (30) dagen voor het einde van de dan lopende termijn van die Microsoft-licentie een verzoek tot beëindiging in de SoftwareOne Marketplace in te dienen.
@@ -48,9 +48,9 @@ De voorwaarden van de Services Catalogus zijn opgenomen in, en zijn van toepassi
 1. wanneer de Klant geen actieve Microsoft-licenties heeft die door SoftwareOne als CSP worden doorverkocht; en/of
 2. waarbij de Klant alleen actieve eeuwigdurende Microsoft Licenties heeft die door SoftwareOne als CSP hieronder worden doorverkocht.
 
-&#x20;(e) Niettegenstaande enige andere bepaling van dit Services Contract, de Services Catalogus of de Overeenkomst, kan de Klant dit Services Contract (of een deel daarvan) niet voor het gemak beëindigen tijdens de looptijd ervan.
+(e) Niettegenstaande enige andere bepaling van dit Services Contract, de Services Catalogus of de Overeenkomst, kan de Klant dit Services Contract (of een deel daarvan) niet voor het gemak beëindigen tijdens de looptijd ervan.
 
-&#x20;(f) De Klant erkent dat het verstrijken of beëindigen van dit Services Contract (of een deel daarvan) er niet toe kan leiden dat Microsoft-licenties die hieronder worden doorverkocht, worden beëindigd. Dergelijke licenties zullen verlopen of eindigen in overeenstemming met hun licentievoorwaarden.
+(f) De Klant erkent dat het verstrijken of beëindigen van dit Services Contract (of een deel daarvan) er niet toe kan leiden dat Microsoft-licenties die hieronder worden doorverkocht, worden beëindigd. Dergelijke licenties zullen verlopen of eindigen in overeenstemming met hun licentievoorwaarden.
 
 ## 4. GEGEVENSVERWERKERSOVEREENKOMST
 

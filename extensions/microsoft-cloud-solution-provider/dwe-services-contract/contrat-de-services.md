@@ -1,5 +1,5 @@
 ---
-description: Digital Workplace Essentials Contrat De Services (fr)
+description: Digital Workplace Essentials Contrat De Services (FR)
 ---
 
 # Contrat De Services
@@ -32,25 +32,25 @@ Les termes énoncés dans le Catalogue des services sont intégrés au présent 
 
 &#x20;Sans préjudice des autres obligations du Client énoncées dans l'Accord ou dans le présent Contrat de services, le Client doit, à ses frais, fournir à SoftwareOne les accès administratifs, co-administratifs ou autres (tels que l'accès root ou les droits d’administration d’abonnement) requis par SoftwareOne dans le [Catalogue de services](https://www.softwareone.com/-/media/publishing-documents/swo-digital-workplace-essentials-catalog-fr.pdf) pour exécuter les Services. &#x20;
 
-## &#x20;3. DURÉE
+## 3. DURÉE
 
 (a) Sous réserve des autres dispositions de la présente Section \[X], le présent Contrat de services prendra effet à la Date d’entrée en vigueur et restera en vigueur pour chaque Licence Microsoft revendue par SoftwareOne (en tant que Fournisseur de solutions cloud (« **CSP** »)) en vertu des présentes, pour la durée d'engagement de la Licence Microsoft concernée (la « **Durée du CSP** »). La Date d'entrée en vigueur sera la date à laquelle la commande des Services est définie comme étant « achevée » sur la Marketplace de SoftwareOne (« **Achevée** »).
 
-&#x20;(b) Sauf résiliation conformément au paragraphe (c) ci-dessous, ce Contrat de services sera automatiquement renouvelé pour chaque Licence Microsoft revendue par SoftwareOne en tant que CSP en vertu des présentes, pour des périodes successives correspondant à la durée d'engagement de la Licence Microsoft correspondante (« **Durée de renouvellement du CSP** »).
+(b) Sauf résiliation conformément au paragraphe (c) ci-dessous, ce Contrat de services sera automatiquement renouvelé pour chaque Licence Microsoft revendue par SoftwareOne en tant que CSP en vertu des présentes, pour des périodes successives correspondant à la durée d'engagement de la Licence Microsoft correspondante (« **Durée de renouvellement du CSP** »).
 
-&#x20;(c) L'une ou l'autre des parties peut mettre fin à ce Contrat de services en ce qui concerne une Licence Microsoft revendue par SoftwareOne en tant que CSP en vertu des présentes, soit :
+(c) L'une ou l'autre des parties peut mettre fin à ce Contrat de services en ce qui concerne une Licence Microsoft revendue par SoftwareOne en tant que CSP en vertu des présentes, soit :
 
 1. en donnant à l'autre partie un préavis écrit de trente (30) jours avant la fin de la durée en cours de cette Licence Microsoft ; ou
 2. en remplissant une demande de résiliation sur la Marketplace de SoftwareOne trente (30) jours avant la fin de la période en cours de cette Licence Microsoft.
 
-&#x20;(d)  Nonobstant ce qui précède, le présent Contrat de services prend fin immédiatement :&#x20;
+(d) Nonobstant ce qui précède, le présent Contrat de services prend fin immédiatement :&#x20;
 
 1. lorsque le Client n'a pas de Licences Microsoft actives revendues par SoftwareOne en tant que CSP dans le cadre des présentes ; et/ou
 2. si le Client n'a que des Licences Microsoft perpétuelles actives revendues par SoftwareOne en tant que CSP dans le cadre des présentes.
 
-&#x20;(e) Nonobstant toute autre disposition du présent Contrat de Services, du Catalogue de service ou du Contrat, le Client ne peut pas résilier le présent Contrat de Services (ou toute partie de celui-ci) pour convenance pendant sa Durée.
+(e) Nonobstant toute autre disposition du présent Contrat de Services, du Catalogue de service ou du Contrat, le Client ne peut pas résilier le présent Contrat de Services (ou toute partie de celui-ci) pour convenance pendant sa Durée.
 
-&#x20;(f) Le Client reconnaît que l'expiration ou la résiliation du présent Contrat de Services (ou toute partie de celui-ci) ne peut pas entraîner la résiliation des licences Microsoft revendues en vertu des présentes. Toutes ces licences expireront ou prendront fin conformément à leurs conditions de licence.
+(f) Le Client reconnaît que l'expiration ou la résiliation du présent Contrat de Services (ou toute partie de celui-ci) ne peut pas entraîner la résiliation des licences Microsoft revendues en vertu des présentes. Toutes ces licences expireront ou prendront fin conformément à leurs conditions de licence.
 
 ## 4. ACCORD DE TRAITEMENT DES DONNÉES
 

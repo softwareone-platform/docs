@@ -1,5 +1,5 @@
 ---
-description: Digital Workplace Essentials Contrato De Servicious (es)
+description: Digital Workplace Essentials Contrato De Servicious (ES)
 ---
 
 # Contrato De Servicious
@@ -32,7 +32,7 @@ Los términos establecidos en el Catálogo de Servicios se incorporan y aplican 
 
 Sin perjuicio de cualquier otra obligación del Cliente establecida en el Acuerdo o este Contrato de Servicios, el Cliente deberá, a su costo, proporcionar a SoftwareOne el acceso administrativo, coadministrativo o de otro tipo (como acceso raíz o derechos administrativos de suscripción) según lo requiera SoftwareOne en el [Catálogo de Servicios](https://www.softwareone.com/-/media/publishing-documents/swo-digital-workplace-essentials-catalog-es.pdf)  para llevar a cabo los Servicios. &#x20;
 
-## &#x20;3. PLAZO
+## 3. PLAZO
 
 (a) Sujeto del resto de disposiciones de este Apartado \[X], este Contrato de Servicios entrará en vigor en la Fecha Efectiva y seguirá estando en lo que respecta a cada Licencia de Microsoft revendida por SoftwareOne (como Proveedor de Soluciones en la Nube («**CSP**»)) en virtud del presente, durante el plazo comprometido de la correspondiente Licencia de Microsoft «**Plazo CSP**»). La Fecha Efectiva será la fecha en la que el pedido de los Servicios se establezca como «completado» en SoftwareOne Marketplace («**Completado**»»).
 

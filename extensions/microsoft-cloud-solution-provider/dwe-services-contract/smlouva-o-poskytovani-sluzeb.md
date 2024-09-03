@@ -1,5 +1,5 @@
 ---
-description: Digital Workplace Essentials Smlouva O Poskytování Služeb (cz)
+description: Digital Workplace Essentials Smlouva O Poskytování Služeb (CZ)
 ---
 
 # Smlouva O Poskytování Služeb
@@ -54,7 +54,7 @@ Podmínky uvedené v katalogu služeb jsou součástí této Smlouvy o poskytov�
 
 ## 4. SMLOUVA O ZPRACOVÁNÍ OSOBNÍCH ÚDAJŮ
 
-Tato Smlouva o poskytování služeb zahrnuje Rámcovou smlouvu společnosti SoftwareONE o zpracování osobních údajů („SZOÚ“), která je k dispozici [zde](https://www.softwareone.com/-/media/publishing-documents/swo-framework-dpa-customer-cz.pdf), a dodatky o zpracování osobních údajů dostupné [zde](https://www.softwareone.com/-/media/publishing-documents/swo-data-processing-addendum-digital-workplace-essentials-cz.pdf) (Digital Workplace Essentials) a [zde](https://www.softwareone.com/-/media/publishing-documents/swo-data-processing-addendum-pyracloud-cz.pdf) (klientský portál), pokud platné právní předpisy o ochraně osobních údajů vyžadují smlouvu o zpracování osobních údajů v souvislosti s používáním služeb společnosti SoftwareONE. Smlouva o zpracování osobních údajů a Dodatky o zpracování osobních údajů nahrazují případnou smlouvu a dodatky o zpracování osobních údajů dříve sjednané mezi zákazníkem a společností SoftwareONE v souvislosti s touto konkrétní službou.
+Tato Smlouva o poskytování služeb zahrnuje Rámcovou smlouvu společnosti SoftwareONE o zpracování osobních údajů („**SZOÚ**“), která je k dispozici [zde](https://www.softwareone.com/-/media/publishing-documents/swo-framework-dpa-customer-cz.pdf), a dodatky o zpracování osobních údajů dostupné [zde](https://www.softwareone.com/-/media/publishing-documents/swo-data-processing-addendum-digital-workplace-essentials-cz.pdf) (Digital Workplace Essentials) a [zde](https://www.softwareone.com/-/media/publishing-documents/swo-data-processing-addendum-pyracloud-cz.pdf) (klientský portál), pokud platné právní předpisy o ochraně osobních údajů vyžadují smlouvu o zpracování osobních údajů v souvislosti s používáním služeb společnosti SoftwareONE. Smlouva o zpracování osobních údajů a Dodatky o zpracování osobních údajů nahrazují případnou smlouvu a dodatky o zpracování osobních údajů dříve sjednané mezi zákazníkem a společností SoftwareONE v souvislosti s touto konkrétní službou.
 
 Pro vyloučení pochybností se na zpracování osobních údajů zákazníka společností Microsoft v souvislosti s tímto softwarem a službami společnosti Microsoft vztahuje zákaznická smlouva se společností Microsoft (nebo, pokud se nejedná o zákaznickou smlouvu se společností Microsoft, příslušná smlouva o zpracování údajů uzavřená mezi společností Microsoft a zákazníkem).
 

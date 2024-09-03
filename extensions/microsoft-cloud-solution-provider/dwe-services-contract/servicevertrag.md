@@ -1,5 +1,5 @@
 ---
-description: Digital Workplace Essentials Servicevertrag (de)
+description: Digital Workplace Essentials Servicevertrag (DE)
 ---
 
 # Servicevertrag
@@ -32,7 +32,7 @@ Die im Servicekatalog aufgeführten Bedingungen sind Bestandteil dieses Servicev
 
 &#x20;Vorbehaltlich sonstiger Verpflichtungen des Kunden aus dem Vertrag oder diesem Servicevertrag wird der Kunde SoftwareOne auf eigene Kosten den administrativen, ko-administrativen oder sonstigen Zugang (z. B. Root-Zugang oder Abonnement- Verwaltungsrechte) gewähren, den SoftwareOne im [Servicekatalog](https://www.softwareone.com/-/media/publishing-documents/swo-digital-workplace-essentials-catalog-de.pdf) zur Erbringung der Services benötigt. &#x20;
 
-## &#x20;3. LAUFZEIT
+## 3. LAUFZEIT
 
 (a) Gemäß den übrigen Bestimmungen dieses Abschnitts \[X] beginnt dieser Servicevertrag am Datum des Inkrafttretens und bleibt für jede Microsoft-Lizenz, die von SoftwareOne (als Cloud Solution Provider („**CSP**“)) im Rahmen dieses Vertrags weiterverkauft wird, für die zugesagte Laufzeit der jeweiligen Microsoft-Lizenz (die „**CSP-Laufzeit**“) in Kraft. Das Datum des Inkrafttretens ist das Datum, an dem die Bestellung der Services auf dem SoftwareOne Marketplace auf „abgeschlossen“ geändert wird („**Abgeschlossen**“).
 

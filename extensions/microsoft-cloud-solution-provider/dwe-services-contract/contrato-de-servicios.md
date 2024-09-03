@@ -1,5 +1,5 @@
 ---
-description: Digital Workplace Essentials Contrato De Servicios (es-latam)
+description: Digital Workplace Essentials Contrato De Servicios (ES-LATAM)
 ---
 
 # Contrato De Servicios
