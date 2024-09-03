@@ -200,7 +200,7 @@
     * [サービス契約](extensions/microsoft-cloud-solution-provider/dwe-services-contract/sbisu.md)
     * [Contrato De Prestação De Serviços](extensions/microsoft-cloud-solution-provider/dwe-services-contract/contrato-de-prestacao-de-servicos.md)
     * [Contrato De Servicios](extensions/microsoft-cloud-solution-provider/dwe-services-contract/contrato-de-servicios.md)
-    * [Contrato De Servicious](extensions/microsoft-cloud-solution-provider/dwe-services-contract/contrato-de-servicious.md)
+    * [Contrato De Servicios](extensions/microsoft-cloud-solution-provider/dwe-services-contract/contrato-de-servicios-1.md)
     * [ДОГОВІР ПРО НАДАННЯ ПОСЛУГ](extensions/microsoft-cloud-solution-provider/dwe-services-contract/dogovir-pro-nadannya-poslug.md)
   * [Azure Services Contract](extensions/microsoft-csp/azure-services-contract.md)
   * [Tutorials and Videos](extensions/microsoft-csp/tutorials-and-videos/README.md)
