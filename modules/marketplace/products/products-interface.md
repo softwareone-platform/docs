@@ -32,3 +32,7 @@ All products contain an **Overview** section, which displays a detailed product 
 {% content-ref url="save-order-as-a-draft.md" %}
 [save-order-as-a-draft.md](save-order-as-a-draft.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md" %}
+[how-to-buy-products-in-the-marketplace.md](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md)
+{% endcontent-ref %}

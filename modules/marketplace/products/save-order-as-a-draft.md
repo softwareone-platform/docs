@@ -4,11 +4,11 @@ description: Save your order as a draft order so you can complete the order late
 
 # Save Order as a Draft
 
-When you create an order, you can save it as a draft with all its details and return to it later to complete it.&#x20;
+When placing an order, you can save it as a draft with all its details and return to it later to complete it. When you are ready to finalize the order, locate the order on the [Orders](../orders/orders-interface.md) page and complete the remaining steps to place your order.&#x20;
 
-## Save the order as a draft order
+## Save your order as a draft
 
-Follow these steps to save an order as a draft:
+Follow these steps to save your order as a draft:
 
 1. Navigate to the **Products** page (**Marketplace** > **Products**) and locate the product to buy.
 2. Click **Buy Now**. The purchase wizard for your selected product starts.&#x20;
@@ -23,10 +23,10 @@ For information on the **Orders** page, see [Orders interface](../orders/orders-
 
 ## Related topics
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="../orders/delete-draft-orders.md" %}
+[delete-draft-orders.md](../orders/delete-draft-orders.md)
 {% endcontent-ref %}
 
-{% content-ref url="products-interface.md" %}
-[products-interface.md](products-interface.md)
+{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md" %}
+[how-to-buy-products-in-the-marketplace.md](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md)
 {% endcontent-ref %}

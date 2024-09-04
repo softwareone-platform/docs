@@ -1,10 +1,12 @@
 ---
 description: >-
-  Access the marketplace to buy new subscription-based products and manage your
-  agreements, orders, requests, and subscriptions.
+  Access the SoftwareOne Marketplace to buy subscription-based products and
+  manage your agreements, orders, requests, and subscriptions.
 ---
 
 # Marketplace
+
+To learn more, see any of the following links:
 
 {% content-ref url="agreements/" %}
 [agreements](agreements/)
