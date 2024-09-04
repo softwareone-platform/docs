@@ -63,7 +63,7 @@ Here's a summary of the changes:
 * The **Marketplace** module has been reorganized to include the new commerce and request management modules.&#x20;
 * The **Cloud Tools**, **ITAM Tools**, **Other tools**, and **Procurement** modules have been created for features related to these categories.
 * The **Help** module has been removed from the main menu. Now, you can access documentation and other content resources, and [view the help and support](../getting-support.md) page using the help icon in the header.&#x20;
-* [Notifications](broken-reference) are now accessible through the notifications icon in the header, instead of the main menu.
+* Notifications are now accessible through the notifications icon in the header, instead of the main menu.
 
 ## Other Updates
 
