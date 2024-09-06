@@ -18,6 +18,7 @@
     * [How to Manage Your Subscriptions](marketplace-platform/getting-started/marketplace-for-clients/how-to-manage-your-subscriptions.md)
     * [How to Change License Quantity](marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md)
     * [How to Add New Items to Your Agreement](marketplace-platform/getting-started/marketplace-for-clients/add-items-to-an-agreement.md)
+    * [How to Manage Your Account Settings](marketplace-platform/getting-started/marketplace-for-clients/how-to-manage-your-account-settings.md)
 
 ## MODULES
 

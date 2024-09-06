@@ -15,7 +15,7 @@ Your profile page contains basic information about your account, including your 
 
 <figure><img src="../../../.gitbook/assets/image (471).png" alt=""><figcaption><p>My profile page</p></figcaption></figure>
 
-Your profile settings are also organized by tab:
+Your profile settings are organized by tabs:
 
 * **General** - Displays general settings, such as name, display language for your account, and date format.
 * **Accounts** - Displays a list of accounts and groups you belong to and your account type.

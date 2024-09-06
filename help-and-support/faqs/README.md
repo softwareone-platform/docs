@@ -12,6 +12,10 @@ description: Find answers to some of the commonly asked questions.
 [how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md](how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
 {% endcontent-ref %}
 
+{% content-ref url="update-password.md" %}
+[update-password.md](update-password.md)
+{% endcontent-ref %}
+
 {% content-ref url="which-browsers-do-you-support.md" %}
 [which-browsers-do-you-support.md](which-browsers-do-you-support.md)
 {% endcontent-ref %}
