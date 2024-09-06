@@ -1,10 +1,14 @@
 # How to Manage Your Account Settings
 
-The **Settings** module gives you easy access to your account information and lets you manage your settings. Account administrators can access the module by navigating to the main menu and selecting **Settings**.&#x20;
+The **Settings** module gives you easy access to your account information and lets you manage the settings for your Marketplace account at any time.&#x20;
 
-## Setting options
+Account administrators can access the module by navigating to the main menu and selecting **Settings**.&#x20;
 
-In your account settings, you'll find various options enabling you to review your basic account details and manage your users, licensees, groups, and other properties. Use the following links to learn about these options and how to use them:
+## Account setting options
+
+In your account settings, you'll find various options enabling you to review your basic account details and manage your users, licensees, groups, and other properties.&#x20;
+
+Use the following links to learn about these options and how to use them:
 
 * [Account](../../../modules/settings/account/) - Update the account information for your organization, such as your account name and logo, company contact information, and address.
 * [API tokens](../../../modules/settings/api-tokens/) - Create API tokens to access the modules programmatically and manage your existing tokens as needed.&#x20;
