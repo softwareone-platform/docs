@@ -458,6 +458,7 @@
 * [Platform FAQs](help-and-support/faqs/README.md)
   * [What happens to an agreement when subscriptions expire or are terminated?](help-and-support/faqs/what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md)
   * [How do you handle purchase order numbers in subscription-based models?](help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
+  * [How do I sort and filter data?](help-and-support/faqs/how-do-i-sort-and-filter-data.md)
   * [How do I update my password?](help-and-support/faqs/update-password.md)
   * [Which browsers do you support?](help-and-support/faqs/which-browsers-do-you-support.md)
   * [I'm unable to view the Reserved Instance data](help-and-support/faqs/im-unable-to-view-the-reserved-instance-data.md)

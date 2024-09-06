@@ -76,6 +76,6 @@ Follow these steps to update your profile:
    * **Language** - Choose your language preference.
    * **Regional settings** - Select the date format you want to use.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Preferences section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Preferences section</p></figcaption></figure>
 
 4. Click **Save**. A message is displayed stating your profile has been updated successfully.

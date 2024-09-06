@@ -10,7 +10,7 @@ Follow these steps to connect your 365 tenant:
 2. Sign in to PyraCloud with the agreed global administrator account. Use the password that was set in PyraCloud, not your Office 365 account password.
 3. Select **Connect Tenant**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. Enter your Office 365 Tenant ID.
 

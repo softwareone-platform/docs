@@ -12,7 +12,7 @@ To add more items to your agreement:
 2. Select the required agreement in the **Active** state.
 3. On the details page of your selected agreement, click **Buy more** in the upper right.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p> Buy more option on the details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p> Buy more option on the details page</p></figcaption></figure>
 
 4. In **Select Items** section, do the following:
    1. Click **Add items**. The **Select Items** page opens.&#x20;

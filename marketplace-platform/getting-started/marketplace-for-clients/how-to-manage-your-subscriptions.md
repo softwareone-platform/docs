@@ -26,7 +26,7 @@ If you want to add a new item to your subscription, you can edit the agreement. 
 
 This can be done through the **Buy more** option on the agreement's details page. For detailed instructions, see [How to add new items to your agreement](add-items-to-an-agreement.md).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p> Buy more option on the details page of an agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p> Buy more option on the details page of an agreement</p></figcaption></figure>
 
 ## Terminating subscriptions
 
