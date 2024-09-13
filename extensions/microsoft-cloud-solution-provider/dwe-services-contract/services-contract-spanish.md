@@ -1,8 +1,8 @@
 ---
-description: Digital Workplace Essentials Contrato De Servicios (ES)
+description: Digital Workplace Essentials Contrato De Servicios
 ---
 
-# Contrato De Servicios
+# Services Contract (Spanish)
 
 ## 1. CONTRATO DE SERVICIOS
 

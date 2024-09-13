@@ -1,8 +1,8 @@
 ---
-description: Digital Workplace Essentials Contrat De Services (FR)
+description: Digital Workplace Essentials Contrat De Services
 ---
 
-# Contrat De Services
+# Services Contract (French)
 
 ## 1. CONTRAT DE SERVICES
 

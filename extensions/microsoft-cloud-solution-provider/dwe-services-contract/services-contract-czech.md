@@ -1,8 +1,8 @@
 ---
-description: Digital Workplace Essentials Smlouva O Poskytování Služeb (CZ)
+description: Digital Workplace Essentials Smlouva O Poskytování Služeb
 ---
 
-# Smlouva O Poskytování Služeb
+# Services Contract (Czech)
 
 ## 1. SMLOUVA O POSKYTOVÁNÍ SLUŽEB
 
