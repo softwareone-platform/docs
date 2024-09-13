@@ -27,9 +27,9 @@ Adobe VIP Marketplace is Adobe’s new licensing program that will replace Adobe
 
 VIP Marketplace is designed to make purchasing and managing Adobe software licenses easier. It provides streamlined automated purchasing, provisioning, and billing, and allows SoftwareOne to resell Adobe licenses through the Marketplace Platform.&#x20;
 
-Various term-length options, volume discounts, and product offerings enable clients (referred to as VIP Marketplace members) and organizations of all sizes to meet their needs by purchasing as many licenses as needed in one flexible transaction.
+Various term-length options, volume discounts, and product offerings enable clients (VIP Marketplace members) and organizations of all sizes to meet their needs by purchasing as many licenses as needed in one flexible transaction.
 
-After your initial order has been set up with SoftwareOne, you can manage your licenses through the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html), which works seamlessly with the Marketplace Platform.&#x20;
+After your initial order has been set up with SoftwareOne, you can manage your licenses through the  Marketplace Platform, which works seamlessly with the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).&#x20;
 
 ## Key benefits <a href="#key-benefits" id="key-benefits"></a>
 
@@ -63,10 +63,10 @@ Contact SoftwareOne for details on transitioning to VIP Marketplace.
 
 To add licenses to your VIP Marketplace account, you have the following options:
 
-1. Add the license to the Marketplace Platform.
-2. Add the license in the Admin Console (also known as Purchase Authorization), and then place a corresponding order in the Marketplace Platform within 7 days. If no order is placed in the Marketplace Platform, Adobe will automatically remove the license after 7 days.
+* Add the license to the Marketplace Platform.
+* Add the license in the Admin Console (also known as Purchase Authorization), and then place a corresponding order in the Marketplace Platform within 7 days. If no order is placed in the Marketplace Platform, Adobe will automatically remove the license after 7 days.
 
-To reduce the effort associated with adding licenses, we recommend using option 1. Fulfillment is simple and quick in the Marketplace Platform.
+To reduce the effort associated with adding licenses, we recommend using the first option. Fulfillment is simple and quick in the Marketplace Platform.
 
 ### Assigning licenses <a href="#assigning-licenses" id="assigning-licenses"></a>
 
