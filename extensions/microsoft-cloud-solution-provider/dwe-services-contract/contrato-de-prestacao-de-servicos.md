@@ -1,8 +1,8 @@
 ---
-description: Digital Workplace Essentials Contrato De Prestação De Serviços (PT)
+description: Digital Workplace Essentials Contrato De Prestação De Serviços
 ---
 
-# Contrato De Prestação De Serviços
+# Services Contract (Portuguese)
 
 ## 1. CONTRATO DE PRESTAÇÃO DE SERVIÇOS
 

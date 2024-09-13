@@ -1,8 +1,8 @@
 ---
-description: Digital Workplace Essentials Servicevertrag (DE)
+description: Digital Workplace Essentials Servicevertrag
 ---
 
-# Servicevertrag
+# Services Contract (German)
 
 ## 1. SERVICEVERTRAG
 
