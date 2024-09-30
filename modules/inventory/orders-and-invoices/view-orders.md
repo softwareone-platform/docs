@@ -1,7 +1,3 @@
----
-description: View all orders that you've placed and download order summary.
----
-
 # View Orders
 
 The **Orders** page displays a list of your orders and lets you download your order history.
