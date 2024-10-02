@@ -15,9 +15,9 @@ On the **Products** page, you can easily explore our catalog, search for product
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 5. In the **Add to Cart** dialog_, c_onfirm that you want to add the product to your cart. A confirmation message is displayed when the product is added.
-6. Navigate to your cart and select **Create Order**. You can access your cart by selecting the **Go to Shopping Cart** link in the confirmation message or through the main menu (**Procurement** > **Cart**).
+6. Navigate to your cart and select **Create Order**. You can access your cart by selecting the **Go to Shopping Cart** link in the confirmation message or by navigating to **Procurement** > **Cart** through the main menu.
 7. Verify your address information, edit it if necessary, and provide your contact details, including your email address.
 8. Choose your payment method, and provide your reference name and purchase order number.
 9. Select **Create Order** to submit your order.
 
-Your order is created and a confirmation message is displayed. To download your order confirmation, select **Download PDF** on the **Order Details** page.
+Your order is created and a confirmation message is displayed. Select **Download PDF** on the **Order Details** page to download your order confirmation.
