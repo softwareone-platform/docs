@@ -1,4 +1,4 @@
-# Get licensee
+# Get Licensee
 
 Get a single licensee object by ID.
 

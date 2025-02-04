@@ -12,7 +12,7 @@ Maintaining a consistent tag structure allows you to aggregate resource informat
 
 The following image shows an inconsistent tag structure:
 
-<figure><img src="../../.gitbook/assets/image (25) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
 
 As you can see from the three examples above, the administrators managing the different cloud platforms and subscriptions had the same intent, but did their tagging differently.
 
@@ -29,7 +29,7 @@ Throughout the rest of this article, we will show you how to use Tags and Resour
 
 Alternatively, you can view your stats using the Resource Manager tile. These stats are pulled from Tags and Resources. Selecting this tile will direct you to Resources.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (27) (1) (1) (1) (1).png" alt="" width="327"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (480).png" alt="" width="327"><figcaption></figcaption></figure>
 
 The tile displays three sets of information:
 
@@ -113,7 +113,7 @@ There are a number of items on the Resources Page:
 
 A banner is displayed if you have not been granted the required permissions to read and/or tag AWS resources.
 
-<figure><img src="../../.gitbook/assets/image (93) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (657).png" alt=""><figcaption></figcaption></figure>
 
 You may see the following messages for the following scenarios:
 
@@ -125,7 +125,7 @@ You may see the following messages for the following scenarios:
 
 Select **Show Details** to view details of the resource type, AWS account, and AWS region that you are missing permissions for, and the impact on the environment.
 
-<figure><img src="../../.gitbook/assets/image (28) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure>
 
 This modal explains the permissions that are missing for each resource type within an AWS account and region. For example, in the third row, we are missing permissions for RedShiftReservedNodes in the ap-northeast region for the account swo-test.
 
@@ -139,7 +139,7 @@ There are a number of items on the Resource Details Page as explained below:
 
 As mentioned above, clicking on View in the Actions column will open up the Resource Details Page. Within this page, you can make edits to your resource.
 
-<figure><img src="../../.gitbook/assets/image (29) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (482).png" alt=""><figcaption></figcaption></figure>
 
 * **Resource Details:** Common properties of all resources are listed in this section. In addition, we will also display some extended properties, based on resource type. Common resource properties include Name, Cloud Platform, Subscription Name, Location, and Resource Type.
 * **Groups:** This is the list of all custom groups the resource is a part of. A resource can be part of more than one group. The table also displays the allocation of the cost of that resource across the different groups. Filtering by Custom Groups will reflect this cost allocation across costs on the Consumption and the Budget pages.
@@ -185,13 +185,13 @@ Adding a virtual resource can be performed by clicking on the ‘Add Virtual Res
 
 Virtual resources will appear in Resources just like any other resource. They can be searched for by using the Advanced Search filter “Resource Type” as shown below:
 
-<figure><img src="../../.gitbook/assets/image (30) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure>
 
 ### **Virtual resources in resource details**
 
 Virtual Resources inherit their tags and custom groups from the resource they are associated with (as mentioned above). Therefore their tags and custom groups cannot be modified.
 
-<figure><img src="../../.gitbook/assets/image (31) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (484).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -223,7 +223,7 @@ There are a number of items on the Resource Details Page:
 
 If you have conflicts, you will see a table that lists all of the Tags that are in conflict, from the Tag perspective.
 
-<figure><img src="../../.gitbook/assets/image (32) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (485).png" alt=""><figcaption></figcaption></figure>
 
 * **Conflict column:** This is the Tag that was applied and that is now in conflict with a resource. If you click on the Tag name, it will take you to the Tags page, in the Tag Edit view.
 * **Cloud Platform column:** This is the resource’s Cloud Platform impacted by the Tag Conflict.
@@ -234,11 +234,11 @@ If you have conflicts, you will see a table that lists all of the Tags that are 
 
 Select the arrow icon **>** next to the tag to open up more details about the error.
 
-<figure><img src="../../.gitbook/assets/image (33) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (486).png" alt=""><figcaption></figcaption></figure>
 
 Select the action you want to take and select **Update Changes**.
 
-<figure><img src="../../.gitbook/assets/image (34) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (487).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -252,13 +252,13 @@ It does this using a rule engine that enables users to create search criteria, w
 
 Example: Company XYZ’s IT department based in EMEA manages the organization’s Office365 licenses. Such a resource rule could look like this:
 
-<figure><img src="../../.gitbook/assets/image (94) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (658).png" alt=""><figcaption></figcaption></figure>
 
 When the above rule runs, any resources that have the provider Office365 will be tagged with the department – IT and Geo – EMEA.
 
 Similarly, you can also configure resource rules to group resources based on search criteria, which include properties as well as tags. Here is an example:
 
-<figure><img src="../../.gitbook/assets/image (95) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (659).png" alt=""><figcaption></figcaption></figure>
 
 The above rule looks at all resources with a tag **\_geo**, value **EMEA** and groups it between the APAC and EMEA custom groups.
 
@@ -266,7 +266,7 @@ The above rule looks at all resources with a tag **\_geo**, value **EMEA** and g
 
 The order of resource rules is important, as they run in the order defined. Users can reorder resource rules by dragging and dropping a resource rule to another position within the grid. The order is also mentioned in the column right of Rule Name.
 
-<figure><img src="../../.gitbook/assets/image (36) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (489).png" alt=""><figcaption></figcaption></figure>
 
 Please note that it takes up to 24 hours to refresh consumption reports after rule execution
 
@@ -292,7 +292,7 @@ Resource Rule Conflicts will show up with the Conflict Status as **“Conflict�
 
 * **Step 1** – Expand the resource rule under conflict using the expander to the left of the rule name.
 
-<figure><img src="../../.gitbook/assets/image (96) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (660).png" alt=""><figcaption></figcaption></figure>
 
 * **Step 2** – Identify other rules that the rule in question is in conflict with. In the example above, rule _**demo\_117\_one**_ is in conflict with rule **demo\_117\_two**. The message will also mention the tags that the conflicted rules are operating on. In this example, the conflict is due to tag key **ad\_department**, values **do\_not\_remove**, **yevgen**.
 * **Step 3** – Understand the configuration of the resource rules in question. As you can see, both rules apply different tag values to the tag **“ad\_department”**, therefore resulting in the conflict.
@@ -302,7 +302,7 @@ Resource rule conflicts can occur due to a number of reasons. However, most comm
 
 In order to do this, edit the resource rule, and edit the search criteria of the rule to use something like this:
 
-<figure><img src="../../.gitbook/assets/image (97) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (661).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -310,7 +310,7 @@ In order to do this, edit the resource rule, and edit the search criteria of the
 
 Clicking on the Sync Health tile will take you to the Sync Health window. The Sync Health window will show you all of the Cloud Platform Subscriptions you are synchronizing with the Client Portal. It will also show you the synchronization status state and allow you to run a synchronization process.
 
-<figure><img src="../../.gitbook/assets/image (98) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (662).png" alt=""><figcaption></figcaption></figure>
 
 There are a number of items on the Sync Health Windows:
 

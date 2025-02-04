@@ -1,4 +1,4 @@
-# Assign user to the user group
+# Assign User to a Group
 
 Assign an account user to a specific group.
 

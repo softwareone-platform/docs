@@ -1,4 +1,4 @@
-# Get account user
+# Get Account User
 
 Get a single account user by ID.
 

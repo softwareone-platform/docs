@@ -1,4 +1,4 @@
-# Create seller
+# Create Seller
 
 Create a new Seller object.
 

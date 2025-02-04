@@ -1,6 +1,6 @@
 # Status Page
 
-Our [Status Page](https://status.platform.softwareone.com/) serves as a central source of information about the current status of the Marketplace Platform. Here is why it's important:
+Our [Status Page](https://status.platform.softwareone.com/) serves as a central source of information about the current status of the Marketplace Platform. Here's why it's important:
 
 * **Real-time updates** - Get real-time updates on the platform's operational status, including uptime, performance metrics, and ongoing incidents or maintenance.
 * **Incident reporting** - Stay informed about issues affecting your platform use, such as downtime, service disruptions, or degraded performance.
@@ -9,11 +9,10 @@ Our [Status Page](https://status.platform.softwareone.com/) serves as a central 
 
 ## When to check the Status Page
 
-We recommend checking the [Status Page](https://status.platform.softwareone.com) if encountering any issues while using the Marketplace Platform.&#x20;
+We recommend checking the [Status Page](https://status.platform.softwareone.com) if you are encountering issues while using the Marketplace Platform.&#x20;
 
-This can help you determine if a known issue affects the platform and save time by providing immediate answers without further steps.
+This can help you determine if a known issue affects the platform and save time.
 
 ## How to use the Status Page
 
-* Access the Status Page: Go to [https://status.platform.softwareone.com](https://status.platform.softwareone.com/).
-* View current status: Check the top of the page for a quick overview of the current platform status.
+The [Status Page](https://status.platform.softwareone.com) shows the current status of the platform, including the status of our APIs and user documentation. It also provides a quick overview of the uptime for each component.

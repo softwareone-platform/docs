@@ -1,2 +1,2 @@
-# Cloud tenant setup
+# Cloud Tenant Setup
 

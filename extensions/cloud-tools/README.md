@@ -1,4 +1,4 @@
-# Cloud tools
+# Cloud Tools
 
 SoftwareOne's Cloud Managed Services customers can optimize spending across multiple cloud resources through the Marketplace Platform.&#x20;
 
@@ -6,54 +6,55 @@ Cloud Spend Management enables you to view and predict cloud usage across Azure,
 
 If you want to be notified when you are nearing certain thresholds, you can create alerts.&#x20;
 
-VIewing recommendations that can identify possible cost savings, performance, and security enhancements is also possible through the platform.
+Viewing recommendations that can identify possible cost savings, performance, and security enhancements is also possible through the platform.
 
 To learn more, see any of the following links:
 
-{% content-ref url="365simple.md" %}
-[365simple.md](365simple.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/365simple" %}
+[365Simple](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/365simple)
 {% endcontent-ref %}
 
-{% content-ref url="azuresimple.md" %}
-[azuresimple.md](azuresimple.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/azuresimple" %}
+[AzureSimple](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/azuresimple)
 {% endcontent-ref %}
 
-{% content-ref url="budgets/" %}
-[budgets](budgets/)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/budgets" %}
+[Budgets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/budgets)
 {% endcontent-ref %}
 
-{% content-ref url="chargebacks/" %}
-[chargebacks](chargebacks/)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/chargebacks" %}
+[Chargebacks](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/chargebacks)
 {% endcontent-ref %}
 
-{% content-ref url="cloud-cost-optimization.md" %}
-[cloud-cost-optimization.md](cloud-cost-optimization.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/cloud-cost-optimization" %}
+[Cloud Cost Optimization](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/cloud-cost-optimization)
 {% endcontent-ref %}
 
-{% content-ref url="cloud-tenant-setup/" %}
-[cloud-tenant-setup](cloud-tenant-setup/)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/cloud-tenant-setup" %}
+[Cloud Tenant Setup](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/cloud-tenant-setup)
 {% endcontent-ref %}
 
-{% content-ref url="custom-groups/" %}
-[custom-groups](custom-groups/)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/custom-groups" %}
+[Custom Groups](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/custom-groups)
 {% endcontent-ref %}
 
-{% content-ref url="pricelist-center/" %}
-[pricelist-center](pricelist-center/)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/pricelist-center" %}
+[Pricelist Center](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/pricelist-center)
 {% endcontent-ref %}
 
-{% content-ref url="recommendations/" %}
-[recommendations](recommendations/)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/recommendations" %}
+[Recommendations](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="simple-for-aws.md" %}
-[simple-for-aws.md](simple-for-aws.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/simple-for-aws" %}
+[Simple for AWS](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/simple-for-aws)
 {% endcontent-ref %}
 
-{% content-ref url="tags-and-resources.md" %}
-[tags-and-resources.md](tags-and-resources.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/tags-and-resources" %}
+[Tags and Resources](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/tags-and-resources)
 {% endcontent-ref %}
 
-{% content-ref url="utilization.md" %}
-[utilization.md](utilization.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/utilization" %}
+[Utilization](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/utilization)
 {% endcontent-ref %}
+

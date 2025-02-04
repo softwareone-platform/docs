@@ -4,17 +4,17 @@ The Marketplace Platform is a SaaS application with three user interfaces, each 
 
 The platform provides three distinct user interfaces namely, the Client Portal, Vendor Portal, and Operations Portal.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption><p>Marketplace Platform</p></figcaption></figure>
 
 * **Client Portal** - Accessed by our clients and partners for software procurement.&#x20;
 * **Vendor Portal** - Used by vendors for setting up and configuring products.
-* **Operations Portal** - Utilized by our internal SoftwareOne associates for administration-related activities.
+* **Operations Portal** - Used by internal SoftwareOne associates for administration-related activities.
 
-## Accessing the interface
+## Access the interface
 
-The platform can be accessed from an up-to-date desktop or mobile browser. For a list of supported browsers, see [Which browsers do you support?](../../../help-and-support/faqs/which-browsers-do-you-support.md).
+You can access the platform from an up-to-date desktop or mobile browser. For a list of supported browsers, see [Which browsers do you support?](../../../help-and-support/faqs/which-browsers-do-you-support.md).
 
-To access the platform, follow these steps:
+Follow these steps to access the Marketplace Platform user interface (UI):
 
 1. Navigate to the sign-in page: [https://portal.platform.softwareone.com/](https://portal.platform.softwareone.com/).
 2. Enter the email address associated with your account and click **Continue**.
@@ -22,38 +22,50 @@ To access the platform, follow these steps:
 
 If you provide inaccurate credentials, an error message is displayed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (305).png" alt="" width="379"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (891).png" alt="" width="379"><figcaption><p>Sign in page</p></figcaption></figure>
 
 If you can’t remember your password, select the **Forgot password?** link on the **Sign-in** page and then follow the instructions. For more information, see [Update password](../../../help-and-support/faqs/update-password.md).
 
-## Navigating the interface
+## Navigate the interface
 
-The platform provides a seamless and intuitive interface, allowing access to the different modules and features within those modules.&#x20;
-
-After signing in to your account, you can navigate through various modules, manage account settings, access the marketplace, view agreements, and track your orders.
+The platform provides a seamless and intuitive interface, allowing access to the different modules and features within those modules. This section describes how to navigate the platform.
 
 ### Main navigation menu
 
-The main navigation menu in the top left is the starting point for accessing the modules enabled for your account. Click the navigation icon <img src="../../../.gitbook/assets/menu_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line"> to access the modules and manage your account settings.
+The <img src="../../../.gitbook/assets/menu_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line"> **Home** menu in the top left is where you can access the modules enabled for your account. Click the menu to view the modules and get started with the platform.
 
-<figure><img src="../../../.gitbook/assets/Main menu.png" alt=""><figcaption><p>Main navigation menu</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Menu.png" alt=""><figcaption><p>Navigation menu</p></figcaption></figure>
+
+### Search
+
+The Search bar lets you search for various objects in the platform, such as your orders, agreements, subscriptions, and more. You can also search for specific products and items in our catalog.
+
+<figure><img src="../../../.gitbook/assets/Search (1).png" alt=""><figcaption><p>Search bar</p></figcaption></figure>
+
+When performing a search, start by choosing the category you want to search across and then enter the search term. Our platform supports free text, which means you can enter all or part of the object's ID or name. For example, when searching for an order using its ID, select the **Orders** category and then enter the full order ID (such as ‘ORD-8981-7039-6781’) or part of it (such as 6781). The platform will then display results matching your specified search term.
+
+You can also use search to find user documentation. For example, you can search for "manage subscriptions" to read documentation about how to manage your subscriptions.
 
 ### Help icon
 
-The help icon <img src="../../../.gitbook/assets/help_24dp_5F6368_FILL0_wght400_GRAD0_opsz24 (1).png" alt="" data-size="line"> contains links to various content resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, [news and updates](https://www.softwareone.com/en/media-releases), and our legal pages. You can also [Contact Support](../../../help-and-support/getting-support.md) by clicking the **Support** option.
+The Help icon <img src="../../../.gitbook/assets/help_24dp_5F6368_FILL0_wght400_GRAD0_opsz24 (1).png" alt="" data-size="line"> contains links to various content resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, [news and updates](https://www.softwareone.com/en/media-releases), and our legal pages. You can also [Contact Marketplace Platform Support](../../../help-and-support/contact-support.md) by selecting **Support**.
 
 <figure><img src="../../../.gitbook/assets/Help.png" alt=""><figcaption><p>Help icon</p></figcaption></figure>
 
+### Pending actions
+
+The Pending actions icon <img src="../../../.gitbook/assets/pending_actions_24dp_434343_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line"> opens a **Pending tasks** section that displays all tasks that require your attention. To learn more about this feature, see [View Pending Tasks](view-pending-tasks.md).
+
+<figure><img src="../../../.gitbook/assets/Notifications.png" alt=""><figcaption><p>PLACEHOLDER ONLY: TO BE REPLACED WHEN AVAILABLE</p></figcaption></figure>
+
 ### Notifications
 
-The notifications icon<img src="../../../.gitbook/assets/notifications_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line">opens up the **Notifications** page where you can view your read and unread notifications, and update your notification preferences.&#x20;
+The Notifications icon<img src="../../../.gitbook/assets/notifications_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line">opens up the **Notifications** page where you can view your read and unread notifications, and update your notification preferences.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Notifications.png" alt=""><figcaption><p>Notifications icon</p></figcaption></figure>
 
 ### Account selector and profile menu
 
-The account selector and your profile information can be accessed through the menu in the upper right. Select the menu to display your account name, type of account, and your username.&#x20;
+You can [switch accounts](switch-account.md) and [manage your profile](manage-profile.md) through the profile menu in the upper right. You can also sign out of your account using the **Sign out** option in the menu.
 
-The menu also contains options for you to [manage your profile](manage-profile.md), [switch accounts](switch-account.md) (only if you belong to multiple accounts), and sign out of your account.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Accountselector.png" alt=""><figcaption><p>Account selector and your profile</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Accountselector.png" alt=""><figcaption><p>Account selector and profile menu</p></figcaption></figure>

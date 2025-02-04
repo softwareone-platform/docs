@@ -1,4 +1,4 @@
-# Update request
+# Update Request
 
 Update some properties (`assignee` and `externalIDs`) of a request.
 

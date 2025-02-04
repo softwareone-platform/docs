@@ -31,26 +31,26 @@ When a budget is created or changed by someone other than the budget owner, the 
 
 ## Related topics
 
-{% content-ref url="create-reporting-period.md" %}
-[create-reporting-period.md](create-reporting-period.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-reporting-period" %}
+[Create Reporting Period](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-reporting-period)
 {% endcontent-ref %}
 
-{% content-ref url="create-custom-group-budgets.md" %}
-[create-custom-group-budgets.md](create-custom-group-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets" %}
+[Create Custom Group Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="create-per-provider-budgets.md" %}
-[create-per-provider-budgets.md](create-per-provider-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-per-provider-budgets" %}
+[Create Per-Provider Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-per-provider-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="view-budgets.md" %}
-[view-budgets.md](view-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/view-budgets" %}
+[View Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/view-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="request-to-create-or-update-budgets.md" %}
-[request-to-create-or-update-budgets.md](request-to-create-or-update-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/request-to-create-or-update-budgets" %}
+[Request to Create or Update Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/request-to-create-or-update-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="edit-budget-utilization-alerts.md" %}
-[edit-budget-utilization-alerts.md](edit-budget-utilization-alerts.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/edit-budget-utilization-alerts" %}
+[Edit Budget Utilization Alerts](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/edit-budget-utilization-alerts)
 {% endcontent-ref %}

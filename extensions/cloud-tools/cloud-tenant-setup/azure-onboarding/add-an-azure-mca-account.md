@@ -1,46 +1,38 @@
----
-description: Add your Azure Microsoft Customer Agreement account to the Client Portal.
----
-
 # Add an Azure MCA Account
 
-The Client Portal supports both legacy Enterprise Agreement and modern [Microsoft Customer Agreement](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview) models.  If you are adding an EA or MPSA account, see [Activating an Azure EA or MPSA account](activate-an-azure-ea-or-mpsa-account.md).
+The Client Portal supports both legacy Enterprise Agreement and modern [Microsoft Customer Agreement](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview) models. This topic describes how to add an Azure MCA account to the Client Portal. For information on adding an EA or MPSA account, see [Activating an Azure EA or MPSA account](activate-an-azure-ea-or-mpsa-account.md).
 
 ## Before you begin <a href="#before-you-start" id="before-you-start"></a>
 
-Before adding an account, note the following points:
+Before adding an MCA account to the Client Portal, make sure your account has the correct billing account type set up. You can verify the account type in the [Azure Portal](https://portal.azure.com).&#x20;
 
-* Make sure you've followed the steps in [Activating your account](activate-an-azure-ea-or-mpsa-account.md#activating-your-account).
-* Make sure your account has the proper billing account type set up. To verify this, launch the [Azure Portal](https://portal.azure.com). From the left navigation pane, select **Cost Management + Billing**. Then, navigate to **Settings** > **Properties**. The account type is displayed in the right pane.
+To verify, select **Cost Management + Billing** and then navigate to **Settings** > **Properties**. The account type is displayed in the right pane.
 
-## Assign the Billing Account Reader role (Azure Portal)
+## Assigning the Billing Account Reader role (Azure Portal)
 
-Follow these steps to assign the **Billing account reader** role to the Client Portal:
+Follow these steps to assign the **Billing account reader** role to the Client Portal through Azure:
 
-1. Sign in to the [Azure Portal](https://portal.azure.com) and search for **Cost Management + Billing**.
+1. In the [Azure Portal](https://portal.azure.com), search for **Cost Management + Billing**.
 2. In the left navigation pane, select **Billing scopes** and then select your MCA billing scope.
 
-<div data-full-width="false">
+<figure><img src="../../../../.gitbook/assets/image (1157).png" alt=""><figcaption><p>Billing scopes</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
+3. Select **Access Control (IAM)** to start assigning permissions.&#x20;
 
-</div>
+<figure><img src="../../../../.gitbook/assets/image (1156).png" alt=""><figcaption><p>Access Control (IAM)</p></figcaption></figure>
 
-3. Select **Access Control (IAM)** to assign permissions.&#x20;
+4. On the **Access Control (IAM)** tab, click **Add > Add role assignment**. The **Add role assignment** pane opens. From the **Role** list, select the **Billing account reader** role.
 
-<div data-full-width="false">
+<figure><img src="../../../../.gitbook/assets/image (1154).png" alt=""><figcaption><p>Add role assignment</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (13) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
+5. For **Members**, select the **PyraCloud (Azure)** application to give access to the Client Portal.
 
-</div>
+<figure><img src="../../../../.gitbook/assets/image (1155).png" alt=""><figcaption><p>Select members</p></figcaption></figure>
 
-4. Select **Add** and then from the Role dropdown list, select **Billing account reader**.
+6. Click **Save**. Your MCA billing data will be synchronized with the Client Portal after 24 hours.
 
-<div data-full-width="false">
+## Next steps
 
-<figure><img src="../../../../.gitbook/assets/image (14) (1) (1) (1) (1) (1) (1).png" alt="" width="439"><figcaption></figcaption></figure>
+After assigning permissions to the billing account, you can add the tenant to the Client Portal via **Cloud tenant setup**, found under **Cloud tools** in the main menu.
 
-</div>
-
-5. Select the **PyraCloud (Azure)** application. &#x20;
-6. Select **Save**. Your MCA billing data will be synchronized with the Client Portal after 24 hours.
+For instructions on how to add the tenant, see [Activate your cloud account](activate-an-azure-ea-or-mpsa-account.md#activate-your-cloud-account).

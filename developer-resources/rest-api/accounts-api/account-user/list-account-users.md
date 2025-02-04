@@ -1,4 +1,4 @@
-# List account users
+# List Account Users
 
 Get all users assigned to an account.
 

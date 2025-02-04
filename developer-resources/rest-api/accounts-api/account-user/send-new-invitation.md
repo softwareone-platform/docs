@@ -1,4 +1,4 @@
-# Send new invitation
+# Send New Invitation
 
 Send new invitation when invite expires.
 

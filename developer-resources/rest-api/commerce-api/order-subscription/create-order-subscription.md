@@ -1,4 +1,4 @@
-# Create order subscription
+# Create Order Subscription
 
 Creates a new subscription and adds it to the order.
 

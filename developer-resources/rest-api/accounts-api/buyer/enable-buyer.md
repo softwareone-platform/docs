@@ -2,7 +2,7 @@
 description: Enable a previously disabled Buyer object.
 ---
 
-# Enable buyer
+# Enable Buyer
 
 When enabled, the buyer status will change to `Active` if the buyer has `ExternalId` assigned or Enabled otherwise.
 

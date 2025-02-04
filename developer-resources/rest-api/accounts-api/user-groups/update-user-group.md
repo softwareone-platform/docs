@@ -1,4 +1,4 @@
-# Update user group
+# Update User Group
 
 Update a user group.
 

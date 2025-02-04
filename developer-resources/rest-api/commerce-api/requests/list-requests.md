@@ -1,4 +1,4 @@
-# List requests
+# List Requests
 
 Get a list of requests.
 

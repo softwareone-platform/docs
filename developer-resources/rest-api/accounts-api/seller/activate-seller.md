@@ -1,4 +1,4 @@
-# Activate seller
+# Activate Seller
 
 Activate a previously deactivated or disabled seller.
 

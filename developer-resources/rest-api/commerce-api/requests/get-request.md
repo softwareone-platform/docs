@@ -1,4 +1,4 @@
-# Get request
+# Get Request
 
 Get a single request by ID.
 

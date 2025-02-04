@@ -1,4 +1,4 @@
-# Get user group
+# Get User Group
 
 Get a single user group by ID.
 

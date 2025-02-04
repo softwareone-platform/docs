@@ -1,4 +1,4 @@
-# Delete token
+# Delete Token
 
 Delete an existing token object.
 

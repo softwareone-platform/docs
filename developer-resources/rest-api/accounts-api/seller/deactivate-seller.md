@@ -1,4 +1,4 @@
-# Deactivate seller
+# Deactivate Seller
 
 Deactivate a seller.
 

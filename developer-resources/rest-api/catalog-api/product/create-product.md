@@ -1,7 +1,7 @@
-# Create product
+# Create Product
 
 Create a new product.
 
-{% swagger src="../../../../.gitbook/assets/catalog.json" path="/v1/products" method="post" %}
-[catalog.json](../../../../.gitbook/assets/catalog.json)
+{% swagger src="../../../../.gitbook/assets/QA-swagger-10-12-2024.json" path="/v1/catalog/products" method="post" %}
+[QA-swagger-10-12-2024.json](../../../../.gitbook/assets/QA-swagger-10-12-2024.json)
 {% endswagger %}

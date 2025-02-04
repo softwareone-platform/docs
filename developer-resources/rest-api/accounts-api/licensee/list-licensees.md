@@ -1,4 +1,4 @@
-# List licensees
+# List Licensees
 
 List Licensee items in the Licensees collection.
 

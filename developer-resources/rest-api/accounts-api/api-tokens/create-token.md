@@ -1,4 +1,4 @@
-# Create token
+# Create Token
 
 Create a new token object for the specific account.
 

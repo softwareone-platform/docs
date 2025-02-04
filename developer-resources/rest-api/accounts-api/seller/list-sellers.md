@@ -1,4 +1,4 @@
-# List sellers
+# List Sellers
 
 Get the Sellers collection.
 

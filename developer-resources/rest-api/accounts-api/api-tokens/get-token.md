@@ -1,4 +1,4 @@
-# Get API token
+# Get Token
 
 Get a single API token by ID.
 

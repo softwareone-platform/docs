@@ -1,7 +1,7 @@
-# Get document
+# Get Document
 
-Gets a document by id.
+Gets a document by ID.
 
-{% swagger src="../../../../.gitbook/assets/catalog.json" path="/v1/products/{productId}/documents/{id}" method="get" %}
-[catalog.json](../../../../.gitbook/assets/catalog.json)
+{% swagger src="../../../../.gitbook/assets/QA-swagger-10-12-2024.json" path="/v1/catalog/products/{productId}/documents/{id}" method="get" %}
+[QA-swagger-10-12-2024.json](../../../../.gitbook/assets/QA-swagger-10-12-2024.json)
 {% endswagger %}

@@ -1,4 +1,4 @@
-# Set user password
+# Set User Password
 
 Set passwords for non-SSO users during onboarding.
 

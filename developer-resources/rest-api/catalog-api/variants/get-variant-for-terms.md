@@ -1,7 +1,7 @@
-# Get variant for terms
+# Get Variant for Terms
 
-Get a variant for a terms
+Get a variant for terms
 
-{% swagger src="../../../../.gitbook/assets/catalog.json" path="/v1/products/{productId}/terms-and-conditions/{termsAndConditionsId}/variants" method="get" %}
-[catalog.json](../../../../.gitbook/assets/catalog.json)
+{% swagger src="../../../../.gitbook/assets/QA-swagger-10-12-2024.json" path="/v1/catalog/products/{productId}/terms/{termsAndConditionsId}/variants/{id}" method="get" %}
+[QA-swagger-10-12-2024.json](../../../../.gitbook/assets/QA-swagger-10-12-2024.json)
 {% endswagger %}

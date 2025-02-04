@@ -1,4 +1,4 @@
-# Get order subscription
+# Get Order Subscription
 
 Returns subscription with a given ID that exists in the order.
 

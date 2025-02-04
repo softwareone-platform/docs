@@ -2,7 +2,7 @@
 description: Manage your Office 365 recommendations.
 ---
 
-# Office 365 recommendations
+# Office 365 Recommendations
 
 Office 365 recommendations are recommendations from SoftwareOne that you can take advantage of. These recommendations are populated by your SoftwareOne Services Account team, so you can make the best use of your Office 365 environment.
 
@@ -39,22 +39,22 @@ You can filter the Office 365 recommendations based on certain criteria:
 
 ## Related topics
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations" %}
+[Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="view-recommendations.md" %}
-[view-recommendations.md](view-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations" %}
+[View Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="manage-recommendations.md" %}
-[manage-recommendations.md](manage-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/manage-recommendations" %}
+[Manage Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/manage-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="azure-recommendations.md" %}
-[azure-recommendations.md](azure-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/azure-recommendations" %}
+[Azure Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/azure-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="office-365-recommendations.md" %}
-[office-365-recommendations.md](office-365-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations" %}
+[Office 365 Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations)
 {% endcontent-ref %}

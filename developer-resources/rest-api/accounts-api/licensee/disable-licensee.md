@@ -1,4 +1,4 @@
-# Disable licensee
+# Disable Licensee
 
 Disable the licensee object.
 

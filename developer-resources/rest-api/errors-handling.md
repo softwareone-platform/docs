@@ -4,7 +4,7 @@ description: General Information on Handling REST API Errors in the Marketplace 
 
 # Errors Handling
 
-All errors reported by the [REST API](./) have an [HTTP status code](https://en.wikipedia.org/wiki/List\_of\_HTTP\_status\_codes) and follow the standard format. When an error occurs, the response body usually contains a JSON object with the following fields:
+All errors reported by the [REST API](./) have an [HTTP status code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) and follow the standard format. When an error occurs, the response body usually contains a JSON object with the following fields:
 
 ```json
 {

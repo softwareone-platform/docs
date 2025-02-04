@@ -1,4 +1,4 @@
-# Update user
+# Update User
 
 Update a user.
 

@@ -1,4 +1,4 @@
-# Update token
+# Update Token
 
 Update the specified token object.
 

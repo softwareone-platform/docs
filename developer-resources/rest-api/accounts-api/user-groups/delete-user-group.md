@@ -1,4 +1,4 @@
-# Delete user group
+# Delete User Group
 
 Delete a user group.
 

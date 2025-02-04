@@ -1,49 +1,34 @@
-# How to Add New Items to Your Agreement
+# How to Add Items to Your Agreement
 
-If you want to order new items as part of your current agreement, you can use the Agreements page on the platform.&#x20;
+You can add new items to your agreement using the **Buy more** option on the agreement details page.&#x20;
 
-Simply go to the details page of the agreement and select the **Buy more** option to add new items. Note that your agreement must be [active ](../../../modules/marketplace/agreements/agreement-states.md)to order new items.
+Items can only be added to the agreements in the active state. If the agreement is not active, the **Buy more** option will be unavailable.&#x20;
 
-## Adding new items to your agreement
+<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption><p> Buy more option on the details page</p></figcaption></figure>
 
-To add more items to your agreement:
+When you click **Buy more**, the platform automatically detects the agreement and takes you directly to the **Items** section of the purchase wizard, where you can select the items and complete the ordering process.
 
-1. Sign in to your account and navigate to the **Agreements** page (**Marketplace** > **Agreements**).&#x20;
-2. Select the required agreement in the **Active** state.
-3. On the details page of your selected agreement, click **Buy more** in the upper right.&#x20;
+## Adding items to your agreement <a href="#adding-new-items-to-your-agreement" id="adding-new-items-to-your-agreement"></a>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p> Buy more option on the details page</p></figcaption></figure>
+Follow these steps to add new items to your agreement:
 
-4. In **Select Items** section, do the following:
-   1. Click **Add items**. The **Select Items** page opens.&#x20;
-   2. Choose the items you want to order. You can select one or multiple items, and use filters to narrow down the list of items.&#x20;
-   3. Click **Add items** to add the new items to your order.&#x20;
-   4. Adjust the new quantity as needed and then click **Next** to continue.&#x20;
-5. Fill out the **Details** section and click **Next**.
-6. Review your order and then click **Place order** to finalize.
+1. On the **Agreements** page (**Marketplace** > **Agreements**), select the required agreement. Make sure that the agreement is active.
+2. On the details page of your selected agreement, click **Buy more**. The purchase wizard starts and the **Items** step is displayed.&#x20;
 
-A change order is created in the system and sent to the vendor for fulfilment.&#x20;
+<figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt=""><figcaption><p>Buy more option on the agreement details page</p></figcaption></figure>
 
-While the change order is in progress, the agreement shows as **Updating**. It means that the agreement is temporarily locked, and no further orders can be placed under this agreement until the current change order is completed.
+3. In the **Items** step, do the following:
+   1. Click **Add items**. A new window (also called **Select items**) will open displaying the available products that are available for you to order under this agreement.
+   2. Select the checkboxes for the items you want to order. You can use filters to find the items easily. When selecting items, be sure to verify the billing terms and the duration of the subscription.
+   3. Click **Add items**. Your selected items are added to the agreement, and the **Select items** step is displayed again.
+   4. Set the quantity of your newly added items in the **New qty** field and click **Next**.
 
-## Related topics
+<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../../../modules/marketplace/agreements/" %}
-[agreements](../../../modules/marketplace/agreements/)
-{% endcontent-ref %}
+4. In the **Details** step, add the additional ID and notes for your order and click **Next**. Note that it's optional to provide these details.
+5. In the **Review order** step, verify the information and click **Place order** to finalize placing your orde&#x72;_._
+6. Click **View details** to go to the order details page or click **Close** to close the page.
 
-{% content-ref url="../../../modules/marketplace/agreements/agreements-interface.md" %}
-[agreements-interface.md](../../../modules/marketplace/agreements/agreements-interface.md)
-{% endcontent-ref %}
+A change order is created for the agreement and sent to the vendor for fulfillment. You can check the status of your new order on the **Orders** page or in the **Orders** tab on the agreement details page.
 
-{% content-ref url="../../../modules/marketplace/agreements/terminate-agreements.md" %}
-[terminate-agreements.md](../../../modules/marketplace/agreements/terminate-agreements.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../../modules/marketplace/agreements/rename-an-agreement.md" %}
-[rename-an-agreement.md](../../../modules/marketplace/agreements/rename-an-agreement.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../../modules/marketplace/agreements/edit-agreement-id.md" %}
-[edit-agreement-id.md](../../../modules/marketplace/agreements/edit-agreement-id.md)
-{% endcontent-ref %}
+Note that once you place the order, the agreement status changes from **Active** to **Updating**. It means that the agreement is temporarily locked, and no further orders can be placed under this agreement until the current change order is completed.

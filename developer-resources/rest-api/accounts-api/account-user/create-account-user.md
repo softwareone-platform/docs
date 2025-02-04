@@ -1,4 +1,4 @@
-# Create account user
+# Create Account User
 
 Invite a user to the account.
 

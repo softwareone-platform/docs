@@ -1,4 +1,4 @@
-# Block user
+# Block User
 
 Block a user.
 

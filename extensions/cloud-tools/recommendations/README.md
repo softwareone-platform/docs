@@ -34,22 +34,22 @@ The appropriate section within the **Recommendations** module is displayed. For 
 
 ## Related topics
 
-{% content-ref url="view-recommendations.md" %}
-[view-recommendations.md](view-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations" %}
+[View Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="manage-recommendations.md" %}
-[manage-recommendations.md](manage-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/manage-recommendations" %}
+[Manage Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/manage-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="azure-recommendations.md" %}
-[azure-recommendations.md](azure-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/azure-recommendations" %}
+[Azure Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/azure-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="aws-recommendations.md" %}
-[aws-recommendations.md](aws-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/aws-recommendations" %}
+[AWS Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/aws-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="office-365-recommendations.md" %}
-[office-365-recommendations.md](office-365-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations" %}
+[Office 365 Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations)
 {% endcontent-ref %}

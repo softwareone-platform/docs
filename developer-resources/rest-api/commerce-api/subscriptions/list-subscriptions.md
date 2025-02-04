@@ -1,4 +1,4 @@
-# List subscriptions
+# List Subscriptions
 
 Get a list of subscriptions in all agreements.
 

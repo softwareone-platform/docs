@@ -1,13 +1,14 @@
-# ITAM tools
+# ITAM Tools
 
-{% content-ref url="365-ea-+-unified-support.md" %}
-[365-ea-+-unified-support.md](365-ea-+-unified-support.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/itam-tools/365-ea-+-unified-support" %}
+[365 EA + Unified Support](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/itam-tools/365-ea-+-unified-support)
 {% endcontent-ref %}
 
-{% content-ref url="renewal-manager.md" %}
-[renewal-manager.md](renewal-manager.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/itam-tools/renewal-manager" %}
+[Renewal Manager](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/itam-tools/renewal-manager)
 {% endcontent-ref %}
 
-{% content-ref url="unified-support-for-multi-vendor.md" %}
-[unified-support-for-multi-vendor.md](unified-support-for-multi-vendor.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/itam-tools/unified-support-for-multi-vendor" %}
+[Unified Support for Multi-vendor](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/itam-tools/unified-support-for-multi-vendor)
 {% endcontent-ref %}
+

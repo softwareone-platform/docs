@@ -1,4 +1,4 @@
-# Unblock user
+# Unblock User
 
 Unblock a previously blocked user.
 

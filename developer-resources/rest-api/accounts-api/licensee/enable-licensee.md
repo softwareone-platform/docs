@@ -1,4 +1,4 @@
-# Enable licensee
+# Enable Licensee
 
 Enable the previously disabled licensee object.
 

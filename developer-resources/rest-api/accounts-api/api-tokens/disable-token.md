@@ -1,4 +1,4 @@
-# Disable token
+# Disable Token
 
 Disable the specified token object.
 

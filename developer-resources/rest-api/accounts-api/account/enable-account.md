@@ -1,4 +1,4 @@
-# Enable account
+# Enable Account
 
 Enable the previously disabled [Account](https://docs.client.softwareone.com/extensions/dmE39nDvDSpNnt3t1FdJ#account-object) object.
 

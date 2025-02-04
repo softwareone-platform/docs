@@ -19,10 +19,10 @@ If you terminate a subscription outside the 14-day return period:
 
 ## Related topics
 
-{% content-ref url="../tutorials-and-videos/terminate-adobe-subscription.md" %}
-[terminate-adobe-subscription.md](../tutorials-and-videos/terminate-adobe-subscription.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription" %}
+[Terminate Adobe Subscription](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription)
 {% endcontent-ref %}
 
-{% content-ref url="../tutorials-and-videos/terminate-all-adobe-subscriptions.md" %}
-[terminate-all-adobe-subscriptions.md](../tutorials-and-videos/terminate-all-adobe-subscriptions.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-all-adobe-subscriptions" %}
+[Terminate All Adobe Subscriptions](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-all-adobe-subscriptions)
 {% endcontent-ref %}

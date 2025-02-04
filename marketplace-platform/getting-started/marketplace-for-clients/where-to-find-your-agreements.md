@@ -1,4 +1,4 @@
-# Where to find your agreements
+# Where to Find Your Agreements
 
 The **Agreements** page is where you can access all your agreements in one place.&#x20;
 
@@ -8,28 +8,28 @@ As agreements contain subscriptions, having access to your agreements in one pla
 
 To view a list of your agreements, select the main menu of the Client Portal and then choose **Marketplace** > **Agreements**.
 
-From here, you can view your agreement name, the product it relates to, agreement status, and other details. To learn more, see [Agreements interface](../../../modules/marketplace/agreements/agreements-interface.md).
+From here, you can view your agreement name, the product you ordered, agreement status, and other details. To learn more, see [Agreements Interface](../../../modules-and-features/marketplace/agreements/#agreements-interface).
 
-<figure><img src="../../../.gitbook/assets/image (354).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (940).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 ## Viewing an agreement's details <a href="#viewing-your-orders-details" id="viewing-your-orders-details"></a>
 
 If you want to get detailed information about an agreement, click the agreement.&#x20;
 
-You'll then be able to view details like the subscriptions linked to the agreement, ordering and fulfilment parameters, the buyer, seller, and licensee attached to the agreement, and the available attachments.&#x20;
+You'll then be able to view details like the subscriptions linked to the agreement, ordering and fulfilment parameters, the buyer, seller, and licensee entities for the agreement, more.&#x20;
 
-From the details page, you can also self-manage your agreement and:
+From the details page, you can also self-manage your agreement and do the following:
 
-* [Terminate your agreement](https://docs.platform.softwareone.com/\~/changes/mVP8mnWO2wFE1657Z1oX/modules/marketplace/agreements/manage-your-agreements/terminate-agreements).
-* [Edit the name of your agreement.](../../../modules/marketplace/agreements/rename-an-agreement.md)
-* [Edit your agreement's default ID and assign a new ID](../../../modules/marketplace/agreements/edit-agreement-id.md).
+* [Terminate your agreement](https://docs.platform.softwareone.com/~/changes/mVP8mnWO2wFE1657Z1oX/modules/marketplace/agreements/manage-your-agreements/terminate-agreements).
+* [Edit the name of your agreement.](../../../modules-and-features/marketplace/agreements/rename-an-agreement.md)
+* [Edit your agreement's default ID and assign a new ID](../../../modules-and-features/marketplace/agreements/edit-agreement-id.md).
 
 ## Related topics
 
-{% content-ref url="../../../modules/marketplace/agreements/agreements-interface.md" %}
-[agreements-interface.md](../../../modules/marketplace/agreements/agreements-interface.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements" %}
+[Agreements](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements)
 {% endcontent-ref %}
 
-{% content-ref url="../../../modules/marketplace/agreements/agreement-states.md" %}
-[agreement-states.md](../../../modules/marketplace/agreements/agreement-states.md)
+{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/agreement-states" %}
+[Agreement States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/agreement-states)
 {% endcontent-ref %}

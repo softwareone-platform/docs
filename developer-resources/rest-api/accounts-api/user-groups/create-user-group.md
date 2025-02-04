@@ -1,4 +1,4 @@
-# Create user group
+# Create User Group
 
 Create a user group for the client account.
 

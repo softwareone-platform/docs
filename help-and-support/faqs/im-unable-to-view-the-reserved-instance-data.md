@@ -36,4 +36,4 @@ Follow these steps to assign the role:
 
 After you've completed these steps, the **Reservations Reader** role is assigned and displayed on the **Role assignments** tab.&#x20;
 
-Once the role is assigned, it might take up to 24 hours for your consumption data to become available in the Client Portal. If you are not able to view the data after 24 hours, [contact us for help](../getting-support.md).&#x20;
+Once the role is assigned, it might take up to 24 hours for your consumption data to become available in the Client Portal. If you are not able to view the data after 24 hours, [contact us for help](../contact-support.md).&#x20;

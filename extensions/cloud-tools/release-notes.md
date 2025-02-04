@@ -20,7 +20,7 @@ You can also see Microsoft's documentation on [Migrate from Azure Enterprise Rep
 
 In the cloud tenant's details page, the **Access Tokens** tab has been replaced by a new tab called **Enrollment Numbers**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Enrollment Numbers tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption><p>Enrollment Numbers tab</p></figcaption></figure>
 
 This change is made because the new Azure Cost Management APIs don't require access tokens. Instead, they use Microsoft Entra ID (also known as Azure Active Directory) for authentication.
 
@@ -30,7 +30,7 @@ On the **Enrollment Numbers** tab, you can view all enrollment numbers that are 
 
 Clients who have a Microsoft CSP subscription through SoftwareOne and commit to an Azure Saving Plan can now see their savings plan cost in the Client Portal.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (295).png" alt="" width="563"><figcaption><p>Savings plan visibility</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (881).png" alt="" width="563"><figcaption><p>Savings plan visibility</p></figcaption></figure>
 
 To support this update, the following changes are made:
 

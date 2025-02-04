@@ -1,4 +1,4 @@
-# Delete licensee
+# Delete Licensee
 
 Delete the licensee object.
 

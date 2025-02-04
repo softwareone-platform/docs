@@ -6,7 +6,7 @@ description: Learn about the Microsoft Cloud Solution Provider (CSP) program.
 
 The Microsoft CSP program is designed to provide businesses with easy access to Microsoft's cloud services, such as Microsoft 365, Dynamics 365, and Azure, through certified partners.&#x20;
 
-Working with a CSP provider like SoftwareOne offers numerous benefits and ensures a smooth onboarding process. Here are some of the benefits:
+Working with a CSP provider like SoftwareOne offers numerous benefits and ensures a smooth onboarding process. These benefits include:
 
 * **Tailored Solutions** - SoftwareOne can bundle Microsoft cloud services with additional offerings and services, creating customized solutions that meet specific business needs.
 * **Expert Support** - Gain access to dedicated support from SoftwareOne's experts, who can help with everything from initial setup to ongoing management and technical issues.
@@ -99,7 +99,7 @@ The move to NCE for seat-based offers took place in 2022 following the move to N
 
 ### What’s changing in 2024? <a href="#whats-changing-in-2024" id="whats-changing-in-2024"></a>
 
-Starting 1 March 2024, the new commerce system launched education and nonprofit offers.
+Starting 1 March 2024, the new commerce system launched education and non-profit offers.
 
 ### What about the legacy seat-based offers? <a href="#what-about-the-legacy-seat-based-offers" id="what-about-the-legacy-seat-based-offers"></a>
 
@@ -141,9 +141,7 @@ After the 7-day window passes, the subscription can no longer be canceled.&#x20;
   * If a new purchase is made with a lower number of licenses, customer data, and user license assignment settings will still be retained, and the partner should manage these appropriately.
   * After the 7-day period, these actions are no longer allowed, and data will be removed.
 
-<!---->
-
-* Transacting partner will no longer be billed (pro-rata charges may apply)
+- Transacting partner will no longer be billed (pro-rata charges may apply)
 
 </details>
 

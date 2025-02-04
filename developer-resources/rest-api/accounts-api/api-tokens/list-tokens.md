@@ -1,4 +1,4 @@
-# List tokens
+# List Tokens
 
 Get the API tokens collection.
 

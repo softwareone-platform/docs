@@ -1,4 +1,4 @@
-# List users
+# List Users
 
 Get a list of all platform users.
 

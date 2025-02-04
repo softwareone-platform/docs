@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **Marketplace Platform REST API** lets you interact with the platform programmatically. Our API is organized around [REST](http://en.wikipedia.org/wiki/Representational\_State\_Transfer), has predictable resource-oriented URLs, uses [JSON-encoded](http://www.json.org/) representations, and uses standard [HTTP response codes](https://en.wikipedia.org/wiki/List\_of\_HTTP\_status\_codes), authentication, and verbs. Use our API to create apps, automate tasks, or build integrations with the platform.&#x20;
+The **Marketplace Platform REST API** lets you interact with the platform programmatically. Our API is organized around [REST](http://en.wikipedia.org/wiki/Representational_State_Transfer), has predictable resource-oriented URLs, uses [JSON-encoded](http://www.json.org/) representations, and uses standard [HTTP response codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), authentication, and verbs. Use our API to create apps, automate tasks, or build integrations with the platform.&#x20;
 
 ## Beginners Guide
 
@@ -12,7 +12,7 @@ The **Marketplace Platform REST API** lets you interact with the platform progra
 
 An [API](https://en.wikipedia.org/wiki/API) (Application Programming Interface) is a set of rules that allows programs to talk to each other and share data and functions in a standard format over the Internet.
 
-[REST](http://en.wikipedia.org/wiki/Representational\_State\_Transfer) (Representational State Transfer) is a way to design APIs for distributed systems. When people mention a "REST API", they mean an API that uses the HTTP protocol.
+[REST](http://en.wikipedia.org/wiki/Representational_State_Transfer) (Representational State Transfer) is a way to design APIs for distributed systems. When people mention a "REST API", they mean an API that uses the HTTP protocol.
 
 These URLs point to different resources, which can be data like JSON, web pages, audio files, or images. You can perform actions on these resources using HTTP methods like GET, POST, PUT, and DELETE:
 
@@ -25,7 +25,7 @@ For example, the Marketplace Platform offers several REST APIs for tasks like ma
 
 ## Authentication
 
-The Marketplace Platform uses [API tokens](../../modules/settings/api-tokens/) to authenticate requests. You can view and manage your API keys in the user interface of your account settings. Include your API token in the "**Authorization**" HTTP header with the "**Bearer**" prefix for authentication.&#x20;
+The Marketplace Platform uses [API tokens](../../modules-and-features/settings/api-tokens/) to authenticate requests. You can view and manage your API keys in the user interface of your account settings. Include your API token in the "**Authorization**" HTTP header with the "**Bearer**" prefix for authentication.&#x20;
 
 For example, the following request could be used to retrieve a list of Buyers:
 

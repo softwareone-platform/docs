@@ -1,4 +1,4 @@
-# Get seller
+# Get Seller
 
 Get a single Seller object by ID.
 

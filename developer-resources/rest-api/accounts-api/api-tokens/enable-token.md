@@ -1,4 +1,4 @@
-# Enable token
+# Enable Token
 
 Enable the specified token object.
 

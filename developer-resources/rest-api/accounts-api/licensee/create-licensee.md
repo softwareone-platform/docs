@@ -1,4 +1,4 @@
-# Create licensee
+# Create Licensee
 
 Create a new licensee object.
 

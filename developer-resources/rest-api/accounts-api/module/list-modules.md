@@ -1,4 +1,4 @@
-# List modules
+# List Modules
 
 Get a list of modules in the platform.
 

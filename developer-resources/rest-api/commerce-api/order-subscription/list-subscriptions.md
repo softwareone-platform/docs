@@ -1,4 +1,4 @@
-# List subscriptions
+# List Subscriptions
 
 Returns list of all subscriptions for the order.
 

@@ -1,4 +1,4 @@
-# Get request message
+# Get Request Message
 
 Get a single request message.
 

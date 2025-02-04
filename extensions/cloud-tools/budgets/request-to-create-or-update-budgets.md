@@ -14,7 +14,7 @@ Follow these steps to request a new budget:
 
 1. Select the **Request** option corresponding to the group.
 
-<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption><p>Request option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (674).png" alt=""><figcaption><p>Request option</p></figcaption></figure>
 
 2. In the **Budget Request** form, enter the budget amount and then confirm your request. The budget owner of the parent Custom Group will receive your request and create the budget.
 
@@ -27,26 +27,26 @@ Follow these steps to request an update to an existing budget that you're unable
 
 ## Related topics
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets" %}
+[Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets)
 {% endcontent-ref %}
 
-{% content-ref url="create-reporting-period.md" %}
-[create-reporting-period.md](create-reporting-period.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-reporting-period" %}
+[Create Reporting Period](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-reporting-period)
 {% endcontent-ref %}
 
-{% content-ref url="create-custom-group-budgets.md" %}
-[create-custom-group-budgets.md](create-custom-group-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets" %}
+[Create Custom Group Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="create-per-provider-budgets.md" %}
-[create-per-provider-budgets.md](create-per-provider-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-per-provider-budgets" %}
+[Create Per-Provider Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-per-provider-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="view-budgets.md" %}
-[view-budgets.md](view-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/view-budgets" %}
+[View Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/view-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="edit-budget-utilization-alerts.md" %}
-[edit-budget-utilization-alerts.md](edit-budget-utilization-alerts.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/edit-budget-utilization-alerts" %}
+[Edit Budget Utilization Alerts](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/edit-budget-utilization-alerts)
 {% endcontent-ref %}

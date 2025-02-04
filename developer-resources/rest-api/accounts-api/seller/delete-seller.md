@@ -1,4 +1,4 @@
-# Delete seller
+# Delete Seller
 
 Delete the seller object. When deleted, the status changes from `Active` to `Deleted`.
 

@@ -1,4 +1,4 @@
-# List user groups
+# List User Groups
 
 Get the user groups collection.
 

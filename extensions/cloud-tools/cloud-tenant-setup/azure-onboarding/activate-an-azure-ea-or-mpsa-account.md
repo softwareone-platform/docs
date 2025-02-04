@@ -1,7 +1,3 @@
----
-description: Add your EA or MPSA cloud account to the Client Portal.
----
-
 # Activate an Azure EA or MPSA Account
 
 ## Before you begin <a href="#before-you-start" id="before-you-start"></a>
@@ -17,14 +13,14 @@ Before adding an account, make sure that you have the following details:
 
 Follow these steps to add a new cloud account to the Client Portal: &#x20;
 
-1. Navigate to the [Cloud Tenant Setup](https://v1.client.softwareone.com/integration-manager/start) page and click **Add Cloud Account**.
+1. On the [Cloud tenant setup](https://v1.client.softwareone.com/integration-manager/start) page (**Cloud tools** > **Cloud tenant setup**), click **Add Cloud Account**.
 2. On the **Add Cloud Account** page, click **Azure** and provide the following details:
    1. **Friendly Name** - Provide a name for your Microsoft tenant.
    2. **Microsoft Tenant ID or Tenant Domain** - Provide the tenant ID or domain.
    3. **License Model** - Select the license model (**Enterprise Agreement** or **Microsoft Customer Agreement**).&#x20;
    4. **Enrollment Number** - Provide the enrollment number. Note that this field is displayed only if you select **Enterprise Agreement** as your license model.
 3. Click **Add Cloud Account**.
-4. Sign in to the Microsoft portal using the credentials of a user who has Owner permissions to the Azure subscriptions you want to add.
+4. Sign in to the Microsoft portal using the credentials of a user who has **Owner** permissions to the Azure subscriptions you want to add.
 
 {% hint style="info" %}
 If you wish to add more Azure subscriptions owned by other users, you can do this later. For instructions, see [Add more Azure Subscriptions](activate-an-azure-ea-or-mpsa-account.md#add-more-azure-subscriptions)_._

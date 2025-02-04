@@ -1,4 +1,4 @@
-# Disable seller
+# Disable Seller
 
 Disable or deactivate the seller object.
 

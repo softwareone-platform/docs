@@ -1,4 +1,4 @@
-# Update seller
+# Update Seller
 
 Update the seller object, except the seller status. Use the disable, activate, deactivate, and delete endpoints to manage the status.
 

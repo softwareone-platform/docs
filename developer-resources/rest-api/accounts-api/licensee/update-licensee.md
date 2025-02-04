@@ -1,6 +1,6 @@
 # Update Licensee
 
-Update the licensee object.&#x20;
+Update the licensee object.
 
 You can update the licensee `Seller` Object, except the `status` (which is managed through the `disable`, `enable`, `delete`endpoints) `buyers id` and `sellers id.`
 

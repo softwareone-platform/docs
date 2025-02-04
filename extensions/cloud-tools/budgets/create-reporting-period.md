@@ -2,7 +2,7 @@
 description: Create a reporting period.
 ---
 
-# Create a reporting period
+# Create Reporting Period
 
 A reporting period represents a period that you use to schedule budgets in your organization. For example, financial year, calendar year, quarters, or any custom time period.&#x20;
 
@@ -15,7 +15,7 @@ Follow these steps to create a reporting period:
 1. From the main menu of the Client Portal, navigate to **Analyze** > **Budgets**.
 2. On the **Budgets - Custom Groups** page, click **Add Reporting Period**.
 
-<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt="" width="563"><figcaption><p>Add Reporting Period</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (868).png" alt="" width="563"><figcaption><p>Add Reporting Period</p></figcaption></figure>
 
 3. Provide a name for the reporting period.
 4. Choose an end date for the reporting period.
@@ -26,18 +26,18 @@ Follow these steps to create a reporting period:
 
 ## Related topics
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets" %}
+[Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets)
 {% endcontent-ref %}
 
-{% content-ref url="create-custom-group-budgets.md" %}
-[create-custom-group-budgets.md](create-custom-group-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets" %}
+[Create Custom Group Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="create-per-provider-budgets.md" %}
-[create-per-provider-budgets.md](create-per-provider-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-per-provider-budgets" %}
+[Create Per-Provider Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-per-provider-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="view-budgets.md" %}
-[view-budgets.md](view-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/view-budgets" %}
+[View Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/view-budgets)
 {% endcontent-ref %}

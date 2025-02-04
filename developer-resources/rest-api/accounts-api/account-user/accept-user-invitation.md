@@ -1,4 +1,4 @@
-# Accept user invitation
+# Accept User Invitation
 
 Accepts user invitation to the account.
 
