@@ -2,6 +2,6 @@
 
 Get a single user by ID.
 
-{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/users/{id}" method="put" %}
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/users/{id}" method="get" %}
 [swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}
