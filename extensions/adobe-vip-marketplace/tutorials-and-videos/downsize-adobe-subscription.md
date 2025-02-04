@@ -20,7 +20,7 @@ Before starting this tutorial, make sure that the subscription you want to downs
 
 2. On the details page of the subscription, click **Edit**.
 
-<figure><img src="../../../.gitbook/assets/SubscriptionDetails.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SubscriptionDetails_Adobe.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
 
 The **Edit Subscription** wizard launches and the **Items** section of the wizard is displayed.
 
