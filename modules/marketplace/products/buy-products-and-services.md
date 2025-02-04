@@ -22,7 +22,7 @@ Follow these steps to create a new purchase order under a new agreement:&#x20;
    * To create a new agreement, click **Create new agreement**.
    * To use an existing agreement, select an active agreement from the list of your agreements.
 
-<figure><img src="../../../.gitbook/assets/image (431).png" alt=""><figcaption><p>Select agreement section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (920).png" alt=""><figcaption><p>Select agreement section</p></figcaption></figure>
 
 4. (For new agreements only) Select a licensee from the list and click **Next**. If you don't want to use an existing licensee, you can [create a new licensee](../../settings/licensees/create-licensees.md) by clicking **Add licensee**.
 5. Continue through the purchase wizard and complete all sections, including the items section where you can add items to your order and review prices for each item.

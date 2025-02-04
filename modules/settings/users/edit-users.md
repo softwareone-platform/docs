@@ -23,7 +23,7 @@ Follow these steps to update the groups assigned to a user:
    * To assign a group to the user, select the checkbox.
    * To remove the user from a group, clear the checkbox for that group.
 
-<figure><img src="../../../.gitbook/assets/image (414).png" alt=""><figcaption><p>Edit user</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (903).png" alt=""><figcaption><p>Edit user</p></figcaption></figure>
 
 4. Click **Save**. Your changes are applied immediately.
 

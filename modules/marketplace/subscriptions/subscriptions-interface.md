@@ -4,7 +4,7 @@
 
 The **Subscriptions** page, located under **Marketplace** > **Subscriptions**, displays all subscriptions you've ordered.
 
-<figure><img src="../../../.gitbook/assets/image (372).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (861).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 On this page, you can view the following subscription details:
 
@@ -34,7 +34,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (371).png" alt=""><figcaption><p>Details page of a subscription</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (860).png" alt=""><figcaption><p>Details page of a subscription</p></figcaption></figure>
 
 The subscription details page is organized into several tabs, each providing specific information. It also contains a highlights panel displaying general information about the subscription, such as the subscription name and ID, vendor, and product. On the details page, you can also view the name of your subscription, its status, and the unique Marketplace ID.&#x20;
 

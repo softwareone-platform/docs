@@ -4,7 +4,7 @@
 
 The **Products** page displays all products that are available for you to buy. All products are organized by vendor name and ID, making it easier for you to browse through the list of products.
 
-<figure><img src="../../../.gitbook/assets/image (409).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (898).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 The individual products are displayed in the form of product cards and each card contains the following information:
 
@@ -21,7 +21,7 @@ When you click a product card, the details page of your selected product opens. 
 
 All products contain an **Overview** section, which displays a detailed product description. Depending on the vendor and product configuration, the page may also include media and video files, and additional sections, as shown in the following image:
 
-<figure><img src="../../../.gitbook/assets/image (410).png" alt=""><figcaption><p>Product details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (899).png" alt=""><figcaption><p>Product details page</p></figcaption></figure>
 
 ## Related topics
 

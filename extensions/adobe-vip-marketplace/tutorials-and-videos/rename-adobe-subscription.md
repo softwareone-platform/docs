@@ -25,7 +25,7 @@ Before starting this tutorial, make sure that the subscription you want to renam
 
 2. Enter the new name in the **Subscription name** field and save your changes. In this example, the name is changed to **Creative Cloud test**, as shown in the following image:
 
-<figure><img src="../../../.gitbook/assets/image (7) (3).png" alt=""><figcaption><p>Subscription name</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (968).png" alt=""><figcaption><p>Subscription name</p></figcaption></figure>
 
 The subscription is updated immediately and the new name is reflected on the **Details** tab of the subscription and all other pages that feature the subscription.
 

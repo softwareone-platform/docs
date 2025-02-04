@@ -15,13 +15,13 @@ layout:
     visible: true
 ---
 
-# View and manage software transactions
+# View and Manage Software Transactions
 
 On the Procurement Workbench page, you will find different sections that enable you to purchase products, view your transactions, and check your purchase history.&#x20;
 
 Additionally, you can get an overview of your transactions and see the necessary actions you need to take.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (72) (1) (1).png" alt=""><figcaption><p>Procurement Workbench</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (527).png" alt=""><figcaption><p>Procurement Workbench</p></figcaption></figure>
 
 ## Transaction Status and Actions
 

@@ -19,7 +19,7 @@ Follow these steps to delete a token:
 2. Find the token you want to delete.
 3. Click the actions icon (**•••**) for the token and select **Delete**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (424).png" alt=""><figcaption><p>Delete option on the API tokens page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (913).png" alt=""><figcaption><p>Delete option on the API tokens page</p></figcaption></figure>
 
 4. Alternatively, click the token name. When the details page of your selected token opens, click the down arrow next to **Edit** and select **Delete**.
 5. In **Delete API token**, confirm that you want to delete the token.&#x20;

@@ -18,7 +18,7 @@ Follow these steps to create a custom executive report:
 
 The report with aggregated Provider data will be added to your new Executive Report.
 
-<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (648).png" alt=""><figcaption></figcaption></figure>
 
 You will also see spaces with a “plus icon” (4). Clicking on the plus icon allows you to quickly add new data that is of interest to you.
 
@@ -39,13 +39,13 @@ Follow these steps to rearrange the elements:
 1. Hover over the element you want to move until you see the cross/arrow icon appear.&#x20;
 2. Click on that icon and drag the element to the area you want to move it to.
 
-<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (649).png" alt=""><figcaption></figcaption></figure>
 
 ## Deleting elements <a href="#deleting-elements" id="deleting-elements"></a>
 
 You can remove elements by hovering over the element until you see the bin icon appear. Select the bin to delete the element.
 
-<figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (651).png" alt=""><figcaption></figcaption></figure>
 
 ## Using the edit mode <a href="#editing" id="editing"></a>
 
@@ -55,7 +55,7 @@ To enter the edit mode, click anywhere on the chart element.
 
 In the configuration section, you can define your data and pick your preferred presentation option.
 
-<figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (650).png" alt=""><figcaption></figcaption></figure>
 
 You can control data displayed on the “X” axis in the “_Show By:_” drop-down (1). Available options are **Day**, **Month**, and **None**.
 
@@ -65,7 +65,7 @@ The **Day** and **Month** settings will make the “X” axis time-based. Howeve
 
 Reports support advanced filtering (2). This scans through all your data providers (e.g. _Azure_ / _Software Assets_ / _Virtual_) and provides you with a unified search experience.
 
-<figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
 
 Search index breaks words by space or “-” character and uses “starts with operator” for each word. For example: for resource **my-test-vmineurope** if you type “test”, the index will find this resource. However, if you type “est” this resource will not be found.
 
@@ -96,7 +96,7 @@ Executive Reports support quick share functionality. You can easily share your r
 
 To share a personal report, select the report you would like to share from the report selection, and click **Share**.
 
-<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (653).png" alt=""><figcaption></figcaption></figure>
 
 Next, select members from your account. Allowed roles are **Can view** and **Can edit**. Users with the **Can Edit** role can also adjust the sharing list with limitations to the **Owner** role.
 

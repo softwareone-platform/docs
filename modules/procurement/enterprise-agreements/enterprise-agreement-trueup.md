@@ -68,17 +68,17 @@ This page **allows you to set tenants and products profiles** (as available in y
 
 Typically profiles and tenants can be found as a subsection in CPS. Profiles can be found in both “SECTION 1. Licenses and Software Assurance” and “Future Pricing”. Please note that the “Enterprise” subsection should not be treated as a profile and will be automatically added in the Wizard. Please inspect the below screenshot from a sample CPS with “Industry Device II” and “Manufacturing” profiles.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 The screenshot below shows the “Enterprise” subsection which should not be counted as a profile:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 **Tenants**
 
 Tenants represent the domain of subscription products. They can be found in “SECTION 2: Monthly Subscriptions” as well as the proper “Future Pricing” subsection. The screenshot below shows two tenants have been identified. Subsections should not be treated as tenants and will be automatically added by default.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 **Adding Profiles and Tenants**
 
@@ -119,7 +119,7 @@ The purpose of this step is to add License and Software Assurance details i.e. p
 
 Data required in this step can be found in CPS table under the header “Section 1 – License and Software Assurance” as shown below. Products for every year should be added (please inspect the note regarding auto auto-populate feature below).
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 Pricing information for all products across every year is required. However, due to the structure of agreements only data for the first year need to be added. Subsequent years are auto-populated and only need to be adjusted in singular cases (please see note below).
 
@@ -148,7 +148,7 @@ This step lets you fill in details for subscriptions.
 
 Data required in this step can be found in CPS table under the header “Section 2 – Monthly Subscriptions” as shown below. There are a few columns in CPS that you do not have to take into consideration from now on: “Usage indicator”, “Usage Start Date” and “Unit of Measure”. Those columns should be omitted when inputting pricing information.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 Step 5 has a similar grid to Step 4, the only difference is the “Unit Quantity” field is added. “Unit Quantity” represents the number of months. It is set to 12 months by default, however, it can be changed if required.
 
@@ -172,7 +172,7 @@ Once completed, click on the “Next” button to move to the next step i.e. Fut
 
 This step is to insert future pricing details that come from the “Future Pricing” section of the Customer Price Sheet. Rows in CPS represent products and columns with the right prices for the TrueUp process for that given year. The “Future Pricing” section in CPS looks similar to what is shown below:
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 The “Future Pricing” section in CPS typically consists of multiple subsections such as “TrueUps”, “Higher Editions”, “Step-Ups”, “Future Monthly – Enterprise Online Services”, “Future Monthly – Enterprise Online Services”, etc.
 
@@ -196,13 +196,13 @@ The following products will be automatically added from the previous steps:
 * All products of type UpgSA (Upgrade and Software Assurance Pack)
 * All subscriptions with prices
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 The number of years on Step 6 is equal to the number of years you have defined in Steps 4 and 5.
 
 Fill in the prices for all products in Y1, Y2, Y3 until Yn (n = no. of years tab you have added in Step 4).
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 Prices for subscriptions are already populated from Step 5, however, you can add more if needed but existing subscriptions (added in Step 5) cannot be removed.
 
@@ -217,7 +217,7 @@ The review step summarizes all the information provided in the Wizard. It allows
 * Submit all the entered details by clicking on the “Finish” button.
 * Review the annual and total payment details for the reported agreement. The figures for all years should match with the figures in the summary section of CPS sheet for respective years.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 If you feel that all the details are correct, submit by clicking on the “Finish” button. Clicking on “Finish” will submit the agreement for Asset Allocation as shown below:
 
@@ -235,7 +235,7 @@ In Step 1, if the user does not find the agreement listed in the drop-down, they
 
 Clicking this tile will take you to the next form as shown below:
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 Fill in the details and click on “Next” to proceed with this agreement.
 
@@ -251,7 +251,7 @@ In Step 3 the user configures the reporting locations. If the target company is 
 
 Click on “Add New Company” under the company name drop-down. It will take you to the below form where you can provide the details and click on “**Save**”.
 
-<figure><img src="../../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE:** You can proceed to the next step after requesting the New Company, however, the creation of the new company via the Wizard will trigger an email to inside sales. Finishing new company onboarding can only be done when the company is created in the backend database (i.e. Navision) by inside sales.
@@ -326,7 +326,7 @@ On this page, all details are shown for the respective product. i.e. if the same
 
 Even though you have come to this page via a specific product record on the overview page, you can still select any other product directly from top dropdown. There is no need to go back to the overview page.
 
-<figure><img src="../../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 **Reporting Location**
 
@@ -334,7 +334,7 @@ For the selected product, the reporting location drop-down will only contain tho
 
 For example, if a product is set up under the “Industry Device” product profile, only those reporting locations would be available in the drop-down which belongs to this profile.
 
-<figure><img src="../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 If nothing is selected in the “Reporting Locations” drop-down, all the available reporting locations are shown in the grid and are grouped by Location Group, as defined in Step 3 of the Wizard setup process.
 
@@ -342,13 +342,13 @@ At this step, you need to have the allocation data for the selected product. Num
 
 Once you have defined the quantity, the amount will get calculated automatically based on the unit price you have set up in the Wizard (Year 1 of Steps 4 and 5) using CPS.
 
-<figure><img src="../../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 **Total Cost** – shows the total cost of all the allocated assets/licenses. i.e. if only 40 assets are allocated out of 90, the total cost will show the amount for 40 assets.
 
 At the bottom of the reporting location column, you can see if all the available assets are allocated or not. Three possible values can be displayed here:
 
-&#x20;![](<../../../.gitbook/assets/image (17) (1) (1).png>) ![](<../../../.gitbook/assets/image (18) (1) (1).png>) Depicts that all the assets are allocated properly and status field is set to “Complete”
+&#x20;![](<../../../.gitbook/assets/image (88).png>) ![](<../../../.gitbook/assets/image (89).png>) Depicts that all the assets are allocated properly and status field is set to “Complete”
 
 Depicts that too many licenses have been allocated and the status field is set to “over-allocated”
 
@@ -362,15 +362,15 @@ If there is no value reported against any location it is considered as 0.
 
 You can navigate to the Overview page at any time by clicking on “Back to Asset Overview”.
 
-<figure><img src="../../../.gitbook/assets/image (37) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
 Your changes should be reflected here. You need to complete this process for all the products.
 
-<figure><img src="../../../.gitbook/assets/image (38) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
 
 Once this is completed for all the products, the “Submit” button on the Overview Page will be enabled.
 
-<figure><img src="../../../.gitbook/assets/image (39) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** In order to enable the “Submit” button, all the products have to be in “Complete” status.
 
@@ -380,7 +380,7 @@ Once the ”Submit” button is enabled you can go ahead and submit the form. Yo
 
 You can either “Cancel” or proceed to submit the data by clicking the “Yes, Send Data” button.
 
-<figure><img src="../../../.gitbook/assets/image (40) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
 
 **Validating Details**
 
@@ -388,7 +388,7 @@ At this point, the agreement and company details are validated.
 
 If the allocation data you are submitting belongs to a newly registered agreement, then it is verified in the backend system. After requesting the new agreement in the Setup Wizard, your SoftwareONE Account Manager receives an email with all of the agreement information. Propagating data across all systems may take up to 24 hours. If the agreement has not been set up yet, then an error message will be displayed. It is recommended that you try submitting the form again the next working day.
 
-<figure><img src="../../../.gitbook/assets/image (41) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 
 If you continue to get the error message, please report this to your Account Manager to get this set up in the database. Once this has been done you will be able to submit the form.
 
@@ -420,7 +420,7 @@ EA Reporting can be found under the “Manage” menu option as shown below.
 
 Once you click on “Enterprise Agreement” under the “Manage” menu you are taken to the “EA Reporting” page.
 
-<figure><img src="../../../.gitbook/assets/image (42) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
 There are two types of permissions for the EA module i.e. **EA Admin** and **EA User**. Based on those permissions, the UI and available options on this page might differ as explained later in this document.
 
@@ -432,11 +432,11 @@ With the **EA User** permissions, the user has restricted access to information 
 
 A person with EA User permission would see the below user interface on the EA Reporting page.
 
-<figure><img src="../../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
 At the top of the reporting page, filters are available which users can select to see required data as shown in the screenshot below:
 
-<figure><img src="../../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 Once you have selected the values for these filters, you need to click on the “Search” button to render the data of your search.
 
@@ -448,7 +448,7 @@ Profile filter is available only if the selected agreement has product profiles 
 
 On the right-hand side of filters, there are a few more options available:
 
-<figure><img src="../../../.gitbook/assets/image (45) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
 
 * **Agreement Details** – This takes you to the “License Agreement Details” page for the selected contract in “Agreement”
 * **Show Agreement Price Sheets** – This can be used to see the price sheet being used for this agreement. It is a reflection of the data submitted via the Wizard Setup
@@ -459,7 +459,7 @@ On the right-hand side of filters, there are a few more options available:
 
 By default, the user lands on the Overview page as shown below:
 
-<figure><img src="../../../.gitbook/assets/image (46) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
 
 If the user clicks on any of the line items, they will be navigated to a detailed view for that particular product, as shown below. The product filter gets set to the value you clicked on.
 
@@ -467,13 +467,13 @@ If the user clicks on any of the line items, they will be navigated to a detaile
 
 On the “Overview” page if the user clicks on any item in the grid, or selects a specific company/ product using the filters they are navigated to the ”Detailed” view (shown below) and quick filters are visible. Data available on the “Detailed” page represents possible report entities. If product profiles are used, then only locations bound to those product profiles will be displayed. The same applies to the “Location” view where only products available for a particular location will be displayed.
 
-<figure><img src="../../../.gitbook/assets/image (47) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 
 #### Quick Filters <a href="#post-3370-_toc513023098" id="post-3370-_toc513023098"></a>
 
 Quick filters are only visible on the “Detailed” page view, and the user can switch them on/off to enable or disable them.
 
-<figure><img src="../../../.gitbook/assets/image (48) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
 
 **Recent TrueUp**
 
@@ -481,45 +481,45 @@ Recent TrueUp is visible on both the “Overview” page and the “Details” p
 
 It reduces the number of results in the data grid i.e. if “Recent TrueUp” it is enabled, then the user will only see data for the most recently opened and last submitted EA TrueUp as shown in Figure 2 below.
 
-<figure><img src="../../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 **Only Changed**
 
 Shows only those records where the user has made a change as shown in the screenshot below:
 
-<figure><img src="../../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 **Show Costs**
 
 Enabling this filter will show the license cost instead of license quantities. If this is set to “Off”, the page will show the license quantities as shown below.
 
-<figure><img src="../../../.gitbook/assets/image (52) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
 
 **Costs Share**
 
-<figure><img src="../../../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 
 Enabling this will show the Software Assurance cost share for the selected product. If this is set to “Off”, these values will be hidden as shown below.
 
-<figure><img src="../../../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (55) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
 **Product Summary**
 
 If this is set to “On”, the user will see the license summary for the selected.
 
-<figure><img src="../../../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (57) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 #### Scenarios <a href="#post-3370-_toc513023099" id="post-3370-_toc513023099"></a>
 
 Enables users to create different scenarios which is useful to simulate different allocations of assets.
 
-<figure><img src="../../../.gitbook/assets/image (58) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
 
 Users can create a new scenario by clicking on the “New” button and providing the below information:
 
@@ -531,7 +531,7 @@ If you see this icon against any record, it depicts that the total number of ava
 
 The desired state is not to have any such indicators.
 
-![](<../../../.gitbook/assets/image (59) (1).png>)
+![](<../../../.gitbook/assets/image (301).png>)
 
 #### Action Column <a href="#post-3370-_toc513023101" id="post-3370-_toc513023101"></a>
 
@@ -540,13 +540,13 @@ On the detailed page, there is a column called “Actions” and this has two po
 * Change
 * Details
 
-<figure><img src="../../../.gitbook/assets/image (60) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
 
 **Change**
 
 Clicking this option takes you to the below pop-up window.
 
-<figure><img src="../../../.gitbook/assets/image (61) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
 
 This shows the current required quantity. Users can change this field and can also add comments to support the changes.
 
@@ -558,7 +558,7 @@ If any record is updated using this feature, an email is sent to the Account Man
 
 The “Details” option displays the history of the given report entity i.e. when a number of licenses have been changed within a given location. Additionally, it allows users to commit the current value set in the required quantity, with comments, which will be visible to the admin.
 
-<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
 
 #### User Responsibilities – Reporting Usage <a href="#post-3370-_toc513023102" id="post-3370-_toc513023102"></a>
 
@@ -568,7 +568,7 @@ To report the required quantity, they should have the “EA Reporting” window 
 
 The “Up” arrow shows the quantity has been increased from the reported quantity and the “Down” arrow shows the required quantity has been decreased.
 
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
 
 In order to report the usage/required quantity, users’ needs to:
 
@@ -587,13 +587,13 @@ On the detailed page, there is a column in grid called “Actions” and this ha
 * Change
 * Details
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
 
 **Change Window**
 
 Clicking this option takes you to below pop-up window.
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
 
 This window shows the current required quantity. Users can change this field and they can add comments to support these changes.
 
@@ -605,11 +605,11 @@ If any record is updated using this feature, an email is sent to the Account Man
 
 The “Details” option displays the history of the cells i.e. when a particular value was changed. Additionally, it allows the user to commit the current value set in the required quantity with comments which will be visible to the admin.
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
 
 Once it is committed, users will see a lock symbol in the grid.
 
-<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
 
 The lock symbol means users cannot make any further changes. If any change is required, it has to be made using the “Change” option under the “Actions” column which will trigger an email to the Account Manager.
 
@@ -656,13 +656,13 @@ In this scenario, the EA Admin is reporting the TrueUp. First of all the EA Admi
 
 In this case, the total required licenses are 15, whereas from previous purchases the Admin only has 7 licenses. This implies that 8 additional licenses are required in order to be compliant again.
 
-<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
 The next step would be for the Admin to check the details reported by all companies and look at any change in the usage. As explained above, the up and down arrow indicators displayed in the cells represent changes in usage. “Only changed” filter can preselect locations/products with changed license count.
 
 The below screenshot shows the usage and the changes reported.
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
 We can see that license usage in France has increased by 3 and in Great Britain it has increased by 4.
 
@@ -670,13 +670,13 @@ These locations would need more licenses.
 
 Here the Admin can decide which location is appropriate to buy these additional licenses based on tax rates and other factors. The Admin can then add license quantity accordingly against “TrueUp Quantity” for those locations.
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 **Scenario 2 – Optimization**
 
 In this scenario, the total required licenses equals 10, whereas from previous purchases the Admin only has 4 licenses. This implies that 6 additional licenses are required in order to be compliant again.
 
-<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 
 We can see that license usage in France has increased by 5 and in Great Britain it has increased by 3.
 
@@ -686,7 +686,7 @@ The two available licenses in Philadelphia can be used by France or Great Britai
 
 Here the Admin can decide which location is appropriate to buy these additional 6 licenses based on tax rates and other factors. The Admin can add license quantity accordingly against “TrueUp Quantity” for those locations.
 
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
 #### Additional Access <a href="#post-3370-_toc513023105" id="post-3370-_toc513023105"></a>
 

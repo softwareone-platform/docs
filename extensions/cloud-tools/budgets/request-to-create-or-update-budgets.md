@@ -14,7 +14,7 @@ Follow these steps to request a new budget:
 
 1. Select the **Request** option corresponding to the group.
 
-<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption><p>Request option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (577).png" alt=""><figcaption><p>Request option</p></figcaption></figure>
 
 2. In the **Budget Request** form, enter the budget amount and then confirm your request. The budget owner of the parent Custom Group will receive your request and create the budget.
 

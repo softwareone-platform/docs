@@ -16,7 +16,7 @@ Follow these steps to enable or disable a licensee:
 2. Click the actions icon (**•••**) for the required licensee and select **Enable** or **Disable**. &#x20;
 3. Alternatively, click the licensee's name. When the details page of your selected licensee opens, click the down arrow and then select **Enable** or **Disable**. The following image shows the **Disable** option.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (427).png" alt=""><figcaption><p>Disable a licensee</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (916).png" alt=""><figcaption><p>Disable a licensee</p></figcaption></figure>
 
 The licensee is enabled or disabled, depending on your chosen action, and a confirmation message is displayed. The **Licensees** page displays the updated status of the licensee.
 

@@ -2,7 +2,7 @@
 description: View and generate reports for your Microsoft SPLA contract.
 ---
 
-# Service provider dashboard
+# Service Provider Dashboard
 
 The Service Provider Dashboard allows you to visualize your Service Provider Licensee Agreement (SPLA) contract and its cost-related data.&#x20;
 
@@ -14,7 +14,7 @@ The Dashboard page is organized into various sections, comprising filters and a 
 
 On the dashboard, you can select a date range for your SPLA report and use filter options to control the data you want to visualize. You can filter by currency, agreements, and contracts, and use **Show more options** to select the advanced Report and Product filters. You can also choose if you want to show the total quantity and the Product/Month graph on the dashboard.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption><p>Filter options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (779).png" alt=""><figcaption><p>Filter options</p></figcaption></figure>
 
 After you've applied the filters, click **Submit**. The following data will be displayed on the dashboard:
 
@@ -23,7 +23,7 @@ After you've applied the filters, click **Submit**. The following data will be d
 * The monthly costs by country.
 * The distribution of costs by pool.
 
-<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption><p>Data visaulization</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (780).png" alt=""><figcaption><p>Data visaulization</p></figcaption></figure>
 
 After the data appears, you can further refine your filters by clicking on any legend within a diagram. To adjust or clear your current filters, click **Reset** or **Remove filters**, respectively.&#x20;
 

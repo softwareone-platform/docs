@@ -8,7 +8,7 @@ description: Learn about the fields and actions available on the Sellers page.
 
 The **Sellers** page, located under **Settings** > **Sellers**, displays all sellers that are mapped to your account.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (338).png" alt=""><figcaption><p>Sellers page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (827).png" alt=""><figcaption><p>Sellers page</p></figcaption></figure>
 
 For each seller, you can view the following information:&#x20;
 
@@ -24,7 +24,7 @@ The details page of a seller displays additional information about the seller. Y
 
 When you open the details page of a seller, it shows the seller's name, marketplace ID, and status.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (461).png" alt=""><figcaption><p>Details page of a seller</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (949).png" alt=""><figcaption><p>Details page of a seller</p></figcaption></figure>
 
 The page also contains the following tabs:
 

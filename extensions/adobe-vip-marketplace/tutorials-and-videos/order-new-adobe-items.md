@@ -16,7 +16,7 @@ Video tutorial: How to order new Adobe items
 
 Before starting this tutorial, make sure that the agreement you want to use is **Active**.
 
-## 1**.** Launch the Purchase wizard
+## &#x31;**.** Launch the Purchase wizard
 
 1. Navigate to the **Products** page (**Marketplace** > **Products**) and click **Adobe VIP Marketplace for Commercial**.
 
@@ -37,7 +37,7 @@ The purchase wizard starts and the **Select agreement** section of the wizard is
 
 When you click **Next**, the **Select Items** section of the wizard is displayed directly. All other sections are skipped by default because the details are fetched from your agreement.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (961).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
 ## 3. Add new items
 
@@ -61,14 +61,14 @@ When you click **Next**, the **Select Items** section of the wizard is displayed
 
 Review the details of your change order and click **Place order** to complete your purchase.
 
-<figure><img src="../../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (967).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
 
 ## 6. View your order summary
 
 1. View your order summary and the latest status message.&#x20;
 2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-<figure><img src="../../../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption><p>Order summary </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (963).png" alt=""><figcaption><p>Order summary </p></figcaption></figure>
 
 ## Next steps
 

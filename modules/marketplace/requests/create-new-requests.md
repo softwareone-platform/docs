@@ -17,15 +17,15 @@ Follow these steps to create a new request:
 1. Navigate to the **Products** page (**Marketplace** > **Products**) and find the listing from the catalog.
 2. Click the option to contact the vendor. Alternatively, click the name of the product. When the details page of your selected product opens, click the required option in the upper right corner.
 
-<figure><img src="../../../.gitbook/assets/image (393).png" alt=""><figcaption><p>Contact Us option on the details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (882).png" alt=""><figcaption><p>Contact Us option on the details page</p></figcaption></figure>
 
 3. In the **Request Details** section, provide the details of your request and click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (394).png" alt=""><figcaption><p>Request details section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (883).png" alt=""><figcaption><p>Request details section</p></figcaption></figure>
 
 4. In the **Review Request** section, review the information and click **Submit Request**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (395).png" alt=""><figcaption><p>Review request section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (884).png" alt=""><figcaption><p>Review request section</p></figcaption></figure>
 
 Your request is submitted and assigned a **Processing** status. Click **Close** to close the page or click **View Request** to open the request's details page.
 

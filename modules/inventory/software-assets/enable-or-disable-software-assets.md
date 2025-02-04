@@ -2,7 +2,7 @@
 description: Manage the Software Assets module.
 ---
 
-# Enable or disable software assets
+# Enable or Disable Software Assets
 
 ## Before you begin
 
@@ -30,11 +30,11 @@ Follow these steps to deactivate the module:
 1. Navigate to the **Cloud Tenant Setup** page.
 2. In the **Actions** column, click **Manage**.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption><p>Cloud Tenant Setup page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (753).png" alt=""><figcaption><p>Cloud Tenant Setup page</p></figcaption></figure>
 
 3. Click **Disable Software Assets**. Your software assets are removed from all the Cloud modules.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption><p>Disable Software Assets option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (752).png" alt=""><figcaption><p>Disable Software Assets option</p></figcaption></figure>
 
 Note that the **Remove duplicate transactions** option is enabled by default. It means that transactions relating to Azure or Office 365 won't be visible in the Resources, Budgets, and Consumption modules. If you disable the option, the changes take effect after 24 hours.
 

@@ -46,7 +46,7 @@ The **Scheduled** tab displays the scheduled report configurations and allows yo
 
 Note that you must have the `SCHEDULED_REPORTING` permission to access this tab.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Scheduled tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Scheduled tab</p></figcaption></figure>
 
 On this tab, you can view the following details:
 
@@ -124,7 +124,7 @@ Next, confirm that you want to delete the report. Note that deleted reports cann
 
 The **History** tab displays all reports that you've generated. The list includes scheduled and run-once reports. From the **Reports History** page, you can download, send, delete, or edit a report.
 
-<figure><img src="../../../.gitbook/assets/image (276).png" alt=""><figcaption><p>History tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (743).png" alt=""><figcaption><p>History tab</p></figcaption></figure>
 
 On this tab, you can view the following details:
 
@@ -220,7 +220,7 @@ Follow these steps to create a template:
 
 You can edit or delete your report template by selecting the template and choosing **Edit or Delete**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption><p>Edit or delete a template</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (640).png" alt=""><figcaption><p>Edit or delete a template</p></figcaption></figure>
 
 {% hint style="info" %}
 * You can edit all templates, except the default template.&#x20;

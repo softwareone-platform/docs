@@ -24,7 +24,7 @@ Clicking **Invoices** opens up the **Invoices** page, where you can view and sea
 
 Displays your spending information from the last 3 months. You can view more details and get a breakdown of your spending if you hover over one of the columns in the chart. Clicking the section opens up the Consumption report where you can see more details, and use filters to narrow down your results.
 
-<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
 
 ### Simple for AWS support tickets
 

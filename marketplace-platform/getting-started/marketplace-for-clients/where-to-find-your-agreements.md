@@ -1,4 +1,4 @@
-# Where to find your agreements
+# Where to Find Your Agreements
 
 The **Agreements** page is where you can access all your agreements in one place.&#x20;
 
@@ -10,7 +10,7 @@ To view a list of your agreements, select the main menu of the Client Portal and
 
 From here, you can view your agreement name, the product it relates to, agreement status, and other details. To learn more, see [Agreements interface](../../../modules/marketplace/agreements/agreements-interface.md).
 
-<figure><img src="../../../.gitbook/assets/image (354).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (843).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 ## Viewing an agreement's details <a href="#viewing-your-orders-details" id="viewing-your-orders-details"></a>
 
@@ -20,7 +20,7 @@ You'll then be able to view details like the subscriptions linked to the agreeme
 
 From the details page, you can also self-manage your agreement and:
 
-* [Terminate your agreement](https://docs.platform.softwareone.com/\~/changes/mVP8mnWO2wFE1657Z1oX/modules/marketplace/agreements/manage-your-agreements/terminate-agreements).
+* [Terminate your agreement](https://docs.platform.softwareone.com/~/changes/mVP8mnWO2wFE1657Z1oX/modules/marketplace/agreements/manage-your-agreements/terminate-agreements).
 * [Edit the name of your agreement.](../../../modules/marketplace/agreements/rename-an-agreement.md)
 * [Edit your agreement's default ID and assign a new ID](../../../modules/marketplace/agreements/edit-agreement-id.md).
 

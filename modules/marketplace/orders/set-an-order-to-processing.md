@@ -15,10 +15,10 @@ After you've taken the required action and fixed the parameters, you must click 
 Follow these steps to set your order to **Processing**:
 
 1. Navigate to the **Orders** page (**Marketplace** > **Orders**). A list of your orders is displayed.
-2. Click the relevant order. If you have a long list of orders, use filters to find orders with the **Querying** status**.**&#x20;
+2. Click the relevant order. If you have a long list of orders, use filters to find orders with the **Querying** statu&#x73;**.**&#x20;
 3. Review the message in the header and fix the parameters as necessary. The following image shows an example message:
 
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (856).png" alt=""><figcaption></figcaption></figure>
 
 4. Click **Process**. The order status changes to **Processing**. If the **Process** button is unavailable, make sure you've fixed all errors in the **Ordering** parameters.&#x20;
 

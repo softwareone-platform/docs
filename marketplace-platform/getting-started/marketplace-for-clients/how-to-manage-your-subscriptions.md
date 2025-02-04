@@ -10,7 +10,7 @@ You can view your subscriptions by selecting the main menu of the Client Portal 
 
 The page displays the important information regarding your subscriptions. To view the details of an individual subscription, click the subscription name. For more information, see [Subscriptions Interface](../../../modules/marketplace/subscriptions/subscriptions-interface.md).
 
-<figure><img src="../../../.gitbook/assets/image (372).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (861).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 ## Editing subscription licenses
 
@@ -26,7 +26,7 @@ If you want to add a new item to your subscription, you can edit the agreement. 
 
 This can be done through the **Buy more** option on the agreement's details page. For detailed instructions, see [How to add new items to your agreement](add-items-to-an-agreement.md).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p> Buy more option on the details page of an agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption><p> Buy more option on the details page of an agreement</p></figcaption></figure>
 
 ## Terminating subscriptions
 

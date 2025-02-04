@@ -17,7 +17,7 @@ To add new licenses or lower the quantity of your existing licenses:
 2. Select the required subscription.&#x20;
 3. When the details page of your selected subscription opens, click **Edit** in the upper right.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (376).png" alt=""><figcaption><p>Edit option on the details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (865).png" alt=""><figcaption><p>Edit option on the details page</p></figcaption></figure>
 
 4. In the **Edit subscription** wizard, update the quantity as needed in the **New qty** field. As you increase or decrease the quantity, the sales price will change. Click **Next**.
 5. Update the reference ID and add your comments in the **Notes** field. Click **Next**.
@@ -37,10 +37,10 @@ While the change order is processing, the subscription and the agreement will ha
 [upsize-adobe-subscription.md](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../extensions/microsoft-csp/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md" %}
-[buy-more-licenses-for-microsoft-365-subscription.md](../../../extensions/microsoft-csp/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md)
+{% content-ref url="../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md" %}
+[buy-more-licenses-for-microsoft-365-subscription.md](../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../extensions/microsoft-csp/tutorials-and-videos/order-additional-microsoft-azure-subscriptions.md" %}
-[order-additional-microsoft-azure-subscriptions.md](../../../extensions/microsoft-csp/tutorials-and-videos/order-additional-microsoft-azure-subscriptions.md)
+{% content-ref url="../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-additional-microsoft-azure-subscriptions.md" %}
+[order-additional-microsoft-azure-subscriptions.md](../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-additional-microsoft-azure-subscriptions.md)
 {% endcontent-ref %}

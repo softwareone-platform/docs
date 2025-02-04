@@ -22,7 +22,7 @@ Follow these steps to edit buyer details:
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (353).png" alt="" width="563"><figcaption><p>Contact person section</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (842).png" alt="" width="563"><figcaption><p>Contact person section</p></figcaption></figure>
 4. Click **Save**.
 
 A message is displayed stating that the operation is successful.&#x20;

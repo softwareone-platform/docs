@@ -12,7 +12,7 @@ If you need to find a specific order, you can use the filter option to refine yo
 
 You can use a single filter or create a combination of filters by selecting different fields, operators, and values.
 
-1. On the **Orders** page, click the <img src="../../../.gitbook/assets/image (481).png" alt="" data-size="line"> **Filter** button.
+1. On the **Orders** page, click the <img src="../../../.gitbook/assets/image (1004).png" alt="" data-size="line"> **Filter** button.
 
 <figure><img src="../../../.gitbook/assets/Orders (2).png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
 

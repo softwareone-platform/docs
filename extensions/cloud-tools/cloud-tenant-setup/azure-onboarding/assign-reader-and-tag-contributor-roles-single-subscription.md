@@ -25,28 +25,28 @@ Follow these steps to grant access:
 1. Launch the [Azure Portal](https://portal.azure.com/#home) and search for **Subscriptions**.
 2. On the **Subscriptions** page, choose the subscription you want to integrate with the Client Portal.
 
-<figure><img src="../../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
 3. Select **Access control (IAM).**
 
-<figure><img src="../../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
 4. Select the **Role assignments** tab.
 
-<figure><img src="../../../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
 
 5. Click **Add** > **Add role assignment**.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
 
 6. Select **Reader** from the **Role** menu and then search for **Pyra**. Choose **PyraCloud (Azure)** and click **Save**.
 
-<figure><img src="../../../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
 
 7. Select **Tag Contributor** from the **Role** menu and then search for **Pyra**. Choose **PyraCloud (Azure)** and select **Save**.
 
-<figure><img src="../../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
 
 The access is granted.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>

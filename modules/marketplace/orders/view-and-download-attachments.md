@@ -14,7 +14,7 @@ Follow these steps to view and download your file attachments:&#x20;
 2. Locate the order you want to manage and click the order number.
 3. Select the **Attachments** tab. All attachments for your order, including PDF files and license keys, are displayed.
 
-<figure><img src="../../../.gitbook/assets/image (368).png" alt=""><figcaption><p>Attachments tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (857).png" alt=""><figcaption><p>Attachments tab</p></figcaption></figure>
 
 4. Click the file in the **Reference** column to download the attachments to your system.&#x20;
 

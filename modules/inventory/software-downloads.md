@@ -71,5 +71,5 @@ The **History** tab displays all of your file uploads and downloads.  You can vi
 
 Follow these steps to export the report:
 
-1. Select the **Export** option**.**
+1. Select the **Export** optio&#x6E;**.**
 2. Choose **Export to CSV** or **Export to Excel.** Your download will begin.

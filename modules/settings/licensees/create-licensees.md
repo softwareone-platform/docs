@@ -23,19 +23,19 @@ Follow these steps to create a new licensee:
    * **Description** - (Optional) Add a description for the licensee.
 4. In the **Buyers** section, choose the legal entity for your transactions. Note that you can link a licensee to one buyer only. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (462).png" alt=""><figcaption><p>Buyers section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (950).png" alt=""><figcaption><p>Buyers section</p></figcaption></figure>
 
 5. In the **Sellers** section, select the SoftwareOne entity that will facilitate transactions. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (463).png" alt=""><figcaption><p>Seller section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (951).png" alt=""><figcaption><p>Seller section</p></figcaption></figure>
 
 6. In the **Contact person** section, choose if you want to assign a contact to the licensee. If assigning a contact person, you can select an existing user from the list or manually enter contact details. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (464).png" alt=""><figcaption><p>Contact person section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (952).png" alt=""><figcaption><p>Contact person section</p></figcaption></figure>
 
 7. In the **Address** section, choose the address. You can use the same address as that of the buyer, or provide a new address. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (465).png" alt=""><figcaption><p>Address section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (953).png" alt=""><figcaption><p>Address section</p></figcaption></figure>
 
 8. In the **Overview** section, review the details and click **Add**.&#x20;
 

@@ -21,7 +21,7 @@ Follow these steps to add a new member:
 1. Navigate to the **Users** page (**Settings** > **Users**).
 2. Click **Add**. The **Add user** page opens.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (324).png" alt=""><figcaption><p>Add user page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (813).png" alt=""><figcaption><p>Add user page</p></figcaption></figure>
 
 3. In the **User details** section, provide the following details and click **Next**:
    * **First name** - (Required) The first name of the individual associated with the account.
@@ -31,7 +31,7 @@ Follow these steps to add a new member:
    * **Phone number** - (Optional) The individual's phone number.&#x20;
 4. In the **Groups** section, select the groups to add the individual to and click **Next**. You must choose at least one group. If you have several groups, use **Search** to find the group.
 
-<figure><img src="../../../.gitbook/assets/image (383).png" alt=""><figcaption><p>Groups section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (872).png" alt=""><figcaption><p>Groups section</p></figcaption></figure>
 
 5. In the **Overview** section, review the information and click **Add**.&#x20;
 

@@ -9,7 +9,7 @@ If an invitation is not accepted within seven days from when it was sent, it exp
 {% hint style="info" %}
 Follow the steps in this topic only if the individual's original invitation has expired and they are receiving the following message:&#x20;
 
-![](<../../../.gitbook/assets/image (329).png>)
+![](<../../../.gitbook/assets/image (818).png>)
 
 If the original link is still valid, you can resend the email invitation. For more information, see [Resend Invitations](resend-invitation.md).
 {% endhint %}
@@ -22,7 +22,7 @@ Follow these steps to generate a new invitation:
 2. Click the actions icon (**•••**) for the user to reinvite. Make sure that the **Joined** column displays the status as **Invitation Expired**.
 3. Click **Send new invitation**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (421).png" alt=""><figcaption><p>Send new invitation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Send new invitation</p></figcaption></figure>
 
 A new invitation email is sent to the individual, and a confirmation message is displayed on the page.&#x20;
 

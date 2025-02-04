@@ -31,13 +31,13 @@ This tab provides information about child budget amounts and utilization.&#x20;
 
 Consumption in child budgets is included in the parent budget utilization value. You can edit the child budget amounts by selecting **Edit Budgets**.
 
-<figure><img src="../../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Child budgets</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (773).png" alt=""><figcaption><p>Child budgets</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Top 50 Resources" %}
 This tab shows the top-consuming resources of the displayed budget. You can expand a resource to view more details.
 
-<figure><img src="../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Top 50 resources</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (774).png" alt=""><figcaption><p>Top 50 resources</p></figcaption></figure>
 
 * Select **View in Resource Manager** to open resource details in Resource Manager.
 * Select **View Consumption** to open resource spend analytics.

@@ -11,7 +11,7 @@ Follow these steps to copy your token values:
 1. Navigate to the **API token** page (**Settings** > **API tokens**).
 2. Find the token to copy and click the token name. The details page of your selected token opens.
 
-<figure><img src="../../../.gitbook/assets/image (337).png" alt=""><figcaption><p>Details page of a token</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (826).png" alt=""><figcaption><p>Details page of a token</p></figcaption></figure>
 
 3. From the **General** tab, copy the values as needed.
    * To copy the endpoint, click the copy icon for the **API endpoint**.&#x20;

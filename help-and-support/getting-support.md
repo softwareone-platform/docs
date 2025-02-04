@@ -7,7 +7,7 @@ description: Create a ticket through the platform or send us an email.
 Before contacting the Marketplace Support team, note the following points:
 
 * Please submit your query in English to ensure we can assist you effectively.
-* Consider browsing our [Frequently Asked Questions](faqs/) to see if your question has already been answered. You can also see our [Adobe](../extensions/adobe-vip-marketplace/tutorials-and-videos/) and [Microsoft CSP](../extensions/microsoft-csp/tutorials-and-videos/) tutorials for step-by-step guidance on ordering and managing subscriptions.
+* Consider browsing our [Frequently Asked Questions](faqs/) to see if your question has already been answered. You can also see our [Adobe](../extensions/adobe-vip-marketplace/tutorials-and-videos/) and [Microsoft CSP](../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/) tutorials for step-by-step guidance on ordering and managing subscriptions.
 * For help with your password or user management, see [Update Password](faqs/update-password.md) and [Settings](../modules/settings/).
 
 If you still need assistance, you can contact us through email or create a ticket through the platform. &#x20;

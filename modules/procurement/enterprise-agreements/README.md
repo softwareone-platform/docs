@@ -4,7 +4,7 @@ description: >-
   global scale from collection to license allocation.
 ---
 
-# Enterprise agreements
+# Enterprise Agreements
 
 The Microsoft Enterprise Agreement offers organizations a cost-effective way to acquire the latest Microsoft technology to help standardize IT infrastructure and simplify license management. A Microsoft Enterprise Agreement offers organizations a manageable volume-licensing program that gives them the flexibility to buy cloud services and software licenses under one agreement.
 
@@ -16,7 +16,7 @@ Although organizations with Enterprise Agreements may place any number of orders
 
 It is important to note that the annual TrueUp applies only to products that organizations have already licensed under their current Enterprise Agreement. New products and online services that are not in the current EA must be purchased in the month they are first used. If organizations have not increased device or user counts or used any additional Enterprise Agreement products within the calendar year, they still need to submit an Update Statement (also called a zero-usage order), which must be signed by an authorized signatory within the organization.
 
-<figure><img src="../../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (722).png" alt=""><figcaption></figcaption></figure>
 
 ### EA TrueUp Module <a href="#pyracloud-ea-trueup-module" id="pyracloud-ea-trueup-module"></a>
 

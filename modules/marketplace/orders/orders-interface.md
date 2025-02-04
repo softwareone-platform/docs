@@ -4,7 +4,7 @@
 
 The **Orders** page, located under **Marketplace** > **Orders**, gives you a complete list of your orders, including purchase orders, change orders, and terminate orders.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (851).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 
 On this page, you can view the following order details:
 
@@ -35,7 +35,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (852).png" alt=""><figcaption><p>Details page</p></figcaption></figure>
 
 The details page of an order contains several tabs that display corresponding order information:
 

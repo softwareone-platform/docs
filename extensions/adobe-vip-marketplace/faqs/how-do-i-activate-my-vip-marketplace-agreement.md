@@ -11,13 +11,13 @@ To complete your draft purchase order, follow these steps:
    * Navigate to the [Orders](../../../modules/marketplace/orders/) page (**Marketplace** > **Orders**) and click the Adobe order in the **Draft** state. The details page of the draft order opens.&#x20;
 2. Select the **Items** tab and click **Edit** in the upper-right section of the page.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (458).png" alt=""><figcaption><p>Items tab of your draft order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (946).png" alt=""><figcaption><p>Items tab of your draft order</p></figcaption></figure>
 
 The purchase wizard opens and displays the **Select Items** section.
 
 3. Review the item details, including quantity and prices, and click **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (454) (1).png" alt=""><figcaption><p>Select Items section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (942).png" alt=""><figcaption><p>Select Items section</p></figcaption></figure>
 
 {% hint style="info" %}
 You cannot add new items or change the quantity of existing items within a draft purchase order. Items can be added or updated only after you've accepted the terms and activated your agreement.
@@ -25,11 +25,11 @@ You cannot add new items or change the quantity of existing items within a draft
 
 4. In the **Order details** section, update the agreement name and provide other details as necessary. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (455).png" alt=""><figcaption><p>Order details section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (943).png" alt=""><figcaption><p>Order details section</p></figcaption></figure>
 
 5. In the **Review order** section, read the terms and then click **Place order**.
 
-<figure><img src="../../../.gitbook/assets/image (456).png" alt=""><figcaption><p>Review order section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (944).png" alt=""><figcaption><p>Review order section</p></figcaption></figure>
 
 Your order is submitted for processing. Upon completion, your Adobe VIP Marketplace account is activated in the Marketplace Platform.&#x20;
 

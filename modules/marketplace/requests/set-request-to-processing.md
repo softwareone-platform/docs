@@ -21,13 +21,13 @@ Follow these steps to set your request to **Processing**:&#x20;
 
 1. Navigate to the **Requests** page (**Marketplace** > **Requests**). A list of your requests is displayed.
 
-<figure><img src="../../../.gitbook/assets/image (398).png" alt=""><figcaption><p>Requests page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (887).png" alt=""><figcaption><p>Requests page</p></figcaption></figure>
 
 2. Click the request you want to update. The details page of your selected request opens.&#x20;
 3. Make changes as necessary and then click **Process**.&#x20;
 4. In **Process request**, add an optional message and click **Process**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (399).png" alt="" width="563"><figcaption><p>Process request dialog</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (888).png" alt="" width="563"><figcaption><p>Process request dialog</p></figcaption></figure>
 
 5. The status of your request changes from **Querying** to **Processing**. If you added comments in the **Process request** dialog, your comments are displayed and visible to everyone on the **Activity** tab.&#x20;
 

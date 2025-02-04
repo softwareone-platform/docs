@@ -27,13 +27,13 @@ The **SaaS Office365 Consumption Details Report** report displays the cost or qu
 
 * The cost data always reports the initial monthly cost on the first day of the month and additional costs due to subscription updates on the day it happened. The cost data is calculated in a single currency.
 
-<figure><img src="../../../.gitbook/assets/image (187).png" alt=""><figcaption><p><strong>Monthly initial cost and subscription update cost</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (654).png" alt=""><figcaption><p><strong>Monthly initial cost and subscription update cost</strong></p></figcaption></figure>
 
 
 
 * The quantity data shows the maximum number of subscriptions by product subscription per month.
 
-<figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption><p><strong>Subscription quantity</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (655).png" alt=""><figcaption><p><strong>Subscription quantity</strong></p></figcaption></figure>
 
 ### **Office 365Simple Multiple Agreements Tenant**
 
@@ -51,11 +51,11 @@ The cost data for Office365 EA Tenant uses the average price set manually in the
 
 If the price for a subscription is not set, an information banner is displayed as shown in the following image:
 
-<figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption><p><strong>Missing prices information banner</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (657).png" alt=""><figcaption><p><strong>Missing prices information banner</strong></p></figcaption></figure>
 
 The price in the Price List Center is set for every subscription per month and the average calculation has to be done manually. All missing prices are visible under **Missing Prices**. If the historical quantity data is available, the cost data is recalculated starting from the **Effective Date**.
 
-<figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption><p><strong>Setting missing price</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (658).png" alt=""><figcaption><p><strong>Setting missing price</strong></p></figcaption></figure>
 
 ### **Office 365 Tenant with Mixed Purchase Agreements**
 
@@ -63,7 +63,7 @@ The cost data for an Office 365 Tenant with mixed purchase agreements (that is, 
 
 The Client Portal doesn't support setting custom prices for the subscriptions purchased through the Office 365 EA agreement. For Office 365 Tenants with mixed purchase agreements, an information banner is displayed.
 
-<figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption><p><strong>Mixed Purchase Agreements Banner</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (659).png" alt=""><figcaption><p><strong>Mixed Purchase Agreements Banner</strong></p></figcaption></figure>
 
 ## Understand the Office 365 Resource Spend <a href="#understand-the-office-365-resource-spend" id="understand-the-office-365-resource-spend"></a>
 
@@ -71,4 +71,4 @@ Azure Active Directory users and subscriptions are treated like **resources**. A
 
 Subscription **resource** cost is the cost of all subscriptions that are not assigned to any Azure Active Directory user (Subscription **resource** has a name set to Subscription name and “Unassigned Pool” suffix).
 
-<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption><p><strong>Office 365 Resource Spend</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (660).png" alt=""><figcaption><p><strong>Office 365 Resource Spend</strong></p></figcaption></figure>

@@ -4,7 +4,7 @@ The Marketplace Platform is a SaaS application with three user interfaces, each 
 
 The platform provides three distinct user interfaces namely, the Client Portal, Vendor Portal, and Operations Portal.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Marketplace Platform</p></figcaption></figure>
 
 * **Client Portal** - Accessed by our clients and partners for software procurement.&#x20;
 * **Vendor Portal** - Used by vendors for setting up and configuring products.
@@ -22,7 +22,7 @@ To access the platform, follow these steps:
 
 If you provide inaccurate credentials, an error message is displayed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (305).png" alt="" width="379"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (794).png" alt="" width="379"><figcaption></figcaption></figure>
 
 If you can’t remember your password, select the **Forgot password?** link on the **Sign-in** page and then follow the instructions. For more information, see [Update password](../../../help-and-support/faqs/update-password.md).
 

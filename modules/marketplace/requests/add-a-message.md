@@ -22,11 +22,11 @@ Follow these steps to add a new message:&#x20;
 2. Select the relevant request to which you want to add the message. The details page of your selected request opens.
 3. On the **Activity** tab, click **Add message**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (396).png" alt=""><figcaption><p>Add message option on the Activity tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (885).png" alt=""><figcaption><p>Add message option on the Activity tab</p></figcaption></figure>
 
 4. In **Add Message**, type your message. You can use the formatting options to style the text.
 
-<figure><img src="../../../.gitbook/assets/image (397).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (886).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Click **Add**. Your message is added and displayed on the **Activity** tab.
 

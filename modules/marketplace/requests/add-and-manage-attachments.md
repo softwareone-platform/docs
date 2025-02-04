@@ -19,12 +19,12 @@ Follow these steps to attach a file to your request:&#x20;
 
 1. Navigate to the **Requests** page (**Marketplace** > **Requests**). A list of your requests is displayed.
 
-<figure><img src="../../../.gitbook/assets/image (400).png" alt=""><figcaption><p>Requests page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (889).png" alt=""><figcaption><p>Requests page</p></figcaption></figure>
 
 2. Click the request you want to update. The details page of your selected request opens.&#x20;
 3. Select the **Attachments** tab and then click **Add**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (401).png" alt=""><figcaption><p>Add option on the Attachments tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (890).png" alt=""><figcaption><p>Add option on the Attachments tab</p></figcaption></figure>
 
 4. In **Add attachments**, do the following:
    1. In the **Name** field, provide a file name.
@@ -45,7 +45,7 @@ Follow these steps to edit or delete an attachment:
 1. From the **Requests** page (**Marketplace** > **Requests**), select the request you want to edit or delete. The details page of your selected request opens.
 2. Select the **Attachments** tab.
 
-<figure><img src="../../../.gitbook/assets/image (402).png" alt=""><figcaption><p>Attachments tab of the request</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (891).png" alt=""><figcaption><p>Attachments tab of the request</p></figcaption></figure>
 
 3. Click the actions icon (**•••**) and select **Edit** or **Delete** as needed.
    * If you selected **Edit**, upload the new attachment in **Edit attachment** and then save your changes.

@@ -16,16 +16,16 @@ Follow these steps to update the agreement ID:
 
 1. Navigate to the **Agreements** page (**Marketplace** > **Agreements**). A list of your agreements is displayed.
 
-<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (848).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 2. Select the agreement you want to edit. The details page of your selected agreement opens.
 3. Select the **Details** tab and then click **Edit**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption><p>Details tab of an agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (849).png" alt=""><figcaption><p>Details tab of an agreement</p></figcaption></figure>
 
 4. In **Additional ID**, enter the new ID and then click **Save**. The agreement ID is updated and displayed on the details page of the agreement.
 
-<figure><img src="../../../.gitbook/assets/image (361).png" alt="" width="563"><figcaption><p>Edit agreement ID</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (850).png" alt="" width="563"><figcaption><p>Edit agreement ID</p></figcaption></figure>
 
 ## Related topics
 

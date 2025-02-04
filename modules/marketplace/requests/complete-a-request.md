@@ -16,13 +16,13 @@ Follow these steps to complete a request:
 
 1. Navigate to the **Requests** page (**Marketplace** > **Requests**). The page displays all requests, including requests that are raised by other members of your account.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (412).png" alt=""><figcaption><p>Requests page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (901).png" alt=""><figcaption><p>Requests page</p></figcaption></figure>
 
 2. Select the request you want to complete. The details page of your selected request opens.&#x20;
 3. Click the down arrow next to **Process** and click **Complete**.&#x20;
 4. In the **Complete request** dialog, add your comments and click **Complete**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (413).png" alt="" width="563"><figcaption><p>Complete request</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (902).png" alt="" width="563"><figcaption><p>Complete request</p></figcaption></figure>
 
 Your request is completed and the **Status** column on the **Requests** page displays the updated status of your request.
 

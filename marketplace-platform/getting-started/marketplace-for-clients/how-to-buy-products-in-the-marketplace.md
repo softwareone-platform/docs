@@ -12,7 +12,7 @@ You can access the SoftwareOne Marketplace by signing in to your account and sel
 
 The **Products** page shows all the products that are available for you to order. The page displays products by the vendor name and a brief product description.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (409).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (898).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 To view detailed information about a product, click the product name.
 
@@ -22,11 +22,11 @@ You'll then see detailed product information, including the product's terms and 
 
 Once you've reviewed the product details and selected the product you want to buy, you can start the ordering process by clicking **Buy now**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (410).png" alt=""><figcaption><p>Product details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (899).png" alt=""><figcaption><p>Product details page</p></figcaption></figure>
 
 When you click the button, the Purchase Wizard opens. The wizard is designed to help you create a purchase order by guiding you through all the necessary steps.
 
-<figure><img src="../../../.gitbook/assets/image (431).png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (920).png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure>
 
 Note that the steps will vary depending on the product you are ordering and the product vendor. At a high level, you'll need to complete the following steps:
 
@@ -41,7 +41,7 @@ Note that the steps will vary depending on the product you are ordering and the 
 7. **Review summary** - See your order summary and the latest status message.
 
 {% hint style="info" %}
-For products, like Adobe and Microsoft, you'll need to complete additional steps when you're placing the order. For step-by-step guidance on these products, see [Adobe Tutorials ](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/)and [Microsoft Tutorials](../../../extensions/microsoft-csp/tutorials-and-videos/).
+For products, like Adobe and Microsoft, you'll need to complete additional steps when you're placing the order. For step-by-step guidance on these products, see [Adobe Tutorials ](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/)and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/).
 {% endhint %}
 
 ## Related topics

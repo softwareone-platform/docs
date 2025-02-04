@@ -19,7 +19,7 @@ Follow these steps to update the name of your agreement:
 
 1. Navigate to the **Agreements** page (**Marketplace** > **Agreements**). A list of your agreements is displayed.
 
-<figure><img src="../../../.gitbook/assets/image (357).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (846).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 2. Select the agreement you want to rename. The details page of your selected agreement opens.
 3. Click the chevron in the upper right and select **Rename**.

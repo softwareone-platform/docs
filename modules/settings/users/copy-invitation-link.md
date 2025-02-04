@@ -13,7 +13,7 @@ Follow these steps to copy the invitation link:
 1. On the **Users** page (**Settings** > **Users**), find the required user.
 2. Click the actions icon (**•••**) for the user and then click **Copy invitation link**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (418).png" alt=""><figcaption><p>Copy invitation link</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (907).png" alt=""><figcaption><p>Copy invitation link</p></figcaption></figure>
 
 3. Alternatively, click the user's name. When the details page opens, click the down arrow next to **Edit** and select **Copy invitation link**.&#x20;
 

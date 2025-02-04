@@ -22,11 +22,11 @@ Follow these steps to delete your draft order:
 2. Find the order you want to delete and click the order number. The details page of your selected order opens.&#x20;
 3. Click the down arrow (next to **Edit**) and then select **Delete**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (858).png" alt=""><figcaption></figcaption></figure>
 
 4. In the **Delete order** confirmation, click **Delete** to confirm your action.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (370).png" alt="" width="563"><figcaption><p>Delete order dialog</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (859).png" alt="" width="563"><figcaption><p>Delete order dialog</p></figcaption></figure>
 
 Your order is deleted and the order status changes from **Draft** to **Deleted** on the **Orders** page.
 

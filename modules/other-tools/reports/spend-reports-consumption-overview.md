@@ -33,11 +33,11 @@ The **drill-down** option allows very precise data analysis. Most of the reports
 
 The below screenshots show a drill-down scenario.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (44) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
 
 Choose a meter category, right-click on its data bar, and select the drill-down option from the context menu.
 
-<figure><img src="../../../.gitbook/assets/image (45) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (500).png" alt=""><figcaption></figcaption></figure>
 
 As a result, the cost chart of the meter subcategories, which are subcategories that exist under the selected meter category will be displayed. The sum of the cost of the meter subcategories is equal to the selected meter category cost. You can continue drilling down if there is another lower-level dimension provided for that chart (meter name in that case).
 
@@ -47,13 +47,13 @@ Use the **drill-up** option to go back to the upper level of the hierarchy. The 
 
 #### **Filter Report to Selected Data Item**
 
-In some cases, you might need to narrow the data context to a single data item (meter category, subscription, resource, etc.). Instead of setting an item as a filter, users can use the **Filter by…**option. This option works similarly to the drill-down option.&#x20;
+In some cases, you might need to narrow the data context to a single data item (meter category, subscription, resource, etc.). Instead of setting an item as a filter, users can use the **Filter by…**&#x6F;ption. This option works similarly to the drill-down option.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (46) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (501).png" alt=""><figcaption></figcaption></figure>
 
 This action will set the selected resource as a filter.
 
-<figure><img src="../../../.gitbook/assets/image (47) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
 
 Now the entire report has data scoped to this single resource. You can use any page of the report to analyze its consumption.
 
@@ -63,11 +63,11 @@ Selected report charts have the ability to slice data with the configured legend
 
 The following is an example of monthly consumption sliced with the meter category legend dimension.
 
-<figure><img src="../../../.gitbook/assets/image (48) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (503).png" alt=""><figcaption></figcaption></figure>
 
 You can change the legend dimension by choosing the legend picker (1) and selecting another dimension (2).
 
-<figure><img src="../../../.gitbook/assets/image (49) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (504).png" alt=""><figcaption></figcaption></figure>
 
 ### Changing the chart types
 
@@ -82,17 +82,17 @@ You can switch to different chart types or display data as a table to suit your 
 
 To change the visualization type, select the dropdown (1) and select the visualization type (2).
 
-<figure><img src="../../../.gitbook/assets/image (51) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
 
 ### Understanding the resource details
 
 If a chart provides resource data, you can navigate to resource details which are available in [Resources](https://help.pyracloud.com/knowledge-base/managing-tags-and-resources/). When a chart or a table is displayed, you can select the resource name.
 
-<figure><img src="../../../.gitbook/assets/image (52) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (507).png" alt=""><figcaption></figcaption></figure>
 
 Such navigation is also available when displaying a table.
 
-<figure><img src="../../../.gitbook/assets/image (53) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure>
 
 The selected resource details are displayed in a new Resources window.
 
@@ -102,11 +102,11 @@ Most of the report charts provide actual and predicted values. Predictions are c
 
 Below is an example of a chart that includes predicted values.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (54) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (509).png" alt=""><figcaption></figcaption></figure>
 
 Predictions can be disabled for a chart. Use the configuration option shown below. If the **Show Predictions** option is unchecked, users will only see actual values.
 
-<figure><img src="../../../.gitbook/assets/image (55) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (510).png" alt=""><figcaption></figcaption></figure>
 
 ### Filtering the data
 
@@ -114,7 +114,7 @@ Each report allows users to filter data in a number of ways. Selecting filters a
 
 *   Date Filter: The date filter marked below allows you to define the time range of the data you want to see on the report.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (57) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (512).png" alt=""><figcaption></figcaption></figure>
 
     The reset option sets the date range back to default. The default is 6 months back and 3 months forward from today’s date. The default time range adjusts to meet the first and last day of the month.
 
@@ -124,13 +124,13 @@ The AzureSimple Billing Consumption Details allows you to choose date ranges ref
 
 *   Advanced Filtering: Each report provides users with the ability to filter data. The set of filters (depending on the available report data characteristics) available in the section shown below, allows users to select specific filter values and narrow down the report to the data they want. &#x20;
 
-    <figure><img src="../../../.gitbook/assets/image (58) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
 
 ### Choosing the currency
 
 If a report provides consumption cost, then the currency of that cost is the currency defined in Budgets. The default currency is USD. To change the currency for all reports select the preferred currency from the list of available currencies.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (59) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (514).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 If the currency selected is a different currency from the billing currency – the most up-to-date exchange rates are applied. The exchange rates are updated daily by SoftwareOne using an external public rate source.
@@ -142,7 +142,7 @@ You can visualize and analyze your software assets spend. Each transaction is tr
 
 Transactions can be viewed separately in the report we designed for that purpose: Software Assets Spend Details or along with cloud resources using our consolidated report.
 
-<figure><img src="../../../.gitbook/assets/image (60) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (515).png" alt=""><figcaption></figcaption></figure>
 
 #### Metric selections
 
@@ -174,11 +174,11 @@ To do so, open the **Consolidated Consumption** report from the dropdown. Virtua
 
 The virtual resource costs are treated the same as any other resource costs (such as Azure or AWS).  You can analyze the cost of the virtual provider on its own.
 
-<figure><img src="../../../.gitbook/assets/image (62) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (517).png" alt=""><figcaption></figcaption></figure>
 
 Or in combination with your resource costs.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (63) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (518).png" alt=""><figcaption></figcaption></figure>
 
 ### Exporting the data
 
@@ -186,7 +186,7 @@ Most of the reports provide a list of consumption cost for each resource on the 
 
 To export the file, select **Export** and save the generated file on your system.
 
-<figure><img src="../../../.gitbook/assets/image (64) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The file generated is compliant with the list of columns provided in the details table. Customize table columns before exporting to adjust the list of columns in the generated file.

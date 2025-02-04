@@ -18,7 +18,7 @@ With the Marketplace Platform, you can manage cloud reservations that allow you 
 
 The platform gives you a central view to quickly check your reservation's health, and monitor savings, and utilization. This report is a part of our Spend Management Reporting. We enable reporting automatically when our system detects an RI purchase.
 
-<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (608).png" alt=""><figcaption></figcaption></figure>
 
 1. Recent average of your reservation utilization – you can check if there is any degradation in usage. If the average utilization is going down – resources that were utilizing RIs were likely deallocated.
 2. The Client Portal keeps track of your historical purchases so you can compare values at any time. For monitoring purposes look at **Active** status only.
@@ -28,7 +28,7 @@ The platform gives you a central view to quickly check your reservation's health
 
 The Client Portal transforms billing data in a way that allows you to effortlessly explore resources utilizing your RI at a given point in time.
 
-<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (609).png" alt=""><figcaption></figcaption></figure>
 
 1. Reservation details are exposed by the cloud provider.
 2. The Amortized View groups data by resource, so you can see which resources are using this Reserved Instance. You can “drill down” to a selected month to see daily distribution.
@@ -39,7 +39,7 @@ You will notice **Reservation Unused Cost** in the chart legend, which informs y
 
 3. In the Utilization tab, you can monitor the daily utilization of your reservation.
 
-<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>
 
 ## Spend and Budget Management <a href="#spend-and-budget-management" id="spend-and-budget-management"></a>
 
@@ -59,7 +59,7 @@ We value your time, so we automatically created notifications for all your RI’
 
 If you want to receive an email or SMS, be sure to verify your subscription in the Consumption Section (1) of the Notification Hub.
 
-<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (613).png" alt=""><figcaption></figcaption></figure>
 
 ## Frequently Asked Questions <a href="#frequently-asked-questions" id="frequently-asked-questions"></a>
 
@@ -78,9 +78,9 @@ Important:
 * You should launch this link in an InPrivate/Incognito/Private window to ensure you are signing in to the correct tenant.
 * You must sign in with a user who has permission to perform consent.
 
-To register for the Enterprise Application, use the following link: [Perform Consent](https://login.microsoftonline.com/common/oauth2/authorize?response\_type=code\&client\_id=2a4807a4-d9e4-457d-b32f-a455e0d3662a\&prompt=consent\&redirect\_uri=https://www.softwareone.com/)
+To register for the Enterprise Application, use the following link: [Perform Consent](https://login.microsoftonline.com/common/oauth2/authorize?response_type=code\&client_id=2a4807a4-d9e4-457d-b32f-a455e0d3662a\&prompt=consent\&redirect_uri=https://www.softwareone.com/)
 
-<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (614).png" alt=""><figcaption></figcaption></figure>
 
 **Confirm the Enterprise Application Exists**
 
@@ -88,7 +88,7 @@ To confirm the “PyraCloud (Azure)” Enterprise Application exists, sign in to
 
 The “PyraCloud (Azure)” application should be visible in the list. If it is not visible, try searching for “pyra”.
 
-<figure><img src="../../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
 
 **Assign IAM Roles to the “PyraCloud (Azure)” Enterprise Application**
 

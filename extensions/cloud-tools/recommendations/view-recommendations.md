@@ -10,18 +10,18 @@ All recommendations are divided into Cost Optimization, Operational Excellence, 
 
 Each tile on the **Overview** page displays how recommendations are distributed across different areas, and how advanced you are in implementing them. Additionally, under each tile, you can find information about the most impactful recommendation type.
 
-<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption><p>Recommendations page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (618).png" alt=""><figcaption><p>Recommendations page</p></figcaption></figure>
 
 ## **View all r**ecommendations <a href="#cost-optimization" id="cost-optimization"></a>
 
 1. From the main menu of the Client Portal, navigate to **Cloud tools** > **Recommendations**.&#x20;
 2. Click the **Cost Optimization**, **Operational Excellence**, or **Security** tile to view the recommendation The following image shows the Cost Optimization recommendations:
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption><p>Cost Optimization recommendations</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (620).png" alt=""><figcaption><p>Cost Optimization recommendations</p></figcaption></figure>
 
 3. Click the individual recommendation to view more details about that recommendation. The following image shows the Potential and Realized savings for Cost Optimization recommendations:
 
-<figure><img src="../../../.gitbook/assets/image (155).png" alt=""><figcaption><p>Potential and Realized savings for Cost Optimization recommendations</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (622).png" alt=""><figcaption><p>Potential and Realized savings for Cost Optimization recommendations</p></figcaption></figure>
 
 ## Related topics
 

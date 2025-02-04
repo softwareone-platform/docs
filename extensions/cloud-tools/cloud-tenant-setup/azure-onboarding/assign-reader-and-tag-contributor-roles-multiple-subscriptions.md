@@ -63,7 +63,7 @@ Before granting access through the Azure Portal, note the following points:
 1. Launch the [Azure Portal](https://portal.azure.com/#home) and search for **Management groups**.
 2. On the **Management groups** page, select **Tenant Root Group**. Note that regardless of your organization's configuration, you'll always have a Tenant Root Group. It might have been renamed, but it always appears at the top of the hierarchy.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Tenant Root Group</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tenant Root Group</p></figcaption></figure>
 
 ### Step 2: Open the Add role assignment page <a href="#step-2-open-the-add-role-assignment-page" id="step-2-open-the-add-role-assignment-page"></a>
 

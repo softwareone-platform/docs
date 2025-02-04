@@ -12,7 +12,7 @@ You can access the dashboard by navigating to the main menu of the Client Portal
 
 The dashboard provides a single point of access to other areas of the platform, such as invoices and user administration. Through the dashboard, you can also view your saving opportunities, billing information, spike and outage alerts, and more.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption><p>AzureSimple dashboard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption><p>AzureSimple dashboard</p></figcaption></figure>
 
 The dashboard consists of the following sections:
 

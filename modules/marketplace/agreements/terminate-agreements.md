@@ -19,21 +19,21 @@ Follow these steps to terminate your agreement:
 
 1. Navigate to the **Agreements** page (**Marketplace** > **Agreements**). A list of your agreements is displayed.
 
-<figure><img src="../../../.gitbook/assets/image (356).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (845).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 2. Select the agreement you want to terminate. The details page of your selected agreement opens.
 3. Click the down arrow next to **Edit** in the upper right and select **Terminate**. The **Terminate agreement** window opens.
 4. In the **Items** section, verify the details and click **Next** to continue.
 
-<figure><img src="../../../.gitbook/assets/image (432).png" alt=""><figcaption><p>Items section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (921).png" alt=""><figcaption><p>Items section</p></figcaption></figure>
 
 5. In the **Order details** section, provide the reference information and click **Next** to continue.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (433).png" alt=""><figcaption><p>Order details agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (922).png" alt=""><figcaption><p>Order details agreement</p></figcaption></figure>
 
 6. In the **Review order** section, make sure to read the changes, including the terms and conditions, and then click **Next** to finalize.
 
-<figure><img src="../../../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (923).png" alt=""><figcaption></figcaption></figure>
 
 The termination order is placed and the status of the agreement changes from **Active** to **Updating**.  Click **View order** to go to the order details page. Otherwise, click **Close**.&#x20;
 

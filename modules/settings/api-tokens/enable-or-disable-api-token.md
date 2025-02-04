@@ -19,7 +19,7 @@ Follow these steps to enable or disable a token:
 2. Find the token you want to enable or disable.&#x20;
 3. Click the actions icon (**•••**) for the token and select **Enable** or **Disable**. The following image shows the **Disable** option:
 
-<figure><img src="../../../.gitbook/assets/image (425).png" alt=""><figcaption><p>Disable option on the API tokens page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (914).png" alt=""><figcaption><p>Disable option on the API tokens page</p></figcaption></figure>
 
 4. Alternatively, click the token name. When the details page of your selected token opens, click the down arrow and select **Enable** or **Disable**.&#x20;
 5. Confirm that you want to change the status of your token.&#x20;

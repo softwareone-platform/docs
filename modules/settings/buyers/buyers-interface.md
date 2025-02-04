@@ -8,7 +8,7 @@ description: Learn about the fields and actions available on the Buyers page.
 
 The **Buyers** page, located under **Settings** > **Buyers**, displays all buyers in your account.
 
-<figure><img src="../../../.gitbook/assets/image (350).png" alt=""><figcaption><p>Buyers page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (839).png" alt=""><figcaption><p>Buyers page</p></figcaption></figure>
 
 On this page, you can view the following buyer information:&#x20;
 
@@ -39,7 +39,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (351).png" alt=""><figcaption><p>Details page of a buyer</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (840).png" alt=""><figcaption><p>Details page of a buyer</p></figcaption></figure>
 
 When you open the details page, it shows the buyer's name, marketplace ID, and status. You can also view other information, such as account details, SoftwareOne identifier, and tax identification number.
 

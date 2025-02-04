@@ -8,7 +8,7 @@ If the person you invited didn't receive the invitation email, you can resend th
 
 Note that this option only works if the person's original invitation hasn't expired. If the invitation has expired and the individual is encountering the following message, you'll need to [generate a new link](generate-new-invitation.md):
 
-<figure><img src="../../../.gitbook/assets/image (328).png" alt=""><figcaption><p>Invitation expired message</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (817).png" alt=""><figcaption><p>Invitation expired message</p></figcaption></figure>
 
 ## Resend an invitation&#x20;
 
@@ -18,7 +18,7 @@ Follow these steps to resend the invitation:
 2. Click the actions icon (**•••**) for the user.
 3. To resend the invitation email, click **Resend invitation link**. A message is displayed when your invitation is sent successfully.
 
-<figure><img src="../../../.gitbook/assets/image (420).png" alt=""><figcaption><p>Resend invitation link</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (909).png" alt=""><figcaption><p>Resend invitation link</p></figcaption></figure>
 
 4. To copy the invitation link to your clipboard and share it directly with the individual, click **Copy invitation link**.&#x20;
 

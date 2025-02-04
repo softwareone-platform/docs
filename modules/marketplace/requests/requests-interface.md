@@ -4,7 +4,7 @@
 
 The **Requests** page, located under **Marketplace** > **Requests**, displays a list of your requests.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (391).png" alt=""><figcaption><p> Requests page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (880).png" alt=""><figcaption><p> Requests page</p></figcaption></figure>
 
 On this page, you can view the following details of each request:
 
@@ -34,7 +34,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (392).png" alt=""><figcaption><p>Details page of a request</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (881).png" alt=""><figcaption><p>Details page of a request</p></figcaption></figure>
 
 When you open the details page, it displays the name of the product against which the request has been raised and the request status. You can also view general information about the request, such as the requester's name, vendor, and assignee.&#x20;
 

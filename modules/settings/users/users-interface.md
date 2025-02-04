@@ -8,7 +8,7 @@ description: Learn about the fields and actions available on the Users page.
 
 The **Users** page, located under **Settings** > **Users**, displays all users in your account.
 
-<figure><img src="../../../.gitbook/assets/image (422).png" alt=""><figcaption><p>Users page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (911).png" alt=""><figcaption><p>Users page</p></figcaption></figure>
 
 On this page, you can view the following user details:
 
@@ -38,7 +38,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (389).png" alt=""><figcaption><p>Details page of a user</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (878).png" alt=""><figcaption><p>Details page of a user</p></figcaption></figure>
 
 When you open the details page of a user, it shows the properties associated with the user's profile.&#x20;
 

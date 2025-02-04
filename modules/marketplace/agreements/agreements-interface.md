@@ -4,7 +4,7 @@
 
 The **Agreements** page, located under **Marketplace** > **Agreements**, displays all agreements that exist for your account.
 
-<figure><img src="../../../.gitbook/assets/image (354).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (843).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 On this page, you can view the following agreement details:
 
@@ -32,7 +32,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (355).png" alt=""><figcaption><p>Details page of an agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (844).png" alt=""><figcaption><p>Details page of an agreement</p></figcaption></figure>
 
 When you open the details page of an agreement, it shows the agreement's name, marketplace ID, and status. Informational messages that might apply to the agreement are also displayed.&#x20;
 

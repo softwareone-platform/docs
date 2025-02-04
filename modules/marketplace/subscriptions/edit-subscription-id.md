@@ -16,16 +16,16 @@ Follow these steps to edit the ID of your subscription:
 
 1. Navigate to the **Subscriptions** page (**Marketplace** > **Subscriptions**). A list of your subscriptions is displayed.
 
-<figure><img src="../../../.gitbook/assets/image (380).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (869).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 2. Click the subscription you want to edit. The details page of your selected subscription opens.
 3. Select the **Details** tab and click **Edit**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (381).png" alt=""><figcaption><p>Details tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (870).png" alt=""><figcaption><p>Details tab</p></figcaption></figure>
 
 4. In the **Edit** dialog, enter the new reference ID and click **Save**. The ID is updated and the new value is reflected on all pages that display the subscription.
 
-<figure><img src="../../../.gitbook/assets/image (382).png" alt="" width="375"><figcaption><p>Edit subscription ID</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (871).png" alt="" width="375"><figcaption><p>Edit subscription ID</p></figcaption></figure>
 
 ## Related topics
 

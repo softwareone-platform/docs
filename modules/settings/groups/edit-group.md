@@ -20,11 +20,11 @@ Follow these steps to edit a group:
 3. In the **General** section, update the group name and description as needed.
 4. In the **Modules** section, select or clear the checkboxes to manage access to the platform. Note that this action updates the access for all users in the group.
 
-<figure><img src="../../../.gitbook/assets/image (348).png" alt="" width="563"><figcaption><p>Modules section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (837).png" alt="" width="563"><figcaption><p>Modules section</p></figcaption></figure>
 
 5. In the **Users** section, use the checkboxes to add or remove users.
 
-<figure><img src="../../../.gitbook/assets/image (349).png" alt="" width="563"><figcaption><p>Users section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (838).png" alt="" width="563"><figcaption><p>Users section</p></figcaption></figure>
 
 6. Click **Save**. A message is displayed stating that the group is updated.
 

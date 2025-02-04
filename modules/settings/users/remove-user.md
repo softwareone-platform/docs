@@ -22,11 +22,11 @@ Follow these steps to remove an individual from your account:
 1. On the **Users** page (**Settings** > **Users**), find the user to remove.
 2. Click the actions icon (**•••**) for the user and select **Remove**.
 
-<figure><img src="../../../.gitbook/assets/image (416).png" alt=""><figcaption><p>Remove option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (905).png" alt=""><figcaption><p>Remove option</p></figcaption></figure>
 
 3. Click **Remove** to confirm the action.
 
-<figure><img src="../../../.gitbook/assets/image (417).png" alt=""><figcaption><p>Remove user</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (906).png" alt=""><figcaption><p>Remove user</p></figcaption></figure>
 
 A message is displayed stating that the user is removed.&#x20;
 

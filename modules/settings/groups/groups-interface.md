@@ -8,7 +8,7 @@ description: Learn about the fields and actions available on the Groups page.
 
 The **Groups** page, located under **Settings** > **Groups**, displays all groups in your account.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (342).png" alt=""><figcaption><p>Groups page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (831).png" alt=""><figcaption><p>Groups page</p></figcaption></figure>
 
 For each group, you can view the following information:
 
@@ -31,7 +31,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (343).png" alt=""><figcaption><p>Details page of a group</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (832).png" alt=""><figcaption><p>Details page of a group</p></figcaption></figure>
 
 The details page is organized into the following tabs:
 

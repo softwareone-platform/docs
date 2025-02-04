@@ -16,7 +16,7 @@ The option to switch accounts is only available for members of multiple accounts
 
 1. Sign in to your account and click your profile menu in the upper right. All accounts that you belong to are displayed under **Switch account**.
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption><p>Switch your account</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption><p>Switch your account</p></figcaption></figure>
 
 2. Select the account you want to switch to. If there are several accounts, use the **Search** field to find the required account easily. You can search by the account name or its marketplace identifier.
 

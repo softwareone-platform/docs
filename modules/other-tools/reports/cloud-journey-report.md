@@ -27,23 +27,23 @@ This is the backbone of the Cloud Journey Report, where you can easily see your 
 
 A radar chart outlines service use across cloud service categories, and any gaps are easily identified.
 
-<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (643).png" alt=""><figcaption></figcaption></figure>
 
 For a better understanding of your market competitor's share across categories, and why they may utilize given services, you can find a list of every category with its share.&#x20;
 
 You will also find relevant articles that describe the benefits of using those respective services, just under the radar chart.
 
-<figure><img src="../../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (644).png" alt=""><figcaption></figcaption></figure>
 
 On the **Your service usage** tab, you can refer to a complete list of their services for comparison.
 
-<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (645).png" alt=""><figcaption></figcaption></figure>
 
 ### Information Panel <a href="#information-panel" id="information-panel"></a>
 
 As the name suggests, this panel gives you a brief description of your currently used SoftwareONE service. It also shows when it was last updated and you can download the report in PDF format.
 
-<figure><img src="../../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (646).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 For AzureSimple service data is collected once a month.
@@ -69,4 +69,4 @@ For that reason, we offer our customers an easy way to opt in for Managed Servic
 
 This panel is another good source of relevant articles that can help you on your cloud journey.
 
-<figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (647).png" alt=""><figcaption></figcaption></figure>

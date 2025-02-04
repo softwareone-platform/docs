@@ -16,13 +16,13 @@ Follow these steps to rename a subscription:
 
 1. Navigate to the **Subscriptions** page (**Marketplace** > **Subscriptions**). A list of your subscriptions is displayed.
 
-<figure><img src="../../../.gitbook/assets/image (373).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (862).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 2. Click the subscription you want to rename. The details page of the subscription opens.
 3. Click the down arrow next to **Edit** and select **Rename subscription**.
 4. In **Rename**, enter the new name and click **Save**.
 
-<figure><img src="../../../.gitbook/assets/image (374).png" alt="" width="375"><figcaption><p>Rename dialog</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (863).png" alt="" width="375"><figcaption><p>Rename dialog</p></figcaption></figure>
 
 Your subscription is renamed and the new name is visible across all pages that feature the subscription within the platform.
 

@@ -21,7 +21,7 @@ You can assign a budget to any custom group defined within the Custom Groups. Fo
 1. From the main menu of the Client Portal, navigate to **Cloud tools** > **Budgets**.
 2. On the **Budgets - Custom Groups** page, click **Add Budget**.
 
-<figure><img src="../../../.gitbook/assets/image (6) (2).png" alt="" width="563"><figcaption><p>Budgets - Custom Groups</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (770).png" alt="" width="563"><figcaption><p>Budgets - Custom Groups</p></figcaption></figure>
 
 3. (Optional) Use the **Search** option to find a specific group.
 4. Select the custom group and click **Add**.&#x20;

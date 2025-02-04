@@ -12,7 +12,7 @@ You can access the Utilization module by navigating to the main menu of the Clie
 
 The **Utilization** page contains search filters and tabs that allow you to choose a resource type. When you search for a resource, your list of resources are displayed in the grid.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (705).png" alt=""><figcaption></figcaption></figure>
 
 1. **Search filters** - You can search by relevant resource properties and additionally, you can filter resources by recommendations (if applicable). For example, you can review all resources recommended for “shutdown” and see if utilization is low.
 2. **Virtual Machine and Storage tabs** - Utilization currently supports two resource types, Virtual Machines (that include Azure scale sets) and Storage accounts. Utilization supports both Azure and Amazon resources in one single unified view.
@@ -22,7 +22,7 @@ The **Utilization** page contains search filters and tabs that allow you to choo
 
 You can navigate to details by clicking **View** on the **Utilization** page.
 
-<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (706).png" alt=""><figcaption></figcaption></figure>
 
 The page contains four main areas:
 
@@ -31,7 +31,7 @@ The page contains four main areas:
 3. **Metric Selector** - This drop-down allows you to view available metrics. The module currently supports CPU and network traffic for Virtual Machines, and Capacity and Counters for storage accounts. After selecting, the metric chart is adjusted automatically.
 4. **Chart Area** - As well as plotting metrics data, the chart can also present scale set resources, so you can analyze multiple nodes running on scale set.
 
-<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (708).png" alt=""><figcaption></figcaption></figure>
 
 By clicking on the legend (1) you can show/hide scale set nodes.
 
@@ -39,15 +39,15 @@ By clicking on the legend (1) you can show/hide scale set nodes.
 
 The utilization module supports custom alerts, so you can set up notifications based on the low utilization of your machines, or overutilization of your storage accounts.
 
-<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (711).png" alt=""><figcaption></figcaption></figure>
 
 To create alerts, complete your search and then select **Create Alert**.
 
-<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (712).png" alt=""><figcaption></figcaption></figure>
 
 By default, the alert modal appears with Virtual Machine (CPU) notifications. You can configure notifications to be alerted if machine utilization (from your search criteria) drops below (10%, 20%, or a custom percentage).
 
-<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (713).png" alt=""><figcaption></figcaption></figure>
 
 You can also configure alerts based on the capacity of the storage accounts. If it grows above a defined threshold you will then be notified. The alerts are generated once per day at 5:00 a.m. UTC
 
@@ -55,7 +55,7 @@ You can also configure alerts based on the capacity of the storage accounts. If 
 
 If the utilization module is not able to pull utilization metrics, you will see the following message:
 
-<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (710).png" alt=""><figcaption></figcaption></figure>
 
 Utilization uses CloudWatch to pull metrics. If you see the above message, it means CloudWatch was not assigned to **PyraCloudRole**.&#x20;
 
@@ -63,33 +63,33 @@ Follow these steps to resolve this issue:
 
 1. Open the AWS Console and navigate to IAM.
 
-<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (714).png" alt=""><figcaption></figcaption></figure>
 
 2. Locate **PyraCloudRole**.
 
-<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (716).png" alt=""><figcaption></figcaption></figure>
 
 
 
 3. In the role, click **PyraCloud ReadOnlyPolicy**.
 
-<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (717).png" alt=""><figcaption></figcaption></figure>
 
 4. Click **Edit policy**.
 
-<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (718).png" alt=""><figcaption></figcaption></figure>
 
 5. Switch to **JSON** view.
 
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (719).png" alt=""><figcaption></figcaption></figure>
 
 6. In the editor, add `cloudwatch:GetMetricStatistics` and click **Review.**
 
-<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (720).png" alt=""><figcaption></figcaption></figure>
 
 7. In the review summary, you should see CloudWatch permission.
 
-<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (721).png" alt=""><figcaption></figcaption></figure>
 
 8. Save your changes.
 

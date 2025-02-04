@@ -24,7 +24,7 @@ If you've already onboarded your EA cloud account to the Client Portal and have 
 
 1. Open the [Cloud Tenant Setup](https://v1.client.softwareone.com/integration-manager/start) page. EA cloud accounts that haven't been migrated will display **EA API migration required** in the **Status** column.
 
-<figure><img src="../../../../.gitbook/assets/image (292).png" alt="" width="563"><figcaption><p>Status column displays EA API migration required</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (781).png" alt="" width="563"><figcaption><p>Status column displays EA API migration required</p></figcaption></figure>
 
 2. Click **Migrate EA API**.&#x20;
 3. In the **Migrate to EA API** window, enter the enrollment number and click **Migrate**.&#x20;
@@ -56,7 +56,7 @@ If you cannot provide consent to approve enterprise applications or have environ
 
 1. On the [Cloud Tenant Setup](https://v1.client.softwareone.com/integration-manager/start) page, locate the required EA cloud account with the status **EA API Migration** required.
 
-<figure><img src="../../../../.gitbook/assets/image (292).png" alt="" width="563"><figcaption><p> EA API migration required</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (781).png" alt="" width="563"><figcaption><p> EA API migration required</p></figcaption></figure>
 
 2. In the **Actions** column, click **Migrate EA API**.&#x20;
 3. In the **Migrate to EA API** window, enter the enrollment number and click **Migrate without consent**.&#x20;

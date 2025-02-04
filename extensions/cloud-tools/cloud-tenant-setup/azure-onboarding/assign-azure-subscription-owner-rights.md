@@ -17,7 +17,7 @@ To elevate access, follow the instructions in Microsoft documentation: [Elevate 
 
 3. Under **Manage**, select **Properties**.
 
-<figure><img src="../../../../.gitbook/assets/image (467).png" alt=""><figcaption><p>Properties</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (955).png" alt=""><figcaption><p>Properties</p></figcaption></figure>
 
 4. Under **Access management for Azure resources**, set the toggle to **Yes**.
 
@@ -25,7 +25,7 @@ To elevate access, follow the instructions in Microsoft documentation: [Elevate 
 This toggle is only available to users who are assigned the Global Administrator role in Microsoft Entra ID.
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/image (468).png" alt=""><figcaption><p>Toggle under Access Management for Azure Resources.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (956).png" alt=""><figcaption><p>Toggle under Access Management for Azure Resources.</p></figcaption></figure>
 
 5. Click **Save**. This will grant you permission to assign roles in all Azure subscriptions and management groups associated with this Microsoft Entra ID.
 6. If required, sign out and sign back in to refresh your permissions.

@@ -8,7 +8,7 @@ description: Learn about the fields and actions available on the API tokens page
 
 The **API tokens** page, located under **Settings** > **API tokens**, displays all tokens in your account.
 
-<figure><img src="../../../.gitbook/assets/image (330).png" alt=""><figcaption><p>API tokens page page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (819).png" alt=""><figcaption><p>API tokens page page</p></figcaption></figure>
 
 For each token, you can view the following information:
 
@@ -36,7 +36,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (331).png" alt=""><figcaption><p>Details page of an API token</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (820).png" alt=""><figcaption><p>Details page of an API token</p></figcaption></figure>
 
 When you open the details page, it shows the token's name, marketplace ID, and status. The page also contains the following tabs that display corresponding information:
 

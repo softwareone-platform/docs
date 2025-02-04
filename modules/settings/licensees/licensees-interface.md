@@ -8,7 +8,7 @@ description: Learn about the fields and actions available on the Licensees page.
 
 The **Licensee** page, located under **Settings** > **Licensee**, displays all licensees in your account.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption><p>Licensee page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (829).png" alt=""><figcaption><p>Licensee page</p></figcaption></figure>
 
 For each licensee, you can view the following details:
 
@@ -35,7 +35,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (390).png" alt=""><figcaption><p>Details page of a licensee</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (879).png" alt=""><figcaption><p>Details page of a licensee</p></figcaption></figure>
 
 When you open the details page of a licensee, it shows the licensee's name, marketplace ID, and status. It also shows the associated buyer and seller entities. The page also contains the following tabs:&#x20;
 
