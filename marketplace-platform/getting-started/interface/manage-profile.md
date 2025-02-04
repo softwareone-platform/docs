@@ -1,29 +1,21 @@
----
-description: View and edit your profile settings.
----
+# Manage Your Profile
 
-# Manage your profile
+Your profile page contains basic information about your account, including your account name, first and last name, profile photo, and email address. It also shows your language and date preferences.&#x20;
 
-You can view and manage your user profile information from the **My profile** page.&#x20;
+You can access your profile and make changes as necessary through the **My profile** option. To access the option click your profile menu in the upper right and select **My profile**. This will open your profile overview page.
 
-Your profile page contains basic information about your account, including your account name, first name and last name, profile photo, and email address. Your profile page also shows your language and date preferences.
-
-**To view your profile:**
-
-1. Sign in to your account.
-2. Click your profile menu in the upper right and select **My profile**. Your profile overview page opens:
-
-<figure><img src="../../../.gitbook/assets/image (471).png" alt=""><figcaption><p>My profile page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Profile.png" alt=""><figcaption><p>Profile overview page</p></figcaption></figure>
 
 Your profile settings are organized by tabs:
 
-* **General** - Displays general settings, such as name, display language for your account, and date format.
-* **Accounts** - Displays a list of accounts and groups you belong to and your account type.
-* **Details** - Displays the timestamps associated with your account, for example, the date and time your account was created.
+* **General** - Displays your general details, such as name and phone number, and account preferences.
+* **Accounts** - Displays the accounts and groups you belong to. Your account type is also displayed.
+* **Details** - Displays all events that have taken place within your account.
+* **Audit trail** - Displays a detailed record of each event in your account. To learn more, see [Audit Trail](../../../modules-and-features/settings/audit-trail.md).&#x20;
 
 ## Update your profile settings <a href="#update-your-profile-settings" id="update-your-profile-settings"></a>
 
-If you want to update your profile and settings, you can do so using the **Edit** option on your profile page. You can modify the following:
+You can use the **Edit** option on your profile page to update your account settings and preferences, including:
 
 * Your profile picture.
 * Your first name and last name.
@@ -62,9 +54,9 @@ Click to see the supported languages.
 
 Follow these steps to update your profile:
 
-1. On the profile details page, click **Edit**. The **Edit user** page opens.
+1. On your profile overview page, click **Edit** in the upper right. The **Edit user** page opens.
 
-<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Edit user page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption><p>Edit user page</p></figcaption></figure>
 
 2. Change the **General** settings as necessary:
    * **Profile picture** - Add or update your profile picture. You can add a photo of yourself, a logo, or anything that represents you and helps others identify you easily on the platform. Your image must be in PNG or JPG format. The maximum file size is 5 MB.
@@ -76,6 +68,6 @@ Follow these steps to update your profile:
    * **Language** - Choose your language preference.
    * **Regional settings** - Select the date format you want to use.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Preferences section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (76).png" alt=""><figcaption><p>Preferences section</p></figcaption></figure>
 
 4. Click **Save**. A message is displayed stating your profile has been updated successfully.

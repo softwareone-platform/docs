@@ -8,12 +8,14 @@ description: >-
 
 Buying from the Adobe VIP Marketplace buying program means purchasing subscription-based products. You subscribe to these products and pay periodically for their usage.&#x20;
 
-To order a subscription, you must have an agreement. An agreement is a contractual relationship between a seller, buyer, and licensee. Therefore, each ordered subscription is part of an agreement. When you place an order, it either involves setting up a new agreement or adding to an existing agreement.&#x20;
+To order a subscription, you must have an agreement. An agreement is a contractual relationship between a seller, buyer, and licensee. Therefore, each ordered subscription is part of an agreement.&#x20;
 
-This tutorial shows how to order an Adobe subscription by setting up a new agreement and a new Adobe VIP Marketplace account. Watch the following video or continue reading for the step-by-step instructions.&#x20;
+When you place an order, you either set up a new agreement or add to an existing agreement. This tutorial shows how to order an Adobe subscription by setting up a new agreement and a new Adobe VIP Marketplace account.&#x20;
 
-{% embed url="https://vimeo.com/986319438/c4d6c4113b" %}
-Video tutorial: How to order an Adobe subscription
+Watch the following video or continue reading for the step-by-step instructions.&#x20;
+
+{% embed url="https://vimeo.com/986319438/c4d6c4113b?share=copy" %}
+Video tutorial: Order an Adobe subscription
 {% endembed %}
 
 ## Prerequisites
@@ -21,40 +23,40 @@ Video tutorial: How to order an Adobe subscription
 Before starting this tutorial, make sure you have the following:
 
 * A Marketplace Platform account.
-* Your company address and contact information. You'll need to provide this information when creating your Adobe VIP Marketplace account.&#x20;
-* A licensee in the **active** state or permission to [create a new licensee](../../../modules/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when creating the new agreement.&#x20;
+* Your company address and contact information. You must provide this information when creating your Adobe VIP Marketplace account.&#x20;
+* An [active licensee](../../../modules-and-features/settings/licensees/licensee-states.md) or permission to [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the agreement.&#x20;
 
 ## 1. Launch the purchase wizard
 
-1. Navigate to the **Products** page (**Marketplace** > **Products**) and click **Adobe VIP Marketplace for Commercial**.
+1. From the main menu, navigate to the **Products** page (**Marketplace** > **Products**) and click **Adobe VIP Marketplace for Commercial**.
 
-<figure><img src="../../../.gitbook/assets/AdobeVIP (1).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adobe1.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
-2. Click **Buy now** on the details page.
+2. Click **Buy now** in the upper right on the details page.
 
-<figure><img src="../../../.gitbook/assets/AdobeVIPCommercialBuyNow.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/BuyNow.png" alt=""><figcaption><p>Details page of the product</p></figcaption></figure>
 
-The purchase wizard starts and the **Select agreement** section displays.
+The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
 
 ## 2. Create agreement
 
-Click **Create agreement** to start creating your new Adobe agreement.&#x20;
+Click **Create agreement** to set up your new Adobe agreement. The **Select licensee** section of the wizard is displayed.
 
-<figure><img src="../../../.gitbook/assets/CreateNewAgreement.png" alt=""><figcaption><p>Create agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Adobe-CreateAgreement.png" alt=""><figcaption><p>Create agreement option</p></figcaption></figure>
 
 ## 3. Select licensee
 
-1. Choose the licensee you want to use. A licensee is the end-user entity of the product being purchased. In this tutorial, we'll select an existing licensee, as shown in the following image. You can also add a new licensee by clicking **Add licensee** and then following the instructions in [Create Licensees](../../../modules/settings/licensees/create-licensees.md).
+1. Choose the licensee for your agreement. A licensee is the end-user entity of the product being purchased. In this tutorial, we'll select an existing licensee, as shown in the following image. You can also add a new licensee by clicking **Add licensee** and following the steps in [Create Licensee](../../../modules-and-features/settings/licensees/create-licensees.md).
 2. Click **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Licensee (3).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Licensee (1).png" alt=""><figcaption><p>Select a licensee</p></figcaption></figure>
 
 ## 4. Choose your account
 
-1. Choose whether to create a new account with Adobe or use your existing account. In this tutorial, we'll create a new account by selecting **Create account**, as shown in the following image.&#x20;
+1. Choose whether to create a new account with Adobe or use your existing account. In this tutorial, we'll create a new account by selecting **Create account**.&#x20;
 2. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/createaccount.png" alt=""><figcaption><p>Create account</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/createaccount.png" alt=""><figcaption><p>Create account option</p></figcaption></figure>
 
 If you want to migrate your existing Adobe VIP account to Adobe VIP Marketplace, select **Migrate account**. If you choose this option, you'll only need to provide your Adobe membership ID in the next step.
 
@@ -62,9 +64,7 @@ If you want to migrate your existing Adobe VIP account to Adobe VIP Marketplace,
 
 Fill out the contact form and click **Next**.
 
-<figure><img src="../../../.gitbook/assets/Agreementdetails.png" alt=""><figcaption><p>Agreement details</p></figcaption></figure>
-
-The following fields are available:
+<figure><img src="../../../.gitbook/assets/Agreementdetails (1).png" alt=""><figcaption><p>Agreement details</p></figcaption></figure>
 
 * **Company Name** - Enter your company name.&#x20;
 * **Address** - Provide your address, including city, state, and zip/postal code.&#x20;
@@ -77,33 +77,32 @@ If you are migrating your account, enter your Adobe membership ID.&#x20;
 
 <figure><img src="../../../.gitbook/assets/MembershipID.png" alt=""><figcaption><p>Membership ID</p></figcaption></figure>
 
-## 6. Choose items
+## 6. Choose items to order
 
-1. Choose the Adobe items you want and click **Add items** to add those items to your order. You can select multiple items, as shown in the following image.
-2. Click **Next**.
+1. Select the items to order and click **Add items**. You can select multiple items from the list. Once the items are added to your order, the **Select items** section is displayed.
 
 <figure><img src="../../../.gitbook/assets/AdobeItems.png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
-## 7. Provide agreement and order details
+2. Review and adjust the license quantity as needed and click **Next** to continue.
 
-1. (Optional) Add your order and agreement details as necessary so you can identify them easily.&#x20;
-2. Click **Next**.
+## 7. Provide the reference details
 
-<figure><img src="../../../.gitbook/assets/AddDetails.png" alt=""><figcaption><p>Details</p></figcaption></figure>
+(Optional) Add the additional IDs and notes associated with your agreement and order, and click **Next**.
 
-## 8. Place your order
+<figure><img src="../../../.gitbook/assets/AddDetails.png" alt=""><figcaption><p>Reference details</p></figcaption></figure>
 
-1. Review the details of your order and make sure to read all terms and conditions, including the privacy statement. By placing the order, you accept all terms.
+## 8. Review and place your order
+
+1. Review the details of your order. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. By placing the order, you accept all terms.
 2. Click **Place order** to complete your purchase.
 
-<figure><img src="../../../.gitbook/assets/Review.png" alt=""><figcaption><p>Review order section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Review.png" alt=""><figcaption><p>Review and place your order</p></figcaption></figure>
 
 ## 9. View order summary
 
-1. View your order summary and the latest status message.&#x20;
-2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
+View your order summary and the latest status message. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-<figure><img src="../../../.gitbook/assets/image (5) (3) (1).png" alt=""><figcaption><p>Order summary</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1009).png" alt=""><figcaption><p>Order summary</p></figcaption></figure>
 
 ## Next steps
 

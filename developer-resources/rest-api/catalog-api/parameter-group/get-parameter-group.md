@@ -1,7 +1,7 @@
-# Get parameter group
+# Get Parameter Group
 
-Gets a parameter group by id for a given product.
+Lists all parameter groups for a given product based on filter criteria.
 
-{% swagger src="../../../../.gitbook/assets/catalog.json" path="/v1/products/{productId}/parameter-groups/{id}" method="get" %}
-[catalog.json](../../../../.gitbook/assets/catalog.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/catalog/products/{productId}/parameter-groups/{id}" method="get" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

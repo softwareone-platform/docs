@@ -1,9 +1,7 @@
----
-description: Create a request attachment.
----
+# Create Request Attachment
 
-# Create request attachment
+Create a request attachment.
 
-{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/requests/{requestId}/attachments" method="post" %}
-[commerce.json](../../../../.gitbook/assets/commerce.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/commerce/requests/{requestId}/attachments" method="post" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

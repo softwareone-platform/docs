@@ -26,7 +26,7 @@ All Azure recommendations that are recommended by Azure (and not by SoftwareOne 
 
 The association from a recommendation to a related Client Portal resource is available on the **Related Resources** tab:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Related Resources tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption><p>Related Resources tab</p></figcaption></figure>
 
 ## Complete Azure recommendations <a href="#completion-of-azure-recommendations" id="completion-of-azure-recommendations"></a>
 
@@ -43,22 +43,22 @@ The Client Portal doesn't track the realization of Reserved Instance recommendat
 
 ## Related topics
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations" %}
+[Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="view-recommendations.md" %}
-[view-recommendations.md](view-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations" %}
+[View Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="manage-recommendations.md" %}
-[manage-recommendations.md](manage-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/manage-recommendations" %}
+[Manage Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/manage-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="aws-recommendations.md" %}
-[aws-recommendations.md](aws-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/aws-recommendations" %}
+[AWS Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/aws-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="office-365-recommendations.md" %}
-[office-365-recommendations.md](office-365-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations" %}
+[Office 365 Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations)
 {% endcontent-ref %}

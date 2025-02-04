@@ -1,18 +1,16 @@
 # How to Filter Your Orders
 
-Once you've placed an order through the Marketplace Platform, it's displayed on the **Orders** page.&#x20;
-
-To access the **Orders** page, select the main menu and then choose **Marketplace** > **Orders**.&#x20;
+Once you've placed an order through the Marketplace Platform, it's displayed on the **Orders** page. You can access the **Orders** page from the main menu by selecting **Marketplace** > **Orders**.&#x20;
 
 The platform supports various types of orders including change orders, purchase orders, and terminate orders, all of which are visible on the **Orders** page.
 
 ## Using filters to find an order
 
-If you need to find a specific order, you can use the filter option to refine your list of orders. We provide several filter options that you can use to narrow down the orders.&#x20;
+If you need to find a specific order, you can use the filter option to search for an order and view the order information. We provide several filter options you can use to narrow down your list of orders.&#x20;
 
-You can use a single filter or create a combination of filters by selecting different fields, operators, and values.
+You can use a single filter or create a combination of filters by selecting different fields, operators, and values. The following steps describe how to find an order using its status.&#x20;
 
-1. On the **Orders** page, click the <img src="../../../.gitbook/assets/image (481).png" alt="" data-size="line"> **Filter** button.
+1. On the **Orders** page, click the <img src="../../../.gitbook/assets/image (1047).png" alt="" data-size="line"> **Filter** option.
 
 <figure><img src="../../../.gitbook/assets/Orders (2).png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
 
@@ -27,23 +25,14 @@ Your list of orders will be refreshed based on the filters. To reset the filters
 
 ## Viewing your order's details
 
-If you want to get detailed information for an order, click the order number.&#x20;
+To view all details of an order, click the order ID in the **Order** column.&#x20;
 
-You'll then be able to view the individual items that are a part of your order, associated parameters, subscription details, and more.
+The order details page will open, allowing you to view the basic order information, and associated items, subscriptions, ordering and fulfilment parameters, and entities.&#x20;
 
-Additionally, depending on the type of order, you'll be able to take various actions, such as:
+From the order details page, you can also complete the following tasks:
 
-* [Manage the notes within your order and update them as necessary.](../../../modules/marketplace/orders/manage-order-notes.md)
-* [View all files attached to your order and download those files.](../../../modules/marketplace/orders/view-and-download-attachments.md)
-* [Delete orders that are in the Draft state.](../../../modules/marketplace/orders/delete-draft-orders.md)
-* [Change the status of your order to Processing](../../../modules/marketplace/orders/set-an-order-to-processing.md).
-
-## Related topics
-
-{% content-ref url="../../../modules/marketplace/orders/orders-interface.md" %}
-[orders-interface.md](../../../modules/marketplace/orders/orders-interface.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../../modules/marketplace/orders/order-states.md" %}
-[order-states.md](../../../modules/marketplace/orders/order-states.md)
-{% endcontent-ref %}
+* [Add or update your order notes](../../../modules-and-features/marketplace/orders/manage-order-notes.md).
+* [View and download the files attached to your order](../../../modules-and-features/marketplace/agreements/view-and-download-attachments.md).
+* [Delete draft orders.](../../../modules-and-features/marketplace/orders/delete-draft-orders.md)
+* [Submit your draft order for processing](../../../modules-and-features/marketplace/orders/submit-draft-orders.md).
+* [Change the status of your order to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).

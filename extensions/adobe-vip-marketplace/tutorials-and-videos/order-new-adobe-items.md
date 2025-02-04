@@ -1,12 +1,8 @@
----
-description: Order new Adobe items using an existing agreement.
----
-
 # Order New Adobe Items
 
 If you already have an agreement and want to order new Adobe VIP Marketplace items as part of the same agreement, you can place a change order.&#x20;
 
-This tutorial shows how you can order new items using an existing agreement. You can watch the following video or continue reading for the step-by-step instructions.&#x20;
+This tutorial shows how to order new items using an existing agreement. Watch the following video or continue reading for the step-by-step instructions.&#x20;
 
 {% embed url="https://vimeo.com/986322109/4702c0b2f1" %}
 Video tutorial: How to order new Adobe items
@@ -14,64 +10,64 @@ Video tutorial: How to order new Adobe items
 
 ## Prerequisites
 
-Before starting this tutorial, make sure that the agreement you want to use is **Active**.
+Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state.&#x20;
 
-## 1**.** Launch the Purchase wizard
+Agreements in any other state cannot be used when ordering items. See [Agreement States](../../../modules-and-features/marketplace/agreements/agreement-states.md) for information on various statuses.&#x20;
 
-1. Navigate to the **Products** page (**Marketplace** > **Products**) and click **Adobe VIP Marketplace for Commercial**.
+## &#x31;**.** Launch the purchase wizard
 
-<figure><img src="../../../.gitbook/assets/AdobeVIP (1).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+1. From the main menu, navigate to the **Products** page (**Marketplace** > **Products**) and click **Adobe VIP Marketplace for Commercial**.
 
-2. Click **Buy now** on the details page.
+<figure><img src="../../../.gitbook/assets/Adobe1.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/AdobeVIPCommercialBuyNow.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+2. Click **Buy now** in the upper right on the details page.
+
+<figure><img src="../../../.gitbook/assets/BuyNow.png" alt=""><figcaption><p>Details page of the product</p></figcaption></figure>
 
 The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
 
-## 2. Select agreement
+## 2. Select the agreement
 
-1. Select the agreement you want to use. Make sure that the agreement is **Active**. The following image shows an example.
-2. Click **Next**.
+Select the agreement you want to use for this order and click **Next**. Make sure that the agreement is **Active**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/AdobeSelectAgreement.png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 
-When you click **Next**, the **Select Items** section of the wizard is displayed directly. All other sections are skipped by default because the details are fetched from your agreement.&#x20;
+The wizard displays the **Select Items** section. Other sections are skipped because the information in those sections is retrieved from your selected agreement.
 
-<figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
+## 3. Select items to order
 
-## 3. Add new items
+1. On the **Select items** page, click **Add items**.
 
-1. On the **Select items** page, click **Add items**.&#x20;
-2. Select the new items and click **Add items**. You can choose multiple items at once. The following image shows an example:
+<figure><img src="../../../.gitbook/assets/image (1004).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/AddItems.png" alt=""><figcaption><p>Add items</p></figcaption></figure>
+2. Choose the items you want to order and click **Add items**. You can choose multiple items from the list.
 
-3. When adding new items, adjust the quantity as needed in the **New qty** field and click **Next**.
+<figure><img src="../../../.gitbook/assets/AdobeItems.png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/AddItems1.png" alt=""><figcaption><p>Update quantity</p></figcaption></figure>
+3. In the **New qty** field, adjust the number of licenses as required and click **Next**.
 
-## 4. Provide agreement and order details
+<figure><img src="../../../.gitbook/assets/AddItems1.png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
-1. (Optional) Enter the required details so you can easily identify the agreement and order.&#x20;
-2. Click **Next**.
+## 4. Add reference details
+
+(Optional) Enter the reference details for the order and click **Next**. You can use this page to add information that might help you identify the order easily.
 
 <figure><img src="../../../.gitbook/assets/Details.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
 
 ## 5. Place your order
 
-Review the details of your change order and click **Place order** to complete your purchase.
+Review the order details and click **Place order** to complete the purchase.
 
-<figure><img src="../../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1010).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
 
-## 6. View your order summary
+## 6. See your order summary
 
-1. View your order summary and the latest status message.&#x20;
-2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
+View your order summary and the latest status message. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-<figure><img src="../../../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption><p>Order summary </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1006).png" alt=""><figcaption><p>Order summary </p></figcaption></figure>
 
 ## Next steps
 
 Your change order is submitted for processing.
 
-You can view the most up-to-date information on your order and its status on the [Order details](../../../modules/marketplace/orders/orders-interface.md#subscription-details) page.
+You can view the most up-to-date information on your order and its status on the [Order details](../../../modules-and-features/marketplace/orders/#subscription-details) page.

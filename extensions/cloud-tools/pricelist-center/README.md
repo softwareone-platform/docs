@@ -2,7 +2,7 @@
 description: Find information on how the IaaS/PaaS Cloud provider price lists work.
 ---
 
-# Pricelist center
+# Pricelist Center
 
 The **Pricelist Center** is a part of our Cloud Management experience. You can use the Pricelist Center to check the latest prices from IaaS/PaaS Cloud providers or set prices for SaaS Cloud providers.&#x20;
 
@@ -17,7 +17,7 @@ SaaS Cloud Providers don't provide price lists, but prices have to be set by you
 
 You can access the **Pricelist Center** by navigating to the main menu and selecting **Cloud tools** > **Pricelist Center**.
 
-<figure><img src="../../../.gitbook/assets/image (42) (1).png" alt=""><figcaption><p>Pricelist Center</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (241).png" alt=""><figcaption><p>Pricelist Center</p></figcaption></figure>
 
 On the **Pricelist Center** page, you can view the following information:&#x20;
 

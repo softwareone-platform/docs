@@ -6,16 +6,16 @@ If the Client Portal is unable to download recommendations, a message is display
 
 The following image shows the AWS synchronization error:
 
-<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (780).png" alt=""><figcaption></figcaption></figure>
 
-This error means that the AWS Trusted Advisor or Cost Explorer is not configured correctly for at least one AWS account**.**&#x20;
+This error means that the AWS Trusted Advisor or Cost Explorer is not configured correctly for at least one AWS accoun&#x74;**.**&#x20;
 
 To resolve this issue:
 
 1. Select **Fix**.&#x20;
 2. On the Synchronization Information page, review the details and follow the solution to resolve the error.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (678).png" alt=""><figcaption></figcaption></figure>
 
 The following are the possible issues and their description:
 

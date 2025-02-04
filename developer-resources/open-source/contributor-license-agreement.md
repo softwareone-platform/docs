@@ -8,7 +8,7 @@ description: Individual Contributor License Agreement (Individual CLA)
 
 Thank you for your interest in contributing to open-source software projects (“Projects”) made available by SoftwareONE AG, a company incorporated in Switzerland with its office located at: Riedenmatt 4, CH-6370 Stans, Switzerland (“SoftwareOne”). This Contributor License Agreement (“Agreement”) sets out the terms which apply to any Contributions (present and future) that You Submit or have Submitted to SoftwareOne in respect of any of its Projects.&#x20;
 
-If you have any questions in respect to this Agreement, please contact SoftwareOne support on the following website: [**contact support**](../../help-and-support/getting-support.md). &#x20;
+If you have any questions in respect to this Agreement, please contact SoftwareOne support on the following website: [**contact support**](../../help-and-support/contact-support.md). &#x20;
 
 ## 2. DEFINITIONS&#x20;
 

@@ -1,5 +1,5 @@
-# Query request
+# Query Request
 
-{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/requests/{id}/query" method="post" %}
-[commerce.json](../../../../.gitbook/assets/commerce.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/commerce/requests/{id}/query" method="post" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

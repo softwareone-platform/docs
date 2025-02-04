@@ -1,7 +1,7 @@
-# Update document
+# Update Document
 
 Update document.
 
-{% swagger src="../../../../.gitbook/assets/catalog.json" path="/v1/products/{productId}/documents/{id}" method="put" %}
-[catalog.json](../../../../.gitbook/assets/catalog.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/catalog/products/{productId}/documents/{id}" method="put" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

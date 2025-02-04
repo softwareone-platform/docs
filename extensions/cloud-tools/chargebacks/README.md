@@ -35,6 +35,6 @@ On the Chargebacks page, you can view the **Chargebacks** and **Settings** tab. 
 
 ## Related topics
 
-{% content-ref url="about-chargebacks.md" %}
-[about-chargebacks.md](about-chargebacks.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/chargebacks/about-chargebacks" %}
+[About Chargebacks](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/chargebacks/about-chargebacks)
 {% endcontent-ref %}

@@ -1,4 +1,4 @@
-# Cloud tools
+# Cloud Tools
 
 SoftwareOne's Cloud Managed Services customers can optimize spending across multiple cloud resources through the Marketplace Platform.&#x20;
 
@@ -6,7 +6,7 @@ Cloud Spend Management enables you to view and predict cloud usage across Azure,
 
 If you want to be notified when you are nearing certain thresholds, you can create alerts.&#x20;
 
-VIewing recommendations that can identify possible cost savings, performance, and security enhancements is also possible through the platform.
+Viewing recommendations that can identify possible cost savings, performance, and security enhancements is also possible through the platform.
 
 To learn more, see any of the following links:
 
@@ -57,3 +57,4 @@ To learn more, see any of the following links:
 {% content-ref url="utilization.md" %}
 [utilization.md](utilization.md)
 {% endcontent-ref %}
+

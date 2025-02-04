@@ -1,7 +1,7 @@
-# Create document
+# Create Document
 
 Create a new document in catalog management.
 
-{% swagger src="../../../../.gitbook/assets/catalog.json" path="/v1/products/{productId}/documents" method="post" %}
-[catalog.json](../../../../.gitbook/assets/catalog.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/catalog/products/{productId}/documents" method="post" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

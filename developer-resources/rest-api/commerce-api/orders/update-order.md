@@ -1,5 +1,7 @@
-# Update order
+# Update Order
 
-{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/orders/{id}" method="put" %}
-[commerce.json](../../../../.gitbook/assets/commerce.json)
+
+
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/commerce/orders/{id}" method="put" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

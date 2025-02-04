@@ -6,17 +6,11 @@ The definition represents an Attachment object in Marketplace. This Attachment o
 
 ## Fields <a href="#fields" id="fields"></a>
 
-| Field                         | Type   | Description                                                                                                                                                                                       |
-| ----------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **`inlineAttachmentContent`** | string | <p>Inline attachment content. For example, in the case of type LicenseKey, this field is actually populated with a license key string. </p><p></p><p>Example: "DFE25-GQ943-GH992-KL235-PY037"</p> |
+<table><thead><tr><th>Field</th><th width="100">Type</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>inlineAttachmentContent</code></strong></td><td>string</td><td><p>Inline attachment content. For example, in the case of type <code>LicenseKey</code>, this field is populated with a license key string. </p><p></p><p>Example: "DFE25-GQ943-GH992-KL235-PY037"</p></td></tr></tbody></table>
 
 ## Specific field behavior <a href="#specific-field-behaviour" id="specific-field-behaviour"></a>
 
-| Field          | Description                                                                                              |
-| -------------- | -------------------------------------------------------------------------------------------------------- |
-| id             | <p>Primary attachment identifier using the prefix “ATT”. </p><p></p><p>Example: "ATT-1234-1234-1234"</p> |
-| classification | <p>File or License Key </p><p></p><p>Example: "File"</p>                                                 |
-| status         | <p>Attachment status. Can be Published or Deleted. </p><p></p><p>Example: "Published"</p>                |
+<table><thead><tr><th width="170">Field</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><p>Primary attachment identifier using the prefix “ATT”. </p><p></p><p>Example: "ATT-1234-1234-1234"</p></td></tr><tr><td>classification</td><td><p>File or License Key </p><p></p><p>Example: "File"</p></td></tr><tr><td>status</td><td><p>Attachment status. Can be Published or Deleted. </p><p></p><p>Example: "Published"</p></td></tr></tbody></table>
 
 ## Example
 

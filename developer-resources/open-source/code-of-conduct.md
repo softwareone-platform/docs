@@ -20,7 +20,7 @@ If you notice someone not being respectful, don't hesitate to discuss the issue 
 
 ## Reporting problems
 
-Unless a specific open source projects has its own set of rules, we would like you to share your concerns with us by [Contacting Support](../../help-and-support/getting-support.md).
+Unless a specific open source projects has its own set of rules, we would like you to share your concerns with us by [Contacting Support](../../help-and-support/contact-support.md).
 
 Every complaint matters to us, and we promise to investigate every one. Though you might not get a direct response, rest assured—we're investigating. Depending on the situation, our response might vary—from not taking any immediate action to a permanent exit from the project or SoftwareOne-supported forums.
 

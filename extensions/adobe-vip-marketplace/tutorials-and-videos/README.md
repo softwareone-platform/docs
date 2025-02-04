@@ -1,4 +1,4 @@
-# Tutorials and Videos
+# Tutorials
 
 Explore our step-by-step walkthroughs and videos to learn about ordering new Adobe VIP Marketplace subscriptions and managing your existing subscriptions through the Marketplace Platform.
 

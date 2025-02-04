@@ -1,9 +1,7 @@
----
-description: Create a new Buyer object for the client account.
----
+# Create Buyer
 
-# Create buyer
+Create a new Buyer object for the client account.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/buyers" method="post" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/buyers" method="post" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

@@ -1,18 +1,14 @@
----
-description: Learn about the Microsoft Cloud Solution Provider (CSP) program.
----
-
 # Microsoft CSP
 
 The Microsoft CSP program is designed to provide businesses with easy access to Microsoft's cloud services, such as Microsoft 365, Dynamics 365, and Azure, through certified partners.&#x20;
 
-Working with a CSP provider like SoftwareOne offers numerous benefits and ensures a smooth onboarding process. Here are some of the benefits:
+Working with a CSP provider like SoftwareOne offers numerous benefits and ensures a smooth onboarding process. These benefits include:
 
-* **Tailored Solutions** - SoftwareOne can bundle Microsoft cloud services with additional offerings and services, creating customized solutions that meet specific business needs.
-* **Expert Support** - Gain access to dedicated support from SoftwareOne's experts, who can help with everything from initial setup to ongoing management and technical issues.
-* **Simplified Billing** - Enjoy the convenience of monthly billing and invoicing, making it easier to manage budgets and expenses.
-* **Strategic Guidance** - SoftwareOne provides strategic guidance to help businesses optimize their use of Microsoft cloud services, ensuring they get the most value from their investment.
-* **Scalability and Flexibility** - Easily scale services up or down based on business needs, with the flexibility to adapt to changing requirements.
+* **Tailored solutions** - SoftwareOne can bundle Microsoft cloud services with additional offerings and services, creating customized solutions that meet specific business needs.
+* **Expert support** - Gain access to dedicated support from SoftwareOne's experts, who can help with everything from initial setup to ongoing management and technical issues.
+* **Simplified billing** - Enjoy the convenience of monthly billing and invoicing, making it easier to manage budgets and expenses.
+* **Strategic guidance** - SoftwareOne provides strategic guidance to help businesses optimize their use of Microsoft cloud services, ensuring they get the most value from their investment.
+* **Scalability and flexibility** - Easily scale services up or down based on business needs, with the flexibility to adapt to changing requirements.
 
 ## Buying Microsoft products in the Marketplace Platform <a href="#buying-microsoft-products-in-the-softwareone-marketplace" id="buying-microsoft-products-in-the-softwareone-marketplace"></a>
 
@@ -24,7 +20,7 @@ You can track your Microsoft subscription purchases and manage the entire subscr
 
 In the CSP program, various product types (or service types) are available, each with unique benefits and constraints.
 
-### License-based products (Online Services) <a href="#license-based-products-online-services" id="license-based-products-online-services"></a>
+### License-based products (Online services) <a href="#license-based-products-online-services" id="license-based-products-online-services"></a>
 
 Licenses for products such as Office 365 E3 are User Subscription Licenses; you need one license for each user. These products are also known as seat-based offers or license-based services and include all the Office 365, Microsoft 365, Dynamics 365, and Windows 365 products.
 
@@ -42,7 +38,7 @@ Consider the Server Subscription as the best friend of Azure Reserved Instances 
 
 ### Perpetual software <a href="#perpetual-software" id="perpetual-software"></a>
 
-Perpetual software licenses are licenses for on-premises Microsoft products that you acquire in perpetuity. In the CSP program, the software is license-only (L-only) and does not include the option to add Software Assurance (SA).&#x20;
+[Perpetual software licenses](perpetual-software/) are licenses for on-premises Microsoft products that you acquire in perpetuity. In the CSP program, the software is license-only (L-only) and does not include the option to add Software Assurance (SA).&#x20;
 
 Software licenses available in CSP include desktop tools such as Word, Excel, Project, and Visio; infrastructure servers that include Windows Server, SQL Server, Biztalk Server; and productivity servers that include Exchange, SharePoint, Skype for Business, and Project Server.
 
@@ -79,7 +75,7 @@ You can execute each step of the onboarding process through the Marketplace Plat
 2. **Continuous Support** - SoftwareOne offers ongoing support to address any issues and provide updates, helping your business adapt and grow with the evolving cloud landscape.
 3. **Optimization** - Regular reviews and optimization services are provided to ensure you continue to get the most out of your Microsoft cloud investment.
 
-## CSP and granular delegated admin privileges <a href="#csp-and-granular-delegated-admin-privileges" id="csp-and-granular-delegated-admin-privileges"></a>
+## CSP and granular delegated admin privileges (GDAP) <a href="#csp-and-granular-delegated-admin-privileges" id="csp-and-granular-delegated-admin-privileges"></a>
 
 For SoftwareOne to provide support to our customers, we require access to your workloads.&#x20;
 
@@ -99,7 +95,7 @@ The move to NCE for seat-based offers took place in 2022 following the move to N
 
 ### What’s changing in 2024? <a href="#whats-changing-in-2024" id="whats-changing-in-2024"></a>
 
-Starting 1 March 2024, the new commerce system launched education and nonprofit offers.
+Starting 1 March 2024, the new commerce system launched education and non-profit offers.
 
 ### What about the legacy seat-based offers? <a href="#what-about-the-legacy-seat-based-offers" id="what-about-the-legacy-seat-based-offers"></a>
 
@@ -141,9 +137,7 @@ After the 7-day window passes, the subscription can no longer be canceled.&#x20;
   * If a new purchase is made with a lower number of licenses, customer data, and user license assignment settings will still be retained, and the partner should manage these appropriately.
   * After the 7-day period, these actions are no longer allowed, and data will be removed.
 
-<!---->
-
-* Transacting partner will no longer be billed (pro-rata charges may apply)
+- Transacting partner will no longer be billed (pro-rata charges may apply)
 
 </details>
 

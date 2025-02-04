@@ -16,7 +16,7 @@ Before you can exclude Client Portal and SoftwareOne from your policies, you nee
 
 Follow these steps to configure conditional access policies
 
-1. In the Azure portal, navigate to [Azure AD Conditional Access](https://portal.azure.com/#view/Microsoft\_AAD\_ConditionalAccess/ConditionalAccessBlade/\~/Policies).&#x20;
+1. In the Azure portal, navigate to [Azure AD Conditional Access](https://portal.azure.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies).&#x20;
 
 <figure><img src="../../.gitbook/assets/Azure AD Conditional Access.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,41 +50,41 @@ When modifying Conditional Access policy exclusions, do not remove any of your e
 SoftwareOne cannot be held liable for damages caused by the misconfiguration of this feature.
 {% endhint %}
 
-1. In the Azure portal, navigate to [Azure AD Conditional Access](https://portal.azure.com/#view/Microsoft\_AAD\_ConditionalAccess/ConditionalAccessBlade/\~/Policies).
+1. In the Azure portal, navigate to [Azure AD Conditional Access](https://portal.azure.com/#view/Microsoft_AAD_ConditionalAccess/ConditionalAccessBlade/~/Policies).
 
-<figure><img src="../../.gitbook/assets/image (91) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (490).png" alt=""><figcaption></figcaption></figure>
 
 2. In the list of policies, select one of the policies that you applied.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure>
 
 3. Under **Assignments**, select the **Users** section.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (492).png" alt=""><figcaption></figcaption></figure>
 
 4. Select **Exclude**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (493).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the **Guest or external users** checkbox.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (494).png" alt=""><figcaption></figcaption></figure>
 
 6. Choose **Select**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (495).png" alt=""><figcaption></figcaption></figure>
 
 7. Click **0 Azure AD organizations selected**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
 
 8. Enter the Tenant ID you obtained from our Support team, and then select the checkbox next to the SoftwareONE reseller tenant.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (497).png" alt=""><figcaption></figcaption></figure>
 
 9. Click **Select** and then select **Save.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (85) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (595).png" alt=""><figcaption></figcaption></figure>
 
 Repeat the steps in this section for each policy that you noted in the previous section.
 

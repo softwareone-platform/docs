@@ -1,9 +1,7 @@
----
-description: Create a new Client or Vendor Account object.
----
+# Create Account
 
-# Create account
+Create a new Client or Vendor Account object.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/accounts" method="post" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/accounts" method="post" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

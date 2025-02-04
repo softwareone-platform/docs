@@ -1,5 +1,5 @@
-# Get agreement attachment
+# Get Agreement Attachment
 
-{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/agreements/{agreementId}/attachments/{id}" method="get" %}
-[commerce.json](../../../../.gitbook/assets/commerce.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/commerce/agreements/{agreementId}/attachments/{id}" method="get" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

@@ -1,7 +1,7 @@
-# List price lists
+# List Pricelists
 
 List of price lists.
 
-{% swagger src="../../../../.gitbook/assets/catalog.json" path="/v1/price-lists" method="get" %}
-[catalog.json](../../../../.gitbook/assets/catalog.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/catalog/price-lists" method="get" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

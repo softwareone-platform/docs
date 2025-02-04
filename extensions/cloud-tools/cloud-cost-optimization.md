@@ -2,7 +2,7 @@
 description: Cloud Cost Optimization Dashboard.
 ---
 
-# Cloud cost optimization
+# Cloud Cost Optimization
 
 The Cloud Cost Optimization module allows organizations to deliver optimization to their cloud infrastructure, and deliver savings through various strategies that form a part of the framework.
 
@@ -16,7 +16,7 @@ The Cloud Cost Optimization dashboard requires all the permissions for the Tag a
 
 The Cloud Cost Optimization Overview page contains two sections **Overview Chart** and the **Overview Grid**.
 
-![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FvDlLKXxw37eUXbVH0JUK%2Fimage.png?alt=media\&token=90a48b77-c354-41da-a373-87daad8e9252)
+![](https://872874700-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FvDlLKXxw37eUXbVH0JUK%2Fimage.png?alt=media\&token=90a48b77-c354-41da-a373-87daad8e9252)
 
 ### **Overview chart**
 
@@ -123,11 +123,11 @@ Optimization recommendations for this strategy are dependent on the selection of
 
 If the regions have not been selected, then you may likely see this on the Cross-Region Optimization strategy page.
 
-![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2Fk9tzAmXaI3uJ23cF9Kik%2Fimage.png?alt=media\&token=386943f4-3c2b-47cd-960a-a2cd984b2067)
+![](https://872874700-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2Fk9tzAmXaI3uJ23cF9Kik%2Fimage.png?alt=media\&token=386943f4-3c2b-47cd-960a-a2cd984b2067)
 
 In order to move forward, kindly select the regions by clicking on Edit, and select the regions and save changes.
 
-![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FHJEo7oTvdilpsziuMD2q%2Fimage.png?alt=media\&token=2a1d78a7-e0de-4b67-81a4-468a9647852e)
+![](https://872874700-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FHJEo7oTvdilpsziuMD2q%2Fimage.png?alt=media\&token=2a1d78a7-e0de-4b67-81a4-468a9647852e)
 
 The Savings threshold is the minimum savings that needs to be achieved to make the resource viable for Cross-Region Optimization.
 
@@ -143,7 +143,7 @@ You can do this by navigating to Resource Details > Edit.
 
 Note that if a region is set at a resource level, then it will not be assigned a cheaper region automatically by the system.
 
-![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FNOxENOK2d57X7MkLGQNF%2Fimage.png?alt=media\&token=e32fd2a3-9cc7-4fbb-8f5c-f1d835b041da)
+![](https://872874700-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FNOxENOK2d57X7MkLGQNF%2Fimage.png?alt=media\&token=e32fd2a3-9cc7-4fbb-8f5c-f1d835b041da)
 
 ### Strategy – Resource Automation <a href="#strategy-resource-automation" id="strategy-resource-automation"></a>
 
@@ -155,7 +155,7 @@ Resource uptime is defaulted to 24 hours a day, 7 days a week. This setting can 
 
 An uptime window can be configured on resource level using Resource Details > Edit, as shown below.
 
-![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FKHM6t6Vq5QwHNyP2Ui9h%2Fimage.png?alt=media\&token=e625035d-8461-414b-8cf8-96546936257c)
+![](https://872874700-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2FKHM6t6Vq5QwHNyP2Ui9h%2Fimage.png?alt=media\&token=e625035d-8461-414b-8cf8-96546936257c)
 
 ### Strategy – Reserved Instances <a href="#strategy-reserved-instances" id="strategy-reserved-instances"></a>
 
@@ -167,7 +167,7 @@ Reserved Instance term is defaulted to 1 year for every resource.
 
 Reserved Instance term can be configured on resource level using Resource Details -> Edit, as shown below.
 
-![](https://872874700-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2Fc7IYpHph9xYmNzDFJb7P%2Fimage.png?alt=media\&token=896fdfd5-4ed1-4760-9cba-5d3ee7aa7ab3)
+![](https://872874700-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FB8rr5E9BB4HBPts7pBng%2Fuploads%2Fc7IYpHph9xYmNzDFJb7P%2Fimage.png?alt=media\&token=896fdfd5-4ed1-4760-9cba-5d3ee7aa7ab3)
 
 ### Strategy – Azure Hybrid Benefit <a href="#strategy-azure-hybrid-benefit" id="strategy-azure-hybrid-benefit"></a>
 

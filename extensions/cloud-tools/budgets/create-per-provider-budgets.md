@@ -16,7 +16,7 @@ Depending on the provider, you can create a budget for an account and a subscrip
 2. Select the **Per-Provider** tab.
 3. Click **Add Budget** and then click **Add** after you've selected the tenant. If you have a long list of tenants, you can use the **Search Tenants** option to find the tenant.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (106).png" alt="" width="276"><figcaption><p>Add Budget and Add options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (616).png" alt="" width="276"><figcaption><p>Add Budget and Add options</p></figcaption></figure>
 
 4. In the **Adding budget** page, provide the following details:
    * **Budget name** - If you are creating a budget for an Account, you'll need to provide a budget name. In the case of subscription budgets, the name is automatically set to the subscription name.
@@ -24,33 +24,33 @@ Depending on the provider, you can create a budget for an account and a subscrip
    * **End Date** - End date of the budget.
    * **Budget Owner** - Email address of the person responsible for creating the budget.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (8) (2).png" alt="" width="446"><figcaption><p>Adding budget page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (815).png" alt="" width="446"><figcaption><p>Adding budget page</p></figcaption></figure>
 
 5. Click **Save**.
 
 ## Related topics
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets" %}
+[Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets)
 {% endcontent-ref %}
 
-{% content-ref url="create-reporting-period.md" %}
-[create-reporting-period.md](create-reporting-period.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-reporting-period" %}
+[Create Reporting Period](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-reporting-period)
 {% endcontent-ref %}
 
-{% content-ref url="create-custom-group-budgets.md" %}
-[create-custom-group-budgets.md](create-custom-group-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets" %}
+[Create Custom Group Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="view-budgets.md" %}
-[view-budgets.md](view-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/view-budgets" %}
+[View Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/view-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="request-to-create-or-update-budgets.md" %}
-[request-to-create-or-update-budgets.md](request-to-create-or-update-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/request-to-create-or-update-budgets" %}
+[Request to Create or Update Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/request-to-create-or-update-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="edit-budget-utilization-alerts.md" %}
-[edit-budget-utilization-alerts.md](edit-budget-utilization-alerts.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/edit-budget-utilization-alerts" %}
+[Edit Budget Utilization Alerts](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/edit-budget-utilization-alerts)
 {% endcontent-ref %}
 

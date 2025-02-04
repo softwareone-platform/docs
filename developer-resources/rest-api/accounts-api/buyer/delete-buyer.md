@@ -1,9 +1,7 @@
----
-description: Delete the Buyer object.
----
+# Delete Buyer
 
-# Delete buyer
+Delete the Buyer object.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/buyers/{id}" method="delete" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/buyers/{id}" method="delete" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

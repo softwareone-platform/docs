@@ -34,30 +34,30 @@ Follow these steps to add comments or view the progress:
 1. Open the details page of your recommendation. You can do so by clicking the name of the recommendation.
 2. To add comments, select the **Comments** tab, and then type the individual's first name and last name. Save your comments.
 
-<figure><img src="../../../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>Comments tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (818).png" alt=""><figcaption><p>Comments tab</p></figcaption></figure>
 
 3. To track progress, select the **Progress Log** tab.
 
-<figure><img src="../../../.gitbook/assets/image (12) (2).png" alt=""><figcaption><p>Progress Log tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (819).png" alt=""><figcaption><p>Progress Log tab</p></figcaption></figure>
 
 ## Related topics
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations" %}
+[Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="view-recommendations.md" %}
-[view-recommendations.md](view-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations" %}
+[View Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="azure-recommendations.md" %}
-[azure-recommendations.md](azure-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/azure-recommendations" %}
+[Azure Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/azure-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="aws-recommendations.md" %}
-[aws-recommendations.md](aws-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/aws-recommendations" %}
+[AWS Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/aws-recommendations)
 {% endcontent-ref %}
 
-{% content-ref url="office-365-recommendations.md" %}
-[office-365-recommendations.md](office-365-recommendations.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations" %}
+[Office 365 Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations)
 {% endcontent-ref %}

@@ -1,7 +1,7 @@
-# Update product settings
+# Update Product Settings
 
 Update a product’s setting.
 
-{% swagger src="../../../../.gitbook/assets/catalog.json" path="/v1/products/{id}/settings" method="put" %}
-[catalog.json](../../../../.gitbook/assets/catalog.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/catalog/products/{id}/settings" method="put" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

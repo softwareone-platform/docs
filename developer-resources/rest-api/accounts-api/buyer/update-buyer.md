@@ -1,9 +1,7 @@
----
-description: Update the Buyer object. You can only update the logo and contact fields only.
----
+# Update Buyer
 
-# Update buyer
+Update the Buyer object. You can only update the logo and contact fields only.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/buyers/{id}" method="put" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/buyers/{id}" method="put" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

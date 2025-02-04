@@ -1,7 +1,7 @@
-# List sellers
+# List Sellers
 
 Get the Sellers collection.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/sellers" method="get" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/sellers" method="get" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

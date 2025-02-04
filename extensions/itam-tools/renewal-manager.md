@@ -10,8 +10,6 @@ Renewal Manager lets you collect, track, and manage contractual and software mai
 
 When you log into Renewal Manager for the first time, the application will set up a session for you. It will retrieve all the information from your agreements purchased through SoftwareOne. This may take several seconds, depending on the data volume.
 
-***
-
 ## Summary Page <a href="#summary-page" id="summary-page"></a>
 
 The Renewal Manager Summary Page shows:
@@ -37,21 +35,19 @@ There are 3 columns that show tiles with aggregated data:
 
 The links in the tiles will take you to the list of agreements with filters applied. This allows you to see the full list of agreements that have been aggregated into the tiles.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
 
 #### Add Agreements Manually <a href="#add-agreements-manually" id="add-agreements-manually"></a>
 
 Renewal Manager is not limited to agreements and software purchased through SoftwareONE. The “Add Agreements Manually” option – lets you add agreements to Renewal Manager that have not been purchased through SoftwareONE.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
 
 After entering the data (at least the mandatory fields) click “Save”. You will then see the Agreement Details Page for the agreement you have just created. After you have registered an agreement you may want to add product and cost information to this agreement as a second step.
 
 #### Advanced Search <a href="#advanced-search" id="advanced-search"></a>
 
 Advanced search gives you the option to narrow down the agreements that are aggregated into tiles. Search filters make it possible to present the aggregated data that is of interest to you.
-
-***
 
 ## Agreements Page <a href="#agreements-page" id="agreements-page"></a>
 
@@ -95,8 +91,6 @@ Advanced search gives you the option to narrow down the list of agreements. The 
 
 In case you are using the same filter combination on a regular base, you can save them as favorites with ‘Save Search’.
 
-***
-
 #### Bulk Actions <a href="#post-796-_toc14239613" id="post-796-_toc14239613"></a>
 
 Bulk actions allow you to simplify administration tasks by modifying multiple agreements in one action.
@@ -125,16 +119,12 @@ You can change the currency for all selected agreements. By changing the currenc
 1. View of selected agreements with the set currency
 2. Field to choose the new currency
 
-***
-
 **Add Tags**
 
 You can add specific tags for all selected agreements. See more details relating to tags in “Tags and Cost Split“.
 
 1. Preview of selected agreements
 2. Fields to add tags
-
-***
 
 **Remove Tags**
 
@@ -156,8 +146,6 @@ You can remove the responsible person from the selected agreement.
 
 1. Preview of selected agreement
 2. The dropdown field for choosing which person should be removed from “Responsible People” of the selected agreement
-
-***
 
 ## Agreement Details Page <a href="#post-796-_toc14239621" id="post-796-_toc14239621"></a>
 
@@ -284,9 +272,7 @@ This section shows the history of agreements. If agreements co-terminate or rene
 
 On the Savings tab, you can add savings relating to a specific agreement. The “Total Savings” tile shows you the savings sum for the agreement.
 
-In the “Date of savings” field, you can enter the date you would like for your [Savings Analysis](renewal-manager.md#post-796-\_toc14239659). By default, this is set to the agreement start date.&#x20;
-
-<figure><img src="../../.gitbook/assets/image (2) (1) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+In the “Date of savings” field, you can enter the date you would like for your [Savings Analysis](renewal-manager.md#post-796-_toc14239659). By default, this is set to the agreement start date.&#x20;
 
 #### Tags and Cost Split Tab <a href="#post-796-_toc14180237" id="post-796-_toc14180237"></a>
 
@@ -317,13 +303,11 @@ In this section you will see:
 
 When you click on the “Add New Document” Button the below form will open.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (797).png" alt=""><figcaption></figcaption></figure>
 
 From here you can upload a file (1) and describe it with a note (2).
 
 When you click on “Save” (3) the file is saved in the documents section.
-
-***
 
 ## Costs <a href="#post-796-_toc14180241" id="post-796-_toc14180241"></a>
 
@@ -358,9 +342,7 @@ Filter options are also available above the chart.
 
 Savings Analysis shows you a summary of your savings for all agreements. The savings data displayed will be for the “Start – End” date period defined.
 
-You can reference the [Savings tab](renewal-manager.md#post-796-\_toc14239646) to learn more.
-
-***
+You can reference the Savings tab to learn more.
 
 ## Products Overview <a href="#post-796-_toc14239660" id="post-796-_toc14239660"></a>
 
@@ -371,8 +353,6 @@ Within this list of products you can:
 * Use advanced search to narrow down the number of products displayed
 * Customize the list by sorting and grouping displayed elements
 * View more product details by clicking on the product name
-
-***
 
 ## User Role – Read Only Access <a href="#post-796-_toc14180246" id="post-796-_toc14180246"></a>
 
@@ -387,33 +367,25 @@ They won’t be able to do any of the following:
 * Execute bulk actions
 * Modify any data
 
-***
-
 ## Grid Customization <a href="#post-796-_toc14180248" id="post-796-_toc14180248"></a>
 
 Each grid available in Renewal Manager can be personalized. Once you click on “Customize” you will see the list of columns that can be added to the grid. Simply click on the check boxes next to the information you would like to view.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
 
 If you select multiple columns to display and the view is not wide enough to show all information, you can resize the specific column widths by moving your mouse cursor over the column border and then “click and drag” the column to your required width.
 
 Use the horizontal scroll bar to navigate across.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-***
+<figure><img src="../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
 
 ## Exports <a href="#post-796-_toc14180249" id="post-796-_toc14180249"></a>
 
 You can generate reports from Agreements, Products, and Payments. To do this you need to click on the “Export” button and select the relevant export list you would like.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
 
 To view generated reports click **Go to My Reports**
-
-<figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-***
 
 ## Notifications <a href="#post-796-_toc14180250" id="post-796-_toc14180250"></a>
 

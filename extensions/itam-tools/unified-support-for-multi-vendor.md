@@ -2,7 +2,7 @@
 description: Unified Support for multi-vendor Dashboard
 ---
 
-# Unified support for multi-vendor
+# Unified Support for Multi-vendor
 
 The Unified Support for MultiVendor (USMV) dashboard is for our clients who have purchased the Unified Support for MultiVendor service. As part of the service, SoftwareOne acts as a single point of contact for support for the selected software vendors, including:
 
@@ -18,7 +18,7 @@ The Unified Support for MultiVendor (USMV) dashboard is for our clients who have
 
 You can access the dashboard by navigating to the main menu of the Client Portal and selecting **Services >** **Unified Support for MultiVendor**.
 
-<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption><p>Unified Support for MultiVendor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (737).png" alt=""><figcaption><p>Unified Support for MultiVendor</p></figcaption></figure>
 
 ## Dashboard interface <a href="#submit-a-ticket" id="submit-a-ticket"></a>
 

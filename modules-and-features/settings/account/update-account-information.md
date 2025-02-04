@@ -1,0 +1,39 @@
+# Update Account Details
+
+If you need to update your account information, like the account name, company details, and address, you can make these changes using the **Edit** option on the **Account** page.&#x20;
+
+{% hint style="info" %}
+**Need to update your profile or personal settings?**
+
+See [Manage your profile](https://docs.platform.softwareone.com/marketplace-platform/getting-started/interface/manage-profile) to learn about updating your profile picture, profile name, preferred language, and more.
+{% endhint %}
+
+## Updating your account details
+
+Follow these steps to update your details:
+
+1. On the **Account** page (**Settings** > **Account**), click **Edit** in the upper right. The **Edit account** wizard launches.
+
+<figure><img src="../../../.gitbook/assets/Account (1).png" alt=""><figcaption><p>Account page</p></figcaption></figure>
+
+2. Change the **General** settings as necessary:
+   * **Logo** - Update the logo for your account. You can upload an image by clicking **Select file** or by dragging the image into the field.
+   * **Client name** - Update the name of your account. The account name is displayed in the upper right and on other pages on the platform.
+3. Change the **Additional data** settings as necessary:
+   * **Company website** - Enter the URL for your company website.
+   * **Technical support email** - Enter an email address for your technical support.
+   * **Company description** - Enter a description of your company.
+4. Change the **Headquarters address** settings as necessary:
+   * **Address line 1** - Enter the first line of your company address.
+   * **Address line 2** - Enter additional details or secondary address information.
+   * **City** - Enter the city for your address.
+   * **State/region** - Select the state or region for your address.
+   * **ZIP/postcode** - Enter the zip or postal code for your address.
+   * **Country** - Select the country for your address.
+5. Click **Save**. A message is displayed stating that your account settings have been updated.
+
+## Related topics
+
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}

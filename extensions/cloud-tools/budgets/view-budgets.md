@@ -31,13 +31,13 @@ This tab provides information about child budget amounts and utilization.&#x20;
 
 Consumption in child budgets is included in the parent budget utilization value. You can edit the child budget amounts by selecting **Edit Budgets**.
 
-<figure><img src="../../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>Child budgets</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (816).png" alt=""><figcaption><p>Child budgets</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Top 50 Resources" %}
 This tab shows the top-consuming resources of the displayed budget. You can expand a resource to view more details.
 
-<figure><img src="../../../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Top 50 resources</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (817).png" alt=""><figcaption><p>Top 50 resources</p></figcaption></figure>
 
 * Select **View in Resource Manager** to open resource details in Resource Manager.
 * Select **View Consumption** to open resource spend analytics.
@@ -74,26 +74,26 @@ Displays a list of the top resources consuming the most for that budget (Account
 
 ## Related topics
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets" %}
+[Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets)
 {% endcontent-ref %}
 
-{% content-ref url="create-reporting-period.md" %}
-[create-reporting-period.md](create-reporting-period.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-reporting-period" %}
+[Create Reporting Period](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-reporting-period)
 {% endcontent-ref %}
 
-{% content-ref url="create-custom-group-budgets.md" %}
-[create-custom-group-budgets.md](create-custom-group-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets" %}
+[Create Custom Group Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-custom-group-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="create-per-provider-budgets.md" %}
-[create-per-provider-budgets.md](create-per-provider-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-per-provider-budgets" %}
+[Create Per-Provider Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/create-per-provider-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="request-to-create-or-update-budgets.md" %}
-[request-to-create-or-update-budgets.md](request-to-create-or-update-budgets.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/request-to-create-or-update-budgets" %}
+[Request to Create or Update Budgets](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/request-to-create-or-update-budgets)
 {% endcontent-ref %}
 
-{% content-ref url="edit-budget-utilization-alerts.md" %}
-[edit-budget-utilization-alerts.md](edit-budget-utilization-alerts.md)
+{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/edit-budget-utilization-alerts" %}
+[Edit Budget Utilization Alerts](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/budgets/edit-budget-utilization-alerts)
 {% endcontent-ref %}

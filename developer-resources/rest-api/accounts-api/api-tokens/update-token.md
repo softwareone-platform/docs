@@ -1,7 +1,7 @@
-# Update token
+# Update Token
 
-Update the specified token object.
+Update API token.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/api-tokens/{id}" method="put" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/api-tokens/{id}" method="put" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}

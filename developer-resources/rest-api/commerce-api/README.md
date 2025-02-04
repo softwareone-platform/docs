@@ -16,6 +16,10 @@
 [requests-messages](requests-messages/)
 {% endcontent-ref %}
 
+{% content-ref url="requests-attachments/" %}
+[requests-attachments](requests-attachments/)
+{% endcontent-ref %}
+
 {% content-ref url="subscriptions/" %}
 [subscriptions](subscriptions/)
 {% endcontent-ref %}
@@ -27,4 +31,3 @@
 {% content-ref url="order-subscription/" %}
 [order-subscription](order-subscription/)
 {% endcontent-ref %}
-

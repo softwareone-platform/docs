@@ -1,7 +1,3 @@
----
-description: Activate your Microsoft tenant.
----
-
 # Complete Your Microsoft 365 or Microsoft Azure Activation
 
 If you purchased SoftwareOne's Digital Workplace Essentials/365Simple, and Azure Essentials/ AzureSimple services, you must activate your cloud account in the Marketplace Platform.&#x20;

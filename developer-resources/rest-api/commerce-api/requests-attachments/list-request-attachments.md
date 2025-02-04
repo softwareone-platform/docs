@@ -1,9 +1,7 @@
----
-description: List attachments in the scope of the specific request.
----
+# List Request Attachments
 
-# List request attachments
+List attachments in the scope of the specific request.
 
-{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/requests/{requestId}/attachments" method="get" %}
-[commerce.json](../../../../.gitbook/assets/commerce.json)
+{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/commerce/requests/{requestId}/attachments" method="get" %}
+[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
 {% endswagger %}
