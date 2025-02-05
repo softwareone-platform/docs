@@ -1,14 +1,14 @@
-# FinOps for Cloud UI
+# FinOps for Cloud Interface
 
 FinOps for Cloud is split into different sections for ease of navigation and usability:
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Home page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/finOps_UI.png" alt=""><figcaption><p>FinOps for Cloud UI</p></figcaption></figure>
 
 ## Sidebar
 
 The sidebar is your entry point for accessing the following pages:
 
-* **Home** - Find your organization’s current spending and projected expenses for the upcoming month. To learn more, see the [Home page](home-page.md).
+* **Home** - Find your organization’s current spending and projected expenses for the upcoming month.&#x20;
 * **Recommendations** - Get practical information about suggesting services and features available in FinOps for Cloud. Find a brief description and other pertinent information in the cards to help you assess the situation quickly.
 * **Resources** - Observe the expenses for all resources across all connected clouds within the organization for the selected period. Organize and categorize resources based on your specific requirements.
 * **Pools** - View pools with limits or projected expenses that require your attention. Manage pools using the available features on this page.
@@ -26,8 +26,8 @@ To see an overview of all organizations and key information for each organizatio
 
 You can find the following options in the header:
 
-**Documentation** - Select to access the product documentation for FiOps for Cloud.
+<img src="../../.gitbook/assets/icon_menu_book.png" alt="" data-size="line"> - _Documentation_ - Select to access the product documentation for FiOps for Cloud.&#x20;
 
-**Product tour** - Select to get the product tour.
+<img src="../../.gitbook/assets/icon_product_tour.png" alt="" data-size="line"> - _Product tour_ - Select to get the product tour.
 
-**Profile** - Select to sign out of the FiOps for Cloud platform.&#x20;
+<img src="../../.gitbook/assets/icon_account.png" alt="" data-size="line"> - _Profile_ - Select to sign out of the FiOps for Cloud platform.&#x20;

@@ -9,7 +9,7 @@ To add a page to your favorites:
 1. Click the main menu and navigate to the required page.&#x20;
 2. Hover over the page and select the star icon. The star icon changes from empty to filled, and the page is displayed under **Favorites**.
 
-<figure><img src="../../../.gitbook/assets/Favorites.png" alt="" width="563"><figcaption><p>Add to favorites</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface_favorites.png" alt="" width="563"><figcaption><p>Add to favorites</p></figcaption></figure>
 
 ## Remove a page from your favorites
 

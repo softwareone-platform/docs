@@ -4,7 +4,7 @@ Your profile page contains basic information about your account, including your 
 
 You can access your profile and make changes as necessary through the **My profile** option. To access the option click your profile menu in the upper right and select **My profile**. This will open your profile overview page.
 
-<figure><img src="../../../.gitbook/assets/Profile.png" alt=""><figcaption><p>Profile overview page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/profile.png" alt=""><figcaption><p>Profile overview page</p></figcaption></figure>
 
 Your profile settings are organized by tabs:
 

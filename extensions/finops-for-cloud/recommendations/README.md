@@ -6,7 +6,7 @@ The **Recommendations** page is designed to make you aware of the less apparent 
 
 In FinOps for Cloud, you can access the **Recommendations** page from the sidebar. On this page, you can review all the recommendations and take action to get the most out of your registered Data Sources.&#x20;
 
-<figure><img src="../../../.gitbook/assets/recommendations.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/recommendations.png" alt=""><figcaption><p>Recommendations page</p></figcaption></figure>
 
 ### Data sources <a href="#force-check-and-check-time" id="force-check-and-check-time"></a>
 

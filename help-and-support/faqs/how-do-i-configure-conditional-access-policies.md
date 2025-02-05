@@ -40,7 +40,7 @@ Follow these steps to configure conditional access policies
 
 At the bottom of the page, you will see the list of **Policies that will apply**. Make a note of these policies as these are the ones you will need to modify to exclude the Client Portal and SoftwareOne.
 
-<figure><img src="../../.gitbook/assets/Policies that will apply.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/legacy_conditional_access_policies.png" alt=""><figcaption></figcaption></figure>
 
 ### Excluding the Client Portal and SoftwareOne from the policy <a href="#exclude-pyracloud-and-softwareone-from-a-policy" id="exclude-pyracloud-and-softwareone-from-a-policy"></a>
 
