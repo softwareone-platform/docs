@@ -8,7 +8,7 @@ The Marketplace Platform supports three different account types, including Clien
 
 Account administrators can access the **Account** page by selecting **Settings** > **Account** from the main menu.
 
-<figure><img src="../../../.gitbook/assets/Account (1).png" alt=""><figcaption><p>Your account page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Your account page</p></figcaption></figure>
 
 The **Account** page displays the general account information, such as name, status, and ID and is organized into the following tabs:
 

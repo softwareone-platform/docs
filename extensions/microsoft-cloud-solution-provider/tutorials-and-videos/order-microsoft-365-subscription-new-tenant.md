@@ -20,11 +20,11 @@ Before starting this tutorial, make sure you have the following:
 
 1. On the **Products** page (**Marketplace** > **Products**), select **Microsoft 365 Business, Enterprise & Apps - Commercial**.
 
-<figure><img src="../../../.gitbook/assets/Microsoft365.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tutorial_Microsoft365.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 2. Click **Buy now** in the upper right on the details page. The purchase wizard starts and the **Select agreement** step of the wizard is displayed.
 
-<figure><img src="../../../.gitbook/assets/MicrosoftBuyNow.png" alt=""><figcaption><p>Product details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tutorial_365_buy_now.png" alt=""><figcaption><p>Product details page</p></figcaption></figure>
 
 ## 2. Create agreement
 
@@ -52,7 +52,7 @@ Click **Create agreement** to set up your new agreement in the platform.
 2. Enter the tenant name you want to use on the onmicrosoft.com domain. Make sure that the name doesn't include punctuation marks or spaces.&#x20;
 3. Click **Next**. The platform validates the details you entered.
 
-<figure><img src="../../../.gitbook/assets/Microsoftdetails.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tutorial_microsoft_details.png" alt=""><figcaption></figcaption></figure>
 
 4. Fill out the contact form and click **Next**. You'll need to provide the following details:
    1. Company name.

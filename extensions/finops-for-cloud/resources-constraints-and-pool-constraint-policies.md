@@ -24,11 +24,11 @@ Follow these steps to assign resource constraints:
 1. On the **Resources** page, select the required resource. The details page of your selected resource opens.
 2. Select the **Constraints** tab.
 
-<figure><img src="../../.gitbook/assets/Constraints_tab (1).png" alt=""><figcaption><p>Constraints tab</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/resources_constraints.png" alt=""><figcaption><p>Constraints tab</p></figcaption></figure>
 
 3. On the **Constraints** tab, use the slider to enable the required setting, and then click edit ![pencil](https://hystax.com/documentation/optscale/_static/screens/resource_constraints/pencil.png) to enter the value. Click<img src="../../.gitbook/assets/check.png" alt="pencil" data-size="line"> to save your changes.
 
-<figure><img src="../../.gitbook/assets/Constraints_tab1.png" alt=""><figcaption><p>Available constraint type</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/resources_constraints_tab.png" alt=""><figcaption><p>Available constraint type</p></figcaption></figure>
 
 {% hint style="info" %}
 If a resource doesn't have a specific constraint set, it inherits the policies from its Pool. However, the resource owner or manager can override an existing Pool constraint policy for an individual resource by issuing a custom constraint for any given asset.
@@ -44,7 +44,7 @@ To apply pool constraint policies:
 2. Select the **Constrains** tab and click the edit icon![pencil](https://hystax.com/documentation/optscale/_static/screens/resource_constraints/pencil.png)to enter values in the **TTL** or **Daily expense limit** fields.
 3. Click<img src="../../.gitbook/assets/check.png" alt="pencil" data-size="line"> to save your changes.
 
-<figure><img src="../../.gitbook/assets/Pool constraint policies.png" alt=""><figcaption><p>Pool constraint policies</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pool_constraint_policies.png" alt=""><figcaption><p>Pool constraint policies</p></figcaption></figure>
 
 {% hint style="info" %}
 A constraint won't be visible if the related resource has already been deleted from FinOps or if a resource has been tracked only by imported billing data.

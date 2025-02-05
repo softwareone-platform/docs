@@ -46,19 +46,19 @@ The **Edit subscription** wizard launches and the **Items** section of the wizar
 ## 4. Place your order
 
 1. Verify the details of your change order. Make sure to read the terms and conditions by clicking the links in the footer. By placing the order, you accept all terms.
-2. Click **Place order**.&#x20;
+2. Click **Place order**.
 
 <figure><img src="../../../.gitbook/assets/Review order.png" alt=""><figcaption><p>Place your order</p></figcaption></figure>
 
 ## 5. View order summary
 
-1. Review your order summary and the latest status message.&#x20;
+1. Review your order summary and the latest status message.
 2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
 <figure><img src="../../../.gitbook/assets/EditSubsSummary (1).png" alt=""><figcaption><p>Order summary</p></figcaption></figure>
 
 ## Next steps
 
-Your order is submitted for processing, and the status of your subscription and the associated agreement changes from **Active** to **Updating**.&#x20;
+Your order is submitted for processing, and the status of your subscription and the associated agreement changes from **Active** to **Updating**.
 
 You won't be able to make any further changes until your change order is processed. You can view the most up-to-date information on your order and its status on the [Order details](../../../modules-and-features/marketplace/orders/#subscription-details) page.

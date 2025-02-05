@@ -19,4 +19,4 @@ When you click a card, the details page of the product opens. The details page d
 
 You can also access various assets, including terms, media files, related documentation, and product price lists.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (996).png" alt=""><figcaption><p>Product details page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>Product details page</p></figcaption></figure>

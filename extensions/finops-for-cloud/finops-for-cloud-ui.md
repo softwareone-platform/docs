@@ -2,13 +2,13 @@
 
 FinOps for Cloud is split into different sections for ease of navigation and usability:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Home page</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Home page</p></figcaption></figure>
 
 ## Sidebar
 
 The sidebar is your entry point for accessing the following pages:
 
-* **Home** - Find your organization’s current spending and projected expenses for the upcoming month. To learn more, see [Home page](home-page.md).
+* **Home** - Find your organization’s current spending and projected expenses for the upcoming month. To learn more, see the [Home page](home-page.md).
 * **Recommendations** - Get practical information about suggesting services and features available in FinOps for Cloud. Find a brief description and other pertinent information in the cards to help you assess the situation quickly.
 * **Resources** - Observe the expenses for all resources across all connected clouds within the organization for the selected period. Organize and categorize resources based on your specific requirements.
 * **Pools** - View pools with limits or projected expenses that require your attention. Manage pools using the available features on this page.
@@ -18,9 +18,16 @@ The sidebar is your entry point for accessing the following pages:
 
 ## Organization selector <a href="#organization-selector" id="organization-selector"></a>
 
-If you belong to several organizations in FinOps for Cloud, you can switch between those organizations. Selecting **Organization overview** redirects you to a new view containing a matrix of key information on each organization.
+If you belong to several organizations in FinOps for Cloud, you can switch between those organizations using the **Organizations** menu in the upper right.&#x20;
 
-Organizations that require attention and optimization are marked in red.
+To see an overview of all organizations and key information for each organization, select **Organization overview**. Organizations that require attention and optimization are marked in red on the **Organizations overview** page.
 
-Documentation, product tour, and profile buttons\
+## Documentation, product tour, and profile buttons
 
+You can find the following options in the header:
+
+**Documentation** - Select to access the product documentation for FiOps for Cloud.
+
+**Product tour** - Select to get the product tour.
+
+**Profile** - Select to sign out of the FiOps for Cloud platform.&#x20;

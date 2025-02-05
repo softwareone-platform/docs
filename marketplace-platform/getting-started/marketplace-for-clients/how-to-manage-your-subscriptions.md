@@ -10,7 +10,7 @@ You can view your subscriptions by selecting the main menu of the Client Portal 
 
 The page displays important information regarding your subscriptions. To view the details of an individual subscription, click the subscription name. For information on the columns that are displayed on this page, see [Subscriptions](../../../modules-and-features/marketplace/subscriptions/).
 
-<figure><img src="../../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscriptions_page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 ## Adding or removing licenses
 

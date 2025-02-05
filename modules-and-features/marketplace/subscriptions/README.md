@@ -8,7 +8,7 @@ You can [order new subscriptions through the platform](buy-products-and-services
 
 You can access the **Subscriptions** page by selecting **Marketplace** > **Subscriptions** from the main menu.
 
-<figure><img src="../../../.gitbook/assets/image (958).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscriptions_page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 The **Subscriptions** page displays key subscription properties. It also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page for ordering new subscriptions.
 

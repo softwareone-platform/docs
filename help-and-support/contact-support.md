@@ -17,7 +17,7 @@ To create a support ticket from your account, follow these steps:
 1. [Sign in to your account](https://portal.platform.softwareone.com).&#x20;
 2. Click the **Help** icon <img src="../.gitbook/assets/image (1145).png" alt="" data-size="line"> in the header and select **Support**. The **Help and Support** page opens.
 
-<figure><img src="../.gitbook/assets/Support.png" alt=""><figcaption><p>Support option in the Help menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/contact_support.png" alt=""><figcaption><p>Support option in the Help menu</p></figcaption></figure>
 
 3. On the **Help and Support** page, click **Submit a Ticket**.
 4. Fill out the form according to your issue. Optionally, click **Select files** to upload documentation that might help us understand and resolve your problem quickly.

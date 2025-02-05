@@ -54,7 +54,7 @@ The Help icon <img src="../../../.gitbook/assets/help_24dp_5F6368_FILL0_wght400_
 
 ### Pending actions
 
-The Pending actions icon <img src="../../../.gitbook/assets/pending_actions_24dp_434343_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line"> opens a **Pending tasks** section that displays all tasks that require your attention. To learn more about this feature, see [View Pending Tasks](view-pending-tasks.md).
+The Pending actions icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> opens a **Pending tasks** section that displays all tasks that require your attention. To learn more about this feature, see [View Pending Tasks](view-pending-tasks.md).
 
 <figure><img src="../../../.gitbook/assets/Notifications.png" alt=""><figcaption><p>PLACEHOLDER ONLY: TO BE REPLACED WHEN AVAILABLE</p></figcaption></figure>
 
@@ -68,4 +68,4 @@ The Notifications icon<img src="../../../.gitbook/assets/notifications_24dp_5F63
 
 You can [switch accounts](switch-account.md) and [manage your profile](manage-profile.md) through the profile menu in the upper right. You can also sign out of your account using the **Sign out** option in the menu.
 
-<figure><img src="../../../.gitbook/assets/Accountselector.png" alt=""><figcaption><p>Account selector and profile menu</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface_account_selector.png" alt=""><figcaption><p>Account selector and profile menu</p></figcaption></figure>

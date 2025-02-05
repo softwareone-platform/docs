@@ -16,11 +16,6 @@ The script deletes all recommended resources (based on the downloadable JSON fil
 1. Install the requirements on a machine running Linux OS.
 2. Configure the AWS Command Line Interface. (Run the **aws configure** command. For information, see the [AWS User Guide](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)).
 3. Download the script from the corresponding subsection on the **Recommendations** page.
-
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-
-
 4. From the same page, download the JSON file containing a list of all resources recommended for deletion.
 5. Run the script as follows: `bash <script_name> <path to json file>.`
 {% endtab %}

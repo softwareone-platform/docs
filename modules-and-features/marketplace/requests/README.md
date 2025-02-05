@@ -38,7 +38,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (978).png" alt=""><figcaption><p>Details page of a request</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/requests_activity_tab.png" alt=""><figcaption><p>Details page of a request</p></figcaption></figure>
 
 The request details page displays the product against which the request has been raised and the request status. You can also view general information about the request, such as the requester's name, vendor, and assignee.&#x20;
 

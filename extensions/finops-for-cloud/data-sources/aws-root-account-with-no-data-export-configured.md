@@ -10,7 +10,7 @@ If you connect the root account but don't connect the linked accounts, all expen
 
 To track a new AWS Data Source in your FinOps for Cloud account, select **AWS Root** on the **Connect Data Source** page:
 
-<figure><img src="../../../.gitbook/assets/AWS_Root.png" alt=""><figcaption><p>AWS Root option on the Connect Data Source page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/aws_root.png" alt=""><figcaption><p>AWS Root option on the Connect Data Source page</p></figcaption></figure>
 
 ## Creating automated billing bucket and data export <a href="#automated-billing-bucket-and-data-export-creation-with-optscale" id="automated-billing-bucket-and-data-export-creation-with-optscale"></a>
 
@@ -74,7 +74,7 @@ Go to **Identity and Access Management (IAM)** > **Policies**. Create a new poli
 }
 ```
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/aws_review_create.png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -100,7 +100,7 @@ Go to **Identity and Access Management (IAM)** > **Policies**. Create a new poli
    * Select **Create new Data Export**.
    * Provide the parameters with which the bucket and Data Export will be created: **Export Name**, **Export S3 Bucket Name** (\<new bucket name from user policy from step 1>), and **Export path prefix**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Create Data Source.png" alt=""><figcaption><p>Connect data source</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/aws_root (1).png" alt=""><figcaption><p>Connect data source</p></figcaption></figure>
 
 **Note**: Specify the bucket in the **Export S3 Bucket Name** field if it already exists. FinOps for Cloud will then create the report and store it in the bucket using the specified prefix.
 

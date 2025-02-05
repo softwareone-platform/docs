@@ -10,8 +10,8 @@ The **Anomaly detection** page provides information about all anomalies that hav
 
 You can track the dynamic in the **Status** column and hover over it to view the average and current values. The filters show the instances in which this policy is available. An en dash (–) in the **Filters** column means the policy is available for all cases.
 
-<figure><img src="../../../.gitbook/assets/Anomaly_detection-UI.png" alt=""><figcaption><p>Anomaly detection page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/anomaly_detection-UI.png" alt=""><figcaption><p>Anomaly detection page</p></figcaption></figure>
 
 To view detailed information for a policy, select the policy name. You can then view the general information, date of violation, status, average, and actual counts for easy comparison and a quick assessment of the situation. You can also modify the policy name. Clicking the **Actions** icon displays all resources.
 
-<figure><img src="../../../.gitbook/assets/Anomaly_detection.png" alt=""><figcaption><p>Anomaly detection details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/anomaly_detection.png" alt=""><figcaption><p>Anomaly detection details page</p></figcaption></figure>

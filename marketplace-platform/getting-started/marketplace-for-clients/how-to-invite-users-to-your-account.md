@@ -6,7 +6,7 @@ They can invite existing platform users and individuals who don't yet have an ac
 
 When an administrator adds someone to the account, an invitation to join is emailed. It's important to take action once you receive the invitation, as account invitations are valid for only 7 days from the send date. After 7 days, invitations expire and will need to be resent.&#x20;
 
-<figure><img src="../../../.gitbook/assets/AccountInvitation (1).png" alt="" width="563"><figcaption><p>New account invitation</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/account_invitation_email.png" alt="" width="563"><figcaption><p>New account invitation</p></figcaption></figure>
 
 ## Inviting users to your account
 

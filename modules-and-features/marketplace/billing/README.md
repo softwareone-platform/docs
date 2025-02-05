@@ -28,7 +28,7 @@ Currently, only Adobe VIP Marketplace supports split billing.&#x20;
 
 You can activate split billing using the **Split Billing** option on the details page of your agreement. For instructions, see [Activate split billing](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md#id-1.-activate-split-billing).
 
-<figure><img src="../../../.gitbook/assets/Activatesplitbilling (1).png" alt=""><figcaption><p>Split billing option on the agreement details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/activate_split_billing.png" alt=""><figcaption><p>Split billing option on the agreement details page</p></figcaption></figure>
 
 Once activated, the **Split billing** tab appears on the agreement’s details page.&#x20;
 

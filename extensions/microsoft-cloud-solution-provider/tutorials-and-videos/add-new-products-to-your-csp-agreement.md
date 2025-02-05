@@ -15,7 +15,7 @@ You should also know how to navigate the platform to access your agreements & or
 1. Sign in to your account and navigate to the **Agreements** page.&#x20;
 2. On the **Agreements** page, select the required CSP agreement.
 
-<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Tutorial_agreements_page.png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 3. On the agreement details page, click **Buy more**.
 

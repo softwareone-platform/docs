@@ -12,7 +12,7 @@ An order represents a request to buy a new product, change the quantity of licen
 
 You can access the **Orders** page by selecting **Marketplace** > **Orders** from the main menu.
 
-<figure><img src="../../../.gitbook/assets/image (948).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 
 The **Orders** page shows a complete list of your orders, including purchase, change, and termination orders. It also contains a **Buy more** option, which gives you quick access to the [Products ](https://docs.platform.softwareone.com/~/changes/5yDo0W9JFVZsyIwbYXyj/modules-and-features/marketplace/products)page for ordering new subscriptions.
 

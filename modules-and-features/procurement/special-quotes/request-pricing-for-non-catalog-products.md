@@ -62,7 +62,7 @@ Follow these steps to view the detailed quote information:
 
 Note that if your special quote contains multiple products, each product request is displayed in a separate row on the Special Quotes page. For example, if your special quote is for Acrobat Professional and Acrobat Standard, both products are displayed separately on the Special Quotes page, even though they are a part of the same request.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Special_Quotes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/legacy_special_quotes.png" alt=""><figcaption></figcaption></figure>
 
 When looking at the details of a special quote, products that are part of the same request are displayed under **Other products**.
 

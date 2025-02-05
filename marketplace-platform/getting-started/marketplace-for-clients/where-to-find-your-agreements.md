@@ -10,7 +10,7 @@ To view a list of your agreements, select the main menu of the Client Portal and
 
 From here, you can view your agreement name, the product you ordered, agreement status, and other details. To learn more, see [Agreements Interface](../../../modules-and-features/marketplace/agreements/#agreements-interface).
 
-<figure><img src="../../../.gitbook/assets/image (940).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/agreements_page.png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 ## Viewing an agreement's details <a href="#viewing-your-orders-details" id="viewing-your-orders-details"></a>
 

@@ -10,7 +10,7 @@ Initially, the licensees are created by SoftwareOne and mapped to the different 
 
 Account administrators can access the **Licensees** page by selecting **Settings** > **Licensees** from the main menu.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Licensee.png" alt=""><figcaption><p>Licensees page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/settings_licensees_page.png" alt=""><figcaption><p>Licensees page</p></figcaption></figure>
 
 The page displays all licensees that exist in your account. For each licensee, you can view the following details:
 
@@ -37,7 +37,7 @@ From the details page of a licensee, you can perform the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/Licensee (9).png" alt=""><figcaption><p>Details page of a licensee</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/settings_licensee_details_page.png" alt=""><figcaption><p>Details page of a licensee</p></figcaption></figure>
 
 The details page shows the licensee's name, marketplace ID, and status. It also shows the associated buyer and seller entities, and contains the following tabs:&#x20;
 

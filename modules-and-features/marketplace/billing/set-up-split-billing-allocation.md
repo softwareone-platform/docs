@@ -10,7 +10,7 @@ You can update the split to include additional buyers and allocate billing to th
 
 **Method 2 - Using the Details option on the Split billing tab within your agreement details**
 
-<figure><img src="../../../.gitbook/assets/Actions.png" alt=""><figcaption><p>Details option on the Split Billing tab of the agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/split_billing_actions.png" alt=""><figcaption><p>Details option on the Split Billing tab of the agreement</p></figcaption></figure>
 
 ## Method 1 - Subscription details page
 

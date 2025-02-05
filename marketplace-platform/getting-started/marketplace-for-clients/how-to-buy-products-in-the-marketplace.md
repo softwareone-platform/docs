@@ -20,7 +20,7 @@ You can view detailed information about a product by clicking the product name. 
 
 When you are ready to start the ordering process, click **Buy now** in the upper right on the details page.
 
-<figure><img src="../../../.gitbook/assets/image (996).png" alt=""><figcaption><p>Product details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>Buy now option</p></figcaption></figure>
 
 When you click the **Buy now** button, the Purchase Wizard starts. The wizard is designed to guide you through all the necessary steps in placing your order.
 

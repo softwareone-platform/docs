@@ -49,14 +49,14 @@ Click **Create agreement** to set up your new Adobe agreement. The **Select lice
 1. Choose the licensee for your agreement. A licensee is the end-user entity of the product being purchased. In this tutorial, we'll select an existing licensee, as shown in the following image. You can also add a new licensee by clicking **Add licensee** and following the steps in [Create Licensee](../../../modules-and-features/settings/licensees/create-licensees.md).
 2. Click **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Licensee (1).png" alt=""><figcaption><p>Select a licensee</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tutorial_adobe_licensee.png" alt=""><figcaption><p>Select a licensee</p></figcaption></figure>
 
 ## 4. Choose your account
 
 1. Choose whether to create a new account with Adobe or use your existing account. In this tutorial, we'll create a new account by selecting **Create account**.&#x20;
 2. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/createaccount.png" alt=""><figcaption><p>Create account option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_wizard_create_account.png" alt=""><figcaption><p>Create account option</p></figcaption></figure>
 
 If you want to migrate your existing Adobe VIP account to Adobe VIP Marketplace, select **Migrate account**. If you choose this option, you'll only need to provide your Adobe membership ID in the next step.
 

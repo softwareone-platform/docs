@@ -20,7 +20,7 @@ Split billing can only be activated at the agreement level. To activate split bi
 
 2. On the details page of the agreement, click the down arrow<img src="../../../.gitbook/assets/image (95).png" alt="" data-size="line"> in the upper right and select **Split billing**.
 
-<figure><img src="../../../.gitbook/assets/SP (1).png" alt=""><figcaption><p>Details page of the ageement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/split_billing.png" alt=""><figcaption><p>Details page of the ageement</p></figcaption></figure>
 
 3. In the **Split billing** dialog, select the checkbox and then click **Save**.
 

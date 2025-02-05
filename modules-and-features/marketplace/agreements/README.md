@@ -10,7 +10,7 @@ You can access your agreements and manage them through the **Agreements** page. 
 
 You can access the **Agreements** page by selecting **Marketplace** > **Agreements** from the main menu.
 
-<figure><img src="../../../.gitbook/assets/image (940).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/agreements_page.png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
 The **Agreements** page displays all agreements that exist in your account. It also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page.&#x20;
 

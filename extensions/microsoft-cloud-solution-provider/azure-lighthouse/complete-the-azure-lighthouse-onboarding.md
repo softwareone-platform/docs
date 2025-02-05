@@ -15,7 +15,7 @@ Follow these steps to complete the onboarding process:
 
 3. On the **General** tab, select the Lighthouse activation link.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image-20241209-110946.png" alt=""><figcaption><p>General tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_lighthouse_general_tab.png" alt=""><figcaption><p>General tab</p></figcaption></figure>
 
 4. On the Azure Lighthouse Onboarding page, click **Start Activation**.
 

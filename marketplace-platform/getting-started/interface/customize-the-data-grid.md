@@ -16,7 +16,7 @@ Sorting enables you to reorganize your data in ascending or descending order so 
 
 You can sort the data for a column by clicking the column header. When you click the header, the preconfigured sort options are displayed. You can choose any option from the list.
 
-<figure><img src="../../../.gitbook/assets/SortFilter1.png" alt=""><figcaption><p>Sort a single column</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/data_grid_sort_filter.png" alt=""><figcaption><p>Sort a single column</p></figcaption></figure>
 
 **Sort multiple columns**
 
@@ -26,7 +26,7 @@ If you want to apply multiple sorts, click<img src="data:image/png;base64,iVBORw
 2. Choose the required property and select the display order (**Ascending** or **Descending**). To add another sorting rule, click **Add another sort**. You can add multiple rules.
 3. Click **Close**. All columns that have sort conditions applied will be highlighted in the grid.
 
-<figure><img src="../../../.gitbook/assets/SortFilter.png" alt=""><figcaption><p>Sort multiple columns</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/data_grid_sort.png" alt=""><figcaption><p>Sort multiple columns</p></figcaption></figure>
 
 ## Filter data
 
@@ -57,7 +57,7 @@ The <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4
 
 You can use the checkbox next to each column name to hide or display a column. If you've hidden a column, you can make it visible again by selecting the same checkbox. Note that some columns are shown by default and you cannot hide them.
 
-<figure><img src="../../../.gitbook/assets/Columns (1).png" alt=""><figcaption><p>Columns selector in the grid</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/data_grid_columns.png" alt=""><figcaption><p>Columns selector in the grid</p></figcaption></figure>
 
 **Adjust column widths**
 

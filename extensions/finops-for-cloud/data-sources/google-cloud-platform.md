@@ -14,7 +14,7 @@ After you've enabled billing data export, a new table is displayed in your BigQu
 
 Note the names of the dataset and the table. You'll need these details when connecting your cloud account to FinOps for Cloud.
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption><p>Billing export</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/gcp_billingdata_export.png" alt=""><figcaption><p>Billing export</p></figcaption></figure>
 
 ## Creating a role for FinOps for Cloud <a href="#prepare-a-role-for-optscale" id="prepare-a-role-for-optscale"></a>
 

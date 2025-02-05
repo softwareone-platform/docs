@@ -11,7 +11,7 @@ Follow these steps to create a new request:
 1. Navigate to the **Products** page (**Marketplace** > **Products**) and find the product you have queries about.&#x20;
 2. Click the option to contact the vendor. Alternatively, click the name of the product. When the details page of your selected product opens, click the contact option in the upper right.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (979).png" alt=""><figcaption><p>Contact Us option on the details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>Contact Us option on the details page</p></figcaption></figure>
 
 3. In the **Request details** step, provide the details of your request and click **Next**.
 

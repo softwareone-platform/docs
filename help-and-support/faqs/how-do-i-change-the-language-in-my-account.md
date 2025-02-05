@@ -9,6 +9,6 @@ You can choose the preferred language for your account in your profile settings.
 3. On the profile page, click **Edit**. The **Edit user** page opens.
 4. Select **Preferences** and then use the **Language** menu to choose your preferred language.
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption><p>Language preferences</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/edit_user.png" alt=""><figcaption><p>Language preferences</p></figcaption></figure>
 
 5. Click **Save** to save your language selection.
