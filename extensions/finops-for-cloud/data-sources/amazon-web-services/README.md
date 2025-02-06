@@ -1,11 +1,15 @@
 # Amazon Web Services
 
-FinOps for Cloud is dedicated to improving the cloud usage experience but does not actively interfere with processes in your environment since it only requires **Read-Only** rights for the connected cloud account which is used as the main Data Source for all recommendations.
+See the following links for connecting your AWS account to FinOps for Cloud. You can connect an AWS root account or a linked account. Note that if you are connecting an AWD root account, the steps to connect vary depending on Data Exports.
 
-The following data is used:
+{% content-ref url="aws-root-account-with-data-export-already-configured.md" %}
+[aws-root-account-with-data-export-already-configured.md](aws-root-account-with-data-export-already-configured.md)
+{% endcontent-ref %}
 
-1. Billing info - all details related to cloud expenses.
-2. State of resources (for actively discoverable types) in the cloud - necessary for applying **Constraints** like TTL and Expense limit as well as for OptScale's **Recommendation Engine**.
-3. Monitoring data from the cloud used for identifying underutilized instances.
+{% content-ref url="aws-root-account-with-no-data-export-configured.md" %}
+[aws-root-account-with-no-data-export-configured.md](aws-root-account-with-no-data-export-configured.md)
+{% endcontent-ref %}
 
-Naturally, every cloud platform differs in the way the above data is obtained.
+{% content-ref url="aws-linked.md" %}
+[aws-linked.md](aws-linked.md)
+{% endcontent-ref %}

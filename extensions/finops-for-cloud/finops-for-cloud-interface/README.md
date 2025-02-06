@@ -2,7 +2,7 @@
 
 FinOps for Cloud is split into different sections for ease of navigation and usability:
 
-<figure><img src="../../.gitbook/assets/finOps_UI.png" alt=""><figcaption><p>FinOps for Cloud UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/finOps_UI.png" alt=""><figcaption><p>FinOps for Cloud UI</p></figcaption></figure>
 
 ## Sidebar
 
@@ -26,8 +26,8 @@ To see an overview of all organizations and key information for each organizatio
 
 You can find the following options in the header:
 
-<img src="../../.gitbook/assets/icon_menu_book.png" alt="" data-size="line"> - Select to access the documentation for FiOps for Cloud. You'll then be redirected to a detailed documentation page.&#x20;
+<img src="../../../.gitbook/assets/icon_menu_book.png" alt="" data-size="line"> - Select to access the documentation for FiOps for Cloud. You'll then be redirected to a detailed documentation page.&#x20;
 
-<img src="../../.gitbook/assets/icon_product_tour.png" alt="" data-size="line"> - Select to get a tour of the product.
+<img src="../../../.gitbook/assets/icon_product_tour.png" alt="" data-size="line"> - Select to get a tour of the product.
 
-<img src="../../.gitbook/assets/icon_account.png" alt="" data-size="line"> - Select to sign out of your account.&#x20;
+<img src="../../../.gitbook/assets/icon_account.png" alt="" data-size="line"> - Select to sign out of your account.&#x20;
