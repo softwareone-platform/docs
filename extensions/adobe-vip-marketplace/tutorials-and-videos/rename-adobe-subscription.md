@@ -12,7 +12,7 @@ Before starting this tutorial, make sure that the subscription you want to renam
 
 1. On the **Subscriptions** page (**Marketplace** > **Subscriptions**), click the subscription you want to rename.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Subscriptions page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscriptions_page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 ## 2. Provide the new name <a href="#section-renaming-a-subscription" id="section-renaming-a-subscription"></a>
 

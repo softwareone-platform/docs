@@ -16,11 +16,11 @@ Before starting this tutorial, make sure that the subscription you want to downs
 
 1. On the **Subscriptions** page (**Marketplace** > **Subscriptions**), click the required subscription. The following image shows an example subscription:
 
-<figure><img src="../../../.gitbook/assets/Subscriptions page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscriptions_page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 2. On the details page of the subscription, click **Edit**.
 
-<figure><img src="../../../.gitbook/assets/SubscriptionDetails_Adobe.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscription_details.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
 
 The **Edit Subscription** wizard launches and the **Items** section of the wizard is displayed.
 
@@ -36,14 +36,14 @@ The **Edit Subscription** wizard launches and the **Items** section of the wizar
 1. (Optional) Enter the reference information that might help you identify the change order easily. You can add the **Additional ID** and **Notes**.
 2. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/EditSubsReduceQty.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/edit_subscription_reduce_qty.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
 
 ## 4. Place the order
 
 1. Verify the details of your order. Make sure to read the terms and conditions by clicking the links in the footer. By placing the order, you accept all terms.
 2. Click **Place order**.
 
-<figure><img src="../../../.gitbook/assets/Revieworder-1.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/edit_subscription_review_terms.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
 
 ## 5. View order summary
 

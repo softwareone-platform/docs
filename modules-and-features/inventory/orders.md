@@ -32,4 +32,4 @@ For each order, the **Actions** column gives you the option to open the order de
 
 The **Actions** column also lets you export the order information by clicking the actions icon (**•••**) and selecting **Export to PDF**, **Export to Excel (CSV),** or **Export to Excel (XLSX)**.
 
-<figure><img src="../../.gitbook/assets/Orders-export.png" alt=""><figcaption><p>Export options</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/legacy_orders-export.png" alt=""><figcaption><p>Export options</p></figcaption></figure>

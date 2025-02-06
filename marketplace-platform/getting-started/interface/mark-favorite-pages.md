@@ -17,4 +17,4 @@ You can remove a page from your favorites by clicking the star that you used to 
 
 When the star icon changes from filled to empty, it implies that the page has been removed from your favorites.&#x20;
 
-<figure><img src="../../../.gitbook/assets/RemoveFavorites.png" alt="" width="563"><figcaption><p>Remove from favorites</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/remove_favorites.png" alt="" width="563"><figcaption><p>Remove from favorites</p></figcaption></figure>

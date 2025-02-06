@@ -26,7 +26,7 @@ The audit trail is now also available at the object level in the platform. To su
 
 ## Adjustable Column Widths
 
-We've added new options to the <img src="../../.gitbook/assets/image (82).png" alt="" data-size="line">**Columns** selector, which is available in the data grids across the platform. These options allow you to adjust the width of the columns and control how the data is displayed on a page.&#x20;
+We've added new options to the <img src="../../.gitbook/assets/icon_columns.png" alt="" data-size="line">**Columns** selector, which is available in the data grids across the platform. These options allow you to adjust the width of the columns and control how the data is displayed on a page.&#x20;
 
 <figure><img src="../../.gitbook/assets/GridColumns (1).png" alt=""><figcaption><p>Columns selector on the Orders page</p></figcaption></figure>
 

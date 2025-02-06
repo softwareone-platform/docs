@@ -21,11 +21,11 @@ Before starting this tutorial, make sure that your Adobe agreement and the subsc
 
 1. On the **Subscriptions** page (**Marketplace** > **Subscriptions**), click the subscription you want to update. The following image shows an example subscription:
 
-<figure><img src="../../../.gitbook/assets/Subscriptions page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscriptions_page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 2. On the details page of the subscription, click **Edit**.
 
-<figure><img src="../../../.gitbook/assets/SubscriptionDetails_Adobe.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscription_details.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
 
 The **Edit subscription** wizard launches and the **Items** section of the wizard is displayed.
 
@@ -34,7 +34,7 @@ The **Edit subscription** wizard launches and the **Items** section of the wizar
 1. Enter the new quantity for the subscription in the **New qty** field. In the following image, the quantity is increased from **20** to **21**.
 2. Click **Next** to continue.
 
-<figure><img src="../../../.gitbook/assets/EditSub.png" alt=""><figcaption><p>Edit quantity</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/edit_subscription.png" alt=""><figcaption><p>Edit quantity</p></figcaption></figure>
 
 ## 3. Enter reference information
 

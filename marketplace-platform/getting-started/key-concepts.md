@@ -12,7 +12,7 @@ The Marketplace Platform seamlessly brings together various actors to facilitate
 
 Actors represent different entities that interact with the platform for procurement and fulfillment-related activities as well as other operations specific to the platform.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p>Key actors in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>Key actors in the Marketplace Platform</p></figcaption></figure>
 
 The following are the key actors in our platform:
 
@@ -40,17 +40,17 @@ The following are the key actors in our platform:
 
 In the Marketplace Platform, an account can contain one or multiple users:
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption><p>Account containing multiple users</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>Account containing multiple users</p></figcaption></figure>
 
 Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](interface/switch-account.md) through the interface, without signing out of the platform.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption><p>Users belonging to multiple accounts</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/concepts_users_multiple_accounts.png" alt=""><figcaption><p>Users belonging to multiple accounts</p></figcaption></figure>
 
 **Group** - A group is an object facilitating permissions in the scope of an account. Groups contain users and all users in the group have the same permissions. Note that in our platform, permissions are assigned at the group level, rather than the individual user level.&#x20;
 
 Additionally, users can be a part of multiple groups, much like users can belong to multiple accounts.
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption><p>Multiple groups containing multiple users</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/concepts_multiple_groups.png" alt=""><figcaption><p>Multiple groups containing multiple users</p></figcaption></figure>
 
 To learn about creating and managing groups, see [Groups](../../modules-and-features/settings/groups/).
 
@@ -94,7 +94,7 @@ The Marketplace Platform accommodates a variety of order types, distinguishing b
 * **Change order** - Change orders are created when you modify your agreement or change the subscription quantity, such as downsizing the license quantity or buying additional resources.
 * **Terminate order** - Terminate orders are created when you terminate your agreement or subscription with SoftwareOne.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption><p>Different types of orders in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/concepts_orders.png" alt=""><figcaption><p>Different types of orders in the Marketplace Platform</p></figcaption></figure>
 
 For information on how to manage your orders, see [Orders](../../modules-and-features/marketplace/orders/).
 
@@ -102,7 +102,7 @@ For information on how to manage your orders, see [Orders](../../modules-and-fea
 
 If you need to change subscriptions, you can only do so through orders. For example, to terminate a subscription, you must place a termination order. Similarly, to add more licenses, a change order must be placed. It’s not possible to modify a subscription directly without placing an order.
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption><p>Subscriptions in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/concepts_subscriptions.png" alt=""><figcaption><p>Subscriptions in the Marketplace Platform</p></figcaption></figure>
 
 For information on subscription management, see [Subscriptions](../../modules-and-features/marketplace/subscriptions/).
 

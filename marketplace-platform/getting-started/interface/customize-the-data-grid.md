@@ -45,7 +45,7 @@ Follow these steps to create filters:
    * **AND** - If you select this operator, the results are displayed only if both conditions are met.&#x20;
    * **OR** - If you select this operator, only one of the conditions needs to be met for the results to be displayed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Filter.png" alt=""><figcaption><p>Filter options in the grid</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface_filters.png" alt=""><figcaption><p>Filter options in the grid</p></figcaption></figure>
 
 As you define filters, the data in the grid refreshes automatically. If the platform doesn't find any data matching the filters, it displays a message.&#x20;
 
@@ -87,4 +87,4 @@ If the grid contains several rows, the rows are split into pages, and page numbe
 
 You can view the page number you are currently on and navigate between pages using the **Next** and **Previous** options. You can also go to a page directly by entering the number in the **Page** field and pressing **Enter**.
 
-<figure><img src="../../../.gitbook/assets/Navigate between pages.png" alt=""><figcaption><p>Navigation options</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface_navigation.png" alt=""><figcaption><p>Navigation options</p></figcaption></figure>

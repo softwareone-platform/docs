@@ -4,7 +4,7 @@ You can add new items to your agreement using the **Buy more** option on the agr
 
 Items can only be added to the agreements in the active state. If the agreement is not active, the **Buy more** option will be unavailable.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption><p> Buy more option on the details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_buy_more.png" alt=""><figcaption><p> Buy more option on the details page</p></figcaption></figure>
 
 When you click **Buy more**, the platform automatically detects the agreement and takes you directly to the **Items** section of the purchase wizard, where you can select the items and complete the ordering process.
 
@@ -23,7 +23,7 @@ Follow these steps to add new items to your agreement:
    3. Click **Add items**. Your selected items are added to the agreement, and the **Select items** step is displayed again.
    4. Set the quantity of your newly added items in the **New qty** field and click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_select_items.png" alt=""><figcaption></figcaption></figure>
 
 4. In the **Details** step, add the additional ID and notes for your order and click **Next**. Note that it's optional to provide these details.
 5. In the **Review order** step, verify the information and click **Place order** to finalize placing your orde&#x72;_._

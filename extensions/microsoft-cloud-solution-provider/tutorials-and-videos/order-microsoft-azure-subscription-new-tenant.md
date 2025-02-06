@@ -68,7 +68,7 @@ Click **Create new agreement** to set up your new agreement.
 1. Select **Azure Essentials** or **Azure Advanced**, depending on the level of service you require for Microsoft Azure.&#x20;
 2. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption><p>Service level</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_service_level.png" alt=""><figcaption><p>Service level</p></figcaption></figure>
 
 ## 7. Review add-ons
 
@@ -81,30 +81,30 @@ Click **Next**.
 1. Enter the contact you want to use for support and your preferred support language.&#x20;
 2. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (146).png" alt=""><figcaption><p>Support contacts</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_support_contacts.png" alt=""><figcaption><p>Support contacts</p></figcaption></figure>
 
 ## 9. Select items
 
 Choose the Azure subscription and click **Add items** to add it to your order. For Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 
-<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption><p>Select Items</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_select_items.png" alt=""><figcaption><p>Select Items</p></figcaption></figure>
 
 ## 10. Add reference information
 
 Enter the reference information as needed and click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (148).png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_details.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
 
 ## 11. Place your order
 
 1. Review the details of your order. Make sure to read all terms and conditions, including the privacy statement. By placing the order, you accept all terms.
 2. Click **Place order** to complete your purchase.
 
-<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_review_order.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
 
 ## 12. View order summary
 
 1. Review your order summary and the latest status message.
 2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-<figure><img src="../../../.gitbook/assets/image (150).png" alt=""><figcaption><p>Summary</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_summary.png" alt=""><figcaption><p>Summary</p></figcaption></figure>

@@ -26,7 +26,7 @@ All Azure recommendations that are recommended by Azure (and not by SoftwareOne 
 
 The association from a recommendation to a related Client Portal resource is available on the **Related Resources** tab:
 
-<figure><img src="../../../.gitbook/assets/image (167).png" alt=""><figcaption><p>Related Resources tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/legacy_RI.png" alt=""><figcaption><p>Related Resources tab</p></figcaption></figure>
 
 ## Complete Azure recommendations <a href="#completion-of-azure-recommendations" id="completion-of-azure-recommendations"></a>
 

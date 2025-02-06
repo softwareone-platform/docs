@@ -6,7 +6,7 @@ You can update the split to include additional buyers and allocate billing to th
 
 **Method 1 - Using the Edit option on the subscription details page**
 
-<figure><img src="../../../.gitbook/assets/Edit1.png" alt=""><figcaption><p>Edit option on the subscription details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/split_billing_edit.png" alt=""><figcaption><p>Edit option on the subscription details page</p></figcaption></figure>
 
 **Method 2 - Using the Details option on the Split billing tab within your agreement details**
 
@@ -53,7 +53,7 @@ Follow these steps to split the billing:
 
 The allocation is updated for your selected buyer. Use the **Buyer** menu in the highlights panel to view the allocation details for the other buyers.
 
-<figure><img src="../../../.gitbook/assets/Splitbilling-4.png" alt=""><figcaption><p>Buyers menu</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/split_billing_buyers.png" alt=""><figcaption><p>Buyers menu</p></figcaption></figure>
 
 7. Click **Close** to return to the **Split billing** tab.
 

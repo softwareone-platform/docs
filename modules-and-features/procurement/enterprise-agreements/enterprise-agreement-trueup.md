@@ -68,7 +68,7 @@ This page **allows you to set tenants and products profiles** (as available in y
 
 Typically profiles and tenants can be found as a subsection in CPS. Profiles can be found in both “SECTION 1. Licenses and Software Assurance” and “Future Pricing”. Please note that the “Enterprise” subsection should not be treated as a profile and will be automatically added in the Wizard. Please inspect the below screenshot from a sample CPS with “Industry Device II” and “Manufacturing” profiles.
 
-<figure><img src="../../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/legacy_enterprise_agreements.png" alt=""><figcaption></figcaption></figure>
 
 The screenshot below shows the “Enterprise” subsection which should not be counted as a profile:
 
@@ -251,7 +251,7 @@ In Step 3 the user configures the reporting locations. If the target company is 
 
 Click on “Add New Company” under the company name drop-down. It will take you to the below form where you can provide the details and click on “**Save**”.
 
-<figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/legacy_add_new_company.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTE:** You can proceed to the next step after requesting the New Company, however, the creation of the new company via the Wizard will trigger an email to inside sales. Finishing new company onboarding can only be done when the company is created in the backend database (i.e. Navision) by inside sales.

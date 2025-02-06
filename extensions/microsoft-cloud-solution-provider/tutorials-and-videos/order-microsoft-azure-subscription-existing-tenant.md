@@ -36,7 +36,7 @@ The purchase wizard starts and the **Select agreement** section of the wizard is
 
 Click **Create new agreement** to set up your new agreement.
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_agreement.png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 
 ## 3. Select licensee
 

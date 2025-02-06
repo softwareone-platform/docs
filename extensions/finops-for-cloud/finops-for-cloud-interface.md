@@ -26,8 +26,8 @@ To see an overview of all organizations and key information for each organizatio
 
 You can find the following options in the header:
 
-<img src="../../.gitbook/assets/icon_menu_book.png" alt="" data-size="line"> - _Documentation_ - Select to access the product documentation for FiOps for Cloud.&#x20;
+<img src="../../.gitbook/assets/icon_menu_book.png" alt="" data-size="line"> - Select this icon to access the documentation for FiOps for Cloud. You'll then be redirected to a detailed documentation page.&#x20;
 
-<img src="../../.gitbook/assets/icon_product_tour.png" alt="" data-size="line"> - _Product tour_ - Select to get the product tour.
+<img src="../../.gitbook/assets/icon_product_tour.png" alt="" data-size="line"> - Select this icon to get a tour of the product.
 
-<img src="../../.gitbook/assets/icon_account.png" alt="" data-size="line"> - _Profile_ - Select to sign out of the FiOps for Cloud platform.&#x20;
+<img src="../../.gitbook/assets/icon_account.png" alt="" data-size="line"> - Select the profile icon to sign out of your account.&#x20;

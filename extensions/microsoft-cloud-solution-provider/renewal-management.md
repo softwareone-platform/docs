@@ -8,7 +8,7 @@ Follow these steps to manage your subscription:
 
 1. Open your renewal notification and click **Manage Subscription**.
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt="" width="375"><figcaption><p>Microsoft CSP renewal notification</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/renewal_management.png" alt="" width="375"><figcaption><p>Microsoft CSP renewal notification</p></figcaption></figure>
 
 2. In the **Subscription Auto-Renewal** form, turn on **Auto Renewal** to let your subscription renew automatically. If you don't enable auto-renewal, your subscription will expire on the renewal date.
 

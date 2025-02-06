@@ -30,11 +30,11 @@ Before starting this tutorial, make sure you have the following:
 
 1. From the main menu, navigate to the **Products** page (**Marketplace** > **Products**) and click **Adobe VIP Marketplace for Commercial**.
 
-<figure><img src="../../../.gitbook/assets/Adobe1.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adone_products.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 2. Click **Buy now** in the upper right on the details page.
 
-<figure><img src="../../../.gitbook/assets/BuyNow.png" alt=""><figcaption><p>Details page of the product</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_buy_now.png" alt=""><figcaption><p>Details page of the product</p></figcaption></figure>
 
 The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
 
@@ -96,7 +96,7 @@ If you are migrating your account, enter your Adobe membership ID.&#x20;
 1. Review the details of your order. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. By placing the order, you accept all terms.
 2. Click **Place order** to complete your purchase.
 
-<figure><img src="../../../.gitbook/assets/Review.png" alt=""><figcaption><p>Review and place your order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_review_terms.png" alt=""><figcaption><p>Review and place your order</p></figcaption></figure>
 
 ## 9. View order summary
 

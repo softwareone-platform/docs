@@ -12,25 +12,25 @@ Before starting this tutorial, make sure that your subscription has **Active** s
 
 1. On the **Subscriptions** page (**Marketplace** > **Subscriptions**), click the subscription to terminate. The following image shows an example:
 
-<figure><img src="../../../.gitbook/assets/Subscriptions page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscriptions_page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 2. Click the chevron in the upper right on the details page and select **Terminate**.  The **Terminate subscription** wizard launches.
 
-<figure><img src="../../../.gitbook/assets/TerminateSubscription.png" alt=""><figcaption><p>Terminate option on the details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscription_terminate.png" alt=""><figcaption><p>Terminate option on the details page</p></figcaption></figure>
 
 ## 2. Place the termination order
 
 1. Verify that the quantity of the subscription you want to terminate is zero. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/TerminateSubscription1.png" alt=""><figcaption><p>Verify the subscription quantity</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/terminate_subscription_wizard.png" alt=""><figcaption><p>Verify the subscription quantity</p></figcaption></figure>
 
 2. Enter the reference information for the order and click **Next**. You can enter the additional ID and any notes associated with this termination.
 
-<figure><img src="../../../.gitbook/assets/TerminateSubscription2.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/terminate_subscription_wizard_details.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
 
 3. Click **Place Order** to finalize the cancellation.
 
-<figure><img src="../../../.gitbook/assets/TerminateSubscription3.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/terminate_subscription_wizard_review.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
 
 4. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 

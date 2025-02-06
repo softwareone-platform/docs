@@ -10,7 +10,7 @@ In FinOps for Cloud, you can access the **Recommendations** page from the sideba
 
 ### Data sources <a href="#force-check-and-check-time" id="force-check-and-check-time"></a>
 
-<mark style="color:green;">Displays all data sources in your FinOps for Cloud account. You can select multiple data sources and view all of the recommendations and related metrics for those resources. (New)</mark>
+<mark style="color:green;">Displays all billing data sources that you have connected in your FinOps for Cloud account. You can select multiple data sources from the list and view recommendations and related metrics for those sources. (New)</mark>
 
 ### Summary cards
 

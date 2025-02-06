@@ -18,11 +18,11 @@ Agreements in any other state cannot be used when ordering items. See [Agreement
 
 1. From the main menu, navigate to the **Products** page (**Marketplace** > **Products**) and click **Adobe VIP Marketplace for Commercial**.
 
-<figure><img src="../../../.gitbook/assets/Adobe1.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adone_products.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 2. Click **Buy now** in the upper right on the details page.
 
-<figure><img src="../../../.gitbook/assets/BuyNow.png" alt=""><figcaption><p>Details page of the product</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_buy_now.png" alt=""><figcaption><p>Details page of the product</p></figcaption></figure>
 
 The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
 
@@ -30,7 +30,7 @@ The purchase wizard starts and the **Select agreement** section of the wizard is
 
 Select the agreement you want to use for this order and click **Next**. Make sure that the agreement is **Active**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/AdobeSelectAgreement.png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_select_agreement.png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 
 The wizard displays the **Select Items** section. Other sections are skipped because the information in those sections is retrieved from your selected agreement.
 
@@ -46,7 +46,7 @@ The wizard displays the **Select Items** section. Other sections are skipped bec
 
 3. In the **New qty** field, adjust the number of licenses as required and click **Next**.
 
-<figure><img src="../../../.gitbook/assets/AddItems1.png" alt=""><figcaption><p>Select items</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_add_items.png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
 ## 4. Add reference details
 

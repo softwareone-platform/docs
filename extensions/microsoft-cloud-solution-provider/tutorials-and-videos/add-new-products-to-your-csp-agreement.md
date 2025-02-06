@@ -27,7 +27,7 @@ The purchase wizard starts and the **Items** step of the wizard is displayed.&#x
 
 1. In the **Items** step, click **Add items**. A new window (also called **Select items**) will open displaying the available products that are available for you to order under this agreement.
 
-<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption><p>Add items option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/agreement_details_buy_more.png" alt=""><figcaption><p>Add items option</p></figcaption></figure>
 
 2. Use filters to find the product you need. In this example, we'll search for _Power BI_ using the following steps:
    1. Click the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M400-240v-80h160v80H400ZM240-440v-80h480v80H240ZM120-640v-80h720v80H120Z&#x22;/></svg>" data-size="line"> **Filter** option in the grid.
@@ -38,14 +38,14 @@ The purchase wizard starts and the **Items** step of the wizard is displayed.&#x
        3. Type the name of the required product (in this case, _Power BI_).
        4. **Close** the filter box.
 
-       <figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption><p>Filter options in the grid</p></figcaption></figure>
+       <figure><img src="../../../.gitbook/assets/items_filters.png" alt=""><figcaption><p>Filter options in the grid</p></figcaption></figure>
 3. Select all the individual items from the list. You can select multiple checkboxes.&#x20;
 
 {% hint style="info" %}
 When selecting items, be sure to verify the billing terms and the duration of the subscription.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption><p>List of available items</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tutorial_filters.png" alt=""><figcaption><p>List of available items</p></figcaption></figure>
 
 4. Click **Add items**. Your selected items are added to the agreement, and the **Select items** step is displayed again.
 5. Set the quantity of your newly added items in the **New qty** field and click **Next**.&#x20;

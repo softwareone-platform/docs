@@ -22,7 +22,7 @@ Follow these steps to submit a draft order for processing:
 2. Click the order number to open the details page of the draft order.&#x20;
 3. On the order details page, click **Edit**.
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption><p>Edit option on the details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/orders_details_page.png" alt=""><figcaption><p>Edit option on the details page</p></figcaption></figure>
 
 4. The purchase wizard starts and the **Select Items** step is displayed.
    1. If your draft order includes items that you may have added before saving it as a draft, those items are displayed in the **Items** section. Verify the item details and then click **Next**.

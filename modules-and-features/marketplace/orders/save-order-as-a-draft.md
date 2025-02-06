@@ -37,7 +37,7 @@ When creating a change order for quantity adjustments, you can save the change o
 
 1. Open the **Edit subscription** wizard. You can launch the wizard by clicking **Edit** on the subscription details page.
 
-<figure><img src="../../../.gitbook/assets/SubscriptionDetails_Adobe.png" alt=""><figcaption><p>Details page of a subscription</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/subscription_details.png" alt=""><figcaption><p>Details page of a subscription</p></figcaption></figure>
 
 2. In the **Edit subscription** wizard, change the license count as needed and click **Next**.
 3. In the **Details** section, click **Save order** to save the change order as a draft. Your draft order is saved and you can close the wizard.

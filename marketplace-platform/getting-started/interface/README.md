@@ -4,7 +4,7 @@ The Marketplace Platform is a SaaS application with three user interfaces, each 
 
 The platform provides three distinct user interfaces namely, the Client Portal, Vendor Portal, and Operations Portal.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (104).png" alt=""><figcaption><p>Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/marketplace_platform.png" alt=""><figcaption><p>Marketplace Platform</p></figcaption></figure>
 
 * **Client Portal** - Accessed by our clients and partners for software procurement.&#x20;
 * **Vendor Portal** - Used by vendors for setting up and configuring products.
@@ -32,9 +32,9 @@ The platform provides a seamless and intuitive interface, allowing access to the
 
 ### Main navigation menu
 
-The <img src="../../../.gitbook/assets/menu_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line"> **Home** menu in the top left is where you can access the modules enabled for your account. Click the menu to view the modules and get started with the platform.
+The <img src="../../../.gitbook/assets/icon_menu.png" alt="" data-size="line"> **Home** menu in the top left is where you can access the modules enabled for your account. Click the menu to view the modules and get started with the platform.
 
-<figure><img src="../../../.gitbook/assets/Menu.png" alt=""><figcaption><p>Navigation menu</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface_menu.png" alt=""><figcaption><p>Navigation menu</p></figcaption></figure>
 
 ### Search
 
@@ -56,13 +56,13 @@ The Help icon <img src="../../../.gitbook/assets/help_24dp_5F6368_FILL0_wght400_
 
 The Pending actions icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> opens a **Pending tasks** section that displays all tasks that require your attention. To learn more about this feature, see [View Pending Tasks](view-pending-tasks.md).
 
-<figure><img src="../../../.gitbook/assets/Notifications.png" alt=""><figcaption><p>PLACEHOLDER ONLY: TO BE REPLACED WHEN AVAILABLE</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface_notifications.png" alt=""><figcaption><p>PLACEHOLDER ONLY: TO BE REPLACED WHEN AVAILABLE</p></figcaption></figure>
 
 ### Notifications
 
 The Notifications icon<img src="../../../.gitbook/assets/notifications_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line">opens up the **Notifications** page where you can view your read and unread notifications, and update your notification preferences.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Notifications.png" alt=""><figcaption><p>Notifications icon</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface_notifications.png" alt=""><figcaption><p>Notifications icon</p></figcaption></figure>
 
 ### Account selector and profile menu
 
