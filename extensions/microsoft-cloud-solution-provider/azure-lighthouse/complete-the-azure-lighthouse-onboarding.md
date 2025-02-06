@@ -4,6 +4,10 @@ Completing the Azure Lighthouse onboarding enables SoftwareOne to fulfill your M
 
 To complete the onboarding successfully, you'll need the Microsoft **Azure Subscription Owner** role. For details, see [Assign Subscription Owner Role](assign-subscription-owner-role.md).
 
+{% hint style="info" %}
+The onboarding process for Azure Lighthouse can take up to 24 hours. This is because Microsoft needs to set up the necessary configurations and permissions for your new subscription, which can take a while, especially with multiple subscriptions and large amounts of data. If you still have issues after this time, [contact support](../../../help-and-support/contact-support.md).
+{% endhint %}
+
 ## Completing Azure Lighthouse onboarding
 
 Follow these steps to complete the onboarding process:
