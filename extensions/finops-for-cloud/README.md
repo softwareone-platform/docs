@@ -11,16 +11,16 @@ FinOps for Cloud is focused on enhancing to improving the cloud usage experience
 It requires **Read-Only** rights for the connected cloud account, which serves as the primary Data Source for all recommendations. The following data is utilized:
 
 * Billing information - all details regarding cloud expenses.
-* The state of resources (for actively discoverable types) in the cloud. This is essential for implementing Constraints like TTL and Expense limits, as well as for Recommendations.
-* Monitoring data from the cloud is used to identify underutilized instances.
+* The state of resources (for actively discoverable types) in the cloud. This is essential for implementing [constraints like TTL and Expense limits](resources-constraints-and-pool-constraint-policies.md) and for [Recommendations](recommendations/).
+* The monitoring data from the cloud is used to identify underutilized instances.
 
 {% tabs %}
 {% tab title="Amazon Web Services (AWS)" %}
-The billing information is retrieved from the Data Exports located in a designated S3 bucket in the cloud. See [GetObject](https://docs.aws.amazon.com/AmazonS3/latest/API/API_GetObject.html) in AWS documentation.
+The billing information is retrieved from the Data Exports located in a designated S3 bucket in the cloud. See [GetObject](https://docs.aws.amazon.com/AmazonS3/latest/API/API_GetObject.html) in AWS documentation to see how it works.
 
-Amazon Cloud Watch is used as the source of monitoring data. For details, see [Automatic billing data import in AWS](data-sources/amazon-web-services/aws-root-account-with-data-export-already-configured.md#automatic-billing-data-import-in-aws).
+Amazon Cloud Watch is used as the source of monitoring data. For more details, see [Automatic billing data import in AWS](data-sources/amazon-web-services/aws-root-account-with-data-export-already-configured.md#automatic-billing-data-import-in-aws).
 
-Resource discovery is done using the Discovery API. See the following pages in AWS documentation to learn more:
+Resource discovery is done using the Discovery API. For reference, see the following pages in AWS documentation:
 
 * [DescribeInstances](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeInstances.html)
 * [DescribeVolumes](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeVolumes.html)
@@ -29,11 +29,11 @@ Resource discovery is done using the Discovery API. See the following pages in A
 {% endtab %}
 
 {% tab title="Microsoft Azure" %}
-The billing information is retrieved through the Billing API. See [Usage Details - List](https://learn.microsoft.com/en-us/rest/api/consumption/usage-details/list?view=rest-consumption-2024-08-01\&tabs=HTTP) in Microsoft documentation.
+The billing information is retrieved from the Billing API. See [Usage Details - List](https://learn.microsoft.com/en-us/rest/api/consumption/usage-details/list?view=rest-consumption-2024-08-01\&tabs=HTTP) in Microsoft documentation to see how it works.
 
 Cloud's Monitoring service is used as the source of all monitoring data. For more details, see [Microsoft Azure](data-sources/microsoft-azure.md).
 
-Resource discovery is done using Discovery API. See the following pages in Microsoft documentation to learn more:
+Resource discovery is done using Discovery API. For reference, see the following pages in Microsoft documentation:
 
 * [Virtual Machines - List All](https://docs.microsoft.com/en-us/rest/api/compute/virtual-machines/list-all)
 * [Disks - List](https://docs.microsoft.com/en-us/rest/api/compute/disks/list)
@@ -46,7 +46,7 @@ The billing information is retrieved from the BigQuery service.
 
 Cloud's Monitoring service is used as the source of all monitoring data. For more details, see [Google Cloud Platform](./#google-cloud-platform).
 
-Resource discovery is done using the Discovery API. See the following pages in Google Cloud documentation to learn more:
+Resource discovery is done using the Discovery API. For reference, see the following pages in Google Cloud documentation:
 
 * [Method: instances.list](https://cloud.google.com/compute/docs/reference/rest/v1/instances/list)
 * [Method: disks.list](https://cloud.google.com/compute/docs/reference/rest/v1/disks/list)
