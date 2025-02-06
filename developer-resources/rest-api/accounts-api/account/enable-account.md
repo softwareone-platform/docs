@@ -4,6 +4,6 @@ Enable the previously disabled [Account](https://docs.client.softwareone.com/ext
 
 When enabled, the account status will change to `Active` if the account has `ExternalId` assigned or `Enabled` otherwise.
 
-{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/accounts/{id}/enable" method="post" %}
-[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
+{% swagger src="../../../../.gitbook/assets/Marketplace Platform API.json" path="/v1/accounts/accounts/{id}/enable" method="post" %}
+[Marketplace Platform API.json](<../../../../.gitbook/assets/Marketplace Platform API.json>)
 {% endswagger %}

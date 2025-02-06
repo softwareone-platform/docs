@@ -2,6 +2,6 @@
 
 Gets a price list.
 
-{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/catalog/price-lists/{id}" method="get" %}
-[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
+{% swagger src="../../../../.gitbook/assets/Marketplace Platform API.json" path="/v1/catalog/price-lists/{id}" method="get" %}
+[Marketplace Platform API.json](<../../../../.gitbook/assets/Marketplace Platform API.json>)
 {% endswagger %}

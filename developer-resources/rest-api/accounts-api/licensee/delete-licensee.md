@@ -2,6 +2,6 @@
 
 Delete the licensee object.
 
-{% swagger src="../../../../.gitbook/assets/swaggerQA_31_01_2025.json" path="/v1/accounts/licensees/{id}" method="delete" %}
-[swaggerQA_31_01_2025.json](../../../../.gitbook/assets/swaggerQA_31_01_2025.json)
+{% swagger src="../../../../.gitbook/assets/Marketplace Platform API.json" path="/v1/accounts/licensees/{id}" method="delete" %}
+[Marketplace Platform API.json](<../../../../.gitbook/assets/Marketplace Platform API.json>)
 {% endswagger %}
