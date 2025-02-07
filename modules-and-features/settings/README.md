@@ -23,16 +23,16 @@ To learn more, see any of the following links:
 [buyers](buyers/)
 {% endcontent-ref %}
 
+{% content-ref url="groups/" %}
+[groups](groups/)
+{% endcontent-ref %}
+
 {% content-ref url="licensees/" %}
 [licensees](licensees/)
 {% endcontent-ref %}
 
 {% content-ref url="sellers.md" %}
 [sellers.md](sellers.md)
-{% endcontent-ref %}
-
-{% content-ref url="groups/" %}
-[groups](groups/)
 {% endcontent-ref %}
 
 {% content-ref url="users/" %}
