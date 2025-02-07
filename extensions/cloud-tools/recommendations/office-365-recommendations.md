@@ -37,24 +37,3 @@ You can filter the Office 365 recommendations based on certain criteria:
 | Alert                     | <p>Represents the alert statuses associated with the recommendation. Possible values are:</p><ul><li>Unread</li><li>Updated</li><li>Expires soon</li></ul>                                                       |
 | Owner                     | Represents the name of the person to whom the recommendation can be assigned for better tracking and management of the recommendation.                                                                           |
 
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations" %}
-[Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations" %}
-[View Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/view-recommendations)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/manage-recommendations" %}
-[Manage Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/manage-recommendations)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/azure-recommendations" %}
-[Azure Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/azure-recommendations)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations" %}
-[Office 365 Recommendations](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/recommendations/office-365-recommendations)
-{% endcontent-ref %}

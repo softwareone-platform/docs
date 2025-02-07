@@ -190,7 +190,7 @@
 * [ITAM Tools](extensions/itam-tools/README.md)
   * [365 EA + Unified Support](extensions/itam-tools/365-ea-+-unified-support.md)
   * [Renewal Manager](extensions/itam-tools/renewal-manager.md)
-  * [Unified Support for Multi-vendor](extensions/itam-tools/unified-support-for-multi-vendor.md)
+  * [Unified Support for Multi-Vendor](extensions/itam-tools/unified-support-for-multi-vendor.md)
 * [Microsoft CSP](extensions/microsoft-cloud-solution-provider/README.md)
   * [Azure Lighthouse](extensions/microsoft-cloud-solution-provider/azure-lighthouse/README.md)
     * [Assign Subscription Owner Role](extensions/microsoft-cloud-solution-provider/azure-lighthouse/assign-subscription-owner-role.md)

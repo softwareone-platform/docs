@@ -32,9 +32,3 @@ Chargebacks have two access levels called User and Admin. If you need to get you
 To access chargebacks, navigate to **Cloud tools > Chargebacks**.&#x20;
 
 On the Chargebacks page, you can view the **Chargebacks** and **Settings** tab. You can also view scheduled reports, add a new schedule, or add new chargebacks.
-
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/chargebacks/about-chargebacks" %}
-[About Chargebacks](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/chargebacks/about-chargebacks)
-{% endcontent-ref %}

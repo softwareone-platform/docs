@@ -31,6 +31,6 @@ To export the current page as a PDF, click **Export to PDF** in the filter optio
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/modules/other-tools/reports/microsoft-services-provider-license-agreement-spla-report" %}
-[Microsoft Services Provider License Agreement (SPLA) Report](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/modules/other-tools/reports/microsoft-services-provider-license-agreement-spla-report)
+{% content-ref url="../other-tools/reports/microsoft-services-provider-license-agreement-spla-report.md" %}
+[microsoft-services-provider-license-agreement-spla-report.md](../other-tools/reports/microsoft-services-provider-license-agreement-spla-report.md)
 {% endcontent-ref %}
