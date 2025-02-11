@@ -1,0 +1,29 @@
+# Manage Software Subscriptions
+
+## License keys <a href="#download-perpetual-software-and-product-license-keys-in-microsoft-365" id="download-perpetual-software-and-product-license-keys-in-microsoft-365"></a>
+
+Once your order is complete and your license is successfully set up, you can download your license keys from the [Microsoft Admin Portal](https://admin.microsoft.com/). You'll need these keys to activate the software.&#x20;
+
+For instructions on downloading your keys, see [Download software and product license keys](https://learn.microsoft.com/en-us/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide#download-software-and-product-license-keys) in Microsoft's documentation.
+
+## Cancellations <a href="#cancellations" id="cancellations"></a>
+
+You can cancel a software subscription within the first seven days of any term and receive a prorated refund. Cancellation isn't supported after seven days of the purchase or renewal.
+
+A subscription can be canceled by placing a termination order through the platform. For instructions, see [Terminate a Single Subscription](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/terminate-microsoft-subscription).
+
+## Renewals <a href="#renewals" id="renewals"></a>
+
+By default, auto-renewal is enabled for all subscriptions.
+
+If a subscription is set to renew, it's processed the day after the subscription term ends.
+
+For example, if the term end date is 2023-03-01T00:00:00Z UTC, it includes the whole day. The renewal will start after the term ends (2023-03-02T00:00:00Z UTC) and can take up to 24 hours.&#x20;
+
+Partners have a seven-day window (except where otherwise required by law) to cancel or reduce seats after the renewal is completed. The seven-day window starts at the date and time of renewal completion.
+
+## Additional licenses <a href="#additional-licenses" id="additional-licenses"></a>
+
+You can add more software items to your existing agreement by creating a change order through the platform. For instructions, see [Add New Products to Your CSP Agreement](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/add-new-products-to-your-csp-agreement).&#x20;
+
+When ordering new items, you cannot increase the quantity of existing licenses in the agreement. In such cases, a new subscription must be created under the same agreement.

@@ -1,5 +1,43 @@
 # Release Notes
 
+## Release Date: 12 February 2025 <a href="#release-date-12-february-2025" id="release-date-12-february-2025"></a>
+
+### Software Subscriptions
+
+We are excited to announce the upcoming launch of Microsoft Software Subscriptions in the Marketplace Platform.
+
+With this update, you can create agreements and purchase nearly the entire suite of Microsoft Server Subscriptions directly through the Microsoft CSP program using our platform. You can also place change orders to add more software subscriptions to your existing agreements. For details, see [Manage Software Subscriptions](software-subscriptions/manage-software-subscriptions.md).
+
+{% hint style="info" %}
+Software products with one-time payments are not yet supported.
+{% endhint %}
+
+***
+
+## Release Date: 3 February 2025 <a href="#release-date-3-february-2025" id="release-date-3-february-2025"></a>
+
+### New Agreement Restrictions for CSP Products
+
+The creation of new agreements for CSP products using the same CSP domain across multiple clients is now restricted.
+
+Additionally, creating additional agreements using the same CSP tenant, product, and licensee is also prohibited. If an agreement already exists, you must update the existing agreement to request new subscriptions, instead of creating a new one.
+
+***
+
+## Release Date: 28 January 2025 <a href="#release-date-28-january-2025" id="release-date-28-january-2025"></a>
+
+### NCE Auto-applicable Promotions
+
+Marketplace clients who have an existing CSP tenant can check their eligibility for an automatically applicable NCE promotion.&#x20;
+
+If eligible, the updated price is shown in the order. However, if you qualify but don't meet the minimum or maximum license requirements, a message will inform you of the necessary criteria.
+
+### CSP Relationship Request
+
+If an order remains pending for more than 15 days due to an unresolved CSP reselling relationship, it will now be marked as **Failed**.
+
+***
+
 ## Release Date: 23 January 2025
 
 ### Microsoft Perpetual Software
