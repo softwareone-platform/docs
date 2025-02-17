@@ -6,4 +6,4 @@ Subscribe to our YouTube Channel to stay updated about our platform and explore 
 Marketplace Platform YouTube Channel
 {% endembed %}
 
-<figure><img src="../.gitbook/assets/image (1086).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1086).png" alt=""><figcaption><p>Marketplace Platform YouTube Channel</p></figcaption></figure>
