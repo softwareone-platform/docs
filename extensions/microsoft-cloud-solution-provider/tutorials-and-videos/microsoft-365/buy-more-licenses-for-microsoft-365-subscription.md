@@ -1,56 +1,67 @@
 # Buy More Licenses for Microsoft 365 Subscription
 
-This tutorial shows how to order additional Microsoft 365 subscriptions by placing a change order through the platform.&#x20;
-
-In this scenario, we'll use an existing agreement to order more licenses.
+This tutorial shows how you can order additional licenses for a Microsoft 365 subscription using an existing agreement. Additional licenses can be ordered by placing a change order through the platform.&#x20;
 
 {% embed url="https://vimeo.com/985742107/1a72a8abed?share=copy" %}
-Video tutorial: How to buy more licenses for your 365 subscription
+Video tutorial: How to buy more licenses for a 365 subscription
 {% endembed %}
 
 ## Prerequisites
 
 Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state.
 
-## &#x31;**.** Launch the purchase wizard <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+## Implementation <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
-1. Navigate to the **Products** page (**Marketplace** > **Products**) and select **Microsoft 365 Business, Enterprise & Apps - Commercial**.
+{% stepper %}
+{% step %}
+### Launch the purchase wizard <a href="#launch-the-purchase-wizard" id="launch-the-purchase-wizard"></a>
 
-<figure><img src="../../../../.gitbook/assets/MS365.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+In this step, do the following:
 
-2. Click **Buy now** on the details page.
+1. Sign in to your account and go to the **Products** page.
+2. Select the relevant Microsoft 365 product. The details page of your selected product opens.
+3. Click **Buy now** in the upper right. The purchase wizard starts.
+{% endstep %}
 
-<figure><img src="../../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+{% step %}
+### Select the agreement
 
-## 2. Select agreement
+The **Select agreement** step is the first step that is displayed when the purchase wizard starts.
 
-Select an active agreement from the list of your agreements and click **Next**.&#x20;
+In this step, select an active agreement from the list of your agreements and click **Next**. You'll be directed to the **Items** step of the wizard.
+{% endstep %}
 
-<figure><img src="../../../../.gitbook/assets/MS365-Agreement (1).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
+{% step %}
+### Enter the new quantity <a href="#id-3.-add-new-items" id="id-3.-add-new-items"></a>
 
-You'll be directed to the **Items** step in the purchase wizard.
-
-## 3. Buy more licenses <a href="#id-3.-add-new-items" id="id-3.-add-new-items"></a>
-
-To change the number of licenses, under **New qty**, enter the total number of licenses you want. For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4.
+In **New qty**, enter the total number of licenses you want. For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4.
 
 Click **Next** to continue.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/365Items.png" alt=""><figcaption><p>Items </p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Items section in the purchase wizard</p></figcaption></figure>
+{% endstep %}
 
-## 4. Provide reference details
+{% step %}
+### Provide reference details
 
-Enter the additional ID and notes for your order and click **Next**.
+Use the **Details** page to enter optional information, like additional IDs or notes related to your purchase, and click **Next**.
+{% endstep %}
 
-<figure><img src="../../../../.gitbook/assets/365Details.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+{% step %}
+### Place your order
 
-## 5. Place your order <a href="#id-5.-place-your-order" id="id-5.-place-your-order"></a>
+Review the details of your order. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. By placing the order, you accept all terms.
 
-Review the order details and click **Place order** to finlaize the purchase.
+Click **Place order** to complete your purchase.
+{% endstep %}
 
-<figure><img src="../../../../.gitbook/assets/365ReviewOrder.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+{% step %}
+### View order summary <a href="#id-6.-view-order-summary" id="id-6.-view-order-summary"></a>
 
-## 6. View order summary <a href="#id-6.-view-order-summary" id="id-6.-view-order-summary"></a>
+View your order summary and the latest status message. Click **View order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
+{% endstep %}
+{% endstepper %}
 
-1. Review your order summary and the latest status message.
-2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
+### Next steps <a href="#next-steps" id="next-steps"></a>
+
+Once you have placed your order, we'll verify the order details. If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.
