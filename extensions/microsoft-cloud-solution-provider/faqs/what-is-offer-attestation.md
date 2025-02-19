@@ -14,7 +14,7 @@ When ordering an item that falls under the Hybrid Use category, you'll see the f
 
 The message is displayed for both purchase orders as well as change orders that include items requiring attestation.
 
-<figure><img src="../../../.gitbook/assets/offer_attestation.png" alt=""><figcaption><p>Offer attestation in the Purchase Wizard</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/offer_attestation.png" alt=""><figcaption><p>Offer attestation in the purchase wizard</p></figcaption></figure>
 
 By clicking **Next** on the **Items** page, you confirm that you accept the attestation.&#x20;
 
