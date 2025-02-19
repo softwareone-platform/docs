@@ -10,7 +10,7 @@ For instructions on downloading your keys, see [Download software and product li
 
 You can cancel a software subscription within the first seven days of any term and receive a prorated refund. Cancellation isn't supported after seven days of the purchase or renewal.
 
-A subscription can be canceled by placing a termination order through the platform. For instructions, see [Terminate a Single Subscription](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/terminate-microsoft-subscription).
+A subscription can be canceled by placing a termination order through the platform. To cancel, open the details page of the subscription and then select **Terminate** in the upper righ&#x74;**.** For instructions, see [Terminate a Single Subscription](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/terminate-microsoft-subscription).
 
 ## Renewals <a href="#renewals" id="renewals"></a>
 
@@ -26,4 +26,4 @@ Partners have a seven-day window (except where otherwise required by law) to can
 
 You can add more software items to your existing agreement by creating a change order through the platform. For instructions, see [Add New Products to Your CSP Agreement](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/add-new-products-to-your-csp-agreement).&#x20;
 
-When ordering new items, you cannot increase the quantity of existing licenses in the agreement. In such cases, a new subscription must be created under the same agreement.
+When ordering new items, you can't increase the quantity of existing licenses in the agreement. In such cases, a new subscription must be created under the same agreement.

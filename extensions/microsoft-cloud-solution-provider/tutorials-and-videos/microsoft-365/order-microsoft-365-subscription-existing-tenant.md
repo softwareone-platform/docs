@@ -1,8 +1,8 @@
 # Order Microsoft 365 Subscription For Existing Tenant
 
-This tutorial shows how to order a Microsoft 365 subscription for an existing tenant.&#x20;
+This tutorial guides you through the steps to order a Microsoft 365 subscription by creating a new agreement.
 
-In this scenario, you'll set up a new Marketplace agreement and then connect your existing Microsoft tenant.&#x20;
+When establishing a new agreement with SoftwareOne, you can either establish a new Microsoft account or use an existing one. In this tutorial, you'll connect your existing cloud account.&#x20;
 
 {% embed url="https://vimeo.com/985744841/f08189d1c0" %}
 Video tutorial: How to order Microsoft 365 subscription for an existing tenant
@@ -15,81 +15,99 @@ Before starting this tutorial, make sure you have the following:
 * Your Microsoft tenant name.&#x20;
 * A Marketplace licensee in the **active** state or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when you are creating the agreement.&#x20;
 
-## 1. Select the product
+## Implementation
 
-1. Navigate to the **Products** page (**Marketplace** > **Products**) and select **Microsoft 365 Business, Enterprise & Apps - Commercial**.
+{% stepper %}
+{% step %}
+### Launch the purchase wizard <a href="#launch-the-purchase-wizard" id="launch-the-purchase-wizard"></a>
 
-<figure><img src="../../../../.gitbook/assets/image (1014).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+In this step, do the following:
 
-2. Click **Buy now** on the details page.
+1. Sign in to your account and go to the **Products** page.&#x20;
+2. Select the **Microsoft 365 Business, Enterprise & Apps - Commercial** product. The details page of your selected product opens.&#x20;
+3. Click **Buy now** in the upper right. The purchase wizard starts.
+{% endstep %}
 
-<figure><img src="../../../../.gitbook/assets/image (1015).png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+{% step %}
+### Create the agreement
 
-The purchase wizard starts and the **Select agreement** section displays.
+The **Select agreement** step is the first step that is displayed when the purchase wizard starts.
 
-## 2. Select agreement
+In this step, click **Create agreement** to begin creating your new agreement.  You'll then be directed to the **Select licensee** step of the wizard.
+{% endstep %}
 
-Click **Create new agreement** to set up your new agreement.
+{% step %}
+### Select licensee
 
-<figure><img src="../../../../.gitbook/assets/image (1024).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
+In this step, choose the licensee you want to use and click **Next**.&#x20;
 
-## 3. Select licensee
+In this tutorial, we'll select an existing licensee. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../../modules-and-features/settings/licensees/create-licensees.md).
+{% endstep %}
 
-1. Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../../modules-and-features/settings/licensees/create-licensees.md).
-2. Click **Next**.&#x20;
+{% step %}
+### Connect your Microsoft tenant
 
-<figure><img src="../../../../.gitbook/assets/image (1025).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
+In this step, select the **Connect existing cloud account** option to connect your existing tenant and click **Next**.&#x20;
 
-## 4. Connect your Microsoft tenant
+Note that if you select this option, the global administrator of your Microsoft account will need to accept the relationship request.
+{% endstep %}
 
-Select **Connect existing cloud account** and click **Next**.
+{% step %}
+### Enter your Microsoft account details
 
-<figure><img src="../../../../.gitbook/assets/Createagreement1.png" alt=""><figcaption><p>Create agreement</p></figcaption></figure>
+In this step, do the following:
 
-## 5. Provide Microsoft account details
+1. Enter the name of your existing tenant.
+2. Fill out the contact form. You'll need to provide the first and last name, email address and phone number of the person who will manage your account.&#x20;
+3. Click **Next**. The platform will validate your Microsoft tenant details. If no tenant is found, a message is displayed. You'll need to fix the error to proceed.
+{% endstep %}
 
-1. Enter your existing Microsoft domain and the details of your contact person who will receive updates about this order. Click **Next**.
+{% step %}
+### Special qualifications
 
-<figure><img src="../../../../.gitbook/assets/image (1031).png" alt=""><figcaption><p>Agreement details</p></figcaption></figure>
+If your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity, select the **I confirm the Company is a State Owned Entity** checkbox. Otherwise, leave it cleared.&#x20;
 
-## 6. Add support contacts
+A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
+{% endstep %}
 
-1. Enter the contact you want to use for support and your preferred support language. The contact details are populated from the **Licensee** information, but you can change the details if required.&#x20;
-2. Click **Next**.&#x20;
+{% step %}
+### Add support contacts
 
-<figure><img src="../../../../.gitbook/assets/image (1021).png" alt=""><figcaption><p>Support contacts</p></figcaption></figure>
+Enter the contact details of your support administrator and choose your preferred support language. Click **Next** to continue.
+{% endstep %}
 
-## 7. Select items
+{% step %}
+### Select the required items
 
-1. Choose the required items and click **Add items** to add those items to your order. You can select multiple items as shown in the following image.
+In this step, do the following:
 
-<figure><img src="../../../../.gitbook/assets/image (1020).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
+1. Choose the items you want to order and then click **Add items**. You can select multiple items. When the items are added, the **Select items** section is displayed.
+2. Review and adjust the license quantity as required.
+3. If applicable, [read the offer attestation](../../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
+4. Click **Next** to continue.
+{% endstep %}
 
-2. Update the quantity as needed and then click **Next**.
+{% step %}
+### Provide reference details
 
-<figure><img src="../../../../.gitbook/assets/image (1019).png" alt=""><figcaption><p>New quantity</p></figcaption></figure>
+Use this page to enter optional details, like additional IDs or notes related to your purchase, and click **Next**.
+{% endstep %}
 
-## 8. Provide agreement and order details
+{% step %}
+### Place your order
 
-1. (Optional) Add your order and agreement details as necessary so you can identify them easily.&#x20;
-2. Click **Next**.
+Review the details of your order. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. By placing the order, you accept all terms.
 
-<figure><img src="../../../../.gitbook/assets/image (1018).png" alt=""><figcaption><p>Details</p></figcaption></figure>
+Click **Place order** to complete your purchase.
+{% endstep %}
 
-## 9. Place your order
+{% step %}
+### View order summary
 
-1. Review the details of your order and make sure to read all terms and conditions, including the privacy statement. By placing the order, you accept all terms.
-2. Click **Place order** to complete your purchase.
-
-<figure><img src="../../../../.gitbook/assets/image (1017).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
-
-## 10. View order summary
-
-1. Review your order summary and the latest status message.&#x20;
-2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
-
-<figure><img src="../../../../.gitbook/assets/image (1016).png" alt=""><figcaption><p>Summary</p></figcaption></figure>
+View your order summary and the latest status message. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
+{% endstep %}
+{% endstepper %}
 
 ## Next steps
 
-After your order is submitted for processing, we'll create your new subscription under your existing tenant.
+Once you have placed your order, we'll verify the order details, including the Microsoft tenant ID and create your new subscription under your existing tenant. If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.

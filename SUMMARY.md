@@ -217,6 +217,7 @@
       * [Buy Perpetual Software Licenses](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
       * [Order Additional Perpetual Software Licenses](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md)
   * [FAQs](extensions/microsoft-cloud-solution-provider/faqs/README.md)
+    * [What is offer attestation?](extensions/microsoft-cloud-solution-provider/faqs/what-is-offer-attestation.md)
     * [How do I establish a partner relationship with SoftwareOne?](extensions/microsoft-cloud-solution-provider/faqs/how-do-i-establish-a-partner-relationship-with-softwareone.md)
     * [How can I reduce my subscription quantities?](extensions/microsoft-cloud-solution-provider/faqs/how-can-i-reduce-my-subscription-quantities.md)
     * [How do I troubleshoot Lighthouse activation errors?](extensions/microsoft-cloud-solution-provider/faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md)

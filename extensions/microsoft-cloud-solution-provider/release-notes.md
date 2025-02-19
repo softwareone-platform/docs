@@ -1,12 +1,28 @@
 # Release Notes
 
+## Release Date: 20 February 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
+
+### Support for Windows 365 Hybrid Benefit
+
+The Marketplace Platform now supports Windows 365 products with Windows Hybrid Benefit.
+
+As part of this update, a mandatory attestation for Microsoft is now required when ordering a subscription for Windows 365 Business with the Windows Hybrid Benefit. Users of the Client Portal will see the following text in the **Items** section of the Purchase Wizard:
+
+"By proceeding with this order, I acknowledge that each person using Windows 365 Business with Windows Hybrid Benefit must have a valid copy of Windows 10/11 Pro installed on their primary work device."&#x20;
+
+To learn about offer attestation and how it works, see [What is offer attestation?](faqs/what-is-offer-attestation.md).
+
+***
+
 ## Release Date: 12 February 2025 <a href="#release-date-12-february-2025" id="release-date-12-february-2025"></a>
 
-### Software Subscriptions
+### Software Subscriptions in the Marketplace
 
-We are excited to announce the upcoming launch of Microsoft Software Subscriptions in the Marketplace Platform.
+We are excited to announce the launch of Microsoft Software Subscriptions in the Marketplace Platform.
 
-With this update, you can create agreements and purchase nearly the entire suite of Microsoft Server Subscriptions directly through the Microsoft CSP program using our platform. You can also place change orders to add more software subscriptions to your existing agreements. For details, see [Manage Software Subscriptions](software-subscriptions/manage-software-subscriptions.md).
+With this update, you can create agreements and purchase nearly the entire suite of Microsoft Server Subscriptions directly through the Microsoft CSP program using our platform.&#x20;
+
+You can also place change orders to add more software subscriptions to your existing agreements. For more details, see [Manage Software Subscriptions](software-subscriptions/manage-software-subscriptions.md).
 
 {% hint style="info" %}
 Software products with one-time payments are not yet supported.
