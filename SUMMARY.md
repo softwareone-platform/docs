@@ -136,7 +136,7 @@
 
 * [Adobe VIP Marketplace](extensions/adobe-vip-marketplace/README.md)
   * [Migration from Adobe VIP](extensions/adobe-vip-marketplace/migration-from-vip.md)
-  * [Termination and downsize policies](extensions/adobe-vip-marketplace/termination-and-downsize-policies.md)
+  * [Downsize and termination policies](extensions/adobe-vip-marketplace/downsize-and-termination-policies.md)
   * [Common error messages](extensions/adobe-vip-marketplace/common-error-messages.md)
   * [Tutorials](extensions/adobe-vip-marketplace/tutorials-and-videos/README.md)
     * [Order Adobe Subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
