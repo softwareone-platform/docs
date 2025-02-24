@@ -135,7 +135,9 @@
 ## EXTENSIONS
 
 * [Adobe VIP Marketplace](extensions/adobe-vip-marketplace/README.md)
-  * [Migrating from Adobe VIP](extensions/adobe-vip-marketplace/migration-from-vip.md)
+  * [Migration from Adobe VIP](extensions/adobe-vip-marketplace/migration-from-vip.md)
+  * [Termination and downsize policies](extensions/adobe-vip-marketplace/termination-and-downsize-policies.md)
+  * [Common error messages](extensions/adobe-vip-marketplace/common-error-messages.md)
   * [Tutorials](extensions/adobe-vip-marketplace/tutorials-and-videos/README.md)
     * [Order Adobe Subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
     * [Order New Adobe Items](extensions/adobe-vip-marketplace/tutorials-and-videos/order-new-adobe-items.md)
@@ -147,7 +149,7 @@
   * [Webinars and Videos](extensions/adobe-vip-marketplace/webinars-and-videos.md)
   * [FAQs](extensions/adobe-vip-marketplace/faqs/README.md)
     * [How do I activate my VIP Marketplace agreement?](extensions/adobe-vip-marketplace/faqs/how-do-i-activate-my-vip-marketplace-agreement.md)
-    * [What happens if I terminate my Adobe subscription?](extensions/adobe-vip-marketplace/faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
+    * [What happens if I terminate or downsize my subscription?](extensions/adobe-vip-marketplace/faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
   * [Release Notes](extensions/adobe-vip-marketplace/release-notes.md)
   * [Terms and Conditions](extensions/adobe-vip-marketplace/terms-and-conditions.md)
 * [Cloud Tools](extensions/cloud-tools/README.md)
