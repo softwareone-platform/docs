@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Termination and downsize policies
+# Downsize and termination policies
 
 The Marketplace Platform allows you to manage your Adobe VIP Marketplace software subscriptions. This includes the ability to reduce or downsize the number of licenses or completely cancel/terminate a subscription.&#x20;
 
@@ -24,7 +24,7 @@ The following are some of the key terms related to Adobe VIPM subscriptions in t
 
 * **Downsize** - Downsizing a subscription involves reducing the number of licenses while keeping at least one license active.
 * **Terminate** - Terminating a subscription means canceling it entirely and disabling auto-renewal. When a subscription is terminated, licenses for the terminated subscription remain available in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html) until the renewal date.
-* **Returnable orders** - This implies any new or renewal orders placed within the 14-day return window. Such orders can be returned without a charge at any time during the 14 days after the initial order was placed.
+* **Returnable orders** - This implies any new or renewal orders placed within the 14-day return window. Such orders can be returned without a charge at any time during the 14 days after the order is placed.
 * **Weeks 1 to 50** - Weeks 1 to 50 are the weeks of the year starting at the renewal date and ending 14 days before the next renewal date.
 * **Weeks 51 and 52** - Weeks 51 and 52 are the weeks of the year starting 14 days before the renewal date and ending on the renewal date.
 
