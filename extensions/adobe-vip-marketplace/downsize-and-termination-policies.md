@@ -48,7 +48,6 @@ Should you choose to terminate your subscription, auto-renewal will be disabled.
 * Licenses can be returned without charge within 14 days of placing a new or renewal order; after that, only the subscription’s renewal quantity is reduced. Your purchased licenses will remain active until the renewal date.
 * For returns within the 14-day window, you must return the entire order or the full quantity of licenses purchased. For example, if you ordered 10 licenses for Creative Cloud All Apps, you must return all 10 licenses. If the quantity doesn't match, the platform displays a message. See [Common error messages](common-error-messages.md) to learn more.
 * Terminating a subscription automatically cancels auto-renewal.
-* Licenses can be returned within 14 days; after that, only renewal quantities are adjusted
 {% endhint %}
 
 ## Example scenario
