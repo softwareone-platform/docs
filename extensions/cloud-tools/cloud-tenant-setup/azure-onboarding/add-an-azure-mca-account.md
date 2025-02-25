@@ -25,10 +25,7 @@ Follow these steps to assign the **Billing account reader** role to the Client P
 
 <figure><img src="../../../../.gitbook/assets/image (1100).png" alt=""><figcaption><p>Add role assignment</p></figcaption></figure>
 
-5. For **Members**, select the **PyraCloud (Azure)** application to give access to the Client Portal.
-
-<figure><img src="../../../../.gitbook/assets/image (1101).png" alt=""><figcaption><p>Select members</p></figcaption></figure>
-
+5. From **Members**, select **SoftwareOne Cloud Consumption** (formerly PyraCloud Azure) to provide access to the Client Portal.
 6. Click **Save**. Your MCA billing data will be synchronized with the Client Portal after 24 hours.
 
 ## Next steps

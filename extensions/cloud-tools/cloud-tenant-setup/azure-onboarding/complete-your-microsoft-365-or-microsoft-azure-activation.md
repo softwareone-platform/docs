@@ -11,7 +11,7 @@ This topic describes how you can access the **Cloud tenant setup** page and comp
 Follow these steps to activate Microsoft 365:
 
 1. Navigate to the **Cloud tenant setup** using one of the following steps:
-   * Click this link: [Cloud tenant setup](https://v1.client.softwareone.com/integration-manager/start).
+   * Select this link: [Cloud tenant setup](https://v1.client.softwareone.com/integration-manager/start).
    * Sign in to the platform. Next, open the main menu and go to **Cloud tools** > **Cloud tenant setup**.
 2. On the **Cloud tenant setup** page, locate the account that needs activation. The status will be **Activation Required**.
 3. In the **Actions** column, click **Activate Microsoft 365**.&#x20;
