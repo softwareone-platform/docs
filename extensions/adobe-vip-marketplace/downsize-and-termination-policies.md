@@ -45,9 +45,10 @@ Should you choose to terminate your subscription, auto-renewal will be disabled.
 {% hint style="success" %}
 ## Summary
 
-* License quantities can only be reduced within 14 days of a new or renewal order. After this period, the subscription's renewal quantity will be lowered.
+* Licenses can be returned without charge within 14 days of placing a new or renewal order; after that, only the subscription’s renewal quantity is reduced. Your purchased licenses will remain active until the renewal date.
 * For returns within the 14-day window, you must return the entire order or the full quantity of licenses purchased. For example, if you ordered 10 licenses for Creative Cloud All Apps, you must return all 10 licenses. If the quantity doesn't match, the platform displays a message. See [Common error messages](common-error-messages.md) to learn more.
 * Terminating a subscription automatically cancels auto-renewal.
+* Licenses can be returned within 14 days; after that, only renewal quantities are adjusted
 {% endhint %}
 
 ## Example scenario
@@ -58,8 +59,8 @@ The following example illustrates how downsizing works in the platform. For this
 2. You ordered an additional 4 licenses of Photoshop for Teams 10 days ago, which are within the return window.
 3. You ordered another 3 licenses of Photoshop for Teams 3 days ago, which are also within the return window.
 
-Based on this information, you currently own a total of 17 licenses of Photoshop for Teams.&#x20;
+Based on this information, you currently own a total of 17 licenses for Photoshop for Teams.&#x20;
 
 * If you wish to return the 4 additional licenses and downsize by 4, the system will process the return.
-* If you wish to downsize by 7, both the orders for the 4 additional licenses and the 3 additional licenses will be returned.
-* If you request to downsize by 6, but there is no single order (or combination of orders) that matches the quantity of 6, the system will prevent the change and suggest a valid quantity that can be returned.
+* If you wish to downsize by 7, the orders for the 4 additional licenses as well as the 3 additional licenses will be returned.
+* If you request to downsize by 6, but no single order (or combination of orders) matches the required quantity of 6, the system will prevent the change and suggest a valid quantity that can be returned.
