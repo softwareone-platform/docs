@@ -77,7 +77,7 @@ Follow these steps to grant access through Azure:
 
 <figure><img src="../../../../.gitbook/assets/roles.png" alt=""><figcaption><p>Reader role</p></figcaption></figure>
 
-2. On the **Members** tab, select **User, group, or service principal** if it's not selected by default, and then click **Select members**. &#x20;
+2. On the **Members** tab, select **User, group, or service principal** if it's not selected by default, and click **Select members**. &#x20;
 
 <figure><img src="../../../../.gitbook/assets/members.png" alt=""><figcaption><p>Select Members</p></figcaption></figure>
 

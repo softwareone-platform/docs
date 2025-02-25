@@ -34,7 +34,7 @@ If you've already onboarded your EA cloud account to the Client Portal and have 
 
 After clicking **Accept**, you'll be redirected to the **Cloud Tenant Setup** details page.&#x20;
 
-The system will mark the enrollment number you provided as migrated, and automatically assign the **Enrollment reader** permission to the PyraCloud (Azure) application. When the migration is completed, the consumption data is fetched from Microsoft.
+The system will mark the enrollment number you provided as migrated, and automatically assign the **Enrollment reader** permission to the SoftwareOne Cloud Consumption (formerly PyraCloud Azure) application. When the migration is completed, the consumption data is fetched from Microsoft.
 
 {% hint style="info" %}
 **Migration did not complete successfully?**&#x20;

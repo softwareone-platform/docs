@@ -19,7 +19,7 @@ Follow these steps to grant access:
 
 <figure><img src="../../../../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
 
-3. Select **Access control (IAM).**
+3. Select **Access control (IAM)**.
 
 <figure><img src="../../../../.gitbook/assets/image (379).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,11 +31,11 @@ Follow these steps to grant access:
 
 <figure><img src="../../../../.gitbook/assets/image (381).png" alt=""><figcaption></figcaption></figure>
 
-6. Select **Reader** from the **Role** menu, and search for **SoftwareOne Cloud Consumption** (formerly PyraCloud Azure). Click **Save**.
+6. Select **Reader** from the **Role** menu. Then, search for **SoftwareOne Cloud Consumption** (formerly PyraCloud Azure) and select it from the search results. Click **Save**.
 
 <figure><img src="../../../../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
-7. Select **Tag Contributor** from the **Role** menu, and search for **SoftwareOne Cloud Consumption** (formerly PyraCloud Azure). Click **Save**.
+7. Select **Tag Contributor** from the **Role** menu. Then, search for **SoftwareOne Cloud Consumption** (formerly PyraCloud Azure) and select it from the search results. Click **Save**.
 
 <figure><img src="../../../../.gitbook/assets/image (383).png" alt=""><figcaption></figcaption></figure>
 

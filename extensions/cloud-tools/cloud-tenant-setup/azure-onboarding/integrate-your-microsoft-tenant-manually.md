@@ -29,12 +29,12 @@ Follow these steps to assign the Tag Contributor and Reader access roles:
 5. Navigate to **Role assignments** and select **Add > Add role assignment** from the dropdown.
 6. Assign the Reader role to the Client Portal:
    1. Choose **Reader** from the list of roles and select **Next**.
-   2. On the **Members** tab, click **Select Members,** and then in the **Search** box, type **SoftwareOne Cloud Consumption** (PyraCloud).
-   3. From the search results, choose **SoftwareOne Cloud Consumption** (formerly _PyraCloud (Azure)_ for Azure or _PyraCloud (Office 365)_ for Office 365. Select **Save**.
+   2. On the **Members** tab, click **Select Members**.&#x20;
+   3. Search for **SoftwareOne Cloud Consumption** (formerly _PyraCloud Azure_ for Azure or _PyraCloud Office 365_ for Office 365) and then select it from the search results. Click **Save**.
 7. Assign the Tag Contributor role to the Client Portal:
    1. Choose **Tag Contributor** from the list of roles. Select **Next**.
-   2. On the **Members** tab, click on **Select Members,** and then in the **Search** box, type **PyraCloud**.
-   3. From the search results, choose **SoftwareOne Cloud Consumption** (formerly _PyraCloud (Azure)_ for Azure or _PyraCloud (Office 365)_ for Office 365. Select **Save**.
+   2. On the **Members** tab, click **Select Members**.
+   3. Search for **SoftwareOne Cloud Consumption** (formerly _PyraCloud Azure_ for Azure or _PyraCloud Office 365_ for Office 365) and then select it from the search results. Click **Save**.
 8. Select **Review + assign** and then **Review + assign** again. The new roles are displayed on the page.
 
 ## Providing the details to SoftwareOne <a href="#providing-details-to-softwareone" id="providing-details-to-softwareone"></a>
