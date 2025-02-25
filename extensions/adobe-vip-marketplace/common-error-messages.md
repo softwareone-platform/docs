@@ -2,7 +2,7 @@
 
 This topic describes some error messages you might encounter when adjusting the quantity of your Adobe licenses.
 
-**Error Message** - **"**&#x43;annot reduce the quantity by {delta}. Please reduce the quantity by {x}, {y}, or wait until the return window expires".
+**Error Message** - "Cannot reduce the quantity by {delta}. Please reduce the quantity by {x}, {y}, or wait until the return window expires."
 
 **Cause** - This error can occur for several reasons. Primarily, it happens when the platform doesn't recognize the requested change to the license quantity. For instance, if you ordered 15 licenses of Photoshop for Teams, but want to downsize to 10 within the 14-day return period.
 
