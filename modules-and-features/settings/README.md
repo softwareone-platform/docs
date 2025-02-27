@@ -1,40 +1,41 @@
 # Settings
 
-The **Settings** module allows account administrators to manage various aspects of their account and adjust access permissions. The module contains features that simplify account management and access management.&#x20;
+The **Settings** module allows an account administrator to manage various aspects of their account and its entities, including buyers, licensees, and sellers. It also offers access management by allowing administrators to secure account access by overseeing users, groups, and API tokens.
 
-* Account Management refers to the administration of the account and its entities, including buyers, licensees, and sellers.&#x20;
-* Access Management, on the other hand, focuses on securing account access by overseeing users, groups, and API tokens.
+**General Settings**
 
-To learn more, see any of the following links:
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/account" %}
-[Account](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/account)
+{% content-ref url="account/" %}
+[account](account/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens" %}
-[API Tokens](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens)
+{% content-ref url="buyers/" %}
+[buyers](buyers/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/audit-trail" %}
-[Audit Trail](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/audit-trail)
+{% content-ref url="licensees/" %}
+[licensees](licensees/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers" %}
-[Buyers](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers)
+{% content-ref url="sellers.md" %}
+[sellers.md](sellers.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees" %}
-[Licensees](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees)
+**Administration**
+
+{% content-ref url="groups/" %}
+[groups](groups/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/sellers" %}
-[Sellers](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/sellers)
+{% content-ref url="users/" %}
+[users](users/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups" %}
-[Groups](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups)
+**Platform Tools**
+
+{% content-ref url="api-tokens/" %}
+[api-tokens](api-tokens/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users" %}
-[Users](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users)
+{% content-ref url="audit-trail.md" %}
+[audit-trail.md](audit-trail.md)
 {% endcontent-ref %}

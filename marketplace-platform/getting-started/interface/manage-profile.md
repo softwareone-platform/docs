@@ -10,6 +10,8 @@ Your profile settings are organized by tabs:
 
 * **General** - Displays your general details, such as name and phone number, and account preferences.
 * **Accounts** - Displays the accounts and groups you belong to. Your account type is also displayed.
+* **Notification preferences** - Allows you to update your notification preferences. See [Manage Notification Preferences](manage-notification-preferences.md) for details.
+* **Messages** - Displays all email messages that have been triggered for your profile. Clicking **Details** in the **Actions d**isplays the **Message details** page, where you can view the general information, the full content of the email, file attachments, and associated time and date details.
 * **Details** - Displays all events that have taken place within your account.
 * **Audit trail** - Displays a detailed record of each event in your account. To learn more, see [Audit Trail](../../../modules-and-features/settings/audit-trail.md).&#x20;
 
