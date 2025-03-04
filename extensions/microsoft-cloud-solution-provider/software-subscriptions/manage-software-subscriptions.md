@@ -10,7 +10,7 @@ For instructions on downloading your keys, see [Download software and product li
 
 You can cancel your software subscription within 7 days from the time your order is placed and receive a prorated refund. This cancellation period consists of 7×24 hours (7 days a week; 24 hours a day). Cancellations aren't accepted after this period for either new purchases or renewal orders.
 
-A subscription can be canceled by placing a termination order through the platform. To cancel, open the details page of the subscription and then select **Terminate** in the upper righ&#x74;**.** For instructions, see [Terminate a Single Subscription](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/terminate-microsoft-subscription).
+A subscription can be canceled by placing a termination order through the platform. To cancel, open the details page of the subscription and then select **Terminate** in the upper right. For instructions, see [Terminate a Single Subscription](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/terminate-microsoft-subscription).
 
 ## Renewals <a href="#renewals" id="renewals"></a>
 
