@@ -8,7 +8,7 @@ For instructions on downloading your keys, see [Download software and product li
 
 ## Cancellations <a href="#cancellations" id="cancellations"></a>
 
-You can cancel a software subscription within the first seven days of any term and receive a prorated refund. Cancellation isn't supported after seven days of the purchase or renewal.
+You can cancel your software subscription within 7 days from the time your order is placed and receive a prorated refund. This cancellation period consists of 7×24 hours (7 days a week; 24 hours a day). Cancellations aren't accepted after this period for either new purchases or renewal orders.
 
 A subscription can be canceled by placing a termination order through the platform. To cancel, open the details page of the subscription and then select **Terminate** in the upper righ&#x74;**.** For instructions, see [Terminate a Single Subscription](https://docs.platform.softwareone.com/extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/terminate-microsoft-subscription).
 
@@ -16,11 +16,11 @@ A subscription can be canceled by placing a termination order through the platfo
 
 By default, auto-renewal is enabled for all subscriptions.
 
-If a subscription is set to renew, it's processed the day after the subscription term ends.
+If a subscription is set to renew, it's processed the day after the subscription's term ends.
 
 For example, if the term end date is 2023-03-01T00:00:00Z UTC, it includes the whole day. The renewal will start after the term ends (2023-03-02T00:00:00Z UTC) and can take up to 24 hours.&#x20;
 
-Partners have a seven-day window (except where otherwise required by law) to cancel or reduce seats after the renewal is completed. The seven-day window starts at the date and time of renewal completion.
+Partners have a 7-day window (except where otherwise required by law) to cancel or reduce seats after the renewal is completed. The 7-day window starts at the date and time of renewal completion.
 
 ## Additional licenses <a href="#additional-licenses" id="additional-licenses"></a>
 
