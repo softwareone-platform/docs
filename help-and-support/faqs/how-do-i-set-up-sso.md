@@ -118,10 +118,6 @@ Provide the information in the following table to [Marketplace Platform support]
 
 After receiving the information, we'll complete the setup. The Client Portal will then automatically start forwarding all users of the specified IdP domains to your Azure AD for federated authentication.
 {% endstep %}
-
-{% step %}
-
-{% endstep %}
 {% endstepper %}
 
 ### Technical specification
@@ -189,13 +185,7 @@ We support the items listed in the following table:
 
 By default, the Client Portal expects the following attributes from ADFS via the specified mappings:
 
-| LDAP Attribute      | Outgoing Claim Type | Namespace                                                            |
-| ------------------- | ------------------- | -------------------------------------------------------------------- |
-| E-Mail-Addresses    | E-Mail Address      | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress   |
-| Display-Name        | Name                | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name           |
-| User-Principal-Name | Name ID             | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier |
-| Given-Name          | Given Name          | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname      |
-| Surname             | Surname             | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname        |
+<table data-full-width="false"><thead><tr><th>LDAP attribute</th><th width="203">Outgoing claim type</th><th>Namespace</th></tr></thead><tbody><tr><td>E-Mail-Addresses</td><td>E-Mail Address</td><td>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress</td></tr><tr><td>Display-Name</td><td>Name</td><td>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name</td></tr><tr><td>User-Principal-Name</td><td>Name ID</td><td>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier</td></tr><tr><td>Given-Name</td><td>Given Name</td><td>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname</td></tr><tr><td>Surname</td><td>Surname</td><td>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname</td></tr></tbody></table>
 
 ## Setting up SSO with PingFederate <a href="#ping-federate" id="ping-federate"></a>
 
@@ -216,13 +206,7 @@ By default, the Client Portal expects the following attributes from ADFS via the
 
 By default, the Client Portal requires the following attributes via the specified mappings:
 
-| Attribute    | Mappings                                                                                                                                                                                                                                                                                     |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| user\_id     | <p>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier</p><p></p><p><strong>Fallback URL 1:</strong> http://schemas.xmlsoap.org/ws/2005/05/identity/claims/upn</p><p></p><p><strong>Fallback URL 2:</strong> http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name</p> |
-| name         | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name                                                                                                                                                                                                                                   |
-| email        | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress                                                                                                                                                                                                                           |
-| given\_name  | <p>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname</p><p></p><p><strong>Fallback URL:</strong></p><p>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name</p>                                                                                                          |
-| family\_name | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname                                                                                                                                                                                                                                |
+<table data-full-width="false"><thead><tr><th>Attribute </th><th>Mappings</th></tr></thead><tbody><tr><td>user_id</td><td><p>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier</p><p></p><p><strong>Fallback URL 1:</strong> http://schemas.xmlsoap.org/ws/2005/05/identity/claims/upn</p><p></p><p><strong>Fallback URL 2:</strong> http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name</p></td></tr><tr><td>name</td><td>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name</td></tr><tr><td>email</td><td>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress</td></tr><tr><td>given_name</td><td><p>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname</p><p></p><p><strong>Fallback URL:</strong></p><p>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name</p></td></tr><tr><td>family_name</td><td>http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname</td></tr></tbody></table>
 
 The provided attributes must satisfy at least one mapping for all properties above. If your IdP provides values for the required attributes in different claims/namespaces, please provide a list of claims to be used for all attributes above.
 
