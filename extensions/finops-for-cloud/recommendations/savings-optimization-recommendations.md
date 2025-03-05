@@ -41,8 +41,6 @@ Notification about volumes that haven't been attached for more than one day. The
 
 You can download the list of unattached volumes as JSON for subsequent automated processing with the help of [Cleanup Scripts](clean-up-scripts-based-on-recommendations.md).&#x20;
 
-<mark style="color:red;">Note: Download option not visible on the UI yet.</mark>
-
 ## Underutilized instances <a href="#underutilized-instances" id="underutilized-instances"></a>
 
 This recommendation is aimed at the detection of underutilized instances in AWS and Azure and suggests more suitable flavors for these machines. An instance is considered to be underutilized if:
@@ -85,7 +83,7 @@ An underutilized instance is one average CPU consumption of less than **80%** fo
 
 ## Obsolete snapshot chains <a href="#obsolete-snapshot-chains" id="obsolete-snapshot-chains"></a>
 
-Some snapshot chains don't have source volumes, or images created from their snapshots and have not been used for volume creation for the last **3 days**. Consider their deletion to save on snapshot storage expenses.&#x20;
+Some snapshot chains don't have source volumes or images created from their snapshots and have not been used for volume creation for the last **3 days**. Consider their deletion to save on snapshot storage expenses.&#x20;
 
 ## Instances with subscription opportunities <a href="#instances-with-subscription-opportunities" id="instances-with-subscription-opportunities"></a>
 
@@ -93,7 +91,7 @@ The instances in the list are active and have been identified as sustained compu
 
 ## Not deallocated instances <a href="#not-deallocated-instances" id="not-deallocated-instances"></a>
 
-Detection of inactive non-deallocated machines that have not been running for more than **1 day** and are still billed by the cloud.
+Detection of inactive, non-deallocated machines that have not been running for more than **1 day** and are still billed by the cloud.
 
 You can download the list of non-deallocated VMs as JSON for subsequent automated processing with the help of [Cleanup Scripts](clean-up-scripts-based-on-recommendations.md).&#x20;
 

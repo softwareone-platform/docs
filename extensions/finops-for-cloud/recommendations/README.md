@@ -28,10 +28,10 @@ FinOps for Cloud includes the following recommendation categories:
 
 * **Savings** - These recommendations help you save money. For the list of possible recommendations, see [Savings Optimization Recommendations](savings-optimization-recommendations.md).
 * **Security** - These recommendations help to improve the security of your data source. For the list of possible recommendations, see [Security Recommendations](security-recommendations.md).
-* <mark style="color:red;">**Critical**</mark> <mark style="color:red;"></mark><mark style="color:red;">-</mark>&#x20;
-* <mark style="color:red;">**Non-empty**</mark> <mark style="color:red;"></mark><mark style="color:red;">-</mark>&#x20;
+* **Critical** **-** These recommendations must be prioritized and addressed immediately to prevent potential disruptions or vulnerabilities.
+* **Non-empty** - These recommendations help ensure that all active resources are being utilized efficiently and not incurring unnecessary costs.
 
-By default, **All** recommendations are displayed, but you choose the required category from the **Categories** list. You can also select an applicable service type.&#x20;
+By default, all recommendations are displayed, but you can choose the required category from the **Categories** list. You can also select an applicable service type.&#x20;
 
 ### Force check <a href="#force-check-and-check-time" id="force-check-and-check-time"></a>
 

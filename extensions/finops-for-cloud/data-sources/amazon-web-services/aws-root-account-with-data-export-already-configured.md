@@ -187,6 +187,4 @@ Make sure to include the following policy for FinOps for Cloud to be able to par
 ```
 {% endcode %}
 
-Your AWS Data Source is ready for integration with FinOps for Cloud. Contact our Support Team if you have any questions regarding the configuration flow.
-
-(Question: Which support team)
+Your AWS Data Source is ready for integration with FinOps for Cloud. Contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md) if you have any questions regarding the configuration flow.

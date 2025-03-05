@@ -142,9 +142,7 @@ Make sure to include the following policy for FinOps to be able to parse EC2 res
 }
 ```
 
-Your AWS Data Source should now be ready for integration with FinOps for Cloud. Contact our Support Team if you have any questions regarding the configuration flow.
-
-<mark style="color:red;">(Question: Which support team)</mark>
+Your AWS Data Source should now be ready for integration with FinOps for Cloud. Contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md) if you have any questions regarding the configuration flow.
 
 ## Creating data export manually in AWS <a href="#create-data-export-in-aws-manually" id="create-data-export-in-aws-manually"></a>
 
