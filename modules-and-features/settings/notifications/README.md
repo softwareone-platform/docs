@@ -1,18 +1,18 @@
 # Notifications
 
-The Notifications module in the Marketplace Platform lets account administrators configure and manage email notifications for the account.
+The Notifications module in the Marketplace Platform lets account administrators configure and manage email notifications for their account.
 
-Administrators can enable email notifications each time a certain event takes place within the account, for instance, when the status of an order changes, a new agreement is created, platform maintenance is upcoming, and more. The Marketplace Platform supports various notification categories and sends emails to only those recipients defined by an administrator for each category.
+Administrators can enable email notifications each time a certain event occurs within the account, such as when an order's status changes, a new agreement is created, platform maintenance is upcoming, and more. The Marketplace Platform supports various notification categories and sends emails to only those recipients defined by the administrator for each category.
 
-{% hint style="info" %}
-Individual users can also manage their notification preferences through the platform. This can be done through the **My profile** option in the account menu. See [Manage Email Notifications](../../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) to learn more.&#x20;
-{% endhint %}
+While account administrators can manage notifications at the account level, individual users can also self-manage notifications for their profile. This can be done through the **My profile** option in the account menu. See [Manage Email Notifications](../../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) to learn more.
 
 ## Notification categories <a href="#notification_types" id="notification_types"></a>
 
 In the Marketplace Platform, all notifications are grouped into specific categories.&#x20;
 
-Each category consolidates emails of a similar type, allowing you to manage your preferences at the category level instead of handling each email individually. The following table lists the supported notification categories:
+Each category consolidates emails of a similar type, allowing you to manage your preferences at the category level instead of handling each email individually. For example, when you disable the Orders notification category, you'll stop receiving all order-related emails.&#x20;
+
+The following table lists the supported notification categories:
 
 | Notification categories | Description                                                                                                                                                                   |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,23 +34,25 @@ Account administrators can access notifications by selecting **Settings** > **No
 
 <figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Notifications page</p></figcaption></figure>
 
-The **Notifications** page contains these three tabs: **Configuration**, **Messages**, and **Settings**. Each of these tabs is described in the following sections.&#x20;
+The **Notifications** page contains these three tabs: **Configuration**, **Messages**, and **Settings**.&#x20;
 
 ### Configuration
 
 The **Configuration** tab displays all [notification categories](./#notification_types) configured for your account. For each notification, you can view the following details:
 
-* **Configuration** - Displays the name of the category.&#x20;
+* **Configuration** - Displays the category name. Clicking the name opens the [Configuration details page](./#configuration-details-page) to manage the notification's configuration. &#x20;
 * **Description** - Displays a short description of the category.
 * **Recipients** - Shows the total number of users and groups who are the recipients of the notifications.
-* **Updated** - Shows the date and time when the notification's configuration was updated.&#x20;
-* **Last used** - Shows the date and time when the platform sent the notification.&#x20;
+* **Updated** - Shows the date and time the notification's configuration was updated.&#x20;
+* **Last used** - Shows the date and time the platform sent the notification.&#x20;
 * **Updated by** - Displays the name and ID of the individual who updated the notification's configuration.&#x20;
 * **Status** - Indicates whether the category is enabled or disabled.&#x20;
 
-Clicking the notification type opens up its details page from where you can manage the configuration for your required notification category.&#x20;
+#### Configuration details page
 
-The details page is organized into tabs, which provide general information, and an audit trail, and let you define and manage recipients and groups for your selected category. From this page, you can also enable or disable the category. See [Configure Recipients](configure-recipients.md) and [Enable or Disable Categories](enable-or-disable-categories.md) for more details.
+The **Configuration details** page is organized into tabs displaying general information about the category and an audit trail.&#x20;
+
+From the details page, you can manage recipients and groups for a notification category and enable or disable a category. See [Configure Recipients](configure-recipients.md) and [Enable or Disable Categories](enable-or-disable-categories.md) for details.
 
 <figure><img src="../../../.gitbook/assets/notifications_configuration_details.png" alt=""><figcaption><p>Configuration details page</p></figcaption></figure>
 
@@ -66,9 +68,11 @@ The **Messages** tab contains all messages sent to the users in your account. Fo
 * **Created** -
 * **Created by** -
 * **Status** - Displays the status of the message. To learn about the possible statuses, see [Notification States](notification-states.md).
-* **Actions** -&#x20;
+* **Actions** - Includes the **Details** option. Selecting this option displays the **Message details** page.
 
-Clicking **Details** in the **Action** column displays the **Message details** page, where you can view the general information, the full content of the email, file attachments, and associated time and date details.
+#### Message details page
+
+The **Message details** page displays general information about the message, the content of the email, file attachments, and the time and date information for the message.&#x20;
 
 <figure><img src="../../../.gitbook/assets/notifications_message_detail.png" alt=""><figcaption><p>Message details page</p></figcaption></figure>
 

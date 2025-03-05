@@ -1,12 +1,10 @@
 # Notification States
 
-A notification in the Marketplace Platform goes through various states during its lifecycle.
+A notification in the Marketplace Platform goes through several stages during its lifecycle.
 
 The following diagram shows the possible states and the transition between these states:
 
 <figure><img src="../../../.gitbook/assets/notification_states.png" alt=""><figcaption><p>Notification state transition</p></figcaption></figure>
-
-
 
 | State          | Definition                                                                                      |
 | -------------- | ----------------------------------------------------------------------------------------------- |
