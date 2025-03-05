@@ -105,18 +105,18 @@ Enabling the **Directory** > **Directory.Read.All** permission is optional. If y
 {% endstep %}
 
 {% step %}
-#### Collect and forward the information to Marketplace Platform support
+#### Send the details to Marketplace Platform support
 
-Provide the information in the following table to [Marketplace Platform support](../contact-support.md#contacting-marketplace-platform-support):
+Gather the following details and send them by email to [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com):
 
-| Inputs Required           | Notes                                                                                                                                                                                                                                                                      |
+| Inputs required           | Notes                                                                                                                                                                                                                                                                      |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Application Client ID     | You can find the Application (client) ID on the overview page of the application created in [Step 1: Register the Client Portal with Azure AD](https://docs.platform.softwareone.com/help-and-support/faqs/how-do-i-set-up-sso#register-the-client-portal-with-azure-a-d). |
 | Application Client Secret | Your client secret as created in [Step 2: Create a client secret](https://docs.platform.softwareone.com/help-and-support/faqs/how-do-i-set-up-sso#create-a-client-secret).                                                                                                 |
 | Microsoft Azure AD Domain | Your Azure AD domain name. You can find this on your Azure AD directory's overview page in the Microsoft Azure portal.                                                                                                                                                     |
 | IdP Domains               | <p>A list of all email domains that must be authenticated through the federated Azure AD, for example, <code>@customer.com</code>. </p><p>Usually 1 domain but can also be multiple.</p>                                                                                   |
 
-After receiving the information, we'll complete the setup. The Client Portal will then automatically start forwarding all users of the specified IdP domains to your Azure AD for federated authentication.
+After we receive the information, we will finalize the setup. The Client Portal will then automatically start redirecting all users from the specified IdP domains to your Azure AD for federated authentication.
 {% endstep %}
 {% endstepper %}
 
