@@ -69,7 +69,7 @@ Some of your active instances might cost less in another nearby region with the 
 
 This recommendation means that some of your instances have an inactivity pattern that allows you to set up an on/off power schedule (average CPU consumption is less than **5%** and network traffic below **1000 bytes/s** for the last **14 days**). Consider creating a power schedule to reduce expenses.
 
-## Instances with spot (Preemptible) opportunities <a href="#instances-with-spot-preemptible-opportunities" id="instances-with-spot-preemptible-opportunities"></a>
+## Instances with spot (pre-emptible) opportunities <a href="#instances-with-spot-preemptible-opportunities" id="instances-with-spot-preemptible-opportunities"></a>
 
 This list contains instances that:
 

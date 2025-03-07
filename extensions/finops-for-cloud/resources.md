@@ -26,7 +26,7 @@ The **Resources** page contains the following options:
 * **Expenses** - Use this filter to view expenses on a **Daily**, **Weekly**, or **Monthly** basis.
 * **Group by** - Group the data by Pool, Owner, or Tag.
 
-### Additional features <a href="#additional-features" id="additional-features"></a>
+## Additional features <a href="#additional-features" id="additional-features"></a>
 
 * **Save perspective** - You can save your current perspective, including all applied filters and settings, for future use. This ensures that you can quickly return to your preferred view without reconfiguring filters each time.
 * **Use saved perspectives** - You can select a perspective from a list of saved perspectives and switch between different views. This feature is useful if you need to analyze data for different purposes.

@@ -12,8 +12,8 @@ You can find **Quotas and Budgets** in the **Policies** section of the sidebar.
 
 The **name**, **status**, **description**, and **filter** fields show information about your existing quotas or budgets. The type of budget can be easily detected by the description:
 
-| Type of budget   | Description                                         |
-| ---------------- | --------------------------------------------------- |
-| Resource Quota   | Resource count must not exceed 10                   |
-| Recurring Budget | Current month expenses must not exceed $100         |
-| Expiring Budget  | Total expenses from 01/01/2024 must not exceed $100 |
+| Type of budget   | Description                                          |
+| ---------------- | ---------------------------------------------------- |
+| Resource Quota   | Resource count must not exceed 10.                   |
+| Recurring Budget | Current month expenses must not exceed $100.         |
+| Expiring Budget  | Total expenses from 01/01/2024 must not exceed $100. |

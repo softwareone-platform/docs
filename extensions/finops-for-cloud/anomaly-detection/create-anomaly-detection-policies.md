@@ -1,6 +1,6 @@
-# Create an Anomaly Detection Policy
+# Create Anomaly Detection Policies
 
-Follow the steps to create a new anomaly detection policy:
+Follow these steps to create a new anomaly detection policy:
 
 1. In the FinOps for Cloud portal, select **Anomaly detection** in the left navigation.
 2. On the **Anomaly detection** page, click **Add**. The **Create Anomaly Detection Policy** page opens, where you can configure the parameters for the policy to be created.
