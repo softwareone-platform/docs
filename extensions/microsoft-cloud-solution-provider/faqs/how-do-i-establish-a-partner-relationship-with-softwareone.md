@@ -22,13 +22,13 @@ This allows SoftwareOne to fulfill your Microsoft transactions and manage produc
 4. Use the Global Administrator credentials for the primary domain or tenant name listed in your purchase order.
 5. Review the SoftwareOne partner information and click **Next**.
 
-<figure><img src="../../../.gitbook/assets/image (1108).png" alt=""><figcaption><p>Partner information</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/csp_partner_information.png" alt=""><figcaption><p>Partner information</p></figcaption></figure>
 
 6. Select the link for the Microsoft Customer Agreement and read the agreement.&#x20;
 7. Select the checkbox to acknowledge that you read the agreement and then click **Accept**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1109).png" alt=""><figcaption><p>Read and accept the agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/csp_partner_accept_agreement.png" alt=""><figcaption><p>Read and accept the agreement</p></figcaption></figure>
 
 8. Return to your purchase order in the Marketplace Platform and click **Process** in the upper right to resume order processing.
 
-<figure><img src="../../../.gitbook/assets/image (1110).png" alt=""><figcaption><p>Process option on the order details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/csp_process.png" alt=""><figcaption><p>Process option on the order details page</p></figcaption></figure>

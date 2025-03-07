@@ -79,7 +79,7 @@ You can execute each step of the onboarding process through the Marketplace Plat
 
 For SoftwareOne to provide support to our customers, we require access to your workloads.&#x20;
 
-Granular delegated admin permissions (GDAP) is a security feature that provides CSP providers with least-privileged access following the Zero Trust cybersecurity protocol. It lets SoftwareOne configure granular and time-bound access to our customers' workloads in production and sandbox environments. This least-privileged access needs to be explicitly granted to SoftwareOne by our clients.
+[Granular delegated admin permissions (GDAP)](granular-delegated-admin-privileges-gdap/) is a security feature that provides CSP providers with least-privileged access following the Zero Trust cybersecurity protocol. It lets SoftwareOne configure granular and time-bound access to our customers' workloads in production and sandbox environments. This least-privileged access needs to be explicitly granted to SoftwareOne by our clients.
 
 With GDAP, SoftwareOne can provide services to clients who might be uncomfortable with the high levels of partner access. GDAP also helps customers who have regulatory requirements to provide only the least-privileged access to partners.
 
