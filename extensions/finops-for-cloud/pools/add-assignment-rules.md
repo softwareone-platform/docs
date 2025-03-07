@@ -1,8 +1,8 @@
-# Configure Assignment Rules
+# Add Assignment Rules
 
 In FinOps for Cloud, you can add a new assignment rule either from the **Assignment Rules** page or the **Resource** page. Both of these pages are accessible through the left navigation.
 
-## Configuring assignment rules
+## Adding new assignment rules
 
 {% tabs %}
 {% tab title="Assignment Rules page" %}

@@ -1,6 +1,6 @@
 # First-Time Login
 
-After SoftwareOne or your administrator adds you to your organization’s FinOps for Cloud account, you'll receive an invitation email with a link to join your account.
+When setting up your FinOps for Cloud account, you'll typically receive an invitation email with a link to join your organization's account.&#x20;
 
 Open the invitation email and follow these steps to complete the sign-in process:
 
@@ -10,4 +10,6 @@ Open the invitation email and follow these steps to complete the sign-in process
 
 <figure><img src="../../.gitbook/assets/finOps_login.png" alt=""><figcaption><p>Sign in page</p></figcaption></figure>
 
-4. Enter the confirmation code on the sign-in page and click **Confirm**. You'll then be signed in to the tool. Use the same credentials each time you wish to sign in to your account.&#x20;
+4. Enter the confirmation code on the sign-in page and click **Confirm**. You'll be signed in to the tool.&#x20;
+
+Use the same credentials to sign in to FinOps for Cloud each time. If you forget your password, use the **Forgot password** option on the sign-in page. We will send you an email with instructions to reset your password.

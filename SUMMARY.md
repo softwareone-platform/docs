@@ -205,7 +205,7 @@
     * [Archived Recommendations](extensions/finops-for-cloud/recommendations/archived-recommendations.md)
   * [Resources](extensions/finops-for-cloud/resources.md)
   * [Pools](extensions/finops-for-cloud/pools/README.md)
-    * [Configure Assignment Rules](extensions/finops-for-cloud/pools/configure-assignment-rules.md)
+    * [Add Assignment Rules](extensions/finops-for-cloud/pools/add-assignment-rules.md)
     * [Re-apply Ruleset](extensions/finops-for-cloud/pools/re-apply-ruleset.md)
   * [Cost Explorer](extensions/finops-for-cloud/cost-explorer.md)
   * [Anomaly Detection](extensions/finops-for-cloud/anomaly-detection/README.md)
