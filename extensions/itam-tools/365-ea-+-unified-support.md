@@ -1,8 +1,8 @@
----
-description: 365 EA + Unified Support dashboard.
----
-
 # 365 EA + Unified Support
+
+{% hint style="info" %}
+This feature is no longer supported through the Marketplace Platform.
+{% endhint %}
 
 The 365 EA with Unified Support Dashboard provides an overview for Microsoft 365 EA customers who purchased our unified support service.&#x20;
 

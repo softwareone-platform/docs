@@ -1,9 +1,3 @@
----
-description: >-
-  Track and manage your software renewals, set alerts and reminders and manage
-  agreements.
----
-
 # Renewal Manager
 
 Renewal Manager lets you collect, track, and manage contractual and software maintenance renewals independent of the software license supplier or distribution channel.

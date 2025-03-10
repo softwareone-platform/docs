@@ -1,8 +1,8 @@
----
-description: Unified Support for multi-vendor Dashboard
----
+# Unified Support for Multi-Vendor
 
-# Unified Support for Multi-vendor
+{% hint style="info" %}
+This feature is no longer supported through the Marketplace Platform.
+{% endhint %}
 
 The Unified Support for MultiVendor (USMV) dashboard is for our clients who have purchased the Unified Support for MultiVendor service. As part of the service, SoftwareOne acts as a single point of contact for support for the selected software vendors, including:
 
