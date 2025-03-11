@@ -16,7 +16,7 @@ The following table lists the supported notification categories:
 
 | Notification categories | Description                                                                                                                                                                   |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Account updates         | These notifications alert recipients to the changes in the account. For instance, when a new user is added or an existing one is removed.                                     |
+| Account                 | These notifications alert recipients to the changes in the account. For instance, when a new user is added or an existing one is removed.                                     |
 | Agreements              | These notifications are sent when there are changes to an agreement. For instance, when an agreement is newly created or terminated.                                          |
 | Billing and Invoice     | These notifications relate to billing updates and invoices in your account. For instance, when a new statement is generated.                                                  |
 | News and updates        | These notifications alert recipients to the platform news and latest announcements, such as feature releases, upcoming maintenance, and more.                                 |
@@ -26,7 +26,7 @@ The following table lists the supported notification categories:
 | Subscriptions           | The platform sends these notifications when there are subscription-related updates to your account. For instance, renewal updates or when a new subscription is created.      |
 | User updates            | These email notifications are sent when you update your profile. For instance, when you update your password. You cannot opt out of these notifications.                      |
 
-You can manage these categories from the **Notifications** > **Configuration** page. See [Enable or Disable Categories](enable-or-disable-categories.md) to learn more.
+You can manage these categories from the **Notifications** > **Subscribers** page. See [Enable or Disable Categories](enable-or-disable-categories.md) to learn more.
 
 ## Notifications interface <a href="#audit-trail-interface" id="audit-trail-interface"></a>
 
@@ -34,37 +34,37 @@ Account administrators can access notifications by selecting **Settings** > **No
 
 <figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Notifications page</p></figcaption></figure>
 
-The **Notifications** page contains these three tabs: **Configuration**, **Messages**, and **Settings**.&#x20;
+The **Notifications** page contains these three tabs: **Subscribers**, **Messages**, and **Settings**.&#x20;
 
-### Configuration
+### Subscribers
 
-The **Configuration** tab displays all [notification categories](./#notification_types) configured for your account. For each notification, you can view the following details:
+The **Subscribers** tab displays all [notification categories](./#notification_types) configured for your account. For each notification, you can view the following details:
 
-* **Configuration** - Displays the category name. Clicking the name opens the [Configuration details page](./#configuration-details-page) to manage the notification's configuration. &#x20;
+* **Subscribers** - Displays the category name. Clicking the name opens the [Subscribers details page ](./#subscriber-details-page)to manage the notification's configuration. &#x20;
 * **Description** - Displays a short description of the category.
 * **Recipients** - Shows the total number of users and groups who are the recipients of the notifications.
 * **Updated** - Shows the date and time the notification's configuration was updated.&#x20;
-* **Last used** - Shows the date and time the platform sent the notification.&#x20;
+* **Last used** - Shows the date and time the platform sent the notification in that category.&#x20;
 * **Updated by** - Displays the name and ID of the individual who updated the notification's configuration.&#x20;
 * **Status** - Indicates whether the category is enabled or disabled.&#x20;
 
-#### Configuration details page
+#### Subscribers details page
 
-The **Configuration details** page is organized into tabs displaying general information about the category and an audit trail.&#x20;
+The **Subscribers** details page is organized into tabs displaying general information about the category and an audit trail.&#x20;
 
 From the details page, you can manage recipients and groups for a notification category and enable or disable a category. See [Configure Recipients](configure-recipients.md) and [Enable or Disable Categories](enable-or-disable-categories.md) for details.
 
-<figure><img src="../../../.gitbook/assets/notifications_configuration_details.png" alt=""><figcaption><p>Configuration details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/notifications_subscribers_details.png" alt=""><figcaption><p>Subscribers details page</p></figcaption></figure>
 
 ### Messages
 
 The **Messages** tab contains all messages sent to the users in your account. For each message, you can view the following details:
 
 * **ID** - Displays the ID assigned to the message by the platform.
-* **Contact** -
-* **User** -
-* **Subject** -
-* **Category** -
+* **Contact** - Displays the recipient's email address.&#x20;
+* **User** - Displays the name and ID of the individual linked to the contact. If the field is empty, it means that the recipient doesn't have an account.
+* **Subject** - Displays the subject line of the email.
+* **Category** - Displays the category of the notification. See [Notification categories](./#notification_types) for details.
 * **Created** -
 * **Created by** -
 * **Status** - Displays the status of the message. To learn about the possible statuses, see [Notification States](notification-states.md).
@@ -78,6 +78,6 @@ The **Message details** page displays general information about the message, the
 
 ### Settings
 
-The **Settings** tab allows you to view and edit your account-level notification settings, such as the sender name, the language of emails, and the email's footer. See [Edit Notification Settings](edit-notification-settings.md) for details.&#x20;
+The **Settings** tab allows you to view and edit your account-level notification settings, such as the sender name, the default language to be used for all emails, and the email's footer. See [Edit Notification Settings](edit-notification-settings.md) for details.&#x20;
 
-<figure><img src="../../../.gitbook/assets/notifications_settings.png" alt=""><figcaption><p>Edit notfication settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/notifications_settings.png" alt=""><figcaption><p>Edit notification settings</p></figcaption></figure>

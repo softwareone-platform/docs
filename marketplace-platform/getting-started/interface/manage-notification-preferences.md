@@ -17,7 +17,7 @@ Follow these steps to update your preferences using the **My profile** option:
 
 1. Sign in to your account and click your profile menu in the upper right.
 2. Select **My profile**.
-3. On your profile page, select the **Notifications** **preferences** tab. All notification categories for your account and their are displayed.
+3. On your profile page, select the **Notifications** **preferences** tab. All notification categories for your account, along with status, are displayed.
 4. Click the actions icon (**•••**) and select **Enable** or **Disable**.
 
 <figure><img src="../../../.gitbook/assets/notification_preferences.png" alt=""><figcaption><p>Notification preferences</p></figcaption></figure>
@@ -26,12 +26,11 @@ Follow these steps to update your preferences using the **My profile** option:
 
 ### Using the notification email
 
-Follow these steps if you wish to update your preferences through the notification email:
+Follow these steps if you wish to update your preferences from your notification email:
 
 1. Open the notification email.
-2. Scroll down to the footer and click the **Manage notifications** link.
-3. In the **Manage notifications** form, use the individual buttons to enable or disable a category.
+2. Scroll down to the footer and click the **Manage notifications** link. The **Manage notifications** form opens in your browser.
+3. In the **Manage notifications** form, use the buttons to enable or disable a category.
 4. Click **Save** to submit your preferences.&#x20;
 
-<figure><img src="../../../.gitbook/assets/notification_form.png" alt=""><figcaption><p>Manage notifications form</p></figcaption></figure>
-
+<figure><img src="../../../.gitbook/assets/notifications_form.png" alt=""><figcaption><p>Manage notifications form</p></figcaption></figure>
