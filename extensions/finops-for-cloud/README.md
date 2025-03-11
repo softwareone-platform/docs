@@ -11,7 +11,7 @@ FinOps for Cloud focuses on improving the cloud usage experience without activel
 It requires **Read-Only** rights for the connected cloud account, which serves as the primary Data Source for all recommendations. The following data is utilized:
 
 * Billing information - all details regarding cloud expenses.
-* The state of resources (for actively discoverable types) in the cloud. This is essential for implementing [constraints like TTL and Expense limits](resources-constraints-and-pool-constraint-policies.md) and [Recommendations](recommendations/).
+* The state of resources (for actively discoverable types) in the cloud. This is essential for implementing [constraints like TTL and Expense limits](resources/resources-constraint-policies.md) and [Recommendations](recommendations/).
 * The monitoring data from the cloud is used to identify underutilized instances.
 
 {% tabs %}

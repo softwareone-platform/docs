@@ -9,7 +9,7 @@ In FinOps for Cloud, you can access the **Resources** page from the sidebar.  Th
 * **Graphic visualization** - This includes various types of graphs, such as bar charts and line graphs, helping you understand trends, patterns, and anomalies in your cloud resource usage and expenses.
 * **Tabular data** - This provides detailed information in tabular format, allowing you to see specific data points and metrics. The tables include columns for different parameters, such as resource type, cost, usage, tags, owner, and more.
 
-<figure><img src="../../.gitbook/assets/finOps_resources.png" alt=""><figcaption><p>Resources page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/finOps_resources.png" alt=""><figcaption><p>Resources page</p></figcaption></figure>
 
 The **Resources** page contains the following options:
 

@@ -2,7 +2,7 @@
 
 The **Events** page is a read-only page that displays all events that have occurred within your account. You can access this page from the sidebar.&#x20;
 
-<figure><img src="../../.gitbook/assets/finOps_events_page.png" alt=""><figcaption><p>Events page: PLACEHOLDER IMAGE</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/finOps_events_page.png" alt=""><figcaption><p>Events page</p></figcaption></figure>
 
 The list of events includes events that are initiated by a user as well as the system. The data on this page is continuously updated, allowing you to monitor and track events in real-time.&#x20;
 

@@ -1,8 +1,8 @@
-# Create Quota or Budget Policy
+# Create Quotas or Budget Policies
 
-If you have the ‘Organization manager’ permission, you can create a new quota or budget policy using the **Add** option on the **Quota and Budgets** page.
+If you have the **Organization manager** role, you can create a new quota or budget policy using the **Add** option on the **Quota and Budgets** page.
 
-<figure><img src="../../../.gitbook/assets/finOps_quotas_and_budgets.png" alt=""><figcaption><p>Add option on the page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/finOps_quotas_and_budgets.png" alt=""><figcaption><p>Add option on the Quotas and Budgets page</p></figcaption></figure>
 
 Follow these steps to create a new policy:
 

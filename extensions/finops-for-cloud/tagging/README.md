@@ -1,8 +1,16 @@
 # Tagging
 
-The **Tagging** page allows you to view and manage your tagging policies. This page helps ensure that your resources are properly categorized and monitored according to the organization's standards.
+The **Tagging Policies** page allows you to view and manage your tagging policies.&#x20;
+
+This page helps ensure that your resources are properly categorized and monitored according to the organization's standards.
+
+## Tagging interface
+
+In FinOps for Cloud, you can access the **Tagging Policies** page from the sidebar. On this page, you can see all policies along with their status, and [create a new tagging policy](create-tagging-policies.md).
 
 <figure><img src="../../../.gitbook/assets/finOps_tagging.png" alt=""><figcaption><p>Tagging in FinOps for Cloud</p></figcaption></figure>
+
+The page contains the following options:
 
 * **Name** - Displays the name of the tagging policy.&#x20;
 * **Status** - Provides information about the policy's status, including any violations, and helps understand if any resources are not complying with the tagging policy.

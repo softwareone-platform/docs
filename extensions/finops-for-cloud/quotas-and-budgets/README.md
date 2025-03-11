@@ -10,7 +10,7 @@ You can find **Quotas and Budgets** in the **Policies** section of the sidebar.
 
 <figure><img src="../../../.gitbook/assets/finOps_quotas_and_budgets.png" alt=""><figcaption><p>Quotas and Budgets page</p></figcaption></figure>
 
-The **name**, **status**, **description**, and **filter** fields show information about your existing quotas or budgets. The type of budget can be easily detected by the description:
+The **Name**, **Status**, **Description**, and **Filters** columns show information about your existing quotas or budgets. The type of budget can be easily detected by the description:
 
 | Type of budget   | Description                                          |
 | ---------------- | ---------------------------------------------------- |
