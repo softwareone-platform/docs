@@ -1,5 +1,15 @@
 # Release Notes
 
+## Release Date: 17 March 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
+
+### Coterminosity for NCE Subscriptions
+
+The Marketplace Platform now supports co-terming for NCE subscriptions. Coterming allows you to align the end date of a new subscription with that of an existing subscription. When this feature is enabled, new subscriptions will automatically synchronize their end dates with the existing subscriptions in the agreement.
+
+You can access this feature when ordering subscriptions under a new agreement. For existing subscriptions, our Support team can assist you in updating the end date in the system. To learn more about this feature, see [About NCE Subscription Coterminosity](microsoft-nce/about-subscription-coterminosity.md) and [Coterming Subscriptions](microsoft-nce/coterming-subscriptions.md).&#x20;
+
+***
+
 ## Release Date: 20 February 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 
 ### Support for Windows 365 Hybrid Benefit
