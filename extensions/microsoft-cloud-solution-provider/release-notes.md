@@ -4,9 +4,9 @@
 
 ### Coterminosity for NCE Subscriptions
 
-The Marketplace Platform now supports co-terming for NCE subscriptions. Coterming allows you to align the end date of a new subscription with that of an existing subscription. When this feature is enabled, new subscriptions will automatically synchronize their end dates with the existing subscriptions in the agreement.
+The Marketplace Platform now supports coterminosity for NCE subscriptions, allowing you to align the end date of a new subscription with that of an existing subscription. When enabled, new subscriptions will automatically synchronize their end dates with the existing subscriptions within the agreement.
 
-You can access this feature when ordering subscriptions under a new agreement. For existing subscriptions, our Support team can assist you in updating the end date in the system. To learn more about this feature, see [About NCE Subscription Coterminosity](microsoft-nce/about-subscription-coterminosity.md) and [Coterming Subscriptions](microsoft-nce/coterming-subscriptions.md).&#x20;
+You can enable coterminosity when ordering subscriptions under a new agreement. For existing subscriptions, [Marketplace Platform Support](../../help-and-support/contact-support.md) can assist you in updating the end date in the system. To learn more about aligning the subscription end dates, see [About Subscription Coterminosity](microsoft-nce/about-subscription-coterminosity.md) and [Coterming Subscriptions](microsoft-nce/coterming-subscriptions.md).&#x20;
 
 ***
 
