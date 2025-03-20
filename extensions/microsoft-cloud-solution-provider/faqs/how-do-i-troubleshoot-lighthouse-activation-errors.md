@@ -1,10 +1,8 @@
 # How do I troubleshoot Lighthouse activation errors?
 
-If you face an error during Lighthouse activation, it could be because of your role in Azure.
+If you face an error when onboarding subscriptions to Azure Lighthouse, it could be due to your role in Azure.
 
-Make sure that you are the owner of the subscription for which you are activating Lighthouse. Subscription owners have the **Azure Subscription Owner** role.
-
-You can verify the role on the **Role assignments** tab in Azure.
+Make sure you are the owner of the subscription you wish to onboard and the first subscription that was onboarded to Azure Lighthouse. Subscription owners have the **Azure Subscription Owner** role, which can be verified on the **Role Assignments** tab within Azure. During onboarding, the initial subscription will be highlighted so you can identify it easily.
 
 <figure><img src="../../../.gitbook/assets/image-20241118-153405.png" alt=""><figcaption><p>Role assignments tab in Azure</p></figcaption></figure>
 

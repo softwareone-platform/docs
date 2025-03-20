@@ -2,6 +2,18 @@
 
 ## Release Date: 17 March 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 
+### Azure Lighthouse Onboarding
+
+The onboarding process for [Azure Lighthouse](azure-lighthouse/) has been enhanced to include the following changes:
+
+* An order will no longer remain in a Querying status while the onboarding process is being completed. Instead, the activation link for Azure Lighthouse will be generated during the order processing phase, and the order will be marked as complete thereafter.
+* You will receive an onboarding email when activating Azure Lighthouse is required. This email will include a link to begin the onboarding process.
+* Onboarding can also be initiated directly from the Marketplace using the **Link to Lighthouse Approval Page** link. This link is available on the **Parameters** tab within the agreement details page.
+
+***
+
+## Release Date: 17 March 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
+
 ### Coterminosity for NCE Subscriptions
 
 The Marketplace Platform now supports coterminosity for NCE subscriptions, allowing you to align the end date of a new subscription with that of an existing subscription. When enabled, new subscriptions will automatically synchronize their end dates with the existing subscriptions within the agreement.
