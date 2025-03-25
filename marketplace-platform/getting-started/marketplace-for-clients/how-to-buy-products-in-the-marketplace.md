@@ -4,19 +4,23 @@ The Marketplace Platform is a centralized hub designed to streamline the discove
 
 The platform simplifies the complex process of software licensing and procurement, making it easier for you to find and compare products from multiple software vendors in one place. Each product on our marketplace undergoes a process, where vendors define the product including its terms of use, and submit it to SoftwareOne. Products become available for ordering only after they have been accepted by SoftwareOne.
 
-## Accessing the marketplace
+{% stepper %}
+{% step %}
+### Accessing the marketplace
 
 You can access the SoftwareOne Marketplace by signing in to your account and selecting **Marketplace** > **Products** from the main menu.
+{% endstep %}
 
-## Browsing and selecting products
+{% step %}
+### Browsing and selecting products
 
-The **Products** page shows different products that are available for you to order. The products are categorized by the vendor name and displayed in the form of cards.
+The **Products** page shows different products that are available for you to order. The products are categorized by the vendor name and displayed in the form of cards. You can view detailed information about a product by clicking the product name. To learn more, see [Products](../../../modules-and-features/marketplace/products.md).
 
 <figure><img src="../../../.gitbook/assets/image (995).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+{% endstep %}
 
-You can view detailed information about a product by clicking the product name. To learn more, see [Products](../../../modules-and-features/marketplace/products.md).
-
-## Placing an order&#x20;
+{% step %}
+### Placing an order
 
 When you are ready to start the ordering process, click **Buy now** in the upper right on the details page.
 
@@ -39,3 +43,5 @@ The steps within the wizard will vary depending on the product and the vendor. A
 {% hint style="info" %}
 For products, like Adobe and Microsoft, you'll need to complete additional steps when placing the order. For step-by-step guidance on these products, see [Adobe Tutorials ](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/)and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/).
 {% endhint %}
+{% endstep %}
+{% endstepper %}

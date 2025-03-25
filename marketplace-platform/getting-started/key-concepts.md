@@ -42,11 +42,11 @@ In the Marketplace Platform, an account can contain one or multiple users:
 
 <figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>Account containing multiple users</p></figcaption></figure>
 
-Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](interface/switch-account.md) through the interface, without signing out of the platform.&#x20;
+Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](interface/switch-account.md) through the interface without signing out of the platform.&#x20;
 
 <figure><img src="../../.gitbook/assets/concepts_users_multiple_accounts.png" alt=""><figcaption><p>Users belonging to multiple accounts</p></figcaption></figure>
 
-**Group** - A group is an object facilitating permissions in the scope of an account. Groups contain users and all users in the group have the same permissions. Note that in our platform, permissions are assigned at the group level, rather than the individual user level.&#x20;
+**Group** - A group is an object facilitating permissions in the scope of an account. Groups contain users, and all users in the group have the same permissions. Note that in our platform, permissions are assigned at the group level rather than the individual user level.&#x20;
 
 Additionally, users can be a part of multiple groups, much like users can belong to multiple accounts.
 

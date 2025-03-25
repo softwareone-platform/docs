@@ -12,7 +12,7 @@ The platform’s functionality is further augmented by a public API and SDK, whi
 
 The Marketplace Platform is a two-sided platform designed for clients to easily procure software, manage their purchases, and for vendors to sell their software solutions globally.&#x20;
 
-For clients, the Marketplace Platform simplifies SaaS purchases and optimizes procurement workflows through the Client Portal. This portal is a centralized hub, allowing clients to digitize the procurement journey. It offers an [intuitive interface](getting-started/interface/) and functionalities that streamline buying processes.&#x20;
+For clients, the Marketplace Platform simplifies SaaS purchases and optimizes procurement workflows through the Client Portal. This portal is a centralized hub, allowing clients to digitize the procurement journey. It offers an intuitive interface and functionalities that streamline buying processes.&#x20;
 
 As a client, here's what you can do with our platform:&#x20;
 

@@ -10,13 +10,14 @@ Initially, the licensees are created by SoftwareOne and mapped to the different 
 
 Account administrators can access the **Licensees** page by selecting **Settings** > **Licensees** from the main menu.&#x20;
 
-<figure><img src="../../../.gitbook/assets/settings_licensees_page.png" alt=""><figcaption><p>Licensees page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption></figcaption></figure>
 
 The page displays all licensees that exist in your account. For each licensee, you can view the following details:
 
 * **Licensee** - Displays the name and unique identifier of the licensee. The name can be the name of a user, a company name, or a department name.
 * **Address** - Displays the address of the licensee.
 * **Contact person** - Displays the contact person associated with the licensee.
+* **Resale licensee** - Indicates whether the licensee is configured as a resale licensee, involved in reselling the product instead of buying it for self-consumption.&#x20;
 * **Buyer** - Displays the buyer that has been mapped to the licensee.
 * **Seller** - Displays the SoftwareOne entity that is responsible for facilitating the procurement of products and licenses.
 * **Status** - Displays the licensee's status in the platform. To learn about the possible states, see [Licensee States](licensee-states.md).

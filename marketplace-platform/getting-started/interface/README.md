@@ -32,7 +32,7 @@ The platform provides a seamless and intuitive interface, allowing access to the
 
 ### Main navigation menu
 
-The <img src="../../../.gitbook/assets/icon_menu.png" alt="" data-size="line"> **Home** menu in the top left is where you can access the modules enabled for your account. Click the menu to view the modules and get started with the platform.
+The <img src="../../../.gitbook/assets/icon_menu.png" alt="" data-size="line"> **Home** menu in the top left is where you can access the modules enabled for your account.&#x20;
 
 <figure><img src="../../../.gitbook/assets/interface_menu.png" alt=""><figcaption><p>Navigation menu</p></figcaption></figure>
 

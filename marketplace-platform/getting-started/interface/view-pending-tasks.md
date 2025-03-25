@@ -1,13 +1,13 @@
 # View Pending Tasks
 
-The **Pending tasks** widget in the Marketplace Platform provides a unified view of all tasks that need your attention. It allows you to quickly view and manage pending tasks for key platform objects, such as your orders, agreements, subscriptions, invoices, and more.&#x20;
+The **Spotlight** widget in the Marketplace Platform is designed to draw your attention to the key objects in the platform, including your agreements, orders, subscriptions, and more. For example, if you have subscriptions that are nearing expiration, those subscriptions are spotlighted so you can access and manage them easily.
 
 You can find the widget on the **Home** page, and it can also be accessed by clicking the Pending Actions icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> in the status bar.
 
 <figure><img src="../../../.gitbook/assets/object_spotlight.png" alt=""><figcaption><p><strong>PLACEHOLDER: TO BE REPLACED</strong></p></figcaption></figure>
 
-In **Pending tasks**, all tasks are grouped by object; for example, pending tasks associated with your agreements are grouped and displayed under **Agreements**. Similarly, tasks related to requests you may have created are displayed under **Requests**. You can easily expand a group to view all tasks it contains.&#x20;
+In the **Spotlight** widget, the information is grouped according to the object type; for example, subscriptions requiring attention are displayed under **Subscriptions**. Similarly, orders that may be querying for additional information are shown under **Orders**, and so on.&#x20;
 
-The widget also displays the total number of pending tasks, so you always know how many tasks are outstanding. The count and the list of tasks are synced periodically to ensure you stay informed and always have the latest information. You can also refresh the list manually by clicking the Sync icon <img src="../../../.gitbook/assets/icon_sync.png" alt="" data-size="line">.
+By default, five items are displayed within each group, but you can click **view all** to navigate to the object's main page.
 
-When you click a specific task, the details page opens, where you can take appropriate action. Clicking **View all** displays all outstanding tasks in the list.&#x20;
+The widget also displays a total count of items requiring attention, so you always know how many items are outstanding within each group. The details are synced periodically to ensure you stay informed and always have the latest information. If required, you can refresh the list manually by clicking the Sync icon <img src="../../../.gitbook/assets/icon_sync.png" alt="" data-size="line"> in the widget.
