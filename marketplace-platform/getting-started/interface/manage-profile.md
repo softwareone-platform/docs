@@ -4,8 +4,6 @@ Your profile page contains basic information about your account, including your 
 
 You can access your profile and make changes as necessary through the **My profile** option. To access the option click your profile menu in the upper right and select **My profile**. This will open your profile overview page.
 
-<figure><img src="../../../.gitbook/assets/profile.png" alt=""><figcaption><p>Profile overview page</p></figcaption></figure>
-
 Your profile settings are organized by tabs:
 
 * **General** - Displays your general details, such as name and phone number, and account preferences.
@@ -57,9 +55,6 @@ Click to see the supported languages.
 Follow these steps to update your profile:
 
 1. On your profile overview page, click **Edit** in the upper right. The **Edit user** page opens.
-
-<figure><img src="../../../.gitbook/assets/edit_user_page.png" alt=""><figcaption><p>Edit user page</p></figcaption></figure>
-
 2. Change the **General** settings as necessary:
    * **Profile picture** - Add or update your profile picture. You can add a photo of yourself, a logo, or anything that represents you and helps others identify you easily on the platform. Your image must be in PNG or JPG format. The maximum file size is 5 MB.
    * **First name** - Update your first name.
@@ -69,7 +64,4 @@ Follow these steps to update your profile:
 3. Update your **Preferences** as necessary:
    * **Language** - Choose your language preference.
    * **Regional settings** - Select the date format you want to use.
-
-<figure><img src="../../../.gitbook/assets/edit_user_page (1).png" alt=""><figcaption><p>Preferences section</p></figcaption></figure>
-
 4. Click **Save**. A message is displayed stating your profile has been updated successfully.

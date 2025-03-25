@@ -63,21 +63,3 @@ The details page is divided into the following tabs:
 * **Terms** - Displays the terms associated with the agreement and shows when they were accepted, and by whom.
 * **Details** - Displays the additional IDs for the agreement, including the client and vendor IDs, and the timestamps of all changes made to the agreement. You can update the client ID using **Edit**. For instructions, see [Edit Agreement ID](edit-agreement-id.md).
 * **Audit trail** - Displays all events that have taken place within the agreement. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](../../settings/audit-trail.md).&#x20;
-
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/agreement-states" %}
-[Agreement States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/agreement-states)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/terminate-agreements" %}
-[Terminate Agreement](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/terminate-agreements)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/rename-an-agreement" %}
-[Rename Agreement](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/rename-an-agreement)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/edit-agreement-id" %}
-[Edit Agreement ID](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/edit-agreement-id)
-{% endcontent-ref %}

@@ -21,26 +21,26 @@ A message is displayed stating that the operation is successful. You can view th
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens" %}
-[API Tokens](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/token-states" %}
-[Token States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/token-states)
+{% content-ref url="token-states.md" %}
+[token-states.md](token-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/create-api-token" %}
-[Create API Token](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/create-api-token)
+{% content-ref url="create-api-token.md" %}
+[create-api-token.md](create-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/edit-api-token" %}
-[Edit API Token](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/edit-api-token)
+{% content-ref url="edit-api-token.md" %}
+[edit-api-token.md](edit-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/copy-api-token" %}
-[Copy API Token](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/copy-api-token)
+{% content-ref url="copy-api-token.md" %}
+[copy-api-token.md](copy-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/delete-api-token" %}
-[Delete API Token](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/delete-api-token)
+{% content-ref url="delete-api-token.md" %}
+[delete-api-token.md](delete-api-token.md)
 {% endcontent-ref %}

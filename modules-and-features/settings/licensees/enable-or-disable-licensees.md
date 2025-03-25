@@ -16,18 +16,18 @@ The licensee is enabled or disabled, depending on your chosen action, and a conf
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees" %}
-[Licensees](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees/licensee-states" %}
-[Licensee States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees/licensee-states)
+{% content-ref url="licensee-states.md" %}
+[licensee-states.md](licensee-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees/create-licensees" %}
-[Create Licensee](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees/create-licensees)
+{% content-ref url="create-licensees.md" %}
+[create-licensees.md](create-licensees.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees/edit-licensees" %}
-[Edit Licensee](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/licensees/edit-licensees)
+{% content-ref url="edit-licensees.md" %}
+[edit-licensees.md](edit-licensees.md)
 {% endcontent-ref %}

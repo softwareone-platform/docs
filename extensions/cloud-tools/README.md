@@ -10,51 +10,50 @@ Viewing recommendations that can identify possible cost savings, performance, an
 
 To learn more, see any of the following links:
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/365simple" %}
-[365Simple](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/365simple)
+{% content-ref url="365simple.md" %}
+[365simple.md](365simple.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/azuresimple" %}
-[AzureSimple](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/azuresimple)
+{% content-ref url="azuresimple.md" %}
+[azuresimple.md](azuresimple.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/budgets" %}
-[Budgets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/budgets)
+{% content-ref url="budgets/" %}
+[budgets](budgets/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/chargebacks" %}
-[Chargebacks](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/chargebacks)
+{% content-ref url="chargebacks/" %}
+[chargebacks](chargebacks/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/cloud-cost-optimization" %}
-[Cloud Cost Optimization](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/cloud-cost-optimization)
+{% content-ref url="cloud-cost-optimization.md" %}
+[cloud-cost-optimization.md](cloud-cost-optimization.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/cloud-tenant-setup" %}
-[Cloud Tenant Setup](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/cloud-tenant-setup)
+{% content-ref url="cloud-tenant-setup/" %}
+[cloud-tenant-setup](cloud-tenant-setup/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/custom-groups" %}
-[Custom Groups](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/custom-groups)
+{% content-ref url="custom-groups/" %}
+[custom-groups](custom-groups/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/pricelist-center" %}
-[Pricelist Center](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/pricelist-center)
+{% content-ref url="pricelist-center/" %}
+[pricelist-center](pricelist-center/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/recommendations" %}
-[Recommendations](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/recommendations)
+{% content-ref url="recommendations/" %}
+[recommendations](recommendations/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/simple-for-aws" %}
-[Simple for AWS](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/simple-for-aws)
+{% content-ref url="simple-for-aws.md" %}
+[simple-for-aws.md](simple-for-aws.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/tags-and-resources" %}
-[Tags and Resources](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/tags-and-resources)
+{% content-ref url="tags-and-resources.md" %}
+[tags-and-resources.md](tags-and-resources.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/utilization" %}
-[Utilization](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/extensions/cloud-tools/utilization)
+{% content-ref url="utilization.md" %}
+[utilization.md](utilization.md)
 {% endcontent-ref %}
-

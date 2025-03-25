@@ -8,18 +8,18 @@ The following diagram shows the possible states of a subscription and the transi
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions" %}
-[Subscriptions](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/rename-a-subscription" %}
-[Edit Subscription Name](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/rename-a-subscription)
+{% content-ref url="rename-a-subscription.md" %}
+[rename-a-subscription.md](rename-a-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/edit-subscription-id" %}
-[Edit Subscription ID](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/edit-subscription-id)
+{% content-ref url="edit-subscription-id.md" %}
+[edit-subscription-id.md](edit-subscription-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/terminate-a-subscription" %}
-[Terminate Subscription](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/terminate-a-subscription)
+{% content-ref url="terminate-a-subscription.md" %}
+[terminate-a-subscription.md](terminate-a-subscription.md)
 {% endcontent-ref %}

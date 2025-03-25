@@ -54,10 +54,10 @@ The page also contains the following tabs that display corresponding information
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers/edit-buyers" %}
-[Edit Buyers](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers/edit-buyers)
+{% content-ref url="edit-buyers.md" %}
+[edit-buyers.md](edit-buyers.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers/enable-or-disable-buyers" %}
-[Enable or Disable Buyers](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers/enable-or-disable-buyers)
+{% content-ref url="enable-or-disable-buyers.md" %}
+[enable-or-disable-buyers.md](enable-or-disable-buyers.md)
 {% endcontent-ref %}

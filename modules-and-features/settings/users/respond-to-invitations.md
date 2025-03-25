@@ -48,26 +48,26 @@ To decline, open the invitation link and click **Decline invitation**.
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users" %}
-[Users](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/user-states" %}
-[User States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/user-states)
+{% content-ref url="user-states.md" %}
+[user-states.md](user-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/add-new-users" %}
-[Add New Users](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/add-new-users)
+{% content-ref url="add-new-users.md" %}
+[add-new-users.md](add-new-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/edit-users" %}
-[Edit Users](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/edit-users)
+{% content-ref url="edit-users.md" %}
+[edit-users.md](edit-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/remove-user" %}
-[Remove Users](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/remove-user)
+{% content-ref url="remove-user.md" %}
+[remove-user.md](remove-user.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/manage-user-invitations" %}
-[Manage User Invitations](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/manage-user-invitations)
+{% content-ref url="manage-user-invitations.md" %}
+[manage-user-invitations.md](manage-user-invitations.md)
 {% endcontent-ref %}

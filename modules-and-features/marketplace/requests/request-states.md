@@ -10,26 +10,26 @@ These states are displayed as **Status** within the platform. They are also disp
 
 ## Related topics <a href="#related-topics" id="related-topics"></a>
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests" %}
-[Requests](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/create-new-requests" %}
-[Create New Requests](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/create-new-requests)
+{% content-ref url="create-new-requests.md" %}
+[create-new-requests.md](create-new-requests.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/add-a-message" %}
-[Add Messages to Your Request](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/add-a-message)
+{% content-ref url="add-a-message.md" %}
+[add-a-message.md](add-a-message.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/set-request-to-processing" %}
-[Change Your Request's Status to Processing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/set-request-to-processing)
+{% content-ref url="set-request-to-processing.md" %}
+[set-request-to-processing.md](set-request-to-processing.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/add-and-manage-attachments" %}
-[Add or Remove File Attachments](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/add-and-manage-attachments)
+{% content-ref url="add-and-manage-attachments.md" %}
+[add-and-manage-attachments.md](add-and-manage-attachments.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/complete-a-request" %}
-[Close Requests](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests/complete-a-request)
+{% content-ref url="complete-a-request.md" %}
+[complete-a-request.md](complete-a-request.md)
 {% endcontent-ref %}

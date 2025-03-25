@@ -65,26 +65,26 @@ The details page of an order contains the **Process** button that lets you [move
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/order-states" %}
-[Order States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/order-states)
+{% content-ref url="order-states.md" %}
+[order-states.md](order-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/save-order-as-a-draft" %}
-[Save Your Order as a Draft](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/save-order-as-a-draft)
+{% content-ref url="save-order-as-a-draft.md" %}
+[save-order-as-a-draft.md](save-order-as-a-draft.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/delete-draft-orders" %}
-[Delete Draft Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/delete-draft-orders)
+{% content-ref url="delete-draft-orders.md" %}
+[delete-draft-orders.md](delete-draft-orders.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/submit-draft-orders" %}
-[Submit Draft Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/submit-draft-orders)
+{% content-ref url="submit-draft-orders.md" %}
+[submit-draft-orders.md](submit-draft-orders.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/manage-order-notes" %}
-[Manage Order Notes](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/manage-order-notes)
+{% content-ref url="manage-order-notes.md" %}
+[manage-order-notes.md](manage-order-notes.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/set-an-order-to-processing" %}
-[Change Your Order's Status to Processing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/set-an-order-to-processing)
+{% content-ref url="set-an-order-to-processing.md" %}
+[set-an-order-to-processing.md](set-an-order-to-processing.md)
 {% endcontent-ref %}

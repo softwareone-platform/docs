@@ -12,26 +12,26 @@ Note that the Marketplace Platform supports various account types, including ven
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users" %}
-[Users](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/respond-to-invitations" %}
-[Respond to Invitations](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/respond-to-invitations)
+{% content-ref url="respond-to-invitations.md" %}
+[respond-to-invitations.md](respond-to-invitations.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/add-new-users" %}
-[Add New Users](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/add-new-users)
+{% content-ref url="add-new-users.md" %}
+[add-new-users.md](add-new-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/edit-users" %}
-[Edit Users](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/edit-users)
+{% content-ref url="edit-users.md" %}
+[edit-users.md](edit-users.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/remove-user" %}
-[Remove Users](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/remove-user)
+{% content-ref url="remove-user.md" %}
+[remove-user.md](remove-user.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/manage-user-invitations" %}
-[Manage User Invitations](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/users/manage-user-invitations)
+{% content-ref url="manage-user-invitations.md" %}
+[manage-user-invitations.md](manage-user-invitations.md)
 {% endcontent-ref %}

@@ -21,6 +21,6 @@ If you want to update the general information associated with your account, use 
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/account/update-account-information" %}
-[Update Account Details](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/account/update-account-information)
+{% content-ref url="update-account-information.md" %}
+[update-account-information.md](update-account-information.md)
 {% endcontent-ref %}

@@ -33,10 +33,18 @@ You can apply buyer-level restrictions when creating new groups or editing exist
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups" %}
-[Groups](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups/delete-group" %}
-[Delete Group](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups/delete-group)
+{% content-ref url="create-new-group.md" %}
+[create-new-group.md](create-new-group.md)
+{% endcontent-ref %}
+
+{% content-ref url="edit-group.md" %}
+[edit-group.md](edit-group.md)
+{% endcontent-ref %}
+
+{% content-ref url="delete-group.md" %}
+[delete-group.md](delete-group.md)
 {% endcontent-ref %}

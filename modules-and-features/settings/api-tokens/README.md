@@ -56,26 +56,26 @@ When you open the details page, it shows the token's name, marketplace ID, and s
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/token-states" %}
-[Token States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/token-states)
+{% content-ref url="token-states.md" %}
+[token-states.md](token-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/create-api-token" %}
-[Create API Token](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/create-api-token)
+{% content-ref url="create-api-token.md" %}
+[create-api-token.md](create-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/edit-api-token" %}
-[Edit API Token](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/edit-api-token)
+{% content-ref url="edit-api-token.md" %}
+[edit-api-token.md](edit-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/copy-api-token" %}
-[Copy API Token](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/copy-api-token)
+{% content-ref url="copy-api-token.md" %}
+[copy-api-token.md](copy-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/delete-api-token" %}
-[Delete API Token](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/delete-api-token)
+{% content-ref url="delete-api-token.md" %}
+[delete-api-token.md](delete-api-token.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/enable-or-disable-api-token" %}
-[Enable or Disable API Token](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/api-tokens/enable-or-disable-api-token)
+{% content-ref url="enable-or-disable-api-token.md" %}
+[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
 {% endcontent-ref %}

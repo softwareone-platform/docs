@@ -38,30 +38,26 @@ By default, the buyer associated with the agreement is set as the **Owner** buye
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers" %}
-[How to Split Billing Across Buyers](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers)
+{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md" %}
+[how-to-split-billing-across-buyers.md](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/configure-buyers-for-split-billing" %}
-[Configure Buyers for Split Billing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/configure-buyers-for-split-billing)
+{% content-ref url="set-up-split-billing-allocation.md" %}
+[set-up-split-billing-allocation.md](set-up-split-billing-allocation.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/set-up-split-billing-allocation" %}
-[Set Up Split Billing Allocation](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/set-up-split-billing-allocation)
+{% content-ref url="edit-split-billing.md" %}
+[edit-split-billing.md](edit-split-billing.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/edit-split-billing" %}
-[Edit Split Billing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/edit-split-billing)
+{% content-ref url="split-billing-for-change-orders.md" %}
+[split-billing-for-change-orders.md](split-billing-for-change-orders.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/split-billing-for-change-orders" %}
-[Split Billing for Change Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/split-billing-for-change-orders)
+{% content-ref url="review-split-billing-configuration.md" %}
+[review-split-billing-configuration.md](review-split-billing-configuration.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/review-split-billing-configuration" %}
-[Review Split Billing Configuration](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/review-split-billing-configuration)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/specify-po-numbers-for-split-billing" %}
-[Specify PO Numbers for Split Billing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/specify-po-numbers-for-split-billing)
+{% content-ref url="specify-po-numbers-for-split-billing.md" %}
+[specify-po-numbers-for-split-billing.md](specify-po-numbers-for-split-billing.md)
 {% endcontent-ref %}

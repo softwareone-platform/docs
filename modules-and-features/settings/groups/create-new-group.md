@@ -44,18 +44,18 @@ The **Buyers** section is enabled only if you've selected the **Marketplace** mo
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups" %}
-[Groups](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups/edit-group" %}
-[Edit Group](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups/edit-group)
+{% content-ref url="edit-group.md" %}
+[edit-group.md](edit-group.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups/delete-group" %}
-[Delete Group](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups/delete-group)
+{% content-ref url="delete-group.md" %}
+[delete-group.md](delete-group.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups/restrict-group-to-certain-buyers" %}
-[Restrict Group to Certain Buyers](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/groups/restrict-group-to-certain-buyers)
+{% content-ref url="restrict-group-to-certain-buyers.md" %}
+[restrict-group-to-certain-buyers.md](restrict-group-to-certain-buyers.md)
 {% endcontent-ref %}

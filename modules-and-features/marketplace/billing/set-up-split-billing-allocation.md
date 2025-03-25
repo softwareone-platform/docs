@@ -65,26 +65,26 @@ Allocation percentages can be modified using the **Edit split billing** dialog. 
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing" %}
-[Billing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/configure-buyers-for-split-billing" %}
-[Configure Buyers for Split Billing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/configure-buyers-for-split-billing)
+{% content-ref url="configure-buyers-for-split-billing.md" %}
+[configure-buyers-for-split-billing.md](configure-buyers-for-split-billing.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/edit-split-billing" %}
-[Edit Split Billing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/edit-split-billing)
+{% content-ref url="edit-split-billing.md" %}
+[edit-split-billing.md](edit-split-billing.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/split-billing-for-change-orders" %}
-[Split Billing for Change Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/split-billing-for-change-orders)
+{% content-ref url="split-billing-for-change-orders.md" %}
+[split-billing-for-change-orders.md](split-billing-for-change-orders.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/review-split-billing-configuration" %}
-[Review Split Billing Configuration](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/review-split-billing-configuration)
+{% content-ref url="review-split-billing-configuration.md" %}
+[review-split-billing-configuration.md](review-split-billing-configuration.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/specify-po-numbers-for-split-billing" %}
-[Specify PO Numbers for Split Billing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing/specify-po-numbers-for-split-billing)
+{% content-ref url="specify-po-numbers-for-split-billing.md" %}
+[specify-po-numbers-for-split-billing.md](specify-po-numbers-for-split-billing.md)
 {% endcontent-ref %}

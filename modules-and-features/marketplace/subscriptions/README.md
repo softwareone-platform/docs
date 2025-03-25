@@ -48,7 +48,7 @@ From the details page, you can complete the following tasks:&#x20;
 The subscription details page displays all information for a subscription, such as name, renewal date, price, and more. The details page contains the following tabs:
 
 * **Items** - Displays the details of the ordered items, which include the name, quantity, and pricing.
-* **Parameters** - Displays the fulfillment parameters linked to the subscription. The parameter information varies depending on the parameters enabled by the vendor.
+* **Parameters** - Displays the fulfilment parameters linked to the subscription. The parameter information varies depending on the parameters enabled by the vendor.
 * **Entities** - Displays the entities linked to the subscription and their details. Entities include licensees, buyers, and sellers.&#x20;
 * **Split billing** - Displays the split billing information for the subscription. This tab is displayed only if split billing has been enabled for the agreement. You can view the split billing buyers and the allocation for each buyer. To update the buyer allocation details, use the **Edit** option. For details, see [Edit Split Billing](../billing/edit-split-billing.md).
 * **Orders** - Displays the different types of orders associated with the subscription, including purchase orders, change orders, and termination orders. For each order, you can see the order detail and status. Clicking an order opens the order details page.&#x20;
@@ -57,18 +57,18 @@ The subscription details page displays all information for a subscription, such 
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/subscription-states" %}
-[Subscription States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/subscription-states)
+{% content-ref url="subscription-states.md" %}
+[subscription-states.md](subscription-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/rename-a-subscription" %}
-[Edit Subscription Name](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/rename-a-subscription)
+{% content-ref url="rename-a-subscription.md" %}
+[rename-a-subscription.md](rename-a-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/edit-subscription-id" %}
-[Edit Subscription ID](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/edit-subscription-id)
+{% content-ref url="edit-subscription-id.md" %}
+[edit-subscription-id.md](edit-subscription-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/terminate-a-subscription" %}
-[Terminate Subscription](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/terminate-a-subscription)
+{% content-ref url="terminate-a-subscription.md" %}
+[terminate-a-subscription.md](terminate-a-subscription.md)
 {% endcontent-ref %}

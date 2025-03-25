@@ -1,14 +1,14 @@
 # Other Tools
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/other-tools/collaboration-site" %}
-[Collaboration Site](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/other-tools/collaboration-site)
+{% content-ref url="collaboration-site.md" %}
+[collaboration-site.md](collaboration-site.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/other-tools/dashboards" %}
-[Dashboards](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/other-tools/dashboards)
+{% content-ref url="dashboards.md" %}
+[dashboards.md](dashboards.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/other-tools/reports" %}
-[Reports](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/other-tools/reports)
+{% content-ref url="reports/" %}
+[reports](reports/)
 {% endcontent-ref %}
 

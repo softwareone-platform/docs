@@ -6,26 +6,26 @@ The module also contains your agreements, orders, requests, and subscriptions al
 
 To learn more, see any of the following links:
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements" %}
-[Agreements](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements)
+{% content-ref url="agreements/" %}
+[agreements](agreements/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing" %}
-[Billing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/billing)
+{% content-ref url="billing/" %}
+[billing](billing/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders" %}
-[Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders)
+{% content-ref url="orders/" %}
+[orders](orders/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/products" %}
-[Products](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/products)
+{% content-ref url="products.md" %}
+[products.md](products.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests" %}
-[Requests](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/requests)
+{% content-ref url="requests/" %}
+[requests](requests/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions" %}
-[Subscriptions](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions)
+{% content-ref url="subscriptions/" %}
+[subscriptions](subscriptions/)
 {% endcontent-ref %}

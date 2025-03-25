@@ -21,22 +21,18 @@ License keys can only be viewed and copied, not downloaded.
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements" %}
-[Agreements](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements)
+{% content-ref url="agreement-states.md" %}
+[agreement-states.md](agreement-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/agreement-states" %}
-[Agreement States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/agreement-states)
+{% content-ref url="terminate-agreements.md" %}
+[terminate-agreements.md](terminate-agreements.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/terminate-agreements" %}
-[Terminate Agreement](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/terminate-agreements)
+{% content-ref url="rename-an-agreement.md" %}
+[rename-an-agreement.md](rename-an-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/rename-an-agreement" %}
-[Rename Agreement](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/rename-an-agreement)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/edit-agreement-id" %}
-[Edit Agreement ID](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/edit-agreement-id)
+{% content-ref url="edit-agreement-id.md" %}
+[edit-agreement-id.md](edit-agreement-id.md)
 {% endcontent-ref %}

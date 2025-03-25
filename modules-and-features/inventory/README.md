@@ -4,26 +4,27 @@ description: Manage your inventory of invoices, agreements, software assets, and
 
 # Inventory
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/invoices" %}
-[Invoices](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/invoices)
+{% content-ref url="invoices.md" %}
+[invoices.md](invoices.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/license-agreements" %}
-[License Agreements](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/license-agreements)
+{% content-ref url="license-agreements.md" %}
+[license-agreements.md](license-agreements.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-downloads" %}
-[Software Downloads](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-downloads)
+{% content-ref url="software-downloads.md" %}
+[software-downloads.md](software-downloads.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/orders" %}
-[Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/orders)
+{% content-ref url="orders.md" %}
+[orders.md](orders.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/quotes" %}
-[Quotes](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/quotes)
+{% content-ref url="quotes/" %}
+[quotes](quotes/)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets" %}
-[Software Assets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets)
+{% content-ref url="software-assets/" %}
+[software-assets](software-assets/)
 {% endcontent-ref %}
+

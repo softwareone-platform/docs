@@ -19,22 +19,18 @@ Follow these steps to update the agreement name:
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements" %}
-[Agreements](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements)
+{% content-ref url="agreement-states.md" %}
+[agreement-states.md](agreement-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/agreement-states" %}
-[Agreement States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/agreement-states)
+{% content-ref url="terminate-agreements.md" %}
+[terminate-agreements.md](terminate-agreements.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/terminate-agreements" %}
-[Terminate Agreement](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/terminate-agreements)
+{% content-ref url="edit-agreement-id.md" %}
+[edit-agreement-id.md](edit-agreement-id.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/edit-agreement-id" %}
-[Edit Agreement ID](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/edit-agreement-id)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/view-and-download-attachments" %}
-[View and Download Attachments](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/agreements/view-and-download-attachments)
+{% content-ref url="view-and-download-attachments.md" %}
+[view-and-download-attachments.md](view-and-download-attachments.md)
 {% endcontent-ref %}

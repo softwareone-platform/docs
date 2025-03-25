@@ -58,12 +58,6 @@ The Pending actions icon <img src="../../../.gitbook/assets/icon_pending_actions
 
 <figure><img src="../../../.gitbook/assets/interface_notifications.png" alt=""><figcaption><p>PLACEHOLDER ONLY: TO BE REPLACED WHEN AVAILABLE</p></figcaption></figure>
 
-### Notifications
-
-The Notifications icon<img src="../../../.gitbook/assets/notifications_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line">opens up the **Notifications** page where you can view your read and unread notifications, and update your notification preferences.&#x20;
-
-<figure><img src="../../../.gitbook/assets/interface_notifications.png" alt=""><figcaption><p>Notifications icon</p></figcaption></figure>
-
 ### Account selector and profile menu
 
 You can [switch accounts](switch-account.md) and [manage your profile](manage-profile.md) through the profile menu in the upper right. You can also sign out of your account using the **Sign out** option in the menu.
