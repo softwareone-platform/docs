@@ -1,5 +1,10 @@
 {
     "openapi": "3.0.1",
+    "servers": [
+        {
+          "url": "https://api.platform.softwareone.com/public"
+        }
+      ],
     "info": {
         "title": "Marketplace Platform REST API",
         "version": "1.0"
