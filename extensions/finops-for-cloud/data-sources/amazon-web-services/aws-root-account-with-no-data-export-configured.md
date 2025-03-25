@@ -110,7 +110,7 @@ After creating the Data Source, wait for AWS to generate the export and upload i
 
 ## Discovering resources <a href="#discover-resources" id="discover-resources"></a>
 
-FinOps for Cloud needs to have permissions configured in AWS for the user Data Source to correctly discover resources and display them under a respective section of the dashboard for the associated employee.
+FinOps for Cloud must have permissions configured in AWS for the data source to correctly discover resources and display them under a respective section of the dashboard.
 
 Make sure to include the following policy for FinOps to be able to parse EC2 resource data:
 
@@ -119,7 +119,7 @@ Make sure to include the following policy for FinOps to be able to parse EC2 res
     "Version": "2012-10-17",
     "Statement": [
         {
-            "Sid": "OptScaleOperations",
+            "Sid": "FinOpsforCloudOperations",
             "Effect": "Allow",
             "Action": [
                 "s3:GetBucketPublicAccessBlock",
@@ -142,13 +142,13 @@ Make sure to include the following policy for FinOps to be able to parse EC2 res
 }
 ```
 
-Your AWS Data Source should now be ready for integration with FinOps for Cloud. Contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md) if you have any questions regarding the configuration flow.
+Your AWS Data Source is ready for integration with FinOps for Cloud.
 
 ## Creating data export manually in AWS <a href="#create-data-export-in-aws-manually" id="create-data-export-in-aws-manually"></a>
 
 To utilize automatic or manual billing data import in FinOps, you must create a Data Export in AWS. To learn about Data Exports, see [What is AWS Data Exports?](https://docs.aws.amazon.com/cur/latest/userguide/what-is-data-exports.html)&#x20;
 
-To create a Data Export, navigate to AWS Billing and Cost Management console > Data Exports. Choose **Create Export**.
+To create a Data Export, navigate to **AWS Billing and Cost Management** > **Data Exports**. Choose **Create Export**.
 
 <details>
 
@@ -217,4 +217,4 @@ Step 6. Review
 
 </details>
 
-When the data export is created, follow the instructions in [AWS Root Account with Data Export Already Configured.](aws-root-account-with-data-export-already-configured.md)
+After the data export is created, follow the instructions in [AWS Root Account with Data Export Already Configured.](aws-root-account-with-data-export-already-configured.md)

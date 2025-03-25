@@ -1,8 +1,8 @@
-# FinOps for Cloud Interface
+# Interface
 
 FinOps for Cloud is split into different sections for ease of navigation and usability:
 
-<figure><img src="../../../.gitbook/assets/finOps_UI.png" alt=""><figcaption><p>FinOps for Cloud UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/finOps_UI.png" alt=""><figcaption><p>FinOps for Cloud Interface</p></figcaption></figure>
 
 ## Sidebar
 

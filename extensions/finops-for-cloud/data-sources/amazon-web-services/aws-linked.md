@@ -23,7 +23,7 @@ Make sure to include the following policy for FinOps to parse EC2 resource data:
     "Version": "2012-10-17",
     "Statement": [
         {
-            "Sid": "OptScaleOperations",
+            "Sid": "FinOpsforCloudOperations",
             "Effect": "Allow",
             "Action": [
                 "s3:GetBucketPublicAccessBlock",
@@ -46,4 +46,4 @@ Make sure to include the following policy for FinOps to parse EC2 resource data:
 }
 ```
 
-Your AWS Data Source should now be ready for integration with FinOps for Cloud. Contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md) if you have any questions regarding the configuration flow.
+Your AWS Data Source is ready for integration with FinOps for Cloud.

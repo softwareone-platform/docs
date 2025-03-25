@@ -222,7 +222,7 @@
   * [Pools](extensions/finops-for-cloud/pools/README.md)
     * [Add Assignment Rules](extensions/finops-for-cloud/pools/add-assignment-rules.md)
     * [Re-apply Ruleset](extensions/finops-for-cloud/pools/re-apply-ruleset.md)
-    * [Delete a Pool](extensions/finops-for-cloud/pools/delete-a-pool.md)
+    * [Delete Pools](extensions/finops-for-cloud/pools/delete-a-pool.md)
     * [Pool Constraint Policies](extensions/finops-for-cloud/pools/pool-constraint-policies.md)
   * [Cost Explorer](extensions/finops-for-cloud/cost-explorer.md)
   * [Anomaly Detection](extensions/finops-for-cloud/anomaly-detection/README.md)

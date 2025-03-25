@@ -22,7 +22,7 @@ Make sure that data export is configured for your cloud account. If data export 
 
 {% stepper %}
 {% step %}
-#### Update bucket policy
+### Update bucket policy
 
 1. Navigate to the **Permissions** tab of your AWS S3 bucket and select **Bucket Policy**.
 2. Replace `<bucket_name>` with the name of the bucket.
@@ -67,7 +67,7 @@ Make sure that data export is configured for your cloud account. If data export 
 {% endstep %}
 
 {% step %}
-Create a user policy for read-only access
+### Create a user policy for read-only access
 
 1. Go to **Identity and Access Management (IAM)** > **Policies**.
 2. Create a new user policy for read-only access to the bucket (`<bucket_name>` must be replaced in the policy):
@@ -111,7 +111,7 @@ Create a user policy for read-only access
 {% endstep %}
 
 {% step %}
-Create user and grant policies
+### Create user and grant policies
 
 1. Go to **Identity and Access Management (IAM)** > **Users** to create a new user.
 
@@ -126,11 +126,11 @@ Create user and grant policies
 
 <figure><img src="../../../../.gitbook/assets/aws_create_access_key.png" alt=""><figcaption></figcaption></figure>
 
-5. Download or copy the access key and secret access key. Use these keys when connecting a data source as the AWS Access Key ID and AWS Secret Access Key, respectively (at step 5).
+5. Download or copy the access key and secret access key. Use these keys when connecting a data source as the AWS Access Key ID and AWS Secret Access Key.
 {% endstep %}
 
 {% step %}
-Create Data Source in FinOps for Cloud:
+### Create Data Source in FinOps for Cloud:
 
 1. Open FinOps for Cloud and register as a new user.&#x20;
 2. Sign in as a registered user.
@@ -163,7 +163,7 @@ Make sure to include the following policy for FinOps for Cloud to be able to par
     "Version": "2012-10-17",
     "Statement": [
         {
-            "Sid": "OptScaleOperations",
+            "Sid": "FinOpsforCloudOperations",
             "Effect": "Allow",
             "Action": [
                 "s3:GetBucketPublicAccessBlock",

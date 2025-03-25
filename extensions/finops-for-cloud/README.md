@@ -1,24 +1,24 @@
 # FinOps for Cloud
 
-## Overview <a href="#about-optscale" id="about-optscale"></a>
+FinOps for Cloud is a platform designed to enhance the cloud usage experience by providing detailed insights and management capabilities without actively interfering with processes in your environment. The platform requires Read-Only rights for the connected cloud account, which serves as the primary data source for all recommendations and analyses.
 
-To be added
+FinOps for Cloud utilizes billing information, resource state monitoring, and cloud monitoring data to provide actionable recommendations for optimizing cloud resource usage and reducing costs. The platform performs resource discovery using APIs from cloud providers like AWS and Microsoft Azure, ensuring that all resources are accounted for and managed effectively.
+
+With FinOps for Cloud, you can explore and analyze your cloud expenses, monitor resource usage, and implement policies to ensure efficient and cost-effective cloud management. The platform's user-friendly interface and robust features empower organizations to achieve greater visibility and control over cloud infrastructure, enabling smarter decision-making and improved financial planning.
 
 ## How it works
 
-FinOps for Cloud focuses on improving the cloud usage experience without actively interfering with processes in your environment.&#x20;
-
-It requires **Read-Only** rights for the connected cloud account, which serves as the primary Data Source for all recommendations. The following data is utilized:
+FinOps for Cloud requires **Read-Only** rights for the connected cloud account, which serves as the primary data source for all recommendations. The following data is utilized:
 
 * Billing information - all details regarding cloud expenses.
-* The state of resources (for actively discoverable types) in the cloud. This is essential for implementing [constraints like TTL and Expense limits](resources/resources-constraint-policies.md) and [Recommendations](recommendations/).
+* The state of resources (for actively discoverable types) in the cloud. This is essential for implementing [constraints like TTL, Expense limits](resources/resources-constraint-policies.md), and [Recommendations](recommendations/).
 * The monitoring data from the cloud is used to identify underutilized instances.
 
 {% tabs %}
 {% tab title="Amazon Web Services (AWS)" %}
-The billing information is retrieved from the Data Exports located in a designated S3 bucket in the cloud. See [GetObject](https://docs.aws.amazon.com/AmazonS3/latest/API/API_GetObject.html) in AWS documentation to see how it works.
+The billing information is retrieved from the Data Exports located in a designated S3 bucket in the cloud. See [GetObject](https://docs.aws.amazon.com/AmazonS3/latest/API/API_GetObject.html) in the AWS documentation to see how it works.
 
-Amazon Cloud Watch is used as the source of monitoring data. For more details, see [Automatic billing data import in AWS](data-sources/amazon-web-services/aws-root-account-with-data-export-already-configured.md#automatic-billing-data-import-in-aws).
+Amazon Cloud Watch is the source of monitoring data. For more details, see [Automatic billing data import in AWS](data-sources/amazon-web-services/aws-root-account-with-data-export-already-configured.md#automatic-billing-data-import-in-aws).
 
 Resource discovery is done using the Discovery API. For reference, see the following pages in AWS documentation:
 

@@ -8,7 +8,7 @@ Open the invitation email and follow these steps to complete the sign-in process
 2. On the sign-up page, enter your first and last name and choose a password for your account.&#x20;
 3. Retype the password in the **Confirm password** field and click **Register**. You'll receive a verification code by email.
 
-<figure><img src="../../.gitbook/assets/finOps_login.png" alt=""><figcaption><p>Sign in page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Sign in page</p></figcaption></figure>
 
 4. Enter the confirmation code on the sign-in page and click **Confirm**. You'll be signed in to the tool.&#x20;
 

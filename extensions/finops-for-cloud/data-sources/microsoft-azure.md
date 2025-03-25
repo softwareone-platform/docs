@@ -44,5 +44,5 @@ Once the required fields are filled out, click **Connect** to validate the infor
 4. In **Add role assignment**, complete the following steps:
    1. On the **Role** tab, select **Reader** and click **Next**.
    2. On the **Members** tab, make sure that **User, group, or service principal** is selected. Click **Next.**
-   3. The third field should contain the name of a registered application from the previous steps, for example, _OptScale_. Click **Next.**
+   3. The third field should contain the name of a registered application from the previous steps, for example, _FinOps_. Click **Next.**
    4. On the **Review + assign** tab, review the role assignment settings and click **Review + assign** to assign the role.

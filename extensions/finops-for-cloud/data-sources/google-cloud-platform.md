@@ -80,7 +80,7 @@ Use these steps to create a service account:
 1. From your GCP console, select [Service Accounts ](https://console.cloud.google.com/iam-admin/serviceaccounts)in the left-hand menu and click **Create Service Account**.
 2. Enter a service account name and optionally, enter a description of the service account.
 3. Click **Create and continue**.
-4. Select the [role that you created](google-cloud-platform.md#prepare-a-role-for-optscale) and click **Continue**.
+4. Select the [role you created](google-cloud-platform.md#prepare-a-role-for-optscale) and click **Continue**.
 5. Click **Done**.
 
 ## Generating an API key for your service account <a href="#generate-api-key-for-your-service-account" id="generate-api-key-for-your-service-account"></a>
@@ -95,6 +95,6 @@ The service account API key will be downloaded as a JSON file. Use this file whe
 
 ## Connecting the data source in FinOps for Cloud <a href="#connect-data-source-in-optscale" id="connect-data-source-in-optscale"></a>
 
-Use the newly downloaded service account credentials JSON file with the billing dataset details to connect your GCP cloud account. Then, click **Connect** to complete the setup.
+Use the newly downloaded service account credentials JSON file with the billing dataset details to connect your GCP cloud account. Next, click **Connect** to complete the setup.
 
 <figure><img src="../../../.gitbook/assets/GCP.png" alt=""><figcaption><p>Google Cloud data source</p></figcaption></figure>
