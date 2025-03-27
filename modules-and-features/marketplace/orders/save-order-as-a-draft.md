@@ -20,7 +20,7 @@ Once you save an order as a draft, you can return to it anytime to complete the 
 
 ## Saving a purchase order as a draft
 
-The Purchase wizard allows you to save a purchase order as a draft. To do this, follow these steps:
+To save your order as a draft during the ordering process:
 
 1. Go to the **Products** page (**Marketplace** > **Products**) and select the product you wish to buy.
 2. On the product details page, click **Buy now**. The ordering process begins.

@@ -6,7 +6,7 @@ When creating groups, you can choose all the modules you want to enable for the 
 
 ## Creating a new group
 
-Follow these steps to create a new group:
+To create a new group:
 
 1. On the **Groups** page (**Settings** > **Groups**) click **Add**. The **Add group** page opens.&#x20;
 2. Provide the following details and click **Next**:

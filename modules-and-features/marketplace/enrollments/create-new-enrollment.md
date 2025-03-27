@@ -2,18 +2,18 @@
 
 The **Programs** page in the Marketplace Platform displays all active programs available for enrollment.&#x20;
 
-To enroll in a program, you'll need to create an enrollment request and include your organization's name, email address, and company's website URL in the request. Your request will then be submitted to the vendor for approval.
+To enroll in a program, you'll need to create an enrollment request and include your organization's name, email address, and website URL in the request. Your request will then be submitted to the vendor for approval.
 
 ## Creating a new enrollment request
 
-Follow these steps to create a new enrollment request:
+To create a new enrollment request:
 
 1. On the **Programs** page, select the program you wish to enroll in. The program's details page opens.
 2. On the **Certificates** tab, click **Add**.
 
 <figure><img src="../../../.gitbook/assets/add_certificate.png" alt=""><figcaption><p>Add option on the certificates tab</p></figcaption></figure>
 
-3. In the **Add certificate** wizard, do the following:&#x20;
+3. In **Add certificate**, do the following:&#x20;
    1. Select a certificant from the list.
    2.  Choose **Request new certificate**.&#x20;
 

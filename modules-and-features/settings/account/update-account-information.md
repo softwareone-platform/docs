@@ -10,7 +10,7 @@ See [Manage your profile](https://docs.platform.softwareone.com/marketplace-plat
 
 ## Updating your account details
 
-Follow these steps to update your details:
+To update your account details:
 
 1. On the **Account** page (**Settings** > **Account**), click **Edit** in the upper right. The **Edit account** wizard launches.
 
@@ -28,7 +28,7 @@ Follow these steps to update your details:
    * **Address line 2** - Enter additional details or secondary address information.
    * **City** - Enter the city for your address.
    * **State/region** - Select the state or region for your address.
-   * **ZIP/postcode** - Enter the zip or postal code for your address.
+   * **ZIP/postcode** - Enter the ZIP or postal code for your address.
    * **Country** - Select the country for your address.
 5. Click **Save**. A message is displayed stating that your account settings have been updated.
 

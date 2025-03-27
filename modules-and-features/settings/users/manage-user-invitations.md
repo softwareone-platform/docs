@@ -8,7 +8,7 @@ For example, you can reinvite the person if they didn't receive the invitation e
 
 If the person you invited didn't receive the invitation email or has difficulty accepting your invitation, you can share the invite link with them directly, or send the invitation email again.
 
-Follow these steps to reinvite a user to your account:
+To reinvite a user to your account:
 
 1. On the **Users** page (**Settings** > **Users**), find the user you wish to reinvite.
 2. Click the actions icon (**•••**) and do the following:
@@ -31,7 +31,7 @@ Follow these steps only if the individual's invitation has expired and they see 
 If the original invitation is still valid, you can resend the original invitation or copy the invite as a link and share it with the person directly.
 {% endhint %}
 
-Follow these steps to send a new invitation email:
+To send a new invitation email:
 
 1. On the **Users** page (**Settings** > **Users**), find the required user.
 2. Click the actions icon (**•••**) and select **Send new invitation**. A new invitation email is sent to the individual and a confirmation message is displayed.

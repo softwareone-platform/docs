@@ -6,7 +6,7 @@ Attachments can include PDFs as well as your license keys. The same attachments 
 
 ## Viewing and downloading attachments
 
-Follow these steps to view and download attachments:&#x20;
+To view and download attachments:&#x20;
 
 1. Open the required agreement.&#x20;
 2. Select the **Attachments** tab. All files relevant to the agreement are displayed.&#x20;

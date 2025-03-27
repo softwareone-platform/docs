@@ -10,7 +10,7 @@ Make sure that the file you want to upload is in one of these formats: `.pdf`, `
 
 ## Adding an attachment&#x20;
 
-Follow these steps to add a file to your request:&#x20;
+To add a file to your request:&#x20;
 
 1. On the **Requests** page (**Marketplace** > **Requests**), click the required request. The request details page is displayed.
 2. Select the **Attachments** tab and click **Add**.&#x20;

@@ -8,7 +8,7 @@ After completing the required steps, click **Process** to update the order statu
 
 ## Changing your order's status to Processing
 
-Follow these steps to move your order from **Querying** to **Processing**:
+To move your order from **Querying** to **Processing**:
 
 1. Open the purchase order in the **Querying** state. If you have several orders, use the [search bar](../../../marketplace-platform/getting-started/interface/#search) or [filters](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md) to find the required order.
 2. Review the information on the **General** tab. The following example shows that there's an issue with the parameters and they must be updated through the **Parameters** tab.

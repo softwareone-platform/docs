@@ -12,7 +12,7 @@ There are two ways to contact Marketplace Platform support.
 
 You can reach out to us via email at [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com) or by creating a ticket through your account. To ensure we can assist you effectively, please write to us in English.
 
-To create a support ticket from your account, follow these steps:
+To create a support ticket from your account:
 
 1. [Sign in to your account](https://portal.platform.softwareone.com).&#x20;
 2. Click the **Help** icon <img src="../.gitbook/assets/image (1145).png" alt="" data-size="line"> in the header and select **Support**. The **Help and Support** page opens.

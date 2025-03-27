@@ -13,7 +13,7 @@ Before terminating an agreement, note the following points:
 
 ## Terminating an agreement
 
-Follow these steps to terminate an agreement:
+To terminate an agreement:
 
 1. On the **Agreements** page (**Marketplace** > **Agreements**), locate the agreement to terminate.&#x20;
 2. Click the agreement name. The details page of your selected agreement opens.

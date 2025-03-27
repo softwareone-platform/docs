@@ -2,7 +2,7 @@
 
 The Marketplace Platform is a SaaS application with three user interfaces, each catering to specific user types. These interfaces ensure that all [actors](../key-concepts.md#platform-actors) can interact with the platform according to their specific requirements.&#x20;
 
-The platform provides three distinct user interfaces namely, the Client Portal, Vendor Portal, and Operations Portal.&#x20;
+The platform provides three distinct user interfaces, namely the Client Portal, Vendor Portal, and Operations Portal.&#x20;
 
 <figure><img src="../../../.gitbook/assets/marketplace_platform.png" alt=""><figcaption><p>Marketplace Platform</p></figcaption></figure>
 

@@ -4,7 +4,7 @@ After the vendor or SoftwareOne has addressed your request, you may close it. Cl
 
 ## Closing a request
 
-Follow these steps to close your request:
+To close a request:
 
 1. On the **Requests** page (**Marketplace** > **Requests**), select the required request. The request details page is displayed.
 2. Click the down arrow next to **Process** and select **Complete**.&#x20;

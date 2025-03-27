@@ -4,7 +4,7 @@ The Marketplace Platform lets you create API tokens through the user interface (
 
 ## Creating an API token
 
-Follow these steps to create a token:
+To create a token:
 
 1. On the **API token** page (**Settings** > **API tokens**), click **Add**. The **Add API token** page opens.
 

@@ -4,7 +4,7 @@ You can update an API token’s description and change the access scope through 
 
 ## Editing an API token
 
-Follow these steps to update the token details
+To update the token details
 
 1. On the **API token** page (**Settings** > **API tokens**), find the token you want to update.&#x20;
 2. Do one of the following:

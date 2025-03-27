@@ -14,7 +14,7 @@ Before adding an individual to your account, note the following points:
 
 ## Adding a new user to your account
 
-Follow these steps to add a new user:
+To add a new user:
 
 1. On the **Users** page (**Settings** > **Users**), click **Add**. The **Add user** page opens.&#x20;
 

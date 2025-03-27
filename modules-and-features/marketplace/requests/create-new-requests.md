@@ -6,10 +6,10 @@ You can contact a vendor only if the vendor has enabled the option. If the optio
 
 ## Creating a new request
 
-Follow these steps to create a new request:
+To create a new request:
 
-1. Navigate to the **Products** page (**Marketplace** > **Products**) and find the product you have queries about.&#x20;
-2. Click the option to contact the vendor. Alternatively, click the name of the product. When the details page of your selected product opens, click the contact option in the upper right.&#x20;
+1. On the **Products** page (**Marketplace** > **Products**), select the product you wish to inquire about.
+2. On the details page, select the option to contact the vendor.&#x20;
 
 <figure><img src="../../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>Contact Us option on the details page</p></figcaption></figure>
 
@@ -21,7 +21,7 @@ Follow these steps to create a new request:
 
 <figure><img src="../../../.gitbook/assets/image (981).png" alt=""><figcaption><p>Review request section</p></figcaption></figure>
 
-Your request is submitted and a **Processing** status is assigned to it. Click **View request** to view the request details page. Otherwise, click **Close**.
+Your request is submitted, and a **Processing** status is assigned to it. Click **View request** to view the request details page. Otherwise, click **Close**.
 
 ## Related topics
 

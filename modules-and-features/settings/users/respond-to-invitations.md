@@ -6,7 +6,7 @@ You must action the invitation after being invited to the platform.
 
 ## Accepting an invitation
 
-Follow these steps to accept the invitation:
+To accept the invitation:
 
 1. Click the invite link in your email. The following page is displayed:
 

@@ -4,7 +4,7 @@ You can easily copy an API token if you need to use it in your application.&#x20
 
 ## Copying an API token
 
-Follow these steps to copy a token:
+To copy a token:
 
 1. On the **API token** page (**Settings** > **API tokens**), find the token to copy.
 2. Click the token name. The details page of your selected token opens.

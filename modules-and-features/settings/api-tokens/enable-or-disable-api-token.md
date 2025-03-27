@@ -1,13 +1,13 @@
 # Enable or Disable API Token
 
-You can disable an API token temporarily and enable it again when required easily through the platform. Before disabling a token, note the following points:
+You can easily disable an API token temporarily and enable it again when required through the platform. Before disabling a token, note the following points:
 
 * Disabling doesn't [delete a token](delete-api-token.md) but makes it inactive until it's enabled again. When a token is disabled, any attempts to access the endpoint return an error.&#x20;
 * The **Enable** option is shown only if you've disabled the token previously.
 
 ## Enabling or disabling a token
 
-Follow these steps to enable or disable the token:
+To enable or disable a token:
 
 1. On the **API tokens** page, find the token you want to manage.&#x20;
 2. Click the actions icon (**•••**) and select **Enable** or **Disable**. The following image shows the **Disable** option:

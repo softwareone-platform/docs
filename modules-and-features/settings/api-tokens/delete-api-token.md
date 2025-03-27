@@ -7,7 +7,7 @@ If you no longer need a token, you can delete it using the **Delete** option on 
 
 ## Deleting an API token
 
-Follow these steps to delete a token:
+To delete a token:
 
 1. On the **API token** page (**Settings** > **API tokens**), find the token you want to delete.
 2. Click the actions icon (**•••**) and select **Delete**.&#x20;

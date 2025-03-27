@@ -9,7 +9,7 @@ Before changing the status of your request, note the following points:
 
 ## Changing a request's status to Processing
 
-Follow these steps to change the status of your request:
+To change the status of your request:
 
 1. On the **Requests** page (**Marketplace** > **Requests**), select the required request. The request details page is displayed.
 2. Make changes as necessary and then click **Process**.&#x20;

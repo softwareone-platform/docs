@@ -1,17 +1,17 @@
 # Manage Your Profile
 
-Your profile page contains basic information about your account, including your account name, first and last name, profile photo, and email address. It also shows your language and date preferences.&#x20;
+Your profile page shows all the information associated with your account, including your name, email address, and other preferences.
 
-You can access your profile and make changes as necessary through the **My profile** option. To access the option click your profile menu in the upper right and select **My profile**. This will open your profile overview page.
+To view this page, select your profile menu in the upper right and choose **My profile**.&#x20;
 
-Your profile settings are organized by tabs:
+Your profile configuration is organized by tabs:
 
-* **General** - Displays your general details, such as name and phone number, and account preferences.
-* **Accounts** - Displays the accounts and groups you belong to. Your account type is also displayed.
-* **Notification preferences** - Allows you to update your notification preferences. See [Manage Notification Preferences](manage-notification-preferences.md) for details.
-* **Messages** - Displays all email messages that have been triggered for your profile. Clicking **Details** in the **Actions d**isplays the **Message details** page, where you can view the general information, the full content of the email, file attachments, and associated time and date details.
-* **Details** - Displays all events that have taken place within your account.
-* **Audit trail** - Displays a detailed record of each event in your account. To learn more, see [Audit Trail](../../../modules-and-features/settings/audit-trail.md).&#x20;
+* **General** - Displays general account details, such as name and phone number, and other preferences.
+* **Accounts** - Displays all the accounts and groups you belong to. The account type is also displayed.
+* **Notification preferences** - Displays the notification categories and allows you to manage your notification emails by enabling or disabling a category.
+* **Messages** - Displays all email messages that have been triggered for your profile. You can view detailed information for a message by selecting **Details** in the **Actions** column.
+* **Details** - Displays all events that have taken place within your account, along with the date and time information for those events.
+* **Audit trail** - Displays a detailed record of each event. To learn more, see [Audit Trail](../../../modules-and-features/settings/audit-trail.md).&#x20;
 
 ## Update your profile settings <a href="#update-your-profile-settings" id="update-your-profile-settings"></a>
 
@@ -52,7 +52,7 @@ Click to see the supported languages.
 </details>
 {% endhint %}
 
-Follow these steps to update your profile:
+To update your profile:
 
 1. On your profile overview page, click **Edit** in the upper right. The **Edit user** page opens.
 2. Change the **General** settings as necessary:
@@ -64,4 +64,4 @@ Follow these steps to update your profile:
 3. Update your **Preferences** as necessary:
    * **Language** - Choose your language preference.
    * **Regional settings** - Select the date format you want to use.
-4. Click **Save**. A message is displayed stating your profile has been updated successfully.
+4. Select **Save**. A message is displayed stating your profile has been updated successfully.

@@ -6,7 +6,7 @@ IDs can only be changed for the **Active**, **Updating**, **Terminated**, and **
 
 ## Editing a subscription's ID
 
-Follow these steps to update a subscription's ID:
+To update a subscription's ID:
 
 1. On the **Subscriptions** page (**Marketplace** > **Subscriptions**), click the subscription you want to update. The subscription details page opens.
 2. Select the **Details** tab and then click **Edit**.&#x20;
@@ -33,5 +33,5 @@ Follow these steps to update a subscription's ID:
 {% endcontent-ref %}
 
 {% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/terminate-a-subscription" %}
-[Terminate Subscription](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/terminate-a-subscription)
+[Terminate Subscriptions](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/subscriptions/terminate-a-subscription)
 {% endcontent-ref %}

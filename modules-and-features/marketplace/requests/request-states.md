@@ -2,7 +2,7 @@
 
 The following diagram shows the possible states of a request created through the platform and the transition between various states:
 
-<figure><img src="../../../.gitbook/assets/image (1054).png" alt=""><figcaption><p>Request state transition</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/state_diagram_request.png" alt=""><figcaption><p>Request state transition</p></figcaption></figure>
 
 These states are displayed as **Status** within the platform. They are also displayed beside the request name and ID on the details page.
 

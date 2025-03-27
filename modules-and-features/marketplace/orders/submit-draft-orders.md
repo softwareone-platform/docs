@@ -6,7 +6,7 @@ When you submit a draft order, it will no longer remain as a draft and will move
 
 ## Submitting a draft order for processing
 
-Follow these steps to submit a draft order for processing:
+To submit a draft order for processing:
 
 1. Navigate to the **Orders** page and find the required draft order. If you have multiple orders, use one of the following methods to find draft orders.&#x20;
    * If you know the order number, use the [Search bar](../../../marketplace-platform/getting-started/interface/#search) to locate the order.&#x20;

@@ -4,7 +4,7 @@ If you have multiple certificates for the same vendor program, you can choose di
 
 ## Editing a certificate
 
-Follow these steps to edit a certificate's name:
+To edit a certificate's name:
 
 1. Navigate to the **Certificates** page (**Marketplace** > **Certificates**) on the platform.
 2. Select the certificate to be renamed.&#x20;

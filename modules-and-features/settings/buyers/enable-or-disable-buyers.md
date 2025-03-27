@@ -6,7 +6,7 @@ When you disable a buyer, the licensees associated with that buyer also become u
 
 ## Enabling or disabling a buyer
 
-Follow these steps to enable or disable a buyer:
+To enable or disable a buyer:
 
 1. On the **Buyers** page (**Settings** > **Buyers**), locate the buyer you want to manage.
 

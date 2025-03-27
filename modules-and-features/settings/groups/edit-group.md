@@ -10,11 +10,11 @@ Before editing a group, note the following points:
 
 ## Editing a group
 
-Follow these steps to edit a group:
+To edit a group:
 
 1. On the **Groups** page, locate the group you want to modify.&#x20;
 2. Click the actions icon (**•••**) for the group and select **Edit**. The **Edit group** page opens.
-3. Make the following changes as necessary:
+3. Make the following changes as relevant:
    * **General** - Update the group's name and description.
 
 <figure><img src="../../../.gitbook/assets/EditGroup.png" alt=""><figcaption><p>General section</p></figcaption></figure>

@@ -1,10 +1,10 @@
 # User States
 
-The Marketplace Platform supports various states (also known as status) for users in the system.&#x20;
+The Marketplace Platform supports various statuses for users in the system.&#x20;
 
 The following diagram shows the possible states and the transition between these states:
 
-<figure><img src="../../../.gitbook/assets/image-20230929-163355 (1).png" alt=""><figcaption><p>User state transition</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/state_diagram_user.png" alt=""><figcaption><p>User state transition</p></figcaption></figure>
 
 Note that the Marketplace Platform supports various account types, including vendor and client, so not all states might be visible to you.
 

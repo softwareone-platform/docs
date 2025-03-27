@@ -9,7 +9,7 @@ When adding a new message, note the following points:
 
 ## Adding a message to a request
 
-Follow these steps to add a new message:&#x20;
+To add a new message:&#x20;
 
 1. On the **Requests** page (**Marketplace** > **Requests**), select the required request. The request details page is displayed.
 2. On the **Activity** tab, click **Add message**. The Add message dialog box is displayed.

@@ -2,7 +2,7 @@
 
 A request in the Marketplace Platform represents a pre-sale inquiry. This can include queries about products, subscriptions, pricing, billing, product availability, and more.
 
-As a client, you can create new queries through the **Products** page and track your existing queries through the **Requests** page. The page displays all requests, including requests that are raised by other members of your account.&#x20;
+Client account users can create new requests through the **Products** page and track existing queries through the **Requests** page. The page displays all requests, including requests that are raised by other members in your account.&#x20;
 
 ## Requests interface
 

@@ -6,7 +6,7 @@ Before deleting a group, make sure to remove all members from the group. If the 
 
 ## Deleting an existing group
 
-Follow these steps to delete a group:
+To delete a group:
 
 1. On the **Groups** page, locate the group you want to delete.&#x20;
 

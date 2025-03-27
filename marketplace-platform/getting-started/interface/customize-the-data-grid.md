@@ -2,7 +2,7 @@
 
 The Marketplace Platform uses data grids to display data.&#x20;
 
-A data grid is a table with rows and columns and it contains several operations that allow you to customize the display of information.
+A data grid is a table with rows and columns, and it contains several operations that allow you to customize the display of information.
 
 You can sort and filter data, show or hide columns, adjust the column width, change the default rows per page, and more. This topic describes each of these tasks.
 
@@ -39,7 +39,7 @@ Follow these steps to create filters:
 1. Click the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M400-240v-80h160v80H400ZM240-440v-80h480v80H240ZM120-640v-80h720v80H120Z&#x22;/></svg>" data-size="line">**Filter** option in the grid.
 2. In the **Filters** box, click **Add another condition** and then define the conditions:
    1. Choose the required property.
-   2. Select the condition, such as, equal, contains, starts with, and so on.
+   2. Select the condition, such as equal, contains, starts with, and so on.
    3. Choose a value from the list of preconfigured values or type the keyword.
 3. If needed, click **Add another condition** to add another condition and combine those conditions using the AND or OR operators.&#x20;
    * **AND** - If you select this operator, the results are displayed only if both conditions are met.&#x20;
@@ -55,7 +55,7 @@ As you define filters, the data in the grid refreshes automatically. If the plat
 
 The <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAzlJREFUeF7tnDFuE0EUQP+44ARAjUQHB6ChIC03iCC2YoOzEgVHiHMFCrJCtsVacASUkjRUVJRIXABxBrLIIUaJxNr/79/1l+2XemZ+5r3582fX9iThL5RACo1OcEFA8CJAAAKCCQSHJwMQEEwgODwZgIBgAsHhyQAEBBMIDk8GICCYQHB4MgABwQSCw5MBCAgmEByeDEBAMIHg8GTApgs4OBw+Sp1ON4k8EJGHInIneE5th/8pkr6V6eK7XHTOZtPTM09AVwb0+tkzSfLB8w9sfN8kH4tx/rzuPGoL6A6yT0nkad3A29avmOS1WNbqdNDPXnaSvNs2iK75JHldjPM31jHMAvaHw9u3fne+isg9a7AdaP+4mORfLPM0C+i9ODqUMk0tQXalbSnydjbJX1nmaxfQPzqVlDJLkB1qe15M8j3LfO0CBtkPEblvCbJDbX8Vk/yuZb51BJTLAtQ5DfQG2WcReVI1bkqy936cn1sm1u1nxynJqKpPWcpoNs1PLGPO2/YGWaPzR4DRAAKUwMgAJairtGYL0vJqOgURoCV/1Q4BFGHVkqEGqDD9bcQx1Aar0XMwAgzw23gQQQACTASaPoTwJGzCz6sINS5OQWpUnIIMqJpPQYqwCT8CKMLKBUMNUIJiCzKA4kGs+S14m58DRinJcdX64iPJa2Raehm3SsDJbJpXfmZcJY4irNwyu/0MAUpWbb2ORgACVhPY5SJMDVisD4rw6kz516LpU0CLD2LUAK1XMkBLqoXvRpIBBvgb9iqCLUjrli1IS4otiK+na9cKryK0pNr7Zhw1QOuAGqAlRQ2gBmjXCjVAS4oaYCDFFsQWpF0u27wF8UPt6lWwhh9qc1XBsiRcw1UFXNZRKWAtl3VwXc3SKtT+dTXz8FzY9B8J67qwaRGaK8tuSqhzScl8BPO3Iq6H5dK+S4Ixl/YtRHBtZeC1ldqHItpVE3BtQYD1E0CAn6FrBAS48Pk7I8DP0DUCAlz4/J0R4GfoGgEBLnz+zgjwM3SNgAAXPn9nBPgZukZAgAufvzMC/AxdIyDAhc/fGQF+hq4REODC5++MAD9D1wgIcOHzd0aAn6FrBAS48Pk7/wFgPoCO+qZK/AAAAABJRU5ErkJggg==" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M121-280v-400q0-33 23.5-56.5T201-760h559q33 0 56.5 23.5T840-680v400q0 33-23.5 56.5T760-200H201q-33 0-56.5-23.5T121-280Zm79 0h133v-400H200v400Zm213 0h133v-400H413v400Zm213 0h133v-400H626v400Z&#x22;/></svg>" data-size="line">**Columns** selector in the data grid lets you show or hide a column. Using this option, you can view only the information you need and hide other columns from the page.&#x20;
 
-You can use the checkbox next to each column name to hide or display a column. If you've hidden a column, you can make it visible again by selecting the same checkbox. Note that some columns are shown by default and you cannot hide them.
+You can use the checkbox next to each column name to hide or display a column. If you've hidden a column, you can make it visible again by selecting the same checkbox. Note that some columns are shown by default, and you cannot hide them.
 
 <figure><img src="../../../.gitbook/assets/data_grid_columns.png" alt=""><figcaption><p>Columns selector in the grid</p></figcaption></figure>
 
@@ -77,7 +77,7 @@ If the data in the grid has changed, you can refresh the data to make sure you a
 
 By default, the Marketplace Platform displays 10 rows of data on a page.&#x20;
 
-You can change the default value by selecting another value from the **Rows per page** option in the lower-right side of the grid. You can choose to show 5, 10, 25, 50, or 100 rows per page.
+You can change the default value by selecting another value from the **Rows per page** option on the lower-right side of the grid. You can choose to show 5, 10, 25, 50, or 100 rows per page.
 
 <figure><img src="../../../.gitbook/assets/Rows.png" alt=""><figcaption><p>Rows selector in the grid</p></figcaption></figure>
 

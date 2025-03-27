@@ -6,7 +6,7 @@ Adding a certificate makes it available during the ordering process. When you ar
 
 ## Adding your existing certificate
 
-Follow these steps to add your existing certificate:&#x20;
+To add your existing certificate:&#x20;
 
 1. On the **Programs** page, select the desired program. The program's details page opens.
 2. On the **Certificates** tab, click **Add**.

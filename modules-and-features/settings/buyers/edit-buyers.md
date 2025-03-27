@@ -6,7 +6,7 @@ The information that you can update includes the contact person assigned to the 
 
 ## Editing a buyer <a href="#updating-buyer-information" id="updating-buyer-information"></a>
 
-Follow these steps to update buyer details:
+To update the buyer details in your account:
 
 1. On the **Buyers** page (**Settings** > **Buyer**), find the buyer to update.
 2. Click the buyer's name. When the details page of your selected buyer opens, click **Edit** in the upper right. The **Edit buyer** page opens.

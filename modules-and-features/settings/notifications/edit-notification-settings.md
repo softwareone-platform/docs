@@ -1,12 +1,12 @@
-# Edit Notification Settings
+# Customize Settings
 
-The **Settings** tab within the Notifications module lets you view and manage the account-level settings for your notifications. Only account administrators can access and update these settings.&#x20;
+The **Settings** tab within Notifications allows you to customize the settings of your notification emails, including the sender's name, the language of emails, and the email footer.
 
-The settings you define on this page are global, meaning they apply to all email notifications, regardless of the category. You can update details, such as the sender's name, the language of emails, and the email footer.
+The settings defined on this page are global, meaning they apply to all notification emails regardless of the category. For&#x20;
 
-## Editing notification settings
+## Customizing notification settings
 
-Follow these steps to update the notification settings for an email:
+Follow these steps to customize the notification settings:
 
 1. From the main menu, go to **Settings** > **Notifications** and select the **Settings** tab.&#x20;
 2. Click **Edit** in the upper right.

@@ -8,7 +8,7 @@ When renaming an agreement, ensure that the new name is not blank. Otherwise, th
 
 ## Renaming an agreement
 
-Follow these steps to update the agreement name:
+To update the agreement name:
 
 1. On the **Agreements** page (**Marketplace** > **Agreements**), locate the required agreement.
 2. Select the agreement you wish to rename. The details page of your selected agreement opens.

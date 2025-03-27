@@ -6,7 +6,7 @@ Using this option, you can only update the groups that the individual belongs to
 
 ## Editing a user's group membership
 
-Follow these steps to update a user's group membership:
+To update a user's group membership:
 
 1. On the **Users** page (**Settings** > **Users**), find the required user. You can [use filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data) to find the user based on their ID, name, email address, and other conditions.
 2. Click the actions icon (**•••**) and select **Edit**. The **Edit user** page opens.
