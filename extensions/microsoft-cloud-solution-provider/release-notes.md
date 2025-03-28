@@ -1,5 +1,17 @@
 # Release Notes
 
+## Release Date: 31 March 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
+
+### Support for Azure Reservations and Savings Plan <a href="#azure-reservations-and-savings-plans" id="azure-reservations-and-savings-plans"></a>
+
+In this release, we are introducing a new feature that allows you to purchase Azure reservations and savings plan directly through the Azure Portal. Reservations and savings plan help you save money by reducing your overall cloud spending.
+
+The new feature is only available for Azure subscriptions ordered through SoftwareOne. When you purchase these two cost-saving options, the charges for these are billed on the date associated with your Azure plan.
+
+Note that to buy reservations and savings plans from the Azure portal, you must have the Owner role on the subscription. To learn more, see [My order contains Azure reservations and savings plan items](faqs/my-order-contains-azure-reservations-and-savings-plan-items.md).
+
+***
+
 ## Release Date: 17 March 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 
 ### Coterminosity for NCE Subscriptions
@@ -54,7 +66,7 @@ Software products with one-time payments are not yet supported.
 
 The creation of new agreements for CSP products using the same CSP domain across multiple clients is now restricted.
 
-Additionally, creating additional agreements using the same CSP tenant, product, and licensee is also prohibited. If an agreement already exists, you must update the existing agreement to request new subscriptions, instead of creating a new one.
+Additionally, creating additional agreements using the same CSP tenant, product, and licensee is also prohibited. If an agreement already exists, you must update the existing agreement to request new subscriptions instead of creating a new one.
 
 ***
 
