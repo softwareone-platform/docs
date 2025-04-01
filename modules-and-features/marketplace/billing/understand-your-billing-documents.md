@@ -2,7 +2,7 @@
 
 Your billing documents, like an invoice or statement, contain important information about your transactions.
 
-To help you understand these documents better, we've created the following video. It breaks down the key sections of your invoices and statements and highlights important aspects to be aware of when interpreting the charges.
+To help you understand these documents better, we've created the following video. It breaks down the key sections within your invoices and statements and highlights important aspects to be aware of when interpreting the charges.
 
 {% embed url="https://www.youtube.com/watch?v=dmGAcCf17oE" %}
 Video: Invoice and Statement Formats in Recurring Billing
