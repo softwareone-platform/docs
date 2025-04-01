@@ -59,7 +59,7 @@ After you've provided the number, it will be displayed on the invoice as follows
 
 <figure><img src="../../.gitbook/assets/Invoice.png" alt=""><figcaption><p>Sample invoice</p></figcaption></figure>
 
-To learn more about invoices, see [Understand Your Invoice](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md).
+To learn more about invoices and how to read and understand them, see [Understand Your Billing Documents](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md).
 
 ## How do I update a purchase order number?
 

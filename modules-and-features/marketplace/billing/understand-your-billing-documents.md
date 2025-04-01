@@ -22,7 +22,7 @@ The following table lists the key fields in the invoice header:
 
 This section displays all subscriptions and items for which you are being invoiced. Note that this section may be more than one page, depending on the data.&#x20;
 
-<figure><img src="../../../.gitbook/assets/invoice_details.png" alt=""><figcaption><p>Invoice Details section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/invoice_details.png" alt=""><figcaption><p>Invoice details section</p></figcaption></figure>
 
 The following table lists the key fields in this section:
 
