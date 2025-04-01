@@ -38,7 +38,7 @@ A billing statement provides a detailed view of your invoice data. Statements ar
 
 You can download a sample statement from the [Billing ](./)page.
 
-## Frequently Asked Questions (FAQs) <a href="#invoice-faq" id="invoice-faq"></a>
+## Frequently asked questions (FAQs) <a href="#invoice-faq" id="invoice-faq"></a>
 
 ### How do I display a purchase order number on the invoice?&#x20;
 
