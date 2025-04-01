@@ -49,7 +49,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>User details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>User details page</p></figcaption></figure>
 
 The details page shows all properties associated with the user's profile. It also contains the following tabs:&#x20;
 

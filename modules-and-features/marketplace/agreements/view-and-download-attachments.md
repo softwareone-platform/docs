@@ -2,18 +2,19 @@
 
 The **Attachments** tab on the agreement details page displays all files that have been added to your agreement by the vendor or SoftwareOne.&#x20;
 
-Attachments can include PDFs as well as your license keys. The same attachments are also visible within the **Attachments** tab on the order details page.
+Attachments include PDFs, billing statements (Excel format), and your license keys. The same attachments are also visible on the **Attachments** tab within the order details page.
 
 ## Viewing and downloading attachments
 
-Follow these steps to view and download attachments:&#x20;
+To view and download attachments:&#x20;
 
-1. Open the required agreement.&#x20;
-2. Select the **Attachments** tab. All files relevant to the agreement are displayed.&#x20;
+1. From the main menu, navigate to **Marketplace** and then select **Agreements**.
+2. On the **Agreements** page, select the agreement. The agreement details page opens.
+3. Select the **Attachments** tab. All files within the agreement are displayed.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (900).png" alt=""><figcaption><p>Attachments tab</p></figcaption></figure>
 
-3. Click the filename in the **Reference** column to download it.&#x20;
+4. Click the filename in the **Reference** column to download it to your system.
 
 {% hint style="info" %}
 License keys can only be viewed and copied, not downloaded.

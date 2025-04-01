@@ -32,7 +32,7 @@ The platform provides a seamless and intuitive interface, allowing access to the
 
 ### Main navigation menu
 
-The <img src="../../../.gitbook/assets/menu_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line"> **Home** menu in the top left is where you can access the modules enabled for your account. Click the menu to view the modules and get started with the platform.
+The <img src="../../../.gitbook/assets/icon_columns.png" alt="" data-size="line"> **Home** menu in the top left is where you can access the modules enabled for your account. Click the menu to view the modules and get started with the platform.
 
 <figure><img src="../../../.gitbook/assets/Menu.png" alt=""><figcaption><p>Navigation menu</p></figcaption></figure>
 
@@ -48,13 +48,13 @@ You can also use search to find user documentation. For example, you can search 
 
 ### Help icon
 
-The Help icon <img src="../../../.gitbook/assets/help_24dp_5F6368_FILL0_wght400_GRAD0_opsz24 (1).png" alt="" data-size="line"> contains links to various content resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, [news and updates](https://www.softwareone.com/en/media-releases), and our legal pages. You can also [Contact Marketplace Platform Support](../../../help-and-support/contact-support.md) by selecting **Support**.
+The Help icon <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size="line"> contains links to various content resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, [news and updates](https://www.softwareone.com/en/media-releases), and our legal pages. You can also [Contact Marketplace Platform Support](../../../help-and-support/contact-support.md) by selecting **Support**.
 
 <figure><img src="../../../.gitbook/assets/Help.png" alt=""><figcaption><p>Help icon</p></figcaption></figure>
 
 ### Notifications
 
-The Notifications icon<img src="../../../.gitbook/assets/notifications_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line">opens up the **Notifications** page where you can view your read and unread notifications, and update your notification preferences.&#x20;
+The Notifications icon<img src="../../../.gitbook/assets/icon_notification.png" alt="" data-size="line">opens up the **Notifications** page where you can view your read and unread notifications, and update your notification preferences.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Notifications.png" alt=""><figcaption><p>Notifications icon</p></figcaption></figure>
 

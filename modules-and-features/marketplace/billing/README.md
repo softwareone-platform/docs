@@ -1,67 +1,39 @@
 # Billing
 
-## Split billing
+Marketplace Platform's automated billing process issues documents based on subscription charges or usage data recorded in the previous calendar month.&#x20;
 
-Split billing is a feature that allows you to divide the billing for your subscriptions among different buyers in your account.&#x20;
+For many cloud-based services, such as Microsoft Azure and Adobe VIP Marketplace, the usage data can result in multiple charge lines on a single billing statement. When each charge line is printed individually on a single invoice, it can be challenging to read and interpret.
 
-Designed for organizations with multiple legal entities, split billing lets you select buyers and allocate billing for your subscriptions to different buyers. This enables cost-sharing and accurate tracking of consumption. It also ensures that each buyer is accountable for a share of the subscription cost based on usage.
+To enhance clarity and help you monitor charges more efficiently, the Marketplace Platform offers two types of billing documents: Invoices and Statements.
 
-You can divide the subscription costs easily by specifying percentages or estimated license count (ELC) for each buyer. Once defined, these details are used during invoicing to generate separate invoices for each entity. In cases where split billing is enabled but the split hasn't been defined, 100% of the billing is allocated to the default buyer in your agreement, also known as the **Owner** buyer.&#x20;
+## What is an invoice? <a href="#whats-an-invoice" id="whats-an-invoice"></a>
 
-The platform also lets you allocate billing when ordering additional subscription licenses. It means when creating a change order for an increase in subscription quantity, you can select buyers and allocate billing to those buyers.&#x20;
+An invoice is a billing document you receive for your purchases. Invoices are issued as PDFs in the context of specific agreements.&#x20;
 
-## Split billing rules
+They contain a summary of charges and details like your customer information, payment terms, and so on. Invoice PDFs also include subscription details and the consolidated charges for all items within the subscription. See [Understand Your Billing Documents](understand-your-billing-documents.md) for guidance on understanding the different components of an invoice.
 
-In the Marketplace Platform, the following rules apply to split billing:
+To download a sample invoice, use the following link:
 
-* Split billing must be activated at the agreement level. Once activated, this feature cannot be deactivated.
-* After activating split billing, new purchases under the agreement are invoiced based on the allocation percentage or the specific buyer you've allocated the subscription billing to.
-* The ELC is indicative only. The Split billing feature is designed around allocation percentages, which means the platform always considers percentages during billing.&#x20;
-* You can modify the allocation for your active subscriptions at any time. However, the changes will only take effect in your next billing cycle.
-* Buyers can only be removed from split billing if they have no configured allocation percentage. The platform doesn't allow you to remove buyers if an allocation percentage exists for those buyers.
+{% file src="../../../.gitbook/assets/Sample Invoice (1).pdf" %}
+Sample: Marketplace Billing Invoice
+{% endfile %}
 
-## Activate split billing
+## What is a statement? <a href="#whats-a-statement" id="whats-a-statement"></a>
 
-{% hint style="warning" %}
-Currently, only Adobe VIP Marketplace supports split billing.&#x20;
-{% endhint %}
+A billing statement is a detailed record of charges, and it is issued for each invoice. Unlike an invoice PDF, which only provides a summary of charges, a statement contains a comprehensive breakdown of all charges.&#x20;
 
-You can activate split billing using the **Split Billing** option on the details page of your agreement. For instructions, see [Activate split billing](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md#id-1.-activate-split-billing).
+Statements are generated as Excel files, and they contain the data for your charges and orders on separate tabs. See [Understand Your Billing Documents](understand-your-billing-documents.md) to learn more about statements.
 
-<figure><img src="../../../.gitbook/assets/Activatesplitbilling (1).png" alt=""><figcaption><p>Split billing option on the agreement details page</p></figcaption></figure>
+You can download your billing statements from the **Attachments** tab on the agreement details page. See [Viewing and Downloading Attachments](../agreements/view-and-download-attachments.md) for instructions.
 
-Once activated, the **Split billing** tab appears on the agreement’s details page.&#x20;
+To download a sample statement, use the following link:
 
-By default, the buyer associated with the agreement is set as the **Owner** buyer, and 100% billing is allocated to the owner buyer. You can configure additional buyers using the **Edit** option. For more information, see [Configure Buyers for Split Billing](configure-buyers-for-split-billing.md).
+{% file src="../../../.gitbook/assets/Sample Statement (2).xlsx" %}
+Sample: Marketplace Billing Statement
+{% endfile %}
 
-<figure><img src="../../../.gitbook/assets/split billing tab.png" alt=""><figcaption><p>Close option on the Split billing details tab</p></figcaption></figure>
+## Difference between invoices and statements <a href="#key-differences-statement-vs.-invoice" id="key-differences-statement-vs.-invoice"></a>
 
-## Related topics
+The following table lists the key differences between the two billing documents:
 
-{% content-ref url="../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md" %}
-[how-to-split-billing-across-buyers.md](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md)
-{% endcontent-ref %}
-
-{% content-ref url="configure-buyers-for-split-billing.md" %}
-[configure-buyers-for-split-billing.md](configure-buyers-for-split-billing.md)
-{% endcontent-ref %}
-
-{% content-ref url="set-up-split-billing-allocation.md" %}
-[set-up-split-billing-allocation.md](set-up-split-billing-allocation.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-split-billing.md" %}
-[edit-split-billing.md](edit-split-billing.md)
-{% endcontent-ref %}
-
-{% content-ref url="split-billing-for-change-orders.md" %}
-[split-billing-for-change-orders.md](split-billing-for-change-orders.md)
-{% endcontent-ref %}
-
-{% content-ref url="review-split-billing-configuration.md" %}
-[review-split-billing-configuration.md](review-split-billing-configuration.md)
-{% endcontent-ref %}
-
-{% content-ref url="specify-po-numbers-for-split-billing.md" %}
-[specify-po-numbers-for-split-billing.md](specify-po-numbers-for-split-billing.md)
-{% endcontent-ref %}
+<table><thead><tr><th width="249">Aspect </th><th>Invoice</th><th width="249">Statement</th></tr></thead><tbody><tr><td>Purpose</td><td>Provides a high-level summary of the charges.</td><td>Provides a full record of the charges from the vendor.</td></tr><tr><td>Format</td><td>PDF</td><td>Excel</td></tr><tr><td>Level of detail</td><td>Contains aggregated lines, such as per item, per subscription, and so on.</td><td>Can have hundreds or thousands of lines for precise usage.</td></tr><tr><td>Use case</td><td>Used as an official billing and record-keeping document.</td><td>Used for reconciliation, in-depth audits, and analysis.</td></tr><tr><td>Quantity</td><td>Always displays the quantity as 1 because multiple lines are consolidated.</td><td>Each line shows the actual quantity of items.</td></tr></tbody></table>

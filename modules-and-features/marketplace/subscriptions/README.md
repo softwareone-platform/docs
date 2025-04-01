@@ -39,7 +39,7 @@ From the details page, you can complete the following tasks:&#x20;
 * [Rename your subscription](rename-a-subscription.md)
 * [Terminate a subscription](terminate-a-subscription.md)
 * [Edit the subscription ID](edit-subscription-id.md)
-* [Edit split billing allocation](../billing/edit-split-billing.md) (only if split billing is enabled)
+* [Edit split billing allocation](../billing/billing/edit-split-billing.md) (only if split billing is enabled)
 
 </details>
 
@@ -50,7 +50,7 @@ The subscription details page displays all information for a subscription, such 
 * **Items** - Displays the details of the ordered items, which include the name, quantity, and pricing.
 * **Parameters** - Displays the fulfillment parameters linked to the subscription. The parameter information varies depending on the parameters enabled by the vendor.
 * **Entities** - Displays the entities linked to the subscription and their details. Entities include licensees, buyers, and sellers.&#x20;
-* **Split billing** - Displays the split billing information for the subscription. This tab is displayed only if split billing has been enabled for the agreement. You can view the split billing buyers and the allocation for each buyer. To update the buyer allocation details, use the **Edit** option. For details, see [Edit Split Billing](../billing/edit-split-billing.md).
+* **Split billing** - Displays the split billing information for the subscription. This tab is displayed only if split billing has been enabled for the agreement. You can view the split billing buyers and the allocation for each buyer. To update the buyer allocation details, use the **Edit** option. For details, see [Edit Split Billing](../billing/billing/edit-split-billing.md).
 * **Orders** - Displays the different types of orders associated with the subscription, including purchase orders, change orders, and termination orders. For each order, you can see the order detail and status. Clicking an order opens the order details page.&#x20;
 * **Details** - Displays the additional IDs for the subscription, including the client and vendor IDs, and the timestamps of all changes made to the subscription. You can update the client ID using **Edit**. For instructions, see [Edit Subscription ID](edit-subscription-id.md).&#x20;
 * **Audit trail** - Displays all events that have taken place within the subscription. For each record, you can view the audit log details and summary. To learn more, see [Audit Trail](../../settings/audit-trail.md).&#x20;

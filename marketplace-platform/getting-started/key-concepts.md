@@ -12,7 +12,7 @@ The Marketplace Platform seamlessly brings together various actors to facilitate
 
 Actors represent different entities that interact with the platform for procurement and fulfillment-related activities as well as other operations specific to the platform.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>Key actors in the Marketplace Platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/actors.png" alt=""><figcaption><p>Key actors in the Marketplace Platform</p></figcaption></figure>
 
 The following are the key actors in our platform:
 
@@ -40,7 +40,7 @@ The following are the key actors in our platform:
 
 In the Marketplace Platform, an account can contain one or multiple users:
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption><p>Account containing multiple users</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/key_concepts.png" alt=""><figcaption><p>Account containing multiple users</p></figcaption></figure>
 
 Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](interface/switch-account.md) through the interface, without signing out of the platform.&#x20;
 

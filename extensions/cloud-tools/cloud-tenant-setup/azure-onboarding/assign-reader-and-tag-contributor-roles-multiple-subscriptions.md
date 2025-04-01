@@ -55,7 +55,7 @@ Follow these steps to grant access through Azure:
 1. Launch the [Azure Portal](https://portal.azure.com/#home) and search for **Management groups**.
 2. On the **Management groups** page, select **Tenant Root Group**. Note that regardless of your organization's configuration, you'll always have a Tenant Root Group. It might have been renamed, but it always appears at the top of the hierarchy.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tenant Root Group</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Tenant Root Group</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

@@ -18,8 +18,8 @@ Follow these steps to activate Microsoft 365:
 
 <figure><img src="../../../../.gitbook/assets/ActivationRequired.png" alt=""><figcaption><p>Cloud tenant setup page</p></figcaption></figure>
 
-3. On the Microsoft sign-in page, enter your username and password. Note that you must provide your Global Administrator credentials.
-4. Review the permissions and click **Accept** to grant consent.
+4. On the Microsoft sign-in page, enter your username and password. Note that you must provide your Global Administrator credentials.
+5. Review the permissions and click **Accept** to grant consent.
 
 ## Activate Microsoft Azure
 
@@ -34,6 +34,6 @@ Follow these steps to activate Microsoft Azure:
 <figure><img src="../../../../.gitbook/assets/ActivationRequired.png" alt=""><figcaption><p>Cloud tenant setup page</p></figcaption></figure>
 
 4. On the Microsoft sign-in page, enter your username and password. Note that you must have the **Owner** or **User Access Administrator** role for the account to activate.
-5. Review permissions and click **Accept** to grant consent.
+5. Review the permissions and click **Accept** to grant consent.
 
-On successful validation of your credentials, your account is activated and the **Cloud tenant setup** page displays the activation status as **Connected**.
+On successful validation of your credentials, your account is activated, and the **Cloud tenant setup** page displays the activation status as **Connected**.

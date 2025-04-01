@@ -11,7 +11,7 @@ Updating an agreement's ID is optional. If you choose not to update the ID, the 
 Follow these steps to update the agreement ID:
 
 1. On the **Agreements** page (**Marketplace** > **Agreements**), select the agreement to edit. The details page of your selected agreement opens.
-2. Select the **Details** tab and then click **Edit**.&#x20;
+2. Select the **Details** tab and click **Edit**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (892).png" alt=""><figcaption><p>Details tab of an agreement</p></figcaption></figure>
 

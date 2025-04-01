@@ -45,15 +45,25 @@ Placing an order establishes a relationship at the recurring purchase order leve
 
 ## How can I enter a purchase order number?  <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
 
-You can provide your recurring purchase order number in the **Additional ID** field when placing your order. This number will be used for reference in all consolidated invoices in the scope of each agreement in the platform.&#x20;
+You can provide recurring purchase order numbers in two ways: either when placing your order or after the order has been placed.
+
+To provide a purchase order when placing your order, enter the number in the **Additional ID** field. This number will be referenced in all consolidated invoices in the scope of each agreement within the platform.&#x20;
 
 <figure><img src="../../.gitbook/assets/Recurring PO.png" alt=""><figcaption><p>Recurring PO</p></figcaption></figure>
 
-After you've provided the number, it'll be displayed on the invoice as follows:
+To provide a purchase order after your order has been placed, open the agreement and navigate to the **Details** tab. Click **Edit** and enter the value under the **Additional IDs** section.
 
-<figure><img src="../../.gitbook/assets/Sample Invoice.png" alt=""><figcaption><p>Sample invoice</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/agreement_details.png" alt=""><figcaption><p>Agreement details page</p></figcaption></figure>
 
-If a recurring purchase order number needs updating or changing during the subscription term, you can modify the **Additional Agreement ID** in the scope of the agreement. The updated number will then be reflected in your next invoice.
+After you've provided the number, it will be displayed on the invoice as follows:
+
+<figure><img src="../../.gitbook/assets/Invoice.png" alt=""><figcaption><p>Sample invoice</p></figcaption></figure>
+
+To learn more about invoices, see [Understand Your Invoice](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md).
+
+## How do I update a purchase order number?
+
+If a recurring purchase order number needs updating or changing during the subscription term, you can modify the **Additional Agreement ID** within the agreement. The updated number will then be reflected in your next invoice.
 
 {% hint style="info" %}
 This option to update the PO number is available for the Adobe VIP Marketplace products only.
