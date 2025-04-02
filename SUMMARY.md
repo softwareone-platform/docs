@@ -220,7 +220,7 @@
   * [Resources](extensions/finops-for-cloud/resources/README.md)
     * [Resources Constraint Policies](extensions/finops-for-cloud/resources/resources-constraint-policies.md)
   * [Pools](extensions/finops-for-cloud/pools/README.md)
-    * [Add Assignment Rules](extensions/finops-for-cloud/pools/add-assignment-rules.md)
+    * [Configure Assignment Rules](extensions/finops-for-cloud/pools/add-assignment-rules.md)
     * [Re-apply Ruleset](extensions/finops-for-cloud/pools/re-apply-ruleset.md)
     * [Delete Pools](extensions/finops-for-cloud/pools/delete-a-pool.md)
     * [Pool Constraint Policies](extensions/finops-for-cloud/pools/pool-constraint-policies.md)

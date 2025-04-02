@@ -2,9 +2,9 @@
 
 Strong resource assignment improves efficiency, reduces costs, enhances accountability, and helps projects stay on track, all of which contribute to higher overall success rates in organizational and project management contexts.
 
-Newly created resources are distributed among pools based on assignment rules. If they have certain tags, they'll immediately be assigned to the appropriate pool as soon as they are first discovered. If they don't belong to any pool, they'll be assigned to the Data Source pool. The Data Source pool is created when the Data Source is connected.
+Newly created resources are distributed among pools based on assignment rules. If they have certain tags, they will immediately be assigned to the appropriate pool as soon as they are first discovered. If they don't belong to any pool, they will be assigned to the data source pool. The data source pool is created when the data source is connected.
 
-FinOps for Cloud allows you to manage assignment rules by viewing, creating, editing, and changing their priority.
+FinOps for Cloud allows you to manage assignment rules by viewing, creating, editing, and changing their priority.&#x20;
 
 ## Assignment rules page
 
