@@ -24,23 +24,26 @@ The **Enrollments** page on the platform shows your list of enrollments along wi
 For each enrollment, you can view the following details:
 
 * **Enrollment** - The unique ID assigned to your request for enrollment.&#x20;
+* **Type** - <mark style="color:red;">**Description required**</mark>
+* **Certificate** - The certificate for the enrollment.
 * **Program** - The name of the program you have enrolled in.
-* **Applicable to** -
-* **Certificant** -
-* **Created by** -
+* **Applicable to** - <mark style="color:red;">**Description required**</mark>
+* **Certificant** - <mark style="color:red;">**Description required**</mark>
+* **Assigned to** - <mark style="color:red;">**Description required**</mark>
 * **Status** - The status of your enrollment request. For a description of the possible statuses, see [Enrollment States](enrollment-states.md).
 
 ## Enrollment details page <a href="#subscription-details" id="subscription-details"></a>
 
-The details page displays general information and the properties associated with your enrollment. You can open this page by selecting an enrollment from the **Enrollments** page.&#x20;
+The details page displays general information and the properties associated with your enrollment. You can open this page by selecting the enrollment ID on the **Enrollments** page.&#x20;
 
 <figure><img src="../../../.gitbook/assets/enrollments_details_page.png" alt=""><figcaption><p>Enrollment details page</p></figcaption></figure>
 
 The details page is organized into the following tabs:
 
-* **General** - Displays the latest information and status of your selected enrollment.&#x20;
-* **Parameters** - Displays the enrollment parameters that you entered when creating the enrollment request.
-* **Entities** - Displays the platform entities (Buyer, Licensee, and Seller) mapped to the enrollment.&#x20;
-* **Notes** -&#x20;
-* **Attachments** - Displays the files you may have uploaded when enrolling for a program.&#x20;
-* **Details** - Displays a history of events associated with the enrollment, for example, the date and time when you created the enrollment request.
+* **General** - Displays the latest information and enrollment status.&#x20;
+* **Parameters** - Displays the parameters that were provided when the enrollment request was created.
+* **Entities** - Displays the objects, such as Buyer, Licensee, and Seller, mapped to the enrollment.&#x20;
+* **Notes** - <mark style="color:red;">**Description required**</mark>
+* **Details** - Displays a history of events associated with the enrollment, such as the date and time the enrollment was created.
+* **Attachments** - Displays the files attached to the enrollment.
+* **Audit trail** - Displays all events that have taken place within the enrollment. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail).

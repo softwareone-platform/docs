@@ -4,14 +4,14 @@ The **Review** status on the **Details** tab of a change order indicates that a 
 
 When you see this status, it means that you need to review the split billing configuration for the subscription, as it may need adjustment.&#x20;
 
-<figure><img src="../../../.gitbook/assets/split_billing_review.png" alt=""><figcaption><p>Review status and Edit option</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/split_billing_review.png" alt=""><figcaption><p>Review status and Edit option</p></figcaption></figure>
 
 You can review the allocation by clicking **Edit**. When the **Edit** dialog opens, review the details. If any changes are needed, you can update the split as necessary and then save your changes.&#x20;
 
 ## Related topics
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="../" %}
+[..](../)
 {% endcontent-ref %}
 
 {% content-ref url="configure-buyers-for-split-billing.md" %}

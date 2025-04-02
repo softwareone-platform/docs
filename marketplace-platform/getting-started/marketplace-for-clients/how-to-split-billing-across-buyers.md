@@ -84,4 +84,4 @@ Use the Buyer menu at the top to view the allocation for the other buyers (_Star
 
 ## Next steps
 
-If you have additional subscriptions and want to split the billing, you can repeat the same steps for those subscriptions. You can also edit the split at any time. For instructions, see [Edit Split Billing](../../../modules-and-features/marketplace/billing/edit-split-billing.md).
+If you have additional subscriptions and want to split the billing, you can repeat the same steps for those subscriptions. You can also edit the split at any time. For instructions, see [Edit Split Billing](../../../modules-and-features/marketplace/billing/split-billing/edit-split-billing.md).

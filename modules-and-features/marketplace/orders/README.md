@@ -49,7 +49,7 @@ From the details page, you can complete the following tasks:&#x20;
 
 </details>
 
-<figure><img src="../../../.gitbook/assets/Orders (4).png" alt=""><figcaption><p>Order details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/order_details_page.png" alt=""><figcaption><p>Order details page</p></figcaption></figure>
 
 The details page of an order contains the **Process** button that lets you [move your order from Querying to Processing](set-an-order-to-processing.md). It also contains several tabs that display the corresponding order information:
 
@@ -57,9 +57,10 @@ The details page of an order contains the **Process** button that lets you [move
 * **Items** - Displays the items you've ordered and the pricing information for each item.
 * **Parameters** - Displays the ordering and fulfillment parameters associated with the order.&#x20;
 * **Entities** - Displays details of the different entities associated with the order, like the licensee, buyer, and seller.
-* **Subscriptions** - Displays the subscriptions associated with the order. Subscriptions are only displayed after they have been activated. Once activated, you can view subscription details, like the term, the start and the renewal date, the estimated prices, and more.
+* **Subscriptions** - Displays the subscriptions associated with the order. Subscriptions are only displayed after they are activated. When activated, you can view subscription details, like the term, the start and the renewal date, the estimated prices, and more.
 * **Notes** - Displays the notes entered during the ordering process. Use the **Edit** option to edit the notes.
 * **Attachments** - Displays the files attached to the agreement and allows you to download those files. See [View and Download Attachments](../agreements/view-and-download-attachments.md) to learn more.
+* **Certificates** - Displays the certificates that were used when the order was placed.&#x20;
 * **Details** - Displays the additional IDs, including the client and vendor IDs, and the timestamps of all changes made to the order. You can update the client ID using the **Edit** option.
 * **Audit trail** - Displays all events that have taken place within the order. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](../../settings/audit-trail.md).&#x20;
 
