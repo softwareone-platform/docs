@@ -8,7 +8,7 @@ Client account users can create new requests through the **Products** page and t
 
 You can access the **Requests** page by selecting **Marketplace** > **Requests** from the main menu.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (977).png" alt=""><figcaption><p> Requests page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/requests_page.png" alt=""><figcaption><p> Requests page</p></figcaption></figure>
 
 The **Requests** page displays a list of your requests. For each request, you can view the following details:
 

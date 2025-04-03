@@ -30,7 +30,7 @@ Before starting this tutorial, make sure you have the following:
 
 1. From the main menu, navigate to the **Products** page (**Marketplace** > **Products**) and click **Adobe VIP Marketplace for Commercial**.
 
-<figure><img src="../../../.gitbook/assets/adone_products.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_products.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 2. Click **Buy now** in the upper right on the details page.
 
@@ -42,7 +42,7 @@ The purchase wizard starts and the **Select agreement** section of the wizard is
 
 Click **Create agreement** to set up your new Adobe agreement. The **Select licensee** section of the wizard is displayed.
 
-<figure><img src="../../../.gitbook/assets/Adobe-CreateAgreement.png" alt=""><figcaption><p>Create agreement option</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tutorial_adobe_create_agreement.png" alt=""><figcaption><p>Create agreement option</p></figcaption></figure>
 
 ## 3. Select licensee
 

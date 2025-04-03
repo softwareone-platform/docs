@@ -13,7 +13,7 @@ Although the platform manages subscription details, usage, and statements, the a
 
 You can access the Invoice page by selecting **Billing** > **Invoice** from the main menu.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Invoices page in the platform</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/invoices_page.png" alt=""><figcaption><p>Invoices page in the platform</p></figcaption></figure>
 
 The **Invoices** page displays all invoices for your account. For each invoice, you can view the following details:
 

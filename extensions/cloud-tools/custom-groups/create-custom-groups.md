@@ -36,11 +36,11 @@ If any resources have tags matching to created groups, they will automatically b
 
 **Example**
 
-| Example             | High-Level Org Chart                            | Dimensions in Custom Groups                     |
-| ------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| Default Customer    | ![](<../../../.gitbook/assets/image (460).png>) | ![](<../../../.gitbook/assets/image (441).png>) |
-| Enterprise Customer | ![](<../../../.gitbook/assets/image (461).png>) | ![](<../../../.gitbook/assets/image (442).png>) |
-| Service Based       | ![](<../../../.gitbook/assets/image (462).png>) | ![](<../../../.gitbook/assets/image (443).png>) |
+| Example             | High-Level Org Chart                            | Dimensions in Custom Groups                            |
+| ------------------- | ----------------------------------------------- | ------------------------------------------------------ |
+| Default Customer    | ![](<../../../.gitbook/assets/image (460).png>) | ![](../../../.gitbook/assets/legacy_custom_group2.png) |
+| Enterprise Customer | ![](<../../../.gitbook/assets/image (461).png>) | ![](../../../.gitbook/assets/legacy_custom_groups.png) |
+| Service Based       | ![](<../../../.gitbook/assets/image (462).png>) | ![](../../../.gitbook/assets/legacy_custom_group3.png) |
 
 ## Creating the structure automatically <a href="#create-structure-automatically" id="create-structure-automatically"></a>
 

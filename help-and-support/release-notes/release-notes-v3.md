@@ -22,7 +22,7 @@ To increase accountability and transparency, we have introduced the Audit Trail 
 
 The audit trail is now also available at the object level in the platform. To support this, a new tab called **Audit Trail** has been added to the details pages of the key objects such as orders, agreements, and subscriptions. This tab displays all events associated with the specific object. To learn more, see [Audit Trail](../../modules-and-features/settings/audit-trail.md).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1102).png" alt=""><figcaption><p>Audit trail tab on the order details page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/audit_trail.png" alt=""><figcaption><p>Audit trail tab on the order details page</p></figcaption></figure>
 
 ## Adjustable Column Widths
 

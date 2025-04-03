@@ -18,7 +18,7 @@ Account administrators can access the audit trail by selecting **Settings** > **
 
 An audit trail also exists at the object level in our platform. If you want to view records for your orders, subscriptions, and more, you can see the log history within the **Audit trail** tab on the details page of your selected object. The following example shows the audit trail on the order details page:
 
-<figure><img src="../../.gitbook/assets/image (1102).png" alt=""><figcaption><p>Audit trail tab on the order details page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/audit_trail.png" alt=""><figcaption><p>Audit trail tab on the order details page</p></figcaption></figure>
 
 ## Audit trail interface
 

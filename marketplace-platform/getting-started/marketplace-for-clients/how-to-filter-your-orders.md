@@ -10,9 +10,9 @@ If you need to find a specific order, you can use the filter option to search fo
 
 You can use a single filter or create a combination of filters by selecting different fields, operators, and values. The following steps describe how to find an order using its status.&#x20;
 
-1. On the **Orders** page, click the <img src="../../../.gitbook/assets/image (1101).png" alt="" data-size="line"> **Filter** option.
+1. On the **Orders** page, click the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
 
-<figure><img src="../../../.gitbook/assets/Orders (2).png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
 
 2. When the filter box displays, click **Add another condition** to open a menu of conditions.&#x20;
 3. Define the conditions:

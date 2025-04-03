@@ -8,7 +8,7 @@ Follow these steps to apply the pool constraint policies:
 
 1. On the **Pools** page, select a pool group or its sub-pool.
 2. Select the **Constrains** tab and click the edit icon![pencil](https://hystax.com/documentation/optscale/_static/screens/resource_constraints/pencil.png)to enter values in the **TTL** or **Daily expense limit** fields.
-3. Click<img src="../../../.gitbook/assets/check.png" alt="pencil" data-size="line"> to save your changes. The constraint will be applied to all resources in the pool.
+3. Click<img src="../../../.gitbook/assets/icon_check.png" alt="pencil" data-size="line"> to save your changes. The constraint will be applied to all resources in the pool.
 
 <figure><img src="../../../.gitbook/assets/pool_constraint_policies.png" alt=""><figcaption><p>Pool constraint policies</p></figcaption></figure>
 

@@ -44,7 +44,7 @@ Click **Create new agreement** to set up your new agreement.
 
 Select **Connect existing cloud account** and click **Next**.
 
-<figure><img src="../../../.gitbook/assets/Createagreement1.png" alt=""><figcaption><p>Create agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tutorial_create_agreement1.png" alt=""><figcaption><p>Create agreement</p></figcaption></figure>
 
 ## 5. Provide Microsoft account details
 

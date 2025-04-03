@@ -28,10 +28,10 @@ If you opt to create a new agreement, you'll need to select a licensee for the a
 
 The purchase wizard also lets you enter additional IDs associated with your purchase. For example, in the **Details** step, you can enter a purchase order number in the **Agreement Additional ID** field. This number will then be displayed on your invoice. Additionally, you have the option to [save your order as a draft order](../orders/save-order-as-a-draft.md) and complete it later.
 
-<figure><img src="../../../.gitbook/assets/image (1148).png" alt=""><figcaption><p>Details step in the wizard</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/miro_details.png" alt=""><figcaption><p>Details step in the wizard</p></figcaption></figure>
 
 The **Review order** step requires you to read and understand various terms and conditions associated with your order and confirm the order details. Clicking **Place order** creates a new purchase order, which is sent to the vendor for processing.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1151).png" alt=""><figcaption><p>Review order step in the wizard</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/miro_review_order.png" alt=""><figcaption><p>Review order step in the wizard</p></figcaption></figure>
 
 Once the confirmation is displayed, you can either **Close** the wizard or view your order details by clicking **View details**.&#x20;

@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/FY24 Partner Connect Award SWO.jpeg
+cover: broken-reference
 coverY: 83.01866666666666
 layout:
   cover:

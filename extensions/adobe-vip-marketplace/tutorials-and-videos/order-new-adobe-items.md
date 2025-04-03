@@ -18,7 +18,7 @@ Agreements in any other state cannot be used when ordering items. See [Agreement
 
 1. From the main menu, navigate to the **Products** page (**Marketplace** > **Products**) and click **Adobe VIP Marketplace for Commercial**.
 
-<figure><img src="../../../.gitbook/assets/adone_products.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/adobe_products.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 2. Click **Buy now** in the upper right on the details page.
 

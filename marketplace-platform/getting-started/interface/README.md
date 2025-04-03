@@ -48,7 +48,7 @@ You can also use search to find user documentation. For example, you can search 
 
 ### Help icon
 
-The Help icon <img src="../../../.gitbook/assets/help_24dp_5F6368_FILL0_wght400_GRAD0_opsz24 (1).png" alt="" data-size="line"> contains links to various content resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, [news and updates](https://www.softwareone.com/en/media-releases), and our legal pages. You can also [Contact Marketplace Platform Support](../../../help-and-support/contact-support.md) by selecting **Support**.
+The Help icon <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size="line"> contains links to various content resources, such as the [SoftwareOne blog](https://www.softwareone.com/en/blog/articles), product documentation, [news and updates](https://www.softwareone.com/en/media-releases), and our legal pages. You can also [Contact Marketplace Platform Support](../../../help-and-support/contact-support.md) by selecting **Support**.
 
 <figure><img src="../../../.gitbook/assets/Help.png" alt=""><figcaption><p>Help icon</p></figcaption></figure>
 

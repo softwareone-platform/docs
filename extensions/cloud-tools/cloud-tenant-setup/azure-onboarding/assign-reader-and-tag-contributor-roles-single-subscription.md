@@ -2,7 +2,7 @@
 
 In some cases, you must configure your Azure subscription manually so that the Client Portal can access the resources and tags.&#x20;
 
-When you onboard your tenant to the Client Portal, an Enterprise Application called PyraCloud (Azure) is created in your tenant. You must then assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the PyraCloud (Azure) Enterprise Application.
+When you onboard your tenant to the Client Portal, an Enterprise Application called SoftwareOne Cloud Consumption (formerly PyraCloud Azure) is created in your tenant. You must then assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the PyraCloud (Azure) Enterprise Application.
 
 These roles allow the Client Portal to read a list of all the resources in your Azure subscription, and read and write tags on those resources. You can control whether you want the Client Portal to write tags back to resources in your Azure subscription using the Cloud Tenant Setup feature.
 
@@ -31,11 +31,11 @@ Follow these steps to grant access:
 
 <figure><img src="../../../../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 
-6. Select **Reader** from the **Role** menu and then search for **Pyra**. Choose **PyraCloud (Azure)** and click **Save**.
+6. Select **Reader** from the **Role** menu. Then, search for **SoftwareOne Cloud Consumption** (formerly PyraCloud Azure) and select it from the search results. Click **Save**.
 
 <figure><img src="../../../../.gitbook/assets/image (436).png" alt=""><figcaption></figcaption></figure>
 
-7. Select **Tag Contributor** from the **Role** menu and then search for **Pyra**. Choose **PyraCloud (Azure)** and select **Save**.
+7. Select **Tag Contributor** from the **Role** menu. Then, search for **SoftwareOne Cloud Consumption** (formerly PyraCloud Azure) and select it from the search results. Click **Save**.
 
 <figure><img src="../../../../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
 

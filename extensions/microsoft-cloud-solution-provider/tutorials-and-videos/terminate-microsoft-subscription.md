@@ -21,7 +21,7 @@ The **Terminate subscription** wizard starts and the **Items** step of the wizar
 
 1. Review the details in the **Items** step to ensure that the quantity of the subscription you want to terminate is zero. Click **Next**.
 
-<figure><img src="../../../.gitbook/assets/TerminateSubsCSP.png" alt=""><figcaption><p>Items</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tutorial_CSP_terminate_subs.png" alt=""><figcaption><p>Items</p></figcaption></figure>
 
 2. In the **Details** step, enter the reference information as needed and then click **Next**.&#x20;
 

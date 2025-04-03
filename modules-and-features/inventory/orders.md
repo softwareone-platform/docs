@@ -22,7 +22,7 @@ You can also add new columns and remove the ones that are non-essential by click
 
 ## Filtering and sorting orders <a href="#h_6397519928" id="h_6397519928"></a>
 
-Use the<img src="../../.gitbook/assets/filter_alt_24dp_5985E1_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line"> **filter** icon in the column header to apply filters. To sort the data for a column, simply click the column header, or click <img src="../../.gitbook/assets/filter_alt_24dp_5985E1_FILL0_wght400_GRAD0_opsz24.png" alt="" data-size="line">and then select **Sort** **Ascending** or **Sort** **Descending.**
+Use the<img src="../../.gitbook/assets/icon_filter_orders.png" alt="" data-size="line"> **filter** icon in the column header to apply filters. To sort the data for a column, simply click the column header, or click <img src="../../.gitbook/assets/icon_filter_orders.png" alt="" data-size="line">and then select **Sort** **Ascending** or **Sort** **Descending.**
 
 <figure><img src="../../.gitbook/assets/Orders-sort.png" alt=""><figcaption><p>Sort options</p></figcaption></figure>
 

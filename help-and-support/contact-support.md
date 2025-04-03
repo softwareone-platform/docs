@@ -15,7 +15,7 @@ You can reach out to us via email at [marketplace-support@softwareone.com](mailt
 To create a support ticket from your account:
 
 1. [Sign in to your account](https://portal.platform.softwareone.com).&#x20;
-2. Click the **Help** icon <img src="../.gitbook/assets/image (1145).png" alt="" data-size="line"> in the header and select **Support**. The **Help and Support** page opens.
+2. Click the **Help** icon <img src="../.gitbook/assets/icon_support.png" alt="" data-size="line"> in the header and select **Support**. The **Help and Support** page opens.
 
 <figure><img src="../.gitbook/assets/contact_support.png" alt=""><figcaption><p>Support option in the Help menu</p></figcaption></figure>
 

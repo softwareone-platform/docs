@@ -26,7 +26,7 @@ Follow these steps to assign resource constraints:
 
 <figure><img src="../../../.gitbook/assets/resources_constraints.png" alt=""><figcaption><p>Constraints tab</p></figcaption></figure>
 
-3. Use the slider to enable the required setting, and then click edit ![pencil](https://hystax.com/documentation/optscale/_static/screens/resource_constraints/pencil.png) to enter the value. Click<img src="../../../.gitbook/assets/check.png" alt="pencil" data-size="line"> to save your changes.
+3. Use the slider to enable the required setting, and then click edit ![pencil](https://hystax.com/documentation/optscale/_static/screens/resource_constraints/pencil.png) to enter the value. Click<img src="../../../.gitbook/assets/icon_check.png" alt="pencil" data-size="line"> to save your changes.
 
 <figure><img src="../../../.gitbook/assets/resources_constraints_tab.png" alt=""><figcaption><p>Available constraint type</p></figcaption></figure>
 

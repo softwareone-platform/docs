@@ -28,7 +28,7 @@ Follow these steps to edit the allocation percentage for a buyer:
 2. On the **Split billing** tab, click **Edit**.
 3. In the **Edit split billing** dialog, make the necessary changes to the allocation percentage or license count. Make sure that 100% is allocated across buyers.
 
-<figure><img src="../../../../.gitbook/assets/Edit split billing.png" alt=""><figcaption><p>Edit split billing dialog</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/edit_split_billing.png" alt=""><figcaption><p>Edit split billing dialog</p></figcaption></figure>
 
 4. **Save** your changes. The **Split billing** tab will display the updated allocation details. Note that the changes will only take effect in your next billing cycle.&#x20;
 

@@ -3,11 +3,11 @@
 You can use Azure Management Groups to grant the Client Portal access to your Azure subscriptions. This approach has the following benefits:&#x20;
 
 * You can assign access to multiple subscriptions in a single step.
-* If you create more Azure subscriptions in the future, access will be automatically granted. It means when you add an Azure subscription to your tenant, activating it in the Client Portal is unnecessary.
+* If you create more Azure subscriptions in the future, access will be automatically granted. It means that when you add an Azure subscription to your tenant, activating it in the Client Portal is unnecessary.
 
-When you onboard your tenant to the Client Portal, an Enterprise Application called PyraCloud (Azure) is created in your tenant. You must then assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the "PyraCloud (Azure)" Enterprise Application:
+When you onboard your tenant to the Client Portal, an Enterprise Application called SoftwareOne Cloud Consumption (formerly PyraCloud) is created in your tenant. You must then assign the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) roles to the "PyraCloud (Azure)" Enterprise Application:
 
-These roles allow the Client Portal to read a list of all the resources in your Azure subscriptions, and read and write tags on those resources. You can choose whether you want the Client Portal to write tags back to resources in your Azure subscription using the Cloud Tenant Setup feature.
+These roles allow the Client Portal to read a list of all the resources in your Azure subscriptions and read and write tags on those resources. You can choose whether you want the Client Portal to write tags back to resources in your Azure subscription using the Cloud Tenant Setup feature.
 
 ## Granting access using Azure CLI
 
@@ -46,48 +46,53 @@ Before granting access through the Azure Portal, note the following points:
 * Ensure that you have [onboarded your tenant](activate-an-azure-ea-or-mpsa-account.md).
 * Ensure that you have the correct permissions to manage access to all Azure subscriptions and management groups in your tenant. For instructions, see [Elevate access to manage all Azure subscriptions and management groups](https://learn.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin) in the Microsoft documentation.&#x20;
 
-### 1. Search for Management Groups
+{% stepper %}
+{% step %}
+### Search for Management Groups
 
 1. Launch the [Azure Portal](https://portal.azure.com/#home) and search for **Management groups**.
 2. On the **Management groups** page, select **Tenant Root Group**. Note that regardless of your organization's configuration, you'll always have a Tenant Root Group. It might have been renamed, but it always appears at the top of the hierarchy.
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Tenant Root Group</p></figcaption></figure>
+{% endstep %}
 
-### 2. Open the Add role assignment page <a href="#step-2-open-the-add-role-assignment-page" id="step-2-open-the-add-role-assignment-page"></a>
+{% step %}
+### Open the Add role assignment page
 
 1. From the left sidebar, select **Access control (IAM)**.
 
 <figure><img src="../../../../.gitbook/assets/IAM (1).png" alt=""><figcaption><p>Access control (IAM)</p></figcaption></figure>
 
-2. Click **Add** > **Add role assignment**.
+2. Click **Add** > **Add role assignment**. The Add role assignment page opens.
 
 <figure><img src="../../../../.gitbook/assets/IAM-2 (1).png" alt=""><figcaption><p>Add role assignment</p></figcaption></figure>
+{% endstep %}
 
-The Add role assignment page opens.
+{% step %}
+### Assign the Reader role
 
-### 3. Assign the Reader role
-
-1. On the **Role** tab, select **Reader** as the role and click **Next**. The Member tab opens.&#x20;
+1. On the **Role** tab, select **Reader** as the role and click **Next**.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/roles.png" alt=""><figcaption><p>Reader role</p></figcaption></figure>
 
-2. Select **User, group, or service principal** if it's not selected by default, and then click **Select members**. &#x20;
+2. On the **Members** tab, select **User, group, or service principal** if it's not selected by default, and click **Select members**. &#x20;
 
 <figure><img src="../../../../.gitbook/assets/members.png" alt=""><figcaption><p>Select Members</p></figcaption></figure>
 
-3. In the **Select members** panel, type **Pyra** and then select **PyraCloud (Azure)** from the search results.&#x20;
-
-<figure><img src="../../../../.gitbook/assets/Pyra (2).png" alt=""><figcaption><p>Choose PyraCloud (Azure)</p></figcaption></figure>
-
-4. Click **Select** to add PyraCloud (Azure) to the Members list. Once PyraCloud (Azure) is added, click **Review + assign**.&#x20;
+3. In the **Select members** panel, search for **SoftwareOne Cloud Consumption** (formerly PyraCloud Azure).&#x20;
+4. Click **Select** to add the enterprise application to the **Members** list. Once the app is added, click **Review + assign**.
 5. On the **Review + assign tab**, review the details and click **Review + assign** to confirm the role assignment.&#x20;
+{% endstep %}
 
-### 4. Assign the Tag Contributor role
+{% step %}
+### Assign the Tag Contributor role
 
-To assign the Tag Contributor role, follow all of the steps in [Step 3: Assign the Reader role](assign-reader-and-tag-contributor-roles-multiple-subscriptions.md#step-3-assign-the-reader-role), but choose **Tag Contributor** as your role instead of Reader.&#x20;
+To assign the Tag Contributor role, follow all the steps in [Step 3: Assign the Reader role](assign-reader-and-tag-contributor-roles-multiple-subscriptions.md#step-3-assign-the-reader-role), but choose **Tag Contributor** as your role instead of Reader.&#x20;
 
 After you've completed the steps, the roles are assigned and displayed on the **Role assignments** tab.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-15 155343.png" alt=""><figcaption><p>Role assignment</p></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 [^1]: 
