@@ -2,7 +2,7 @@
 
 You can choose the preferred language for your account in your profile settings.&#x20;
 
-**To change the language:**&#x20;
+To change the language:&#x20;
 
 1. Sign in to your account.
 2. Click the profile menu in the upper right and select **My Profile**.&#x20;
