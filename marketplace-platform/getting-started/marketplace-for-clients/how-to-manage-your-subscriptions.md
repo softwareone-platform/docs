@@ -2,7 +2,7 @@
 
 Subscription management through self-service is one of the key features of our platform, providing you with the flexibility to manage your subscriptions.&#x20;
 
-it means you can easily order new subscriptions, increase or decrease your licenses, and cancel subscriptions. You also have the option to edit the name of your subscription and modify subscription IDs, if needed.
+It means you can easily order new subscriptions, increase or decrease your licenses, and cancel subscriptions. You also have the option to edit the name of your subscription and modify subscription IDs if needed.
 
 ## Viewing your subscription and subscription details
 

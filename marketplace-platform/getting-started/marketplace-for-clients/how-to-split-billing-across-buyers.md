@@ -48,7 +48,7 @@ _Stark Industries II_ and _Stark Industries III_ are added as buyers and display
 
 <figure><img src="../../../.gitbook/assets/SPBuyers1 (1).png" alt=""><figcaption><p>Newly assigned buyers on the Split billing tab</p></figcaption></figure>
 
-## 3. Spliting allocations
+## 3. Splitting the allocations
 
 Billing can be allocated by specifying percentages for each buyer. You can also specify the estimated license count. Both of these options are linked, meaning changing one updates the other automatically, although only the allocation % is used during billing (see [Split billing rules](../../../modules-and-features/marketplace/billing/#split-billing-rules) to learn more).
 
@@ -60,13 +60,13 @@ To start configuring the split for each buyer:
 
 2. For the required subscription, click **Edit**.
 
-This example agreement contains three subscriptions, but we'll only configure allocation for the first subscription called _Creative Cloud All Apps with Adobe Stock_.
+This example agreement contains three subscriptions, but we'll only configure allocation for the first subscription, called _Creative Cloud All Apps with Adobe Stock_.
 
 <figure><img src="../../../.gitbook/assets/SplitBillingSubscription (1).png" alt=""><figcaption><p>Edit option for the subscription</p></figcaption></figure>
 
 3. In **Allocation %**, enter the allocation percentage for each buyer and click **Save**.&#x20;
 
-In this example, 50% of billing is allocated to _Stark Industries_ (owner buyer) and the remaining 50% to _Stark Industries II_. No percentage is assigned to _Stark Industries III._&#x20;
+In this example, 50% of the billing is allocated to _Stark Industries_ (owner buyer) and the remaining 50% to _Stark Industries II_. No percentage is assigned to _Stark Industries III._&#x20;
 
 <figure><img src="../../../.gitbook/assets/EditAllocation (1).png" alt=""><figcaption><p>Allocate percentages for buyers</p></figcaption></figure>
 
