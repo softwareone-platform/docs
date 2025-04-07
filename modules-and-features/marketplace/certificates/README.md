@@ -27,7 +27,7 @@ For each certificate, you can view the following details:
 
 ## Certificate details page <a href="#subscription-details" id="subscription-details"></a>
 
-The details page displays general information and properties associated with a certificate. You can open this page by selecting the certificate name on the **Certificates** page.&#x20;
+The details page displays general information and properties associated with the certificate. You can open this page by selecting the certificate name on the **Certificates** page.&#x20;
 
 <figure><img src="../../../.gitbook/assets/certificate_details_page.png" alt=""><figcaption><p>Certificate details page</p></figcaption></figure>
 

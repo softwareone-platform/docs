@@ -10,6 +10,6 @@ To edit a certificate's name:
 2. Select the certificate to be renamed.&#x20;
 3. On the certificate details page, select **Edit**.
 4. Provide a new name for the certificate. We recommend providing a unique name so you can easily identify the certificate.
-5. Select **Save.**
+5. Select **Save**.
 
 Your certificate is renamed, and the new name is reflected in the certificates list and on the certificate's detail page.

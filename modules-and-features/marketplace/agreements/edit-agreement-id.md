@@ -1,21 +1,23 @@
-# Edit Agreement ID
+# Update Additional Client ID
 
-When you create a new agreement, the Marketplace Platform assigns a default ID to the agreement. You can change the default ID and assign a new ID so you can identify and manage the agreement easily.
+The **Additional Client ID** field on the agreement details page lets you enter a purchase order number that will be displayed on your invoice.&#x20;
 
-{% hint style="info" %}
-Updating an agreement's ID is optional. If you choose not to update the ID, the platform will use the default ID.
-{% endhint %}
+When you create an agreement, the **Additional Client ID** field is initially empty. You can update this field with a value for billing and invoicing purposes.
 
-## Updating your agreement's ID
+## Updating the additional client ID
 
-To update the agreement ID:
+To update the **Additional Client ID** field:
 
-1. On the **Agreements** page (**Marketplace** > **Agreements**), select the agreement to edit. The agreement details page opens.
-2. Select the **Details** tab and then click **Edit**.&#x20;
+1. Navigate to the **Agreements** page and select the relevant agreement.
+2. On the agreement details page, select the **Details** tab and then select **Edit**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (946).png" alt=""><figcaption><p>Details tab of an agreement</p></figcaption></figure>
 
-3. In the **Edit ID** dialog, enter the new ID and click **Save**. The agreement ID is updated and displayed on the details page of the agreement.
+3. In the **Edit ID** dialog, enter the new client ID and select **Save**.&#x20;
+
+The updated ID is displayed as a **Client ID** within the **Additional IDs** section on the page. This same ID is also displayed on your invoice as the **PO number**.&#x20;
+
+Note that if the value you enter exceeds 20 characters, only the first 16 characters are shown on the invoice, followed by 3 dots (...). For more information, see [Understand Your Billing Documents.](../billing/understand-your-billing-documents.md)
 
 ## Related topics
 

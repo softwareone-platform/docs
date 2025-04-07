@@ -12,7 +12,7 @@ You can access the **Agreements** page by selecting **Marketplace** > **Agreemen
 
 <figure><img src="../../../.gitbook/assets/agreements_page.png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
-The **Agreements** page displays all agreements that exist in your account. It also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page.&#x20;
+The page displays all agreements that exist in your account. It also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page.&#x20;
 
 For each agreement, you can view the following details:
 
@@ -60,6 +60,6 @@ The details page is divided into the following tabs:
 * **Orders** - Displays all orders placed under the agreement, including purchase orders, change orders, and termination orders. Clicking an order opens up the details page of that order.&#x20;
 * **Split billing** - Displays the buyers for split billing. This tab is displayed only if split billing has been enabled for the agreement. You can configure buyers by adding buyers or removing existing ones. For details, see [Configure Buyers for Split Billing](../billing/split-billing/configure-buyers-for-split-billing.md).
 * **Attachments** - Displays all files attached to the agreement. Attachments are added by the vendor or SoftwareOne, and they can include PDFs as well as your license keys. See [View and Download Attachments](view-and-download-attachments.md) to learn more.
-* **Terms** - Displays the terms associated with the agreement and shows when they were accepted, and by whom.
+* **Terms** - Displays the terms associated with the agreement and shows when they were accepted and by whom.
 * **Details** - Displays the additional IDs for the agreement, including the client and vendor IDs, and the timestamps of all changes made to the agreement. You can update the client ID using **Edit**. For instructions, see [Edit Agreement ID](edit-agreement-id.md).
 * **Audit trail** - Displays all events that have taken place within the agreement. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](../../settings/audit-trail.md).&#x20;

@@ -27,8 +27,9 @@
     * [How to Invite Users to Your Account](marketplace-platform/getting-started/marketplace-for-clients/how-to-invite-users-to-your-account.md)
   * [Marketplace for Partners](marketplace-platform/getting-started/marketplace-for-partners/README.md)
     * [What is Partners Management?](marketplace-platform/getting-started/marketplace-for-partners/what-is-partners-management.md)
-    * [How to Configure Resale Licensees](marketplace-platform/getting-started/marketplace-for-partners/how-to-configure-resale-licensees.md)
-    * [How to Buy Products for Resale](marketplace-platform/getting-started/marketplace-for-partners/how-to-buy-products-for-resale.md)
+    * [How to Configure Licensees For Resale](marketplace-platform/getting-started/marketplace-for-partners/how-to-configure-licensees-for-resale.md)
+    * [How to Order Products for Resale](marketplace-platform/getting-started/marketplace-for-partners/how-to-order-products-for-resale.md)
+    * [How to Create New Subscriptions Under Existing Agreement](marketplace-platform/getting-started/marketplace-for-partners/how-to-create-new-subscriptions-under-existing-agreement.md)
 
 ## MODULES & FEATURES
 
@@ -49,7 +50,7 @@
     * [Agreement States](modules-and-features/marketplace/agreements/agreement-states.md)
     * [Terminate Agreement](modules-and-features/marketplace/agreements/terminate-agreements.md)
     * [Rename Agreement](modules-and-features/marketplace/agreements/rename-an-agreement.md)
-    * [Edit Agreement ID](modules-and-features/marketplace/agreements/edit-agreement-id.md)
+    * [Update Additional Client ID](modules-and-features/marketplace/agreements/edit-agreement-id.md)
     * [View and Download Attachments](modules-and-features/marketplace/agreements/view-and-download-attachments.md)
   * [Billing](modules-and-features/marketplace/billing/README.md)
     * [Understand Your Billing Documents](modules-and-features/marketplace/billing/understand-your-billing-documents.md)
