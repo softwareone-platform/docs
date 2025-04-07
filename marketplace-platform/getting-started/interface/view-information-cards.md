@@ -10,6 +10,6 @@ Information cards make it easy to access information quickly. They display all t
 
 The information displayed within a card might vary depending on the object, but each card contains general details, such as the object's name and ID, as well as the created and updated dates.&#x20;
 
-Information cards also contain quick links to the related objects. Clicking these links redirects you to the details page of the related object. For instance, if you click the licensee name, the details page of the licensee opens.
+Information cards also contain quick links to the related objects. Selecting these links redirects you to the details page of the related object. For instance, if you select the licensee name, the details page of the licensee opens.
 
-You can close a card by clicking **Close** in the upper right or by clicking anywhere outside the card. Alternatively, pressing the **Esc** key also closes the card.
+You can close a card by selecting **Close** in the upper right or by selecting anywhere outside the card. Alternatively, pressing the **Esc** key also closes the card.

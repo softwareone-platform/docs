@@ -8,7 +8,7 @@ The option to switch accounts is only available for members with multiple accoun
 
 To switch between your accounts:
 
-1. Sign in to your account and click your profile menu in the upper right. All accounts that you belong to are displayed under **Switch account**.
+1. Sign in to your account and select your profile menu in the upper right. All accounts that you belong to are displayed under **Switch account**.
 
 <figure><img src="../../../.gitbook/assets/switch_account.png" alt=""><figcaption><p>Switch account</p></figcaption></figure>
 

@@ -14,4 +14,4 @@ Read on or watch the following video for the highlights from our newest release:
 
 Object Spotlight is a new feature that simplifies task management by providing a consolidated view of all tasks that require your attention.&#x20;
 
-With this feature, you can quickly view and track pending tasks associated with the key platform objects, such as your subscriptions, orders, agreements, and more. All pending tasks are displayed in the **Pending tasks** widget on the homepage. For instance, if you have a subscription that's nearing expiration, it's displayed as a pending task for you to review and address. To learn more, see [View Pending Tasks](../../marketplace-platform/getting-started/interface/view-pending-tasks.md).
+With this feature, you can quickly view and track pending tasks associated with the key platform objects, such as your subscriptions, orders, agreements, and more. All pending tasks are displayed in the **Pending tasks** widget on the homepage. For instance, if you have a subscription that's nearing expiration, it's displayed as a pending task for you to review and address. To learn more, see View Spotlighted Objects.&#x20;

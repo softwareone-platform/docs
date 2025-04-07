@@ -24,7 +24,7 @@ You can use the **Edit** option on your profile page to update your account sett
 * The date format.
 
 {% hint style="info" %}
-Click to see the supported languages.
+Supported languages
 
 <details>
 
@@ -54,7 +54,7 @@ Click to see the supported languages.
 
 To update your profile:
 
-1. On your profile overview page, click **Edit** in the upper right. The **Edit user** page opens.
+1. On your profile overview page, select **Edit**. The **Edit user** page opens.
 2. Change the **General** settings as necessary:
    * **Profile picture** - Add or update your profile picture. You can add a photo of yourself, a logo, or anything that represents you and helps others identify you easily on the platform. Your image must be in PNG or JPG format. The maximum file size is 5 MB.
    * **First name** - Update your first name.

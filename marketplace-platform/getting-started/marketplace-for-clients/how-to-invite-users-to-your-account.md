@@ -16,7 +16,7 @@ Administrators can invite users through the **Add** option, which is located in 
 
 In **Add user**, complete the required sections. You'll need to enter **user details**, such as the user's full name and email address, and select the **groups** you want to assign to the user.&#x20;
 
-Next, confirm the information displayed on the **Overview** page, and then click **Add**. For detailed instructions, see [Add New Users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
+Next, confirm the information displayed on the **Overview** page, and then select **Add**. For detailed instructions, see [Add New Users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1144).png" alt=""><figcaption><p>Add user wizard</p></figcaption></figure>
 

@@ -14,11 +14,11 @@ From here, you can view your agreement name, the product you ordered, agreement 
 
 ## Viewing an agreement's details <a href="#viewing-your-orders-details" id="viewing-your-orders-details"></a>
 
-If you want to get detailed information about an agreement, click the agreement.&#x20;
+You can get detailed information for an agreement by selecting the agreement.&#x20;
 
-You'll then be able to view details like the subscriptions linked to the agreement, ordering and fulfilment parameters, the buyer, seller, and licensee entities for the agreement, more.&#x20;
+The details page shows all subscriptions linked to the agreement, parameters, the buyer, seller, and licensee entities mapped to the agreement, and more.&#x20;
 
-From the details page, you can also self-manage your agreement and do the following:
+From the details page, you can self-manage your agreement and do the following:
 
 * [Terminate your agreement](https://docs.platform.softwareone.com/~/changes/mVP8mnWO2wFE1657Z1oX/modules/marketplace/agreements/manage-your-agreements/terminate-agreements).
 * [Edit the name of your agreement.](../../../modules-and-features/marketplace/agreements/rename-an-agreement.md)

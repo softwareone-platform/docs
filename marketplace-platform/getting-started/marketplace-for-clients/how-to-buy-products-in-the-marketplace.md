@@ -14,7 +14,7 @@ You can access the SoftwareOne Marketplace by signing in to your account and sel
 {% step %}
 ### Browsing and selecting products
 
-The **Products** page shows different products that are available for you to order. The products are categorized by the vendor name and displayed in the form of cards. You can view detailed information about a product by clicking the product name. To learn more, see [Products](../../../modules-and-features/marketplace/products.md).
+The **Products** page shows different products that are available for you to order. The products are categorized by the vendor name and displayed in the form of cards. You can view detailed information about a product by selecting the product name. To learn more, see [Products](../../../modules-and-features/marketplace/products.md).
 
 <figure><img src="../../../.gitbook/assets/image (995).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 {% endstep %}
@@ -22,11 +22,11 @@ The **Products** page shows different products that are available for you to ord
 {% step %}
 ### Placing an order
 
-When you are ready to start the ordering process, click **Buy now** in the upper right on the details page.
+When you are ready to start the ordering process, select **Buy now** in the upper right on the details page.
 
 <figure><img src="../../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>Buy now option</p></figcaption></figure>
 
-When you click the **Buy now** button, the Purchase Wizard starts. The wizard is designed to guide you through all the necessary steps in placing your order.
+When you select the **Buy now** button, the Purchase Wizard starts. The wizard is designed to guide you through all the necessary steps in placing your order.
 
 <figure><img src="../../../.gitbook/assets/image (1017).png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure>
 

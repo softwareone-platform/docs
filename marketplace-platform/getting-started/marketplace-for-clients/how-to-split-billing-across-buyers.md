@@ -18,15 +18,15 @@ Split billing can only be activated at the agreement level. To activate split bi
 
 <figure><img src="../../../.gitbook/assets/Agreements (5).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
-2. On the details page of the agreement, click the down arrow<img src="../../../.gitbook/assets/icon_down_arrow.png" alt="" data-size="line"> in the upper right and select **Split billing**.
+2. On the details page of the agreement, select the down arrow<img src="../../../.gitbook/assets/icon_down_arrow.png" alt="" data-size="line"> in the upper right and select **Split billing**.
 
 <figure><img src="../../../.gitbook/assets/split_billing.png" alt=""><figcaption><p>Details page of the ageement</p></figcaption></figure>
 
-3. In the **Split billing** dialog, select the checkbox and then click **Save**.
+3. In the **Split billing** dialog, select the checkbox and then select **Save**.
 
 <figure><img src="../../../.gitbook/assets/EnableSP (1).png" alt=""><figcaption><p>Enable split billing checkbox</p></figcaption></figure>
 
-Split billing is activated and the **Split billing** tab appears on the agreement’s details page. You are now ready to configure buyers to allocate billing to.&#x20;
+Split billing is activated, and the **Split billing** tab appears on the agreement’s details page. You are now ready to configure the buyers to whom you want to allocate billing.&#x20;
 
 <figure><img src="../../../.gitbook/assets/SplitBillingTab (1).png" alt=""><figcaption><p>Split billing tab on the agreement details page</p></figcaption></figure>
 
@@ -34,13 +34,13 @@ Split billing is activated and the **Split billing** tab appears on the agreemen
 
 In this tutorial, _Stark Industries_ is the **Owner** buyer who has been allocated 100% of the billing.&#x20;
 
-We'll configure _Stark Industries II_ and _Stark Industries III_ as additional buyers and then divide the costs across buyers. To start configuring buyers:
+We will configure _Stark Industries II_ and _Stark Industries III_ as additional buyers and then divide the costs across buyers. To start configuring buyers:
 
-1. On the **Split billing** tab, click **Edit**.&#x20;
+1. On the **Split billing** tab, select **Edit**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/SplitBillingEdit (2).png" alt=""><figcaption><p>Edit option on the Split billing tab</p></figcaption></figure>
 
-2. In the **Split billing** dialog, use the checkboxes to select the buyers from the list of your active buyers and then click **Save**.&#x20;
+2. In the **Split billing** dialog, use the checkboxes to select the buyers from the list of your active buyers. Then, select **Save**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/SPBuyers (1).png" alt=""><figcaption><p>List of buyers</p></figcaption></figure>
 
@@ -48,25 +48,25 @@ _Stark Industries II_ and _Stark Industries III_ are added as buyers and display
 
 <figure><img src="../../../.gitbook/assets/SPBuyers1 (1).png" alt=""><figcaption><p>Newly assigned buyers on the Split billing tab</p></figcaption></figure>
 
-## 3. Spliting allocations
+## 3. Splitting allocations
 
 Billing can be allocated by specifying percentages for each buyer. You can also specify the estimated license count. Both of these options are linked, meaning changing one updates the other automatically, although only the allocation % is used during billing (see [Split billing rules](../../../modules-and-features/marketplace/billing/#split-billing-rules) to learn more).
 
 To start configuring the split for each buyer:
 
-1. In the **Actions** column for the **Owner** buyer, click **Details**.
+1. In the **Actions** column for the **Owner** buyer, select **Details**.
 
 <figure><img src="../../../.gitbook/assets/Details (3).png" alt=""><figcaption><p>Details option for the Owner buyer</p></figcaption></figure>
 
-2. For the required subscription, click **Edit**.
+2. Find the required subscription and select **Edit**.
 
-This example agreement contains three subscriptions, but we'll only configure allocation for the first subscription called _Creative Cloud All Apps with Adobe Stock_.
+This example agreement contains three subscriptions, but we will only configure allocation for the first subscription called _Creative Cloud All Apps with Adobe Stock_.
 
 <figure><img src="../../../.gitbook/assets/SplitBillingSubscription (1).png" alt=""><figcaption><p>Edit option for the subscription</p></figcaption></figure>
 
-3. In **Allocation %**, enter the allocation percentage for each buyer and click **Save**.&#x20;
+3. Under **Allocation %**, enter the allocation percentage for each buyer. Then, select **Save**.&#x20;
 
-In this example, 50% of billing is allocated to _Stark Industries_ (owner buyer) and the remaining 50% to _Stark Industries II_. No percentage is assigned to _Stark Industries III._&#x20;
+In this example, 50% of the billing is allocated to _Stark Industries_ (owner buyer) and the remaining 50% to _Stark Industries II_. No split billing percentage is assigned to _Stark Industries III._&#x20;
 
 <figure><img src="../../../.gitbook/assets/EditAllocation (1).png" alt=""><figcaption><p>Allocate percentages for buyers</p></figcaption></figure>
 
@@ -78,7 +78,7 @@ Use the Buyer menu at the top to view the allocation for the other buyers (_Star
 
 <figure><img src="../../../.gitbook/assets/SPBuyers2 (1).png" alt=""><figcaption><p>Buyer menu</p></figcaption></figure>
 
-5. Click **Close**. You'll be returned to the **Split billing details** tab.
+5. Select **Close**. You'll be returned to the **Split billing details** tab.
 
 <figure><img src="../../../.gitbook/assets/SPBuyers3 (1).png" alt=""><figcaption><p>Close option</p></figcaption></figure>
 

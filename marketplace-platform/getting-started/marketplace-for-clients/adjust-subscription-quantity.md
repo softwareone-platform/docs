@@ -14,13 +14,13 @@ When reducing the number of licenses, the following rules apply:&#x20;
 Follow these steps to add or remove licenses from a subscription:
 
 1. On the **Subscriptions** page (**Marketplace** > **Subscriptions**), select the required subscription.&#x20;
-2. On the subscription details page, click **Edit** in the upper right.&#x20;
+2. On the subscription details page, selecting **Edit** in the upper right.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (962).png" alt=""><figcaption><p>Edit option on the details page</p></figcaption></figure>
 
-3. In the **Edit subscription** wizard, set the quantity in the **New qty** field. The sales price of the subscription changes as you adjust the quantity. Click **Next**.
-4. Update the reference ID and add your comments in the **Notes** field. Click **Next**.
-5. Preview the changes and click **Place Order** to finalize the quantity adjustment.
+3. In the **Edit subscription** wizard, set the quantity in the **New qty** field. The sales price of the subscription changes as you adjust the quantity. Select **Next**.
+4. Update the reference ID and add your comments in the **Notes** field. Select **Next**.
+5. Preview the changes and select **Place Order** to finalize the quantity adjustment.
 
 A change order is created in the system and sent to the vendor for processing. The order is also displayed on the **Orders** page.&#x20;
 
