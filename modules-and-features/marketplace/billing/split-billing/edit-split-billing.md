@@ -12,7 +12,7 @@ When removing buyers, only those without an allocation percentage can be removed
 
 If an allocation exists for the buyers you wish to remove, the buyer checkbox will be unavailable, as shown in the following image:
 
-<figure><img src="../../../../.gitbook/assets/Remove.png" alt=""><figcaption><p>List of split billing buyers</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/split_billing_remove.png" alt=""><figcaption><p>List of split billing buyers</p></figcaption></figure>
 
 ## Updating the allocation percentage or license count
 

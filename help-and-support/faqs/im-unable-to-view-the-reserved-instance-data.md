@@ -22,7 +22,7 @@ Follow these steps to assign the role:
 
 4. On the **Role** tab, select **Reservations Reader** as the role and click **Next**. &#x20;
 
-<figure><img src="../../.gitbook/assets/ReservationsReader.png" alt=""><figcaption><p>Reservations Reader role</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/faq_reservations_reader.png" alt=""><figcaption><p>Reservations Reader role</p></figcaption></figure>
 
 5. On the **Members** tab, do the following:
    1. Select **User, group, or service principal** if it's not selected by default, and then click **Select members**. &#x20;

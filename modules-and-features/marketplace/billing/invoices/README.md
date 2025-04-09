@@ -17,16 +17,15 @@ You can access the Invoice page by selecting **Billing** > **Invoice** from the 
 
 The **Invoices** page displays all invoices for your account. For each invoice, you can view the following details:
 
-* **ID** - Displays the unique ID assigned to the invoice by the platform.
-* Type - Displays the type of invoice:&#x20;
-  * **Debit** -&#x20;
-  * **Credit** - A credit type is the inverse of an invoice when there are negative charges (such as refunds and returns). Credit memos have a negative total or reduce a past invoice. They can still be tied to a Statement ID.
-* **Buyer** -
+* **ID** - Displays the unique ID of the invoice. Click the **ID** to display the invoice details page.
+* **Type** - Displays the type of invoice:&#x20;
+  * **Debit** - A debit invoice is simply an invoice that shows a summary of charges and the total payable amount.
+  * **Credit** - A credit invoice is a memo that is generated for negative charges, such as refunds and returns. Credit memos have a negative total but can still be tied to a statement.
+* **Buyer** -&#x20;
 * **Vendor** -
 * **Product** -
 * **Agreement** -
 * **Seller** -&#x20;
-* **Created** - Displays the date when the invoice was created.
+* **Created** - Displays the invoice generation date.
 * **SP** - Displays the total amount of the invoice.
-* **Status** - Displays the invoice's status.
-
+* **Status** - Displays the status of the invoice, such as **Paid**, **Overdue**, or **Generated**.

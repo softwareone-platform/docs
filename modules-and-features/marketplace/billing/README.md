@@ -10,11 +10,11 @@ To enhance clarity and help you monitor charges more efficiently, the Marketplac
 
 An invoice is a billing document you receive for your purchases. Invoices are issued as PDFs in the context of specific agreements.&#x20;
 
-They contain a summary of charges and details like your customer information, payment terms, and so on. Invoice PDFs also include subscription details and the consolidated charges for all items within the subscription. See [Understand Your Billing Documents](broken-reference) for guidance on understanding the different components of an invoice.
+They contain a summary of charges and details like your customer information, payment terms, and so on. Invoice PDFs also include subscription details and the consolidated charges for all items within the subscription. See [Understand Your Billing Documents](understand-your-billing-documents.md) for guidance on understanding the different components of an invoice.
 
 To download a sample invoice, use the following link:
 
-{% file src="../../../.gitbook/assets/Sample Invoice.pdf" %}
+{% file src="../../../.gitbook/assets/sample_invoice.pdf" %}
 Sample: Marketplace Billing Invoice
 {% endfile %}
 
@@ -22,13 +22,13 @@ Sample: Marketplace Billing Invoice
 
 A billing statement is a detailed record of charges, and it is issued for each invoice. Unlike an invoice PDF, which only provides a summary of charges, a statement contains a comprehensive breakdown of all charges.&#x20;
 
-Statements are generated as Excel files, and they contain the data for your charges and orders on separate tabs. See [Understand Your Billing Documents](broken-reference) to learn more about statements.
+Statements are generated as Excel files, and they contain the data for your charges and orders on separate tabs. See [Understand Your Billing Documents](understand-your-billing-documents.md) to learn more about statements.
 
 You can download your billing statements from the **Attachments** tab on the agreement details page. See [Viewing and Downloading Attachments](../agreements/view-and-download-attachments.md) for instructions.
 
 To download a sample statement, use the following link:
 
-{% file src="../../../.gitbook/assets/Sample Statement.xlsx" %}
+{% file src="../../../.gitbook/assets/sample_statement.xlsx" %}
 Sample: Marketplace Billing Statement
 {% endfile %}
 

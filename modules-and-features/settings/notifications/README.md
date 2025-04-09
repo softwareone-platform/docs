@@ -39,7 +39,7 @@ The **Notifications** page contains these three tabs: **Subscribers**, **Message
 
 The **Subscribers** tab displays all [notification categories](./#notification_types) configured for your account. For each notification, you can view the following details:
 
-* **Subscribers** - Displays the category name. Clicking the name opens the [subscribers details page ](./#subscriber-details-page)to manage the notification's configuration. &#x20;
+* **Subscribers** - Displays the category name. Clicking the name opens the [subscriber details page ](./#subscriber-details-page)to manage the notification's configuration. &#x20;
 * **Description** - Displays a short description of the category.
 * **Recipients** - Shows the total number of users and groups who are the recipients of the notifications.
 * **Updated** - Shows the date and time the notification's configuration was updated.&#x20;

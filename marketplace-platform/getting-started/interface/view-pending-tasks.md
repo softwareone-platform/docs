@@ -1,6 +1,6 @@
 # View Spotlighted Objects
 
-The **Spotlight** widget in the Marketplace Platform is designed to highlight key items, like your agreements, orders, subscriptions, invoices, and more. It highlights all items that need your attention. For example, if you have subscriptions that are nearing expiration, they will be spotlighted so you can manage them easily.
+The **Spotlight** widget in the Marketplace Platform is designed to highlight key items, like your agreements, orders, subscriptions, invoices, and more. It spotlights all items that need your attention. For example, if you have subscriptions that are nearing expiration, they are displayed in the widget so you can manage them easily.
 
 You can find the **Spotlight** widget on the **Home** page, and it can also be accessed by clicking the Spotlight icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> in the status bar.
 
@@ -10,4 +10,4 @@ Within the widget, the information is organized by object type; for example, ren
 
 The widget also provides a total count of items for each category, so you always know how many items need your attention. By default, a maximum of five items are displayed. If there are more items in a category, you can select the **view all** link to view those items on the object's main page.
 
-All details in the widget are synced periodically to ensure you stay informed and always have the latest information. You can also refresh the list manually by selecting the Sync icon <img src="../../../.gitbook/assets/icon_sync.png" alt="" data-size="line">.
+All details in the widget are synced periodically to ensure you stay informed and always have the latest information. You can also refresh the list manually by selecting the sync icon <img src="../../../.gitbook/assets/icon_sync.png" alt="" data-size="line">.

@@ -40,6 +40,7 @@ From the details page, you can complete the following tasks:&#x20;
 * [Terminate a subscription](terminate-a-subscription.md)
 * [Edit the subscription ID](edit-subscription-id.md)
 * [Edit split billing allocation](../billing/split-billing/edit-split-billing.md) (only if split billing is enabled)
+* [Manage automatic renewal for a subscription](manage-automatic-renewals.md)
 
 </details>
 
@@ -71,4 +72,8 @@ The subscription details page displays all information for a subscription, such 
 
 {% content-ref url="terminate-a-subscription.md" %}
 [terminate-a-subscription.md](terminate-a-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="manage-automatic-renewals.md" %}
+[manage-automatic-renewals.md](manage-automatic-renewals.md)
 {% endcontent-ref %}

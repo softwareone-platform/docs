@@ -15,13 +15,13 @@ You can reach out to us via email at [marketplace-support@softwareone.com](mailt
 To create a support ticket from your account:
 
 1. [Sign in to your account](https://portal.platform.softwareone.com).&#x20;
-2. Click the **Help** icon <img src="../.gitbook/assets/icon_support.png" alt="" data-size="line"> in the header and select **Support**. The **Help and Support** page opens.
+2. Select the **Help** icon <img src="../.gitbook/assets/icon_support.png" alt="" data-size="line"> in the header and then select **Support**.&#x20;
 
 <figure><img src="../.gitbook/assets/contact_support.png" alt=""><figcaption><p>Support option in the Help menu</p></figcaption></figure>
 
-3. On the **Help and Support** page, click **Submit a Ticket**.
-4. Fill out the form according to your issue. Optionally, click **Select files** to upload documentation that might help us understand and resolve your problem quickly.
-5. Click **Send**.&#x20;
+3. On the **Help and Support** page, select **Submit a Ticket**.
+4. Fill out the form according to your issue. Optionally, choose **Select files** to upload documentation that might help us understand and resolve your problem quickly.
+5. Select **Send**.&#x20;
 
 A confirmation message is displayed stating that your ticket has been created. If the **Send** button is unavailable, make sure you've entered the required information.&#x20;
 
@@ -33,6 +33,6 @@ The [Getting Started](../marketplace-platform/getting-started/) section contains
 
 If you are an Adobe VIP Marketplace member, see the [Adobe VIP Marketplace](../extensions/adobe-vip-marketplace/) section for detailed information on Adobe's new buying program and how to manage your subscriptions and billing through the platform. You can also find supporting resources in the same section, such as [tutorials](../extensions/adobe-vip-marketplace/tutorials-and-videos/), [videos](../extensions/adobe-vip-marketplace/webinars-and-videos.md), and [FAQs](../extensions/adobe-vip-marketplace/faqs/).
 
-To learn about buying and managing CSP products through the Marketplace Platform, see [Microsoft CSP](../extensions/microsoft-cloud-solution-provider/). You can also use this section to access [CSP tutorials ](../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/)and learn about [CSP renewals](../extensions/microsoft-cloud-solution-provider/renewal-management.md), and [FAQs](../extensions/microsoft-cloud-solution-provider/faqs/).
+To learn about buying and managing CSP products through the Marketplace Platform, see [Microsoft CSP](../extensions/microsoft-cloud-solution-provider/). You can also use this section to access [CSP tutorials,](../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/) learn about [CSP renewals](../extensions/microsoft-cloud-solution-provider/renewal-management.md), and view [FAQs](../extensions/microsoft-cloud-solution-provider/faqs/).
 
 For help with your password or account settings, see [Update Password](faqs/update-password.md) and [Settings](../modules-and-features/settings/).

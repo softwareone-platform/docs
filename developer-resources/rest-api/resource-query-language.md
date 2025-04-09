@@ -1,38 +1,32 @@
----
-description: >-
-  Resource Query Language (RQL) is a query language used by the Marketplace
-  Platform in its REST API.
----
-
 # Resource Query Language
 
-## Introduction
+Resource Query Language (RQL) is a query language used by the Marketplace Platform in its REST API.It is used for querying and manipulating resources in the Marketplace Platform's [REST API](./).&#x20;
 
-The **Resource Query Language** (or **RQL**) is used for querying and manipulating resources in the Marketplace Platform's [REST API](./). With RQL, you can filter, sort, paginate, and project data. It is simple to use but flexible enough to handle complex scenarios.
+With RQL, you can filter, sort, paginate, and project data. It is simple to use but flexible enough to handle complex scenarios.
 
 ## Using RQL&#x20;
 
 RQL consists of a set of operators that can be classified into three main categories:
 
-1. **Comparison Operators**: These perform comparisons like equals, greater than, etc.
-2. **Logical Operators**: These combine multiple conditions.
-3. **Algorithmic Operators**: These handle functionalities like sorting and pagination.
+1. **Comparison Operators** - These perform comparisons like equals, greater than, etc.
+2. **Logical Operators** - These combine multiple conditions.
+3. **Algorithmic Operators** - These handle functionalities like sorting and pagination.
 
 Operators are formatted as `operator(arg1,arg2,...)`. Complex expressions can be created by nesting these operators.
 
-## Practical Examples
+## Practical examples
 
 Suppose you want to list all users with a specific domain. Implementing filtering is essential, and this is where RQL comes in.
 
-### **Basic Filtering**
+### **Basic filtering**
 
-To display all users with the first name "Buzz", your GET request would look like this:
+To display all users with the first name 'Buzz, your `GET` request will look like this:
 
 ```http
 GET /v1/accounts/users?firstName=Buzz
 ```
 
-the same expression can be written as:&#x20;
+The same expression can be written as:&#x20;
 
 ```http
 GET /v1/accounts/users?eq(firstName,Buzz)
@@ -40,7 +34,7 @@ GET /v1/accounts/users?eq(firstName,Buzz)
 
 ### Sorting
 
-To sort users based on their first name, your GET request would look like this:
+To sort users based on their first name, your `GET` request will look like this:
 
 ```http
 GET /v1/accounts/users?order=firstName
@@ -61,7 +55,7 @@ GET /v1/accounts/users?limit=10&offset=20
 ```
 
 * The first parameter `limit=10` expresses the number of users to return
-* Second parameter offset=`20` offsets the starting position in the result set. The first 20 users will be skipped.
+* The second parameter offset=`20` offsets the starting position in the result set. The first 20 users will be skipped.
 
 ### Projection
 
@@ -79,7 +73,7 @@ GET /v1/accounts/users?select=-firstName,-lastName,-email
 
 ### Search
 
-To search for all users with the firstName starting from 'Bu', the following query can be used:
+To search for all users with the first name starting from 'Bu', the following query can be used:
 
 ```http
 GET /v1/accounts/users?ilike(firstName,Bu*)
@@ -87,9 +81,9 @@ GET /v1/accounts/users?ilike(firstName,Bu*)
 
 the operator `ilike` performs a case-insensitive search.
 
-### Combining Operators
+### Combining operators
 
-Logical operators can be used to combine multiple operators. For example, to filter users with first name "Buzz" and last name "Astral":
+Logical operators can be used to combine multiple operators. For example, to filter users with first name 'Buzz' and last name 'Astral:
 
 ```http
 GET /v1/accounts/users?and(eq(firstName,Buzz),eq(lastName,Astral))
@@ -107,9 +101,9 @@ GET /v1/accounts/users?firstName=Buzz&lastName=Astral
 
 ## Advanced use cases <a href="#markdown-header-more-information" id="markdown-header-more-information"></a>
 
-### Special Characters in Values
+### Special characters in values
 
-To pass special characters (e.g., &^$?) or whitespaces as values to RQL operators, enclose them in either double quotes (") or single quotes (') as shown in the following example:
+To pass special characters (like, &^$?) or whitespaces as values to RQL operators, enclose them in either double quotes (") or single quotes (') as shown in the following example:
 
 ```http
 GET /v1/accounts/users?firstName="Buzz !!!"
@@ -123,7 +117,7 @@ GET /v1/accounts/users?firstName="Buzz with the ' Quote"
 
 Allowing you to pass these special symbols as values.
 
-### The Asterisk Character and the ilike operator
+### The asterisk Character and the ilike operator
 
 The asterisk (\*) character has a special meaning in the `ilike` operator, matching zero or more characters in its place from the parameter value. For example, the "\*dog" pattern will match strings like "big dog" and "dog," but it will not match "big dog!" because of the exclamation mark.
 

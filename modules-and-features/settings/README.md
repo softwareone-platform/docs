@@ -1,6 +1,6 @@
 # Settings
 
-The **Settings** module allows an account administrator to manage various aspects of their account and its entities, including buyers, licensees, and sellers. It also offers access management by allowing administrators to secure account access by overseeing users, groups, and API tokens.
+The **Settings** module allows account administrators to manage various aspects of the account, including notifications and platform entities, including buyers, licensees, and sellers. It also allows administrators to secure account access by overseeing users, groups, and API tokens.
 
 **General Settings**
 
@@ -28,6 +28,10 @@ The **Settings** module allows an account administrator to manage various aspect
 
 {% content-ref url="users/" %}
 [users](users/)
+{% endcontent-ref %}
+
+{% content-ref url="notifications/" %}
+[notifications](notifications/)
 {% endcontent-ref %}
 
 **Platform Tools**
