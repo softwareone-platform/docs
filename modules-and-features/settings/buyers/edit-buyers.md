@@ -8,22 +8,19 @@ The information that you can update includes the contact person assigned to the 
 
 To update the buyer details in your account:
 
-1. On the **Buyers** page (**Settings** > **Buyer**), find the buyer to update.
-2. Click the buyer's name. When the details page of your selected buyer opens, click **Edit** in the upper right. The **Edit buyer** page opens.
+1. Navigate to the **Buyers** page and select the buyer to update.
+2. On the buyer details page, select **Edit** to start the **Edit buyer** wizard.
 
 <figure><img src="../../../.gitbook/assets/Buyer.png" alt=""><figcaption><p>Details page of a buyer</p></figcaption></figure>
 
-3. In **General**, add or update the buyer's logo. You can upload an image by clicking **Select file** or by dragging the image into the field.
-4.  In **Contact Person**, make the following changes as necessary:&#x20;
+3. Complete the following steps as necessary:
+   1. On the **General** page, add or update the buyer's logo and select **Save**. You can upload an image by selecting **Select file** or by dragging the image into the field.&#x20;
+   2. On the **Contact Person** page, choose the required setting and select **Save**:&#x20;
+      * **None (leave unassigned)** - Select this to leave the contact person unassigned.
+      * **Select an account user** - Select this to choose an existing user. When you select this option, all active users that exist in your account are displayed. If your account contains several users, use the **Search** option to find the user easily.
+      * **Add contact details manually** - Select this to add the individual's details manually. You'll need to provide the person's first name, last name, email address, and contact information.
 
-    * **None (leave unassigned)** - Select to leave the contact person unassigned.
-    * **Select an account user** - Select to choose an existing user. When you select this option, all active users that exist in your account are displayed. If your account contains several users, use the **Search** option to find the user easily.
-    * **Add contact details manually** - Select to add the individual's details manually. You'll need to provide the person's first name, last name, email address, and the optional contact information.
-
-
-
-    <figure><img src="../../../.gitbook/assets/image (939).png" alt="" width="563"><figcaption><p>Contact person section</p></figcaption></figure>
-5. Click **Save**. A confirmation message is displayed stating that the buyer details have been updated.&#x20;
+The buyer's details are updated, and a confirmation message is displayed.
 
 ## Related topics
 

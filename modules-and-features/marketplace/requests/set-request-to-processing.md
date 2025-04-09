@@ -40,7 +40,3 @@ The status of your request changes from **Querying** to **Processing**. If you a
 {% content-ref url="add-and-manage-attachments.md" %}
 [add-and-manage-attachments.md](add-and-manage-attachments.md)
 {% endcontent-ref %}
-
-{% content-ref url="complete-a-request.md" %}
-[complete-a-request.md](complete-a-request.md)
-{% endcontent-ref %}

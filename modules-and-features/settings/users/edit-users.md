@@ -8,15 +8,15 @@ Using this option, you can only update the groups that the individual belongs to
 
 To update a user's group membership:
 
-1. On the **Users** page (**Settings** > **Users**), find the required user. You can [use filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data) to find the user based on their ID, name, email address, and other conditions.
-2. Click the actions icon (**•••**) and select **Edit**. The **Edit user** page opens.
-3. Select **Groups** and make the changes as necessary:
+1. Navigate to the **Users** page and find the required user. You can [use filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data) to find a user based on their ID, name, email address, and other conditions.
+2. Select the actions icon (**•••**) and select **Edit** to start the **Edit user** wizard.
+3. Select the **Groups** page and then make the following changes as necessary:
    * To add the user to a group, select the checkbox for that group.
    * To remove the user from a group, clear the checkbox.
 
 <figure><img src="../../../.gitbook/assets/image (1000).png" alt=""><figcaption><p>Edit user</p></figcaption></figure>
 
-4. Click **Save**. A confirmation message is displayed stating that the user has been edited successfully.
+4. Select **Save**. A confirmation message is displayed stating that the user has been edited successfully.
 
 ## Related topics
 

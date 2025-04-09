@@ -1,6 +1,6 @@
 # How to Change License Quantity
 
-The Marketplace Platform gives you the flexibility to add or remove licenses at any time.&#x20;
+The Marketplace Platform gives you the flexibility to upsize or downsize your licenses at any time.&#x20;
 
 If you need more licenses, you can alter the subscription to add additional licenses. You can also lower the number of licenses if you no longer require all of your ordered licenses.
 
@@ -11,17 +11,15 @@ When reducing the number of licenses, the following rules apply:&#x20;
 
 ## Adding or removing licenses
 
-Follow these steps to add or remove licenses from a subscription:
+To add or remove licenses from a subscription:
 
-1. On the **Subscriptions** page (**Marketplace** > **Subscriptions**), select the required subscription.&#x20;
-2. On the subscription details page, selecting **Edit** in the upper right.&#x20;
+1. Navigate to the **Subscriptions** page in the platform.
+2. Select the required subscription.
+3. On the subscription details page, select **Edit** to start the **Edit subscription** wizard.&#x20;
+4. On the Items page, update the quantity in the **New qty** field. You'll notice that the sales price of the subscription changes as you adjust the quantity. When done, select **Next**.
+5. On the **Details** page, add or update the reference ID and your comments as necessary. Then, select **Next**.
+6. On the **Review** page, check the details and select **Place Order**.
 
-<figure><img src="../../../.gitbook/assets/image (962).png" alt=""><figcaption><p>Edit option on the details page</p></figcaption></figure>
-
-3. In the **Edit subscription** wizard, set the quantity in the **New qty** field. The sales price of the subscription changes as you adjust the quantity. Select **Next**.
-4. Update the reference ID and add your comments in the **Notes** field. Select **Next**.
-5. Preview the changes and select **Place Order** to finalize the quantity adjustment.
-
-A change order is created in the system and sent to the vendor for processing. The order is also displayed on the **Orders** page.&#x20;
+A change order is created in the system and sent to the vendor for processing. The new change order is also displayed in your list of orders on the **Orders** page.&#x20;
 
 When the change order is being processed, the status of the subscription and the agreement changes to **Updating**. This indicates that the agreement is temporarily locked, and no further orders can be placed under this agreement until the change order is completed.

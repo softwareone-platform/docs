@@ -12,25 +12,26 @@ See [Manage your profile](https://docs.platform.softwareone.com/marketplace-plat
 
 To update your account details:
 
-1. On the **Account** page (**Settings** > **Account**), click **Edit** in the upper right. The **Edit account** wizard launches.
+1. Navigate to the **Account** page.
+2. Select **Edit** to start the **Edit account** wizard.
 
 <figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Account page</p></figcaption></figure>
 
-2. Change the **General** settings as necessary:
-   * **Logo** - Update the logo for your account. You can upload an image by clicking **Select file** or by dragging the image into the field.
-   * **Client name** - Update the name of your account. The account name is displayed in the upper right and on other pages on the platform.
-3. Change the **Additional data** settings as necessary:
+3. On the **General** page, change the following settings as necessary:
+   1. **Logo** - Update the logo for your account. You can upload an image by selecting **Select file** or by dragging the image into the field.
+   2. **Client name** - Update the name of your account. The account name is displayed in the upper right and on other pages on the platform.
+4. Change the **Additional data** settings as necessary:
    * **Company website** - Enter the URL for your company website.
    * **Technical support email** - Enter an email address for your technical support.
    * **Company description** - Enter a description of your company.
-4. Change the **Headquarters address** settings as necessary:
+5. Change the **Headquarters address** settings as necessary:
    * **Address line 1** - Enter the first line of your company address.
    * **Address line 2** - Enter additional details or secondary address information.
    * **City** - Enter the city for your address.
    * **State/region** - Select the state or region for your address.
    * **ZIP/postcode** - Enter the ZIP or postal code for your address.
    * **Country** - Select the country for your address.
-5. Click **Save**. A message is displayed stating that your account settings have been updated.
+6. Click **Save**. A message is displayed stating that your account settings have been updated.
 
 ## Related topics
 

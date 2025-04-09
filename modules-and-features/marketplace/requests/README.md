@@ -6,7 +6,7 @@ Client account users can create new requests through the **Products** page and t
 
 ## Requests interface
 
-You can access the **Requests** page by selecting **Marketplace** > **Requests** from the main menu.&#x20;
+To access the **Requests** page from the main menu, select **Marketplace** > **Requests**.
 
 <figure><img src="../../../.gitbook/assets/requests_page.png" alt=""><figcaption><p> Requests page</p></figcaption></figure>
 
@@ -34,7 +34,7 @@ From the details page, you can complete the following tasks:&#x20;
 * [Add a message to the conversation](add-a-message.md)
 * [Set your request from Querying to Processing](set-request-to-processing.md)
 * [Add and manage the files attached to a request](add-and-manage-attachments.md)
-* [Complete or close a request](complete-a-request.md)
+* [Complete or close a request](broken-reference)
 
 </details>
 
@@ -69,8 +69,4 @@ The request details page is organized into several tabs, each providing specific
 
 {% content-ref url="add-and-manage-attachments.md" %}
 [add-and-manage-attachments.md](add-and-manage-attachments.md)
-{% endcontent-ref %}
-
-{% content-ref url="complete-a-request.md" %}
-[complete-a-request.md](complete-a-request.md)
 {% endcontent-ref %}

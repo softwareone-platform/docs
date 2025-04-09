@@ -10,63 +10,57 @@ In this tutorial, an agreement named _Adobe VIP Marketplace for Stark Industries
 
 Before getting started with the tutorial, it's essential to have an understanding of the platform's [key concepts](../key-concepts.md). You must also be familiar with the platform's interface and know how to navigate it.
 
-## 1. Activating split billing
+## Implementation
+
+{% stepper %}
+{% step %}
+### Activating split billing
 
 Split billing can only be activated at the agreement level. To activate split billing:
 
 1. Navigate to the **Agreements** page and select the required agreement.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Agreements (5).png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
-
-2. On the details page of the agreement, select the down arrow<img src="../../../.gitbook/assets/icon_down_arrow.png" alt="" data-size="line"> in the upper right and select **Split billing**.
-
-<figure><img src="../../../.gitbook/assets/split_billing.png" alt=""><figcaption><p>Details page of the ageement</p></figcaption></figure>
-
-3. In the **Split billing** dialog, select the checkbox and then select **Save**.
+2. On the agreement details page, select the down arrow<img src="../../../.gitbook/assets/icon_down_arrow.png" alt="" data-size="line"> in the upper right and select **Split billing**.
+3. In the **Split billing** dialog, select the checkbox, then select **Save**.
 
 <figure><img src="../../../.gitbook/assets/EnableSP (1).png" alt=""><figcaption><p>Enable split billing checkbox</p></figcaption></figure>
 
 Split billing is activated, and the **Split billing** tab appears on the agreement’s details page. You are now ready to configure the buyers to whom you want to allocate billing.&#x20;
+{% endstep %}
 
-<figure><img src="../../../.gitbook/assets/SplitBillingTab (1).png" alt=""><figcaption><p>Split billing tab on the agreement details page</p></figcaption></figure>
+{% step %}
+### Configuring buyers
 
-## 2. Configuring buyers
+In this tutorial, _Stark Industries_ is the **Owner** buyer who has been allocated 100% of the billing.  We will configure _Stark Industries II_ and _Stark Industries III_ as additional buyers and then divide the costs across buyers.&#x20;
 
-In this tutorial, _Stark Industries_ is the **Owner** buyer who has been allocated 100% of the billing.&#x20;
+To start configuring buyers:
 
-We will configure _Stark Industries II_ and _Stark Industries III_ as additional buyers and then divide the costs across buyers. To start configuring buyers:
-
-1. On the **Split billing** tab, select **Edit**.&#x20;
+1. Select the **Split billing** tab on the agreement details page.
+2. Select **Edit**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/SplitBillingEdit (2).png" alt=""><figcaption><p>Edit option on the Split billing tab</p></figcaption></figure>
 
-2. In the **Split billing** dialog, use the checkboxes to select the buyers from the list of your active buyers. Then, select **Save**.&#x20;
+3. In the **Split billing** dialog, use the checkboxes to select the buyers from the list of your active buyers. When done, select **Save**.
 
 <figure><img src="../../../.gitbook/assets/SPBuyers (1).png" alt=""><figcaption><p>List of buyers</p></figcaption></figure>
 
 _Stark Industries II_ and _Stark Industries III_ are added as buyers and displayed on the **Split billing** tab. You are now ready to allocate billing to these buyers.&#x20;
 
 <figure><img src="../../../.gitbook/assets/SPBuyers1 (1).png" alt=""><figcaption><p>Newly assigned buyers on the Split billing tab</p></figcaption></figure>
+{% endstep %}
 
-## 3. Splitting allocations
+{% step %}
+## Splitting allocations
 
 Billing can be allocated by specifying percentages for each buyer. You can also specify the estimated license count. Both of these options are linked, meaning changing one updates the other automatically, although only the allocation % is used during billing (see [Split billing rules](../../../modules-and-features/marketplace/billing/#split-billing-rules) to learn more).
 
 To start configuring the split for each buyer:
 
 1. In the **Actions** column for the **Owner** buyer, select **Details**.
-
-<figure><img src="../../../.gitbook/assets/Details (3).png" alt=""><figcaption><p>Details option for the Owner buyer</p></figcaption></figure>
-
-2. Find the required subscription and select **Edit**.
-
-This example agreement contains three subscriptions, but we will only configure allocation for the first subscription called _Creative Cloud All Apps with Adobe Stock_.
+2. Find the required subscription and select **Edit**. The example agreement contains three subscriptions, but we will only configure allocation for the first subscription, called _Creative Cloud All Apps with Adobe Stock_.
 
 <figure><img src="../../../.gitbook/assets/SplitBillingSubscription (1).png" alt=""><figcaption><p>Edit option for the subscription</p></figcaption></figure>
 
-3. Under **Allocation %**, enter the allocation percentage for each buyer. Then, select **Save**.&#x20;
-
-In this example, 50% of the billing is allocated to _Stark Industries_ (owner buyer) and the remaining 50% to _Stark Industries II_. No split billing percentage is assigned to _Stark Industries III._&#x20;
+3. Under **Allocation %**, enter the allocation percentage for each buyer. Then, select **Save**. In this example, 50% of the billing is allocated to _Stark Industries_ (owner buyer) and the remaining 50% to _Stark Industries II_. No split billing percentage is assigned to _Stark Industries III._&#x20;
 
 <figure><img src="../../../.gitbook/assets/EditAllocation (1).png" alt=""><figcaption><p>Allocate percentages for buyers</p></figcaption></figure>
 
@@ -79,8 +73,8 @@ Use the Buyer menu at the top to view the allocation for the other buyers (_Star
 <figure><img src="../../../.gitbook/assets/SPBuyers2 (1).png" alt=""><figcaption><p>Buyer menu</p></figcaption></figure>
 
 5. Select **Close**. You'll be returned to the **Split billing details** tab.
-
-<figure><img src="../../../.gitbook/assets/SPBuyers3 (1).png" alt=""><figcaption><p>Close option</p></figcaption></figure>
+{% endstep %}
+{% endstepper %}
 
 ## Next steps
 

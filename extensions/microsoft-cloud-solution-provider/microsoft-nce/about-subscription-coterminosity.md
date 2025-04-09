@@ -18,7 +18,7 @@ Coterminosity allows you to align the end date of a new subscription with that o
 * Aligning end dates is only possible for license-based NCE subscriptions. Azure, Perpetual Software, and Software subscriptions do not support aligning the end dates.
 * Annual and triannual term subscriptions cannot be coterminated with a monthly term subscription.
 * You can coterminate your add-on subscriptions to existing subscription end dates as long as they belong to the same partner.
-* Yearly subscriptions cannot be aligned with monthly subscriptions. If coterming is enabled with a monthly date and an annual subscription is ordered, a message is displayed stating that the end date will require updating; otherwise, the subscription will be created without coterminosity. See [Subscription End Date Errors](broken-reference) for details.
+* Yearly subscriptions cannot be aligned with monthly subscriptions. If coterming is enabled with a monthly date and an annual subscription is ordered, a message is displayed stating that the end date will require updating; otherwise, the subscription will be created without coterminosity. See [Subscription End Date Errors](subscription-end-date-errors.md) for details.
 
 #### Example
 

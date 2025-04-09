@@ -17,7 +17,7 @@ The process of enrolling in a program through the Marketplace Platform involves 
 
 ## Enrollments interface
 
-The **Enrollments** page on the platform shows your list of enrollments along with a status for each one. You can access the page from the main menu by selecting **Marketplace** > **Enrollments**.
+The **Enrollments** page on the platform shows your list of enrollments along with a status for each one. To access the **Enrollments** page from the main menu, select **Marketplace** > **Enrollments**.
 
 <figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Enrollments page</p></figcaption></figure>
 

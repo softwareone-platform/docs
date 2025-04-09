@@ -202,7 +202,7 @@ The number of years on Step 6 is equal to the number of years you have defined i
 
 Fill in the prices for all products in Y1, Y2, Y3 until Yn (n = no. of years tab you have added in Step 4).
 
-<figure><img src="../../../.gitbook/assets/legacy_ea_trueup4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 Prices for subscriptions are already populated from Step 5, however, you can add more if needed but existing subscriptions (added in Step 5) cannot be removed.
 
@@ -235,7 +235,7 @@ In Step 1, if the user does not find the agreement listed in the drop-down, they
 
 Clicking this tile will take you to the next form as shown below:
 
-<figure><img src="../../../.gitbook/assets/legacy_ea_trueup5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
 
 Fill in the details and click on “Next” to proceed with this agreement.
 
@@ -326,7 +326,7 @@ On this page, all details are shown for the respective product. i.e. if the same
 
 Even though you have come to this page via a specific product record on the overview page, you can still select any other product directly from top dropdown. There is no need to go back to the overview page.
 
-<figure><img src="../../../.gitbook/assets/legacy_ea_trueup6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
 **Reporting Location**
 
@@ -334,7 +334,7 @@ For the selected product, the reporting location drop-down will only contain tho
 
 For example, if a product is set up under the “Industry Device” product profile, only those reporting locations would be available in the drop-down which belongs to this profile.
 
-<figure><img src="../../../.gitbook/assets/legacy_ea_trueup7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 If nothing is selected in the “Reporting Locations” drop-down, all the available reporting locations are shown in the grid and are grouped by Location Group, as defined in Step 3 of the Wizard setup process.
 
@@ -342,7 +342,7 @@ At this step, you need to have the allocation data for the selected product. Num
 
 Once you have defined the quantity, the amount will get calculated automatically based on the unit price you have set up in the Wizard (Year 1 of Steps 4 and 5) using CPS.
 
-<figure><img src="../../../.gitbook/assets/legacy_ea_trueup8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
 **Total Cost** – shows the total cost of all the allocated assets/licenses. i.e. if only 40 assets are allocated out of 90, the total cost will show the amount for 40 assets.
 

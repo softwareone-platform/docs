@@ -8,19 +8,19 @@ You must action the invitation after being invited to the platform.
 
 To accept the invitation:
 
-1. Click the invite link in your email. The following page is displayed:
+1. Select the invite link in your email. The following page is displayed:
 
 <figure><img src="../../../.gitbook/assets/image (887).png" alt="" width="375"><figcaption><p>Welcome screen</p></figcaption></figure>
 
-2. Click **Accept invitation**. The registration page is displayed:
+2. Select **Accept invitation**. The registration page is displayed:
 
 <figure><img src="../../../.gitbook/assets/image (888).png" alt="" width="375"><figcaption><p>Registration page</p></figcaption></figure>
 
 3. On the registration page, do the following:
    1. Enter your first name and last name.
-   2. Enter a new password and then confirm that your new password matches the one you entered in the **Password** field. Passwords must be at least eight characters long, and must contain at least one lowercase (a-z) and one uppercase letter (A-Z), a number, and a special character. When you enter a new password, our password validation checks whether your password meets the criteria.
+   2. Enter a new password and then confirm that your new password matches the one you entered in the **Password** field. Passwords must be at least eight characters long and must contain at least one lowercase (a-z) and one uppercase letter (A-Z), a number, and a special character. When you enter a new password, our password validation checks whether your password meets the criteria.
    3. Select **I agree to the SoftwareOne Client Portal Terms of Use**.&#x20;
-   4. Click **Accept invitation**.
+   4. Select **Accept invitation**.
 
 {% hint style="info" %}
 If single sign-on (SSO) is configured, you'll be automatically redirected to your provider to authenticate. Once authenticated, you only need to enter your first and last name.&#x20;
@@ -30,7 +30,7 @@ If single sign-on (SSO) is configured, you'll be automatically redirected to you
 
 4. Sign in to your account using your email address and password.&#x20;
 
-After signing in, you are redirected to the **Home** page from where you can access platform modules and perform different operations depending on your group membership. To familiarize yourself with the platform navigation, see [Platform interface](../../../marketplace-platform/getting-started/interface/).
+After signing in, you are redirected to the **Home** page, from where you can access platform modules and perform different operations depending on your group membership. To familiarize yourself with the platform navigation, see [Platform interface](../../../marketplace-platform/getting-started/interface/).
 
 {% hint style="info" %}
 **Invite link not working?**
@@ -42,7 +42,7 @@ An invitation link will not work if it has expired. Invite links are unique and 
 
 You can decline an invitation if it was sent to you in error or if you choose not to join the account.
 
-To decline, open the invitation link and click **Decline invitation**.
+To decline, open the invitation link and select **Decline invitation**.
 
 <figure><img src="../../../.gitbook/assets/image (890).png" alt="" width="375"><figcaption><p>Decline invitation</p></figcaption></figure>
 

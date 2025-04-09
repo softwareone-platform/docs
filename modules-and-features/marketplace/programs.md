@@ -2,7 +2,7 @@
 
 The **Programs** page in the platform shows all programs that are active and open for enrollment. By enrolling in a program, eligible partners and clients get access to all benefits associated with the program.&#x20;
 
-Clicking a program on the **Programs** page opens a details page, where you can read more about the program to understand its purpose and requirements.
+Selecting a program on the **Programs** page opens a details page, where you can read more about the program to understand its purpose and requirements.
 
 <figure><img src="../../.gitbook/assets/program_details_page.png" alt=""><figcaption><p>Program details page</p></figcaption></figure>
 

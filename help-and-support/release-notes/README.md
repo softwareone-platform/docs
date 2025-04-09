@@ -1,6 +1,6 @@
 # Release Notes
 
-<figure><img src="../../.gitbook/assets/release_timeline.png" alt=""><figcaption><p> Marketplace Platform Roadmap</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption><p> Marketplace Platform Roadmap</p></figcaption></figure>
 
 {% content-ref url="release-notes-v4.md" %}
 [release-notes-v4.md](release-notes-v4.md)

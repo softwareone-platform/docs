@@ -6,13 +6,13 @@ You can [order new subscriptions through the platform](buy-products-and-services
 
 ## Subscriptions interface
 
-You can access the **Subscriptions** page by selecting **Marketplace** > **Subscriptions** from the main menu.
+To access the **Subscriptions** page from the main menu, select **Marketplace** > **Subscriptions**.
 
 <figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
 The **Subscriptions** page displays key subscription properties. It also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page for ordering new subscriptions.
 
-For each subscription, you can view the following:
+For each subscription, the page displays the following details:
 
 * **Subscription** - Displays the name and ID of the subscription.
 * **Agreement** - Displays the name and ID of the agreement associated with the subscription.

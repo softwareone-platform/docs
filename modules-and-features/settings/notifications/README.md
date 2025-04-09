@@ -10,7 +10,7 @@ In the Marketplace Platform, all related notification emails are grouped togethe
 
 Each category consolidates emails of a similar type, allowing you to manage preferences at the category level instead of handling each email individually. For example, when you disable the Orders category, you'll stop receiving all order-related emails.&#x20;
 
-The following table lists the supported notification categories:
+The following table lists the categories supported by email notifications:
 
 | Category name       | Description                                                                                                                                                                   |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

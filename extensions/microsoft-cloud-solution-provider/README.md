@@ -66,7 +66,7 @@ GDAP is a security feature that provides CSP providers with the least-privileged
 
 ## New Commerce Experience (NCE) <a href="#new-commerce-experience" id="new-commerce-experience"></a>
 
-New Commerce Experience (NCE) is a specific update within the CSP program that introduces changes to the pricing, licensing, and billing of Microsoft’s cloud services. See [Microsoft NCE](broken-reference) to learn more.
+New Commerce Experience (NCE) is a specific update within the CSP program that introduces changes to the pricing, licensing, and billing of Microsoft’s cloud services. See [Microsoft NCE](microsoft-nce/) to learn more.
 
 ## Subscription lifecycle states <a href="#subscription-lifecycle-states" id="subscription-lifecycle-states"></a>
 

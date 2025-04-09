@@ -10,7 +10,7 @@ Account administrators can access the **Account** page by selecting **Settings**
 
 <figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Your account page</p></figcaption></figure>
 
-The **Account** page displays the general account information, such as name, status, and ID and is organized into the following tabs:
+The **Account** page displays the general account information, such as name, status, and ID, and is organized into the following tabs:
 
 * **General** - Displays the additional data for your account, such as your company website and description, support email address, and headquarters address.&#x20;
 * **Modules** - Displays the modules that SoftwareOne has enabled for your account.&#x20;

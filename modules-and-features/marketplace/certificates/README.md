@@ -10,11 +10,11 @@ Through certificates management, you can also apply for a certificate by enrolli
 
 ## Certificates interface
 
-You can access the **Certificates** page by selecting **Marketplace** > **Certificates** from the main menu.
+To access the **Certificates** page from the main menu, select **Marketplace** > **Certificates**.
 
 <figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>Certificates page</p></figcaption></figure>
 
-For each certificate, you can view the following details:
+The page displays all agreements that exist in your account. For each certificate, you can view the following details:
 
 * **Certificate** - Displays the name and unique ID of the certificate.
 * **Program** - Displays the program for which the certificate has been issued.

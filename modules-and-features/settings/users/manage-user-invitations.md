@@ -10,10 +10,10 @@ If the person you invited didn't receive the invitation email or has difficulty 
 
 To reinvite a user to your account:
 
-1. On the **Users** page (**Settings** > **Users**), find the user you wish to reinvite.
-2. Click the actions icon (**•••**) and do the following:
-   1. **Copy invitation link** - Select to copy the invite as a link and share it directly with the individual.&#x20;
-   2. **Resend invitation link** - Select to resend the invitation to the user's email.
+1. Navigate to the **Users** page and find the user you wish to reinvite.
+2. Select the actions icon (**•••**) and do the following:
+   * **Copy invitation link** - Select to copy the invite as a link and share it directly with the individual.&#x20;
+   * **Resend invitation link** - Select to resend the invitation to the user's email.
 
 <figure><img src="../../../.gitbook/assets/image (1006).png" alt=""><figcaption><p>Options to reinvite an individual</p></figcaption></figure>
 
@@ -33,8 +33,8 @@ If the original invitation is still valid, you can resend the original invitatio
 
 To send a new invitation email:
 
-1. On the **Users** page (**Settings** > **Users**), find the required user.
-2. Click the actions icon (**•••**) and select **Send new invitation**. A new invitation email is sent to the individual and a confirmation message is displayed.
+1. Navigate to the **Users** page and find the required user.
+2. Select the actions icon (**•••**) and choose **Send new invitation**. A new invitation email is sent to the individual, and a confirmation message is displayed.
 
 <figure><img src="../../../.gitbook/assets/image (1007).png" alt=""><figcaption><p>Send new invitation option</p></figcaption></figure>
 

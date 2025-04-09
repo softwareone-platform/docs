@@ -10,7 +10,7 @@ Video tutorial: How to order Microsoft Azure subscription for a new Microsoft te
 
 Before starting this tutorial, make sure you have the following:
 
-* A licensee in the **active** state or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
+* A licensee in the **active** state or permission to [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
 * Details, such as your company name, registration ID, and address. You'll need to provide these details when creating the new Microsoft tenant.
 * Contact details of the person who will manage your account.&#x20;
 
@@ -18,53 +18,53 @@ Before starting this tutorial, make sure you have the following:
 
 1. Navigate to the **Products** page and click **Microsoft Azure**.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Azure.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Azure.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 2. Click **Buy now** on the details page.
 
-<figure><img src="../../../../.gitbook/assets/Azure BuyNow.png" alt=""><figcaption><p>Buy now</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Azure BuyNow.png" alt=""><figcaption><p>Buy now</p></figcaption></figure>
 
 The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
 
-<figure><img src="../../../../.gitbook/assets/image (138).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 
 ## 2. Create agreement
 
 Click **Create new agreement** to set up your new agreement.
 
-<figure><img src="../../../../.gitbook/assets/image (139).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (139).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 
 ## 3. Select licensee
 
-1. Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../../modules-and-features/settings/licensees/create-licensees.md).
+1. Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md).
 2. Click **Next**.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (140).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
 
 ## 4. Choose the Microsoft tenant
 
 1. Choose whether you want to create a new Microsoft account or use your existing account. In this tutorial, we'll create a new cloud account by selecting **Create new cloud account**, as shown in the following image.
 2. Click **Next**.
 
-<figure><img src="../../../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Create agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Create agreement</p></figcaption></figure>
 
 ## 5. Specify the domain
 
 1. (Optional) Click **Access tenant name availability tool** to check the availability of tenant names from Microsoft.
 2. Enter your preferred domain name (also known as tenant name) in **Primary** **domain name**.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (142).png" alt=""><figcaption><p>Microsoft details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption><p>Microsoft details</p></figcaption></figure>
 
 3. Fill out the required fields and click **Next**.
 
-<figure><img src="../../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Choose the service level
 
 1. Select **Azure Essentials** or **Azure Advanced**, depending on the level of service you require for Microsoft Azure.&#x20;
 2. Click **Next**.
 
-<figure><img src="../../../../.gitbook/assets/azure_service_level.png" alt=""><figcaption><p>Service level</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_service_level.png" alt=""><figcaption><p>Service level</p></figcaption></figure>
 
 ## 7. Review add-ons
 
@@ -77,30 +77,30 @@ Click **Next**.
 1. Enter the contact you want to use for support and your preferred support language.&#x20;
 2. Click **Next**.
 
-<figure><img src="../../../../.gitbook/assets/azure_support_contacts.png" alt=""><figcaption><p>Support contacts</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_support_contacts.png" alt=""><figcaption><p>Support contacts</p></figcaption></figure>
 
 ## 9. Select items
 
 Choose the Azure subscription and click **Add items** to add it to your order. For Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 
-<figure><img src="../../../../.gitbook/assets/azure_select_items.png" alt=""><figcaption><p>Select Items</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_select_items.png" alt=""><figcaption><p>Select Items</p></figcaption></figure>
 
 ## 10. Add reference information
 
 Enter the reference information as needed and click **Next**.
 
-<figure><img src="../../../../.gitbook/assets/azure_details.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_details.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
 
 ## 11. Place your order
 
 1. Review the details of your order. Make sure to read all terms and conditions, including the privacy statement. By placing the order, you accept all terms.
 2. Click **Place order** to complete your purchase.
 
-<figure><img src="../../../../.gitbook/assets/azure_review_order.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_review_order.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
 
 ## 12. View order summary
 
 1. Review your order summary and the latest status message.
 2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-<figure><img src="../../../../.gitbook/assets/azure_summary.png" alt=""><figcaption><p>Summary</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_summary.png" alt=""><figcaption><p>Summary</p></figcaption></figure>

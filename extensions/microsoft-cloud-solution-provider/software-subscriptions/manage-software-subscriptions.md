@@ -24,6 +24,6 @@ Partners have a 7-day window (except where otherwise required by law) to cancel 
 
 ## Additional licenses <a href="#additional-licenses" id="additional-licenses"></a>
 
-You can add more software items to your existing agreement by creating a change order through the platform. For instructions, see [Add New Products to Your CSP Agreement](../tutorials-and-videos/microsoft-365/add-new-products-to-your-csp-agreement.md).&#x20;
+You can add more software items to your existing agreement by creating a change order through the platform. For instructions, see [Add New Products to Your CSP Agreement](../tutorials-and-videos/add-new-products-to-your-csp-agreement.md).&#x20;
 
 When ordering new items, you can't increase the quantity of existing licenses in the agreement. In such cases, a new subscription must be created under the same agreement.

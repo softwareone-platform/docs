@@ -10,11 +10,11 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 1. Navigate to the **Products** page (**Marketplace** > **Products**) and click **Microsoft Azure**.
 
-<figure><img src="../../../../.gitbook/assets/Azure (1).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Azure (1).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 2. Click **Buy now** on the details page.
 
-<figure><img src="../../../../.gitbook/assets/AzureBuyNow.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/AzureBuyNow.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
 
 The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
 
@@ -22,7 +22,7 @@ The purchase wizard starts and the **Select agreement** section of the wizard is
 
 Select an active agreement from the list of your agreements and click **Next**.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1031).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1031).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
 
 You'll be directed to the **Select Items** section of the purchase wizard.
 
@@ -32,23 +32,23 @@ Click **Add items** to add the new Azure subscription to your order. Click **Nex
 
 For Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 
-<figure><img src="../../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
 ## 4. Provide reference details
 
 Enter the reference information as needed and click **Next**.
 
-<figure><img src="../../../../.gitbook/assets/image (1033).png" alt=""><figcaption><p>Order details</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1033).png" alt=""><figcaption><p>Order details</p></figcaption></figure>
 
 ## 5. Place your order
 
 Review the details of your change order and click **Place order** to complete your purchase.
 
-<figure><img src="../../../../.gitbook/assets/image (1034).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1034).png" alt=""><figcaption><p>Review order</p></figcaption></figure>
 
 ## 6. View order summary
 
 1. Review your order summary and the latest status message.&#x20;
 2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
 
-<figure><img src="../../../../.gitbook/assets/image (1035).png" alt=""><figcaption><p>Summary</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1035).png" alt=""><figcaption><p>Summary</p></figcaption></figure>

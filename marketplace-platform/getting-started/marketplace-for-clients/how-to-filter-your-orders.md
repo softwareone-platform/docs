@@ -1,16 +1,14 @@
 # How to Filter Your Orders
 
-Once you've placed an order through the Marketplace Platform, it's displayed on the **Orders** page. You can access the **Orders** page from the main menu by selecting **Marketplace** > **Orders**.&#x20;
+The platform supports various types of orders, including change orders, purchase orders, configuration orders, and terminate orders. When you place an order, it's displayed on the **Orders** page.&#x20;
 
-The platform supports various types of orders, including change orders, purchase orders, and terminate orders, all of which are visible on the **Orders** page.
+If you need to find a specific order, you can use the filter option to search for an order and view the order information. We provide several filter options you can use to narrow down your list of orders. You can use a single filter or create a combination of filters by selecting different fields, operators, and values.&#x20;
 
-## Using filters to find an order
+### Using filters to find an order <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
 
-If you need to find a specific order, you can use the filter option to search for an order and view the order information. We provide several filter options you can use to narrow down your list of orders.&#x20;
+To find an order using a filter, such as status:
 
-You can use a single filter or create a combination of filters by selecting different fields, operators, and values. The following steps describe how to find an order using its status.&#x20;
-
-1. On the **Orders** page, select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
+1. Navigate to the **Orders** page in the platform and select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
 
 <figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
 

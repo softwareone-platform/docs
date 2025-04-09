@@ -1,18 +1,20 @@
 # Manage Order Notes
 
-The **Notes** tab on the order details page displays any notes you may have entered during the ordering process. After the order is created, you can update these notes as needed and add new ones if they not included when you placed the order.&#x20;
+The **Notes** tab on the order details page displays the notes you may have entered during the ordering process.&#x20;
+
+After the order has been created, you can update these notes as needed and add new ones if they were not included when you placed the order.&#x20;
 
 ## Managing your order notes
 
-To manage the notes associated with your order:
+To manage the notes associated with an order:
 
-1. Navigate to the **Orders** page (**Marketplace** > **Orders**) and select the relevant order. The details page of your selected order opens.
-2. On the **Notes** tab, click **Edit**.&#x20;
+1. Navigate to the **Orders** page and select the relevant order.
+2. On the order details page, select the **Notes** tab and then select **Edit**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (951).png" alt=""><figcaption><p>Edit option on the Notes tab</p></figcaption></figure>
 
-3. In the **Edit Notes** dialog, add or update your notes. A maximum of 300 characters is allowed.
-4. Click **Save**. Your notes are updated and displayed immediately on the **Notes** tab.
+3. In the **Edit Notes** dialog, add or update your notes as necessary. A maximum of 300 characters is allowed.
+4. Select **Save**. Your notes are updated and displayed immediately on the **Notes** tab.
 
 ## Related topics
 

@@ -6,10 +6,10 @@ The settings defined on this page are global, meaning they apply to all notifica
 
 ## Customizing notification settings
 
-Follow these steps to customize the notification settings:
+To customize the notification settings:
 
 1. From the main menu, go to **Settings** > **Notifications** and select the **Settings** tab.&#x20;
-2. Click **Edit** in the upper right.
+2. Select **Edit** in the upper right.
 3. Make the following changes as necessary:
    * **Sender name** - Enter the name to display to your email recipients.
    * **Language** - Select the default language to be used for all emails sent at the account level.
@@ -17,4 +17,4 @@ Follow these steps to customize the notification settings:
 
 <figure><img src="../../../.gitbook/assets/notifications_settings.png" alt=""><figcaption></figcaption></figure>
 
-4. Click **Save**. Your settings are updated, and a confirmation message is displayed.
+4. Select **Save**. Your settings are updated, and a confirmation message is displayed.

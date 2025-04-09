@@ -34,7 +34,7 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 1. In the **New qty** field, enter the total number of licenses you want. For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4.
 2. Select **Next**.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Items section in the purchase wizard</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Items section in the purchase wizard</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

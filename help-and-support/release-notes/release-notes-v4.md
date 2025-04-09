@@ -16,7 +16,7 @@ In this release, we are introducing billing statements. In addition to invoices,
 
 Unlike invoice PDFs, which only contain a summary of charges, statements include a comprehensive breakdown of all charges. To learn more statements and understand how they differ from invoices, see  [Billing](../../modules-and-features/marketplace/billing/).
 
-As part of this release, we are also introducing two new pages on the platform: [Invoices ](../../modules-and-features/inventory/invoices.md)and [Statements](../../modules-and-features/marketplace/billing/statements/). These pages display all billing invoices and statements in your account and allow you to download these documents. You can access these pages from the new **Billing** option in the main menu.
+As part of this release, we are also introducing two new pages on the platform: [Invoices ](../../modules-and-features/inventory/invoices.md)and [Statements](../../modules-and-features/marketplace/billing/statements.md). These pages display all billing invoices and statements in your account and allow you to download these documents. You can access these pages from the new **Billing** option in the main menu.
 
 ## Deprecated Features
 

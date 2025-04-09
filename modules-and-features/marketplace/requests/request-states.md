@@ -29,7 +29,3 @@ These states are displayed as **Status** within the platform. They are also disp
 {% content-ref url="add-and-manage-attachments.md" %}
 [add-and-manage-attachments.md](add-and-manage-attachments.md)
 {% endcontent-ref %}
-
-{% content-ref url="complete-a-request.md" %}
-[complete-a-request.md](complete-a-request.md)
-{% endcontent-ref %}

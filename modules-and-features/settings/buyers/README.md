@@ -2,7 +2,7 @@
 
 In the Marketplace Platform, a buyer refers to any organization or legal entity that procures products or services from SoftwareOne. Buyers are the recipients of the invoices issued by SoftwareOne. See [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md) to learn more about buyers.
 
-As a client, you can enable or disable a buyer, and update buyer details as needed. However, you cannot add new buyers. New buyers can be added by SoftwareOne only. &#x20;
+As a client, you can enable or disable a buyer and update buyer details as needed. However, you cannot add new buyers. New buyers can be added by SoftwareOne only. &#x20;
 
 ## Buyers interface <a href="#agreements-interface" id="agreements-interface"></a>
 
@@ -19,8 +19,8 @@ The **Buyers** page shows a list of buyers in the account. For each buyer, you c
 * **Seller** - Displays the name of the SoftwareOne legal entity from which the buyer can procure.&#x20;
 * **Licensee** - Displays the licensee mapped to the buyer.
 * **Status** - Displays the buyer's status in the system. Possible values include:
-  * **Enabled** - The buyer has been created in the system but it hasn't been activated yet by SoftwareOne.
-  * **Active** - The buyer is active and you can select it from your list of buyers when buying products.
+  * **Enabled** - The buyer has been created in the system, but it hasn't been activated yet by SoftwareOne.
+  * **Active** - The buyer is active, and you can select it from your list of buyers when ordering products.
   * **Disabled** - The buyer has been disabled and can no longer be selected when buying products.
   * **Mismatch** - The buyer’s data is not in sync with the data in our backend system. This discrepancy can occur due to various reasons. [Contact support](../../../help-and-support/contact-support.md) for assistance.
 * **Actions** - Displays options that allow you to [edit a buyer](edit-buyers.md) or [enable or disable a buyer](enable-or-disable-buyers.md). These options are visible only if you have access to the Account Management module.

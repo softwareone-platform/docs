@@ -13,8 +13,6 @@ These alerts are triggered for the [notification categories](../../../modules-an
 Some categories are enabled by default, and you can't opt out of these categories. See [Notification categories](../../../modules-and-features/settings/notifications/#notification_types) to learn more.
 {% endhint %}
 
-## Using the My profile option
-
 To update your preferences using the **My profile** option in your account:
 
 1. Click the profile menu in the upper right. Then, select **My profile**.
@@ -22,8 +20,6 @@ To update your preferences using the **My profile** option in your account:
 3. Select **Edit**.&#x20;
 4. In **Edit notification preferences**, use the checkboxes to enable or disable a category.&#x20;
 5. Select **Save**. A confirmation message is displayed that your preferences have been saved.
-
-## Using the notification email
 
 To update your preferences from your notification email:
 

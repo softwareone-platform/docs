@@ -2,38 +2,39 @@
 
 In the Marketplace Platform, an order is an object signifying a business transaction based on an agreement.&#x20;
 
-An order represents a request to buy a new product, change the quantity of licenses, terminate a subscription, or terminate an agreement. Therefore, different types of orders exist in the Marketplace Platform, including:
+An order represents a request to buy a new product, change the number of licenses, terminate a subscription, or terminate an agreement. Therefore, different types of orders exist in the Marketplace Platform, including:
 
 * **Purchase orders** - These orders represent an order to buy a new product or service under a new agreement.
 * **Change orders** - These orders represent an order to change the subscription quantity, such as downsizing the license quantity or ordering additional licenses.
 * **Terminate order** - These orders represent an order to terminate a subscription or agreement.&#x20;
+* **Configuration order** - These orders represent an order to enable or disable auto renewal.
 
 ## Orders interface
 
-You can access the **Orders** page by selecting **Marketplace** > **Orders** from the main menu.
+To access the **Orders** page from the main menu, select **Marketplace** > **Orders**.
 
 <figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 
-The **Orders** page shows a complete list of your orders, including purchase, change, and termination orders. It also contains a **Buy more** option, which gives you quick access to the [Products ](https://docs.platform.softwareone.com/~/changes/5yDo0W9JFVZsyIwbYXyj/modules-and-features/marketplace/products)page for ordering new subscriptions.
+The **Orders** page shows a full list of orders in your account. It also contains a **Buy more** option, which gives you quick access to the [Products ](https://docs.platform.softwareone.com/~/changes/5yDo0W9JFVZsyIwbYXyj/modules-and-features/marketplace/products)page for ordering new subscriptions.
 
-For each order, you can view the following details:
+For each order, the order details page displays the following details:
 
 * **Order** - Displays the order number and ID.
-* **Type** - Displays the order type. The possible values are **Purchase**, **Change**, and **Terminate**.
+* **Type** - Displays the order type. The possible values are **Purchase**, **Change**, **Terminate, and Configuration**.
 * **Agreement** - Displays the agreement associated with the order.&#x20;
-* **Product** - Displays the product you've ordered.
+* **Product** - Displays the product that was ordered.
 * **Licensee** - Displays the licensee associated with the order.
-* **Buyer** -  Displays the buyer associated with this order.
+* **Buyer** -  Displays the buyer associated with the order.
 * **Seller** - Displays the SoftwareOne entity that fulfilled the order and issued the invoice.
 * **SPx** - Displays the estimated sales price of the order.
-* **Created** - Displays the date when the order was created in the platform.
+* **Created** - Displays the date when the order was created.
 * **Status** - Displays the order status. To learn about the possible statuses, see [Order States](order-states.md).
 * **Updated** - Displays the date when the order was updated.
-* **Currency** - Displays the order currency.
+* **Currency** - Displays the currency of the order.
 
 ### Order details page <a href="#subscription-details" id="subscription-details"></a>
 
-The details page of an order provides detailed information about the order. You can open the details page by clicking the order on the **Orders** page.&#x20;
+The details page of an order provides detailed information about the order. You can open the details page by selecting the order on the **Orders** page.&#x20;
 
 <details>
 

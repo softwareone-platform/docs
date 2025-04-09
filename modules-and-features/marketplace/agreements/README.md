@@ -8,13 +8,13 @@ You can access your agreements and manage them through the **Agreements** page. 
 
 ## Agreements interface
 
-You can access the **Agreements** page by selecting **Marketplace** > **Agreements** from the main menu.
+To access the **Agreements** page from the main menu, select **Marketplace** > **Agreements**.
 
 <figure><img src="../../../.gitbook/assets/agreements_page.png" alt=""><figcaption><p>Agreements page</p></figcaption></figure>
 
-The page displays all agreements that exist in your account. It also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page.&#x20;
+The page displays all agreements that exist in your account. It also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page.
 
-For each agreement, you can view the following details:
+For each agreement, the agreements page displays the following details:
 
 * **Agreement** - Displays the name and ID of the agreement.
 * **Product** - Displays the details of the product you've ordered under the agreement.
@@ -29,7 +29,7 @@ For each agreement, you can view the following details:
 
 ### Agreement details page <a href="#subscription-details" id="subscription-details"></a>
 
-The details page of an agreement provides all information related to the agreement. You can open the details page by clicking the agreement name.&#x20;
+The details page of an agreement provides all information related to the agreement. You can open the details page by clicking the agreement name on the **Agreements** page.&#x20;
 
 <details>
 

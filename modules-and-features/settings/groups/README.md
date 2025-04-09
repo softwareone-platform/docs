@@ -18,15 +18,15 @@ Account administrators can access the **Groups** page by selecting **Settings** 
 
 The page displays all groups that exist within your account. For each group, you can view the following information:
 
-* **Group** - Displays the name and ID of the group, and indicates if the group is a default one.
+* **Group** - Displays the name and ID of the group and indicates if the group is a default one.
 * **Modules** - Displays the total number of modules enabled for the group. If all modules are enabled, then **All modules** is displayed.
 * **Buyers** - Displays buyers that are visible to the group members. Buyer visibility is defined by administrators while creating or editing groups. To learn more, see [Restrict Group to Certain Buyers](restrict-group-to-certain-buyers.md).
 * **Users** - Displays the total number of users within a group.
-* **Actions** - Contains options to [edit](edit-group.md) or [delete ](delete-group.md)a group. Click the actions icon (**•••**) to access these options.
+* **Actions** - Contains options to [edit](edit-group.md) or [delete ](delete-group.md)a group. Select the actions icon (**•••**) to access these options.
 
 ## Groups details page <a href="#subscription-details" id="subscription-details"></a>
 
-The details page of a group displays specific information about the group, like the group name, status, and more . You can open the details page by clicking the group's name on the **Groups** page.&#x20;
+The details page of a group displays specific information about the group, like the group name, status, and more. You can open the details page by selecting the group's name on the **Groups** page.&#x20;
 
 <details>
 

@@ -13,7 +13,7 @@ Video tutorial: How to order Microsoft 365 subscription for an existing tenant
 Before starting this tutorial, make sure you have the following:
 
 * Your Microsoft tenant name.&#x20;
-* A Marketplace licensee in the **active** state or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when you are creating the agreement.&#x20;
+* A Marketplace licensee in the **active** state or permission to [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when you are creating the agreement.&#x20;
 
 ## Implementation
 
@@ -39,7 +39,7 @@ Select **Create agreement** to start creating your new agreement.
 
 Choose the licensee you want to use and select **Next**.&#x20;
 
-In this tutorial, we'll select an existing licensee. However, you can add a new licensee by selecting **Add licensee** and following the instructions in [Create Licensees](../../../../modules-and-features/settings/licensees/create-licensees.md).
+In this tutorial, we'll select an existing licensee. However, you can add a new licensee by selecting **Add licensee** and following the instructions in [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md).
 {% endstep %}
 
 {% step %}
@@ -81,7 +81,7 @@ Complete the following steps:
 
 1. Choose the items you want to order and then select **Add items**. You can select multiple items. When the items are added, the **Select items** section is displayed.
 2. Review and adjust the license quantity as required.
-3. If applicable, [read the offer attestation](broken-reference). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
+3. If applicable, [read the offer attestation](../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
 4. Select **Next**.
 {% endstep %}
 
@@ -101,4 +101,4 @@ Enter optional details, like additional IDs or notes related to your purchase, a
 
 ## Next steps
 
-Once you have placed your order, we'll verify the order details, including the Microsoft tenant ID and create your new subscription under your existing tenant. If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.
+Once you have placed your order, we'll verify the order details, including the Microsoft tenant ID, and create your new subscription under your existing tenant. If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.

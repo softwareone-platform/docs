@@ -8,10 +8,10 @@ If you want to obtain a certificate for a program, you must first enroll in that
 
 ## Adding your existing certificate
 
-To add your existing certificate:&#x20;
+To add your existing certificate for a program to Marketplace:&#x20;
 
-1. On the **Programs** page,  select the desired program.&#x20;
-2. On the program's details page, click **Add certificate** to start the add certificate wizard.
+1. Navigate to the **Programs** page and select the required program.&#x20;
+2. On the program's details page, select **Add certificate** to start the add certificate wizard.
 
 <figure><img src="../../../.gitbook/assets/add_certificate.png" alt=""><figcaption><p>Add option on the Certificates tab</p></figcaption></figure>
 

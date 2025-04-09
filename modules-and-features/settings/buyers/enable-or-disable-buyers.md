@@ -8,11 +8,11 @@ When you disable a buyer, the licensees associated with that buyer also become u
 
 To enable or disable a buyer:
 
-1. On the **Buyers** page (**Settings** > **Buyers**), locate the buyer you want to manage.
+1. Navigate to the **Buyers** page and locate the buyer you want to manage.
 
 <figure><img src="../../../.gitbook/assets/BuyersPage.png" alt=""><figcaption><p>Buyers page</p></figcaption></figure>
 
-2. Click the actions icon (**•••**) for the buyer and select **Enable** or **Disable**. Note that only one of these options is shown depending on the current state of the buyer. For example, the **Enable** option is shown only if the buyer has been disabled.&#x20;
+2. Select the actions icon (**•••**) for the buyer and select **Enable** or **Disable**. Note that only one of these options is shown depending on the current state of the buyer. For example, the **Enable** option is shown only if the buyer has been disabled.&#x20;
 3. Confirm that you want to enable or disable the buyer.&#x20;
 
 A message is displayed stating that the buyer has been updated. You can view the updated buyer status on the [Buyers page](./#agreements-interface).
