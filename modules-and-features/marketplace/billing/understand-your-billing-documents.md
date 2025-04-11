@@ -52,4 +52,12 @@ Yes, you can view or download your billing statements from the **Attachments** t
 
 Vendors generate hundreds or thousands of charges during a billing period, and all charges can't be listed individually on the invoice PDF.&#x20;
 
-To avoid clutter, we consolidate all charges at the item level and display the quantity as '1' on the invoice. You can view the quantity data and full set of charges in your [billing statement](./#whats-a-statement).
+To avoid clutter, we consolidate all charges at the item level and display the quantity as '1' on the invoice. You can view the quantity data and the full set of charges in your [billing statement](./#whats-a-statement).
+
+### Why does my invoice show a different price than the price on the Orders page?
+
+The disparity in pricing is due to how proration is calculated.
+
+Proration and invoicing rules are different for every vendor. For instance, under the legacy Adobe VIP program, proration was calculated monthly, making it simpler to provide accurate quotes. However, under the new Adobe VIP Marketplace program, proration is calculated daily. This means that if a quote is issued today and an order is placed after two days, the quote might not align with the final invoice. Additionally, if the order is placed today but processed tomorrow, this can also result in differences.
+
+Microsoft CSP is completely different from Adobe. Therefore, we only display monthly and yearly pricing in the Marketplace.
