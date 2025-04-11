@@ -1,9 +1,3 @@
----
-description: >-
-  Get insights into competitors share of cloud services with our Cloud Journey
-  Reports.
----
-
 # Cloud Journey Report
 
 SoftwareOne is uniquely positioned to help businesses on their cloud journey, and with our xSimple customers in mind, we have built a complementary report for our “Simple” views.

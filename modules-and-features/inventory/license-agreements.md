@@ -42,17 +42,17 @@ By selecting **Export to PDF**, you can export the timeline view to a PDF file. 
 
 You can export an individual license agreement or all of your agreements.
 
-Follow these steps to export an individual license agreement:
+To export an individual license agreement:
 
 1. On the **License Agreements** page, find the contract you want to export.&#x20;
 2. Select the actions icon (•••) and choose **Export to PDF**, **Export to CSV**, or **Export to Excel**. Your report is queued for processing, and a confirmation message is displayed.&#x20;
 
-Follow these steps to export all of your license agreements:
+To export all of your license agreements:
 
 1. On the **License Agreements** page, hover over the **Exports** option and select **Contracts**. The **Create New Report - Contracts** page opens.
 2. Choose the format for your report, schedule frequency, and specify the start and the expiration date of your contract.&#x20;
 3. Select a template and provide a name for your report. If you don't want to use any template, choose **None** from the list.&#x20;
-4. Choose the delivery method and then select **Run** or **Create**, depending on whether you are creating a run once or a scheduled report.
+4. Choose the delivery method and then select **Run** or **Create**, depending on whether you are creating a run-once or a scheduled report.
 
 Once your export is complete, you can view it by hovering over **Exports** and selecting **Go to My Reports**. This link will take you directly to your generated reports page.&#x20;
 
@@ -64,7 +64,7 @@ You can export an agreement expiration date to Outlook to keep track of your exp
 
 Note that Outlook reminders can only be set for contracts that have an end date specified. If the contract doesn't have an end date, a message is displayed.
 
-Follow these steps to set up a reminder in Outlook:
+To set up a reminder in Outlook:
 
 1. On the License Agreements page, search for your agreement.
 2. Do one of the following:

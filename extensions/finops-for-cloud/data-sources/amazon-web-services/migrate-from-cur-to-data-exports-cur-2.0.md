@@ -4,10 +4,10 @@ Follow this page if an AWS Data Source (Legacy CUR export schema) has already be
 
 ## Migrating CUR to CUR 2.0 (using a new bucket) <a href="#migrate-cur-to-cur-20-using-a-new-bucket" id="migrate-cur-to-cur-20-using-a-new-bucket"></a>
 
-Create a new Data Export with CUR 2.0 schema:
+To create a new Data Export with CUR 2.0 schema:
 
 1. Navigate to the **Data Exports** page in AWS Billing and Cost Management.
-2. Click **Create** and select **Standard data export** export type.
+2. Select **Create** and then select **Standard data export** export type.
 3. Enter the export name. The name is required when updating an AWS Data Source in FinOps for Cloud.
 
 <figure><img src="../../../../.gitbook/assets/aws_standard_data_export.png" alt=""><figcaption><p>Create export</p></figcaption></figure>
@@ -25,8 +25,8 @@ Create a new Data Export with CUR 2.0 schema:
 <figure><img src="../../../../.gitbook/assets/aws_configure_S3_bucket.png" alt=""><figcaption><p>Configure S3 bucket</p></figcaption></figure>
 
 7. Confirm export creation. AWS will prepare Data Export within 24 hours.
-8. Click on the existing AWS Data Source on the Data Source page in FinOps for Cloud. The page with detailed information opens.&#x20;
-9. Click **Update credentials** to update the Data Source credentials.&#x20;
+8. Select the existing AWS Data Source on the Data Source page in FinOps for Cloud. The page with detailed information opens.&#x20;
+9. Select **Update credentials** to update the Data Source credentials.&#x20;
 10. In **Update AWS Cloud credentials**, do the following:
     1. Enable **Update Data Export parameter**_s_ to update information about the billing bucket.
     2. Select the **Standard data export (CUR 2.0)** export type.&#x20;
@@ -38,7 +38,7 @@ Create a new Data Export with CUR 2.0 schema:
 Use this case if you have already connected an AWS Data Source (on Legacy CUR export schema) and want to configure CUR 2.0 data into the same bucket.
 
 1. Navigate to the **Data Exports** page in AWS Billing and Cost Management.
-2. Click **Create** and select **Standard data export** export type.
+2. Select **Create** and then select **Standard data export** export type.
 3. Enter the export name. The name is required when updating an AWS Data Source in FinOps for Cloud.
 4. In **Data table content settings**, do the following:
    1. Select **CUR 2.0**.
@@ -48,7 +48,7 @@ Use this case if you have already connected an AWS Data Source (on Legacy CUR ex
 <figure><img src="../../../../.gitbook/assets/cur2.0_settings.png" alt=""><figcaption><p><strong>Data ta</strong>ble content settings</p></figcaption></figure>
 
 5. In **Data export delivery options**, select **Overwrite existing data export file.** Select compression type.
-6. In **Data export storage settings**, click **Configure** and then select **Select existing bucket**.
+6. In **Data export storage settings**, select **Configure** and then select **Select existing bucket**.
 
 <figure><img src="../../../../.gitbook/assets/aws_configure_bucket.png" alt=""><figcaption><p><strong>Data</strong> export storage settings</p></figcaption></figure>
 

@@ -40,7 +40,7 @@ The **Notifications** page contains these three tabs: **Subscribers**, **Message
 The **Subscribers** tab displays all [notification categories](./#notification_types) configured for your account. For each notification, you can view the following details:
 
 * **Subscribers** - Displays the category name. Clicking the name opens the [subscriber details page ](./#subscriber-details-page)to manage the notification's configuration. &#x20;
-* **Description** - Displays a short description of the category.
+* **Short description** - Displays a short description of the category.
 * **Recipients** - Shows the total number of users and groups who are the recipients of the notifications.
 * **Updated** - Shows the date and time the notification's configuration was updated.&#x20;
 * **Last used** - Shows the date and time the platform sent the notification in that category.&#x20;
@@ -49,9 +49,7 @@ The **Subscribers** tab displays all [notification categories](./#notification_t
 
 #### Subscriber details page
 
-The **Subscribers** details page is organized into tabs displaying general information about the category and an audit trail.&#x20;
-
-From the details page, you can manage recipients and groups for a notification category and enable or disable a category. See [Configure Recipients](configure-recipients.md) and [Enable or Disable Categories](enable-or-disable-categories.md) for details.
+From the **Subscriber** details page, you can manage recipients and groups for a notification category. You can also enable or disable a category. See [Configure Recipients](configure-recipients.md) and [Enable or Disable Categories](enable-or-disable-categories.md) for details.
 
 <figure><img src="../../../.gitbook/assets/notifications_subscribers_details.png" alt=""><figcaption><p>Subscribers details page</p></figcaption></figure>
 
@@ -63,19 +61,20 @@ The **Messages** tab contains all messages sent to the users in your account.&#x
 
 For each message, you can view the following details:
 
-* **ID** - Displays the ID assigned to the message by the platform.
+* **Message ID** - Displays the message ID.
 * **Contact** - Displays the recipient's email address.&#x20;
-* **User** - Displays the name and ID of the individual linked to the contact. If the field is empty, it means the recipient doesn't have an account.
+* **User** - Displays the name and ID of the individual linked to the contact. If the field is empty, it means the recipient doesn't have a Maketplace Platform account.
 * **Subject** - Displays the subject line of the email.
 * **Category** - Displays the category of the notification. See [Notification categories](./#notification_types) for details.
-* **Created** -
-* **Created by** -
+* **Account** - <mark style="color:red;">Description required</mark>
+* **Created** - <mark style="color:red;">Description required</mark>
+* **Created by** - <mark style="color:red;">Description required</mark>
 * **Status** - Displays the status of the message. To learn about the possible statuses, see [Notification States](notification-states.md).
-* **Actions** - Includes the **Details** option. Selecting this option displays the **Message details** page.
+* **Actions** - Includes the **View details** option, which opens the **Message details** page.
 
 #### Message details page
 
-The **Message details** page displays detailed information about the message. You can also view the content of the email, the files attached to the message, the time and date when the message was triggered, and so on.&#x20;
+The **Message details** page displays detailed information for the message. You can also view the content of the email, the files attached to the message, the time and date when the message was triggered, and so on.&#x20;
 
 <figure><img src="../../../.gitbook/assets/notifications_message_detail.png" alt=""><figcaption><p>Message details page</p></figcaption></figure>
 

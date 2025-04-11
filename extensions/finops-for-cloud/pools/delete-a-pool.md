@@ -10,10 +10,10 @@ Deleting a pool is irreversible. The system will ask for confirmation before del
 
 ## Deleting a pool <a href="#pool-deletion" id="pool-deletion"></a>
 
-Follow these steps to delete a pool:
+To delete a pool:
 
-1. On the **Pools** page, click the delete icon in the **Actions** column. A delete confirmation message is displayed.
+1. On the **Pools** page, select the delete icon in the **Actions** column. A delete confirmation message is displayed.
 2. Select the **I understand and want to delete this pool** checkbox.&#x20;
-3. Click **Delete**.&#x20;
+3. Select **Delete**.&#x20;
 
 When a pool is deleted, all resources are reassigned to its parent pool. Additionally, all rules that used to point to this pool are redirected to its root.

@@ -1,7 +1,4 @@
 ---
-description: >-
-  You can use Procurement Workbench to manage and view your software
-  transactions.
 layout:
   title:
     visible: true

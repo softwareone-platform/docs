@@ -108,6 +108,7 @@ For security reasons, the page will open a new dialog window asking you to confi
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/modules/procurement/service-provider-dashboard" %}
-[Service Provider Dashboard](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/modules/procurement/service-provider-dashboard)
+{% content-ref url="../../procurement/service-provider-dashboard.md" %}
+[service-provider-dashboard.md](../../procurement/service-provider-dashboard.md)
 {% endcontent-ref %}
+

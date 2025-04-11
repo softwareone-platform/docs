@@ -1,7 +1,5 @@
 # Reports
 
-## About Reports
-
 The Client Portal offers a large number of reports, allowing you to gain valuable insights into your software asset inventory, resource utilization, cloud consumption, renewals, and more.
 
 You can set up a report using the **Quick Reports** feature or create a customized report using the available report options. You can also:&#x20;
@@ -16,7 +14,7 @@ You can set up a report using the **Quick Reports** feature or create a customiz
 
 ## How to access the Reports page
 
-You can access the **Reports** page by navigating to the main menu and selecting **Other tools** > **Reports**.
+To access the **Reports** page, navigate to the main menu and select **Other tools** > **Reports**.
 
 {% hint style="info" %}
 Access to the **Reports** feature depends on your user permissions and role. Additionally, each report type has specific permissions, and reports are generated with their owner's permission
@@ -28,7 +26,7 @@ The **Quick Reports** tab displays all report options that are available to you 
 
 ### Create a quick report <a href="#post-4285-_ref38442975" id="post-4285-_ref38442975"></a>
 
-Follow these steps to create a quick report:
+To create a quick report:
 
 1. From the main menu, navigate to **Other tools** > **Reports**.
 2. On the **Quick Reports** tab, navigate to the report group and choose the reporting template from the menu.&#x20;
@@ -73,7 +71,7 @@ Follow these steps to create a new report:
 When creating a new report, the available options vary based on the type of report. Some reports can be run once only, whereas others can be run once or scheduled periodically. Similarly, some reports support report templates, while others don't. For each report type, you can view the available options when you are creating the report.
 {% endhint %}
 
-1. Navigate to the Reports page (**Other tools** > **Reports**) and click **Create New Report**.
+1. Navigate to the Reports page and select **Create New Report**.
 2. Select the report group and the type of report, and then choose the format in which you wish to generate the report. Note that the format varies depending on the report.&#x20;
 3. Choose the filters and select **Next**. To set additional filters (related to dates and number formatting), select **Show more formatting options**.
 
@@ -150,7 +148,7 @@ On this tab, you can view the following details:
 
 You can download a single or multiple reports from the **History** tab.
 
-Follow these steps to download a report:
+To download a report:
 
 1. Locate the report or select the checkbox for the report you wish to download. You can select multiple checkboxes.
 2. Do one of the following:
@@ -161,7 +159,7 @@ Follow these steps to download a report:
 
 You can only update the name of a generated report and file name. Updating a generated report name doesn't change the scheduled report name based on which the report has been generated.
 
-Follow these steps to update a report or file name:
+To update a report or file name:
 
 1. Select the actions icon (•••) and choose **Edit**. The edit mode is enabled.
 2. Update the report name and file name as needed. Note that the file name must include an extension, Invoices.xlsx.
@@ -171,7 +169,7 @@ Follow these steps to update a report or file name:
 
 If a report is bigger than 25 MB, it's always sent as a link only. Note that to download a report from the link, your email recipients must have access to the report in the Client Portal.
 
-Follow these steps to send a report through email:
+To send a report through email:
 
 1. Select the actions icon (•••) and then choose **Email**.
 2. Provide the email addresses (separated by a semicolon) and choose if you want to send the report as an **Attachment** or **Link**.&#x20;
@@ -181,7 +179,7 @@ Follow these steps to send a report through email:
 
 You can send a report directly to a secure FTP server. If needed, you can also add a new SFTP configuration or edit the existing configuration.&#x20;
 
-Follow these steps to send a report to an SFTP:
+To send a report to an SFTP:
 
 1. Select the actions icon (•••) and select **SFTP**.&#x20;
 2. Select an SFTP server from the list and choose **Use Selected Server**.
@@ -190,7 +188,7 @@ Follow these steps to send a report to an SFTP:
 
 You can delete reports that are no longer needed. You can delete a single report or multiple reports at once. Note that once you delete a report, it can't be recovered.
 
-Follow these steps to delete a report:
+To delete a report:
 
 1. Locate the report or select the checkbox for the report you wish to delete.
 2. Do one of the following:
@@ -204,7 +202,7 @@ Follow these steps to delete a report:
 
 You can create a new template when you are creating a report. Note that only some reports support templates.&#x20;
 
-Follow these steps to create a template:
+To create a template:
 
 1. Click **Create New Report**. The report wizard starts.
 2. In the **Template** section, click **Saved Templates** > **Edit Default Columns**.&#x20;

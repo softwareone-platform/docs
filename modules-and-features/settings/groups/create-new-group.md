@@ -10,10 +10,10 @@ To create a new group:
 
 1. Navigate to the **Groups** page in the platform.&#x20;
 2. Select **Add** to start the **Add group** wizard.
-3. On the **General** page, enter the following details and select **Next**:
+3. On the **General** page, enter the following details. When done, select **Next**:
    * **Name** - (Required) Provide a name for your group. We recommend that you enter a unique name so you can identify the group easily in your list of groups.
    * **Description** - (Optional) Add a description for the group. You could enter information about the group members, their roles, and so on. &#x20;
-4. On the **Modules** page, choose all the modules you want to enable for the group. Then, select **Next**. Note that you must select at least one module.
+4. On the **Modules** page, choose the modules you want to enable for the group. Then, select **Next**. Note that you must select at least one module.
 5. On the **Buyers** page, choose if you want to allow your group members to view all buyers in your account or only certain buyers.&#x20;
    * **All buyers** - This option is selected by default. It allows your group members to view all buyers in your account.
    * **Select buyers** - Select this option to allow group members to view only the buyers you select. When selected, all buyers will be displayed, and you can choose from the list of available buyers.

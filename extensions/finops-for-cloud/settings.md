@@ -10,4 +10,4 @@ The **Settings** page contains the following tabs:
 
 * **Organization** - From this tab, you can copy your organization ID and edit your organization name. The tab also displays the currency used in this organization. You can connect only data sources with the organization's currency. This setting can't be changed if the organization has at least one connected data source.
 * **Invitations** - Use this tab to view all pending invitations for the account.
-* **Email notifications** - Use this tab to manage the email notifications you receive about your account. Move the slider to enable or disable notifications.
+* **Email notifications** - Use this tab to manage the notification emails for your account. The tab displays all functionalities for which you can receive alerts. Use the slider to adjust your preferences.

@@ -16,18 +16,14 @@ Depending on your SAM Tool setup, the standard reporting templates might require
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets" %}
-[Software Assets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets)
+{% content-ref url="enable-or-disable-software-assets.md" %}
+[enable-or-disable-software-assets.md](enable-or-disable-software-assets.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/enable-or-disable-software-assets" %}
-[Enable or Disable Software Assets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/enable-or-disable-software-assets)
+{% content-ref url="view-software-assets.md" %}
+[view-software-assets.md](view-software-assets.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/view-software-assets" %}
-[View Software Assets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/view-software-assets)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/import-software-assets" %}
-[Import Software Assets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/import-software-assets)
+{% content-ref url="import-software-assets.md" %}
+[import-software-assets.md](import-software-assets.md)
 {% endcontent-ref %}

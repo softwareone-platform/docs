@@ -28,7 +28,7 @@ Watch the following video tutorial or continue reading for information on how to
 
 {% embed url="https://vimeo.com/889165949" %}
 
-Follow these steps to create a special quote:
+To create a special quote:
 
 1. Navigate to the **Special Quote** page using any of the methods described at the start of this topic.
 2. Under **Location**, choose the SoftwareOne entity that you are ordering from, the country where the product will be used, and your company's address.
@@ -46,16 +46,14 @@ Follow these steps to create a special quote:
    1. Select a priority level for your request.&#x20;
    2. Use special instructions to specify additional details about your request.
    3. Upload supporting documentation.
-6. Select **Submit**. Your special quote is created and a confirmation message is displayed.
+6. Select **Submit**. Your special quote is created, and a confirmation message is displayed.
 7. Select **Yes** to receive a quote confirmation via email, or select **No** to return to the Special Quotes page.
-
-***
 
 ## Viewing special quotes
 
 On the Special Quotes page, you can search for a quote and view high-level information, such as your quote history, request status, type, and more.&#x20;
 
-Follow these steps to view the detailed quote information:
+To view the detailed quote information:
 
 1. Locate the quote you wish to view.
 2. Select **View** from the **Actions** column. The quote details are displayed on the Special Quote Detail page.
@@ -68,13 +66,11 @@ When looking at the details of a special quote, products that are part of the sa
 
 <figure><img src="../../../.gitbook/assets/Other_Products.png" alt=""><figcaption></figcaption></figure>
 
-***
-
 ## Deleting special quotes
 
 If you want to delete a special quote containing multiple products, you can delete it from any of the products.
 
-**To delete a special quote**
+To delete a special quote:
 
 1. Navigate to the Special Quotes page and locate the quote you want to delete.
 2. Select the quote, or from the **Actions** column, select **View**. The Special Quote Detail page is displayed.

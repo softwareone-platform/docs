@@ -20,7 +20,7 @@ The **Invoices** page contains filters to help you locate the invoice you want t
 * Invoice Address
 * SoftwareOne Company
 
-Follow these steps to find and view an invoice:
+To find and view an invoice:
 
 1. Specify the search parameters and then select **Search**. A list of invoices matching the criteria is displayed. Note that if you have a long list of invoices, you can refine the list based on the filter options.&#x20;
 2. To view an invoice, select the row or select **View** from the **Actions** column. The details page for the invoice opens.
@@ -29,15 +29,15 @@ On the **Invoice Details** page, you can view further information about the prod
 
 * View a history of the transaction and link to more details.
 * View the contracts associated with this transaction.
-* Download the information as PDF.
+* Download the information as a PDF.
 
 ## **Exporting invoices**
 
 You can export an individual invoice or all of your invoices.
 
-Follow these steps to export an invoice:
+To export an invoice:
 
-1. On the Invoices page, use the search filters to find the invoice you want to export.
+1. On the **Invoices** page, use the search filters to find the invoice you want to export.
 2. Select the actions icon (•••)  and choose one of these options - **Export to PDF**, **Export to Excel (CSV)**, or **Export to Excel (XLSX)**. A confirmation message is displayed.
 
 Follow these steps to export all of your invoices:

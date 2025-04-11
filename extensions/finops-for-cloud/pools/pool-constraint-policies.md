@@ -4,11 +4,11 @@ The **Constraints** option within Pools allows you to implement policies for the
 
 An individual with a **Manager** role can enforce all resources in the pool to share constraints so that they are applied to all resources in the pool. Custom resource-specific constraints can still exist and yet override the general policy.
 
-Follow these steps to apply the pool constraint policies:
+To apply the pool constraint policies:
 
 1. On the **Pools** page, select a pool group or its sub-pool.
 2. Select the **Constrains** tab and click the edit icon![pencil](https://hystax.com/documentation/optscale/_static/screens/resource_constraints/pencil.png)to enter values in the **TTL** or **Daily expense limit** fields.
-3. Click<img src="../../../.gitbook/assets/icon_check.png" alt="pencil" data-size="line"> to save your changes. The constraint will be applied to all resources in the pool.
+3. Select <img src="../../../.gitbook/assets/icon_check.png" alt="pencil" data-size="line"> to save your changes. The constraint will be applied to all resources in the pool.
 
 <figure><img src="../../../.gitbook/assets/pool_constraint_policies.png" alt=""><figcaption><p>Pool constraint policies</p></figcaption></figure>
 

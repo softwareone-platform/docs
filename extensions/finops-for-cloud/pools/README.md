@@ -50,4 +50,4 @@ Each rule entry includes the rule's **Name**, **Owner**, and **Conditions**, pro
 
 The **Conditions** column contains a detailed summary of the conditions defined for each rule, including condition types such as Name/ID contains, Tag is, or Source is.
 
-Clicking **See all assignment rules** displays the main assignment rules listing page, where you can manage all rules across different pools.
+Selecting **See all assignment rules** displays the main assignment rules listing page, where you can manage all rules across different pools.

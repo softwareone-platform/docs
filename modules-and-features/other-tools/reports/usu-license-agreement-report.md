@@ -8,7 +8,7 @@ The Marketplace Platform contains a license agreement report template specifical
 
 You can download the report and upload it directly into your USU system to populate your License Agreements.
 
-Follow these steps to access the report:
+To access the report:
 
 1. From the main menu, navigate to **Inventory** > **License Agreements**.
 2. On the **License Agreements** page, hover over **Exports** and select **Contracts - Aspera**.

@@ -19,14 +19,14 @@ FinOps for Cloud sends notifications about violated constraints and doesn't inte
 
 ## Assigning resources constraints <a href="#resources-constraints" id="resources-constraints"></a>
 
-Follow these steps to assign resource constraints:
+To assign resource constraints:
 
-1. On the **Resources** page, select the required resource. The details page of your selected resource opens.
-2. Select the **Constraints** tab.
+1. On the **Resources** page, select the required resource.
+2. On the resource details page, select the **Constraints** tab.
 
 <figure><img src="../../../.gitbook/assets/resources_constraints.png" alt=""><figcaption><p>Constraints tab</p></figcaption></figure>
 
-3. Use the slider to enable the required setting, and then click edit ![pencil](https://hystax.com/documentation/optscale/_static/screens/resource_constraints/pencil.png) to enter the value. Click<img src="../../../.gitbook/assets/icon_check.png" alt="pencil" data-size="line"> to save your changes.
+3. Use the slider to enable the required setting. Then, select edit ![pencil](https://hystax.com/documentation/optscale/_static/screens/resource_constraints/pencil.png) to enter the value. When done, select <img src="../../../.gitbook/assets/icon_check.png" alt="pencil" data-size="line"> to save your changes.
 
 <figure><img src="../../../.gitbook/assets/resources_constraints_tab.png" alt=""><figcaption><p>Available constraint type</p></figcaption></figure>
 

@@ -1,9 +1,3 @@
----
-description: >-
-  Optimize and simplify the Enterprise Agreement True-Up process at a local or
-  global scale from collection to license allocation.
----
-
 # Enterprise Agreement TrueUp
 
 This section of the document will guide you through the Enterprise Agreement Setup Wizard. Running through the Wizard and enabling reporting is the first step in the EA module onboarding process.

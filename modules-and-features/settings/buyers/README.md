@@ -27,7 +27,7 @@ The **Buyers** page shows a list of buyers in the account. For each buyer, you c
 
 ## Buyer details page
 
-The details page of a buyer provides all information related to the buyer. You can open the details page by clicking the buyer on the Buyers page. &#x20;
+The details page of a buyer provides all information related to the buyer. You can open the details page by selecting the buyer on the Buyers page. &#x20;
 
 <details>
 
@@ -46,8 +46,8 @@ When you open the details page, it shows the data associated with the buyer, lik
 
 The page also contains the following tabs that display corresponding information:
 
-* **General** - Displays the buyer's address and the contact person details.&#x20;
-* **Sellers** - Displays the SoftwareOne entities linked to the buyer. Clicking the seller's name opens up the details page for the seller.&#x20;
+* **General** - Displays the buyer's address and the contact person's details.&#x20;
+* **Sellers** - Displays the SoftwareOne entities linked to the buyer. Selecting the seller's name opens up the details page for the seller.&#x20;
 * **Licensees** - Displays all licensees associated with the buyer.&#x20;
 * **Details** - Displays reference information, such as the external IDs as well as event summary.
 * **Audit trail** - Displays an audit trail of all changes. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail).

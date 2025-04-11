@@ -1,16 +1,10 @@
----
-description: >-
-  Create multiple custom report views and combine them into one simple dashboard
-  experience.
----
-
 # Customized Spend Reports
 
 With the new reporting capability, you can create multiple custom views and aggregate them into a simple dashboard experience.
 
 ## Creating custom reports <a href="#building-custom-reports" id="building-custom-reports"></a>
 
-Follow these steps to create a custom executive report:
+To create a custom executive report:
 
 1. From the main menu, navigate to **Cloud tools** > **Consumption Overview.**
 2. Select **Executive Report** and then select **Add your Report** to create your custom report.
@@ -22,11 +16,11 @@ The report with aggregated Provider data will be added to your new Executive Rep
 
 You will also see spaces with a “plus icon” (4). Clicking on the plus icon allows you to quickly add new data that is of interest to you.
 
-Each element has its own filters and grouping – including date range. You can override dates, grouping, and currency in the report context to align all elements.
+Each element has its filters and grouping – including date range. You can override dates, grouping, and currency in the report context to align all elements.
 
 Dates, grouping, or currency overrides are not saved. So when you open the report again it will present data in the default state.
 
-Only elements that are time-based will be affected by grouping changes. Elements with a custom “X” axis will ignore this setting.
+Only time-based elements will be affected by grouping changes. Elements with a custom “X” axis will ignore this setting.
 
 You can delete a report by selecting the cog icon (3) and selecting **Delete report**. Once you confirm this action the report will disappear from the drop-down.
 
@@ -34,7 +28,7 @@ Similarly, you can edit the report name by clicking on the pencil icon. All chan
 
 ## Reordering elements <a href="#reordering-elements" id="reordering-elements"></a>
 
-Follow these steps to rearrange the elements:
+To rearrange the elements:
 
 1. Hover over the element you want to move until you see the cross/arrow icon appear.&#x20;
 2. Click on that icon and drag the element to the area you want to move it to.

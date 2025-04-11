@@ -14,7 +14,7 @@ Follow these steps to manage your subscription:
 
 <figure><img src="../../.gitbook/assets/Renewal.png" alt="" width="375"><figcaption><p>Subscription auto-renewal form</p></figcaption></figure>
 
-3. Click **Save** to submit your request.&#x20;
+3. Select **Save** to submit your request.&#x20;
 
 You'll receive a confirmation email once your subscription status is updated. Note that processing your request might take up to 24 hours.
 

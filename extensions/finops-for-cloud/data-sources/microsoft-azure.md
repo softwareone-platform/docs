@@ -13,7 +13,7 @@ To track a new Azure Data Source in your FinOps for Cloud account, select **Azur
    1. To find the ID, search for **Subscriptions** in Azure. You'll see a list of all subscriptions associated with your Azure account. The list will include a subscription ID for each subscription. When FinOps for Cloud is programmatically signing in to Azure, it needs to pass a tenant ID and an application ID along with a secret, which is the authentication key.
 4. **Application (client) ID** - This ID must be generated manually in Azure to allow API communication with FinOps. To generate the ID:
    1. In Microsoft Entra ID (formerly Azure Active Directory), navigate to **App registrations**.
-   2. Click **+ New registration** and provide a name, for example, Optscale, and then click **Register**. The new Application ID becomes available.
+   2. Select **+ New registration** and provide a name, for example, Optscale, and then click **Register**. The new Application ID becomes available.
 
 <figure><img src="../../../.gitbook/assets/app_registration.png" alt=""><figcaption></figcaption></figure>
 
@@ -35,9 +35,11 @@ Once the required fields are filled out, click **Connect** to validate the infor
 
 ## Performing a role assignment
 
+To perform a role assignment:
+
 1. Sign in to the Azure Portal and navigate to **Subscriptions**.
 2. Select the subscription you have provisioned to be linked to FinOps. You'll be directed to its dashboard.&#x20;
-3. Click **Access control (IAM)** in the left navigation and then go the **Role assignments** tab and click **+Add** > **Add role assignment**.
+3. Select **Access control (IAM)** in the left navigation and then go the **Role assignments** tab and click **+Add** > **Add role assignment**.
 
 <figure><img src="../../../.gitbook/assets/access_control.png" alt=""><figcaption></figcaption></figure>
 

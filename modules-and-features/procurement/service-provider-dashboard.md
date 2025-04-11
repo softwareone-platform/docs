@@ -6,7 +6,7 @@ description: View and generate reports for your Microsoft SPLA contract.
 
 The Service Provider Dashboard allows you to visualize your Service Provider Licensee Agreement (SPLA) contract and its cost-related data.&#x20;
 
-You can access the dashboard by navigating to the main menu of the Client Portal and selecting **Procurement** > **Service Provider Dashboard**.
+You can access the dashboard by navigating to the main menu and selecting **Procurement** > **Service Provider Dashboard**.
 
 ## Dashboard interface
 
@@ -31,6 +31,6 @@ To export the current page as a PDF, click **Export to PDF** in the filter optio
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/modules/other-tools/reports/microsoft-services-provider-license-agreement-spla-report" %}
-[Microsoft Services Provider License Agreement (SPLA) Report](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/modules/other-tools/reports/microsoft-services-provider-license-agreement-spla-report)
+{% content-ref url="../other-tools/reports/microsoft-services-provider-license-agreement-spla-report.md" %}
+[microsoft-services-provider-license-agreement-spla-report.md](../other-tools/reports/microsoft-services-provider-license-agreement-spla-report.md)
 {% endcontent-ref %}

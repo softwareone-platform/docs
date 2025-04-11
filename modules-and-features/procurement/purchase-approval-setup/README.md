@@ -4,18 +4,19 @@ The Marketplace Platform allows you to set up approval workflows and approval gr
 
 By creating workflows and approval groups, you can simplify the configuration and maintenance of the approval limits assigned to individual users.&#x20;
 
-After creating groups, you can maintain them easily by linking approval groups together through parent-child relationships. Each approval group can only have one parent but it can be used as a child in several approval groups.
+After creating groups, you can maintain them easily by linking approval groups together through parent-child relationships. Each approval group can only have one parent, but it can be used as a child in several approval groups.
 
 See the following links to get started with purchase approval groups:
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/procurement/purchase-approval-setup/create-approval-groups" %}
-[Create Approval Groups](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/procurement/purchase-approval-setup/create-approval-groups)
+{% content-ref url="create-approval-groups.md" %}
+[create-approval-groups.md](create-approval-groups.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/procurement/purchase-approval-setup/create-approval-workflows" %}
-[Create Approval Workflows](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/procurement/purchase-approval-setup/create-approval-workflows)
+{% content-ref url="create-approval-workflows.md" %}
+[create-approval-workflows.md](create-approval-workflows.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/procurement/purchase-approval-setup/delete-workflow-rules" %}
-[Delete Workflow Rules](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/procurement/purchase-approval-setup/delete-workflow-rules)
+{% content-ref url="delete-workflow-rules.md" %}
+[delete-workflow-rules.md](delete-workflow-rules.md)
 {% endcontent-ref %}
+

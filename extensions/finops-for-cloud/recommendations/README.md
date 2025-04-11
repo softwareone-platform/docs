@@ -11,7 +11,7 @@ In FinOps for Cloud, you can access the **Recommendations** page from the sideba
 The **Recommendations** page contains the following options:
 
 * **Data sources** - Displays all billing data sources that you have connected in your FinOps for Cloud account. You can select multiple data sources from the list and view recommendations and related metrics for those sources. See [Data Sources](../data-sources/) to learn about the supported sources and how to connect them.
-* **Summary cards** - Use summary cards to view important details, like monthly savings and last and next check time. The content of the last summary card varies, depending on the condition. For instance, the card might show any AWS S3 duplicates found during the last check, checks that did not start or finish successfully, and so on. Clicking this specific card opens a summary page, which shows a table containing all checks and the option for you to initiate a new check using **Run check**.
+* **Summary cards** - Use summary cards to view important details, like monthly savings and last and next check time. The content of the last summary card varies, depending on the condition. For instance, the card might show any AWS S3 duplicates found during the last check, checks that did not start or finish successfully, and so on. Selecting this specific card opens a summary page, which shows a table containing all checks and the option for you to initiate a new check using **Run check**.
   * **Possible monthly savings** - Displays the possible monthly savings that can be achieved if the suggested recommendations are implemented.
   * **Last check time** - Displays the time when FinOps for Cloud last checked for an update. The system runs a check every 3 hours.
   * **Next check time** - Indicates when the next recommendation check is due.&#x20;
@@ -31,5 +31,5 @@ The **Recommendations** page contains the following options:
 
 ## Additional features <a href="#additional-features" id="additional-features"></a>
 
-* **Archive** - Click to view your archived recommendations.
+* **Archive** - Select to view your archived recommendations.
 * **Force check -** Currently, the system performs a check every 3 hours and displays the results on the page. If you have the  Organization Manager role, you can initialize a **Force check** that immediately runs the data sources' evaluation sequence. The option is available in the upper right on the **Recommendations** page. &#x20;

@@ -10,7 +10,7 @@ After your account has been set up, only top-level administrators are granted ac
 
 ## Granting access to the Collaboration Site&#x20;
 
-Follow these steps to grant access through the Collaboration Site:
+To grant access through the Collaboration Site:
 
 1. From the main menu, navigate to **Other tools** > **Collaboration Site**.&#x20;
 2. In the **Actions** column, select the ellipsis ( ••• ) and choose **Manage permissions**.
@@ -21,7 +21,7 @@ Follow these steps to grant access through the Collaboration Site:
 
 The **Transactions** workspace within the Collaboration Site contains files attached to the orders placed through the Client Portal. Only those users who have access to the folder can view and download files.
 
-Follow these steps to enable access to the Transactions workspace:
+To enable access to the Transactions workspace:
 
 1. Navigate to **Setup** > **User Management**.&#x20;
 2. On the User Management page, locate the user that requires access to the **Transactions** workspace, and select **View** in the **Actions** column. The user details page is displayed.&#x20;
@@ -32,7 +32,7 @@ Follow these steps to enable access to the Transactions workspace:
 
 Authorized users can easily download a folder and its contents from the Collaboration Site.&#x20;
 
-**To download a file or folder**&#x20;
+To download a file or folder:
 
 1. Navigate to the **Collaboration Site**. The workspaces that you are authorized to access are displayed.&#x20;
 2. Choose your workspace and do the following:
@@ -62,7 +62,7 @@ To upload a file, select the **Upload file** option. Then., choose the file that
 
 ### Renaming files and folders <a href="#renaming-files-and-folders" id="renaming-files-and-folders"></a>
 
-Follow these steps to rename a file or folder:
+To rename a file or folder:
 
 1. Navigate to the folder or file that you want to rename.
 2. In the **Actions** column, select the ellipsis ( ••• ) and choose **Rename**
@@ -70,7 +70,7 @@ Follow these steps to rename a file or folder:
 
 ### Deleting files and folders <a href="#deleting-files-and-folders" id="deleting-files-and-folders"></a>
 
-Follow these steps to delete a file or folder
+To delete a file or folder
 
 1. Navigate to the folder or the file that you want to delete.
 2. In the **Actions** column, select the ellipsis ( ••• ) and choose **Delete**.&#x20;
@@ -78,7 +78,7 @@ Follow these steps to delete a file or folder
 
 ### Moving files and folders **to a different location** <a href="#moving-files-and-folders" id="moving-files-and-folders"></a>
 
-Follow these steps to move a file or folder to a different location:
+To move a file or folder to a different location:
 
 1. Select the checkboxes next to the file/folder that you want to move.&#x20;
 2. Select **Move**.

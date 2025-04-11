@@ -9,7 +9,7 @@ Before enabling or disabling the module, note the following points:
 
 ## Enable software assets
 
-Follow these steps to enable the module:
+To enable the module:
 
 1. Sign in to your account as an account administrator.
 2. From the main menu of the Client Portal, navigate to **Setup** > **Cloud Tenant Setup**.
@@ -19,7 +19,7 @@ After you've activated the module, your activated account will be visible in the
 
 ## Disable software assets&#x20;
 
-Follow these steps to deactivate the module:
+To deactivate the module:
 
 1. Navigate to the **Cloud Tenant Setup** page.
 2. In the **Actions** column, click **Manage**.
@@ -34,18 +34,14 @@ Note that the **Remove duplicate transactions** option is enabled by default. It
 
 ## Related topics
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets" %}
-[Software Assets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets)
+{% content-ref url="view-software-assets.md" %}
+[view-software-assets.md](view-software-assets.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/view-software-assets" %}
-[View Software Assets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/view-software-assets)
+{% content-ref url="export-software-assets.md" %}
+[export-software-assets.md](export-software-assets.md)
 {% endcontent-ref %}
 
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/export-software-assets" %}
-[Export Software Assets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/export-software-assets)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/import-software-assets" %}
-[Import Software Assets](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/inventory/software-assets/import-software-assets)
+{% content-ref url="import-software-assets.md" %}
+[import-software-assets.md](import-software-assets.md)
 {% endcontent-ref %}

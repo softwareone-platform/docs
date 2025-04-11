@@ -29,7 +29,7 @@ At the account level, the **Audit trail** page shows all records that have been 
 For each record, you can view the following details:
 
 * **Date** - Shows the date and time when the action was performed.
-* **Object** - Displays the ID of the object that was created or updated. Clicking the object ID displays the object's details page.&#x20;
+* **Object** - Displays the ID of the object that was created or updated. Selecting the object ID displays the object's details page.&#x20;
 * **Object type** - Shows the object associated with the event.
 * **Actor** - Displays the ID of the actor who performed the action. If the action was performed by the platform, a token ID will be displayed instead.
 * **Tech details** - Shows technical information for the record, including details like IP address, operating system, and more.

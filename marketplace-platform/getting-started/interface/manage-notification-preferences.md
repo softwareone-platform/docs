@@ -10,20 +10,21 @@ These alerts are triggered for the [notification categories](../../../modules-an
 ## Managing your notification preferences
 
 {% hint style="info" %}
-Some categories are enabled by default, and you can't opt out of these categories. See [Notification categories](../../../modules-and-features/settings/notifications/#notification_types) to learn more.
+* Some categories are enabled by default, and you can't opt out of these categories. See [Notification categories](../../../modules-and-features/settings/notifications/#notification_types) to learn more.
+* Admins can manage preferences at the account level through the [Notifications ](../../../modules-and-features/settings/notifications/)option in the **Settings** menu.&#x20;
 {% endhint %}
 
 To update your preferences using the **My profile** option in your account:
 
-1. Click the profile menu in the upper right. Then, select **My profile**.
+1. Select the profile menu in the upper right. Then, select **My profile**.
 2. Go to the **Notifications** **preferences** tab. All notification categories are displayed.
-3. Select **Edit**.&#x20;
+3. Select the **Edit** option on the tab.&#x20;
 4. In **Edit notification preferences**, use the checkboxes to enable or disable a category.&#x20;
 5. Select **Save**. A confirmation message is displayed that your preferences have been saved.
 
-To update your preferences from your notification email:
+To update your preferences from a notification email:
 
 1. Open the notification email that you received.
-2. Scroll down to the footer and click the **Manage notifications** link. The **Manage notifications** form opens in your browser.
+2. Scroll down to the footer and select the **Manage notifications** link. The **Manage notifications** form opens in your browser.
 3. In the **Manage notifications** form, use the checkboxes to enable or disable a category.&#x20;
 4. Select **Save**. Your preferences are saved.&#x20;

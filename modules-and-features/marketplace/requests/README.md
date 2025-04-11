@@ -34,7 +34,6 @@ From the details page, you can complete the following tasks:&#x20;
 * [Add a message to the conversation](add-a-message.md)
 * [Set your request from Querying to Processing](set-request-to-processing.md)
 * [Add and manage the files attached to a request](add-and-manage-attachments.md)
-* [Complete or close a request](broken-reference)
 
 </details>
 

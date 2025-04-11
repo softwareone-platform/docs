@@ -1,10 +1,8 @@
 # FinOps for Cloud
 
-FinOps for Cloud is a platform designed to enhance the cloud usage experience by providing detailed insights and management capabilities without actively interfering with processes in your environment.&#x20;
+FinOps for Cloud is a solution designed to enhance the cloud usage experience by providing detailed insights and management capabilities without actively interfering with processes in your environment.&#x20;
 
-The platform requires Read-Only rights for the connected cloud account, which serves as the primary data source for all recommendations and analyses.
-
-FinOps for Cloud utilizes billing information, resource state monitoring, and cloud monitoring data to provide actionable recommendations for optimizing cloud resource usage and reducing costs. The platform performs resource discovery using APIs from cloud providers like AWS and Microsoft Azure, ensuring that all resources are accounted for and managed effectively.
+It utilizes billing information, resource state monitoring, and cloud monitoring data to provide actionable recommendations for optimizing cloud resource usage and reducing costs. The platform performs resource discovery using APIs from cloud providers like AWS and Microsoft Azure, ensuring that all resources are accounted for and managed effectively.&#x20;
 
 With FinOps for Cloud, you can explore and analyze your cloud expenses, monitor resource usage, and implement policies to ensure efficient and cost-effective cloud management. The platform's user-friendly interface and robust features empower organizations to achieve greater visibility and control over cloud infrastructure, enabling smarter decision-making and improved financial planning.
 

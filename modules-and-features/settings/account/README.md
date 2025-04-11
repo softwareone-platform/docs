@@ -2,7 +2,7 @@
 
 An account enables a company or organization to sign in to the platform and access different modules and features depending on the permissions.&#x20;
 
-The Marketplace Platform supports three different account types, including Client account, Vendor account, and Operations account. See [Key Concepts](https://docs.platform.softwareone.com/~/changes/oYCZQ6L9CcHmsaLmmChe/marketplace-platform/getting-started/key-concepts) to learn more about these accounts.
+The Marketplace Platform supports three different account types, including Client account, Vendor account, and Operations account. See [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md) to learn more about these accounts.
 
 ## Account interface
 
@@ -15,7 +15,7 @@ The **Account** page displays the general account information, such as name, sta
 * **General** - Displays the additional data for your account, such as your company website and description, support email address, and headquarters address.&#x20;
 * **Modules** - Displays the modules that SoftwareOne has enabled for your account.&#x20;
 * **Details** - Displays the date and time your account was created on the platform. It also shows the last updated date and time if any changes were made to your account, such as address changes.
-* **Audit trail** - Displays an audit trail of all changes and events within your account. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail).
+* **Audit trail** - Displays an audit trail of all changes and events within your account. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](../audit-trail.md).
 
 If you want to update the general information associated with your account, use the **Edit** option in the upper right. For instructions, see [Update Account Details](update-account-information.md).
 

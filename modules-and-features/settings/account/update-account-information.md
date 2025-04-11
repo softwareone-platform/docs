@@ -5,7 +5,7 @@ If you need to update your account information, like the account name, company d
 {% hint style="info" %}
 **Need to update your profile or personal settings?**
 
-See [Manage your profile](https://docs.platform.softwareone.com/marketplace-platform/getting-started/interface/manage-profile) to learn about updating your profile picture, profile name, preferred language, and more.
+See [Manage your profile](../../../marketplace-platform/getting-started/interface/manage-profile.md) to learn about updating your profile picture, profile name, preferred language, and more.
 {% endhint %}
 
 ## Updating your account details
@@ -18,8 +18,8 @@ To update your account details:
 <figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Account page</p></figcaption></figure>
 
 3. On the **General** page, change the following settings as necessary:
-   1. **Logo** - Update the logo for your account. You can upload an image by selecting **Select file** or by dragging the image into the field.
-   2. **Client name** - Update the name of your account. The account name is displayed in the upper right and on other pages on the platform.
+   * **Logo** - Update the logo for your account. You can upload an image by selecting **Select file** or by dragging the image into the field.
+   * **Client name** - Update the name of your account. The account name is displayed in the upper right and on other pages on the platform.
 4. Change the **Additional data** settings as necessary:
    * **Company website** - Enter the URL for your company website.
    * **Technical support email** - Enter an email address for your technical support.
@@ -31,7 +31,7 @@ To update your account details:
    * **State/region** - Select the state or region for your address.
    * **ZIP/postcode** - Enter the ZIP or postal code for your address.
    * **Country** - Select the country for your address.
-6. Click **Save**. A message is displayed stating that your account settings have been updated.
+6. Select **Save**. A message is displayed stating that your account settings have been updated.
 
 ## Related topics
 

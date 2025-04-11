@@ -1,14 +1,14 @@
 # Configure Assignment Rules
 
-In FinOps for Cloud, there are two ways to configure new assignment rules. You can add new rules using the **Configure assignment rules** option on the **Pools** or **Resource** page.&#x20;
+In FinOps for Cloud, you can add new assignment rules from the **Configure assignment rules** option on the **Pools** or **Resource** page.&#x20;
 
 ## Configuring new assignment rules
 
 To configure new assignment rules:
 
 1. Do one of the following:
-   * On the **Pools** page, click **Configure assignment rules**. Next, click **Add**.
-   * On the **Resources** page, select a resource. Then, on the resource details page, select **Add assignment rule**.
+   * On the **Pools** page, select **Configure assignment rules** and then select **Add**.
+   * On the **Resources** page, select a resource. Then, on the resource details page, select **Add assignment rule**
 2. In the **Name** field, enter a name for the new resource assignment rule.
 3. In **Conditions**, select the conditions that must be fulfilled for the rule to become applicable. The following conditions are available:
 
@@ -16,6 +16,6 @@ To configure new assignment rules:
 
 5. Add more conditions as relevant.&#x20;
 6. In **Assign to**, the matching resource is included in the selected target pool and assigned to an owner.  You can change the values as relevant.&#x20;
-7. Click **Create**. The new rule is created.
+7. Select **Create**.&#x20;
 
-Once you add a rule, it is always prioritized across the organization. This means that any discovered resources will first be checked against the conditions of this new rule. If a resource does not meet the new rule's conditions, then it will be checked against the remaining rules in descending order until a matching rule is found.
+When a new rule is added, it is always prioritized across the organization. This means that any discovered resources will first be checked against the conditions of this new rule. If a resource does not meet the new rule's conditions, then it will be checked against the remaining rules in descending order until a matching rule is found.

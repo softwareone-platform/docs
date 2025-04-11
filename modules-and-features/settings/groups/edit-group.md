@@ -12,8 +12,8 @@ Before editing a group, note the following points:
 
 To edit a group:
 
-1. Navigate to the **Groups** page and find the group you want to edit.
-2. Select the actions icon (**•••**) for the group and choose **Edit** to start the **Edit group** wizard.
+1. Navigate to the **Groups** page.
+2. Select the actions icon (**•••**) for the group to edit. Then, choose **Edit** to start the **Edit group** wizard.
 3. On the **General** page, update the group's name and description as necessary.
 4. On the **Modules page**, update the modules to which the group members should have access. Note that access cannot be updated for a default group.
 5. On the **Buyers page**, update the buyer setting for the group. This section is available only if you've enabled the Marketplace module for the group.

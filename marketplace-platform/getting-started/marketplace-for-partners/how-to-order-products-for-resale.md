@@ -11,8 +11,8 @@ In the Marketplace Platform, agreements are the foundation for placing orders an
 
 To order a product for resale by establishing a new agreement:
 
-1. Navigate to the **Products** page.
-2. Select the relevant product and click **Buy now** in the upper right to start the purchase wizard.&#x20;
+1. Navigate to the **Products** page. Then, select the required product.
+2. Select **Buy now** in the upper right to start the purchase wizard.&#x20;
 3. On the **Select agreements** page, select **Create agreement**.
 4. On the **Select licensee** page, choose a licensee from the list and select **Next**. Make sure that the **Resale** column for the licensee displays **Yes**.
 5. On the **Certificates** page, select the partner certificate you wish to use and select **Next**. Only active certificates can be used.
@@ -29,6 +29,6 @@ To order a product for resale by establishing a new agreement:
    2. Select **Add items** to choose the items you want to order.&#x20;
    3. When the items are added, review and adjust the quantity as required.
 9. On the **Details** page, enter optional details, like additional IDs or notes related to your purchase, and select **Next**.
-10. &#x20;Review the order details. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. When you are done, click **Place order** to complete your purchase.
+10. Review the order details. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. When you are done, click **Place order** to complete your purchase.
 
 ## Next steps <a href="#reseller-discounts" id="reseller-discounts"></a>

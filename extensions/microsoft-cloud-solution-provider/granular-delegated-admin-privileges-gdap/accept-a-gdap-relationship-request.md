@@ -6,7 +6,7 @@ After placing an order, you'll need to accept our GDAP invitation. The invitatio
 
 ## Accepting a GDAP relationship request
 
-Follow these steps to accept a GDAP relationship request:
+To accept a GDAP relationship request:
 
 1. Navigate to the **Orders** page in the platform.
 2. Open the details page of the required purchase order. You can open the details page by clicking the order ID.
