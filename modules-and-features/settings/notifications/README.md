@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Notifications
 
 Notifications Management allows account administrators to configure recipients and manage the notification categories for their account. These notifications are sent via email to alert recipients about the events in their account so they can keep up-to-date and take proactive actions as necessary.
