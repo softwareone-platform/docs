@@ -37,3 +37,17 @@ Sample: Marketplace Billing Statement
 An invoice and a statement are both billing documents, but they serve different purposes. The following table lists the key differences between these two types of documents:
 
 <table><thead><tr><th width="249">Aspect </th><th>Invoice</th><th width="249">Statement</th></tr></thead><tbody><tr><td>Purpose</td><td>Provides a high-level summary of the charges.</td><td>Provides a full record of the charges from the vendor.</td></tr><tr><td>Format</td><td>PDF</td><td>Excel</td></tr><tr><td>Level of detail</td><td>Contains aggregated lines, such as per item, per subscription, and so on.</td><td>Can have hundreds or thousands of lines for precise usage.</td></tr><tr><td>Use case</td><td>Used as an official billing and record-keeping document.</td><td>Used for reconciliation, in-depth audits, and analysis.</td></tr><tr><td>Quantity</td><td>Always displays the quantity as 1 because multiple lines are consolidated.</td><td>Each line shows the actual quantity of items.</td></tr></tbody></table>
+
+## Related topics
+
+{% content-ref url="understand-your-billing-documents.md" %}
+[understand-your-billing-documents.md](understand-your-billing-documents.md)
+{% endcontent-ref %}
+
+{% content-ref url="invoices/viewing-invoices.md" %}
+[viewing-invoices.md](invoices/viewing-invoices.md)
+{% endcontent-ref %}
+
+{% content-ref url="statements/view-and-download-statements.md" %}
+[view-and-download-statements.md](statements/view-and-download-statements.md)
+{% endcontent-ref %}

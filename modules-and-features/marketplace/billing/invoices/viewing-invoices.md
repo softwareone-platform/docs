@@ -17,6 +17,6 @@ Invoices contain the following information:
 To view and download an invoice:
 
 1. From the main menu, navigate to **Billing** and then select **Invoices**.
-2. On the **Invoices** page, refine your list of invoices. Invoices can be filtered using the filters. You can filter by invoice type, status, amount, and so on. To learn more, see [Filter data](../../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
+2. On the **Invoices** page, refine your list of invoices. Invoices can be filtered using the filters, such as invoice type, status, amount, and so on. To learn more, see [Filter data](../../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
 3. Select the invoice in the **ID** field. The details page of your selected invoice opens.
-4. Select the **Attachments** tab. Then, under **Actions**, select **Download**. The invoice will be downloaded to your system.
+4. Select the **Attachments** tab. Then, under **Actions**, select **Download**. The invoice is downloaded to your system.

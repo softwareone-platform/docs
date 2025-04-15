@@ -40,24 +40,14 @@ You can download a sample statement from the [Billing ](./)page.
 
 ## Frequently asked questions (FAQs) <a href="#invoice-faq" id="invoice-faq"></a>
 
-### How do I display a purchase order number on the invoice?&#x20;
+For answers to common billing questions, see [I have questions about billing](../../../help-and-support/faqs/i-have-questions-about-billing.md).&#x20;
 
-You can include a purchase order number by entering it in the **Additional ID** field, located on the **Details** tab within the agreement details page. For more information, see [How can I enter a purchase order number?](../../../help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md#client-guidance-on-po-numbers-and-invoices) and [Update Additional Client ID](../agreements/edit-agreement-id.md).
+## Related topics
 
-### Can I view or download my statements?
+{% content-ref url="invoices/viewing-invoices.md" %}
+[viewing-invoices.md](invoices/viewing-invoices.md)
+{% endcontent-ref %}
 
-Yes, you can view or download your billing statements from the **Attachments** tab on the agreement details page. For more information, see [Viewing and downloading attachments](../agreements/view-and-download-attachments.md#viewing-and-downloading-attachments).
-
-### Why are all the subscription invoice lines marked as 'Qty 1'?
-
-Vendors generate hundreds or thousands of charges during a billing period, and all charges can't be listed individually on the invoice PDF.&#x20;
-
-To avoid clutter, we consolidate all charges at the item level and display the quantity as '1' on the invoice. You can view the quantity data and the full set of charges in your [billing statement](./#whats-a-statement).
-
-### Why does my invoice show a different price than the price on the Orders page?
-
-The disparity in pricing is due to how proration is calculated.
-
-Proration and invoicing rules are different for every vendor. For instance, under the legacy Adobe VIP program, proration was calculated monthly, making it simpler to provide accurate quotes. However, under the new Adobe VIP Marketplace program, proration is calculated daily. This means that if a quote is issued today and an order is placed after two days, the quote might not align with the final invoice. Additionally, if the order is placed today but processed tomorrow, this can also result in differences.
-
-Microsoft CSP is completely different from Adobe. Therefore, we only display monthly and yearly pricing in the Marketplace.
+{% content-ref url="statements/view-and-download-statements.md" %}
+[view-and-download-statements.md](statements/view-and-download-statements.md)
+{% endcontent-ref %}

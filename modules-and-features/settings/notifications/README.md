@@ -63,7 +63,7 @@ For each message, you can view the following details:
 
 * **Message ID** - Displays the message ID.
 * **Contact** - Displays the recipient's email address.&#x20;
-* **User** - Displays the name and ID of the individual linked to the contact. If the field is empty, it means the recipient doesn't have a Maketplace Platform account.
+* **User** - Displays the name and ID of the individual linked to the contact. If the field is empty, it means the recipient doesn't have a Marketplace Platform account.
 * **Subject** - Displays the subject line of the email.
 * **Category** - Displays the category of the notification. See [Notification categories](./#notification_types) for details.
 * **Account** - <mark style="color:red;">Description required</mark>

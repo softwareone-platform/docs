@@ -51,6 +51,12 @@ Our catalog is available to everyone and provides easy access to a wide range of
 
 Designed for intuitive navigation, our catalog ensures a seamless browsing experience and simplifies your software procurement journey.
 
+## Search Query in Data Grids
+
+Data grids now include a new filter condition called Search Query. The new condition allows you to enter a search term, which is then used to find matching records within other filter conditions, such as orders, agreements, and more.
+
+<figure><img src="../../.gitbook/assets/search_query.png" alt=""><figcaption><p>Search Query</p></figcaption></figure>
+
 ## Subscription Automatic Renewals
 
 You can now manage the automatic renewal of your subscriptions through self-service in the platform.&#x20;

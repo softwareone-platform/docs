@@ -9,8 +9,9 @@ Each charge represents a transaction related to the subscriptions within your ag
 To view a statement:
 
 1. Navigate to the **Statements** page in the platform.&#x20;
-2. On the **Statements** page, refine your list of statements. Statements can be filtered using various filters, such as ?. To learn more, see [Filter data](../../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
-3. Use the **Charges** tab to view a detailed list of charges in the billing period.&#x20;
+2. On the **Statements** page, refine your list of statements. Statements can be filtered using various filters, such as statement ID and status. To learn more, see [Filter data](../../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
+3. Select the statement in the **ID** field. The details page of your selected statement opens.
+4. Use the **Charges** tab to view a detailed list of charges in the billing period.&#x20;
 
 ## Downloading a statement
 
