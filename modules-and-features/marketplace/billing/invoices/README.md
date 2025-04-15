@@ -31,7 +31,7 @@ The **Invoices** page displays all invoices that have been created for your acco
 * **Seller** - Displays the name and ID of the SoftwareOne entity that issued the invoice.
 * **Created** - Displays the date when the invoice was created.&#x20;
 * **SP** - Displays the total amount of the invoice.
-* **Status** - Displays the status of the invoice, such as **Paid**, **Overdue**, or **Generated**.
+* **Status** - Displays the status of the invoice, such as **Paid**, **Overdue**, or **Generated**. <mark style="color:red;">**Are there more states?**</mark>
   * **Paid** - The invoice has been paid in full. No further action is required.
   * **Overdue** - The invoice is past due. Invoices in this state require immediate action to prevent service disruptions. Note that overdue invoices may attract penalties, interest, or both, depending on your terms and conditions.
   * **Generated** - The invoice has been generated and issued, but it has not been settled yet.
