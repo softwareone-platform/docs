@@ -1,5 +1,4 @@
 ---
-description: Welcome to the SoftwareOne Marketplace Platform Documentation!
 layout:
   title:
     visible: true
@@ -15,7 +14,9 @@ layout:
 
 # Home
 
-The [SoftwareOne](https://softwareone.com) Marketplace Platform is a comprehensive digital marketplace that brings together a wide range of vendors and clients. The platform is designed to offer various software solutions while making sure that client needs match vendor capabilities effectively.
+Welcome to the [SoftwareOne](https://softwareone.com) Marketplace Platform Documentation!
+
+Our  platform is a comprehensive digital marketplace that brings together a wide range of vendors and clients. The platform is designed to offer various software solutions while making sure that client needs match vendor capabilities effectively.
 
 <div align="left"><figure><img src=".gitbook/assets/image (801).png" alt=""><figcaption></figcaption></figure></div>
 
