@@ -11,13 +11,13 @@ Administrators can also manage recipients for an email notification by adding ne
 To add individual users and groups to your email notifications:
 
 1. Navigate to the **Notifications** page.&#x20;
-2. On the **Subscribers** tab, select the relevant category. For example, to configure recipients for your order-related notifications, select **Orders**.
+2. On the **Subscribers** tab, select the relevant category. For example, to configure recipients for order-related notifications, select **Orders**.
 3. On the subscriber details page, select the **Recipients** tab.
 
 <figure><img src="../../../.gitbook/assets/notifications_subscribers_details.png" alt=""><figcaption><p>Recipients tab on the Subscriber details page</p></figcaption></figure>
 
-4. Define the recipients for your notifications:
-   * To add users, select **Edit** in the **Users** section and select all users who should receive notification emails. Only active users are displayed in this list. If the user you wish to add is not displayed, make sure they are [added to your account](../users/add-new-users.md).
+4. Define the recipients:
+   * To define users, select **Edit** in the **Users** section and select all users who should receive notification emails. Note that only active users are displayed in this list. If a user you wish to add isn't displayed, make sure they are [added to your account](../users/add-new-users.md).
    * To add groups, select **Edit** in the **Groups** section and select the required groups. You can select multiple groups.&#x20;
 5. Select **Save**. Your list of recipients is updated.&#x20;
 

@@ -6,7 +6,7 @@ For example, you can reinvite the person if they didn't receive the invitation e
 
 ## Reinviting a user
 
-If the person you invited didn't receive the invitation email or has difficulty accepting your invitation, you can share the invite link with them directly, or send the invitation email again.
+If the person you invited didn't receive the invitation email or has difficulty accepting your invitation, you can share the invite link with them directly or send the invitation email again.
 
 To reinvite a user to your account:
 
@@ -21,7 +21,7 @@ To reinvite a user to your account:
 
 If an invitation is not accepted within 7 days from the send date, it expires.&#x20;
 
-Account administrators can create a new invitation and resend it to the individual. The option to send a new invitation is only enabled for users who have the **Invitation expired** status in the platform.
+Account administrators can create a new invitation and resend it to the individual. The option to send a new invitation is only enabled for users who have the **Invitation expired** status on the platform.
 
 {% hint style="info" %}
 Follow these steps only if the individual's invitation has expired and they see the following message when selecting the invite link:&#x20;

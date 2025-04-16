@@ -66,7 +66,7 @@
       * [Specify PO Numbers for Split Billing](modules-and-features/marketplace/billing/split-billing/specify-po-numbers-for-split-billing.md)
   * [Certificates](modules-and-features/marketplace/certificates/README.md)
     * [Certificate States](modules-and-features/marketplace/certificates/certificate-states.md)
-    * [Add Existing Certificate](modules-and-features/marketplace/certificates/add-existing-certificate.md)
+    * [Add Certificate](modules-and-features/marketplace/certificates/add-certificate.md)
     * [Rename Certificate](modules-and-features/marketplace/certificates/rename-certificate.md)
   * [Enrollments](modules-and-features/marketplace/enrollments/README.md)
     * [Enrollment States](modules-and-features/marketplace/enrollments/enrollment-states.md)

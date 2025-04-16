@@ -71,14 +71,14 @@ For each message, you can view the following details:
 * **Subject** - Displays the subject line of the email.
 * **Category** - Displays the category of the notification. See [Notification categories](./#notification_types) for details.
 * **Account** - <mark style="color:red;">Description required</mark>
-* **Created** - <mark style="color:red;">Description required</mark>
+* **Created** - Date and time when the message is created.
 * **Created by** - <mark style="color:red;">Description required</mark>
 * **Status** - Displays the status of the message. To learn about the possible statuses, see [Notification States](notification-states.md).
-* **Actions** - Includes the **View details** option, which opens the **Message details** page.
+* **Actions** - Allows you to open the **Message details** page using the **View details** option.
 
 #### Message details page
 
-The **Message details** page displays detailed information for the message. You can also view the content of the email, the files attached to the message, the time and date when the message was triggered, and so on.&#x20;
+The **Message details** page displays message details. You can also view the content of the email, the files attached to the message, the time and date when the message was triggered, and so on.&#x20;
 
 <figure><img src="../../../.gitbook/assets/notifications_message_detail.png" alt=""><figcaption><p>Message details page</p></figcaption></figure>
 

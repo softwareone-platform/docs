@@ -34,8 +34,7 @@ The details page displays general information and properties associated with the
 From the details page, you can [rename your certificate](rename-certificate.md) using the **Edit** option or re-enroll in the program. You can also access the following tabs:&#x20;
 
 * **General** - Displays the certificate's general information.&#x20;
-* **Parameters** - Displays the ordering parameters associated with the certificate. The parameters are defined by the vendors, so they might vary depending on the program.
+* **Parameters** - Displays the ordering and fulfillment parameters associated with the certificate. The parameters are defined by the vendors, so they might vary depending on the program.
 * **Enrollments** - Displays the enrollment associated with the certificate.
-* **Products** - Displays the products and services that are offered as part of the program.
-* **Agreements** - <mark style="color:red;">**Description required**</mark>
-* **Details** - Displays a history of events associated with the certificate, for example, the date and time when the certificate was added.
+* **Details** - Displays a history of events associated with the certificate, for example, the date and time when the certificate was created.
+* **Audit trail** - Displays a detailed audit trail of all changes. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](../../settings/audit-trail.md).
