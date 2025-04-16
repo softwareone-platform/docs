@@ -29,12 +29,12 @@ The **Invoices** page displays all invoices that have been created for your acco
 * **Product** - Displays the name and ID of the product in the Marketplace.
 * **Agreement** - Displays the name and ID of the agreement associated with the subscriptions that are getting billed.
 * **Seller** - Displays the name and ID of the SoftwareOne entity that issued the invoice.
-* **Created** - Displays the date when the invoice was created.&#x20;
-* **SP** - Displays the total amount of the invoice.
+* **SP** - Represents the total amount of the invoice. <mark style="color:red;">**Does SP mean sales price here?**</mark>
 * **Status** - Displays the status of the invoice, such as **Paid**, **Overdue**, or **Generated**. <mark style="color:red;">**Are there more states?**</mark>
   * **Paid** - The invoice has been paid in full. No further action is required.
   * **Overdue** - The invoice is past due. Invoices in this state require immediate action to prevent service disruptions. Note that overdue invoices may attract penalties, interest, or both, depending on your terms and conditions.
   * **Generated** - The invoice has been generated and issued, but it has not been settled yet.
+* **Created** - Displays the date when the invoice was created.&#x20;
 
 ## Invoice details page <a href="#subscription-details" id="subscription-details"></a>
 
