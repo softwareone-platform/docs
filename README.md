@@ -14,13 +14,13 @@ layout:
 
 # Home
 
-Welcome to the [SoftwareOne](https://softwareone.com) Marketplace Platform Documentation!
+Welcome to the documentation of the [SoftwareOne](https://softwareone.com) Marketplace Platform.
 
-Our  platform is a comprehensive digital marketplace that brings together a wide range of vendors and clients. The platform is designed to offer various software solutions while making sure that client needs match vendor capabilities effectively.
+Our platform serves as a comprehensive digital marketplace that connects a diverse range of vendors and clients. It is designed to offer a variety of software solutions while ensuring that the needs of clients align effectively with the capabilities of vendors.
 
 <div align="left"><figure><img src=".gitbook/assets/image (801).png" alt=""><figcaption></figcaption></figure></div>
 
-Empowering clients to discover, compare, and procure software licenses from multiple vendors in one place, our platform is a catalyst for accelerating digital transformation and enhancing operational efficiency.
+Our platform is a catalyst for accelerating digital transformation and enhancing operational efficiency. It empowers clients to easily discover, compare, and acquire software licenses from multiple vendors in one convenient location, and allows vendors to extend their global reach.
 
 Explore our documentation to learn more about the platform and its features, and discover how you can use it for software procurement, subscription management, fulfillment, and more.
 
