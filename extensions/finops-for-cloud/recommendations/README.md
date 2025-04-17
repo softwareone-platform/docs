@@ -2,8 +2,6 @@
 
 The **Recommendations** page is designed to make you aware of the less apparent deficiencies of the infrastructure, like configuration flaws and security risks.&#x20;
 
-## Recommendations interface
-
 In FinOps for Cloud, you can access the **Recommendations** page from the sidebar. On this page, you can review all the recommendations and take action to get the most out of your registered data sources.&#x20;
 
 <figure><img src="../../../.gitbook/assets/recommendations.png" alt=""><figcaption><p>Recommendations page</p></figcaption></figure>
@@ -11,7 +9,7 @@ In FinOps for Cloud, you can access the **Recommendations** page from the sideba
 The **Recommendations** page contains the following options:
 
 * **Data sources** - Displays all billing data sources that you have connected in your FinOps for Cloud account. You can select multiple data sources from the list and view recommendations and related metrics for those sources. See [Data Sources](../data-sources/) to learn about the supported sources and how to connect them.
-* **Summary cards** - Use summary cards to view important details, like monthly savings and last and next check time. The content of the last summary card varies, depending on the condition. For instance, the card might show any AWS S3 duplicates found during the last check, checks that did not start or finish successfully, and so on. Selecting this specific card opens a summary page, which shows a table containing all checks and the option for you to initiate a new check using **Run check**.
+* **Summary cards** - Use summary cards to view important details, like monthly savings and last and next check times. The content of the last summary card varies, depending on the condition. For instance, the card might show any AWS S3 duplicates found during the last check, checks that did not start or finish successfully, and so on. Selecting this specific card opens a summary page, which shows a table containing all checks and the option for you to initiate a new check using **Run check**.
   * **Possible monthly savings** - Displays the possible monthly savings that can be achieved if the suggested recommendations are implemented.
   * **Last check time** - Displays the time when FinOps for Cloud last checked for an update. The system runs a check every 3 hours.
   * **Next check time** - Indicates when the next recommendation check is due.&#x20;

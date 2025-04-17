@@ -1,13 +1,13 @@
-# Resources Constraint Policies
+# Constraints
 
-To address the ever-dynamic cloud infrastructure where resources are being created and deleted continuously, FinOps for Cloud introduces a set of tools to help limit the related expenses and the lifetime of individual assets.&#x20;
+To address the ever-dynamic cloud infrastructure where resources are being created and deleted continuously, FinOps for Cloud contains a set of tools to help limit the related expenses and the lifetime of individual assets.&#x20;
 
-The following feature is implemented in the form of _constraints_ that you can set for a specific resource or generally for a pool. Two constraint types can be set:
+This is implemented in the form of constraints that you can set for a specific resource or generally for a pool. You can set two types of constraints:
 
-* **TTL** - Represents time to live. A resource should not live for more than the specified period.&#x20;
+* **TTL** - Represents time to live. A resource must not live for more than the specified period.&#x20;
   * For a resource, specify a date and time.&#x20;
   * For a pool, input an integer between 1 and 720 hours.
-* **Daily expenses limit** - The resource spending should not exceed the specified amount in dollars. Input as integer, min $ 1, 0 - unlimited.
+* **Daily expenses limit** - The resource spending must not exceed the specified amount in dollars. Input as an integer, min $ 1, 0 - unlimited.
 
 When FinOps discovers active resources in the connected source, it checks that they don't violate any existing pool constraints that were applied as policies before.
 
@@ -17,7 +17,7 @@ When a resource hits a constraint, both the Manager and Owner of the resource ar
 FinOps for Cloud sends notifications about violated constraints and doesn't interact with the connected source itself to perform any constraint-related adjustments.
 {% endhint %}
 
-## Assigning resources constraints <a href="#resources-constraints" id="resources-constraints"></a>
+## Assigning resource constraints <a href="#resources-constraints" id="resources-constraints"></a>
 
 To assign resource constraints:
 

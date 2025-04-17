@@ -226,7 +226,7 @@
     * [Clean-up Scripts Based on Recommendations](extensions/finops-for-cloud/recommendations/clean-up-scripts-based-on-recommendations.md)
     * [Archived Recommendations](extensions/finops-for-cloud/recommendations/archived-recommendations.md)
   * [Resources](extensions/finops-for-cloud/resources/README.md)
-    * [Resources Constraint Policies](extensions/finops-for-cloud/resources/resources-constraint-policies.md)
+    * [Constraints](extensions/finops-for-cloud/resources/resources-constraint-policies.md)
   * [Pools](extensions/finops-for-cloud/pools/README.md)
     * [Configure Assignment Rules](extensions/finops-for-cloud/pools/add-assignment-rules.md)
     * [Re-apply Ruleset](extensions/finops-for-cloud/pools/re-apply-ruleset.md)
