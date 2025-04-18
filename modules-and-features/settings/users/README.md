@@ -1,13 +1,15 @@
 # Users
 
-A user is an individual who interacts with the In the Marketplace Platform through a unique username and password. Each user has a profile consisting of attributes and settings (such as email address, name,  profile image, and more). To understand more about users and their role in our platform, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
+A user is an individual who interacts with the platform through a unique username and password. Each user has a profile consisting of attributes and settings (such as email address, name,  profile image, and more).&#x20;
 
-Here are some important points about users:&#x20;
+In the Marketplace Platform:
 
 * Users can belong to one or more accounts, or none at all.&#x20;
 * Users associated with an account have tailored access to modules and functionalities, depending on their permissions.&#x20;
 * Users belonging to multiple accounts can also switch between those accounts without signing out of the platform.
 * Users who don't belong to any account have limited capabilities. Such users can only sign in to the platform and adjust their profile settings. They cannot access any module.
+
+As an account administrator, you can view and manage users from the **Users** page. The page is available under **Settings** in the main menu.
 
 ## Users interface <a href="#agreements-interface" id="agreements-interface"></a>
 
