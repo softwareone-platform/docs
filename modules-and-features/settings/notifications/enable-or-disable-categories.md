@@ -12,11 +12,11 @@ The Marketplace Platform doesn't allow disabling notification emails for profile
 
 ## Disabling a notification category
 
-To disable a notification category:
-
 {% hint style="info" %}
 The steps in this section are for account administrators who wish to manage categories at the account level. If you are not an administrator and want to manage notifications for your profile, follow the steps in [Manage Email Notifications](../../../marketplace-platform/getting-started/interface/manage-notification-preferences.md).
 {% endhint %}
+
+To disable a notification category:
 
 1. From the main menu, go to **Settings** > **Notifications**.
 2. On the **Subscribers** tab, select the required category, for example, Orders.

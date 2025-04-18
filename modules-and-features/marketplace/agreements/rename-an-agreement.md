@@ -16,21 +16,3 @@ To update an agreement's name:
 4. In the **Rename** dialog, enter the new name and select **Save**. The agreement's name is updated and displayed across all pages featuring the agreement.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Rename (2).png" alt=""><figcaption><p>Rename dialog</p></figcaption></figure>
-
-## Related topics
-
-{% content-ref url="agreement-states.md" %}
-[agreement-states.md](agreement-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="terminate-agreements.md" %}
-[terminate-agreements.md](terminate-agreements.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-agreement-id.md" %}
-[edit-agreement-id.md](edit-agreement-id.md)
-{% endcontent-ref %}
-
-{% content-ref url="view-and-download-attachments.md" %}
-[view-and-download-attachments.md](view-and-download-attachments.md)
-{% endcontent-ref %}

@@ -1,6 +1,6 @@
 # Copy API Token
 
-You can easily copy an API token if you need to use it in your application.&#x20;
+You can copy your API token from the token details page.
 
 ## Copying an API token
 
@@ -17,29 +17,3 @@ To copy a token:
    * To show the token value, select the visibility icon <img src="../../../.gitbook/assets/icon_eye.png" alt="" data-size="line">. To hide the value, click the icon again.&#x20;
 
 A confirmation message is displayed when the values are copied successfully.&#x20;
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="token-states.md" %}
-[token-states.md](token-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="create-api-token.md" %}
-[create-api-token.md](create-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-api-token.md" %}
-[edit-api-token.md](edit-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-api-token.md" %}
-[delete-api-token.md](delete-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="enable-or-disable-api-token.md" %}
-[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
-{% endcontent-ref %}

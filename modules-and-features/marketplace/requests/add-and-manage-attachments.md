@@ -2,7 +2,7 @@
 description: Upload a new file as an attachment or remove the existing file.
 ---
 
-# Add or Remove File Attachments
+# Add or Remove Attachments
 
 You can attach a file to your request at any time, regardless of the request's status. You can also delete any files you have previously added.&#x20;
 
@@ -34,25 +34,3 @@ A deleted file cannot be recovered.
 If you choose **Edit**, upload the new attachment in the **Edit Attachment** section and save your changes.
 
 If you choose **Delete**, a confirmation message will appear. Select **Delete** in this message to confirm the action.
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="request-states.md" %}
-[request-states.md](request-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="create-new-requests.md" %}
-[create-new-requests.md](create-new-requests.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-a-message.md" %}
-[add-a-message.md](add-a-message.md)
-{% endcontent-ref %}
-
-{% content-ref url="set-request-to-processing.md" %}
-[set-request-to-processing.md](set-request-to-processing.md)
-{% endcontent-ref %}

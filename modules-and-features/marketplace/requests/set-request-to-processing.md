@@ -18,25 +18,3 @@ To change the status of your request:
 <figure><img src="../../../.gitbook/assets/image (985).png" alt="" width="563"><figcaption><p>Process request dialog</p></figcaption></figure>
 
 The status of your request changes from **Querying** to **Processing**. If you added comments in the **Process request** dialog, your comments are displayed and visible to everyone on the **Activity** tab.&#x20;
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="request-states.md" %}
-[request-states.md](request-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="create-new-requests.md" %}
-[create-new-requests.md](create-new-requests.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-a-message.md" %}
-[add-a-message.md](add-a-message.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-and-manage-attachments.md" %}
-[add-and-manage-attachments.md](add-and-manage-attachments.md)
-{% endcontent-ref %}

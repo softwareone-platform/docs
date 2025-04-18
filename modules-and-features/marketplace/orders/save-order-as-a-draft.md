@@ -55,29 +55,3 @@ When you are ready to finalize a draft order, open the order from the **Orders**
 You can either save the same order as a draft again or proceed to place the order. Draft orders can be updated and saved as many times as needed.
 
 If a draft order is no longer required, [you can also delete it](delete-draft-orders.md). Once a draft order has been placed, it's no longer listed as a draft.
-
-## Related topics
-
-{% content-ref url="../../inventory/orders.md" %}
-[orders.md](../../inventory/orders.md)
-{% endcontent-ref %}
-
-{% content-ref url="order-states.md" %}
-[order-states.md](order-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-draft-orders.md" %}
-[delete-draft-orders.md](delete-draft-orders.md)
-{% endcontent-ref %}
-
-{% content-ref url="submit-draft-orders.md" %}
-[submit-draft-orders.md](submit-draft-orders.md)
-{% endcontent-ref %}
-
-{% content-ref url="manage-order-notes.md" %}
-[manage-order-notes.md](manage-order-notes.md)
-{% endcontent-ref %}
-
-{% content-ref url="set-an-order-to-processing.md" %}
-[set-an-order-to-processing.md](set-an-order-to-processing.md)
-{% endcontent-ref %}

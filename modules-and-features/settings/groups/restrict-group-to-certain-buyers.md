@@ -30,21 +30,3 @@ Keep the following rules in mind:
 ## Restricting a group to a certain buyer
 
 You can apply buyer-level restrictions when creating new groups or editing existing ones. For instructions, see [Create New Group](create-new-group.md) and [Edit Group](edit-group.md).&#x20;
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="create-new-group.md" %}
-[create-new-group.md](create-new-group.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-group.md" %}
-[edit-group.md](edit-group.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-group.md" %}
-[delete-group.md](delete-group.md)
-{% endcontent-ref %}

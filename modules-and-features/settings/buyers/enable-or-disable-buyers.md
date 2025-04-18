@@ -8,21 +8,12 @@ When you disable a buyer, the licensees associated with that buyer also become u
 
 To enable or disable a buyer:
 
-1. Navigate to the **Buyers** page. Then, find the buyer you want to manage.
+1. Navigate to the **Buyers** page in the platform.&#x20;
+2. Find the buyer you want to manage.
 
 <figure><img src="../../../.gitbook/assets/BuyersPage.png" alt=""><figcaption><p>Buyers page</p></figcaption></figure>
 
-2. Select the actions icon (**•••**) for the buyer and choose **Enable** or **Disable**. Note that only one of these options is shown depending on the current state of the buyer. For example, the **Enable** option is shown only if the buyer has been disabled.&#x20;
-3. In the confirmation dialog, confirm the action.
+3. Select the actions icon (**•••**) for the buyer and choose **Enable** or **Disable**. Note that only one of these options is shown depending on the current state of the buyer. For example, the **Enable** option is shown only if the buyer has been disabled.&#x20;
+4. In the confirmation dialog, confirm the action.
 
-A message is displayed stating that the buyer has been updated. You can view the updated buyer status on the [Buyers page](./#agreements-interface).
-
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers" %}
-[Buyers](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers/edit-buyers" %}
-[Edit Buyers](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/buyers/edit-buyers)
-{% endcontent-ref %}
+A message is displayed stating that the buyer has been updated. You can view the updated buyer status on the **Buyers** page.

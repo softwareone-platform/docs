@@ -19,29 +19,3 @@ To enable or disable a token:
 3. In the confirmation dialog, confirm the action.
 
 A message is displayed stating that the operation is successful. You can view the updated status of your token on the **API token** page.
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="token-states.md" %}
-[token-states.md](token-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="create-api-token.md" %}
-[create-api-token.md](create-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-api-token.md" %}
-[edit-api-token.md](edit-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="copy-api-token.md" %}
-[copy-api-token.md](copy-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-api-token.md" %}
-[delete-api-token.md](delete-api-token.md)
-{% endcontent-ref %}

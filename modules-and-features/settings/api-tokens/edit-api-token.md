@@ -18,29 +18,3 @@ To update the token details:
    * **Description** - Update the token description.
 4. Update the access scope for the **Modules** as necessary. Use the checkboxes to select or clear the modules as required.&#x20;
 5. Select  **Save**. A confirmation message is displayed stating that your token has been updated.&#x20;
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="token-states.md" %}
-[token-states.md](token-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="create-api-token.md" %}
-[create-api-token.md](create-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="copy-api-token.md" %}
-[copy-api-token.md](copy-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-api-token.md" %}
-[delete-api-token.md](delete-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="enable-or-disable-api-token.md" %}
-[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
-{% endcontent-ref %}

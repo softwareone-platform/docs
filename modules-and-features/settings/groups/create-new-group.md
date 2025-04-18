@@ -25,22 +25,4 @@ The **Buyers** section is enabled only if you've selected the **Marketplace** mo
 6. On the **Users** page, select all the individuals you want to add to the group. This section displays the names of all individuals in your account. Then, select **Next**.&#x20;
 7. On the **Overview** page, review the details for accuracy. When done, select **Add**.&#x20;
 
-Your group is created, and the **Summary** section displays the confirmation. Select **View details** to open the group details page. Otherwise, click **Close** to exit the wizard.
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="edit-group.md" %}
-[edit-group.md](edit-group.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-group.md" %}
-[delete-group.md](delete-group.md)
-{% endcontent-ref %}
-
-{% content-ref url="restrict-group-to-certain-buyers.md" %}
-[restrict-group-to-certain-buyers.md](restrict-group-to-certain-buyers.md)
-{% endcontent-ref %}
+The group is created, and the **Summary** section displays the confirmation. Select **View details** to open the group details page. Otherwise, click **Close** to exit the wizard.

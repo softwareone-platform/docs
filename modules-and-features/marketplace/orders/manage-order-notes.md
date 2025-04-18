@@ -16,29 +16,3 @@ To manage the notes associated with your order:
 
 4. In the **Edit Notes** dialog, add or update your notes as necessary. A maximum of 300 characters is allowed.
 5. Select **Save**. Your notes are updated and displayed immediately on the **Notes** tab.
-
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders" %}
-[Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/order-states" %}
-[Order States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/order-states)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/save-order-as-a-draft" %}
-[Save Your Order as a Draft](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/save-order-as-a-draft)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/delete-draft-orders" %}
-[Delete Draft Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/delete-draft-orders)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/submit-draft-orders" %}
-[Submit Draft Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/submit-draft-orders)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/set-an-order-to-processing" %}
-[Change Your Order's Status to Processing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/set-an-order-to-processing)
-{% endcontent-ref %}

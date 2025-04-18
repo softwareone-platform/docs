@@ -16,39 +16,14 @@ Before removing an individual from your account, note the following points:
 
 To remove an individual from your account:
 
-1. Navigate to the **Users** page and locate the individual you want to remove from your account.
-2. Select the actions icon (**•••**) and choose **Remove**.
+1. Navigate to the **Users** page in the platform.
+2. Locate the individual you want to remove from your account.
+3. Select the actions icon (**•••**) and choose **Remove**.
 
 <figure><img src="../../../.gitbook/assets/image (1002).png" alt=""><figcaption><p>Remove option under Actions</p></figcaption></figure>
 
-3. In the **Remove user** dialog, select **Remove** to confirm the action.
+4. In the **Remove user** dialog, select **Remove** to confirm the action.
 
 <figure><img src="../../../.gitbook/assets/image (1003).png" alt=""><figcaption><p>Remove user dialog</p></figcaption></figure>
 
 &#x20;A message is displayed stating that the user has been removed. The removed user will receive an email stating that they have been removed from the account and the associated groups.&#x20;
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="user-states.md" %}
-[user-states.md](user-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="respond-to-invitations.md" %}
-[respond-to-invitations.md](respond-to-invitations.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-users.md" %}
-[edit-users.md](edit-users.md)
-{% endcontent-ref %}
-
-{% content-ref url="manage-user-invitations.md" %}
-[manage-user-invitations.md](manage-user-invitations.md)
-{% endcontent-ref %}

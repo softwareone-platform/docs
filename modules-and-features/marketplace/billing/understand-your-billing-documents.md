@@ -41,13 +41,3 @@ You can download a sample statement from the [Billing ](./)page.
 ## Frequently asked questions (FAQs) <a href="#invoice-faq" id="invoice-faq"></a>
 
 For answers to common billing questions, see [I have questions about billing](../../../help-and-support/faqs/i-have-questions-about-billing.md).&#x20;
-
-## Related topics
-
-{% content-ref url="invoices/downloading-invoices.md" %}
-[downloading-invoices.md](invoices/downloading-invoices.md)
-{% endcontent-ref %}
-
-{% content-ref url="statements/download-statements.md" %}
-[download-statements.md](statements/download-statements.md)
-{% endcontent-ref %}

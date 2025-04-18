@@ -19,21 +19,3 @@ To edit a group:
 5. On the **Buyers page**, update the buyer setting for the group. This section is available only if you've enabled the Marketplace module for the group.
 6. On the **Users** page, use the checkboxes to add or remove members as necessary.&#x20;
 7. Select **Save**. A confirmation message is displayed stating that your group has been updated.
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="create-new-group.md" %}
-[create-new-group.md](create-new-group.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-group.md" %}
-[delete-group.md](delete-group.md)
-{% endcontent-ref %}
-
-{% content-ref url="restrict-group-to-certain-buyers.md" %}
-[restrict-group-to-certain-buyers.md](restrict-group-to-certain-buyers.md)
-{% endcontent-ref %}

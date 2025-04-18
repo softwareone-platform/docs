@@ -1,79 +1,34 @@
 # Subscriptions
 
-A subscription refers to the ongoing service provision under the terms and conditions of an agreement. Subscriptions are mapped to agreements and each agreement can contain one or multiple subscriptions.&#x20;
+A subscription refers to the ongoing service provision under the terms and conditions of an agreement. In the Marketplace Platform, subscriptions are mapped to agreements, and each agreement can contain one or multiple subscriptions.&#x20;
 
-You can [order new subscriptions through the platform](buy-products-and-services.md) and also manage your existing licenses through the interface, including purchasing additional licenses and canceling the previously purchased ones. The **Subscriptions** page in the platform is your entry point to accessing your subscriptions.&#x20;
+You can [order new subscriptions through the platform](buy-products-and-services.md) and also manage your existing licenses via selg service. This includes ordering additional licenses and canceling the previously purchased ones.&#x20;
 
-## Subscriptions interface
-
-To access the **Subscriptions** page from the main menu, select **Marketplace** > **Subscriptions**.
+Your subscriptions are available on the **Subscriptions** page. The page is available under **Marketplace** in the main menu.
 
 <figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
-The **Subscriptions** page displays key subscription properties. It also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page for ordering new subscriptions.
+On the **Subscriptions** page, you can view key properties for each of the subscriptions, regardless of the status. The page also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page for ordering subscriptions.
 
-For each subscription, the page displays the following details:
+## Viewing subscription details <a href="#subscription-details" id="subscription-details"></a>
 
-* **Subscription** - Displays the name and ID of the subscription.
-* **Agreement** - Displays the name and ID of the agreement associated with the subscription.
-* **Licensee** - Displays the name of the individual or legal entity to whom the subscription license is issued.
-* **Buyer** - Displays the buyer associated with the subscription.
-* **Seller** - Displays the SoftwareOne legal entity that fulfilled the order and issued the invoice.
-* **Renewal date** - Displays the renewal date of your subscription.
-* **SPx** - Displays the estimated subscription sales price.
-* **Split billing** - Indicates if split billing is enabled for the subscription. This column is displayed only for certain products in the platform. To learn more, see [Split Billing](../billing/).
-* **Created** - Indicates the date when the subscription was created.
-* **Status** - Displays the current status of the subscription. For details on the possible states, see [Subscription States](subscription-states.md).
-
-## Subscription details page <a href="#subscription-details" id="subscription-details"></a>
-
-The details page of a subscription gives you in-depth information for a subscription. You can open the details page by clicking the subscription on the **Subscriptions** page.&#x20;
-
-<details>
-
-<summary>What can I do on this page?</summary>
-
-From the details page, you can complete the following tasks:&#x20;
-
-* [Edit the subscription to increase or decrease licenses](../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md)
-* [Rename your subscription](rename-a-subscription.md)
-* [Terminate a subscription](terminate-a-subscription.md)
-* [Edit the subscription ID](edit-subscription-id.md)
-* [Edit split billing allocation](../billing/split-billing/edit-split-billing.md) (only if split billing is enabled)
-* [Manage automatic renewal for a subscription](manage-automatic-renewals.md)
-
-</details>
+To view the subscription details page, select the subscription on the **Subscriptions** page.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Subscriptiondetails.png" alt=""><figcaption><p>Subscription details page</p></figcaption></figure>
 
-The subscription details page displays all information for a subscription, such as name, renewal date, price, and more. The details page contains the following tabs:
+The details page contains general subscription information, such as status, renewal date, commitment timeframe, and more.&#x20;
 
-* **Items** - Displays the details of the ordered items, which include the name, quantity, and pricing.
-* **Parameters** - Displays the fulfilment parameters linked to the subscription. The parameter information varies depending on the parameters enabled by the vendor.
-* **Entities** - Displays the entities linked to the subscription and their details. Entities include licensees, buyers, and sellers.&#x20;
-* **Split billing** - Displays the split billing information for the subscription. This tab is displayed only if split billing has been enabled for the agreement. You can view the split billing buyers and the allocation for each buyer. To update the buyer allocation details, use the **Edit** option. For details, see [Edit Split Billing](../billing/split-billing/edit-split-billing.md).
-* **Orders** - Displays the different types of orders associated with the subscription, including purchase orders, change orders, and termination orders. For each order, you can see the order detail and status. Clicking an order opens the order details page.&#x20;
-* **Details** - Displays the additional IDs for the subscription, including the client and vendor IDs, and the timestamps of all changes made to the subscription. You can update the client ID using **Edit**. For instructions, see [Edit Subscription ID](edit-subscription-id.md).&#x20;
-* **Audit trail** - Displays all events that have taken place within the subscription. For each record, you can view the audit log details and summary. To learn more, see [Audit Trail](../../settings/audit-trail.md).&#x20;
+The page also contains options and tabs that allow you to manage the subscription:
 
-## Related topics
+<table><thead><tr><th width="170">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Items</strong></td><td>Displays all the items that you have ordered and their details, like the item name, quantity, and pricing.</td></tr><tr><td><strong>Parameters</strong> </td><td>Displays the fulfillment parameters for the subscription. The parameter information varies depending on the parameters enabled by the vendor.</td></tr><tr><td><strong>Entities</strong></td><td>Displays the entities linked to the subscription and their details. Entities include licensees, buyers, and sellers. </td></tr><tr><td><strong>Split billing</strong></td><td>Displays the split billing information, which includes details about buyers and their allocation. This tab is visible only if split billing has been enabled for the agreement. The <strong>Edit</strong> option allows you to update the buyer allocation. For details, see <a href="../billing/split-billing/edit-split-billing.md">Edit Split Billing</a>.</td></tr><tr><td><strong>Orders</strong></td><td>Displays your order history, including purchase orders, change orders, and termination orders. </td></tr><tr><td><strong>Details</strong> </td><td>Displays additional IDs for the subscription, including client and vendor IDs, along with timestamps for all changes made. You can update the client ID using <strong>Edit</strong>. For instructions, see <a href="edit-subscription-id.md">Edit Subscription ID</a>. </td></tr><tr><td><strong>Audit trail</strong></td><td>Displays all events that have occurred within the subscription. For each record, you can view the details and summary of the audit log. To learn more, see <a href="../../settings/audit-trail.md">Audit Trail</a></td></tr></tbody></table>
 
-{% content-ref url="subscription-states.md" %}
-[subscription-states.md](subscription-states.md)
-{% endcontent-ref %}
+## Additional actions
 
-{% content-ref url="rename-a-subscription.md" %}
-[rename-a-subscription.md](rename-a-subscription.md)
-{% endcontent-ref %}
+You can also perform various actions on the details page. The available actions depend on the status of the subscription:
 
-{% content-ref url="edit-subscription-id.md" %}
-[edit-subscription-id.md](edit-subscription-id.md)
-{% endcontent-ref %}
-
-{% content-ref url="terminate-a-subscription.md" %}
-[terminate-a-subscription.md](terminate-a-subscription.md)
-{% endcontent-ref %}
-
-{% content-ref url="manage-automatic-renewals.md" %}
-[manage-automatic-renewals.md](manage-automatic-renewals.md)
-{% endcontent-ref %}
+* [Increase or decrease the number of licenses](../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md)
+* [Rename the subscription](rename-a-subscription.md)
+* [Terminate the subscription](terminate-a-subscription.md)
+* [Edit the subscription's client ID](edit-subscription-id.md)
+* [Edit split billing allocation](../billing/split-billing/edit-split-billing.md) (only if split billing is enabled)
+* [Manage automatic renewal for a subscription](manage-automatic-renewals.md)

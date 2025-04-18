@@ -3,7 +3,7 @@
 The Marketplace Platform provides the following options for accessing your invoices:
 
 * You can view all invoices on the **Invoices** page on the platform.
-* You can view an individual invoice on the invoice details and agreement details pages. You can also download the invoice PDF from these two pages.
+* You can view and download an individual invoice from the invoice details page. Invoice PDFs are also available for download within the **Invoices** tab on the agreement details page.&#x20;
 
 ## Downloading an invoice
 

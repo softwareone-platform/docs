@@ -31,29 +31,3 @@ Follow these steps to edit the allocation percentage for a buyer:
 <figure><img src="../../../../.gitbook/assets/edit_split_billing.png" alt=""><figcaption><p>Edit split billing dialog</p></figcaption></figure>
 
 4. **Save** your changes. The **Split billing** tab will display the updated allocation details. Note that the changes will only take effect in your next billing cycle.&#x20;
-
-## Related topics
-
-{% content-ref url="../" %}
-[..](../)
-{% endcontent-ref %}
-
-{% content-ref url="configure-buyers-for-split-billing.md" %}
-[configure-buyers-for-split-billing.md](configure-buyers-for-split-billing.md)
-{% endcontent-ref %}
-
-{% content-ref url="set-up-split-billing-allocation.md" %}
-[set-up-split-billing-allocation.md](set-up-split-billing-allocation.md)
-{% endcontent-ref %}
-
-{% content-ref url="split-billing-for-change-orders.md" %}
-[split-billing-for-change-orders.md](split-billing-for-change-orders.md)
-{% endcontent-ref %}
-
-{% content-ref url="review-split-billing-configuration.md" %}
-[review-split-billing-configuration.md](review-split-billing-configuration.md)
-{% endcontent-ref %}
-
-{% content-ref url="specify-po-numbers-for-split-billing.md" %}
-[specify-po-numbers-for-split-billing.md](specify-po-numbers-for-split-billing.md)
-{% endcontent-ref %}

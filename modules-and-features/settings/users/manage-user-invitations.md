@@ -33,33 +33,8 @@ If the original invitation is still valid, you can resend the original invitatio
 
 To send a new invitation email:
 
-1. Navigate to the **Users** page and find the required user.
-2. Select the actions icon (**•••**) and choose **Send new invitation**. A new invitation email is sent to the individual, and a confirmation message is displayed.
+1. Navigate to the **Users** page in the platform.
+2. Find the required user.
+3. Select the actions icon (**•••**) and choose **Send new invitation**. A new invitation email is sent to the individual, and a confirmation message is displayed.
 
 <figure><img src="../../../.gitbook/assets/image (1007).png" alt=""><figcaption><p>Send new invitation option</p></figcaption></figure>
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="user-states.md" %}
-[user-states.md](user-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="respond-to-invitations.md" %}
-[respond-to-invitations.md](respond-to-invitations.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-users.md" %}
-[edit-users.md](edit-users.md)
-{% endcontent-ref %}
-
-{% content-ref url="remove-user.md" %}
-[remove-user.md](remove-user.md)
-{% endcontent-ref %}

@@ -19,21 +19,3 @@ To view and download attachments:&#x20;
 {% hint style="info" %}
 License keys can only be viewed and copied, not downloaded.
 {% endhint %}
-
-## Related topics
-
-{% content-ref url="agreement-states.md" %}
-[agreement-states.md](agreement-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="terminate-agreements.md" %}
-[terminate-agreements.md](terminate-agreements.md)
-{% endcontent-ref %}
-
-{% content-ref url="rename-an-agreement.md" %}
-[rename-an-agreement.md](rename-an-agreement.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-agreement-id.md" %}
-[edit-agreement-id.md](edit-agreement-id.md)
-{% endcontent-ref %}

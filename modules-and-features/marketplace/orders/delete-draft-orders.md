@@ -15,31 +15,3 @@ To delete a draft order:
 <figure><img src="../../../.gitbook/assets/image (955).png" alt=""><figcaption><p>Delete option in the upper right</p></figcaption></figure>
 
 4. In the **Delete order** confirmation, select **Delete** to confirm the action. Your draft order is deleted, and the status of the order changes from **Draft** to **Deleted** on the **Orders** page.
-
-<figure><img src="../../../.gitbook/assets/image (956).png" alt="" width="563"><figcaption><p>Delete order confirmation</p></figcaption></figure>
-
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders" %}
-[Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/order-states" %}
-[Order States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/order-states)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/save-order-as-a-draft" %}
-[Save Your Order as a Draft](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/save-order-as-a-draft)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/submit-draft-orders" %}
-[Submit Draft Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/submit-draft-orders)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/manage-order-notes" %}
-[Manage Order Notes](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/manage-order-notes)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/set-an-order-to-processing" %}
-[Change Your Order's Status to Processing](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/set-an-order-to-processing)
-{% endcontent-ref %}

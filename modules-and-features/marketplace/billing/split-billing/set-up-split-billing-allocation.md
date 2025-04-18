@@ -62,29 +62,3 @@ The allocation is updated for your selected buyer. Use the **Buyer** menu in the
 
 Allocation percentages can be modified using the **Edit split billing** dialog. For instructions, see [Edit split billing](edit-split-billing.md).
 {% endhint %}
-
-## Related topics
-
-{% content-ref url="../" %}
-[..](../)
-{% endcontent-ref %}
-
-{% content-ref url="configure-buyers-for-split-billing.md" %}
-[configure-buyers-for-split-billing.md](configure-buyers-for-split-billing.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-split-billing.md" %}
-[edit-split-billing.md](edit-split-billing.md)
-{% endcontent-ref %}
-
-{% content-ref url="split-billing-for-change-orders.md" %}
-[split-billing-for-change-orders.md](split-billing-for-change-orders.md)
-{% endcontent-ref %}
-
-{% content-ref url="review-split-billing-configuration.md" %}
-[review-split-billing-configuration.md](review-split-billing-configuration.md)
-{% endcontent-ref %}
-
-{% content-ref url="specify-po-numbers-for-split-billing.md" %}
-[specify-po-numbers-for-split-billing.md](specify-po-numbers-for-split-billing.md)
-{% endcontent-ref %}

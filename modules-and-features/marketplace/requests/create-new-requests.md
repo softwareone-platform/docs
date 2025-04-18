@@ -23,25 +23,3 @@ To create a new request:
 <figure><img src="../../../.gitbook/assets/image (981).png" alt=""><figcaption><p>Review request section</p></figcaption></figure>
 
 Your request is submitted, and a **Processing** status is assigned to it. Select **View request** to view the request details page. Otherwise, select **Close**.
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="request-states.md" %}
-[request-states.md](request-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-a-message.md" %}
-[add-a-message.md](add-a-message.md)
-{% endcontent-ref %}
-
-{% content-ref url="set-request-to-processing.md" %}
-[set-request-to-processing.md](set-request-to-processing.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-and-manage-attachments.md" %}
-[add-and-manage-attachments.md](add-and-manage-attachments.md)
-{% endcontent-ref %}

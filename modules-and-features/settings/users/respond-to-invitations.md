@@ -45,29 +45,3 @@ You can decline an invitation if it was sent to you in error or if you choose no
 To decline, open the invitation link and select **Decline invitation**.
 
 <figure><img src="../../../.gitbook/assets/image (890).png" alt="" width="375"><figcaption><p>Decline invitation</p></figcaption></figure>
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="user-states.md" %}
-[user-states.md](user-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-users.md" %}
-[edit-users.md](edit-users.md)
-{% endcontent-ref %}
-
-{% content-ref url="remove-user.md" %}
-[remove-user.md](remove-user.md)
-{% endcontent-ref %}
-
-{% content-ref url="manage-user-invitations.md" %}
-[manage-user-invitations.md](manage-user-invitations.md)
-{% endcontent-ref %}

@@ -30,21 +30,3 @@ To terminate an agreement:
 After the order has been placed, select **View order** to open the details page of the termination order. Otherwise, click **Close**.&#x20;
 
 Once the order is placed, the agreement status changes from **Active** to **Updating**. When the order has been processed and all subscriptions within the agreement are canceled, the status changes to **Terminated**.
-
-## Related topics
-
-{% content-ref url="agreement-states.md" %}
-[agreement-states.md](agreement-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="rename-an-agreement.md" %}
-[rename-an-agreement.md](rename-an-agreement.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-agreement-id.md" %}
-[edit-agreement-id.md](edit-agreement-id.md)
-{% endcontent-ref %}
-
-{% content-ref url="view-and-download-attachments.md" %}
-[view-and-download-attachments.md](view-and-download-attachments.md)
-{% endcontent-ref %}

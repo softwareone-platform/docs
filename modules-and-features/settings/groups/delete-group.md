@@ -15,21 +15,3 @@ To delete a group:
 3. In the **Delete group** dialog, select **Delete** to confirm the action.&#x20;
 
 A confirmation message is displayed stating that the group has been deleted.&#x20;
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="create-new-group.md" %}
-[create-new-group.md](create-new-group.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-group.md" %}
-[edit-group.md](edit-group.md)
-{% endcontent-ref %}
-
-{% content-ref url="restrict-group-to-certain-buyers.md" %}
-[restrict-group-to-certain-buyers.md](restrict-group-to-certain-buyers.md)
-{% endcontent-ref %}

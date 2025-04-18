@@ -25,21 +25,3 @@ To create a new licensee:
 7. On the Overview page, review the details and select **Add**.&#x20;
 
 The new licensee is created, and the **Summary** section displays the details of your newly created licensee. Select **View details** to open the details page of the licensee. Otherwise, click **Close** to exit the wizard.
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="licensee-states.md" %}
-[licensee-states.md](licensee-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-licensees.md" %}
-[edit-licensees.md](edit-licensees.md)
-{% endcontent-ref %}
-
-{% content-ref url="enable-or-disable-licensees.md" %}
-[enable-or-disable-licensees.md](enable-or-disable-licensees.md)
-{% endcontent-ref %}

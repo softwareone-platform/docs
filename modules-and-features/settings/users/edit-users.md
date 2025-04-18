@@ -8,38 +8,13 @@ Using this option, you can only update the groups that the individual belongs to
 
 To update a user's group membership:
 
-1. Navigate to the **Users** page and find the required user. You can [use filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data) to find a user based on their ID, name, email address, and other conditions.
-2. Select the actions icon (**•••**) and select **Edit** to start the **Edit user** wizard.
-3. Select the **Groups** page and then make the following changes as necessary:
+1. Navigate to the **Users** page in the platform.
+2. Find the required user. You can [use filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data) to find a user based on their ID, name, email address, and other conditions.
+3. Select the actions icon (**•••**) and choose **Edit** to start the **Edit user** wizard.
+4. Select the **Groups** page and make the following changes as necessary:
    * To add the user to a group, select the checkbox for that group.
    * To remove the user from a group, clear the checkbox.
 
 <figure><img src="../../../.gitbook/assets/image (1000).png" alt=""><figcaption><p>Edit user</p></figcaption></figure>
 
-4. Select **Save**. A confirmation message is displayed stating that the user has been edited successfully.
-
-## Related topics
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
-{% content-ref url="user-states.md" %}
-[user-states.md](user-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="respond-to-invitations.md" %}
-[respond-to-invitations.md](respond-to-invitations.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-new-users.md" %}
-[add-new-users.md](add-new-users.md)
-{% endcontent-ref %}
-
-{% content-ref url="remove-user.md" %}
-[remove-user.md](remove-user.md)
-{% endcontent-ref %}
-
-{% content-ref url="manage-user-invitations.md" %}
-[manage-user-invitations.md](manage-user-invitations.md)
-{% endcontent-ref %}
+5. Select **Save**. A confirmation message is displayed stating that the user has been edited successfully.

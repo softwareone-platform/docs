@@ -13,52 +13,29 @@ Your API keys have permissions assigned to them, so keep them secure. Do not sha
 
 All API requests must be made over **HTTPS**. Calls made over plain HTTP will fail. API requests without authentication will also fail.
 
-As an account administrator, you can view and manage your tokens on the **API tokens** page.
+As an account administrator, you can view and manage your tokens on the **API tokens** page. The page is available under **Settings** in the main menu.
 
 <figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>API tokens page</p></figcaption></figure>
 
-The page displays all tokens that have been created. For each token, you can view the following information:
+The page shows all tokens associated with your account. For each token, you can view details such as the token's name, the creator's name, the creation date, and the token's current [status](token-states.md).&#x20;
 
-* **API token** - Displays the name of the token and its marketplace identifier.
-* **Modules** - Displays the total number of modules that the token has access to. In cases where only one module is within the scope, the module name is displayed.
-* **Created** **by** - Displays the name and marketplace ID of the person who created the token.&#x20;
-* **Date created** - Displays the date and time when the token was created.
-* **Last access** - Displays the date and time when the token was last used.
-* **Status** - Displays the current status of the token. For more information on the status, see [Token States](token-states.md).
-* **Actions** - Displays options that allow you to manage the API token. Depending on the status of the token, you can enable or disable a token, delete the token permanently, or edit the token details.
+You also have action links that allow you to enable, disable, or delete the token. Additionally, you can edit the token's details.
 
 ## Viewing token details
 
 To view the details page of a token, select the token in the **API token** column.&#x20;
 
-From the details page, you can complete the following tasks:
+<figure><img src="../../../.gitbook/assets/TokenDetails.png" alt=""><figcaption></figcaption></figure>
 
-* [Edit a token](edit-api-token.md)
-* [Delete a token](delete-api-token.md)
+When you open the details page, it shows the token's name, marketplace ID, and status. The page also contains the following tabs that display corresponding information:
+
+<table><thead><tr><th width="165">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the token's description and allows you to show, hide, and copy the values.</td></tr><tr><td><strong>Modules</strong></td><td>Displays the modules that the API token has been granted access to within the scope of an account.</td></tr><tr><td><strong>Details</strong></td><td>Displays the date and time information for your selected token, for example, the date and time when the token was created.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail of all changes and events. To learn more, see <a href="https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail">Audit Trail</a>.</td></tr></tbody></table>
+
+## Additional actions
+
+You can perform various actions on the details page. The available actions depend on the token's current status:
+
+* [Edit the existing token](edit-api-token.md)
+* [Copy your API token](copy-api-token.md)
+* [Delete a token permanently](delete-api-token.md)
 * [Enable or disable a token](enable-or-disable-api-token.md)
-
-## Related topics
-
-{% content-ref url="token-states.md" %}
-[token-states.md](token-states.md)
-{% endcontent-ref %}
-
-{% content-ref url="create-api-token.md" %}
-[create-api-token.md](create-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="edit-api-token.md" %}
-[edit-api-token.md](edit-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="copy-api-token.md" %}
-[copy-api-token.md](copy-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-api-token.md" %}
-[delete-api-token.md](delete-api-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="enable-or-disable-api-token.md" %}
-[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
-{% endcontent-ref %}
