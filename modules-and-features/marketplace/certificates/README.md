@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Certificates
 
 In the Marketplace Platform, a certificate is an object that demonstrates that you meet the vendor's requirements and eligibility criteria for a program.&#x20;
