@@ -10,14 +10,15 @@ To enroll in a program, you will need your Microsoft Partner Network (MPN) ID an
 
 To add your certificate for a program:&#x20;
 
-1. Navigate to the **Programs** page and select the required program.&#x20;
-2. On the program's details page, select **Add certificate** to start the Add certificate wizard.
+1. Navigate to the **Programs** page in the platform.
+2. Select the required program.&#x20;
+3. On the program's details page, select the **Certificates** tab. Then, select **Add** to start the **Add certificate** wizard.
 
 <figure><img src="../../../.gitbook/assets/add_certificate.png" alt=""><figcaption><p>Add option on the Certificates tab</p></figcaption></figure>
 
-3. On the **Certificant** page, choose a certificant and select **Next**.
-4. On the **Partner details** page, select the country you want to transact in and provide the necessary partner information, such as the email address and partner network ID associated with your partner account. When done, select **Next**.&#x20;
-5. On the **Details** page, enter a certificate name and select **Next**.&#x20;
-6. On the **Overview** page, review the details and select **Add**.
+4. On the **Certificant** page, choose a certificant from the list and select **Next**.
+5. On the **Partner details** page, select the country you want to transact in and provide the necessary partner information, such as the email address and partner network ID associated with your partner account. When done, select **Next**.&#x20;
+6. On the **Details** page, enter a certificate name and select **Next**.&#x20;
+7. On the **Overview** page, review the details and select **Add**.
 
 Your certificate is added and ready for use within the Marketplace. Select **View details** to open the enrollment details page. Otherwise, select **Close**.

@@ -15,9 +15,7 @@ The process of enrolling in a program through the Marketplace Platform involves 
    * If the vendor requires more information to process your enrollment, your request will move to the **Querying** state. The [enrollment details page](./#subscription-details) will specify the information you must provide.
    * If you don't meet the program's criteria or requirements, your enrollment request is rejected.
 
-## Enrollments interface
-
-The **Enrollments** page on the platform shows your list of enrollments along with a status for each one. To access the **Enrollments** page from the main menu, select **Marketplace** > **Enrollments**.
+You can view your enrollments from the **Enrollments** page in the platform.
 
 <figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Enrollments page</p></figcaption></figure>
 
@@ -32,9 +30,11 @@ For each enrollment, you can view the following details:
 * **Assigned to** - <mark style="color:red;">**Description required**</mark>
 * **Status** - The status of your enrollment request. For a description of the possible statuses, see [Enrollment States](enrollment-states.md).
 
-## Enrollment details page <a href="#subscription-details" id="subscription-details"></a>
+## Viewing enrollment details <a href="#subscription-details" id="subscription-details"></a>
 
-The details page displays general information and the properties associated with your enrollment. You can open this page by selecting the enrollment ID on the **Enrollments** page.&#x20;
+To view enrollment details, select the link in the **Enrollment** column on the **Enrollments** page.
+
+You can then view the general information and the properties associated with the enrollment.
 
 <figure><img src="../../../.gitbook/assets/enrollments_details_page.png" alt=""><figcaption><p>Enrollment details page</p></figcaption></figure>
 

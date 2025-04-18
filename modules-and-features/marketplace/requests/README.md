@@ -4,13 +4,11 @@ A request in the Marketplace Platform represents a pre-sale inquiry. This can in
 
 Client account users can create new requests through the **Products** page and track existing queries through the **Requests** page. The page displays all requests, including requests that are raised by other members in your account.&#x20;
 
-## Requests interface
-
-To access the **Requests** page from the main menu, select **Marketplace** > **Requests**.
+You can view and manage your requests from the **Requests** page in the platform.
 
 <figure><img src="../../../.gitbook/assets/requests_page.png" alt=""><figcaption><p> Requests page</p></figcaption></figure>
 
-The **Requests** page displays a list of your requests. For each request, you can view the following details:
+For each request, you can view the following details:
 
 * **Request** - Displays the title of your request.
 * **Requester** - Displays the name of the person who created the request.&#x20;
@@ -21,7 +19,7 @@ The **Requests** page displays a list of your requests. For each request, you ca
 * **Updated** - Displays the date and time when the request was updated.
 * **Status** - Displays the status of your request. See [Request States](request-states.md) for information on the possible statuses.
 
-## Request details page
+## Viewing request details
 
 The details page of a request gives you in-depth information about the request. You can open the details page by clicking the request on the **Requests** page.
 

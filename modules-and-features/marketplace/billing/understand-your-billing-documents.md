@@ -44,10 +44,10 @@ For answers to common billing questions, see [I have questions about billing](..
 
 ## Related topics
 
-{% content-ref url="invoices/viewing-invoices.md" %}
-[viewing-invoices.md](invoices/viewing-invoices.md)
+{% content-ref url="invoices/downloading-invoices.md" %}
+[downloading-invoices.md](invoices/downloading-invoices.md)
 {% endcontent-ref %}
 
-{% content-ref url="statements/view-and-download-statements.md" %}
-[view-and-download-statements.md](statements/view-and-download-statements.md)
+{% content-ref url="statements/download-statements.md" %}
+[download-statements.md](statements/download-statements.md)
 {% endcontent-ref %}

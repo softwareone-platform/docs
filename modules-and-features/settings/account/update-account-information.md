@@ -1,6 +1,6 @@
 # Update Account Details
 
-If you need to update your account information, like the account name, company details, and address, you can make these changes using the **Edit** option on the **Account** page.&#x20;
+If you want to update your account information, like the account name, company details, and address, you can make these changes using the **Edit** option on the **Account** page.&#x20;
 
 {% hint style="info" %}
 **Need to update your profile or personal settings?**
@@ -12,7 +12,7 @@ See [Manage your profile](../../../marketplace-platform/getting-started/interfac
 
 To update your account details:
 
-1. Navigate to the **Account** page.
+1. Navigate to the **Account** page in the platform.
 2. Select **Edit** to start the **Edit account** wizard.
 
 <figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Account page</p></figcaption></figure>
@@ -32,9 +32,3 @@ To update your account details:
    * **ZIP/postcode** - Enter the ZIP or postal code for your address.
    * **Country** - Select the country for your address.
 6. Select **Save**. A message is displayed stating that your account settings have been updated.
-
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/account" %}
-[Account](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/settings/account)
-{% endcontent-ref %}

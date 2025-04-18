@@ -8,11 +8,13 @@ Additionally, the platform’s functionality is enhanced by a public API and SDK
 
 ## Why choose the Marketplace Platform? <a href="#features" id="features"></a>
 
-The Marketplace Platform is designed as a two-sided platform, facilitating software procurement for clients while allowing vendors to sell their solutions globally.&#x20;
+The Marketplace Platform is designed as a two-sided platform that enables clients and partners to buy software products while allowing vendors to sell their solutions globally.&#x20;
 
 ### For clients and partners
 
-For clients and partners, the platform simplifies SaaS purchases and optimizes procurement workflows through the Client Portal. This centralized hub digitizes the procurement journey, providing an intuitive interface and functionalities that streamline the buying process.
+Our platform provides clients and partners with a simplified approach to SaaS procurement. It digitizes the procurement journey and enhances workflows through the Client Portal.&#x20;
+
+The following are some of the useful features for our clients and partners:
 
 * **Access product catalog** - Discover products from the world's leading software vendors and find everything you need in one centralized location.
 * **Manage orders** - View, track, and manage your orders while getting extended information about each order on the order detail page.
@@ -24,9 +26,11 @@ For clients and partners, the platform simplifies SaaS purchases and optimizes p
 
 ### For vendors
 
-The Marketplace Platform provides vendors with an efficient way to manage products and subscriptions. Through the Vendor Portal, vendors can configure products, set them up to capture new leads, process orders, manage subscriptions, and handle recurring billing.&#x20;
+The Marketplace Platform offers several benefits to vendors.
+
+Our Vendor Portal enables vendor account users to configure products, maintain product information, process orders, manage subscriptions, and even handle recurring billing:
 
 * **Define products** - Manually configure products or use integrations to set up product parameters, allowing you to sell your products globally to over 65,000 SoftwareOne clients across various industries.
-* **Manage catalog information** - Effortlessly manage your product data in one place, and easily enhance your product listings and messaging templates.
+* **Manage catalog** - Effortlessly manage your product data in one place, and easily enhance your product listings and messaging templates.
 * **Manage products and prices** - Update product pricing directly within the platform, ensuring that clients always have access to accurate pricing.
 * **Fulfill orders** - Effectively manage and fulfill all orders quickly and efficiently.

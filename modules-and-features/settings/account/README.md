@@ -1,26 +1,16 @@
 # Account
 
-An account enables a company or organization to sign in to the platform and access different modules and features depending on the permissions.&#x20;
+An account enables a company or organization to sign in to the Marketplace platform and access the modules and features enabled for your account by SoftwareOne.
 
-The Marketplace Platform supports three different account types, including Client account, Vendor account, and Operations account. See [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md) to learn more about these accounts.
+The platform supports various account types, including client and vendor accounts, each offering different functionalities based on the account type.
 
-## Account interface
-
-Account administrators can access the **Account** page by selecting **Settings** > **Account** from the main menu.
+As an account administrator, you can view your account details on the **Account** page within the platform. Additionally, you can update specific information using the **Edit** option. For instructions, see [Update Account Details](update-account-information.md).
 
 <figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Your account page</p></figcaption></figure>
 
-The **Account** page displays the general account information, such as name, status, and ID, and is organized into the following tabs:
+The page displays general information associated with your account, such as your account name, status, and ID, and is organized into the following tabs:
 
-* **General** - Displays the additional data for your account, such as your company website and description, support email address, and headquarters address.&#x20;
-* **Modules** - Displays the modules that SoftwareOne has enabled for your account.&#x20;
-* **Details** - Displays the date and time your account was created on the platform. It also shows the last updated date and time if any changes were made to your account, such as address changes.
-* **Audit trail** - Displays an audit trail of all changes and events within your account. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](../audit-trail.md).
-
-If you want to update the general information associated with your account, use the **Edit** option in the upper right. For instructions, see [Update Account Details](update-account-information.md).
-
-## Related topics
-
-{% content-ref url="update-account-information.md" %}
-[update-account-information.md](update-account-information.md)
-{% endcontent-ref %}
+* **General** - Shows additional details for your account, including your company website, a description, support email address, and headquarters address.
+* **Modules** - Lists the modules that SoftwareOne has enabled for your account.
+* **Details** - Displays the creation date and time of your account, as well as the last updated date and time.
+* **Audit trail** - Provides a record of all changes and events within your account. For each audit entry, you can view the log details and summary. To learn more, see [Audit Trail](../audit-trail.md).

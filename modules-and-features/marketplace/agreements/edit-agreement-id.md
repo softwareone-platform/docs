@@ -8,12 +8,13 @@ When you create an agreement, the **Additional Client ID** field is initially em
 
 To update the **Additional Client ID** field:
 
-1. Navigate to the **Agreements** page and select the relevant agreement.
-2. On the agreement details page, select the **Details** tab. Then, select **Edit**.&#x20;
+1. Navigate to the **Agreements** page in the platform.
+2. Select the link for the agreement in the **Agreement** column.&#x20;
+3. On the agreement details page, select the **Details** tab. Then, select **Edit**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (946).png" alt=""><figcaption><p>Details tab of an agreement</p></figcaption></figure>
 
-3. In the **Edit ID** dialog, enter the new client ID and select **Save**.&#x20;
+4. In the **Edit ID** dialog, enter the new client ID and select **Save**.&#x20;
 
 The updated ID is displayed as a **Client ID** within the **Additional IDs** section on the page. This same ID is also displayed on your invoice as the **PO number**.&#x20;
 

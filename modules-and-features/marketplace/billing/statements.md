@@ -1,23 +1,12 @@
 # Statements
 
-A statement is a billing document you receive at the end of your billing period along with your invoice PDF.
+A statement is a billing document you receive at the end of your billing period, along with your invoice PDF.
 
-Statements are available in XLSX format and contain a detailed view of your invoice data, including individual charges and subscriptions for the billing period. See [Understand Your Billing Documents](understand-your-billing-documents.md) for guidance on understanding the different components of a statement.
-
-In the Marketplace Platform, you can use the **Statements** page to:
-
-* Filter your statements.
-* Check your statement's status to determine if has been generated.
-* View a detailed list of all charges throughout the invoice period.
-* Identify the agreement or invoice associated with the statement.
-
-## Statements interface
-
-You can access the **Statements** page by selecting **Billing** > **Statements** from the main menu.
+Statements are available in XLSX format and contain a detailed view of your invoice data, including individual charges and subscriptions for the billing period. See [Understand Your Billing Documents](understand-your-billing-documents.md) to learn more. You can view your statement on the **Statements** page in the platform.&#x20;
 
 <figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Statements page</p></figcaption></figure>
 
-The **Statements** page displays all statements that have been created for your account. For each statement, you can view the following details:
+For each statement, you can view the following details:
 
 * **ID** - Displays the unique ID of the statement. Click the **ID** to display the statement details page.
 * **Type** - Displays the type of statement:&#x20;
@@ -32,11 +21,11 @@ The **Statements** page displays all statements that have been created for your 
 * **SP** - Displays the total amount of the associated invoice.
 * **Status** - Indicates if the statement has been generated or is pending.&#x20;
 
-## Statement details page <a href="#subscription-details" id="subscription-details"></a>
+## Viewing statement details <a href="#subscription-details" id="subscription-details"></a>
 
-The details page of a statement displays various properties associated with the statement, such as statement ID, agreement details, buyer and seller details, and more.&#x20;
+To access a statement's details page, select the link in the **ID** column on the **Statements** page.
 
-Selecting a property in the header opens its details page. For instance, selecting the invoice ID displays the invoice details page.
+The details page of a statement displays various properties associated with the statement, such as statement ID, agreement details, buyer and seller details, and more. Selecting a property in the header opens its details page. For instance, selecting the invoice ID displays the invoice details page.
 
 <figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>Details page of a statement</p></figcaption></figure>
 

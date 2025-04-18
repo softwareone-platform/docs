@@ -13,7 +13,7 @@ The **Products** page displays all products in the form of cards, making it easi
 * If enabled, the **Buy Now** option to start the purchase process.
 * If enabled, an option to contact the vendor or SoftwareOne before placing the order (for example, a Contact Us or Enquire Now button).
 
-## Product details page
+## Viewing product details
 
 When you select a card, the details page of the product opens. The details page displays information specific to the product, such as the vendor's name, logo, and website, along with the key features and benefits. The **Items** section displays the individual items within the product and the billing period and commitment term that applies to each item.
 

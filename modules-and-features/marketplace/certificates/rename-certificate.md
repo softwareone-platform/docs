@@ -7,7 +7,7 @@ If you have multiple certificates for the same vendor program, you can choose di
 To edit a certificate's name:
 
 1. Navigate to the **Certificates** page in the platform.
-2. Select the certificate to be renamed.&#x20;
+2. Select the certificate you want to rename.
 3. On the certificate details page, select **Edit**.
 4. Provide a new name for the certificate. We recommend providing a unique name so you can easily identify the certificate.
 5. Select **Save**.

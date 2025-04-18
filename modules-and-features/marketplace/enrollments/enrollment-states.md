@@ -1,8 +1,8 @@
 # Enrollment States
 
-In the Marketplace Platform, enrollment requests can have several states (also known as status).&#x20;
+In the Marketplace Platform, an enrollment goes through several states (also known as statuses) during its lifecycle.&#x20;
 
-The following diagram shows the possible states and the transition between these states:
+The following diagram shows the possible states and the transitions between these states:
 
 <figure><img src="../../../.gitbook/assets/state_diagram_enrollment.png" alt=""><figcaption><p>Enrollment state transition</p></figcaption></figure>
 

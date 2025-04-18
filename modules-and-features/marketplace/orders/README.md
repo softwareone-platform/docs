@@ -1,58 +1,40 @@
 # Orders
 
-In the Marketplace Platform, an order is an object signifying a business transaction based on an agreement.&#x20;
+In the Marketplace Platform, an order represents a request to buy a new product, change the number of licenses, terminate a subscription, or terminate an agreement.&#x20;
 
-An order represents a request to buy a new product, change the number of licenses, terminate a subscription, or terminate an agreement. Therefore, different types of orders exist in the Marketplace Platform, including:
+There are different types of orders in the Marketplace Platform:
 
-* **Purchase orders** - These orders represent an order to buy a new product or service under a new agreement.
-* **Change orders** - These orders represent an order to change the subscription quantity, such as downsizing the license quantity or ordering additional licenses.
-* **Terminate order** - These orders represent an order to terminate a subscription or agreement.&#x20;
-* **Configuration order** - These orders represent an order to enable or disable auto renewal.
+* **Purchase orders** - An order to buy a new product or service by establishing a new agreement.
+* **Change orders** - An order to change the quantity, such as downsizing the quantity of licenses or ordering additional licenses.
+* **Terminate order** - An order to terminate an active subscription or an agreement.&#x20;
+* **Configuration order** - An order to enable or disable the auto-renewal of a subscription.
 
-## Orders interface
-
-To access the **Orders** page from the main menu, select **Marketplace** > **Orders**.
+You can view and manage your orders from the **Orders** page in the platform.
 
 <figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 
-The **Orders** page shows a full list of orders in your account. It also contains a **Buy more** option, which gives you quick access to the [Products ](https://docs.platform.softwareone.com/~/changes/5yDo0W9JFVZsyIwbYXyj/modules-and-features/marketplace/products)page for ordering new subscriptions.
-
-For each order, the order details page displays the following details:
+For each order, the orders page displays the following details:
 
 * **Order** - Displays the order number and ID.
-* **Type** - Displays the order type. The possible values are **Purchase**, **Change**, **Terminate, and Configuration**.
-* **Agreement** - Displays the agreement associated with the order.&#x20;
+* **Type** - Displays the type of order, such as **Purchase**, **Change**, **Terminate,** or **Configuration**.
+* **Agreement** - Displays the agreement under which that order has been placed.&#x20;
 * **Product** - Displays the product that was ordered.
-* **Licensee** - Displays the licensee associated with the order.
+* **Licensee** - Displays the licensee for the order.
 * **Buyer** -  Displays the buyer associated with the order.
 * **Seller** - Displays the SoftwareOne entity that fulfilled the order and issued the invoice.
 * **SPx** - Displays the estimated sales price of the order.
 * **Created** - Displays the date when the order was created.
 * **Status** - Displays the order status. To learn about the possible statuses, see [Order States](order-states.md).
 * **Updated** - Displays the date when the order was updated.
-* **Currency** - Displays the currency of the order.
+* **Currency** - Displays the order's currency.
 
-### Order details page <a href="#subscription-details" id="subscription-details"></a>
+## Viewing order details <a href="#subscription-details" id="subscription-details"></a>
 
-The details page of an order provides detailed information about the order. You can open the details page by selecting the order on the **Orders** page.&#x20;
-
-<details>
-
-<summary>What can I do on this page?</summary>
-
-From the details page, you can complete the following tasks:&#x20;
-
-* [Submit a draft order for processing](submit-draft-orders.md)
-* [Delete a draft order](delete-draft-orders.md)
-* [Manage your order notes](manage-order-notes.md)
-* [Change your order's status to Processing](set-an-order-to-processing.md)
-* [View and download attachments](../agreements/view-and-download-attachments.md)
-
-</details>
+To access an order's details page, select the link in the **Order** column on the **Orders** page.
 
 <figure><img src="../../../.gitbook/assets/order_details_page.png" alt=""><figcaption><p>Order details page</p></figcaption></figure>
 
-The details page of an order contains the **Process** button that lets you [move your order from Querying to Processing](set-an-order-to-processing.md). It also contains several tabs that display the corresponding order information:
+The details page contains the following tabs:
 
 * **General** - Displays the latest information about your order.
 * **Items** - Displays the items you've ordered and the pricing information for each item.
@@ -64,6 +46,15 @@ The details page of an order contains the **Process** button that lets you [move
 * **Certificates** - Displays the certificates that were used when the order was placed.&#x20;
 * **Details** - Displays the additional IDs, including the client and vendor IDs, and the timestamps of all changes made to the order. You can update the client ID using the **Edit** option.
 * **Audit trail** - Displays all events that have taken place within the order. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](../../settings/audit-trail.md).&#x20;
+
+## Managing orders
+
+From the order details page, you can complete the following tasks:&#x20;
+
+* [Delete a draft order](delete-draft-orders.md)
+* [Manage the notes for your order](manage-order-notes.md)
+* [Change your order's status to Processing](set-an-order-to-processing.md)
+* [View and download attachments](../agreements/view-and-download-attachments.md)
 
 ## Related topics
 

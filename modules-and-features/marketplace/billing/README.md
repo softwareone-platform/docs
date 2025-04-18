@@ -44,10 +44,10 @@ An invoice and a statement are both billing documents, but they serve different 
 [understand-your-billing-documents.md](understand-your-billing-documents.md)
 {% endcontent-ref %}
 
-{% content-ref url="invoices/viewing-invoices.md" %}
-[viewing-invoices.md](invoices/viewing-invoices.md)
+{% content-ref url="invoices/downloading-invoices.md" %}
+[downloading-invoices.md](invoices/downloading-invoices.md)
 {% endcontent-ref %}
 
-{% content-ref url="statements/view-and-download-statements.md" %}
-[view-and-download-statements.md](statements/view-and-download-statements.md)
+{% content-ref url="statements/download-statements.md" %}
+[download-statements.md](statements/download-statements.md)
 {% endcontent-ref %}

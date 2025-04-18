@@ -22,10 +22,11 @@ Once you save an order as a draft, you can return to it anytime to complete the 
 
 To save your order as a draft during the ordering process:
 
-1. Navigate to the **Products** page and select the product you want to buy.
-2. On the product details page, select **Buy now** to start the purchase wizard.
-3. In the purchase wizard, complete all the steps as needed until you reach the **Details** page.
-4. On the **Details** page, select **Save order**. Your order is saved as a draft.
+1. Navigate to the **Products** page in the platform.
+2. Select the product you want to buy.
+3. On the product details page, select **Buy now** to start the purchase wizard.
+4. In the purchase wizard, complete all the steps until you reach the **Details** page.
+5. On the **Details** page, select **Save order**. Your order is saved as a draft.
 
 <figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>Save order option in the Details section</p></figcaption></figure>
 
@@ -37,10 +38,11 @@ When creating a change order, you can save it as a draft and submit it later.&#x
 
 To save a change order as a draft:
 
-1. Navigate to the **Subscriptions** page, then select an active subscription.
-2. On the subscription details page, select **Edit** to start the **Edit subscription** wizard.&#x20;
-3. On the **Items** page, adjust the quantity as needed and select **Next**.
-4. On the **Details** page, select **Save order**. Your draft order is saved.&#x20;
+1. Navigate to the **Subscriptions** page in the platform.
+2. Select the required subscription.
+3. On the subscription details page, select **Edit** to start the **Edit subscription** wizard.&#x20;
+4. On the **Items** page, adjust the quantity and then select **Next**.
+5. On the **Details** page, select **Save order**. Your draft order is saved.&#x20;
 
 <figure><img src="../../../.gitbook/assets/EditSubsReduceQty (2).png" alt=""><figcaption><p>Save order option in the Details section</p></figcaption></figure>
 
