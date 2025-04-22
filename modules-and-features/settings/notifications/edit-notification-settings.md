@@ -1,8 +1,8 @@
 # Customize Settings
 
-The **Settings** tab within Notifications allows you to customize the settings of your notification emails, including the sender's name, the language of emails, and the email footer.
+The **Settings** tab allows account administrators to customize the settings of the notification emails, including the sender's name, the language of emails, and the email footer.
 
-The settings defined on this page are global, meaning they apply to all notification emails regardless of the category. For&#x20;
+The settings defined on this page are global, meaning they apply to all notification emails regardless of the category.&#x20;
 
 ## Customizing notification settings
 

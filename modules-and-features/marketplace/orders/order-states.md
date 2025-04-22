@@ -10,30 +10,4 @@ The statuses of the orders are shown on both the **Orders** page and the order d
 
 Note that the Marketplace Platform supports different account types, such as vendor and client. Depending on your account type, you may see only some of these statuses.
 
-<table><thead><tr><th width="140">State</th><th>Definition</th></tr></thead><tbody><tr><td><strong>Draft</strong></td><td>The order has been saved as a draft during the ordering process. You can access draft orders through the <strong>Orders</strong> page.</td></tr><tr><td><strong>Processing</strong></td><td>The order has been created, and it's currently awaiting processing by the vendor.</td></tr><tr><td><strong>Querying</strong></td><td>The ordering parameters have been updated by the vendor. The order requires an action to be taken by the client account user.</td></tr><tr><td><strong>Completed</strong></td><td>The order has been processed by the vendor.</td></tr><tr><td><strong>Failed</strong></td><td>The order has been marked as failed by the vendor or SoftwareOne. The reason is displayed on the order details page.</td></tr><tr><td><strong>Deleted</strong></td><td>The draft purchase order has been deleted by the client account user.</td></tr></tbody></table>
-
-## Related topics
-
-{% content-ref url="../../inventory/orders.md" %}
-[orders.md](../../inventory/orders.md)
-{% endcontent-ref %}
-
-{% content-ref url="save-order-as-a-draft.md" %}
-[save-order-as-a-draft.md](save-order-as-a-draft.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-draft-orders.md" %}
-[delete-draft-orders.md](delete-draft-orders.md)
-{% endcontent-ref %}
-
-{% content-ref url="submit-draft-orders.md" %}
-[submit-draft-orders.md](submit-draft-orders.md)
-{% endcontent-ref %}
-
-{% content-ref url="manage-order-notes.md" %}
-[manage-order-notes.md](manage-order-notes.md)
-{% endcontent-ref %}
-
-{% content-ref url="set-an-order-to-processing.md" %}
-[set-an-order-to-processing.md](set-an-order-to-processing.md)
-{% endcontent-ref %}
+<table><thead><tr><th width="140">State</th><th>Definition</th></tr></thead><tbody><tr><td><strong>Draft</strong></td><td>The platform has created the order as a draft. This status applies to orders created by the system for validation purposes. It doesn't apply to orders saved for later during the ordering process.</td></tr><tr><td><strong>Quoted</strong></td><td>The order was intentionally saved for later using the <strong>Save Order</strong> option, which is available when creating purchase or change orders.</td></tr><tr><td><strong>Processing</strong></td><td>The order has been created, and it's currently awaiting processing by the vendor.</td></tr><tr><td><strong>Querying</strong></td><td>The ordering parameters have been updated by the vendor. The order requires an action to be taken by the client account user.</td></tr><tr><td><strong>Completed</strong></td><td>The order has been processed by the vendor.</td></tr><tr><td><strong>Failed</strong></td><td>The order has been marked as failed by the vendor or SoftwareOne. The failure reason is displayed on the order details page.</td></tr><tr><td><strong>Deleted</strong></td><td>The order has been deleted.</td></tr></tbody></table>

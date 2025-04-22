@@ -5,7 +5,7 @@ hidden: true
 
 # Release Notes v4
 
-**Release Date: xx xx 2025**
+**Release Date: xx May 2025**
 
 Our latest release, Marketplace Platform v4, is here. This release introduces several new features to enhance our platform's capabilities and improve existing functionalities.
 
@@ -54,6 +54,12 @@ The new Notifications feature allows account administrators to configure and man
 
 Individual users can also customize their notification settings through their profile to start or stop receiving email updates. For information on managing notifications for your profile, see [Manage Notification Preferences](../../marketplace-platform/getting-started/interface/manage-notification-preferences.md).
 
+## Order Reminder Email
+
+If there's an order in your account that has been created but not placed yet, and you want to remind an individual about this order, you can now send them an order reminder email through the platform.&#x20;
+
+The order reminder email contains a link for the recipient to follow and complete the ordering process. To learn more, see [Send Order Reminder Email](../../modules-and-features/marketplace/orders/send-order-reminder-email.md).
+
 ## Public Catalog
 
 We are excited to announce the launch of our public catalog, available at marketplace. softwareone.com.&#x20;
@@ -75,4 +81,6 @@ Data grids now include a new condition called Search Query, which is available i
 You can now manage the automatic renewal of your subscriptions through the platform's interface.&#x20;
 
 Currently, we automatically renew subscriptions to prevent any service interruptions. If you prefer not to have your subscription renewed automatically, you can disable the auto-renewal. If you previously disabled automatic renewal, you can also re-enable it as necessary at any time. To learn more, see [Manage Automatic Renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+
+
 
