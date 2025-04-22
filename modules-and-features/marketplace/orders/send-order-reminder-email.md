@@ -4,7 +4,7 @@ If you have an order in your account that has been created but not placed yet, a
 
 The **Send reminder** feature triggers an email to remind the individual to take action on the order.
 
-This feature lets you share the order link with individuals in your account, as well as those who have accounts on the platform but are not added to your account. Note that reminders can be sent for orders in the **Quoted** status only.
+With this feature, you can share the order link with individuals in your account, as well as with those who have accounts on the platform but are not added to your account. Note that reminders can be sent for orders in the **Quoted** status only.
 
 ## Sending an order reminder email
 
