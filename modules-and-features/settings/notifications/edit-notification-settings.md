@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Customize Settings
 
 The **Settings** tab allows account administrators to customize the settings of the notification emails, including the sender's name, the language of emails, and the email footer.

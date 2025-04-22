@@ -19,6 +19,6 @@ To add your certificate for a program:&#x20;
 4. On the **Certificant** page, choose a certificant from the list and select **Next**.
 5. On the **Partner details** page, select the country you want to transact in and provide the necessary partner information, such as the email address and partner network ID associated with your partner account. When done, select **Next**.&#x20;
 6. On the **Details** page, enter a certificate name and select **Next**.&#x20;
-7. On the **Overview** page, review the details and select **Add**.
+7. On the **Overview** page, review the details and then select **Add**.
 
 Your certificate is added and ready for use within the Marketplace. Select **View details** to open the enrollment details page. Otherwise, select **Close**.

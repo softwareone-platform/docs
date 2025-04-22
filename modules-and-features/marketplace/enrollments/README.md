@@ -15,7 +15,7 @@ The process of enrolling in a program through the Marketplace Platform involves 
    * If the vendor requires more information to process your enrollment, your request will move to the **Querying** state. The [enrollment details page](./#subscription-details) will specify the information you must provide.
    * If you don't meet the program's criteria or requirements, your enrollment request is rejected.
 
-You can view all your enrollments on the **Enrollments** page in the platform.
+You can view all your enrollments on the **Enrollments** page in the platform. The page is available under **Marketplace** in the main menu.
 
 <figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Enrollments page</p></figcaption></figure>
 
@@ -29,4 +29,4 @@ At the top of the details page, you can see some essential enrollment informatio
 
 The details page also contains tabs that display additional details. The following table lists these tabs:
 
-<table><thead><tr><th width="261">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the latest information and enrollment status. </td></tr><tr><td><strong>Parameters</strong></td><td>Displays the enrollment parameters.</td></tr><tr><td><strong>Entities</strong> </td><td>Displays the objects, such as Buyer, Licensee, and Seller, linked to the enrollment. </td></tr><tr><td><strong>Details</strong></td><td>Displays timestamps for the different events related to the enrollment, such as the date and time the enrollment was created.</td></tr><tr><td><strong>Attachments</strong></td><td>Displays any files that may have been attached to the enrollment.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail including the log details and summary. To learn more, see <a href="https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail">Audit Trail</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="261">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the latest information along with the enrollment status. </td></tr><tr><td><strong>Parameters</strong></td><td>Displays the ordering and fulfillment parameters for the enrollment.</td></tr><tr><td><strong>Entities</strong> </td><td>Displays the business object linked to the enrollment. </td></tr><tr><td><strong>Details</strong></td><td>Displays timestamps for the enrollment events, such as the date and time the enrollment was created.</td></tr><tr><td><strong>Attachments</strong></td><td>Displays any files that may have been attached to the enrollment.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail including the log details and summary. To learn more, see <a href="https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail">Audit Trail</a>.</td></tr></tbody></table>
