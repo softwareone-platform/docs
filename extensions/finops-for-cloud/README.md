@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # FinOps for Cloud
 
 FinOps for Cloud is a solution designed to enhance the cloud usage experience by providing detailed insights and management capabilities without actively interfering with processes in your environment.&#x20;
