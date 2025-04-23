@@ -10,10 +10,11 @@ If the person you invited didn't receive the invitation email or has difficulty 
 
 To reinvite a user to your account:
 
-1. Navigate to the **Users** page and find the user you wish to reinvite.
-2. Select the actions icon (**•••**) and do the following:
+1. Navigate to the **Users** page in the platform.
+2. Find the user you want to reinvite to your account.
+3. Select the actions icon (**•••**) and do the following:
    * **Copy invitation link** - Select to copy the invite as a link and share it directly with the individual.&#x20;
-   * **Resend invitation link** - Select to resend the invitation to the user's email.
+   * **Resend invitation link** - Select to resend the invitation to the individual's email address.
 
 <figure><img src="../../../.gitbook/assets/image (1006).png" alt=""><figcaption><p>Options to reinvite an individual</p></figcaption></figure>
 
@@ -21,7 +22,7 @@ To reinvite a user to your account:
 
 If an invitation is not accepted within 7 days from the send date, it expires.&#x20;
 
-Account administrators can create a new invitation and resend it to the individual. The option to send a new invitation is only enabled for users who have the **Invitation expired** status on the platform.
+Account administrators can create a new invitation and resend it to the individual. The option to send a new invitation is only enabled for individuals with the **Invitation expired** status on the platform.
 
 {% hint style="info" %}
 Follow these steps only if the individual's invitation has expired and they see the following message when selecting the invite link:&#x20;

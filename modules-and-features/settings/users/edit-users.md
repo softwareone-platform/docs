@@ -2,7 +2,9 @@
 
 The **Edit** option on the **Users** page lets you update an individual's group membership.&#x20;
 
-Using this option, you can only update the groups that the individual belongs to. Details (such as name, email address, or contact details) cannot be updated. If such details require updating, the individual must update the details themselves through the **My Profile** option in the profile menu. To learn more, see [Manage Your Profile](../../../marketplace-platform/getting-started/interface/manage-profile.md).&#x20;
+With this option, you can only modify the groups that the individual belongs to. Other details (such as name, email address, or contact details) can't be updated.&#x20;
+
+If any of those details require updating, the individual must update them through the **My Profile** option in their profile menu. To learn more, see [Manage Your Profile](../../../marketplace-platform/getting-started/interface/manage-profile.md).&#x20;
 
 ## Editing a user's group membership
 

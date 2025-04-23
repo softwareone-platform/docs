@@ -305,6 +305,7 @@
 * [REST API](developer-resources/rest-api/README.md)
   * [Resource Query Language](developer-resources/rest-api/resource-query-language.md)
   * [Errors Handling](developer-resources/rest-api/errors-handling.md)
+  * [OpenAPI Specification](developer-resources/rest-api/openapi-specification.md)
   * [Accounts API](developer-resources/rest-api/accounts-api/README.md)
     * [Account](developer-resources/rest-api/accounts-api/account/README.md)
       * [List Accounts](developer-resources/rest-api/accounts-api/account/list-accounts.md)

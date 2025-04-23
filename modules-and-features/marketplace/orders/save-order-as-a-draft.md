@@ -24,7 +24,7 @@ To save your order during the ordering process:
 2. Select the product you want to buy.
 3. On the product details page, select **Buy now** to start the purchase wizard.
 4. In the purchase wizard, complete all the steps until you reach the **Details** page.
-5. On the **Details** page, select **Save order**. Your order is saved and assigned a **Quoted** status.
+5. In the **Details** step, select **Save order**. Your order is saved and assigned a **Quoted** status.
 
 <figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>Save order option in the Details section</p></figcaption></figure>
 
@@ -39,8 +39,8 @@ To save a change order:
 1. Navigate to the **Subscriptions** page in the platform.
 2. Select the required subscription.
 3. On the subscription details page, select **Edit** to start the **Edit subscription** wizard.&#x20;
-4. On the **Items** page, adjust the quantity and select **Next**.
-5. On the **Details** page, select **Save order**. Your order is saved and assigned a **Quoted** status.&#x20;
+4. In the **Items** step, adjust the quantity and select **Next**.
+5. In the **Details** step, select **Save order**. Your order is saved and assigned a **Quoted** status.&#x20;
 
 <figure><img src="../../../.gitbook/assets/EditSubsReduceQty (2).png" alt=""><figcaption><p>Save order option in the Details section</p></figcaption></figure>
 

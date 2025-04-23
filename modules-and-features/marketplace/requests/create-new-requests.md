@@ -14,11 +14,11 @@ To create a new request:
 
 <figure><img src="../../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>Contact Us option on the details page</p></figcaption></figure>
 
-4. On the **Request details** page, provide the details of your request, then select **Next**.
+4. In the **Request details** step, provide the details of your request, then select **Next**.
 
 <figure><img src="../../../.gitbook/assets/image (980).png" alt=""><figcaption><p>Request details section</p></figcaption></figure>
 
-5. On the **Review Request** page, review the information. When done, select **Submit Request**.&#x20;
+5. In the **Review Request** step, review the information. When done, select **Submit Request**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (981).png" alt=""><figcaption><p>Review request section</p></figcaption></figure>
 

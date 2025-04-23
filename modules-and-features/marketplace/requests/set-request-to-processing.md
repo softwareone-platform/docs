@@ -11,9 +11,9 @@ Before changing the status of your request, note the following points:
 
 To change the status of your request:
 
-1. On the **Requests** page (**Marketplace** > **Requests**), select the required request. The request details page is displayed.
+1. On the **Requests** page, select the required request. The request details page is displayed.
 2. Make changes as necessary and then click **Process**.&#x20;
-3. In the **Process request** dialog, add details if you want to, and then click **Process**.&#x20;
+3. In the **Process request** dialog, add your comments, and then select **Process**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (985).png" alt="" width="563"><figcaption><p>Process request dialog</p></figcaption></figure>
 

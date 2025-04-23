@@ -13,15 +13,15 @@ To request a certificate for a program:&#x20;
 
 <figure><img src="../../../.gitbook/assets/add_certificate.png" alt=""><figcaption><p>Add option on the certificates tab</p></figcaption></figure>
 
-3. On the **Certificant** page, select a certificant from the list and select **Next**.
-4. On the **Certificate** page, choose **Request new certificate**, then select **Next**.
+3. In the **Certificant** step, select a certificant from the list and select **Next**.
+4. In the **Certificate** step, choose **Request new certificate**, then select **Next**.
 
 <figure><img src="../../../.gitbook/assets/request_new_certificate.png" alt=""><figcaption><p>Request new certificate option</p></figcaption></figure>
 
-5. On the **Requirements** page, provide your company details, such as name, email, and website. These fields are mandatory. When done, select **Next**. &#x20;
-6. On the **Details** page, enter a name for the certificate along with your Microsoft partner ID.
+5. In the **Requirements** step, provide your company details, such as name, email, and website. These fields are mandatory. When done, select **Next**. &#x20;
+6. In the **Details** step, enter a name for the certificate along with your Microsoft partner ID.
 7. Review all selections and then select **Add**.
 
-A certificate is created with a Pending status. Select **View** to open the **Enrollments** page. Otherwise, select **Close** to exit the wizard. &#x20;
+A certificate is created with a Pending status. Select **View** to open the **Enrollments** page. Otherwise, select **Close**. &#x20;
 
 If your enrollment is approved by the vendor, the certificate's status will change to **Active,** and you can use this certificate when ordering products and services through the platform.

@@ -24,6 +24,4 @@ To remove an individual from your account:
 
 4. In the **Remove user** dialog, select **Remove** to confirm the action.
 
-<figure><img src="../../../.gitbook/assets/image (1003).png" alt=""><figcaption><p>Remove user dialog</p></figcaption></figure>
-
-&#x20;A message is displayed stating that the user has been removed. The removed user will receive an email stating that they have been removed from the account and the associated groups.&#x20;
+A message is displayed stating that the user has been removed. Additionally, the removed user will receive an email stating that they have been removed from the account and all of the groups.&#x20;

@@ -23,25 +23,3 @@ Your order's status will change to **Processing,** and the **Process** button wi
 {% hint style="info" %}
 If certain issues require completion outside the Marketplace Platform, such as accepting a SoftwareOne relationship request for CSP orders, you must complete the request and then return to the order details page to change the order status to **Processing**.&#x20;
 {% endhint %}
-
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders" %}
-[Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/order-states" %}
-[Order States](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/order-states)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/save-order-as-a-draft" %}
-[Save Your Order as a Draft](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/save-order-as-a-draft)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/delete-draft-orders" %}
-[Delete Draft Orders](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/delete-draft-orders)
-{% endcontent-ref %}
-
-{% content-ref url="https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/manage-order-notes" %}
-[Manage Order Notes](https://app.gitbook.com/s/rouC21YfVpuUxysQFTrr/modules-and-features/marketplace/orders/manage-order-notes)
-{% endcontent-ref %}

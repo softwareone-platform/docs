@@ -22,8 +22,8 @@ To terminate a subscription:
 
 <figure><img src="../../../.gitbook/assets/subscription_terminate.png" alt=""><figcaption><p>Terminate option on the details page</p></figcaption></figure>
 
-4. On the **Items** page, review the item quantities and select **Next**. Note that the quantity will be displayed as zero.
-5. On the **Order details** page, enter the reference details and your order notes. Then, select **Next**.
-6. On the **Review order** page, verify the details. When done, select **Place order**.
+4. In the **Items** step, review the item quantities and select **Next**. Note that the quantity will be displayed as zero.
+5. In the **Order details** step, enter the reference details and your order notes. Then, select **Next**.
+6. In the **Review order** step, verify the details. When done, select **Place order**.
 
-A termination order is created and submitted to the vendor for processing. Select **View order** to go to the order details page. Otherwise, select **Close**.
+A termination order is created on the platform and submitted to the vendor for processing. Select **View order** to go to the order details page. Otherwise, select **Close**.

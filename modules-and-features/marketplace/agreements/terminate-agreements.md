@@ -23,10 +23,10 @@ To terminate an agreement:
 <figure><img src="../../../.gitbook/assets/image (1018).png" alt=""><figcaption><p>Items section</p></figcaption></figure>
 
 5. In the **Terminate agreement** wizard, do the following:
-   1. On the **Items** page, make sure the new item quantity is displayed as 0. Then, select **Next**.
-   2. On the **Order details** page, add or update the additional ID and notes as needed. When done, select **Next**.&#x20;
-   3. On the **Review order** page, select **Place order**.&#x20;
+   1. In the **Items** step, make sure the new item quantity is displayed as 0. Then, select **Next**.
+   2. In the **Order details** step, add or update the additional ID and notes as needed. When done, select **Next**.&#x20;
+   3. In the **Review order** step, select **Place order**.&#x20;
 
-After the order has been placed, select **View order** to open the details page of the termination order. Otherwise, click **Close**.&#x20;
+After the order has been placed, select **View order** to open the details page of the termination order. Otherwise, select **Close**.&#x20;
 
-Once the order is placed, the agreement status changes from **Active** to **Updating**. When the order has been processed and all subscriptions within the agreement are canceled, the status changes to **Terminated**.
+Once the order has been placed, the agreement status changes from **Active** to **Updating**. When the order has been processed and all subscriptions within the agreement are canceled, the status changes to **Terminated**.

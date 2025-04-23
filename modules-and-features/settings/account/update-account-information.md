@@ -17,7 +17,7 @@ To update your account details:
 
 <figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Account page</p></figcaption></figure>
 
-3. On the **General** page, change the following settings as necessary:
+3. Change the **General** settings as necessary:
    * **Logo** - Update the logo for your account. You can upload an image by selecting **Select file** or by dragging the image into the field.
    * **Client name** - Update the name of your account. The account name is displayed in the upper right and on other pages on the platform.
 4. Change the **Additional data** settings as necessary:

@@ -15,4 +15,4 @@ To download an invoice from the invoice details page:
 3. Select the invoice link in the **ID** field.
 4. On the invoice details page, select the **Attachments** tab. Then, under **Actions**, select **Download**. The invoice is downloaded to your system.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Attachments tab on the invoice details page</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/invoice_attachments.png" alt=""><figcaption><p>Attachments tab on the invoice details page</p></figcaption></figure>
