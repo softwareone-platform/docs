@@ -8,12 +8,8 @@ Admins can invite individuals who may already have an account, as well as indivi
 
 ## Inviting users to your account
 
-Administrators can invite users through the **Add** option on the **Users** page.&#x20;
+Administrators can invite users through the **Add** option on the **Users** page. For detailed instructions, see [Add New Users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
+
+When inviting an individual, you'll need to provide their details, such as name, email address, and contact information. You'll also need to select all the **groups** that the individual should belong to.&#x20;
 
 <figure><img src="../../../.gitbook/assets/AddUsers (2).png" alt=""><figcaption><p>Add new users</p></figcaption></figure>
-
-The **Add** option starts the **Add user** wizard. When inviting an individual, you'll need to provide their details, such as name, email address, and contact information. You'll also need to select all the **groups** that the individual should belong to.&#x20;
-
-For detailed instructions, see [Add New Users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (1144).png" alt=""><figcaption><p>Add user wizard</p></figcaption></figure>

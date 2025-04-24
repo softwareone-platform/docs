@@ -22,5 +22,5 @@ Change orders are required if you want to order additional licenses or lower the
 
 You can cancel a single subscription in an agreement or all subscriptions by placing a termination order. Subscriptions can't be canceled without a termination order.
 
-* To cancel a single subscription, use the **Terminate** option on the subscription details page. For instructions, see [Terminate Subscription](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
-* To cancel all subscriptions in an agreement, place a termination order for the agreement. For instructions, see [Terminate Agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
+* To cancel a single subscription, use the **Terminate** option on the subscription details page. For instructions, see [Terminate Subscriptions](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
+* To cancel all subscriptions in an agreement, terminate the agreement. For instructions, see [Terminate Agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).

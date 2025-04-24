@@ -16,8 +16,8 @@ Partners can set up resale licensees through the **Licensees** page. After you h
 
 To configure a licensee for resale:
 
-1. Navigate to the **Licensees** page in the platform. Then, select **Add** to start the **Add licensee** wizard.
-2. In the **General** step, enter the following details and select **Next**:&#x20;
+1. Navigate to the **Licensees** page on the platform. Then, select **Add** to start the **Add licensee** wizard.
+2. In the **General** step, enter the following details and then select **Next**:&#x20;
    * **Logo** - (Optional) Add a logo for the licensee. You can upload an image or drag the image into the field.
    * **Licensee name** - (Required) Provide a name for the licensee, which could be your company name, department name, or username.&#x20;
    * **Resale licensee** - (Optional) Select this checkbox to configure the license as a resale licensee, so they can order software products and services for resale.&#x20;

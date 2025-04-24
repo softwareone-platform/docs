@@ -20,11 +20,9 @@ Before starting this tutorial, make sure you are familiar with the [key concepts
 {% step %}
 **Start the purchase wizard**
 
-Navigate to the **Products** page on the platform. The page is located under **Marketplace** in the main menu.
+Navigate to the **Products** page on the platform. Then, select **Microsoft Perpetual Software for Education** from the list of products.
 
-Then, select **Microsoft Perpetual Software for Education**.
-
-On the details page, select **Buy now** in the upper right to start the purchase wizard.
+On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}

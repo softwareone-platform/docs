@@ -17,45 +17,29 @@ Video tutorial: How to increase your Adobe subscription licenses
 
 Before starting this tutorial, make sure that your Adobe agreement and the subscription are in the **Active** state.
 
-## 1. Open the subscription
+## Implementation
 
-1. On the **Subscriptions** page (**Marketplace** > **Subscriptions**), click the subscription you want to update. The following image shows an example subscription:
+{% stepper %}
+{% step %}
+**Open the subscription to upsize**
 
-<figure><img src="../../../.gitbook/assets/subscriptions_page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+Navigate to the **Subscriptions** page on the platform. Then, select the required subscription.
 
-2. On the details page of the subscription, click **Edit**.
+On the subscription details page, select **Edit** to launch the **Edit Subscription** wizard.
+{% endstep %}
 
-<figure><img src="../../../.gitbook/assets/subscription_details.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+{% step %}
+**Complete the steps in the Edit Subscription wizard**
 
-The **Edit subscription** wizard launches and the **Items** section of the wizard is displayed.
-
-## 2. Increase the quantity
-
-1. Enter the new quantity for the subscription in the **New qty** field. In the following image, the quantity is increased from **20** to **21**.
-2. Click **Next** to continue.
+1. In the **Items** step, enter the new quantity for the subscription in the **New qty** field. In the following image, the quantity is increased from **20** to **21**. Then, select **Next**.
 
 <figure><img src="../../../.gitbook/assets/edit_subscription.png" alt=""><figcaption><p>Edit quantity</p></figcaption></figure>
 
-## 3. Enter reference information
-
-1. (Optional) Enter the reference information associated with this order.
-2. Click **Next** to continue.
-
-<figure><img src="../../../.gitbook/assets/EditSubs1.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
-
-## 4. Place your order
-
-1. Verify the details of your change order. Make sure to read the terms and conditions by clicking the links in the footer. By placing the order, you accept all terms.
-2. Click **Place order**.
-
-<figure><img src="../../../.gitbook/assets/Review order.png" alt=""><figcaption><p>Place your order</p></figcaption></figure>
-
-## 5. View order summary
-
-1. Review your order summary and the latest status message.
-2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
-
-<figure><img src="../../../.gitbook/assets/EditSubsSummary (1).png" alt=""><figcaption><p>Order summary</p></figcaption></figure>
+2. In the **Details** step, enter the reference information as needed, then select **Next**.
+3. In the **Review** step, select **Place order** to place your termination order for the subscription.
+4. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
+{% endstep %}
+{% endstepper %}
 
 ## Next steps
 

@@ -12,48 +12,32 @@ If you are outside the return period, the decrease will only take effect on your
 
 Before starting this tutorial, make sure that the subscription you want to downsize is in the **Active** state. A subscription in any other state cannot be downsized. See [Subscription States](../../../modules-and-features/marketplace/subscriptions/subscription-states.md) for information on various statuses.
 
-## 1. Open the subscription
+## Implementation
 
-1. On the **Subscriptions** page (**Marketplace** > **Subscriptions**), click the required subscription. The following image shows an example subscription:
+{% stepper %}
+{% step %}
+**Open the subscription to downsize**
 
-<figure><img src="../../../.gitbook/assets/subscriptions_page.png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+Navigate to the **Subscriptions** page on the platform. Then, select the required subscription.
 
-2. On the details page of the subscription, click **Edit**.
+On the subscription details page, select **Edit** to launch the **Edit Subscription** wizard.
+{% endstep %}
 
-<figure><img src="../../../.gitbook/assets/subscription_details.png" alt=""><figcaption><p>Details page</p></figcaption></figure>
+{% step %}
+**Complete the steps in the Edit Subscription wizard**
 
-The **Edit Subscription** wizard launches and the **Items** section of the wizard is displayed.
-
-## 2. Decrease quantity as needed
-
-1. In the **New qty** field, lower the number of licenses. In the following image, the quantity of both items is reduced from **20** to **19**.
-2. Click **Next.**
+1. In the **Items** step, enter the new number in the **New qty** field. In the following image, the quantity of both items is reduced from **20** to **19**.
 
 <figure><img src="../../../.gitbook/assets/downsize_subscription_change_qty.png" alt=""><figcaption><p>Items section</p></figcaption></figure>
 
-## 3. Enter additional details
-
-1. (Optional) Enter the reference information that might help you identify the change order easily. You can add the **Additional ID** and **Notes**.
-2. Click **Next**.
-
-<figure><img src="../../../.gitbook/assets/edit_subscription_reduce_qty.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
-
-## 4. Place the order
-
-1. Verify the details of your order. Make sure to read the terms and conditions by clicking the links in the footer. By placing the order, you accept all terms.
-2. Click **Place order**.
-
-<figure><img src="../../../.gitbook/assets/edit_subscription_review_terms.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
-
-## 5. View order summary
-
-1. Review the order summary and the latest status message.
-2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
-
-<figure><img src="../../../.gitbook/assets/EditSubsSummary.png" alt=""><figcaption><p>Order summary</p></figcaption></figure>
+2. In the **Details** step, enter the reference information that might help you identify the change order easily. You can add the **Additional ID** and **Notes**. Then, select **Next**.
+3. In the **Review** step, read the terms and conditions by selecting the links in the footer. When done, select **Place order**.&#x20;
+4. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
+{% endstep %}
+{% endstepper %}
 
 ## Next steps
 
-Your order is submitted for processing and the status of your subscription and the agreement changes from **Active** to **Updating**. You won't be able to make any further changes until your order is processed.
+Your order is submitted for processing, and the status of your subscription and the agreement changes from **Active** to **Updating**. You won't be able to make any further changes until your order is processed.
 
 You can view the most up-to-date information on your order and its status on the [Order details](../../../modules-and-features/marketplace/orders/#subscription-details) page.

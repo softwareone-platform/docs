@@ -24,11 +24,11 @@ Before starting this tutorial, make sure you have the following:
 
 Navigate to the **Products** page on the platform. Then, select **Microsoft 365 Business, Enterprise & Apps - Commercial** from the available products.
 
-On the details page, select **Buy now** in the upper right to start the purchase wizard.
+On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-**Complete the steps in the purchase wizard**
+**Complete the steps in the Purchase wizard**
 
 1. In the **Create agreement** step, select **Create agreement** to start creating your new agreement.
 2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
@@ -49,8 +49,8 @@ On the details page, select **Buy now** in the upper right to start the purchase
    3. If applicable, [read the offer attestation](../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
    4. Select **Next**.
 8. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
-9. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
-10. In the **Summary** step, select **View details** to go to the order details page; otherwise, select **Close** to exit the wizard.
+9. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
+10. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

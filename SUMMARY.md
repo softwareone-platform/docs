@@ -170,7 +170,7 @@
   * [Downsize and termination policies](extensions/adobe-vip-marketplace/downsize-and-termination-policies.md)
   * [Common error messages](extensions/adobe-vip-marketplace/common-error-messages.md)
   * [Tutorials](extensions/adobe-vip-marketplace/tutorials-and-videos/README.md)
-    * [Order Adobe Subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
+    * [Order Adobe Subscriptions](extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
     * [Order New Adobe Items](extensions/adobe-vip-marketplace/tutorials-and-videos/order-new-adobe-items.md)
     * [Rename Adobe Subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/rename-adobe-subscription.md)
     * [Downsize Adobe Subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)

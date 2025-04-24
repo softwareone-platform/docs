@@ -6,7 +6,7 @@ This allows SoftwareOne to fulfill your Microsoft transactions and manage produc
 
 To review and accept a partner relationship request:
 
-1. On the **Orders** page, select the required purchase order.&#x20;
+1. Navigate to the **Orders** page on the platform. Then, select the required purchase order.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 

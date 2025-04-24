@@ -27,11 +27,11 @@ On the details page, select **Buy now** in the upper right to start the purchase
 {% endstep %}
 
 {% step %}
-**Complete the steps in the wizard**
+**Complete the steps in the purchase wizard**
 
 1. In the **Create agreement** step, select **Create agreement** to start creating your new agreement.
 2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
-3. In the **Create agreemen**t step, select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**. Note that if you select this option, the global administrator of your Microsoft account will need to accept the relationship request.
+3. In the **Create agreemen**t step, select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**. Note that if you choose this option, the global administrator of your Microsoft account will need to accept the relationship request.
 4. In the **Microsoft details** step, enter the details for your Microsoft account:
    1. Enter the name of your existing tenant.
    2. Fill out the contact form. You'll need to provide the first and last name, email address, and phone number of the person who will manage your account.&#x20;

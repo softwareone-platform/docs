@@ -6,7 +6,7 @@ We add these items to your order with specific permissions granted to your cloud
 
 When these items are added, no extra charges are applied to the account unless you choose to purchase Azure Reservations or Savings Plans using the Azure portal. If you decide to purchase these cost-saving options, the charges will be billed on the date associated with your Azure plan.
 
-With Azure reservations and savings plan items, you can leverage Microsoft's self-service capabilities for provisioning cost-saving. This self-service approach allows you to:
+With Azure reservations and savings plan items, you can leverage Microsoft's self-service capabilities for cost-saving provisioning. This self-service approach allows you to:
 
 * Make purchasing decisions at your own pace.
 * Select the exact configurations that match your workload needs.
@@ -25,11 +25,11 @@ To purchase Azure Reserved Instances:
 4. Select the relevant configuration options and complete all the required fields.
 5. Add the product to the cart, review the summary, and complete the purchase.
 
-For detailed instructions, see "Buy a reservation" in Microsoft's documentation. The page also describes the Azure roles required for buying reservations.
+For detailed instructions, see [Buy a reservation](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepare-buy-reservation) in Microsoft's documentation. The page also describes the Azure roles required for buying reservations.
 
 ## Purchasing Azure Savings Plan <a href="#how-to-purchase-azure-reserved-instances" id="how-to-purchase-azure-reserved-instances"></a>
 
-Azure Savings plan offer flexible savings across multiple services, and they can significantly reduce resource costs. To buy a savings plan, you must have the necessary roles. For details, see [Permissions to buy an Azure savings plan](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/permission-buy-savings-plan).
+Azure Savings plan offers flexible savings across multiple services, and it can significantly reduce resource costs. To buy a savings plan, you must have the necessary roles. For details, see [Permissions to buy an Azure savings plan](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/permission-buy-savings-plan).
 
 To purchase an Azure savings plan:
 

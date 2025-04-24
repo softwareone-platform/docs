@@ -26,19 +26,19 @@ When you are ready to start the ordering process, select **Buy now** on the deta
 
 <figure><img src="../../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>Buy now option</p></figcaption></figure>
 
-This will start the purchase wizard, containing the steps you need to complete to place an order.
+This will start the purchase wizard, containing all the steps you'll need to complete to place the order.
 
 <figure><img src="../../../.gitbook/assets/image (1017).png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure>
 
-The steps within the wizard will vary depending on the product and the vendor. At a high level, you'll need to complete the following steps:
+Note that the wizard steps will vary depending on the product and vendor. At a high level, our purchase wizard contains the following steps:
 
 1. **Select agreement** - When ordering a product, you have the option to use an existing agreement or create a new one. The option you select in this step determines the next step in the wizard. For instance, when you create a new agreement, the **Select licensee** page is displayed. If you use an existing agreement, the **Select items** page opens.
-2. **Select a licensee** - You can choose an existing licensee or create a new one.&#x20;
-3. **Provide agreement details** - Fill out the contact form.
+2. **Select licensee** - You can choose an existing licensee or create a new one.&#x20;
+3. **Agreement details** - Fill out the contact form.
 4. **Select items** - Choose the items you want to order and the quantity of those items.
 5. **Additional information**  - Add the additional IDs for the order and agreement.&#x20;
 6. **Review order** - Preview the order details and place your order.
-7. **Review summary** - See your order summary and the latest status message.
+7. **Summary** - See your order summary and the latest status message.
 
 {% hint style="info" %}
 For products like Adobe and Microsoft, you'll need to complete additional steps when placing the order. For step-by-step guidance on these products, see [Adobe Tutorials ](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/)and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/).

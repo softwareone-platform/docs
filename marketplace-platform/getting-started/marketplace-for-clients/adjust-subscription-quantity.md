@@ -13,7 +13,7 @@ When reducing the number of licenses, the following rules apply:&#x20;
 
 To add or remove licenses from a subscription:
 
-1. Navigate to the **Subscriptions** page in the platform.
+1. Navigate to the **Subscriptions** page on the platform.
 2. Select the required subscription.
 3. On the subscription details page, select **Edit** to start the **Edit subscription** wizard.&#x20;
 4. In the **Items** step, update the quantity in the **New qty** field. You'll notice that the sales price of the subscription changes as you adjust the quantity. When done, select **Next**.

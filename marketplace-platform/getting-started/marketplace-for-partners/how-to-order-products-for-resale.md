@@ -13,7 +13,7 @@ When ordering products, there are two options for agreements:
 
 To order a product for resale by establishing a new agreement:
 
-1. Navigate to the **Products** page. Then, select the required product.
+1. Navigate to the **Products** page on the platform. Then, select the required product.
 2. Select **Buy now** to start the purchase wizard.&#x20;
 3. In the **Select agreements** step, select **Create agreement**.
 4. In the **Select licensee** step, choose a licensee from the list.  Make sure that the **Resale** column for the licensee displays **Yes** as the value. Then, select **Next**.&#x20;
