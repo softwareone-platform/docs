@@ -14,93 +14,46 @@ Before starting this tutorial, make sure you have the following:
 * Details, such as your company name, registration ID, and address. You'll need to provide these details when creating the new Microsoft tenant.
 * Contact details of the person who will manage your account.&#x20;
 
-## &#x31;**.** Select the product <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+## Implementation <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
-1. Navigate to the **Products** page and click **Microsoft Azure**.&#x20;
+{% stepper %}
+{% step %}
+**Launch the purchase wizard**
 
-<figure><img src="../../../.gitbook/assets/Azure.png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+Navigate to the **Products** page on the platform. Then, select **Microsoft Azure** from the available products.
 
-2. Click **Buy now** on the details page.
+On the details page, select **Buy now** in the upper right to start the purchase wizard.
 
 <figure><img src="../../../.gitbook/assets/Azure BuyNow.png" alt=""><figcaption><p>Buy now</p></figcaption></figure>
+{% endstep %}
 
-The purchase wizard starts and the **Select agreement** section of the wizard is displayed.
+{% step %}
+**Complete the steps in the purchase wizard**
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
-
-## 2. Create agreement
-
-Click **Create new agreement** to set up your new agreement.
-
-<figure><img src="../../../.gitbook/assets/image (139).png" alt=""><figcaption><p>Select agreement</p></figcaption></figure>
-
-## 3. Select licensee
-
-1. Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md).
-2. Click **Next**.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption><p>Select licensee</p></figcaption></figure>
-
-## 4. Choose the Microsoft tenant
-
-1. Choose whether you want to create a new Microsoft account or use your existing account. In this tutorial, we'll create a new cloud account by selecting **Create new cloud account**, as shown in the following image.
-2. Click **Next**.
-
-<figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption><p>Create agreement</p></figcaption></figure>
-
-## 5. Specify the domain
-
-1. (Optional) Click **Access tenant name availability tool** to check the availability of tenant names from Microsoft.
-2. Enter your preferred domain name (also known as tenant name) in **Primary** **domain name**.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption><p>Microsoft details</p></figcaption></figure>
-
-3. Fill out the required fields and click **Next**.
-
-<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
-
-## 6. Choose the service level
-
-1. Select **Azure Essentials** or **Azure Advanced**, depending on the level of service you require for Microsoft Azure.&#x20;
-2. Click **Next**.
-
-<figure><img src="../../../.gitbook/assets/azure_service_level.png" alt=""><figcaption><p>Service level</p></figcaption></figure>
-
-## 7. Review add-ons
-
-When you select **Azure Essentials** or **Azure Advanced**, all add-ons offered as part of the Azure services are displayed. All service add-ons are selected by default and you cannot change them.&#x20;
-
-Click **Next**.
-
-## 8. Add support contacts
-
-1. Enter the contact you want to use for support and your preferred support language.&#x20;
-2. Click **Next**.
-
-<figure><img src="../../../.gitbook/assets/azure_support_contacts.png" alt=""><figcaption><p>Support contacts</p></figcaption></figure>
-
-## 9. Select items
-
-Choose the Azure subscription and click **Add items** to add it to your order. For Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
+1. In the **Create agreement** step, choose **Create agreement** to start creating your new agreement.
+2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
+3. In the **Create agreement** step, select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
+4. In the **Microsoft details** step, enter the details for your Microsoft account:
+   1. Enter the tenant name you want to use on the onmicrosoft.com domain. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
+   2. Select **Next**. The platform validates the details that you entered.
+   3. Fill out the contact form and select **Next**. You'll need to provide the following details:
+      1. Company name.
+      2. Company registration ID or tax number.
+      3. Company address, including city and zip/postal code.
+      4. Contact details of the person who will manage your account.&#x20;
+5. In the **Service level** step, select **Azure Essentials** or **Azure Advanced**, depending on the level of service you require for Microsoft Azure. Select **Next**.
+6. In the **Service add-ons** step, Select **Next**. When you select **Azure Essentials** or **Azure Advanced**, all add-ons offered as part of the Azure services are displayed. All service add-ons are selected by default, and you cannot change them.&#x20;
+7. In the **Support contacts** step, enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
+8. In the **Items** step, choose the Azure subscription and select **Add items** to add it to your order. For Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 
 <figure><img src="../../../.gitbook/assets/azure_select_items.png" alt=""><figcaption><p>Select Items</p></figcaption></figure>
 
-## 10. Add reference information
+7. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
+8. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
+9. In the **Summary** step, select **View details** to go to the order details page; otherwise, select **Close** to exit the wizard.
+{% endstep %}
+{% endstepper %}
 
-Enter the reference information as needed and click **Next**.
+## Next steps
 
-<figure><img src="../../../.gitbook/assets/azure_details.png" alt=""><figcaption><p>Order details</p></figcaption></figure>
-
-## 11. Place your order
-
-1. Review the details of your order. Make sure to read all terms and conditions, including the privacy statement. By placing the order, you accept all terms.
-2. Click **Place order** to complete your purchase.
-
-<figure><img src="../../../.gitbook/assets/azure_review_order.png" alt=""><figcaption><p>Review order</p></figcaption></figure>
-
-## 12. View order summary
-
-1. Review your order summary and the latest status message.
-2. Click **View Order** to navigate to the order details page. Otherwise, click **Close** to close the **Summary** page.
-
-<figure><img src="../../../.gitbook/assets/azure_summary.png" alt=""><figcaption><p>Summary</p></figcaption></figure>
+When your order has been placed, we verify the order details and create your new subscription. If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.

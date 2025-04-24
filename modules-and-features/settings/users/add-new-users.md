@@ -16,7 +16,7 @@ Before adding an individual to your account, note the following points:
 
 To add a new user:
 
-1. Navigate to the **Users** page in the platform. Then, select **Add** to start the **Add user** wizard.&#x20;
+1. Navigate to the **Users** page on the platform. Then, select **Add** to start the **Add user** wizard.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Add user page</p></figcaption></figure>
 

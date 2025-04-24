@@ -9,7 +9,7 @@ Before creating a licensee, ensure that your account contains buyers and sellers
 To create a new licensee:
 
 1. Navigate to the **Licensees** page. Then, select **Add** to start the **Add licensee** wizard.&#x20;
-2. In the **General** page, complete the following steps:&#x20;
+2. In the **General** step, do the following:&#x20;
    * **Logo** - (Optional) Add a logo representing the licensee. You can upload an image by clicking **Select file** or by dragging the image into the field.
    * **Licensee name** - (Required) Provide the licensee's name. This can be your company name, department name, or username.&#x20;
    * **Resale licensee** - (Optional) Select this checkbox if you are SoftwareOne's partner who is transacting through the partner program. Otherwise, leave it clear.

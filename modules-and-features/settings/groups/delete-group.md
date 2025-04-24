@@ -8,7 +8,7 @@ Before deleting a group, make sure to remove all members from the group. If the 
 
 To delete a group:
 
-1. Navigate to the **Groups** page in the platform.&#x20;
+1. Navigate to the **Groups** page on the platform.&#x20;
 2. Find the group you want to delete.&#x20;
 3. Do one of the following:
    * Select the actions icon (**•••**) for the group and select **Delete**.&#x20;

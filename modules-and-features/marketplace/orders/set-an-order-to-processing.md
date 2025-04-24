@@ -10,7 +10,7 @@ After completing the necessary steps, select **Process** to update the order sta
 
 To change your order's status from **Querying** to **Processing**:
 
-1. Navigate to the **Orders** page in the platform.
+1. Navigate to the **Orders** page on the platform.
 2. Select the purchase order in the **Querying** state. If you have several orders, use the [search bar](../../../marketplace-platform/getting-started/interface/#search) or [filters](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md) to find the order.
 3. On the **General** tab, review the action required message. The following example shows that there's an issue with the parameters, and they must be updated through the **Parameters** tab.
 

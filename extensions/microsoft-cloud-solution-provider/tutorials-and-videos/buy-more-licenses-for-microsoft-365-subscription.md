@@ -14,41 +14,24 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 {% stepper %}
 {% step %}
-### Launch the purchase wizard <a href="#launch-the-purchase-wizard" id="launch-the-purchase-wizard"></a>
+**Launch the purchase wizard**
 
-1. Navigate to the **Products** page in the platform.
-2. Select the relevant Microsoft 365 product.
-3. On the details page, select **Buy now** to start the purchase wizard.
+Navigate to the **Products** page on the platform. Then, select the relevant Microsoft 365 product.
+
+On the details page, select **Buy now** in the upper right to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-### Select the agreement
+**Complete the steps in the wizard**
 
-1. Choose an active agreement from the list of your agreements.
-2. Select **Next**. You'll be directed to the **Items** page in the wizard.
-{% endstep %}
-
-{% step %}
-### Enter the new quantity <a href="#id-3.-add-new-items" id="id-3.-add-new-items"></a>
-
-1. In the **New qty** field, enter the total number of licenses you want. For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4.
-2. Select **Next**.&#x20;
+1. In the **Create agreement** step, choose an active agreement from the list and select **Next**.&#x20;
+2. In the **Items** step, enter the total number of licenses you want in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
 
 <figure><img src="../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Items section in the purchase wizard</p></figcaption></figure>
-{% endstep %}
 
-{% step %}
-### Provide reference details
-
-1. Enter optional information, like additional IDs or notes related to your purchase
-2. Select **Next**.
-{% endstep %}
-
-{% step %}
-### Place your order
-
-1. Review the details of your order. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. By placing the order, you accept all terms.
-2. Click **Place order** to complete your purchase.
+3. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
+4. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
+5. In the **Summary** step, select **View details** to go to the order details page; otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

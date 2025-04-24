@@ -10,7 +10,7 @@ If any of those details require updating, the individual must update them throug
 
 To update a user's group membership:
 
-1. Navigate to the **Users** page in the platform.
+1. Navigate to the **Users** page on the platform.
 2. Find the required user. You can [use filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data) to find a user based on their ID, name, email address, and other conditions.
 3. Select the actions icon (**•••**) and choose **Edit** to start the **Edit user** wizard.
 4. Select the **Groups** page and make the following changes as necessary:

@@ -10,7 +10,7 @@ If the person you invited didn't receive the invitation email or has difficulty 
 
 To reinvite a user to your account:
 
-1. Navigate to the **Users** page in the platform.
+1. Navigate to the **Users** page on the platform.
 2. Find the user you want to reinvite to your account.
 3. Select the actions icon (**•••**) and do the following:
    * **Copy invitation link** - Select to copy the invite as a link and share it directly with the individual.&#x20;
@@ -34,8 +34,7 @@ If the original invitation is still valid, you can resend the original invitatio
 
 To send a new invitation email:
 
-1. Navigate to the **Users** page in the platform.
-2. Find the required user.
-3. Select the actions icon (**•••**) and choose **Send new invitation**. A new invitation email is sent to the individual, and a confirmation message is displayed.
+1. Navigate to the **Users** page on the platform.
+2. Select the actions icon (**•••**) for the required user and choose **Send new invitation**. An invitation email is sent to the individual, and a confirmation message is displayed.
 
 <figure><img src="../../../.gitbook/assets/image (1007).png" alt=""><figcaption><p>Send new invitation option</p></figcaption></figure>

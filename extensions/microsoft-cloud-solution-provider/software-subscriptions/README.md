@@ -4,17 +4,17 @@ Unlock the power of Microsoft’s suite of industry-leading products with the Mi
 
 ## What is a software subscription? <a href="#what-is-a-software-subscription" id="what-is-a-software-subscription"></a>
 
-A software subscription is a modern approach to accessing software solutions where customers pay for usage over a period rather than owning the software outright. This model allows businesses to stay updated with the latest versions, updates, and security features. With Microsoft’s CSP Software Subscription, you gain access to a range of essential tools like SQL, and more, through a flexible, monthly, or annual subscription. This model ensures your organization has the right software to meet evolving business needs, without the upfront costs and complexities of traditional software licensing.
+A software subscription is a modern approach to accessing software solutions where customers pay for usage over a period rather than owning the software outright. This model allows businesses to stay updated with the latest versions, updates, and security features. With Microsoft’s CSP Software Subscription, you gain access to a range of essential tools like SQL and more, through a flexible, monthly, or annual subscription. This model ensures your organization has the right software to meet evolving business needs, without the upfront costs and complexities of traditional software licensing.
 
 ## Why should you transact Microsoft software subscriptions? <a href="#why-should-you-transact-microsoft-software-subscriptions" id="why-should-you-transact-microsoft-software-subscriptions"></a>
 
 * **Flexibility and scalability** - Whether you are a growing business or a large enterprise, the Microsoft CSP Software Subscription offers unparalleled flexibility. Add or remove users, scale your resources up or down, and easily adjust to your changing requirements. You only pay for what you use, making it cost-efficient and adaptable to any business size.
-* **Always up-to-date** - Stay ahead with automatic access to the latest features, updates, and security patches. Microsoft ensures that you always have access to the most current software versions, helping to streamline workflows and enhance productivity.
-* **Simplified billing** - With the subscription model, you receive consolidated, predictable billing that enables you to better manage budgets. No more complex license tracking; simply pay for what you use, on a schedule that suits your business needs.
+* **Always up-to-date** - Stay ahead with automatic access to the latest features, updates, and security patches. Microsoft ensures you always have access to the most current software versions, helping to streamline workflows and enhance productivity.
+* **Simplified billing** - With the subscription model, you receive consolidated, predictable billing that enables you to better manage budgets. No more complex license tracking, simply pay for what you use, on a schedule that suits your business needs.
 
 ## Why transact with SoftwareOne? <a href="#why-transact-with-softwareone" id="why-transact-with-softwareone"></a>
 
-When you choose SoftwareOne as your Microsoft CSP Software Subscription provider, you're not just purchasing software; you’re partnering with a trusted expert to optimize your IT strategy. Here’s why it makes sense to transact with us:
+When you choose SoftwareOne as your Microsoft CSP Software Subscription provider, you are not just purchasing software, you are partnering with a trusted expert to optimize your IT strategy. Here’s why it makes sense to transact with us:
 
 * **Expert guidance** - SoftwareOne’s team of certified professionals brings unparalleled expertise in Microsoft solutions. We help you navigate the complexity of licensing and tailor the subscription to meet your specific business requirements, ensuring you get the best value and efficiency from your investment.
 * **End-to-end support** - We provide comprehensive lifecycle management for your software subscriptions, from initial consultation to ongoing optimization. Whether you're looking for technical support or strategic advice, we stand by your side to ensure your success.

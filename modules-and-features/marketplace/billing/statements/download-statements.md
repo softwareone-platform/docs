@@ -10,7 +10,7 @@ Note that the charges listed in this statement may not include taxes, such as VA
 
 To download your billing statement:
 
-1. Navigate to the **Agreements** page in the platform.
+1. Navigate to the **Agreements** page on the platform.
 2. Select the agreement in the **Agreement** column.&#x20;
 3. On the agreement details page, select the **Attachments** tab. All files attached to the agreement are displayed.
 4. Find the statement you want to download. Then, under **Actions**, select **Download**.&#x20;

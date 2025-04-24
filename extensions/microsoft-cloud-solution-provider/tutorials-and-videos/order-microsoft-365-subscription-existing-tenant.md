@@ -19,83 +19,33 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-### Launch the purchase wizard <a href="#launch-the-purchase-wizard" id="launch-the-purchase-wizard"></a>
+**Launch the purchase wizard**
 
-1. Sign in to your account and go to the **Products** page.&#x20;
-2. Select **Microsoft 365 Business, Enterprise & Apps - Commercial**. The details page of your selected product opens.&#x20;
-3. On the details page, select **Buy now** to start the purchase wizard.
+Navigate to the **Products** page on the platform. Then, select **Microsoft 365 Business, Enterprise & Apps - Commercial** from the available products.
+
+On the details page, select **Buy now** in the upper right to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-### Create the agreement
+**Complete the steps in the wizard**
 
-The **Select agreement** page is the first page in the purchase wizard.
-
-Select **Create agreement** to start creating your new agreement.
-{% endstep %}
-
-{% step %}
-### Select licensee
-
-Choose the licensee you want to use and select **Next**.&#x20;
-
-In this tutorial, we'll select an existing licensee. However, you can add a new licensee by selecting **Add licensee** and following the instructions in [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md).
-{% endstep %}
-
-{% step %}
-### Connect your Microsoft tenant
-
-Select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**.&#x20;
-
-Note that if you select this option, the global administrator of your Microsoft account will need to accept the relationship request.
-{% endstep %}
-
-{% step %}
-### Enter your Microsoft account details
-
-Complete the following steps:
-
-1. Enter the name of your existing tenant.
-2. Fill out the contact form. You'll need to provide the first and last name, email address, and phone number of the person who will manage your account.&#x20;
-3. Select **Next**. The platform will validate your Microsoft tenant details. If no tenant is found, a message is displayed. You'll need to fix the error to proceed.
-{% endstep %}
-
-{% step %}
-### Special qualifications
-
-If your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity, select the **I confirm the Company is a State Owned Entity** checkbox. Otherwise, leave it cleared.&#x20;
-
-A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
-{% endstep %}
-
-{% step %}
-### Add support contacts
-
-Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
-{% endstep %}
-
-{% step %}
-### Select the required items
-
-Complete the following steps:
-
-1. Choose the items you want to order and then select **Add items**. You can select multiple items. When the items are added, the **Select items** section is displayed.
-2. Review and adjust the license quantity as required.
-3. If applicable, [read the offer attestation](../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
-4. Select **Next**.
-{% endstep %}
-
-{% step %}
-### Provide reference details
-
-Enter optional details, like additional IDs or notes related to your purchase, and select **Next**.
-{% endstep %}
-
-{% step %}
-### Place your order
-
-1. Review the details of your order. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. By placing the order, you accept all terms.
-2. Select **Place order**.
+1. In the **Create agreement** step, select **Create agreement** to start creating your new agreement.
+2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
+3. In the **Create agreemen**t step, select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**. Note that if you select this option, the global administrator of your Microsoft account will need to accept the relationship request.
+4. In the **Microsoft details** step, enter the details for your Microsoft account:
+   1. Enter the name of your existing tenant.
+   2. Fill out the contact form. You'll need to provide the first and last name, email address, and phone number of the person who will manage your account.&#x20;
+   3. Select **Next**. The platform will validate your Microsoft tenant details. If no tenant is found, a message is displayed. You'll need to fix the error to proceed.
+5. In the **Special qualifications** step, select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
+6. In the **Support contacts** step, enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
+7. In the **Items** step, do the following:
+   1. Choose the items you want to order and then select **Add items**. You can select multiple items. When the items are added, the **Select items** section is displayed.
+   2. Review and adjust the license quantity as required.
+   3. If applicable, [read the offer attestation](../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
+   4. Select **Next**.
+8. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
+9. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
+10. In the **Summary** step, select **View details** to go to the order details page; otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

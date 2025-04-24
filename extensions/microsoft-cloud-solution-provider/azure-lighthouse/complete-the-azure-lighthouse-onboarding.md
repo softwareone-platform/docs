@@ -12,7 +12,7 @@ The onboarding process for Azure Lighthouse can take up to 24 hours. This is bec
 
 To complete the onboarding:
 
-1. Navigate to the **Orders** page in the platform.&#x20;
+1. Navigate to the **Orders** page on the platform.&#x20;
 2. Select the required purchase order. The order details page is displayed.
 
 <figure><img src="../../../.gitbook/assets/image-20241106-111256 (1).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
@@ -47,14 +47,3 @@ To complete the onboarding:
 ## Next steps
 
 After completing the activation, return to the order's details page in the platform and select **Process** to change the order status from **Querying** to **Processing**. To learn more, see [Change Your Order's Status to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).
-
-## Related topics
-
-{% content-ref url="assign-subscription-owner-role.md" %}
-[assign-subscription-owner-role.md](assign-subscription-owner-role.md)
-{% endcontent-ref %}
-
-{% content-ref url="../faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md" %}
-[how-do-i-troubleshoot-lighthouse-activation-errors.md](../faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md)
-{% endcontent-ref %}
-

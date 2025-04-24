@@ -13,8 +13,7 @@ To update the token details:
 
 <figure><img src="../../../.gitbook/assets/EditToken.png" alt=""><figcaption></figcaption></figure>
 
-3. Update the **General** settings as necessary:
-   * **Name** - Update the token's name.
-   * **Description** - Update the token description.
-4. Update the access scope for the **Modules** as necessary. Use the checkboxes to select or clear the modules as required.&#x20;
-5. Select  **Save**. A confirmation message is displayed stating that your token has been updated.&#x20;
+3. Modify the information you need to change:
+   1. In the **General** step, you can update the token's name and description.
+   2. In the **Modules** step, you can update the access scope for the **Modules**.
+4. Select **Save**. A confirmation message is displayed stating that your token has been updated.&#x20;

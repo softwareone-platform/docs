@@ -6,25 +6,23 @@ This tutorial will guide you through the process of creating a change order by a
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
-Before starting this tutorial, make sure that your agreement is in the **Active** state. You can check the agreement status on the **Agreements** page and the agreement details page.
+Before starting this tutorial, make sure that your existing agreement is in the **Active** state. You can check the agreement status on the **Agreements** page and its details page.
 
 ## Implementation <a href="#implementation" id="implementation"></a>
 
 {% stepper %}
 {% step %}
-### Open the agreement
+**Open your existing agreement**
 
-In this step, do the following:
+Navigate to the **Agreements** page on the platform. Then, select the required agreement.
 
-1. Navigate to the **Agreements** page in the platform.
-2. Select the required agreement.
-3. On the agreement details page, select **Buy more** to start the purchase wizard.&#x20;
+On the agreement details page, select **Buy more** to start the purchase wizard.&#x20;
 {% endstep %}
 
 {% step %}
-### Select new items
+**Select the new items you want to order**&#x20;
 
-The **Select Items** page displays all one-time software items you can order under this agreement. To add items to your order:
+The **Select Items** step displays all one-time software items you can order under this agreement. To add items to your order:
 
 1. Locate the item (for example, _Windows Server 2025)._ If required, use the following filters:
    1. Select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="" data-size="line"> **Filter** option.
@@ -41,13 +39,11 @@ The **Select Items** page displays all one-time software items you can order und
 {% endstep %}
 
 {% step %}
-### Place the change order
+**Complete the remaining steps in the wizard**
 
-In this step, do the following:
-
-1. On the **Details** page, add any additional IDs or notes for your order and select **Next**. Note that it's optional to provide these details.
-2. On the **Review order** page, verify the information and click **Place order** to submit the change order.
-3. Select **View details** to go to the order details page. Otherwise, select **Close**.
+1. In the **Details** step, add any additional IDs or notes for your order and select **Next**. Note that it's optional to provide these details.
+2. In the **Review order** step, verify the information and click **Place order** to submit the change order.
+3. In the Summary step, select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

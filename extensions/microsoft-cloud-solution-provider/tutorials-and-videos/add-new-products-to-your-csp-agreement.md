@@ -14,38 +14,29 @@ You should also know how to navigate the platform to access your agreements & or
 
 {% stepper %}
 {% step %}
-### Open the agreement
+**Open the existing agreement**
 
-In this step, do the following:
+Navigate to the **Agreements** page on the platform. Then, select the agreement. Make sure that the agreement's status is **Active**.&#x20;
 
-1. Navigate to the **Agreements** page.&#x20;
-2. Select the required CSP agreement. Make sure that the agreement's status is **Active**.&#x20;
-3. On the agreement details page, select **Buy more** to start the purchase wizard.
+On the agreement details page, select **Buy more.** The purchase wizard starts, and the Select Items section of the wizard is displayed.
 {% endstep %}
 
 {% step %}
-### Select the new product
+**Add items to your order**
 
-In this step, do the following:
+In the **Items** step, do the following:
 
-1. On the **Items** page in the wized, select **Add items**. A new window (also called **Select items**) will open, displaying the products available for you to order under this agreement.
+1. In the **Items** step, select **Add items**. A new window containing all items you can order under this agreement opens.
 
 <figure><img src="../../../.gitbook/assets/agreement_details_buy_more.png" alt=""><figcaption><p>Add items option</p></figcaption></figure>
 
 2. Use filters to find the product you need. In this example, search for _Power BI_ using the following steps:
    1. Select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M400-240v-80h160v80H400ZM240-440v-80h480v80H240ZM120-640v-80h720v80H120Z&#x22;/></svg>" data-size="line"> **Filter** option in the grid.
-   2.  Select **Add another condition** and then use the dropdown to make the following selections:&#x20;
-
-       1. Select **Product Item Name**.
-       2. Set the filter to **Contains**.
-       3. Type the name of the required product (in this case, _Power BI_).
-       4. **Close** the filter box.
-
-
-
-       <figure><img src="../../../.gitbook/assets/items_filters.png" alt=""><figcaption><p>Filter options in the grid</p></figcaption></figure>
-
-
+   2. Select **Add another condition** and then use the dropdown to make the following selections:&#x20;
+      1. Select **Product Item Name**.
+      2. Set the filter to **Contains**.
+      3. Type the name of the required product (in this case, _Power BI_).
+      4. **Close** the filter box.
 3. Select the individual items you need from the list. You can select multiple checkboxes.
 
 {% hint style="info" %}
@@ -63,13 +54,11 @@ In this step, you can also increase the quantities of your existing subscription
 {% endstep %}
 
 {% step %}
-### Place the order
+**Complete the remaining steps in the wizard**
 
-In this step, do the following:
-
-1. On the **Details** page, add the additional ID and notes for your order and select **Next**. Note that it's optional to provide these details.
-2. On the **Review order** page, verify the detals and then select **Place order** to submit your orde&#x72;_._&#x20;
-3. &#x20;Select **View details** to go to the order details page. Otherwise, select **Close**.
+1. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
+2. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
+3. In the **Summary** step, select **View details** to go to the order details page; otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

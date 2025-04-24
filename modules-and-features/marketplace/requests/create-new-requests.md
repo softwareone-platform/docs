@@ -8,7 +8,7 @@ You can contact a vendor only if the vendor has enabled the option. If the optio
 
 To create a new request:
 
-1. Navigate to the **Products** page in the platform.
+1. Navigate to the **Products** page on the platform.
 2. Select the product you wish to inquire about.
 3. On the product details page, select the option to contact the vendor.&#x20;
 

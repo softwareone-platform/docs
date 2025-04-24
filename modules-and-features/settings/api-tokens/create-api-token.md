@@ -6,7 +6,7 @@ As an account administrator, you can generate API tokens for authentication thro
 
 To create a token:
 
-1. Navigate to the **API tokens** page in the platform. Then, select **Add** to start the **Add API token** wizard.
+1. Navigate to the **API tokens** page on the platform. Then, select **Add** to start the **Add API token** wizard.
 
 <figure><img src="../../../.gitbook/assets/image (990).png" alt=""><figcaption><p>Add API token</p></figcaption></figure>
 

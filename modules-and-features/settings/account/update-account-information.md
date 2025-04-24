@@ -12,7 +12,7 @@ See [Manage your profile](../../../marketplace-platform/getting-started/interfac
 
 To update your account details:
 
-1. Navigate to the **Account** page in the platform.
+1. Navigate to the **Account** page on the platform.
 2. Select **Edit** to start the **Edit account** wizard.
 
 <figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Account page</p></figcaption></figure>

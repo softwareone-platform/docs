@@ -1,6 +1,6 @@
 ---
-cover: broken-reference
-coverY: 83.01866666666666
+cover: ../../.gitbook/assets/adobe_partnerconnect.png
+coverY: 167.1578947368421
 layout:
   cover:
     visible: true
