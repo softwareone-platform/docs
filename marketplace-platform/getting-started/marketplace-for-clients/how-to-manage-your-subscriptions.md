@@ -6,9 +6,9 @@ Through the Marketplace, you can easily order new subscriptions, increase or dec
 
 ## Viewing your subscription and subscription details
 
-You can view your subscriptions on the **Subscriptions** page in the platform. The page displays all subscriptions in your account.&#x20;
+You can view your subscriptions on the **Subscriptions** page. The page displays all subscriptions that you ordered, regardless of their status.
 
-To view the details of an individual subscription, select the subscription name. For information on the columns that are displayed on this page, see [Subscriptions](../../../modules-and-features/marketplace/subscriptions/).
+To view the details of an individual subscription, select the subscription to open its details page.
 
 <figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
 
@@ -16,11 +16,11 @@ To view the details of an individual subscription, select the subscription name.
 
 You can change the quantity of licenses by creating a change order through the platform.&#x20;
 
-Change orders are required if you wish to order additional licenses or lower the number of licenses. For information, see [How to change license quantity](adjust-subscription-quantity.md).
+Change orders are required if you want to order additional licenses or lower the number of your existing licenses. For instructions, see [How to change license quantity](adjust-subscription-quantity.md).
 
 ## Terminating subscriptions
 
-You can cancel a single subscription in an agreement or all subscriptions by placing a termination order. Subscriptions cannot be canceled without a termination order.
+You can cancel a single subscription in an agreement or all subscriptions by placing a termination order. Subscriptions can't be canceled without a termination order.
 
 * To cancel a single subscription, use the **Terminate** option on the subscription details page. For instructions, see [Terminate Subscription](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
 * To cancel all subscriptions in an agreement, place a termination order for the agreement. For instructions, see [Terminate Agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).

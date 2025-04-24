@@ -48,9 +48,9 @@ On the details page, select **Buy now** in the upper right to start the purchase
 
 <figure><img src="../../../.gitbook/assets/azure_select_items.png" alt=""><figcaption><p>Select Items</p></figcaption></figure>
 
-7. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
-8. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
-9. In the **Summary** step, select **View details** to go to the order details page; otherwise, select **Close** to exit the wizard.
+9. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
+10. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
+11. In the **Summary** step, select **View details** to go to the order details page; otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

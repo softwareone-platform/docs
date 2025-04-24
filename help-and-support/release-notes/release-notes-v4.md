@@ -17,7 +17,7 @@ In this release, we are introducing billing statements.&#x20;
 
 In addition to invoices, you'll now receive statements containing a detailed record of charges for the subscriptions in your agreement. Billing statements are provided in the XLSX format. Unlike invoice PDFs, which only contain a summary of charges, statements include a comprehensive breakdown of all charges. See [Understand Your Billing Documents](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md) to learn more.
 
-We've also updated the platform's navigation menu to include the new **Billing** module. This module contains pages that you can use to access your [Invoices ](../../modules-and-features/inventory/invoices.md)and [Statements](../../modules-and-features/marketplace/billing/statements.md).&#x20;
+We've also updated the platform's navigation menu to include the new **Billing** module. This module contains pages you can use to access your [Invoices ](../../modules-and-features/inventory/invoices.md)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
 
 ## Deprecated Features
 
@@ -30,19 +30,21 @@ The following features have been deprecated and are no longer supported by the M
 
 FinOps for Cloud is a new solution designed to help you optimize costs and manage your resources effectively.&#x20;
 
-With FinOps for Cloud, you can explore and analyze your cloud expenses, monitor resource usage, and implement policies to ensure efficient and cost-effective cloud management. With a user-friendly interface and robust features, FinOps for Cloud provides greater visibility and control over cloud infrastructure. To learn more, see [FinOps for Cloud](../../extensions/finops-for-cloud/).
+<div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>FinOps for Cloud UI</p></figcaption></figure></div>
+
+With FinOps for Cloud, you can explore and analyze your cloud expenses, monitor resource usage, and implement policies to ensure efficient and cost-effective cloud management. With a user-friendly interface and robust features, the solution provides greater visibility and control over cloud infrastructure. To learn more, see [FinOps for Cloud](../../extensions/finops-for-cloud/).
 
 ## New Order Status
 
-We have introduced a new status for orders that you save for later intentionally.&#x20;
+Previously, the **Draft** status was used to identify orders that you intentionally saved for later.&#x20;
 
-The new status is called **Quoted**, and it's applied when you save an order to place it at a later time. The new status applies to purchase orders, change orders, and termination orders. To learn more, see [Order States](../../modules-and-features/marketplace/orders/order-states.md).
+We have now introduced a new status called **Quoted**, which will apply to orders, including purchase, change, and termination orders, saved for later. The **Draft** status is now only used for orders that are created by the platform for validation purposes. To learn more, see [Order States](../../modules-and-features/marketplace/orders/order-states.md).
 
 ## Notifications Management
 
 The new Notifications feature allows account administrators to configure and manage notification emails for their accounts.&#x20;
 
-Admins can set recipients for these emails and manage categories to start or stop receiving notifications. This feature is accessible through the **Settings** menu in the platform. To learn more, see [Notifications](../../modules-and-features/settings/notifications/). Individual users can also customize notification settings through their profile to determine what notifications to receive. See [Manage Notification Preferences](../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) for details.&#x20;
+Admins can set recipients for these emails and manage categories to start or stop receiving notifications. This feature is accessible through the **Settings** menu. To learn more, see [Notifications](../../modules-and-features/settings/notifications/). Individual users can also customize notification settings through their profile to determine what notifications to receive. See [Manage Notification Preferences](../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) for details.&#x20;
 
 Additionally, developers and system integrators can use our new Notifications API to manage notification configurations for accounts.
 
@@ -50,7 +52,7 @@ Additionally, developers and system integrators can use our new Notifications AP
 
 The new **Spotlight** feature simplifies task management by highlighting key business objects that require your attention. These objects include your agreements, invoices, subscriptions, and more.&#x20;
 
-For instance, if there are saved orders in your account, those orders are spotlighted so you can manage them easily. Similarly, subscriptions that are nearing expiration are also shown so you can take timely action. To learn more, see [View Object Spotlight](../../marketplace-platform/getting-started/interface/view-pending-tasks.md).&#x20;
+For instance, if there are saved orders in your account, those orders are spotlighted so you can manage them easily. Similarly, subscriptions that are nearing expiration are also shown so you can take timely action. To learn more, see [View Object Spotlight](../../marketplace-platform/getting-started/interface/view-pending-tasks.md).
 
 You can find the **Spotlight** feature on the **Home** page, and it can also be accessed by selecting the spotlight icon <img src="../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> in the status bar. You can also access the feature programmatically using the Object Spotlight API.&#x20;
 
@@ -64,13 +66,13 @@ Reminders can be sent to users within your account and to those who are not in y
 
 ## Public Catalog
 
-We are excited to announce the launch of our public catalog, available at marketplace. softwareone.com.&#x20;
+We are excited to announce the launch of our public catalog, available at marketplace. softwareone.com.
 
 Designed for intuitive navigation, our catalog ensures a seamless browsing experience and simplifies your software procurement journey.
 
 The catalog is available to everyone and provides easy access to a wide range of software products and services. You can explore products from over 56,000 vendors across categories, including healthcare, finance, analytics, and more.&#x20;
 
-<figure><img src="../../.gitbook/assets/release_notes_catalog.png" alt="" width="563"><figcaption><p>SoftwareOne Public Catalog</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/release_notes_catalog.png" alt="" width="563"><figcaption><p>SoftwareOne public catalog</p></figcaption></figure>
 
 ## Search Query in Data Grids
 
@@ -78,7 +80,7 @@ As part of our ongoing effort to make our platform easier to work with, we've in
 
 This new condition allows you to enter a search term, which is then used to find matching records across other filter conditions, such as orders, agreements, and more.
 
-<figure><img src="../../.gitbook/assets/search_query.png" alt=""><figcaption><p>Search Query filter </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/search_query.png" alt=""><figcaption><p>Search query filter</p></figcaption></figure>
 
 ## Subscription Automatic Renewals
 

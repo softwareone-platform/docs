@@ -16,10 +16,10 @@ To add or remove licenses from a subscription:
 1. Navigate to the **Subscriptions** page in the platform.
 2. Select the required subscription.
 3. On the subscription details page, select **Edit** to start the **Edit subscription** wizard.&#x20;
-4. On the Items page, update the quantity in the **New qty** field. You'll notice that the sales price of the subscription changes as you adjust the quantity. When done, select **Next**.
-5. On the **Details** page, add or update the reference ID and your comments as necessary. Then, select **Next**.
-6. On the **Review** page, check the details and select **Place Order**.
+4. In the **Items** step, update the quantity in the **New qty** field. You'll notice that the sales price of the subscription changes as you adjust the quantity. When done, select **Next**.
+5. In the **Details** step, add or update the reference ID and your comments as necessary. Then, select **Next**.
+6. In the **Review** step, check the details and select **Place Order**.
 
 A change order is created in the system and sent to the vendor for processing. The new change order is also displayed in your list of orders on the **Orders** page.&#x20;
 
-When the change order is being processed, the status of the subscription and the agreement changes to **Updating**. This indicates that the agreement is temporarily locked, and no further orders can be placed under this agreement until the change order is completed.
+When the change order is being processed, the status of the subscription and the agreement change to **Updating**. This indicates that the agreement is temporarily locked, and no further orders can be placed under this agreement until the change order is completed.

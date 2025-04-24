@@ -2,17 +2,17 @@
 
 The Marketplace Platform is a centralized hub designed to streamline the discovery and ordering of software products.&#x20;
 
-The platform simplifies the complex process of software licensing and procurement, making it easier for you to find and compare products from multiple software vendors in one place. Each product on our marketplace undergoes a process, where vendors define the product, including its terms of use, and submit it to SoftwareOne. Products become available for ordering only after they have been accepted by SoftwareOne.
+The platform simplifies the complex process of software licensing and procurement, making it easier for you to find and compare products from multiple software vendors in one place. Each product on our marketplace undergoes a process where vendors define the product, including its terms of use, and submit it to SoftwareOne. Products become available for ordering only after they have been accepted by SoftwareOne.
 
 {% stepper %}
 {% step %}
-### Accessing the marketplace
+**Accessing the marketplace**
 
 You can access the Marketplace by signing in to your account and selecting **Marketplace** > **Products** from the main menu.
 {% endstep %}
 
 {% step %}
-### Browsing and selecting products
+**Browsing and selecting products**
 
 The **Products** page shows different products that are available for you to order. The products are categorized by the vendor name and displayed in the form of cards. You can view detailed information about a product by selecting the product name. To learn more, see [Products](../../../modules-and-features/marketplace/products.md).
 
@@ -20,13 +20,13 @@ The **Products** page shows different products that are available for you to ord
 {% endstep %}
 
 {% step %}
-### Placing an order
+**Starting the purchase wizard and placing the order**
 
 When you are ready to start the ordering process, select **Buy now** on the details page.
 
 <figure><img src="../../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>Buy now option</p></figcaption></figure>
 
-When you select **Buy now**, the purchase wizard starts. The wizard contains all the steps to place an order.
+This will start the purchase wizard, containing the steps you need to complete to place an order.
 
 <figure><img src="../../../.gitbook/assets/image (1017).png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure>
 
@@ -41,7 +41,7 @@ The steps within the wizard will vary depending on the product and the vendor. A
 7. **Review summary** - See your order summary and the latest status message.
 
 {% hint style="info" %}
-For products, like Adobe and Microsoft, you'll need to complete additional steps when placing the order. For step-by-step guidance on these products, see [Adobe Tutorials ](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/)and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/).
+For products like Adobe and Microsoft, you'll need to complete additional steps when placing the order. For step-by-step guidance on these products, see [Adobe Tutorials ](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/)and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/).
 {% endhint %}
 {% endstep %}
 {% endstepper %}

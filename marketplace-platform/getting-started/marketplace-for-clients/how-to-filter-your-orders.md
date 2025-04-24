@@ -8,11 +8,11 @@ If you need to find a specific order, you can use the filter option to search fo
 
 To find an order using a filter, such as status:
 
-1. Navigate to the **Orders** page in the platform and select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
+1. Navigate to the **Orders** page in the platform. Then, select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
 
 <figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
 
-2. When the filter box displays, select **Add another condition** to open a menu of conditions.&#x20;
+2. Select **Add another condition** to open a menu of conditions.&#x20;
 3. Define the conditions:
    1. In the first field, choose the property. For example, to filter your orders by their status, select **Status**.
    2. In the second field, choose the search operator. Different operators are displayed depending on the condition you selected in the first field. For this example, leave the value set to **Equal**.
@@ -23,11 +23,11 @@ Your list of orders will be refreshed based on the filters. To reset the filters
 
 ## Viewing your order's details
 
-To view detailed information for an order, select the order ID in the **Order** column.&#x20;
+To view detailed information for an order, select the ID in the **Order** column.&#x20;
 
 The order details page opens, allowing you to view the basic order information and details such as items, subscriptions, ordering and fulfilment parameters, and more.
 
-From the order details page, you can also complete the following tasks:
+From the order details page, you can complete these additional tasks:
 
 * [Add or update your order notes](../../../modules-and-features/marketplace/orders/manage-order-notes.md).
 * [View and download the files attached to your order](../../../modules-and-features/marketplace/agreements/view-and-download-attachments.md).

@@ -18,83 +18,38 @@ Before starting this tutorial, make sure you are familiar with the [key concepts
 
 {% stepper %}
 {% step %}
-### Start the purchase wizard <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+**Start the purchase wizard**
 
-In this step, do the following:
+Navigate to the **Products** page on the platform. The page is located under **Marketplace** in the main menu.
 
-1. Navigate to the **Products** page in the platform. The page is located under **Marketplace** in the main menu.
-2. On the **Products** page, select the required perpetual software product. In this tutorial, we'll select **Microsoft Perpetual Software for Education**.
-3. On the product details page, select **Buy now** to start the purchase wizard.
+Then, select **Microsoft Perpetual Software for Education**.
+
+On the details page, select **Buy now** in the upper right to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-### Create the agreement <a href="#id-2.-create-agreement" id="id-2.-create-agreement"></a>
+**Complete the steps in the purchase wizard**
 
-On the **Select agreement** page in the wizard, select **Create agreement** to start creating a new agreement.&#x20;
-{% endstep %}
-
-{% step %}
-### Select the licensee <a href="#id-3.-select-licensee" id="id-3.-select-licensee"></a>
-
-On the **Select licensee** page, choose a licensee, then select **Next**.&#x20;
-
-If you don't wish to use an existing licensee, you can add a new licensee by selecting [Create licensee](../../../../modules-and-features/settings/licensees/create-licensees.md). Note that if you choose to add a new licensee, you'll be directed to the **Licensees** page in the platform. As a result, the purchase wizard will close, and you'll need to start it again.&#x20;
-{% endstep %}
-
-{% step %}
-### Create a new Microsoft tenant <a href="#id-4.-create-a-new-tenant" id="id-4.-create-a-new-tenant"></a>
-
-Select **Create new cloud account** to create a new tenant.
-{% endstep %}
-
-{% step %}
-### Enter your Microsoft details <a href="#id-5.-provide-microsoft-account-details" id="id-5.-provide-microsoft-account-details"></a>
-
-In this step, do the following:&#x20;
-
-1. Enter the tenant name you want to use on the onmicrosoft.com domain and select **Next**. Make sure that the name doesn't include punctuation marks or spaces. To check whether your tenant name is still available, use [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
-2. Fill out the contact form and select **Next**. You'll need to provide the following details:
-   1. Company name.
-   2. Company registration ID or tax number.
-   3. Company address, including city and zip/postal code.
-   4. Contact details of the person who will manage your account.
-{% endstep %}
-
-{% step %}
-### Special qualifications
-
-If you are a State Owned Entity, select the **I confirm the Company is a State Owned Entity** checkbox. Otherwise, leave it cleared.&#x20;
-
-A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
-{% endstep %}
-
-{% step %}
-### Add support contacts <a href="#id-6.-add-support-contacts" id="id-6.-add-support-contacts"></a>
-
-1. Enter the contact details of your support administrator and choose your preferred support language.&#x20;
-2. Select **Next**.
-{% endstep %}
-
-{% step %}
-### Select the required items
-
-1. Choose the software items you want to order. You can select multiple items.&#x20;
-2. Select **Add items** to add the selected items to your order.&#x20;
-3. Change the quantity of licenses as required, then select **Next**.
-{% endstep %}
-
-{% step %}
-### Provide reference details <a href="#id-8.-provide-the-reference-details" id="id-8.-provide-the-reference-details"></a>
-
-1. Enter optional details, like additional IDs or notes related to your purchase.
-2. Select **Next**.
-{% endstep %}
-
-{% step %}
-### Review and place your order <a href="#id-9.-review-and-place-your-order" id="id-9.-review-and-place-your-order"></a>
-
-1. Review the order details. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. By placing the order, you accept all terms.
-2. Select **Place order** to submit your order.
+1. In the **Create agreement** step, select **Create agreement** to start creating your new agreement.
+2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
+3. In the **Create agreemen**t step, select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
+4. In the **Microsoft details** step, enter the details for your Microsoft account:
+   1. Enter the tenant name you want to use on the onmicrosoft.com domain. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
+   2. Select **Next**. The platform validates the details that you entered.
+   3. Fill out the contact form and select **Next**. You'll need to provide the following details:
+      1. Company name.
+      2. Company registration ID or tax number.
+      3. Company address, including city and zip/postal code.
+      4. Contact details of the person who will manage your account.&#x20;
+5. In the **Special qualifications** step, select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
+6. In the **Support contacts** step, enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
+7. In the **Items** step, do the following:
+   1. Choose the software items you want to order. You can select multiple items.&#x20;
+   2. Select **Add items** to add the selected items to your order.&#x20;
+   3. Change the quantity of licenses as required, then select **Next**.
+8. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
+9. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
+10. In the **Summary** step, select **View details** to go to the order details page; otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 
