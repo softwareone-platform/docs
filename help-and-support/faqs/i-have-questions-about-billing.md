@@ -10,13 +10,13 @@ You can include a purchase order number by entering it in the **Additional ID** 
 
 Yes, you can view or download your billing statements from the **Attachments** tab on the agreement details page. For more information, see [View and Download Statements](../../modules-and-features/marketplace/billing/statements/download-statements.md).
 
-### Why are all the subscription invoice lines marked as 'Qty 1'?
+### Why are all the subscription invoice lines shown as 'Qty 1'?
 
-Vendors generate hundreds or thousands of charges during a billing period, and all charges can't be listed individually on the invoice PDF.&#x20;
+Vendors generate hundreds or thousands of charges during a billing period, and not all charges can be listed individually on the invoice PDF.&#x20;
 
 To avoid clutter, we consolidate all charges at the item level and display the quantity as '1' on the invoice. You can view the quantity data and the full set of charges in your [billing statement](../../modules-and-features/marketplace/billing/#whats-a-statement). These charges are also displayed on the **Charges** tab within the [statement details page](../../modules-and-features/marketplace/billing/statements.md#subscription-details).
 
-### Why does my invoice show a price different from the price on the Orders page?
+### Why is the price on the invoice different from the price listed on the Orders page?
 
 The disparity in pricing is due to how proration is calculated.
 
