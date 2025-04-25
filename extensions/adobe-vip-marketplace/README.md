@@ -41,17 +41,13 @@ As the next evolution of the VIP buying program, the Adobe VIP Marketplace progr
 
 The flexibility and breadth of the program allow SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
 
-* Adobe is included with many other vendors in the SoftwareOne Marketplace for a one-stop-shop experience.
+* Adobe is included with many other vendors in the SoftwareOne Marketplace for a one-stop shop experience.
 * Bundles and services are easily available.
 * Better overall experience from quicker purchasing to easier license management, with no disruption due to missed or delayed renewals.
 
 ### Is Adobe VIP Marketplace right for you? <a href="#is-adobe-vip-marketplace-right-for-you" id="is-adobe-vip-marketplace-right-for-you"></a>
 
-VIP Marketplace is the primary Adobe buying program for SoftwareOne clients, except in the following cases:
-
-* VIP members who are affiliates of a linked membership (available in VIP Marketplace in 2024)
-* Global customers who purchase using the Worldwide VIP price lists (available in VIP Marketplace in 2024)
-* VIP members in China.
+VIP Marketplace is the primary Adobe buying program for SoftwareOne clients, except for VIP members in China.
 
 ## Getting Started <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
 
@@ -76,7 +72,7 @@ To reduce the effort associated with adding licenses, we recommend using the fir
 
 The Adobe Admin Console is an online tool that allows organizations to manage their users as well as the assignment and reassignment of Adobe licenses. The member of your organization who received the welcome email and accepted the VIP Marketplace terms and conditions is the first person who will have access to your organization’s Admin Console.&#x20;
 
-Once this person accesses the Admin Console, they can begin managing licenses and users along with granting administration rights to other members of their organization.
+Once this person accesses the Admin Console, they can begin managing licenses and users, along with granting administration rights to other members of their organization.
 
 ## Volume discounts <a href="#volume-discounts" id="volume-discounts"></a>
 
@@ -124,7 +120,7 @@ Licenses purchased through VIP Marketplace automatically renew for the following
 
 If you opt out of automatic renewal by terminating a subscription or agreement, your licenses will be deactivated at your next anniversary date. A reminder notification will be sent before any licenses are deactivated, and you may update your renewal settings by placing an order in the SoftwareOne Marketplace at least 3 days before the anniversary date.
 
-For example, if in your current term, you are at discount level 2 (10-49 licenses) and in your renewal term your auto-renewal order is for 50-99 licenses, you would receive the level 3 discount level. Also, if in your current term, your Adobe product offer is based on promotional pricing, then in your renewal term, your Adobe product offer will be based on standard pricing because the promotional pricing expired.
+For example, if in your current term, you are at discount level 2 (10-49 licenses) and in your renewal term, your auto-renewal order is for 50-99 licenses, you would receive the level 3 discount. Also, if in your current term, your Adobe product offer is based on promotional pricing, then in your renewal term, your Adobe product offer will be based on standard pricing because the promotional pricing has expired.
 
 ### Returns <a href="#returns" id="returns"></a>
 
@@ -138,9 +134,9 @@ If the VIP Member has any VIP orders that are eligible for return, then such ord
 
 Once you are enrolled in VIP Marketplace, your membership remains effective until any of the following conditions occur:
 
-* You choose to leave the program by giving a 30-day notice of cancellation to SoftwareOne
-* Adobe terminates the program
-* Your membership is terminated due to a breach of program terms and conditions
+* You choose to leave the program by giving a 30-day notice of cancellation to SoftwareOne.
+* Adobe terminates the program.
+* Your membership is terminated due to a breach of the program terms and conditions.
 
 The program terms and conditions are subject to change at any time. You will be presented with updated terms and conditions the next time you log in to the Adobe Admin Console if there are any changes.
 
