@@ -20,10 +20,10 @@ Admins can manage these categories from the **Notifications** > **Subscribers** 
 
 ## Accessing notifications
 
-Admins can view the notification categories and the messages triggered for the users within their account on the **Notifications** page. The page is available under **Settings** in the main menu.
+Admins can view the notification categories and all the messages that have been triggered in their account on the **Notifications** page. The page is available under **Settings** in the main menu.
 
 <div><figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Notifications page: Subscribers tab</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/notifications_message.png" alt=""><figcaption><p>Notifications page: Messages tab</p></figcaption></figure></div>
 
-The Notifications page consists of the following tabs:
+The **Notifications** page consists of the following tabs:
 
-<table><thead><tr><th width="186">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Subscribers</strong></td><td>Displays all <a href="./#notification_types">notification categories</a> that are configured for your account. You can view details, such as the name of the category, its description, recipients (including users and groups), and the status.</td></tr><tr><td><strong>Messages</strong></td><td>Contains all messages triggered for the users in your account. For each message, you can view details including the message ID, subject line, recipient's email address, status, and more. </td></tr></tbody></table>
+<table><thead><tr><th width="186">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Subscribers</strong></td><td>Displays all <a href="./#notification_types">notification categories</a> that are configured for your account. You can view details, such as the name of the category, its description, total number of recipients (including users and groups), and the status.</td></tr><tr><td><strong>Messages</strong></td><td><p>Contains all email messages. For each message, you can view details including the message ID, subject line, recipient's email address, status, and more. </p><p></p><p>Note that the <strong>Contact</strong> column displays the recipient's email address, while the <strong>Users</strong> column displays the name and ID of the individual associated with that contact. If the <strong>Users</strong> column is empty, it means the recipient doesn't have an account on the platform.</p></td></tr></tbody></table>

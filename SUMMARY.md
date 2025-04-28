@@ -151,7 +151,7 @@
     * [Notification States](modules-and-features/settings/notifications/notification-states.md)
     * [Configure Recipients](modules-and-features/settings/notifications/configure-recipients.md)
     * [Enable or Disable Categories](modules-and-features/settings/notifications/enable-or-disable-categories.md)
-    * [Viewing Message Details](modules-and-features/settings/notifications/viewing-message-details.md)
+    * [View Notification Messages](modules-and-features/settings/notifications/view-notification-messages.md)
     * [Customize Settings](modules-and-features/settings/notifications/edit-notification-settings.md)
   * [Sellers](modules-and-features/settings/sellers.md)
   * [Users](modules-and-features/settings/users/README.md)
