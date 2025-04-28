@@ -28,7 +28,6 @@
     * [What is Partners Management?](marketplace-platform/getting-started/marketplace-for-partners/what-is-partners-management.md)
     * [How to Configure Licensees For Resale](marketplace-platform/getting-started/marketplace-for-partners/how-to-configure-licensees-for-resale.md)
     * [How to Order Products for Resale](marketplace-platform/getting-started/marketplace-for-partners/how-to-order-products-for-resale.md)
-    * [How to Create New Subscriptions Under Existing Agreement](marketplace-platform/getting-started/marketplace-for-partners/how-to-create-new-subscriptions-under-existing-agreement.md)
 
 ## MODULES & FEATURES
 
