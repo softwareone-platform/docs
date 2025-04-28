@@ -26,14 +26,6 @@ The following features have been deprecated and are no longer supported by the M
 * 365EA + Unified Support
 * Unified Support for Multivendor
 
-## FinOps for Cloud
-
-FinOps for Cloud is a new solution designed to help you optimize costs and manage your resources effectively.&#x20;
-
-<div align="center" data-full-width="false"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>FinOps for Cloud UI</p></figcaption></figure></div>
-
-With FinOps for Cloud, you can explore and analyze your cloud expenses, monitor resource usage, and implement policies to ensure efficient and cost-effective cloud management. With a user-friendly interface and robust features, the solution provides greater visibility and control over cloud infrastructure. To learn more, see [FinOps for Cloud](../../extensions/finops-for-cloud/).
-
 ## New Order Status
 
 Previously, the **Draft** status was used to identify orders that you intentionally saved for later.&#x20;

@@ -257,6 +257,7 @@
     * [Settings](extensions/finops-for-cloud/system/settings.md)
   * [FAQs](extensions/finops-for-cloud/faqs/README.md)
     * [Why does the pricing in FinOps not match the SoftwareOne invoice?](extensions/finops-for-cloud/faqs/why-does-the-pricing-in-finops-not-match-the-softwareone-invoice.md)
+  * [Release Notes](extensions/finops-for-cloud/release-notes.md)
 * [ITAM Tools](extensions/itam-tools/README.md)
   * [365 EA + Unified Support](extensions/itam-tools/365-ea-+-unified-support.md)
   * [Renewal Manager](extensions/itam-tools/renewal-manager.md)
