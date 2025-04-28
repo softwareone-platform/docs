@@ -8,7 +8,7 @@ You can re-enroll in a program only if your certificate has expired. If your cer
 
 To renew your program enrollment:
 
-1. Navigate to the **Certificates** page on the platform.
+1. Navigate to the **Certificates** page.
 2. Select the certificate you want to renew.
 3. On the certificate's details page, select **Re-enroll** to start the **Re-enroll** **certificate** wizard.
 4. Do the following:

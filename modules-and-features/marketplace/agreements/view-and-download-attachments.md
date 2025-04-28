@@ -8,7 +8,7 @@ Attachments can include PDFs and license keys. The same attachments are also ava
 
 To view and download attachments:&#x20;
 
-1. Navigate to the **Agreements** page on the platform.
+1. Navigate to the **Agreements** page.
 2. Select the link for the agreement in the **Agreement** column.&#x20;
 3. Select the **Attachments** tab. All files related to the agreement are displayed.&#x20;
 

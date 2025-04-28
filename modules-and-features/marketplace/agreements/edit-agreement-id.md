@@ -8,7 +8,7 @@ When you create an agreement, the **Additional Client ID** field is initially em
 
 To update the **Additional Client ID** field:
 
-1. Navigate to the **Agreements** page on the platform.
+1. Navigate to the **Agreements** page.
 2. Select the link for the agreement in the **Agreement** column.&#x20;
 3. On the agreement details page, select the **Details** tab. Then, select **Edit**.&#x20;
 

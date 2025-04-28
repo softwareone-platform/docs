@@ -8,7 +8,7 @@ When creating groups, you can choose all the modules you want to enable for the 
 
 To create a new group:
 
-1. Navigate to the **Groups** page on the platform.&#x20;
+1. Navigate to the **Groups** page.&#x20;
 2. Select **Add** to start the **Add group** wizard.
 3. In the **General** step, enter the following details:
    * **Name** - (Required) Provide a name for your group. We recommend that you enter a unique name so you can identify the group easily in your list of groups.

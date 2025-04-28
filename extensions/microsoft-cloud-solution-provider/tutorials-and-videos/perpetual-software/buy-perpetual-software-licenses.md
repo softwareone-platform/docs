@@ -20,7 +20,7 @@ Before starting this tutorial, make sure you are familiar with the [key concepts
 {% step %}
 **Start the purchase wizard**
 
-Navigate to the **Products** page on the platform. Then, select **Microsoft Perpetual Software for Education** from the list of products.
+Navigate to the **Products** page. Then, select **Microsoft Perpetual Software for Education** from the list of products.
 
 On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}

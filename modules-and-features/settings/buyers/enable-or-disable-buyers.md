@@ -8,7 +8,7 @@ When you disable a buyer, the licensees associated with that buyer also become u
 
 To enable or disable a buyer:
 
-1. Navigate to the **Buyers** page on the platform.&#x20;
+1. Navigate to the **Buyers** page.&#x20;
 2. Find the buyer you want to manage.
 
 <figure><img src="../../../.gitbook/assets/BuyersPage.png" alt=""><figcaption><p>Buyers page</p></figcaption></figure>

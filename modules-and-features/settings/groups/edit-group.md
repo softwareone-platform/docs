@@ -12,7 +12,7 @@ Before editing a group, note the following points:
 
 To edit a group:
 
-1. Navigate to the **Groups** page on the platform.
+1. Navigate to the **Groups** page.
 2. Select the actions icon (**•••**) for the group to edit. Then, choose **Edit** to start the **Edit group** wizard.
 3. Modify the information you need to change:
    1. In the **General** step, you can update the group's name and description.

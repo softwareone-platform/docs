@@ -20,7 +20,7 @@ In the Marketplace Platform, you can save an order and return to it later to com
 
 To save your order during the ordering process:
 
-1. Navigate to the **Products** page on the platform.
+1. Navigate to the **Products** page.
 2. Select the product you want to buy.
 3. On the product details page, select **Buy now** to start the purchase wizard.
 4. In the purchase wizard, complete all the steps until you reach the **Details** page.

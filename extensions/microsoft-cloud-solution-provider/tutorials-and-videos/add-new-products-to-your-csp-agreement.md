@@ -16,7 +16,7 @@ You should also know how to navigate the platform to access your agreements & or
 {% step %}
 **Open the existing agreement**
 
-Navigate to the **Agreements** page on the platform. Then, select the agreement. Make sure that the agreement's status is **Active**.&#x20;
+Navigate to the **Agreements** page. Then, select the agreement. Make sure that the agreement's status is **Active**.&#x20;
 
 On the agreement details page, select **Buy more.** The purchase wizard starts, and the **Items** step is displayed.
 {% endstep %}

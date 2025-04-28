@@ -21,7 +21,7 @@ You also have action links that allow you to enable, disable, or edit the buyer.
 
 ## Viewing buyer details
 
-To view the details page, select the buyer on the **Buyers** page.&#x20;
+To view the details page, select the buyer's name on the **Buyers** page.&#x20;
 
 <figure><img src="../../../.gitbook/assets/BuyerDetails.png" alt=""><figcaption><p>Details page of a buyer</p></figcaption></figure>
 

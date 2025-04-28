@@ -20,7 +20,7 @@ Before starting this tutorial, make sure you have the following:
 {% step %}
 **Launch the purchase wizard**
 
-Navigate to the **Products** page on the platform. Then, select **Microsoft Azure** from the available products.
+Navigate to the **Products** page. Then, select **Microsoft Azure** from the available products.
 
 On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}

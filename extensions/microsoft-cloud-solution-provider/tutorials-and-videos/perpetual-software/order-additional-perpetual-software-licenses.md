@@ -14,7 +14,7 @@ Before starting this tutorial, make sure that your existing agreement is in the 
 {% step %}
 **Open your existing agreement**
 
-Navigate to the **Agreements** page on the platform. Then, select the required agreement.
+Navigate to the **Agreements** page. Then, select the required agreement.
 
 On the agreement details page, select **Buy more** to start the purchase wizard.&#x20;
 {% endstep %}

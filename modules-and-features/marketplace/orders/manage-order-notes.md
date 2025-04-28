@@ -8,9 +8,9 @@ Notes can be added or updated at any time, regardless of the order's status.
 
 ## Managing your order notes
 
-To add or update notes for an order:
+To add or update notes for an existing order in the platform:
 
-1. Navigate to the **Orders** page on the platform.
+1. Navigate to the **Orders** page.
 2. Select the link for the order in the **Order** column.&#x20;
 3. On the order details page, select the **Notes** tab. Then, select **Edit**.&#x20;
 

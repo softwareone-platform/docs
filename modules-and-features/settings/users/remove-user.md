@@ -16,7 +16,7 @@ Before removing an individual from your account, note the following points:
 
 To remove an individual from your account:
 
-1. Navigate to the **Users** page in the platform.
+1. Navigate to the **Users** page.
 2. Locate the individual you want to remove from your account.
 3. Select the actions icon (**•••**) and choose **Remove**.
 

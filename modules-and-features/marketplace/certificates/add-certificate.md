@@ -10,9 +10,9 @@ To add your certificate, you will need your Microsoft Partner Network (MPN) ID a
 
 To add your certificate:&#x20;
 
-1. Navigate to the **Programs** page in the platform.
-2. Select the required program.&#x20;
-3. On the program's details page, select the **Certificates** tab. Then, select **Add** to start the **Add certificate** wizard.
+1. Navigate to the **Programs** page. Then, select the required program.&#x20;
+2. On the program's details page, select the **Certificates** tab.&#x20;
+3. Select **Add** to start the **Add certificate** wizard.
 
 <figure><img src="../../../.gitbook/assets/add_certificate.png" alt=""><figcaption><p>Add option on the Certificates tab</p></figcaption></figure>
 

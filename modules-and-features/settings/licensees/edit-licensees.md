@@ -8,7 +8,7 @@ Note that the platform only supports updating basic details. You can't update th
 
 To edit a licensee's general details:&#x20;
 
-1. Navigate to the **Licensees** page in the platform.
+1. Navigate to the **Licensees** page.
 2. Find the licensee you want to edit. &#x20;
 3. Select the actions icon (**•••**) for the licensee and choose **Edit**. Alternatively, select the licensee name. When the licensee details page opens, select **Edit** in the upper right.
 

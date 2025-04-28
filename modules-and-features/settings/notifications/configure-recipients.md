@@ -10,7 +10,7 @@ Administrators can also manage recipients for an email notification by adding ne
 
 To add individual users and groups to your email notifications:
 
-1. Navigate to the **Notifications** page on the platform.&#x20;
+1. Navigate to the **Notifications** page.&#x20;
 2. On the **Subscribers** tab, select the relevant category. For example, to configure recipients for order-related notifications, select **Orders**.
 3. On the subscriber details page, select the **Recipients** tab.
 

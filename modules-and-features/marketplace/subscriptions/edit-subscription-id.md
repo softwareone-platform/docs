@@ -8,7 +8,7 @@ Client IDs can only be added or updated for the subscriptions in the **Active**,
 
 To update a subscription's client ID:
 
-1. Navigate to the **Subscriptions** page on the platform.
+1. Navigate to the **Subscriptions** page.
 2. Select the subscription you want to update.
 3. On the subscription details page, select the **Details** tab. Then, select **Edit**.&#x20;
 

@@ -6,4 +6,4 @@ Selecting a program on the **Programs** page opens a details page, where you can
 
 <figure><img src="../../.gitbook/assets/program_details_page.png" alt=""><figcaption><p>Program details page</p></figcaption></figure>
 
-The program details page also contains a **Certificate** tab that displays all certificates you may have added for the program. You can also add a new certificate using the **Add** option on the page. For instructions, see [Add Certificate](certificates/add-certificate.md).&#x20;
+The program details page also contains a **Certificate** tab that displays your certificates for the program. You can also add a new certificate using the **Add** option on the page. For instructions, see [Add Certificate](certificates/add-certificate.md).&#x20;

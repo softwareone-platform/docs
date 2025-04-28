@@ -8,7 +8,7 @@ The information that you can update includes the contact person assigned to the 
 
 To update the buyer details in your account:
 
-1. Navigate to the **Buyers** page on the platform. Then, select the buyer you want to update.
+1. Navigate to the **Buyers** page. Then, select the buyer you want to update.
 2. On the buyer details page, select **Edit** to start the **Edit buyer** wizard.
 
 <figure><img src="../../../.gitbook/assets/Buyer.png" alt=""><figcaption><p>Details page of a buyer</p></figcaption></figure>
