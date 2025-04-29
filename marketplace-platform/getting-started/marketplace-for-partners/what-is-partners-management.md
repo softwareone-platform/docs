@@ -6,7 +6,7 @@ The program supports partners such as Value-Added Resellers (VARs), System Integ
 
 A key feature of the program is Partners Management, available through the Marketplace Platform.&#x20;
 
-Unlike clients, who procure software or services for their consumption, partners can procure SaaS products for their own consumption and resale to their customer base. This can be done through the Marketplace Platform, which supports two different consumption models, including self-use and resale. Partners also have access to specific features designed to support resale activities.&#x20;
+Unlike clients, who procure software or services for their consumption, partners can procure SaaS products for their consumption as well as resale to their customer base. This can be done through the Marketplace Platform, which supports two different consumption models, including self-use and resale. Partners also have access to specific features designed to support resale activities.&#x20;
 
 The distinction between the two consumption models is made at the licensee level in the platform. Licensees are the end-users or consumers of a license, and they are linked to specific agreements. Partners can easily set up new licensees through the interface and designate them as Resale Licensees. By marking a licensee as a Resale Licensee, partners indicate that they'll be reselling our products and services to external companies rather than using them for their consumption.&#x20;
 

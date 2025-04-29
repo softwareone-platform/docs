@@ -32,5 +32,3 @@ To order a product for resale by establishing a new agreement:
    3. When the items are added, review and adjust the quantity as required.
 9. In the **Details** step, enter optional details, like additional IDs or notes related to your purchase, and select **Next**.
 10. Review the order details. Make sure to read the terms and conditions associated with this purchase, including the privacy statement. When you are done, select **Place order**.
-
-## Next steps <a href="#reseller-discounts" id="reseller-discounts"></a>
