@@ -1,4 +1,4 @@
-# Request Pricing for Non-Catalog Products
+# Special Quotes
 
 Using Special Quotes, you can request pricing for products that are not listed in your catalog.
 
@@ -40,7 +40,7 @@ To create a special quote:
    5. Select the **Renewal** check box if your special quote request is for product renewal. Clear the checkbox if you're requesting a new product.
 4. Provide details of the product. Note that this section is displayed only after you choose the publisher.
 
-<figure><img src="../../../.gitbook/assets/image (564).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (564).png" alt=""><figcaption></figcaption></figure>
 
 5. Under **Request Instructions**, do the following:
    1. Select a priority level for your request.&#x20;
@@ -60,11 +60,11 @@ To view the detailed quote information:
 
 Note that if your special quote contains multiple products, each product request is displayed in a separate row on the Special Quotes page. For example, if your special quote is for Acrobat Professional and Acrobat Standard, both products are displayed separately on the Special Quotes page, even though they are a part of the same request.&#x20;
 
-<figure><img src="../../../.gitbook/assets/legacy_special_quotes.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/legacy_special_quotes.png" alt=""><figcaption></figcaption></figure>
 
 When looking at the details of a special quote, products that are part of the same request are displayed under **Other products**.
 
-<figure><img src="../../../.gitbook/assets/Other_Products.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Other_Products.png" alt=""><figcaption></figcaption></figure>
 
 ## Deleting special quotes
 

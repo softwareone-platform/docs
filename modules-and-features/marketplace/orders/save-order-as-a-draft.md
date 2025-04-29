@@ -46,4 +46,4 @@ To save a change order:
 
 ## Next steps
 
-When you are ready to finalize the order, open the order details page and select **Review** to continue the ordering process. For details, see [Submit Saved Orders](submit-draft-orders.md).
+When you are ready to finalize the order, open the order details page and select **Review** to continue the ordering process. For details, see [Submit Your Saved Orders](submit-draft-orders.md).

@@ -1,6 +1,6 @@
 # Buy Products and Services
 
-On the **Products** page, you can easily explore our catalog, search for products, view product prices, and add products to your shopping cart. You can also [request pricing for non-catalog items](special-quotes/request-pricing-for-non-catalog-products.md).&#x20;
+On the **Products** page, you can easily explore our catalog, search for products, view product prices, and add products to your shopping cart. You can also request pricing for non-catalog items.&#x20;
 
 &#x20;To buy a product or service:
 

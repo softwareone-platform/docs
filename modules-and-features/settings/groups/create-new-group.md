@@ -24,6 +24,6 @@ The **Buyers** section is enabled only if you've selected the **Marketplace** mo
 {% endhint %}
 
 7. In the **Users** step, select all the individuals you want to add to the group. This section displays the names of all individuals in your account. Then, select **Next**.&#x20;
-8. On the **Overview** page, review the details for accuracy. When done, select **Add**.&#x20;
+8. In the **Overview** step, review the details for accuracy. When done, select **Add**.&#x20;
 
 The group is created, and the **Summary** section displays the confirmation. Select **View details** to open the group details page. Otherwise, select **Close**.

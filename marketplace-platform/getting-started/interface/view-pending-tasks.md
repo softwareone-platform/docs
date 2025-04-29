@@ -6,7 +6,7 @@ These objects include your agreements, orders, subscriptions, invoices, and more
 
 The widget is displayed on the Home page by default, but you can also access it by selecting the spotlight icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> in the status bar.
 
-<figure><img src="../../../.gitbook/assets/spotlight.png" alt=""><figcaption><p><strong>Spotlight widget</strong></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/spotlight.png" alt=""><figcaption><p>Object spotlight widget</p></figcaption></figure>
 
 Within the widget, the information is organized by object type; for example, renewing and expiring subscriptions are displayed under **Subscriptions**, orders that may be querying for additional information are shown under **Orders**, and so on.&#x20;
 

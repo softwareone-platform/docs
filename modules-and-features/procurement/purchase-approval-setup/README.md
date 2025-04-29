@@ -8,15 +8,6 @@ After creating groups, you can maintain them easily by linking approval groups t
 
 See the following links to get started with purchase approval groups:
 
-{% content-ref url="create-approval-groups.md" %}
-[create-approval-groups.md](create-approval-groups.md)
-{% endcontent-ref %}
-
-{% content-ref url="create-approval-workflows.md" %}
-[create-approval-workflows.md](create-approval-workflows.md)
-{% endcontent-ref %}
-
-{% content-ref url="delete-workflow-rules.md" %}
-[delete-workflow-rules.md](delete-workflow-rules.md)
-{% endcontent-ref %}
-
+* [Create Approval Groups](create-approval-groups.md)
+* [Create Approval Workflows](create-approval-workflows.md)
+* [Delete Workflow Rules](delete-workflow-rules.md)

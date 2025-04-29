@@ -24,22 +24,22 @@ Additionally, you can get an overview of your transactions and see the necessary
 
 The Transaction Status and Actions section contains the following information:
 
-* **Open Product Requests**: Allows you to view special quotes that are open. When a special quote is complete, it's no longer displayed in this section. You can also use this tab to request a new quote by selecting **Request Special Quote**. For information on how to create a special quote, see [Using Special Quotes to Request Prices](../special-quotes/request-pricing-for-non-catalog-products.md).
+* **Open Product Requests**: Allows you to view special quotes that are open. When a special quote is complete, it's no longer displayed in this section. You can also use this tab to request a new quote by selecting **Request Special Quote**. For information on how to create a special quote, see [Special Quotes](../special-quotes.md).
 * **Quotes Ready**: Allows you to view a list of quotes that are ready to be converted to an order. You can also view detailed information for a quote, delete a quote, convert a quote to an order, or export a quote to PDF or Excel.
 
 {% hint style="info" %}
-You can only view quotes that are opened within the last 90 days. If the quotes were opened before 90 days, you can see those quotes on the special quote history page (**Documents** > **Special Quotes**).
+You can only view quotes that are open within the last 90 days. If the quotes were opened before 90 days, you can see those quotes on the special quote history page (**Documents** > **Special Quotes**).
 {% endhint %}
 
 * **Approval Required**: Allows you to view orders that are pending approval. Depending on the purchase approval workflow:
   * The **Approve** option is displayed if you can approve the orders yourself.&#x20;
-  * The **Details** option is displayed if the order requires approval by someone else as per the approval workflow.
+  * The **Details** option is displayed if the order requires approval by someone else, as per the approval workflow.
 * **Open Invoices**: Allows you to view the open invoices.
 * **Overdue Invoices**: Allows you to view overdue invoices.
 
 ## Buy Now
 
-The **Buy Now** tab contains the **Search**, **Advance Search**, and **Buying for** options. It also contains the following tabs:
+The **Buy Now** tab contains the **Search**, **Advanced Search**, and **Buying for** options. It also contains the following tabs:
 
 | Tab                 | Description                                                                                                                                                                              |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ The **Buy Now** tab contains the **Search**, **Advance Search**, and **Buying fo
 
 The **Purchase History** tab displays the complete purchase history based on the time range you choose from the **Show** menu.&#x20;
 
-It provides visibility into the full purchase history and provides links to all documents generated in the procurement cycle. This includes special quotes, and invoices along with PO, country, and amount details.&#x20;
+It provides visibility into the full purchase history and provides links to all documents generated in the procurement cycle. This includes special quotes, invoices along with PO, country, and amount details.&#x20;
 
 {% hint style="info" %}
 If you don't have permission to view your purchase history, contact your Account Manager.
