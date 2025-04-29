@@ -9,7 +9,7 @@
   * [Key Concepts](marketplace-platform/getting-started/key-concepts.md)
   * [Platform Interface](marketplace-platform/getting-started/interface/README.md)
     * [Manage Notification Preferences](marketplace-platform/getting-started/interface/manage-notification-preferences.md)
-    * [View Object Spotlight](marketplace-platform/getting-started/interface/view-object-spotlight.md)
+    * [View Object Spotlight](marketplace-platform/getting-started/interface/view-pending-tasks.md)
     * [Customize the Data Grid](marketplace-platform/getting-started/interface/customize-the-data-grid.md)
     * [View Information Cards](marketplace-platform/getting-started/interface/view-information-cards.md)
     * [Switch Accounts](marketplace-platform/getting-started/interface/switch-account.md)

@@ -14,7 +14,7 @@ In this release, we are introducing billing statements.
 
 In addition to invoices, you'll now receive statements containing a detailed record of charges for the subscriptions in your agreement. Billing statements are provided in the XLSX format. Unlike invoice PDFs, which only contain a summary of charges, statements include a comprehensive breakdown of all charges. See [Understand Your Billing Documents](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md) to learn more.
 
-We've also updated the platform's navigation menu to include the new Billing module. This module contains pages you can use to access your [Invoices ](../../modules-and-features/inventory/invoices.md)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
+We've also updated the platform's navigation menu to include the new Billing module. This module contains pages you can use to access your [Invoices ](../../modules-and-features/marketplace/billing/invoices/)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
 
 ## Deprecated Features
 
@@ -41,7 +41,7 @@ Individual users can also customize notification settings through their profile 
 
 The new **Spotlight** feature simplifies task management by highlighting key business objects that require your attention. These objects include your agreements, invoices, subscriptions, and more.
 
-For instance, if there are saved orders in your account, those orders are spotlighted so you can manage them easily. Similarly, subscriptions that are nearing expiration are also shown so you can take timely action. To learn more, see [View Object Spotlight](../../marketplace-platform/getting-started/interface/view-object-spotlight.md).
+For instance, if there are saved orders in your account, those orders are spotlighted so you can manage them easily. Similarly, subscriptions that are nearing expiration are also shown so you can take timely action. To learn more, see [View Object Spotlight](../../marketplace-platform/getting-started/interface/view-pending-tasks.md).
 
 You can find the **Spotlight** feature on the **Home** page, and it can also be accessed by selecting the spotlight icon <img src="../../.gitbook/assets/icon_pending_actions (1).png" alt="" data-size="line"> in the status bar.&#x20;
 

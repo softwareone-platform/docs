@@ -1,4 +1,4 @@
-# View Spotlighted Objects
+# View Object Spotlight
 
 The **Spotlight** widget on the **Home** page is designed to highlight key platform objects that may require your attention. These objects include your agreements, orders, subscriptions, invoices, and more.  For example, if you have any overdue invoices, they will be spotlighted so you can take the necessary action. Similarly, expiring subscriptions are also included, so you can manage the renewal on time.&#x20;
 

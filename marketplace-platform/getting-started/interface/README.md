@@ -54,7 +54,7 @@ The Help icon <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size
 
 ### Spotlight actions
 
-The Spotlight icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> opens the Spotlight widget displays all tasks requiring your attention. To learn more about this feature, see [View Spotlighted Objects](view-object-spotlight.md).
+The Spotlight icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> opens the Spotlight widget displays all tasks requiring your attention. To learn more about this feature, see [View Spotlighted Objects](view-pending-tasks.md).
 
 <figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>Spotlight widget</p></figcaption></figure>
 
