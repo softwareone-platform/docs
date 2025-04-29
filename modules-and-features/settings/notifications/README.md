@@ -22,7 +22,7 @@ Admins can manage these categories from the **Notifications** > **Subscribers** 
 
 Admins can view the notification categories and all the messages that have been triggered on the **Notifications** page. The page is available under **Settings** in the main menu.
 
-<div><figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Notifications page: Subscribers tab</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/notifications_message.png" alt=""><figcaption><p>Notifications page: Messages tab</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Notifications page</p></figcaption></figure>
 
 The **Notifications** page consists of the following tabs:
 
