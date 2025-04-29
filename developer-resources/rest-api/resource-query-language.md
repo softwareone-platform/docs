@@ -1,6 +1,6 @@
 # Resource Query Language
 
-Resource Query Language (RQL) is a query language used by the Marketplace Platform in its REST API.It is used for querying and manipulating resources in the Marketplace Platform's [REST API](./).&#x20;
+Resource Query Language (RQL) is a query language used by the Marketplace Platform in its REST API. It is used for querying and manipulating resources in the Marketplace Platform's [REST API](./).&#x20;
 
 With RQL, you can filter, sort, paginate, and project data. It is simple to use but flexible enough to handle complex scenarios.
 
