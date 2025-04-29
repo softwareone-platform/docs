@@ -33,7 +33,7 @@ We have now introduced a new status called **Quoted**, which will apply to order
 
 The new Notifications feature allows account administrators to configure and manage notification emails for their accounts.
 
-Admins can set recipients for these emails and manage categories to start or stop receiving notifications. This feature is accessible through the Settings menu. To learn more, see [Notifications](../../modules-and-features/settings/notifications/).&#x20;
+Admins can set recipients for these emails and manage categories to start or stop receiving notifications. This feature is accessible through the **Settings** menu. To learn more, see [Notifications](../../modules-and-features/settings/notifications/).&#x20;
 
 Individual users can also customize notification settings through their profile to determine what notifications to receive. See [Manage Notification Preferences](../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) for details.
 
@@ -65,7 +65,7 @@ The catalog is available to everyone and provides easy access to a wide range of
 
 ## Search Query in Data Grids
 
-As part of our ongoing effort to make our platform easier to work with, we've introduced a new filter condition called Search Query. You can find this condition within the **Filter** option in the data grid.
+As part of our ongoing effort to make our platform easier to work with, we've introduced a new filter condition called **Search Query**. You can find this condition within the **Filter** option in the data grid.
 
 This new condition allows you to enter a search term, which is then used to find matching records across other filter conditions, such as orders, agreements, and more.
 
