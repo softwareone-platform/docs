@@ -41,7 +41,7 @@ Individual users can also customize notification settings through their profile 
 
 The new **Spotlight** feature simplifies task management by highlighting key business objects that require your attention. These objects include your agreements, invoices, subscriptions, and more.
 
-For instance, if there are saved orders in your account, those orders are spotlighted so you can manage them easily. Similarly, subscriptions that are nearing expiration are also shown so you can take timely action. To learn more, see [View Object Spotlight](../../marketplace-platform/getting-started/interface/view-pending-tasks.md).
+For instance, if there are saved orders in your account, those orders are spotlighted so you can manage them easily. Similarly, subscriptions that are nearing expiration are also shown so you can take timely action. To learn more, see [View Object Spotlight](../../marketplace-platform/getting-started/interface/view-object-spotlight.md).
 
 You can find the **Spotlight** feature on the **Home** page, and it can also be accessed by selecting the spotlight icon <img src="../../.gitbook/assets/icon_pending_actions (1).png" alt="" data-size="line"> in the status bar.&#x20;
 
