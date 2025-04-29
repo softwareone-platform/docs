@@ -10,7 +10,7 @@ In this release, we are introducing billing statements.
 
 In addition to invoices, you'll now receive statements containing a detailed record of charges for the subscriptions in your agreement. Billing statements are provided in the XLSX format. Unlike invoice PDFs, which only contain a summary of charges, statements include a comprehensive breakdown of all charges. See [Understand Your Billing Documents](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md) to learn more.
 
-We've also updated the platform's navigation menu to include the new Billing module. This module contains pages you can use to access your [Invoices ](../../modules-and-features/marketplace/billing/invoices/)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
+We've also updated the platform's navigation menu to include the new **Billing** module. This module contains pages you can use to access your [Invoices ](../../modules-and-features/marketplace/billing/invoices/)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
 
 ## Deprecated Features
 
