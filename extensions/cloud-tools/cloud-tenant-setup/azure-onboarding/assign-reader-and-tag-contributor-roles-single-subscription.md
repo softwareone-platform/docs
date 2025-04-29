@@ -12,9 +12,9 @@ These roles allow the Client Portal to read a list of all the resources in your 
 Before granting access, ensure that you've [onboarded your tenant](activate-an-azure-ea-or-mpsa-account.md).
 {% endhint %}
 
-Follow these steps to grant access:
+To grant access to individual subscriptions:
 
-1. Launch the [Azure Portal](https://portal.azure.com/#home) and search for **Subscriptions**.
+1. In the [Azure Portal](https://portal.azure.com/#home), search for **Subscriptions**.
 2. On the **Subscriptions** page, choose the subscription you want to integrate with the Client Portal.
 
 <figure><img src="../../../../.gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
@@ -27,7 +27,7 @@ Follow these steps to grant access:
 
 <figure><img src="../../../../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
-5. Click **Add** > **Add role assignment**.&#x20;
+5. Select **Add** > **Add role assignment**.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 
@@ -39,6 +39,6 @@ Follow these steps to grant access:
 
 <figure><img src="../../../../.gitbook/assets/image (437).png" alt=""><figcaption></figcaption></figure>
 
-The access is granted.&#x20;
+Access is granted.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure>

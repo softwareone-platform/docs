@@ -141,7 +141,7 @@
     * [Create New Group](modules-and-features/settings/groups/create-new-group.md)
     * [Edit Group](modules-and-features/settings/groups/edit-group.md)
     * [Delete Group](modules-and-features/settings/groups/delete-group.md)
-    * [Restrict Group to Certain Buyers](modules-and-features/settings/groups/restrict-group-to-certain-buyers.md)
+    * [Restrict Groups to Certain Buyers](modules-and-features/settings/groups/restrict-group-to-certain-buyers.md)
   * [Licensees](modules-and-features/settings/licensees/README.md)
     * [Licensee States](modules-and-features/settings/licensees/licensee-states.md)
     * [Create Licensee](modules-and-features/settings/licensees/create-licensees.md)
@@ -165,9 +165,9 @@
 ## EXTENSIONS
 
 * [Adobe VIP Marketplace](extensions/adobe-vip-marketplace/README.md)
-  * [Migrating from Adobe VIP](extensions/adobe-vip-marketplace/migration-from-vip.md)
-  * [Downsize and termination policies](extensions/adobe-vip-marketplace/downsize-and-termination-policies.md)
-  * [Common error messages](extensions/adobe-vip-marketplace/common-error-messages.md)
+  * [Migrate from Adobe VIP](extensions/adobe-vip-marketplace/migration-from-vip.md)
+  * [Downsize and Termination Policies](extensions/adobe-vip-marketplace/downsize-and-termination-policies.md)
+  * [Common Error Messages](extensions/adobe-vip-marketplace/common-error-messages.md)
   * [Tutorials](extensions/adobe-vip-marketplace/tutorials-and-videos/README.md)
     * [Order Adobe Subscriptions](extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
     * [Order New Adobe Items](extensions/adobe-vip-marketplace/tutorials-and-videos/order-new-adobe-items.md)

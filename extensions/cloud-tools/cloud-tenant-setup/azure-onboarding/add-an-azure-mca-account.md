@@ -10,7 +10,7 @@ To verify, select **Cost Management + Billing** and then navigate to **Settings*
 
 ## Assigning the Billing Account Reader role (Azure Portal)
 
-Follow these steps to assign the **Billing account reader** role to the Client Portal through Azure:
+To assign the **Billing account reader** role to the Client Portal through Azure:
 
 1. In the [Azure Portal](https://portal.azure.com), search for **Cost Management + Billing**.
 2. In the left navigation pane, select **Billing scopes** and then select your MCA billing scope.
@@ -21,7 +21,7 @@ Follow these steps to assign the **Billing account reader** role to the Client P
 
 <figure><img src="../../../../.gitbook/assets/image (1156).png" alt=""><figcaption><p>Access Control (IAM)</p></figcaption></figure>
 
-4. On the **Access Control (IAM)** tab, click **Add > Add role assignment**. The **Add role assignment** pane opens. From the **Role** list, select the **Billing account reader** role.
+4. On the **Access Control (IAM)** tab, select **Add > Add role assignment**. The **Add role assignment** pane opens. From the **Role** list, select the **Billing account reader** role.
 
 <figure><img src="../../../../.gitbook/assets/image (1154).png" alt=""><figcaption><p>Add role assignment</p></figcaption></figure>
 
@@ -29,7 +29,7 @@ Follow these steps to assign the **Billing account reader** role to the Client P
 
 <figure><img src="../../../../.gitbook/assets/image (1155).png" alt=""><figcaption><p>Select members</p></figcaption></figure>
 
-6. Click **Save**. Your MCA billing data will be synchronized with the Client Portal after 24 hours.
+6. Select**Save**. Your MCA billing data will be synchronized with the Client Portal after 24 hours.
 
 ## Next steps
 

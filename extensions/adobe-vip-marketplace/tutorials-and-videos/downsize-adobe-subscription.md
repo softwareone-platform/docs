@@ -18,15 +18,15 @@ Before starting this tutorial, make sure that the subscription you want to downs
 {% step %}
 **Open the subscription to downsize**
 
-Navigate to the **Subscriptions** page on the platform. Then, select the required subscription.
+Navigate to the **Subscriptions** page. Then, select the required subscription.
 
-On the subscription details page, select **Edit** to launch the **Edit Subscription** wizard.
+On the subscription details page, select **Edit** to launch the **Edit subscription** wizard.
 {% endstep %}
 
 {% step %}
 **Complete the steps in the Edit Subscription wizard**
 
-1. In the **Items** step, enter the new number in the **New qty** field. In the following image, the quantity of both items is reduced from **20** to **19**.
+1. In the **Items** step, enter the new number in the **New qty** field. In the following image, the quantity of both items is lowered from **20** to **19**.
 
 <figure><img src="../../../.gitbook/assets/downsize_subscription_change_qty.png" alt=""><figcaption><p>Items section</p></figcaption></figure>
 

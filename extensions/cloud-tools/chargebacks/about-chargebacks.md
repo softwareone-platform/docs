@@ -1,7 +1,3 @@
----
-description: Learn about the access levels and settings, and create new chargebacks.
----
-
 # About Chargebacks
 
 ## Document management <a href="#document-management" id="document-management"></a>
@@ -220,7 +216,7 @@ Once all the selections are made and the preview looks good, Admins can go ahead
 
 <figure><img src="../../../.gitbook/assets/image (700).png" alt=""><figcaption></figcaption></figure>
 
-Admins will be taken to the “Chargeback” page where they can see the invoices being generated. This is shown in the right-hand “Status” column as “Generating”.
+Admins will be taken to the “Chargeback” page, where they can see the invoices being generated. This is shown in the right-hand “Status” column as “Generating”.
 
 <figure><img src="../../../.gitbook/assets/image (701).png" alt=""><figcaption></figcaption></figure>
 
@@ -273,16 +269,16 @@ The top 4 reports in the table gather data about existing Chargeback documents. 
 
 ### Scheduled Generation <a href="#scheduled-generation" id="scheduled-generation"></a>
 
-Scheduled reports enable periodic reporting with automatic delivery capabilities. The scheduled report definition represents a “future report form” which will be filled with appropriate data. Both the data set and time of running the report can be customized to meet business requirements.
+Scheduled reports enable periodic reporting with automatic delivery capabilities. The scheduled report definition represents a “future report form” which will be filled with appropriate data. Both the data set and the time of running the report can be customized to meet business requirements.
 
 Reports are gathered under the **Scheduled** Tab.
 
 <figure><img src="../../../.gitbook/assets/image (703).png" alt=""><figcaption></figcaption></figure>
 
-## **New Scheduled Report**
+## **New scheduled report**
 
 To create a new Scheduled Report, select **Add New Schedule** in the top right corner of the Chargebacks page.&#x20;
 
-This will open the Schedule Report page where you can follow the steps and fill in the required information for your report.
+This will open the Schedule Report page, where you can follow the steps and fill in the required information for your report.
 
 <figure><img src="../../../.gitbook/assets/image (704).png" alt=""><figcaption></figcaption></figure>

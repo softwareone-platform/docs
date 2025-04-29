@@ -10,11 +10,11 @@ You can view and manage your agreements from the **Agreements** page in the plat
 
 ## Viewing agreement details <a href="#subscription-details" id="subscription-details"></a>
 
-To view the details page, select the agreement name on the **Agreements** page.&#x20;
+To view the full details of an agreement, select the agreement name on the **Agreements** page.&#x20;
 
 <figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt=""><figcaption><p>Agreement details page</p></figcaption></figure>
 
-At the top of the details page, you can see some general details of the agreement.&#x20;
+At the top of the details page, you can see general details of the agreement.&#x20;
 
 The details page also contains tabs that give you all of the information about the agreement. The following table lists these tabs:
 
@@ -29,4 +29,4 @@ You can also perform various actions on the details page. The available actions 
 * [Terminate the agreement](terminate-agreements.md)
 * [Activate split billing and manage allocation for certain products](../billing/)
 * [View and download attachments](view-and-download-attachments.md)
-* [Edit the client ID for the agreement](edit-agreement-id.md)
+* [Update the client ID for the agreement](edit-agreement-id.md)

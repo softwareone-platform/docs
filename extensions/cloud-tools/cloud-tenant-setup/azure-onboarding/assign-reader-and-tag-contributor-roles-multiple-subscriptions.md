@@ -63,7 +63,7 @@ Before granting access through the Azure Portal, note the following points:
 
 <figure><img src="../../../../.gitbook/assets/IAM (1).png" alt=""><figcaption><p>Access control (IAM)</p></figcaption></figure>
 
-2. Click **Add** > **Add role assignment**. The Add role assignment page opens.
+2. Select **Add** > **Add role assignment**. The Add role assignment page opens.
 
 <figure><img src="../../../../.gitbook/assets/IAM-2 (1).png" alt=""><figcaption><p>Add role assignment</p></figcaption></figure>
 {% endstep %}
@@ -71,17 +71,17 @@ Before granting access through the Azure Portal, note the following points:
 {% step %}
 ### Assign the Reader role
 
-1. On the **Role** tab, select **Reader** as the role and click **Next**.&#x20;
+1. On the **Role** tab, select **Reader** as the role and then select **Next**.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/roles.png" alt=""><figcaption><p>Reader role</p></figcaption></figure>
 
-2. On the **Members** tab, select **User, group, or service principal** if it's not selected by default, and click **Select members**. &#x20;
+2. On the **Members** tab, select **User, group, or service principal** if it's not selected by default. Then, choose **Select members**. &#x20;
 
 <figure><img src="../../../../.gitbook/assets/members.png" alt=""><figcaption><p>Select Members</p></figcaption></figure>
 
 3. In the **Select members** panel, search for **SoftwareOne Cloud Consumption** (formerly PyraCloud Azure).&#x20;
-4. Click **Select** to add the enterprise application to the **Members** list. Once the app is added, click **Review + assign**.
-5. On the **Review + assign tab**, review the details and click **Review + assign** to confirm the role assignment.&#x20;
+4. Use **Select** to add the enterprise application to the **Members** list. After the app has been added, select **Review + assign**.
+5. On the **Review + assign tab**, review the details and select **Review + assign** to confirm the role assignment.&#x20;
 {% endstep %}
 
 {% step %}
@@ -89,7 +89,7 @@ Before granting access through the Azure Portal, note the following points:
 
 To assign the Tag Contributor role, follow all the steps in [Step 3: Assign the Reader role](assign-reader-and-tag-contributor-roles-multiple-subscriptions.md#step-3-assign-the-reader-role), but choose **Tag Contributor** as your role instead of Reader.&#x20;
 
-After you've completed the steps, the roles are assigned and displayed on the **Role assignments** tab.
+After completing the steps, the roles are assigned and displayed on the **Role assignments** tab.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-02-15 155343.png" alt=""><figcaption><p>Role assignment</p></figcaption></figure>
 {% endstep %}

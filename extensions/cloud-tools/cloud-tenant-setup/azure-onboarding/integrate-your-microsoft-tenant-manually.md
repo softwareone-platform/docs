@@ -5,12 +5,12 @@ This topic describes how to manually integrate your Azure tenant and assign the 
 Integrating a Microsoft tenant involves the following steps:
 
 1. Granting consent to the Client Portal in your Azure tenant.
-2. Assigning the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) access roles to the Client Portal using Azure Management Groups. The **Tag Contributor** and **Reader** roles allow the Client Portal to read a list of all the resources in your Azure subscription, and read and write tags on those resources. You can control whether you want the Client Portal to write tags back to resources in your Azure subscription. For more information, see [Syncing your tags to Azure](activate-an-azure-ea-or-mpsa-account.md#syncing-your-tags-to-azure).
+2. Assigning the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) access roles to the Client Portal using Azure Management Groups. The **Tag Contributor** and **Reader** roles allow the Client Portal to read a list of all the resources in your Azure subscription and read and write tags on those resources. You can control whether you want the Client Portal to write tags back to resources in your Azure subscription. For more information, see [Syncing your tags to Azure](activate-an-azure-ea-or-mpsa-account.md#syncing-your-tags-to-azure).
 3. Providing the details to SoftwareOne to complete your onboarding.
 
 ## Granting consent through your Azure tenant <a href="#providing-consent-to-pyracloud-in-your-azure-tenant" id="providing-consent-to-pyracloud-in-your-azure-tenant"></a>
 
-Follow these steps to grant consent through your Azure tenant:
+To grant consent through your Azure tenant:
 
 1. Select one of the following links:
    * [Azure](https://login.microsoftonline.com/common/oauth2/authorize?response_type=code\&client_id=2a4807a4-d9e4-457d-b32f-a455e0d3662a\&prompt=consent\&redirect_uri=https://www.softwareone.com/)
@@ -20,7 +20,7 @@ Follow these steps to grant consent through your Azure tenant:
 
 ## Assigning the Tag Contributor and Reader access roles   <a href="#granting-access-to-pyracloud-with-azure-management-groups" id="granting-access-to-pyracloud-with-azure-management-groups"></a>
 
-Follow these steps to assign the Tag Contributor and Reader access roles:
+To assign the Tag Contributor and Reader access roles:
 
 1. Launch the [Azure Portal](https://portal.azure.com/) and search for **Management groups**.
 2. On the **Management groups** page, select **Start using management groups**.

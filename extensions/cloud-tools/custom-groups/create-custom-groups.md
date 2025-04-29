@@ -6,10 +6,10 @@ description: You can create, remove, and manage custom groups.
 
 ## Creating custom groups <a href="#navigate-to-custom-groups" id="navigate-to-custom-groups"></a>
 
-Follow these steps to create custom groups:
+To create custom groups:
 
-1. From the main menu, navigate to **Cloud tools >** **Custom Groups**.&#x20;
-2. Click **Create a group** to start building the group structure.&#x20;
+1. Navigate to **Cloud tools >** **Custom Groups**.&#x20;
+2. Select **Create a group** to start building the group structure.&#x20;
 3.  On the **Edit Group Structure** page, set up the structure levels. Choose Tag Keys as Structure Levels.&#x20;
 
     <figure><img src="../../../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>

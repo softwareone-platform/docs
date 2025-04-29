@@ -34,3 +34,4 @@ You can perform various actions on the details page. The available actions depen
 
 * [Edit group](edit-group.md)
 * [Delete group](delete-group.md)
+* [Restrict groups to certain buyers](restrict-group-to-certain-buyers.md)

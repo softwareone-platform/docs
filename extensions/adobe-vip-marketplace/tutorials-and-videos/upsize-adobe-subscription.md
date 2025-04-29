@@ -23,19 +23,19 @@ Before starting this tutorial, make sure that your Adobe agreement and the subsc
 {% step %}
 **Open the subscription to upsize**
 
-Navigate to the **Subscriptions** page on the platform. Then, select the required subscription.
+Navigate to the **Subscriptions** page. Then, select the required subscription.
 
-On the subscription details page, select **Edit** to launch the **Edit Subscription** wizard.
+On the subscription's details page, select **Edit** to launch the **Edit subscription** wizard.
 {% endstep %}
 
 {% step %}
 **Complete the steps in the Edit Subscription wizard**
 
-1. In the **Items** step, enter the new quantity for the subscription in the **New qty** field. In the following image, the quantity is increased from **20** to **21**. Then, select **Next**.
+1. In the **Items** step, enter the new quantity in the **New qty** field, then select **Next**. In the following image, the quantity is increased from **20** to **21**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/edit_subscription.png" alt=""><figcaption><p>Edit quantity</p></figcaption></figure>
 
-2. In the **Details** step, enter the reference information as needed, then select **Next**.
+2. In the **Details** step, enter the reference information as needed and select **Next**.
 3. In the **Review** step, select **Place order** to place your termination order for the subscription.
 4. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}

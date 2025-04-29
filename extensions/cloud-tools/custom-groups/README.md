@@ -112,11 +112,5 @@ The recommendation is to define 3 dimensions:
 
 
 {% hint style="info" %}
-The primary purpose of Custom Groups is to create a multi-dimensional and hierarchical view as preparation for any further use in the Client Portal. It builds on top of Resources. The Resources component is responsible for the synchronization back to the cloud provider. Custom Groups allow changes to the structure and assignment of resources but maintain the changes in their own database. Changes made anywhere within Custom Groups are then applied to Resources and are visible there.
+The primary purpose of Custom Groups is to create a multi-dimensional and hierarchical view as preparation for any further use in the Client Portal. It builds on top of Resources. The Resources component is responsible for synchronization back to the cloud provider. Custom Groups allow changes to the structure and assignment of resources, but maintain the changes in their own database. Changes made anywhere within Custom Groups are then applied to Resources and are visible there.
 {% endhint %}
-
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/custom-groups/create-custom-groups" %}
-[Create Custom Groups](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/custom-groups/create-custom-groups)
-{% endcontent-ref %}

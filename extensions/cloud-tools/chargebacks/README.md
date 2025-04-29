@@ -24,17 +24,11 @@ It is possible to generate a summary document and split it by tenants and subscr
 
 Chargebacks have two access levels called User and Admin. If you need to get your access level changed, contact your SoftwareOne Account Team.
 
-* **User Level -** Individuals with this access level can only see the **Chargebacks** tab. The **Add New Chargebacks** page will not be available to individuals with User level access. User Level Access is for users who need to view chargebacks but don't need to create chargebacks. These users can then access the document details to analyze the charges using the Consumption module. This will give users detailed information on the relevant chargeback.
+* **User Level -** Individuals with this access level can only see the **Chargebacks** tab. The **Add New Chargebacks** page will not be available to individuals with user-level access. User Level Access is for users who need to view chargebacks but don't need to create chargebacks. These users can then access the document details to analyze the charges using the Consumption module. This will give users detailed information on the relevant chargeback.
 * **Admin Level -** Users with this access level can access the **Chargeback and Add New Chargebacks** tabs. Admins can view, create, modify, and delete chargebacks.
 
 ## Accessing Chargebacks <a href="#navigating-to-chargebacks" id="navigating-to-chargebacks"></a>
 
 To access chargebacks, navigate to **Cloud tools > Chargebacks**.&#x20;
 
-On the Chargebacks page, you can view the **Chargebacks** and **Settings** tab. You can also view scheduled reports, add a new schedule, or add new chargebacks.
-
-## Related topics
-
-{% content-ref url="https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/chargebacks/about-chargebacks" %}
-[About Chargebacks](https://app.gitbook.com/s/B8rr5E9BB4HBPts7pBng/extensions/cloud-tools/chargebacks/about-chargebacks)
-{% endcontent-ref %}
+On the **Chargebacks** page, you can view the **Chargebacks** and **Settings** tab. You can also view scheduled reports, add a new schedule, or add new chargebacks.
