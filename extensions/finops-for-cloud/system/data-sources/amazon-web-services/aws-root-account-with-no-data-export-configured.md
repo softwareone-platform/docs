@@ -10,13 +10,13 @@ If you connect the root account but don't connect the linked accounts, all expen
 
 To track a new AWS Data Source in your FinOps for Cloud account, select **AWS Root** on the **Connect Data Source** page:
 
-<figure><img src="../../../../../.gitbook/assets/ffc_aws_root.png" alt=""><figcaption><p>AWS Root option on the Connect Data Source page</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/ffc_aws_linked.png" alt=""><figcaption></figcaption></figure>
 
-## Creating automated billing bucket and data export <a href="#automated-billing-bucket-and-data-export-creation-with-optscale" id="automated-billing-bucket-and-data-export-creation-with-optscale"></a>
+## Creating an automated billing bucket and data export <a href="#automated-billing-bucket-and-data-export-creation-with-optscale" id="automated-billing-bucket-and-data-export-creation-with-optscale"></a>
 
 {% stepper %}
 {% step %}
-### Create a user policy for bucket and export creation access
+### Create a user policy for the bucket and export creation access
 
 Go to **Identity and Access Management (IAM)** > **Policies**. Create a new policy for fully automatic configuration (both bucket and export are created) (`<bucket_name>` must be replaced in the policy):
 
@@ -110,7 +110,7 @@ After creating the Data Source, wait for AWS to generate the export and upload i
 
 ## Discovering resources <a href="#discover-resources" id="discover-resources"></a>
 
-FinOps for Cloud must have permissions configured in AWS for the data source to correctly discover resources and display them under a respective section of the dashboard.
+FinOps for Cloud must have permissions configured in AWS for the data source to correctly discover resources and display them under the respective section of the dashboard.
 
 Make sure to include the following policy for FinOps to be able to parse EC2 resource data:
 
@@ -144,7 +144,7 @@ Make sure to include the following policy for FinOps to be able to parse EC2 res
 
 Your AWS Data Source is ready for integration with FinOps for Cloud.
 
-## Creating data export manually in AWS <a href="#create-data-export-in-aws-manually" id="create-data-export-in-aws-manually"></a>
+## Creating a data export manually in AWS <a href="#create-data-export-in-aws-manually" id="create-data-export-in-aws-manually"></a>
 
 To utilize automatic or manual billing data import in FinOps, you must create a Data Export in AWS. To learn about Data Exports, see [What is AWS Data Exports?](https://docs.aws.amazon.com/cur/latest/userguide/what-is-data-exports.html)&#x20;
 

@@ -2,11 +2,11 @@
 
 This topic describes how to connect your Google Cloud Platform (GCP) account to SoftwareOne's FinOps for Cloud. When connecting your account, you will need to provide the billing data details, such as the dataset name and table name.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/GCP.png" alt=""><figcaption><p>Google Cloud data source</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ffc_gcp.png" alt=""><figcaption><p>Google Cloud data source</p></figcaption></figure>
 
 ## Enabling billing export <a href="#enable-billing-export" id="enable-billing-export"></a>
 
-To enable billing data export, see [Set up Cloud Billing data export to BigQuery](https://cloud.google.com/billing/docs/how-to/export-data-bigquery-setup) in Google documentation.
+To enable billing data export, see [Set up Cloud Billing data export to BigQuery](https://cloud.google.com/billing/docs/how-to/export-data-bigquery-setup) in the Google documentation.
 
 After you have enabled billing data export, a new table is displayed in your BigQuery project.&#x20;
 

@@ -6,10 +6,10 @@ Selecting **AWS Linked** makes the registration flow easier, eliminating the opt
 
 Provide the **AWS access key ID** and **AWS secret access key**, and click **Connect** to create a Data Source in FinOps. If the provided values are invalid, an error message is displayed.
 
-<figure><img src="../../../../../.gitbook/assets/aws_linked.png" alt=""><figcaption><p>AWS Linked option on the Connect Data Source page</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/ffc_aws_linked.png" alt=""><figcaption><p>AWS Linked option on the Connect Data Source page</p></figcaption></figure>
 
 {% hint style="info" %}
-If you only specify an **AWS Linked account** without providing credentials for the main one, FinOps for Cloud won't be able to import any billing data.
+If you only specify an **AWS-linked account** without providing credentials for the main one, FinOps for Cloud won't be able to import any billing data.
 {% endhint %}
 
 ### Discovering resources <a href="#discover-resources" id="discover-resources"></a>

@@ -10,7 +10,7 @@ If you connect the root account but don't connect linked accounts, all expenses 
 
 To track a new AWS Data Source in your account, select **AWS Root** on the **Connect Data Source** page:&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/ffc_aws_root.png" alt=""><figcaption><p>AWS Root option on the Connect Data Source page</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/ffc_aws_edit.png" alt=""><figcaption><p>AWS Root option on the Connect Data Source page</p></figcaption></figure>
 
 ## Automatic billing data import in AWS <a href="#automatic-billing-data-import-in-aws" id="automatic-billing-data-import-in-aws"></a>
 

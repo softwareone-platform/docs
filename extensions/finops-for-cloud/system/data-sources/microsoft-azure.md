@@ -2,7 +2,7 @@
 
 To track a new Azure Data Source in your FinOps for Cloud account, select **Azure subscription** on the **Connect Data Source** page.
 
-<figure><img src="../../../../.gitbook/assets/azure_subscription.png" alt=""><figcaption><p>Azure subscription option</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/ffc_azure.png" alt=""><figcaption><p>Azure subscription option</p></figcaption></figure>
 
 1. **Name** - Specify the preferred name for this Data Source.
 2. **Directory (tenant) ID** - Directory (tenant) ID is a globally unique identifier (GUID) that is different from your organization name or domain. Its value is available in the overview of the application, added via **App registrations**. To find the value, go to Home > App registrations > e.g. _OptScale_ > Overview > Directory (tenant) ID.
