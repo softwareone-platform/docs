@@ -1,7 +1,3 @@
----
-description: Discover our newest release.
----
-
 # Release Notes v4
 
 **Release Date: 15 May 2025**
