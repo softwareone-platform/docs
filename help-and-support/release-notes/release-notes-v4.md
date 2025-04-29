@@ -1,7 +1,78 @@
 ---
 description: Discover our newest release.
-hidden: true
 ---
 
 # Release Notes v4
 
+**Release Date: 15 May 2025**
+
+Our latest release, Marketplace Platform v4, is here. This release introduces several new features to enhance our platform's capabilities and improve existing functionalities.
+
+## Billing Invoices and Statements
+
+In this release, we are introducing billing statements.
+
+In addition to invoices, you'll now receive statements containing a detailed record of charges for the subscriptions in your agreement. Billing statements are provided in the XLSX format. Unlike invoice PDFs, which only contain a summary of charges, statements include a comprehensive breakdown of all charges. See [Understand Your Billing Documents](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md) to learn more.
+
+We've also updated the platform's navigation menu to include the new Billing module. This module contains pages you can use to access your [Invoices ](../../modules-and-features/inventory/invoices.md)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
+
+## Deprecated Features
+
+The following features have been deprecated and are no longer supported by the Marketplace Platform:
+
+* 365EA + Unified Support
+* Unified Support for Multivendor
+
+## New Order Status
+
+Previously, the **Draft** status was used to identify orders that you intentionally saved for later.
+
+We have now introduced a new status called **Quoted**, which will apply to orders, including purchase, change, and termination orders, saved for later. The **Draft** status is now only used for orders that are created by the platform for validation purposes. To learn more, see [Order States](../../modules-and-features/marketplace/orders/order-states.md).
+
+## Notifications Management
+
+The new Notifications feature allows account administrators to configure and manage notification emails for their accounts.
+
+Admins can set recipients for these emails and manage categories to start or stop receiving notifications. This feature is accessible through the Settings menu. To learn more, see [Notifications](../../modules-and-features/settings/notifications/).&#x20;
+
+Individual users can also customize notification settings through their profile to determine what notifications to receive. See [Manage Notification Preferences](../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) for details.
+
+## Object Spotlight
+
+The new **Spotlight** feature simplifies task management by highlighting key business objects that require your attention. These objects include your agreements, invoices, subscriptions, and more.
+
+For instance, if there are saved orders in your account, those orders are spotlighted so you can manage them easily. Similarly, subscriptions that are nearing expiration are also shown so you can take timely action. To learn more, see [View Object Spotlight](../../marketplace-platform/getting-started/interface/view-pending-tasks.md).
+
+You can find the **Spotlight** feature on the **Home** page, and it can also be accessed by selecting the spotlight icon <img src="../../.gitbook/assets/icon_pending_actions (1).png" alt="" data-size="line"> in the status bar.&#x20;
+
+<figure><img src="../../.gitbook/assets/spotlight.png" alt=""><figcaption><p>Spotlight widget</p></figcaption></figure>
+
+## Order Reminder Email
+
+If there's an order in your account that has been created but not placed yet, you can now send an order reminder email to remind an individual about this order.
+
+Reminders can be sent to users within your account and to those who are not in your account but are registered users on the platform. Reminders can be sent for orders in the **Quoted** status only. To learn more, see [Send Order Reminder Email](../../modules-and-features/marketplace/orders/send-order-reminder-email.md).
+
+## Public Catalog
+
+We are excited to announce the launch of our public catalog, available at marketplace. softwareone.com.
+
+Designed for intuitive navigation, our catalog ensures a seamless browsing experience and simplifies your software procurement journey.
+
+The catalog is available to everyone and provides easy access to a wide range of software products and services. You can explore products from over 56,000 vendors across categories, including healthcare, finance, analytics, and more.
+
+<figure><img src="../../.gitbook/assets/release_notes_catalog.png" alt=""><figcaption><p>SoftwareOne Public Catalog</p></figcaption></figure>
+
+## Search Query in Data Grids
+
+As part of our ongoing effort to make our platform easier to work with, we've introduced a new filter condition called Search Query. You can find this condition within the **Filter** option in the data grid.
+
+This new condition allows you to enter a search term, which is then used to find matching records across other filter conditions, such as orders, agreements, and more.
+
+<figure><img src="../../.gitbook/assets/search_query.png" alt=""><figcaption><p>Search query filter</p></figcaption></figure>
+
+## Subscription Automatic Renewals
+
+You can now easily manage the automatic renewal of your subscriptions through the platform's interface.
+
+If you prefer not to have your subscription renewed automatically, you can disable the auto-renewal. Additionally, if you previously disabled automatic renewal, you can re-enable it at any time. To learn more, see [Manage Automatic Renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
