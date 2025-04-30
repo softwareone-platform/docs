@@ -23,6 +23,10 @@
                 "properties": {
                   "account": {
                     "properties": {
+                      "ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
+                      },
                       "ExternalId": {
                         "type": "string"
                       },
@@ -203,6 +207,9 @@
               },
               "encoding": {
                 "Logo": {
+                  "style": "form"
+                },
+                "ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "ExternalId": {
@@ -643,6 +650,10 @@
                 "properties": {
                   "account": {
                     "properties": {
+                      "ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
+                      },
                       "ExternalId": {
                         "type": "string"
                       },
@@ -823,6 +834,9 @@
               },
               "encoding": {
                 "Logo": {
+                  "style": "form"
+                },
+                "ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "ExternalId": {
@@ -1136,8 +1150,8 @@
           }
         ],
         "responses": {
-          "301": {
-            "description": "Moved Permanently"
+          "307": {
+            "description": "Temporary Redirect"
           },
           "404": {
             "description": "Not Found",
@@ -3747,6 +3761,10 @@
                       "TaxId": {
                         "type": "string"
                       },
+                      "Account.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
+                      },
                       "Account.ExternalId": {
                         "type": "string"
                       },
@@ -3991,6 +4009,10 @@
                         "items": {
                           "$ref": "#/components/schemas/AccountQueryModel"
                         }
+                      },
+                      "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
                       },
                       "Contact.User.CurrentAccount.ExternalId": {
                         "type": "string"
@@ -4582,6 +4604,9 @@
                 "TaxId": {
                   "style": "form"
                 },
+                "Account.ExternalIds.PyraTenantId": {
+                  "style": "form"
+                },
                 "Account.ExternalId": {
                   "style": "form"
                 },
@@ -4796,6 +4821,9 @@
                   "style": "form"
                 },
                 "Contact.User.Accounts": {
+                  "style": "form"
+                },
+                "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "Contact.User.CurrentAccount.ExternalId": {
@@ -5633,6 +5661,10 @@
                       "TaxId": {
                         "type": "string"
                       },
+                      "Account.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
+                      },
                       "Account.ExternalId": {
                         "type": "string"
                       },
@@ -5877,6 +5909,10 @@
                         "items": {
                           "$ref": "#/components/schemas/AccountQueryModel"
                         }
+                      },
+                      "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
                       },
                       "Contact.User.CurrentAccount.ExternalId": {
                         "type": "string"
@@ -6468,6 +6504,9 @@
                 "TaxId": {
                   "style": "form"
                 },
+                "Account.ExternalIds.PyraTenantId": {
+                  "style": "form"
+                },
                 "Account.ExternalId": {
                   "style": "form"
                 },
@@ -6682,6 +6721,9 @@
                   "style": "form"
                 },
                 "Contact.User.Accounts": {
+                  "style": "form"
+                },
+                "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "Contact.User.CurrentAccount.ExternalId": {
@@ -7425,8 +7467,215 @@
           }
         ],
         "responses": {
-          "301": {
-            "description": "Moved Permanently"
+          "307": {
+            "description": "Temporary Redirect"
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/accounts/cloud-tenants": {
+      "post": {
+        "tags": [
+          "CloudTenants"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCloudTenantDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCloudTenantDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCloudTenantDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Created",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CloudTenantQueryModel"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "CloudTenants"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CloudTenantQueryModelListResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/v1/accounts/cloud-tenants/{id}": {
+      "delete": {
+        "tags": [
+          "CloudTenants"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": "No Content"
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "CloudTenants"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CloudTenantQueryModel"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CloudTenantQueryModel"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CloudTenantQueryModel"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CloudTenantQueryModel"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not Found",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProblemDetails"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "CloudTenants"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "select",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/CloudTenantQueryModel"
+                }
+              }
+            }
           },
           "404": {
             "description": "Not Found",
@@ -8287,6 +8536,10 @@
                       "Description": {
                         "type": "string"
                       },
+                      "Account.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
+                      },
                       "Account.ExternalId": {
                         "type": "string"
                       },
@@ -8494,6 +8747,10 @@
                       },
                       "Buyer.TaxId": {
                         "type": "string"
+                      },
+                      "Buyer.Account.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
                       },
                       "Buyer.Account.ExternalId": {
                         "type": "string"
@@ -8739,6 +8996,10 @@
                         "items": {
                           "$ref": "#/components/schemas/AccountQueryModel"
                         }
+                      },
+                      "Buyer.Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
                       },
                       "Buyer.Contact.User.CurrentAccount.ExternalId": {
                         "type": "string"
@@ -9493,6 +9754,10 @@
                           "$ref": "#/components/schemas/AccountQueryModel"
                         }
                       },
+                      "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
+                      },
                       "Contact.User.CurrentAccount.ExternalId": {
                         "type": "string"
                       },
@@ -9959,6 +10224,9 @@
                 "Description": {
                   "style": "form"
                 },
+                "Account.ExternalIds.PyraTenantId": {
+                  "style": "form"
+                },
                 "Account.ExternalId": {
                   "style": "form"
                 },
@@ -10146,6 +10414,9 @@
                   "style": "form"
                 },
                 "Buyer.TaxId": {
+                  "style": "form"
+                },
+                "Buyer.Account.ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "Buyer.Account.ExternalId": {
@@ -10362,6 +10633,9 @@
                   "style": "form"
                 },
                 "Buyer.Contact.User.Accounts": {
+                  "style": "form"
+                },
+                "Buyer.Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "Buyer.Contact.User.CurrentAccount.ExternalId": {
@@ -11019,6 +11293,9 @@
                   "style": "form"
                 },
                 "Contact.User.Accounts": {
+                  "style": "form"
+                },
+                "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "Contact.User.CurrentAccount.ExternalId": {
@@ -11493,6 +11770,10 @@
                       "Description": {
                         "type": "string"
                       },
+                      "Account.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
+                      },
                       "Account.ExternalId": {
                         "type": "string"
                       },
@@ -11700,6 +11981,10 @@
                       },
                       "Buyer.TaxId": {
                         "type": "string"
+                      },
+                      "Buyer.Account.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
                       },
                       "Buyer.Account.ExternalId": {
                         "type": "string"
@@ -11945,6 +12230,10 @@
                         "items": {
                           "$ref": "#/components/schemas/AccountQueryModel"
                         }
+                      },
+                      "Buyer.Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
                       },
                       "Buyer.Contact.User.CurrentAccount.ExternalId": {
                         "type": "string"
@@ -12699,6 +12988,10 @@
                           "$ref": "#/components/schemas/AccountQueryModel"
                         }
                       },
+                      "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
+                      },
                       "Contact.User.CurrentAccount.ExternalId": {
                         "type": "string"
                       },
@@ -13165,6 +13458,9 @@
                 "Description": {
                   "style": "form"
                 },
+                "Account.ExternalIds.PyraTenantId": {
+                  "style": "form"
+                },
                 "Account.ExternalId": {
                   "style": "form"
                 },
@@ -13352,6 +13648,9 @@
                   "style": "form"
                 },
                 "Buyer.TaxId": {
+                  "style": "form"
+                },
+                "Buyer.Account.ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "Buyer.Account.ExternalId": {
@@ -13568,6 +13867,9 @@
                   "style": "form"
                 },
                 "Buyer.Contact.User.Accounts": {
+                  "style": "form"
+                },
+                "Buyer.Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "Buyer.Contact.User.CurrentAccount.ExternalId": {
@@ -14225,6 +14527,9 @@
                   "style": "form"
                 },
                 "Contact.User.Accounts": {
+                  "style": "form"
+                },
+                "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "Contact.User.CurrentAccount.ExternalId": {
@@ -14828,8 +15133,8 @@
           }
         ],
         "responses": {
-          "301": {
-            "description": "Moved Permanently"
+          "307": {
+            "description": "Temporary Redirect"
           },
           "404": {
             "description": "Not Found",
@@ -19355,8 +19660,8 @@
           }
         ],
         "responses": {
-          "301": {
-            "description": "Moved Permanently"
+          "307": {
+            "description": "Temporary Redirect"
           },
           "400": {
             "description": "Bad Request",
@@ -19964,8 +20269,8 @@
           }
         ],
         "responses": {
-          "301": {
-            "description": "Moved Permanently"
+          "307": {
+            "description": "Temporary Redirect"
           },
           "400": {
             "description": "Bad Request",
@@ -25944,6 +26249,10 @@
                           "$ref": "#/components/schemas/AccountQueryModel"
                         }
                       },
+                      "User.Data.CurrentAccount.ExternalIds.PyraTenantId": {
+                        "type": "string",
+                        "format": "uuid"
+                      },
                       "User.Data.CurrentAccount.ExternalId": {
                         "type": "string"
                       },
@@ -26299,6 +26608,9 @@
                   "style": "form"
                 },
                 "User.Data.Accounts": {
+                  "style": "form"
+                },
+                "User.Data.CurrentAccount.ExternalIds.PyraTenantId": {
                   "style": "form"
                 },
                 "User.Data.CurrentAccount.ExternalId": {
@@ -26831,8 +27143,8 @@
           }
         ],
         "responses": {
-          "301": {
-            "description": "Moved Permanently"
+          "307": {
+            "description": "Temporary Redirect"
           },
           "404": {
             "description": "Not Found",
@@ -27244,6 +27556,9 @@
             "type": "string",
             "readOnly": true
           },
+          "externalIds": {
+            "$ref": "#/components/schemas/AccountExternalIdsQueryModel"
+          },
           "externalId": {
             "maxLength": 250,
             "minLength": 1,
@@ -27306,6 +27621,10 @@
         "properties": {
           "account": {
             "properties": {
+              "ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
+              },
               "ExternalId": {
                 "type": "string"
               },
@@ -27505,6 +27824,9 @@
             "type": "string",
             "readOnly": true
           },
+          "externalIds": {
+            "$ref": "#/components/schemas/AccountExternalIdsQueryModel"
+          },
           "externalId": {
             "maxLength": 250,
             "type": "string",
@@ -27579,8 +27901,22 @@
               },
               {
                 "pattern": "^ACC-\\d\\d\\d\\d-\\d\\d\\d\\d$"
+              },
+              {
+                "pattern": "^ACC-\\d\\d\\d\\d-\\d\\d\\d\\d$"
               }
             ]
+          }
+        },
+        "additionalProperties": false
+      },
+      "AccountExternalIdsQueryModel": {
+        "type": "object",
+        "properties": {
+          "pyraTenantId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -27605,6 +27941,9 @@
           "href": {
             "type": "string",
             "readOnly": true
+          },
+          "externalIds": {
+            "$ref": "#/components/schemas/AccountExternalIdsQueryModel"
           },
           "externalId": {
             "maxLength": 250,
@@ -27711,6 +28050,10 @@
         "properties": {
           "account": {
             "properties": {
+              "ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
+              },
               "ExternalId": {
                 "type": "string"
               },
@@ -27907,6 +28250,9 @@
           "href": {
             "type": "string",
             "readOnly": true
+          },
+          "externalIds": {
+            "$ref": "#/components/schemas/AccountExternalIdsQueryModel"
           },
           "externalId": {
             "maxLength": 250,
@@ -28150,6 +28496,9 @@
           "href": {
             "type": "string",
             "readOnly": true
+          },
+          "externalIds": {
+            "$ref": "#/components/schemas/AccountExternalIdsQueryModel"
           },
           "externalId": {
             "type": "string",
@@ -28510,11 +28859,35 @@
           "item": {
             "$ref": "#/components/schemas/ProductItemEntity"
           },
+          "audit": {
+            "$ref": "#/components/schemas/AgreementLineAuditEntity"
+          },
           "price": {
             "$ref": "#/components/schemas/AgreementLinePrice"
           },
           "order": {
             "$ref": "#/components/schemas/Order"
+          },
+          "status": {
+            "$ref": "#/components/schemas/AgreementLineStatus"
+          }
+        },
+        "additionalProperties": false
+      },
+      "AgreementLineAuditEntity": {
+        "type": "object",
+        "properties": {
+          "created": {
+            "$ref": "#/components/schemas/QueryModelEvent"
+          },
+          "updated": {
+            "$ref": "#/components/schemas/QueryModelEvent"
+          },
+          "terminated": {
+            "$ref": "#/components/schemas/QueryModelEvent"
+          },
+          "deleted": {
+            "$ref": "#/components/schemas/QueryModelEvent"
           }
         },
         "additionalProperties": false
@@ -28555,6 +28928,14 @@
           }
         },
         "additionalProperties": false
+      },
+      "AgreementLineStatus": {
+        "enum": [
+          "Active",
+          "Terminated",
+          "Deleted"
+        ],
+        "type": "string"
       },
       "AgreementListResponse": {
         "type": "object",
@@ -29000,6 +29381,10 @@
               "TaxId": {
                 "type": "string"
               },
+              "Account.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
+              },
               "Account.ExternalId": {
                 "type": "string"
               },
@@ -29244,6 +29629,10 @@
                 "items": {
                   "$ref": "#/components/schemas/AccountQueryModel"
                 }
+              },
+              "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
               },
               "Contact.User.CurrentAccount.ExternalId": {
                 "type": "string"
@@ -30203,6 +30592,10 @@
               "TaxId": {
                 "type": "string"
               },
+              "Account.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
+              },
               "Account.ExternalId": {
                 "type": "string"
               },
@@ -30447,6 +30840,10 @@
                 "items": {
                   "$ref": "#/components/schemas/AccountQueryModel"
                 }
+              },
+              "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
               },
               "Contact.User.CurrentAccount.ExternalId": {
                 "type": "string"
@@ -31167,6 +31564,118 @@
         },
         "additionalProperties": false
       },
+      "CloudTenantExternalIdsDto": {
+        "required": [
+          "cloudConsumptionId",
+          "pyraTenantId"
+        ],
+        "type": "object",
+        "properties": {
+          "pyraTenantId": {
+            "minLength": 1,
+            "type": "string",
+            "format": "uuid"
+          },
+          "cloudConsumptionId": {
+            "minLength": 1,
+            "type": "string",
+            "format": "uuid"
+          },
+          "providerId": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CloudTenantExternalIdsQueryModel": {
+        "type": "object",
+        "properties": {
+          "cloudConsumptionId": {
+            "type": "string",
+            "format": "uuid"
+          },
+          "providerId": {
+            "type": "string",
+            "nullable": true
+          },
+          "pyraTenantId": {
+            "type": "string",
+            "format": "uuid"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CloudTenantQueryModel": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "audit": {
+            "$ref": "#/components/schemas/QueryModelAudit"
+          },
+          "$meta": {
+            "$ref": "#/components/schemas/QueryModelMetadata"
+          },
+          "href": {
+            "type": "string",
+            "readOnly": true
+          },
+          "account": {
+            "$ref": "#/components/schemas/AccountQueryModel"
+          },
+          "externalIds": {
+            "$ref": "#/components/schemas/CloudTenantExternalIdsQueryModel"
+          },
+          "name": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CloudTenantQueryModelListResponse": {
+        "type": "object",
+        "properties": {
+          "$meta": {
+            "$ref": "#/components/schemas/ListMetadata"
+          },
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/CloudTenantQueryModel"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "CloudTenantStatus": {
+        "enum": [
+          "Active",
+          "Disabled",
+          "Deleted"
+        ],
+        "type": "string"
+      },
+      "CloudTenantType": {
+        "enum": [
+          "AwsDirect",
+          "AwsService",
+          "Csp365",
+          "CspAzure",
+          "Ea365",
+          "EaAzure",
+          "Slm",
+          "Virtual"
+        ],
+        "type": "string"
+      },
       "CommerceParameter": {
         "type": "object",
         "properties": {
@@ -31464,6 +31973,33 @@
           },
           "owner": {
             "$ref": "#/components/schemas/RequestObjectLink"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateCloudTenantDto": {
+        "required": [
+          "externalIds",
+          "name"
+        ],
+        "type": "object",
+        "properties": {
+          "type": {
+            "$ref": "#/components/schemas/CloudTenantType"
+          },
+          "name": {
+            "maxLength": 100,
+            "minLength": 1,
+            "type": "string"
+          },
+          "status": {
+            "$ref": "#/components/schemas/CloudTenantStatus"
+          },
+          "externalIds": {
+            "$ref": "#/components/schemas/CloudTenantExternalIdsDto"
+          },
+          "account": {
+            "$ref": "#/components/schemas/AccountDto"
           }
         },
         "additionalProperties": false
@@ -32687,6 +33223,10 @@
               "Description": {
                 "type": "string"
               },
+              "Account.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
+              },
               "Account.ExternalId": {
                 "type": "string"
               },
@@ -32894,6 +33434,10 @@
               },
               "Buyer.TaxId": {
                 "type": "string"
+              },
+              "Buyer.Account.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
               },
               "Buyer.Account.ExternalId": {
                 "type": "string"
@@ -33139,6 +33683,10 @@
                 "items": {
                   "$ref": "#/components/schemas/AccountQueryModel"
                 }
+              },
+              "Buyer.Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
               },
               "Buyer.Contact.User.CurrentAccount.ExternalId": {
                 "type": "string"
@@ -33892,6 +34440,10 @@
                 "items": {
                   "$ref": "#/components/schemas/AccountQueryModel"
                 }
+              },
+              "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
               },
               "Contact.User.CurrentAccount.ExternalId": {
                 "type": "string"
@@ -34508,6 +35060,10 @@
               "Description": {
                 "type": "string"
               },
+              "Account.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
+              },
               "Account.ExternalId": {
                 "type": "string"
               },
@@ -34715,6 +35271,10 @@
               },
               "Buyer.TaxId": {
                 "type": "string"
+              },
+              "Buyer.Account.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
               },
               "Buyer.Account.ExternalId": {
                 "type": "string"
@@ -34960,6 +35520,10 @@
                 "items": {
                   "$ref": "#/components/schemas/AccountQueryModel"
                 }
+              },
+              "Buyer.Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
               },
               "Buyer.Contact.User.CurrentAccount.ExternalId": {
                 "type": "string"
@@ -35713,6 +36277,10 @@
                 "items": {
                   "$ref": "#/components/schemas/AccountQueryModel"
                 }
+              },
+              "Contact.User.CurrentAccount.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
               },
               "Contact.User.CurrentAccount.ExternalId": {
                 "type": "string"
@@ -36885,7 +37453,8 @@
           },
           "total": {
             "type": "integer",
-            "format": "int32"
+            "format": "int32",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -37182,7 +37751,7 @@
           "name": {
             "type": "string"
           },
-          "value": { },
+          "value": {},
           "displayValue": {
             "type": "string"
           }
@@ -37195,7 +37764,7 @@
           "id": {
             "type": "string"
           },
-          "value": { }
+          "value": {}
         },
         "additionalProperties": false
       },
@@ -37205,7 +37774,7 @@
           "id": {
             "type": "string"
           },
-          "value": { }
+          "value": {}
         },
         "additionalProperties": false
       },
@@ -37822,7 +38391,7 @@
             "nullable": true
           }
         },
-        "additionalProperties": { }
+        "additionalProperties": {}
       },
       "Process": {
         "type": "object",
@@ -38173,7 +38742,7 @@
         },
         "additionalProperties": false
       },
-      "ProductQueryModelICollectionDelta": {
+      "ProductQueryModelListDelta": {
         "type": "object",
         "properties": {
           "node": {
@@ -38575,7 +39144,7 @@
           "constraints": {
             "$ref": "#/components/schemas/RequestParameterConstraints"
           },
-          "typeOptions": { },
+          "typeOptions": {},
           "errorMessage": {
             "type": "string",
             "nullable": true
@@ -39282,11 +39851,17 @@
           "item": {
             "$ref": "#/components/schemas/ProductItemEntity"
           },
+          "audit": {
+            "$ref": "#/components/schemas/AgreementLineAuditEntity"
+          },
           "price": {
             "$ref": "#/components/schemas/SubscriptionLinePrice"
           },
           "subscription": {
             "$ref": "#/components/schemas/Subscription"
+          },
+          "status": {
+            "$ref": "#/components/schemas/AgreementLineStatus"
           }
         },
         "additionalProperties": false
@@ -39410,6 +39985,11 @@
             "nullable": true
           },
           "defaultMarkup": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "defaultMargin": {
             "type": "number",
             "format": "double",
             "nullable": true
@@ -40143,6 +40723,10 @@
                 "items": {
                   "$ref": "#/components/schemas/AccountQueryModel"
                 }
+              },
+              "User.Data.CurrentAccount.ExternalIds.PyraTenantId": {
+                "type": "string",
+                "format": "uuid"
               },
               "User.Data.CurrentAccount.ExternalId": {
                 "type": "string"
