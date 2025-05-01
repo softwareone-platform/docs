@@ -19,7 +19,7 @@ To view the details page of an invoice, select the invoice ID on the **Invoices*
 
 <figure><img src="../../../../.gitbook/assets/invoice_details_page.png" alt=""><figcaption><p>Detials page of an invoice</p></figcaption></figure>
 
-At the top of the details page, you can view links to the related business. You can also view the invoice ID, status, and the currency you have been invoiced in. The invoice amount is also displayed within the same section.
+At the top of the details page, you can view links to the business objects associated with the invoice. You can also view the invoice ID, status, and the currency you have been invoiced in. The invoice amount is also displayed in the same section.
 
 The invoice details page also contains tabs that provide additional information. The following table lists these tabs:
 

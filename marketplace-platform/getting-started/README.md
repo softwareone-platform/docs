@@ -4,7 +4,7 @@ To get up and running with the Marketplace Platform and make the most of its fun
 
 Our Getting Started video provides the foundation for you to quickly get started with the platform. It offers a brief overview of the platform and its interface, followed by in-depth information about some of the core concepts.&#x20;
 
-We highly recommend watching the following video to effectively interact with our platform.
+We recommend watching the following video to effectively interact with our platform.
 
 {% embed url="https://www.youtube.com/watch?v=LrMOMN8sjM4" %}
 Getting Started with SoftwareOne Marketplace Platform

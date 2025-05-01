@@ -10,7 +10,7 @@ In this release, we are introducing billing statements.
 
 In addition to invoices, you'll now receive statements containing a detailed record of charges for the subscriptions in your agreement. Billing statements are provided in the XLSX format. Unlike invoice PDFs, which only contain a summary of charges, statements include a comprehensive breakdown of all charges. See [Understand Your Billing Documents](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md) to learn more.
 
-We've also updated the platform's navigation menu to include the new **Billing** module. This module contains pages you can use to access your [Invoices ](../../modules-and-features/marketplace/billing/invoices/)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
+We've also updated the platform's navigation menu to include the new **Billing** module. This module contains pages for accessing [Invoices ](../../modules-and-features/marketplace/billing/invoices/)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
 
 ## Deprecated Features
 
@@ -21,13 +21,15 @@ The following features have been deprecated and are no longer supported by the M
 
 ## New Order Status
 
-Previously, the **Draft** status was used to identify orders that you intentionally saved for later.
+Previously, the **Draft** status was used to identify orders you intentionally saved for later.
 
 We have now introduced a new status called **Quoted**, which will apply to orders, including purchase, change, and termination orders, saved for later. The **Draft** status is now only used for orders that are created by the platform for validation purposes. To learn more, see [Order States](../../modules-and-features/marketplace/orders/order-states.md).
 
 ## Notifications Management
 
 The new Notifications feature allows account administrators to configure and manage notification emails for their accounts.
+
+<figure><img src="../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Notifications page</p></figcaption></figure>
 
 Admins can set recipients for these emails and manage categories to start or stop receiving notifications. This feature is accessible through the **Settings** menu. To learn more, see [Notifications](../../modules-and-features/settings/notifications/).&#x20;
 
@@ -57,7 +59,7 @@ Designed for intuitive navigation, our catalog ensures a seamless browsing exper
 
 The catalog is available to everyone and provides easy access to a wide range of software products and services. You can explore products from over 56,000 vendors across categories, including healthcare, finance, analytics, and more.
 
-<figure><img src="../../.gitbook/assets/release_notes_catalog.png" alt=""><figcaption><p>SoftwareOne Public Catalog</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/release_notes_catalog.png" alt="" width="563"><figcaption><p>SoftwareOne Public Catalog</p></figcaption></figure>
 
 ## Search Query in Data Grids
 

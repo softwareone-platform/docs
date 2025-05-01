@@ -27,9 +27,11 @@ The details page also contains tabs that display additional details. The followi
 
 ## Additional actions
 
-You can perform various actions on the details page. The available actions depend on the status of the agreement:
+You can perform various actions on the details page. The available actions depend on the status of the order:
 
 * [Delete a draft order](delete-draft-orders.md)
+* [Submit your saved orders for processing](submit-draft-orders.md)
 * [Manage the notes for your order](manage-order-notes.md)
 * [Change your order's status to Processing](set-an-order-to-processing.md)
+* [Send the order reminder email](send-order-reminder-email.md)
 * [View and download attachments](../agreements/view-and-download-attachments.md)
