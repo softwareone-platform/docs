@@ -12,7 +12,7 @@ In addition to invoices, you'll now receive statements containing a detailed rec
 
 We've also updated the platform's navigation menu to include the new **Billing** module. This module contains pages for accessing [Invoices ](../../modules-and-features/marketplace/billing/invoices/)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>New Billing option in the navigation menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/release_notes_billing.png" alt=""><figcaption><p>New Billing option in the navigation menu</p></figcaption></figure>
 
 ## Deprecated Features
 
