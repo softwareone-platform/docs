@@ -61,7 +61,7 @@ Designed for intuitive navigation, our catalog ensures a seamless browsing exper
 
 The catalog is available to everyone and provides easy access to a wide range of software products and services. You can explore products from over 56,000 vendors across categories, including healthcare, finance, analytics, and more.
 
-<figure><img src="../../.gitbook/assets/release_notes_catalog.png" alt="" width="563"><figcaption><p>SoftwareOne Public Catalog</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/release_notes_catalog.png" alt="" width="563"><figcaption><p>SoftwareOne public catalog</p></figcaption></figure>
 
 ## Search Query in Data Grids
 
@@ -73,6 +73,6 @@ This new condition allows you to enter a search term, which is then used to find
 
 ## Subscription Automatic Renewals
 
-You can now easily manage the automatic renewal of your subscriptions through the platform's interface.
+You can now easily manage the automatic renewal of your subscriptions through the platform.
 
 If you prefer not to have your subscription renewed automatically, you can disable the auto-renewal. Additionally, if you previously disabled automatic renewal, you can re-enable it at any time. To learn more, see [Manage Automatic Renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
