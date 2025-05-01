@@ -8,7 +8,7 @@ To review and accept a partner relationship request:
 
 1. Navigate to the **Orders** page on the platform. Then, select the required purchase order.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 
 2.  Do one of the following:
 
