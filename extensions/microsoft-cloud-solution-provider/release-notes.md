@@ -1,5 +1,19 @@
 # Release Notes
 
+## Release Date: 5 May 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
+
+### Support for Microsoft 365 Government Community Cloud (GCC)
+
+We are excited to announce the launch of a new product called 'Microsoft 365 Business, Enterprise & Apps - Government' in the Marketplace Platform. This product includes a range of offerings designed to meet the specific needs of US government organizations. See [Microsoft GCC](microsoft-gcc.md) to learn more.
+
+With this launch, you can seamlessly create new agreements in the platform and purchase nearly the full suite of Microsoft 365 GCC products through the CSP program. You can also submit different types of orders, such as change orders to increase or decrease the number of licenses, termination orders, and configuration orders.
+
+To order GCC products through the Marketplace, you must already be GCC qualified. If your account isn't qualified, the platform displays a message. You must complete the tenant qualification in the Partner Center, as qualification can't be done through the Marketplace.
+
+Note that this release doesn't include the Microsoft Dynamics catalog for government.
+
+***
+
 ## Release Date: 31 March 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 
 ### Support for Azure Reservations and Savings Plan <a href="#azure-reservations-and-savings-plans" id="azure-reservations-and-savings-plans"></a>
