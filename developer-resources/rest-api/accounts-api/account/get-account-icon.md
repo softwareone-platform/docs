@@ -1,5 +1,7 @@
 # Get Account Icon
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/accounts/{id}/icon" method="get" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+Get an account icon.
+
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/accounts/{id}/icon" method="get" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

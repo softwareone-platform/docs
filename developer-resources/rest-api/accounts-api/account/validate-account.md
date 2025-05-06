@@ -1,9 +1,8 @@
----
-description: Validate the Account object.
----
-
 # Validate Account
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/accounts/{id}/validate" method="post" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+Validate the Account object.
+
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/accounts/{id}/validate" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}
+

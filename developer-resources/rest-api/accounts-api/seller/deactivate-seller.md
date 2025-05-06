@@ -1,9 +1,7 @@
 # Deactivate Seller
 
-Deactivate a seller.
+Deactivate a seller. When the seller has been deactivated, the status changes from `Active` to `Offline`.
 
-When a seller is deactivated, the status changes from `Active` to `Offline`.
-
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/sellers/{id}/deactivate" method="post" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/sellers/{id}/deactivate" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

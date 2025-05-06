@@ -1,9 +1,7 @@
----
-description: List attachments in the scope of the specific request.
----
-
 # List Request Attachments
 
-{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/requests/{requestId}/attachments" method="get" %}
-[commerce.json](../../../../.gitbook/assets/commerce.json)
-{% endswagger %}
+List attachments in the scope of the specific request.
+
+{% openapi-operation spec="softwareone-platform-api" path="/v1/commerce/requests/{requestId}/attachments" method="get" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

@@ -4,6 +4,8 @@ description: Get a single Account object by ID.
 
 # Get Account
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/accounts/{id}" method="get" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+Get a single Account object by ID.
+
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/accounts/{id}" method="get" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Item Group
 
 ## Item Group object

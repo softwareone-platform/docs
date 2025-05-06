@@ -2,6 +2,6 @@
 
 Delete the licensee object.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/licensees/{id}" method="delete" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/licensees/{id}" method="delete" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

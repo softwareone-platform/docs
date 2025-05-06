@@ -2,6 +2,6 @@
 
 Delete a user group.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/user-groups/{id}" method="delete" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/user-groups/{id}" method="delete" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

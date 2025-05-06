@@ -1,9 +1,7 @@
----
-description: Disable the Buyer object. Disabled buyers cannot be used in transactions.
----
-
 # Disable Buyer
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/buyers/{id}/disable" method="post" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+Disable the Buyer object. Disabled buyers cannot be used in transactions.
+
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/buyers/{id}/disable" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

@@ -6,6 +6,6 @@ description: Enable a previously disabled Buyer object.
 
 When enabled, the buyer status will change to `Active` if the buyer has `ExternalId` assigned or Enabled otherwise.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/buyers/{id}/enable" method="post" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/buyers/{id}/enable" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

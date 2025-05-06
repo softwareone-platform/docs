@@ -1,9 +1,7 @@
----
-description: Create a request attachment.
----
-
 # Create Request Attachment
 
-{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/requests/{requestId}/attachments" method="post" %}
-[commerce.json](../../../../.gitbook/assets/commerce.json)
-{% endswagger %}
+Create a request attachment.
+
+{% openapi-operation spec="softwareone-platform-api" path="/v1/commerce/requests/{requestId}/attachments" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

@@ -2,6 +2,6 @@
 
 List of price lists.
 
-{% swagger src="../../../../.gitbook/assets/QA-swagger-10-12-2024.json" path="/v1/catalog/price-lists" method="get" %}
-[QA-swagger-10-12-2024.json](../../../../.gitbook/assets/QA-swagger-10-12-2024.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/catalog/price-lists" method="get" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

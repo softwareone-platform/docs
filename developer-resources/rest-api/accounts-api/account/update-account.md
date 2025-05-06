@@ -1,9 +1,8 @@
----
-description: Update the Account object.
----
-
 # Update Account
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/accounts/{id}" method="put" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+Update the Account object.
+
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/accounts/{id}" method="put" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}
+

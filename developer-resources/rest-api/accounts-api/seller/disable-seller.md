@@ -1,9 +1,7 @@
 # Disable Seller
 
-Disable or deactivate the seller object.
+Disable or deactivate the seller object. When disabled, the status changes from  `Active` to `Disabled`. Note that disabled sellers can't be used in transactions.
 
-When disabled, the status changes from `Active` to `Disabled`. Disabled sellers cannot be used in transactions.
-
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/sellers/{id}/disable" method="post" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/sellers/{id}/disable" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

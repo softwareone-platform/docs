@@ -2,6 +2,6 @@
 
 Set passwords for non-SSO users during onboarding.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/users/{id}/set-password" method="post" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/users/{id}/set-password" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

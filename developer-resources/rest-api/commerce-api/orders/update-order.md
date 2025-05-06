@@ -1,5 +1,6 @@
 # Update Order
 
-{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/orders/{id}" method="put" %}
-[commerce.json](../../../../.gitbook/assets/commerce.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/commerce/orders/{id}" method="put" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}
+

@@ -2,6 +2,6 @@
 
 Get all users assigned to an account.
 
-{% swagger src="../../../../.gitbook/assets/accounts.json" path="/v1/accounts/account-users" method="get" %}
-[accounts.json](../../../../.gitbook/assets/accounts.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/account-users" method="get" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}

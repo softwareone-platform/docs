@@ -1,5 +1,5 @@
 # Fail Order
 
-{% swagger src="../../../../.gitbook/assets/commerce.json" path="/v1/commerce/orders/{id}/fail" method="post" %}
-[commerce.json](../../../../.gitbook/assets/commerce.json)
-{% endswagger %}
+{% openapi-operation spec="softwareone-platform-api" path="/v1/commerce/orders/{id}/fail" method="post" %}
+[Broken link](broken-reference)
+{% endopenapi-operation %}
