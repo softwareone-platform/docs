@@ -4,15 +4,15 @@
 
 Our latest release, Marketplace Platform v4, is here. This release introduces several new features to enhance our platform's capabilities and improve existing functionalities.
 
-## Billing Invoices and Statements
+## Billing Statements
 
 In this release, we are introducing billing statements.
 
 In addition to invoices, you'll now receive statements containing a detailed record of charges for the subscriptions in your agreement. Billing statements are provided in the XLSX format. Unlike invoice PDFs, which only contain a summary of charges, statements include a comprehensive breakdown of all charges. See [Understand Your Billing Documents](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md) to learn more.
 
-We've also updated the platform's navigation menu to include the new **Billing** module. This module contains pages for accessing [Invoices ](../../modules-and-features/marketplace/billing/invoices/)and [Statements](../../modules-and-features/marketplace/billing/statements.md).
+We've also updated the platform's navigation menu to include a new **Billing** module, which gives you easy access to your [statements](../../modules-and-features/marketplace/billing/statements.md).
 
-<figure><img src="../../.gitbook/assets/release_notes_billing.png" alt=""><figcaption><p>New Billing option in the navigation menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>New Billing option in the navigation menu</p></figcaption></figure>
 
 ## Deprecated Features
 
