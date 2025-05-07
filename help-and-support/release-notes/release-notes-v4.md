@@ -60,7 +60,7 @@ You can find the **Spotlight** feature on the **Home** page, and it can also be 
 
 ## Public Catalog
 
-We are excited to announce the launch of our public catalog, available at marketplace.softwareone.com.
+We are excited to announce the launch of our public catalog, available at [platform.softwareone.com](https://platform.softwareone.com/).
 
 Designed for intuitive navigation, our catalog ensures a seamless browsing experience and simplifies your software procurement journey.
 
