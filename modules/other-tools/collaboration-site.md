@@ -6,7 +6,7 @@ description: Use the Collaboration Site to store and share large files.
 
 Collaboration Site allows you to share files large files, for example, your project files and deliverables for a managed service engagement. Access to the Collaboration Site is based on permissions and only authorized users can access the site.&#x20;
 
-After your account has been set up, only top-level administrators are granted access to the Collaboration Site. If you cannot view this module, contact your administrator or your SoftwareOne Account Manager.
+After your account has been set up, only top-level administrators are granted access to the Collaboration Site. If you cannot view this module, contact your administrator or your SoftwareOne account manager.
 
 ## Granting access to the Collaboration Site&#x20;
 
