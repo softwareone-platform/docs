@@ -533,6 +533,10 @@
   * [Code of Conduct](developer-resources/open-source/code-of-conduct.md)
   * [Contributor License Agreement](developer-resources/open-source/contributor-license-agreement.md)
 
+***
+
+* [Design System](design-system.md)
+
 ## Help and Support
 
 * [Contact Support](help-and-support/contact-support.md)
