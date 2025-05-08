@@ -2,69 +2,68 @@
 
 FinOps for Cloud is a solution designed to enhance the cloud usage experience by providing detailed insights and management capabilities without actively interfering with processes in your environment.&#x20;
 
-It utilizes billing information, resource state monitoring, and cloud monitoring data to provide actionable recommendations for optimizing cloud resource usage and reducing costs. The platform performs resource discovery using APIs from cloud providers like AWS and Microsoft Azure, ensuring that all resources are accounted for and managed effectively.&#x20;
+It utilizes billing information, resource state monitoring, and cloud monitoring data to provide actionable recommendations for optimizing cloud resource usage and reducing costs. The platform performs resource discovery using APIs from cloud providers like AWS, Azure, and Google Cloud to ensure that all resources are accounted for and managed effectively.&#x20;
 
-With FinOps for Cloud, you can explore and analyze your cloud expenses, monitor resource usage, and implement policies to ensure efficient and cost-effective cloud management. The platform's user-friendly interface and robust features empower organizations to achieve greater visibility and control over cloud infrastructure, enabling smarter decision-making and improved financial planning.
+## Ordering FinOps for Cloud from the Marketplace
 
-## How it works
+You can order FinOps for Cloud subscription from the Software Marketplace. The following steps describe how to place an order by creating a new agreement.&#x20;
 
-FinOps for Cloud requires Read-Only rights for the connected cloud account, which serves as the primary data source for all recommendations. The following data is utilized:
+### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
-* Billing information - all details regarding cloud expenses.
-* The state of resources (for actively discoverable types) in the cloud. This is essential for implementing [constraints like TTL, Expense limits](insights/resources/resources-constraint-policies.md), and [Recommendations](insights/recommendations/).
-* The monitoring data from the cloud is used to identify underutilized instances.
+Before starting this tutorial, make sure you have the following:
 
-{% tabs %}
-{% tab title="Amazon Web Services (AWS)" %}
-The billing information is retrieved from the Data Exports located in a designated S3 bucket in the cloud. See [GetObject](https://docs.aws.amazon.com/AmazonS3/latest/API/API_GetObject.html) in the AWS documentation to see how it works.
+* A licensee in the **active** state or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.
+* The contact details of the administrator who will manage your FinOps account. Details include the admin's name and email address. After your order has been placed, we'll email the login details to the administrator you specified.&#x20;
 
-Amazon CloudWatch is the source of monitoring data. For more details, see [Automatic billing data import in AWS](system/data-sources/amazon-web-services/aws-root-account-with-data-export-already-configured.md#automatic-billing-data-import-in-aws).
+### Implementation
 
-Resource discovery is done using the Discovery API. For reference, see the following pages in AWS documentation:
+{% stepper %}
+{% step %}
+**Navigate to the Products page**
 
-* [DescribeInstances](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeInstances.html)
-* [DescribeVolumes](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeVolumes.html)
-* [DescribeSnapshots](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeSnapshots.html)
-* [ListBuckets](https://docs.aws.amazon.com/AmazonS3/latest/API/API_ListBuckets.html)
-{% endtab %}
+The **Products** page is located under **Marketplace** in the main navigation menu. The page displays all products available to order from the SoftwareOne Marketplace.
+{% endstep %}
 
-{% tab title="Microsoft Azure" %}
-The billing information is retrieved from the Billing API. See [Usage Details - List](https://learn.microsoft.com/en-us/rest/api/consumption/usage-details/list?view=rest-consumption-2024-08-01\&tabs=HTTP) in Microsoft documentation to see how it works.
+{% step %}
+**Launch the purchase wizard for FinOps for Cloud**
 
-Cloud's Monitoring service is used as the source of all monitoring data. For more details, see [Microsoft Azure](system/data-sources/microsoft-azure.md).
+From the list of products, select **SoftwareOne FinOps for Cloud**. Then, on the details page, select **Buy now** to start the purchase wizard.
 
-Resource discovery is done using Discovery API. For reference, see the following pages in Microsoft documentation:
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
+{% endstep %}
 
-* [Virtual Machines - List All](https://docs.microsoft.com/en-us/rest/api/compute/virtual-machines/list-all)
-* [Disks - List](https://docs.microsoft.com/en-us/rest/api/compute/disks/list)
-* [Snapshots - List](https://docs.microsoft.com/en-us/rest/api/compute/snapshots/list)
-* [Storage Accounts - List](https://docs.microsoft.com/en-us/rest/api/storagerp/storage-accounts/list)
-{% endtab %}
+{% step %}
+**Follow the steps in the purchase wizard**
 
-{% tab title="Google Cloud Platform" %}
-The billing information is retrieved from the BigQuery service.
+1. In the **Select agreement** step, select **Create agreement** to start creating your new agreement.
+2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can [add a new licensee](../../modules-and-features/settings/licensees/create-licensees.md) by selecting **Create licensee**.
+3. In the **Create agreement** step, provide the following details, then select **Next**:
+   1. **Organization name** - (Required) Enter the name of your organization. This name represents your environment in FinOps for Cloud. You can update the name later from the **Settings** page within FinOps.&#x20;
+   2. **Currency** - (Required) Select the currency in which you want to view your cloud spending within FinOps.&#x20;
+   3. **Administrator** - (Required) Fill out the contact form. You'll need to enter the contact details of the administrator who will manage your account. This admin will be assigned the **Organization admin** role in FinOps.
 
-Cloud's Monitoring service is used as the source of all monitoring data. For more details, see [Google Cloud Platform](./#google-cloud-platform).
+{% hint style="warning" %}
+When selecting a **currency**, make sure to choose the correct one, as it can't be changed after the agreement has been created. You must select the same currency that your cloud provider (like AWS or Azure) uses for billing. For example, if you are billed in USD, you must select **USD** from the list. If you choose a different currency, you won't be able to import the cost and usage data from your cloud provider.
+{% endhint %}
 
-Resource discovery is done using the Discovery API. For reference, see the following pages in Google Cloud documentation:
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Create agreement step in the wizard</p></figcaption></figure>
 
-* [Method: instances.list](https://cloud.google.com/compute/docs/reference/rest/v1/instances/list)
-* [Method: disks.list](https://cloud.google.com/compute/docs/reference/rest/v1/disks/list)
-* [Method: snapshots.list](https://cloud.google.com/compute/docs/reference/rest/v1/snapshots/list)
-* [Buckets: list](https://cloud.google.com/storage/docs/json_api/v1/buckets/list)
-* [Method: addresses.list](https://cloud.google.com/compute/docs/reference/rest/v1/addresses/list)
-{% endtab %}
-{% endtabs %}
+4. In the **Select items** step, do the following:
+   1. Choose **SoftwareOne FinOps for Cloud**. Then, select **Add items** to add it to your order.&#x20;
+   2. Select **Next** to continue.
 
-## First-time login
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-When setting up your FinOps for Cloud account, you'll typically receive an invitation email with a link to join your organization's account.&#x20;
+5. In the **Details** step, provide reference details, like additional IDs or notes, then select **Next**.
+6. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
+7. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+{% endstep %}
+{% endstepper %}
 
-Open the invitation email and follow these steps to complete the sign-in process:
+### Next steps
 
-1. In your invitation email, select the link to open the FinOps tool.
-2. On the sign-up page, enter your first and last name and choose a password for your account.&#x20;
-3. Retype the password in the **Confirm password** field and select **Register**. You'll receive a verification code by email.
-4. Enter the confirmation code on the sign-in page and select **Confirm**. You'll be signed in to the tool.&#x20;
+Once your order is placed, we will verify the details and process your order. You can use the **General** tab on the [order details](../../modules-and-features/marketplace/orders/#subscription-details) page to keep track of your order. If there are any issues, the details page will provide information about the problem and any actions you may need to take.
 
-Use the same credentials to sign in to FinOps for Cloud each time. If you forget your password, use the **Forgot password** option on the sign-in page. We will send you an email with instructions to reset your password.
+After the order is complete, we'll send an email to your account administrator with instructions on how to [sign in to your FinOps account](https://portal.finops.softwareone.com/). After signing in, admins can connect data sources to start importing data.&#x20;
+
+For more information on how to access and use FinOps for Cloud, see the [FinOps for Cloud documentation](https://docs.finops.softwareone.com/).
