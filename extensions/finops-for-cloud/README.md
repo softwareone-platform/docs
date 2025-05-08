@@ -1,12 +1,12 @@
 # FinOps for Cloud
 
-FinOps for Cloud is a solution designed to enhance the cloud usage experience by providing detailed insights and management capabilities without actively interfering with processes in your environment.&#x20;
+FinOps for Cloud is a solution designed to enhance the cloud usage experience by providing detailed insights and management capabilities.&#x20;
 
-It utilizes billing information, resource state monitoring, and cloud monitoring data to provide actionable recommendations for optimizing cloud resource usage and reducing costs. The platform performs resource discovery using APIs from cloud providers like AWS, Azure, and Google Cloud to ensure that all resources are accounted for and managed effectively.&#x20;
+It utilizes billing information, resource state monitoring, and cloud monitoring data to provide actionable recommendations for optimizing cloud resource usage and reducing costs. The solution performs resource discovery using APIs from cloud providers like AWS, Azure, and Google Cloud to ensure that all resources are accounted for and managed effectively.&#x20;
 
 ## Ordering FinOps for Cloud from the Marketplace
 
-You can order FinOps for Cloud subscription from the Software Marketplace. The following steps describe how to place an order by creating a new agreement.&#x20;
+You can order FinOps for Cloud subscription from the SoftwareOne Marketplace. The following steps describe how to place an order by creating a new agreement.&#x20;
 
 ### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
