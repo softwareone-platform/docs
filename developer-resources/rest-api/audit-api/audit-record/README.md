@@ -1,5 +1,7 @@
 # Audit Record
 
+## Audit Record object
+
 The Audit object serves as a comprehensive record of a singular event that took place within the platform.
 
 <table><thead><tr><th width="166">Field</th><th width="157">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier for the audit record. Note that no nesting exists for this identifier. </p><p></p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td>string</td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action} </p><p></p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td>string</td><td><p>A summary of the audit record.</p><p></p><p>Example: Order created</p></td></tr><tr><td>details</td><td>string</td><td><p>The audit details template. Any document property may be used as a placeholder. </p><p></p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td>Audit Record Actor</td><td><p>Information about the actor who has triggered an event. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
@@ -44,7 +46,7 @@ The Audit object serves as a comprehensive record of a singular event that took 
     "extra_prop_01": "Some value that does not exist in order" 
   }
 }
-</code></pre></td></tr><tr><td>viewers</td><td>Viewer []</td><td><p>A list of accounts that have access to the audit records. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
+</code></pre></td></tr><tr><td>viewers</td><td>Viewer</td><td><p>A list of accounts that have access to the audit records. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
   {
       "id": "ACC-3408-7241",
       "name": "MPT_QA_STATIC Commerce e2e client",
@@ -63,7 +65,7 @@ The Audit object serves as a comprehensive record of a singular event that took 
 ## Example
 
 {% tabs %}
-{% tab title="Audit Record" %}
+{% tab title="AUDIT RECORD" %}
 ```json
 {
     "event": "platform.commerce.order.created",

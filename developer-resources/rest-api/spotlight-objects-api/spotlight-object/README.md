@@ -12,7 +12,7 @@ A SpotlightObject represents an instance of spotlighted objects collections and 
 ## Example <a href="#example" id="example"></a>
 
 {% tabs %}
-{% tab title="Spotlight Object" %}
+{% tab title="SPOTLIGHT OBJECT" %}
 {% code lineNumbers="true" %}
 ```json
 {

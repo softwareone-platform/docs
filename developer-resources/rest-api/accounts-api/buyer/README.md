@@ -1,14 +1,12 @@
 # Buyer
 
-## Buyer Object
+The Buyer object represents an individual buyer within the Marketplace platform. This object contains the following properties:
 
-The `buyer` object represents an individual buyer in the Marketplace platform. This object contains the following properties:
-
-<table data-full-width="false"><thead><tr><th width="166">Field</th><th width="211">Type</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p>Primary buyer identifier. </p><p></p><p>Example: "BUY-1234-1234"</p></td></tr><tr><td><strong><code>href</code></strong></td><td>string</td><td><p>Relative reference to object on API. </p><p></p><p>Example: "/v1/accounts/buyers/BUY-1234-1234"</p></td></tr><tr><td><strong><code>status</code></strong></td><td>string</td><td>Status: Enabled, Active, Disabled, Deleted</td></tr><tr><td><strong><code>name</code></strong></td><td>string</td><td><p>Buyer's name. </p><p></p><p>Example: "Stark Industries"</p></td></tr><tr><td><strong><code>icon</code></strong></td><td>string</td><td><p>Relative path to buyer’s logo. </p><p></p><p>Example: "/static/accounts/BUY-1234-1234/logo.png"</p></td></tr><tr><td><strong><code>externalIds</code></strong></td><td>BuyerExternalIdsObject</td><td><p>External identifier. </p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="136">Field</th><th width="132">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Primary buyer identifier. </p><p></p><p>Example: BUY-1234-1234</p></td></tr><tr><td>href</td><td>string</td><td><p>Relative reference to the object in the API. </p><p></p><p>Example: /v1/accounts/buyers/BUY-1234-1234</p></td></tr><tr><td>status</td><td>string</td><td>Status: Enabled, Active, Disabled, Deleted</td></tr><tr><td>name</td><td>string</td><td><p>Buyer's name. </p><p></p><p>Example: Stark Industries</p></td></tr><tr><td>icon</td><td>string</td><td><p>Relative path to buyer’s logo. </p><p></p><p>Example: /static/accounts/BUY-1234-1234/logo.png</p></td></tr><tr><td>externalIds</td><td>BuyerExternalIdsObject</td><td><p>External identifier. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
  "erpCompanyContact": "WW-CON-123456",
  "erpCustomer": "WW-SCU-123456"
 }
-</code></pre></td></tr><tr><td><strong><code>address</code></strong></td><td>object</td><td><p>Address of the buyer. </p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>address</td><td>object</td><td><p>Address of the buyer. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "addressLine1": "123 Main Street",
   "addressLine2": "Apt 4B",
   "postCode": "12345",
@@ -16,7 +14,7 @@ The `buyer` object represents an individual buyer in the Marketplace platform. T
   "state": "S",
   "country": "ST"
 }
-</code></pre></td></tr><tr><td><strong><code>taxId</code></strong></td><td>string</td><td><p>Buyer's tax ID. </p><p></p><p>Example: "12-34567890"</p></td></tr><tr><td><strong><code>account</code></strong></td><td><a href="../account/#account-object">Account</a></td><td>Buyer’s account object.</td></tr><tr><td><strong><code>sellers</code></strong></td><td><a href="../seller/#seller-object">Seller</a></td><td></td></tr><tr><td><strong><code>contact</code></strong></td><td>object</td><td><p>Contact person details. </p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>taxId</td><td>string</td><td><p>Buyer's tax ID. </p><p></p><p>Example: 12-34567890</p></td></tr><tr><td>account</td><td><a href="../account/#account-object">Account</a></td><td>Buyer’s account object.</td></tr><tr><td>sellers</td><td><a href="../seller/#seller-object">Seller</a></td><td>Seller object.</td></tr><tr><td>contact</td><td>object</td><td><p>Contact person details. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
 	"name": "Will Smith",
 	"firstName": "Will",
 	"lastName": "Smith",
@@ -29,7 +27,7 @@ The `buyer` object represents an individual buyer in the Marketplace platform. T
 		"name": "Will Smith"
 	}
 }
-</code></pre></td></tr><tr><td><strong><code>audit</code></strong></td><td>object</td><td><p>Possible audit events: Created, Updated, Disabled, Enabled, Activated. </p><p></p><p>Example:  </p><pre class="language-json" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td>object</td><td><p>Possible audit events: Created, Updated, Disabled, Enabled, Activated. </p><p></p><p>Example:  </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } },
   "disabled": { "at": "...", "by": { } },

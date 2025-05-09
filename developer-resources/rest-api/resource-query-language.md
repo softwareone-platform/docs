@@ -8,9 +8,9 @@ With RQL, you can filter, sort, paginate, and project data. It is simple to use 
 
 RQL consists of a set of operators that can be classified into three main categories:
 
-1. **Comparison Operators** - These perform comparisons like equals, greater than, etc.
-2. **Logical Operators** - These combine multiple conditions.
-3. **Algorithmic Operators** - These handle functionalities like sorting and pagination.
+1. **Comparison operators** - These perform comparisons like equals, greater than, etc.
+2. **Logical operators** - These combine multiple conditions.
+3. **Algorithmic operators** - These handle functionalities like sorting and pagination.
 
 Operators are formatted as `operator(arg1,arg2,...)`. Complex expressions can be created by nesting these operators.
 

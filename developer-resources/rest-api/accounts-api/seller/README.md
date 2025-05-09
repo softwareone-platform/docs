@@ -1,10 +1,8 @@
 # Seller
 
-## Seller Object
+The Seller object represents a seller in the Marketplace platform. This object contains the following properties:
 
-The `seller` object represents a seller in the Marketplace platform. This object contains the following properties:
-
-<table data-full-width="false"><thead><tr><th width="162">Field</th><th width="100">Type</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p>Primary seller identifier. </p><p></p><p>Example: "SEL-1234-1234"</p></td></tr><tr><td><strong><code>href</code></strong></td><td>string</td><td><p>Relative reference to object on API. </p><p></p><p>Example: "/v1/accounts/sellers/SEL-1234-1234"</p></td></tr><tr><td><strong><code>status</code></strong></td><td>string</td><td>Status: Active , Disabled, Offline , Deleted</td></tr><tr><td><strong><code>name</code></strong></td><td>string</td><td><p>Seller's name. </p><p></p><p>Example: "SoftwareOne USA"</p></td></tr><tr><td><strong><code>icon</code></strong></td><td>string</td><td><p>Relative path to seller’s logo. </p><p></p><p>Example: "/static/accounts/SEL-1234-1234/logo.png"</p></td></tr><tr><td><strong><code>externalId</code></strong></td><td>string</td><td><p>External identifier. </p><p></p><p>Example: "WW-CON-123456"</p></td></tr><tr><td><strong><code>address</code></strong></td><td>object</td><td><p>Address of the seller. </p><p></p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="135">Field</th><th width="100">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Primary seller identifier. </p><p></p><p>Example: "SEL-1234-1234</p></td></tr><tr><td>href</td><td>string</td><td><p>Relative reference to the object in the API. </p><p></p><p>Example: /v1/accounts/sellers/SEL-1234-1234</p></td></tr><tr><td>status</td><td>string</td><td>Status: Active , Disabled, Offline , Deleted</td></tr><tr><td>name</td><td>string</td><td><p>Seller's name. </p><p></p><p>Example: SoftwareOne USA</p></td></tr><tr><td>icon</td><td>string</td><td><p>Relative path to seller’s logo. </p><p></p><p>Example: /static/accounts/SEL-1234-1234/logo.png</p></td></tr><tr><td>externalId</td><td>string</td><td><p>External identifier. </p><p></p><p>Example: WW-CON-123456</p></td></tr><tr><td>address</td><td>object</td><td><p>Address of the seller. </p><p></p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
   "addressLine1": "123 Main Street",
   "addressLine2": "Apt 4B",
   "postCode": "12345",
@@ -12,7 +10,7 @@ The `seller` object represents a seller in the Marketplace platform. This object
   "state": "S",
   "country": "ST"
 }
-</code></pre></td></tr><tr><td><strong><code>currency</code></strong></td><td>string</td><td></td></tr><tr><td><strong><code>buyers</code></strong></td><td><a href="../buyer/#buyer-object">Buyer</a></td><td></td></tr><tr><td><strong><code>audit</code></strong></td><td>object</td><td><p>Possible audit events: Created, Updated, Activated, Disabled, Deactivated, or Deleted</p><p></p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>currency</td><td>string</td><td>Seller's currency.</td></tr><tr><td>buyers</td><td><a href="../buyer/#buyer-object">Buyer</a></td><td>Reference to the buyer object.</td></tr><tr><td>audit</td><td>object</td><td><p>Possible audit events: Created, Updated, Activated, Disabled, Deactivated, or Deleted</p><p></p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } },
   "activated": { "at": "...", "by": { } },

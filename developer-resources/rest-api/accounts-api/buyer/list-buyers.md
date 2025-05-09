@@ -1,7 +1,3 @@
----
-description: Get the Buyers collection.
----
-
 # List Buyers
 
 Get the Buyers collection.

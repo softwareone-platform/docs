@@ -1,10 +1,8 @@
 # Module
 
-## Module Object
+The Module object represents a module in the Marketplace platform. This object contains the following properties:
 
-The `module` object represents a module in the Marketplace platform. This object contains the following properties:
-
-<table data-full-width="false"><thead><tr><th>Field</th><th width="100">Type</th><th>Description</th></tr></thead><tbody><tr><td><strong><code>id</code></strong></td><td>string</td><td><p>Primary module identifier. </p><p></p><p>Example: "MOD-1234"</p></td></tr><tr><td><strong><code>name</code></strong></td><td>string</td><td><p>Name of the module. </p><p></p><p>Example: "Invoices"</p></td></tr><tr><td><strong><code>description</code></strong></td><td>string</td><td><p>Description of the module. </p><p></p><p>Example: "Invoices module"</p></td></tr><tr><td><strong><code>accountTypes</code></strong></td><td>string</td><td><p>Defines presence of module for each account type. </p><p></p><p>Example: ["vendor", "client", "operations"]</p></td></tr><tr><td><strong><code>isEnabledByDefault</code></strong></td><td>boolean</td><td><p>Defines whether the module is enabled by default. </p><p></p><p>Example: "true"</p></td></tr><tr><td><strong><code>isConfigurable</code></strong></td><td>boolean</td><td><p>Defines whether module’s access can be changed. </p><p></p><p>Example: "true"</p></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="191">Field</th><th width="100">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Primary module identifier. </p><p></p><p>Example: MOD-1234</p></td></tr><tr><td>name</td><td>string</td><td><p>Name of the module. </p><p></p><p>Example: Invoices</p></td></tr><tr><td>description</td><td>string</td><td><p>Description of the module. </p><p></p><p>Example: Invoices module</p></td></tr><tr><td>accountTypes</td><td>string</td><td><p>Defines the presence of the module for each account type. </p><p></p><p>Example: Vendor</p></td></tr><tr><td>isEnabledByDefault</td><td>boolean</td><td><p>Defines whether the module is enabled by default. </p><p></p><p>Example: true</p></td></tr><tr><td>isConfigurable</td><td>boolean</td><td><p>Defines whether the module’s access can be changed. </p><p></p><p>Example: true</p></td></tr></tbody></table>
 
 ## Example
 
