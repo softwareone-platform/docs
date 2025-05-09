@@ -22,7 +22,6 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 	"phone": null,
 	"user": {
 		"id": "USR-0000-0001",
-		"href": "/users/USR-0000-0001",
 		"icon": null,
 		"name": "Will Smith"
 	}
@@ -45,7 +44,6 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 ```json
 {
 	"id": "BUY-3911-2313",
-	"href": "/accounts/buyers/BUY-3911-2313",
 	"contact": {
 		"name": "Will Smith",
 		"firstName": "Will",
@@ -79,7 +77,6 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 ```json
 {
 	"id": "BUY-3911-2313",
-	"href": "/accounts/buyers/BUY-3911-2313",
 	"contact": {
 		"name": "Will Smith",
 		"firstName": "Will",
@@ -88,7 +85,6 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 		"phone": null,
 		"user": {
 			"id": "USR-0000-0001",
-			"href": "/users/USR-0000-0001",
 			"icon": null,
 			"invited": "2024-02-03T11:34:15.381Z",
 			"joined": "2024-02-04T12:34:15.381Z",
@@ -113,7 +109,6 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 	"taxId": "VAT1",
 	"account": {
 		"id": "ACC-5563-4382",
-		"href": "/accounts/accounts/ACC-5563-4382",
 		"type": "Client",
 		"status": "Active",
 		"icon": null,
@@ -123,7 +118,6 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 	"sellers": [
 		{
 			"id": "SEL-1299-2079",
-			"href": "/accounts/sellers/SEL-1299-2079",
 			"externalId": "SWO_CH",
 			"name": "SoftwareOne AG"
 		}
@@ -133,7 +127,6 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 			"at": "2023-12-14T13:44:20.896Z",
 			"by": {
 				"id": "USR-0000-0001",
-				"href": "/users/USR-0000-0001",
 				"icon": null,
 				"invited": "2024-02-03T11:34:15.383Z",
 				"joined": "2024-02-04T12:34:15.383Z",
@@ -145,7 +138,6 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 			"at": "2024-01-06T19:04:16.692Z",
 			"by": {
 				"id": "USR-0000-0001",
-				"href": "/users/USR-0000-0001",
 				"icon": null,
 				"invited": "2024-02-03T11:34:15.383Z",
 				"joined": "2024-02-04T12:34:15.383Z",

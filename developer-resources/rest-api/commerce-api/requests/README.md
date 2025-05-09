@@ -20,7 +20,6 @@ The Request object contains the following properties:
 }
 </code></pre></td></tr><tr><td>product</td><td>Product</td><td><p>Reference to the product object. </p><p></p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "PRD-1111-1111-1111",
-  "href": "/catalog/products/PRD-1111-1111-1111",
   "name": "Microsoft Office 365 NCE",
   "icon": "/static/PRD-1111-1111-1111/logo.png"
 }
@@ -55,7 +54,6 @@ The Request object contains the following properties:
 ```json
 {
   "id": "REQ-1671-0642",
-  "href": "/commerce/requests/REQ-1671-0642",
   "status": "Querying",
   "client": { 
     "id": "ACC-1234-4444",
@@ -75,7 +73,6 @@ The Request object contains the following properties:
   },
   "product": {
     "id": "PRD-1111-1111-1111",
-    "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
   }
@@ -87,7 +84,6 @@ The Request object contains the following properties:
 ```json
 {
   "id": "REQ-1671-0642",
-  "href": "/commerce/requests/REQ-1671-0642",
   "status": "Querying",
   "client": { 
     "id": "ACC-1234-4444",
@@ -107,7 +103,6 @@ The Request object contains the following properties:
   },
   "product": {
     "id": "PRD-1111-1111-1111",
-    "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
   },

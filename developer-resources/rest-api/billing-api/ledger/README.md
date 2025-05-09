@@ -8,13 +8,11 @@ The Ledger object is created by the rating function within a specific Seller's c
 }
 </code></pre></td></tr><tr><td>status</td><td>LedgerStatus enum</td><td><p>Status of the ledger. </p><p></p><p>Example: Completed</p></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/">Seller</a></td><td><p>Reference to the Seller object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "SEL-9121-8944",
-  "href": "/accounts/sellers/SEL-9121-8944",
   "name": "Software LN",
   "icon": "/static/SEL-9121-8944/icon.png"
 }
 </code></pre></td></tr><tr><td>product</td><td><a href="../../catalog-api/product/">Product</a></td><td><p>Reference to the Product object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
  "id": "PRD-1111-1111-1111",
-  "href": "/catalog/products/PRD-1111-1111-1111",
   "name": "Microsoft Office 365 NCE",
   "icon": "/static/PRD-1111-1111-1111/logo.png"
 }

@@ -40,7 +40,6 @@ The parameter object contains the value of the given parameter along with additi
 ```json
 {
     "id": "ITM-0690-0539-0001",
-    "href": "/product-items/ITM-0690-0539-0001",
     "name": "Microsoft 365 Online Services for Charity",
     "description": "mashaTestTajfunTeam",
     "state": "Draft",

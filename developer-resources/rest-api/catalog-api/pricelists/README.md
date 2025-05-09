@@ -29,7 +29,6 @@ The Pricelist object contains the following properties:
 ```json
 {
   "id": "PRC-1234-5678-9012",
-  "href": "/v1/price-lists/PRC-1234-5678-9012",
   "currency": "EUR",
   "precision": 3,
   "notes": "This is the primary Price List for the EU region",

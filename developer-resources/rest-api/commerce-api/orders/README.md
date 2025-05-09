@@ -22,13 +22,11 @@ The Order object contains the following properties:
 }
 </code></pre></td></tr><tr><td>agreement</td><td>Agreement</td><td><p>The agreement represents an instance of a relationship between the seller, buyer, and the licensee. </p><p></p><p>It may refer to one-time purchases or/and set of subscriptions. </p><p></p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "AGR-2119-4550-8674-5962",
-    "href": "/commerce/agreements/AGR-2119-4550-8674-5962",
     "name": "Microsoft Office 365 NCE E1",
     "icon": null
 }
 </code></pre></td></tr><tr><td>authorization</td><td>Authorization</td><td><p>Reference to the Authorization object which was used for the order. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "AUT-1234-4567",
-    "href": "/authorization/ATH-1234-45678",
     "name": "Salesforce Enterprise License"
 }
 </code></pre></td></tr><tr><td>listing</td><td>Listing</td><td><p>Reference to the listing that was used for the order.</p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
@@ -36,12 +34,10 @@ The Order object contains the following properties:
 }
 </code></pre></td></tr><tr><td>template</td><td>Template</td><td><p>Reference to the Template object.</p><p> </p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
     "id": "TPL-1234-4444",
-    "href": "/products/product/PRD-1234-1234-1234/templates/TPL-1234-4444",
     "name": "Succesful Activation"
 }
 </code></pre></td></tr><tr><td>assignee</td><td>User</td><td><p>Reference to the User object.</p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
     "id": "TPL-1234-4444",
-    "href": "/products/product/PRD-1234-1234-1234/templates/TPL-1234-4444",
     "name": "Succesful Activation"
 }
 </code></pre></td></tr><tr><td>audit</td><td>AuditObject</td><td><p>Reference to the Audit object.</p><p></p><p>Example: </p><pre class="language-json" data-line-numbers><code class="lang-json">{
@@ -120,7 +116,6 @@ The Order object contains the following properties:
 ```json
 {
   "id": "ORD-6869-4529-8975-9005",
-  "href": "/commerce/orders/ORD-6869-4529-8975-9005",
   "agreement": {
     "id": "AGR-2119-4550-8674-5962",
     "name": "Microsoft Office 365 NCE E1"

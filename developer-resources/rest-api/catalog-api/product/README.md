@@ -9,7 +9,6 @@ The Product object contains the following properties:
 }
 </code></pre></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/#account-object">Account</a></td><td><p>Reference to the vendor account object. </p><p></p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "ACC-1234-1234",
-    "href": "/accounts/accounts/ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
 }
@@ -61,7 +60,6 @@ The Product object contains the following properties:
 ```json
 {
   "id": "PRD-1234-1234",
-  "href": "/v1/products/PRD-1234-1234",
   "name": "Microsoft 365 online services for commercial",
   "shortDescription": "Microsoft 365 and Office 365 are cloud-based productivity suites that offer a range of applications and services to help businesses of all sizes work more efficiently. These plans combine the familiar Microsoft Office desktop suite with cloud-based versions of Microsoft’s next-generation communications and collaboration services to help users be productive from virtually anywhere through the Internet.",
   "longDescription": "<p>Microsoft 365 and Office 365 are cloud-based productivity suites that offer a range of applications and services to help businesses of all sizes work more efficiently. These plans combine the familiar Microsoft Office desktop suite with cloud-based versions of Microsoft's next-generation communications and collaboration services (including Office for the web, Microsoft Exchange Online, Microsoft Teams, and Microsoft SharePoint Online) to help users be productive from virtually anywhere through the Internet. Microsoft 365 and Office 365 are available in a variety of plans to best meet the needs of your organization. For detailed plan information on subscriptions that enable users for Microsoft 365 and Office 365 platform, see the full subscription comparison table.</p>",

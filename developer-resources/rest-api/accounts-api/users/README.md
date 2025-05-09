@@ -43,7 +43,6 @@ The User object represents an individual user in the Marketplace platform. This 
 ```json
 {
   "id": "USR-6375-2499",
-  "href": "/v1/accounts/users/USR-6375-2499",
   "email": "test12.test@SWO1.com",
   "name": "John Smith",
   "firstName": "John",
@@ -56,7 +55,6 @@ The User object represents an individual user in the Marketplace platform. This 
   "accounts": [
 		{
 			"id": "ACC-1671-0642",
-			"href": "/accounts/ACC-1671-0642",
 			"icon": null,
 			"name": "You Are a Test Account"
 		}

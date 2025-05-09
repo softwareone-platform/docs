@@ -12,42 +12,35 @@ Statements are visible to clients, enabling them to reconcile their consumption 
 }
 </code></pre></td></tr><tr><td>type</td><td>StatementType enum</td><td><p>Type of statement, such as debit or credit. </p><p></p><p>Example: Debit</p></td></tr><tr><td>billingType</td><td>BillingType enum</td><td><p>Based on the source of the statement, such as manual upload (Manual) or journal (automated). </p><p></p><p>Example: Manual</p></td></tr><tr><td>status</td><td>StatementStatus enum</td><td><p>Status of the statement. </p><p></p><p>Example: Issued</p></td></tr><tr><td>currency</td><td>string</td><td><p>Statement currency. </p><p></p><p>Example: EUR</p></td></tr><tr><td>client</td><td><a href="../../accounts-api/account/">Account</a></td><td><p>Reference to the client account object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "ACC-1234-4444",
-    "href": "/accounts/accounts/ACC-1234-4444",
     "name": "Best LLC",
     "icon": "/static/ACC-1234-4444/account.png"
 }
 </code></pre></td></tr><tr><td>buyer</td><td><a href="../../accounts-api/buyer/">Buyer</a></td><td><p>Reference to the buyer object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "BUY-3731-7971",
-    "href": "/accounts/buyers/BUY-3731-7971",
     "name": "Adam Ruszczak",
     "icon": "/static/BUY-3731-7971/icon.png"
 }
 </code></pre></td></tr><tr><td>vendor</td><td>Account</td><td><p>Reference to vendor account object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "ACC-1234-1234",
-    "href": "/accounts/accounts/ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
 }
 </code></pre></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/">Seller</a></td><td><p>Reference to the seller object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "SEL-9121-8944",
-    "href": "/accounts/sellers/SEL-9121-8944",
     "name": "Software LN",
     "icon": "/static/SEL-9121-8944/icon.png"
 }
 </code></pre></td></tr><tr><td>product</td><td><a href="../../catalog-api/product/">Product</a></td><td><p>Reference to the product object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "PRD-1111-1111-1111",
-    "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
 }
 </code></pre></td></tr><tr><td>agreement</td><td><a href="../../commerce-api/agreements/">Agreement</a></td><td><p>Reference to the agreement object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "AGR-2119-4550-8674-5962",
-    "href": "/commerce/agreements/ACC-1234-1234",
     "name": "Microsoft Office 365 for My Company"
 }
 </code></pre></td></tr><tr><td>licensee</td><td><a href="../../accounts-api/licensee/">Licensee</a></td><td><p>Reference to the licensee object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "LCE-9625-9634",
-    "href": "/accounts/licensees/LCE-9625-9634",
     "name": "John Smith",
     "icon": "/static/LCE-9625-9634/icon.png"
 }

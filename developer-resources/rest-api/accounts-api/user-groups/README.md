@@ -15,7 +15,6 @@ The Group object represents a user group in the Marketplace platform. This objec
 ```json
 {
 	"id": "UGR-5116-6265",
-	"href": "/user-groups/UGR-5116-6265",
 	"name": "Test-1",
 	"description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
 	"modules": [

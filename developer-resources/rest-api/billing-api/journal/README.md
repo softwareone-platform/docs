@@ -4,19 +4,16 @@ The Billing Journal object is linked to an authorization and is created by vendo
 
 <table><thead><tr><th width="140">Field</th><th width="177">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique journal identifier. Note that no nesting exists for this identifier. </p><p></p><p>Example: BJO-1234-5678</p></td></tr><tr><td>name</td><td>string</td><td><p>Name of the journal. </p><p></p><p>Example: 29 Nov 2024 #1</p></td></tr><tr><td>externalId</td><td>string</td><td><p>External identifier or reference number. This is an optional value to assist vendors in matching the journal with external ERP systems.</p><p></p><p>Example: bill-12345609</p></td></tr><tr><td>notes</td><td>string</td><td><p>Journal notes added by vendor during creation of a journal. </p><p></p><p>Example: This is new billing data for November.</p></td></tr><tr><td>status</td><td>JournalStatus enum</td><td><p>State machine of the journal. </p><p></p><p>Example: Accepted</p></td></tr><tr><td>vendor</td><td>Account</td><td><p>Reference to the vendor account object that was completed during the creation of a journal.</p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "ACC-1234-1234",
-    "href": "/accounts/accounts/ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
 }
 </code></pre></td></tr><tr><td>product</td><td>Product</td><td><p>Reference to the Product object.</p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "PRD-1111-1111-1111",
-    "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
 }
 </code></pre></td></tr><tr><td>authorization</td><td>Authorization</td><td><p>Reference to the Authorization object.</p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "AUT-1234-4567",
-    "href": "/authorization/ATH-1234-45678",
     "name": "Salesforce Enterprise License"
 }
 </code></pre></td></tr><tr><td>dueDate</td><td>DateTime</td><td><p>The due date of a journal. Possible values are generated according to Authorization. </p><p></p><p>Example: 2024-12-29T09:09:30.087Z</p></td></tr><tr><td>currency</td><td>string</td><td><p>The currency of the journal. </p><p></p><p>Example: EUR</p></td></tr><tr><td>assignee</td><td><a href="../../accounts-api/account-user/">User</a></td><td><p>Reference to the User object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
@@ -75,19 +72,16 @@ The Billing Journal object is linked to an authorization and is created by vendo
     "status": "Accepted",
     "vendor": {
         "id": "ACC-1234-1234",
-        "href": "/accounts/accounts/ACC-1234-1234",
         "name": "Microsoft",
         "icon": "/static/ACC1234-1234/account.png"
     },
     "product": {
         "id": "PRD-1111-1111-1111",
-        "href": "/catalog/products/PRD-1111-1111-1111",
         "name": "Microsoft Office 365 NCE",
         "icon": "/static/PRD1111-1111-1111/logo.png"
     },
     "authorization": {
         "id": "AUT-1234-4567",
-        "href": "/authorization/ATH-1234-45678",
         "name": "Salesforce Enterprise License"
     },
     "dueDate": "2024-12-29T09:09:30.087Z",

@@ -12,7 +12,6 @@ The Attachment object inherits from the abstract File base object.
 {
   "id": "ATT-1234-1234-1234",
   "name": "Some order attachment",
-  "href": "/commerce/orders/ORD-2119-4550/attachment/ATT-1234-1234-1234",
   "classification": "Text",
   "contentType": "application/x-iso9660-image",
   "size": 123,

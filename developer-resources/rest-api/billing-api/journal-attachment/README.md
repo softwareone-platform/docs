@@ -13,7 +13,6 @@ The Journal Attachment object allows users to upload attachments to billing obje
 {
   "id": "BIA-1234-1234",
   "name": "29 Nov 2024 #1 - journal data",
-  "href": "/billing/journals/BJO-1234-5678/attachments/BIA-1234-1234",
   "type": "File",
   "contentType": "text/csv",
   "description": "Journal charges for Microsoft 365",

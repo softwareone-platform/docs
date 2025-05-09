@@ -38,7 +38,6 @@ The Audit object serves as a comprehensive record of a singular event that took 
 </code></pre></td></tr><tr><td>documents</td><td>JsonObject</td><td><p>JsonElement containing a collection of linked EventRecordObjects. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json"><strong>{
 </strong>  "order_01": {
     "id": "ORD-3568-4038-2535",
-    "href": "/commerce/orders/ORD-3568-4038-2535",
     "type": "Purchase",
     "status": "Completed" 
   }
@@ -103,7 +102,6 @@ The Audit object serves as a comprehensive record of a singular event that took 
     "documents": {
         "order": {
             "id": "ORD-1208-2301-8479",
-            "href": "/commerce/orders/ORD-1208-2301-8479",
             "type": "Termination",
             "status": "Draft"
         },

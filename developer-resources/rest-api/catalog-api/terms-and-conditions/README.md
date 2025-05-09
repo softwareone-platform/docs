@@ -16,14 +16,12 @@ The Terms object represents terms as a collection of uploaded PDF or DOCX docume
 ```json
 {
   "id": "TCS-3159-1891-0980-8679",
-  "href": "/products/PRD-6822-9898-4256/terms-and-conditions/TCS-3159-1891-0980-8679",
   "name": "Microsoft 365 Terms of Service",
   "description": "Description of Microsoft 365 Terms of Service",
   "displayOrder": 100,
   "state": "Draft",
   "product": {
     "id": "PRD-6822-9898-4256",
-    "href": "/products/PRD-6822-9898-4256",
     "name": "Microsoft 365 online services for commercial"
   },
   "audit": {
@@ -69,7 +67,6 @@ The `TermsVariant` object represents terms variant as an uploaded PDF or DOCX do
 ```json
 {
   "id": "TCS-1234-1234-1234-1234",
-  "href": "/products/PRD-1234-1234/terms/tcs-1234-1234-1234/terms-item/tcs-1234-1234-1234-1234",
   "name": "Terms and Conditions Variant - EN",
   "description": "Terms and Conditions Variant in English",
   "type": "Online",
@@ -78,7 +75,6 @@ The `TermsVariant` object represents terms variant as an uploaded PDF or DOCX do
   "state": "Draft",
   "termsAndConditions": {
     "id": "TCS-1234-1234-1234",
-    "href": "/products/PRD-1234-1234/terms/tcs-1234-1234-1234",
     "name": "Microsoft 365 Terms of Service"
   },
   "audit": {

@@ -28,7 +28,6 @@ The Seller object represents a seller in the Marketplace platform. This object c
 ```json
 {
 	"id": "SEL-7295-4834",
-	"href": "/accounts/sellers/SEL-7295-4834",
 	"externalId": "SWO_CH",
 	"status": "Active",
 	"icon": null,
@@ -52,7 +51,6 @@ The Seller object represents a seller in the Marketplace platform. This object c
 ```json
 {
 	"id": "SEL-7295-4834",
-	"href": "/accounts/sellers/SEL-7295-4834",
 	"externalId": "SWO_CH",
 	"status": "Active",
 	"icon": null,
@@ -69,7 +67,6 @@ The Seller object represents a seller in the Marketplace platform. This object c
 	"buyers": [
 		{
 			"id": "BUY-2321-7707",
-			"href": "/accounts/buyers/BUY-2321-7707",
 			"name": "My first buyer"
 		}
 	],
@@ -78,7 +75,6 @@ The Seller object represents a seller in the Marketplace platform. This object c
 			"at": "2023-12-14T14:19:13.410Z",
 			"by": {
 				"id": "USR-0000-0001",
-				"href": "/users/USR-0000-0001",
 				"icon": null,
 				"invited": "2024-02-03T11:59:55.933Z",
 				"joined": "2024-02-04T12:59:55.933Z",
@@ -90,7 +86,6 @@ The Seller object represents a seller in the Marketplace platform. This object c
 			"at": "2024-01-24T09:33:09.073Z",
 			"by": {
 				"id": "USR-0000-0001",
-				"href": "/users/USR-0000-0001",
 				"icon": null,
 				"invited": "2024-02-03T11:59:55.933Z",
 				"joined": "2024-02-04T12:59:55.933Z",

@@ -27,7 +27,6 @@ The Account object represents an individual account on the Marketplace platform.
 ```json
 {
   "id": "ACC-1671-0642",
-  "href": "/accounts/accounts/ACC-1671-0642",
   "type": "Client",
   "status": "Enabled",
   "name": "You Are a Test Account",
@@ -53,7 +52,6 @@ The Account object represents an individual account on the Marketplace platform.
 {% tab title="FULL EXAMPLE" %}
 <pre class="language-json"><code class="lang-json"><strong>{
 </strong>  "id": "ACC-1671-0642",
-  "href": "/accounts/accounts/ACC-1671-0642",
   "type": "Client",
   "status": "Enabled",
   "name": "You Are a Test Account",
@@ -74,7 +72,6 @@ The Account object represents an individual account on the Marketplace platform.
   "groups": [
 		{
 			"id": "UGR-9354-3382",
-			"href": "/user-groups/UGR-9354-3382",
 			"name": "Administrators",
 			"description": "Manages administrative tasks and resources within an organization.",
 			"logo": null,

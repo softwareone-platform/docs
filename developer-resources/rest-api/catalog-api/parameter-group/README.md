@@ -12,7 +12,6 @@ The Parameter Group object contains the following properties:
 ```json
 {
     "id": "PGR-6790-8304-0001",
-    "href": "/products/PRD-6790-8304/parameter-groups/PGR-6790-8304-0001",
     "title": "Parameters",
     "label": "Create agreement",
     "description": "When creating a new agreement with SoftwareOne, you have the option to establish a new Microsoft account or connect it to an existing account you already hold with Microsoft.",

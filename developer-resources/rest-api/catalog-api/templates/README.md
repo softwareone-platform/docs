@@ -19,7 +19,6 @@ The Template object contains the following properties:
 ```json
 {
   "id": "TPL-1234-5678-0001",
-  "href": "v1/products/PRD-1234-1234/templates/TPL-1234-5678-0001",
   "name": "Thank you for your interest",
   "type": "RequestProcessing",
   "content": "We are delighted that you have contacted us at SoftwareOne. Your interest in Microsoft 365 Online Services product is greatly valued, and we are here to provide all the support you need. Our dedicated team is actively working on your query, and we are committed to responding within 24 hours. \n Thank you!!!",

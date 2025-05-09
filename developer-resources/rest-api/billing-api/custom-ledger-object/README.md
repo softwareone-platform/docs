@@ -6,13 +6,11 @@ Only SoftwareOne Operations can access this object, containing the following pro
 
 <table><thead><tr><th width="197">Field</th><th width="186">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier. Note that no nesting exists for this identifier. </p><p></p><p>Example: OUP-1234-1239</p></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/">Seller</a></td><td><p>Reference to the Seller object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "SEL-9121-8944",
-    "href": "/accounts/sellers/SEL-9121-8944",
     "name": "Software LN",
     "icon": "/static/SEL-9121-8944/icon.png"
 }
 </code></pre></td></tr><tr><td>vendor</td><td>Account</td><td><p>Reference to the vendor account object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "ACC-1234-1234",
-    "href": "/accounts/accounts/ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
 }

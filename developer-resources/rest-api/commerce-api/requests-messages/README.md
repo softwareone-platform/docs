@@ -19,7 +19,6 @@ The Request Message object represents a message object in the scope of the reque
 ```json
 {
   "id": "MSG-1212-3434-5656-7878",
-  "href": "/v1/commerce/requests/REQ-1671-0642/messages/MSG-1212-3434-5656-7878",
   "type": "User",
   "content": "would agree discount of 5%"
 }
@@ -30,7 +29,6 @@ The Request Message object represents a message object in the scope of the reque
 ```json
 {
   "id": "MSG-1212-3434-5656-7878",
-  "href": "/v1/commerce/requests/REQ-1671-0642/messages/MSG-1212-3434-5656-7878",
   "type": "User",
   "content": "would agree discount of 5%",
   "request": {

@@ -6,37 +6,31 @@ This object contains the following properties:
 
 <table data-full-width="false"><thead><tr><th width="155">Field</th><th width="206">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Primary account identifier. </p><p></p><p>Example: AGR-2119-4550-8674</p></td></tr><tr><td>href</td><td>string</td><td><p>Relative reference to the object in the API. </p><p></p><p>Example: /v1/commerce/agreements/AGR-2119-4550-8674</p></td></tr><tr><td>status</td><td>string</td><td>The key status of the object. May only be specified on creation and cannot be updated with <code>PUT</code>.</td></tr><tr><td>name</td><td>string</td><td><p>The agreement name. The value is assigned automatically when the agreement is created, as {product.name} for {licensee.name}. The value can be changed later.</p><p></p><p>Example: Microsoft Office 365 NCE E1</p></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/#account-object">Account</a></td><td><p>Reference to the vendor account object filled in upon creation, according to the product.</p><p></p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "ACC-1234-1234",
-    "href": "/accounts/accounts/ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
 }
 </code></pre></td></tr><tr><td>client</td><td><a href="../../accounts-api/account/#account-object">Account</a></td><td><p>Reference to the client account object.</p><p></p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "ACC-1234-4444",
-    "href": "/accounts/accounts/ACC-1234-4444",
     "name": "Best LLC",
     "icon": "/static/ACC-1234-4444/account.png"
 }
 </code></pre></td></tr><tr><td>buyer</td><td><a href="../../accounts-api/buyer/#buyer-object">Buyer</a></td><td><p>Reference to the Buyer object.</p><p></p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "BUY-3731-7971",
-    "href": "/accounts/buyers/BUY-3731-7971",
     "name": "Adam Ruszczak",
     "icon": "/static/BUY-3731-7971/icon.png"
 }
 </code></pre></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/#seller-object">Seller</a></td><td><p>Reference to the Seller object.</p><p></p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "SEL-9121-8944",
-    "href": "/accounts/sellers/SEL-9121-8944",
     "name": "Software LN",
     "icon": "/static/SEL-9121-8944/icon.png"
 }
 </code></pre></td></tr><tr><td>licensee</td><td><a href="../../accounts-api/licensee/#licensee-object">Licensee</a></td><td><p>Reference to the Licensee object.</p><p></p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "LCE-9625-9634",
-    "href": "/accounts/licensees/LCE-9625-9634",
     "name": "John Smith",
     "icon": "/static/LCE-9625-9634/icon.png"
 }
 </code></pre></td></tr><tr><td>product</td><td><a href="../../catalog-api/product/">Product</a></td><td><p>Reference to the Product object.</p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "PRD-1111-1111-1111",
-    "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
 }
@@ -45,7 +39,6 @@ This object contains the following properties:
 }
 </code></pre></td></tr><tr><td>authorization</td><td>Authorization</td><td><p>Reference to the Authorization object used for the agreement.</p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "AUT-1234-4567",
-    "href": "/authorization/ATH-1234-45678",
     "name": "Salesforce Enterprise License"
 }
 </code></pre></td></tr><tr><td>price</td><td>Price</td><td><p>The agreement's pricing details including the monthly and yearly costs, excluding one-time charges. </p><p></p><p>Different aspects of the price object are visible to different actors, as indicated in the Price Object.</p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
@@ -57,7 +50,6 @@ This object contains the following properties:
 }
 </code></pre></td></tr><tr><td>template</td><td>Template</td><td><p>Reference to Template object. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "TPL-1234-4444",
-    "href": "/products/product/&#x3C;id>/templates/TPL-1234-4444",
     "name": "Succesful Activation"
 }
 </code></pre></td></tr><tr><td>error</td><td>ErrorObject</td><td><p>Markup text string explaining the reason for provisioning failure. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
@@ -85,7 +77,6 @@ This object contains the following properties:
 </code></pre></td></tr><tr><td>subscriptions</td><td>Subscription</td><td><p>List of subscriptions in the agreement.</p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
     {
       "id": "SUB-0792-5000-2253",
-      "href": "/commerce/agreements/AGR-2119-4550-8674-5962/subscriptions/SUB-0792-5000-2253"
     }
 ]
 </code></pre></td></tr><tr><td>parameters.fulfillment</td><td>OrderParameterValue</td><td><p>An object that holds a concise definition of a parameter, its value, and any associated errors. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
@@ -144,7 +135,6 @@ This object contains the following properties:
 ```json
 {
   "id": "AGR-2119-4550-8674",
-  "href": "/commerce/agreements/AGR-2119-4550-8674",
   "status": "Draft",
   "name": "Microsoft Office 365 NCE E1", 
   "vendor": { "id": "ACC-1234-1234" },
@@ -154,7 +144,6 @@ This object contains the following properties:
   "licensee": { "id": "LCE-9625-9634" },
   "product": {
     "id": "PRD-1111-1111-1111",
-    "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
   },
@@ -169,7 +158,6 @@ This object contains the following properties:
   "endDate": "2023-12-14T17:28:57.667Z",
   "template": {
     "id": "TPL-1234-4444",
-    "href": "/products/product/<id>/templates/TPL-1234-4444",
     "name": "Succesful Activation"
   },
   "audit": {
@@ -214,42 +202,35 @@ This object contains the following properties:
 ```json
 {
   "id": "AGR-2119-4550-8674",
-  "href": "/commerce/agreements/AGR-2119-4550-8674",
   "status": "Draft",
   "name": "Microsoft Office 365 NCE E1", 
   "vendor": {
     "id": "ACC-1234-1234",
-    "href": "/accounts/accounts/ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
   },
   "client": {
     "id": "ACC-1234-4444",
-    "href": "/accounts/accounts/ACC-1234-4444",
     "name": "Best LLC",
     "icon": "/static/ACC-1234-4444/account.png"
   },
   "seller": {
     "id": "SEL-9121-8944",
-    "href": "/accounts/sellers/SEL-9121-8944",
     "name": "Software LN",
     "icon": "/static/SEL-9121-8944/icon.png"
   },
   "buyer": {
     "id": "BUY-3731-7971",
-    "href": "/accounts/buyers/BUY-3731-7971",
     "name": "Adam Ruszczak",
     "icon": "/static/BUY-3731-7971/icon.png"
   },
   "licensee": {
     "id": "LCE-9625-9634",
-    "href": "/accounts/licensees/LCE-9625-9634",
     "name": "John Smith",
     "icon": "/static/LCE-9625-9634/icon.png"
   },
   "product": {
     "id": "PRD-1111-1111-1111",
-    "href": "/catalog/products/PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
   },
@@ -266,7 +247,6 @@ This object contains the following properties:
   "endDate": "2023-12-14T17:28:57.667Z",
   "template": {
     "id": "TPL-1234-4444",
-    "href": "/products/product/<id>/templates/TPL-1234-4444",
     "name": "Succesful Activation"
   },
   "audit": {
@@ -310,7 +290,6 @@ This object contains the following properties:
   "subscriptions": [
     {
       "id": "SUB-0792-5000-2253",
-      "href": "/commerce/agreements/AGR-2119-4550-8674-5962/subscriptions/SUB-0792-5000-2253"
     }
   ],
   "parameters": {

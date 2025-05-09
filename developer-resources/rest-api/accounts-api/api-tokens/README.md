@@ -16,7 +16,6 @@ The API  Token object represents an authentication token user in the Marketplace
 ```json
 {
     "id": "TKN-4134-7330",
-    "href": "/v1/accounts/accounts/ACC-1671-0642/tokens/TKN-4134-7330",
     "name": "Name",
     "description": "Description",
     "icon": "",

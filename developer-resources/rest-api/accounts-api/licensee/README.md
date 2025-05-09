@@ -18,7 +18,6 @@ The Licensee object represents a licensee in the Marketplace platform. This obje
 	"phone": null,
 	"user": {
 		"id": "USR-0000-0001",
-		"href": "/users/USR-0000-0001",
 		"icon": null,
 		"name": "Will Smith"
 	}
@@ -41,7 +40,6 @@ The Licensee object represents a licensee in the Marketplace platform. This obje
 ```json
 {
 	"id": "LCE-8893-6916-0000",
-	"href": "/accounts/licensees/LCE-8893-6916-0000",
 	"contact": null,
 	"name": "Stark Industries",
 	"externalId": null,
@@ -60,7 +58,6 @@ The Licensee object represents a licensee in the Marketplace platform. This obje
 ```json
 {
 	"id": "LCE-8893-6916-0000",
-	"href": "/accounts/licensees/LCE-8893-6916-0000",
 	"contact": null,
 	"name": "Stark Industries",
 	"externalId": null,
@@ -71,7 +68,6 @@ The Licensee object represents a licensee in the Marketplace platform. This obje
 	"description": null,
 	"account": {
 		"id": "ACC-5563-4382",
-		"href": "/accounts/accounts/ACC-5563-4382",
 		"type": "Client",
 		"status": "Active",
 		"icon": null,
@@ -79,12 +75,10 @@ The Licensee object represents a licensee in the Marketplace platform. This obje
 	},
 	"buyer": {
 		"id": "BUY-8928-0965",
-		"href": "/accounts/buyers/BUY-8928-0965",
 		"name": "Stark Industries"
 	},
 	"seller": {
 		"id": "SEL-4717-3953",
-		"href": "/accounts/sellers/SEL-4717-3953",
 		"externalId": "SWO_CA",
 		"name": "SoftwareOne Canada, Inc."
 	}

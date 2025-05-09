@@ -14,7 +14,6 @@ The  SpotlightTopItem is used to provide data to the frontend template. It inclu
 ```json
 {
   "id": "ORD-6637-5331-9984",
-  "href": "/public/v1/commerce/orders/ORD-6637-5331-9984",
   "audit": {
     "updated": {
       "at": "2024-05-28T09:00:22.945Z"
