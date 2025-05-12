@@ -4,7 +4,7 @@ The Agreement object represents an instance of a relationship between the seller
 
 This object contains the following properties:
 
-<table data-full-width="false"><thead><tr><th width="155">Field</th><th width="163">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>Primary account identifier.</p><p>Example: AGR-2119-4550-8674</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Relative reference to the object in the API.</p><p>Example: /v1/commerce/agreements/AGR-2119-4550-8674</p></td></tr><tr><td>status</td><td><code>string</code></td><td>The key status of the object. May only be specified on creation and cannot be updated with <code>PUT</code>.</td></tr><tr><td>name</td><td><code>string</code></td><td><p>The agreement name. The value is assigned automatically when the agreement is created, as {product.name} for {licensee.name}. The value can be changed later.</p><p>Example: Microsoft Office 365 NCE E1</p></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/#account-object"><code>Account</code></a></td><td><p>Reference to the vendor account object filled in upon creation, according to the product.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="155">Field</th><th width="189">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>Primary account identifier.</p><p>Example: AGR-2119-4550-8674</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Relative reference to the object in the API.</p><p>Example: /v1/commerce/agreements/AGR-2119-4550-8674</p></td></tr><tr><td>status</td><td><code>string</code></td><td>The key status of the object. May only be specified on creation and cannot be updated with <code>PUT</code>.</td></tr><tr><td>name</td><td><code>string</code></td><td><p>The agreement name. The value is assigned automatically when the agreement is created, as {product.name} for {licensee.name}. The value can be changed later.</p><p>Example: Microsoft Office 365 NCE E1</p></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/#account-object"><code>Account</code></a></td><td><p>Reference to the vendor account object filled in upon creation, according to the product.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
     "id": "ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
@@ -97,7 +97,7 @@ This object contains the following properties:
       }
   }
 ]
-</code></pre></td></tr><tr><td>parameters.ordering</td><td><code>Object</code></td><td><p>An object that holds a concise definition of a parameter, its value, and any associated errors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
+</code></pre></td></tr><tr><td>parameters.ordering</td><td><code>object</code></td><td><p>An object that holds a concise definition of a parameter, its value, and any associated errors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
   {
       "id": "PRM-1234-1234-1234",
       "name": "Tennant Id",
@@ -115,7 +115,7 @@ This object contains the following properties:
       }
   }
 ]
-</code></pre></td></tr><tr><td>audit</td><td><code>AuditObject</code></td><td><p>Audit object with possible entries: created, updated, activated, terminated, according to the object's lifecycle.</p><p>Possible audit events include Created, Updated, Activated, Terminated, and Failed.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>Possible audit events include <code>Created</code>, <code>Updated</code>, <code>Activated</code>, <code>Terminated</code>, or <code>Failed</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } },
   "activated": { "at": "...", "by": { } },
