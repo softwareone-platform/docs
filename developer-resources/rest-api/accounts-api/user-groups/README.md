@@ -2,7 +2,7 @@
 
 The Group object represents a user group in the Marketplace platform. This object contains the following properties:
 
-<table data-full-width="false"><thead><tr><th width="140">Field</th><th width="125">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Primary group identifier. </p><p></p><p>Example: UGR-1234-1234</p></td></tr><tr><td>href</td><td>string</td><td><p>Relative reference to the object in the API. </p><p></p><p>Example: /v1/accounts/groups/UGR-1234-1234</p></td></tr><tr><td>icon</td><td>string</td><td><p>Relative path to the token’s logo. </p><p></p><p>Example: /static/accounts/UGR-1234-1234/logo.png</p></td></tr><tr><td>name</td><td>string</td><td><p>Group name. </p><p></p><p>Example: Stark Industries</p></td></tr><tr><td>description</td><td>string</td><td><p>Group description. </p><p></p><p>Example: Stark's marketing group</p></td></tr><tr><td>modules</td><td><a href="../module/#module-object">Module</a></td><td><p>List of modules available for the group. </p><p></p><p>Example: Invoices</p></td></tr><tr><td>default</td><td>bool</td><td><p>Indicates if the user group is set as default in the account. There is only one default user group per account. </p><p></p><p>Example: true</p></td></tr><tr><td>stats</td><td>stats</td><td><p>Statistics of the group. A group can be deleted only if the user count is 0.  </p><p></p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="140">Field</th><th width="125">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary group identifier.</p><p>Example: UGR-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Relative reference to the object within the API.</p><p>Example: /v1/accounts/groups/UGR-1234-1234</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>Relative path to the token’s logo.</p><p>Example: /static/accounts/UGR-1234-1234/logo.png</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The group name.</p><p>Example: Stark Industries</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the group.</p><p>Example: Stark's marketing group</p></td></tr><tr><td>modules</td><td><a href="../module/#module-object"><code>Module</code></a></td><td><p>The modules that the group members can access. </p><p>Example: Invoices</p></td></tr><tr><td>default</td><td><code>bool</code></td><td><p>Indicates if the user group is set as default within the account. There can be only one default user group per account.</p><p>Example: true</p></td></tr><tr><td>stats</td><td><code>stats</code></td><td><p>Statistics of the group. A group can be deleted only if the user count is 0.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "users": 123
 }
 </code></pre></td></tr></tbody></table>
@@ -11,7 +11,7 @@ The Group object represents a user group in the Marketplace platform. This objec
 
 {% tabs %}
 {% tab title="GROUP OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
 	"id": "UGR-5116-6265",

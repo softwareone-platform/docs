@@ -2,7 +2,7 @@
 
 The Audit Record object provides a detailed record of a specific event that occurred within the platform. This object contains the following properties:
 
-<table><thead><tr><th width="166">Field</th><th width="157">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier for the audit record. Note that no nesting exists for this identifier.</p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td>string</td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action}</p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td>string</td><td><p>A summary of the audit record.</p><p>Example: Order created</p></td></tr><tr><td>details</td><td>string</td><td><p>The audit details template. Any document property may be used as a placeholder.</p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td>Audit Record Actor</td><td><p>Information about the actor who has triggered an event.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+<table><thead><tr><th width="166">Field</th><th width="157">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the audit record. Note that no nesting exists for this identifier.</p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td><code>string</code></td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action}</p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td><code>string</code></td><td><p>A summary of the audit record.</p><p>Example: Order created</p></td></tr><tr><td>details</td><td><code>string</code></td><td><p>The audit details template. Any document property may be used as a placeholder.</p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td><code>auditrecord Actor</code></td><td><p>Information about the actor who has triggered an event.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "id": "USR-2311-4038",
   "name": "Will Smith",
   "icon": "/public/users/usr-2311-4038.jpg",
@@ -12,13 +12,13 @@ The Audit Record object provides a detailed record of a specific event that occu
     "icon": "/public/accounts/acc-8989-32321.jpg",
   }
 }
-</code></pre></td></tr><tr><td>object</td><td>Audit Record Object</td><td><p>The API object for which an event has been triggered.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>object</td><td><code>auditrecord Object</code></td><td><p>The API object for which an event has been triggered.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "id": "ORD-3568-4038-2535",
   "type": "order",
   "icon": null,
   "objectType" : "Order"
 }
-</code></pre></td></tr><tr><td>timestamp</td><td>DateTime</td><td><p>The timestamp of the event.</p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td>AuditRecordType Enum</td><td><p>The visibility of the audit record, which can be public or private.</p><p>Example: Public</p></td></tr><tr><td>request</td><td>Request</td><td><p>The request for technical data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>timestamp</td><td><code>dateTime</code></td><td><p>The timestamp of the event.</p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td><code>auditRecordType Enum</code></td><td>The visibility of the audit record. Possible values: <code>Public</code> or <code>Private</code>.</td></tr><tr><td>request</td><td><code>request</code></td><td><p>The request for technical data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "api": {
     "ip": "192.168.2.2",
     "geolocation": {
@@ -33,7 +33,7 @@ The Audit Record object provides a detailed record of a specific event that occu
   "log": {
     "correlationId": "some-app-insights-id" }
 }: null,
-</code></pre></td></tr><tr><td>documents</td><td>JSONObject</td><td><p>JsonElement containing a collection of linked EventRecordObjects.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>documents</td><td><code>object</code></td><td><p>JsonElement containing a collection of linked EventRecordObjects.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
     "order_01": {
     "id": "ORD-3568-4038-2535",
     "type": "Purchase",
@@ -43,7 +43,7 @@ The Audit Record object provides a detailed record of a specific event that occu
     "extra_prop_01": "Some value that does not exist in order" 
   }
 }
-</code></pre></td></tr><tr><td>viewers</td><td>Viewer</td><td><p>A list of accounts that have access to the audit records.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
+</code></pre></td></tr><tr><td>viewers</td><td><code>Viewer</code></td><td><p>A list of accounts that have access to the audit records.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
   {
       "id": "ACC-3408-7241",
       "name": "MPT_QA_STATIC Commerce e2e client",
@@ -63,6 +63,7 @@ The Audit Record object provides a detailed record of a specific event that occu
 
 {% tabs %}
 {% tab title="AUDIT RECORD" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
     "event": "platform.commerce.order.created",
@@ -132,5 +133,6 @@ The Audit Record object provides a detailed record of a specific event that occu
     "id": "AUD-0391-8050-9033-9920"
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}

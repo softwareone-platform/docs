@@ -111,3 +111,11 @@ Our platform reports errors using HTTP status codes in a standard format, ensuri
 {% content-ref url="commerce-api/" %}
 [commerce-api](commerce-api/)
 {% endcontent-ref %}
+
+{% content-ref url="notifications-api/" %}
+[notifications-api](notifications-api/)
+{% endcontent-ref %}
+
+{% content-ref url="spotlight-objects-api/" %}
+[spotlight-objects-api](spotlight-objects-api/)
+{% endcontent-ref %}
