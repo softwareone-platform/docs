@@ -1,12 +1,8 @@
-# Overrides
+# Override
 
 The Override object marks the clients as eligible for manual billing, bypassing automated billing.&#x20;
 
 Assigning this object indicates that the client's billing requires flexibility and will be handled manually.&#x20;Only SoftwareOne Operations can see overrides.
-
-{% openapi-schemas spec="marketplace-billing-api" schemas="Override" grouped="false" %}
-[Broken link](broken-reference)
-{% endopenapi-schemas %}
 
 <table><thead><tr><th width="166">Field</th><th width="183">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier for the object. Note that no nesting exists for this identifier. </p><p>Example: BOV-1234-1239</p></td></tr><tr><td>client</td><td><a href="../../accounts-api/account/">Account</a></td><td><p>Reference to the client Account object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "ACC-1234-4444",

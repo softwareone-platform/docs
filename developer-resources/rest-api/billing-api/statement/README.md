@@ -2,17 +2,9 @@
 
 The Statement object represents entries generated in the scope of an agreement from the corresponding ledger.
 
-Statements are visible to clients, enabling them to reconcile their consumption as necessary.&#x20;
+Statements are visible to clients, enabling them to reconcile their consumption as necessary. The Statement object contains the following properties:
 
-{% openapi-schemas spec="marketplace-billing-api" schemas="Statement" grouped="false" %}
-[Broken link](broken-reference)
-{% endopenapi-schemas %}
-
-
-
-The Statement object contains the following properties:
-
-<table><thead><tr><th width="180">Field</th><th width="217">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier for the statement. Note that no nesting exists for this identifier.</p><p>Example: SOM-1234-5678-9876</p></td></tr><tr><td>ledger</td><td><a href="../ledger/">Ledger</a></td><td><p>Reference to the Ledger object for automated billing.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="180">Field</th><th width="185">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier for the statement. Note that no nesting exists for this identifier.</p><p>Example: SOM-1234-5678-9876</p></td></tr><tr><td>ledger</td><td><a href="../ledger/">Ledger</a></td><td><p>Reference to the Ledger object for automated billing.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "BLE-1234-1239"
 }
 </code></pre></td></tr><tr><td>operationsUpload</td><td>OperationsUpload</td><td><p>Reference to the Operations Upload object for manual billing.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
@@ -56,7 +48,7 @@ The Statement object contains the following properties:
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } }
 }
-</code></pre></td></tr><tr><td>price</td><td>StatementPriceSummary</td><td><p>The statement price summary with aggregated price values for all statement charges.</p><p>The StatementPriceSummary object inherits from PriceSummary and adds tax-related properties: <code>TotalST</code> and <code>TotalGT</code></p><p>Note that not all fields are visible to all actors.</p></td></tr><tr><td>processing</td><td><a href="../journal/#processingsummary">ProcessingSummary</a></td><td><p>The statement processing summary including the total charges and counts of ready, error, split, cancelled, and completed charges.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>price</td><td>StatementPriceSummary</td><td><p>The statement price summary with aggregated price values for all statement charges.</p><p>The StatementPriceSummary object inherits from PriceSummary and adds these tax-related properties: <code>TotalST</code> and <code>TotalGT</code> .</p><p>Note that not all fields are visible to all actors.</p></td></tr><tr><td>processing</td><td><a href="../journal/#processingsummary">ProcessingSummary</a></td><td><p>The statement processing summary including the total charges and counts of ready, error, split, cancelled, and completed charges.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "total": 150,
   "ready": 140,
   "error": 6,

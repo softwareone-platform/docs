@@ -1,24 +1,6 @@
 # Invoice
 
-The Invoice object represents an invoice generated in the ERP system.&#x20;
-
-{% openapi-schemas spec="marketplace-billing-api" schemas="Invoice" grouped="false" %}
-[Broken link](broken-reference)
-{% endopenapi-schemas %}
-
-{% openapi-schemas spec="marketplace-billing-api" schemas="InvoiceAttachment" grouped="false" %}
-[Broken link](broken-reference)
-{% endopenapi-schemas %}
-
-{% openapi-schemas spec="marketplace-billing-api" schemas="ErpInvoiceData" grouped="false" %}
-[Broken link](broken-reference)
-{% endopenapi-schemas %}
-
-{% openapi-schemas spec="marketplace-billing-api" schemas="InvoiceLine" grouped="false" %}
-[Broken link](broken-reference)
-{% endopenapi-schemas %}
-
-This object contains the following properties:
+The Invoice object represents an invoice generated in the ERP system. This object contains the following properties:
 
 <table><thead><tr><th width="113">Field</th><th width="229">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier of the invoice. Note that no nesting exists for this identifier.</p><p>Example: INV-123-567-321</p></td></tr><tr><td>statement</td><td><a href="../statement/">Statement</a></td><td><p>Reference to the statement object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "SOM-1234-5678-9876"

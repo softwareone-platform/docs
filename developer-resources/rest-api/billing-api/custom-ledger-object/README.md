@@ -2,16 +2,6 @@
 
 The Custom Ledger object is required to submit billing information for clients with manual billing activated. Only SoftwareOne Operations can access this object.&#x20;
 
-{% openapi-schemas spec="marketplace-billing-api" schemas="CustomLedger" grouped="false" %}
-[Broken link](broken-reference)
-{% endopenapi-schemas %}
-
-{% openapi-schemas spec="marketplace-billing-api" schemas="CustomLedgerAttachment" grouped="false" %}
-[Broken link](broken-reference)
-{% endopenapi-schemas %}
-
-
-
 <table><thead><tr><th width="197">Field</th><th width="186">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier. Note that no nesting exists for this identifier.</p><p>Example: OUP-1234-1239</p></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/">Seller</a></td><td><p>Reference to the Seller object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "SEL-9121-8944",
     "name": "Software LN",
