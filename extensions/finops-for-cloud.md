@@ -29,7 +29,7 @@ The **Products** page is located under **Marketplace** in the main navigation me
 
 From the list of products, select **SoftwareOne FinOps for Cloud**. Then, on the details page, select **Buy now** to start the purchase wizard.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

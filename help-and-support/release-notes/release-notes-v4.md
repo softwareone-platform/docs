@@ -12,7 +12,7 @@ In addition to invoices, you'll now receive statements containing a detailed rec
 
 We've also updated the platform's navigation menu to include a new **Billing** module, making it easy for you to access your [statements](../../modules-and-features/marketplace/billing/statements.md).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>New Billing option in the navigation menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>New Billing option in the navigation menu</p></figcaption></figure>
 
 ## Support for AWS Extension
 
