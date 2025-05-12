@@ -96,10 +96,18 @@ Our platform reports errors using HTTP status codes in a standard format, ensuri
 [accounts-api](accounts-api/)
 {% endcontent-ref %}
 
-{% content-ref url="commerce-api/" %}
-[commerce-api](commerce-api/)
+{% content-ref url="audit-api/" %}
+[audit-api](audit-api/)
+{% endcontent-ref %}
+
+{% content-ref url="billing-api/" %}
+[billing-api](billing-api/)
 {% endcontent-ref %}
 
 {% content-ref url="catalog-api/" %}
 [catalog-api](catalog-api/)
+{% endcontent-ref %}
+
+{% content-ref url="commerce-api/" %}
+[commerce-api](commerce-api/)
 {% endcontent-ref %}
