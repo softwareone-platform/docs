@@ -1,10 +1,8 @@
 # Audit Record
 
-## Audit Record object
+The Audit Record object provides a detailed record of a specific event that occurred within the platform. This object contains the following properties:
 
-The Audit object serves as a comprehensive record of a singular event that took place within the platform.
-
-<table><thead><tr><th width="166">Field</th><th width="157">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier for the audit record. Note that no nesting exists for this identifier. </p><p></p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td>string</td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action} </p><p></p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td>string</td><td><p>A summary of the audit record.</p><p></p><p>Example: Order created</p></td></tr><tr><td>details</td><td>string</td><td><p>The audit details template. Any document property may be used as a placeholder. </p><p></p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td>Audit Record Actor</td><td><p>Information about the actor who has triggered an event. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="166">Field</th><th width="157">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Unique identifier for the audit record. Note that no nesting exists for this identifier.</p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td>string</td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action}</p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td>string</td><td><p>A summary of the audit record.</p><p>Example: Order created</p></td></tr><tr><td>details</td><td>string</td><td><p>The audit details template. Any document property may be used as a placeholder.</p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td>Audit Record Actor</td><td><p>Information about the actor who has triggered an event.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "id": "USR-2311-4038",
   "name": "Will Smith",
   "icon": "/public/users/usr-2311-4038.jpg",
@@ -14,13 +12,13 @@ The Audit object serves as a comprehensive record of a singular event that took 
     "icon": "/public/accounts/acc-8989-32321.jpg",
   }
 }
-</code></pre></td></tr><tr><td>object</td><td>Audit Record Object</td><td><p>The API object for which an event has been triggered. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>object</td><td>Audit Record Object</td><td><p>The API object for which an event has been triggered.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "id": "ORD-3568-4038-2535",
   "type": "order",
   "icon": null,
   "objectType" : "Order"
 }
-</code></pre></td></tr><tr><td>timestamp</td><td>DateTime</td><td><p>The timestamp of the event. </p><p></p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td>AuditRecordType Enum</td><td><p>The visibility of the audit record, which can be public or private. </p><p></p><p>Example: Public</p></td></tr><tr><td>request</td><td>Request</td><td><p>The request for technical data. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>timestamp</td><td>DateTime</td><td><p>The timestamp of the event.</p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td>AuditRecordType Enum</td><td><p>The visibility of the audit record, which can be public or private.</p><p>Example: Public</p></td></tr><tr><td>request</td><td>Request</td><td><p>The request for technical data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "api": {
     "ip": "192.168.2.2",
     "geolocation": {
@@ -35,8 +33,8 @@ The Audit object serves as a comprehensive record of a singular event that took 
   "log": {
     "correlationId": "some-app-insights-id" }
 }: null,
-</code></pre></td></tr><tr><td>documents</td><td>JsonObject</td><td><p>JsonElement containing a collection of linked EventRecordObjects. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json"><strong>{
-</strong>  "order_01": {
+</code></pre></td></tr><tr><td>documents</td><td>JSONObject</td><td><p>JsonElement containing a collection of linked EventRecordObjects.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+    "order_01": {
     "id": "ORD-3568-4038-2535",
     "type": "Purchase",
     "status": "Completed" 
@@ -45,7 +43,7 @@ The Audit object serves as a comprehensive record of a singular event that took 
     "extra_prop_01": "Some value that does not exist in order" 
   }
 }
-</code></pre></td></tr><tr><td>viewers</td><td>Viewer</td><td><p>A list of accounts that have access to the audit records. </p><p></p><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
+</code></pre></td></tr><tr><td>viewers</td><td>Viewer</td><td><p>A list of accounts that have access to the audit records.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
   {
       "id": "ACC-3408-7241",
       "name": "MPT_QA_STATIC Commerce e2e client",
