@@ -16,7 +16,7 @@ Assigning this object indicates that the client's billing requires flexibility a
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
 }
-</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td>The status of the override. Possible values: <code>Active</code> or <code>Disabled</code>. </td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>Reference number. This value is optional.</p><p>Example: bill-12345609</p></td></tr><tr><td>notes</td><td><code>string</code></td><td><p>Notes associated with the override.</p><p>Example: Based on the reporting figures, we decided to move this client to manual billing.</p></td></tr><tr><td>audit</td><td><code>AuditObject</code></td><td><p>Audit object with possible entries: Created or Updated. </p><p>Example:</p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td>The status of the override. Possible values: <code>Active</code> or <code>Disabled</code>. </td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>Reference number. This value is optional.</p><p>Example: bill-12345609</p></td></tr><tr><td>notes</td><td><code>string</code></td><td><p>Notes associated with the override.</p><p>Example: Based on the reporting figures, we decided to move this client to manual billing.</p></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>Audit object with possible entries: <code>Created</code> or <code>Updated</code>. </p><p>Example:</p><pre class="language-json"><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } }
 }
