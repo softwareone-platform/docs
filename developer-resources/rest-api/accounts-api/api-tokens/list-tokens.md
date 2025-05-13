@@ -2,6 +2,6 @@
 
 Get the API tokens collection.
 
-{% openapi-operation spec="marketplace-accounts-api" path="/v1/accounts/api-tokens" method="get" %}
+{% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/api-tokens" method="get" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

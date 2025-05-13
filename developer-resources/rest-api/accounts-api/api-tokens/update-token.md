@@ -2,6 +2,6 @@
 
 Update the specified token object.
 
-{% openapi-operation spec="marketplace-accounts-api" path="/v1/accounts/api-tokens/{id}" method="put" %}
+{% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/api-tokens/{id}" method="put" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

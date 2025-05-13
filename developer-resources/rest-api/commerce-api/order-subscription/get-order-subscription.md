@@ -2,6 +2,6 @@
 
 Returns subscription with a given ID that exists in the order.
 
-{% openapi-operation spec="marketplace-commerce-api" path="/v1/commerce/orders/{orderId}/subscriptions" method="get" %}
+{% openapi-operation spec="marketplace-commerce-api" path="/public/v1/commerce/orders/{orderId}/subscriptions" method="get" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}
