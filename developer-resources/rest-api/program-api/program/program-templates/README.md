@@ -1,2 +1,11 @@
 # Program Templates
 
+The Program Template Object provides functionality for templates to be made and automatically delivered once a set of rules based on type is met. This enables the client to know what is happening with their order and if anything is needed of them.&#x20;
+
+This object contains the follwing attributes:
+
+<table><thead><tr><th width="152">Field</th><th width="150">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The business identifier of the program template. </p><p>Example: TPL-1234-5678</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The resource URI of the terms variant. </p><p>Example: v1/programs/PRG-1234-1234/templates/TPL-1234-5678-0001</p></td></tr><tr><td>type</td><td><code>string</code></td><td><p>Possible values: </p><p><code>CertificateActivate</code></p><p><code>CertificatePending</code></p><p><code>CertificateExpired</code></p><p><code>EnrollmentProcessing</code></p><p><code>EnrollmentQuerying</code></p><p><code>EnrollmentCompleted</code></p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the template. </p><p>Example: Your certificate has been activated</p></td></tr><tr><td>content</td><td><code>string</code></td><td><p>The content of the template. </p><p>Example: We are delighted to inform you that your certificate has been activated successfully!</p></td></tr><tr><td>default</td><td><code>boolean</code></td><td><ul><li>Each program has 3 defaults automatically generated when the program is created. </li><li>Each automatically created template will include a default system message that the client account must update.</li><li>Defaults cannot be deleted, while non-defaults can be deleted.</li></ul><p>Example: True</p></td></tr><tr><td>program</td><td><a href="../"><code>program</code></a></td><td>The program to which the variant belongs.</td></tr><tr><td>audit</td><td><code>audit</code></td><td><p>The audit information object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+  "created": { "at": "...", "by": { } },
+  "updated": { "at": "...", "by": { } }
+}
+</code></pre></td></tr></tbody></table>
