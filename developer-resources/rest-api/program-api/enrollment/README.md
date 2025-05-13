@@ -129,7 +129,7 @@ The Enrollment Attachment object provides the ability to upload an enrollment at
 }
 </code></pre></td></tr></tbody></table>
 
-## Example
+## Examples
 
 {% tabs %}
 {% tab title="ENROLLMENT OBJECT" %}
@@ -209,7 +209,7 @@ The Enrollment Attachment object provides the ability to upload an enrollment at
 {% endtab %}
 
 {% tab title="ENROLLMENT ATTACHMENT" %}
-{% code overflow="wrap" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
  {
     "id": "ATT-0001-0001-0001-0001",
