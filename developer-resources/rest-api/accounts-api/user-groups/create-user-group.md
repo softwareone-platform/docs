@@ -2,6 +2,6 @@
 
 Create a user group for the client account.
 
-{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/user-groups" method="post" %}
+{% openapi-operation spec="marketplace-accounts-api" path="/v1/accounts/user-groups" method="post" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

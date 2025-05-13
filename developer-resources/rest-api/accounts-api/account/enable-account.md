@@ -4,6 +4,6 @@ Enable the previously disabled [Account](https://docs.client.softwareone.com/ext
 
 When enabled, the account status will change to `Active` if the account has `ExternalId` assigned or `Enabled` otherwise.
 
-{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/accounts/{id}/enable" method="post" %}
+{% openapi-operation spec="marketplace-accounts-api" path="/v1/accounts/accounts/{id}/enable" method="post" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

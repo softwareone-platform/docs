@@ -1,5 +1,5 @@
 # Update Agreement
 
-{% openapi-operation spec="softwareone-platform-api" path="/v1/commerce/agreements/{id}" method="put" %}
+{% openapi-operation spec="marketplace-commerce-api" path="/v1/commerce/agreements/{id}" method="put" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

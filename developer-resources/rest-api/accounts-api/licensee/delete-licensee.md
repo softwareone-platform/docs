@@ -2,6 +2,6 @@
 
 Delete the licensee object.
 
-{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/licensees/{id}" method="delete" %}
+{% openapi-operation spec="marketplace-accounts-api" path="/v1/accounts/licensees/{id}" method="delete" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

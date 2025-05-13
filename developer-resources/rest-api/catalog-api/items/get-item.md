@@ -1,5 +1,5 @@
 # Get Item
 
-{% openapi-operation spec="softwareone-platform-api" path="/v1/catalog/items/{id}" method="get" %}
+{% openapi-operation spec="marketplace-catalog-api" path="/v1/catalog/items/{id}" method="get" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

@@ -2,6 +2,6 @@
 
 Invite a user to the account.
 
-{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/account-users" method="post" %}
+{% openapi-operation spec="marketplace-accounts-api" path="/v1/accounts/account-users" method="post" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

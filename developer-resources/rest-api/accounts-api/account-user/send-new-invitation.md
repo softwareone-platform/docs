@@ -2,6 +2,6 @@
 
 Send new invitation when invite expires.
 
-{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/account-users/{id}/send-new-invite" method="post" %}
+{% openapi-operation spec="marketplace-accounts-api" path="/v1/accounts/account-users/{id}/send-new-invite" method="post" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

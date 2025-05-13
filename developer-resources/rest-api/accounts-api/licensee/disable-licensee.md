@@ -2,6 +2,6 @@
 
 Disable the licensee object.
 
-{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/licensees/{id}/disable" method="post" %}
+{% openapi-operation spec="marketplace-accounts-api" path="/v1/accounts/licensees/{id}/disable" method="post" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}

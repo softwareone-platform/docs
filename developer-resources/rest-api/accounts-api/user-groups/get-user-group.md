@@ -2,6 +2,6 @@
 
 Get a single user group by ID.
 
-{% openapi-operation spec="softwareone-platform-api" path="/v1/accounts/user-groups/{id}" method="get" %}
+{% openapi-operation spec="marketplace-accounts-api" path="/v1/accounts/user-groups/{id}" method="get" %}
 [Broken link](broken-reference)
 {% endopenapi-operation %}
