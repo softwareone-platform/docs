@@ -2,7 +2,7 @@
 
 The following diagram shows the state (status) transition process of a program in the platform.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Program state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_program.png" alt=""><figcaption><p>Program state transition</p></figcaption></figure>
 
 ### State description
 

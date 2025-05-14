@@ -2,7 +2,7 @@
 
 The following figure shows the state (status) transition process of a Buyer on the platform.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Transition diagram</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_buyer.png" alt=""><figcaption><p>Buyer state diagram</p></figcaption></figure>
 
 ### State description <a href="#title-5mg-nfx-6ff" id="title-5mg-nfx-6ff"></a>
 
