@@ -2,11 +2,9 @@
 
 The Marketplace Platform enables transactions among [different actors](../../marketplace-platform/getting-started/key-concepts.md#actors), such as clients, partners, and vendors, in countries where SoftwareOne operates.&#x20;
 
-The platform includes objects such as orders, subscriptions, and agreements, which represent a relationship between these actors and SoftwareOne. Each object contains workflows that are essential for different scenarios within the platform. These workflows are illustrated as state diagrams, which show how these objects transition from one state to another.&#x20;
+The platform includes objects such as orders, subscriptions, and agreements, which represent a relationship between these actors and SoftwareOne. Each object contains workflows that are essential for different scenarios within the platform. These workflows are illustrated as state diagrams, which are a visual representation of the transitions between different states of an object. You can use these diagrams to understand and visualize the workflow easily.&#x20;
 
-For instance, the initial status of a subscription is always New, and it can go through multiple statuses during its lifecycle within the platform. With the help of these diagrams, you can understand and visualize each subscription status and its transition easily.
-
-The following tabs feature objects that undergo various states and transitions within the platform. Select each object to access the state diagram and status description. Note that objects that don't have a status, for example, audit records, spotlight, and more, are not included on this page. &#x20;
+The following tabs contain links to objects that may go through multiple statuses. Select each object to view the state diagram and a description of each state. Note that objects that may not have a status, for example, audit records, spotlight, and more, are not included on this page. &#x20;
 
 {% tabs %}
 {% tab title="Accounts" %}
