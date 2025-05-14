@@ -15,7 +15,7 @@ To complete the onboarding:
 1. Navigate to the **Orders** page on the platform.&#x20;
 2. Select the required purchase order. The order details page is displayed.
 
-<figure><img src="../../../.gitbook/assets/image-20241106-111256 (1).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/azure_onboarding.png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 
 3. On the **General** tab, select the Lighthouse activation link.&#x20;
 

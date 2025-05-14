@@ -17,7 +17,7 @@ The Journal object is linked to an authorization and is created by vendors from 
     "id": "AUT-1234-4567",
     "name": "Salesforce Enterprise License"
 }
-</code></pre></td></tr><tr><td>dueDate</td><td><code>dateTime</code></td><td><p>The due date of a journal. Possible values are generated according to Authorization.</p><p>Example: 2024-12-29T09:09:30.087Z</p></td></tr><tr><td>currency</td><td><code>string</code></td><td><p>The currency of the journal.</p><p>Example: EUR</p></td></tr><tr><td>assignee</td><td><a href="../../accounts-api/account-user/"><code>user</code></a></td><td><p>Reference to the User object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>dueDate</td><td><code>dateTime</code></td><td><p>The due date of a journal. Possible values are generated according to Authorization.</p><p>Example: 2024-12-29T09:09:30.087Z</p></td></tr><tr><td>currency</td><td><code>string</code></td><td><p>The currency of the journal.</p><p>Example: EUR</p></td></tr><tr><td>assignee</td><td><a href="../../accounts-api/account/account-user/"><code>user</code></a></td><td><p>Reference to the User object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "id": "USR-1234-1234-1234",
   "name": "John Smith",
   "icon": "/static/users/USR-1234-1234-1234.icon.svg"

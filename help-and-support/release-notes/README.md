@@ -1,6 +1,6 @@
 # Release Notes
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/roadmap.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="release-notes-v4.md" %}
 [release-notes-v4.md](release-notes-v4.md)

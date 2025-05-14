@@ -6,7 +6,7 @@ It is the design foundation upon which the SoftwareOne Marketplace Platform is b
 
 Available online at [design.platform.softwareone.com](https://design.platform.softwareone.com/1233aa9e6/p/521ab9-softwareone-design-system), the system includes everything from foundational elements like color palettes, typography, and spacing, to interactive components such as buttons, forms, modals, and navigation patterns. It provides both designers and developers with a shared language and a single source of truth.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption><p>SoftwareOne Design System</p></figcaption></figure>
+<figure><img src=".gitbook/assets/design_principles.png" alt=""><figcaption><p>SoftwareOne Design System</p></figcaption></figure>
 
 The primary purpose of the design system is to streamline product development, promote UX/UI consistency, and improve scalability. Teams working on the Marketplace Platform should reference the design system to:
 

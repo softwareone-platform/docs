@@ -6,21 +6,14 @@ The specification contains all API methods. Within the specification, you'll fin
 
 You can download the full specification using the following link:
 
-{% file src="../../.gitbook/assets/openapi.yaml" %}
+{% file src="../../.gitbook/assets/openAPI.yaml" %}
 
 Alternatively, you can use the following links to open the specification in Swagger Editor:
 
-{% tabs %}
-{% tab title="Accounts API" %}
-[Open in Swagger](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/accounts.json)
-{% endtab %}
-
-{% tab title="Commerce API" %}
-[Open in Swagger](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/commerce.json)
-{% endtab %}
-
-{% tab title="Catalog API" %}
-[Open in Swagger](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/catalog.json)
-{% endtab %}
-{% endtabs %}
-
+* [Accounts API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/accounts.json)
+* [Audit API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/spec/marketplace-audit.json)
+* [Billing API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/spec/marketplace-billing.json)
+* [Catalog API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/catalog.json)
+* [Commerce API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/commerce.json)
+* [Notifications API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/spec/marketplace-notifications.json)
+* [Program API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/spec/marketplace-program.json)
