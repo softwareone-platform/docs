@@ -1,8 +1,8 @@
 # State Diagram
 
-The following diagram shows the state (status) transition process of a group on the platform.
+The following diagram shows the state (status) transition process of a user group on the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_groups.png" alt=""><figcaption><p>Group state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_groups.png" alt=""><figcaption><p>User group state transition</p></figcaption></figure>
 
 ### State description
 

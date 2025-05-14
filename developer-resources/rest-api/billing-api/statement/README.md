@@ -7,7 +7,7 @@ Statements are visible to clients, enabling them to reconcile their consumption 
 <table><thead><tr><th width="180">Field</th><th width="204">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier for the statement. Note that no nesting exists for this identifier.</p><p>Example: SOM-1234-5678-9876</p></td></tr><tr><td>ledger</td><td><a href="../ledger/"><code>ledger</code></a></td><td><p>A reference to the Ledger object for automated billing.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
     "id": "BLE-1234-1239"
 }
-</code></pre></td></tr><tr><td>operationsUpload</td><td><code>OperationsUpload</code></td><td><p>A reference to the Operations Upload object for manual billing.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>operationsUpload</td><td><code>operationsUpload</code></td><td><p>A reference to the Operations Upload object for manual billing.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
     "id": "OUP-5678-9876"
 }
 </code></pre></td></tr><tr><td>type</td><td><code>enum</code></td><td>The type of statement. Possible values: <code>Debit</code> or <code>Credit</code>.</td></tr><tr><td>billingType</td><td><code>enum</code></td><td><p>The type of billing. Possible values: <code>Automated</code> or<code>Manual</code> . </p><p></p><p>The values are based on the source of the statement, such as manual upload (Manual) or journal (automated).</p></td></tr><tr><td>status</td><td><code>enum</code></td><td><p>The status of the statement. </p><p>Possible enum values: <code>Generated</code>, <code>Queued</code>, <code>Error</code>, <code>Cancelled</code>, <code>Pending</code>, or <code>Issued</code>.</p></td></tr><tr><td>currency</td><td><code>string</code></td><td><p>The statement's currency.</p><p>Example: EUR</p></td></tr><tr><td>client</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the client account object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
@@ -20,7 +20,7 @@ Statements are visible to clients, enabling them to reconcile their consumption 
     "name": "Adam Ruszczak",
     "icon": "/static/BUY-3731-7971/icon.png"
 }
-</code></pre></td></tr><tr><td>vendor</td><td><code>account</code></td><td><p>A reference to the vendor account object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the vendor account object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
     "id": "ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"

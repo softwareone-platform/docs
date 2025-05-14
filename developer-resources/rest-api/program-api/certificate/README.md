@@ -6,7 +6,7 @@ A certificate is issued to a client or partner as confirmation that they meet a 
 * A client or partner can re-enroll for a certificate if it's in **Active** or **Expired** status. Re-enrollment is not permitted for terminated certificates.
 * A certificate can automatically expire on its expiration date, changing its status to **Expired**.
 
-<table><thead><tr><th width="204">Field</th><th width="149">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The business identifier of the certificate. </p><p>Example: CER-1234-5678-9012</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The resource URI of the certificate. </p><p>Example: /v1/program/certificates/CER-1234-5678-9012</p></td></tr><tr><td>program</td><td><code>program</code></td><td><p>The program to which this certificate applies. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="204">Field</th><th width="149">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The business identifier of the certificate. </p><p>Example: CER-1234-5678-9012</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The resource URI of the certificate. </p><p>Example: /v1/program/certificates/CER-1234-5678-9012</p></td></tr><tr><td>program</td><td><a href="../program/"><code>program</code></a></td><td><p>The program to which this certificate applies. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
     "id": "PRG-1234-5678",
     "href": "/program/programs/PRG-1234-5678",
     "name": "Microsoft AI Cloud Partner"

@@ -15,7 +15,7 @@ The Invoice object represents an invoice generated in the ERP system. This objec
     "name": "Adam Ruszczak",
     "icon": "/static/BUY-3731-7971/icon.png"
 }
-</code></pre></td></tr><tr><td>vendor</td><td><code>account</code></td><td><p>A reference to the vendor account object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the vendor account object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
     "id": "ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
@@ -39,7 +39,7 @@ The Invoice object represents an invoice generated in the ERP system. This objec
     "name": "John Smith",
     "icon": "/static/LCE-9625-9634/icon.png"
 }
-</code></pre></td></tr><tr><td>erpData</td><td><a href="./#erpinvoicedata"><code>ErpInvoiceData</code></a></td><td><p>The invoice fields from the ERP system.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>erpData</td><td><a href="./#erpinvoicedata"><code>erpInvoiceData</code></a></td><td><p>The invoice fields from the ERP system.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "erpId": "DE-SCO-1234567",
   "documentNo": "4564564",
   "documentDate": "2025-01-15T12:05:34.087Z",
@@ -52,7 +52,7 @@ The Invoice object represents an invoice generated in the ERP system. This objec
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } }
 }
-</code></pre></td></tr><tr><td>price</td><td><code>StatementPriceSummary</code></td><td><p>The invoice price summary with aggregated price values for all invoice charges.</p><p>The StatementPriceSummary object inherits from PriceSummary and adds tax-related properties: <code>TotalST</code> and <code>TotalGT</code></p><p>Note that not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>price</td><td><code>statementPriceSummary</code></td><td><p>The invoice price summary with aggregated price values for all invoice charges.</p><p>The StatementPriceSummary object inherits from PriceSummary and adds tax-related properties: <code>TotalST</code> and <code>TotalGT</code></p><p>Note that not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "totalPP": 229.8,
   "markup": 0.5013,
   "margin": 0.3339,  
@@ -62,6 +62,6 @@ The Invoice object represents an invoice generated in the ERP system. This objec
 }
 </code></pre></td></tr></tbody></table>
 
-### ErpInvoiceData <a href="#erpinvoicedata" id="erpinvoicedata"></a>
+### ERP Invoice Data <a href="#erpinvoicedata" id="erpinvoicedata"></a>
 
 <table><thead><tr><th width="215">Field</th><th width="176">Type</th><th>Description</th></tr></thead><tbody><tr><td>erpId</td><td><code>string</code></td><td><p>Identifier in the ERP system.</p><p>Example: DE-SCO-1234567</p></td></tr><tr><td>documentNo</td><td><code>string</code></td><td><p>The document number.</p><p>Example: 4564564</p></td></tr><tr><td>documentDate</td><td><code>DateTime</code></td><td><p>The document date.</p><p>Example: 2025-01-15T12:05:34.087Z</p></td></tr><tr><td>postingDate</td><td><code>DateTime</code></td><td><p>The posting date.</p><p>Example: 2025-01-15T16:45:24.123Z</p></td></tr><tr><td>dueDate</td><td><code>DateTime</code></td><td><p>The due date.</p><p>Example: 2025-02-10T12:45:34.087Z</p></td></tr><tr><td>balanceDue</td><td><code>decimal</code></td><td><p>The balance due.</p><p>Example: 123.23</p></td></tr><tr><td>invoiceTotal</td><td><code>decimal</code></td><td><p>The invoice total.</p><p>Example: 123.23</p></td></tr></tbody></table>

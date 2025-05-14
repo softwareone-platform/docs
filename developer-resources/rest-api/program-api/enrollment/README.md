@@ -33,11 +33,11 @@ Once the client fulfills all the necessary conditions, they are considered enrol
   "client": true,
   "partner": false
 }
-</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td><p>The status of the enrollment. </p><p>Possible values: <code>Processing</code>, <code>Failed</code>, <code>Completed</code>, or <code>Querying</code>.</p></td></tr><tr><td>statusNotes</td><td><code>messageobject</code></td><td><p>Notes added during status change by vendor or vendor extensions to indicate the reason for enrollment failure or status change. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td><p>The status of the enrollment. </p><p>Possible values: <code>Processing</code>, <code>Failed</code>, <code>Completed</code>, or <code>Querying</code>.</p></td></tr><tr><td>statusNotes</td><td><code>messageObject</code></td><td><p>Notes added during status change by vendor or vendor extensions to indicate the reason for enrollment failure or status change. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
     "id": "E001234",
     "message": "Educational certification failed"
 }
-</code></pre></td></tr><tr><td>notes</td><td><code>string</code></td><td><p>Contains initial customer notes added by the Buyer during the enrollment process. Buyers can edit and add notes at any time for all order statuses. </p><p>Example: Enroll for a program needed to purchase product XYZ</p></td></tr><tr><td>error</td><td><code>messageobject</code></td><td><p>The standard error object. It indicates that an error appeared during parameter validation, which can include markup. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>notes</td><td><code>string</code></td><td><p>Contains initial customer notes added by the Buyer during the enrollment process. Buyers can edit and add notes at any time for all order statuses. </p><p>Example: Enroll for a program needed to purchase product XYZ</p></td></tr><tr><td>error</td><td><code>messageObject</code></td><td><p>The standard error object. It indicates that an error appeared during parameter validation, which can include markup. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
     "id": "E001234",
     "message": "Enrollment has invalid parameters"
 }

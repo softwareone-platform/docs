@@ -10,7 +10,7 @@ Assigning this object indicates that the client's billing requires flexibility a
     "name": "Best LLC",
     "icon": "/static/ACC-1234-4444/account.png"
 }
-</code></pre></td></tr><tr><td>vendor</td><td><code>account</code></td><td><p>A reference to the vendor Account object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the vendor Account object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
     "id": "ACC-1234-1234",
     "href": "/accounts/accounts/ACC-1234-1234",
     "name": "Microsoft",

@@ -1,10 +1,12 @@
 # Object Diagrams
 
-The Marketplace Platform enables transactions among different actors, such as clients, partners, and vendors, in countries where SoftwareOne operates.&#x20;
+The Marketplace Platform enables transactions among [different actors](../../marketplace-platform/getting-started/key-concepts.md#actors), such as clients, partners, and vendors, in countries where SoftwareOne operates.&#x20;
 
-The platform includes objects such as orders, subscriptions, and agreements, which represent a relationship between these actors and SoftwareOne. Each object contains workflows that are essential for different scenarios. These workflows are illustrated as state diagrams. These diagrams show the status transitions of all objects within the platform, allowing you to understand each status and its transition. For instance, the initial status of a subscription is always **New**, and it can go through multiple statuses during its lifecycle within the platform. With the help of these diagrams, you can visualize each transition easily.
+The platform includes objects such as orders, subscriptions, and agreements, which represent a relationship between these actors and SoftwareOne. Each object contains workflows that are essential for different scenarios within the platform. These workflows are illustrated as state diagrams, which show how these objects transition from one state to another.&#x20;
 
-The following tabs feature objects that undergo various states and transitions within the platform. Objects without any statuses, for example, audit records, spotlight, and more, are not included. &#x20;
+For instance, the initial status of a subscription is always New, and it can go through multiple statuses during its lifecycle within the platform. With the help of these diagrams, you can understand and visualize each subscription status and its transition easily.
+
+The following tabs feature objects that undergo various states and transitions within the platform. Select each object to access the state diagram and status description. Note that objects that don't have a status, for example, audit records, spotlight, and more, are not included on this page. &#x20;
 
 {% tabs %}
 {% tab title="Accounts" %}
@@ -30,10 +32,10 @@ The following tabs feature objects that undergo various states and transitions w
 {% endtab %}
 
 {% tab title=" Commerce" %}
-* [Agreement](../../modules-and-features/marketplace/agreements/agreement-states.md)
-* [Order](../../modules-and-features/marketplace/orders/order-states.md)
-* [Subscription](../../modules-and-features/marketplace/subscriptions/subscription-states.md)
-* [Request](../../modules-and-features/marketplace/requests/request-states.md)
+* [Agreement](commerce-api/agreements/agreement-state-diagram.md)
+* [Order](commerce-api/orders/order-state-diagram.md)
+* [Subscription](commerce-api/subscriptions/subscription-states.md)
+* [Request](commerce-api/requests/request-states.md)
 {% endtab %}
 
 {% tab title="Notifications" %}
@@ -45,7 +47,7 @@ The following tabs feature objects that undergo various states and transitions w
 
 {% tab title="Program" %}
 * [Program](program-api/program/program-state-diagram.md)
-* [Certificates](../../modules-and-features/marketplace/certificates/certificate-states.md)
-* [Enrollment](../../modules-and-features/marketplace/enrollments/enrollment-states.md)
+* [Certificates](program-api/certificate/certificate-state-diagram.md)
+* [Enrollment](program-api/enrollment/enrollment-state-diagram.md)
 {% endtab %}
 {% endtabs %}

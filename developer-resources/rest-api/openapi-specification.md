@@ -17,3 +17,4 @@ Alternatively, you can use the following links to open the specification in Swag
 * [Commerce API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/commerce.json)
 * [Notifications API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/spec/marketplace-notifications.json)
 * [Program API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/spec/marketplace-program.json)
+* [Spotlight Objects API](https://editor-next.swagger.io/?url=https://raw.githubusercontent.com/softwareone-platform/docs/refs/heads/master/.gitbook/assets/spec/marketplace-spotlight.json)
