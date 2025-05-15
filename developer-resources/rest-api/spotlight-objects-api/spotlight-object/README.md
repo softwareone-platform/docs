@@ -2,10 +2,9 @@
 
 The Spotlight Object represents a collection of spotlighted objects and their definition, along with the RQL query used to retrieve items.
 
-<table><thead><tr><th width="166">Field</th><th width="223">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td>The unique identifier for the spotlight object in this format: SPO-&#x3C;QQQQ>-&#x3C;QQQQ>-&#x3C;XXXX>-&#x3C;XXXX>-&#x3C;XXXX></td></tr><tr><td>query</td><td><a href="../spotlight-query/"><code>spotlightQuery</code></a></td><td>The spotlight query object.</td></tr><tr><td>top</td><td><a href="spotlight-topitem.md"><code>spotlightTopItem</code></a></td><td>A list of the top five objects returned by the downstreamed RQL query.</td></tr><tr><td>total</td><td><code>integer</code></td><td>The total number of objects available for downstream RQL.</td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>The audit information object. This object keeps track of changes to the spotlight object. Mainly when the cache key was refreshed for the last time, and by whom the action was initiated.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+<table><thead><tr><th width="166">Field</th><th width="223">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier for the spotlight object in this format: </p><p>Example: SPO-1234-5678-9547-1234-8888</p></td></tr><tr><td>query</td><td><a href="../spotlight-query/"><code>spotlightQuery</code></a></td><td>A reference to the spotlight query object.</td></tr><tr><td>top</td><td><a href="spotlight-topitem.md"><code>spotlightTopItem</code></a></td><td>A list of the top five objects returned by the downstreamed RQL query.</td></tr><tr><td>total</td><td><code>integer</code></td><td>The total number of objects available for downstream RQL.</td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>The audit information object. This object keeps track of changes to the spotlight object. Mainly when the cache key was refreshed for the last time, and by whom the action was initiated.</p><p>Example:</p><pre class="language-json"><code class="lang-json">{
   "updated": {
-    "at": "2024-05-28T09:00:22.945Z",
-}blic/accounts/acc-8989-32321.jpg",
+    "at": "2024-05 28T09:00:22.945Z",
 }
 </code></pre></td></tr></tbody></table>
 
