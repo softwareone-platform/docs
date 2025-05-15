@@ -17,12 +17,12 @@ The Journal object is linked to an authorization and is created by vendors from 
     "id": "AUT-1234-4567",
     "name": "Salesforce Enterprise License"
 }
-</code></pre></td></tr><tr><td>dueDate</td><td><code>dateTime</code></td><td><p>The due date of a journal. Possible values are generated according to Authorization.</p><p>Example: 2024-12-29T09:09:30.087Z</p></td></tr><tr><td>currency</td><td><code>string</code></td><td><p>The currency of the journal.</p><p>Example: EUR</p></td></tr><tr><td>assignee</td><td><a href="../../accounts-api/account/account-user/"><code>user</code></a></td><td><p>Reference to the User object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>dueDate</td><td><code>dateTime</code></td><td><p>The due date of a journal. Possible values are generated according to Authorization.</p><p>Example: 2024-12-29T09:09:30.087Z</p></td></tr><tr><td>currency</td><td><code>string</code></td><td><p>The currency of the journal.</p><p>Example: EUR</p></td></tr><tr><td>assignee</td><td><a href="../../accounts-api/account/account-user/"><code>user</code></a></td><td><p>A reference to the User object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "id": "USR-1234-1234-1234",
   "name": "John Smith",
   "icon": "/static/users/USR-1234-1234-1234.icon.svg"
 }  
-</code></pre></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>Audit object with these possible entries: Created or Updated.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>A reference to the Audit object. </p><p>Possible values: <code>Created</code> or <code>Updated</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } }
 }
@@ -32,13 +32,13 @@ The Journal object is linked to an authorization and is created by vendors from 
   "margin": 0.3339,  
   "totalSP": 356.7
 }
-</code></pre></td></tr><tr><td>upload</td><td><a href="./#journaluploadsummary"><code>journalUploadSummary</code></a></td><td><p>Journal upload summary, including the total charges and counts of split, ready, and error charges.</p><p>Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>upload</td><td><a href="./#journaluploadsummary"><code>journalUploadSummary</code></a></td><td><p>The journal upload summary, including the total charges and counts of split, ready, and error charges.</p><p>Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "total": 150,
   "split": 4,  
   "ready": 144,
   "error": 6
 }
-</code></pre></td></tr><tr><td>processing</td><td><a href="./#processingsummary"><code>processingSummary</code></a></td><td><p>The journal processing summary including the total charges and counts of ready, error, split, cancelled, and completed charges. Only visible to SoftwareOne Operations.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>processing</td><td><a href="./#processingsummary"><code>processingSummary</code></a></td><td><p>The journal processing summary including the total charges and counts of ready, error, split, cancelled, and completed charges. </p><p>Only visible to SoftwareOne Operations.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "total": 150,
   "ready": 140,
   "error": 6,
@@ -50,7 +50,7 @@ The Journal object is linked to an authorization and is created by vendors from 
 
 ## PriceSummary
 
-<table><thead><tr><th width="163">Field</th><th width="167">Type</th><th width="418">Description</th></tr></thead><tbody><tr><td>totalPP</td><td><code>decimal</code></td><td><p>A sum of all purchase price values of all charges in the billing object. Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example: 229.8</p></td></tr><tr><td>markup</td><td><code>decimal</code></td><td><p>Average markup value among all charges in the billing object. Only visible to SoftwareOne Operations.</p><p>Example: 0.5013</p></td></tr><tr><td>margin</td><td><code>decimal</code></td><td><p>Average margin value among all charges in the billing object. Only visible to SoftwareOne Operations.</p><p>Example: 0.3339</p></td></tr><tr><td>totalSP</td><td><code>decimal</code></td><td><p>A sum of all the selling price values of all charges in the billing object. Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example: 356.7</p></td></tr></tbody></table>
+<table><thead><tr><th width="163">Field</th><th width="167">Type</th><th width="418">Description</th></tr></thead><tbody><tr><td>totalPP</td><td><code>decimal</code></td><td><p>A sum of all purchase price values of all charges in the billing object. Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example: 229.8</p></td></tr><tr><td>markup</td><td><code>decimal</code></td><td><p>The average markup value among all charges in the billing object. Only visible to SoftwareOne Operations.</p><p>Example: 0.5013</p></td></tr><tr><td>margin</td><td><code>decimal</code></td><td><p>The average margin value among all charges in the billing object. Only visible to SoftwareOne Operations.</p><p>Example: 0.3339</p></td></tr><tr><td>totalSP</td><td><code>decimal</code></td><td><p>A sum of all the selling price values of all charges in the billing object. Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example: 356.7</p></td></tr></tbody></table>
 
 ## JournalUploadSummary
 
