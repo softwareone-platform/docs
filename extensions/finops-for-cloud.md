@@ -37,7 +37,7 @@ From the list of products, select **SoftwareOne FinOps for Cloud**. Then, on the
 
 1. In the **Select agreement** step, select **Create agreement** to start creating your new agreement.
 2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can [add a new licensee](../modules-and-features/settings/licensees/create-licensees.md) by selecting **Create licensee**.
-3. In the **Create agreement** step, provide the following details, then select **Next**:
+3. In the **Agreement** step, provide the following details, then select **Next**:
    1. **Organization name** - (Required) Enter the name of your organization. This name represents your environment in FinOps for Cloud. You can update the name later from the **Settings** page within FinOps.&#x20;
    2. **Currency** - (Required) Select the currency that your cloud service provider bills you in.&#x20;
    3. **Administrator** - (Required) Fill out the contact form. You'll need to enter the contact details of the administrator who will manage your account. This admin will be assigned the **Organization admin** role in FinOps.
@@ -46,13 +46,13 @@ From the list of products, select **SoftwareOne FinOps for Cloud**. Then, on the
 When selecting a **Currency**, make sure to choose the correct one, as it can't be changed after the agreement has been created. You must select the same currency that your cloud provider (like AWS or Azure) uses for billing. For example, if you are billed in USD, you must select **USD** from the list. If you choose a different currency, you won't be able to import the cost and usage data from your cloud provider.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Create agreement step in the wizard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/FFC_parameters.png" alt=""><figcaption><p>Agreement step in the wizard</p></figcaption></figure>
 
-4. In the **Select items** step, do the following:
+4. In the **Items** step, do the following:
    1. Choose **SoftwareOne FinOps for Cloud**. Then, select **Add items** to add it to your order.&#x20;
    2. Select **Next** to continue.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>Items step in the wizard</p></figcaption></figure>
 
 5. In the **Details** step, provide reference details, like additional IDs or notes, then select **Next**.
 6. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
