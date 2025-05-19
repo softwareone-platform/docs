@@ -7,7 +7,7 @@ The Audit Event Type refers to an event that has occurred within the platform. T
 ## Example
 
 {% tabs %}
-{% tab title="AUDIT EVENT TYPE" %}
+{% tab title="AUDIT EVENT TYPE OBJECT" %}
 {% code overflow="wrap" lineNumbers="true" %}
 ```json
 {

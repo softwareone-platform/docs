@@ -10,7 +10,7 @@ The User Group object represents a user group in the Marketplace platform. This 
 ## Example
 
 {% tabs %}
-{% tab title="GROUP OBJECT" %}
+{% tab title="USER GROUP OBJECT" %}
 {% code overflow="wrap" lineNumbers="true" %}
 ```json
 {

@@ -7,7 +7,7 @@ The Journal Attachment object allows users to upload attachments to billing obje
 ## Example
 
 {% tabs %}
-{% tab title="JOURNAL ATTACHMENT" %}
+{% tab title="JOURNAL ATTACHMENT OBJECT" %}
 {% code lineNumbers="true" %}
 ```json
 {
