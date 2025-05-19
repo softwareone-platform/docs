@@ -64,6 +64,6 @@ When selecting a **Currency**, make sure to choose the correct one, as it can't 
 
 Once your order is placed, we will verify the details and process your order. You can use the **General** tab on the [order details](../modules-and-features/marketplace/orders/#subscription-details) page to keep track of your order. If there are any issues, the details page will provide information about the problem and any actions you may need to take.
 
-After the order is complete, we'll email your account administrator with instructions on signing[ in to your FinOps account](https://portal.finops.softwareone.com/). After signing in, admins can connect data sources to start importing data.&#x20;
+After the order is complete, we'll email your account administrator with instructions on [signing in to your FinOps account](https://portal.finops.softwareone.com/). After signing in, admins can connect data sources to start importing data.&#x20;
 
 To learn about connecting data sources and using FinOps for Cloud, see the [FinOps for Cloud documentation](https://docs.finops.softwareone.com/).

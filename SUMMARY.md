@@ -752,7 +752,6 @@
   * [Release Notes v1](help-and-support/release-notes/release-notes-v1.md)
 * [Planned Maintenance](help-and-support/planned-maintenance.md)
 * [Platform FAQs](help-and-support/faqs/README.md)
-  * [How to file the vendor journal billing template](help-and-support/faqs/how-to-file-the-vendor-journal-billing-template.md)
   * [I have questions about billing](help-and-support/faqs/i-have-questions-about-billing.md)
   * [How do you handle purchase order numbers in subscription-based models?](help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
   * [What happens to an agreement when subscriptions expire or are terminated?](help-and-support/faqs/what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md)

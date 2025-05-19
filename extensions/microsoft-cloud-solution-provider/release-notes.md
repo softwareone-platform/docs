@@ -1,5 +1,15 @@
 # Release Notes
 
+## Release Date: 19 May 2025
+
+### Microsoft subscriptions and FinOps for Cloud
+
+Starting 19 May 2025, we will no longer use PyraCloud Cloud Spend Management for setting up new subscriptions for Microsoft products. Instead, our new solution, [FinOps for Cloud](https://portal.finops.softwareone.com/), will be used.
+
+To start using FinOps for Cloud, you must place a purchase order for the FinOps tool through the Marketplace Platform. For instructions on the ordering process, see the [FinOps for Cloud](../finops-for-cloud.md) help page.
+
+Note that Azure subscriptions purchased through SoftwareOne are included at no extra cost within the FinOps tool. However, if you have Azure subscriptions that were not purchased through SoftwareOne, they can still be connected to FinOps for Cloud, but additional charges will apply.
+
 ## Release Date: 5 May 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 
 ### Support for Microsoft 365 Government Community Cloud (GCC)
