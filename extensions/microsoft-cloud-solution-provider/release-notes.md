@@ -1,5 +1,17 @@
 # Release Notes
 
+## Release Date: 21 May 2025
+
+### Auto-renewal for Microsoft subscriptions
+
+Starting 20 May 2025, you can easily manage the automatic renewal settings for your subscriptions. This can be done by placing a configuration order through the platform.
+
+Auto-renewal can be disabled to ensure that a subscription remains active only until the end of the current commitment period, after which it will expire without incurring further charges. If you disabled auto-renewal previously for a subscription, you can re-enable it at any time before the subscription expires.
+
+Note that only NCE products support auto-renewal. Legacy subscriptions do not support this. For instructions on disabling auto-renewal, see [How to disable the automatic renewal of an NCE subscription](faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
+
+***
+
 ## Release Date: 19 May 2025
 
 ### Microsoft subscriptions and FinOps for Cloud
@@ -9,6 +21,8 @@ Starting 19 May 2025, we will no longer use PyraCloud Cloud Spend Management for
 To start using FinOps for Cloud, you must place a purchase order for the FinOps tool through the Marketplace Platform. For instructions on the ordering process, see the [FinOps for Cloud](../finops-for-cloud.md) help page.
 
 Note that Azure subscriptions purchased through SoftwareOne are included at no extra cost within the FinOps tool. However, if you have Azure subscriptions that were not purchased through SoftwareOne, they can still be connected to FinOps for Cloud, but additional charges will apply.
+
+***
 
 ## Release Date: 5 May 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 

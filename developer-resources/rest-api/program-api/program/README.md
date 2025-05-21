@@ -36,7 +36,7 @@ The Program object represents a set of requirements (parameters) that vendors as
 </code></pre></td></tr><tr><td>statistics</td><td><a href="./#programstatistics"><code>programStatistics</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "certificates": 110
 }
-</code></pre></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>The audit information object. </p><p>Example:</p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>The audit information object. </p><p>Example:</p><pre class="language-json"><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } }
 }

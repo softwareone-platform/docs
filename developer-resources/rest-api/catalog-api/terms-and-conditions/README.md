@@ -1,9 +1,9 @@
 # Terms & Conditions
 
-The Terms object represents terms as a collection of uploaded PDF or DOCX documents or links to externally hosted documents as an element of a product. The object contains the following properties:
+The Terms and Conditions object represents terms as a collection of uploaded PDF or DOCX documents or links to externally hosted documents as an element of a product. The object contains the following properties:
 
-<table><thead><tr><th width="133">Field</th><th width="247">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>Identifier for the terms.</p><p>Example: TCS-1234-1234-1234</p></td></tr><tr><td>href</td><td>string</td><td><p>Relative reference to terms to product (/products/{productid}/terms-and-conditions/{termsAndConditionsId}</p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">/products/PRD-6822-9898-4256/terms-and-conditions/TCS-3159-1891-0980-8679
-</code></pre></td></tr><tr><td>name</td><td>string</td><td><p>Terms name</p><p>Example: Terms of Service</p></td></tr><tr><td>description</td><td>string</td><td><p>Terms description</p><p>Example: Terms of Service description</p></td></tr><tr><td>displayOrder</td><td>integer</td><td><p>Terms display order</p><p>Example: 10</p></td></tr><tr><td>status</td><td><a href="./">Terms &#x26; Conditions States</a></td><td><p>Terms status.</p><p>Example: draft</p></td></tr><tr><td>product</td><td><a href="../product/">Product</a></td><td>Product to which item is assigned.</td></tr><tr><td>audit</td><td>AuditObject</td><td><p>Audit events: created, updated.</p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="133">Field</th><th width="138">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the terms.</p><p>Example: TCS-1234-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the terms. </p><p>Example:</p><pre class="language-json"><code class="lang-json">/products/PRD-6822-9898-4256/terms-and-conditions/TCS-3159-1891-0980-8679
+</code></pre></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name for the terms.</p><p>Example: Terms of Service</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the terms.</p><p>Example: Terms of Service description</p></td></tr><tr><td>displayOrder</td><td><code>integer</code></td><td><p>The display order for the terms.</p><p>Example: 10</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the terms. </p><p>Example: Draft</p></td></tr><tr><td>product</td><td><a href="../product/"><code>product</code></a></td><td>The product to which the item is assigned.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>A reference to the Audit object. </p><p>Example:</p><pre class="language-json"><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } }
 }
@@ -13,6 +13,7 @@ The Terms object represents terms as a collection of uploaded PDF or DOCX docume
 
 {% tabs %}
 {% tab title="TERMS OBJECT" %}
+{% code lineNumbers="true" %}
 ```json
 {
   "id": "TCS-3159-1891-0980-8679",
@@ -35,6 +36,7 @@ The Terms object represents terms as a collection of uploaded PDF or DOCX docume
   }
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 
@@ -42,30 +44,14 @@ The Terms object represents terms as a collection of uploaded PDF or DOCX docume
 
 The `TermsVariant` object represents terms variant as an uploaded PDF or DOCX document or a link to an externally hosted document as an element of terms for a product.
 
-| Field                                  | Type                 | Description                                                                                                                                                                                                                                                                                                                           |
-| -------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **`id`**                               | string               | <p>Terms Variant identifier.</p><p>Example: "TCS-1234-1234-1234-1234"</p>                                                                                                                                                                                                                                                             |
-| **`href`**                             | string               | <p>Relative reference to the terms item to terms to product (always products/{productId}/terms/{tcid}/terms-item/{termsAndConditionsItemId})</p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">/products/PRD-1234-1234/terms/tcs-1234-1234-1234/terms-item/tcs-1234-1234-1234-1234
-</code></pre> |
-|                                        |                      |                                                                                                                                                                                                                                                                                                                                       |
-| **`type`**                             | Online or File       | <p>Terms Item type.</p><p>Example: "Online"</p>                                                                                                                                                                                                                                                                                       |
-| **`name`**                             | string               | <p>Terms Variant name.</p><p>Example: "TCS-1234-1234-1234-1234"</p>                                                                                                                                                                                                                                                                   |
-| **`description`**                      | string               | <p>Terms Variant description.</p><p>Example: "Terms of Service description in English"</p>                                                                                                                                                                                                                                            |
-| **`assetUrl`**                         | string               | <p>URL of the terms item uploaded document or or online document/resource.</p><p>Example: "https://www.test.com/terms-of-service"</p>                                                                                                                                                                                                 |
-| **`languageCode`**                     | string               | <p>Terms Item 2-digit language code.</p><p>Example: "en"</p>                                                                                                                                                                                                                                                                          |
-| **`status`**                           | status               | <p>Terms Item status: Draft</p><p>Pending, Published, Unpublished.</p><p>Example: "Draft"</p>                                                                                                                                                                                                                                         |
-| **`termsAndConditions`**               | Terms and conditions | Terms to which item is assigned.                                                                                                                                                                                                                                                                                                      |
-| **`audit`**                            | AuditObject          | <p>Audit events: created, updated.</p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
-</code></pre>                                                                                                                                                                                             |
-| "created": { "at": "...", "by": { } }, |                      |                                                                                                                                                                                                                                                                                                                                       |
-| "updated": { "at": "...", "by": { } }  |                      |                                                                                                                                                                                                                                                                                                                                       |
-| }                                      |                      |                                                                                                                                                                                                                                                                                                                                       |
-|                                        |                      |                                                                                                                                                                                                                                                                                                                                       |
+<table><thead><tr><th width="185">Field</th><th width="131">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the terms variant.</p><p>Example: TCS-1234-1234-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Example:</p><pre class="language-json"><code class="lang-json">/products/PRD-1234-1234/terms/tcs-1234-1234-1234/terms-item/tcs-1234-1234-1234-1234
+</code></pre></td></tr><tr><td>type</td><td><code>string</code></td><td><p>The type of terms variant.</p><p>Example: Online</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>A name for the terms variant.</p><p>Example: TCS-1234-1234-1234-1234</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the terms variant.</p><p>Example: Terms of Service description in English</p></td></tr><tr><td>assetUrl</td><td><code>string</code></td><td><p>The URL of the uploaded document or online document/resource.</p><p>Example: https://www.test.com/terms-of-service</p></td></tr><tr><td>languageCode</td><td><code>string</code></td><td><p>The 2-digit language code for the terms item.</p><p>Example: en</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the terms.</p><p>Example: Draft</p></td></tr><tr><td>termsAndConditions</td><td><code>string</code></td><td>The terms to which the item has been assigned.</td></tr><tr><td>audit</td><td><code>auditObject</code></td><td>A reference to the Audit object.</td></tr></tbody></table>
 
 ## Example
 
 {% tabs %}
 {% tab title="TERMS VARIANT OBJECT" %}
+{% code lineNumbers="true" %}
 ```json
 {
   "id": "TCS-1234-1234-1234-1234",
@@ -90,5 +76,6 @@ The `TermsVariant` object represents terms variant as an uploaded PDF or DOCX do
   }
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}

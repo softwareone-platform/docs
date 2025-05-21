@@ -6,13 +6,13 @@ The User object represents an individual user in the Marketplace platform. This 
   "prefix": "+34",
   "number": "660707172"
 }
-</code></pre></td></tr><tr><td>SSO</td><td><code>bool</code></td><td><p>A flag to indicate if the user logs in using SSO.</p><p>Example: true</p></td></tr><tr><td>acceptedTerms</td><td><code>bool</code></td><td><p>A flag to indicate if the user has accepted the terms and conditions.</p><p>Example: true</p></td></tr><tr><td>accounts</td><td><a href="../account/#account-object"><code>Account</code></a></td><td><p>The list of accounts to which the user has been added.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
+</code></pre></td></tr><tr><td>SSO</td><td><code>bool</code></td><td><p>A flag to indicate if the user logs in using SSO.</p><p>Example: true</p></td></tr><tr><td>acceptedTerms</td><td><code>bool</code></td><td><p>A flag to indicate if the user has accepted the terms and conditions.</p><p>Example: true</p></td></tr><tr><td>accounts</td><td><a href="../account/#account-object"><code>account</code></a></td><td><p>The list of accounts to which the user has been added.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
   {
     "id": "ACC-1671-0642",
     "name": "You Are a Test Account"
   }
 ]
-</code></pre></td></tr><tr><td>groups</td><td><a href="../user-groups/#group-object"><code>Group</code></a></td><td><p>All groups that the user belongs to.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
+</code></pre></td></tr><tr><td>groups</td><td><a href="../user-groups/#group-object"><code>group</code></a></td><td><p>All groups that the user belongs to.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
   {
     "id": "UGR-5116-6265",
     "name": "Administrators"
@@ -26,7 +26,7 @@ The User object represents an individual user in the Marketplace platform. This 
   "code": "910B14E6CB2343A09CB32F24BBC4BEF1",
   "status": "Invited"
 }
-</code></pre></td></tr><tr><td>invitation.code</td><td><code>string</code></td><td><p>The invitation code sent to user to invite them to the platform.</p><p>Example: 910B14E6CB2343A09CB32F24BBC4BEF1</p></td></tr><tr><td>invitation.status</td><td><code>string</code></td><td><p>The invitation status for the user in the account.</p><p>Example: Invited</p></td></tr><tr><td>audit</td><td><code>object</code></td><td><p>Represents the audit object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>invitation.code</td><td><code>string</code></td><td><p>The invitation code sent to user to invite them to the platform.</p><p>Example: 910B14E6CB2343A09CB32F24BBC4BEF1</p></td></tr><tr><td>invitation.status</td><td><code>string</code></td><td><p>The invitation status for the user in the account.</p><p>Example: Invited</p></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>Represents the audit object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
     "created": { ... },
     "updated": { ... },
     "joined": { ... },

@@ -1,6 +1,6 @@
 # Perpetual Software
 
-As your trusted Microsoft Cloud Solution Provider (CSP), we are excited to introduce you to a modern, flexible approach to traditional software licensing that combines the best of both worlds - the permanence of perpetual licenses with the convenience of cloud-based procurement through  Marketplace Platform.
+As your trusted Microsoft Cloud Solution Provider (CSP), we are excited to introduce you to a modern, flexible approach to traditional software licensing that combines the best of both worlds - the permanence of perpetual licenses with the convenience of cloud-based procurement through the Marketplace Platform.
 
 ## What is a perpetual license?
 

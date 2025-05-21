@@ -2,7 +2,7 @@
 
 The Custom Ledger object is required to submit billing information for clients with manual billing activated. Only SoftwareOne Operations can access this object.&#x20;
 
-<table><thead><tr><th width="148">Field</th><th width="186">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier. Note that no nesting exists for this identifier.</p><p>Example: OUP-1234-1239</p></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/"><code>seller</code></a></td><td><p>A reference to the Seller object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="144">Field</th><th width="171">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier. Note that no nesting exists for this identifier.</p><p>Example: OUP-1234-1239</p></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/"><code>seller</code></a></td><td><p>A reference to the Seller object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
     "id": "SEL-9121-8944",
     "name": "Software LN",
     "icon": "/static/SEL-9121-8944/icon.png"
@@ -17,7 +17,7 @@ The Custom Ledger object is required to submit billing information for clients w
   "name": "John Smith",
   "icon": "/static/users/USR-1234-1234-1234.svg"
 }
-</code></pre></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>The audit object with possible entries, including <code>Created</code> or <code>Updated</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>The audit object with possible entries, including <code>Created</code> or <code>Updated</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } }
 }

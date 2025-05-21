@@ -33,6 +33,6 @@ The [Getting Started](../marketplace-platform/getting-started/) section contains
 
 If you are an Adobe VIP Marketplace member, see the [Adobe VIP Marketplace](../extensions/adobe-vip-marketplace/) section for detailed information on Adobe's new buying program and how to manage your subscriptions and billing through the platform. You can also find supporting resources in the same section, such as [tutorials](../extensions/adobe-vip-marketplace/tutorials-and-videos/), [videos](../extensions/adobe-vip-marketplace/webinars-and-videos.md), and [FAQs](../extensions/adobe-vip-marketplace/faqs/).
 
-To learn about buying and managing CSP products through the Marketplace Platform, see [Microsoft CSP](../extensions/microsoft-cloud-solution-provider/). You can also use this section to access [CSP tutorials,](../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/) learn about [CSP renewals](../extensions/microsoft-cloud-solution-provider/renewal-management.md), and view [FAQs](../extensions/microsoft-cloud-solution-provider/faqs/).
+To learn about buying and managing CSP products through the Marketplace Platform, see [Microsoft CSP](../extensions/microsoft-cloud-solution-provider/). You can also use this section to access [CSP tutorials,](../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/) learn about renewals, and view [FAQs](../extensions/microsoft-cloud-solution-provider/faqs/).
 
 For help with your password or account settings, see [Update Password](faqs/update-password.md) and [Settings](../modules-and-features/settings/).

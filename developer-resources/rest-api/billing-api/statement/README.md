@@ -44,7 +44,7 @@ Statements are visible to clients, enabling them to reconcile their consumption 
     "name": "John Smith",
     "icon": "/static/LCE-9625-9634/icon.png"
 }
-</code></pre></td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>The identifier in the ERP system.</p><p>Example: DE-SCO-1234567</p></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>The audit object with possible entries: <code>Created</code> or <code>Updated</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>The identifier in the ERP system.</p><p>Example: DE-SCO-1234567</p></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>The audit object with possible entries: <code>Created</code> or <code>Updated</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } }
 }

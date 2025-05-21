@@ -14,15 +14,21 @@ You should also know how to navigate the platform to access your agreements & or
 
 {% stepper %}
 {% step %}
-**Open the existing agreement**
+**Navigate to the Agreements page**
 
-Navigate to the **Agreements** page. Then, select the agreement. Make sure that the agreement's status is **Active**.&#x20;
-
-On the agreement details page, select **Buy more.** The purchase wizard starts, and the **Items** step is displayed.
+The **Agreements** page is located under **Marketplace** in the main navigation menu. The page displays all your agreements.
 {% endstep %}
 
 {% step %}
-**Add the new items to your order**
+**Open your relevant agreement**
+
+From the list of products, select the agreement you want to use. Make sure that the agreement's status is **Active**.&#x20;
+
+Then, on the agreement details page, select **Buy more.** The purchase wizard starts, and the **Items** step within the wizard is displayed.
+{% endstep %}
+
+{% step %}
+**Add the required items to your order**
 
 In the **Items** step of the wizard, do the following:
 

@@ -32,7 +32,7 @@ A certificate is issued to a client or partner as confirmation that they meet a 
   "client": true,
   "partner": false
 }
-</code></pre></td></tr><tr><td>externalIds</td><td><code>externalIds</code></td><td><p>Identifier for the external system.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>externalIds</td><td><a href="../../common-api-objects/externalids.md"><code>externalIds</code></a></td><td><p>Identifier for the external system.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "vendor": "ven-1233-3222"
 }
 </code></pre></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The certificate's status. </p><p>Possible values: <code>Pending</code>, <code>Updating</code>, <code>Active</code>, <code>Terminated</code>, or <code>Expired</code>.</p></td></tr><tr><td>expirationDate</td><td><code>dateTime</code></td><td><p>The expiration date of the certificate. </p><p>When the date has passed, the system expires the certificate. </p><p>Example: 2025-12-04</p></td></tr><tr><td>template</td><td><a href="../../catalog-api/templates/"><code>template</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{ 
@@ -75,7 +75,7 @@ A certificate is issued to a client or partner as confirmation that they meet a 
       }
   }
 ]
-</code></pre></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>The audit information object. </p><p>Example:</p><pre class="language-json"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>The audit information object. </p><p>Example:</p><pre class="language-json"><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } }
 }

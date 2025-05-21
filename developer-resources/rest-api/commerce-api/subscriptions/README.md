@@ -4,16 +4,16 @@ The Subscriptions object represents a collection of product items within the agr
 
 All items are connected to one product, one vendor, and one client (same as the agreement) and have a common billing frequency and commitment terms. The Subscriptions object contains the following properties:
 
-<table><thead><tr><th width="202">Field</th><th width="126">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the subscription object.</p><p>Example: SUB-2119-4550-8674-5962</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Relative reference to the object in the API.</p><p>Example: /v1/commerce/subscriptions/SUB-2119-4550-8674-5962)</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The key status of the object. Possible values are a by-product of the latest completed order that included this subscription. Possible statuses are a subset of all subscription statuses.</p><p>Example: Active</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the subscription.</p><p>Example: Subscription for Microsoft Office 365 NCE E1</p></td></tr><tr><td>agreement</td><td><code>agreement</code></td><td><p>The agreement that contains this particular subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{   
+<table><thead><tr><th width="202">Field</th><th width="126">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the subscription object.</p><p>Example: SUB-2119-4550-8674-5962</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Relative reference to the object in the API.</p><p>Example: /v1/commerce/subscriptions/SUB-2119-4550-8674-5962)</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The key status of the object. Possible values are a by-product of the latest completed order that included this subscription. Possible statuses are a subset of all subscription statuses.</p><p>Example: Active</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the subscription.</p><p>Example: Subscription for Microsoft Office 365 NCE E1</p></td></tr><tr><td>agreement</td><td><a href="../agreements/"><code>agreement</code></a></td><td><p>The agreement that contains this particular subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{   
     "id": "AGR-2119-4550-8674-5962",
     "name": "Microsoft Office 365 for My Company"
 }
-</code></pre></td></tr><tr><td>product</td><td><code>product</code></td><td><p>Reference to the Product object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>product</td><td><a href="../../catalog-api/product/"><code>product</code></a></td><td><p>Reference to the Product object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
     "id": "PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
 }
-</code></pre></td></tr><tr><td>startDate</td><td><code>string</code></td><td><p>The start date of the subscription.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td>commitmentDate</td><td><code>string</code></td><td><p>The date when the subscription commitment ends and the subscription needs to be renewed.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td>terminationDate</td><td><code>string</code></td><td><p>The date when the subscription is to be terminated.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td>terms</td><td><code>terms</code></td><td><p>The subscription's billing terms.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>startDate</td><td><code>string</code></td><td><p>The start date of the subscription.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td>commitmentDate</td><td><code>string</code></td><td><p>The date when the subscription commitment ends and the subscription needs to be renewed.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td>terminationDate</td><td><code>string</code></td><td><p>The date when the subscription is to be terminated.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td>terms</td><td><a href="../../catalog-api/terms-and-conditions/"><code>terms</code></a></td><td><p>The subscription's billing terms.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "period": "1m",
   "commitment": "1y"
 }
@@ -27,7 +27,7 @@ All items are connected to one product, one vendor, and one client (same as the 
   "defaultMarkup": 0.15,
   "currency": "USD"
 }
-</code></pre></td></tr><tr><td>lines</td><td><code>lines</code></td><td><p>List of all product items (lines) purchased in the scope of this subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
+</code></pre></td></tr><tr><td>lines</td><td><code>lines</code></td><td><p>A list of all product items (lines) purchased in the scope of this subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">[
   { 
     "id": "ALI-1234-1234-1234-0001",
     "item": {
@@ -60,13 +60,13 @@ All items are connected to one product, one vendor, and one client (same as the 
         "unique": false
     }
 }
-</code></pre></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td><p>Audit object with possible entries: created, updated, activated, terminated, according to the object's lifecycle.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>Audit object with possible entries: created, updated, activated, terminated, according to the object's lifecycle.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "created": { "at": "...", "by": { } },
   "updated": { "at": "...", "by": { } },
   "activated": { "at": "...", "by": { } },
   "terminated": { "at": "...", "by": { } }
 }
-</code></pre></td></tr><tr><td>externalIDs</td><td><code>object</code></td><td><p>Set of external IDs.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>externalIDs</td><td><a href="../../common-api-objects/externalids.md"><code>externalIDs</code></a></td><td><p>Set of external IDs.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "client": "12345678",
   "vendor": "ABC-2023-C07-dbeee0b302c0"
 }

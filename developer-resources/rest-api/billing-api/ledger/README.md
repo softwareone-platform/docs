@@ -21,7 +21,7 @@ The Ledger object is created by the rating function within a specific Seller's c
   "name": "John Smith",
   "icon": "/static/users/USR-1234-1234-1234.svg"
 }
-</code></pre></td></tr><tr><td>audit</td><td><code>auditObject</code></td><td>Audit object with these possible entries: <code>Created</code> or <code>Updated</code>.</td></tr><tr><td>price</td><td><a href="../journal/#pricesummary"><code>priceSummary</code></a></td><td><p>The ledger price summary including aggregated price values for all ledger charges.</p><p>Note that not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>Audit object with these possible entries: <code>Created</code> or <code>Updated</code>.</td></tr><tr><td>price</td><td><a href="../journal/#pricesummary"><code>priceSummary</code></a></td><td><p>The ledger price summary including aggregated price values for all ledger charges.</p><p>Note that not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "totalPP": 229.8,
   "markup": 0.5013,
   "margin": 0.3339,  

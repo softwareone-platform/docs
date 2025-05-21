@@ -18,11 +18,11 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 Navigate to the **Products** page. Then, select the relevant Microsoft 365 product.
 
-On the details page, select **Buy now** in the upper right to start the purchase wizard.
+On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-**Complete the steps in the purchase wizard**
+**Follow the steps in the purchase wizard**
 
 1. In the **Create agreement** step, choose an active agreement from the list and then select **Next**.&#x20;
 2. In the **Items** step, enter the total number of licenses in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.

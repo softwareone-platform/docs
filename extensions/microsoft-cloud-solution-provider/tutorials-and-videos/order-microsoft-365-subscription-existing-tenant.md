@@ -1,5 +1,7 @@
 # Order Microsoft 365 Subscription For Existing Tenant
 
+
+
 This tutorial guides you through the steps to order a Microsoft 365 subscription by creating a new agreement.
 
 When establishing a new agreement with SoftwareOne, you can either establish a new Microsoft account or use an existing one. In this tutorial, you'll connect your existing cloud account.&#x20;
@@ -19,15 +21,25 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Launch the purchase wizard**
+**Navigate to the Products page**
 
-Navigate to the **Products** page. Then, select **Microsoft 365 Business, Enterprise & Apps - Commercial** from the available products.
+The **Products** page is located under **Marketplace** in the main navigation menu. The page displays all products available to order from the SoftwareOne Marketplace.
 
-On the details page, select **Buy now** in the upper right to start the purchase wizard.
+On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-**Complete the steps in the purchase wizard**
+**Launch the purchase wizard for Microsoft 365**
+
+From the list of products, select **Microsoft 365 Business, Enterprise & Apps - Commercial**. Then, on the details page, select **Buy now** to start the purchase wizard.
+
+<figure><img src="../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>Buy now option on the details page</p></figcaption></figure>
+{% endstep %}
+
+{% step %}
+**Follow the steps in the purchase wizard**
+
+Follow all steps in the purchase wizard, ensuring that the required information is entered or verified on each page.
 
 1. In the **Create agreement** step, select **Create agreement** to start creating your new agreement.
 2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.

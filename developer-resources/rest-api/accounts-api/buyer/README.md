@@ -2,7 +2,7 @@
 
 The Buyer object represents an individual buyer within the Marketplace platform. This object contains the following properties:
 
-<table data-full-width="false"><thead><tr><th width="136">Field</th><th width="132">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the buyer.</p><p>Example: BUY-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object in the API.</p><p>Example: /v1/accounts/buyers/BUY-1234-1234</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the buyer.</p><p>Possible values: <code>Enabled</code>, <code>Active</code>, <code>Disabled</code>, or <code>Deleted</code></p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The buyer's name.</p><p>Example: Stark Industries</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The relative path to the buyer’s logo.</p><p>Example: /static/accounts/BUY-1234-1234/logo.png</p></td></tr><tr><td>externalIds</td><td><code>BuyerExternalIdsObject</code></td><td><p>The external identifier.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="136">Field</th><th width="132">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the buyer.</p><p>Example: BUY-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object in the API.</p><p>Example: /v1/accounts/buyers/BUY-1234-1234</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the buyer.</p><p>Possible values: <code>Enabled</code>, <code>Active</code>, <code>Disabled</code>, or <code>Deleted</code></p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The buyer's name.</p><p>Example: Stark Industries</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The relative path to the buyer’s logo.</p><p>Example: /static/accounts/BUY-1234-1234/logo.png</p></td></tr><tr><td>externalIds</td><td><a href="../../common-api-objects/externalids.md"><code>externalIds</code></a></td><td><p>The external identifier.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
  "erpCompanyContact": "WW-CON-123456",
  "erpCustomer": "WW-SCU-123456"
 }
@@ -26,15 +26,7 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 		"name": "Will Smith"
 	}
 }
-</code></pre></td></tr><tr><td>audit</td><td><code>object</code></td><td><p>A reference to the Audit object.</p><p>Possible audit events: <code>Created</code>, <code>Updated</code>, <code>Disabled</code>, <code>Enabled</code>, or <code>Activated</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
-  "created": { "at": "...", "by": { } },
-  "updated": { "at": "...", "by": { } },
-  "disabled": { "at": "...", "by": { } },
-  "enabled": { "at": "...", "by": { } },
-  "activated": { "at": "...", "by": { } },
-  "deleted": { "at": "...", "by": { } }
-}
-</code></pre></td></tr></tbody></table>
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the Audit object.</td></tr></tbody></table>
 
 ## Example
 

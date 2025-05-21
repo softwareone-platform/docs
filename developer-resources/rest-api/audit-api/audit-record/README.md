@@ -18,7 +18,7 @@ The Audit Record object provides a detailed record of a specific event that occu
   "icon": null,
   "objectType" : "Order"
 }
-</code></pre></td></tr><tr><td>timestamp</td><td><code>dateTime</code></td><td><p>The timestamp of the event.</p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td><code>auditRecordType Enum</code></td><td><p>The visibility of the audit record. </p><p>Possible values: <code>Public</code> or <code>Private</code>.</p></td></tr><tr><td>request</td><td><code>request</code></td><td><p>The request for technical data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>timestamp</td><td><code>dateTime</code></td><td><p>The timestamp of the event.</p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td><code>auditRecordType Enum</code></td><td><p>The visibility of the audit record. </p><p>Possible values: <code>Public</code> or <code>Private</code>.</p></td></tr><tr><td>request</td><td><a href="../../commerce-api/requests/"><code>request</code></a></td><td><p>The request for technical data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "api": {
     "ip": "192.168.2.2",
     "geolocation": {
