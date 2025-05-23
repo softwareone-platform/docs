@@ -8,4 +8,4 @@ We are pleased to announce the launch of AWS within the SoftwareOne Marketplace.
 
 Features include monthly invoicing aligned with AWS billing cycles, flexible support options, including partner-led or AWS-resold for technical and billing queries, and a native spend management module for tracking your cloud consumption.&#x20;
 
-Use the leftside bar to access the AWS content resources, including reference documentation, tutorials, and FAQs.
+Use the left sidebar to access the [AWS content resources](./), including reference documentation, tutorials, and FAQs.

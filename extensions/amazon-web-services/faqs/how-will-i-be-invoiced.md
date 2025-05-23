@@ -13,6 +13,6 @@ Additionally, your invoice might include the following items:
 * **AWS marketplace**\* - Shows any third-party products you purchased from the AWS Marketplace.
 
 {% hint style="info" %}
-The items marked with an asterisk are only applicable if relevant.
+The items marked with an asterisk are only applicable if relevant. See [My AWS order contains additional items ](my-aws-order-contains-additional-items.md)to learn about these items.
 {% endhint %}
 
