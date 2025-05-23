@@ -1,6 +1,6 @@
 # Close AWS Account Permanently
 
-If you want to close an AWS account, you can do this through the Marketplace Platform.
+If you no longer need your AWS account, you can raise a request to close it permanently by placing a termination order from the Marketplace Platform.
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
