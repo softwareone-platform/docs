@@ -1,10 +1,10 @@
 # Add Additional Member Accounts
 
-This tutorial describes how to add an AWS-linked account to an existing Marketplace agreement.
+This tutorial describes how to add AWS-linked accounts to an existing Marketplace agreement by placing a change order.
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-Before you start this tutorial, make sure that the AWS marketplace agreement you want to use is in the **Active** state.
+Before starting this tutorial, make sure that your AWS Marketplace agreement is in the **Active** state. You'll also need to know the email address you want to use to create your member account in AWS and the account name.
 
 ## Implementation <a href="#implementation" id="implementation"></a>
 
@@ -16,7 +16,7 @@ The **Products** page is located under **Marketplace** in the main navigation me
 {% endstep %}
 
 {% step %}
-**Start the purchase wizard for AWS**
+**Start the Purchase Wizard for AWS**
 
 From the list of products, select **Amazon Web Services**. Then, on the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
@@ -24,16 +24,26 @@ From the list of products, select **Amazon Web Services**. Then, on the details 
 {% step %}
 **Follow the steps in the Purchase Wizard**
 
-1. In the **Select agreement** step, select the required active agreement. Then, select **Next**.
-2. In the **AWS details** step, provide the following details:&#x20;
-   1. **Email** - Enter the email address you want to use to create your member account in AWS. Make sure that the email address is unique and hasn't been used previously in the AWS cloud.&#x20;
-   2. **Account name** - Enter a name for the new account.
-3. In the **Select items** step, select **Next**. This page displays items used for billing purposes to provide clarity of your charges. They are added by default and can’t be removed.
+1. In the **Select agreement** step, select the active agreement. Then, select **Next**.
+2.  In the **AWS details** step, provide the following details:&#x20;
+
+    1. **Email** - Enter the email address you want to use to create your member account in AWS. Make sure that the email address is unique and hasn't been used previously in the AWS cloud.&#x20;
+    2. **Account name** - Enter a name for the new account.
+
+
+
+    <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>AWS details step</p></figcaption></figure>
+3. In the **Select items** step, select **Next**. This page shows the existing AWS subscription you ordered under the agreement, along with the new AWS subscription you are about to order. Additionally, you'll see additional items that are included by default and can’t be removed. See [My AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md) to learn more.
 4. In the **Order details** step, enter the reference information as needed. You can use the **Additional ID** field to enter a PO number to display on your invoice. When done, select **Next**.
-5. In the **Review order** step, review the item and other details. Then, select **Place order** to submit your order.
+5. In the **Review order** step, review the item and other details. Then, select **Place order** to submit your change order.
 6. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ## Next steps <a href="#next-steps" id="next-steps"></a>
 
+When your order has been placed, we verify the order details. &#x20;
+
+If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information on your next steps.
+
+If there are no issues, we'll create additional AWS member accounts using the name and email address you provided. You'll receive an email with instructions on resetting your password and accessing your account.

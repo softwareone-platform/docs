@@ -6,10 +6,13 @@ When setting up a new agreement, you can either set up a new AWS account or tran
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-Before you start this tutorial, make sure you have the following:
+Before starting this tutorial, make sure that you are familiar with the concepts and support models in[ AWS concepts](../aws-concepts.md). You'll need to choose the support level when creating your new account.
 
-* A licensee in active state within the Marketplace Platform, or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) if you don't want to use an existing active licensee. Licensee selection is required when setting up a new agreement.
-* The contact details of the person who will manage your AWS account. We will send notification emails to your assigned contact person.&#x20;
+Additionally, you'll require the following:
+
+* An active licensee within the Marketplace Platform, or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) if you prefer not to use an existing one. Selecting a licensee is required when setting up a new agreement.
+* The email address of your root user and the name of your AWS account.
+* The contact details of the person who will manage your AWS account. We'll send notification emails and account invitations to this assigned contact person.&#x20;
 
 ## Implementation <a href="#implementation" id="implementation"></a>
 
@@ -21,7 +24,7 @@ The **Products** page is located under **Marketplace** in the main navigation me
 {% endstep %}
 
 {% step %}
-**Start the purchase wizard for AWS**
+**Start the Purchase Wizard for AWS**
 
 From the list of products, select **Amazon Web Services**. Then, on the details page, select **Buy now** to start the purchase wizard.
 
@@ -37,11 +40,16 @@ From the list of products, select **Amazon Web Services**. Then, on the details 
 4. In the **AWS details** step, provide the necessary information:
    1. **Email** - Enter the email address you want to use for this member account in AWS. Make sure that the email address is unique and hasn't been used previously in the AWS cloud.&#x20;
    2. **Account name** - Enter a name for the new account.
-   3. **Notification contact** - Review the contact details. These details are prepopulated with the details of your selected licensee. The contact listed in this section will receive all notifications for the account.&#x20;
+   3. **Notification contact** - Review the contact details. These details are prepopulated with the details of your selected licensee. The contact listed in this section will receive all account-related notifications, including account invitations.&#x20;
 5. In the **Service level** step, select **Next**. This page displays all services you get as part of your agreement. It's not possible to change these options.
-6. In the **Support level** step, choose a support plan and select **Next**. In this example, we will select **Resold support**. Learn about the support options in [AWS Concepts](../aws-concepts.md).
-7. In the **Items** step, review the items and select **Next**. This section displays individual items that will be added to your order. To learn about these items, see [My AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md).
-8. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
+6. In the **Support level** step, choose a support plan and select **Next**. In this example, we'll select **Resold support**. Learn about the support options in [AWS Concepts](../aws-concepts.md).
+
+{% hint style="info" %}
+Choose your support type carefully, as it will affect the deployed guardrails, pricing, and the tasks required after creating your AWS account and Marketplace agreement. Once you select a support type, changing it involves a manual process and is currently not supported by the SoftwareOne Marketplace.
+{% endhint %}
+
+7. In the **Items** step, review all items and select **Next**. This section displays individual items that will be added to your order. To learn about these items, see [My AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md).
+8. In the **Details** step, provide reference details, like additional IDs or notes. Then, select **Next**.
 9. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
 10. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}
@@ -53,7 +61,7 @@ When your order has been placed, we verify the order details.&#x20;
 
 If there are issues with your order, for example, if the email address you provided is incorrect or already in use, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and the actions you need to take.&#x20;
 
-If there are no issues, we'll create an AWS account using the name and email address you provided. You will receive an email with instructions on accessing your account and resetting the password. &#x20;
+If there are no issues, we'll create an AWS account using the name and email address you provided. You'll receive an email with instructions on resetting your password and accessing your account.
 
 {% hint style="info" %}
 Make sure to save your login credentials for future reference. SoftwareOne does not keep a copy of your email and password.

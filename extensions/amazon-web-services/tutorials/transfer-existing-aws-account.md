@@ -1,14 +1,12 @@
 # Transfer Existing AWS Account
 
-This tutorial describes how to create a new AWS account by establishing a new agreement with SoftwareOne through the Marketplace Platform.&#x20;
-
-When setting up a new agreement, you can either set up a new AWS account or transfer your existing AWS account. In this tutorial, you will transfer your existing AWS account.
+This tutorial describes how you can transfer your existing AWS accounts to the SoftwareOne Marketplace by establishing a new agreement.&#x20;
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-Before you start this tutorial, make sure you have the following:
+Before you start this tutorial, make sure you understand the account transfer options that are available. See [Account Options](../account-options.md) to learn more. Additionally, you'll require the following:
 
-* A licensee in active state within the Marketplace Platform, or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) if you don't want to use an existing active licensee. Licensee selection is required when setting up a new agreement.
+* An active licensee within the Marketplace Platform, or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) if you prefer not to use an existing one. Selecting a licensee is required when setting up a new agreement.
 * The IDs of the AWS accounts you want to transfer.
 
 ## Implementation <a href="#implementation" id="implementation"></a>
@@ -55,7 +53,7 @@ If you selected **Transfer one or multiple accounts without an organization** in
 
 <summary><strong>Transfer my current AWS organization</strong></summary>
 
-If you selected **Transfer my current AWS organization** in the previous step, SoftwareOne Operations will contact you to transfer the account.
+If you selected **Transfer my current AWS organization** in the previous step, SoftwareOne Operations will contact you to transfer the payer account of your AWS Organization.
 
 </details>
 
@@ -86,6 +84,6 @@ When your order has been placed, we verify the order details.&#x20;
 
 If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.&#x20;
 
-If you decided to transfer your AWS organization, you'll be contacted by SoftwareOne Operations. They will assist you in completing the transfer process.
+If you transferred your AWS organization, you'll be contacted by SoftwareOne Operations, who will assist you further in completing the transfer process.
 
-If you decided to transfer standalone accounts, you will receive invitations for all the accounts specified during the ordering process. To complete this process, you must log in to each account as an admin and accept the invitations on the Organizations page within the AWS console.
+If you transferred standalone accounts, you'll receive invitations for all the accounts specified during the ordering process. To complete this process, you must sign in to each account as an administrator and accept pending invitations on the **Organizations** page within the AWS console.
