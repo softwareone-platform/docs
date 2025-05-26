@@ -14,6 +14,6 @@ Once an account is unlinked, it will no longer be part of the SoftwareOne organi
 
 ## Close account&#x20;
 
-If you prefer to terminate your AWS subscription permanently, you can close your account. For instructions on how to close your account, see [Close AWS Account Permanently](../tutorials/close-aws-account-permanently.md).
+If you prefer to terminate your AWS subscription permanently, you can close your account. For instructions, see [Close AWS Account Permanently](../tutorials/close-aws-account-permanently.md).
 
-If you decide to proceed with account closure, we will guide you through the process to ensure that all necessary steps are taken for the successful termination of your AWS account.
+If you decide to proceed with account closure, we will guide you through the process to ensure that all necessary steps are taken for the successful termination of your AWS account. For specifics that apply to AWS account closures, see [Close an AWS account](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-closing.html) in AWS documentation.

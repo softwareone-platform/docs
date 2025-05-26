@@ -1,14 +1,16 @@
 # Close AWS Account Permanently
 
-This tutorial shows how to close your AWS account permanently by placing a termination order from the Marketplace Platform.
+This tutorial shows how to place a termination order for closing your AWS account.&#x20;
+
+Note that placing a termination order through the Marketplace Platform doesn't automatically result in AWS account closure. After you submit the termination order, we will contact you to complete the process and ensure that all necessary steps are taken for the successful termination of your AWS account.
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-Make sure that the AWS subscription is active in the Marketplace Platform. You can check the status on the **Subscriptions** page.
+Make sure that the AWS subscription is active in the Marketplace Platform.&#x20;
 
 ## Closing your AWS account
 
-To cancel your AWS account:
+To close your AWS account:
 
 1. Navigate to the **Subscriptions** page in the Marketplace Platform.&#x20;
 2. Select the subscription you want to terminate.
@@ -23,6 +25,6 @@ The termination order is submitted for processing. You can view the latest statu
 
 ## Next steps <a href="#next-steps" id="next-steps"></a>
 
-Once we have processed your request to close your account, it will enter a post-closure period lasting 90 days.&#x20;
+The SoftwareOne Operations team will contact you to assist with the steps involved in unlinking your account. Meanwhile, you can keep track of the termination order and view the latest status message on the order details page.&#x20;
 
-During this time, you can reopen your account. After the 90-day post-closure period, your AWS account will be permanently closed, and it will no longer be possible to reopen it.
+Once we have processed your request to close your account, it will enter a post-closure period lasting 90 days. During this time, you can reopen your account. After the 90-day post-closure period, your AWS account will be permanently closed, and it will no longer be possible to reopen it.
