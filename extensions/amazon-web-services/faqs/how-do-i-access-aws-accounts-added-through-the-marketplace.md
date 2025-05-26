@@ -14,4 +14,4 @@ If you created new AWS-linked accounts through the SoftwareOne Marketplace, your
 
 To access the newly created accounts, you'll need to reset the password by selecting **Forgot password?** on the [AWS sign-in page](https://signin.aws.amazon.com/). After resetting the password, you'll be able to sign in to your newly created linked accounts.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Forgot password option on the AWS sign in page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/aws_forgot_password.png" alt=""><figcaption><p>Forgot password option on the AWS sign in page</p></figcaption></figure>

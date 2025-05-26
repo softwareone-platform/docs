@@ -32,7 +32,7 @@ From the list of products, select **Amazon Web Services**. Then, on the details 
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>AWS details step</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/aws_details.png" alt=""><figcaption><p>AWS details step</p></figcaption></figure>
 3. In the **Select items** step, select **Next**. This page shows the existing AWS subscription you ordered under the agreement, along with the new AWS subscription you are about to order. Additionally, you'll see additional items that are included by default and can’t be removed. See [My AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md) to learn more.
 4. In the **Order details** step, enter the reference information as needed. You can use the **Additional ID** field to enter a PO number to display on your invoice. When done, select **Next**.
 5. In the **Review order** step, review the item and other details. Then, select **Place order** to submit your change order.
