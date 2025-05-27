@@ -1,8 +1,6 @@
 # CSP Support Options
 
-When you purchase Microsoft licenses or Azure cloud services through SoftwareOne's Microsoft CSP agreement, you automatically gain access to SoftwareOne Services Support.&#x20;
-
-This support starts immediately after your license is activated and continues throughout your subscription period.
+When you purchase Microsoft licenses or Azure cloud services through SoftwareOne's Microsoft CSP agreement, you automatically gain access to **SoftwareOne Services Support**. This support starts immediately after your license is activated and continues throughout your subscription period.
 
 SoftwareOne Services Support provides 24/7 technical assistance for all Microsoft products in your portfolio. With a team of over 730+ Microsoft-certified professionals across 12 global delivery centers, you receive expert support for various technical scenarios, including:
 
