@@ -46,6 +46,6 @@ Follow all steps in the purchase wizard, ensuring that the required information 
 
 When your order has been placed, we verify the order details. &#x20;
 
-If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information on your next steps.
+If there are issues with your order, the [order details](../../../modules-and-features/marketplace/orders/#subscription-details) page will provide information on your next steps.
 
 If there are no issues, we'll create additional AWS member accounts using the name and email address you provided. You'll receive an email with instructions on resetting your password and accessing your account.

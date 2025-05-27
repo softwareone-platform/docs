@@ -84,7 +84,7 @@ If you selected **Split existing SoftwareOne marketplace agreements** in the pre
 
 When your order has been placed, we verify the order details.&#x20;
 
-If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.&#x20;
+If there are issues with your order, the [order details](../../../modules-and-features/marketplace/orders/#subscription-details)[ ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.&#x20;
 
 If you transferred your AWS organization, you'll be contacted by SoftwareOne Operations, who will assist you further in completing the transfer process.
 

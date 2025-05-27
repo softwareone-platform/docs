@@ -27,13 +27,13 @@ To view the details page, select the buyer's name on the **Buyers** page.&#x20;
 
 The details page provides general information about the buyer and includes options for managing them, along with the following tabs:
 
-| Tab             | Description                                                                                                                                                                                                                 |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **General**     | Displays the buyer's address and the contact person's details.                                                                                                                                                              |
-| **Sellers**     | Displays the SoftwareOne entities linked to the buyer. Selecting the seller's name opens up the details page for the seller.                                                                                                |
-| **Licensees**   | Displays all licensees associated with the buyer.                                                                                                                                                                           |
-| **Details**     | Displays reference information, such as the external IDs, as well as the event summary.                                                                                                                                     |
-| **Audit trail** | Displays an audit trail of all changes. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail). |
+| Tab             | Description                                                                                                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **General**     | Displays the buyer's address and the contact person's details.                                                                                                |
+| **Sellers**     | Displays the SoftwareOne entities linked to the buyer. Selecting the seller's name opens up the details page for the seller.                                  |
+| **Licensees**   | Displays all licensees associated with the buyer.                                                                                                             |
+| **Details**     | Displays reference information, such as the external IDs, as well as the event summary.                                                                       |
+| **Audit trail** | Displays an audit trail of all changes. For each audit record, you can view the log details and summary. To learn more, see [Audit Trail](../audit-trail.md). |
 
 ## Additional actions
 

@@ -1,7 +1,3 @@
----
-description: Upload a new file as an attachment or remove the existing file.
----
-
 # Add or Remove Attachments
 
 You can attach a file to your request at any time, regardless of the request's status. You can also delete any files you have previously added.&#x20;

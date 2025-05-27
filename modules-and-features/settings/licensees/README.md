@@ -22,7 +22,7 @@ To view the details page of a licensee, select the licensee on the **Licensee** 
 
 The details page shows the licensee's name, marketplace ID, and status. It also shows the associated buyer and seller entities, and contains the following tabs:&#x20;
 
-<table><thead><tr><th width="156">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the licensee's mailing address and contact person details. </td></tr><tr><td><strong>Details</strong></td><td>Displays date and time information for the licensee, for example, the date and time when the licensee was created in the system, and so on.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail of all changes made in the scope of the licensee. For each audit record, you can view the log details and summary. To learn more, see <a href="https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail">Audit Trail</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="156">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the licensee's mailing address and contact person details. </td></tr><tr><td><strong>Details</strong></td><td>Displays date and time information for the licensee, for example, the date and time when the licensee was created in the system, and so on.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail of all changes made in the scope of the licensee. For each audit record, you can view the log details and summary. To learn more, see <a href="../audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
 
 ## Additional actions
 
