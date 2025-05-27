@@ -42,7 +42,7 @@ From the list of products, select **Amazon Web Services**. Then, on the details 
 
 <details>
 
-<summary><strong>Transfer one or multiple accounts without an organization</strong></summary>
+<summary>Transfer one or multiple accounts without an organization</summary>
 
 If you selected **Transfer one or multiple accounts without an organization** in the previous ste&#x70;**:**
 
@@ -53,7 +53,7 @@ If you selected **Transfer one or multiple accounts without an organization** in
 
 <details>
 
-<summary><strong>Transfer my current AWS organization</strong></summary>
+<summary>Transfer my current AWS organization</summary>
 
 If you selected **Transfer my current AWS organization** in the previous step, SoftwareOne Operations will contact you to transfer the payer account of your AWS organization.
 
