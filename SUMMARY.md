@@ -264,6 +264,7 @@
     * [Manage Perpetual Software Orders](extensions/microsoft-cloud-solution-provider/perpetual-software/manage-perpetual-software-orders.md)
   * [Software Subscriptions](extensions/microsoft-cloud-solution-provider/software-subscriptions/README.md)
     * [Manage Software Subscriptions](extensions/microsoft-cloud-solution-provider/software-subscriptions/manage-software-subscriptions.md)
+  * [CSP Support Options](extensions/microsoft-cloud-solution-provider/csp-support-options.md)
   * [Tutorials and Videos](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/README.md)
     * [Microsoft 365](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/README.md)
       * [Order Microsoft 365 Subscription For New Tenant](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-new-tenant.md)

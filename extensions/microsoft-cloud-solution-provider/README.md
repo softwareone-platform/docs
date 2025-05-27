@@ -59,6 +59,10 @@ The following steps are involved in your CSP onboarding with SoftwareOne:
 {% endstep %}
 {% endstepper %}
 
-## CSP and Granular Delegated Admin Privileges <a href="#csp-and-granular-delegated-admin-privileges" id="csp-and-granular-delegated-admin-privileges"></a>
+## CSP support options <a href="#csp-and-granular-delegated-admin-privileges" id="csp-and-granular-delegated-admin-privileges"></a>
 
-Granular Delegated Admin Privileges (GDAP) is a security feature that provides CSP providers with the least-privileged access following the Zero Trust cybersecurity protocol. It lets SoftwareOne configure granular and time-bound access to your workloads in production and sandbox environments. See [Granular Delegated Admin Privileges (GDAP)](granular-delegated-admin-privileges-gdap/) to learn more.
+When you buy Microsoft licenses or Azure cloud services through SoftwareOne's Microsoft CSP agreement, you automatically gain access to SoftwareOne Services Support.&#x20;
+
+SoftwareOne Services Support is a comprehensive technical support ecosystem that accompanies Microsoft licenses and Azure cloud services purchased through SoftwareOne's Microsoft CSP Agreement. This support begins as soon as your license is activated and continues for the duration of your subscription.&#x20;
+
+For details on how to contact SoftwareOne Services Support and to understand the minimum requirements for receiving full support services, see [CSP Support Options](csp-support-options.md).
