@@ -34,24 +34,28 @@ From the list of products, select **Amazon Web Services**. Then, on the details 
 {% step %}
 **Follow the steps in the Purchase Wizard**
 
-1. In the **Create agreement** step, select **Create agreement** to start creating your new agreement with SoftwareOne.
-2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we will select an existing licensee. To add a new licensee, select **Add licensee** and follow the instructions in [Create licensee](../../../modules-and-features/settings/licensees/create-licensees.md).
-3. In the **Create agreement** step, choose **New account** to create a new organization with AWS. Then, select **Next**.
-4. In the **AWS details** step, provide the necessary information:
+<figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure>
+
+Follow all steps in the purchase wizard, ensuring that the required information is entered or verified on each page:
+
+1. **Select agreement** - Select **Create agreement** to start creating your new agreement with SoftwareOne.
+2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we will select an existing licensee. To add a new licensee, select **Add licensee** and follow the instructions in [Create licensee](../../../modules-and-features/settings/licensees/create-licensees.md).
+3. **Create agreement** - Choose **New account** to create a new organization with AWS. Then, select **Next**.
+4. **AWS details** - Provide the necessary information:
    1. **Email** - Enter the email address you want to use for this member account in AWS. Make sure that the email address is unique and hasn't been used previously in the AWS cloud.&#x20;
    2. **Account name** - Enter a name for the new account.
    3. **Notification contact** - Review the contact details. These details are prepopulated with the details of your selected licensee. The contact listed in this section will receive all account-related notifications, including account invitations.&#x20;
-5. In the **Service level** step, select **Next**. This page displays all services you get as part of your agreement. It's not possible to change these options.
-6. In the **Support level** step, choose a support plan and select **Next**. In this example, we'll select **Resold support**. Learn about the support options in [AWS Concepts](../aws-concepts.md).
+5. **Service level** - Select **Next**. This page displays all services you get as part of your agreement. It's not possible to change these options.
+6. **Support info** - Choose a support plan and select **Next**. In this example, we'll select **Resold support**. Learn about the support options in [AWS Concepts](../aws-concepts.md).
 
 {% hint style="info" %}
 Choose your support type carefully, as it will affect the deployed guardrails, pricing, and the tasks required after creating your AWS account and Marketplace agreement. Once you select a support type, changing it involves a manual process and is currently not supported by the SoftwareOne Marketplace.
 {% endhint %}
 
-7. In the **Items** step, review all items and select **Next**. This section displays individual items that will be added to your order. To learn about these items, see [My AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md).
-8. In the **Details** step, provide reference details, like additional IDs or notes. Then, select **Next**.
-9. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-10. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close**.
+7. **Items** - Check the items in your order and select **Next**. Note that these items are added by default and can't be removed. To learn more, see [My AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md).
+8. **Details** - Provide reference details, like additional IDs or notes. Then, select **Next**.
+9. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
+10. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

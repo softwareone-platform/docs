@@ -24,14 +24,14 @@ On the details page, select **Buy now** to start the purchase wizard.
 {% step %}
 **Follow the steps in the purchase wizard**
 
-1. In the **Create agreement** step, choose an active agreement from the list and then select **Next**.&#x20;
-2. In the **Items** step, enter the total number of licenses in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
+1. **Create agreement** - Choose an active agreement from the list and then select **Next**.&#x20;
+2. **Items** - Enter the total number of licenses in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
 
 <figure><img src="../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Items section in the purchase wizard</p></figcaption></figure>
 
-3. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
-4. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
-5. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+3. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
+4. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.
+5. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

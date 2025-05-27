@@ -29,14 +29,16 @@ From the list of products, select **Amazon Web Services**. Then, on the details 
 {% step %}
 **Follow the steps in the Purchase Wizard**
 
-1. In the **Create agreement** step, select **Create agreement** to start creating your new agreement with SoftwareOne.
-2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we will select an existing licensee. To add a new licensee, select **Add licensee** and follow the instructions in [Create licensee](../../../modules-and-features/settings/licensees/create-licensees.md).
-3. In the **Create agreement** step, choose **Existing account**. Then, select **Next**.
-4. In the **Existing account** step, choose one of the following options and select **Next**:
+<figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure>
+
+1. **Select agreement** - Select **Create agreement** to start creating your new agreement with SoftwareOne.
+2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we will select an existing licensee. To add a new licensee, select **Add licensee** and follow the instructions in [Create licensee](../../../modules-and-features/settings/licensees/create-licensees.md).
+3. **Create agreement** - Choose **Existing account**. Then, select **Next**.
+4. **Existing account** - Choose one of the following options, and select **Next**:
    * **Transfer one or multiple accounts without an organization** - Select this option if you have standalone accounts, but not an AWS organization.
    * **Transfer my current AWS organization** - Select this option if you have an AWS master payer account with at least one associated linked account.
-   * **Split existing SoftwareOne marketplace agreements** - Select this option if you already have an agreement for AWS through the SoftwareOne Marketplace and want to split the cost among groups of linked accounts. You can do this by creating additional marketplace agreements that are all connected to the same AWS payer account.
-5. In the **AWS details** step, do one of the following depending on the selection in the previous step, and select **Next**:
+   * **Split the cost of your organization** - Select this option if you already have an agreement for AWS through the SoftwareOne Marketplace and want to split the cost among groups of linked accounts. You can do this by creating additional marketplace agreements that are all connected to the same AWS payer account.
+5. **AWS details** - Do one of the following depending on the selection in the previous step, and select **Next**:
 
 <details>
 
@@ -44,8 +46,8 @@ From the list of products, select **Amazon Web Services**. Then, on the details 
 
 If you selected **Transfer one or multiple accounts without an organization** in the previous ste&#x70;**:**
 
-1. Provide your AWS Account ID. Make sure to include all account IDs so we can send the invitation link. After you have accepted the invitation link, we will create an organization and subscriptions on the Marketplace Platform.
-2. Review the details under **Notification contact**. By default, this section is prefilled with the information of the selected licensee, who will receive notifications regarding order status.
+1. Provide your AWS Account ID. Make sure to include all account IDs so we can send the invitation link. After you have accepted the invitation link, we'll create an organization and subscriptions on the Marketplace Platform.
+2. Review the **Notification contact** details. This contact will receive notification emails. By default, this section is prefilled with the information of your selected licensee.
 
 </details>
 
@@ -53,28 +55,28 @@ If you selected **Transfer one or multiple accounts without an organization** in
 
 <summary><strong>Transfer my current AWS organization</strong></summary>
 
-If you selected **Transfer my current AWS organization** in the previous step, SoftwareOne Operations will contact you to transfer the payer account of your AWS Organization.
+If you selected **Transfer my current AWS organization** in the previous step, SoftwareOne Operations will contact you to transfer the payer account of your AWS organization.
 
 </details>
 
 <details>
 
-<summary><strong>Split existing SoftwareOne marketplace agreements</strong></summary>
+<summary>Split the cost of your organization</summary>
 
 If you selected **Split existing SoftwareOne marketplace agreements** in the previous step, do the following to split the costs between licensees:
 
-1. **AWS Master payer ID**: To locate your AWS Master Payer ID, check your existing agreement. Navigate to the **Details** tab on the agreement details page and look under **Additional IDs** to find the **Vendor**. This number is for your master payer account that you want to split.
-2. Enter the email that will be used to create your first member account in AWS. Note that this email address must be unique and should not have been used in any other AWS account.
-3. Enter a name for the member account you are about to create.
-4. By default, the **Notification contact** section is prefilled with the information of the selected licensee to receive notifications regarding order status.
+1. **AWS master payer ID** - Enter the payer ID. To locate your AWS Master Payer ID, check your existing agreement. Navigate to the **Details** tab on the agreement details page and look under **Additional IDs** to find the **Vendor**. This number is for your master payer account that you want to split.
+2. **Account name** - Enter a name for the member account you are about to create.
+3. **E-mail** - Enter the email that will be used to create your first member account in AWS. Note that this email address must be unique and should not have been used in any other AWS account.
 
 </details>
 
-6. In the **Support level** step, choose a support plan and select **Next**. In this example, we will select **Resold support**. To learn about the support options, see [AWS Concepts](../aws-concepts.md).
-7. In the **Items** step, review the details and then select **Next**. This section displays individual items that will be added to your order. To learn more, see My [AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md).
-8. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
-9. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-10. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+6. **Service level** - Select **Next**. This page displays all services you get as part of your agreement. It's not possible to change these options.
+7. **Support info** - Choose a support plan and select **Next**. In this example, we will select **Resold support**. To learn about the support options, see [AWS Concepts](../aws-concepts.md).
+8. **Items** - Review the details, then select **Next**. This section displays individual items that will be added to your order. To learn more, see My [AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md).
+9. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
+10. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
+11. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

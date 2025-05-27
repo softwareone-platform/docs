@@ -24,8 +24,10 @@ From the list of products, select **Amazon Web Services**. Then, on the details 
 {% step %}
 **Follow the steps in the Purchase Wizard**
 
-1. In the **Select agreement** step, select the active agreement. Then, select **Next**.
-2.  In the **AWS details** step, provide the following details:&#x20;
+Follow all steps in the purchase wizard, ensuring that the required information is entered or verified on each page:
+
+1. **Select agreement** - Select the active agreement. Then, select **Next**.
+2.  **AWS details** - Provide the following details:&#x20;
 
     1. **Email** - Enter the email address you want to use to create your member account in AWS. Make sure that the email address is unique and hasn't been used previously in the AWS cloud.&#x20;
     2. **Account name** - Enter a name for the new account.
@@ -33,10 +35,10 @@ From the list of products, select **Amazon Web Services**. Then, on the details 
 
 
     <figure><img src="../../../.gitbook/assets/aws_details.png" alt=""><figcaption><p>AWS details step</p></figcaption></figure>
-3. In the **Select items** step, select **Next**. This page shows the existing AWS subscription you ordered under the agreement, along with the new AWS subscription you are about to order. Additionally, you'll see additional items that are included by default and can’t be removed. See [My AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md) to learn more.
-4. In the **Order details** step, enter the reference information as needed. You can use the **Additional ID** field to enter a PO number to display on your invoice. When done, select **Next**.
-5. In the **Review order** step, review the item and other details. Then, select **Place order** to submit your change order.
-6. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
+3. **Items** - Select **Next**. This page shows the existing AWS subscription you ordered under the agreement, along with the new AWS subscription you are about to order. Additionally, you'll see additional items that are included by default and can’t be removed. See [My AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md) to learn more.
+4. **Order details** - Enter the reference information as needed. You can use the **Additional ID** field to enter a PO number to display on your invoice. When done, select **Next**.
+5. **Review order** - Review the item and other details. Then, select **Place order** to submit your change order.
+6. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

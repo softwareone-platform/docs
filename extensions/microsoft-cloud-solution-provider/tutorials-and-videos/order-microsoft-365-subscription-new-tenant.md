@@ -28,7 +28,7 @@ On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-**Launch the purchase wizard for Microsoft 365**
+**Start the Purchase Wizard for Microsoft 365**
 
 From the list of products, select **Microsoft 365 Business, Enterprise & Apps - Commercial**. Then, on the details page, select **Buy now** to start the purchase wizard.
 
@@ -40,10 +40,10 @@ From the list of products, select **Microsoft 365 Business, Enterprise & Apps - 
 
 Follow all steps in the purchase wizard, ensuring that the required information is entered or verified on each page.
 
-1. In the **Create agreement** step, select **Create agreement** to start creating your new agreement.
-2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
-3. In the **Create agreemen**t step, select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
-4. In the **Microsoft details** step, enter the details for your Microsoft account:
+1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
+2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
+3. **Create agreemen**t - Select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
+4. **Microsoft details** - Enter the details for your Microsoft account:
    1. Enter the tenant name you want to use on the onmicrosoft.com domain. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
    2. Select **Next**. The platform validates the details that you entered.
    3. Fill out the contact form and select **Next**. You'll need to provide the following details:
@@ -51,16 +51,16 @@ Follow all steps in the purchase wizard, ensuring that the required information 
       2. Company registration ID or tax number.
       3. Company address, including city and zip/postal code.
       4. Contact details of the person who will manage your account.&#x20;
-5. In the **Special qualifications** step, select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
-6. In the **Support contacts** step, enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
-7. In the **Items** step, do the following:
+5. **Special qualifications** - Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
+6. **Support contacts** - Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
+7. **Items** - Complete the following steps:
    1. Choose the items you want to order. You can select multiple items. Then, select **Add items.**&#x20;
    2. Review and adjust the number of licenses as required.
    3. If applicable, [read the offer attestation](../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
    4. Select **Next**.
-8. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
-9. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-10. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close**.
+8. **Details -** Provide reference details, like additional IDs or notes, and select **Next**.
+9. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
+10. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
