@@ -65,4 +65,4 @@ When you buy Microsoft licenses or Azure cloud services through SoftwareOne's Mi
 
 SoftwareOne Services Support is a comprehensive technical support ecosystem that accompanies Microsoft licenses and Azure cloud services purchased through SoftwareOne's Microsoft CSP Agreement. This support begins as soon as your license is activated and continues for the duration of your subscription.&#x20;
 
-For details on how to contact SoftwareOne Services Support and to understand the minimum requirements for receiving full support services, see [CSP Support Options](csp-support-options.md).
+For details on how to contact SoftwareOne Services Support and to understand the minimum requirements for receiving full support services, see [Support Options for CSP](support-options-for-csp.md).
