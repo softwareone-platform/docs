@@ -13,7 +13,7 @@ To enroll in the program:
 
 1. Navigate to the **Programs** page, located under **Marketplace** in the main navigation menu.
 2. Select **Cloud Solution Provider Partner Program** from the list of programs.
-3. On the program's details page, select the **Certificates** tab. Then, select **Add.**
+3. On the program's details page, select the **Certificates** tab. Then, select **Add**.
 4. In the **Add certificate** wizard, complete the following steps:&#x20;
    1. **Certificant** - Choose the buyer who will represent this certificate and select **Next**.
    2. **Partner details** - Do the following, then select **Next**:&#x20;
