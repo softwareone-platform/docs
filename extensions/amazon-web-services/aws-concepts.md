@@ -20,12 +20,12 @@ When you sign up for Cloud Managed Services for AWS through the Marketplace Plat
 
 To learn more about AWS concepts and account types, see [Terminology and Concepts for AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html).
 
-## AWS Partner-Led vs Resold support <a href="#resold-vs-partner-led-aws-support" id="resold-vs-partner-led-aws-support"></a>
+## Partner-Led vs Resold support <a href="#resold-vs-partner-led-aws-support" id="resold-vs-partner-led-aws-support"></a>
 
-Two types of support options are available when you order AWS services through the Marketplace Platform: Partner-led and Resold.
+When you order AWS services through the Marketplace Platform, you have two support options: Partner-led and Resold.
 
-* **Partner-led (PLS)** - This is the Enterprise support option led by SoftwareOne, backed by AWS. If you choose this option, SoftwareOne becomes your dedicated point of contact for assistance with your AWS resources. By choosing this support model, you'll receive guidance, how-to advice, and troubleshooting assistance. Additionally, you'll get valuable insights to help you optimize your investment in AWS.&#x20;
-* **Resold** - The Resold support is provided by AWS. If you select this option during the ordering process, you'll need to contact AWS for troubleshooting and operational assistance. You'll also need to add your support plan to the AWS console's settings. AWS offers several support plans to suit different business needs, including Basic, Developer, Enterprise, and Business. You can find a list of all plans, their benefits, and pricing on the [AWS Support](https://aws.amazon.com/premiumsupport/?nc=sn\&loc=0) page.&#x20;
+* **Partner-led (PLS)** - This is the Enterprise support option provided by SoftwareOne. If you choose this option, SoftwareOne becomes your point of contact for assistance with your AWS resources. You'll receive guidance, how-to advice, and troubleshooting assistance from SoftwareOne. Additionally, you'll get valuable insights to help you optimize your investment in AWS.&#x20;
+* **Resold** - The Resold support is provided by AWS. If you select this option, you'll need to contact AWS for troubleshooting and operational assistance. You'll also need to add your support plan to the AWS console's settings. AWS offers several support plans to suit different business needs, including Basic, Developer, Enterprise, and Business. To learn more, see [AWS Resold Support](https://aws.amazon.com/premiumsupport/aws-resold-support/).&#x20;
 
 The **Parameters** tab within the order details page shows the support model you opted for. This information is available only after you've placed the order.
 
