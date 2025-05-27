@@ -28,22 +28,22 @@ On the details page, select **Buy now** to start the purchase wizard.
 {% step %}
 **Complete the steps in the purchase wizard**
 
-1. In the **Select agreement** step, select **Create new agreement** to set up a new agreement.
-2. In the **Select licensee** step, choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md). Select **Next**.&#x20;
-3. In the **Create agreement** step, choose whether you want to create a new Microsoft account or use your existing account, and then select **Next**.  In this tutorial, we'll select **Connect existing cloud account**.
-4. In the **Microsoft details** step, do the following:
+1. **Select agreement** - Select **Create new agreement** to set up a new agreement.
+2. **Select licensee** - Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md). Select **Next**.&#x20;
+3. **Create agreement** - Choose whether you want to create a new Microsoft account or use your existing account, and then select **Next**.  In this tutorial, we'll select **Connect existing cloud account**.
+4. **Microsoft details** - Do the following:
    1. (Optional) Select **Access tenant name availability tool** to check the availability of tenant names from Microsoft.
    2. Enter your preferred domain name (also known as the tenant name) in the **Primary** **domain name** field.&#x20;
    3. Fill out the required fields and select **Next**.
-5.  In the **Service level** step, select **Azure Essentials** or **Azure Advanced**, depending on the level of service you require for Azure. In this tutorial, we'll select **Azure Essentials**.&#x20;
+5.  **Service level** - Select **Azure Essentials** or **Azure Advanced**, depending on the level of service you require for Azure. In this tutorial, we'll select **Azure Essentials**.&#x20;
 
     When done, select **Next**.
-6. In the **Service addons** step, select **Next**. Note that when you select **Azure Essentials** or **Azure Advanced**, all add-ons offered as part of the Azure services are displayed. All service add-ons are selected by default, and you cannot change them.&#x20;
-7. In the **Support contacts** step, enter the details of your support admin and select your preferred support language. Then, select **Next**.
-8. In the **Select items** step, select the Azure subscription item and select **Add items** to add it to your order. Note that for Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
-9. In the **Details** step, enter additional details as required and select **Next**.
-10. In the **Review order** step, review the details of your order and make sure to read the terms using the links in the footer. When done, select **Place order**.
-11. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
+6. **Service addons** - Select **Next**. Note that when you select **Azure Essentials** or **Azure Advanced**, all add-ons offered as part of the Azure services are displayed. All service add-ons are selected by default, and you cannot change them.&#x20;
+7. **Support contacts** - Enter the details of your support admin and select your preferred support language. Then, select **Next**.
+8. **Select items** - Select the Azure subscription item and select **Add items** to add it to your order. Note that for Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
+9. **Details** - Enter additional details as required and select **Next**.
+10. **Review order** - Review the details of your order and make sure to read the terms using the links in the footer. When done, select **Place order**.
+11. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

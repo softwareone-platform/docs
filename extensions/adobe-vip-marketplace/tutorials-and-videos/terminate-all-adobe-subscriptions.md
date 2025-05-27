@@ -22,10 +22,10 @@ On the agreement details page, select the arrow <img src="data:image/png;base64,
 {% step %}
 **Complete the steps in the Terminate Agreement wizard**
 
-1. In the **Items** step, check that all subscriptions show the new quantity as 0 and select **Next**.
-2. In the **Order details** step, enter the reference information for the agreement and the termination order, then select **Next**.
-3. In the **Review order** step, review the order details. When done, select **Place order** to submit the termination order.&#x20;
-4. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
+1. **Items** - Check that all subscriptions show the new quantity as 0 and select **Next**.
+2. **Order details** - Enter the reference information for the agreement and the termination order, then select **Next**.
+3. **Review order** - Review the order details. When done, select **Place order** to submit the termination order.&#x20;
+4. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

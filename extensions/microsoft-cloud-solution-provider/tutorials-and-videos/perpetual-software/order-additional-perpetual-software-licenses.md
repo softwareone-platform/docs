@@ -14,7 +14,7 @@ Before starting this tutorial, make sure that your existing agreement is in the 
 {% step %}
 **Open your existing agreement**
 
-Navigate to the **Agreements** page. Then, select the required agreement.
+Navigate to the **Agreements** page in the platform. Then, select the required agreement.
 
 On the agreement details page, select **Buy more** to start the purchase wizard.&#x20;
 {% endstep %}
@@ -41,9 +41,9 @@ The **Select Items** step displays all one-time software items you can order und
 {% step %}
 **Complete the remaining steps in the wizard**
 
-1. In the **Details** step, add any additional IDs or notes for your order and select **Next**. Note that it's optional to provide these details.
-2. In the **Review order** step, verify the information and click **Place order** to submit the change order.
-3. In the Summary step, select **View details** to go to the order details page. Otherwise, select **Close**.
+1. **Details** - Add any additional IDs or notes for your order and select **Next**. Note that it's optional to provide these details.
+2. **Review order** - Verify the information and click **Place order** to submit the change order.
+3. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
@@ -51,4 +51,4 @@ The **Select Items** step displays all one-time software items you can order und
 
 Your change order is submitted for processing. You can check the order status on the **Orders** page or in the **Orders** tab on the agreement details page.
 
-Once the order is placed, the agreement status changes from **Active** to **Updating**. You will not be able to place any additional orders under this agreement until your current order has been processed and the agreement status is changed back to **Active**.
+Once the order is placed, the agreement status changes from **Active** to **Updating**. You won't be able to place any additional orders under this agreement until your current order has been processed and the agreement status is changed back to **Active**.

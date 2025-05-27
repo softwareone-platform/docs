@@ -30,7 +30,7 @@ Then, on the agreement details page, select **Buy more.** The purchase wizard st
 {% step %}
 **Add the required items to your order**
 
-In the **Items** step of the wizard, do the following:
+In the **Items** step within the wizard, do the following:
 
 1. Select **Add items** to choose the items you want to order.
 
@@ -62,9 +62,9 @@ In this step, you can also increase the quantities of your existing subscription
 {% step %}
 **Complete the remaining steps in the wizard**
 
-1. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
-2. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
-3. In the **Summary** step, select **View details** to go to the order details page; otherwise, select **Close** to exit the wizard.
+1. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
+2. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.
+3. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

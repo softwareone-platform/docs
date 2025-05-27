@@ -26,13 +26,13 @@ On the subscription details page, select **Edit** to launch the **Edit subscript
 {% step %}
 **Complete the steps in the Edit Subscription wizard**
 
-1. In the **Items** step, enter the new number in the **New qty** field. In the following image, the quantity of both items is lowered from **20** to **19**.
+1. **Items** - Enter the new number in the **New qty** field. In the following image, the quantity of both items is lowered from **20** to **19**.
 
 <figure><img src="../../../.gitbook/assets/downsize_subscription_change_qty.png" alt=""><figcaption><p>Items section</p></figcaption></figure>
 
-2. In the **Details** step, enter the reference information that might help you identify the change order easily. You can add the **Additional ID** and **Notes**. Then, select **Next**.
-3. In the **Review** step, read the terms and conditions by selecting the links in the footer. When done, select **Place order**.&#x20;
-4. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
+2. **Details** - Enter the reference information that might help you identify the change order easily. You can add the **Additional ID** and **Notes**. Then, select **Next**.
+3. **Review** - Read the terms and conditions by selecting the links in the footer. When done, select **Place order**.&#x20;
+4. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

@@ -30,10 +30,10 @@ On the details page, select **Buy now** to start the purchase wizard.
 {% step %}
 **Complete the steps in the purchase wizard**
 
-1. In the **Create agreement** step, choose **Create agreement** to start creating your new agreement.
-2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
-3. In the **Create agreement** step, select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
-4. In the **Microsoft details** step, enter the details for your Microsoft account:
+1. **Create agreement** - Choose **Create agreement** to start creating your new agreement.
+2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
+3. **Create agreement** - Select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
+4. **Microsoft details** - Enter the details for your Microsoft account, then select **Next**:
    1. Enter the tenant name you want to use on the onmicrosoft.com domain. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
    2. Select **Next**. The platform validates the details that you entered.
    3. Fill out the contact form. You'll need to provide the following details:
@@ -41,16 +41,16 @@ On the details page, select **Buy now** to start the purchase wizard.
       2. Company registration ID or tax number.
       3. Company address, including city and zip/postal code.
       4. Contact details of the person who will manage your account.&#x20;
-5. Select **Next**. In the **Service level** step, select **Azure Essentials** or **Azure Advanced**, depending on the level of service you require for Microsoft Azure. Select **Next**.
-6. In the **Service add-ons** step, all add-ons offered as part of the Azure services are displayed. These are selected by default, and you cannot change them. Select **Next**. &#x20;
-7. In the **Support contacts** step, enter the contact details of your support administrator and choose your preferred support language. When done, select **Next**.
-8. In the **Items** step, choose the Azure subscription and select **Add items** to add it to your order. Note that for Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
+5. **Service level** - Select **Azure Essentials** or **Azure Advanced**, depending on the level of service you require for Microsoft Azure. Select **Next**.
+6. **Service add-ons** - Review the add-ons offered as part of the Azure services. These are selected by default, and you can't change them. Select **Next**. &#x20;
+7. **Support contacts** - Enter the contact details of your support administrator and choose your preferred support language. When done, select **Next**.
+8. **Items** - Choose the Azure subscription and select **Add items** to add it to your order. Note that for Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 
 <figure><img src="../../../.gitbook/assets/azure_select_items.png" alt=""><figcaption><p>Select Items</p></figcaption></figure>
 
-9. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
-10. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-11. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+9. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
+10. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
+11. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

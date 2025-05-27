@@ -22,10 +22,10 @@ On the subscription's details page, select the arrow <img src="data:image/png;ba
 {% step %}
 **Complete the steps in the Terminate Subscription wizard**
 
-1. In the **Items** step, check that the new quantity field displays the value as 0. When done, select **Next**.
-2. In the **Details** step, enter the reference information as needed, then select **Next**&#x20;
-3. In the **Review** step, select **Place order** to place your termination order for the subscription.
-4. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
+1. **Items** - Check that the new quantity field displays the value as 0. When done, select **Next**.
+2. **Details** - Enter the reference information as needed, then select **Next**&#x20;
+3. **Review** - Select **Place order** to place your termination order for the subscription.
+4. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

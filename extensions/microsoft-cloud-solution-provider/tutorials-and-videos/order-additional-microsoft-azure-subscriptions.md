@@ -20,8 +20,8 @@ On the details page, select **Buy now** to start the purchase wizard.
 {% step %}
 **Complete the steps in the purchase wizard**
 
-1. In the **Select agreement** step, select an active agreement from the list. Then, select **Next**.&#x20;
-2. In the **Select items** step, select **Add items** to add the new Azure subscription to your order. Then, select **Next**.&#x20;
+1. **Select agreement** - Select an active agreement from the list. Then, select **Next**.&#x20;
+2. **Select items** - Select **Add items** to add the new Azure subscription to your order. Then, select **Next**.&#x20;
 
 {% hint style="info" %}
 For Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
@@ -29,9 +29,9 @@ For Microsoft Azure, there is only one item, with no associated cost. When using
 
 <figure><img src="../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
-3. In the **Order details** step, enter the reference information as needed. You can use the **Additional ID** field to enter a PO number to display on your invoice. When done, select **Next**.
-4. In the **Review order** step, review the item and other details. Then, select **Place order** to submit your order.
-5. In the **Summary** step, select **View order** to navigate to the order details page. Otherwise, select **Close**.
+3. **Order details** - Enter the reference information as needed. You can use the **Additional ID** field to enter a PO number to display on your invoice. When done, select **Next**.
+4. **Review order** - Review the item and other details. Then, select **Place order** to submit your order.
+5. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
