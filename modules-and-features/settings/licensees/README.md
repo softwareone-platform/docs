@@ -1,10 +1,10 @@
 # Licensees
 
-A licensee is a specific person or a department within your account that receives the license to use the product.&#x20;
+In the Marketplace Platform, a licensee is a specific person or a department within your account that receives the license to use the product.&#x20;
 
-In the Marketplace Platform, licensees are connected to buyers and sellers in your account. You can have multiple licensees in one account, but each licensee can only be linked to one buyer and one seller.&#x20;
+Licensees are connected to the buyers and sellers in your account. There can be multiple licensees in an account, but each licensee can only be linked to one buyer and one seller. To learn more, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
 
-Account administrators can view and manage licensees on the **Licensees** page. The page is available under **Settings** in the main menu.
+Account administrators can view and manage licensees on the **Licensees** page in the platform. The page is available under **Settings** in the main navigation menu.
 
 <figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption><p>Licensees page</p></figcaption></figure>
 
