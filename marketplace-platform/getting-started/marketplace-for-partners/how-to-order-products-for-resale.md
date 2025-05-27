@@ -7,17 +7,17 @@ In the Marketplace Platform, agreements are the foundation for placing orders an
 When ordering products, there are two options for agreements:
 
 * If you have an existing agreement, you can use that agreement. However, you'll need to make sure that the agreement is mapped to a licensee that's been configured for resale. If the agreement doesn't have a resale licensee, the transaction will not be allowed.
-* If you don't have an agreement, you can create one during the ordering process and select the licensee you may have already set up as a resale licensee.
+* If you don't have an agreement, you can create one during the ordering process and select an existing licensee you've configured for resale.
 
 ## Ordering products for resale
 
 To order a product for resale by establishing a new agreement:
 
-1. Navigate to the **Products** page in the platform. Then, select the required product.
-2. Select **Buy now** to start the purchase wizard.&#x20;
+1. Navigate to the **Products** page. Then, select the required product, for example, **Microsoft 365 Business, Enterprise & Apps - Commercial**.
+2. On the details page, select **Buy now**.&#x20;
 3. In the **Select agreements** step, select **Create agreement**.
-4. In the **Select licensee** step, choose a licensee from the list.  Make sure that the **Resale** column for the licensee displays **Yes** as the value. Then, select **Next**.&#x20;
-5. On the **Certificates** page, select the partner certificate you wish to use. If the certificate you want to use isn't displayed, use the **Add certificate** option to add it. When done, select **Next**.
+4. In the **Select licensee** step, choose a licensee from the list.  Make sure that the **Resale** column for the licensee displays **Yes**. Then, select **Next**.&#x20;
+5. On the **Certificates** page, select the required certificate. If the certificate you want to use isn't displayed, use the **Add certificate** option to add it. When done, select **Next**.
 6. Choose whether you want to create a new Microsoft tenant or connect your existing cloud account.
 7. Do the following depending on the selection in the previous step:
    1. For a new cloud account, provide a new domain name and then fill out the contact form. You'll need to provide the following details:
