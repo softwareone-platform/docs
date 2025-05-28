@@ -59,7 +59,7 @@ GET /v1/accounts/users?limit=10&offset=20
 
 ### Projection
 
-To request specific fields, such as `forstName`, `lastName`, and `email` to be included, the `select=+` operator can be used:
+To request specific fields, such as `firstName`, `lastName`, and `email` to be included, the `select=+` operator can be used:
 
 ```http
 GET /v1/accounts/users?select=+firstName,+lastName,+email
