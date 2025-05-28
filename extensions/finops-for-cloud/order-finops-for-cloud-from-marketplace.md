@@ -1,10 +1,4 @@
-# FinOps for Cloud
-
-FinOps for Cloud is a solution designed to enhance the cloud usage experience by providing detailed insights and management capabilities.&#x20;
-
-It utilizes billing information, resource state monitoring, and cloud monitoring data to provide actionable recommendations for optimizing cloud resource usage and reducing costs. The solution performs resource discovery using APIs from cloud providers like AWS, Azure, and Google Cloud to ensure that all resources are accounted for and managed effectively.&#x20;
-
-## Ordering FinOps for Cloud from the Marketplace
+# Order FinOps for Cloud from Marketplace
 
 You can order FinOps for Cloud subscription from the SoftwareOne Marketplace. The following steps describe how to place an order by creating a new agreement.&#x20;
 
@@ -29,14 +23,14 @@ The **Products** page is located under **Marketplace** in the main navigation me
 
 From the list of products, select **SoftwareOne FinOps for Cloud**. Then, on the details page, select **Buy now** to start the purchase wizard.
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
 **Follow the steps in the purchase wizard**
 
 1. In the **Select agreement** step, select **Create agreement** to start creating your new agreement.
-2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can [add a new licensee](../modules-and-features/settings/licensees/create-licensees.md) by selecting **Create licensee**.
+2. In the **Select licensee** step, choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can [add a new licensee](../../modules-and-features/settings/licensees/create-licensees.md) by selecting **Create licensee**.
 3. In the **Agreement** step, provide the following details, then select **Next**:
    1. **Organization name** - (Required) Enter the name of your organization. This name represents your environment in FinOps for Cloud. You can update the name later from the **Settings** page within FinOps.&#x20;
    2. **Currency** - (Required) Select the currency that your cloud service provider bills you in.&#x20;
@@ -46,13 +40,13 @@ From the list of products, select **SoftwareOne FinOps for Cloud**. Then, on the
 When selecting a **Currency**, make sure to choose the correct one, as it can't be changed after the agreement has been created. You must select the same currency that your cloud provider (like AWS or Azure) uses for billing. For example, if you are billed in USD, you must select **USD** from the list. If you choose a different currency, you won't be able to import the cost and usage data from your cloud provider.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/FFC_parameters.png" alt=""><figcaption><p>Agreement step in the wizard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FFC_parameters.png" alt=""><figcaption><p>Agreement step in the wizard</p></figcaption></figure>
 
 4. In the **Items** step, do the following:
    1. Choose **SoftwareOne FinOps for Cloud**. Then, select **Add items** to add it to your order.&#x20;
    2. Select **Next** to continue.
 
-<figure><img src="../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>Items step in the wizard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>Items step in the wizard</p></figcaption></figure>
 
 5. In the **Details** step, provide reference details, like additional IDs or notes, then select **Next**.
 6. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
@@ -62,7 +56,7 @@ When selecting a **Currency**, make sure to choose the correct one, as it can't 
 
 ### Next steps
 
-Once your order is placed, we will verify the details and process your order. You can use the **General** tab on the [order details](../modules-and-features/marketplace/orders/#subscription-details) page to keep track of your order. If there are any issues, the details page will provide information about the problem and any actions you may need to take.
+Once your order is placed, we will verify the details and process your order. You can use the **General** tab on the [order details](../../modules-and-features/marketplace/orders/#subscription-details) page to keep track of your order. If there are any issues, the details page will provide information about the problem and any actions you may need to take.
 
 After the order is complete, we'll email your account administrator with instructions on [signing in to your FinOps account](https://portal.finops.softwareone.com/). After signing in, admins can connect data sources to start importing data.&#x20;
 
