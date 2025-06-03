@@ -26,8 +26,9 @@
     * [How to Invite Users to Your Account](marketplace-platform/getting-started/marketplace-for-clients/how-to-invite-users-to-your-account.md)
   * [Marketplace for Partners](marketplace-platform/getting-started/marketplace-for-partners/README.md)
     * [What is Partners Management?](marketplace-platform/getting-started/marketplace-for-partners/what-is-partners-management.md)
-    * [How to Configure Licensees For Resale](marketplace-platform/getting-started/marketplace-for-partners/how-to-configure-licensees-for-resale.md)
-    * [How to Order Products for Resale](marketplace-platform/getting-started/marketplace-for-partners/how-to-order-products-for-resale.md)
+    * [How Does Partner Portal Migration Work?](marketplace-platform/getting-started/marketplace-for-partners/how-does-partner-portal-migration-work.md)
+    * [How to Configure Licensees for Reselling](marketplace-platform/getting-started/marketplace-for-partners/how-to-configure-licensees-for-resale.md)
+    * [How to Order Products for Reselling](marketplace-platform/getting-started/marketplace-for-partners/how-to-order-products-for-resale.md)
 
 ## MODULES & FEATURES
 

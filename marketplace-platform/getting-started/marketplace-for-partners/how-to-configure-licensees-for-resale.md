@@ -1,10 +1,10 @@
-# How to Configure Licensees For Resale
+# How to Configure Licensees for Reselling
 
 In the Marketplace Platform, licensees are the entities that consume the software products or services procured by the buyer.&#x20;
 
 SoftwareOne Partners who want to order products from the Marketplace and resell them to other organizations must configure licensees as resale licensees. A resale licensee is a licensee that's involved in resale activities, ordering products specifically for resale instead of self-consumption.
 
-This topic explains how partners can set up resale licensees on the platform.
+This topic explains how partners can set up resale licensees within the platform.
 
 ## Prerequisites
 
