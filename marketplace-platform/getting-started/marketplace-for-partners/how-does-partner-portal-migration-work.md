@@ -43,6 +43,6 @@ After joining the account, you must enroll in the SoftwareOne Cloud Solution Pro
 
 This is required to transact with all CSP products in the Marketplace Platform. For instructions on how to enroll, see [Enroll in CSP Partner Program](../../../extensions/microsoft-cloud-solution-provider/partner-programs/enroll-in-csp-partner-program.md).&#x20;
 
-Once you are enrolled and have your certificate, you can start transacting through the Marketplace. If you need assistance, you can contact Marketplace Platform Support. For details, see [Contact Support](../../../help-and-support/contact-support.md).
+Once you are enrolled and have your certificate, you can start transacting through the Marketplace. If you need assistance, you can[ contact Marketplace Platform Support](../../../help-and-support/contact-support.md).
 
-You will receive invitations to webinars after the migration, where you can learn how to effectively use the Marketplace Platform.
+You'll also receive invitations to webinars after the migration, where you can learn how to effectively use the Marketplace Platform.
