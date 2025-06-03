@@ -771,6 +771,7 @@
   * [GitHub Projects](developer-resources/open-source/github-projects.md)
   * [Code of Conduct](developer-resources/open-source/code-of-conduct.md)
   * [Contributor License Agreement](developer-resources/open-source/contributor-license-agreement.md)
+  * [Third-Party Licenses](developer-resources/open-source/third-party-licenses.md)
 
 ***
 
@@ -778,15 +779,6 @@
 
 ## Help and Support
 
-* [Contact Support](help-and-support/contact-support.md)
-* [Status Page](help-and-support/status-page.md)
-* [YouTube Channel](help-and-support/youtube-channel.md)
-* [Release Notes](help-and-support/release-notes/README.md)
-  * [Release Notes v4](help-and-support/release-notes/release-notes-v4.md)
-  * [Release Notes v3](help-and-support/release-notes/release-notes-v3.md)
-  * [Release Notes v2](help-and-support/release-notes/release-notes-v2.md)
-  * [Release Notes v1](help-and-support/release-notes/release-notes-v1.md)
-* [Planned Maintenance](help-and-support/planned-maintenance.md)
 * [Platform FAQs](help-and-support/faqs/README.md)
   * [I have questions about billing](help-and-support/faqs/i-have-questions-about-billing.md)
   * [How do you handle purchase order numbers in subscription-based models?](help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
@@ -807,4 +799,13 @@
   * [How to create service accounts for 365 Analytics reporting](help-and-support/faqs/how-to-create-service-accounts-for-365-analytics-reporting.md)
   * [What data do you collect for 365 Analytics?](help-and-support/faqs/what-data-do-you-collect-for-365-analytics.md)
   * [What is 365 Analytics delegation and policy control?](help-and-support/faqs/what-is-365-analytics-delegation-and-policy-control.md)
+* [Contact Support](help-and-support/contact-support.md)
+* [Release Notes](help-and-support/release-notes/README.md)
+  * [Release Notes v4](help-and-support/release-notes/release-notes-v4.md)
+  * [Release Notes v3](help-and-support/release-notes/release-notes-v3.md)
+  * [Release Notes v2](help-and-support/release-notes/release-notes-v2.md)
+  * [Release Notes v1](help-and-support/release-notes/release-notes-v1.md)
+* [Status Page](help-and-support/status-page.md)
+* [YouTube Channel](help-and-support/youtube-channel.md)
+* [Planned Maintenance](help-and-support/planned-maintenance.md)
 * [Terms of Use](help-and-support/terms-of-use.md)
