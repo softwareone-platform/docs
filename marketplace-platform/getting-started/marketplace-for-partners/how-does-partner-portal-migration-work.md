@@ -2,9 +2,9 @@
 
 SoftwareOne's legacy Partner Portal is being transitioned to the Marketplace Platform.
 
-The Marketplace Platform offers the same self-service capabilities as the Partner Portal, but also includes several additional features that enable you (our partners) to expand your service offerings. The platform provides a more unified and streamlined experience, allowing you to take advantage of features that are specifically designed for you.&#x20;
+The Marketplace Platform offers the same self-service capabilities as the Partner Portal, but also includes several additional features that enable you (our partners) to expand your service offerings. The platform provides a more unified and streamlined experience, allowing you to take advantage of features that are specifically designed for you.
 
-This topic outlines what you can expect during the transition and details the steps you must take to continue transacting with us.
+This topic outlines what you can expect during the transition and details the steps you must take to continue transacting with us.&#x20;
 
 ## Before migration
 
@@ -39,9 +39,9 @@ After accepting the invitation, you can sign in and access your [agreements](../
 
 ## Next steps
 
-After joining the account, you must enroll in the SoftwareOne Cloud Solution Provider Partner Program.
+After joining the account, you must enroll in the SoftwareOne Cloud Solution Provider Partner Program (**SWO CSP Partner Program**).
 
-This is required to transact with all CSP products in the Marketplace Platform. For instructions on how to enroll, see [Enroll in CSP Partner Program](../../../extensions/microsoft-cloud-solution-provider/partner-programs/enroll-in-csp-partner-program.md).&#x20;
+This enrollment is required to transact with all CSP products in the Marketplace Platform. For instructions on how to enroll, see [Enroll in CSP Partner Program](../../../extensions/microsoft-cloud-solution-provider/partner-programs/enroll-in-csp-partner-program.md).&#x20;
 
 Once you are enrolled and have your certificate, you can start transacting through the Marketplace. If you need assistance, you can[ contact Marketplace Platform Support](../../../help-and-support/contact-support.md).
 

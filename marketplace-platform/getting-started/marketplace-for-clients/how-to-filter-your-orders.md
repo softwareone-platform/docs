@@ -8,7 +8,7 @@ If you need to find a specific order, you can use the filter option to search fo
 
 To find an order using a filter, such as status:
 
-1. Navigate to the **Orders** page on the platform. Then, select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
+1. Navigate to the **Orders** page in the platform. Then, select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
 
 <figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
 
