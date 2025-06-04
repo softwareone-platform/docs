@@ -4,7 +4,7 @@ To use the Marketplace Platform effectively as a Partner and make the most of it
 
 The following video provides essential details, including terminology for partners, a step-by-step guide on getting started, and key considerations for using the platform.
 
-{% embed url="https://youtu.be/77SqZEURAGo?si=zVkrp16UHzF_8dub" %}
+{% embed url="https://youtu.be/77SqZEURAGo?feature=shared" %}
 Partner Management in the Marketplace Platform
 {% endembed %}
 
