@@ -14,7 +14,7 @@ layout:
 
 # Home
 
-Welcome to the documentation of the [SoftwareOne](https://softwareone.com) Marketplace Platform.
+<figure><img src=".gitbook/assets/MPT Home Image.png" alt=""><figcaption></figcaption></figure>
 
 Our platform serves as a comprehensive digital marketplace that connects a diverse range of vendors and clients. It is designed to offer a variety of software solutions while ensuring that the needs of clients align effectively with the capabilities of vendors.
 

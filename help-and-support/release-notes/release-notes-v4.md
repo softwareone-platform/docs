@@ -12,7 +12,7 @@ In addition to invoices, you'll now receive statements containing a detailed rec
 
 We've also updated the platform's navigation menu to include a new **Billing** module, making it easy for you to access your [statements](../../modules-and-features/marketplace/billing/statements.md).&#x20;
 
-<figure><img src="../../.gitbook/assets/release_notes_billing (1).png" alt=""><figcaption><p>New Billing option in the navigation menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Billing.png" alt=""><figcaption><p>New Billing option in the navigation menu</p></figcaption></figure>
 
 ## Support for AWS Extension
 
@@ -26,7 +26,7 @@ Complete documentation on how to order AWS services will be available soon.
 
 FinOps for Cloud is a new solution designed to help you optimize costs and manage your resources effectively.
 
-<figure><img src="../../.gitbook/assets/ffc_homepage.png" alt=""><figcaption><p>FinOps for Cloud</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FinOps.png" alt=""><figcaption><p>FinOps for Cloud</p></figcaption></figure>
 
 With FinOps for Cloud, you can explore and analyze your cloud expenses, monitor resource usage, and implement policies to ensure efficient and cost-effective cloud management. With a user-friendly interface and robust features, the solution provides greater visibility and control over cloud infrastructure. To learn more, see [FinOps for Cloud](https://docs.finops.softwareone.com/).
 
@@ -42,7 +42,7 @@ In addition to all the existing functionalities, partners will also have access 
 
 The new Notifications feature allows account administrators to configure and manage notification emails for their accounts.
 
-<figure><img src="../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Notifications page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FinOps-1.png" alt=""><figcaption><p>Notifications page</p></figcaption></figure>
 
 Admins can set recipients for these emails and manage categories to start or stop receiving notifications. This feature is available under **Settings** in the main navigation menu. To learn more, see [Notifications](../../modules-and-features/settings/notifications/).
 
@@ -56,7 +56,7 @@ For instance, if there are saved orders in your account, those orders are spotli
 
 You can find the **Spotlight** feature on the **Home** page, and it can also be accessed by selecting the spotlight icon <img src="../../.gitbook/assets/icon_pending_actions (1).png" alt="" data-size="line"> in the status bar.&#x20;
 
-<figure><img src="../../.gitbook/assets/spotlight.png" alt=""><figcaption><p>Spotlight widget</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Spotlight.png" alt=""><figcaption><p>Spotlight widget</p></figcaption></figure>
 
 ## Public Catalog
 
@@ -66,7 +66,7 @@ Designed for intuitive navigation, our catalog ensures a seamless browsing exper
 
 The catalog is available to everyone and provides easy access to a wide range of software products and services. You can explore products from over 56,000 vendors across categories, including healthcare, finance, analytics, and more.
 
-<figure><img src="../../.gitbook/assets/release_notes_catalog.png" alt="" width="563"><figcaption><p>SoftwareOne public catalog</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Public Catalog.png" alt=""><figcaption><p>SoftwareOne public catalog</p></figcaption></figure>
 
 ## Subscription Automatic Renewals
 
@@ -84,7 +84,7 @@ Reminders can be sent to users within your account and to those who are not in y
 
 As part of our ongoing effort to make our platform easier to work with, we've introduced a new filter condition called **Search Query**. You can find this condition within the **Filter** option in the data grid.
 
-<figure><img src="../../.gitbook/assets/search_query.png" alt=""><figcaption><p>Search query filter</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Search.png" alt=""><figcaption><p>Search query filter</p></figcaption></figure>
 
 This new condition allows you to enter a search term, which is then used to find matching records across other filter conditions, such as orders, agreements, and more. To learn more about the other operations within the data grid, see [Customize the data grid](https://docs.platform.softwareone.com/marketplace-platform/getting-started/interface/customize-the-data-grid).
 
