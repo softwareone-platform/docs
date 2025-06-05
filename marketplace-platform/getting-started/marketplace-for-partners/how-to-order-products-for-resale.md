@@ -33,7 +33,7 @@ From the list of products, select **Microsoft 365 Business, Enterprise & Apps - 
 {% endstep %}
 
 {% step %}
-**Use the Purchase Wizard to order the product**
+**Use the Purchase Wizard to order licenses**
 
 Complete all steps in the wizard, making sure to enter or verify the required information on each page.
 

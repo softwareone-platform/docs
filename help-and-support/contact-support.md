@@ -1,6 +1,6 @@
 # Contact Support
 
-The **Marketplace Platform** **support** is here to assist you if you have questions about the SoftwareOne Marketplace, including your account, and ordering and managing your subscriptions.&#x20;
+The **Marketplace Platform** **support** is here to assist you if you have questions about the SoftwareOne Marketplace, including your account, agreements, and subscriptions.&#x20;
 
 {% hint style="info" %}
 If you need assistance with a service you purchased from SoftwareOne, such as Cloud Managed Services, including Simple and Essentials, contact **SoftwareOne Services support**. The **Services support** team is also your point of contact if you run into technical issues with your cloud subscriptions, including AWS, Microsoft 365, Teams, Azure, and Dynamics. For contact information and support options, see [Contacting SoftwareOne Services Support](https://docs.softwareone.cloud/kbgeneral/Base-version/Published/contacting-softwareone-support).
@@ -10,7 +10,7 @@ If you need assistance with a service you purchased from SoftwareOne, such as Cl
 
 There are two ways to contact Marketplace Platform support.
 
-You can reach out to us via email at [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com) or by creating a ticket through your account. To ensure we can assist you effectively, please write to us in English.
+You can reach out to us through email at [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com) or by creating a ticket from your account. To ensure we can assist you effectively, please write to us in English.
 
 To create a support ticket from your account:
 
