@@ -243,6 +243,7 @@
   * [Release Notes](extensions/cloud-tools/release-notes.md)
 * [FinOps for Cloud](extensions/finops-for-cloud/README.md)
   * [Order FinOps for Cloud from Marketplace](extensions/finops-for-cloud/order-finops-for-cloud-from-marketplace.md)
+  * [Cancel Your FinOps Order](extensions/finops-for-cloud/cancel-your-finops-order.md)
 * [ITAM Tools](extensions/itam-tools/README.md)
   * [365 EA + Unified Support](extensions/itam-tools/365-ea-+-unified-support.md)
   * [Renewal Manager](extensions/itam-tools/renewal-manager.md)
