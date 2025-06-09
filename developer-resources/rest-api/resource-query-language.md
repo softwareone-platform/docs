@@ -1,22 +1,22 @@
 # Resource Query Language
 
-Resource Query Language (RQL) is a query language used by the Marketplace Platform in its REST API. It is used for querying and manipulating resources in the Marketplace Platform's [REST API](./).&#x20;
+Resource Query Language (RQL) is a query language used by the Marketplace Platform in its REST API. It's used for querying and manipulating resources in the Marketplace Platform's [REST API](./).&#x20;
 
-With RQL, you can filter, sort, paginate, and project data. It is simple to use but flexible enough to handle complex scenarios.
+With RQL, you can filter, sort, paginate, and project data. It's simple to use but flexible enough to handle complex scenarios.
 
 ## Using RQL&#x20;
 
 RQL consists of a set of operators that can be classified into three main categories:
 
-1. **Comparison operators** - These perform comparisons like equals, greater than, etc.
-2. **Logical operators** - These combine multiple conditions.
-3. **Algorithmic operators** - These handle functionalities like sorting and pagination.
+* **Comparison operators** - These operators perform comparisons like equals, greater than, and so on.
+* **Logical operators** - These operators combine multiple conditions.
+* **Algorithmic operators** - These operators handle functionalities, like sorting and pagination.
 
 Operators are formatted as `operator(arg1,arg2,...)`. Complex expressions can be created by nesting these operators.
 
 ## Practical examples
 
-Suppose you want to list all users with a specific domain. Implementing filtering is essential, and this is where RQL comes in.
+Let's say you want to list all users with a specific domain. Implementing filtering is essential, and this is where RQL comes in.
 
 ### **Basic filtering**
 
@@ -55,7 +55,7 @@ GET /v1/accounts/users?limit=10&offset=20
 ```
 
 * The first parameter `limit=10` expresses the number of users to return
-* The second parameter offset=`20` offsets the starting position in the result set. The first 20 users will be skipped.
+* The second parameter `offset=20` offsets the starting position in the result set. The first 20 users will be skipped.
 
 ### Projection
 
@@ -83,7 +83,7 @@ the operator `ilike` performs a case-insensitive search.
 
 ### Combining operators
 
-Logical operators can be used to combine multiple operators. For example, to filter users with first name 'Buzz' and last name 'Astral:
+Logical operators can be used to combine multiple operators. For example, to filter users with first name 'Buzz' and last name 'Astral':
 
 ```http
 GET /v1/accounts/users?and(eq(firstName,Buzz),eq(lastName,Astral))
@@ -128,3 +128,7 @@ GET /v1/accounts/users?ilike(firstName,"The\**")
 ```
 
 The ilike operator in this case will be searching for the literal value “The\*” at the beginning of the firstName property.
+
+## Further resources <a href="#further-resources" id="further-resources"></a>
+
+For a C# reference implementation of RQL for .NET applications, see the GitHub repository at [https://github.com/softwareone-platform/mpt-rql-net](https://github.com/softwareone-platform/mpt-rql-net).
