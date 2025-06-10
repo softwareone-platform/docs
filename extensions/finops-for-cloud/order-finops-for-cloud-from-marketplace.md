@@ -9,7 +9,7 @@ Before starting this tutorial, make sure you have the following:
 * A licensee in the **active** state or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.
 * The contact details of the administrator who will manage your FinOps account. Details include the admin's name and email address. After your order has been placed, we'll email the login details to the administrator you specified.&#x20;
 
-## Implementation
+## Ordering FinOps for Cloud from the Marketplace
 
 {% stepper %}
 {% step %}
