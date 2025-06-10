@@ -2,7 +2,9 @@
 
 This tutorial describes how SoftwareOne partners can set up resale licensees within the platform.
 
-Licensees are the entities that use the software products or services procured by the buyer. Partners who wish to order products from the Marketplace and resell them to other organizations must configure these licensees as resale licensees. A resale licensee is defined as a licensee that engages in resale activities, specifically ordering products for resale rather than for their own consumption.
+Licensees are the entities that use the software products or services procured by the buyer. Partners who wish to order products from the Marketplace and resell them to other organizations must configure these licensees as resale licensees.&#x20;
+
+A resale licensee is defined as a licensee that engages in resale activities, specifically ordering products for resale rather than for their self consumption.
 
 ## Prerequisites
 
@@ -47,4 +49,4 @@ Complete the following steps in the wizard. Make sure to enter or verify the req
 
 ## Next steps <a href="#reseller-discounts" id="reseller-discounts"></a>
 
-After you have configured the licensee, you can order products for resale through the **Products** page in the platform. See [How to Order Products for Resale](how-to-order-products-for-resale.md) for details on how to start the ordering process.
+After you have configured the licensee, you can order products for resale through the **Products** page in the platform. See [How to Order Products for Reselling](how-to-order-products-for-resale.md) for details on how to start the ordering process.
