@@ -41,7 +41,7 @@ After accepting the invitation, you can sign in and access your [agreements](../
 
 After joining the account, you must enroll in the SoftwareOne Cloud Solution Provider Partner Program (**SWO CSP Partner Program**).
 
-This enrollment is required to transact with all CSP products in the Marketplace Platform. For instructions on how to enroll, see [Enroll in CSP Partner Program](../../../extensions/microsoft-cloud-solution-provider/partner-programs/enroll-in-csp-partner-program.md).&#x20;
+This enrollment is required to transact with all CSP products in the Marketplace Platform. For instructions, see [How to enroll in the SoftwareOne CSP Partner Program](how-to-enroll-in-the-softwareone-csp-partner-program.md).&#x20;
 
 Once you are enrolled and have your certificate, you can start transacting through the Marketplace. If you need assistance, you can[ contact Marketplace Platform Support](../../../help-and-support/contact-support.md).
 

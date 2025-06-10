@@ -10,7 +10,7 @@ Before starting this tutorial, make sure that the agreement you wish to terminat
 
 You must also be familiar with how to navigate the platform to find and access the required agreement.
 
-## Implementation
+## Terminating all subscriptions in your agreement
 
 {% stepper %}
 {% step %}

@@ -16,7 +16,7 @@ Before starting this tutorial, make sure you have the following:
 * Your company details, like the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of the person who will manage your Microsoft account.&#x20;
 
-## Implementation
+## Ordering a Microsoft 365 subscription for a new tenant
 
 {% stepper %}
 {% step %}

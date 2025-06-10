@@ -8,7 +8,7 @@ Clients with partner capabilities can now enroll in the CSP Partner Program thro
 
 By enrolling in this program, you can order a range of Microsoft products and services for reselling through SoftwareOne while maintaining your relationship with Microsoft. You also receive support and services, including tools to help you grow your business, simplify go-to-market costs, and reduce complexity.
 
-You can enroll in the program by providing details, like your Microsoft Partner Network ID and email address, and completing all necessary steps. For details, see [Enroll in CSP Partner Program](partner-programs/enroll-in-csp-partner-program.md). When the enrollment completes, you receive a certificate, which can be used to associate your reseller information with new Marketplace agreements.
+You can enroll in the program by providing details, like your Microsoft Partner Network ID and email address, and completing all necessary steps. For details, see [How to Enroll in the CSP Partner Program](../../marketplace-platform/getting-started/marketplace-for-partners/how-to-enroll-in-the-csp-partner-program.md). When the enrollment completes, you receive a certificate, which can be used to associate your reseller information with new Marketplace agreements.
 
 ***
 

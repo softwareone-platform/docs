@@ -8,7 +8,7 @@ Before starting this tutorial, make sure that the subscription you want to termi
 
 You must also be familiar with how to navigate the platform to view and manage your subscriptions.&#x20;
 
-## Implementation
+## Terminating a subscription
 
 {% stepper %}
 {% step %}

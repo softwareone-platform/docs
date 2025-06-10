@@ -14,7 +14,7 @@ Before starting this tutorial, make sure you have the following:
 * Your Microsoft tenant name.&#x20;
 * The contact details of the person who will manage your account.&#x20;
 
-## Implementation
+## Ordering an Azure subscription for an existing tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}

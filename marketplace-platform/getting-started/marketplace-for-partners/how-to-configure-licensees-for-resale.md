@@ -8,23 +8,24 @@ Licensees are the entities that use the software products or services procured b
 
 Make sure you have permissions to create new licensees. Only account administrators can create and manage licensees in the platform.
 
-## Implementation
+## Configuring licensees for reselling products
 
 {% stepper %}
 {% step %}
-**Navigate to the Licensees** **page**
+**Start the Add Licensee** **wizard**
 
-The **Licensees** page is located under **Settings** in the main navigation menu. On this page, select **Add** to start the **Add licensee** wizard.
+To start the wizard:
 
-<figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption><p>Licensees page</p></figcaption></figure>
+1. Navigate to the **Licensees** page. The page is located under **Settings** in the main navigation menu.&#x20;
+2. On the **Licensees** page, select **Add** to start the **Add Licensee** wizard.
 {% endstep %}
 
 {% step %}
-**Use the Add licensee wizard to set up your new licensee**
+**Use the Add Licensee wizard to set up your new licensee**
 
 <figure><img src="../../../.gitbook/assets/add_licensee_wizard.png" alt=""><figcaption><p>Add licensee wizard</p></figcaption></figure>
 
-Complete all steps in the wizard, making sure to enter or verify the required information on each page.
+Complete the following steps in the wizard. Make sure to enter or verify the required information on each page.
 
 1. **General** - Provide the following details and select **Next**:&#x20;
    1. **Logo** - (Optional) Add a logo for the licensee. You can upload an image or drag the image into the field.

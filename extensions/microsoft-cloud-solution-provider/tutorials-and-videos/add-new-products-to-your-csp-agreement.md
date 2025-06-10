@@ -10,7 +10,7 @@ Before starting this tutorial, make sure that the CSP agreement you want to add 
 
 You should also know how to navigate the platform to access your agreements & orders and [apply filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
 
-## Implementation
+## Adding new products to your CSP agreement
 
 {% stepper %}
 {% step %}

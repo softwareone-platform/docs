@@ -15,7 +15,7 @@ Before starting this tutorial, make sure you have the following:
 * Company details of your client, like the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of your client who will manage the Microsoft account.&#x20;
 
-## Implementation
+## Ordering products for reselling
 
 {% stepper %}
 {% step %}

@@ -3,7 +3,7 @@
 Certain concepts and terms are central to the functionality and design of the Marketplace Platform. We recommend that you understand the terminology because it's often referred to in our platform and documentation. Understanding the terminology will make it easier for you to interact with the platform and maximize its use.&#x20;
 
 {% hint style="info" %}
-You can watch our [Getting Started Guide ](https://youtu.be/LrMOMN8sjM4)video on YouTube to understand the concepts listed on this page. The video also describes what makes our platform unique for your enterprise software procurement.&#x20;
+You can watch our [Getting Started Video Guide ](https://youtu.be/LrMOMN8sjM4)on YouTube to understand the concepts listed on this page. The video also describes what makes our platform unique for your enterprise software procurement.&#x20;
 {% endhint %}
 
 ## Actors

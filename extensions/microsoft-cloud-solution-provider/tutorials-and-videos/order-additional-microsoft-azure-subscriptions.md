@@ -6,7 +6,7 @@ If you already have an active agreement and want to order additional Azure subsc
 
 Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state.
 
-## Implementation
+## Ordering additional Azure subscriptions <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}

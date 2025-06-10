@@ -27,7 +27,10 @@
   * [Marketplace for Partners](marketplace-platform/getting-started/marketplace-for-partners/README.md)
     * [What is Partners Management?](marketplace-platform/getting-started/marketplace-for-partners/what-is-partners-management.md)
     * [How Does Partner Portal Migration Work?](marketplace-platform/getting-started/marketplace-for-partners/how-does-partner-portal-migration-work.md)
+    * [How to Verify If Your Account Has Partner Capabilities](marketplace-platform/getting-started/marketplace-for-partners/how-to-verify-if-your-account-has-partner-capabilities.md)
     * [How to Configure Licensees for Reselling](marketplace-platform/getting-started/marketplace-for-partners/how-to-configure-licensees-for-resale.md)
+    * [How to Enroll in the SoftwareOne CSP Partner Program](marketplace-platform/getting-started/marketplace-for-partners/how-to-enroll-in-the-softwareone-csp-partner-program.md)
+    * [How to Enroll in the CSP Partner Program](marketplace-platform/getting-started/marketplace-for-partners/how-to-enroll-in-the-csp-partner-program.md)
     * [How to Order Products for Reselling](marketplace-platform/getting-started/marketplace-for-partners/how-to-order-products-for-resale.md)
 
 ## MODULES & FEATURES
@@ -267,8 +270,7 @@
     * [Manage Perpetual Software Orders](extensions/microsoft-cloud-solution-provider/perpetual-software/manage-perpetual-software-orders.md)
   * [Software Subscriptions](extensions/microsoft-cloud-solution-provider/software-subscriptions/README.md)
     * [Manage Software Subscriptions](extensions/microsoft-cloud-solution-provider/software-subscriptions/manage-software-subscriptions.md)
-  * [Partner Programs](extensions/microsoft-cloud-solution-provider/partner-programs/README.md)
-    * [Enroll in CSP Partner Program](extensions/microsoft-cloud-solution-provider/partner-programs/enroll-in-csp-partner-program.md)
+  * [Partner Programs](extensions/microsoft-cloud-solution-provider/partner-programs.md)
   * [Support Options for CSP](extensions/microsoft-cloud-solution-provider/support-options-for-csp.md)
   * [Tutorials and Videos](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/README.md)
     * [Microsoft 365](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-365/README.md)
