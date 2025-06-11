@@ -36,7 +36,7 @@ We are excited to announce that we are integrating reseller capabilities into th
 
 As part of this release, existing partners will transition from the current Partner Portal to the Marketplace Platform. This migration will take place in phases to ensure a smooth transition and minimal disruption. New partners will now be onboarded directly into the Marketplace.&#x20;
 
-In addition to all the existing functionalities, partners will also have access to specific features designed to support resale activities. These features include the ability to [Configure Licensees for Resale](../../marketplace-platform/getting-started/marketplace-for-partners/how-to-configure-licensees-for-resale.md), [View Vendor Programs](../../modules-and-features/marketplace/programs.md), [Add Certificates](../../modules-and-features/marketplace/certificates/add-certificate.md), and [Access Enrollments](../../modules-and-features/marketplace/enrollments/).
+In addition to all the existing functionalities, partners will also have access to specific features designed to support resale activities. To learn more, see [Marketplace for Partners](../../marketplace-platform/getting-started/marketplace-for-partners/).
 
 ## Notifications Management
 

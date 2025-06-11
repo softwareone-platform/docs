@@ -1,9 +1,15 @@
 # Programs
 
-The **Programs** page in the platform shows all programs that are active and open for enrollment. When eligible partners and clients enroll in a program, they gain access to all the benefits associated with it.
+The **Programs** page in the platform displays all active vendor programs that are open for enrollment. You can access this page by selecting the **Marketplace** option in the main navigation menu.
 
-Selecting a program on the **Programs** page opens a details page, where you can read more about the program to understand its purpose and requirements.
+By enrolling in a program, you gain access to all the benefits associated with it. For information about the CSP partner programs available for enrollment through the Marketplace, see [Partner Programs](../../extensions/microsoft-cloud-solution-provider/partner-programs.md).&#x20;
 
-<figure><img src="../../.gitbook/assets/program_details_page.png" alt=""><figcaption><p>Program details page</p></figcaption></figure>
+## Viewing program details
 
-The program details page also contains a **Certificate** tab that displays your certificates for the program. You can also add a new certificate using the **Add** option on the page. For instructions, see [Add Certificate](certificates/add-certificate.md).&#x20;
+To view the full details of a program, select the program on the **Programs** page.
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Details page of a program</p></figcaption></figure>
+
+At the top of the details page, you can see general program details. The details page also contains the following tabs:
+
+<table><thead><tr><th width="176">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong> </td><td>Describes the program requirements and what you'll need to enroll in the program.</td></tr><tr><td><strong>Certificates</strong></td><td>Displays your certificates for the program. You can also request a new certificate and enroll in the program using the <strong>Add</strong> option. </td></tr><tr><td><strong>Terms</strong></td><td>Shows the terms and conditions applicable to the program.</td></tr><tr><td><strong>Media</strong></td><td>Shows the image and video files attached to the program by the vendor or SoftwareOne.</td></tr><tr><td><strong>Documentation</strong></td><td>Shows supporting documentation that may provide additional context about the program.</td></tr></tbody></table>

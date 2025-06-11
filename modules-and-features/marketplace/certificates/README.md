@@ -20,12 +20,12 @@ To view the full details of a certificate, select the link for the certificate o
 
 The **details** page displays extended information for your selected certificate.
 
-At the top of the details page, you can see information, such as the program for which the certificate has been issued, the program's vendor, and other certificate details.&#x20;
+At the top of the details page, you can view details, such as the program for which the certificate has been issued, the vendor, certificant, and so on.&#x20;
 
 The details page also contains the following tabs:
 
-<table><thead><tr><th width="243">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong> </td><td>Displays a status message for the certificate. For example, if your certificate has been activated, you'll see a message stating that your certificate is ready for use.  </td></tr><tr><td><strong>Parameters</strong></td><td>Displays the ordering and fulfillment parameters for the certificate.</td></tr><tr><td><strong>Enrollments</strong> </td><td>Displays the enrollment linked to the certificate.</td></tr><tr><td><strong>Details</strong> </td><td>Displays the certificate creation timestamps and additional IDs, if available.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail including the log details and summary. To learn more, see <a href="../../settings/audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="243">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong> </td><td>Displays the latest status message for the certificate. For example, if your certificate has been activated, you'll see a message stating that your certificate is ready for use.  </td></tr><tr><td><strong>Parameters</strong></td><td>Displays the ordering and fulfillment parameters for the certificate.</td></tr><tr><td><strong>Enrollments</strong> </td><td>Displays the enrollment linked to the certificate. Selecting the enrollment takes you to the <a href="../enrollments/#subscription-details">enrollment details page</a>.</td></tr><tr><td><strong>Terms</strong></td><td>Displays the programs terms and conditions.</td></tr><tr><td><strong>Details</strong> </td><td>Displays various details associated with the certificate, like timestamps and additional IDs, if available.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail including the log details and summary. To learn more, see <a href="../../settings/audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
 
 ## Additional actions
 
-From the details page, you can [rename your certificate](rename-certificate.md) using the **Edit** option.&#x20;
+From the details page, you can [rename your certificate](rename-certificate.md).&#x20;
