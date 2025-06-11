@@ -20,7 +20,7 @@ We are pleased to announce the launch of the AWS extension in the Marketplace. T
 
 Features include monthly invoicing aligned with AWS billing cycles, flexible support options, including partner-led or AWS-resold for technical and billing queries, and a native spend management module for tracking your cloud consumption.&#x20;
 
-Complete documentation on how to order AWS services will be available soon.
+See [Amazon Web Services](../../extensions/amazon-web-services/) to learn more.
 
 ## SoftwareOne Cloud FinOps Integration
 
