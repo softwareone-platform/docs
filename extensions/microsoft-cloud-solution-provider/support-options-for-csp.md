@@ -26,7 +26,7 @@ To ensure an optimal support experience and avoid unnecessary costs, you must co
 
 ### Contacting SoftwareOne Services support <a href="#how-can-i-contact-softwareone-services-support" id="how-can-i-contact-softwareone-services-support"></a>
 
-You can contact SoftwareOne Services Support through the [Service Portal](https://portal.softwareone.cloud/).&#x20;
+You can contact SoftwareOne Services Support through the [Services Portal](https://portal.softwareone.cloud/).&#x20;
 
 This portal is an easy and secure way to submit tickets, maintain visibility of all open tickets, and gain insights into your support metrics and trends.
 
