@@ -19,7 +19,7 @@ To open the details page:
 1. In the Marketplace Platform, navigate to the **Programs** page. The page is located under **Marketplace** in the main navigation menu.
 2. Select **SWO CSP Partner Program**. The program's details page opens.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>SWO CSP Partner Program details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/csp_partner_program_swo.png" alt=""><figcaption><p>SWO CSP Partner Program details page</p></figcaption></figure>
 {% endstep %}
 
 {% step %}

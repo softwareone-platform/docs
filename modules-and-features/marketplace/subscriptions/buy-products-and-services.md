@@ -8,11 +8,11 @@ The wizard is designed to guide you through the ordering process smoothly. It co
 
 * The progress bar shows how far you have progressed and how many steps remain before the order can be placed. The steps are defined by vendors, so they might vary depending on the product. Additionally, the wizard might skip some steps automatically depending on the options you select.&#x20;
 * The [data grid](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) is where the main content is displayed. This is where you can select different purchasing options, choose items, apply filters and sorting conditions, input your details, and so on.&#x20;
-* The navigation buttons, such as **Close**, **Back**, and **Next** allow you to close the wizard and navigate between different pages respectively, although some buttons could be unavailable depending on your current step in the wizard.&#x20;
+* The navigation buttons, such as **Close**, **Back**, and **Next**, allow you to close the wizard and navigate between different pages, respectively, although some buttons could be unavailable depending on your current step in the wizard.&#x20;
 
 ## Purchase Wizard steps
 
-Each step of the purchase wizard provides you with different options you can use to order subscriptions. The steps include some common steps that apply to each vendor and product and some dynamic steps that are vendor-specific. Note that you cannot use step numbers to navigate between different pages of the wizard. Navigation is possible using the **Close**, **Back**, and **Next** options only.
+Each step of the purchase wizard provides you with different options you can use to order subscriptions. The steps include some common steps that apply to each vendor and product, and some dynamic steps that are vendor-specific. Note that you cannot use step numbers to navigate between different pages of the wizard. Navigation is possible using the **Close**, **Back**, and **Next** options only.
 
 During the ordering process, you are prompted to choose whether to use an existing agreement or create a new one. Agreements are essential for placing orders on the platform. Without an agreement, you will not be able to complete your order. Therefore, you must make a selection in the **Select agreement** step, which will determine the subsequent steps in the wizard.&#x20;
 

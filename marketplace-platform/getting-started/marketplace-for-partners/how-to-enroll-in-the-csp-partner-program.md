@@ -22,11 +22,11 @@ To open the details page:
 1. In the Marketplace Platform, navigate to the **Programs** page. The page is located under **Marketplace** in the main navigation menu.
 2. Select **Cloud Solution Provider Partner Program**. The program's details page opens.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Cloud Solution Provider Partner Program</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/csp_partner_program.png" alt=""><figcaption><p>Cloud Solution Provider Partner Program</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Start the Add certificate wizard**
+**Start the Add Certificate wizard**
 
 To start the wizard:
 
@@ -35,7 +35,7 @@ To start the wizard:
 {% endstep %}
 
 {% step %}
-**Use the Add certificate wizard to enroll**
+**Use the Add Certificate wizard to enroll**
 
 Complete the following steps in the wizard. Make sure to enter or verify the required information on each page.
 
