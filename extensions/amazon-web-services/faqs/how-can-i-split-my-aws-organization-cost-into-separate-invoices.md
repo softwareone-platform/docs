@@ -27,7 +27,7 @@ If all three AWS accounts must be part of the same AWS organization, then you mu
 To set up split invoicing in such a case:
 
 1. **Establish agreement 1** - Create an initial agreement for the first linked account that must be invoiced separately.&#x20;
-2. **Create agreement 2** - Create a new agreement under the existing marketplace agreement that was created in step 1. To do this, open the purchase wizard for AWS. Complete all steps in the wizard until you get the option to choose the transfer type. Then, select **Existing AWS account** and choose select **Split the cost of your organization** in the next step. This will create agreement 2.
+2. **Create agreement 2** - Create a new agreement under the existing marketplace agreement that was created in step 1. To do this, open the purchase wizard for AWS. Complete all steps in the wizard until you get the option to choose the transfer type. Then, select **Existing AWS account** and choose **Split the cost of your organization** in the next step. This will create agreement 2.
 
 <figure><img src="../../../.gitbook/assets/aws_existing_account.png" alt=""><figcaption><p>Existing AWS account option</p></figcaption></figure>
 
