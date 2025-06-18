@@ -33,6 +33,6 @@ To set up split invoicing in such a case:
 
 3. **Create accounts** - Create all the accounts that you need under agreement 2.
 
-Upon completion of these steps, SoftwareOne will issue separate invoices for agreements 1 and 2. Each invoice will contain detailed information about the respective AWS-linked account included under each agreement.
+Upon completion of the remaining steps, SoftwareOne will issue separate invoices for agreements 1 and 2. Each invoice will contain detailed information about the respective AWS-linked account included under each agreement.
 
 For more information about options available for existing AWS accounts, see the [Transfer Existing AWS Account](../tutorials/transfer-existing-aws-account.md) tutorial.
