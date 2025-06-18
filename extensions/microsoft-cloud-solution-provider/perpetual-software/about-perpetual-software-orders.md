@@ -14,7 +14,7 @@ The Marketplace Platform supports ordering perpetual licenses for the following 
 
 These products are available for ordering through the [Products ](../../../modules-and-features/marketplace/products.md)page in the platform:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 
 ## Ordering process
 
@@ -31,4 +31,4 @@ The following specifics apply to perpetual software purchases:
 * Cancellations are permitted within 30 days of the purchase date. For details, see [Manage Perpetual Software Orders](manage-perpetual-software-orders.md).
 * Perpetual license orders appear as **one-time purchase** on the [agreement details page](../../../modules-and-features/marketplace/agreements/#subscription-details), as shown in the following image:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>One-time purchases</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>One-time purchases</p></figcaption></figure>

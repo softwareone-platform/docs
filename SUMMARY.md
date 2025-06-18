@@ -205,7 +205,7 @@
     * [Can I split my invoices?](extensions/amazon-web-services/faqs/can-i-split-my-invoices.md)
     * [Can I cancel my AWS subscription?](extensions/amazon-web-services/faqs/can-i-cancel-my-aws-subscription.md)
     * [Where can I learn about Cloud Managed Services Essentials for AWS?](extensions/amazon-web-services/faqs/where-can-i-learn-about-cloud-managed-services-essentials-for-aws.md)
-    * [Can I split my AWS organization cost into separate invoices?](extensions/amazon-web-services/faqs/can-i-split-my-aws-organization-cost-into-separate-invoices.md)
+    * [How can I split my AWS organization cost into separate invoices?](extensions/amazon-web-services/faqs/how-can-i-split-my-aws-organization-cost-into-separate-invoices.md)
   * [Release Notes](extensions/amazon-web-services/release-notes.md)
 * [Cloud Tools](extensions/cloud-tools/README.md)
   * [365Simple](extensions/cloud-tools/365simple.md)

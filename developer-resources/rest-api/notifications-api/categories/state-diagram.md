@@ -2,7 +2,7 @@
 
 The following diagram shows the state (status) transition process of a notification category on the platform.
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>Cateory state diagram</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Cateory state diagram</p></figcaption></figure>
 
 ### State description
 
