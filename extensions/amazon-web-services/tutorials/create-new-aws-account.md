@@ -14,29 +14,27 @@ Additionally, you'll require the following:
 * The email address of your root user and the name of your AWS account.
 * The contact details of the person who will manage your AWS account. We'll send notification emails and account invitations to this assigned contact person.&#x20;
 
-## Implementation <a href="#implementation" id="implementation"></a>
+## Creating a new AWS account
 
 {% stepper %}
 {% step %}
-**Navigate to the Products page**
-
-The **Products** page is located under **Marketplace** in the main navigation menu. The page displays all products available to order from the SoftwareOne Marketplace.
-{% endstep %}
-
-{% step %}
 **Start the Purchase Wizard for AWS**
 
-From the list of products, select **Amazon Web Services**. Then, on the details page, select **Buy now** to start the purchase wizard.
+To start the wizard:
+
+1. In the Marketplace Platform, navigate to the **Products** page. The page is located under **Marketplace** in the main navigation menu.
+2. From the list of products, select **Amazon Web Services**.&#x20;
+3. On the product details page, select **Buy now**. The Purchase Wizard for AWS starts.
 
 <figure><img src="../../../.gitbook/assets/aws_productdetails.png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Follow the steps in the Purchase Wizard**
+**Use the Purchase Wizard to create a new AWS account**
 
 <figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure>
 
-Follow all steps in the purchase wizard, ensuring that the required information is entered or verified on each page:
+Complete all steps within the wizard. Make sure to enter or verify the required information on each page.
 
 1. **Select agreement** - Select **Create agreement** to start creating your new agreement with SoftwareOne.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we will select an existing licensee. To add a new licensee, select **Add licensee** and follow the instructions in [Create licensee](../../../modules-and-features/settings/licensees/create-licensees.md).

@@ -9,25 +9,23 @@ Before you start this tutorial, make sure you understand the account transfer op
 * An active licensee within the Marketplace Platform, or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) if you prefer not to use an existing one. Selecting a licensee is required when setting up a new agreement.
 * The IDs of the AWS accounts you want to transfer.
 
-## Implementation <a href="#implementation" id="implementation"></a>
+## Transferring your existing AWS account
 
 {% stepper %}
 {% step %}
-**Navigate to the Products page**
-
-The **Products** page is located under **Marketplace** in the main navigation menu. The page displays all products available to order from the SoftwareOne Marketplace.
-{% endstep %}
-
-{% step %}
 **Start the Purchase Wizard for AWS**
 
-From the list of products, select **Amazon Web Services**. Then, on the details page, select **Buy now** to start the purchase wizard.
+To start the wizard:
+
+1. In the Marketplace Platform, navigate to the **Products** page. The page is located under **Marketplace** in the main navigation menu.
+2. From the list of products, select **Amazon Web Services**.&#x20;
+3. On the product details page, select **Buy now**. The Purchase Wizard for AWS starts.
 
 <figure><img src="../../../.gitbook/assets/aws_productdetails.png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Follow the steps in the Purchase Wizard**
+**Use the Purchase Wizard to transfer your existing account**
 
 <figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure>
 

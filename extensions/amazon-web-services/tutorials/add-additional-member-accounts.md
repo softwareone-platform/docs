@@ -6,27 +6,25 @@ This tutorial describes how to add AWS-linked accounts to an existing Marketplac
 
 Before starting this tutorial, make sure that your AWS Marketplace agreement is in the **Active** state. You'll also need to know the email address you want to use to create your member account in AWS and the account name.
 
-## Implementation <a href="#implementation" id="implementation"></a>
+## Adding additional member accounts
 
 {% stepper %}
 {% step %}
-**Navigate to the Products page**
-
-The **Products** page is located under **Marketplace** in the main navigation menu. The page displays all products available to order from the SoftwareOne Marketplace.
-{% endstep %}
-
-{% step %}
 **Start the Purchase Wizard for AWS**
 
-From the list of products, select **Amazon Web Services**. Then, on the details page, select **Buy now** to start the purchase wizard.
+To start the wizard:
+
+1. In the Marketplace Platform, navigate to the **Products** page. The page is located under **Marketplace** in the main navigation menu.
+2. From the list of products, select **Amazon Web Services**.&#x20;
+3. On the product details page, select **Buy now**. The Purchase Wizard for AWS starts.
 {% endstep %}
 
 {% step %}
-**Follow the steps in the Purchase Wizard**
+**Use the Purchase Wizard to add additional member accounts**
 
-Follow all steps in the purchase wizard, ensuring that the required information is entered or verified on each page:
+Complete all steps in the purchase wizard. Make sure to enter or verify the required information on each page.
 
-1. **Select agreement** - Select the active agreement. Then, select **Next**.
+1. **Select agreement** - Choose an active agreement and then select **Next**.
 2.  **AWS details** - Provide the following details:&#x20;
 
     1. **Email** - Enter the email address you want to use to create your member account in AWS. Make sure that the email address is unique and hasn't been used previously in the AWS cloud.&#x20;

@@ -49,8 +49,8 @@ To use this option, you'll need to provide us with your Master Payer ID for your
 
 If you choose to transfer your AWS organization, our team of experts will contact you to complete the transfer process. Note that when you transfer your AWS organization, SoftwareOne becomes the root admin for your payer account.
 
-### Split your existing SoftwareOne Marketplace agreements
+### Split the cost of your organization
 
-If you have an AWS account that SoftwareOne is managing for you, and you want to add another linked account to this account, you can split your agreement.&#x20;
+If you have an AWS account that SoftwareOne is managing for you, and you want to add another linked account to this account, you can split your existing Marketplace agreements.
 
-When you split the agreement, the invoices are also split. It means you will receive separate invoices for both accounts, one for your existing account and another for the new linked account.&#x20;
+When you split the agreement, the invoices are also split. It means you'll receive separate invoices for both accounts, one for your existing account and another for the new linked account.&#x20;
