@@ -4,35 +4,35 @@ Our platform has an SSO Authentication framework that integrates with existing I
 
 ## Setting up SSO with SAML <a href="#saml" id="saml"></a>
 
-### **Setup process**
+### Process
 
 1. The customer provides SoftwareOne with basic metadata about their IdP. If your SSO tool requires the **Assertion Consumer Service URL** and **Entity ID**, please contact SoftwareOne.
-2. SoftwareOne proceeds with a basic setup on the Client Portal IdP and provides the customer with `{connection_name}` that'll be used for further configuration.
-3. The customer proceeds and finalizes the setup from their side.
-4. All logins to the Client Portal for any of the specified IdP domains will be federated out to the customer's SAML-based IdP.
+2. SoftwareOne proceeds with a basic setup on the Client Portal IdP and provides you with `{connection_name}` to use for further configuration.
+3. You finalize the setup on your side.
+4. All logins to the Client Portal for any of the specified IdP domains will be federated out to your SAML-based IdP.
 
-### **Setup information required by the Client Portal**
+### Information required by the Client Portal
 
-1. **IdP Domains**: List of email domains, for example `@user.org`, for which authentication should be federated out to the customer's IdP.
-2. **Sign In URL**: HTTP-POST or HTTP-Redirect binding.
-3. **Sign Out URL**
-4. **X509 Signing Certificate**: In the `.pem` or `.cer` format.
+* **IdP Domains** - List of email domains, for example `@user.org`, for which authentication should be federated out to the customer's IdP.
+* **Sign In URL** - HTTP-POST or HTTP-Redirect binding.
+* **Sign out URL**
+* **X509 Signing Certificate**: In the `.pem` or `.cer` format.
 
-### **Technical specification**
+### Technical specification
 
-#### **Capabilities**
+#### Capabilities
 
 We support the items listed in the following table:
 
 <table data-full-width="false"><thead><tr><th>Item</th><th>Details</th></tr></thead><tbody><tr><td>Supported Protocol Bindings</td><td>HTTP-POST &#x26; HTTP-Redirect</td></tr><tr><td>SAML Authentication Requests signed</td><td>Yes (by default)</td></tr><tr><td>Sign Request Algorithm</td><td>RSA-SHA256 (default) or RSA-SHA1</td></tr><tr><td>Sign Request Algorithm Digest</td><td>SHA256 (default) or SHA1</td></tr><tr><td>Signing Certificate Strength</td><td>2048 Bit RSA</td></tr><tr><td>IdP-Initiated SSO</td><td>Supported, but strongly discouraged</td></tr></tbody></table>
 
-#### **Settings**
+#### Settings
 
-`{connection_name}` is a verbatim string that SoftwareOne will provide after receiving the initial configuration settings from you.
+The `{connection_name}` is a verbatim string that SoftwareOne will provide after receiving the initial configuration settings from you.
 
 <table data-full-width="false"><thead><tr><th>Setting</th><th>Value</th></tr></thead><tbody><tr><td>Entity ID</td><td><p><code>urn:auth0:pyc:{connection_name}</code>.</p><p><br>Example: If your <code>connection_name</code> is <code>demo_company</code>, the <strong>Entity ID</strong> on Production will be </p><p><code>urn:auth0:pyc:demo_company</code></p></td></tr><tr><td>Assertion Consumer Service URL</td><td><p>https://{idp_base_url}/login/callback?connection={connection_name}</p><p><br>Example: If your <code>connection_name</code> is <code>demo_company</code>, the <strong>Assertion Consumer Service URL</strong> on Production will be:  https://login.pyracloud.com/login/callback?connection=demo_company</p></td></tr><tr><td>Metadata URL</td><td>https://login.pyracloud.com/samlp/metadata?connection={connection_name}</td></tr><tr><td>Single Logout URL</td><td>https://login.pyracloud.com/logout</td></tr><tr><td>Single Login URL</td><td>We strongly discourage using IdP-Initiated SSO flows because they are vulnerable to <a href="https://support.detectify.com/support/solutions/articles/48001048951-login-csrf">Login CSRF attacks</a>. If possible, let the Client Portal initiate the sign-in (and federate out) when required.</td></tr></tbody></table>
 
-#### **Attribute Mappings**
+#### Attribute mappings
 
 The Client Portal requires the following attributes via the specified mappings:
 
@@ -49,22 +49,17 @@ The attributes must satisfy at least one mapping for all properties above. If yo
 Please make sure to provide the attribute values as they are without any modifications.\
 URLs are sometimes changed by security software, for example, Proofpoint’s Targeted Attack Protection adds `urldefense.com` at the beginning of links.
 
-***
-
 ## Setting up SSO with Azure AD <a href="#azure-a-d" id="azure-a-d"></a>
 
-To set up SSO with the Client Portal via Azure AD, you must complete the following steps. After you've completed these steps, SoftwareOne will enable SSO with your Azure AD.
+To set up SSO with the Client Portal via Azure AD, you must complete the following steps. SoftwareOne will then enable SSO with your Azure AD.
 
-1. [Register the Client Portal with Azure AD](how-do-i-set-up-sso.md#step-1-register-the-client-portal-with-azure-a-d)
-2. [Create a client secret](how-do-i-set-up-sso.md#step-2-create-a-client-secret)
-3. [Add API permissions](how-do-i-set-up-sso.md#step-3-add-api-permissions)
-4. [Collect and forward the information to SoftwareOne](how-do-i-set-up-sso.md#step-4-collect-and-forward-the-information-to-softwareone)
+### Process
 
-### Setup Process
+{% stepper %}
+{% step %}
+#### Register the Client Portal with Azure AD
 
-#### Step 1: Register the Client Portal with Azure AD
-
-Follow these steps to register the Client Portal as an application inside your Azure subscription:
+To register the Client Portal as an application inside your Azure subscription:
 
 1. Sign in to the [Microsoft Azure Portal](https://portal.azure.com/). If you have access to more than one tenant, select your account from the upper right corner. Set your portal session to the Azure AD tenant that you want.
 2. Search for and select **Azure Active Directory**.&#x20;
@@ -74,8 +69,10 @@ Follow these steps to register the Client Portal as an application inside your A
 6. In **Supported account types**, select **Accounts in any organizational directory (Any Microsoft Entra directory - Multitenant)**.
 7. In **Redirect URI**, select the Redirect URI type as **Web**, and enter your callback URL: [https://login.pyracloud.com/login/callback](https://login.pyracloud.com/login/callback).
 8. Click **Register**.
+{% endstep %}
 
-#### Step 2: Create a client secret
+{% step %}
+#### Create a client secret
 
 SoftwareOne will use the client secret to interact with your Azure subscription on behalf of the created application.&#x20;
 
@@ -90,10 +87,12 @@ Follow these steps to create a secret:
 {% hint style="info" %}
 We recommend that you create a reminder to renew your client secret, at least two weeks before it expires. Once you've created a new secret, provide the value to SoftwareOne so that it can be updated in the system. If your client secret has expired or is no longer valid, you will be unable to sign in to the Client Portal using SSO.
 {% endhint %}
+{% endstep %}
 
-#### Step 3: Add API permissions
+{% step %}
+#### Add API permissions
 
-Follow these steps to add permissions that allow read access to users and the user directory:
+To add permissions that allow read access to users and the user directory:
 
 1. From the app Overview page, select **API permissions**.&#x20;
 2. Under **Configured permissions**, select **Add a permission**.&#x20;
@@ -107,37 +106,35 @@ Follow these steps to add permissions that allow read access to users and the us
 {% hint style="info" %}
 Enabling the **Directory** > **Directory.Read.All** permission is optional. If you want to benefit from future user auto-provisioning, then turn it on. However, for SSO to work, this permission is not required.
 {% endhint %}
+{% endstep %}
 
-#### Step 4: Collect and forward the information to SoftwareOne
+{% step %}
+#### Collect and forward the information to SoftwareOne
 
-Provide the following information to SoftwareOne. Once received, SoftwareOne can complete the setup and the Client Portal will automatically start forwarding all users of the specified IdP domains to your Azure AD for federated authentication.
+Provide the following information to SoftwareOne. Once received, SoftwareOne can complete the setup, and the Client Portal will automatically start forwarding all users of the specified IdP domains to your Azure AD for federated authentication.
 
 | Inputs Required           | Notes                                                                                                                                                                                                                                                                                                                                              |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Application Client ID     | You can find the Application (client) ID on the overview page of the application created in [Step 1: Register the Client Portal with Azure AD](https://docs.platform.softwareone.com/~/changes/NARGHMkE84GBJ3EnprxK/help-and-support/frequently-asked-questions/how-to-setup-single-sign-on-sso#step-1-register-the-client-portal-with-azure-a-d). |
 | Application Client Secret | Your client secret as created in [Step 2: Create a client secret](https://docs.platform.softwareone.com/~/changes/NARGHMkE84GBJ3EnprxK/help-and-support/frequently-asked-questions/how-to-setup-single-sign-on-sso#step-2-create-a-client-secret).                                                                                                 |
 | Microsoft Azure AD Domain | Your Azure AD domain name. You can find this on your Azure AD directory's overview page in the Microsoft Azure portal.                                                                                                                                                                                                                             |
-| IdP Domains               | A list of all email domains that must be authenticated through the federated Azure AD, for example, `@customer.com`. Usually 1 domain but can also be multiple.                                                                                                                                                                                    |
+| IdP Domains               | A list of all email domains that must be authenticated through the federated Azure AD, for example, `@customer.com`. Usually 1 domain, but can also be multiple.                                                                                                                                                                                   |
+{% endstep %}
+{% endstepper %}
 
-### **Technical specification**
+### Technical specification
 
-#### **Capabilities**
+#### Capabilities
 
 We support the items listed in the following table:
 
-| Item                                | Detail                                                                    |
-| ----------------------------------- | ------------------------------------------------------------------------- |
-| Identity API                        | Azure Active Directory (v1) (default) & Microsoft Identity Platform (v2). |
-| Protocol used for federated Sign-In | OpenID Connect (default) or WS Federation.                                |
+<table><thead><tr><th width="284">Item</th><th>Detail</th></tr></thead><tbody><tr><td>Identity API</td><td>Azure Active Directory (v1) (default) &#x26; Microsoft Identity Platform (v2).</td></tr><tr><td>Protocol used for federated Sign-In</td><td>OpenID Connect (default) or WS Federation.</td></tr></tbody></table>
 
-#### **Settings**
+#### Settings
 
-| Setting          | Value                                                                                                                                             |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Application type | Multitenant / Web                                                                                                                                 |
-| Redirect URI     | <p>https://{idp_base_url}/login/callback*</p><p><br>The redirect URI on Production will be: </p><p>https://login.pyracloud.com/login/callback</p> |
+<table><thead><tr><th width="281">Setting</th><th>Value</th></tr></thead><tbody><tr><td>Application type</td><td>Multitenant / Web</td></tr><tr><td>Redirect URI</td><td><p>https://{idp_base_url}/login/callback*</p><p><br>The redirect URI on Production will be: </p><p>https://login.pyracloud.com/login/callback</p></td></tr></tbody></table>
 
-#### **Attribute Mappings**
+#### Attribute mappings
 
 The Client Portal queries the following basic profile attributes from Azure AD:
 
@@ -151,38 +148,31 @@ The Client Portal queries the following basic profile attributes from Azure AD:
 * email
 * name
 
-***
-
 ## Setting up SSO with ADFS <a href="#adfs" id="adfs"></a>
 
-### **Setup process**
+### Process
 
-1. The customer configures their ADFS server according to technical requirements.
-2. The customer provides ADFS Metadata/IdP domains to SoftwareOne.
+1. You configure your ADFS server according to technical requirements.
+2. You provide ADFS Metadata/IdP domains to SoftwareOne.
 3. SoftwareOne will complete the ADFS setup.
 
-### **Setup information required by the Client Portal**&#x20;
+### Information required by the Client Portal&#x20;
 
-| Input                | Notes                                                                                                                                                                                               |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ADFS Metadata Source | Either the URL or the Federation Metadata file. The URL usually ends in `/FederationMetadata/2007-06/FederationMetadata.xml.`                                                                       |
-| IdP Domains          | <p>List of all email domains that should be authenticated through the federated ADFS server, for example, <code>@customer.com</code>. </p><p></p><p>Usually 1 domain, but can also be multiple.</p> |
+<table><thead><tr><th width="260">Input</th><th>Notes</th></tr></thead><tbody><tr><td>ADFS Metadata Source</td><td>Either the URL or the Federation Metadata file. The URL usually ends in <code>/FederationMetadata/2007-06/FederationMetadata.xml.</code></td></tr><tr><td>IdP Domains</td><td><p>List of all email domains that should be authenticated through the federated ADFS server, for example, <code>@customer.com</code>. </p><p></p><p>Usually 1 domain, but can also be multiple.</p></td></tr></tbody></table>
 
-### **Technical specification**
+### Technical specification
 
-#### **Capabilities**
+#### Capabilities
 
 We support the items listed in the following table:
 
-| Item                                                                     | Detail                                            |
-| ------------------------------------------------------------------------ | ------------------------------------------------- |
-| <p>Federation Metadata Discovery<br>(Automated Certificate Rollover)</p> | Yes – if ADFS Metadata Source is provided as URL. |
+<table><thead><tr><th width="269">Item</th><th>Detail</th></tr></thead><tbody><tr><td>Federation Metadata Discovery<br>(Automated Certificate Rollover)</td><td>Yes – if ADFS Metadata Source is provided as URL.</td></tr></tbody></table>
 
-#### **Settings**
+#### Settings
 
-<table data-full-width="false"><thead><tr><th>Setting</th><th>Value</th></tr></thead><tbody><tr><td>Realm Identifier</td><td><p><code>urn:auth0:</code><em><code>{environment_name}</code></em><br></p><p>For example, <code>urn:auth0:pyc</code> on Production.</p></td></tr><tr><td>Endpoint</td><td><p>https://{idp_base_url}/login/callback*<br></p><p>The endpoint URL on Production will be:  https://login.pyracloud.com/login/callback</p></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="262">Setting</th><th>Value</th></tr></thead><tbody><tr><td>Realm Identifier</td><td><p><code>urn:auth0:</code><em><code>{environment_name}</code></em><br></p><p>For example, <code>urn:auth0:pyc</code> in Production.</p></td></tr><tr><td>Endpoint</td><td><p>https://{idp_base_url}/login/callback*<br></p><p>The endpoint URL on Production will be:  https://login.pyracloud.com/login/callback</p></td></tr></tbody></table>
 
-#### **Attribute Mappings**
+#### Attribute mappings
 
 By default, the Client Portal expects the following attributes from ADFS via the specified mappings:
 
@@ -194,24 +184,22 @@ By default, the Client Portal expects the following attributes from ADFS via the
 | Given-Name          | Given Name          | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/givenname      |
 | Surname             | Surname             | http://schemas.xmlsoap.org/ws/2005/05/identity/claims/surname        |
 
-***
-
 ## Setting up SSO with PingFederate <a href="#ping-federate" id="ping-federate"></a>
 
-### **Setup process**
+### Process
 
-1. The customer provides Signing Certificates/IdP domains to SoftwareOne.
-2. SoftwareOne will complete the SSO setup.
+1. You provide sign-in certificates/IdP domains to SoftwareOne.
+2. SoftwareOne completes the SSO setup.
 
-### **Setup information required by the Client Portal**
+### Information required by the Client Portal
 
 1. PingFederate Server URL.
-2. X509 Signing Certificate in the `.pem` or `.cer` format.
-3. IdP Domains: List of all email domains that should be authenticated through the federated ADFS server (for example, `@customer.com`). Usually just one, but can also be multiple.
+2. X509 signing certificate in the `.pem` or `.cer` format.
+3. IdP Domains, including a list of all email domains that should be authenticated through the federated ADFS server (for example, `@customer.com`). Usually just one, but can also be multiple.
 
-### **Technical specification**
+### Technical specification
 
-**Attribute Mappings**
+#### Attribute mappings
 
 By default, the Client Portal requires the following attributes via the specified mappings:
 
@@ -225,9 +213,7 @@ By default, the Client Portal requires the following attributes via the specifie
 
 The provided attributes must satisfy at least one mapping for all properties above. If your IdP provides values for the required attributes in different claims/namespaces, please provide a list of claims to be used for all attributes above.
 
-***
-
-## **Handling unknown or new users (Ad Hoc Provisioning)**
+## Handling unknown or new users (Ad Hoc Provisioning)
 
 If an email domain is federated out to the user's identity provider, it's possible that the Client Portal will receive sign-in attempts from users who are not set up as Client Portal users.
 

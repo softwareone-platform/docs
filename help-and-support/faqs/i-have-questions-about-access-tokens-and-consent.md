@@ -1,6 +1,6 @@
 # I have questions about access tokens and consent
 
-## Why is my access token invalid? <a href="#why-is-my-access-token-invalid" id="why-is-my-access-token-invalid"></a>
+### Why is my access token invalid? <a href="#why-is-my-access-token-invalid" id="why-is-my-access-token-invalid"></a>
 
 An access token may be invalid due to the following reasons:
 
@@ -8,7 +8,7 @@ An access token may be invalid due to the following reasons:
 * The token is complete but has expired: If your access token has expired, you must generate a new token.
 * The token is complete but has been revoked: If your access token has been revoked, you must generate a new token.
 
-## What happens after I grant consent? <a href="#what-happens-when-i-perform-consent" id="what-happens-when-i-perform-consent"></a>
+### What happens after I grant consent? <a href="#what-happens-when-i-perform-consent" id="what-happens-when-i-perform-consent"></a>
 
 When you perform consent, you are redirected to Microsoft to accept permissions required by the Client Portal. As part of this process, the Client Portal is able to “impersonate” the consenting user for a short period (1 hour).
 
@@ -22,20 +22,20 @@ The Client Portal uses this impersonation to perform actions on behalf of the co
 
 When the consent process is performed, a “service principal” is created in your tenant. This is conceptually similar to adding a user dedicated to the Client Portal for accessing your tenant and subscriptions.
 
-### **Azure Subscriptions**
+#### Azure Subscriptions
 
 When adding Azure subscriptions, the service principal is granted “Reader” access to those subscriptions. This is a built-in role in your Microsoft tenant that allows read-only access to your resources. The Client Portal uses this access to retrieve a list of your resources (virtual machines, websites) and the tags assigned to them.
 
-If you change the level of access to a setting that allows the write-back of tags, the Client Portal requires the “Tag Contributor” role. This level of access allows full access to your subscription with the notable exception of managing security settings in the subscription. The Client Portal uses this access to retrieve a list of your resources (virtual machines, websites, etc.) and the tags assigned to them. It also requires this level of access to synchronize the tags you assign in the Client Portal back to the resources of your Azure subscription.
+If you change the level of access to a setting that allows the write-back of tags, the Client Portal requires the “Tag Contributor” role. This level of access allows full access to your subscription, with the notable exception of managing security settings in the subscription. The Client Portal uses this access to retrieve a list of your resources (virtual machines and websites) and the tags assigned to them. It also requires this level of access to synchronize the tags you assign in the Client Portal back to the resources of your Azure subscription.
 
 For more information, see [Microsoft documentation - Azure built-on roles reference](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles).
 
-### **Office 365 Subscriptions**
+#### Office 365 Subscriptions
 
 When adding Office 365 subscriptions, the service principal is granted permission to the Microsoft Graph API in your Microsoft tenant. Those permissions include:
 
-* **Read all usage reports:** Allows an app to read all service usage reports without a signed-in user. Services that provide usage reports include Office 365 and Azure Active Directory.
-* **Read all groups:** Allows the app to read memberships for all groups without a signed-in user. Note that not all group API supports access using app-only permissions.
-* **Read all users’ full profiles**: Allows the app to read the full set of profile properties, group membership, reports, and managers of other users in your organization, without a signed-in user.
+* Read all usage reports - Allows an app to read all service usage reports without a signed-in user. Services that provide usage reports include Office 365 and Azure Active Directory.
+* Read all groups - Allows the app to read memberships for all groups without a signed-in user. Note that not all group API supports access using app-only permissions.
+* Read all users’ full profiles - Allows the app to read the full set of profile properties, group membership, reports, and managers of other users in your organization, without a signed-in user.
 
 For more information, see the Microsoft Graph API permissions reference.

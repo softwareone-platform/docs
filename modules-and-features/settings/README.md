@@ -16,8 +16,8 @@ The **Settings** module allows account administrators to manage various aspects 
 [licensees](licensees/)
 {% endcontent-ref %}
 
-{% content-ref url="sellers.md" %}
-[sellers.md](sellers.md)
+{% content-ref url="sellers/" %}
+[sellers](sellers/)
 {% endcontent-ref %}
 
 **Administration**

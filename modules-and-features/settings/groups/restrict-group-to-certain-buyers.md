@@ -1,24 +1,24 @@
-# Restrict Group to Certain Buyers
+# Restrict Groups to Certain Buyers
 
-As an administrator on the Marketplace Platform, you can define whether your group of users can view all buyers in your account or only certain buyers. You can customize buyer access when creating a new group or updating an existing group.&#x20;
+As an administrator, you can define whether your group of users can view all buyers in your account or only certain buyers. You can customize buyer access when creating a new group or updating an existing group.&#x20;
 
 This feature is useful if your account contains different types of users, for example, global users and local users. Global users require access to all transactions and data across all buyers (including orders, subscriptions, and more), while local users may need their access to be limited.&#x20;
 
 With this feature, you can apply group-level restrictions, ensuring that your group members only see the buyers and platform objects linked to their access.&#x20;
 
 {% hint style="info" %}
-Visibility restrictions only apply to the Marketplace module in the platform.&#x20;
+Visibility restrictions apply to the **Marketplace** module only.&#x20;
 {% endhint %}
 
 ## Buyer-level group restrictions rules
 
 Keep the following rules in mind:
 
-* Only account administrators can set visibility restrictions when creating a new group or managing an existing group.
+* Only account administrators can set visibility restrictions when creating a new group (see [Create New Group](create-new-group.md)) or managing an existing group (see [Edit Group](edit-group.md)).
 
 <figure><img src="../../../.gitbook/assets/BuyersGroups.png" alt=""><figcaption><p>Buyers section</p></figcaption></figure>
 
-* Visibility restrictions apply to the Marketplace module only. Therefore, if you want to restrict a group to specific buyers, you must select the **Marketplace** module when adding or updating groups.
+* Visibility restrictions apply to the **Marketplace** module only. Therefore, if you want to restrict a group to specific buyers, you must select the **Marketplace** module when adding or updating groups.
 
 <figure><img src="../../../.gitbook/assets/ModulesGroup.png" alt=""><figcaption><p>Marketplace module</p></figcaption></figure>
 

@@ -1,6 +1,6 @@
 # Delete Group
 
-If a group is no longer needed, you can delete it from your account. You can delete all groups except the default group. Once a group is deleted, it can't be restored.&#x20;
+If a group is no longer needed, you can delete it. You can delete all groups except the default group. Once a group has been deleted, it can't be restored.&#x20;
 
 Before deleting a group, make sure to remove all members from the group. If the group contains members, the platform displays a message.&#x20;
 
