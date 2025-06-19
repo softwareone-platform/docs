@@ -1,7 +1,3 @@
----
-description: Learn how to access and view your invoices.
----
-
 # Invoices
 
 The Invoices module allows you to search for and view your invoices. You can also export your invoices to the available formats, including PDF and Excel, and create a report of your invoices.&#x20;
@@ -31,7 +27,7 @@ On the **Invoice Details** page, you can view further information about the prod
 * View the contracts associated with this transaction.
 * Download the information as a PDF.
 
-## **Exporting invoices**
+## Exporting invoices
 
 You can export an individual invoice or all of your invoices.
 

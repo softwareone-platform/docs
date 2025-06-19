@@ -1,7 +1,3 @@
----
-description: Learn how you can access and manage your software license agreements.
----
-
 # License Agreements
 
 A license agreement is a contract that outlines the conditions and terms under which an organization can use a specific software. Using the Client Portal's License Agreements module, you can easily view and manage your license agreements and gain visibility into the entitlement data associated with those agreements. You can also create alerts for true-ups, renewals, and expiring contracts.
@@ -58,7 +54,7 @@ Once your export is complete, you can view it by hovering over **Exports** and s
 
 Alternatively, select the main menu of the Client Portal and navigate to **Analyze** > **Reports**. To learn more about reports and their features, see [Reports](../other-tools/reports/).
 
-## **Exporting** expiration **date to Outlook**
+## Exporting the expiration date to Outlook
 
 You can export an agreement expiration date to Outlook to keep track of your expiring agreements.&#x20;
 

@@ -4,42 +4,12 @@ The **Settings** module allows account administrators to manage various aspects 
 
 **General Settings**
 
-{% content-ref url="account/" %}
-[account](account/)
-{% endcontent-ref %}
-
-{% content-ref url="buyers/" %}
-[buyers](buyers/)
-{% endcontent-ref %}
-
-{% content-ref url="licensees/" %}
-[licensees](licensees/)
-{% endcontent-ref %}
-
-{% content-ref url="sellers/" %}
-[sellers](sellers/)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="account/">account</a></td></tr><tr><td><a href="buyers/">buyers</a></td></tr><tr><td><a href="licensees/">licensees</a></td></tr><tr><td><a href="sellers/">sellers</a></td></tr></tbody></table>
 
 **Administration**
 
-{% content-ref url="groups/" %}
-[groups](groups/)
-{% endcontent-ref %}
-
-{% content-ref url="users/" %}
-[users](users/)
-{% endcontent-ref %}
-
-{% content-ref url="notifications/" %}
-[notifications](notifications/)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="groups/">groups</a></td></tr><tr><td><a href="users/">users</a></td></tr><tr><td><a href="notifications/">notifications</a></td></tr></tbody></table>
 
 **Platform Tools**
 
-{% content-ref url="api-tokens/" %}
-[api-tokens](api-tokens/)
-{% endcontent-ref %}
-
-{% content-ref url="audit-trail.md" %}
-[audit-trail.md](audit-trail.md)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="api-tokens/">api-tokens</a></td></tr><tr><td><a href="audit-trail.md">audit-trail.md</a></td></tr></tbody></table>

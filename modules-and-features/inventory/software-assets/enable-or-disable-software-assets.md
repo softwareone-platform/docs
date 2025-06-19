@@ -31,17 +31,3 @@ To deactivate the module:
 <figure><img src="../../../.gitbook/assets/image (849).png" alt=""><figcaption><p>Disable Software Assets option</p></figcaption></figure>
 
 Note that the **Remove duplicate transactions** option is enabled by default. It means that transactions relating to Azure or Office 365 won't be visible in the Resources, Budgets, and Consumption modules. If you disable the option, the changes take effect after 24 hours.
-
-## Related topics
-
-{% content-ref url="view-software-assets.md" %}
-[view-software-assets.md](view-software-assets.md)
-{% endcontent-ref %}
-
-{% content-ref url="export-software-assets.md" %}
-[export-software-assets.md](export-software-assets.md)
-{% endcontent-ref %}
-
-{% content-ref url="import-software-assets.md" %}
-[import-software-assets.md](import-software-assets.md)
-{% endcontent-ref %}

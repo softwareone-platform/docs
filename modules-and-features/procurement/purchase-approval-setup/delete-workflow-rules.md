@@ -2,7 +2,7 @@
 
 Only administrators can access the existing workflows and delete rules within each workflow.
 
-## Delete workflow rules
+## Deleting workflow rules
 
 To delete a rule within a workflow:
 

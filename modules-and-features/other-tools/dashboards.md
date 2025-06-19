@@ -51,7 +51,7 @@ To customize a dashboard:
 Each tile has different configuration options relevant to the function it serves. You can have multiple instances of the same tile with different configurations (for example, Invoices for last month and Invoices for the last six months).
 {% endhint %}
 
-## **Remove a dashboard**
+## Remove a dashboard
 
 To remove a dashboard permanently&#x20;
 
