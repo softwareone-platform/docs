@@ -12,7 +12,7 @@ Additionally, you can check the details for specific items, including how long t
 
 When you are ready to order, select **Buy now** to start the ordering process.
 
-<figure><img src="../../.gitbook/assets/aws_productdetails.png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
 
 ## Purchase orders for AWS
 
