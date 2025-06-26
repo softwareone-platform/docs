@@ -782,6 +782,7 @@
 ## Help and Support
 
 * [Platform FAQs](help-and-support/faqs/README.md)
+  * [My draft or quoted order has been deleted](help-and-support/faqs/my-draft-or-quoted-order-has-been-deleted.md)
   * [I have questions about billing](help-and-support/faqs/i-have-questions-about-billing.md)
   * [How do you handle purchase order numbers in subscription-based models?](help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
   * [What happens to an agreement when subscriptions expire or are terminated?](help-and-support/faqs/what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md)

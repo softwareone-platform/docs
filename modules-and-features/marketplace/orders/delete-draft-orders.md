@@ -2,7 +2,7 @@
 
 If you saved an order during the ordering process and no longer wish to submit it to the vendor for processing, you can delete it. Deleted orders can't be recovered, but will still be displayed in your list of orders.&#x20;
 
-Note that you can delete orders in the **Draft** and **Quoted** statuses only. Orders in any other state can't be deleted. Additionally, when you delete a draft purchase order, the agreement linked to the draft is also deleted.
+You can delete orders in the **Draft** and **Quoted** statuses only. Orders in any other state can't be deleted. Additionally, when you delete a draft purchase order, the agreement linked to the draft is also deleted.
 
 ## Deleting an order
 
