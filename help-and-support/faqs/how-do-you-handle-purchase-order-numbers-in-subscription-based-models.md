@@ -49,7 +49,7 @@ You can provide your recurring purchase order number in the **Additional ID** fi
 
 <figure><img src="../../.gitbook/assets/Recurring PO.png" alt=""><figcaption><p>Recurring PO</p></figcaption></figure>
 
-To provide a purchase order after your order has been placed, open the agreement and navigate to the **Details** tab. Click **Edit** and enter the value under the **Additional IDs** section.
+To provide a purchase order after your order has been placed, open the agreement and navigate to the **Details** tab. Select **Edit** and enter the value under the **Additional IDs** section.
 
 <figure><img src="../../.gitbook/assets/agreement_details.png" alt=""><figcaption><p>Agreement details page</p></figcaption></figure>
 

@@ -31,7 +31,7 @@ Then, on the subscription details page, select the arrow <img src="data:image/pn
 Follow all steps in the Terminate Subscription wizard, ensuring that the required information is entered or verified on each page.
 
 1. **Items** - Check that the new quantity field displays the value as 0. When done, select **Next**.
-2. **Details** - Enter the reference information as needed, then select **Next**&#x20;
+2. **Details** - Enter the reference information for this order, then select **Next**&#x20;
 3. **Review** - Select **Place order**. A termination order is created for the subscription and submitted to the vendor for processing.&#x20;
 4. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
