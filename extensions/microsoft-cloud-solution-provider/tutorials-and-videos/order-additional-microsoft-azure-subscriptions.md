@@ -29,7 +29,7 @@ For Microsoft Azure, there is only one item, with no associated cost. When using
 
 <figure><img src="../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
 
-3. **Order details** - Provide optional information, such as additional order ID and notes for the order. When done, select **Next**.
+3. **Order details** - Provide optional information, such as additional order ID and notes. When done, select **Next**.
 4. **Review order** - Review the item and other details. Then, select **Place order** to submit your order.
 5. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
