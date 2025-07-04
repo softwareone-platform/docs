@@ -1,7 +1,7 @@
 # Send New Invitation
 
-Send new invitation when invite expires.
+Send a new invitation when the invite expires.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/account-users/{id}/send-new-invite" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://nlpapp0760sda.blob.core.windows.net/public/openapi/marketplace-accounts.json)
 {% endopenapi-operation %}

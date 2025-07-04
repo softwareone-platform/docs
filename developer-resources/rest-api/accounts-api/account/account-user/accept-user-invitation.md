@@ -1,7 +1,7 @@
 # Accept User Invitation
 
-Accepts user invitation to the account.
+Accepts the user invitation to the account.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/account-users/{id}/accept-invite" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://nlpapp0760sda.blob.core.windows.net/public/openapi/marketplace-accounts.json)
 {% endopenapi-operation %}

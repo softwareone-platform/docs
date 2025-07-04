@@ -6,7 +6,7 @@ The Buyer object represents an individual buyer within the Marketplace platform.
  "erpCompanyContact": "WW-CON-123456",
  "erpCustomer": "WW-SCU-123456"
 }
-</code></pre></td></tr><tr><td>address</td><td><code>object</code></td><td><p>The address of the buyer.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>address</td><td><a href="../../common-api-objects/address.md"><code>address</code></a></td><td><p>The address of the buyer.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
   "addressLine1": "123 Main Street",
   "addressLine2": "Apt 4B",
   "postCode": "12345",
@@ -14,7 +14,7 @@ The Buyer object represents an individual buyer within the Marketplace platform.
   "state": "S",
   "country": "ST"
 }
-</code></pre></td></tr><tr><td>taxId</td><td><code>string</code></td><td><p>The buyer's tax ID.</p><p>Example: 12-34567890</p></td></tr><tr><td>account</td><td><a href="../account/#account-object"><code>account</code></a></td><td>A reference to the buyer’s account object.</td></tr><tr><td>sellers</td><td><a href="../seller/#seller-object"><code>seller</code></a></td><td>A reference to the seller object.</td></tr><tr><td>contact</td><td><code>object</code></td><td><p>Details of the contact person.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>taxId</td><td><code>string</code></td><td><p>The buyer's tax ID.</p><p>Example: 12-34567890</p></td></tr><tr><td>account</td><td><a href="../account/#account-object"><code>account</code></a></td><td>A reference to the buyer’s account object.</td></tr><tr><td>sellers</td><td><a href="../seller/#seller-object"><code>seller</code></a></td><td>A reference to the seller object.</td></tr><tr><td>contact</td><td><code>object</code></td><td><p>The details of the contact person.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
 	"name": "Will Smith",
 	"firstName": "Will",
 	"lastName": "Smith",
