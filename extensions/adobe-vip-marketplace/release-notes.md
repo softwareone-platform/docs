@@ -20,6 +20,10 @@ Since the introduction of configuration orders to turn auto-renewal on or off, t
 
 A termination order can now only be placed against a subscription or agreement if the entire quantity of the affected subscriptions can be returned at Adobe. If a subscription has licenses that are outside of the return window, then that subscription cannot be terminated. Instead, use a configuration order to disable auto-renewal.
 
+{% hint style="info" %}
+Note that change orders can still be used to make partial quantity returns as long as the quantity to return matches the entire amount of a line item on an order that is still within the 14-day return window.
+{% endhint %}
+
 ### New Accounts and 3-year Commitments
 
 When creating a new account with a 3-year commitment, the Adobe extension will now wait until the customer has accepted the 3-year commitment invitation before placing the order with Adobe. This ensures that the initial order is placed at the higher discount level provided by the commitment.
