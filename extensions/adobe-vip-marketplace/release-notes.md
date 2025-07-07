@@ -6,6 +6,35 @@ description: >-
 
 # Release Notes
 
+## Release Date: 7 July 2025
+
+### Delayed Orders Removed
+
+Delayed orders have been removed from the Adobe extension. Previously, when a change or termination order was placed within 4 days of the customer's anniversary date, the order would be delayed until after the anniversary date.
+
+This has now changed. Change, configuration, and termination orders can now be placed up to 24 hours prior to the anniversary date. Attempting to place an order within 24 hours of the anniversary date will result in an error in the Purchase Wizard. If the order is placed directly through the SoftwareOne Marketplace API, the order will be marked as failed.
+
+### Termination Orders and Returns
+
+Since the introduction of configuration orders to turn auto-renewal on or off, termination orders can now be used for a single purpose: to return the entire quantity of a subscription.
+
+A termination order can now only be placed against a subscription or agreement if the entire quantity of the affected subscriptions can be returned at Adobe. If a subscription has licenses that are outside of the return window, then that subscription cannot be terminated. Instead, use a configuration order to disable auto-renewal.
+
+### New Accounts and 3-year Commitments
+
+When creating a new account with a 3-year commitment, the Adobe extension will now wait until the customer has accepted the 3-year commitment invitation before placing the order with Adobe. This ensures that the initial order is placed at the higher discount level provided by the commitment.
+
+In addition, when preparing an order for a new account, the Adobe extension will validate the items in the order to ensure they all contribute to the 3-year commitment minimum quantities to avoid the order being placed at a lower (non-3yc) discount level.
+
+### Subscription Adjustment Sequence Improvements
+
+When a customer has a 3-year commitment, it is important when processing an order to ensure that the customer's quantities remain above the minimum quantities required for their 3-year commitment.
+
+To this end, we have introduced two additional capabilities:
+
+1. When an order is placed against a 3-year commitment, the order is validated to ensure that the combined changes that the order will make will still satisfy the minimum quantities.
+2. When an order is fulfilled against a 3-year commitment, subscriptions with quantity increases are processed first, and then decreases are processed second. This ensures that the total quantities never go below the minimum quantities which would cause order failure.
+
 ## Release Date: 18 June 2025
 
 ### Multiple Currencies
