@@ -6,6 +6,14 @@ description: >-
 
 # Release Notes
 
+## Release Date: 9 July 2025
+
+### Terminating Expired Subscriptions
+
+When terminating a subscription that has already expired at Adobe, orders would get stuck in Processing status.
+
+This issue is now resolved and termination orders placed against already expired subscriptions will now complete successfully resulting in Termination of the given Subscription in the SoftwareOne Marketplace.
+
 ## Release Date: 7 July 2025
 
 ### Delayed Orders Removed
