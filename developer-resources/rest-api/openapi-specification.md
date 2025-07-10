@@ -6,7 +6,7 @@ The specification contains all API methods. Within the specification, you'll fin
 
 You can download the full specification using the following link:
 
-{% file src="../../.gitbook/assets/openAPI.yaml" %}
+[OpenAPI.json](https://nltapp0762sda.blob.core.windows.net/openapi/4/latest/marketplace-accounts.json)
 
 Alternatively, you can use the following links to open the specification in Swagger Editor:
 
