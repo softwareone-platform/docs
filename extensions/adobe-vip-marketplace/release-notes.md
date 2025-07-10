@@ -6,6 +6,18 @@ description: >-
 
 # Release Notes
 
+## Release Date: 10 July 2025
+
+### Ordering end-of-sale items no longer fails
+
+In this release, we have resolved an issue that occurred when increasing the quantity of end-of-sale items in a change order. Historically, these orders would fail in the SoftwareOne Marketplace, even if the order itself succeeded at Adobe.
+
+This was due to the fact that once the order completes at Adobe, the Adobe extension then attempts to update the renewal quantity of the subscription to reflect the new desired quantity. End-of-sale items at Adobe cannot have their renewal quantities modified, though, and the attempt failed. This then caused the order in the SoftwareOne Marketplace to fail.
+
+This issue has now been resolved. If the Adobe extension is unable to update the renewal quantity, then the order will now complete successfully. You will notice, however, that the quantity of the Subscription item in the SoftwareOne Marketplace remains the same as it was before the order was placed.
+
+To view the new current quantity of the Subscription, you can check the "Current quantity" Parameter of the Subscription in the SoftwareOne Marketplace.
+
 ## Release Date: 9 July 2025
 
 ### Terminating Expired Subscriptions
