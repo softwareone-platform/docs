@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Account Options
 
 When you are ordering AWS services through the SoftwareOne Marketplace, you can either create a new AWS account or transfer the management of your existing accounts to SoftwareOne.&#x20;

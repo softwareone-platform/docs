@@ -1,38 +1,61 @@
 # Contact Support
 
-The **Marketplace Platform** **support** is here to assist you if you have questions about the SoftwareOne Marketplace, including your account, agreements, and subscriptions.&#x20;
+If you experience an issue with the Marketplace Platform or [SoftwareOne FinOps for Cloud](https://docs.finops.softwareone.com/), you can contact Marketplace Platform Support.&#x20;
+
+Our support team is available to help you resolve technical problems and answer any questions you may have. This includes, but is not limited to:
+
+* Assistance with account access and configuration issues.
+* Help with managing your agreements, subscriptions, and resolving technical issues related to renewals and terminations.
+* Questions about your orders, including orders that might not have completed as expected.
+* Assistance with ordering products from the Marketplace if you run into issues during the purchasing workflow or can't find what you need.&#x20;
+* Support for issues with [FinOps for Cloud](https://docs.finops.softwareone.com/), including technical issues with adding a data source, cost explorer issues, and more.
+
+Additionally, SoftwareOne partners can contact Marketplace Platform Support for assistance with any issues related to managing their partner account, ordering and provisioning subscriptions, enrollment, certificates, and more.
 
 {% hint style="info" %}
-If you need assistance with a service you purchased from SoftwareOne, such as Cloud Managed Services, including Simple and Essentials, contact **SoftwareOne Services support**. The **Services support** team is also your point of contact if you run into technical issues with your cloud subscriptions, including AWS, Microsoft 365, Teams, Azure, and Dynamics. For contact information and support options, see [Contacting SoftwareOne Services Support](https://docs.softwareone.cloud/kbgeneral/Base-version/Published/contacting-softwareone-support).
+For assistance with SoftwareOne services like Cloud Managed Services (Simple and Essentials) or technical issues with cloud subscriptions (AWS, Microsoft 365, Teams, Azure, Dynamics), contact [SoftwareOne Services Support](https://docs.softwareone.cloud/microsoft-csp-services/1.0/Published/technical-support-explained).
 {% endhint %}
 
-## Contacting Marketplace Platform support
+## Describing your issue
 
-There are two ways to contact Marketplace Platform support.
+When describing your issue, provide as much detail as possible to help us understand it fully.&#x20;
 
-You can reach out to us through email at [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com) or by creating a ticket from your account. To ensure we can assist you effectively, please write to us in English.
+Include relevant context about the problem you are experiencing and share details so we can diagnose the issue quickly. Here are some important points to include in your support request:
 
-To create a support ticket from your account:
+* The date and time when the issue started.
+* The number of people affected by the issue.
+* Your expected outcome.
+* If applicable, a screenshot of the error message or the full text. You can also include a screen recording.
+
+## Contacting Marketplace Platform Support
+
+Marketplace Platform Support is available Monday to Friday, from 05:30 to 19:30 UTC.
+
+There are two ways to contact our support team. You can send us an email or create a support case.
+
+To send us an email, use this email address: [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com)
+
+To create a support case:
 
 1. [Sign in to your account](https://portal.platform.softwareone.com).&#x20;
-2. Select the **Help** icon <img src="../.gitbook/assets/icon_support.png" alt="" data-size="line"> in the header and then select **Support**.&#x20;
+2. Select the **Help** icon <img src="../.gitbook/assets/icon_support.png" alt="" data-size="line"> in the header and choose **Support**.&#x20;
 
 <figure><img src="../.gitbook/assets/contact_support.png" alt=""><figcaption><p>Support option in the Help menu</p></figcaption></figure>
 
 3. On the **Help and Support** page, select **Submit a Ticket**.
-4. Fill out the form according to your issue. Optionally, choose **Select files** to upload documentation that might help us understand and resolve your problem quickly.
+4. Fill out the form according to your issue. Optionally, choose **Select files** to attach a file to your request. The maximum size is 5 MB.
 5. Select **Send**.&#x20;
 
 A confirmation message is displayed stating that your ticket has been created. If the **Send** button is unavailable, make sure you've entered the required information.&#x20;
 
-## Additional resources
+We aim to acknowledge all support cases on the same day as they are submitted, within our core business hours. However, the response time may vary during busy periods.
 
-You can access our documentation and tutorials for self-guided instructions at any time.&#x20;
+## Additional help resources
 
-The [Getting Started](../marketplace-platform/getting-started/) section contains all the basic information that is required to understand the concepts and start using the Marketplace Platform. Additionally, our [Platform FAQs](faqs/) contain answers to the most common support questions.
+Our product documentation is available 24/7.
 
-If you are an Adobe VIP Marketplace member, see the [Adobe VIP Marketplace](../extensions/adobe-vip-marketplace/) section for detailed information on Adobe's new buying program and how to manage your subscriptions and billing through the platform. You can also find supporting resources in the same section, such as [tutorials](../extensions/adobe-vip-marketplace/tutorials-and-videos/), [videos](../extensions/adobe-vip-marketplace/webinars-and-videos.md), and [FAQs](../extensions/adobe-vip-marketplace/faqs/).
+The [Getting Started](../marketplace-platform/getting-started/) section contains topics to help you understand the platform. Additionally, the [Platform FAQs](faqs/) contain answers to the most common support questions.
 
-To learn about buying and managing CSP products through the Marketplace Platform, see [Microsoft CSP](../extensions/microsoft-cloud-solution-provider/). You can also use this section to access [CSP tutorials,](../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/) learn about renewals, and view [FAQs](../extensions/microsoft-cloud-solution-provider/faqs/).
+For platform extensions, such as Adobe VIPM, AWS, and Microsoft CSP, use the left sidebar to access content resources, including tutorials, FAQs, and release notes.
 
-For help with your password or account settings, see [Update Password](faqs/update-password.md) and [Settings](../modules-and-features/settings/).
+For FinOps for Cloud documentation, see this URL: [https://docs.finops.softwareone.com/](https://docs.finops.softwareone.com/).

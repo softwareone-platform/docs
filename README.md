@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Home
 
 <figure><img src=".gitbook/assets/MPT Home Image (1).png" alt=""><figcaption></figcaption></figure>

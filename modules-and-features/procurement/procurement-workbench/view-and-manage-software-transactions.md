@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # View and Manage Software Transactions
 
 On the Procurement Workbench page, you will find different sections that enable you to purchase products, view your transactions, and check your purchase history.&#x20;

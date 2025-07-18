@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Marketplace for Clients
 
 r clients using the Marketplace Platform, we have created various topics to help you manage your account and quickly purchase and manage your software purchases.&#x20;

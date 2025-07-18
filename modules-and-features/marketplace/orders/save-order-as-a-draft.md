@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Save Orders for Later
 
 In the Marketplace Platform, you can save an order and return to it later to complete the ordering process. Saved orders are displayed on the **Orders** page with a **Quoted** status.

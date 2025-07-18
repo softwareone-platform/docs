@@ -1,20 +1,6 @@
 ---
 cover: ../../.gitbook/assets/adobe_partnerconnect.png
 coverY: 167.1578947368421
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Adobe VIP Marketplace
