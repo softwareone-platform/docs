@@ -180,6 +180,7 @@
     * [Terminate All Adobe Subscriptions](extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-all-adobe-subscriptions.md)
   * [Webinars and Videos](extensions/adobe-vip-marketplace/webinars-and-videos.md)
   * [FAQs](extensions/adobe-vip-marketplace/faqs/README.md)
+    * [How do I accept my 3-year commitment invitation?](extensions/adobe-vip-marketplace/faqs/how-do-i-accept-my-3-year-commitment-invitation.md)
     * [How do I activate my VIP Marketplace agreement?](extensions/adobe-vip-marketplace/faqs/how-do-i-activate-my-vip-marketplace-agreement.md)
     * [What happens if I terminate my Adobe subscription?](extensions/adobe-vip-marketplace/faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
   * [Release Notes](extensions/adobe-vip-marketplace/release-notes.md)
