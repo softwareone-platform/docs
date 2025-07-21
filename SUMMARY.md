@@ -415,6 +415,7 @@
       * [List Journal Charges](developer-resources/rest-api/billing-api/charge/list-journal-charges.md)
       * [Get Journal Charge](developer-resources/rest-api/billing-api/charge/get-journal-charge.md)
     * [Journal](developer-resources/rest-api/billing-api/journal/README.md)
+      * [State Diagram](developer-resources/rest-api/billing-api/journal/state-diagram.md)
       * [List Journals](developer-resources/rest-api/billing-api/journal/list-journals.md)
       * [Create Journal](developer-resources/rest-api/billing-api/journal/create-journal.md)
       * [Get Journal](developer-resources/rest-api/billing-api/journal/get-journal.md)
