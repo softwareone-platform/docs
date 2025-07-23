@@ -1,8 +1,8 @@
----
-description: You can download software packages from SoftwareOne and upload your own files.
----
-
 # Software Downloads
+
+{% hint style="info" %}
+This feature is no longer supported through the Marketplace Platform
+{% endhint %}
 
 The **Software Downloads** module lets you download software packages that SoftwareOne provides, and upload your files and packages to the cloud storage.  To access software downloads, navigate to the main menu of the Client Portal and select **Inventory** > **Software Downloads**.&#x20;
 
