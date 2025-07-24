@@ -123,6 +123,14 @@ In case of any controversy or dispute, SoftwareOne and Company shall discuss the
 
 The Services may be subject to the export control regulations of the U.S., Switzerland and the European Union. Company shall not use the Services or otherwise transfer, export or them or access thereto to countries against which the United States, Switzerland, or the European Union maintains an embargo (collectively, **“Embargoed Countries”**), or to or by a national or resident thereof, or any person or entity on a list of specially designated nationals (collectively, **“Designated Nationals”**). The lists of Embargoed Countries and Designated Nationals are subject to change without notice. Company hereby represents and warrants that it is not located in, under the control of, or are a national or resident of an Embargoed Country; that its Users are not Designated Nationals; and that it shall comply strictly with all U.S., Swiss, and European Union export laws, and assume sole responsibility for obtaining licenses to export or re-export as may be required.
 
-## **16. Miscellaneous**
+## **16.** Service Up-Time
+
+SoftwareOne aims to make the Marketplace Platform available 24 hours a day, 7 days a week, 365 days a year. Our target is to provide at least **99.5% uptime**. This means the platform should be accessible and working as expected for at least 99.5% of the time.
+
+This uptime target does not include downtime for planned maintenance or upgrades. We will try to share advance notice before planned maintenance. The target also does not cover downtime caused by events outside our control, such as natural disasters, Internet outages, government actions, or attacks against our systems. It also does not include problems caused by incorrect use, unsupported setups, or issues resulting from actions or inactions by you or anyone using your account.
+
+You can view real-time platform status and uptime history at [https://status.platform.softwareone.com/](https://status.platform.softwareone.com/).
+
+## **17. Miscellaneous**
 
 There are no third party beneficiaries to this Agreement. Company shall not assign this Agreement without SoftwareOne’s prior written consent. This Agreement, together with the Contract and any other agreements for additional services accepted within the Interface, represent the entire agreement of the parties regarding the subject matter hereof. SoftwareOne’s failure to enforce any provision of this Agreement will not act as a waiver to enforce the same or any other provision in the future. SoftwareOne may provide Company with notices under this Agreement by delivering them to the electronic mail address listed within the interface.
