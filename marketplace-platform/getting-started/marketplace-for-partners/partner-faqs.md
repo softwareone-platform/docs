@@ -207,7 +207,7 @@ If the domain name or tenant ID needs adding or updating, follow these steps:
 2. On the order details page, select the **Parameters** tab.&#x20;
 3. In the **Ordering** section, select **Edit**. Then, add or update the **Existing domain name** or **Primary domain name** fields as needed.&#x20;
 4. Select **Save**.&#x20;
-5. Select **Process** in the upper right to resume order processing. To learn more, see [Change Your Order's Status to Processing](https://docs.platform.softwareone.com/~/changes/233/modules-and-features/marketplace/orders/set-an-order-to-processing).
+5. Select **Process** in the upper right to resume order processing. To learn more, see [Change Your Order's Status to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).
 
 {% hint style="info" %}
 When updating the name, make sure that your primary domain name or tenant ID matches the details in the Microsoft 365 Admin Center or Microsoft Azure Management Portal.
@@ -264,7 +264,7 @@ Marketplace subscriptions renew automatically unless you disable their automatic
 
 <summary>Can I disable auto-renewal for a subscription?</summary>
 
-Yes, you can disable the auto-renewal by placing a configuration order. For details, see [Manage Automatic Renewals](https://docs.platform.softwareone.com/modules-and-features/marketplace/subscriptions/manage-automatic-renewals).
+Yes, you can disable the auto-renewal by placing a configuration order. For details, see [Manage Automatic Renewals](../../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
 
 </details>
 
@@ -272,7 +272,7 @@ Yes, you can disable the auto-renewal by placing a configuration order. For deta
 
 <summary>Can I rename a subscription?</summary>
 
-Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptions for easier identification. For details, see [Edit Subscription Name](https://docs.platform.softwareone.com/~/changes/226/modules-and-features/marketplace/subscriptions/rename-a-subscription).
+Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptions for easier identification. For details, see [Edit Subscription Name](../../../modules-and-features/marketplace/subscriptions/rename-a-subscription.md).
 
 </details>
 
@@ -282,7 +282,7 @@ Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptio
 
 Subscriptions can be terminated by placing a termination order.
 
-* To cancel all subscriptions in an agreement, you must place a termination order for the entire agreement. For details, see [Terminate Agreement](https://app.gitbook.com/s/Z5DNbniz33mXCZoO62Rm/modules-and-features/marketplace/agreements/terminate-agreements).
-* To cancel some, but not all, subscriptions in an agreement, you must place a termination order for the subscription. For details, see [Terminate Subscriptions](https://app.gitbook.com/s/Z5DNbniz33mXCZoO62Rm/modules-and-features/marketplace/subscriptions/terminate-a-subscription).
+* To cancel all subscriptions in an agreement, you must place a termination order for the entire agreement. For details, see [Terminate Agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
+* To cancel some, but not all, subscriptions in an agreement, you must place a termination order for the subscription. For details, see [Terminate Subscriptions](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
 
 </details>
