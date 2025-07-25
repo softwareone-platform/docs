@@ -1,46 +1,48 @@
-# How to Order Products for Reselling
+# How to Order Products for Resale
 
-The tutorial describes how you can order products for reselling through the Marketplace Platform.&#x20;
+The tutorial describes how you can order products for resale through the Marketplace Platform.&#x20;
 
 When ordering products, there are two options for agreements:
 
-* If you have an existing agreement, you can use that agreement. However, you'll need to make sure that the agreement is mapped to a licensee configured for reselling. If the agreement doesn't have a resale licensee, the transaction won't be allowed.
-* If you don't have an agreement, you can create one during the ordering process and select an existing licensee you've configured for reselling.
+* If you have an existing agreement, you can use that agreement. However, you'll need to make sure that the agreement is mapped to a licensee configured as a resale licensee.&#x20;
+* If you don't have an agreement, you can create one during the ordering process and select an existing licensee configured as a resale licensee.
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 Before starting this tutorial, make sure you have the following:
 
-* A **resale** licensee in the **active** state, or permission to [create a new licensee](how-to-configure-licensees-for-resale.md) if you don't want to use an existing licensee. Licensee selection is required when setting up a new agreement.&#x20;
+* A resale licensee in the active state, or permission to [create a new licensee](how-to-configure-licensees-for-resale.md) if you don't want to use the existing one. Licensee selection is required when setting up a new agreement.&#x20;
 * Company details of your client, like the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of your client who will manage the Microsoft account.&#x20;
 
-## Ordering products for reselling
+## Ordering products for resale
 
 {% stepper %}
 {% step %}
 **Navigate to the Products page**
 
-The **Products** page is located under **Marketplace** in the main navigation menu. The page displays all products available to order from the SoftwareOne Marketplace.
+The **Products** page is located under **Marketplace** in the main navigation menu.&#x20;
+
+The page displays all products available to order from the SoftwareOne Marketplace.
 {% endstep %}
 
 {% step %}
 **Start the Purchase Wizard for Microsoft 365**
 
-From the list of products, select **Microsoft 365 Business, Enterprise & Apps - Commercial**. Then, on the details page, select **Buy now** to start the purchase wizard.
+From the list of products, select **Microsoft 365 Business, Enterprise & Apps - Commercial**. Then, select **Buy now** to start the purchase wizard.
 
 <figure><img src="../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>Buy now option on the details page</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Use the Purchase Wizard to order licenses**
+**Use the Purchase Wizard to place your order**
 
-Complete all steps in the wizard, making sure to enter or verify the required information on each page.
+Complete the following steps in the Purchase Wizard:
 
 1. **Select agreements** - Select **Create agreement** to start creating your new agreement.
-2. **Select licensee** - Choose a licensee from the list.  Make sure that the **Resale** column for the licensee displays **Yes**. Then, select **Next**.&#x20;
-3. **Select certificate** - Select the required certificate. If the certificate you want to use isn't displayed, use the **Add certificate** option to add it. When done, select **Next**.
-4. **Create agreement** - Choose whether you want to create a new Microsoft tenant or connect your existing cloud account.
+2. **Select licensee** - Choose an existing licensee from the list.  Make sure that the value in the **Resale** column is **Yes**. Then, select **Next**.&#x20;
+3. **Select certificate** - Select a certificate. If the certificate you want to use isn't displayed, use the **Add certificate** option to add it. When done, select **Next**.
+4. **Create agreement** - Choose whether you want to create a new Microsoft tenant or connect an existing cloud account.
 5. **Microsoft details** - Do the following depending on the selection in the previous step:
    1. For a new cloud account, provide a new domain name and then fill out the contact form. You'll need to provide the following details:
       1. Company name.
@@ -64,4 +66,4 @@ Complete all steps in the wizard, making sure to enter or verify the required in
 
 When your order has been placed, we verify the order details.
 
-If there are issues with your order, the [order details](../../../modules-and-features/marketplace/orders/#subscription-details) page will provide information about the problem and any actions you may need to take.
+If there are issues with your order, the **General** tab on the [order details page](../../../modules-and-features/marketplace/orders/#subscription-details) will provide information about the problem and any actions you may need to take.

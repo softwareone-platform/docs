@@ -4,7 +4,7 @@ The **Settings** module includes functionalities that administrators can use to 
 
 ## Account setting options
 
-In your account settings, you'll find various options enabling you to review your basic account details and manage your users, licensees, groups, and other properties.&#x20;
+In your account settings, you'll find various options enabling you to review your basic account details and manage users, licensees, groups, and other properties.&#x20;
 
 Use the following links to learn about these options and how to use them:
 

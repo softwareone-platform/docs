@@ -19,7 +19,7 @@ You can enroll in this program if you meet these conditions:
 
 To open the details page:
 
-1. In the Marketplace Platform, navigate to the **Programs** page. The page is located under **Marketplace** in the main navigation menu.
+1. In the Marketplace Platform, navigate to the **Programs** page, located under **Marketplace** in the main navigation menu.
 2. Select **Cloud Solution Provider Partner Program**. The program's details page opens.
 
 <figure><img src="../../../.gitbook/assets/csp_partner_program.png" alt=""><figcaption><p>Cloud Solution Provider Partner Program</p></figcaption></figure>

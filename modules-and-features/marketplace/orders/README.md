@@ -13,7 +13,7 @@ You can view and manage your orders from the **Orders** page in the platform. Th
 
 <figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 
-## Viewing order details <a href="#subscription-details" id="subscription-details"></a>
+## Viewing order details <a href="#order-details" id="order-details"></a>
 
 To view the order details page, select the order on the **Orders** page.
 

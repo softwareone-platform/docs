@@ -1,12 +1,12 @@
-# How to Enroll in the SoftwareOne CSP Partner Program
+# How to Enroll in the SWO CSP Partner Program
 
-The SoftwareOne CSP Partner Program is designed for SoftwareOne partners to ensure compliance with our established terms and conditions.&#x20;
+The SoftwareOne (SWO) CSP Partner Program is designed for SoftwareOne partners to ensure compliance with our established terms and conditions.&#x20;
 
-All SoftwareOne partners must enroll in this program to obtain a compliance certificate. To learn more about this program, see [Partner Programs](../../../extensions/microsoft-cloud-solution-provider/partner-programs.md).
+All SoftwareOne partners must enroll in this program to obtain a compliance certificate. This must be done before ordering products for resale. To learn more about this program, see [Partner Programs](../../../extensions/microsoft-cloud-solution-provider/partner-programs.md).
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
-You can enroll in the **SWO CSP Partner Program** if your account is set up as a partner account in the Marketplace Platform. For details on how to check this, see [How to Verify If Your Account Has Partner Capabilities](how-to-verify-if-your-account-has-partner-capabilities.md).
+You can enroll in the **SWO CSP Partner Program** if your account has been set up as a partner account. For details on how to check this, see [How to Verify If Your Account Has Partner Capabilities](how-to-verify-if-your-account-has-partner-capabilities.md).
 
 ## Enrolling in the SWO CSP Partner program
 
