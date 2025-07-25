@@ -108,7 +108,7 @@ To buy products for resale to your customers:
 3. Follow the steps in the purchase wizard. Make sure to create a new agreement or select an existing one, select a preconfigured resale licensee, and choose your certificate.
 4. Complete the remaining steps in the wizard to place your order.
 
-For detailed instructions, see [How to Order Products for Reselling](how-to-order-products-for-resale.md).
+For detailed instructions, see [How to Order Products for Resale](how-to-order-products-for-resale.md).
 
 </details>
 
