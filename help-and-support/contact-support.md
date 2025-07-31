@@ -29,7 +29,7 @@ Include relevant context about the problem you are experiencing and share detail
 
 ## Contacting Marketplace Platform Support
 
-You can contact us by email or create a support case. Marketplace Platform Support is available Monday to Friday, from 05:30 to 19:30 UTC.&#x20;
+Marketplace Platform Support is available Monday to Friday, from 05:30 to 19:30 UTC. You can contact us by email or create a support case.&#x20;
 
 To send us an email, use this email address: [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com)
 
