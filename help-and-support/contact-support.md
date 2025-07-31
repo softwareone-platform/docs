@@ -18,7 +18,7 @@ For assistance with SoftwareOne services like Cloud Managed Services (Simple and
 
 ## Describing your issue
 
-When describing your issue, provide as much detail as possible to help us understand it fully.&#x20;
+When contacting Marketplace Platform Support, provide as much detail as possible to help us understand your issue.
 
 Include relevant context about the problem you are experiencing and share details so we can diagnose the issue quickly. Here are some important points to include in your support request:
 
@@ -29,9 +29,7 @@ Include relevant context about the problem you are experiencing and share detail
 
 ## Contacting Marketplace Platform Support
 
-Marketplace Platform Support is available Monday to Friday, from 05:30 to 19:30 UTC.
-
-There are two ways to contact our support team. You can send us an email or create a support case.
+You can contact us by email or create a support case. Marketplace Platform Support is available Monday to Friday, from 05:30 to 19:30 UTC.&#x20;
 
 To send us an email, use this email address: [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com)
 
