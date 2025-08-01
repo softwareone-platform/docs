@@ -199,7 +199,7 @@ For example, if the GDAP relationship request needs to be accepted or the domain
 
 <details>
 
-<summary>How can I add or update the domain name or tenant ID in a purchase order?</summary>
+<summary>How do I add or update the domain name or tenant ID in a purchase order?</summary>
 
 If the domain name or tenant ID needs adding or updating, follow these steps:
 
@@ -217,7 +217,7 @@ When updating the name, make sure that your primary domain name or tenant ID mat
 
 <details>
 
-<summary>Where can I view my Microsoft Partner Network (MPN) and Indirect Reseller IDs in the Marketplace Platform?</summary>
+<summary>Where can I view my Microsoft Partner Network (MPN) and Indirect Reseller IDs in the platform?</summary>
 
 Your MPN and Indirect Reseller IDs are displayed on the **Parameter** tab within the certificate details. To view these IDs, follow these steps:
 
@@ -284,5 +284,27 @@ Subscriptions can be terminated by placing a termination order.
 
 * To cancel all subscriptions in an agreement, you must place a termination order for the entire agreement. For details, see [Terminate Agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
 * To cancel some, but not all, subscriptions in an agreement, you must place a termination order for the subscription. For details, see [Terminate Subscriptions](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
+
+</details>
+
+### Certificates
+
+<details>
+
+<summary>My certificate has expired. Can I renew it?</summary>
+
+If your certificate has expired, it's no longer valid and can't be used for transactions.
+
+You can renew an expired certificate by re-enrolling in the program.
+
+</details>
+
+<details>
+
+<summary>Why is my certificate pending?</summary>
+
+A certificate will remain in the pending state if there are issues with your enrollment. For example, if the MPN ID you provided during enrollment is invalid and requires correction.
+
+If your certificate is pending, the **General** tab on the certificate details page will describe the steps you need to take so we can process your enrollment.
 
 </details>
