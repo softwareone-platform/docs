@@ -59,6 +59,7 @@
   * [Billing](modules-and-features/marketplace/billing/README.md)
     * [Understand Your Billing Documents](modules-and-features/marketplace/billing/understand-your-billing-documents.md)
     * [Invoices](modules-and-features/marketplace/billing/invoices/README.md)
+      * [Filter Invoices](modules-and-features/marketplace/billing/invoices/filter-invoices.md)
       * [Download Invoices](modules-and-features/marketplace/billing/invoices/download-invoices.md)
     * [Statements](modules-and-features/marketplace/billing/statements.md)
       * [Download Statements](modules-and-features/marketplace/billing/statements/download-statements.md)

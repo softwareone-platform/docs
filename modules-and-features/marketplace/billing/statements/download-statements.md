@@ -10,7 +10,8 @@ Note that the charges listed in your statement might not include taxes, such as 
 
 To download your billing statement:
 
-1. Navigate to the **Agreements** page.
-2. Select the agreement's name in the **Agreement** column.&#x20;
-3. On the agreement details page, select the **Attachments** tab. All files attached to the agreement are displayed.
-4. Find the statement you want to download. Then, under **Actions**, select **Download**.&#x20;
+1. Navigate to the **Statements** page.
+2. (Optional) Refine your list of statements. Statements can be filtered using filters, such as status, ID, and so on. To learn more, see [Filter data](https://docs.platform.softwareone.com/marketplace-platform/getting-started/interface/customize-the-data-grid#filter-data).
+3. On the statement details page, select the **Attachments** tab.&#x20;
+4. Select the link in the **Reference** column or select the actions icon and choose **Download**. The selected statement is downloaded to your system.
+

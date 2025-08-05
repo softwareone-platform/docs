@@ -15,6 +15,6 @@ To download an invoice from the invoice details page:
 1. Navigate to the **Invoices** page.&#x20;
 2. (Optional) Refine your list of invoices. Invoices can be filtered using filters, such as status, ID, and so on. To learn more, see [Filter data](../../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
 3. Select the invoice link in the **ID** field.
-4. On the invoice details page, select the **Attachments** tab. Then, under **Actions**, select **Download**. The selected invoice is downloaded as a PDF.
+4. On the invoice details page, select the **Attachments** tab and then under **Actions**, select **Download**. The selected invoice is downloaded as a PDF.
 
 <figure><img src="../../../../.gitbook/assets/invoice_attachments.png" alt=""><figcaption><p>Attachments tab on the invoice details page</p></figcaption></figure>

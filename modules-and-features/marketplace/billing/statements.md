@@ -4,7 +4,7 @@ A statement is a billing document you receive at the end of your billing period,
 
 Statements are available in XLSX format and contain a detailed view of your invoice data, including individual charges and subscriptions for the billing period. See [Understand Your Billing Documents](understand-your-billing-documents.md) to learn more.&#x20;
 
-In the Marketplace Platform, your statements are displayed on the **Statements** page. The page is available under **Billing** in the main menu.
+In the Marketplace Platform, your statements are displayed on the **Statements** page. The page is available under **Billing** in the main navigation menu.
 
 <figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Statements page</p></figcaption></figure>
 
@@ -18,4 +18,4 @@ The details page of a statement displays various properties associated with the 
 
 The statement details page also contains the following tabs:&#x20;
 
-<table><thead><tr><th width="166">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Charges</strong></td><td>Displays a list of charges and subscriptions for the billing period. You can also view all items within the subscription, the quantity of the line items, and prices.</td></tr><tr><td><strong>Details</strong></td><td>Displays the reference information, like the additional IDs and timestamps.</td></tr><tr><td><strong>Audit trail</strong> </td><td>Displays an audit trail of events. For each audit record, you can view the log details and summary. To learn more, see <a href="../../settings/audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="166">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Charges</strong></td><td>Displays a list of charges and subscriptions for the billing period. You can also view all items within the subscription, the quantity of the line items, and prices.</td></tr><tr><td><strong>Attachments</strong></td><td>Allows you to download the statement.</td></tr><tr><td><strong>Details</strong></td><td>Displays  reference information, like the additional IDs and timestamps.</td></tr><tr><td><strong>Audit trail</strong> </td><td>Displays an audit trail of events. To learn more, see <a href="../../settings/audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
