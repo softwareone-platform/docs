@@ -1,11 +1,11 @@
 # Understand Your Billing Documents
 
-Your billing documents, like an invoice or statement, contain important information about your transactions.
+Your billing documents, like your invoices and statements, contain important information about your transactions.&#x20;
 
 To help you understand these documents better, we've created the following video. It breaks down the key sections within your invoices and statements and highlights important aspects to be aware of when interpreting the charges.
 
 {% embed url="https://www.youtube.com/watch?v=dmGAcCf17oE" %}
-Video: Invoice and Statement Formats in Recurring Billing
+Watch our video guide about invoices and statements in recurring billing
 {% endembed %}
 
 ## Invoice header
@@ -26,7 +26,7 @@ This section displays all subscriptions and items for which you are being invoic
 
 The following table lists the key fields in this section:
 
-<table><thead><tr><th width="202">Column</th><th>Description</th></tr></thead><tbody><tr><td>Description</td><td><p>Includes a header that displays identifiers such as account ID, agreement ID, and more. You can also see all subscriptions linked to the agreement and the items within each subscription. </p><p></p><p>If <a href="split-billing/">split billing</a> has been enabled, the configured allocation percentage is also displayed. </p></td></tr><tr><td>Quantity</td><td>Displays the quantity of items. The value is always '1' because we consolidate all charges. See your <a href="./#whats-a-statement">Marketplace billing statement</a> for details on the actual item quantity.</td></tr><tr><td>Unit price</td><td>Displays the total charges for each item within the subscription.</td></tr></tbody></table>
+<table><thead><tr><th width="202">Column</th><th>Description</th></tr></thead><tbody><tr><td>Description</td><td><p>Includes a header that displays identifiers such as account ID, agreement ID, and more. You can also see all subscriptions linked to the agreement and the items within each subscription. </p><p></p><p>If <a href="split-billing/">split billing</a> has been enabled, the configured allocation percentage is also displayed. </p></td></tr><tr><td>Quantity</td><td>Displays the quantity of items. The value is always '1' because we consolidate all charges. Refer to your <a href="./#whats-a-statement">Marketplace billing statement</a> for details on the actual item quantity.</td></tr><tr><td>Unit price</td><td>Displays the total charges for each item in the subscription.</td></tr></tbody></table>
 
 ## Statements <a href="#whats-a-statement" id="whats-a-statement"></a>
 
@@ -36,7 +36,11 @@ A billing statement provides a detailed view of your invoice data. Statements ar
 * **Charges** - Contains a list of charges and subscriptions for the billing period. You can also view all items within the subscription, their quantities, and prices. If [split billing](split-billing/) has been enabled, the subscription allocation percentage and estimated license count (ELC) details are also displayed.&#x20;
 * **Orders** - Contains all orders placed during the billing period and their corresponding details, such as the type of order, the date when the order was placed, and more.
 
-You can download a sample statement from the [Billing ](./)page.
+To download a sample statement from the [Billing ](./)page.
+
+{% hint style="info" %}
+
+{% endhint %}
 
 ## Frequently asked questions (FAQs) <a href="#invoice-faq" id="invoice-faq"></a>
 
