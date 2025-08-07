@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Invoices
 
 An invoice is a billing document you receive at the end of your billing period.&#x20;
