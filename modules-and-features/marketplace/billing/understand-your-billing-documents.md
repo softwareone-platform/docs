@@ -36,12 +36,6 @@ A billing statement provides a detailed view of your invoice data. Statements ar
 * **Charges** - Contains a list of charges and subscriptions for the billing period. You can also view all items within the subscription, their quantities, and prices. If [split billing](split-billing/) has been enabled, the subscription allocation percentage and estimated license count (ELC) details are also displayed.&#x20;
 * **Orders** - Contains all orders placed during the billing period and their corresponding details, such as the type of order, the date when the order was placed, and more.
 
-To download a sample statement from the [Billing ](./)page.
-
-{% hint style="info" %}
-
-{% endhint %}
-
 ## Frequently asked questions (FAQs) <a href="#invoice-faq" id="invoice-faq"></a>
 
 For answers to common billing questions, see [I have questions about billing](../../../help-and-support/faqs/i-have-questions-about-billing.md).&#x20;
