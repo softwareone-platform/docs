@@ -1,6 +1,6 @@
 # How to Verify If Your Account Has Partner Capabilities
 
-There are three ways to verify whether your account is configured as a partner account within the Marketplace Platform.&#x20;
+There are three ways to verify whether your account is configured as a partner account in the Marketplace Platform.&#x20;
 
 You can check this through the following pages, available under **Settings** in the main navigation menu:
 
