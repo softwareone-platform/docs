@@ -17,6 +17,10 @@ The following tabs contain objects that may go through multiple statuses from th
 * [User](accounts-api/users/users-state-diagram.md)
 {% endtab %}
 
+{% tab title="Billing" %}
+* [Journal](billing-api/journal/state-diagram.md)
+{% endtab %}
+
 {% tab title="Catalog" %}
 * [Product](catalog-api/product/product-states.md)
 * [Item](catalog-api/items/item-states.md)

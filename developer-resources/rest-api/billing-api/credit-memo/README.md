@@ -1,8 +1,8 @@
-# Credit Memos
+# Credit Memo
 
 The Credit object refers to a credit memo created within the ERP system.
 
-<table><thead><tr><th width="113">Field</th><th width="204">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier of the credit memo. </p><p>Example: CRD-3295-7900-0234</p></td></tr><tr><td>agreement</td><td><a href="../../commerce-api/agreements/"><code>agreement</code></a></td><td><p>A reference to the agreement object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="113">Field</th><th width="204">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the credit memo. </p><p>Example: CRD-3295-7900-0234</p></td></tr><tr><td>agreement</td><td><a href="../../commerce-api/agreements/"><code>agreement</code></a></td><td><p>A reference to the agreement object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "id": "AGR-2119-4550-8674-5962",
   "href": "/commerce/agreements/ACC-1234-1234",
   "name": "Microsoft Office 365 for My Company"
@@ -78,7 +78,7 @@ The Credit object refers to a credit memo created within the ERP system.
   "name": "John Smith",
   "icon": "/static/LCE-9625-9634/icon.png"
 } 
-</code></pre></td></tr><tr><td>lines</td><td><code>creditMemoLine[]</code></td><td><p>The list of credit memo lines associated with the credit memo.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">[
+</code></pre></td></tr><tr><td>lines</td><td><a href="credit-memo-line.md"><code>creditMemoLine[]</code></a></td><td><p>The list of credit memo lines associated with the credit memo.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">[
   {
     "id": "CRL-8003-9067-8612-0011",
     "description": "TeamViewer Corporate",
@@ -157,7 +157,7 @@ The Credit object refers to a credit memo created within the ERP system.
 
 ## CreditMemoErpData <a href="#creditmemoerpdata" id="creditmemoerpdata"></a>
 
-<table><thead><tr><th width="211">Field</th><th width="165">Type</th><th width="381">Description</th></tr></thead><tbody><tr><td>addresses</td><td><code>erpAddressList</code></td><td><p>The list of addresses associated with the invoice.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="213">Field</th><th width="165">Type</th><th width="381">Description</th></tr></thead><tbody><tr><td>addresses</td><td><code>erpAddressList</code></td><td><p>The list of addresses associated with the invoice.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
   "billTo": {
       "name": "Siemens Schweiz AG",
       "name2": "Kreditorenbuchhaltung",
