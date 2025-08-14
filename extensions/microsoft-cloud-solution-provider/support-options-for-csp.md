@@ -9,6 +9,10 @@ SoftwareOne Services Support provides 24/7 technical assistance for all Microsof
 * Issues requiring Microsoft vendor escalation.
 * Security-related concerns within Microsoft environments.
 
+Watch the following video or continue reading to learn about your support options for CSP.
+
+{% embed url="https://vimeo.com/1109624556?share=copy" %}
+
 ### Minimum requirements for full SoftwareOne Services support <a href="#what-type-of-requests-can-customers-raise-to-softwareone-services-support" id="what-type-of-requests-can-customers-raise-to-softwareone-services-support"></a>
 
 To receive full support services, you must meet specific technical requirements:
