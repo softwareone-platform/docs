@@ -17,7 +17,7 @@ With this API, you can also perform operations such as:&#x20;
 
 Use the following buttons to open the specification in Swagger Editor or download the full API spec:
 
-<a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button primary" data-icon="up-right-from-square">Try API</a>  <a href="https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button primary" data-icon="arrow-down">Download API</a>
+<a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button primary" data-icon="up-right-from-square">Try API</a>  <a href="https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button secondary" data-icon="arrow-down">Download API</a>
 
 To access the Program API objects, including their fields, types, descriptions, and related endpoint&#x73;**,** see the following links:
 
