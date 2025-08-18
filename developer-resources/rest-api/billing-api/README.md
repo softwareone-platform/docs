@@ -4,7 +4,7 @@ The SoftwareOne Marketplace Billing API allows you to interact with the billing 
 
 The API centralizes billing workflow, allowing you to fully automate your financial operations. With this API, you can create, update, retrieve, and manage invoices, credit memos, billing statements, journal charges, and custom ledger entries through secure endpoints.&#x20;
 
-Use the following buttons to open the specification in Swagger Editor or download the full API spec:
+Use the following buttons to open the API in Swagger Editor or download the full specification:
 
 <a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/billing/openapi.json" class="button primary" data-icon="up-right-from-square">Try API</a>  <a href="https://api.platform.softwareone.com/public/v1/billing/openapi.json" class="button secondary" data-icon="arrow-down">Download API</a>
 

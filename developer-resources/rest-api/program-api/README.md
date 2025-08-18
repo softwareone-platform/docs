@@ -15,7 +15,7 @@ With this API, you can also perform operations such as:&#x20;
 * Process or fail enrollment requests.
 * Retrieve an enrollment's template.
 
-Use the following buttons to open the specification in Swagger Editor or download the full API spec:
+Use the following buttons to open the API in Swagger Editor or download the full specification:
 
 <a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button primary" data-icon="up-right-from-square">Try API</a>  <a href="https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button secondary" data-icon="arrow-down">Download API</a>
 

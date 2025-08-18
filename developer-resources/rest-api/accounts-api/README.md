@@ -4,7 +4,7 @@ The Accounts API enables you to programmatically access and manage key account-r
 
 It provides secure endpoints that allow you to perform operations such as creating, updating, and retrieving information about accounts, users, user groups, licensees, sellers, and API tokens. Additionally, the API supports retrieving a list of available modules within the platform and managing ERP system links.
 
-Use the following buttons to open the specification in Swagger Editor or download the full API spec:
+Use the following buttons to open the API in Swagger Editor or download the full specification:
 
 <a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/accounts/openapi.json" class="button primary" data-icon="up-right-from-square">Try API</a>  <a href="https://api.platform.softwareone.com/public/v1/accounts/openapi.json" class="button secondary" data-icon="arrow-down">Download API</a>
 
