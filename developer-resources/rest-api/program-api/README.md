@@ -1,8 +1,8 @@
 # Program API
 
-The Program API provides secure endpoints to create, retrieve, update, and manage information related to programs, certificates, and enrollments within the Marketplace Platform.&#x20;
+The Program API provides secure endpoints for creating, retrieving, updating, and managing programs, certificates, and enrollments within the Marketplace Platform.&#x20;
 
-With this API, you can also perform operations such as:&#x20;
+With this API, you can also perform additional operations, including:
 
 * Publish and unpublish programs.
 * Update program settings.
@@ -19,16 +19,8 @@ Use the following buttons to open the API in Swagger Editor or download the full
 
 <a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button primary" data-icon="up-right-from-square">Try API</a>  <a href="https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button secondary" data-icon="arrow-down">Download API</a>
 
-To access the Program API objects, including their fields, types, descriptions, and related endpoint&#x73;**,** see the following links:
+To access the program API objects, including their fields, types, descriptions, and explore the endpoints, see the following links:
 
-{% content-ref url="certificate/" %}
-[certificate](certificate/)
-{% endcontent-ref %}
-
-{% content-ref url="enrollment/" %}
-[enrollment](enrollment/)
-{% endcontent-ref %}
-
-{% content-ref url="program/" %}
-[program](program/)
-{% endcontent-ref %}
+* [Certificates](certificate/)
+* [Enrollments](enrollment/)
+* [Programs](program/)

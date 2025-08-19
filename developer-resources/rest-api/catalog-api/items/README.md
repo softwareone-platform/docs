@@ -4,24 +4,20 @@ The Item object represents a “product item” as a transactable element of a p
 
 This object contains the following properties:
 
-<table><thead><tr><th width="194">Field</th><th width="159">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>Identifier for the item.</p><p>Example: ITM-0690-0539-0001</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The resource URI of the Item.</p><p>Example: /product-items/ITM-0690-0539-0001</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>Name of the item.</p><p>Example: Microsoft 365 Apps for Business</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>Item description.</p><p>Example: Best for businesses that need Office apps across devices and cloud file storage. For businesses with up to 300 employees.</p></td></tr><tr><td>externalIds</td><td><a href="./#externalids"><code>externalIds</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+<table><thead><tr><th width="194">Field</th><th width="159">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>Identifier for the item.</p><p>Example: ITM-0690-0539-0001</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The resource URI of the Item.</p><p>Example: /product-items/ITM-0690-0539-0001</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>Name of the item.</p><p>Example: Microsoft 365 Apps for Business</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>Item description.</p><p>Example: Best for businesses that need Office apps across devices and cloud file storage. For businesses with up to 300 employees.</p></td></tr><tr><td>externalIds</td><td><a href="./#externalids"><code>externalIds</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "vendor": "ven-1233-3222",
   "operations": "op-322-322",
 }
-</code></pre></td></tr><tr><td>terms</td><td><a href="../../common-api-objects/terms.md"><code>terms</code></a></td><td><p>Terms for the Items, as defined in the Terms object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>terms</td><td><a href="../../common-api-objects/terms.md"><code>terms</code></a></td><td><p>Terms for the Items, as defined in the Terms object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "period": "1m",
   "commitment": "1y"
 }
-</code></pre></td></tr><tr><td>quantityNotApplicable</td><td><code>boolean</code></td><td><p>Indicates if the quantity is not applicable or relevant to the product item being sold.</p><p>Example: true</p></td></tr><tr><td>status</td><td><a href="item-states.md"><code>Item States</code></a></td><td><p>The status of the item.</p><p>Example: Draft</p></td></tr><tr><td>parameters</td><td><a href="./#parameter"><code>parameterValue</code></a></td><td><p>Captures any additional information required for a product item and is defined by item configuration parameters.</p><p><br>Only item configuration parameters are available on this list.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{ 
+</code></pre></td></tr><tr><td>quantityNotApplicable</td><td><code>boolean</code></td><td><p>Indicates if the quantity is not applicable or relevant to the product item being sold.</p><p>Example: true</p></td></tr><tr><td>status</td><td><a href="item-states.md"><code>Item States</code></a></td><td><p>The status of the item.</p><p>Example: Draft</p></td></tr><tr><td>parameters</td><td><a href="./#parameter"><code>parameterValue</code></a></td><td><p>Captures any additional information required for a product item and is defined by item configuration parameters.</p><p><br>Only item configuration parameters are available on this list.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ 
   "id": "PRM-1234-1234-1234",
   "externalId": "SKU",
   "value": "65272478BB01A12"
 }
-</code></pre></td></tr><tr><td>group</td><td><a href="item-group/"><code>itemGroup</code></a></td><td>The item group to which the item has been assigned.</td></tr><tr><td>unit</td><td><code>unitOfMeasure</code></td><td>The unit of measure assigned to item.</td></tr><tr><td>product</td><td><a href="../product/"><code>product</code></a></td><td>The product to which item is assigned.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>The audit object with possible entries: <code>Created</code>, <code>Updated</code>, <code>Activated</code>, <code>Terminated.</code></p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
-  "created": { "at": "...", "by": { } },
-  "updated": { "at": "...", "by": { } }
-}
-</code></pre></td></tr></tbody></table>
+</code></pre></td></tr><tr><td>group</td><td><a href="item-group/"><code>itemGroup</code></a></td><td>The item group to which the item has been assigned.</td></tr><tr><td>unit</td><td><code>unitOfMeasure</code></td><td>The unit of measure assigned to item.</td></tr><tr><td>product</td><td><a href="../product/"><code>product</code></a></td><td>The product to which item is assigned.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>A reference to the audit object.</p><p>Possible entries: <code>Created</code>, <code>Updated</code>, <code>Activated</code>, <code>Terminated</code></p></td></tr></tbody></table>
 
 ## Parameter <a href="#parameter" id="parameter"></a>
 
@@ -31,7 +27,7 @@ The parameter object contains the given parameter's value and additional informa
 
 ## ExternalIds <a href="#externalids" id="externalids"></a>
 
-<table><thead><tr><th width="184">Field</th><th width="175">Type</th><th>Description</th></tr></thead><tbody><tr><td>vendor</td><td><code>string</code></td><td>An item identifier that is recognizable by the vendor to ensure that when an order is placed, they'll understand which item needs to be provided.</td></tr></tbody></table>
+<table><thead><tr><th width="184">Field</th><th width="175">Type</th><th>Description</th></tr></thead><tbody><tr><td>vendor</td><td><code>string</code></td><td>A vendor-recognizable item identifier used to ensure the correct item is supplied when an order is placed.</td></tr></tbody></table>
 
 ## Example
 

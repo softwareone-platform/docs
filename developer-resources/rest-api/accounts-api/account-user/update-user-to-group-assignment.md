@@ -1,5 +1,5 @@
 # Update User to Group Assignment
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/account-users/{id}/groups" method="put" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

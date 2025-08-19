@@ -1,4 +1,4 @@
-# Charge
+# Journal Charges
 
 ## Uploaded Charge <a href="#uploaded-charge-properties" id="uploaded-charge-properties"></a>
 
@@ -6,58 +6,58 @@
 
 ## Journal Charge <a href="#journal-charge-object" id="journal-charge-object"></a>
 
-<table><thead><tr><th width="177">Field</th><th width="148">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the charge. </p><p>Example: CHG-1234-1234-1234-1234-1234</p></td></tr><tr><td>status</td><td><code>enum</code></td><td>Possible values: <code>Ready</code> or <code>Error</code></td></tr><tr><td>type</td><td><code>enum</code></td><td>Possible values: <code>Automated</code> or <code>Manual</code></td></tr><tr><td>parent</td><td><code>charge</code></td><td><p>Optional reference to the parent charge for split billing cases, includes one parent split for the number of children charges. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="177">Field</th><th width="148">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the charge. </p><p>Example: CHG-1234-1234-1234-1234-1234</p></td></tr><tr><td>status</td><td><code>enum</code></td><td>Possible values:  <code>Ready</code> or <code>Error</code></td></tr><tr><td>type</td><td><code>enum</code></td><td>Possible values:  <code>Automated</code> or <code>Manual</code></td></tr><tr><td>parent</td><td><code>charge</code></td><td><p>Optional reference to the parent charge for split billing cases, includes one parent split for the number of children charges. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "CHG-1234-1234-1234-1234-1234"
 }
-</code></pre></td></tr><tr><td>buyer</td><td><a href="../../accounts-api/buyer/"><code>buyer</code></a></td><td><p>A reference to the Buyer object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>buyer</td><td><a href="../../accounts-api/buyer/"><code>buyer</code></a></td><td><p>A reference to the Buyer object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "BUY-0355-0939",
   "href": "/accounts/buyers/BUY-0355-0939",
   "name": "TEST_BUYER30_rec"
 }
-</code></pre></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/"><code>seller</code></a></td><td><p>A reference to the Seller object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/"><code>seller</code></a></td><td><p>A reference to the Seller object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "SEL-9512-0354",
   "href": "/accounts/sellers/SEL-9512-0354",
   "name": "TEST_SELLER30_rec"
 }
-</code></pre></td></tr><tr><td>ledger</td><td><a href="../ledger/"><code>ledger</code></a></td><td><p>A reference to the Ledger object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>ledger</td><td><a href="../ledger/"><code>ledger</code></a></td><td><p>A reference to the Ledger object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "BLE-6084-5502-9512-0354"
 }
-</code></pre></td></tr><tr><td>statement</td><td><a href="../statement/"><code>statement</code></a></td><td><p>A reference to the Statement object.  </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>statement</td><td><a href="../statement/"><code>statement</code></a></td><td><p>A reference to the Statement object.  </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "SOM-6084-5502-5163-5035-5953",
   "type": "Debit"
 }
-</code></pre></td></tr><tr><td>licensee</td><td><a href="../../accounts-api/licensee/"><code>licensee</code></a></td><td><p>A reference to the Agreement object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>licensee</td><td><a href="../../accounts-api/licensee/"><code>licensee</code></a></td><td><p>A reference to the Agreement object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "LCE-4563-7526-8099",
   "href": "/accounts/licensees/LCE-4563-7526-8099",
   "name": "TEST_LICENSEE30_rec"
 }
-</code></pre></td></tr><tr><td>agreement</td><td><a href="../../commerce-api/agreements/"><code>agreement</code></a></td><td><p>A reference to the Agreement object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>agreement</td><td><a href="../../commerce-api/agreements/"><code>agreement</code></a></td><td><p>A reference to the Agreement object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "AGR-5163-5035-5953",
   "href": "/commerce/agreements/AGR-5163-5035-5953",
   "status": "Active",
   "name": "TEST_AGREEMENT30_rec_1"
 }
-</code></pre></td></tr><tr><td>subscription</td><td><a href="../../commerce-api/subscriptions/"><code>subscription</code></a></td><td><p>A reference to the Subscription object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>subscription</td><td><a href="../../commerce-api/subscriptions/"><code>subscription</code></a></td><td><p>A reference to the Subscription object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "SUB-7342-6318-2370",
   "href": "/commerce/subscriptions/SUB-7342-6318-2370",
   "name": "TEST_SUBSCRIPTION30_rec_1"
 }
-</code></pre></td></tr><tr><td>item</td><td><a href="../../catalog-api/items/"><code>item</code></a></td><td><p>A reference to the Item object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>item</td><td><a href="../../catalog-api/items/"><code>item</code></a></td><td><p>A reference to the Item object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "ITM-5333-3116-0002",
   "href": "/items/ITM-5333-3116-0002",
   "name": "TEST_SUBSCRIPTIONITEM30_rec"
 }
-</code></pre></td></tr><tr><td>authorization</td><td><a href="../../catalog-api/authorization/"><code>authorization</code></a></td><td><p>A reference to the Authorization object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>authorization</td><td><a href="../../catalog-api/authorization/"><code>authorization</code></a></td><td><p>A reference to the Authorization object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "AUT-2173-6546",
   "href": "/catalog/authorizations/AUT-2173-6546",
   "name": "MY_TEST_AUTHORIZATION30_rec"
 }
-</code></pre></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the vendor Account object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the vendor Account object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "ACC-3647-5309",
   "href": "/accounts/accounts/ACC-3647-5309",
   "name": "TEST_VENDOR30_rec"
 }
-</code></pre></td></tr><tr><td>price</td><td><code>price</code></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>price</td><td><code>price</code></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "unitPP": 92.09375679688615,
     "unitSP": 101.30313247657476,
     "PPx1": 184.1875135937723,
@@ -65,12 +65,12 @@
     "markup": 10,
     "margin": 9.0909090909
 }
-</code></pre></td></tr><tr><td>erpData</td><td><code>object</code></td><td><p>ERP system related data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>erpData</td><td><code>object</code></td><td><p>ERP system related data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "scu": "1",
     "cco": "ATC-CCO-112612",
     "erpItemId": "AO03.22961.MP"
 }
-</code></pre></td></tr><tr><td>attributes</td><td><code>object</code></td><td><p>Various attributes taken from the input file. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>attributes</td><td><code>object</code></td><td><p>Various attributes taken from the input file. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "documentNumber": "AGR-0605-6606-7993",
     "orderType": "Direct",
     "externalDocumentNo": "4500776612",

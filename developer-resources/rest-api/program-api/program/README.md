@@ -1,10 +1,10 @@
-# Program
+# Programs
 
 ## Program object
 
 The Program object represents a set of requirements (parameters) that vendors ask their clients to meet. This object contains the following attributes:
 
-<table><thead><tr><th width="140">Field</th><th width="172">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The program's identifier. </p><p>Example: PRG-1234-5678</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the program.  </p><p>Example: Microsoft AI Cloud Partner</p></td></tr><tr><td>website</td><td><code>string</code></td><td><p>The URL for the program website. </p><p>Example: https://www.microsoft.com</p></td></tr><tr><td>icon</td><td><code>string</code></td><td>The program logo's or icon.</td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the program. </p><p>Possible values: <code>None</code>, <code>Draft</code>, <code>Published</code>, <code>Unpublished</code>, or <code>Deleted</code></p></td></tr><tr><td>eligibility</td><td><code>string</code></td><td>Represents an object for storing information for the clients and reseller flags.</td></tr><tr><td>applicableTo</td><td><code>string</code></td><td>Possible values: <code>Buyer</code> or <code>Licensee</code></td></tr><tr><td>products</td><td><a href="../../catalog-api/product/"><code>product</code></a></td><td><p>Contains a list of selected products. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">[ 
+<table><thead><tr><th width="140">Field</th><th width="172">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The program's identifier. </p><p>Example: PRG-1234-5678</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the program.  </p><p>Example: Microsoft AI Cloud Partner</p></td></tr><tr><td>website</td><td><code>string</code></td><td><p>The URL for the program website. </p><p>Example: https://www.microsoft.com</p></td></tr><tr><td>icon</td><td><code>string</code></td><td>The program logo's or icon.</td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the program. </p><p>Possible values: <code>None</code>, <code>Draft</code>, <code>Published</code>, <code>Unpublished</code>, or <code>Deleted</code></p></td></tr><tr><td>eligibility</td><td><code>string</code></td><td>Represents an object for storing information for the clients and reseller flags.</td></tr><tr><td>applicableTo</td><td><code>string</code></td><td>Possible values: <code>Buyer</code> or <code>Licensee</code></td></tr><tr><td>products</td><td><a href="../../catalog-api/product/"><code>product</code></a></td><td><p>Contains a list of selected products. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">[ 
     { 
         "id": "PRD-1111-1111", 
         "name": "Microsoft Office 365 NCE", 
@@ -13,13 +13,13 @@ The Program object represents a set of requirements (parameters) that vendors as
         "status": "Published" 
     } 
 ]
-</code></pre></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the vendor Account object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the vendor account object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "ACC-1234-1234",
     "type": "Vendor",
     "status": "Enabled",
     "name": "Microsoft"
 }
-</code></pre></td></tr><tr><td>settings</td><td><a href="./#programsettings"><code>programSettings</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">"settings": {
+</code></pre></td></tr><tr><td>settings</td><td><a href="./#programsettings"><code>programSettings</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">"settings": {
         "newCertificateAutoapprove": true,
         "programEnrollment": false,
         "programLink": false,
@@ -33,14 +33,10 @@ The Program object represents a set of requirements (parameters) that vendors as
             "reEnrollment": false
         }
 } 
-</code></pre></td></tr><tr><td>statistics</td><td><a href="./#programstatistics"><code>programStatistics</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>statistics</td><td><a href="./#programstatistics"><code>programStatistics</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "certificates": 110
 }
-</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>The audit information object. </p><p>Example:</p><pre class="language-json"><code class="lang-json">{
-  "created": { "at": "...", "by": { } },
-  "updated": { "at": "...", "by": { } }
-}
-</code></pre></td></tr></tbody></table>
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the audit object. </td></tr></tbody></table>
 
 ## Program Settings object <a href="#programsettings" id="programsettings"></a>
 

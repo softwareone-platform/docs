@@ -1,4 +1,4 @@
-# Parameter
+# Parameters
 
 The Parameter object contains the following properties:
 
@@ -14,6 +14,7 @@ The Parameter object contains the following properties:
 
 {% tabs %}
 {% tab title="PARAMETER OBJECT" %}
+{% code lineNumbers="true" %}
 ```json
 {
   "scope": "Agreement",
@@ -38,5 +39,6 @@ The Parameter object contains the following properties:
   "group": { "id": PGR-7373-6782" }
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}

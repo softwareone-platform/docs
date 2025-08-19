@@ -1,4 +1,4 @@
-# Product
+# Products
 
 The Product object represents a collection of items and their relevant parameters curated into a cohesive group for business purposes. Defined by vendors, products are accessible through listings, providing a structured framework for transactional activities.
 
@@ -37,19 +37,19 @@ The Product object contains the following properties:
 }
 </code></pre></td></tr></tbody></table>
 
-### ProductSettings <a href="#productsettings" id="productsettings"></a>
+## ProductSettings <a href="#productsettings" id="productsettings"></a>
 
 <table><thead><tr><th width="181">Field</th><th width="217">Type</th><th>Description</th></tr></thead><tbody><tr><td>productOrdering</td><td><code>boolean</code></td><td><p>Displays the <strong>Buy</strong> button on the product card, enabling clients to place an order for this product.</p><p>Example: true</p></td></tr><tr><td>itemSelection</td><td><code>boolean</code></td><td><p>Validates the compatibility of selected product items within the purchase order, supporting order processing.</p><p>Example: false</p></td></tr><tr><td>orderQueueChanges</td><td><code>boolean</code></td><td><p>Enables notifications of changes in the order queue.</p><p>Example: false</p></td></tr><tr><td>productRequests</td><td><a href="./#productrequestsettings"><code>productRequestSettings</code></a></td><td>Settings for the product requests page.</td></tr><tr><td>preValidation</td><td><a href="./#prevalidationsettings"><code>preValidationSettings</code></a></td><td>Settings for the pre-validation phase during purchase.</td></tr></tbody></table>
 
-### ProductRequestSettings <a href="#productrequestsettings" id="productrequestsettings"></a>
+## ProductRequestSettings <a href="#productrequestsettings" id="productrequestsettings"></a>
 
 <table><thead><tr><th width="188">Field</th><th width="211">Type</th><th>Description</th></tr></thead><tbody><tr><td>enabled</td><td><code>boolean</code></td><td><p>Displays a request button on the product card, enabling clients to request more information about a product.</p><p>Example: true</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The product name, which appears as a title within the request wizard.</p><p>Example: Contact us about Microsoft 365 Online Services</p></td></tr><tr><td>label</td><td><code>string</code></td><td><p>The label on the product listing card.</p><p>Example: Contact us</p></td></tr></tbody></table>
 
-### PreValidationSettings <a href="#prevalidationsettings" id="prevalidationsettings"></a>
+## PreValidationSettings <a href="#prevalidationsettings" id="prevalidationsettings"></a>
 
 <table><thead><tr><th width="210">Field</th><th width="175">Type</th><th>Description</th></tr></thead><tbody><tr><td>purchaseOrderDraft</td><td><code>boolean</code></td><td><p>Validates purchase order during the creation and before the order is submitted.</p><p>Example: false</p></td></tr><tr><td>purchaseOrderQuerying</td><td><code>boolean</code></td><td><p>Validates purchase orders when the client is requested to provide more information to the vendor on that order.</p><p>Example: false</p></td></tr><tr><td>changeOrderDraft</td><td><code>boolean</code></td><td><p>Validates change order during the creation and before the order is submitted.</p><p>Example: false</p></td></tr><tr><td>terminationOrder</td><td><code>boolean</code></td><td><p>Validates termination orders during the creation and before the order is submitted.</p><p>Example: false</p></td></tr><tr><td>productRequest</td><td><code>boolean</code></td><td><p>Validates the product request form while the client is filling in information and before the form is submitted.</p><p>Example: false</p></td></tr></tbody></table>
 
-### ProductStatistics <a href="#productstatistics" id="productstatistics"></a>
+## ProductStatistics <a href="#productstatistics" id="productstatistics"></a>
 
 <table><thead><tr><th width="211">Field</th><th width="172">Type</th><th>Description</th></tr></thead><tbody><tr><td>items</td><td><code>integer</code></td><td><p>The number of items assigned to the product.</p><p>Example: 1</p></td></tr><tr><td>orders</td><td><code>integer</code></td><td><p>The number of orders placed for the product.</p><p>Example: 2</p></td></tr><tr><td>agreements</td><td><code>integer</code></td><td><p>The number of agreements signed with the product.</p><p>Example: 4000</p></td></tr><tr><td>subscriptions</td><td><code>integer</code></td><td><p>The number of existing subscriptions to the product.</p><p>Example: 2</p></td></tr><tr><td>requests</td><td><code>integer</code></td><td><p>The number of requests related to the product.</p><p>Example: 100</p></td></tr></tbody></table>
 
@@ -57,6 +57,7 @@ The Product object contains the following properties:
 
 {% tabs %}
 {% tab title="PRODUCT OBJECT" %}
+{% code lineNumbers="true" %}
 ```json
 {
   "id": "PRD-1234-1234",
@@ -95,5 +96,6 @@ The Product object contains the following properties:
 }
     
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}

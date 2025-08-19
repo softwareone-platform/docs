@@ -8,12 +8,7 @@ Use the following buttons to open the API in Swagger Editor or download the full
 
 <a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/audit/openapi.json" class="button primary" data-icon="up-right-from-square">Try API</a>  <a href="https://api.platform.softwareone.com/public/v1/audit/openapi.json" class="button secondary" data-icon="arrow-down">Download API</a>
 
-To access the audit objects, including their fields, types, descriptions, and related endpoint&#x73;**,** see the following links:
+To learn about the audit objects, including their fields, types, descriptions, and explore the endpoints, see the following links:
 
-{% content-ref url="audit-record/" %}
-[audit-record](audit-record/)
-{% endcontent-ref %}
-
-{% content-ref url="audit-event-type/" %}
-[audit-event-type](audit-event-type/)
-{% endcontent-ref %}
+* [Audit Record](audit-record/)
+* [Audit Event Type](audit-event-type/)

@@ -1,12 +1,12 @@
-# Buyer
+# Buyers
 
 The Buyer object represents an individual buyer within the Marketplace platform. This object contains the following properties:
 
-<table data-full-width="false"><thead><tr><th width="136">Field</th><th width="132">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the buyer.</p><p>Example: BUY-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object in the API.</p><p>Example: /v1/accounts/buyers/BUY-1234-1234</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the buyer.</p><p>Possible values: <code>Enabled</code>, <code>Active</code>, <code>Disabled</code>, or <code>Deleted</code></p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The buyer's name.</p><p>Example: Stark Industries</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The relative path to the buyer’s logo.</p><p>Example: /static/accounts/BUY-1234-1234/logo.png</p></td></tr><tr><td>externalIds</td><td><a href="../../common-api-objects/externalids.md"><code>externalIds</code></a></td><td><p>The external identifier.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="136">Field</th><th width="132">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the buyer.</p><p>Example: BUY-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object in the API.</p><p>Example: /v1/accounts/buyers/BUY-1234-1234</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the buyer.</p><p>Possible values: <code>Enabled</code>, <code>Active</code>, <code>Disabled</code>, or <code>Deleted</code></p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The buyer's name.</p><p>Example: Stark Industries</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The relative path to the buyer’s logo.</p><p>Example: /static/accounts/BUY-1234-1234/logo.png</p></td></tr><tr><td>externalIds</td><td><a href="../../common-api-objects/externalids.md"><code>externalIds</code></a></td><td><p>The external identifier.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
  "erpCompanyContact": "WW-CON-123456",
  "erpCustomer": "WW-SCU-123456"
 }
-</code></pre></td></tr><tr><td>address</td><td><a href="../../common-api-objects/address.md"><code>address</code></a></td><td><p>The address of the buyer.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>address</td><td><a href="../../common-api-objects/address.md"><code>address</code></a></td><td><p>The address of the buyer.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "addressLine1": "123 Main Street",
   "addressLine2": "Apt 4B",
   "postCode": "12345",
@@ -14,7 +14,7 @@ The Buyer object represents an individual buyer within the Marketplace platform.
   "state": "S",
   "country": "ST"
 }
-</code></pre></td></tr><tr><td>taxId</td><td><code>string</code></td><td><p>The buyer's tax ID.</p><p>Example: 12-34567890</p></td></tr><tr><td>account</td><td><a href="../account/#account-object"><code>account</code></a></td><td>A reference to the buyer’s account object.</td></tr><tr><td>sellers</td><td><a href="../seller/#seller-object"><code>seller</code></a></td><td>A reference to the seller object.</td></tr><tr><td>contact</td><td><code>object</code></td><td><p>The details of the contact person.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
+</code></pre></td></tr><tr><td>taxId</td><td><code>string</code></td><td><p>The buyer's tax ID.</p><p>Example: 12-34567890</p></td></tr><tr><td>account</td><td><a href="../account/#account-object"><code>account</code></a></td><td>A reference to the buyer’s account object.</td></tr><tr><td>sellers</td><td><a href="../seller/#seller-object"><code>seller</code></a></td><td>A reference to the seller object.</td></tr><tr><td>contact</td><td><code>object</code></td><td><p>The details of the contact person.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
 	"name": "Will Smith",
 	"firstName": "Will",
 	"lastName": "Smith",
