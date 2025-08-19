@@ -23,7 +23,7 @@ The Account object represents an individual account on the Marketplace platform.
 
 {% tabs %}
 {% tab title="SHORT FORM" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "ACC-1671-0642",

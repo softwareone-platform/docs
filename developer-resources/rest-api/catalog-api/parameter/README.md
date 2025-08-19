@@ -14,7 +14,7 @@ The Parameter object contains the following properties:
 
 {% tabs %}
 {% tab title="PARAMETER OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "scope": "Agreement",

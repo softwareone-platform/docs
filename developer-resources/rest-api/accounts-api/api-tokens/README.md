@@ -12,7 +12,7 @@ The API Token object represents a user authentication token in the Marketplace p
 
 {% tabs %}
 {% tab title="API TOKEN OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
     "id": "TKN-4134-7330",

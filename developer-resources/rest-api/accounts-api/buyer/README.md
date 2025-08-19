@@ -32,7 +32,7 @@ The Buyer object represents an individual buyer within the Marketplace platform.
 
 {% tabs %}
 {% tab title="SHORT FORM" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
 	"id": "BUY-3911-2313",

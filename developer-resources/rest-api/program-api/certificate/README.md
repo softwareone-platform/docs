@@ -38,7 +38,8 @@ A certificate is issued to a client or partner as confirmation that they meet a 
 </code></pre></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The certificate's status. </p><p>Possible values: <code>Pending</code>, <code>Updating</code>, <code>Active</code>, <code>Terminated</code>, or <code>Expired</code>.</p></td></tr><tr><td>expirationDate</td><td><code>dateTime</code></td><td><p>The expiration date of the certificate. </p><p>When the date has passed, the system expires the certificate. </p><p>Example: 2025-12-04</p></td></tr><tr><td>template</td><td><a href="../../catalog-api/templates/"><code>template</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{ 
   "id": "PTP-1234-4444", 
   "href": "/programs/PRG-1234 1234/templates/TPP-1234-4444",
-  "name": "Succesful Activation" }
+  "name": "Successful Activation" 
+}
 </code></pre></td></tr><tr><td>parameters.fulfillment</td><td><a href="../enrollment/#enrollment-parameter"><code>orderParameter</code></a></td><td><p>An object that holds a concise definition of a parameter, its value, and any associated errors. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">[
   {
       "id": "PRM-1234-1234-1234",

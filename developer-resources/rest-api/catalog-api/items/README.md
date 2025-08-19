@@ -38,7 +38,7 @@ The parameter object contains the given parameter's value and additional informa
 {
     "id": "ITM-0690-0539-0001",
     "name": "Microsoft 365 Online Services for Charity",
-    "description": "mashaTestTajfunTeam",
+    "description": "TestTeam",
     "state": "Draft",
     "parameters": [
       {

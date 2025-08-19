@@ -29,21 +29,13 @@ The Licensee object represents a licensee in the Marketplace platform. This obje
   "state": "S",
   "country": "ST"
 }
-</code></pre></td></tr><tr><td>buyer</td><td><a href="../buyer/#buyer-object"><code>buyer</code></a></td><td>A reference to the Buyer object.</td></tr><tr><td>seller</td><td><a href="../seller/#seller-object"><code>seller</code></a></td><td>A reference to the Seller object.</td></tr><tr><td>account</td><td><a href="../account/#account-object"><code>account</code></a></td><td>A reference to the Account object.</td></tr><tr><td>audit</td><td><code>object</code></td><td><p>Possible audit events: <code>Created</code>, <code>Updated</code>, <code>Activated</code>, <code>Disabled</code>, <code>Deactivated</code>, or <code>Deleted</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-  "created": { "at": "...", "by": { } },
-  "updated": { "at": "...", "by": { } },
-  "disabled": { "at": "...", "by": { } },
-  "enabled": { "at": "...", "by": { } },
-  "activated": { "at": "...", "by": { } },
-  "deleted": { "at": "...", "by": { } }
-}
-</code></pre></td></tr></tbody></table>
+</code></pre></td></tr><tr><td>buyer</td><td><a href="../buyer/#buyer-object"><code>buyer</code></a></td><td>A reference to the Buyer object.</td></tr><tr><td>seller</td><td><a href="../seller/#seller-object"><code>seller</code></a></td><td>A reference to the Seller object.</td></tr><tr><td>account</td><td><a href="../account/#account-object"><code>account</code></a></td><td>A reference to the Account object.</td></tr><tr><td>audit</td><td><code>object</code></td><td>Possible audit events: <code>Created</code>, <code>Updated</code>, <code>Activated</code>, <code>Disabled</code>, <code>Deactivated</code>, or <code>Deleted</code>.</td></tr></tbody></table>
 
 ## Example
 
 {% tabs %}
 {% tab title="SHORT FORM" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
 	"id": "LCE-8893-6916-0000",

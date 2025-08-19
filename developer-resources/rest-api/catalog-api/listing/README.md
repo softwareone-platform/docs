@@ -1,4 +1,4 @@
-# Listing
+# Listings
 
 The Listing object represents a business entity that aligns a product with a specific SoftwareOne seller. It is defined by an authorization and an assigned price list. Listings are essential for managing the visibility and availability of products across different markets and for overseeing their lifecycle in an efficient and scalable way.&#x20;
 
@@ -35,7 +35,7 @@ The Listings object contains the following attributes:
     "id": "PRC-1234-5678-1234"   
   },
   "primary": true,
-  "notes": "This is the primary Listing for the EU region.",
+  "notes": "This is the primary Listing for the EU.",
   "statistics": {
     "subscriptions": 10,
     "agreements": 5

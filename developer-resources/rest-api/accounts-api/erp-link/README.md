@@ -7,19 +7,13 @@ The ERP Link represents a connection between a [Buyer](../buyer/) and a [Seller 
 	"erpCustomer": "WW-SCU-123456",
 	"erpCustomerDiscountGroup": "WW-12345"
 }
-</code></pre></td></tr><tr><td>address</td><td><a href="../../common-api-objects/address.md"><code>address</code></a></td><td>The address of the buyer in the given Seller instance. </td></tr><tr><td>companyName</td><td><code>string</code></td><td><p>The name of the Buyer in the given Seller instance.</p><p>Example: AGCO Corporation</p></td></tr><tr><td>buyer</td><td><a href="../buyer/"><code>buyer</code></a></td><td>A reference to the Buyer object.</td></tr><tr><td>seller</td><td><a href="../seller/"><code>seller</code></a></td><td>A reference to the Seller object.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>A reference to the Audit object. </p><p>Possible values: <code>Created</code>, <code>Updated</code>, <code>Blocked</code>,  or <code>Unblocked</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-  "created": { "at": "...", "by": { } },
-  "updated": { "at": "...", "by": { } },
-  "blocked": { "at": "...", "by": { } },
-  "unblocked": { "at": "...", "by": { } }
-}
-</code></pre></td></tr></tbody></table>
+</code></pre></td></tr><tr><td>address</td><td><a href="../../common-api-objects/address.md"><code>address</code></a></td><td>The address of the buyer in the given Seller instance. </td></tr><tr><td>companyName</td><td><code>string</code></td><td><p>The name of the Buyer in the given Seller instance.</p><p>Example: AGCO Corporation</p></td></tr><tr><td>buyer</td><td><a href="../buyer/"><code>buyer</code></a></td><td>A reference to the Buyer object.</td></tr><tr><td>seller</td><td><a href="../seller/"><code>seller</code></a></td><td>A reference to the Seller object.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>A reference to the Audit object. </p><p>Possible values: <code>Created</code>, <code>Updated</code>, <code>Blocked</code>,  or <code>Unblocked</code>.</p></td></tr></tbody></table>
 
 ## Example
 
 {% tabs %}
 {% tab title="ERP LINK OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
 	"id": "ERP-0808-7934-2576",

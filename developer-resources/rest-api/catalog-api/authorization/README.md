@@ -46,7 +46,7 @@ The Authorization object contains the following attributes:
 
 {% tabs %}
 {% tab title="AUTHORIZATION OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "AUT-1234-4678",

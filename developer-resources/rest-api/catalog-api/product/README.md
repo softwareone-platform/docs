@@ -57,7 +57,7 @@ The Product object contains the following properties:
 
 {% tabs %}
 {% tab title="PRODUCT OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "PRD-1234-1234",

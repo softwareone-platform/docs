@@ -17,7 +17,7 @@ The Media object enables vendors to add, view, or delete media from the product 
 
 {% tabs %}
 {% tab title="MEDIA OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
  {
     "id": "MED-1234-1234",

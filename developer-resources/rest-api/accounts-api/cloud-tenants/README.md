@@ -12,7 +12,7 @@ A Cloud Tenant represents a cloud tenant object in the Marketplace Platform. Thi
 
 {% tabs %}
 {% tab title="CLOUD TENANT OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
     "id": "CLT-3206-7146",   

@@ -26,7 +26,7 @@ The Pricelist object contains the following properties:
 
 {% tabs %}
 {% tab title="PRICE LIST OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "PRC-1234-5678-9012",

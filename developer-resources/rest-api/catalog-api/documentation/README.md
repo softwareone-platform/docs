@@ -17,7 +17,7 @@ The Document object provides the ability to upload product documentation (via an
 
 {% tabs %}
 {% tab title="DOCUMENT OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
  {
     "id": "DOC-1234-1234",

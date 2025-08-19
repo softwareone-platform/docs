@@ -10,7 +10,7 @@ Use the following buttons to open the API in Swagger Editor or download the full
 
 To learn about the catalog objects, including their fields, types, descriptions, and explore the endpoints, see the following links:
 
-* [Authroizations](authorization/)
+* [Authorizations](authorization/)
 * [Documents](documentation/)
 * [Items](items/)
 * [Listings](listing/)
