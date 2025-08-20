@@ -7,11 +7,11 @@ The Account Users object contains the following properties:
   "icon": null,
   "name": "You Are a Test Account"
 }
-</code></pre></td></tr><tr><td>invitation</td><td><code>invitation.status</code></td><td><p>The status of the invitation. Possible values: <code>Invited</code>, <code>Active</code>, or <code>Invitation Expired</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>invitation</td><td><code>invitation.status</code></td><td><p>The status of the invitation with possible values including <code>Invited</code>, <code>Active</code>, or <code>Invitation Expired</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "url": "https://client.softwareone.com/accept-invite?code=invitationCode",
   "status": "Invited"
 }
-</code></pre></td></tr><tr><td>groups</td><td><a href="../user-groups/#group-object"><code>userGroup</code></a></td><td><p>A lList of user groups.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
+</code></pre></td></tr><tr><td>groups</td><td><a href="../user-groups/#group-object"><code>userGroup</code></a></td><td><p>A list of user groups.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
   {
     "id": "UGR-8447-7590",
     "name": "test2",

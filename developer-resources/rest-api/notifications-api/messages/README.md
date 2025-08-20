@@ -2,10 +2,10 @@
 
 The Message object represents a single notification that was sent to a single contact. This object contains the following attributes:
 
-<table><thead><tr><th width="157">Field</th><th width="134">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td>The primary identifier for the message. Example: MSG-1234-9876-4442-4314</td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object. </p><p>Example: /v1/notifications/messages/MSG-1234-9876-4442-4314</p></td></tr><tr><td>batch</td><td><a href="../batches/"><code>batch</code></a></td><td><p>The batch associated with this message. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="157">Field</th><th width="134">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td>The primary identifier for the message. Example: MSG-1234-9876-4442-4314</td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object. </p><p>Example: /v1/notifications/messages/MSG-1234-9876-4442-4314</p></td></tr><tr><td>batch</td><td><a href="../batches/"><code>batch</code></a></td><td><p>The batch associated with the message. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "MST-1234-9876-3333"
 }
-</code></pre></td></tr><tr><td>contact</td><td><a href="../contacts/"><code>contact</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>contact</td><td><a href="../contacts/"><code>contact</code></a></td><td><p>A reference to the Contact object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "CTT-1234-9876-1234",
   "href": "/v1/notifications/contacts/CTT-1234-9876-1234",
   "name": "Will Smith",
@@ -25,7 +25,7 @@ The Message object represents a single notification that was sent to a single co
   "name": "You Are a Test Account",
   "logo": "/accounts/accounts/ACC-1671-0642/logo.png"
 }
-</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td>Possible values: <code>Queued</code>, <code>Sent</code>, <code>Bounced</code>, <code>Complained</code>, or <code>Discarded</code>.</td></tr><tr><td>subject</td><td><code>string</code></td><td><p>The subject line of the message. </p><p>Example: Check out the new service offering</p></td></tr><tr><td>category</td><td><a href="../categories/"><code>category</code></a></td><td><p>A reference to the Category object.  </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td>The possible values are: <code>Queued</code>, <code>Sent</code>, <code>Bounced</code>, <code>Complained</code>, or <code>Discarded</code>.</td></tr><tr><td>subject</td><td><code>string</code></td><td><p>The subject line of the message. </p><p>Example: Check out the new service offering</p></td></tr><tr><td>category</td><td><a href="../categories/"><code>category</code></a></td><td><p>A reference to the Category object.  </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "NTC-1234-9876",
   "href": "/v1/notifications/categories/NTC-1234-9876",
   "name": "Orders",

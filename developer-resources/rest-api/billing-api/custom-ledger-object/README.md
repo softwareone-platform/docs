@@ -17,11 +17,7 @@ The Custom Ledger object is required to submit billing information for clients w
   "name": "John Smith",
   "icon": "/static/users/USR-1234-1234-1234.svg"
 }
-</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>The audit object with possible entries, including <code>Created</code> or <code>Updated</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
-  "created": { "at": "...", "by": { } },
-  "updated": { "at": "...", "by": { } }
-}
-</code></pre></td></tr><tr><td>price</td><td><a href="../journal/#pricesummary"><code>priceSummary</code></a></td><td><p>The custom ledger price summary including the aggregated price values for all charges.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>The Audit object with possible entries, including <code>Created</code> or <code>Updated</code>.</td></tr><tr><td>price</td><td><a href="../journal/#pricesummary"><code>priceSummary</code></a></td><td><p>The custom ledger price summary including the aggregated price values for all charges.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "totalPP": 229.8,
   "markup": 0.5013,
   "margin": 0.3339,  

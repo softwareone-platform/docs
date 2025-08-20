@@ -8,7 +8,7 @@ A Spotlight Query defines the RQL query used to retrieve spotlighted objects fro
 
 {% tabs %}
 {% tab title="SPOTLIGHT QUERY" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "SPQ-1234-2345",

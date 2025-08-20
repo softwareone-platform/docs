@@ -2,18 +2,18 @@
 
 The Credit object refers to a credit memo created within the ERP system.
 
-<table><thead><tr><th width="113">Field</th><th width="204">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the credit memo. </p><p>Example: CRD-3295-7900-0234</p></td></tr><tr><td>agreement</td><td><a href="../../commerce-api/agreements/"><code>agreement</code></a></td><td><p>A reference to the agreement object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="113">Field</th><th width="204">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the credit memo. </p><p>Example: CRD-3295-7900-0234</p></td></tr><tr><td>agreement</td><td><a href="../../commerce-api/agreements/"><code>agreement</code></a></td><td><p>A reference to the Agreement object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "AGR-2119-4550-8674-5962",
   "href": "/commerce/agreements/ACC-1234-1234",
   "name": "Microsoft Office 365 for My Company"
 }
-</code></pre></td></tr><tr><td>buyer</td><td><a href="../../accounts-api/buyer/"><code>buyer</code></a></td><td><p>A reference to the buyer object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>buyer</td><td><a href="../../accounts-api/buyer/"><code>buyer</code></a></td><td><p>A reference to the Buyer object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "BUY-3731-7971",
   "href": "/accounts/buyers/BUY-3731-7971",
   "name": "Adam Ruszczak",
   "icon": "/static/BUY-3731-7971/icon.png"
 }
-</code></pre></td></tr><tr><td>client</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the client account object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>client</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the Client Account object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "ACC-1234-4444",
   "href": "/accounts/accounts/ACC-1234-4444",
   "name": "Best LLC",
@@ -72,7 +72,7 @@ The Credit object refers to a credit memo created within the ERP system.
     "rowVersion": 1645619029,
     "yourReference": "YourRef_180588433545113841284876514643996099936880"
 }
-</code></pre></td></tr><tr><td>licensee</td><td><a href="../../accounts-api/licensee/"><code>licensee</code></a></td><td><p>A reference to the licensee object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>licensee</td><td><a href="../../accounts-api/licensee/"><code>licensee</code></a></td><td><p>A reference to the Licensee object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "LCE-9625-9634",
   "href": "/accounts/licensees/LCE-9625-9634",
   "name": "John Smith",
@@ -138,18 +138,18 @@ The Credit object refers to a credit memo created within the ERP system.
     "totalST": 2.70000,
     "totalGT": 32.70000
 }
-</code></pre></td></tr><tr><td>product</td><td><a href="../../catalog-api/product/"><code>product</code></a></td><td><p>A reference to the product object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>product</td><td><a href="../../catalog-api/product/"><code>product</code></a></td><td><p>A reference to the Product object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
 }
-</code></pre></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/"><code>seller</code></a></td><td><p>A reference to the seller object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/"><code>seller</code></a></td><td><p>A reference to the Seller object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "SEL-9121-8944",
   "href": "/accounts/sellers/SEL-9121-8944",
   "name": "Software LN",
   "icon": "/static/SEL-9121-8944/icon.png"
 }
-</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td><p>The status of the credit memo. </p><p>Example: Issued</p></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td>A  reference to vendor account object.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A  reference to the audit object.</td></tr></tbody></table>
+</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td><p>The status of the credit memo. </p><p>Example: Issued</p></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td>A  reference to Vendor Account object.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A  reference to the Audit object.</td></tr></tbody></table>
 
 ## CreditMemoErpData <a href="#creditmemoerpdata" id="creditmemoerpdata"></a>
 

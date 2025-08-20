@@ -16,7 +16,7 @@ The Contact object represents a contact to which notifications are sent. Contact
     "shortDescription": "Orders"
   }
 ]
-</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td>Possible values: <code>Active</code> or <code>Blocked</code>.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>A reference to the Audit object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">"created": { 
+</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td>The possible values are <code>Active</code> or <code>Blocked</code>.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>A reference to the Audit object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">"created": { 
   "at": "2023-12-14T17:28:57Z", 
   "by": {
     "id": "UR-1234-1234-1234",

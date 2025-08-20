@@ -16,7 +16,7 @@ Once the client fulfills all the necessary conditions, they are considered enrol
     "icon": "/static/PRG-1234-1234/logo.png",
     "applicableTo": "Buyer"
 }
-</code></pre></td></tr><tr><td>applicableTo</td><td><code>string</code></td><td><p>Defines the scope of the enrollment. </p><p>Possible values: <code>Buyer</code> or <code>Licensee</code>.</p></td></tr><tr><td>type</td><td><code>string</code></td><td>Defines if enrollment is new (first time requesting a certificate) or a change (re-enrollment). Possible values: <code>Change</code> or <code>New</code>.</td></tr><tr><td>buyer</td><td><a href="../../accounts-api/buyer/"><code>buyer</code></a></td><td><p>A reference to the Buyer object if the enrollment applies to the buyer. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>applicableTo</td><td><code>string</code></td><td>Defines the scope of the enrollment. The possible values are <code>Buyer</code> or <code>Licensee</code>.</td></tr><tr><td>type</td><td><code>string</code></td><td>Defines if enrollment is new (first time requesting a certificate) or a change (re-enrollment). The possible values are <code>Change</code> or <code>New</code>.</td></tr><tr><td>buyer</td><td><a href="../../accounts-api/buyer/"><code>buyer</code></a></td><td><p>A reference to the Buyer object if the enrollment applies to the buyer. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "PRG-1234-1234",
     "href": "v1/catalog/programs/PRG-1234-5678",
     "name": "Microsoft AI Cloud Partner",
@@ -33,11 +33,11 @@ Once the client fulfills all the necessary conditions, they are considered enrol
   "client": true,
   "partner": false
 }
-</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td><p>The status of the enrollment. </p><p>Possible values: <code>Processing</code>, <code>Failed</code>, <code>Completed</code>, or <code>Querying</code>.</p></td></tr><tr><td>statusNotes</td><td><a href="../../common-api-objects/message.md"><code>message</code></a></td><td><p>Notes added during status change by vendor or vendor extensions to indicate the reason for enrollment failure or status change. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td>The status of the enrollment. The possible values are <code>Processing</code>, <code>Failed</code>, <code>Completed</code>, or <code>Querying</code>.</td></tr><tr><td>statusNotes</td><td><a href="../../common-api-objects/message.md"><code>message</code></a></td><td><p>Notes added during status change by vendor or vendor extensions to indicate the reason for enrollment failure or status change. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "E001234",
     "message": "Educational certification failed"
 }
-</code></pre></td></tr><tr><td>notes</td><td><code>string</code></td><td><p>Contains initial customer notes added by the Buyer during the enrollment process. Buyers can edit and add notes at any time for all order statuses. </p><p>Example: Enroll for a program needed to purchase product XYZ</p></td></tr><tr><td>error</td><td><a href="../../common-api-objects/message.md"><code>message</code></a></td><td><p>The standard error object. It indicates that an error appeared during parameter validation, which can include markup. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>notes</td><td><code>string</code></td><td><p>Contains initial customer notes added by the Buyer during the enrollment process. Buyers can edit and add notes at any time for all order statuses. </p><p>Example: Enroll in a program to purchase the XYZ product.</p></td></tr><tr><td>error</td><td><a href="../../common-api-objects/message.md"><code>message</code></a></td><td><p>The standard error object. It indicates that an error appeared during parameter validation, which can include markup. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "E001234",
     "message": "Enrollment has invalid parameters"
 }
@@ -86,7 +86,7 @@ Once the client fulfills all the necessary conditions, they are considered enrol
   "id": "PTP-1234-4444", 
   "href": "/programs/PRG-1234-1234/templates/TPP-1234-4444",
   "name": "Succesful Activation" }
-</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the audit information object. </td></tr></tbody></table>
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the Audit object. </td></tr></tbody></table>
 
 ## Eligibility <a href="#eligibility" id="eligibility"></a>
 
@@ -94,13 +94,13 @@ Once the client fulfills all the necessary conditions, they are considered enrol
 
 ## Enrollment Parameter
 
-<table><thead><tr><th width="199">Field</th><th width="205">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the parameter. </p><p>Example: PAR-5542-1187-3130</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The display name of the parameter. </p><p>Example: Tenant ID</p></td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>The ID of the parameter in the external system. </p><p>Example: tenant_id</p></td></tr><tr><td>value</td><td><code>string</code></td><td><p>The parameter value (can be updated).</p><p>Example: 69b73824-ce76-4866-ad47-b615ae9d8998 OR</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="199">Field</th><th width="205">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the parameter. </p><p>Example: PAR-5542-1187-3130</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The display name of the parameter. </p><p>Example: Tenant ID</p></td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>The ID of the parameter in the external system. </p><p>Example: tenant_id</p></td></tr><tr><td>value</td><td><code>string</code></td><td><p>The parameter value, which can be updated.</p><p>Example: 69b73824-ce76-4866-ad47-b615ae9d8998 OR</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
      "addressLine1": "23 Oakley wood",
      "city": "Cork",
      "state": "Cork",
      "postalCode": "V23U58N"
 }
-</code></pre></td></tr><tr><td>displayValue</td><td><code>string</code></td><td><p>The parameter value (read only). </p><p>Example: 69b73824-ce76-4866-ad47-b615ae9d8998 OR 23 Oakley Wood, London.</p></td></tr><tr><td>constraints</td><td><code>parameterConstraints</code></td><td><p>Parameter constraints. When specified, it represents overridden parameter constraints.<br>When unspecified, the parameter constraints must be taken from the parameter definition. Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>displayValue</td><td><code>string</code></td><td><p>The parameter value (read only). </p><p>Example: 69b73824-ce76-4866-ad47-b615ae9d8998 OR 23 Oakley Wood, London.</p></td></tr><tr><td>constraints</td><td><code>parameterConstraints</code></td><td><p>Parameter constraints. </p><ul><li>When specified, it represents overridden parameter constraints.</li><li>When unspecified, the parameter constraints must be taken from the parameter definition. </li></ul><p>Example: </p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "readonly": false,
     "hidden": true,
     "required": true
@@ -119,7 +119,7 @@ The Enrollment Attachment object provides the ability to upload an enrollment at
     "id": "ORD-5542-1187-3130-0991",
     "href": "/commerce/orders/ORD-5542-1187-3130-0991"
 }
-</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the audit object. </td></tr></tbody></table>
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the Audit object. </td></tr></tbody></table>
 
 ## Examples
 

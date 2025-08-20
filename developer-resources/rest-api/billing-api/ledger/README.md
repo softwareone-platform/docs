@@ -2,11 +2,11 @@
 
 The Ledger object is created by the rating function within a specific Seller's context, based on the relevant entries of a Journal. Only SoftwareOne Operations can access the Ledgers.
 
-<table><thead><tr><th width="153">Field</th><th width="186">Type</th><th width="374">Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the ledger. Note that no nesting exists for this identifier.</p><p>Example: BLE-1234-1239</p></td></tr><tr><td>journal</td><td><a href="../journal/"><code>journal</code></a></td><td><p>A reference to the Journal object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="153">Field</th><th width="186">Type</th><th width="374">Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the ledger. No nesting exists for this identifier.</p><p>Example: BLE-1234-1239</p></td></tr><tr><td>journal</td><td><a href="../journal/"><code>journal</code></a></td><td><p>A reference to the Journal object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
  "id": "BJO-1234-5678",
  "name": "29 Nov 2024 #1"
 }
-</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td><p>The status of the ledger. </p><p>Possible values: </p><p><code>Draft</code>, <code>Rating</code>, <code>Error</code>, <code>Ready</code>, <code>Generating</code>, <code>Generated</code> , <code>Queued</code>, or <code>Completed</code></p></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/"><code>seller</code></a></td><td><p>A reference to the Seller object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>status</td><td><code>enum</code></td><td><p>The status of the ledger. </p><p>The possible values are </p><p><code>Draft</code>, <code>Rating</code>, <code>Error</code>, <code>Ready</code>, <code>Generating</code>, <code>Generated</code> , <code>Queued</code>, or <code>Completed</code>.</p></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/"><code>seller</code></a></td><td><p>A reference to the Seller object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "SEL-9121-8944",
   "name": "Software LN",
   "icon": "/static/SEL-9121-8944/icon.png"
@@ -21,7 +21,7 @@ The Ledger object is created by the rating function within a specific Seller's c
   "name": "John Smith",
   "icon": "/static/users/USR-1234-1234-1234.svg"
 }
-</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>Audit object with these possible entries: <code>Created</code> or <code>Updated</code>.</td></tr><tr><td>price</td><td><a href="../journal/#pricesummary"><code>priceSummary</code></a></td><td><p>The ledger price summary including aggregated price values for all ledger charges.</p><p>Note that not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>Audit object with these possible values, including <code>Created</code> or <code>Updated</code>.</td></tr><tr><td>price</td><td><a href="../journal/#pricesummary"><code>priceSummary</code></a></td><td><p>The ledger price summary including aggregated price values for all ledger charges.</p><p>Note that not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "totalPP": 229.8,
   "markup": 0.5013,
   "margin": 0.3339,  

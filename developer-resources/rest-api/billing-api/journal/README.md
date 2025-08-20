@@ -2,7 +2,7 @@
 
 The Journal object is linked to an authorization and is created by vendors from the raw data available from their services.
 
-<table><thead><tr><th width="134">Field</th><th width="204">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the journal. Note that no nesting exists for this identifier.</p><p>Example: BJO-1234-5678</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the journal.</p><p>Example: 29 Nov 2024 #1</p></td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>The external identifier or reference number. This is an optional value to assist vendors in matching the journal with external ERP systems.</p><p>Example: bill-12345609</p></td></tr><tr><td>notes</td><td><code>string</code></td><td><p>The journal notes added by the vendor during the creation of the journal.</p><p>Example: This is new billing data for November.</p></td></tr><tr><td>status</td><td><code>enum</code></td><td>Journal's status. Possible values: <code>Draft</code>, <code>Deleted</code>, <code>Validating</code>, <code>Validated</code>, <code>Error</code>, <code>Ready</code>, <code>Review</code>, <code>Enquiring</code>, <code>Generating</code>, <code>Generated</code>, <code>Accepted</code>, or <code>Completed</code>.</td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the vendor account object completed during the creation of a journal.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="134">Field</th><th width="204">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the journal. No nesting exists for this identifier.</p><p>Example: BJO-1234-5678</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the journal.</p><p>Example: 29 Nov 2024 #1</p></td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>The external identifier or reference number. This is an optional value to assist vendors in matching the journal with external ERP systems.</p><p>Example: bill-12345609</p></td></tr><tr><td>notes</td><td><code>string</code></td><td><p>Journal notes added by the vendor when creating the journal.</p><p>Example: This is new billing data for November.</p></td></tr><tr><td>status</td><td><code>enum</code></td><td>Journal's status. The possible values are <code>Draft</code>, <code>Deleted</code>, <code>Validating</code>, <code>Validated</code>, <code>Error</code>, <code>Ready</code>, <code>Review</code>, <code>Enquiring</code>, <code>Generating</code>, <code>Generated</code>, <code>Accepted</code>, or <code>Completed</code>.</td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the Vendor Account object completed during the creation of a journal.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "ACC-1234-1234",
     "href": "/accounts/accounts/ACC-1234-1234",
     "name": "Microsoft",
@@ -22,23 +22,19 @@ The Journal object is linked to an authorization and is created by vendors from 
   "name": "John Smith",
   "icon": "/static/users/USR-1234-1234-1234.icon.svg"
 }  
-</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>A reference to the Audit object. </p><p>Possible values: <code>Created</code> or <code>Updated</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
-  "created": { "at": "...", "by": { } },
-  "updated": { "at": "...", "by": { } }
-}
-</code></pre></td></tr><tr><td>price</td><td><a href="./#pricesummary"><code>priceSummary</code></a></td><td><p>The price summary including the aggregated price values for all journal charges.</p><p>Note that not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the Audit object. Possible values are <code>Created</code> or <code>Updated</code>.</td></tr><tr><td>price</td><td><a href="./#pricesummary"><code>priceSummary</code></a></td><td><p>The price summary including the aggregated price values for all journal charges. Not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "totalPP": 229.8,
   "markup": 0.5013,
   "margin": 0.3339,  
   "totalSP": 356.7
 }
-</code></pre></td></tr><tr><td>upload</td><td><a href="./#journaluploadsummary"><code>journalUploadSummary</code></a></td><td><p>The journal upload summary, including the total charges and counts of split, ready, and error charges.</p><p>Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>upload</td><td><a href="./#journaluploadsummary"><code>journalUploadSummary</code></a></td><td><p>The journal upload summary, including the total charges and counts of split, ready, and error charges. Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "total": 150,
   "split": 4,  
   "ready": 144,
   "error": 6
 }
-</code></pre></td></tr><tr><td>processing</td><td><a href="./#processingsummary"><code>processingSummary</code></a></td><td><p>The journal processing summary including the total charges and counts of ready, error, split, cancelled, and completed charges. </p><p>Only visible to SoftwareOne Operations.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>processing</td><td><a href="./#processingsummary"><code>processingSummary</code></a></td><td><p>The journal processing summary including the total charges and counts of ready, error, split, cancelled, and completed charges. Only visible to SoftwareOne Operations.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "total": 150,
   "ready": 140,
   "error": 6,

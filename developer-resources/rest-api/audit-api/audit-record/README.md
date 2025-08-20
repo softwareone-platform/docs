@@ -18,7 +18,7 @@ The Audit Record object provides a detailed record of a specific event that occu
   "icon": null,
   "objectType" : "Order"
 }
-</code></pre></td></tr><tr><td>timestamp</td><td><code>dateTime</code></td><td><p>The timestamp of the event.</p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td><code>auditRecordType Enum</code></td><td><p>The visibility of the audit record. </p><p>Possible values: <code>Public</code> or <code>Private</code>.</p></td></tr><tr><td>request</td><td><a href="../../commerce-api/requests/"><code>request</code></a></td><td><p>The request for technical data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>timestamp</td><td><code>dateTime</code></td><td><p>The timestamp of the event.</p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td><code>auditRecordType Enum</code></td><td>The visibility of the audit record. The possible values are  <code>Public</code> or <code>Private</code>.</td></tr><tr><td>request</td><td><a href="../../commerce-api/requests/"><code>request</code></a></td><td><p>The request for technical data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "api": {
     "ip": "192.168.2.2",
     "geolocation": {
@@ -43,7 +43,7 @@ The Audit Record object provides a detailed record of a specific event that occu
     "extra_prop_01": "Some value that does not exist in order" 
   }
 }
-</code></pre></td></tr><tr><td>viewers</td><td><code>viewer</code></td><td><p>A list of accounts that have access to the audit records.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
+</code></pre></td></tr><tr><td>viewers</td><td><code>viewer</code></td><td><p>The list of accounts that have access to the audit records.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
   {
       "id": "ACC-3408-7241",
       "name": "MPT_QA_STATIC Commerce e2e client",
@@ -68,7 +68,7 @@ The Audit Record object provides a detailed record of a specific event that occu
 {
     "event": "platform.commerce.order.created",
     "summary": "Order Created",
-    "details": "The order ORD-1208-2301-8479 has been successfully created by Balint Polgar and is now in the platform.",
+    "details": "The order ORD-1208-2301-8479 has been successfully created by Jane Doe and is now in the platform.",
     "object": {
         "id": "ORD-1208-2301-8479",
         "name": "ORD-1208-2301-8479",
@@ -77,11 +77,11 @@ The Audit Record object provides a detailed record of a specific event that occu
     "timestamp": "2024-10-21T10:03:00.800Z",
     "actor": {
         "id": "USR-0556-8733",
-        "name": "Balint Polgar",
+        "name": "JANE DOE",
         "icon": "/v1/accounts/users/USR-0556-8733/icon",
         "account": {
             "id": "ACC-3408-7241",
-            "name": "MPT_QA_STATIC Commerce e2e client",
+            "name": "MPT_QA Commerce e2e client",
             "icon": "/v1/accounts/accounts/ACC-3408-7241/icon",
             "accountType": "Client"
         }
@@ -89,7 +89,7 @@ The Audit Record object provides a detailed record of a specific event that occu
     "type": "Public",
     "request": {
         "api": {
-            "ip": "92.26.0.92",
+            "ip": "00.00.00.00",
             "geolocation": {
                 "countryCode": "GB",
                 "countryName": "United Kingdom",
@@ -106,11 +106,11 @@ The Audit Record object provides a detailed record of a specific event that occu
         },
         "actor": {
             "id": "USR-0556-8733",
-            "name": "Balint Polgar",
+            "name": "Jane Doe",
             "icon": "/v1/accounts/users/USR-0556-8733/icon",
             "account": {
                 "id": "ACC-3408-7241",
-                "name": "MPT_QA_STATIC Commerce e2e client",
+                "name": "MPT_QA Commerce e2e client",
                 "icon": "/v1/accounts/accounts/ACC-3408-7241/icon",
                 "accountType": "Client"
             }
@@ -119,7 +119,7 @@ The Audit Record object provides a detailed record of a specific event that occu
     "viewers": [
         {
             "id": "ACC-3408-7241",
-            "name": "MPT_QA_STATIC Commerce e2e client",
+            "name": "MPT_QA Commerce e2e client",
             "type": "Client",
             "icon": "/v1/accounts/accounts/ACC-3408-7241/icon"
         },

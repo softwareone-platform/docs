@@ -9,7 +9,7 @@ The Terms and Conditions object represents terms as a collection of uploaded PDF
 
 {% tabs %}
 {% tab title="TERMS OBJECT" %}
-{% code lineNumbers="true" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "TCS-3159-1891-0980-8679",
