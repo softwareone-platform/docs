@@ -4,14 +4,14 @@ The Marketplace is your entry point for accessing all the functionalities includ
 
 Within this module, you'll find a Products page, giving you access to our catalog of software products, along with easy access to your agreements, orders, requests, and subscriptions. You'll also find your certificates and enrollments conveniently located in one place.
 
-To learn more, see any of the following links:
+To get started, see any of the following links:
 
 {% content-ref url="agreements/" %}
 [agreements](agreements/)
 {% endcontent-ref %}
 
-{% content-ref url="billing/" %}
-[billing](billing/)
+{% content-ref url="../billing/" %}
+[billing](../billing/)
 {% endcontent-ref %}
 
 {% content-ref url="certificates/" %}

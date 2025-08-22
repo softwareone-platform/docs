@@ -1,6 +1,6 @@
 # How to Split Billing Across Buyers
 
-Split billing is a feature that allows you to divide the cost of a subscription across different buyers in your account. If your organization has multiple legal entities, split billing can be used to distribute costs effectively. To learn more, see [Split Billing](../../../modules-and-features/marketplace/billing/#split-billing).
+Split billing is a feature that allows you to divide the cost of a subscription across different buyers in your account. If your organization has multiple legal entities, split billing can be used to distribute costs effectively. To learn more, see [Split Billing](../../../modules-and-features/billing/#split-billing).
 
 In the Marketplace Platform, the split billing process begins by activating the feature from the user interface (UI), selecting buyers for allocation, and then specifying each buyer's allocation percentage or license count. This tutorial describes how to complete all of these steps.
 
@@ -51,7 +51,7 @@ _Stark Industries II_ and _Stark Industries III_ are added as buyers and display
 {% step %}
 **Allocating split billing**
 
-Billing can be allocated by specifying percentages for each buyer. You can also specify the estimated license count. Both of these options are linked, meaning changing one updates the other automatically, although only the allocation % is used during billing (see [Split billing rules](../../../modules-and-features/marketplace/billing/#split-billing-rules) to learn more).
+Billing can be allocated by specifying percentages for each buyer. You can also specify the estimated license count. Both of these options are linked, meaning changing one updates the other automatically, although only the allocation % is used during billing (see [Split billing rules](../../../modules-and-features/billing/#split-billing-rules) to learn more).
 
 To start configuring the split for each buyer:
 
@@ -78,4 +78,4 @@ Use the Buyer menu at the top to view the allocation for the other buyers (_Star
 
 ## Next steps
 
-If you have additional subscriptions and want to split the billing, you can repeat the same steps for those subscriptions. You can also edit the split at any time. For instructions, see [Edit Split Billing](../../../modules-and-features/marketplace/billing/split-billing/edit-split-billing.md).
+If you have additional subscriptions and want to split the billing, you can repeat the same steps for those subscriptions. You can also edit the split at any time. For instructions, see [Edit Split Billing](../../../modules-and-features/billing/split-billing/edit-split-billing.md).

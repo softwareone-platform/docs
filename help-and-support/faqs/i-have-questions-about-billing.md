@@ -8,13 +8,13 @@ You can include a purchase order number by entering it in the **Additional ID** 
 
 ### Can I view or download my statements?
 
-Yes, you can view or download your billing statements from the **Attachments** tab on the agreement details page. For more information, see [View and Download Statements](../../modules-and-features/marketplace/billing/statements/download-statements.md).
+Yes, you can view or download your billing statements from the **Attachments** tab on the invoice details page. For more information, see [Download Statements](../../modules-and-features/billing/statements/download-statements.md).
 
 ### Why do all the subscription invoice lines show the quantity as 1?
 
 Vendors generate hundreds or thousands of charges during a billing period, and not all charges can be listed individually on the invoice PDF.&#x20;
 
-To avoid clutter, we consolidate all charges at the item level and display the quantity as '1' on the invoice. You can view the quantity data and the full set of charges in your [billing statement](../../modules-and-features/marketplace/billing/#whats-a-statement). These charges are also displayed on the **Charges** tab within the [statement details page](../../modules-and-features/marketplace/billing/statements.md#subscription-details).
+To avoid clutter, we consolidate all charges at the item level and display the quantity as '1' on the invoice. You can view the quantity data and the full set of charges in your billing statement. These charges are also displayed on the **Charges** tab within the statement details page.
 
 ### Why is the price on the invoice different from the price listed on the Orders page?
 

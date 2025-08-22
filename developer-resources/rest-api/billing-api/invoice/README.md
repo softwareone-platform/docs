@@ -48,7 +48,7 @@ The Invoice object represents an invoice generated in the ERP system. This objec
   "balanceDue": 123.23,
   "invoiceTotal": 123.23
 }
-</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>The Audit object with these possible entries: <code>Created</code> or <code>Updated</code>.</td></tr><tr><td>price</td><td><code>statementPriceSummary</code></td><td><p>The invoice price summary with aggregated price values for all invoice charges.</p><p>The <code>StatementPriceSummary</code> object inherits from PriceSummary and adds tax-related properties: <code>TotalST</code> and <code>TotalGT</code></p><p>Note that not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>The Audit object with these possible entries: <code>Created</code> or <code>Updated</code>.</td></tr><tr><td>price</td><td><code>statementPriceSummary</code></td><td><p>The invoice price summary with aggregated price values for all invoice charges.</p><p>The <code>StatementPriceSummary</code> object inherits from <a href="../journal/#pricesummary">PriceSummary</a> and adds tax-related properties: <code>TotalST</code> and <code>TotalGT</code></p><p>Note that not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "totalPP": 229.8,
   "markup": 0.5013,
   "margin": 0.3339,  

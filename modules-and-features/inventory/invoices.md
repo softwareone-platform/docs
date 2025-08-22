@@ -1,8 +1,14 @@
+---
+hidden: true
+---
+
 # Invoices
 
-The Invoices module allows you to search for and view your invoices. You can also export your invoices to the available formats, including PDF and Excel, and create a report of your invoices.&#x20;
+{% hint style="info" %}
+All Marketplace invoices are now available under **Billing** > **Invoices**. See [Invoices](../billing/invoices/) to learn more.
+{% endhint %}
 
-To access your invoices, navigate to the main menu and select **Inventory** > **Invoices**.&#x20;
+The Invoices module allows you to search for and view your invoices. You can also export your invoices to the available formats, including PDF and Excel, and create a report of your invoices.&#x20;
 
 ## Finding and viewing invoices
 
@@ -39,7 +45,7 @@ To export an invoice:
 Follow these steps to export all of your invoices:
 
 1. On the **Invoices** page, hover over the **Exports** option and select **Invoices**. The **Create New Report - Invoices** page opens.
-2. Choose the format for your report, and schedule frequency, and specify the start and the expiration date of your invoice.&#x20;
+2. Choose the format for your report, the schedule frequency, and specify the start and the expiration date of your invoice.&#x20;
 3. Select a template and provide a name for your report. If you don't want to use any template, choose **None** from the list.&#x20;
 4. Choose the delivery method and then select **Run** or **Create**, depending on whether you are creating a run once or a scheduled report.
 
