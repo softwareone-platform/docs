@@ -10,10 +10,6 @@ To get started, see any of the following links:
 [agreements](agreements/)
 {% endcontent-ref %}
 
-{% content-ref url="../billing/" %}
-[billing](../billing/)
-{% endcontent-ref %}
-
 {% content-ref url="certificates/" %}
 [certificates](certificates/)
 {% endcontent-ref %}

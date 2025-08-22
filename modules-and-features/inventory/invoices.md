@@ -5,7 +5,7 @@ hidden: true
 # Invoices
 
 {% hint style="info" %}
-All Marketplace invoices are now available under **Billing** > **Invoices**. See [Invoices](../billing/invoices/) to learn more.
+All Marketplace invoices are now available under **Billing** > **Invoices**. See [Invoices](../marketplace/billing/invoices/) to learn more.
 {% endhint %}
 
 The Invoices module allows you to search for and view your invoices. You can also export your invoices to the available formats, including PDF and Excel, and create a report of your invoices.&#x20;

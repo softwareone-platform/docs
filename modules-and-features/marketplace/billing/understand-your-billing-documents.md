@@ -20,7 +20,7 @@ Marketplace invoices are issued as PDFs in the context of specific agreements. T
 
 Marketplace invoices contain sections so you can understand them easily. To view a sample invoice, use the following link:
 
-{% file src="../../.gitbook/assets/sample_invoice.pdf" %}
+{% file src="../../../.gitbook/assets/sample_invoice.pdf" %}
 Download a sample Marketplace invoice
 {% endfile %}
 
@@ -28,17 +28,17 @@ Download a sample Marketplace invoice
 
 The invoice header contains general information, such as the date when the invoice was created, your customer number, and contact person details. The invoice number and address details are also included in the header.&#x20;
 
-<figure><img src="../../.gitbook/assets/invoice_header.png" alt=""><figcaption><p>Invoice header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/invoice_header.png" alt=""><figcaption><p>Invoice header</p></figcaption></figure>
 
 The following table describes the key data in the invoice header:
 
-<table><thead><tr><th width="270">Field</th><th>Description</th></tr></thead><tbody><tr><td>Purchase order number (PO No.)</td><td><p>The value is taken from the value in the <strong>Additional ID</strong> field, available on the <strong>Details</strong> tab of the <a href="../marketplace/agreements/#subscription-details">agreement details page</a>. </p><p></p><ul><li>If the value exceeds 20 characters, only the first 16 characters are shown on the invoice, followed by 3 dots (...).</li><li>If the <strong>Additional ID</strong> field is empty, the <strong>PO No</strong> on the invoice is displayed as  "<strong>—</strong>". To add a value, go to the <strong>Details</strong> tab on the agreement details page. Then, select <strong>Edit</strong>, and enter the value under <strong>Additional IDs</strong>. </li></ul></td></tr><tr><td>External document number</td><td>Represents the ID of the agreement for which the invoice has been generated. Agreement IDs are shown on the agreement details page.</td></tr><tr><td>Your reference</td><td>Displays the ID of the statement associated with the invoice.</td></tr></tbody></table>
+<table><thead><tr><th width="270">Field</th><th>Description</th></tr></thead><tbody><tr><td>Purchase order number (PO No.)</td><td><p>The value is taken from the value in the <strong>Additional ID</strong> field, available on the <strong>Details</strong> tab of the <a href="../agreements/#subscription-details">agreement details page</a>. </p><p></p><ul><li>If the value exceeds 20 characters, only the first 16 characters are shown on the invoice, followed by 3 dots (...).</li><li>If the <strong>Additional ID</strong> field is empty, the <strong>PO No</strong> on the invoice is displayed as  "<strong>—</strong>". To add a value, go to the <strong>Details</strong> tab on the agreement details page. Then, select <strong>Edit</strong>, and enter the value under <strong>Additional IDs</strong>. </li></ul></td></tr><tr><td>External document number</td><td>Represents the ID of the agreement for which the invoice has been generated. Agreement IDs are shown on the agreement details page.</td></tr><tr><td>Your reference</td><td>Displays the ID of the statement associated with the invoice.</td></tr></tbody></table>
 
 ### Invoice details
 
 The invoice details section includes all subscriptions and items for which you are being invoiced. Note that this section may be more than one page, depending on the data.&#x20;
 
-<figure><img src="../../.gitbook/assets/invoice_details.png" alt=""><figcaption><p>Invoice details section</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/invoice_details.png" alt=""><figcaption><p>Invoice details section</p></figcaption></figure>
 
 The following table describes the key data in this section:
 
@@ -50,7 +50,7 @@ A billing statement is a detailed record of charges, and it's issued for each in
 
 Unlike an invoice PDF, which only provides a summary of charges, a statement contains a comprehensive breakdown of all charges. To view a sample statement, use the following link:
 
-{% file src="../../.gitbook/assets/sample_statement.xlsx" %}
+{% file src="../../../.gitbook/assets/sample_statement.xlsx" %}
 Download a sample Marketplace billing statement
 {% endfile %}
 
@@ -69,5 +69,5 @@ An invoice and a statement are both billing documents, but they serve different 
 {% hint style="info" %}
 **Have billing-related questions?**&#x20;
 
-See this FAQ to get answers to commonly asked questions:[ I have questions about billing](../../help-and-support/faqs/i-have-questions-about-billing.md).
+See this FAQ to get answers to commonly asked questions:[ I have questions about billing](../../../help-and-support/faqs/i-have-questions-about-billing.md).
 {% endhint %}

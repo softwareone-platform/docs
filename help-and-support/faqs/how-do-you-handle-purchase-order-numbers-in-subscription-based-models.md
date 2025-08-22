@@ -53,7 +53,7 @@ To provide a purchase order after your order has been placed, open the agreement
 
 <figure><img src="../../.gitbook/assets/agreement_details.png" alt=""><figcaption><p>Agreement details page</p></figcaption></figure>
 
-After you've provided the number, it will be displayed on the invoice. For information on the different fields available on your invoice, see [Understand Your Billing Documents](../../modules-and-features/billing/understand-your-billing-documents.md).
+After you've provided the number, it will be displayed on the invoice. For information on the different fields available on your invoice, see [Understand Your Billing Documents](../../modules-and-features/marketplace/billing/understand-your-billing-documents.md).
 
 ## How do I update a purchase order number?
 

@@ -80,7 +80,7 @@ Previously, in the Marketplace Platform, the billing for a subscription was allo
 
 Now, we have introduced the capability for you to allocate billing to different buyers in your account. This can be done by activating split billing for an agreement, choosing buyers, and then specifying the allocation percentage or license count for each buyer.&#x20;
 
-Billing can also be allocated when ordering additional licenses as part of your agreement. To learn more, see [Split Billing](../../modules-and-features/billing/) and [How to Split Billing Across Buyers](../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md).
+Billing can also be allocated when ordering additional licenses as part of your agreement. To learn more, see [Split Billing](../../modules-and-features/marketplace/billing/) and [How to Split Billing Across Buyers](../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md).
 
 ## Updated Design System
 

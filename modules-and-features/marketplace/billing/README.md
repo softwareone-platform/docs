@@ -12,12 +12,12 @@ Use the following links to access the other pages within this section:
 [invoices](invoices/)
 {% endcontent-ref %}
 
-{% content-ref url="orders.md" %}
-[orders.md](orders.md)
+{% content-ref url="../../inventory/orders.md" %}
+[orders.md](../../inventory/orders.md)
 {% endcontent-ref %}
 
-{% content-ref url="statements/" %}
-[statements](statements/)
+{% content-ref url="statements.md" %}
+[statements.md](statements.md)
 {% endcontent-ref %}
 
 {% content-ref url="split-billing/" %}

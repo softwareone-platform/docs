@@ -8,7 +8,7 @@ You can include a purchase order number by entering it in the **Additional ID** 
 
 ### Can I view or download my statements?
 
-Yes, you can view or download your billing statements from the **Attachments** tab on the invoice details page. For more information, see [Download Statements](../../modules-and-features/billing/statements/download-statements.md).
+Yes, you can view or download your billing statements from the **Attachments** tab on the invoice details page. For more information, see [Download Statements](../../modules-and-features/marketplace/billing/statements/download-statements.md).
 
 ### Why do all the subscription invoice lines show the quantity as 1?
 

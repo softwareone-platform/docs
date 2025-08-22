@@ -18,4 +18,4 @@ To update the **Additional Client ID** field:
 
 The updated ID is displayed as a **Client ID** within the **Additional IDs** section on the page. This same ID is also displayed on your invoice as the **PO number**.&#x20;
 
-Note that if the value you enter exceeds 20 characters, only the first 16 characters are shown on the invoice, followed by 3 dots (...). For more information, see [Understand Your Billing Documents.](../../billing/understand-your-billing-documents.md)
+Note that if the value you enter exceeds 20 characters, only the first 16 characters are shown on the invoice, followed by 3 dots (...). For more information, see [Understand Your Billing Documents.](../billing/understand-your-billing-documents.md)

@@ -12,7 +12,7 @@ The Marketplace Platform provides the following options for accessing your state
 To download your statement:
 
 1. Navigate to the **Statements** page.
-2. (Optional) Refine your list of statements. You can filter statements using criteria, such as status, type, ID, and more. For details, see [Filter Billing Statements](filter-billing-statements.md).
+2. (Optional) Refine your list of statements. You can filter statements using criteria, such as status, type, ID, and more. For details, see [Filter Billing Statements](../../../billing/statements/filter-billing-statements.md).
 3. Locate the statement you want to download. Then, select the statement ID.&#x20;
 4. On the statement details page, select the **Attachments** tab, and do one of the following:
    * Select the link in the **Reference** column.
