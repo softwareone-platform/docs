@@ -867,6 +867,7 @@
   * [My 365 Analytics report is empty](help-and-support/faqs/my-365-analytics-report-is-empty.md)
   * [What data do you collect for 365 Analytics?](help-and-support/faqs/what-data-do-you-collect-for-365-analytics.md)
 * [Contact Support](help-and-support/contact-support.md)
+* [Sign Up](help-and-support/sign-up.md)
 * [Release Notes](help-and-support/release-notes/README.md)
   * [Release Notes v4](help-and-support/release-notes/release-notes-v4.md)
   * [Release Notes v3](help-and-support/release-notes/release-notes-v3.md)
