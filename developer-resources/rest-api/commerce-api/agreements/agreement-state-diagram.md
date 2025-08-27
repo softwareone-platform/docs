@@ -2,7 +2,7 @@
 
 The following diagram shows the state (status) transition process of an agreement on the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_agreements.png" alt=""><figcaption><p>Agreement state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_agreements.png" alt=""><figcaption></figcaption></figure>
 
 ### State description
 
