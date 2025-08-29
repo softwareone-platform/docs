@@ -1,10 +1,8 @@
 # State Diagram
 
-The following diagram shows the state (status) transition process of a journal on the platform.
+The following diagram shows the state (or status) transition process of a billing journal.&#x20;
 
-
-
-<figure><img src="../../../../.gitbook/assets/state_diagram_journal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_journal.png" alt=""><figcaption><p>Journal state transition</p></figcaption></figure>
 
 ### State description
 

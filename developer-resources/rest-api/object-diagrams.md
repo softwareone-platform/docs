@@ -4,7 +4,7 @@ The Marketplace Platform enables transactions among [different actors](../../mar
 
 The platform includes objects such as orders, subscriptions, and agreements, which represent a relationship between these actors and SoftwareOne. Each object contains workflows that are essential for different scenarios within the platform. These workflows are presented as state diagrams so you can understand and visualize them.&#x20;
 
-The following tabs contain objects that may go through multiple statuses from the time they are created to entering a final state. Select each object to view the state diagram and a description of each state. Note that objects that may not have a status, like audit records, spotlight, and more, are not included on this page. &#x20;
+The following tabs contain objects that may go through multiple statuses from the time they are created to entering a final state. Select each object to view the state diagram and a description of each state. Note that objects that don't have a status, like audit records, spotlight, and more, are not included on this page. &#x20;
 
 {% tabs %}
 {% tab title="Accounts" %}
@@ -18,7 +18,11 @@ The following tabs contain objects that may go through multiple statuses from th
 {% endtab %}
 
 {% tab title="Billing" %}
+* [Credit Memo](billing-api/credit-memo/state-diagram.md)
+* [Custom Ledger](billing-api/custom-ledger-object/state-diagram.md)
+* [Invoice](billing-api/invoice/state-diagram.md)
 * [Journal](billing-api/journal/state-diagram.md)
+* [Statement](billing-api/statement/state-diagram.md)
 {% endtab %}
 
 {% tab title="Catalog" %}
