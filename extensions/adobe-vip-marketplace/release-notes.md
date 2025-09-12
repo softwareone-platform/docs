@@ -6,6 +6,27 @@ description: >-
 
 # Release Notes
 
+## Release Date: 10 Sep 2025
+
+### Self-Service Reseller Transfers
+
+With this release, reseller transfers can now be completed directly in the Purchase Wizard, eliminating the need for a support ticket. Customers simply provide their Admin Email and Change of Reseller Code from the Adobe Admin Console whilst creating a new Agreement in the Purchase Wizard. This makes the process faster, easier, and fully self-service.
+
+### Agreement Sync Improvements
+
+The Agreement Sync process is more behind-the-scenes, but no less important to the day-to-day quality of life for users. The Agreement sync keeps our Marketplace up to date with changes that may occur at Adobe, but that we may not be aware of in the SoftwareOne Marketplace.
+
+With this release, we improve this sync to include the following:
+
+1. Automatically update Agreements when a 3-year commitment starts or ends.
+2. Automatically update pricing in Subscriptions when a customer starts or finishes a 3-year commitment or renews their Agreement (goes past their anniversary date).
+3. Automatically updates the quantities of Subscriptions after changes are made outside of the SoftwareOne Marketplace.
+4. Automatically terminate Subscriptions that are expired or inactive at Adobe.
+5. Automatically Terminate Agreements for customers that have performed a reseller transfer away from SoftwareOne.
+6. \+ more
+
+Lastly, in the Parameters tab of Agreements and Subscriptions, the "Last Sync Date" parameter indicates when the Agreement or Subscription was last synced with Adobe.
+
 ## Release Date: 10 July 2025
 
 ### Ordering end-of-sale items no longer fails
