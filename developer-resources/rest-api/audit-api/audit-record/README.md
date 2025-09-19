@@ -2,7 +2,7 @@
 
 The Audit object provides a detailed record of a specific event that occurred within the platform. This object contains the following properties:
 
-<table><thead><tr><th width="166">Field</th><th width="217">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the audit record. Note that no nesting exists for this identifier.</p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td><code>string</code></td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action}</p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td><code>string</code></td><td><p>A summary of the audit record.</p><p>Example: Order created</p></td></tr><tr><td>details</td><td><code>string</code></td><td><p>The audit details template. Any document property may be used as a placeholder.</p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td><a href="./#auditrecordactor"><code>auditRecordActor</code></a></td><td><p>Information about the actor who has triggered an event.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="166">Field</th><th width="199">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the audit record. Note that no nesting exists for this identifier.</p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td><code>string</code></td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action}</p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td><code>string</code></td><td><p>A summary of the audit record.</p><p>Example: Order created</p></td></tr><tr><td>details</td><td><code>string</code></td><td><p>The audit details template. Any document property may be used as a placeholder.</p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td><a href="./#auditrecordactor"><code>auditRecordActor</code></a></td><td><p>Information about the actor who has triggered an event.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "USR-2311-4038",
   "name": "Will Smith",
   "icon": "/public/users/usr-2311-4038.jpg",
@@ -103,7 +103,7 @@ The Request object captures request data that is useful to store as part of the 
 </code></pre></td></tr><tr><td>worker</td><td><a href="./#workerrequest"><code>workerRequest</code></a></td><td><p>The worker request details. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "workerName": "platformWorker"
 }
-</code></pre></td></tr><tr><td>log</td><td><a href="./#log-info"><code>logInfo</code></a></td><td><p>The logging information. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>log</td><td><a href="./#log-info"><code>logInfo</code></a></td><td><p>The logging information or metadata. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "correlationId": "1233213215468"
 }
 </code></pre></td></tr></tbody></table>
@@ -112,7 +112,7 @@ The Request object captures request data that is useful to store as part of the 
 
 This object captures metadata related to web-based requests, which is useful to include in the audit entry. It is populated only when the request is a web request.
 
-<table><thead><tr><th width="152">Field</th><th width="143">Type</th><th>Description</th></tr></thead><tbody><tr><td>ip</td><td><code>string</code></td><td><p>Request api IP.</p><p>Example: 192.168.2.2</p></td></tr><tr><td>userAgent</td><td><code>string</code></td><td><p>The user agent in the API request.</p><p>Example: Chrome</p></td></tr><tr><td>geolocation</td><td><code>object</code></td><td><p>The geolocation information in the API request.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="152">Field</th><th width="143">Type</th><th>Description</th></tr></thead><tbody><tr><td>ip</td><td><code>string</code></td><td><p>Unique identifier representing the IP address.</p><p>Example: 192.168.2.2</p></td></tr><tr><td>userAgent</td><td><code>string</code></td><td><p>Identifies the user agent making the API request.</p><p>Example: Chrome</p></td></tr><tr><td>geolocation</td><td><code>object</code></td><td><p>Geolocation metadata associated with the request.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "countryCode": "NL",
   "countryName": "Netherlands",
   "region": "North Holland"
