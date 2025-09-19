@@ -1,8 +1,8 @@
 # Audit Record
 
-The Audit Record object provides a detailed record of a specific event that occurred within the platform. This object contains the following properties:
+The Audit object provides a detailed record of a specific event that occurred within the platform. This object contains the following properties:
 
-<table><thead><tr><th width="166">Field</th><th width="217">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the audit record. Note that no nesting exists for this identifier.</p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td><code>string</code></td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action}</p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td><code>string</code></td><td><p>A summary of the audit record.</p><p>Example: Order created</p></td></tr><tr><td>details</td><td><code>string</code></td><td><p>The audit details template. Any document property may be used as a placeholder.</p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td><a href="./#audit-record-actor"><code>auditRecordActor</code></a></td><td><p>Information about the actor who has triggered an event.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="166">Field</th><th width="217">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the audit record. Note that no nesting exists for this identifier.</p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td><code>string</code></td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action}</p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td><code>string</code></td><td><p>A summary of the audit record.</p><p>Example: Order created</p></td></tr><tr><td>details</td><td><code>string</code></td><td><p>The audit details template. Any document property may be used as a placeholder.</p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td><a href="./#auditrecordactor"><code>auditRecordActor</code></a></td><td><p>Information about the actor who has triggered an event.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "USR-2311-4038",
   "name": "Will Smith",
   "icon": "/public/users/usr-2311-4038.jpg",
@@ -12,13 +12,13 @@ The Audit Record object provides a detailed record of a specific event that occu
     "icon": "/public/accounts/acc-8989-32321.jpg",
   }
 }
-</code></pre></td></tr><tr><td>object</td><td><a href="./#heading-title-text"><code>auditRecordObject</code></a></td><td><p>The API object for which an event has been triggered.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>object</td><td><a href="./#heading-title-text-1"><code>auditRecordObject</code></a></td><td><p>The API object for which an event has been triggered.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "ORD-3568-4038-2535",
   "type": "order",
   "icon": null,
   "objectType" : "Order"
 }
-</code></pre></td></tr><tr><td>timestamp</td><td><code>dateTime</code></td><td><p>The timestamp of the event.</p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td><code>enum</code></td><td>The visibility of the audit record. The possible values are  <code>Public</code> or <code>Private</code>.</td></tr><tr><td>request</td><td><a href="../../commerce-api/requests/"><code>request</code></a></td><td><p>The request for technical data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>timestamp</td><td><code>dateTime</code></td><td><p>The timestamp of the event.</p><p>Example: 2024-07-25T09:09:30.087Z</p></td></tr><tr><td>type</td><td><code>enum</code></td><td>The visibility of the audit record. The possible values are  <code>Public</code> or <code>Private</code>.</td></tr><tr><td>request</td><td><a href="./#audit-record-request"><code>auditRecordRequest</code></a></td><td><p>The request for technical data.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "api": {
     "ip": "192.168.2.2",
     "geolocation": {
@@ -59,7 +59,13 @@ The Audit Record object provides a detailed record of a specific event that occu
 ]
 </code></pre></td></tr></tbody></table>
 
-## AuditRecord <a href="#heading-title-text" id="heading-title-text"></a>
+## AuditEventType  <a href="#heading-title-text" id="heading-title-text"></a>
+
+Audit Event Type refers to an event that has occurred within the platform. These records are generated automatically and can be used to store supplementary information related to the specific event type.
+
+<table><thead><tr><th width="158">Field</th><th width="151">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the item. </p><p>Example: AET-7149-2212</p></td></tr><tr><td>key</td><td><code>string</code></td><td><p>The event's key. </p><p>Example: AET-7149-2212</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the event. </p><p>Example: Order created</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the event. </p><p>Example: "A standard event that occurs upon the creation of an order".</p></td></tr></tbody></table>
+
+## AuditRecordObject <a href="#heading-title-text" id="heading-title-text"></a>
 
 The Audit record object signifies a specific entity within the platform for which an Audit object is generated. It is important to note that each Audit object can only be created for one platform object at a time.
 
@@ -69,7 +75,7 @@ The Audit record object signifies a specific entity within the platform for whic
 
 The Identity object signifies a user present within the platform, which is associated with the creation of an Audit object.
 
-<table><thead><tr><th width="112">Field</th><th width="207">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the user. </p><p>Example: USR-0556-8733</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the user. </p><p>Example: John Doe</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The URL to the user's logo. </p><p>Example: /v1/accounts/users/USR-0556-8733/icon</p></td></tr><tr><td>account</td><td><a href="./#audit-record-actor-account"><code>auditRecordActorAccount</code></a></td><td><p>The user's account details.  </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="105">Field</th><th width="220">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the user. </p><p>Example: USR-0556-8733</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the user. </p><p>Example: John Doe</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The URL to the user's logo. </p><p>Example: /v1/accounts/users/USR-0556-8733/icon</p></td></tr><tr><td>account</td><td><a href="./#audit-record-actor-account"><code>auditRecordActorAccount</code></a></td><td><p>The user's account details.  </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "ACC-3408-7241",
     "name": "MPT_QA_STATIC Commerce e2e client",
     "icon": "/v1/accounts/accounts/ACC-3408-7241/icon",
@@ -77,15 +83,53 @@ The Identity object signifies a user present within the platform, which is assoc
   }
 </code></pre></td></tr></tbody></table>
 
-## AuditRecordActorAccount <a href="#audit-record-actor-account" id="audit-record-actor-account"></a>
+### AuditRecordActorAccount <a href="#audit-record-actor-account" id="audit-record-actor-account"></a>
 
 <table><thead><tr><th width="139">Field</th><th width="148">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the account.</p><p>Example: ACC-3408-7241</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the account. </p><p>Example: MPT Commerce e2e client</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The URL to the account's logo. </p><p>Example: /v1/accounts/accounts/ACC-3408-7241/icon</p></td></tr><tr><td>accountType</td><td><code>object</code></td><td><p>The type of account.</p><p>Example: Client</p></td></tr></tbody></table>
 
-## AuditRecordViewer <a href="#heading-title-text" id="heading-title-text"></a>
+## AuditRecordRequest <a href="#audit-record-request" id="audit-record-request"></a>
 
-The audit record viewer object signifies a platform account that grants access to specific audit records for its members.
+The Request object captures request data that is useful to store as part of the Audit entry.
 
-<table><thead><tr><th width="139">Field</th><th width="148">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the account.</p><p>Example: ACC-3408-7241</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the account. </p><p>Example: MPT Commerce e2e client</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The URL to the account's logo. </p><p>Example: /v1/accounts/accounts/ACC-3408-7241/icon</p></td></tr><tr><td>accountType</td><td><code>object</code></td><td><p>The type of account.</p><p>Example: Client</p></td></tr></tbody></table>
+<table><thead><tr><th width="120">Field</th><th width="160">Type</th><th>Description</th></tr></thead><tbody><tr><td>api</td><td><a href="./#api-request"><code>apiRequest</code></a></td><td><p>The details of the API request. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+    "ip": "108.141.111.208",
+    "geolocation": {
+        "countryCode": "NL",
+        "countryName": "Netherlands",
+        "region": "North Holland"
+    },
+    "userAgent": "swo-extensions/1.0"
+}
+</code></pre></td></tr><tr><td>worker</td><td><a href="./#workerrequest"><code>workerRequest</code></a></td><td><p>The worker request details. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+    "workerName": "platformWorker"
+}
+</code></pre></td></tr><tr><td>log</td><td><a href="./#log-info"><code>logInfo</code></a></td><td><p>The logging information. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+    "correlationId": "1233213215468"
+}
+</code></pre></td></tr></tbody></table>
+
+### APIRequest <a href="#api-request" id="api-request"></a>
+
+This object captures metadata related to web-based requests, which is useful to include in the audit entry. It is populated only when the request is a web request.
+
+<table><thead><tr><th width="152">Field</th><th width="143">Type</th><th>Description</th></tr></thead><tbody><tr><td>ip</td><td><code>string</code></td><td><p>Request api IP.</p><p>Example: 192.168.2.2</p></td></tr><tr><td>userAgent</td><td><code>string</code></td><td><p>The user agent in the API request.</p><p>Example: Chrome</p></td></tr><tr><td>geolocation</td><td><code>object</code></td><td><p>The geolocation information in the API request.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+  "countryCode": "NL",
+  "countryName": "Netherlands",
+  "region": "North Holland"
+}
+</code></pre></td></tr></tbody></table>
+
+### WorkerRequest
+
+This object captures metadata related to the request worker, which is useful to store as part of the Audit entry. It is populated only when the request is a worker request.
+
+<table><thead><tr><th width="149">Field</th><th width="141">Type</th><th>Description</th></tr></thead><tbody><tr><td>workerName</td><td>string</td><td><p>The name of the request worker. </p><p>Example: worker-1234</p></td></tr></tbody></table>
+
+### LogInfo <a href="#log-info" id="log-info"></a>
+
+This object captures request log metadata that is useful to include in the audit entry.
+
+<table><thead><tr><th width="154">Field</th><th width="136">Type</th><th>Description</th></tr></thead><tbody><tr><td>corellationId</td><td>string</td><td><p>The ID that can be used to track requests in the logging system.</p><p>Example: 654681135168546</p></td></tr></tbody></table>
 
 ## AuditRecordDocuments <a href="#heading-title-text" id="heading-title-text"></a>
 
@@ -115,10 +159,16 @@ The Documents object is a flexible JSON structure designed to hold essential inf
 ```
 {% endcode %}
 
+## AuditRecordViewer <a href="#heading-title-text" id="heading-title-text"></a>
+
+The audit record viewer object signifies a platform account that grants access to specific audit records for its members.
+
+<table><thead><tr><th width="139">Field</th><th width="148">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the account.</p><p>Example: ACC-3408-7241</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the account. </p><p>Example: MPT Commerce e2e client</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The URL to the account's logo. </p><p>Example: /v1/accounts/accounts/ACC-3408-7241/icon</p></td></tr><tr><td>accountType</td><td><code>object</code></td><td><p>The type of account.</p><p>Example: Client</p></td></tr></tbody></table>
+
 ## Examples
 
 {% tabs %}
-{% tab title="AUDIT RECORD" %}
+{% tab title="AUDIT RECORD OBJECT" %}
 {% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
@@ -188,6 +238,19 @@ The Documents object is a flexible JSON structure designed to hold essential inf
     ],
     "id": "AUD-0391-8050-9033-9920"
 }
+```
+{% endcode %}
+{% endtab %}
+
+{% tab title="AUDIT RECORD EVENT TYPE" %}
+{% code lineNumbers="true" %}
+```json
+{
+  "id": "AET-5699-2751",
+  "Key": "platform.commerce.order.created",
+  "Name": "Order created.",
+  "Description": "A standard event that occurs upon the creation of an order."
+},
 ```
 {% endcode %}
 {% endtab %}
