@@ -1,5 +1,15 @@
 # Release Notes
 
+## Release Date: 3 September 2025
+
+### Termination Orders for NCE Subscriptions
+
+Termination orders for NCE subscriptions will only be successful if they fall within the cancellation window. Otherwise, the order will fail.&#x20;
+
+If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [Manage Automatic Renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+
+***
+
 ## Release Date: 26 May 2025
 
 ### Cloud Solution Provider (CSP) Partner Program
