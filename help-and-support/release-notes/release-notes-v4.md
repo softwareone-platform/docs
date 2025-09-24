@@ -22,7 +22,7 @@ Features include monthly invoicing aligned with AWS billing cycles, flexible sup
 
 See [Amazon Web Services](../../extensions/amazon-web-services/) to learn more.
 
-## SoftwareOne Cloud FinOps Integration
+## SoftwareOne FinOps for Cloud Integration
 
 FinOps for Cloud is a new solution designed to help you optimize costs and manage your resources effectively.
 
