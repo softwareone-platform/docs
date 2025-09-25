@@ -1,5 +1,17 @@
 # Release Notes
 
+## Release Date: 25 September 2025
+
+### New Azure Subscription Name Field
+
+In this release, we have added a new field called **Azure subscription name**. You can use this field to specify a name for your Azure subscription when ordering it through the Marketplace.
+
+<figure><img src="../../.gitbook/assets/subscription-name.png" alt=""><figcaption><p>The new Azure subscription name field in the Purchase Wizard</p></figcaption></figure>
+
+Additionally, if you change the subscription name directly in the Azure Portal, it will now automatically sync with the Marketplace during the daily synchronization process. This synchronization ensures that both systems remain aligned.
+
+***
+
 ## Release Date: 3 September 2025
 
 ### Termination Orders for NCE Subscriptions
