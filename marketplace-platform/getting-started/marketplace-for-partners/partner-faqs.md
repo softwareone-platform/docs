@@ -1,160 +1,24 @@
 # Partner FAQs
 
-### Partner program
+### Certificates
 
 <details>
 
-<summary>How can I become a SoftwareOne partner?</summary>
+<summary>My certificate has expired. Can I renew it?</summary>
 
-For information about SoftwareOne Partner Programs, visit  [https://www.softwareone.com/en/partner-programs](https://www.softwareone.com/en/partner-programs) and fill out the contact form.
+If your certificate has expired, it's no longer valid and can't be used for transactions.
 
-After submitting the form, a SoftwareOne representative will contact you.
+You can renew an expired certificate by re-enrolling in the program.
 
 </details>
 
 <details>
 
-<summary>I am an existing partner, and my account has been migrated from Partner Portal to Marketplace Platform. What do I need to know to get started?</summary>
+<summary>Why is my certificate pending?</summary>
 
-If your account has been recently migrated, sign in to your Marketplace account and complete these steps:
+A certificate will remain in the pending state if there are issues with your enrollment. For example, if the MPN ID you provided during enrollment is invalid, and requires correction.
 
-1. &#x20;[Enroll in the SoftwareOne CSP partner program](how-to-enroll-in-the-softwareone-csp-partner-program.md). Once you complete your enrollment, you will receive a certificate. This certificate must be selected when ordering CSP products from the Marketplace.
-2. [Configure licensees for reselling products to your end customers](how-to-configure-licensees-for-resale.md). Licensees are the end-users or consumers of the product. If you want to order products from the Marketplace and resell them to other organizations, you must set up these licensees as resale licensees. Licensee selection is required when placing an order in the Marketplace.
-
-</details>
-
-<details>
-
-<summary>What is the SoftwareOne CSP Partner Program?</summary>
-
-The SoftwareOne CSP Partner Program is for SoftwareOne partners to ensure compliance with our terms and conditions.
-
-All SoftwareOne partners are required to enroll in this program to obtain a compliance certificate, which is linked to all CSP products in the Marketplace. Enrollment must be completed before any purchases can be made.
-
-Once you've successfully enrolled in the program, a compliance certificate is generated. You'll need to select this certificate when ordering CSP products and services.
-
-</details>
-
-<details>
-
-<summary>What happens if I don't enroll in the SoftwareOne CSP Partner Program?</summary>
-
-Enrolling in the SoftwareOne CSP Partner Program is necessary to ensure compliance with all the terms and conditions.&#x20;
-
-If you don't complete the enrollment, you won't be able to order CSP products for resale to your customers.
-
-</details>
-
-### Platform administration
-
-<details>
-
-<summary>How do I set up a resale licensee?</summary>
-
-You can set up the licensee from the **Licensees** page, available under **Settings** in the main navigation menu. For details, see [How to Configure Licensees for Resale](how-to-configure-licensees-for-resale.md).
-
-</details>
-
-<details>
-
-<summary>Can I invite users to my account?</summary>
-
-Account administrators can add new users from the **Users** page, available under **Settings** in the main navigation menu.&#x20;
-
-To invite someone, you'll need their first and last name and email address. For details, see [Add New Users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
-
-</details>
-
-<details>
-
-<summary>How can I manage notifications?</summary>
-
-Individual users can manage notifications for their profile through the **My profile** option in their account. For details, see [Manage Notification Preferences](../interface/manage-notification-preferences.md).
-
-Account administrators can configure and manage notifications at the account level through the **Notifications** feature, available under **Settings** in the main navigation menu. For details, see [Enable or Disable Categories](../../../modules-and-features/settings/notifications/enable-or-disable-categories.md).
-
-</details>
-
-### Pricelists
-
-<details>
-
-<summary>Can I create or manage pricelists?</summary>
-
-You cannot create or manage price lists. You can only view the existing ones.&#x20;
-
-All price lists are available on the **Price lists** page, located under the **Marketplace** in the main navigation menu. Additionally, price lists are also available under the **Pricing** section on the product details page.
-
-</details>
-
-### Purchasing process
-
-<details>
-
-<summary>How do I access the SoftwareOne Marketplace?</summary>
-
-You can access the SoftwareOne Marketplace by signing in to your account and selecting **Marketplace** > **Products** from the main navigation menu.
-
-</details>
-
-<details>
-
-<summary>How do I buy software for my customers?</summary>
-
-To buy products for resale to your customers:
-
-1. Navigate to the **Products** page, located under the **Marketplace** in the main navigation menu.
-2. Select the product you want to buy. Then, select **Buy Now** to start the purchase wizard.
-3. Follow the steps in the purchase wizard. Make sure to create a new agreement or select an existing one, select a preconfigured resale licensee, and choose your certificate.
-4. Complete the remaining steps in the wizard to place your order.
-
-For detailed instructions, see [How to Order Products for Resale](how-to-order-products-for-resale.md).
-
-</details>
-
-<details>
-
-<summary>What should I do if my resale licensee is not showing up in the Purchase Wizard?</summary>
-
-Make sure that your account as a reseller is properly configured and that your resale licensee information is correctly set up. For details, see the following links:
-
-* [How to Verify If Your Account Has Partner Capabilities](how-to-verify-if-your-account-has-partner-capabilities.md)
-* [How to Configure Licensees for Resale](how-to-configure-licensees-for-resale.md)
-
-If you still face issues, contact [Marketplace Platform Support](../../../help-and-support/contact-support.md).&#x20;
-
-</details>
-
-<details>
-
-<summary>How do I create a new domain or add an existing one for my CSP customer?</summary>
-
-When placing an order, you can choose to add an existing Microsoft account domain or create a new one.&#x20;
-
-If you decide to connect an existing account, a global administrator for the Microsoft account must accept the relationship request.
-
-</details>
-
-<details>
-
-<summary>What happens if I use an existing Microsoft tenant across agreements or Marketplace accounts?</summary>
-
-The Marketplace Platform doesn't allow using an existing domain or tenant name across agreements or multiple accounts.&#x20;
-
-If you enter a name that's already in use within an agreement or by another Marketplace client, the **General** tab on the order details page will indicate that the domain is already in use and needs to be updated.&#x20;
-
-A message is also displayed in the **Ordering** section under the **Parameters** tab stating that the domain is already in use.
-
-</details>
-
-<details>
-
-<summary>Are there any restrictions for CSP products in the Marketplace?</summary>
-
-The following restrictions apply to CSP products:
-
-* You cannot create new agreements using the same CSP domain across multiple clients.
-* Creating agreements using the same CSP tenant, product, and licensee is also prohibited. If an agreement already exists, you must update the existing agreement to request new subscriptions instead of creating a new one.
+If your certificate is pending, the **General** tab on the certificate details page will describe the steps you need to take so we can process your enrollment.
 
 </details>
 
@@ -233,6 +97,164 @@ An incorrect MPN or Indirect Reseller ID will prevent your Marketplace order fro
 
 </details>
 
+### Partner Programs
+
+<details>
+
+<summary>How can I become a SoftwareOne partner?</summary>
+
+For information about SoftwareOne Partner Programs, visit  [https://www.softwareone.com/en/partner-programs](https://www.softwareone.com/en/partner-programs) and fill out the contact form.
+
+After submitting the form, a SoftwareOne representative will contact you.
+
+</details>
+
+<details>
+
+<summary>I am an existing partner, and my account has been migrated from Partner Portal to Marketplace Platform. What do I need to know to get started?</summary>
+
+If your account has been recently migrated, sign in to your Marketplace account and complete these steps:
+
+1. &#x20;[Enroll in the SoftwareOne CSP partner program](how-to-enroll-in-the-softwareone-csp-partner-program.md). Once you complete your enrollment, you will receive a certificate. This certificate must be selected when ordering CSP products from the Marketplace.
+2. [Configure licensees for reselling products to your end customers](how-to-configure-licensees-for-resale.md). Licensees are the end-users or consumers of the product. If you want to order products from the Marketplace and resell them to other organizations, you must set up these licensees as resale licensees. Licensee selection is required when placing an order in the Marketplace.
+
+</details>
+
+<details>
+
+<summary>What is the SoftwareOne CSP Partner Program?</summary>
+
+The SoftwareOne CSP Partner Program is for SoftwareOne partners to ensure compliance with our terms and conditions.
+
+All SoftwareOne partners are required to enroll in this program to obtain a compliance certificate, which is linked to all CSP products in the Marketplace. Enrollment must be completed before any purchases can be made.
+
+Once you've successfully enrolled in the program, a compliance certificate is generated. You'll need to select this certificate when ordering CSP products and services.
+
+</details>
+
+<details>
+
+<summary>What happens if I don't enroll in the SoftwareOne CSP Partner Program?</summary>
+
+Enrolling in the SoftwareOne CSP Partner Program is necessary to ensure compliance with all the terms and conditions.&#x20;
+
+If you don't complete the enrollment, you won't be able to order CSP products for resale to your customers.
+
+</details>
+
+### Platform Administration
+
+<details>
+
+<summary>How do I set up a resale licensee?</summary>
+
+You can set up the licensee from the **Licensees** page, available under **Settings** in the main navigation menu. For details, see [How to Configure Licensees for Resale](how-to-configure-licensees-for-resale.md).
+
+</details>
+
+<details>
+
+<summary>Can I invite users to my account?</summary>
+
+Account administrators can add new users from the **Users** page, available under **Settings** in the main navigation menu.&#x20;
+
+To invite someone, you'll need their first and last name and email address. For details, see [Add New Users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
+
+</details>
+
+<details>
+
+<summary>How can I manage notifications?</summary>
+
+Individual users can manage notifications for their profile through the **My profile** option in their account. For details, see [Manage Notification Preferences](../interface/manage-notification-preferences.md).
+
+Account administrators can configure and manage notifications at the account level through the **Notifications** feature, available under **Settings** in the main navigation menu. For details, see [Enable or Disable Categories](../../../modules-and-features/settings/notifications/enable-or-disable-categories.md).
+
+</details>
+
+### Pricelists
+
+<details>
+
+<summary>Can I create or manage pricelists?</summary>
+
+You cannot create or manage price lists. You can only view the existing ones.&#x20;
+
+All price lists are available on the **Price lists** page, located under the **Marketplace** in the main navigation menu. Additionally, price lists are also available under the **Pricing** section on the product details page.
+
+</details>
+
+### Purchasing Process
+
+<details>
+
+<summary>How do I access the SoftwareOne Marketplace?</summary>
+
+You can access the SoftwareOne Marketplace by signing in to your account and selecting **Marketplace** > **Products** from the main navigation menu.
+
+</details>
+
+<details>
+
+<summary>How do I buy software for my customers?</summary>
+
+To buy products for resale to your customers:
+
+1. Navigate to the **Products** page, located under the **Marketplace** in the main navigation menu.
+2. Select the product you want to buy. Then, select **Buy Now** to start the purchase wizard.
+3. Follow the steps in the purchase wizard. Make sure to create a new agreement or select an existing one, select a preconfigured resale licensee, and choose your certificate.
+4. Complete the remaining steps in the wizard to place your order.
+
+For detailed instructions, see [How to Order Products for Resale](how-to-order-products-for-resale.md).
+
+</details>
+
+<details>
+
+<summary>What should I do if my resale licensee is not showing up in the Purchase Wizard?</summary>
+
+Make sure that your account as a reseller is properly configured and that your resale licensee information is correctly set up. For details, see the following links:
+
+* [How to Verify If Your Account Has Partner Capabilities](how-to-verify-if-your-account-has-partner-capabilities.md)
+* [How to Configure Licensees for Resale](how-to-configure-licensees-for-resale.md)
+
+If you still face issues, contact [Marketplace Platform Support](../../../help-and-support/contact-support.md).&#x20;
+
+</details>
+
+<details>
+
+<summary>How do I create a new domain or add an existing one for my CSP customer?</summary>
+
+When placing an order, you can choose to add an existing Microsoft account domain or create a new one.&#x20;
+
+If you decide to connect an existing account, a global administrator for the Microsoft account must accept the relationship request.
+
+</details>
+
+<details>
+
+<summary>What happens if I use an existing Microsoft tenant across agreements or Marketplace accounts?</summary>
+
+The Marketplace Platform doesn't allow using an existing domain or tenant name across agreements or multiple accounts.&#x20;
+
+If you enter a name that's already in use within an agreement or by another Marketplace client, the **General** tab on the order details page will indicate that the domain is already in use and needs to be updated.&#x20;
+
+A message is also displayed in the **Ordering** section under the **Parameters** tab stating that the domain is already in use.
+
+</details>
+
+<details>
+
+<summary>Are there any restrictions for CSP products in the Marketplace?</summary>
+
+The following restrictions apply to CSP products:
+
+* You cannot create new agreements using the same CSP domain across multiple clients.
+* Creating agreements using the same CSP tenant, product, and licensee is also prohibited. If an agreement already exists, you must update the existing agreement to request new subscriptions instead of creating a new one.
+
+</details>
+
 ### Subscriptions
 
 <details>
@@ -278,33 +300,11 @@ Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptio
 
 <details>
 
-<summary>How do I terminate subscriptions?</summary>
+<summary>How do I terminate a subscription?</summary>
 
 Subscriptions can be terminated by placing a termination order.
 
 * To cancel all subscriptions in an agreement, you must place a termination order for the entire agreement. For details, see [Terminate Agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
 * To cancel some, but not all, subscriptions in an agreement, you must place a termination order for the subscription. For details, see [Terminate Subscriptions](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
-
-</details>
-
-### Certificates
-
-<details>
-
-<summary>My certificate has expired. Can I renew it?</summary>
-
-If your certificate has expired, it's no longer valid and can't be used for transactions.
-
-You can renew an expired certificate by re-enrolling in the program.
-
-</details>
-
-<details>
-
-<summary>Why is my certificate pending?</summary>
-
-A certificate will remain in the pending state if there are issues with your enrollment. For example, if the MPN ID you provided during enrollment is invalid and requires correction.
-
-If your certificate is pending, the **General** tab on the certificate details page will describe the steps you need to take so we can process your enrollment.
 
 </details>

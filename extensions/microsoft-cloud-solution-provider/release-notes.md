@@ -18,7 +18,7 @@ Additionally, if you change the subscription name directly in the Azure Portal, 
 
 Termination orders for NCE subscriptions will only be successful if they fall within the cancellation window. Otherwise, the order will fail.&#x20;
 
-If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [Manage Automatic Renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [How to disable the automatic renewal of an NCE subscription](faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
 
 ***
 

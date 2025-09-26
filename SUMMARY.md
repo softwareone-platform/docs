@@ -292,6 +292,7 @@
       * [Buy Perpetual Software Licenses](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
       * [Order Additional Perpetual Software Licenses](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md)
   * [FAQs](extensions/microsoft-cloud-solution-provider/faqs/README.md)
+    * [How do I get the Microsoft CSP nonprofit qualification?](extensions/microsoft-cloud-solution-provider/faqs/how-do-i-get-the-microsoft-csp-nonprofit-qualification.md)
     * [How to disable the automatic renewal of an NCE subscription](extensions/microsoft-cloud-solution-provider/faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
     * [My order contains Azure reservations and savings plan items](extensions/microsoft-cloud-solution-provider/faqs/my-order-contains-azure-reservations-and-savings-plan-items.md)
     * [What is offer attestation?](extensions/microsoft-cloud-solution-provider/faqs/what-is-offer-attestation.md)
