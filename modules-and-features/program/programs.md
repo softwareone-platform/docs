@@ -16,7 +16,4 @@ At the top of the details page, you can see general program details. The details
 
 ## Additional actions
 
-From the details page, you can:
-
-* Enroll in a program using the **Add** option within the **Certificates** tab. See [Marketplace for Partners ](../../marketplace-platform/getting-started/marketplace-for-partners/)for details on how to enroll in a specific program.
-* [Rename a certificate](certificates/rename-certificate.md)&#x20;
+From the Program details page, you can enroll in a program using the **Add** option on the **Certificates** tab. See [Marketplace for Partners ](../../marketplace-platform/getting-started/marketplace-for-partners/)for details on how to enroll in a specific program.

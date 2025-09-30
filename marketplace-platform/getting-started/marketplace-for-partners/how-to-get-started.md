@@ -20,12 +20,12 @@ Use these additional resources to learn more about the platform:
 [agreements](../../../modules-and-features/marketplace/agreements/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../modules-and-features/marketplace/certificates/" %}
-[certificates](../../../modules-and-features/marketplace/certificates/)
+{% content-ref url="../../../modules-and-features/program/certificates/" %}
+[certificates](../../../modules-and-features/program/certificates/)
 {% endcontent-ref %}
 
-{% content-ref url="../../../modules-and-features/marketplace/enrollments/" %}
-[enrollments](../../../modules-and-features/marketplace/enrollments/)
+{% content-ref url="../../../modules-and-features/program/enrollments/" %}
+[enrollments](../../../modules-and-features/program/enrollments/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../modules-and-features/marketplace/subscriptions/" %}

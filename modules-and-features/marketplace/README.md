@@ -10,24 +10,12 @@ To get started, see any of the following links:
 [agreements](agreements/)
 {% endcontent-ref %}
 
-{% content-ref url="certificates/" %}
-[certificates](certificates/)
-{% endcontent-ref %}
-
-{% content-ref url="enrollments/" %}
-[enrollments](enrollments/)
-{% endcontent-ref %}
-
 {% content-ref url="orders/" %}
 [orders](orders/)
 {% endcontent-ref %}
 
 {% content-ref url="products.md" %}
 [products.md](products.md)
-{% endcontent-ref %}
-
-{% content-ref url="programs.md" %}
-[programs.md](programs.md)
 {% endcontent-ref %}
 
 {% content-ref url="requests/" %}
