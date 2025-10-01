@@ -1,17 +1,14 @@
 # Role Assignment and GDAP Configuration
 
-## Role assignment for GDAP requests
+### GDAP role assignment for CSP products purchased for self-use
 
-The following table outlines the roles that SoftwareOne may require to establish a granular admin relationship request. It also describes what each role enables.
+When ordering CSP products for your own use through the Marketplace platform, SoftwareOne requires specific [granular delegated admin privileges (GDAP)](./) to effectively provision or manage these products in your Microsoft tenant.
+
+The following table outlines the GDAP roles that SoftwareOne requires to establish a relationship. It also describes what each role enables.
 
 **Service** - Microsoft Azure
 
-| Role name                      | Description                                                                      |
-| ------------------------------ | -------------------------------------------------------------------------------- |
-| Directory reader​              | Can read basic directory information.                                            |
-| Global reader                  | Can read everything that a Global Administrator can, but cannot update anything. |
-| Service support administrator​ | Can read service health information and manage support tickets.                  |
-| Billing administrator          | Performs common billing-related tasks, like updating payment information.        |
+<table><thead><tr><th width="361">Role name</th><th>Description</th></tr></thead><tbody><tr><td>Directory reader​</td><td>Can read basic directory information.</td></tr><tr><td>Global reader</td><td>Can read everything that a Global Administrator can, but cannot update anything.</td></tr><tr><td>Service support administrator​</td><td>Can read service health information and manage support tickets.</td></tr><tr><td>Billing administrator</td><td>Performs common billing-related tasks, like updating payment information.</td></tr></tbody></table>
 
 **Service** - Microsoft 365 Business, Enterprise, & Apps (Charity, Commercial, and Education)
 
@@ -57,7 +54,19 @@ The following table outlines the roles that SoftwareOne may require to establish
 | User administrator               | Manages all aspects of users and groups, including resetting passwords for limited admins.                                                             |
 | Cloud application administrator  | Grants the ability to create and manage all aspects of enterprise applications and application registrations.                                          |
 
-## Configuration
+### GDAP role assignment for CSP products purchased for resale
+
+If you are a SoftwareOne Partner purchasing [CSP products for resale](../../../marketplace-platform/getting-started/marketplace-for-partners/how-to-order-products-for-resale.md), your customers must approve a GDAP relationship request that includes the roles listed in the following table:
+
+{% hint style="info" %}
+These roles are not dependent on individual services, such as Azure or Dynamics, and apply to all CSP products purchased for resale.
+{% endhint %}
+
+<table><thead><tr><th width="284">Role</th><th>Description</th></tr></thead><tbody><tr><td>Global reader </td><td>Can read everything that a Global Administrator can, but cannot update anything.</td></tr><tr><td>Billing administrator </td><td>Can perform billing-related tasks, such as updating payment information.</td></tr><tr><td>Directory writers </td><td>Can read basic directory information. Commonly used to grant directory read access to applications and guests.</td></tr><tr><td>Cloud application administrator </td><td>Can create and manage all aspects of enterprise applications and application registrations.</td></tr><tr><td>License administrator </td><td>Manages product licenses for users and groups.</td></tr><tr><td>Service support administrator</td><td>Can read service health information and manage support tickets.</td></tr></tbody></table>
+
+To learn more about GDAP and its importance, see [Granular Delegated Admin Privileges](./).
+
+### GDAP configuration
 
 The GDAP admin relationship is established with the following configuration:
 

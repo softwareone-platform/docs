@@ -1,4 +1,4 @@
-# Granular Delegated Admin Privileges (GDAP)
+# Granular Delegated Admin Privileges
 
 Granular Delegated Admin Privileges (GDAP) is Microsoft's latest innovation in cloud security management, and it's transforming how organizations collaborate with service providers.&#x20;
 
@@ -22,7 +22,7 @@ GDAP transforms your cloud security posture through several key advantages:
 * **Precision-controlled access** - Rest assured, our access is limited strictly to what’s necessary and only for as long as needed. You set the rules with flexible, time-bound control that can be revoked at your discretion. It’s support on your terms.
 * **Ultimate flexibility** - Maintain full command of your cloud environments, like Azure or Microsoft 365, by setting the boundaries for scope and access duration. With SoftwareOne, you’re always in control.
 
-#### For SoftwareOne as your service provider <a href="#for-softwareone-as-your-service-provider" id="for-softwareone-as-your-service-provider"></a>
+#### For SoftwareOne as your direct service provider <a href="#for-softwareone-as-your-service-provider" id="for-softwareone-as-your-service-provider"></a>
 
 * **Streamlined issue resolution** - GDAP accelerates our ability to resolve your issues, turning potential downtime into uptime and ensuring smooth, reliable operations that drive your success.
 * **Enhanced compliance and security** - As advocates of least-privileged access, GDAP ensures that our support activities align with stringent security protocols, reinforcing your trust in our commitment to safeguarding your cloud resources.
