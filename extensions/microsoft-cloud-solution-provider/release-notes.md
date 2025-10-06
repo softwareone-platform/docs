@@ -1,5 +1,19 @@
 # Release Notes
 
+This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
+
+## Release Date: 7 October 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
+
+### Microsoft Customer Agreement Compliance Update
+
+Microsoft has recently updated the Microsoft Customer Agreement (MCA). This update affects all customers whose CSP partner attested to the MCA on their behalf before 1 April 2023.&#x20;
+
+To remain compliant, these customers must review and accept the updated MCA to make new purchases or manage existing subscriptions, including seat increases or decreases, upgrades, and changes to billing plans. Existing online services will remain uninterrupted. For detailed information on these changes, see the official [Microsoft announcement](https://learn.microsoft.com/en-us/partner-center/announcements/2025-august#action-required-microsoft-customer-agreement-reacceptance).
+
+To support this compliance requirement, we have introduced a new feature that automatically checks if the MCA has been accepted during the ordering process. This verification is based on the type of tenant and the individual placing the order. For details, see [What is MCA Policy Enforcement?](faqs/what-is-mca-policy-enforcement.md)
+
+***
+
 ## Release Date: 25 September 2025
 
 ### New Azure Subscription Name Field
