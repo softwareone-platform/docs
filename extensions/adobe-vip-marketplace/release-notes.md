@@ -6,11 +6,13 @@ description: >-
 
 # Release Notes
 
-## Release Date: 10 Sep 2025
+## Release Date: 10 September 2025
 
 ### Self-Service Reseller Transfers
 
-With this release, reseller transfers can now be completed directly in the Purchase Wizard, eliminating the need for a support ticket. Customers simply provide their Admin Email and Change of Reseller Code from the Adobe Admin Console whilst creating a new Agreement in the Purchase Wizard. This makes the process faster, easier, and fully self-service.
+With this release, reseller transfers can now be completed directly in the Purchase Wizard, eliminating the need for a support ticket.&#x20;
+
+You can change your reseller through the Marketplace Platform by providing your administrator's email address and the reseller code from the Adobe Admin Console. For detailed instructions, see [Reseller Transfers](reseller-transfer.md).
 
 ### Agreement Sync Improvements
 

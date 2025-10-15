@@ -1,6 +1,6 @@
 # Marketplace for Clients
 
-r clients using the Marketplace Platform, we have created various topics to help you manage your account and quickly purchase and manage your software purchases.&#x20;
+For clients using the Marketplace Platform, we have created various topics to help you manage your account and quickly purchase and manage your software purchases.&#x20;
 
 Use the following links to get started:
 

@@ -173,6 +173,7 @@
 
 * [Adobe VIP Marketplace](extensions/adobe-vip-marketplace/README.md)
   * [Migrate from Adobe VIP](extensions/adobe-vip-marketplace/migration-from-vip.md)
+  * [Transfer Your Adobe Reseller](extensions/adobe-vip-marketplace/reseller-transfer.md)
   * [Downsize and Termination Policies](extensions/adobe-vip-marketplace/downsize-and-termination-policies.md)
   * [Common Error Messages](extensions/adobe-vip-marketplace/common-error-messages.md)
   * [Tutorials](extensions/adobe-vip-marketplace/tutorials-and-videos/README.md)
