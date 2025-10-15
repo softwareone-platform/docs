@@ -16,10 +16,10 @@ You can enroll in the **SWO CSP Partner Program** if your account has been set u
 
 To open the details page:
 
-1. In the Marketplace Platform, navigate to the **Programs** page. The page is located under **Marketplace** in the main navigation menu.
+1. Navigate to the **Programs** page.
 2. Select **SWO CSP Partner Program**. The program's details page opens.
 
-<figure><img src="../../../.gitbook/assets/csp_partner_program_swo.png" alt=""><figcaption><p>SWO CSP Partner Program details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/csp_partner_program_swo.png" alt=""><figcaption><p>The details page of the SWO CSP Partner Program</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -28,13 +28,13 @@ To open the details page:
 To start the wizard:
 
 1. On the details page, select the **Certificates** tab.
-2. Select **Add** to start the **Add certificate** wizard.
+2. Select **Add**.
 {% endstep %}
 
 {% step %}
 **Use the Add Certificate wizard to enroll**
 
-To enroll in the program, complete all steps within the wizard. Make sure to enter or verify the required information on each page.
+To enroll in the program, complete all steps, making sure to enter or verify the required information in each step.
 
 1. **Certificant** - Choose the buyer you want to enroll in the program, then select **Next**.
 2. **Details** - Provide a name for the certificate and select **Next**.&#x20;

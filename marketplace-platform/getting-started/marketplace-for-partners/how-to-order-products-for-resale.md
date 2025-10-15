@@ -21,7 +21,7 @@ Before starting this tutorial, make sure you have the following:
 {% step %}
 **Navigate to the Products page**
 
-The **Products** page is located under **Marketplace** in the main navigation menu.&#x20;
+The **Products** page is located in the main navigation menu.&#x20;
 
 The page displays all products available to order from the SoftwareOne Marketplace.
 {% endstep %}
@@ -40,7 +40,7 @@ From the list of products, select **Microsoft 365 Business, Enterprise & Apps - 
 Complete the following steps in the Purchase Wizard:
 
 1. **Select agreements** - Select **Create agreement** to start creating your new agreement.
-2. **Select licensee** - Choose an existing licensee from the list.  Make sure that the value in the **Resale** column is **Yes**. Then, select **Next**.&#x20;
+2. **Select licensee** - Choose an existing licensee from the list. Ensure that the value in the **Resale** column is **Yes**. Then, select **Next**.&#x20;
 3. **Select certificate** - Select a certificate. If the certificate you want to use isn't displayed, use the **Add certificate** option to add it. When done, select **Next**.
 4. **Create agreement** - Choose whether you want to create a new Microsoft tenant or connect an existing cloud account.
 5. **Microsoft details** - Do the following depending on the selection in the previous step:
@@ -48,7 +48,7 @@ Complete the following steps in the Purchase Wizard:
       1. Company name.
       2. Company registration ID or tax number.
       3. Company address, including city and zip/postal code.
-      4. Contact details of the person who will manage your account.
+      4. Contact details of the person managing your account.
    2. For an existing cloud account, enter your existing domain name and your Microsoft account details.
 6. **Special qualifications** - Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
 7. **Support contacts** - Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.

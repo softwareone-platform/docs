@@ -8,7 +8,7 @@ If you need to find a specific order, you can use the filter option to search fo
 
 To find an order using a filter, such as status:
 
-1. Navigate to the **Orders** page in the platform. Then, select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
+1. Navigate to the **Orders** page and select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
 
 <figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
 
@@ -25,7 +25,7 @@ Your list of orders will be refreshed based on the filters. To reset the filters
 
 To view detailed information for an order, select the ID in the **Order** column.&#x20;
 
-The order details page opens, allowing you to view the basic order information and details such as items, subscriptions, ordering and fulfilment parameters, and more.
+The order details page opens, allowing you to view basic order information and details such as items, subscriptions, ordering and fulfilment parameters, and more.
 
 From the order details page, you can complete these additional tasks:
 

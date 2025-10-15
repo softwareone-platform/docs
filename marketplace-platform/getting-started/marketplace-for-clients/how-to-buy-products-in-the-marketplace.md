@@ -2,13 +2,13 @@
 
 The Marketplace Platform is a centralized hub designed to streamline the discovery and ordering of software products.&#x20;
 
-The platform simplifies the complex process of software licensing and procurement, making it easier for you to find and compare products from multiple software vendors in one place. Each product on our marketplace undergoes a process where vendors define the product, including its terms of use, and submit it to SoftwareOne. Products become available for ordering only after they have been accepted by SoftwareOne.
+The platform simplifies the complex process of software licensing and procurement, making it easier for you to find and compare products from multiple software vendors in one place. Each product on our marketplace undergoes a process where vendors define the product, including its terms of use, and submit it to SoftwareOne. Products become available for ordering only after they are accepted by SoftwareOne.
 
 {% stepper %}
 {% step %}
-**Accessing the marketplace**
+**Accessing the Products page**
 
-You can access the Marketplace by signing in to your account and selecting **Marketplace** > **Products** from the main menu.
+You can access the **Products** page by signing in to your account and selecting the main menu.
 {% endstep %}
 
 {% step %}

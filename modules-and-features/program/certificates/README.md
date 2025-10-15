@@ -6,7 +6,7 @@ Holding a certificate means you are eligible to purchase products and enjoy all 
 
 You can view and manage your certificates for different programs on the **Certificates** page in the platform. This includes certificates that might be awaiting approval from the vendor, as well as active, expired, or terminated certificates.&#x20;
 
-The **Certificates** page is available under **Marketplace** in the main menu.
+The **Certificates** page is available under **Programs** in the main menu.
 
 <figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>Certificates page</p></figcaption></figure>
 

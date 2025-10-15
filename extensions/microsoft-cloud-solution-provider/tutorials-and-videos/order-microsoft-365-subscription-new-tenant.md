@@ -16,29 +16,21 @@ Before starting this tutorial, make sure you have the following:
 * Your company details, like the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of the person who will manage your Microsoft account.&#x20;
 
-## Ordering a Microsoft 365 subscription for a new tenant
+## Ordering a Microsoft 365 subscription for a new Microsoft tenant
 
 {% stepper %}
 {% step %}
-**Navigate to the Products page**
+**Start the purchase wizard for Microsoft 365**
 
-The **Products** page is located under **Marketplace** in the main navigation menu. The page displays all products available to order from the SoftwareOne Marketplace.
-
-On the details page, select **Buy now** to start the purchase wizard.
+1. Navigate to the **Products** page and select the desired Microsoft 365 product.
+2. On the details page, select **Buy now** to start the purchase wizard.
+3. From the list of products, select **Microsoft 365 Business, Enterprise & Apps - Commercial**. Then, on the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-**Start the Purchase Wizard for Microsoft 365**
+**Complete the ordering steps**
 
-From the list of products, select **Microsoft 365 Business, Enterprise & Apps - Commercial**. Then, on the details page, select **Buy now** to start the purchase wizard.
-
-<figure><img src="../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>Buy now option on the details page</p></figcaption></figure>
-{% endstep %}
-
-{% step %}
-**Follow the steps in the purchase wizard**
-
-Follow all steps in the purchase wizard, ensuring that the required information is entered or verified on each page.
+Complete the following steps in the purchase wizard, ensuring that the required information is entered or verified on each page.
 
 1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.

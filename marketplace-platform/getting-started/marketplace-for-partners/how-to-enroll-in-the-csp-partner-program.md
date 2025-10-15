@@ -19,10 +19,10 @@ You can enroll in this program if you meet these conditions:
 
 To open the details page:
 
-1. In the Marketplace Platform, navigate to the **Programs** page, located under **Marketplace** in the main navigation menu.
+1. Navigate to the **Program** page.
 2. Select **Cloud Solution Provider Partner Program**. The program's details page opens.
 
-<figure><img src="../../../.gitbook/assets/csp_partner_program.png" alt=""><figcaption><p>Cloud Solution Provider Partner Program</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/csp_partner_program.png" alt=""><figcaption><p>The details page of the Cloud Solution Provider Partner Program</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -31,13 +31,13 @@ To open the details page:
 To start the wizard:
 
 1. On the details page, select the **Certificates** tab.
-2. Select **Add** to start the **Add certificate** wizard.
+2. Select **Add**.
 {% endstep %}
 
 {% step %}
 **Use the Add Certificate wizard to enroll**
 
-Complete the following steps in the wizard. Make sure to enter or verify the required information on each page.
+Complete the following steps in the wizard, ensuring you enter or verify all required information at each stage.
 
 1. **Certificant** - Choose the buyer who will represent this certificate and select **Next**.
 2. **Partner details** - Do the following, then select **Next**:&#x20;

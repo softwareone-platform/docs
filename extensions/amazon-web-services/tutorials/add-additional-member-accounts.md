@@ -14,7 +14,7 @@ Before starting this tutorial, make sure that your AWS Marketplace agreement is 
 
 To start the wizard:
 
-1. In the Marketplace Platform, navigate to the **Products** page. The page is located under **Marketplace** in the main navigation menu.
+1. Navigate to the **Products** page.&#x20;
 2. From the list of products, select **Amazon Web Services**.&#x20;
 3. On the product details page, select **Buy now**. The Purchase Wizard for AWS starts.
 

@@ -1,4 +1,4 @@
-# How to Configure Licensees for Reselling
+# How to Configure Licensees for Resale
 
 This tutorial describes how SoftwareOne partners can set up resale licensees within the platform.
 
@@ -18,7 +18,7 @@ Make sure you have permissions to create new licensees. Only account administrat
 
 To start the wizard:
 
-1. Navigate to the **Licensees** page. The page is located under **Settings** in the main navigation menu.&#x20;
+1. Navigate to the **Licensees** page.&#x20;
 2. On the **Licensees** page, select **Add** to start the **Add Licensee** wizard.
 {% endstep %}
 
@@ -27,7 +27,7 @@ To start the wizard:
 
 <figure><img src="../../../.gitbook/assets/add_licensee_wizard.png" alt=""><figcaption><p>Add licensee wizard</p></figcaption></figure>
 
-Complete the following steps in the wizard. Make sure to enter or verify the required information on each page.
+Complete the following steps. Make sure to enter or verify the required information on each step.
 
 1. **General** - Provide the following details and select **Next**:&#x20;
    1. **Logo** - (Optional) Add a logo for the licensee. You can upload an image or drag the image into the field.

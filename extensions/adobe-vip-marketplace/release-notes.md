@@ -12,7 +12,7 @@ description: >-
 
 With this release, reseller transfers can now be completed directly in the Purchase Wizard, eliminating the need for a support ticket.&#x20;
 
-You can change your reseller through the Marketplace Platform by providing your administrator's email address and the reseller code from the Adobe Admin Console. For detailed instructions, see [Reseller Transfers](reseller-transfer.md).
+You can change your reseller through the Marketplace Platform by providing your administrator's email address and the reseller code from the Adobe Admin Console. For detailed instructions, see [Transfer Your Adobe Reseller](reseller-transfer.md).
 
 ### Agreement Sync Improvements
 

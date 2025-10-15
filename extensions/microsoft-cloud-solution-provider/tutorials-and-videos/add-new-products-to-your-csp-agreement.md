@@ -14,23 +14,17 @@ You should also know how to navigate the platform to access your agreements & or
 
 {% stepper %}
 {% step %}
-**Navigate to the Agreements page**
+**Open the agreement**
 
-The **Agreements** page is located under **Marketplace** in the main navigation menu. The page displays all your agreements.
+1. Navigate to the **Agreements** page.
+2. Select the agreement you want to add products to. Make sure that the agreement's status is **Active**.&#x20;
+3. On the agreement details page, select **Buy more.** The purchase wizard starts, and the **Items** step within the wizard is displayed.
 {% endstep %}
 
 {% step %}
-**Open your relevant agreement**
+**Add the new items to your order**
 
-From the list of products, select the agreement you want to use. Make sure that the agreement's status is **Active**.&#x20;
-
-Then, on the agreement details page, select **Buy more.** The purchase wizard starts, and the **Items** step within the wizard is displayed.
-{% endstep %}
-
-{% step %}
-**Add the required items to your order**
-
-In the **Items** step within the wizard, do the following:
+In the **Items** step, do the following:
 
 1. Select **Add items** to choose the items you want to order.
 

@@ -18,7 +18,7 @@ Before starting this tutorial, make sure that the subscription you want to downs
 {% step %}
 **Open the subscription to downsize**
 
-Navigate to the **Subscriptions** page. Then, select the required subscription.
+Navigate to the **Subscriptions** page and select the required subscription.
 
 On the subscription details page, select **Edit** to launch the **Edit subscription** wizard.
 {% endstep %}

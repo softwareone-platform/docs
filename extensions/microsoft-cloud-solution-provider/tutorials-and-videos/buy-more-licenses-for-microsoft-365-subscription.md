@@ -16,9 +16,8 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 {% step %}
 **Launch the purchase wizard**
 
-Navigate to the **Products** page. Then, select the relevant Microsoft 365 product.
-
-On the details page, select **Buy now** to start the purchase wizard.
+1. Navigate to the **Products** page. Then, select the relevant Microsoft 365 product.
+2. On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}

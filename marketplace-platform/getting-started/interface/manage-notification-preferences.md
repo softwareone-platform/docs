@@ -17,15 +17,14 @@ These alerts are triggered for the [notification categories](../../../modules-an
 To update your preferences using the **My profile** option:
 
 1. Sign in to your account.
-2. Select the profile menu in the upper right. Then, select **My profile**.
+2. Select the profile menu in the upper right, then select **My profile**.
 3. Go to the **Notifications** **preferences** tab. All notification categories are displayed.
-4. Select the **Edit** option.&#x20;
-5. In **Edit notification preferences**, use the checkboxes to enable or disable a category.&#x20;
-6. Select **Save**. A confirmation message is displayed that your preferences have been saved.
+4. Select the **Edit** option, then in **Edit notification preferences**, use the checkboxes to enable or disable a category.&#x20;
+5. Select **Save**. A confirmation message is displayed that your preferences are saved.
 
 To update your preferences from your notification email:
 
-1. Open the notification email that you received.
+1. Open the notification email you received.
 2. Scroll down to the footer and select the **Manage notifications** link. The **Manage notifications** form opens in your browser.
 3. In the **Manage notifications** form, use the checkboxes to enable or disable a category.&#x20;
 4. Select **Save**. Your preferences are saved.&#x20;

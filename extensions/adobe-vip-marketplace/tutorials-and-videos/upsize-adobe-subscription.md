@@ -23,7 +23,7 @@ Before starting this tutorial, make sure that your Adobe agreement and the subsc
 {% step %}
 **Open the subscription to upsize**
 
-Navigate to the **Subscriptions** page. Then, select the required subscription.
+Navigate to the **Subscriptions** page and select the required subscription.
 
 On the subscription's details page, select **Edit** to launch the **Edit subscription** wizard.
 {% endstep %}

@@ -1,6 +1,6 @@
 # Products
 
-The **Products** page in the platform lists all products that are available for you to order from our catalog. You can access the page by selecting **Marketplace** > **Products** from the main menu.
+The **Products** page in the platform lists all products that are available for you to order from our catalog. You can access the page by selecting **Catalog** > **Products** from the main menu.
 
 <figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption><p>Products page</p></figcaption></figure>
 

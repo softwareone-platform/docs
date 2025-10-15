@@ -20,7 +20,7 @@ Agreements in any other state cannot be used when ordering items. See [Agreement
 {% step %}
 **Launch the purchase wizard**
 
-Navigate to the **Products** page on the platform. Then, select **Adobe VIP Marketplace for Commercial**.
+Navigate to the **Products** page and select **Adobe VIP Marketplace for Commercial**.
 
 On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}

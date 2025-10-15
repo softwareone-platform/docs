@@ -1,4 +1,4 @@
-# How do I establish a partner relationship with SoftwareOne?
+# How to establish a partner relationship with SoftwareOne
 
 To ensure seamless management of your Microsoft 365, Dynamics 365, and Azure subscriptions, you'll need to establish a partner relationship with SoftwareOne.&#x20;
 
@@ -6,7 +6,7 @@ This allows SoftwareOne to fulfill your Microsoft transactions and manage produc
 
 To review and accept a partner relationship request:
 
-1. Navigate to the **Orders** page on the platform. Then, select the required purchase order.&#x20;
+1. Navigate to the **Orders** page, then select the required purchase order.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Orders page</p></figcaption></figure>
 

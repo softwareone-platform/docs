@@ -15,9 +15,7 @@ Before starting this tutorial, make sure you have the following:
 {% step %}
 **Navigate to the Products page**
 
-The **Products** page is located under **Marketplace** in the main navigation menu.&#x20;
-
-The page displays all products available to order from the SoftwareOne Marketplace.
+The Products page contains all products available to order from the SoftwareOne Marketplace. You can access the page from the main navigation menu.
 {% endstep %}
 
 {% step %}
