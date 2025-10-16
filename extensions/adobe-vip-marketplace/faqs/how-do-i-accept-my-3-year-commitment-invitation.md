@@ -28,6 +28,6 @@ If you didn't receive the email or have trouble accessing it, you can still comp
    1. Under **Accept Terms and Conditions**, select the checkbox to confirm that you have read the terms and conditions.&#x20;
    2. Select **Accept 3 Year Commit**. Note that the option is enabled only selecting the checkbox.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="" width="563"><figcaption><p>Accept 3 year commit page in the Admin Console</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="563"><figcaption><p>Accept 3 year commit page in the Admin Console</p></figcaption></figure>
 
 After you have accepted the invitation, we'll update your 3-year commit details in the Marketplace platform. The product prices will then be adjusted according to your qualified discount level.

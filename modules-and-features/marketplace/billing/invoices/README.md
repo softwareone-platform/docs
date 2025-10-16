@@ -2,7 +2,7 @@
 
 An invoice is a billing document you receive at the end of your billing period.&#x20;
 
-Invoices contain a summary of charges and other details associated with your account. Invoice PDFs also include subscription details and the consolidated charges for all items within the subscription. See [Understand Your Billing Documents](../understand-your-billing-documents.md) to learn more.
+Invoices contain a summary of charges and other details associated with your account. Invoice PDFs also include subscription details and the consolidated charges for all items within the subscription. See [Understand Your Billing Documents](../../../billing/understand-your-billing-documents/) to learn more.
 
 In the Marketplace Platform, you can view your invoices on the **Invoices** page. The page is available under **Billing** in the main navigation menu.
 

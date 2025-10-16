@@ -19,4 +19,4 @@ To download an invoice from the invoice details page:
 
 <figure><img src="../../../../.gitbook/assets/invoice_attachments.png" alt=""><figcaption><p>Attachments tab on the invoice details page</p></figcaption></figure>
 
-For details on how to read and understand your invoice, see [Understand Your Billing Documents](../understand-your-billing-documents.md).
+For details on how to read and understand your invoice, see [Understand Your Billing Documents](../../../billing/understand-your-billing-documents/).

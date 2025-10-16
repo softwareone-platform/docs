@@ -38,7 +38,8 @@
 ## MODULES & FEATURES
 
 * [Billing](modules-and-features/marketplace/billing/README.md)
-  * [Understand Your Billing Documents](modules-and-features/marketplace/billing/understand-your-billing-documents.md)
+  * [Understand Your Billing Documents](modules-and-features/billing/understand-your-billing-documents/README.md)
+    * [Invoice Fields Mapping](modules-and-features/billing/understand-your-billing-documents/invoice-fields-mapping.md)
   * [Invoices](modules-and-features/marketplace/billing/invoices/README.md)
     * [Find Specific Invoices Using Filters](modules-and-features/marketplace/billing/invoices/filter-invoices.md)
     * [View or Download Invoices](modules-and-features/marketplace/billing/invoices/download-invoices.md)

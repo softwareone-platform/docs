@@ -18,4 +18,4 @@ To download your statement:
    * Select the link in the **Reference** column.
    * Select the actions icon (**•••**) and choose **Download**.&#x20;
 
-The selected statement is downloaded to your system. For details on how to read and understand your statement, see [Understand Your Billing Documents](../understand-your-billing-documents.md).
+The selected statement is downloaded to your system. For details on how to read and understand your statement, see [Understand Your Billing Documents](../../../billing/understand-your-billing-documents/).

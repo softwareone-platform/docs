@@ -14,12 +14,12 @@ To review and accept a partner relationship request:
 
     *   If the order is **Querying**, navigate to the **General** tab, where the partner relationship request URL is displayed. &#x20;
 
-        <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>URL on the General tab</p></figcaption></figure>
+        <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>URL on the General tab</p></figcaption></figure>
     * If the order is in **Draft**, select **Edit** in the upper right. Then, on the **Select Items** page, select **Next** to see the relationship request URL.&#x20;
 
 
 
-    <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>URL on the Select items page</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>URL on the Select items page</p></figcaption></figure>
 3. Select the URL. You'll be redirected to the Microsoft 365 Admin Center login page.
 4. Use the Global Administrator credentials for the primary domain or tenant name listed in your purchase order.
 5. Review the SoftwareOne partner information, then select **Next**.
