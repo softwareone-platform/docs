@@ -2,7 +2,7 @@
 
 Your Marketplace invoice includes various details that are pulled from the platform and displayed on the invoice.&#x20;
 
-This topic provides information on all such fields, helping you understand where the information comes from and how it corresponds to your invoice PDF. If you want to learn about the structure of your Marketplace invoices and statements, see the [Billing invoices](./#billing-invoice) and [Billing statements](./#billing-statement) sections, respectively.&#x20;
+This topic provides information on all such fields, helping you understand where the information comes from and how it corresponds to your invoice PDF. If you want to learn about the structure of your Marketplace invoices and statements, see the [Billing invoices](./#billing-invoices) and [Billing statements](./#billing-statements) sections, respectively.&#x20;
 
 {% hint style="info" %}
 To see a larger version of the images on this page, select the image. To download a sample PDF, see [this page](./#billing-invoices).
