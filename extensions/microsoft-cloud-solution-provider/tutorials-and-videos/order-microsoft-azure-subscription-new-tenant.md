@@ -25,8 +25,6 @@ To start the wizard:
 1. Navigate to the **Products** page.&#x20;
 2. Select **Microsoft Azure** from the available products.
 3. On the details page, select **Buy now** to start the purchase wizard.
-
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Azure BuyNow.png" alt=""><figcaption><p>Buy now</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

@@ -11,7 +11,7 @@ In the Marketplace Platform:
 
 Account administrators can view and manage users from the **Users** page.
 
-<figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>Users page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>Users page</p></figcaption></figure></div>
 
 The page displays all users in your account, and allows you to view each user's details, such as their name, email address, group membership, and the date they last accessed their account.
 
@@ -28,9 +28,9 @@ The page also contains action links that allow you to edit a user's details or r
 
 ## View user details <a href="#subscription-details" id="subscription-details"></a>
 
-To view a user's details, select the user on the **Users** page.
+To view a user's details, select the user name on the **Users** page.
 
-<figure><img src="../../../.gitbook/assets/settings_user_details_page.png" alt=""><figcaption><p>User details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_user_details_page.png" alt=""><figcaption><p>User details page</p></figcaption></figure></div>
 
 At the top of the details page, you can view properties, such as the user's name, ID, and email address. You can also check if single sign-on has been enabled for this user.
 

@@ -12,7 +12,7 @@ To switch between your accounts:
 
 1. Sign in to your account and select your profile menu in the upper right. All accounts you are a member of are displayed under **Switch account**.
 
-<figure><img src="../../../.gitbook/assets/switch_account.png" alt=""><figcaption><p>Switch account section on the UI</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/switch_account.png" alt=""><figcaption><p>Switch account section on the UI</p></figcaption></figure></div>
 
 2. Select the account you want to switch to. Use the **Search** field to find the required account easily. You can search by the account name or its identifier.
 

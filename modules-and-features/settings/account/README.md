@@ -6,7 +6,7 @@ The platform supports various account types, including client and vendor account
 
 Account administrators can view account information on the **Account** page.
 
-<figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Your account page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Your account page</p></figcaption></figure></div>
 
 The page displays general information associated with your account, such as your account name, status, and ID, and is organized into the following tabs:
 

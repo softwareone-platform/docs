@@ -25,7 +25,7 @@ You also have action links that allow you to enable, disable, or delete the toke
 
 To view the details page of a token, select the token in the **API token** column.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/TokenDetails.png" alt=""><figcaption><p>The details page of an API token</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/TokenDetails.png" alt=""><figcaption><p>Details page of an API token</p></figcaption></figure></div>
 
 When you open the details page, it shows the token's name, marketplace ID, and status. The page also contains the following tabs that display corresponding information:
 

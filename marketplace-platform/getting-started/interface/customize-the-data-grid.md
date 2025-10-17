@@ -47,7 +47,7 @@ To create filters:
    * **AND** - If you select this operator, the results are displayed only if both conditions are met.&#x20;
    * **OR** - If you select this operator, only one of the conditions needs to be met for the results to be displayed.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_filters.png" alt=""><figcaption><p>Using the filters</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_filters.png" alt=""><figcaption><p>Filter options</p></figcaption></figure></div>
 
 As you define filters, the data in the grid refreshes automatically. If the platform doesn't find any data matching the filters, it displays a message.&#x20;
 
@@ -59,7 +59,7 @@ The <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4
 
 You can use the checkbox next to each column name to hide or display a column. If you have hidden a column, you can make it visible again by selecting the same checkbox. Note that some columns are shown by default, and you cannot hide them.
 
-<figure><img src="../../../.gitbook/assets/data_grid_columns.png" alt=""><figcaption><p>Using the columns</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/data_grid_columns.png" alt=""><figcaption><p>List of available columns </p></figcaption></figure>
 
 **Adjust column widths**
 

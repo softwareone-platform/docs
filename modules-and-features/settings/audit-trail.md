@@ -6,11 +6,7 @@ You can use this feature to see who made specific changes, when they made them, 
 
 Each audit trail record includes timestamps, a summary of the event, object-specific details, and the actors involved.
 
-{% embed url="https://youtu.be/4cSMm_Ti9cY?feature=shared" fullWidth="false" %}
-Video: What is an Audit Trail and why is it important?
-{% endembed %}
-
-## Accessing audit trail
+## Accessing the audit trail
 
 Account administrators can access the audit trail for their account on the **Audit trail** page in the platform. This will allow you to view all records that have been generated for your account:
 

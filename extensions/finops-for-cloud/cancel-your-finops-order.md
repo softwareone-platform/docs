@@ -26,7 +26,7 @@ To start the wizard:
 {% endstep %}
 
 {% step %}
-**Follow the step-by-step wizard to cancel your order**
+**Follow the wizard to cancel your order**
 
 Complete the following steps in the Terminate Agreement wizard. Make sure to enter or verify the required information on each page.
 
