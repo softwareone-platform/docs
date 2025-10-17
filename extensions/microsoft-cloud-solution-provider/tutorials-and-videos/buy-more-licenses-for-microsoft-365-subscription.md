@@ -16,17 +16,21 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 {% step %}
 **Launch the purchase wizard**
 
+To start the wizard:
+
 1. Navigate to the **Products** page. Then, select the relevant Microsoft 365 product.
 2. On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-**Follow the steps in the purchase wizard**
+**Follow the wizard to place your order**
+
+Complete the following steps, making sure to enter or verify the required information where necessary:
 
 1. **Create agreement** - Choose an active agreement from the list and then select **Next**.&#x20;
 2. **Items** - Enter the total number of licenses in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
 
-<figure><img src="../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Items section in the purchase wizard</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Items section in the purchase wizard</p></figcaption></figure></div>
 
 3. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 4. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.

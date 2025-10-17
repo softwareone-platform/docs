@@ -19,25 +19,20 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Navigate to the Products page**
+**Start the purchase wizard for Microsoft 365**
 
-The **Products** page is located in the main navigation menu.&#x20;
+To start the wizard:
 
-The page displays all products available to order from the SoftwareOne Marketplace.
+1. Navigate to the **Products** page.
+2. Select the required product, for example, **Microsoft 365 Business, Enterprise & Apps - Commercial**. Then, select **Buy now**.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>Buy now option on the details page</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Start the Purchase Wizard for Microsoft 365**
+**Follow the wizard to place your order**
 
-From the list of products, select **Microsoft 365 Business, Enterprise & Apps - Commercial**. Then, select **Buy now** to start the purchase wizard.
-
-<figure><img src="../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>Buy now option on the details page</p></figcaption></figure>
-{% endstep %}
-
-{% step %}
-**Use the Purchase Wizard to place your order**
-
-Complete the following steps in the Purchase Wizard:
+In the Purchase Wizard, complete the following steps to place your order:
 
 1. **Select agreements** - Select **Create agreement** to start creating your new agreement.
 2. **Select licensee** - Choose an existing licensee from the list. Ensure that the value in the **Resale** column is **Yes**. Then, select **Next**.&#x20;

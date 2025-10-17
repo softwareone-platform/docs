@@ -12,7 +12,7 @@ To view and download attachments:&#x20;
 2. Select the link for the agreement in the **Agreement** column.&#x20;
 3. Select the **Attachments** tab. All files related to the agreement are displayed.&#x20;
 
-<figure><img src="../../../.gitbook/assets/orders_attachments_tab.png" alt=""><figcaption><p>Attachments tab</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_attachments_tab.png" alt=""><figcaption><p>Attachments tab</p></figcaption></figure></div>
 
 4. Select the filename in the **Reference** column to download it to your system.&#x20;
 

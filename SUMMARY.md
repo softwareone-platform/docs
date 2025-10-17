@@ -284,7 +284,7 @@
       * [Order Microsoft 365 Subscription For New Tenant](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-new-tenant.md)
       * [Order Microsoft 365 Subscription For Existing Tenant](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-existing-tenant.md)
       * [Buy More Licenses for Microsoft 365 Subscription](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md)
-      * [Add New Products to Your CSP Agreement](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/add-new-products-to-your-csp-agreement.md)
+      * [Add New Items to Your CSP Agreement](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/add-new-products-to-your-csp-agreement.md)
       * [Terminate Subscriptions](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/terminate-microsoft-subscription.md)
       * [Terminate All Subscriptions in Your Agreement](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/terminate-all-microsoft-subscriptions.md)
     * [Microsoft Azure](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/microsoft-azure/README.md)

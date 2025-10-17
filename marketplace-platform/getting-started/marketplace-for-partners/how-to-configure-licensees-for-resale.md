@@ -25,7 +25,7 @@ To start the wizard:
 {% step %}
 **Use the Add Licensee wizard to set up your new licensee**
 
-<figure><img src="../../../.gitbook/assets/add_licensee_wizard.png" alt=""><figcaption><p>Add licensee wizard</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/add_licensee_wizard.png" alt=""><figcaption><p>Add licensee wizard</p></figcaption></figure></div>
 
 Complete the following steps. Make sure to enter or verify the required information on each step.
 

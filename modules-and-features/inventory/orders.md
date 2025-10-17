@@ -26,7 +26,7 @@ You can add new columns and remove non-essential ones by selecting **Customize**
 
 Selecting **Customize** opens a new menu, allowing you to choose the required columns as necessary. You can also resize the columns by clicking between them.
 
-<figure><img src="../../.gitbook/assets/Orders-customize (1).png" alt=""><figcaption><p>Customize option</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Orders-customize (1).png" alt=""><figcaption><p>Customize option</p></figcaption></figure></div>
 
 ## Filtering or sorting orders <a href="#h_6397519928" id="h_6397519928"></a>
 
@@ -34,14 +34,14 @@ Use the filter icon in the column header to apply filters.&#x20;
 
 To sort the data for a column, select the column header, or select the filter icon and then select **Sort** **Ascending** or **Sort** **Descending**.
 
-<figure><img src="../../.gitbook/assets/Orders-sort.png" alt=""><figcaption><p>Sort options</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Orders-sort.png" alt=""><figcaption><p>Sort options</p></figcaption></figure></div>
 
 ## Individual order actions
 
 For each order, the **Actions** column lets you open the order details page by selecting **View**.&#x20;
 
-The details page displays in-depth information for your selected order, including item details, pricing and tax information, and more.&#x20;
+The details page displays in-depth information for your selected order, including item details, pricing, tax information, and more.&#x20;
 
 You can also export the order information by selecting the actions icon (**•••**) and choosing one of these options: **Export to PDF**, **Export to Excel (CSV),** or **Export to Excel (XLSX)**.
 
-<figure><img src="../../.gitbook/assets/legacy_orders-export.png" alt=""><figcaption><p>Export options</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/legacy_orders-export.png" alt=""><figcaption><p>Export options for an invoice</p></figcaption></figure></div>

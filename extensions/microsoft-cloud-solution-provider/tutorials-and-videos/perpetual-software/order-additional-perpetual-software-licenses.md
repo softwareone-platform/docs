@@ -14,9 +14,11 @@ Before starting this tutorial, make sure that your existing agreement is in the 
 {% step %}
 **Open your existing agreement**
 
-Navigate to the **Agreements** page, then select the required agreement.
+To open the agreement:
 
-On the agreement details page, select **Buy more** to start the purchase wizard.&#x20;
+1. Navigate to the **Agreements** page.
+2. Select the required agreement.
+3. On the agreement details page, select **Buy more** to start the purchase wizard.
 {% endstep %}
 
 {% step %}
@@ -33,7 +35,7 @@ The **Select Items** step displays all one-time software items you can order und
        3. Type the name of the required item (in this case, _Windows Server 2025_).
        4. **Close** the filter box.
 
-       <figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Filter options in the grid</p></figcaption></figure>
+       <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Filter options in the grid</p></figcaption></figure></div>
 2. Select the individual items from the list. When done, select **Add items**. Note that you must select at least one item.&#x20;
 3. Verify the quantity and change it as necessary in the **New qty** field. Then, select **Next**.
 {% endstep %}

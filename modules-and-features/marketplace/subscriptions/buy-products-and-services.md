@@ -2,7 +2,7 @@
 
 In the Marketplace Platform, you can order subscriptions by creating an order through the purchase wizard. The purchase wizard starts automatically when you select a product from the **Products** page.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Wizard (1).png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Wizard (1).png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure></div>
 
 The wizard is designed to guide you through the ordering process smoothly. It contains navigation buttons, a vertical progress bar with step numbers and title, and a data grid.&#x20;
 
@@ -16,22 +16,22 @@ Each step of the purchase wizard provides you with different options you can use
 
 During the ordering process, you are prompted to choose whether to use an existing agreement or create a new one. Agreements are essential for placing orders on the platform. Without an agreement, you will not be able to complete your order. Therefore, you must make a selection in the **Select agreement** step, which will determine the subsequent steps in the wizard.&#x20;
 
-You can set up a new agreement if you are new to SoftwareOne or if your procurement needs differ from your existing contracts. Existing agreements can be used if you wish to add new items, adjust the quantity of licenses, and add new products to the same agreement.&#x20;
+You can set up a new agreement if you are new to SoftwareOne or if your procurement needs differ from your existing contracts. Existing agreements can be used if you wish to add new items, adjust the quantity of licenses, or add new products to the same agreement.&#x20;
 
-If you select an existing agreement instead of creating a new one, you'll straightway see the **Select items** section, where you can choose the items you wish to order.&#x20;
+If you select an existing agreement instead of creating a new one, you'll immediately see the **Select items** section, where you can choose the items you wish to order.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1149).png" alt=""><figcaption><p>Select items section</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1149).png" alt=""><figcaption><p>Select items section</p></figcaption></figure></div>
 
 If you opt to create a new agreement, you'll need to select a licensee for the agreement. You can select an existing licensee or create a new one, and then provide the agreement's type and address information.
 
-<figure><img src="../../../.gitbook/assets/image (1150).png" alt=""><figcaption><p>Select licensee </p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1150).png" alt=""><figcaption><p>Select licensee </p></figcaption></figure></div>
 
 The purchase wizard also lets you enter additional IDs associated with your purchase. For example, in the **Details** step, you can enter a purchase order number in the **Agreement Additional ID** field. This number will then be displayed on your invoice. Additionally, you have the option to [save your order as a draft order](../orders/save-order-as-a-draft.md) and complete it later.
 
-<figure><img src="../../../.gitbook/assets/miro_details.png" alt=""><figcaption><p>Details step in the wizard</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/miro_details.png" alt=""><figcaption><p>Details step in the wizard</p></figcaption></figure></div>
 
 The **Review order** step requires you to read and understand various terms and conditions associated with your order and confirm the order details. Clicking **Place order** creates a new purchase order, which is sent to the vendor for processing.&#x20;
 
-<figure><img src="../../../.gitbook/assets/miro_review_order.png" alt=""><figcaption><p>Review order step in the wizard</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/miro_review_order.png" alt=""><figcaption><p>Review order step in the wizard</p></figcaption></figure></div>
 
-Once the confirmation is displayed, you can either **Close** the wizard or view your order details by clicking **View details**.&#x20;
+Once the confirmation is displayed, you can either **close** the wizard or view your order details by clicking **View details**.&#x20;

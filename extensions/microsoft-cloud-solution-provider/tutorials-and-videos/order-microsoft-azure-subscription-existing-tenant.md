@@ -18,15 +18,19 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Launch the purchase wizard**
+**Start the purchase wizard for Azure**
 
-Navigate to the **Products** page. Then, select **Microsoft Azure** from the available products.
+To start the wizard:
 
-On the details page, select **Buy now** to start the purchase wizard.
+1. Navigate to the **Products** page.&#x20;
+2. Select **Microsoft Azure** from the available products.
+3. On the details page, select **Buy now.** The purchase wizard starts.
 {% endstep %}
 
 {% step %}
-**Complete the steps in the purchase wizard**
+**Follow the wizard to place your order**
+
+Complete the following steps, making sure to enter or verify the required information where necessary:
 
 1. **Select agreement** - Select **Create new agreement** to set up a new agreement.
 2. **Select licensee** - Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md). Select **Next**.&#x20;

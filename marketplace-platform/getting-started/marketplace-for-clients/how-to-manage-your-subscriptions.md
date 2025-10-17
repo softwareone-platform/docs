@@ -1,16 +1,16 @@
 # How to Manage Your Subscriptions
 
-Subscription management through self-service is one of the key features of our platform, providing you with the flexibility to order and manage your subscriptions.&#x20;
+Subscription management through self-service is a key feature of the Marketplace Platform, giving you the flexibility to order new subscriptions and manage the existing ones.
 
-Through the Marketplace, you can easily order new subscriptions, increase or decrease the number of licenses, and place termination orders to cancel your subscriptions. You also have the option to edit the subscription name and manage renewals.&#x20;
+You can order new subscriptions through self-service, increase or decrease the number of licenses, and cancel your subscription. You can also edit the subscription name and manage renewals.&#x20;
 
 ## Viewing your subscription and subscription details
 
-You can view your subscriptions on the **Subscriptions** page. The page displays all subscriptions that you ordered, regardless of their status.
+All subscriptions are listed on the **Subscriptions** page. The page displays all subscriptions, regardless of their status.
 
-To view the details of an individual subscription, select the subscription to open its details page.
+To open the details page for a subscription, select the subscription name.
 
-<figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure></div>
 
 ## Adding or removing licenses
 

@@ -17,23 +17,27 @@ Video tutorial: How to increase your Adobe subscription licenses
 
 Before starting this tutorial, make sure that your Adobe agreement and the subscription are in the **Active** state.
 
-## Implementation
+## Upsizing a subscription
 
 {% stepper %}
 {% step %}
 **Open the subscription to upsize**
 
-Navigate to the **Subscriptions** page and select the required subscription.
+To open the subscription:
 
-On the subscription's details page, select **Edit** to launch the **Edit subscription** wizard.
+1. Navigate to the **Subscriptions** page.
+2. Select the required subscription.
+3. On the subscription's details page, select **Edit** to launch the **Edit subscription** wizard.
 {% endstep %}
 
 {% step %}
-**Complete the steps in the Edit Subscription wizard**
+**Follow the wizard to increase the quantity**
+
+Complete the following steps:
 
 1. **Items** - Enter the new quantity in the **New qty** field, then select **Next**. In the following image, the quantity is increased from **20** to **21**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/edit_subscription.png" alt=""><figcaption><p>Edit quantity</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/edit_subscription.png" alt=""><figcaption><p>Edit the quantity of licenses</p></figcaption></figure></div>
 
 2. **Details** - Enter the reference information as needed and select **Next**.
 3. **Review** - Select **Place order** to place your termination order for the subscription.

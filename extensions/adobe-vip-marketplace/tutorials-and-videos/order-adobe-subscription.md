@@ -26,19 +26,23 @@ Before starting this tutorial, make sure you have the following:
 * Your company address and contact information. You must provide this information when creating your Adobe VIP Marketplace account.&#x20;
 * An [active licensee](../../../modules-and-features/settings/licensees/licensee-states.md) or permission to [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the agreement.&#x20;
 
-## Implementation
+## Ordering an Adobe subscription
 
 {% stepper %}
 {% step %}
-**Launch the purchase wizard**
+**Start the purchase wizard for Adobe**
 
-Navigate to the **Products** page on the platform. Then, select **Adobe VIP Marketplace for Commercial**.
+To start the wizard:
 
-On the details page, select **Buy now** to start the purchase wizard.
+1. Navigate to the **Products** page
+2. Select the required Adobe product, for example, **Adobe VIP Marketplace for Commercial**.
+3. On the details page, select **Buy now**. The purchase wizard starts.
 {% endstep %}
 
 {% step %}
-**Complete the steps in the Purchase wizard**
+**Follow the wizard to place your order**
+
+Complete the following steps:
 
 1. **Select agreement** - Select **Create agreement** to set up your new Adobe agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.&#x20;
@@ -54,15 +58,15 @@ On the details page, select **Buy now** to start the purchase wizard.
      * Enter the minimum number of licenses and consumables to commit to.
    * Enter your Adobe membership ID if you are migrating your account.
 
-<figure><img src="../../../.gitbook/assets/MembershipID.png" alt=""><figcaption><p>Membership ID</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/MembershipID.png" alt=""><figcaption><p>Provide your Membership ID</p></figcaption></figure></div>
 
 5.  **Items** - Do the following:
 
-    1. Select the individual items you want. You can choose multiple items from the list.&#x20;
+    1. Select the items you want. You can choose multiple items from the list.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/AdobeItems.png" alt=""><figcaption><p>Select items</p></figcaption></figure>
+    <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AdobeItems.png" alt=""><figcaption><p>Select the items you want to order</p></figcaption></figure></div>
 
-    b. Review and adjust the quantity as needed and then select **Next** to continue.
+    b. Review and adjust the quantity as needed, and select **Next**.
 6. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 7. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
 8. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.

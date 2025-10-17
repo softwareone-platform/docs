@@ -12,13 +12,11 @@ Additionally, you can check the details for specific items, including how long t
 
 When you are ready to order, select **Buy now** to start the ordering process.
 
-<figure><img src="broken-reference" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
-
 ## Purchase orders for AWS
 
 The Purchase Wizard for AWS contains a series of steps that must be completed to place the order.&#x20;
 
-<figure><img src="../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure></div>
 
 The steps and options for placing an order vary depending on whether you are creating a new agreement or using an existing one. The process also differs if you are transferring your current account. For instance, if you choose to transfer your account, you can transfer standalone AWS accounts without an organization or your entire AWS organization that includes AWS-linked accounts. To learn more about the different transfer options, see [Account Options](account-options.md).&#x20;
 

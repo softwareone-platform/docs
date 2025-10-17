@@ -18,7 +18,7 @@ To add a new user:
 
 1. Navigate to the **Users** page. Then, select **Add** to start the **Add user** wizard.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Add user page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Add user wizard</p></figcaption></figure></div>
 
 2. In the **User details** step, enter the following details and select **Next**:
    1. **First name** - (Required) The first name of the individual associated with the account.
@@ -28,7 +28,7 @@ To add a new user:
    5. **Phone number** - (Optional) The individual's phone number.&#x20;
 3. In the **Groups** step, select the groups to add the individual to. You must choose at least one group. When done, select **Next**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (969).png" alt=""><figcaption><p>Groups section</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (969).png" alt=""><figcaption><p>Groups step in the Add user wizard</p></figcaption></figure></div>
 
 4. In the **Overview** step, review the details and select **Add**.&#x20;
 
@@ -39,7 +39,7 @@ The user is added to your account, and the invitation is emailed. Select **View 
 
 We recommend checking the Spam or Junk folder. Administrators can also copy the invitation link from the interface and share it with the individual or send the invitation again. To learn more, see [Manage User Invitations](manage-user-invitations.md).
 
-**Received the invitation email, but the link has expired?**
+**Received the invitation email, but the link has expired.**
 
 The administrator must generate a new invitation. To learn more, see [Manage User Invitations](manage-user-invitations.md).
 {% endhint %}

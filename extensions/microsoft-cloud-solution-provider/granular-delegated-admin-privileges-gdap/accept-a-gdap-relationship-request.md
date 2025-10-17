@@ -8,22 +8,22 @@ After placing an order, you'll need to accept our GDAP invitation. The invitatio
 
 To accept a GDAP relationship request:
 
-1. Navigate to the **Orders** page on the platform.
+1. Navigate to the **Orders** page.
 2. Open the details page of the required purchase order. You can open the details page by selecting the order ID.
 3. On the **General** tab, select the GDAP URL. You'll be redirected to the Microsoft 365 admin center login page.
 
-<figure><img src="../../../.gitbook/assets/csp_gdap_accept.png" alt=""><figcaption><p>GDAP URL on the General tab</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_gdap_accept.png" alt=""><figcaption><p>GDAP URL on the General tab</p></figcaption></figure></div>
 
 4. Sign in to the admin center with an account that has **Global Administrator** permissions. You may use the Global Administrator credentials associated with the primary domain or tenant name stated in your purchase order.
 5. Review the SoftwareOne partner information and select **Next**.
 
-<figure><img src="../../../.gitbook/assets/csp_partner_information.png" alt=""><figcaption><p>Partner relationship overview</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_information.png" alt=""><figcaption><p>Partner relationship overview</p></figcaption></figure></div>
 
 6. Select the link for the Microsoft Customer Agreement and read the agreement.
 7. Select the checkbox to acknowledge that you have read the agreement and select **Accept**.
 
-<figure><img src="../../../.gitbook/assets/csp_partner_accept_agreement.png" alt=""><figcaption><p>Partner information</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_accept_agreement.png" alt=""><figcaption><p>Partner information</p></figcaption></figure></div>
 
 8. Return to your purchase order in the Marketplace Platform and select **Process** in the upper right to resume order processing. To learn more, see [Change Your Order's Status to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).
 
-<figure><img src="../../../.gitbook/assets/csp_gdap_accept_process.png" alt=""><figcaption><p>Process option on the order details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_gdap_accept_process.png" alt=""><figcaption><p>Process option on the order details page</p></figcaption></figure></div>

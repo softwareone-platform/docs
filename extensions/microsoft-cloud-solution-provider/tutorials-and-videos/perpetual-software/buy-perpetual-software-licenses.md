@@ -20,13 +20,17 @@ Before starting this tutorial, make sure you are familiar with the [key concepts
 {% step %}
 **Start the purchase wizard**
 
-Navigate to the **Products** page. Then, select **Microsoft Perpetual Software for Education** from the list of products.
+To start the wizard:
 
-On the details page, select **Buy now** to start the purchase wizard.
+1. Navigate to the **Products** page.&#x20;
+2. Select **Microsoft Perpetual Software for Education** from the list of products.
+3. On the details page, select **Buy now**. The purchase wizard starts.
 {% endstep %}
 
 {% step %}
-**Complete the steps in the purchase wizard**
+**Follow the wizard to place your order**
+
+Complete the following steps, making sure to enter or verify the required information where necessary:
 
 1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.

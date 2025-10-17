@@ -16,7 +16,7 @@ You can renew an expired certificate by re-enrolling in the program.
 
 <summary>Why is my certificate pending?</summary>
 
-A certificate will remain in the pending state if there are issues with your enrollment. For example, if the MPN ID you provided during enrollment is invalid, and requires correction.
+A certificate will remain pending if there are issues with your enrollment. For example, if the MPN ID you provided during enrollment is invalid, and requires correction.
 
 If your certificate is pending, the **General** tab on the certificate details page will describe the steps you need to take so we can process your enrollment.
 
@@ -53,7 +53,7 @@ To learn more about marketplace orders, see [Orders](../../../modules-and-featur
 
 <summary>What can cause an order to not complete processing as expected?</summary>
 
-An order can remain in the **Querying** state due to issues with the ordering parameters, such as the domain name, or if a required action has not been completed.
+An order can remain **Querying** due to issues with the ordering parameters, such as the domain name, or if a required action has not been completed.
 
 If there's an issue with your order, the **General** tab on the order details page will highlight the issue and provide steps you need to take to ensure your order moves to the next stage.
 
@@ -67,7 +67,7 @@ For example, if the GDAP relationship request needs to be accepted or the domain
 
 If the domain name or tenant ID needs adding or updating, follow these steps:
 
-1. Navigate to the **Orders** page in the platform. Then, select the required order.&#x20;
+1. Navigate to the **Orders** page, then select the required order.&#x20;
 2. On the order details page, select the **Parameters** tab.&#x20;
 3. In the **Ordering** section, select **Edit**. Then, add or update the **Existing domain name** or **Primary domain name** fields as needed.&#x20;
 4. Select **Save**.&#x20;
@@ -148,7 +148,7 @@ If you don't complete the enrollment, you won't be able to order CSP products fo
 
 <summary>How do I set up a resale licensee?</summary>
 
-You can set up the licensee from the **Licensees** page, available under **Settings** in the main navigation menu. For details, see [How to Configure Licensees for Resale](how-to-configure-licensees-for-resale.md).
+You can set up a licensee from the **Licensees** page, available under **Settings** in the main navigation menu. For details, see [How to Configure Licensees for Resale](how-to-configure-licensees-for-resale.md).
 
 </details>
 
@@ -158,7 +158,7 @@ You can set up the licensee from the **Licensees** page, available under **Setti
 
 Account administrators can add new users from the **Users** page, available under **Settings** in the main navigation menu.&#x20;
 
-To invite someone, you'll need their first and last name and email address. For details, see [Add New Users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
+To invite someone, you'll need their first and last name, as well as their email address. For details, see [Add New Users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
 
 </details>
 
@@ -180,7 +180,7 @@ Account administrators can configure and manage notifications at the account lev
 
 You cannot create or manage price lists. You can only view the existing ones.&#x20;
 
-All price lists are available on the **Price lists** page, located under the **Marketplace** in the main navigation menu. Additionally, price lists are also available under the **Pricing** section on the product details page.
+All price lists are available on the **Price lists** page, located under the **Catalog** in the main navigation menu. Additionally, price lists are also available under the **Pricing** section on the product details page.
 
 </details>
 
@@ -190,7 +190,7 @@ All price lists are available on the **Price lists** page, located under the **M
 
 <summary>How do I access the SoftwareOne Marketplace?</summary>
 
-You can access the SoftwareOne Marketplace by signing in to your account and selecting **Marketplace** > **Products** from the main navigation menu.
+You can access the SoftwareOne Marketplace by signing in to your account and selecting **Catalog** > **Products** from the main navigation menu.
 
 </details>
 
@@ -200,7 +200,7 @@ You can access the SoftwareOne Marketplace by signing in to your account and sel
 
 To buy products for resale to your customers:
 
-1. Navigate to the **Products** page, located under the **Marketplace** in the main navigation menu.
+1. Navigate to the **Products** page.
 2. Select the product you want to buy. Then, select **Buy Now** to start the purchase wizard.
 3. Follow the steps in the purchase wizard. Make sure to create a new agreement or select an existing one, select a preconfigured resale licensee, and choose your certificate.
 4. Complete the remaining steps in the wizard to place your order.
@@ -273,7 +273,7 @@ For details, see [How to Change the Quantity of Licenses](../marketplace-for-cli
 
 Use the following methods to track upcoming renewals:
 
-* Use the **Renewal date** column on the **Subscriptions** page, located under **Marketplace** in the main navigation menu.
+* Use the **Renewal date** column on the **Subscriptions** page.
 * Apply the **Renewal date** filter in the data grid. You can also sort subscriptions based on their renewal date.&#x20;
 
 - Open an individual subscription to check the renewal date.

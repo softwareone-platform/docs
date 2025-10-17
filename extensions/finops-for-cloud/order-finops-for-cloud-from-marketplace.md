@@ -13,23 +13,21 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Navigate to the Products page**
-
-The Products page contains all products available to order from the SoftwareOne Marketplace. You can access the page from the main navigation menu.
-{% endstep %}
-
-{% step %}
 **Launch the Purchase Wizard for FinOps for Cloud**
 
-From the list of products, select **SoftwareOne FinOps for Cloud**. Then, on the details page, select **Buy now** to start the purchase wizard.
+To start the purchase wizard:
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
+1. Navigate to the **Products** page in the platform.
+2. Select **SoftwareOne FinOps for Cloud**.&#x20;
+3. On the details page, select **Buy now**. The purchase wizard starts.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Use the Purchase Wizard to place your order**
+**Follow the wizard to place your order**
 
-Complete the following steps in the Purchase Wizard:
+Complete the following steps to place your order:
 
 1. **Select agreement** - Select **Create agreement** to start creating your new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can [add a new licensee](../../modules-and-features/settings/licensees/create-licensees.md) by selecting **Create licensee**.
@@ -42,11 +40,11 @@ Complete the following steps in the Purchase Wizard:
 When selecting a **Currency**, make sure to choose the correct one, as it can't be changed after the agreement has been created. You must select the same currency that your cloud provider (like AWS or Azure) uses for billing. For example, if you are billed in USD, you must select **USD** from the list. If you choose a different currency, you won't be able to import the cost and usage data from your cloud provider.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/FFC_parameters.png" alt=""><figcaption><p>Agreement step in the wizard</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_parameters.png" alt=""><figcaption><p>Agreement step in the purchase wizard</p></figcaption></figure></div>
 
 4. **Items** - Choose **SoftwareOne FinOps for Cloud**. Then, select **Add items** to add this item to your order. When done, select **Next**.
 
-<figure><img src="../../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>Items step within the wizard</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>Items step in the purchase wizard</p></figcaption></figure></div>
 
 5. **Details** - Provide reference details, like additional IDs or notes as necessary, then select **Next**.
 6. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.

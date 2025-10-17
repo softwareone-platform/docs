@@ -13,7 +13,7 @@ Before you start this tutorial, make sure you understand the account transfer op
 
 {% stepper %}
 {% step %}
-**Start the Purchase Wizard for AWS**
+**Start the purchase wizard for AWS**
 
 To start the wizard:
 
@@ -21,13 +21,15 @@ To start the wizard:
 2. From the list of products, select **Amazon Web Services**.&#x20;
 3. On the product details page, select **Buy now**. The Purchase Wizard for AWS starts.
 
-<figure><img src="../../../.gitbook/assets/aws_productdetails.png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_productdetails.png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Use the Purchase Wizard to transfer your existing account**
+**Follow the wizard to transfer your existing account**
 
-<figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure></div>
+
+Complete the following steps, making sure to enter or verify the required information where necessary:
 
 1. **Select agreement** - Select **Create agreement** to start creating your new agreement with SoftwareOne.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we will select an existing licensee. To add a new licensee, select **Add licensee** and follow the instructions in [Create licensee](../../../modules-and-features/settings/licensees/create-licensees.md).

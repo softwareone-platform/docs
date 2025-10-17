@@ -15,7 +15,7 @@ To update your account details:
 1. Navigate to the **Account** page.
 2. Select **Edit** to start the **Edit account** wizard.
 
-<figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Account page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Account page</p></figcaption></figure></div>
 
 3. Change the **General** settings as necessary:
    * **Logo** - Update the logo for your account. You can upload an image by selecting **Select file** or by dragging the image into the field.

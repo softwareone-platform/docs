@@ -16,11 +16,11 @@ Keep the following rules in mind:
 
 * Only account administrators can set visibility restrictions when creating a new group (see [Create New Group](create-new-group.md)) or managing an existing group (see [Edit Group](edit-group.md)).
 
-<figure><img src="../../../.gitbook/assets/BuyersGroups.png" alt=""><figcaption><p>Buyers section</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/BuyersGroups.png" alt=""><figcaption><p>Buyers section</p></figcaption></figure></div>
 
 * Visibility restrictions apply to the **Marketplace** module only. Therefore, if you want to restrict a group to specific buyers, you must select the **Marketplace** module when adding or updating groups.
 
-<figure><img src="../../../.gitbook/assets/ModulesGroup.png" alt=""><figcaption><p>Marketplace module</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/ModulesGroup.png" alt=""><figcaption><p>Marketplace module</p></figcaption></figure></div>
 
 * When a group member belongs to multiple groups, and each group has access to several buyers, the member's access is determined by the sum of all those buyers. For instance, if your account contains three groups (Group 1, Group 2, and Group 3) and five buyers (A, B, C, D, & E), the platform will apply restrictions as follows:
   * If Group 1 has access to the Marketplace module, and its members are restricted to Buyers A and B, the group members can view the Marketplace objects (like agreements, subscriptions, and more) linked to Buyers A and B.

@@ -26,10 +26,10 @@ Currently, only Adobe VIP Marketplace supports split billing.&#x20;
 
 You can activate split billing using the **Split Billing** option on the details page of your agreement. For instructions, see [Activate split billing](../../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md#id-1.-activate-split-billing).
 
-<figure><img src="../../../../.gitbook/assets/activate_split_billing.png" alt=""><figcaption><p>Split billing option on the agreement details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/activate_split_billing.png" alt=""><figcaption><p>Split billing option on the agreement details page</p></figcaption></figure></div>
 
 Once activated, the **Split billing** tab appears on the agreement’s details page.&#x20;
 
-By default, the buyer associated with the agreement is set as the **Owner** buyer, and 100% billing is allocated to the owner buyer. You can configure additional buyers using the **Edit** option. For more information, see [Configure Buyers for Split Billing](configure-buyers-for-split-billing.md).
+By default, the buyer associated with the agreement is set as the **Owner** buyer, and 100% billing is allocated to the Owner buyer. You can configure additional buyers using the **Edit** option. For more information, see [Configure Buyers for Split Billing](configure-buyers-for-split-billing.md).
 
-<figure><img src="../../../../.gitbook/assets/split billing tab.png" alt=""><figcaption><p>Close option on the Split billing details tab</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/split billing tab.png" alt=""><figcaption><p>Close option on the Split billing details tab</p></figcaption></figure></div>

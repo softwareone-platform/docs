@@ -22,7 +22,7 @@ To open the details page:
 1. Navigate to the **Program** page.
 2. Select **Cloud Solution Provider Partner Program**. The program's details page opens.
 
-<figure><img src="../../../.gitbook/assets/csp_partner_program.png" alt=""><figcaption><p>The details page of the Cloud Solution Provider Partner Program</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_program.png" alt=""><figcaption><p>Details page of the Cloud Solution Provider Partner Program</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

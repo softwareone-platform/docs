@@ -13,9 +13,9 @@ Your API keys have permissions assigned to them, so keep them secure. Do not sha
 
 All API requests must be made over **HTTPS**. Calls made over plain HTTP will fail. API requests without authentication will also fail.
 
-As an account administrator, you can view and manage your tokens on the **API tokens** page. The page is available under **Settings** in the main menu.
+Account administrators can view and manage tokens on the **API tokens** page.
 
-<figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>API tokens page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>API tokens page</p></figcaption></figure></div>
 
 The page shows all tokens associated with your account. For each token, you can view details such as the token's name, the creator's name, the creation date, and the token's current [status](token-states.md).&#x20;
 
@@ -25,7 +25,7 @@ You also have action links that allow you to enable, disable, or delete the toke
 
 To view the details page of a token, select the token in the **API token** column.&#x20;
 
-<figure><img src="../../../.gitbook/assets/TokenDetails.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/TokenDetails.png" alt=""><figcaption><p>The details page of an API token</p></figcaption></figure></div>
 
 When you open the details page, it shows the token's name, marketplace ID, and status. The page also contains the following tabs that display corresponding information:
 

@@ -17,7 +17,7 @@ The process of enrolling in a program through the Marketplace Platform involves 
 
 You can view your enrollments on the **Enrollments** page in the platform. The page is available under **Marketplace** in the main menu.
 
-<figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Enrollments page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Enrollments page</p></figcaption></figure></div>
 
 The enrollments page displays all Marketplace enrollments, including the ones that are completed as well as being processed.&#x20;
 
@@ -27,7 +27,7 @@ For each enrollment, you can view various details, including the enrollment ID, 
 
 To view the full details of an enrollment, select the enrollment ID on the **Enrollments** page.
 
-<figure><img src="../../../.gitbook/assets/enrollments_details_page.png" alt=""><figcaption><p>Enrollment details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_details_page.png" alt=""><figcaption><p>Enrollment details page</p></figcaption></figure></div>
 
 The details page displays extended information for your selected enrollment.&#x20;
 

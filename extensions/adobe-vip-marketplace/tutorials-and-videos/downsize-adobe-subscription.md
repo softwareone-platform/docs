@@ -12,23 +12,27 @@ If you are outside the return period, the decrease will only take effect on your
 
 Before starting this tutorial, make sure that the subscription you want to downsize is in the **Active** state. A subscription in any other state cannot be downsized. See [Subscription States](../../../modules-and-features/marketplace/subscriptions/subscription-states.md) for information on various statuses.
 
-## Implementation
+## Downsizing a subscription
 
 {% stepper %}
 {% step %}
 **Open the subscription to downsize**
 
-Navigate to the **Subscriptions** page and select the required subscription.
+To open the subscription:
 
-On the subscription details page, select **Edit** to launch the **Edit subscription** wizard.
+1. Navigate to the **Subscriptions** page.
+2. Select the required subscription.
+3. On the subscription details page, select **Edit** to launch the **Edit subscription** wizard.
 {% endstep %}
 
 {% step %}
-**Complete the steps in the Edit Subscription wizard**
+**Follow the wizard to change the quantity**
+
+Complete the following steps:
 
 1. **Items** - Enter the new number in the **New qty** field. In the following image, the quantity of both items is lowered from **20** to **19**.
 
-<figure><img src="../../../.gitbook/assets/downsize_subscription_change_qty.png" alt=""><figcaption><p>Items section</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/downsize_subscription_change_qty.png" alt=""><figcaption><p>Items section</p></figcaption></figure></div>
 
 2. **Details** - Enter the reference information that might help you identify the change order easily. You can add the **Additional ID** and **Notes**. Then, select **Next**.
 3. **Review** - Read the terms and conditions by selecting the links in the footer. When done, select **Place order**.&#x20;

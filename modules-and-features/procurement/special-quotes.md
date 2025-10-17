@@ -74,4 +74,4 @@ To delete a special quote:
 
 1. Navigate to the Special Quotes page and locate the quote you want to delete.
 2. Select the quote, or from the **Actions** column, select **View**. The Special Quote Detail page is displayed.
-3. Select **Delete** and then confirm that you want to delete the quote. The quote is deleted and a confirmation message is displayed.&#x20;
+3. Select **Delete** and then confirm that you want to delete the quote. The quote is deleted, and a confirmation message is displayed.&#x20;

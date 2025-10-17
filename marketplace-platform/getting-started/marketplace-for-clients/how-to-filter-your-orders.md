@@ -1,6 +1,6 @@
 # How to Filter Your Orders
 
-The platform supports various types of orders, including change, purchase, configuration, and termination orders. When you place an order, it's displayed on the **Orders** page of the platform.&#x20;
+The platform supports various types of orders, including change, purchase, configuration, and termination orders. All orders are displayed on the **Orders** page.&#x20;
 
 If you need to find a specific order, you can use the filter option to search for and view the order details. We provide several filter options to help you narrow down your list of orders. You can apply a single filter or create a combination of filters by selecting different fields, operators, and values. This topic describes how to use these filters.
 
@@ -10,7 +10,7 @@ To find an order using a filter, such as status:
 
 1. Navigate to the **Orders** page and select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
 
-<figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure></div>
 
 2. Select **Add another condition** to open a menu of conditions.&#x20;
 3. Define the conditions:
@@ -19,7 +19,7 @@ To find an order using a filter, such as status:
    3. In the third field, type or select a value from the list of preconfigured values. The values displayed in this field are determined by your selection in the first field. To see your draft orders, select **Draft**.
    4. If needed, select **Add another condition** to specify additional conditions as needed.
 
-Your list of orders will be refreshed based on the filters. To reset the filters and revert to the default view, select **Reset filters** in the filter box.&#x20;
+Your list of orders is refreshed according to the filters. To reset the filters and revert to the default view, select **Reset filters** in the filter box.&#x20;
 
 ## Viewing your order's details
 

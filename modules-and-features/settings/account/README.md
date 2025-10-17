@@ -2,9 +2,9 @@
 
 An account enables a company or organization to sign in to the Marketplace platform and access the modules and features enabled for your account by SoftwareOne.
 
-The platform supports various account types, including client and vendor accounts, each offering different functionalities based on the account type.
+The platform supports various account types, including client and vendor accounts, each offering different functionalities based on the account type.&#x20;
 
-As an account administrator, you can view your account details on the **Account** page within the platform. The page is available under **Settings** in the main menu.
+Account administrators can view account information on the **Account** page.
 
 <figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>Your account page</p></figcaption></figure>
 

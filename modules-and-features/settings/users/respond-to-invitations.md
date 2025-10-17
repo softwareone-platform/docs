@@ -2,19 +2,17 @@
 
 When you've been invited to the Marketplace Platform by the SoftwareOne Operations team or your account administrator, you'll receive an invitation to join the account.&#x20;
 
-You must action the invitation after being invited to the platform.
-
-## Accepting an invitation
+## Accepting the invitation
 
 To accept the invitation:
 
 1. Select the invite link in your email. The following page is displayed:
 
-<figure><img src="../../../.gitbook/assets/image (887).png" alt="" width="375"><figcaption><p>Welcome screen</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (887).png" alt="" width="375"><figcaption><p>Welcome screen</p></figcaption></figure></div>
 
 2. Select **Accept invitation**. The registration page is displayed:
 
-<figure><img src="../../../.gitbook/assets/image (888).png" alt="" width="375"><figcaption><p>Registration page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (888).png" alt="" width="375"><figcaption><p>Registration page</p></figcaption></figure></div>
 
 3. On the registration page, do the following:
    1. Enter your first name and last name.
@@ -38,10 +36,10 @@ After signing in, you are redirected to the **Home** page, from where you can ac
 An invitation link will not work if it has expired. Invite links are unique and must be accepted within 7 days from the send date. If your invite link has expired, the account administrator must create a new link. For instructions, see [Manage User Invitations](manage-user-invitations.md).
 {% endhint %}
 
-## Declining an invitation
+## Declining the invitation
 
 You can decline an invitation if it was sent to you in error or if you choose not to join the account.
 
 To decline, open the invitation link and select **Decline invitation**.
 
-<figure><img src="../../../.gitbook/assets/image (890).png" alt="" width="375"><figcaption><p>Decline invitation</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (890).png" alt="" width="375"><figcaption><p>Decline invitation</p></figcaption></figure></div>

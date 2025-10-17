@@ -12,7 +12,7 @@ To update the **Additional Client ID** field:
 2. Select the link for the agreement in the **Agreement** column.&#x20;
 3. On the agreement details page, select the **Details** tab. Then, select **Edit**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (946).png" alt=""><figcaption><p>Details tab of an agreement</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (946).png" alt=""><figcaption><p>Details tab of an agreement</p></figcaption></figure></div>
 
 4. In the **Edit ID** dialog, enter the new client ID and select **Save**.&#x20;
 

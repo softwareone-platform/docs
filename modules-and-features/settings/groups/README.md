@@ -10,19 +10,19 @@ When working with groups in the platform, note the following points:
 * Users must belong to an account before administrators can add them to a group. If the individual doesn't belong to an account, their access to the marketplace platform is restricted.
 * Users can belong to multiple accounts and have varying permissions in each, based on their group memberships within each account.
 
-Account administrators can view their groups on the **Groups** page. The page is available under **Settings** in the main menu.
+Account administrators can view their groups on the **Groups** page.
 
-<figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>Groups page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>Groups page</p></figcaption></figure></div>
 
 The page shows all groups in the account. For each group, you can view details such as the group's name, total number of users it contains, and buyers that are visible to the group members. Buyer visibility is defined by administrators while creating or editing groups. To learn more, see [Restrict Group to Certain Buyers](restrict-group-to-certain-buyers.md).
 
 You also have options that [edit a group](edit-group.md) or [delete it](delete-group.md) using the actions icon (**•••**).
 
-## Viewing groups details <a href="#subscription-details" id="subscription-details"></a>
+## Viewing group details <a href="#subscription-details" id="subscription-details"></a>
 
 To view the details page of a group, select the group on the **Groups** page.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Groups (1).png" alt=""><figcaption><p>Details page of a group</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups (1).png" alt=""><figcaption><p>Details page of a group</p></figcaption></figure></div>
 
 The group details page contains general group information, such as group name and status. It also contains the following tabs:
 

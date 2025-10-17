@@ -27,7 +27,7 @@ Partners can suspend (previously known as ‘Pause’) a subscription to tempora
 
 ### Expired
 
-The **30-day expired state** follows the end of an **Active** subscription. A previously active subscription will enter this state if auto-renew is turned off and the terms end. In these 30 days:
+The **30-day expired state** follows the end of an **Active** subscription. A previously active subscription will enter this state if auto-renewal is turned off and the terms end. In these 30 days:
 
 * Users can access files and services.
 * Administrators can access data.

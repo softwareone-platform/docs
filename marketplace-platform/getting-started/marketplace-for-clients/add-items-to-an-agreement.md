@@ -2,9 +2,9 @@
 
 You can add new items to your agreement using the **Buy more** option on the agreement details page.&#x20;
 
-Items can only be added to the agreements in the active state. If the agreement is not active, the **Buy more** option will be unavailable.&#x20;
+Items can only be added to the agreements in the active state. If the agreement is not active, the **Buy more** option is unavailable.&#x20;
 
-When you click **Buy more**, the platform automatically detects the agreement and takes you directly to the **Items** section of the purchase wizard, where you can select the items and complete the ordering process.
+When you select **Buy more**, the platform automatically detects the agreement and takes you directly to the **Items** step of the purchase wizard, where you can choose the items you want to order and place an order.
 
 ## Adding items to your agreement <a href="#adding-new-items-to-your-agreement" id="adding-new-items-to-your-agreement"></a>
 
@@ -14,7 +14,7 @@ To add new items to your agreement:
 2. Select the required agreement. Make sure that the agreement is active.
 3. On the agreement details page, select **Buy more** to start the purchase wizard. &#x20;
 
-<figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt=""><figcaption><p>Buy more option on the agreement details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt=""><figcaption><p>Buy more option on the agreement details page</p></figcaption></figure></div>
 
 4. In the **Items** step, do the following:
    1. Select **Add items**. A new window (also called **Select items**) opens, displaying the products you can order under this agreement.
@@ -22,7 +22,7 @@ To add new items to your agreement:
    3. Select **Add items**. Your selected items are added to the agreement, and the **Select items** step is displayed again.
    4. Set the quantity of your newly added items in the **New qty** field. Then, select **Next**.
 
-<figure><img src="../../../.gitbook/assets/adobe_select_items.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe_select_items.png" alt=""><figcaption></figcaption></figure></div>
 
 5. In the **Details** step, add or update the reference ID and your comments. Then, select **Next**.
 6. In the **Review order** step, verify the information and select **Place order**_._

@@ -4,19 +4,19 @@ A statement is a billing document you receive at the end of your billing period,
 
 Statements are provided in the XLSX format and contain a detailed view of your invoice data, including individual charges, subscriptions, and orders for the billing period.&#x20;
 
-In the Marketplace Platform, your statements are available on the **Statements** page, located under **Billing** in the main navigation menu.&#x20;
+You can view your billing statements on the **Statements** page in the platform.
 
-<figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Statements page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Statements page</p></figcaption></figure></div>
 
-The main **Statements** page displays a list of statements and properties, such as statement ID, the total amount due, status, and more.&#x20;
+The page shows all statements generated for your account and properties, such as statement ID, the total amount due, status, and more.&#x20;
 
 For each statement, you can also view the type. A **Debit** type means that the total amount is positive or zero, and a **Credit** type means that the total amount is negative.
 
 ## Viewing statement details <a href="#subscription-details" id="subscription-details"></a>
 
-You can view detailed information for a statement by selecting the ID on the **Statements** page.&#x20;
+To view the detailed information for a statement, select the statement ID on the **Statements** page.&#x20;
 
-<figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>Details page of a statement</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>Details page of a statement</p></figcaption></figure></div>
 
 The details page of a statement contains links to the related business objects and general statement details. You can also view the following tabs:&#x20;
 

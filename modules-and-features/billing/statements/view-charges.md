@@ -2,7 +2,7 @@
 
 Your Marketplace billing statements include all the charges used to generate an invoice for the specified billing period.&#x20;
 
-Each charge on your statement corresponds to a transaction related to the subscriptions in your agreement. You can use the list of charges to understand the composition of your invoice and verify each individual charge.&#x20;
+Each charge on your statement corresponds to a transaction related to the subscriptions in your agreement. You can use the list of charges to understand the composition of your invoice and verify each charge.&#x20;
 
 ## Viewing charges
 
@@ -13,7 +13,7 @@ You can view the charges in two ways:
 
 To download a sample Excel statement that shows how the charges appear, use the following link:
 
-{% file src="../../../.gitbook/assets/sample_statement.xlsx" %}
+{% file src="../../../.gitbook/assets/sample-statement.xlsx" %}
 Download this statement to view sample charges
 {% endfile %}
 

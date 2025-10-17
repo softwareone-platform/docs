@@ -20,7 +20,7 @@ To remove an individual from your account:
 2. Locate the individual you want to remove from your account.
 3. Select the actions icon (**•••**) and choose **Remove**.
 
-<figure><img src="../../../.gitbook/assets/image (1002).png" alt=""><figcaption><p>Remove option under Actions</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1002).png" alt=""><figcaption><p>Remove option in the actions menu</p></figcaption></figure></div>
 
 4. In the **Remove user** dialog, select **Remove** to confirm the action.
 

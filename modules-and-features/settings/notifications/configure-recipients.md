@@ -14,7 +14,7 @@ To add specific users and groups to your email notifications:
 2. On the **Subscribers** tab, select the relevant category. For example, to configure recipients for order-related notifications, select **Orders**.
 3. On the details page, select the **Recipients** tab.
 
-<figure><img src="../../../.gitbook/assets/notifications_subscribers_details.png" alt=""><figcaption><p>Recipients tab on the Subscriber details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_subscribers_details.png" alt=""><figcaption><p>Recipients tab on the Subscriber details page</p></figcaption></figure></div>
 
 4. Define the recipients:
    * To define specific users, select **Edit** in the **Users** section and select all users who should receive email messages. Note that only active users are displayed in this list. If a user you want to add isn't displayed, make sure they have been [added to your account](../users/add-new-users.md).
@@ -27,8 +27,8 @@ You can manage your recipients using the **Edit** option on the **Recipients** t
 
 * To remove a user, clear the checkbox next to that user and save your changes.
 
-<figure><img src="../../../.gitbook/assets/notifications_edit_users.png" alt=""><figcaption><p>Remove a user from your email notifications</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_edit_users.png" alt=""><figcaption><p>Remove a user from your email notifications</p></figcaption></figure></div>
 
 * To remove a group, clear the checkbox next to that group and save your changes.
 
-<figure><img src="../../../.gitbook/assets/notification_edit_groups.png" alt=""><figcaption><p>Remove a group from your email notifications</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notification_edit_groups.png" alt=""><figcaption><p>Remove a group from your email notifications</p></figcaption></figure></div>

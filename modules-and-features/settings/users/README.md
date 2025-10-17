@@ -9,7 +9,7 @@ In the Marketplace Platform:
 * Users belonging to multiple accounts can also switch between those accounts without signing out of the platform.
 * Users who don't belong to any account have limited capabilities. Such users can only sign in to the platform and adjust their profile settings. They cannot access any module.
 
-As an account administrator, you can view and manage users from the **Users** page, available under **Settings** in the main menu.
+Account administrators can view and manage users from the **Users** page.
 
 <figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>Users page</p></figcaption></figure>
 

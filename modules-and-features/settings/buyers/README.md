@@ -2,9 +2,7 @@
 
 In the Marketplace Platform, a buyer is defined as an organization that procures products or services from SoftwareOne. Buyers are recognized as legal entities within SoftwareOne's ERP system and are the recipients of invoices issued by SoftwareOne.
 
-Account administrators can update buyer details and enable or disable buyers. However, admins cannot add new buyers to the account. Only SoftwareOne can add buyers.&#x20;
-
-Admins can also view all buyers on the **Buyers** page, available under **Settings** in the main navigation menu.&#x20;
+Account administrators can view all buyers on the **Buyers** page. Admins can update buyer details and enable or disable buyers. However, they cannot add new buyers to the account. Only SoftwareOne can add buyers.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>Buyers page</p></figcaption></figure>
 

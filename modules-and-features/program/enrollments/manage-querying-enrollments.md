@@ -8,6 +8,6 @@ To identify and take action on such enrollments:
 2. From your list of enrollments, select the enrollment in a **Querying** status. If required, [use filters](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md) to find the relevant enrollment.
 3. On the enrollment details page, read the message in the header and within the **General** tab, and take action as indicated in the message. The following image shows an example:
 
-<figure><img src="../../../.gitbook/assets/enrollments_querying_state.png" alt=""><figcaption><p>Enrollment with a Querying status</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_querying_state.png" alt=""><figcaption><p>Enrollment with a Querying status</p></figcaption></figure></div>
 
 4. Select **Process** to submit the completed enrollment to the vendor for processing. The enrollment's status will change from **Querying** to **Pending**.

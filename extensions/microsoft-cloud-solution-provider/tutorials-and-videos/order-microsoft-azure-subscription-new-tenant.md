@@ -18,17 +18,21 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Launch the purchase wizard**
+**Start the purchase wizard for Azure**
 
-Navigate to the **Products** page. Then, select **Microsoft Azure** from the available products.
+To start the wizard:
 
-On the details page, select **Buy now** to start the purchase wizard.
+1. Navigate to the **Products** page.&#x20;
+2. Select **Microsoft Azure** from the available products.
+3. On the details page, select **Buy now** to start the purchase wizard.
 
-<figure><img src="../../../.gitbook/assets/Azure BuyNow.png" alt=""><figcaption><p>Buy now</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Azure BuyNow.png" alt=""><figcaption><p>Buy now</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Complete the steps in the purchase wizard**
+**Follow the wizard to place the order**
+
+Complete the following steps:
 
 1. **Create agreement** - Choose **Create agreement** to start creating your new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
@@ -46,7 +50,7 @@ On the details page, select **Buy now** to start the purchase wizard.
 7. **Support contacts** - Enter the contact details of your support administrator and choose your preferred support language. When done, select **Next**.
 8. **Items** - Choose the Azure subscription and select **Add items** to add it to your order. Note that for Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 
-<figure><img src="../../../.gitbook/assets/azure_select_items.png" alt=""><figcaption><p>Select Items</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/azure_select_items.png" alt=""><figcaption><p>Select Items</p></figcaption></figure></div>
 
 9. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 10. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.

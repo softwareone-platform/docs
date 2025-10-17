@@ -12,7 +12,7 @@ To save your order during the ordering process:
 4. In the purchase wizard, complete all the steps until you reach the **Details** page.
 5. In the **Details** step, select **Save order**. Your order is saved and assigned a **Quoted** status.
 
-<figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>Save order option in the Details section</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>Save order option in the Details section</p></figcaption></figure></div>
 
 ## Saving a change order
 
@@ -28,7 +28,7 @@ To save a change order:
 4. In the **Items** step, adjust the quantity and select **Next**.
 5. In the **Details** step, select **Save order**. Your order is saved and assigned a **Quoted** status.&#x20;
 
-<figure><img src="../../../.gitbook/assets/EditSubsReduceQty (2).png" alt=""><figcaption><p>Save order option in the Details section</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EditSubsReduceQty (2).png" alt=""><figcaption><p>Save order option in the Details section</p></figcaption></figure></div>
 
 ## Next steps
 

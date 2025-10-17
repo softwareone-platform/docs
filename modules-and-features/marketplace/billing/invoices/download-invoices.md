@@ -17,6 +17,6 @@ To download an invoice from the invoice details page:
 4. On the invoice details page, select the **Attachments** tab.&#x20;
 5. Under **Actions**, select **Download**. The selected invoice is downloaded as a PDF.
 
-<figure><img src="../../../../.gitbook/assets/invoice_attachments.png" alt=""><figcaption><p>Attachments tab on the invoice details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoice_attachments.png" alt=""><figcaption><p>Attachments tab on the invoice details page</p></figcaption></figure></div>
 
 For details on how to read and understand your invoice, see [Understand Your Billing Documents](../../../billing/understand-your-billing-documents/).

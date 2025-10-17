@@ -14,31 +14,35 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 Agreements in any other state cannot be used when ordering items. See [Agreement States](../../../modules-and-features/marketplace/agreements/agreement-states.md) for information on various statuses.&#x20;
 
-## Implementation
+## Ordering new Adobe items
 
 {% stepper %}
 {% step %}
 **Launch the purchase wizard**
 
-Navigate to the **Products** page and select **Adobe VIP Marketplace for Commercial**.
+To start the wizard:
 
-On the details page, select **Buy now** to start the purchase wizard.
+1. Navigate to the **Products** page.
+2. Select **Adobe VIP Marketplace for Commercial**.
+3. On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-**Complete the steps in the purchase wizard**
+**Follow the wizard to place your order**
 
-1. In the **Create agreement** step, choose an active agreement from the list and then select **Next**. All items that you've ordered under this agreement are displayed.
-2. In the **Select Items** step, select **Add items** to add new items to the agreement.
+Complete the following steps:
 
-<figure><img src="../../../.gitbook/assets/image (1058).png" alt=""><figcaption><p>Select items</p></figcaption></figure>
+1. In the **Create agreement** step, choose an active agreement from the list. Then, select **Next**. All items that you have ordered under this agreement are displayed.
+2. In the **Select Items** step, select **Add items** to add the new items to this agreement.
 
-3. Choose the items you want to order. You can choose multiple items from the list. When done, select **Add items**.&#x20;
-4. In the **New qty** field, adjust the quantity of licenses and select **Next**.&#x20;
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1058).png" alt=""><figcaption><p>Select items</p></figcaption></figure></div>
 
-<figure><img src="../../../.gitbook/assets/adobe_add_items.png" alt=""><figcaption><p>Select items</p></figcaption></figure>
+3. Choose the items to order. You can choose multiple items from the list. When done, select **Add items**.&#x20;
+4. In the **New qty** field, adjust the quantity of licenses. Select **Next**.&#x20;
 
-5. In the **Details** step, provide reference details, like additional IDs or notes, and select **Next**.
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe_add_items.png" alt=""><figcaption><p>Select items</p></figcaption></figure></div>
+
+5. In the **Details** step, provide reference details, including additional IDs or notes, and select **Next**.
 6. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
 7. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
 {% endstep %}

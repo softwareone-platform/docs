@@ -14,12 +14,12 @@ To change your order's status from **Querying** to **Processing**:
 2. Select the purchase order in the **Querying** state. If you have several orders, use the [search bar](../../../marketplace-platform/getting-started/interface/#search) or [filters](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md) to find the order.
 3. On the **General** tab, review the action required message. The following example shows that there's an issue with the parameters, and they must be updated through the **Parameters** tab.
 
-<figure><img src="../../../.gitbook/assets/Querying.png" alt=""><figcaption><p>Querying order</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Querying.png" alt=""><figcaption><p>Querying order</p></figcaption></figure></div>
 
 4. Complete the steps as needed and then select **Process** in the upper right. Note that this button becomes available only after you have completed the necessary steps.&#x20;
 
-Your order's status changes to **Processing**, and the **Process** button becomes unavailable again.
+Your order's status changes to **Processing**, and the **Process** option becomes unavailable again.
 
 {% hint style="info" %}
-If certain issues require completion outside the Marketplace Platform, such as accepting a SoftwareOne relationship request for CSP orders, you must complete the request and then return to the order details page to change the order status to **Processing**.&#x20;
+If certain issues require completion outside the Marketplace Platform, such as accepting a SoftwareOne relationship request for CSP orders, you must complete the request and return to the order details page to update the order status to **Processing**.&#x20;
 {% endhint %}

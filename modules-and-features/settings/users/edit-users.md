@@ -17,6 +17,6 @@ To update a user's group membership:
    * To add the user to a group, select the checkbox for that group.
    * To remove the user from a group, clear the checkbox.
 
-<figure><img src="../../../.gitbook/assets/image (1000).png" alt=""><figcaption><p>Edit user</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1000).png" alt=""><figcaption><p>Edit user wizard</p></figcaption></figure></div>
 
 5. Select **Save**. A confirmation message is displayed stating that the user has been edited successfully.

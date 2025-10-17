@@ -4,7 +4,7 @@ This topic describes some of the key points to keep in mind when establishing a 
 
 ## Primary domain or tenant ID
 
-To establish a  GDAP admin relationship, make sure that your primary domain name or tenant ID in the purchase order matches the details in the Microsoft 365 Admin Center or Microsoft Azure Management Portal.&#x20;
+To establish a GDAP admin relationship, make sure that your primary domain name or tenant ID in the purchase order matches the details in the Microsoft 365 Admin Center or Microsoft Azure Management Portal.&#x20;
 
 There are a few ways to verify your domain name and ID:
 
@@ -12,15 +12,15 @@ There are a few ways to verify your domain name and ID:
   * The domain name for existing cloud accounts is displayed in the **Existing domain name** field. For new cloud accounts, the **Primary domain name** field shows the domain name.&#x20;
   * The tenant ID is displayed in the **Fulfillment** section.
 
-<figure><img src="../../../.gitbook/assets/csp_parameters.jpg" alt=""><figcaption><p>Parameters tab</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_parameters.jpg" alt=""><figcaption><p>Parameters tab</p></figcaption></figure></div>
 
 * **Through Microsoft 365 Admin Center** - Sign in to [Microsoft Entra admin center](https://entra.microsoft.com/) and navigate to **Settings** > **Domains**. Your domain name is displayed on the Domains page.&#x20;
 
-<figure><img src="../../../.gitbook/assets/csp_settings_domain.png" alt=""><figcaption><p>Microsoft 365 admin center</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_settings_domain.png" alt=""><figcaption><p>Microsoft 365 admin center</p></figcaption></figure></div>
 
 * **Through the Azure Portal** - Sign in to the [Azure portal](https://portal.azure.com/) and navigate to **Entra ID** > **Overview**. Your registered primary domain is displayed in the **Name** section.
 
-<figure><img src="../../../.gitbook/assets/csp_entra_ID.png" alt=""><figcaption><p>Azure entra ID overview</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_entra_ID.png" alt=""><figcaption><p>Azure entra ID overview</p></figcaption></figure></div>
 
 ## Regional market restrictions
 
@@ -30,11 +30,11 @@ For instance, SoftwareOne Brazil can only transact with customers in Brazil. For
 
 The SoftwareOne region applicable to your order is also listed in your purchase order in the Marketplace Platform. To verify, open the details page of your order and select the **Details** tab. The **References** section displays the region.
 
-<figure><img src="../../../.gitbook/assets/csp_authorization.png" alt=""><figcaption><p>Details tab on the order details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_authorization.png" alt=""><figcaption><p>Details tab on the order details page</p></figcaption></figure></div>
 
 You can also verify your organization's region in the Microsoft 365 Admin Center. To do this, sign in to the admin center and navigate to **Settings** > **Org Settings** > **Organization Information**. The name is displayed in the **Country or region** field.
 
-<figure><img src="../../../.gitbook/assets/csp_organization_information.png" alt=""><figcaption><p>Organization information in Microsoft 365 Admin Center</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_organization_information.png" alt=""><figcaption><p>Organization information in Microsoft 365 Admin Center</p></figcaption></figure></div>
 
 ## Global administrator role requirements
 
