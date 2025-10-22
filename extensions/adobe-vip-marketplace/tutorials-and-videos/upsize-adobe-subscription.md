@@ -27,13 +27,13 @@ To open the subscription:
 
 1. Navigate to the **Subscriptions** page.
 2. Select the required subscription.
-3. On the subscription's details page, select **Edit** to launch the **Edit subscription** wizard.
+3. On the subscription's details page, select **Edit**.
 {% endstep %}
 
 {% step %}
-**Follow the wizard to increase the quantity**
+**Follow the steps to increase the quantity**
 
-Complete the following steps:
+In the **Edit subscription** wizard, complete these steps:
 
 1. **Items** - Enter the new quantity in the **New qty** field, then select **Next**. In the following image, the quantity is increased from **20** to **21**.&#x20;
 

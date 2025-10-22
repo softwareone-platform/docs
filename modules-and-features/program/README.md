@@ -1,8 +1,10 @@
 # Program
 
-Program management in the Marketplace Platform enables SoftwareOne partners to view programs available for enrollment and request certificates for those programs. A program consists of specific requirements, and certificates are issued once these requirements are fulfilled.
+Program management in the Marketplace Platform enables SoftwareOne partners to view programs available for enrollment and request certificates for those programs.&#x20;
 
-To get started, see any of the following links:
+A program consists of specific requirements, and certificates are issued once these requirements are fulfilled.
+
+To get started, see the following links:
 
 {% content-ref url="programs.md" %}
 [programs.md](programs.md)
@@ -15,4 +17,3 @@ To get started, see any of the following links:
 {% content-ref url="enrollments/" %}
 [enrollments](enrollments/)
 {% endcontent-ref %}
-

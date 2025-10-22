@@ -10,41 +10,39 @@ Video tutorial: How to order new Adobe items
 
 ## Prerequisites
 
-Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state.&#x20;
-
-Agreements in any other state cannot be used when ordering items. See [Agreement States](../../../modules-and-features/marketplace/agreements/agreement-states.md) for information on various statuses.&#x20;
+Before starting this tutorial, make sure that the agreement you want to use is in the active state. Agreements in any other state cannot be used when ordering subscriptions.&#x20;
 
 ## Ordering new Adobe items
 
 {% stepper %}
 {% step %}
-**Launch the purchase wizard**
+{% include "../../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the wizard:
+To start the process:
 
 1. Navigate to the **Products** page.
 2. Select **Adobe VIP Marketplace for Commercial**.
-3. On the details page, select **Buy now** to start the purchase wizard.
+3. On the details page, select **Buy now**.
 {% endstep %}
 
 {% step %}
-**Follow the wizard to place your order**
+{% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-Complete the following steps:
+{% include "../../../.gitbook/includes/purchase-wizard-3.md" %}
 
 1. In the **Create agreement** step, choose an active agreement from the list. Then, select **Next**. All items that you have ordered under this agreement are displayed.
 2. In the **Select Items** step, select **Add items** to add the new items to this agreement.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1058).png" alt=""><figcaption><p>Select items</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1058).png" alt=""><figcaption><p>Select items to order</p></figcaption></figure></div>
 
 3. Choose the items to order. You can choose multiple items from the list. When done, select **Add items**.&#x20;
 4. In the **New qty** field, adjust the quantity of licenses. Select **Next**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe_add_items.png" alt=""><figcaption><p>Select items</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe_add_items.png" alt=""><figcaption><p>Select items step</p></figcaption></figure></div>
 
 5. In the **Details** step, provide reference details, including additional IDs or notes, and select **Next**.
 6. In the **Review order** step, read the terms and conditions and the privacy statement. When done, select **Place order**.
-7. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+7. In the **Summary** step, select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

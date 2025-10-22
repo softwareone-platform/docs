@@ -4,7 +4,7 @@ description: >-
   Marketplace account.
 ---
 
-# Order Adobe Subscriptions
+# Order Adobe Subscription
 
 Buying from the Adobe VIP Marketplace buying program means purchasing subscription-based products. You subscribe to these products and pay periodically for their usage.&#x20;
 
@@ -30,19 +30,19 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Start the purchase wizard for Adobe**
+{% include "../../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the wizard:
+To start the process:
 
-1. Navigate to the **Products** page
-2. Select the required Adobe product, for example, **Adobe VIP Marketplace for Commercial**.
-3. On the details page, select **Buy now**. The purchase wizard starts.
+1. Navigate to the **Products** page.
+2. Select the required product, for example, **Adobe VIP Marketplace for Commercial**.
+3. On the details page, select **Buy now**.&#x20;
 {% endstep %}
 
 {% step %}
-**Follow the wizard to place your order**
+{% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-Complete the following steps:
+{% include "../../../.gitbook/includes/purchase-wizard-3.md" %}
 
 1. **Select agreement** - Select **Create agreement** to set up your new Adobe agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.&#x20;
@@ -64,7 +64,7 @@ Complete the following steps:
 
     1. Select the items you want. You can choose multiple items from the list.&#x20;
 
-    <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AdobeItems.png" alt=""><figcaption><p>Select the items you want to order</p></figcaption></figure></div>
+    <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AdobeItems.png" alt=""><figcaption><p>Select the items to order</p></figcaption></figure></div>
 
     b. Review and adjust the quantity as needed, and select **Next**.
 6. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.

@@ -1,6 +1,6 @@
 # Downsize Adobe Subscription
 
-If you want to lower the quantity of your Adobe licenses, you can place a change order through the Marketplace Platform. This tutorial shows how you can decrease the quantity of your Adobe licenses.
+If you want to lower the quantity of your Adobe licenses, you can place a change order via the Marketplace Platform. This tutorial shows how you can decrease the quantity of your Adobe licenses.
 
 {% hint style="info" %}
 Adobe offers a 14-day return window. If you decrease the number of licenses within 14 days, SoftwareOne will action your request and update your subscription.
@@ -10,7 +10,7 @@ If you are outside the return period, the decrease will only take effect on your
 
 ## Prerequisites
 
-Before starting this tutorial, make sure that the subscription you want to downsize is in the **Active** state. A subscription in any other state cannot be downsized. See [Subscription States](../../../modules-and-features/marketplace/subscriptions/subscription-states.md) for information on various statuses.
+Before starting this tutorial, make sure that the subscription you want to downsize is in the active state. A subscription in any other state cannot be downsized.&#x20;
 
 ## Downsizing a subscription
 
@@ -22,13 +22,13 @@ To open the subscription:
 
 1. Navigate to the **Subscriptions** page.
 2. Select the required subscription.
-3. On the subscription details page, select **Edit** to launch the **Edit subscription** wizard.
+3. On the subscription details page, select **Edit**.
 {% endstep %}
 
 {% step %}
-**Follow the wizard to change the quantity**
+**Follow the steps to decrease the quantity**
 
-Complete the following steps:
+&#x20;In the **Edit subscription** wizard, complete these steps:
 
 1. **Items** - Enter the new number in the **New qty** field. In the following image, the quantity of both items is lowered from **20** to **19**.
 

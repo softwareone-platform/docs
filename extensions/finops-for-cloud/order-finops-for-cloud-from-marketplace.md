@@ -13,21 +13,21 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Launch the Purchase Wizard for FinOps for Cloud**
+{% include "../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the purchase wizard:
+To start the process:
 
-1. Navigate to the **Products** page in the platform.
+1. Navigate to the **Products** page.
 2. Select **SoftwareOne FinOps for Cloud**.&#x20;
-3. On the details page, select **Buy now**. The purchase wizard starts.
+3. On the details page, select **Buy now**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Follow the wizard to place your order**
+{% include "../../.gitbook/includes/purchase-wizard-2.md" %}
 
-Complete the following steps to place your order:
+{% include "../../.gitbook/includes/purchase-wizard-3.md" %}
 
 1. **Select agreement** - Select **Create agreement** to start creating your new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can [add a new licensee](../../modules-and-features/settings/licensees/create-licensees.md) by selecting **Create licensee**.

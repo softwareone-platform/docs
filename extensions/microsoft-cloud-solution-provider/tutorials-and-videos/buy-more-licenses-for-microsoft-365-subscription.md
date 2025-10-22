@@ -14,20 +14,20 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 {% stepper %}
 {% step %}
-**Launch the purchase wizard**
+{% include "../../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the wizard:
+To start the process:
 
 1. Navigate to the **Products** page. Then, select the relevant Microsoft 365 product.
 2. On the details page, select **Buy now** to start the purchase wizard.
 {% endstep %}
 
 {% step %}
-**Follow the wizard to place your order**
+{% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-Complete the following steps, making sure to enter or verify the required information where necessary:
+{% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
-1. **Create agreement** - Choose an active agreement from the list and then select **Next**.&#x20;
+1. **Create agreement** - Choose an active agreement and select **Next**.&#x20;
 2. **Items** - Enter the total number of licenses in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Items section in the purchase wizard</p></figcaption></figure></div>
@@ -40,4 +40,4 @@ Complete the following steps, making sure to enter or verify the required inform
 
 ## Next steps <a href="#next-steps" id="next-steps"></a>
 
-After placing your order, we will verify the details. If there are any issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.
+After placing your order, we will verify the details. If there are any issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you must take.

@@ -1,4 +1,4 @@
-# Add New Items to Your CSP Agreement
+# Add New Items to Your Agreement
 
 This tutorial walks you through the steps required to add a new Microsoft product to your CSP agreement.&#x20;
 
@@ -10,7 +10,7 @@ Before starting this tutorial, make sure that the CSP agreement you want to add 
 
 You should also know how to navigate the platform to access your agreements & orders and [apply filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
 
-## Adding new items to your CSP agreement
+## Adding new items to your agreement
 
 {% stepper %}
 {% step %}
@@ -24,9 +24,9 @@ To open the agreement:&#x20;
 {% endstep %}
 
 {% step %}
-**Add the items to your order**
+**Add new items to your order**
 
-In the **Items** step, do the following:
+To add the items, complete these steps:&#x20;
 
 1. Select **Add items** to choose the items you want to order.
 
@@ -56,11 +56,11 @@ In this step, you can also increase the quantities of your existing subscription
 {% endstep %}
 
 {% step %}
-**Complete the remaining steps in the wizard**
+**Complete the remaining steps to place your order**
 
 1. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 2. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.
-3. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+3. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
@@ -68,4 +68,4 @@ In this step, you can also increase the quantities of your existing subscription
 
 You can check the status of your new order on the **Orders** page or in the **Orders** tab on the agreement details page.
 
-Note that once you place the order, the agreement status changes from **Active** to **Updating**. You will not be able to place any additional orders under this agreement until your current order has been processed and the agreement status is changed back to **Active**.&#x20;
+Once you place the order, the agreement status changes from **Active** to **Updating**. You won't be able to place any additional orders under this agreement until your current order has been processed and the agreement status is changed back to **Active**.&#x20;

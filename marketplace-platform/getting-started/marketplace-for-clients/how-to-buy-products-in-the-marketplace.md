@@ -14,7 +14,7 @@ You can access the **Products** page by signing in to your account and selecting
 {% step %}
 **Browsing and selecting products**
 
-The **Products** page shows products available for you to order. All products are categorized by the vendor name and displayed as cards. You can view detailed information for a product by selecting it. To learn more, see [Products](../../../modules-and-features/marketplace/products.md).
+The **Products** page shows products available for you to order. All products are categorized by the vendor name and displayed as cards. You can view detailed information for a product by selecting it. To learn more, see [Products](../../../modules-and-features/catalog/products.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (995).png" alt=""><figcaption><p>Products page</p></figcaption></figure></div>
 {% endstep %}

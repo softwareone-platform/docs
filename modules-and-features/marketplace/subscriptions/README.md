@@ -10,7 +10,7 @@ Your subscriptions are available on the **Subscriptions** page. The page is avai
 
 On the **Subscriptions** page, you can view the key properties for each of the subscriptions, including the renewal date and status.
 
-The **Subscriptions** page also contains a **Buy more** option, which gives you quick access to the [Products ](../products.md)page for browsing the catalog and ordering more subscriptions.
+The **Subscriptions** page also contains a **Buy more** option, which gives you quick access to the [Products ](../../catalog/products.md)page for browsing the catalog and ordering more subscriptions.
 
 ## Viewing subscription details <a href="#subscription-details" id="subscription-details"></a>
 

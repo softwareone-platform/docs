@@ -18,21 +18,21 @@ Before starting this tutorial, make sure you are familiar with the [key concepts
 
 {% stepper %}
 {% step %}
-**Start the purchase wizard**
+{% include "../../../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the wizard:
+To start the process:
 
 1. Navigate to the **Products** page.&#x20;
 2. Select **Microsoft Perpetual Software for Education** from the list of products.
-3. On the details page, select **Buy now**. The purchase wizard starts.
+3. On the details page, select **Buy now**. The purchase process starts.
 {% endstep %}
 
 {% step %}
-**Follow the wizard to place your order**
+{% include "../../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-Complete the following steps, making sure to enter or verify the required information where necessary:
+{% include "../../../../.gitbook/includes/purchase-wizard-3.md" %}
 
-1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
+1. **Create agreement** - Select **Create agreement** to start creating a new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
 3. **Create agreemen**t - Select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
 4. **Microsoft details** - Enter the details for your Microsoft account:

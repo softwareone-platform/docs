@@ -12,7 +12,7 @@ The Marketplace Platform supports ordering perpetual licenses for the following 
 * Microsoft Perpetual Software - Education
 * Microsoft Perpetual Software - Charity
 
-These products are available for ordering through the [Products ](../../../modules-and-features/marketplace/products.md)page in the platform:
+These products are available for ordering through the [Products ](../../../modules-and-features/catalog/products.md)page in the platform:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Products page</p></figcaption></figure></div>
 

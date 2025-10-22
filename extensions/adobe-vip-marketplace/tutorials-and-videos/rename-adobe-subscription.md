@@ -24,12 +24,12 @@ To open the subscription:&#x20;
 {% step %}
 **Provide the new name for the subscription**
 
-Complete the following steps:
+In the **Rename** dialog, complete these steps:
 
-1. In the **Rename** dialog, enter the new name in the **Subscription name** field.&#x20;
-2. Select **Save**. In this example, the subscription's name is changed to **Creative Cloud test**:
+1. Enter the new name in the **Subscription name** field.&#x20;
+2. Select **Save**. In this example, the subscription's name is changed to **Creative Cloud test.**
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1065).png" alt=""><figcaption><p>Enter the new name for the subscription</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1065).png" alt=""><figcaption><p>Enter the new subscription name</p></figcaption></figure></div>
 
 The new name is updated immediately and reflected on all pages that feature the subscription in the platform, including the subscription details page.&#x20;
 {% endstep %}

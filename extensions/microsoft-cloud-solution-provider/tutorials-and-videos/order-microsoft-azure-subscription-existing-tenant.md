@@ -1,4 +1,4 @@
-# Order Azure Subscription For Existing Tenant
+# Order Azure Subscription for Existing Tenant
 
 This tutorial shows how to order a Microsoft Azure subscription by setting up a new agreement and connecting your existing Microsoft tenant.&#x20;
 
@@ -18,19 +18,19 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Start the purchase wizard for Azure**
+{% include "../../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the wizard:
+To start the process:
 
 1. Navigate to the **Products** page.&#x20;
 2. Select **Microsoft Azure** from the available products.
-3. On the details page, select **Buy now.** The purchase wizard starts.
+3. On the details page, select **Buy now**. The purchase process starts.
 {% endstep %}
 
 {% step %}
-**Follow the wizard to place your order**
+{% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-Complete the following steps, making sure to enter or verify the required information where necessary:
+{% include "../../../.gitbook/includes/purchase-wizard-3.md" %}
 
 1. **Select agreement** - Select **Create new agreement** to set up a new agreement.
 2. **Select licensee** - Choose the licensee you want to use. In this tutorial, we'll select an existing licensee, as shown in the following image. However, you can add a new licensee by clicking **Add licensee** and following the instructions in [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md). Select **Next**.&#x20;

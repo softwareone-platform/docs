@@ -80,7 +80,7 @@ Now, you can interact with the Marketplace Platform programmatically by generati
 
 With the v2 release, we've introduced notable changes to our platform and business processes. As a result, we've removed the following features and replaced them with self-service alternatives:
 
-* **Cloud Subscriptions**, which enabled you to purchase Microsoft CSP products and manage subscriptions has been replaced with [Products](../../modules-and-features/marketplace/products.md) and [Subscriptions ](../../modules-and-features/marketplace/subscriptions/)management.&#x20;
-* **Guided Activation**, which enabled you to activate 365Simple and AzureSimple service has been replaced with the new [Orders](../../modules-and-features/marketplace/orders/) and [Products](../../modules-and-features/marketplace/products.md) modules.&#x20;
+* **Cloud Subscriptions**, which enabled you to purchase Microsoft CSP products and manage subscriptions has been replaced with [Products](../../modules-and-features/catalog/products.md) and [Subscriptions ](../../modules-and-features/marketplace/subscriptions/)management.&#x20;
+* **Guided Activation**, which enabled you to activate 365Simple and AzureSimple service has been replaced with the new [Orders](../../modules-and-features/marketplace/orders/) and [Products](../../modules-and-features/catalog/products.md) modules.&#x20;
 * **Company Contacts**, which showed all contacts that existed for your company and allowed you to maintain your company structure has been removed. The concept of [Buyers](../../modules-and-features/settings/buyers/) has been introduced as a replacement.
 * **My account team**, which displayed the SoftwareOne sales contact for your account has also been removed.&#x20;

@@ -1,4 +1,4 @@
-# Order Microsoft 365 Subscription For Existing Tenant
+# Order Microsoft 365 Subscription for Existing Tenant
 
 This tutorial guides you through the steps to order a Microsoft 365 subscription by creating a new agreement.
 
@@ -19,20 +19,21 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Start the purchase wizard for Microsoft 365**
+{% include "../../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the wizard:
+To start the process:
 
-1. Navigate to the **Products** page and select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps - Commercial.**
-2. On the details page, select **Buy now**.
+1. Navigate to the **Products** page.
+2. Select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps - Commercial.**
+3. On the details page, select **Buy now**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>Buy now option on the details page</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Follow the wizard to place your order**
+{% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-Complete the following steps, making sure to enter or verify the required information where necessary:
+{% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.

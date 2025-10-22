@@ -12,19 +12,19 @@ Before starting this tutorial, make sure that your existing agreement is in the 
 
 {% stepper %}
 {% step %}
-**Open your existing agreement**
+**Open the existing Marketplace agreement**
 
 To open the agreement:
 
 1. Navigate to the **Agreements** page.
 2. Select the required agreement.
-3. On the agreement details page, select **Buy more** to start the purchase wizard.
+3. On the agreement details page, select **Buy more**. The purchasing process starts.
 {% endstep %}
 
 {% step %}
-**Select the new items you want to order**&#x20;
+**Select the new items you want to order**
 
-The **Select Items** step displays all one-time software items you can order under this agreement. To add items to your order:
+In the purchase wizard, the **Select Items** step displays all one-time software items you can order under this agreement. To add items to your order:
 
 1. Locate the item (for example, _Windows Server 2025)._ If required, use the following filters:
    1. Select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="" data-size="line"> **Filter** option.
@@ -35,13 +35,13 @@ The **Select Items** step displays all one-time software items you can order und
        3. Type the name of the required item (in this case, _Windows Server 2025_).
        4. **Close** the filter box.
 
-       <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Filter options in the grid</p></figcaption></figure></div>
-2. Select the individual items from the list. When done, select **Add items**. Note that you must select at least one item.&#x20;
-3. Verify the quantity and change it as necessary in the **New qty** field. Then, select **Next**.
+       <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Filter options in the table</p></figcaption></figure></div>
+2. Select the items and select **Add items**. Note that you must select at least one item.&#x20;
+3. Verify and update the quantity as necessary in the **New qty** field, then select **Next**.
 {% endstep %}
 
 {% step %}
-**Complete the remaining steps in the wizard**
+**Complete the remaining steps to place the order**
 
 1. **Details** - Add any additional IDs or notes for your order and select **Next**. Note that it's optional to provide these details.
 2. **Review order** - Verify the information and click **Place order** to submit the change order.

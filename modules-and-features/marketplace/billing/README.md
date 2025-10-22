@@ -6,7 +6,7 @@ The module simplifies financial management by allowing you to view and download 
 
 Before starting, we recommend reading [Understand Your Billing Documents](../../billing/understand-your-billing-documents/). This page provides an overview of billing documents and explains how your Marketplace invoices and statements are structured and how to interpret them correctly.
 
-Use the following links to access the other pages within this section:
+To get started, see the following links:
 
 {% content-ref url="invoices/" %}
 [invoices](invoices/)

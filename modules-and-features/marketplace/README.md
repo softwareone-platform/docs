@@ -1,10 +1,10 @@
 # Marketplace
 
-The Marketplace is your entry point for accessing all the functionalities included in this module.&#x20;
+The Marketplace is your entry point for accessing and managing your organization's purchases. It gives you end-to-end visibility and control over your transactions within the platform.
 
-Within this module, you'll find a Products page, giving you access to our catalog of software products, along with easy access to your agreements, orders, requests, and subscriptions. You'll also find your certificates and enrollments conveniently located in one place.
+It provides access to several key features, including agreements, entitlements, orders, subscriptions, and more.&#x20;
 
-To get started, see any of the following links:
+To get started, see the following links:
 
 {% content-ref url="agreements/" %}
 [agreements](agreements/)
@@ -14,8 +14,8 @@ To get started, see any of the following links:
 [orders](orders/)
 {% endcontent-ref %}
 
-{% content-ref url="products.md" %}
-[products.md](products.md)
+{% content-ref url="../catalog/products.md" %}
+[products.md](../catalog/products.md)
 {% endcontent-ref %}
 
 {% content-ref url="requests/" %}

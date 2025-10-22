@@ -1,4 +1,4 @@
-# Cancel Your FinOps Order
+# Cancel Your FinOps for Cloud Order
 
 If you need to cancel your FinOps purchase order for any reason, for instance, if you picked the wrong currency while ordering, you can create a termination order for the agreement linked to your order. This tutorial describes how you can do this.
 
@@ -14,12 +14,12 @@ Before cancelling your FinOps order, ensure that the agreement linked to the pur
 
 {% stepper %}
 {% step %}
-**Start the Terminate Agreement wizard**
+**Start the termination process for the order**
 
-To start the wizard:
+To start the process:
 
 1. Navigate to the **Agreements** page.
-2. Select the agreement to terminate.
+2. Select the agreement you want to terminate.
 3. On the agreement details page, select the arrow <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">and choose **Terminate**.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/finops_terminate.png.png" alt=""><figcaption><p>Terminate option on the agreement details page</p></figcaption></figure></div>
@@ -28,9 +28,9 @@ To start the wizard:
 {% step %}
 **Follow the wizard to cancel your order**
 
-Complete the following steps in the Terminate Agreement wizard. Make sure to enter or verify the required information on each page.
+In the Terminate Agreement wizard, complete the following steps, making sure to enter or verify the required information on each page:
 
-1. **Items** - Make sure the new item quantity is displayed as 0. Then, select **Next**.
+1. **Items** - Make sure the new item quantity is displayed as 0, then select **Next**.
 2. **Order details** - Add or update the additional ID and other details as necessary. When done, select **Next**.
 3. **Review order** - Use the links in the footer to read the terms and conditions. Then, select **Place order** to submit your termination order.
 4. **Summary** - Select **View order** to open the order details page. Otherwise, select **Close**.&#x20;
