@@ -13,7 +13,7 @@ Use the following buttons to open the API in Swagger Editor or download the full
 
 <a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/notifications/openapi.json" class="button primary" data-icon="up-right-from-square">Try API</a>  <a href="https://api.platform.softwareone.com/public/v1/notifications/openapi.json" class="button secondary" data-icon="arrow-down">Download API</a>
 
-To learn about the commerce objects, including their fields, types, descriptions, and explore the endpoint&#x73;**,** see the following links:
+To learn about the objects, including their fields, types, descriptions, and explore the endpoint&#x73;**,** see the following links:
 
 * [Batch](batches/)
 * [Category](categories/)
