@@ -2,7 +2,7 @@
 
 An Authorization object is a business object that encapsulates the permissions and credentials necessary for interactions between a specific seller and vendors, all within the scope of a single product. It is associated with the seller via listings and serves as the repository for access control and provisioning data required for the vendor to deliver services or content.
 
-The Authorization object contains the following attributes:
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="126">Field</th><th width="221">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the authorization. </p><p>Example: AUT-1234-4678</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the authorization. </p><p>Example: Salesforce Enterprise License</p></td></tr><tr><td>externalIds</td><td><a href="../../common-api-objects/externalids.md"><code>externalIds</code></a></td><td><p>A reference to the ExternalID object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "ACC-1234-1234",

@@ -1,6 +1,8 @@
 # ERP Links
 
-The ERP Link represents a connection between a [Buyer](../buyer/) and a [Seller ](../../../../modules-and-features/settings/sellers/)object in the Marketplace. The ERP Link object contains the following properties:
+The ERP Link represents a connection between a [Buyer](../buyer/) and a [Seller ](../../../../modules-and-features/settings/sellers/)object in the Marketplace.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table data-full-width="false"><thead><tr><th width="199">Field</th><th width="162">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the ERP link.</p><p>Example: ERP-1234-1234.</p></td></tr><tr><td>status</td><td><code>enum</code></td><td>The status of the object. The possible values are <code>Active</code> or <code>Blocked</code>.</td></tr><tr><td>note</td><td><code>string</code></td><td></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The names of the buyer and seller.</p><p>Example: AGCO Corporation - SoftwareONE Argentina</p></td></tr><tr><td>externalIds</td><td><code>object</code></td><td><p>A reference to the BuyerExternalIdsObject.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
 	"erpCompanyContact": "WW-CON-123456",

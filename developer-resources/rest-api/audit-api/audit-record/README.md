@@ -1,6 +1,8 @@
 # Audit Record
 
-The Audit object provides a detailed record of a specific event that occurred within the platform. This object contains the following properties:
+The Audit object provides a detailed record of a specific event that occurred within the platform.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="166">Field</th><th width="199">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the audit record. Note that no nesting exists for this identifier.</p><p>Example: AUD-1671-0642-1234-1234</p></td></tr><tr><td>event</td><td><code>string</code></td><td><p>The event code. Format: {platform/extension}.{module/extension name}.{object}.{action}</p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>summary</td><td><code>string</code></td><td><p>A summary of the audit record.</p><p>Example: Order created</p></td></tr><tr><td>details</td><td><code>string</code></td><td><p>The audit details template. Any document property may be used as a placeholder.</p><p>Example: The order {{order.id}} has been successfully created by {{actor.name}} and is now in the platform.</p></td></tr><tr><td>actor</td><td><a href="./#auditrecordactor"><code>auditRecordActor</code></a></td><td><p>Information about the actor who has triggered an event.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "USR-2311-4038",

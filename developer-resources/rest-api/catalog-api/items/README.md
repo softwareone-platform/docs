@@ -2,7 +2,7 @@
 
 The Item object represents a “product item” as a transactable element of a product that, for example, in a created order, is represented as a “line item” of that order.
 
-This object contains the following properties:
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="194">Field</th><th width="159">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the item.</p><p>Example: ITM-0690-0539-0001</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The resource URI of the Item.</p><p>Example: /product-items/ITM-0690-0539-0001</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the item.</p><p>Example: Microsoft 365 Apps for Business</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the item.</p><p>Example: Best for businesses that need Office apps across devices and cloud file storage. For businesses with up to 300 employees.</p></td></tr><tr><td>externalIds</td><td><a href="./#externalids"><code>externalIds</code></a></td><td><p>A reference to the External Id object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "vendor": "ven-1233-3222",

@@ -2,6 +2,8 @@
 
 The Credit object refers to a credit memo created within the ERP system.
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="113">Field</th><th width="204">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A unique identifier for the credit memo. </p><p>Example: CRD-3295-7900-0234</p></td></tr><tr><td>agreement</td><td><a href="../../commerce-api/agreements/"><code>agreement</code></a></td><td><p>A reference to the Agreement object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "id": "AGR-2119-4550-8674-5962",
   "href": "/commerce/agreements/ACC-1234-1234",

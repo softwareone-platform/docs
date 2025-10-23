@@ -1,8 +1,8 @@
 # Statements
 
-The Statement object represents entries generated in the scope of an agreement from the corresponding ledger.
+The Statement object represents entries generated in the scope of an agreement from the corresponding ledger. Statements are visible to clients, enabling them to reconcile their consumption as necessary.&#x20;
 
-Statements are visible to clients, enabling them to reconcile their consumption as necessary. The Statement object contains the following properties:
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="180">Field</th><th width="199">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier for the statement. No nesting exists for this identifier.</p><p>Example: SOM-1234-5678-9876</p></td></tr><tr><td>ledger</td><td><a href="../ledger/"><code>ledger</code></a></td><td><p>A reference to the Ledger object for automated billing.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "BLE-1234-1239"

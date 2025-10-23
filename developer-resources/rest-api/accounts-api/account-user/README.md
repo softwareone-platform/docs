@@ -1,6 +1,6 @@
 # Account Users
 
-The Account Users object contains the following properties:
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table data-full-width="false"><thead><tr><th width="139">Field</th><th width="170">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary account user identifier.</p><p>Example: AUSR-5709-0422-8243</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object in the API.</p><p>Example: /v1/accounts/account-users/AUSR-5709-0422-8243</p></td></tr><tr><td>user</td><td><a href="../users/#user-object"><code>user</code></a></td><td>A reference to the User object.</td></tr><tr><td>account</td><td><a href="../account/#account-object"><code>account</code></a></td><td><p>A reference to the Account object. </p><pre class="language-json" data-line-numbers><code class="lang-json">{ 
   "id": "ACC-1671-0642",

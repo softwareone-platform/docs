@@ -7,7 +7,7 @@ An order is a request made by a buyer to create/update an agreement with a one-t
 * **Terminate order** - An order to terminate an active subscription or an agreement.
 * **Configuration order** - An order to enable or disable the auto-renewal of a subscription.
 
-The Order object contains the following properties:
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="144">Field</th><th width="164">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the order.</p><p>Example: ORD-5542-1187-3130-0991</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object in the API.</p><p>Example: /commerce/orders/ORD-5542-1187-3130-0991</p></td></tr><tr><td>type</td><td><code>string</code></td><td><p>The type of order. The value is specified when the order is created and cannot be updated.</p><p>Example: Purchase</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the order.</p><p>Example: Processing</p></td></tr><tr><td>externalIds</td><td><a href="../../common-api-objects/externalids.md"><code>externalIds</code></a></td><td><p>External IDs for client/vendor/distributor.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "client": "abc-123",

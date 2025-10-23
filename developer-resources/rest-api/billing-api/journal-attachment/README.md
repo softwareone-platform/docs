@@ -1,6 +1,8 @@
-# Journal Attachment
+# Journal Attachments
 
-The Journal Attachment object allows users to upload attachments to billing objects through an online link or file upload. This object inherits from the abstract File base object.
+The Journal Attachment object allows users to upload attachments to billing objects through an online link or file upload. It inherits from the abstract File base object.
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="134">Field</th><th width="144">Type</th><th>Description</th></tr></thead><tbody><tr><td>URL</td><td><code>string</code></td><td><p>The external link to the attachment.</p><p>Example: https://address.to.journal.file.com/file.xlsx</p></td></tr><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the billing attachment.</p><p>Example: BIA-1234-1234</p></td></tr><tr><td>type</td><td><code>string</code></td><td><p>The type of billing attachment.</p><p>Example: File</p></td></tr></tbody></table>
 

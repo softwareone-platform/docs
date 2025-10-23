@@ -1,6 +1,8 @@
-# Custom Ledger
+# Custom Ledgers
 
 The Custom Ledger object is required to submit billing information for clients with manual billing activated. Only SoftwareOne Operations can access this object.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="144">Field</th><th width="171">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier. Note that no nesting exists for this identifier.</p><p>Example: OUP-1234-1239</p></td></tr><tr><td>seller</td><td><a href="../../accounts-api/seller/"><code>seller</code></a></td><td><p>A reference to the Seller object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "SEL-9121-8944",

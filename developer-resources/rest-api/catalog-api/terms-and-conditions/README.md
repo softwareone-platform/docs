@@ -1,6 +1,8 @@
 # Terms
 
-The Terms and Conditions object represents terms as a collection of uploaded PDF or DOCX documents or links to externally hosted documents as an element of a product. The object contains the following properties:
+The Terms and Conditions object represents terms as a collection of uploaded PDF or DOCX documents or links to externally hosted documents as an element of a product.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="133">Field</th><th width="138">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the terms.</p><p>Example: TCS-1234-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the terms. </p><p>Example:</p><pre class="language-json"><code class="lang-json">/products/PRD-6822-9898-4256/terms-and-conditions/TCS-3159-1891-0980-8679
 </code></pre></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name for the terms.</p><p>Example: Terms of Service</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the terms.</p><p>Example: Terms of Service description</p></td></tr><tr><td>displayOrder</td><td><code>integer</code></td><td><p>The display order for the terms.</p><p>Example: 10</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the terms. </p><p>Example: Draft</p></td></tr><tr><td>product</td><td><a href="../product/"><code>product</code></a></td><td>The product to which the item is assigned.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the Audit object. </td></tr></tbody></table>

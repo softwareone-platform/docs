@@ -1,8 +1,10 @@
 # Enrollments
 
-Enrollment is a process through which a client or entity formally registers or signs up to participate in a vendor program.&#x20;
+Enrollment is a process through which a client formally registers or signs up to participate in a vendor program.&#x20;
 
 Once the client fulfills all the necessary conditions, they are considered enrolled in the program, and a certificate is issued.
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="198">Field</th><th width="193">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the enrollment. </p><p>Example: ENR-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A reference to enrollment in the API. </p><p>Example: /v1/catalog/enrollments/PRD-1234-1234</p></td></tr><tr><td>certificate</td><td><a href="../certificate/"><code>certificate</code></a></td><td><p>A reference to the Certificate object for this enrollment. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "PRG-1234-5678",

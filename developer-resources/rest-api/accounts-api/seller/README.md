@@ -1,6 +1,8 @@
 # Sellers
 
-The Seller object represents a seller in the Marketplace platform. This object contains the following properties:
+The Seller object represents a seller in the Marketplace platform.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table data-full-width="false"><thead><tr><th width="135">Field</th><th width="112">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary seller identifier.</p><p>Example: SEL-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The relative reference to the object in the API.</p><p>Example: /v1/accounts/sellers/SEL-1234-1234</p></td></tr><tr><td>status</td><td><code>string</code></td><td>The seller's status. Possible values are <code>Active</code>, <code>Disabled</code>, <code>Offline</code> , or <code>Deleted</code>.</td></tr><tr><td>name</td><td><code>string</code></td><td><p>The seller's name.</p><p>Example: SoftwareOne USA</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The relative path to the seller’s logo.</p><p>Example: /static/accounts/SEL-1234-1234/logo.png</p></td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>The external identifier.</p><p>Example: WW-CON-123456</p></td></tr><tr><td>address</td><td><a href="../../common-api-objects/address.md"><code>address</code></a></td><td><p>The address of the seller.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "addressLine1": "123 Main Street",

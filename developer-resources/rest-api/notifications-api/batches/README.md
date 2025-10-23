@@ -1,6 +1,8 @@
 # Batch
 
-The Batch object represents an email that Is being sent to a specific category and a number of contacts. This object contains the following attributes:
+The Batch object represents an email being sent to a specific category and multiple contacts.
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="124">Field</th><th width="140">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A primary identifier for the batch. </p><p>Example: MST-1234-9876-3333</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object. </p><p>Example: /v1/notifications/batches/MST-1234-9876-3333</p></td></tr><tr><td>category</td><td><a href="../categories/"><code>category</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "NTC-1234-9876",

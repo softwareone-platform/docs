@@ -2,6 +2,8 @@
 
 The Audit Event Type refers to an event that has occurred within the platform. These records are generated automatically and can be utilized to store supplementary information regarding the specific event type.
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="140">Field</th><th width="149">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the event type. </p><p>Example: AET-7149-2212</p></td></tr><tr><td>key</td><td><code>string</code></td><td><p>The event's key. </p><p>Example: platform.commerce.order.created</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the event. </p><p>Example: Order created.</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the event. </p><p>Example: A standard event that occurs when the order is created. </p></td></tr></tbody></table>
 
 ## Example

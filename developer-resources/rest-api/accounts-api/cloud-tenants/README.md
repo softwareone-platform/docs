@@ -1,6 +1,8 @@
 # Cloud Tenants
 
-A Cloud Tenant represents a cloud tenant object in the Marketplace Platform. This object contains the following properties:
+A Cloud Tenant represents a cloud tenant object in the Marketplace Platform.
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table data-full-width="false"><thead><tr><th width="186">Field</th><th width="149">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the cloud tenant.</p><p>Example: CLT-1234-9876</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the cloud tenant. </p><p>Example: AdAstraflex</p></td></tr><tr><td>status</td><td><code>string</code></td><td>The status of the cloud tenant with one of these possible values: <code>Active</code>, <code>Disabled</code>, or <code>Deleted</code>.</td></tr><tr><td>account</td><td><a href="../account/"><code>account</code></a></td><td>The account to which the cloud tenant is assigned.</td></tr><tr><td>type</td><td><code>string</code></td><td><p>The type of cloud tenant. </p><p>Example: Csp365</p></td></tr><tr><td>externalId</td><td><code>object</code></td><td>A reference to <a href="./#cloud-tenant-external-ids">Cloud Tenant External IDs</a>.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the Audit object. </td></tr></tbody></table>
 

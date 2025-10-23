@@ -1,6 +1,8 @@
 # Users
 
-The User object represents a single user on the Marketplace platform. This object contains the following properties:
+The User object represents a single user on the Marketplace platform.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table data-full-width="false"><thead><tr><th width="161">Field</th><th width="100">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the user.</p><p>Example: USR-1671-0642</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The relative reference to the object.</p><p>Example: /v1/accounts/users/USR-1671-0642</p></td></tr><tr><td>email</td><td><code>string</code></td><td><p>The email address of the user.</p><p>Example: will.smith@softwareone.com</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the user. Possible enum values:</p><p><code>New</code></p><p><code>Invited</code></p><p><code>Invitation</code></p><p><code>Expired</code></p><p><code>Active</code></p><p><code>Blocked</code></p><p><code>Disabled</code></p><p><code>Deleted</code></p><p></p><p>A user can have <code>Invited</code> or <code>InvitationExpired</code> status only if they haven't joined the account.</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the user.</p><p>Example: Will Smith</p></td></tr><tr><td>firstName</td><td><code>string</code></td><td><p>The first name of the user.</p><p>Example: Will</p></td></tr><tr><td>lastName</td><td><code>string</code></td><td><p>The last name of the user.</p><p>Example: Smith</p></td></tr><tr><td>phone</td><td><code>object</code></td><td><p>The country code and phone number of the user.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ 
   "prefix": "+34",

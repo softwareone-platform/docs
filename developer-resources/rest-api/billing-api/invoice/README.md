@@ -1,6 +1,8 @@
 # Invoices
 
-The Invoice object represents an invoice generated in the ERP system. This object contains the following properties:
+The Invoice object represents an invoice generated in the ERP system.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="113">Field</th><th width="204">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier of the invoice. No nesting exists for this identifier.</p><p>Example: INV-123-567-321</p></td></tr><tr><td>statement</td><td><a href="../statement/"><code>statement</code></a></td><td><p>A reference to the Statement object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "SOM-1234-5678-9876"

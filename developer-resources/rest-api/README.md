@@ -7,7 +7,7 @@ Our API is organized around [REST](http://en.wikipedia.org/wiki/Representational
 ## Beginners guide
 
 {% embed url="https://www.youtube.com/watch?v=0NF8OtCA-kU" %}
-Video tutorial: REST APIs for Beginners
+Watch this tutorial on working with REST APIs as a beginner
 {% endembed %}
 
 ## What is a REST API?
@@ -16,7 +16,7 @@ An Application Programming Interface ([API](https://en.wikipedia.org/wiki/API)) 
 
 Representational State Transfer ([REST](http://en.wikipedia.org/wiki/Representational_State_Transfer)) is a way to design APIs for distributed systems. When people mention a REST API, they mean an API that uses the HTTP protocol.
 
-These URLs point to different resources, which can be data like JSON, web pages, audio files, or images. You can perform actions on these resources using HTTP methods like GET, POST, PUT, and DELETE:
+These URLs point to different resources, which can be data like JSON, web pages, audio files, or images. You can perform actions on these resources using HTTP methods like `GET`, `POST`, `PUT`, and `DELETE`:
 
 * **GET** = Retrieve data
 * **POST** = Create new data
@@ -36,9 +36,9 @@ GET https://api.platform.softwareone.com/public/v1/accounts/buyers
 Authorization: Bearer {TOKEN_VALUE}
 ```
 
-Your API keys have permissions assigned to them, so keep them secure. Do not share your secret API keys in public areas like GitHub or client-side code.
+Your API keys have permissions assigned to them, so keep them secure. Don't share your secret API keys in public areas, like GitHub or client-side code.
 
-All API requests must be made over **HTTPS**. Calls made over plain HTTP will fail. API requests without authentication will also fail.
+All API requests must be made over HTTPS. Calls made over plain HTTP will fail. API requests without authentication will also fail.
 
 ## Content type
 
@@ -72,11 +72,11 @@ The fully qualified URL that you need to use is:
 https://api.platform.softwareone.com/public/v1/accounts/buyers
 ```
 
-Use this base endpoint with specific API paths to correctly access the resources and services provided by the Marketplace Platform.
+Use this base endpoint with specific API paths to access the resources and services provided by the Marketplace Platform.
 
 ## Resource Query Language
 
-The **Resource Query Language** (**RQL**) is used for querying and manipulating resources in the Marketplace Platform's APIs. With RQL, you can filter, sort, paginate, and project data. It is simple to use but flexible enough to handle complex scenarios.
+The **Resource Query Language** (**RQL**) is used for querying and manipulating resources in the Marketplace Platform's APIs. With RQL, you can filter, sort, paginate, and project data. It's simple to use, but flexible enough to handle complex scenarios.
 
 For example, to display all users with the first name 'Buzz', your `GET` request will look like this:
 
@@ -84,11 +84,11 @@ For example, to display all users with the first name 'Buzz', your `GET` request
 GET /v1/accounts/users?firstName=Buzz
 ```
 
-See [Resource Query Language](resource-query-language.md) for more details.
+For more details, see [Resource Query Language](resource-query-language.md).
 
 ## Errors handling <a href="#explore-the-apis" id="explore-the-apis"></a>
 
-Our platform reports errors using HTTP status codes in a standard format, ensuring consistency and clarity. For more details, see [Errors Handling](errors-handling.md).
+The Marketplace Platform reports errors using HTTP status codes in a standard format, ensuring consistency and clarity. For more details, see [Error Handling](errors-handling.md).
 
 ## Explore the APIs <a href="#explore-the-apis" id="explore-the-apis"></a>
 

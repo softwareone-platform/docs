@@ -2,7 +2,9 @@
 
 The Subscriber object manages the configuration of notifications for accounts.
 
-It serves as the link between an account and a notification category, storing details about whether that category is enabled for the account and identifying the recipients who should receive notifications for it. This object contains the following properties:
+It serves as the link between an account and a notification category, storing details about whether that category is enabled for the account and identifying the recipients who should receive notifications for it.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="155">Field</th><th width="130">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the notification subscriber. </p><p>Example: NTS-1111-2222-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object. </p><p>Example: /notifications/subscribers/NTS-1111-2222-1234</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the category. </p><p>Example: Orders</p></td></tr><tr><td>status</td><td><code>enum</code></td><td>Indicates if the category connected to the configuration is enabled or disabled for the account. The possible values are <code>Enabled</code> or <code>Disabled</code>. When disabled, no notifications are sent for the category. </td></tr><tr><td>note</td><td><code>string</code></td><td><p>Notes related to the category. </p><p>Example: Disabled because we are not interested in this category.</p></td></tr><tr><td>recipients</td><td><code>recipients</code></td><td><p>The recipient of the notification email. To receive a notification, the user must be in the <code>recipients.users</code> or be a part of a group within <code>recipients.userGroups</code>. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
    "recipients": {

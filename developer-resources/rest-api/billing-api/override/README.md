@@ -4,6 +4,8 @@ The Override object marks the clients as eligible for manual billing, bypassing 
 
 Assigning this object indicates that the client's billing requires flexibility and will be handled manually.&#x20;Only SoftwareOne Operations can see overrides.
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="166">Field</th><th width="148">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier for the object. No nesting exists for this identifier. </p><p>Example: BOV-1234-1239</p></td></tr><tr><td>client</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td><p>A reference to the Client Account object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "ACC-1234-4444",
     "href": "/accounts/accounts/ACC-1234-4444",

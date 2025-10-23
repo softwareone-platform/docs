@@ -1,6 +1,8 @@
 # Buyers
 
-The Buyer object represents an individual buyer within the Marketplace platform. This object contains the following properties:
+The Buyer object represents an individual buyer within the Marketplace platform.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table data-full-width="false"><thead><tr><th width="136">Field</th><th width="132">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the buyer.</p><p>Example: BUY-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object in the API.</p><p>Example: /v1/accounts/buyers/BUY-1234-1234</p></td></tr><tr><td>status</td><td><code>string</code></td><td>The status of the buyer. The possible values include <code>Enabled</code>, <code>Active</code>, <code>Disabled</code>, or <code>Deleted</code>.</td></tr><tr><td>name</td><td><code>string</code></td><td><p>The buyer's name.</p><p>Example: Stark Industries</p></td></tr><tr><td>icon</td><td><code>string</code></td><td><p>The relative path to the buyer’s logo.</p><p>Example: /static/accounts/BUY-1234-1234/logo.png</p></td></tr><tr><td>externalIds</td><td><a href="../../common-api-objects/externalids.md"><code>externalIds</code></a></td><td><p>The external identifier.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
  "erpCompanyContact": "WW-CON-123456",

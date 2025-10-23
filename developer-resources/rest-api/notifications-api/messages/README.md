@@ -1,6 +1,8 @@
 # Message
 
-The Message object represents a single notification that was sent to a single contact. This object contains the following attributes:
+The Message object represents a single notification that was sent to a single contact.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="157">Field</th><th width="134">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td>The primary identifier for the message. Example: MSG-1234-9876-4442-4314</td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object. </p><p>Example: /v1/notifications/messages/MSG-1234-9876-4442-4314</p></td></tr><tr><td>batch</td><td><a href="../batches/"><code>batch</code></a></td><td><p>The batch associated with the message. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "MST-1234-9876-3333"

@@ -1,6 +1,8 @@
 # Media
 
-The Media object enables vendors to add, view, or delete media from the product object. This object contains the following properties:
+The Media object enables vendors to add, view, or delete media from the product object.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="158">Field</th><th width="134">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td>The identifier for the Media object.</td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the Media object.</p><p>Example: Office 365 Product Image</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the Media object.</p><p>Example: An image of Office 365, available to purchase within the Microsoft 365 Online Services product.</p></td></tr><tr><td>type</td><td><code>string</code></td><td>The type of the Media object.</td></tr><tr><td>url</td><td><code>string</code></td><td><p>The URI to access the media object.</p><p>Example: https://address.to.media.file.pl/abcde.png</p></td></tr><tr><td>displayOrder</td><td><code>integer</code></td><td><p>The object's order in the list.</p><p>Example: 100</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the media. </p><p>Example: Published.</p></td></tr><tr><td>product</td><td><a href="../product/"><code>product</code></a></td><td><p>A reference to the Product object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "PRD-1111-1111-1111",

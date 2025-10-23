@@ -1,6 +1,8 @@
 # Contact
 
-The Contact object represents a contact to which notifications are sent. Contact can but doesn’t have to be linked to a user on the platform. Each contact can manage its notification preferences on a category level. This object contains the following attributes:
+The Contact object represents a contact to which notifications are sent. Contact can, but doesn’t have to be linked to a user on the platform. Each contact can manage its notification preferences on a category level.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="170">Field</th><th width="121">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>A primary identifier for the contact. </p><p>Example: CTT-1234-9876-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object. </p><p>Example: /v1/notifications/contacts/CTT-1234-9876-1234</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The contact's display name.  </p><p>Example: Jane Doe</p></td></tr><tr><td>email</td><td><code>string</code></td><td><p>The contact's email address.  </p><p>Example: Jane@starkindustries.com</p></td></tr><tr><td>user</td><td><a href="../../accounts-api/users/"><code>user</code></a></td><td><p>Indicates if the email belongs to a user registered on the platform. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "USR-3773-5838",

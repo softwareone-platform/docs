@@ -2,7 +2,7 @@
 
 The Pricelist object includes key pricing details such as sales and purchase prices, enabling vendors and operations to effectively manage and apply different price points for product items. This is essential for aligning pricing strategies with market and internal financial objectives.
 
-The Pricelist object contains the following properties:
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="144">Field</th><th width="193">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The business identifier of the price list.</p><p>Example: PRC-1234-5678-9012</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The resource URI of the price list.</p><p>Example: /v1/price-lists/PRC-1234-5678-9012</p></td></tr><tr><td>currency</td><td><code>string</code></td><td><p>The ISO code for the currency.</p><p>Example: EUR</p></td></tr><tr><td>precision</td><td><code>integer</code></td><td><p>Precision of the pricelist as decimal places.</p><p>Example: 3</p></td></tr><tr><td>notes</td><td><code>string</code></td><td><p>The notes about the price list.</p><p>Example: This is the primary price list for the EU region.</p></td></tr><tr><td>externalIds</td><td><a href="../../common-api-objects/externalids.md"><code>externalIds</code></a></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "vendor": "op-322-322",
