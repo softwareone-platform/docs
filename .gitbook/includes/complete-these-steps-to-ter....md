@@ -1,5 +1,5 @@
 ---
-title: Complete these steps to ter...
+title: TerminateSubscription - Steps
 ---
 
-**Complete the steps to terminate the subscription**
+**Follow the steps to terminate the subscription**

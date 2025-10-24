@@ -1,5 +1,5 @@
 ---
-title: terminate agreement 2
+title: TerminateAgreement - Steps
 ---
 
-**Complete the steps to terminate the agreement**
+**Follow the steps to terminate the agreement**

@@ -6,7 +6,7 @@ Licensees are connected to the buyers and sellers in your account. There can be 
 
 Account administrators can view and manage licensees on the **Licensees** page in the platform.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption><p>Licensees page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption><p>The Licensees page in the platform.</p></figcaption></figure></div>
 
 The page shows all the licensees in your account. For each licensee, you can view details such as the name and unique identifier of the licensee, their address, current status, and more.&#x20;
 
@@ -18,7 +18,7 @@ Additionally, you have options that allow you to manage a licensee. Depending on
 
 To view the details page of a licensee, select the licensee on the **Licensee** page.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensee_details_page.png" alt=""><figcaption><p>Details page of a licensee</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensee_details_page.png" alt=""><figcaption><p>The details page of a licensee.</p></figcaption></figure></div>
 
 The details page shows the licensee's name, marketplace ID, and status. It also shows the associated buyer and seller entities, and contains the following tabs:&#x20;
 

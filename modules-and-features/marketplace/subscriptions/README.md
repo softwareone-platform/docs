@@ -6,17 +6,15 @@ You can [order new subscriptions through the platform](buy-products-and-services
 
 Your subscriptions are available on the **Subscriptions** page. The page is available under **Marketplace** in the main menu.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>The Subscriptions page in the platform.</p></figcaption></figure></div>
 
-On the **Subscriptions** page, you can view the key properties for each of the subscriptions, including the renewal date and status.
-
-The **Subscriptions** page also contains a **Buy more** option, which gives you quick access to the [Products ](../../catalog/products.md)page for browsing the catalog and ordering more subscriptions.
+On the **Subscriptions** page, you can view the key properties for each of the subscriptions, including the renewal date and status. The page also contains a **Buy more** option, giving you quick access to the [Products ](../../catalog/products.md)page for ordering subscriptions.
 
 ## Viewing subscription details <a href="#subscription-details" id="subscription-details"></a>
 
 To view the full details for a subscription, select the subscription name on the **Subscriptions** page.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Subscriptiondetails.png" alt=""><figcaption><p>Subscription details page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Subscriptiondetails.png" alt=""><figcaption><p>The details page of a subscription.</p></figcaption></figure></div>
 
 The details page contains general information, such as subscription status, renewal date, commitment timeframe, and more.&#x20;
 

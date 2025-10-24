@@ -4,7 +4,7 @@ In the Marketplace Platform, a buyer is defined as an organization that procures
 
 Account administrators can view all buyers on the **Buyers** page. Admins can update buyer details and enable or disable buyers. However, they cannot add new buyers to the account. Only SoftwareOne can add buyers.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>Buyers page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>The Buyers page  in the platform.</p></figcaption></figure></div>
 
 For each buyer, you can view details such as the buyer's name and address, tax identifier, contact person, and more.&#x20;
 
@@ -21,7 +21,7 @@ You also have action links that allow you to enable, disable, or edit the buyer.
 
 To view the details page for a buyer, select the buyer on the **Buyers** page.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/BuyerDetails.png" alt=""><figcaption><p>Details page of a buyer</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/BuyerDetails.png" alt=""><figcaption><p>The details page of a buyer.</p></figcaption></figure></div>
 
 The details page provides general information, such as the buyer's name and ID. You can also view:
 

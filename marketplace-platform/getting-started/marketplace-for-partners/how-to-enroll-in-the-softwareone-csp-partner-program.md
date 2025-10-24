@@ -19,7 +19,7 @@ To open the details page:
 1. Navigate to the **Programs** page.
 2. Select **SWO CSP Partner Program**. The program's details page opens.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_program_swo.png" alt=""><figcaption><p>Details page of the SWO CSP Partner Program</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_program_swo.png" alt=""><figcaption><p>The details page of the SWO CSP Partner Program.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -34,7 +34,7 @@ To start the wizard:
 {% step %}
 **Follow the wizard to complete the enrollment**
 
-To enroll in the program, complete all steps, making sure to enter or verify the required information in each step.
+{% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Certificant** - Choose the buyer you want to enroll in the program, then select **Next**.
 2. **Details** - Provide a name for the certificate and select **Next**.&#x20;

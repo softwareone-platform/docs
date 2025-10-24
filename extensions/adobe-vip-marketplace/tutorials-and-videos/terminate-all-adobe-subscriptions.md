@@ -22,9 +22,9 @@ To open the agreement:
 {% endstep %}
 
 {% step %}
-**Follow the steps to terminate the agreement**
+{% include "../../../.gitbook/includes/terminate-agreement-2.md" %}
 
-In the **Terminate agreement** wizard, complete the following steps:
+In the Terminate agreement wizard, complete the following steps:
 
 1. **Items** - Check that all subscriptions show the new quantity as 0 and select **Next**.
 2. **Order details** - Enter the reference information for the agreement and the termination order, then select **Next**.

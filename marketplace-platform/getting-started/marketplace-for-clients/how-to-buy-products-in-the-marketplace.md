@@ -1,47 +1,49 @@
-# How to Buy Products in the Marketplace
+# How to Buy Products
 
-The Marketplace Platform is a centralized hub designed to streamline the discovery and ordering of software products.&#x20;
+The Marketplace Platform is designed to simplify the complex process of software licensing and procurement. It aims to simplify your buying journey by making it easier for you to find and compare products from multiple software vendors in one place.&#x20;
 
-The platform simplifies the complex process of software licensing and procurement, making it easier for you to find and compare products from multiple software vendors in one place. Each product on our marketplace undergoes a process where vendors define the product, including its terms of use, and submit it to SoftwareOne. Products become available for ordering only after they are accepted by SoftwareOne.
+Ordering products from the SoftwareOne Marketplace involves a series of steps, depending on the product's vendor. This topic describes these steps at a high level.&#x20;
+
+## Buying products from the Marketplace
 
 {% stepper %}
 {% step %}
-**Accessing the Products page**
+**Accessing the product catalog**
 
-You can access the **Products** page by signing in to your account and selecting the main navigation menu.
+The **Products** page contains all products available for you to order.&#x20;
+
+You can access this page by signing in to your account and selecting the main navigation menu. All products are categorized by the vendor name and displayed as cards.&#x20;
+
+To view detailed information for a product, select the product name.&#x20;
+
+<figure><img src="../../../.gitbook/assets/products-page.png" alt=""><figcaption><p>The products page in the platform.</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Browsing and selecting products**
+**Starting the ordering process**
 
-The **Products** page shows products available for you to order. All products are categorized by the vendor name and displayed as cards. You can view detailed information for a product by selecting it. To learn more, see [Products](../../../modules-and-features/catalog/products.md).
+When you are ready to order, select **Buy now** on the details page. The ordering process begins, containing a series of steps that must be completed to place the order.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (995).png" alt=""><figcaption><p>Products page</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing a series of ordering steps.</p></figcaption></figure>
 {% endstep %}
 
 {% step %}
-**Starting the purchase wizard and placing the order**
+**Placing the order**
 
-When you are ready to start the ordering process, select **Buy now** on the details page.
+The ordering steps might vary slightly depending on the product you are ordering and the information you need to provide. At a high level, the following steps are involved:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure></div>
-
-The purchase wizard starts. This wizard contains a series of steps you must complete to place an order.
-
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1017).png" alt=""><figcaption><p>Purchase wizard containing a series of steps</p></figcaption></figure></div>
-
-The steps within the wizard vary depending on the type of product and vendor. At a high level, it contains these steps:
-
-1. **Select agreement** - When ordering a product, you have the option to use an existing agreement or create a new one. The option you select in this step determines the next step in the wizard. For instance, when you create a new agreement, the **Select licensee** page is displayed. However, if you use an existing agreement, the **Select items** page opens.
-2. **Select licensee** - You can choose an existing licensee or create a new one.&#x20;
+1. **Select agreement** - Select an existing agreement or create a new one. The option you select in this step determines the next step. For instance, when you create a new agreement, the **Select licensee** page is displayed. However, if you use an existing agreement, the **Select items** page opens.
+2. **Select licensee** - Choose an existing licensee or create a new one.&#x20;
 3. **Agreement details** - Fill out the contact form.
-4. **Select items** - Choose the items you want to order and the quantity of those items.
+4. **Select items** - Choose the items you want to order and adjust the quantity of the selected items.
 5. **Additional information**  - Add the additional IDs for the order and agreement.&#x20;
-6. **Review order** - Preview the order details and place your order.
-7. **Summary** - See your order summary and the latest status message.
+6. **Review order** - Review the order details, read the terms and conditions, and place your order.
+7. **Summary** - Review your order summary.
 
 {% hint style="info" %}
 For products like Adobe and Microsoft, you'll need to complete additional steps when placing the order. For step-by-step guidance on these products, see [Adobe Tutorials ](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/)and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/).
 {% endhint %}
 {% endstep %}
 {% endstepper %}
+
+After the order is placed, we verify the details and process the order. The **General** tab on the [order details page](../../../modules-and-features/marketplace/orders/#order-details) displays the order's status. If there are any issues, the same details page provides information about the problem and the actions you must take so your order can be processed.

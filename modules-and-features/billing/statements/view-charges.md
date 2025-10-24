@@ -11,10 +11,10 @@ You can view the charges in two ways:
 * On the **Charges** tab in your Excel statement.
 * On the statement details page within the platform.&#x20;
 
-To download a sample Excel statement that shows how the charges appear, use the following link:
+To download or view a sample Excel statement that shows how the charges appear, use the following link:
 
 {% file src="../../../.gitbook/assets/sample-statement.xlsx" %}
-Download this statement to view sample charges
+Sample Marketplace billing statement
 {% endfile %}
 
 To view charges in the platform:

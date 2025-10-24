@@ -10,7 +10,7 @@ All subscriptions are listed on the **Subscriptions** page. The page displays al
 
 To open the details page for a subscription, select the subscription name.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Subscriptions page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>The Subscriptions page in the platform.</p></figcaption></figure></div>
 
 ## Adding or removing licenses
 

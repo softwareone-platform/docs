@@ -6,7 +6,7 @@ Statements are provided in the XLSX format and contain a detailed view of your i
 
 You can view your billing statements on the **Statements** page in the platform.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Statements page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>The Statements page in the platform.</p></figcaption></figure></div>
 
 The page shows all statements generated for your account and properties, such as statement ID, the total amount due, status, and more.&#x20;
 
@@ -16,7 +16,7 @@ For each statement, you can also view the type. A **Debit** type means that the 
 
 To view the detailed information for a statement, select the statement ID on the **Statements** page.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>Details page of a statement</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>The details page of a statement.</p></figcaption></figure></div>
 
 The details page of a statement contains links to the related business objects and general statement details. You can also view the following tabs:&#x20;
 

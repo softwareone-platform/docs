@@ -4,7 +4,7 @@ In the Marketplace Platform, a seller refers to a SoftwareOne legal entity that 
 
 Account administrators can view all sellers on the **Sellers** page.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_sellers.png" alt=""><figcaption><p>Sellers page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_sellers.png" alt=""><figcaption><p>The Sellers page in the platform.</p></figcaption></figure></div>
 
 The page displays all sellers linked to your account by SoftwareOne, along with their details, such as name, ID, and address. You can also view the status of each seller. See [Seller States](seller-states.md) for possible values.
 
@@ -12,7 +12,7 @@ The page displays all sellers linked to your account by SoftwareOne, along with 
 
 To view the details page for a seller, select the seller on the **Sellers** page.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_seller_details.png" alt=""><figcaption><p>Details page of a seller</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_seller_details.png" alt=""><figcaption><p>The details page of a seller.</p></figcaption></figure></div>
 
 The details page displays general information, such as the seller's name and status. It also contains the following tabs:
 

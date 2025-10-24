@@ -8,11 +8,11 @@ To accept the invitation:
 
 1. Select the invite link in your email. The following page is displayed:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (887).png" alt="" width="375"><figcaption><p>Welcome screen</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (887).png" alt="" width="375"><figcaption><p>The option to accept an invitation.</p></figcaption></figure></div>
 
 2. Select **Accept invitation**. The registration page is displayed:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (888).png" alt="" width="375"><figcaption><p>Registration page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (888).png" alt="" width="375"><figcaption><p>The account registration page.</p></figcaption></figure></div>
 
 3. On the registration page, do the following:
    1. Enter your first name and last name.
@@ -42,4 +42,4 @@ You can decline an invitation if it was sent to you in error or if you choose no
 
 To decline, open the invitation link and select **Decline invitation**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (890).png" alt="" width="375"><figcaption><p>Decline invitation</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (890).png" alt="" width="375"><figcaption><p>The option to decline an invitation.</p></figcaption></figure></div>

@@ -11,13 +11,13 @@ There are different types of orders in the Marketplace Platform:
 
 You can view and manage your orders from the **Orders** page in the platform. The page is available under **Marketplace** in the main menu.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>Orders page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>The Orders page in the platform.</p></figcaption></figure></div>
 
 ## Viewing order details <a href="#order-details" id="order-details"></a>
 
 To view the order details page, select the order on the **Orders** page.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/order_details_page.png" alt=""><figcaption><p>Order details page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/order_details_page.png" alt=""><figcaption><p>The details page of an order. </p></figcaption></figure></div>
 
 At the top of the details page, you can view properties, such as the order ID and status. Other details, such as the type of order, linked agreement, and the order's currency, are also displayed.
 

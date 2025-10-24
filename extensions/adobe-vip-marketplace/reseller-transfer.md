@@ -69,11 +69,11 @@ To initiate the transfer process:&#x20;
    2. Choose an existing licensee from the list or [create a new one](../../modules-and-features/settings/licensees/create-licensees.md). Then, select **Next**.
    3.  Choose **Transfer account** and select **Next**.&#x20;
 
-       <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/adobe-reseller-transfer-3.png" alt=""><figcaption><p>Select the account transfer option</p></figcaption></figure></div>
+       <div align="left" data-with-frame="true"><figure><img src="../../.gitbook/assets/adobe-reseller-transfer-3.png" alt=""><figcaption><p>The option to transfer your account.</p></figcaption></figure></div>
    4.  Provide your system administrator's email address and the approval code from the Admin Console. Make sure that the approval code is valid. If the code has expired, you must generate a new one from the Admin Console. Select **Next** to continue.
 
-       <div data-with-frame="true"><figure><img src="../../.gitbook/assets/adobe-reseller-transfer-4.png" alt=""><figcaption><p>Enter the email address and reseller code</p></figcaption></figure></div>
-   5. Select **Next** to continue to the **Details** step. This step is view-only, so you can't modify the available item.
+       <div data-with-frame="true"><figure><img src="../../.gitbook/assets/adobe-reseller-transfer-4.png" alt=""><figcaption><p>The options to enter the email address and reseller code.</p></figcaption></figure></div>
+   5. Select **Next** to continue to the **Details** step. This current step is view-only, so you can't modify the available item.
    6. Provide optional details, like additional IDs or order notes, and select **Next**.&#x20;
    7. Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
    8. Select **View order** to navigate to the order details page. Otherwise, select **Close** to exit the wizard.

@@ -1,5 +1,5 @@
 ---
-title: purchase wizard 2
+title: PurchaseWizard - Mid
 ---
 
 **Follow the steps to place your order**

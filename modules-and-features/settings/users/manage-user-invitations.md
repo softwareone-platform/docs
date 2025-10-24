@@ -16,7 +16,7 @@ To reinvite a user to your account:
    * **Copy invitation link** - Select to copy the invite as a link and share it directly with the individual.&#x20;
    * **Resend invitation link** - Select to resend the invitation to the individual's email address.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1006).png" alt=""><figcaption><p>Options to reinvite an individual to your account</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1006).png" alt=""><figcaption><p>The options to re-invite an individual to your account.</p></figcaption></figure></div>
 
 ## Sending a new invitation email
 
@@ -37,4 +37,4 @@ To send a new invitation email:
 1. Navigate to the **Users** page.
 2. Select the actions icon (**•••**) for the required user and choose **Send new invitation**. An invitation email is sent to the individual, and a confirmation message is displayed.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1007).png" alt=""><figcaption><p>Option to send a new invitation</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1007).png" alt=""><figcaption><p>The option to send a new account invitation.</p></figcaption></figure></div>

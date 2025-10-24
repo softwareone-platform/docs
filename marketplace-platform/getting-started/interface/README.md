@@ -4,7 +4,7 @@ The Marketplace Platform is a SaaS application with three user interfaces, each 
 
 The platform provides three distinct user interfaces, namely the Client Portal, Vendor Portal, and Operations Portal.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/marketplace_platform.png" alt=""><figcaption><p>Marketplace Platform</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/marketplace_platform.png" alt=""><figcaption><p>Marketplace Platform</p></figcaption></figure>
 
 * **Client Portal** - Accessed by our clients and partners for software procurement.&#x20;
 * **Vendor Portal** - Used by vendors for setting up and configuring products.
@@ -22,7 +22,7 @@ To access the Marketplace Platform user interface (UI):
 
 If you provide inaccurate credentials, an error message is displayed.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (891).png" alt="" width="379"><figcaption><p>Sign in page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (891).png" alt="" width="379"><figcaption><p>The sign in page.</p></figcaption></figure></div>
 
 If you can’t remember your password, select the **Forgot password?** link on the **Sign-in** page and then follow the instructions. For more information, see [Update password](../../../help-and-support/faqs/update-password.md).
 
@@ -34,7 +34,7 @@ The platform provides a seamless and intuitive interface, allowing access to the
 
 The <img src="../../../.gitbook/assets/icon_menu.png" alt="" data-size="line"> **Home** menu at the top left opens the main navigation menu, provides access to all modules enabled for your account.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_home.png" alt=""><figcaption><p>Main navigation menu</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_home.png" alt=""><figcaption><p>The main navigation menu.</p></figcaption></figure></div>
 
 ### Search
 
@@ -42,7 +42,7 @@ The Search bar lets you search for various objects in the platform, such as your
 
 You can also use search to find user documentation. For example, you can search for "manage subscriptions" to read documentation about how to manage your subscriptions.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_search.png" alt=""><figcaption><p>Search bar in the platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_search.png" alt=""><figcaption><p>The search bar in the platform.</p></figcaption></figure></div>
 
 When performing a search, start by choosing the category you want to search across and then enter the search term. Our platform supports free text, which means you can enter all or part of the object's ID or name. For example, when searching for an agreement using its ID, select the **Agreements** category and then enter the full order ID (such as ‘AGR-8981-7039-6781’) or part of it (such as 6781). The platform will then display results matching your specified search term.
 
@@ -52,16 +52,16 @@ The Help icon <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size
 
 It also contains a **Support** option, allowing you to easily [contact Marketplace Platform Support](../../../help-and-support/contact-support.md).
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Help.png" alt=""><figcaption><p>Help icon in the header</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Help.png" alt=""><figcaption><p>The help icon in the header.</p></figcaption></figure></div>
 
 ### Spotlight actions
 
 The Spotlight icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> opens the Spotlight widget, containing all tasks requiring your attention. To learn more about this feature, see [View Object Spotlight](view-pending-tasks.md).
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>Spotlight widget on the Home page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>The spotlight widget on the Home page.</p></figcaption></figure></div>
 
 ### Account selector and profile menu
 
 The profile menu lets you [switch between your accounts](switch-account.md) and [manage your profile](manage-profile.md). It also contains the **Sign out** option.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_accountselector.png" alt=""><figcaption><p>Account selector and profile menu</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_accountselector.png" alt=""><figcaption><p>The account selector and your profile menu in the platform.</p></figcaption></figure></div>

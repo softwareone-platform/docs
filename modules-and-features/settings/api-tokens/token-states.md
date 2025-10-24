@@ -4,7 +4,7 @@ A token can have multiple states during its lifecycle in the Marketplace Platfor
 
 The following diagram shows the possible states and the transition between these states:
 
-<figure><img src="../../../.gitbook/assets/state_diagram_apiToken.png" alt=""><figcaption><p>API token state transition</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/state_diagram_apiToken.png" alt=""><figcaption><p>The state transition diagram of an API token.</p></figcaption></figure>
 
 These states are displayed as Status within the platform. They are also displayed as an icon beside the token name and ID on the details page.
 

@@ -12,6 +12,8 @@ SoftwareOne Services Support provides 24/7 technical assistance for all Microsof
 Watch the following video or continue reading to learn about your support options for CSP.
 
 {% embed url="https://vimeo.com/1109624556?share=copy" %}
+Watch a quick video guide discussing the support options for SoftwareOne CSP customers.
+{% endembed %}
 
 ### Minimum requirements for full SoftwareOne Services support <a href="#what-type-of-requests-can-customers-raise-to-softwareone-services-support" id="what-type-of-requests-can-customers-raise-to-softwareone-services-support"></a>
 

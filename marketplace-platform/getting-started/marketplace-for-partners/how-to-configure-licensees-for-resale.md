@@ -23,11 +23,11 @@ To start the wizard:
 {% endstep %}
 
 {% step %}
-**Use the Add Licensee wizard to set up your new licensee**
+**Set up your new licensee**
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/add_licensee_wizard.png" alt=""><figcaption><p>Add licensee wizard</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/add_licensee_wizard.png" alt=""><figcaption><p>The Add licensee wizard in the platform.</p></figcaption></figure></div>
 
-Complete the following steps. Make sure to enter or verify the required information on each step.
+{% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **General** - Provide the following details and select **Next**:&#x20;
    1. **Logo** - (Optional) Add a logo for the licensee. You can upload an image or drag the image into the field.

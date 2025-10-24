@@ -2,7 +2,7 @@
 
 In the Marketplace Platform, you can order subscriptions by creating an order through the purchase wizard. The purchase wizard starts automatically when you select a product from the **Products** page.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Wizard (1).png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>Purchase Wizard</p></figcaption></figure></div>
 
 The wizard is designed to guide you through the ordering process smoothly. It contains navigation buttons, a vertical progress bar with step numbers and title, and a data grid.&#x20;
 

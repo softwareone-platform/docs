@@ -10,7 +10,7 @@ Admins can manage notifications for their account from the **Notifications** pag
 
 Account administrators can view notification categories and messages triggered for their account by navigating to **Settings** > **Notifications**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Notifications page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>The Notifications page in the platform.</p></figcaption></figure></div>
 
 ### Subscribers
 

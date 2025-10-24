@@ -1,10 +1,10 @@
-# Transfer Existing AWS Account
+# Transfer Your Existing AWS Account
 
 This tutorial describes how you can transfer your existing AWS accounts to the SoftwareOne Marketplace by establishing a new agreement.&#x20;
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-Before you start this tutorial, make sure you understand the account transfer options that are available. See [Account Options](../account-options.md) to learn more. Additionally, you'll require the following:
+Before starting this tutorial, ensure you understand the available account transfer options. See [Account Options](../account-options.md) to learn more. Additionally, you'll require the following:
 
 * An active licensee within the Marketplace Platform, or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) if you prefer not to use an existing one. Selecting a licensee is required when setting up a new agreement.
 * The IDs of the AWS accounts you want to transfer.
@@ -13,23 +13,23 @@ Before you start this tutorial, make sure you understand the account transfer op
 
 {% stepper %}
 {% step %}
-**Start the purchase wizard for AWS**
+{% include "../../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the wizard:
+To start the process:
 
 1. Navigate to the **Products** page.&#x20;
 2. From the list of products, select **Amazon Web Services**.&#x20;
 3. On the product details page, select **Buy now**. The Purchase Wizard for AWS starts.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_productdetails.png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_productdetails.png" alt=""><figcaption><p>The Buy Now option on the product details page.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Follow the wizard to transfer your existing account**
+**Follow the steps to transfer your existing account**
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>The purchase wizard for AWS.</p></figcaption></figure></div>
 
-Complete the following steps, making sure to enter or verify the required information where necessary:
+{% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Select agreement** - Select **Create agreement** to start creating your new agreement with SoftwareOne.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we will select an existing licensee. To add a new licensee, select **Add licensee** and follow the instructions in [Create licensee](../../../modules-and-features/settings/licensees/create-licensees.md).
@@ -76,7 +76,7 @@ If you selected **Split existing SoftwareOne marketplace agreements** in the pre
 8. **Items** - Review the details, then select **Next**. This section displays individual items that will be added to your order. To learn more, see My [AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md).
 9. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 10. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-11. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+11. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

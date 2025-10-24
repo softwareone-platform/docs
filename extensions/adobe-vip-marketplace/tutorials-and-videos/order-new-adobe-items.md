@@ -28,7 +28,7 @@ To start the process:
 {% step %}
 {% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-{% include "../../../.gitbook/includes/purchase-wizard-3.md" %}
+{% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. In the **Create agreement** step, choose an active agreement from the list. Then, select **Next**. All items that you have ordered under this agreement are displayed.
 2. In the **Select Items** step, select **Add items** to add the new items to this agreement.

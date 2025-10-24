@@ -9,7 +9,7 @@ To learn about the difference between perpetual license and subscription-based o
 {% endhint %}
 
 {% embed url="https://youtu.be/AuXYCq9z8Qg?feature=shared" %}
-Watch our video guide about perpetual license and subscription-based orders in the platform
+Watch our video guide about perpetual license and subscription-based orders in the platform.
 {% endembed %}
 
 ## Searching for a perpetual license order
@@ -26,7 +26,7 @@ You can add new columns and remove non-essential ones by selecting **Customize**
 
 Selecting **Customize** opens a new menu, allowing you to choose the required columns as necessary. You can also resize the columns by clicking between them.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Orders-customize (1).png" alt=""><figcaption><p>Customize option</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Orders-customize (1).png" alt=""><figcaption><p>The Customize option in the table.</p></figcaption></figure></div>
 
 ## Filtering or sorting orders <a href="#h_6397519928" id="h_6397519928"></a>
 
@@ -34,7 +34,7 @@ Use the filter icon in the column header to apply filters.&#x20;
 
 To sort the data for a column, select the column header, or select the filter icon and then select **Sort** **Ascending** or **Sort** **Descending**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Orders-sort.png" alt=""><figcaption><p>Sort options</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Orders-sort.png" alt=""><figcaption><p>The different sort options in the table.</p></figcaption></figure></div>
 
 ## Individual order actions
 
@@ -44,4 +44,4 @@ The details page displays in-depth information for your selected order, includin
 
 You can also export the order information by selecting the actions icon (**•••**) and choosing one of these options: **Export to PDF**, **Export to Excel (CSV),** or **Export to Excel (XLSX)**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/legacy_orders-export.png" alt=""><figcaption><p>Export options for an invoice</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/legacy_orders-export.png" alt=""><figcaption><p>The different options to export an invoice.</p></figcaption></figure></div>

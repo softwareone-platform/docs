@@ -6,13 +6,13 @@ It defines the relationship between different objects, such as buyers, sellers, 
 
 You can view and manage your agreements from the **Agreements** page in the platform.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/agreements_page.png" alt=""><figcaption><p>Agreements page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/agreements_page.png" alt=""><figcaption><p>The Agreements page in the platform.</p></figcaption></figure></div>
 
 ## Viewing agreement details <a href="#subscription-details" id="subscription-details"></a>
 
 To view the full details of an agreement, select the agreement name on the **Agreements** page.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt=""><figcaption><p>Agreement details page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt=""><figcaption><p>The details page of an agreement.</p></figcaption></figure></div>
 
 At the top of the details page, you can see general details of the agreement.&#x20;
 

@@ -1,16 +1,16 @@
 # How to Filter Your Orders
 
-The platform supports various types of orders, including change, purchase, configuration, and termination orders. All orders are displayed on the **Orders** page.&#x20;
+The Marketplace Platform supports various types of orders, including change, purchase, configuration, and termination orders. All orders are displayed on the **Orders** page.&#x20;
 
-If you need to find a specific order, you can use the filter option to search for and view the order details. We provide several filter options to help you narrow down your list of orders. You can apply a single filter or create a combination of filters by selecting different fields, operators, and values. This topic describes how to use these filters.
+If you need to find a specific order, you can use the filter option to search for it. There are several filter options to help you narrow down the list. You can apply a single filter or create a combination of filters by selecting different fields, operators, and values. This topic describes how to use these filters.
 
 ## Using filters to find an order <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
 
 To find an order using a filter, such as status:
 
-1. Navigate to the **Orders** page and select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
+1. Navigate to the **Orders** page, then select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>Filter option on the Orders page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>The filter option on the Orders page.</p></figcaption></figure></div>
 
 2. Select **Add another condition** to open a menu of conditions.&#x20;
 3. Define the conditions:
@@ -23,9 +23,7 @@ Your list of orders is refreshed according to the filters. To reset the filters 
 
 ## Viewing your order's details
 
-To view detailed information for an order, select the ID in the **Order** column.&#x20;
-
-The order details page opens, allowing you to view basic order information and details such as items, subscriptions, ordering and fulfilment parameters, and more.
+To view detailed information for an order, select the ID in the **Order** column. You can then view basic order information and specific order details such as items, subscriptions, and more.
 
 From the order details page, you can complete these additional tasks:
 

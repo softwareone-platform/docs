@@ -30,7 +30,7 @@ To start the process:
 {% step %}
 {% include "../../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-{% include "../../../../.gitbook/includes/purchase-wizard-3.md" %}
+{% include "../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Create agreement** - Select **Create agreement** to start creating a new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.

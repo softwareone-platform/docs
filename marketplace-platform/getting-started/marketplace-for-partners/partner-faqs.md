@@ -28,9 +28,9 @@ If your certificate is pending, the **General** tab on the certificate details p
 
 <summary>Where can I see my orders?</summary>
 
-You can view your order history on the **Orders** page, available under **Marketplace** in the main navigation menu.&#x20;
+You can view your order history on the **Orders** page in the platform.
 
-To view the details for a specific order, select the order number. For more information, see [Orders](../../../modules-and-features/marketplace/orders/).&#x20;
+To view the details for a specific order, select the order number on the **Orders** page. For information on how to access and manage orders, see [Orders](../../../modules-and-features/marketplace/orders/).&#x20;
 
 </details>
 
@@ -55,7 +55,7 @@ To learn more about marketplace orders, see [Orders](../../../modules-and-featur
 
 An order can remain **Querying** due to issues with the ordering parameters, such as the domain name, or if a required action has not been completed.
 
-If there's an issue with your order, the **General** tab on the order details page will highlight the issue and provide steps you need to take to ensure your order moves to the next stage.
+If there's an issue with your order, the **General** tab on the order details page will highlight the issue and provide the steps you must take to ensure your order moves to the next stage.
 
 For example, if the GDAP relationship request needs to be accepted or the domain name needs updating, the **General** tab will guide you through the next steps.
 
@@ -85,14 +85,14 @@ When updating the name, make sure that your primary domain name or tenant ID mat
 
 Your MPN and Indirect Reseller IDs are displayed on the **Parameter** tab within the certificate details. To view these IDs, follow these steps:
 
-1. Navigate to the **Certificates** page, located under **Marketplace** in the main navigation menu.
+1. Navigate to the **Certificates** page in the platform.
 2. Select the desired certificate.
 3. On the certificate details page, select the **Parameters** tab.
 
 The MPN ID is displayed under **Ordering** parameters, and the Indirect Reseller ID is shown under **Fulfillment** parameters.&#x20;
 
 {% hint style="info" %}
-An incorrect MPN or Indirect Reseller ID will prevent your Marketplace order from moving to the next stage. If the IDs need to be updated, [contact Marketplace Platform Support](../../../help-and-support/contact-support.md).
+An incorrect MPN or Indirect Reseller ID prevents your Marketplace order from moving to the next stage. If the IDs need to be updated, [contact Marketplace Platform Support](../../../help-and-support/contact-support.md).
 {% endhint %}
 
 </details>
@@ -111,12 +111,12 @@ After submitting the form, a SoftwareOne representative will contact you.
 
 <details>
 
-<summary>I am an existing partner, and my account has been migrated from Partner Portal to Marketplace Platform. What do I need to know to get started?</summary>
+<summary>I am an existing partner, and my account has been migrated from the Partner Portal to the Marketplace Platform. What do I need to know to get started?</summary>
 
 If your account has been recently migrated, sign in to your Marketplace account and complete these steps:
 
-1. &#x20;[Enroll in the SoftwareOne CSP partner program](how-to-enroll-in-the-softwareone-csp-partner-program.md). Once you complete your enrollment, you will receive a certificate. This certificate must be selected when ordering CSP products from the Marketplace.
-2. [Configure licensees for reselling products to your end customers](how-to-configure-licensees-for-resale.md). Licensees are the end-users or consumers of the product. If you want to order products from the Marketplace and resell them to other organizations, you must set up these licensees as resale licensees. Licensee selection is required when placing an order in the Marketplace.
+1. &#x20;[Enroll in the SoftwareOne CSP partner program](how-to-enroll-in-the-softwareone-csp-partner-program.md). Once the enrollment is completed, you receive a certificate. This certificate must be selected when ordering CSP products from the Marketplace.
+2. [Configure licensees for reselling products to your end customers](how-to-configure-licensees-for-resale.md). Licensees are the end-users or consumers of the product. To order products from the Marketplace and resell them to other organizations, you must set up these licensees as resale licensees. Licensee selection is required during the ordering process.
 
 </details>
 
@@ -128,7 +128,7 @@ The SoftwareOne CSP Partner Program is for SoftwareOne partners to ensure compli
 
 All SoftwareOne partners are required to enroll in this program to obtain a compliance certificate, which is linked to all CSP products in the Marketplace. Enrollment must be completed before any purchases can be made.
 
-Once you've successfully enrolled in the program, a compliance certificate is generated. You'll need to select this certificate when ordering CSP products and services.
+When you are enrolled in the program, a compliance certificate is generated. You must select this certificate when ordering CSP products and services.
 
 </details>
 
@@ -211,7 +211,7 @@ For detailed instructions, see [How to Order Products for Resale](how-to-order-p
 
 <details>
 
-<summary>What should I do if my resale licensee is not showing up in the Purchase Wizard?</summary>
+<summary>What should I do if my resale licensee is not showing up during the ordering process?</summary>
 
 Make sure that your account as a reseller is properly configured and that your resale licensee information is correctly set up. For details, see the following links:
 
@@ -255,13 +255,35 @@ The following restrictions apply to CSP products:
 
 </details>
 
+<details>
+
+<summary>Do I need to provide a Company Registration ID when ordering CSP subscriptions?</summary>
+
+According to Microsoft, a company registration ID is required when purchasing subscriptions for customers in specific countries/regions. For details, see the [Microsoft Partner Center documentation](https://learn.microsoft.com/en-us/partner-center/account-settings/reg-number-id).
+
+In the Marketplace Platform, a registration ID is required only when creating a new cloud account for a new customer as part of the ordering process.&#x20;
+
+If you are purchasing additional licenses for an existing customer or making modifications to an agreement, providing the registration ID is optional.
+
+</details>
+
+<details>
+
+<summary>My customer doesn't have a Company Registration ID.</summary>
+
+If your end customer is an individual without a Company Registration ID, you can collect an equivalent tax identification number and provide it during the ordering process.&#x20;
+
+To see which countries or regions require a registration ID number, see the [Microsoft Partner Center documentation](https://learn.microsoft.com/en-us/partner-center/account-settings/reg-number-id).
+
+</details>
+
 ### Subscriptions
 
 <details>
 
 <summary>How do I upsize or downsize a subscription?</summary>
 
-You can adjust the number of licenses by placing a change order. Certain restrictions apply when you are adjusting the quantity.
+You can adjust the number of licenses by placing a change order. Certain restrictions apply when adjusting the quantity.
 
 For details, see [How to Change the Quantity of Licenses](../marketplace-for-clients/adjust-subscription-quantity.md).
 
@@ -278,7 +300,7 @@ Use the following methods to track upcoming renewals:
 
 - Open an individual subscription to check the renewal date.
 
-Marketplace subscriptions renew automatically unless you disable their automatic renewal.
+Marketplace subscriptions renew automatically unless you disable the automatic renewal.
 
 </details>
 
@@ -286,7 +308,9 @@ Marketplace subscriptions renew automatically unless you disable their automatic
 
 <summary>Can I disable auto-renewal for a subscription?</summary>
 
-Yes, you can disable the auto-renewal by placing a configuration order. For details, see [Manage Automatic Renewals](../../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+Yes, you can disable the auto-renewal by placing a configuration order.&#x20;
+
+For details on how to place a change order, see [Manage Automatic Renewals](../../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
 
 </details>
 
@@ -294,7 +318,7 @@ Yes, you can disable the auto-renewal by placing a configuration order. For deta
 
 <summary>Can I rename a subscription?</summary>
 
-Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptions for easier identification. For details, see [Edit Subscription Name](../../../modules-and-features/marketplace/subscriptions/rename-a-subscription.md).
+Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptions for easier identification. For details on renaming subscriptions, see [Edit Subscription Name](../../../modules-and-features/marketplace/subscriptions/rename-a-subscription.md).
 
 </details>
 

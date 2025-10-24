@@ -21,13 +21,13 @@ To start the process:
 2. Select **SoftwareOne FinOps for Cloud**.&#x20;
 3. On the details page, select **Buy now**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>The Buy Now option on the product details page.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 {% include "../../.gitbook/includes/purchase-wizard-2.md" %}
 
-{% include "../../.gitbook/includes/purchase-wizard-3.md" %}
+{% include "../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Select agreement** - Select **Create agreement** to start creating your new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can [add a new licensee](../../modules-and-features/settings/licensees/create-licensees.md) by selecting **Create licensee**.
@@ -40,11 +40,11 @@ To start the process:
 When selecting a **Currency**, make sure to choose the correct one, as it can't be changed after the agreement has been created. You must select the same currency that your cloud provider (like AWS or Azure) uses for billing. For example, if you are billed in USD, you must select **USD** from the list. If you choose a different currency, you won't be able to import the cost and usage data from your cloud provider.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_parameters.png" alt=""><figcaption><p>Agreement step in the purchase wizard</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_parameters.png" alt=""><figcaption><p>The Agreement step in the purchase wizard.</p></figcaption></figure></div>
 
 4. **Items** - Choose **SoftwareOne FinOps for Cloud**. Then, select **Add items** to add this item to your order. When done, select **Next**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>Items step in the purchase wizard</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>The Items step within the purchase wizard.</p></figcaption></figure></div>
 
 5. **Details** - Provide reference details, like additional IDs or notes as necessary, then select **Next**.
 6. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.

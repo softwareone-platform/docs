@@ -2,7 +2,7 @@
 
 The following diagram shows the possible states and the transitions between seller states in the platform:
 
-<figure><img src="../../../.gitbook/assets/state_diagram_seller.png" alt=""><figcaption><p>Seller state transition</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/state_diagram_seller.png" alt=""><figcaption><p>The state transition diagram of a seller.</p></figcaption></figure>
 
 Note that the Marketplace Platform supports various account types, including vendor and client, so not all states might be visible to you.
 

@@ -12,9 +12,9 @@ To update a subscription's client ID:
 2. Select the subscription you want to update.
 3. On the subscription details page, select the **Details** tab. Then, select **Edit**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscription_details_tab.png" alt=""><figcaption><p>Details tab of a subscription</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscription_details_tab.png" alt=""><figcaption><p>The Details tab on the subscription details page.</p></figcaption></figure></div>
 
 4. In the **Edit ID** dialog, enter the new ID in the **Additional ID** field.&#x20;
 5. Select **Save**. The ID is updated and displayed as Client ID under **Additional IDs**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscription_additional_ID.png" alt=""><figcaption><p>Updated subscription ID on the Details tab</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscription_additional_ID.png" alt=""><figcaption><p>The Client Additional ID within the Details tab.</p></figcaption></figure></div>

@@ -29,4 +29,4 @@ When you order AWS services through the Marketplace Platform, you have two suppo
 
 The **Parameters** tab within the order details page shows the support model you opted for. This information is available only after you've placed the order.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/aws_parameters.png" alt=""><figcaption><p>Ordering parameters within your order details</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/aws_parameters.png" alt=""><figcaption><p>The ordering parameters within your order details.</p></figcaption></figure></div>

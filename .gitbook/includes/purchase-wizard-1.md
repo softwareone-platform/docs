@@ -1,5 +1,5 @@
 ---
-title: Purchase wizard 1
+title: PurchaseWizard - Start
 ---
 
 **Start the purchasing process**

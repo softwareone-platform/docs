@@ -10,7 +10,7 @@ This topic outlines what you can expect during the transition and details the st
 
 Before we begin the migration process, you'll see a message in the Partner Portal indicating that your account will be migrated.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/partner_portal_migration.png" alt=""><figcaption><p>Message stating that your account is going to be migrated</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/partner_portal_migration.png" alt=""><figcaption><p>A message stating that your account is going to be migrated.</p></figcaption></figure></div>
 
 At this stage of the process, you don't need to take any action. However, we recommend that you become familiar with the terminology and experience of the new Marketplace:
 
@@ -27,7 +27,7 @@ When your account has been migrated, we'll send you an email.&#x20;
 
 You'll also see a message within the Partner Portal confirming that your account has been migrated.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/partner_portal_migration2.png" alt=""><figcaption><p>Message stating that your account has been migrated</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/partner_portal_migration2.png" alt=""><figcaption><p>A message stating that your account has been migrated.</p></figcaption></figure></div>
 
 When the migration has completed, the Partner Portal will switch to **Archive** mode. You'll still have access to your historical orders and invoices, but you won't be able to make new transactions.
 

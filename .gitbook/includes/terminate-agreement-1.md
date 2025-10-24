@@ -1,5 +1,5 @@
 ---
-title: terminate agreement 1
+title: TerminateAgreement - Start
 ---
 
 **Open the agreement containing subscriptions to terminate**

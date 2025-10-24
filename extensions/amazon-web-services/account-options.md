@@ -17,7 +17,7 @@ We'll use these details to set up your account. Once your account has been confi
 
 If you are an existing AWS customer and want to transfer your existing account to SoftwareOne, we offer the following transfer options:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AWS_account_type.png" alt=""><figcaption><p>AWS account type options</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/AWS_account_type.png" alt=""><figcaption><p>The AWS account type options.</p></figcaption></figure></div>
 
 ### Transfer one or multiple accounts without an organization
 

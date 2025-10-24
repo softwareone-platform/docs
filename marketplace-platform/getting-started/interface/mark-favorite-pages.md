@@ -9,7 +9,7 @@ To add a page to your favorites:
 1. Select the main menu and navigate to the required page.&#x20;
 2. Hover over the page and select the star icon. The star icon changes from empty to filled, and the page is displayed under **Favorites**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_favorites.png" alt=""><figcaption><p>Add a page to your favorites</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/interface_favorites.png" alt="" width="563"><figcaption><p>The option to add a page to your favorites.</p></figcaption></figure>
 
 ## Removing a page from your favorites
 
@@ -17,4 +17,4 @@ You can remove a page from your favorites by clicking the star that you used to 
 
 When the star icon changes from filled to empty, it implies that the page has been removed from your favorites.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/remove_favorites.png" alt=""><figcaption><p>Remove a page from favorites</p></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/remove_favorites.png" alt="" width="563"><figcaption><p>The option to remove a page from your favorites.</p></figcaption></figure>

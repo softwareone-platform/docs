@@ -14,7 +14,7 @@ To add or update notes for an existing order in the platform:
 2. Select the link for the order in the **Order** column.&#x20;
 3. On the order details page, select the **Notes** tab. Then, select **Edit**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (951).png" alt=""><figcaption><p>Edit option on the Notes tab</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (951).png" alt=""><figcaption><p>The Edit option on the Notes tab.</p></figcaption></figure></div>
 
 4. In the **Edit notes** dialog, add a new note or update the existing one as necessary. A maximum of 300 characters is allowed.
 5. Select **Save**. The details are updated and displayed immediately on the **Notes** tab.

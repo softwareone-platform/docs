@@ -12,7 +12,7 @@ To edit a licensee's details:&#x20;
 2. Find the licensee you want to edit. &#x20;
 3. Select the actions icon (**•••**) for the licensee and choose **Edit**. Alternatively, select the licensee name. When the licensee details page opens, select **Edit** in the upper right.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1009).png" alt=""><figcaption><p>Edit option on the details page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1009).png" alt=""><figcaption><p>The option to edit a licensee.</p></figcaption></figure></div>
 
 4. In the **Edit Licensee** wizard, complete the following steps as necessary and **save** your changes:
    1. **General** - Update the following details:

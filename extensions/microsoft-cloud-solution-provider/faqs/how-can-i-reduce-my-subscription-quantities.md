@@ -1,4 +1,4 @@
-# How can I reduce my subscription quantities?
+# How do I reduce subscription quantities
 
 You can reduce the quantity of your subscription by editing the subscription directly. For information on how to remove licenses, see [How to Change License Quantity](../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md).
 
@@ -8,4 +8,4 @@ However, if the reduction occurs outside of the 7-day window, the changes will b
 
 To view your currently available licenses and the licenses scheduled for renewal, see the **Parameters** tab on the subscription details page.
 
-<figure><img src="../../../.gitbook/assets/image-20241118-132107.png" alt=""><figcaption><p>Parameters tab on the subscription details page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image-20241118-132107.png" alt=""><figcaption><p>The Parameters tab on the subscription details page.</p></figcaption></figure>

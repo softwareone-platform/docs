@@ -18,23 +18,23 @@ Additionally, you'll require the following:
 
 {% stepper %}
 {% step %}
-**Start the purchase wizard for AWS**
+{% include "../../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the wizard:
+To start the process:
 
 1. Navigate to the **Products** page.
 2. From the list of products, select **Amazon Web Services**.&#x20;
 3. On the product details page, select **Buy now**. The Purchase Wizard for AWS starts.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_productdetails.png" alt=""><figcaption><p>Buy now option on the product details page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_productdetails.png" alt=""><figcaption><p>The Buy Now option on the product details page.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Follow the wizard to create a new AWS account**
+{% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>Purchase wizard for AWS</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>The purchase wizard for AWS.</p></figcaption></figure></div>
 
-Complete the following steps, making sure to enter or verify the required information where necessary:
+{% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Select agreement** - Select **Create agreement** to start creating your new agreement with SoftwareOne.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we will select an existing licensee. To add a new licensee, select **Add licensee** and follow the instructions in [Create licensee](../../../modules-and-features/settings/licensees/create-licensees.md).

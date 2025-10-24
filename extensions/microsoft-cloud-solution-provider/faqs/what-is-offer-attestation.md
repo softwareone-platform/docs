@@ -14,12 +14,12 @@ When ordering an item that falls under the Hybrid Use category, the following me
 
 The message is displayed for both purchase orders and change orders that include items requiring attestation.
 
-<figure><img src="../../../.gitbook/assets/offer_attestation.png" alt=""><figcaption><p>Offer attestation in the purchase wizard</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/offer_attestation.png" alt=""><figcaption><p>Offer attestation in the purchase wizard.</p></figcaption></figure>
 
 By selecting **Next** on the **Items** page, you confirm that you accept the attestation.&#x20;
 
 After your order has been placed, the **Attachments** tab on both the [Agreement details page](../../../modules-and-features/marketplace/agreements/#subscription-details) and the [Order details page](../../../modules-and-features/marketplace/orders/#subscription-details) will display a PDF file. This file contains the details of the person who confirmed the attestation, along with the date and time of the attestation. The following image shows an example:
 
-<figure><img src="../../../.gitbook/assets/offer_attestation_orders_tab.png" alt=""><figcaption><p>Attestation PDF on the Attachments tab</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/offer_attestation_orders_tab.png" alt=""><figcaption><p>The attestation PDF on the Attachments tab.</p></figcaption></figure>
 
 You can also see the attestation details through the [Audit trail](../../../modules-and-features/settings/audit-trail.md).&#x20;

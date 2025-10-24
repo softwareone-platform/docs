@@ -11,7 +11,7 @@ To update the token details:
    * Select the actions icon (**•••**) and select **Edit**.
    * Select the token. When the details page opens, select **Edit** in the upper right. The **Edit API token** page opens.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EditToken.png" alt=""><figcaption><p>The Edit API token page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EditToken.png" alt=""><figcaption><p>The Edit API token page in the platform.</p></figcaption></figure></div>
 
 3. Modify the information you need to change:
    1. In the **General** step, you can update the token's name and description.

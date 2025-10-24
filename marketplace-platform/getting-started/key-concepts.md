@@ -12,7 +12,7 @@ The Marketplace Platform seamlessly brings together various actors to facilitate
 
 Actors represent different entities that interact with the platform for procurement and fulfillment-related activities as well as other operations specific to the platform.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>Key actors in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>Key actors within the Marketplace Platform</p></figcaption></figure></div>
 
 The following are the key actors in our platform:
 
@@ -40,11 +40,11 @@ The following are the key actors in our platform:
 
 In the Marketplace Platform, an account can contain one or multiple users:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>An account containing multiple users</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>An account showing multiple users.</p></figcaption></figure></div>
 
 Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](interface/switch-account.md) without signing out of the platform.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users_multiple_accounts.png" alt=""><figcaption><p>A user belonging to multiple accounts</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users_multiple_accounts.png" alt=""><figcaption><p>A user belonging to multiple accounts.</p></figcaption></figure></div>
 
 **Group** - A group is an object that facilitates permissions in the scope of an account. Groups contain users, and all users in the group have the same permissions. Permissions are assigned at the group level,  rather than at the individual user level.&#x20;
 
@@ -58,25 +58,25 @@ Users can also be a part of multiple groups, much like users can belong to multi
 
 Sellers are responsible for generating issues and issuing them to the buyer entities of clients. They act as an intermediary in the transaction process.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Sellers in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Sellers within the Marketplace Platform.</p></figcaption></figure></div>
 
 **Buyers** - Buyers represent an entity that engages in commercial activities with the SoftwareOne reselling entity (known as Sellers).&#x20;
 
 Buyers are the recipients of invoices issued by SoftwareOne, and they are essential for creating orders, agreements, and subscriptions. For details on how to manage buyers, see [Buyers](../../modules-and-features/settings/buyers/).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1093).png" alt=""><figcaption><p>Buyers in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1093).png" alt=""><figcaption><p>Buyers within the Marketplace Platform.</p></figcaption></figure></div>
 
 **Licensees** - Licensees are the entities that consume the software products or services procured by the buyer. Licensees are critical in establishing agreements alongside buyers and sellers.&#x20;
 
 Client account users can view licensees and manage them through the platform. To learn more, see [Licensees](../../modules-and-features/settings/licensees/).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Licensees in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Licensees within the Marketplace Platform.</p></figcaption></figure></div>
 
 ## Agreements&#x20;
 
 An agreement is an object outlining the relationship between the seller, buyer, and licensee.  They are the foundation for placing orders and creating subscriptions in the platform.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption><p>Agreements in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption><p>Agreements in the Marketplace Platform.</p></figcaption></figure></div>
 
 They also establish the terms and conditions under which transactions occur. Without an agreement, orders cannot be placed through the marketplace.&#x20;
 
@@ -95,7 +95,7 @@ The Marketplace Platform supports various types of orders to support different s
 
 For details on how to manage your orders, see [Orders](../../modules-and-features/marketplace/orders/).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_orders.png" alt=""><figcaption><p>Different types of orders in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_orders.png" alt=""><figcaption><p>Different types of orders in the Marketplace Platform.</p></figcaption></figure></div>
 
 **Subscriptions** - Subscriptions are linked to an agreement and represent service provisioned over a set period. An agreement can contain one or more subscriptions.&#x20;
 
@@ -103,7 +103,7 @@ Subscriptions can be changed only through the order. For example, to terminate a
 
 For details on subscription management, see [Subscriptions](../../modules-and-features/marketplace/subscriptions/).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_subscriptions.png" alt=""><figcaption><p>Subscriptions in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_subscriptions.png" alt=""><figcaption><p>Subscriptions in the Marketplace Platform.</p></figcaption></figure></div>
 
 ## Products, Items, and Parameters
 
@@ -112,7 +112,7 @@ For details on subscription management, see [Subscriptions](../../modules-and-fe
 * **Items** - Represent the individual stock-keeping units (SKUs). A product can contain one or more items, each with its specific name and price.&#x20;
 * **Parameters** - Parameters represent structured data used by vendors to collect information from clients during the ordering process. Examples of this information might include contact details, address information, domain name, and more. Parameters can also be used by vendors to pass information to clients during provisioning.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1099).png" alt=""><figcaption><p>Products in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1099).png" alt=""><figcaption><p>Products within the Marketplace Platform.</p></figcaption></figure></div>
 
 ## Price List
 
@@ -122,4 +122,4 @@ Vendors can define the price lists for different regions. These price lists are 
 
 The Listing object is established by SoftwareOne associates after reviewing products. It links the product price list with the seller, ultimately making the product available for our clients in the SoftwareOne Marketplace.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption><p>Price List in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption><p>Price List in the Marketplace Platform.</p></figcaption></figure></div>

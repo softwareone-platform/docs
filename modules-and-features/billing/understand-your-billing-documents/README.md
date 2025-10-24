@@ -9,17 +9,17 @@ To enhance clarity and help you monitor charges efficiently, the Marketplace Pla
 To learn more, continue reading or watch the following video guide:
 
 {% embed url="https://www.youtube.com/watch?v=dmGAcCf17oE" %}
-Watch our video guide about invoices and statements in recurring billing
+Watch our video guide about invoices and statements in recurring billing.
 {% endembed %}
 
 ## Billing invoices
 
 Invoice PDFs are generated for a specific Marketplace agreement. Each invoice includes general invoice information, subscription details, and consolidated charges for all items within the subscription.&#x20;
 
-You can view your invoice on the [Invoices](../../marketplace/billing/invoices/) page in the Marketplace Platform. To download a sample invoice, use the following link:
+You can view your invoice on the [Invoices](../../marketplace/billing/invoices/) page in the Marketplace Platform. To download or view a sample invoice, use the following link:
 
 {% file src="../../../.gitbook/assets/sample-invoice.pdf" %}
-Download a sample Marketplace invoice
+A sample Marketplace billing invoice.
 {% endfile %}
 
 ### Invoice header
@@ -50,10 +50,10 @@ This section outlines the payment terms in accordance with your contract and the
 
 A billing statement is a detailed record of charges, and it's issued for each invoice.&#x20;
 
-Unlike an invoice PDF, which only provides a summary of charges, a statement contains a comprehensive breakdown of all charges. To view a sample statement, use the following link:
+Unlike an invoice PDF, which only provides a summary of charges, a statement contains a comprehensive breakdown of all charges. To download or view a sample statement, use the following link:
 
 {% file src="../../../.gitbook/assets/sample-statement.xlsx" %}
-Download a sample Marketplace billing statement
+A sample Marketplace billing statement.
 {% endfile %}
 
 A SoftwareOne Marketplace billing statement contains these tabs:
@@ -62,9 +62,9 @@ A SoftwareOne Marketplace billing statement contains these tabs:
 * **Charges** - Contains a list of charges and subscriptions for the billing period. You can also view all items within the subscription, their quantities, and prices. If [split billing](../../marketplace/billing/split-billing/) has been enabled, the subscription allocation percentage and estimated license count (ELC) details are also displayed.&#x20;
 * **Orders** - Contains all orders placed during the billing period and their corresponding details, such as the type of order, the date when the order was placed, and more.
 
-## Differences between invoices and statements <a href="#key-differences-statement-vs.-invoice" id="key-differences-statement-vs.-invoice"></a>
+## Difference between invoices and statements <a href="#key-differences-statement-vs.-invoice" id="key-differences-statement-vs.-invoice"></a>
 
-An invoice and a statement are both billing documents, but they serve different purposes. The following table lists the key differences between these two types of documents:
+An invoice and a statement are both billing documents, but they serve different purposes. The following table lists the key differences between these two documents:
 
 <table><thead><tr><th width="198">Component</th><th width="267">Invoice</th><th width="249">Statement</th></tr></thead><tbody><tr><td>Purpose</td><td>Provides a high-level summary of the charges.</td><td>Provides a full record of the charges from the vendor.</td></tr><tr><td>Format</td><td>PDF</td><td>Excel</td></tr><tr><td>Level of detail</td><td>Contains aggregated lines, such as per item, per subscription, and so on.</td><td>Can have hundreds or thousands of lines for precise usage.</td></tr><tr><td>Use case</td><td>Used as an official billing and record-keeping document.</td><td>Used for reconciliation, in-depth audits, and analysis.</td></tr><tr><td>Quantity</td><td>Always displays the quantity as 1 because multiple lines are consolidated.</td><td>Each line shows the actual quantity of items.</td></tr></tbody></table>
 

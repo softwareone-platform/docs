@@ -5,6 +5,8 @@ coverY: 167.1578947368421
 
 # Adobe VIP Marketplace
 
+
+
 {% hint style="info" %}
 We are thrilled to announce that Adobe has recognized SoftwareOne EMEA as a 'Highly Commended' partner. We are honored to receive this special commendation and look forward to continuing the partnership and delivering value to our clients through the SoftwareOne Marketplace Platform.
 {% endhint %}
@@ -18,7 +20,7 @@ Various term-length options, volume discounts, and product offerings enable clie
 After your initial order has been set up with SoftwareOne, you can manage your licenses through the Marketplace Platform, which works seamlessly with the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=u2qhptvXR4A" %}
-Video: What is Adobe VIP Marketplace?
+Watch our video explaining what is Adobe VIP Marketplace and how it benefits you.
 {% endembed %}
 
 ## Key benefits <a href="#key-benefits" id="key-benefits"></a>
@@ -112,7 +114,7 @@ For example, if in your current term, you are at discount level 2 (10-49 license
 
 Returns are accepted if the entire order is returned and if the licenses are not currently in use. You must make the return request with SoftwareOne within 14 days of placing the order.
 
-**RETURNS FOR CUSTOMERS MIGRATING FROM VIP TO VIP MARKETPLACE**
+#### Returns for customers migrating from VIP to VIP Marketplace
 
 If the VIP Member has any VIP orders that are eligible for return, then such orders may no longer be returned after migration to the VIP Marketplace. Upon migration to VIP Marketplace, the VIP Member waives any rights to return for such orders.
 

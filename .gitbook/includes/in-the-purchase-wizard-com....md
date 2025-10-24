@@ -1,5 +1,5 @@
 ---
-title: In the purchase wizard, com...
+title: PurchaseWizard - Steps
 ---
 
-In the purchase wizard, complete the following steps, making sure to enter or verify the required information where necessary:
+Complete the following steps, making sure to enter or verify the required information where necessary:

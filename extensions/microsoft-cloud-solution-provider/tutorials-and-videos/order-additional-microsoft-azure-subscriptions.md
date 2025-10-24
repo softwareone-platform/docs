@@ -22,7 +22,7 @@ To start the process:
 {% step %}
 {% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-{% include "../../../.gitbook/includes/purchase-wizard-3.md" %}
+{% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Select agreement** - Select an active agreement from the list, then select **Next**.&#x20;
 2. **Select items** - Select **Add items** to add the new Azure subscription to your order and select **Next**.&#x20;
