@@ -12,7 +12,7 @@ To save your order during the ordering process:
 4. In the purchase wizard, complete all the steps until you reach the **Details** page.
 5. In the **Details** step, select **Save order**. Your order is saved and assigned a **Quoted** status.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>The Save Order option when placing a new purchase order.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>The Save Order option when creating a purchase order.</p></figcaption></figure></div>
 
 ## Saving a change order
 

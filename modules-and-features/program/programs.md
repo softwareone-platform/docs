@@ -8,7 +8,7 @@ By enrolling in a program, you gain access to all the benefits associated with t
 
 To view the full details of a program, select the program on the **Programs** page.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/programspage.png" alt=""><figcaption><p>Details page of a program</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/programspage.png" alt=""><figcaption><p>The details page of a program.</p></figcaption></figure></div>
 
 At the top of the details page, you can see general program details. The details page also contains the following tabs:
 

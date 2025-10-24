@@ -20,6 +20,6 @@ To rename a subscription:
 
 4. In the **Rename** dialog, enter the new name and select **Save**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1065).png" alt=""><figcaption><p>The Rename dialog containing the subsciption name field.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1065).png" alt=""><figcaption><p>The Rename dialog containing the subscription name field.</p></figcaption></figure></div>
 
 The subscription is renamed, and the new name is visible across all pages that feature the subscription within the platform.&#x20;

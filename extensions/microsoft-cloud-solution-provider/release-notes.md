@@ -2,6 +2,18 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
+## Release Date: 27 October 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
+
+### Trial Subscriptions for CSP
+
+Microsoft trial subscriptions are now available through the Marketplace Platform.&#x20;
+
+This update allows you to order a free trial subscription and try it out for 30 days before committing to a paid version. At the end of your trial period, the subscription will automatically expire and will not be renewed.&#x20;
+
+If you choose to purchase the paid version at the end of your trial period, you must place a new order for the corresponding paid product. To learn more about trials, see [Trial Subscriptions](microsoft-nce/trial-subscriptions.md).
+
+***
+
 ## Release Date: 7 October 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 
 ### Microsoft Customer Agreement Compliance Update
@@ -104,7 +116,7 @@ Note that to buy reservations and savings plans from the Azure portal, you must 
 
 The Marketplace Platform now supports coterminosity for NCE subscriptions, allowing you to align the end date of a new subscription with that of an existing subscription. When enabled, new subscriptions will automatically synchronize their end dates with the existing subscriptions within the agreement.
 
-You can enable coterminosity when ordering subscriptions under a new agreement. For existing subscriptions, [Marketplace Platform Support](../../help-and-support/contact-support.md) can assist you in updating the end date in the system. To learn more about aligning the subscription end dates, see [About Subscription Coterminosity](microsoft-nce/about-subscription-coterminosity.md) and [Coterming Subscriptions](microsoft-nce/coterming-subscriptions.md).&#x20;
+You can enable coterminosity when ordering subscriptions under a new agreement. For existing subscriptions, [Marketplace Platform Support](../../help-and-support/contact-support.md) can assist you in updating the end date in the system. To learn more about aligning the subscription end dates, see [About Subscription Coterminosity](microsoft-nce/about-subscription-coterminosity/) and [Coterming Subscriptions](microsoft-nce/about-subscription-coterminosity/coterming-subscriptions.md).&#x20;
 
 ### Azure Lighthouse Onboarding
 

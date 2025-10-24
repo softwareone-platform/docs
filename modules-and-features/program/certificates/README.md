@@ -8,7 +8,7 @@ You can view and manage your certificates for different programs on the **Certif
 
 The **Certificates** page is available under **Programs** in the main menu.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>Certificates page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>The Certificates page in the platform.</p></figcaption></figure></div>
 
 The page displays various properties associated with each certificate, such as the certificate's name and ID, the name of the certificant, current status, and more.
 
@@ -16,7 +16,7 @@ The page displays various properties associated with each certificate, such as t
 
 To view the full details of a certificate, select the link for the certificate on the **Certificates** page.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificate_details_page.png" alt=""><figcaption><p>Certificate details page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificate_details_page.png" alt=""><figcaption><p>The details page of a certificate.</p></figcaption></figure></div>
 
 The **details** page displays extended information for your selected certificate.
 

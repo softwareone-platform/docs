@@ -8,7 +8,7 @@
 * The information in the parameter doesn't match an active subscription within that tenant.&#x20;
 * The date either refers to a terminated subscription or was entered incorrectly.
 
-**Resolution** - To resolve this issue, provide a valid end date to [Marketplace Platform Support](../../../help-and-support/contact-support.md), who will update it in the system.&#x20;
+**Resolution** - To resolve this issue, provide a valid end date to [Marketplace Platform Support](../../../../help-and-support/contact-support.md), who will update it in the system.&#x20;
 
 To find the cotermination date, in the [Microsoft Admin Portal](https://admin.microsoft.com/), go to the **Billing** > **Your products** page. Check the renewal or expiration date of an active, license-based subscription to determine the end date and provide this date to the Support team.&#x20;
 
@@ -18,7 +18,7 @@ To find the cotermination date, in the [Microsoft Admin Portal](https://admin.mi
 
 **Cause** - This error appears when the coterminosity feature has been enabled with a monthly term subscription, but a new annual subscription is being ordered as part of a change order.
 
-**Resolution** - To resolve this issue, provide a valid end date to [Marketplace Platform Support](../../../help-and-support/contact-support.md) so that the cotermination dates can be aligned. If you choose not to align the end dates, you can proceed with the order, however, the subscription will be created without any coterm.
+**Resolution** - To resolve this issue, provide a valid end date to [Marketplace Platform Support](../../../../help-and-support/contact-support.md) so that the cotermination dates can be aligned. If you choose not to align the end dates, you can proceed with the order, however, the subscription will be created without any coterm.
 
 ***
 
@@ -26,4 +26,4 @@ To find the cotermination date, in the [Microsoft Admin Portal](https://admin.mi
 
 **Cause** - This error occurs for orders that are in the **Querying** state when the date provided for coterminosity is invalid.
 
-**Resolution** - To resolve this issue, provide a valid end date to [Marketplace Platform Support](../../../help-and-support/contact-support.md). See the first error message on this page for details on how to determine a valid cotermination date.
+**Resolution** - To resolve this issue, provide a valid end date to [Marketplace Platform Support](../../../../help-and-support/contact-support.md). See the first error message on this page for details on how to determine a valid cotermination date.

@@ -12,7 +12,7 @@ In the Marketplace Platform, the enrollment process includes these steps:
 
 When you are enrolled, the **Enrollments** page displays the enrollment information:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Enrollments page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>The Enrollments page in the platform.</p></figcaption></figure></div>
 
 The page displays all enrollments, regardless of the status. For each enrollment, you can view various details, including the enrollment ID, the program name, enrollment status, and more.
 
@@ -20,7 +20,7 @@ The page displays all enrollments, regardless of the status. For each enrollment
 
 To view the full details of an enrollment, select the enrollment ID on the **Enrollments** page.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_details_page.png" alt=""><figcaption><p>Enrollment details page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_details_page.png" alt=""><figcaption><p>The details page of an enrollment.</p></figcaption></figure></div>
 
 The details page displays extended information for your selected enrollment.&#x20;
 
