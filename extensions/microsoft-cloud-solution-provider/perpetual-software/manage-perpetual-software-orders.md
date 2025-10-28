@@ -12,7 +12,9 @@ If your cancellation is within the 30-day window:
 
 To cancel your perpetual software subscription, contact [Marketplace Platform Support](../../../help-and-support/contact-support.md#contacting-marketplace-platform-support).&#x20;
 
-When contacting us, include your Marketplace order ID (available on the [Orders](../../../modules-and-features/marketplace/orders/) page) in the request and a clear message stating that you wish to cancel your order. It's best if this request is made by someone within your organization who has the appropriate rights to request a cancellation.
+When contacting us, include your Marketplace order ID (available on the [Orders](../../../modules-and-features/marketplace/orders/) page) in the request and a clear message stating that you wish to cancel your order.&#x20;
+
+We recommend that the request be made by someone within your organization who has the appropriate rights to request a cancellation.
 
 ## Renewals
 
@@ -20,4 +22,4 @@ License renewals are not supported for Microsoft Perpetual Software, as the lice
 
 ## Additional licenses
 
-If you wish to add more one-time items to your existing agreement, you can create a change order for the agreement. For instructions, see [Order Additional Perpetual Software Licenses](../tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md).
+If you want to add more one-time items to your existing agreement, you can create a change order for the agreement. For instructions, see [Order Additional Perpetual Software Licenses](../tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md).

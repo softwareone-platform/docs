@@ -18,17 +18,6 @@ GCC was strategically developed to address the unique regulatory landscape and a
 * Maintain complete separation from commercial cloud environments.
 * Benefit from thoroughly screened operational personnel.
 
-GCC creates a clear pathway for your agency to embrace modern cloud technologies while upholding the stringent security and compliance standards essential for sensitive government data.
-
-## What are the advantages for your organization? <a href="#the-gcc-advantage" id="the-gcc-advantage"></a>
-
-* **Uncompromised security and compliance** - Access FedRAMP Moderate authorized services with government-specific security controls that exceed standard offerings.
-* **Guaranteed data sovereignty** - Your data remains exclusively within the continental United States, always.
-* **Dedicated Infrastructure** - Operate in a logically separated environment, completely isolated from commercial cloud users.
-* **Built for government regulations** - Seamlessly support CJIS, ITAR, IRS 1075, and other critical government standards.
-* **Optimize your budget** - Modernize IT infrastructure while significantly reducing capital expenditure and management costs.
-* **Familiar user experience** - Enjoy the same productivity tools as commercial offerings, but with enhanced security guardrails.
-
 ## Why partner with SoftwareOne?
 
 With SoftwareOne as your trusted partner, your journey to GCC becomes straightforward, efficient, and aligned with your agency's mission.&#x20;
@@ -50,7 +39,7 @@ If you are a new GCC customer, you must verify your eligibility to gain access t
 
 1. Complete the [Government Community Cloud Eligibility Intake Form](https://usgovintake.embark.microsoft.com/?ReqType=CSPCustomer\&rtc=1).
 2. Provide SoftwareOne's Partner Tenant GUID: `141e07d1-6f28-4169-b951-316d5a941d88`.
-3. Send your validation ID to Marketplace Platform Support at [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com).
+3. Send your validation ID to Marketplace Platform Support at marketplace-support@softwareone.com.
 4. Wait for the verification to complete. Microsoft typically completes validation within 5-7 business days.
 
 For questions about the Microsoft validation process, contact the US Government Cloud Eligibility Team at [usgcce@microsoft.com](mailto:usgcce@microsoft.com).
@@ -64,6 +53,6 @@ If you are an existing GCC customer:
 3. On the details page, select **Buy now** to start the ordering process.
 4. In the purchase wizard, complete all the steps to place your order.&#x20;
 
-For detailed instructions on placing an order, see any of these [tutorials](tutorials-and-videos/).
+For detailed instructions on navigating through the purchase wizard to place an order, see any of these [tutorials](tutorials-and-videos/).
 
 Once the order is placed, your order will appear on the **Orders** page, and your subscription will appear on the **Subscriptions** page.
