@@ -10,7 +10,7 @@ The platform provides three distinct user interfaces, namely the Client Portal, 
 * **Vendor Portal** - Used by vendors for setting up and configuring products.
 * **Operations Portal** - Used by internal SoftwareOne associates for administration-related activities.
 
-## Access the interface
+## Accessing the interface
 
 You can access the platform from an up-to-date desktop or mobile browser. For a list of supported browsers, see [Which browsers do you support?](../../../help-and-support/faqs/which-browsers-do-you-support.md).
 
@@ -26,7 +26,7 @@ If you provide inaccurate credentials, an error message is displayed.&#x20;
 
 If you can’t remember your password, select the **Forgot password?** link on the **Sign-in** page and then follow the instructions. For more information, see [Update password](../../../help-and-support/faqs/update-password.md).
 
-## Navigate the interface
+## Navigating the interface
 
 The platform provides a seamless and intuitive interface, allowing access to the different modules and features within those modules. This section describes how to navigate the platform.
 
