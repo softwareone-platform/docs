@@ -1,7 +1,7 @@
 # Delete Seller
 
-Delete the seller object. When deleted, the status changes from `Active` to `Deleted`.
+Deletes the seller object. When deleted, the status changes from  `Active` to `Deleted`.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/sellers/{id}" method="delete" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

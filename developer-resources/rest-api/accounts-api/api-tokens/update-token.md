@@ -1,7 +1,7 @@
 # Update Token
 
-Update the specified token object.
+Updates the specific token object.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/api-tokens/{id}" method="put" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

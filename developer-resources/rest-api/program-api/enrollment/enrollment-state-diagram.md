@@ -4,7 +4,7 @@ In the Marketplace Platform, an enrollment goes through several states (also kno
 
 The following diagram shows the possible states and the transitions between these states:
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_enrollment.png" alt=""><figcaption><p>Enrollment state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_enrollment.png" alt=""><figcaption><p>The state transition diagram of an enrollment.</p></figcaption></figure>
 
 ## State description
 

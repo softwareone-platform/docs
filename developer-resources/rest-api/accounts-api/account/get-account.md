@@ -1,11 +1,7 @@
----
-description: Get a single Account object by ID.
----
-
 # Get Account
 
-Get a single Account object by ID.
+Gets a specific account by ID.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/accounts/{id}" method="get" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

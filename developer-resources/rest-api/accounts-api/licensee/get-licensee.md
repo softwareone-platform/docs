@@ -1,7 +1,7 @@
 # Get Licensee
 
-Get a single licensee object by ID.
+Gets a single licensee object by ID.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/licensees/{id}" method="get" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

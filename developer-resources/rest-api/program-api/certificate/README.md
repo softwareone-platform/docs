@@ -84,6 +84,8 @@ The following rules apply to certificates:
 
 ## Parameter Value <a href="#parametervalue" id="parametervalue"></a>
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="169">Field</th><th width="158">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier of the parameter definition this value refers to. </p><p>Example: PAR-1234-1234-1234</p></td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>The ID of the parameter in the external system. </p><p>Example: MPNID</p></td></tr><tr><td>type</td><td><code>string</code></td><td><p>The type of the parameter definition. </p><p>Example: SingleLineText</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The display name of the parameter. </p><p>Example: Microsoft Partner Network ID</p></td></tr><tr><td>value</td><td><code>string</code></td><td><p>The value of the parameter. </p><p>Example: 65272478BB01A12</p></td></tr></tbody></table>
 
 ## Example

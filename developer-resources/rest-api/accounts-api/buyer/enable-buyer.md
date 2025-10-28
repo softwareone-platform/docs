@@ -1,11 +1,7 @@
----
-description: Enable a previously disabled Buyer object.
----
-
 # Enable Buyer
 
-When enabled, the buyer status will change to `Active` if the buyer has `ExternalId` assigned or Enabled otherwise.
+Enables a buyer that was previously disabled. When enabled, the buyer's status changes to `Active`  if the buyer has `ExternalId` assigned or enabled.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/buyers/{id}/enable" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

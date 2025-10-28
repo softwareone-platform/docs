@@ -1,6 +1,6 @@
 # Buyers
 
-The Buyer object represents an individual buyer within the Marketplace platform.&#x20;
+The Buyer object represents an individual buyer in the Marketplace Platform.&#x20;
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

@@ -2,7 +2,7 @@
 
 The following diagram shows the state (status) transition process of a certificate on the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_certificate.png" alt=""><figcaption><p>Certificate state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_certificate.png" alt=""><figcaption><p>The state transition diagram of a certificate.</p></figcaption></figure>
 
 ### State description
 

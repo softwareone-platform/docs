@@ -4,13 +4,13 @@
 
 The following diagram shows the status transition process of a client or partner account on the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_clientaccount.png" alt=""><figcaption><p>Client account transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_clientaccount.png" alt=""><figcaption><p>The state transition diagram of a client account.</p></figcaption></figure>
 
 ## Vendor account
 
 The following diagram shows the status transition process of a vendor account on the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_vendoraccount.png" alt=""><figcaption><p>Vendor account transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_vendoraccount.png" alt=""><figcaption><p>The state transition diagram of a vendor account.</p></figcaption></figure>
 
 ## State description
 

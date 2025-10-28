@@ -21,7 +21,7 @@ The Credit object refers to a credit memo created within the ERP system.
   "name": "Best LLC",
   "icon": "/static/ACC-1234-4444/account.png"
 }
-</code></pre></td></tr><tr><td>erpData</td><td><a href="./#creditmemoerpdata"><code>CreditMemoErpData</code></a></td><td><p>Represents the credit memo fields from the ERP system. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">"erpData": {
+</code></pre></td></tr><tr><td>erpData</td><td><a href="./#creditmemoerpdata"><code>creditMemoErpData</code></a></td><td><p>Represents the credit memo fields from the ERP system. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">"erpData": {
     "addresses": {
         "billTo": {
             "name": "Siemens Canada Limited",

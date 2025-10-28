@@ -6,7 +6,7 @@ Once the client fulfills all the necessary conditions, they are considered enrol
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="198">Field</th><th width="193">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the enrollment. </p><p>Example: ENR-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A reference to enrollment in the API. </p><p>Example: /v1/catalog/enrollments/PRD-1234-1234</p></td></tr><tr><td>certificate</td><td><a href="../certificate/"><code>certificate</code></a></td><td><p>A reference to the Certificate object for this enrollment. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="182">Field</th><th width="193">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the enrollment. </p><p>Example: ENR-1234-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A reference to enrollment in the API. </p><p>Example: /v1/catalog/enrollments/PRD-1234-1234</p></td></tr><tr><td>certificate</td><td><a href="../certificate/"><code>certificate</code></a></td><td><p>A reference to the Certificate object for this enrollment. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "PRG-1234-5678",
     "href": "/program/programs/PRG-1234-5678",
     "name": "Microsoft AI Cloud Partner"
@@ -92,9 +92,13 @@ Once the client fulfills all the necessary conditions, they are considered enrol
 
 ## Eligibility <a href="#eligibility" id="eligibility"></a>
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="197">Field</th><th width="196">Type</th><th>Description</th></tr></thead><tbody><tr><td>client</td><td><code>boolean</code></td><td><p>Indicates direct client. </p><p>Example: true</p></td></tr><tr><td>partner</td><td><code>boolean</code></td><td><p>Indicates indirect client (partner).</p><p>Example: false</p></td></tr></tbody></table>
 
 ## Enrollment Parameter
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="199">Field</th><th width="205">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the parameter. </p><p>Example: PAR-5542-1187-3130</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The display name of the parameter. </p><p>Example: Tenant ID</p></td></tr><tr><td>externalId</td><td><code>string</code></td><td><p>The ID of the parameter in the external system. </p><p>Example: tenant_id</p></td></tr><tr><td>value</td><td><code>string</code></td><td><p>The parameter value, which can be updated.</p><p>Example: 69b73824-ce76-4866-ad47-b615ae9d8998 OR</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
      "addressLine1": "23 Oakley wood",
@@ -116,6 +120,8 @@ Once the client fulfills all the necessary conditions, they are considered enrol
 ## Enrollment Attachment
 
 The Enrollment Attachment object provides the ability to upload an enrollment attachment (via file upload or license key) to the enrollment object.
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="202">Field</th><th width="198">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier of the attachment. </p><p>Example: ATT-0001-0001-0001-001</p></td></tr><tr><td>href</td><td><code>string</code></td><td> A reference to attachment within the API. </td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the attachment object.  </p><p>Example: Guide to establishing a reseller relationship</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>The description of the attachment object. </p><p>Example: Learn what happens when you establish a reseller relationship with SoftwareOne</p></td></tr><tr><td>type</td><td><code>string</code></td><td><p>The type of the attachment object. </p><p>Example: File</p></td></tr><tr><td>reference</td><td><code>string</code></td><td><p>The URI to access the attachment object. </p><p>Example: microsoft-agreement-certification.pdf</p></td></tr><tr><td>order</td><td><code>order</code></td><td><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "ORD-5542-1187-3130-0991",

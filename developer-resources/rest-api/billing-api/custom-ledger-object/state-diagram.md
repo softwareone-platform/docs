@@ -2,7 +2,7 @@
 
 The following diagram shows the state (or status) transition process of a custom ledger in the Marketplace platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_custom_ledger.png" alt=""><figcaption><p>Custom ledger state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_custom_ledger.png" alt=""><figcaption><p>The state transition diagram of a custom ledger.</p></figcaption></figure>
 
 ### State description
 

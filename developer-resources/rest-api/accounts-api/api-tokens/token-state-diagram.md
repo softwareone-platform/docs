@@ -2,7 +2,7 @@
 
 The following diagram shows the status transition process of an API token on the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_apiToken.png" alt=""><figcaption><p>API token state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_apiToken.png" alt=""><figcaption><p>The state transition diagram of an API token.</p></figcaption></figure>
 
 ### State description
 

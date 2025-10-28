@@ -62,4 +62,6 @@ The Invoice object represents an invoice generated in the ERP system.&#x20;
 
 ### ERP Invoice Data <a href="#erpinvoicedata" id="erpinvoicedata"></a>
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="164">Field</th><th width="149">Type</th><th>Description</th></tr></thead><tbody><tr><td>erpId</td><td><code>string</code></td><td><p>Identifier in the ERP system.</p><p>Example: DE-SCO-1234567</p></td></tr><tr><td>documentNo</td><td><code>string</code></td><td><p>The document number.</p><p>Example: 4564564</p></td></tr><tr><td>documentDate</td><td><code>dateTime</code></td><td><p>The document date.</p><p>Example: 2025-01-15T12:05:34.087Z</p></td></tr><tr><td>postingDate</td><td><code>dateTime</code></td><td><p>The posting date.</p><p>Example: 2025-01-15T16:45:24.123Z</p></td></tr><tr><td>dueDate</td><td><code>dateTime</code></td><td><p>The due date.</p><p>Example: 2025-02-10T12:45:34.087Z</p></td></tr><tr><td>balanceDue</td><td><code>decimal</code></td><td><p>The balance due.</p><p>Example: 123.23</p></td></tr><tr><td>invoiceTotal</td><td><code>decimal</code></td><td><p>The invoice total.</p><p>Example: 123.23</p></td></tr></tbody></table>

@@ -1,7 +1,7 @@
 # Update User Group
 
-Update a user group.
+Updates a user group.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/user-groups/{id}" method="put" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

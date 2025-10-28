@@ -2,7 +2,7 @@
 
 The following diagram shows the state (status) transition process of a Marketplace billing statement.
 
-<figure><img src="../../../../.gitbook/assets/statement_state_diagram.png" alt=""><figcaption><p>Statement state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/statement_state_diagram.png" alt=""><figcaption><p>The state transition diagram of a statement.</p></figcaption></figure>
 
 ### State description
 

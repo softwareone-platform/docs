@@ -48,13 +48,19 @@ The Journal object is linked to an authorization and is created by vendors from 
 
 ## PriceSummary
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="163">Field</th><th width="167">Type</th><th width="418">Description</th></tr></thead><tbody><tr><td>totalPP</td><td><code>decimal</code></td><td><p>A sum of all purchase price values of all charges in the billing object. Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example: 229.8</p></td></tr><tr><td>markup</td><td><code>decimal</code></td><td><p>The average markup value among all charges in the billing object. Only visible to SoftwareOne Operations.</p><p>Example: 0.5013</p></td></tr><tr><td>margin</td><td><code>decimal</code></td><td><p>The average margin value among all charges in the billing object. Only visible to SoftwareOne Operations.</p><p>Example: 0.3339</p></td></tr><tr><td>totalSP</td><td><code>decimal</code></td><td><p>A sum of all the selling price values of all charges in the billing object. Only visible to SoftwareOne Operations and Vendor accounts.</p><p>Example: 356.7</p></td></tr></tbody></table>
 
 ## JournalUploadSummary
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="163">Field</th><th width="165">Type</th><th width="381">Description</th></tr></thead><tbody><tr><td>total</td><td><code>integer</code></td><td><p>The number of charges in the billing object.</p><p>Example: 150</p></td></tr><tr><td>split</td><td><code>integer</code></td><td><p>The number of split charges.</p><p>Example: 4</p></td></tr><tr><td>ready</td><td><code>integer</code></td><td><p>The number of ready charges.</p><p>Example: 144</p></td></tr><tr><td>error</td><td><code>integer</code></td><td><p>The number of error charges.</p><p>Example: 6</p></td></tr></tbody></table>
 
 ## ProcessingSummary
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="167">Field</th><th width="161">Type</th><th width="416">Description</th></tr></thead><tbody><tr><td>total</td><td><code>integer</code></td><td><p>The total number of charges within the billing object.</p><p>Example: 150</p></td></tr><tr><td>ready</td><td><code>integer</code></td><td><p>The total number of ready charges.</p><p>Example: 140</p></td></tr><tr><td>error</td><td><code>integer</code></td><td><p>The total number of error charges.</p><p>Example: 6</p></td></tr><tr><td>split</td><td><code>integer</code></td><td><p>The total number of split charges.</p><p>Example: 4</p></td></tr><tr><td>cancelled</td><td><code>integer</code></td><td><p>The total number of cancelled charges.</p><p>Example: 2</p></td></tr><tr><td>completed</td><td><code>integer</code></td><td><p>The total number of completed charges.</p><p>Example: 0</p></td></tr></tbody></table>
 

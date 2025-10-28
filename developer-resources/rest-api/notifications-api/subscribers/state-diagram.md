@@ -2,7 +2,7 @@
 
 The following diagram shows the state (status) transition process of a notification subscriber on the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_subscriber.png" alt=""><figcaption><p>Subscribe state diagram</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_subscriber.png" alt=""><figcaption><p>The state transition diagram of a subscriber.</p></figcaption></figure>
 
 ### State description
 

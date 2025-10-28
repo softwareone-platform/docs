@@ -2,7 +2,7 @@
 
 The following diagram shows the state (or status) transition process of a credit memo.
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/state_diagram_credit_memo.png" alt=""><figcaption><p>Credit memo state transition</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/state_diagram_credit_memo.png" alt=""><figcaption><p>The state transition diagram of a credit memo.</p></figcaption></figure></div>
 
 ### State description
 

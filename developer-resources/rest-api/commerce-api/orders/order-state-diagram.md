@@ -2,7 +2,7 @@
 
 The following diagram shows the state (status) transition process of an order on the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_orders.png" alt=""><figcaption><p>Order state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_orders.png" alt=""><figcaption><p>The state transition diagram of an order.</p></figcaption></figure>
 
 ### State description
 

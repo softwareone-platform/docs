@@ -7,7 +7,7 @@ Our API is organized around [REST](http://en.wikipedia.org/wiki/Representational
 ## Beginners guide
 
 {% embed url="https://www.youtube.com/watch?v=0NF8OtCA-kU" %}
-Watch this tutorial on working with REST APIs as a beginner
+Watch this video guide about working with REST APIs as a beginner.
 {% endembed %}
 
 ## What is a REST API?

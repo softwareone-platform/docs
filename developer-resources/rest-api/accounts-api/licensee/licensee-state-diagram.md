@@ -1,8 +1,8 @@
 # State Diagram
 
-The following diagram shows the state (status) transition process of a licensee on the platform.
+The following diagram shows the state (status) transition process of a licensee in the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_licensee.png" alt=""><figcaption><p>Licensee state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_licensee.png" alt=""><figcaption><p>The state transition diagram of a licensee.</p></figcaption></figure>
 
 ### State description
 

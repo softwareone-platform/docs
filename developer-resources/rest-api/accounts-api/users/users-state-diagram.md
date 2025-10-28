@@ -1,8 +1,8 @@
 # State Diagram
 
-The following diagram shows the state (status) transition process of a user on the platform.
+The following diagram shows the state (status) transition process of a user in the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_user.png" alt=""><figcaption><p>User state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_user.png" alt=""><figcaption><p>The state transition diagram of a user.</p></figcaption></figure>
 
 ### State description
 

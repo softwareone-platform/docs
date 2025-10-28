@@ -1,7 +1,7 @@
 # Create Licensee
 
-Create a new licensee object.
+Creates a new licensee object.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/licensees" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

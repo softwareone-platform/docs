@@ -2,7 +2,7 @@
 
 The following diagram shows how a billing invoice transitions from one state to the next in the Marketplace Platform.
 
-<div align="center"><figure><img src="../../../../.gitbook/assets/state_diagram_invoice.png" alt="" width="563"><figcaption><p>Invoice state transition</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../../../.gitbook/assets/state_diagram_invoice.png" alt="" width="563"><figcaption><p>The state transition diagram of an invoice.</p></figcaption></figure></div>
 
 ### State description
 

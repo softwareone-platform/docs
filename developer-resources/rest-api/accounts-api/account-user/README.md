@@ -7,7 +7,7 @@
   "icon": null,
   "name": "You Are a Test Account"
 }
-</code></pre></td></tr><tr><td>invitation</td><td><code>invitation.status</code></td><td><p>The status of the invitation with possible values including <code>Invited</code>, <code>Active</code>, or <code>Invitation Expired</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>invitation</td><td><code>invitation.status</code></td><td><p>The status of the invitation.</p><p>Possible values: <code>Invited</code>,  <code>Active</code>, or <code>InvitationExpired</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "url": "https://client.softwareone.com/accept-invite?code=invitationCode",
   "status": "Invited"
 }

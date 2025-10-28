@@ -31,7 +31,7 @@ The Licensee object represents a licensee in the Marketplace platform.&#x20;
   "state": "S",
   "country": "ST"
 }
-</code></pre></td></tr><tr><td>buyer</td><td><a href="../buyer/#buyer-object"><code>buyer</code></a></td><td>A reference to the Buyer object.</td></tr><tr><td>seller</td><td><a href="../seller/#seller-object"><code>seller</code></a></td><td>A reference to the Seller object.</td></tr><tr><td>account</td><td><a href="../account/#account-object"><code>account</code></a></td><td>A reference to the Account object.</td></tr><tr><td>audit</td><td><code>object</code></td><td>Possible audit events: <code>Created</code>, <code>Updated</code>, <code>Activated</code>, <code>Disabled</code>, <code>Deactivated</code>, or <code>Deleted</code>.</td></tr></tbody></table>
+</code></pre></td></tr><tr><td>buyer</td><td><a href="../buyer/#buyer-object"><code>buyer</code></a></td><td>A reference to the Buyer object.</td></tr><tr><td>seller</td><td><a href="../seller/#seller-object"><code>seller</code></a></td><td>A reference to the Seller object.</td></tr><tr><td>account</td><td><a href="../account/#account-object"><code>account</code></a></td><td>A reference to the Account object.</td></tr><tr><td>audit</td><td><code>object</code></td><td><p>A reference to the Audit object.</p><p>Possible values: <code>Created</code>, <code>Updated</code>, <code>Activated</code>, <code>Disabled</code>, <code>Deactivated</code>, or <code>Deleted</code>.</p></td></tr></tbody></table>
 
 ## Example
 

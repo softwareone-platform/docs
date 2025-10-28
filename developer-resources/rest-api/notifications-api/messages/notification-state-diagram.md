@@ -1,8 +1,8 @@
 # State Diagram
 
-The following diagram shows the state (status) transition process of a notification email message on the platform.
+The following diagram shows the state (status) transition process of a notification message.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_notification.png" alt=""><figcaption><p>Notification state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_notification.png" alt=""><figcaption><p>The state transition diagram of a notification message.</p></figcaption></figure>
 
 ### State description
 

@@ -1,7 +1,7 @@
 # Get User Group
 
-Get a single user group by ID.
+Gets a single user group by ID.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/user-groups/{id}" method="get" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

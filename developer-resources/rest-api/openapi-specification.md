@@ -6,7 +6,7 @@ The specification contains all API methods. Within the specification, you'll fin
 
 You can download the full specification using the following link:
 
-[OpenAPI.json](https://api.platform.softwareone.com/public/v1/openapi.json)
+<a href="https://api.platform.softwareone.com/public/v1/openapi.json" class="button primary">Download API</a>
 
 Alternatively, you can use the following links to open the specification in Swagger Editor:
 

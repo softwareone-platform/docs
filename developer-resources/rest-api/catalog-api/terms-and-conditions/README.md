@@ -1,6 +1,6 @@
 # Terms
 
-The Terms and Conditions object represents terms as a collection of uploaded PDF or DOCX documents or links to externally hosted documents as an element of a product.&#x20;
+The Terms object represents terms as a collection of uploaded PDF or DOCX documents or links to externally hosted documents as an element of a product.&#x20;
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

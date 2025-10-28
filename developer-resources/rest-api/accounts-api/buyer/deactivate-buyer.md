@@ -1,5 +1,7 @@
 # Deactivate Buyer
 
+Deactivates a specific buyer.
+
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/buyers/{id}/deactivate" method="post" %}
-[OpenAPI marketplace-accounts-api](https://nlpapp0760sda.blob.core.windows.net/public/openapi/marketplace-accounts.json)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

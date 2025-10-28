@@ -1,7 +1,7 @@
 # Create Account
 
-Create a new Client or Vendor Account object.
+Creates a new account.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/accounts" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

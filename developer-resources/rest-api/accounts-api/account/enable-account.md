@@ -1,9 +1,7 @@
 # Enable Account
 
-Enable the previously disabled [Account](https://docs.client.softwareone.com/extensions/dmE39nDvDSpNnt3t1FdJ#account-object) object.
-
-When enabled, the account status will change to `Active` if the account has `ExternalId` assigned or `Enabled` otherwise.
+Enables the account that was previously disabled. When the account has been enabled, its status changes to `Active` .
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/accounts/{id}/enable" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

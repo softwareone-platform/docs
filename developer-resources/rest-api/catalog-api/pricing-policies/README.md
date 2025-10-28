@@ -17,13 +17,19 @@ The Pricing Policy object contains the following attributes:
 
 ## Pricing Policy Attachment Object <a href="#pricingpolicyattachment-object" id="pricingpolicyattachment-object"></a>
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="173">Field</th><th width="123">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the attachment. </p><p>Example: PPA-1234-1222-1234-0001</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the attachment. </p><p>Example: Pricing policy negotiation 2025</p></td></tr><tr><td>type</td><td><code>string</code></td><td><p>The type of file.</p><p>Example: Text</p></td></tr><tr><td>size</td><td><code>integer</code></td><td><p>The size of the file.</p><p>Example: 123</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the attachment. </p><p>Example: This policy outlines the negotiated pricing terms between SoftwareOne and Stark Industries, established in August 2025. It details the specific pricing policies tailored to the needs of both parties.</p></td></tr><tr><td>fileName</td><td><code>string</code></td><td><p>The name of the file.</p><p>Example: 01984827423.pdf</p></td></tr><tr><td>contentType</td><td><code>string</code></td><td><p>Indicates the content type. </p><p>Example: application/x-pdf</p></td></tr><tr><td>status</td><td><code>enum</code></td><td>Indicates the status of the pricing policy attachment. Example: Active</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the Audit object. </td></tr></tbody></table>
 
 ## Pricing Policy Statistics Object <a href="#pricingpolicystatistics-object" id="pricingpolicystatistics-object"></a>
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="168">Field</th><th width="134">Type</th><th>Description</th></tr></thead><tbody><tr><td>orders</td><td><code>number</code></td><td><p>The number of orders assigned to the policy. </p><p>Example: 1</p></td></tr><tr><td>attachments</td><td><code>number</code></td><td>The number of attachments assigned to the policy. Example: 2</td></tr></tbody></table>
 
 ## Eligibility <a href="#eligibility" id="eligibility"></a>
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
 
 <table><thead><tr><th width="170">Field</th><th width="140">Type</th><th>Description</th></tr></thead><tbody><tr><td>client</td><td><code>boolean</code></td><td><p>Indicates direct client. </p><p>Example: true</p></td></tr><tr><td>partner</td><td><code>boolean</code></td><td><p>Indicates indirect client (partner).</p><p>Example: false</p></td></tr></tbody></table>
 

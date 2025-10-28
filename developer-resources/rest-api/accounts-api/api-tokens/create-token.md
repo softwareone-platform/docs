@@ -1,7 +1,7 @@
 # Create Token
 
-Create a new token object for the specific account.
+Creates a new token object for the specific account.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/api-tokens" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

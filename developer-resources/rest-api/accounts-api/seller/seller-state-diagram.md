@@ -1,8 +1,8 @@
 # State Diagram
 
-The following diagram shows the state (status) transition process of a seller on the platform.
+The following diagram shows the state (status) transition process of a seller in the platform.
 
-<figure><img src="../../../../.gitbook/assets/state_diagram_seller.png" alt=""><figcaption><p>Seller state transition</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/state_diagram_seller.png" alt=""><figcaption><p>The state transition diagram of a seller.</p></figcaption></figure>
 
 ### State description
 

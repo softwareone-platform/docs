@@ -20,6 +20,8 @@ The Pricelist object includes key pricing details such as sales and purchase pri
 
 ## PriceListStatistics <a href="#priceliststatistics" id="priceliststatistics"></a>
 
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="239">Field</th><th width="123">Type</th><th>Description</th></tr></thead><tbody><tr><td>sellers</td><td><code>integer</code></td><td><p>The number of Sellers that are using this Price List.</p><p>Example: 10</p></td></tr><tr><td>listings</td><td><code>integer</code></td><td><p>The number of Listings that are using this Price List.</p><p>Example: 12</p></td></tr><tr><td>priceListitems</td><td><code>integer</code></td><td><p>The total number of pricelist Items on the Price List.</p><p>Example: 23</p></td></tr><tr><td>purchasePriceItems</td><td><code>integer</code></td><td><p>The number of Items with a populated purchase price.</p><p>Example: 10</p></td></tr><tr><td>purchasePriceCompleteness</td><td><code>integer</code></td><td><p>The percentage of Items with a populated purchase price.</p><p>Example: 0.4347826</p></td></tr></tbody></table>
 
 ## Example

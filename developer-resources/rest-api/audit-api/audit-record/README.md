@@ -65,13 +65,13 @@ The Audit object provides a detailed record of a specific event that occurred wi
 
 Audit Event Type refers to an event that has occurred within the platform. These records are generated automatically and can be used to store supplementary information related to the specific event type.
 
-<table><thead><tr><th width="158">Field</th><th width="151">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the item. </p><p>Example: AET-7149-2212</p></td></tr><tr><td>key</td><td><code>string</code></td><td><p>The event's key. </p><p>Example: AET-7149-2212</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the event. </p><p>Example: Order created</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the event. </p><p>Example: "A standard event that occurs upon the creation of an order".</p></td></tr></tbody></table>
+<table><thead><tr><th width="130">Field</th><th width="112">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The ID of the item. </p><p>Example: AET-7149-2212</p></td></tr><tr><td>key</td><td><code>string</code></td><td><p>The event's key. </p><p>Example: AET-7149-2212</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the event. </p><p>Example: Order created</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the event. </p><p>Example: "A standard event that occurs upon the creation of an order".</p></td></tr></tbody></table>
 
 ## AuditRecordObject <a href="#heading-title-text" id="heading-title-text"></a>
 
 The Audit record object signifies a specific entity within the platform for which an Audit object is generated. It is important to note that each Audit object can only be created for one platform object at a time.
 
-<table><thead><tr><th width="153">Field</th><th width="149">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The object's identifier. </p><p>Example: ORD-1234-1234-5678</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the platform object. Contains the ID if the name doesn't exist. </p><p>Example: ORD-1234-1234-5678</p></td></tr><tr><td>icon</td><td><code>string</code></td><td>The URL of the object icon. </td></tr><tr><td>objectType</td><td><code>string</code></td><td><p>The type of object. </p><p>Example: Order</p></td></tr><tr><td>revision</td><td><code>integer</code></td><td><p>The revision of the object. </p><p>Example: 24</p></td></tr></tbody></table>
+<table><thead><tr><th width="139">Field</th><th width="149">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The object's identifier. </p><p>Example: ORD-1234-1234-5678</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the platform object. Contains the ID if the name doesn't exist. </p><p>Example: ORD-1234-1234-5678</p></td></tr><tr><td>icon</td><td><code>string</code></td><td>The URL of the object icon. </td></tr><tr><td>objectType</td><td><code>string</code></td><td><p>The type of object. </p><p>Example: Order</p></td></tr><tr><td>revision</td><td><code>integer</code></td><td><p>The revision of the object. </p><p>Example: 24</p></td></tr></tbody></table>
 
 ## AuditRecordActor
 
@@ -125,13 +125,13 @@ This object captures metadata related to web-based requests, which is useful to 
 
 This object captures metadata related to the request worker, which is useful to store as part of the Audit entry. It is populated only when the request is a worker request.
 
-<table><thead><tr><th width="149">Field</th><th width="141">Type</th><th>Description</th></tr></thead><tbody><tr><td>workerName</td><td>string</td><td><p>The name of the request worker. </p><p>Example: worker-1234</p></td></tr></tbody></table>
+<table><thead><tr><th width="149">Field</th><th width="141">Type</th><th>Description</th></tr></thead><tbody><tr><td>workerName</td><td><code>string</code></td><td><p>The name of the request worker. </p><p>Example: worker-1234</p></td></tr></tbody></table>
 
 ### LogInfo <a href="#log-info" id="log-info"></a>
 
 This object captures request log metadata that is useful to include in the audit entry.
 
-<table><thead><tr><th width="154">Field</th><th width="136">Type</th><th>Description</th></tr></thead><tbody><tr><td>corellationId</td><td>string</td><td><p>The ID that can be used to track requests in the logging system.</p><p>Example: 654681135168546</p></td></tr></tbody></table>
+<table><thead><tr><th width="154">Field</th><th width="136">Type</th><th>Description</th></tr></thead><tbody><tr><td>corellationId</td><td><code>string</code></td><td><p>The ID that can be used to track requests in the logging system.</p><p>Example: 654681135168546</p></td></tr></tbody></table>
 
 ## AuditRecordDocuments <a href="#heading-title-text" id="heading-title-text"></a>
 

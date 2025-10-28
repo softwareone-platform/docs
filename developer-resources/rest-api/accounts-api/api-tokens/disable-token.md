@@ -1,7 +1,7 @@
 # Disable Token
 
-Disable the specified token object.
+Disable a specific API token.
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/api-tokens/{id}/disable" method="post" %}
-[Broken link](broken-reference)
+[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}
