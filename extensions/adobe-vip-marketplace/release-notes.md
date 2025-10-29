@@ -6,13 +6,13 @@ description: >-
 
 # Release Notes
 
-## Release Date: 8 October 2024
+## Release Date: 8 October 2025
 
 ### Subscription Templates for Adobe VIP Marketplace
 
 Adobe VIP Marketplace subscriptions now include **Subscription Templates**, providing clear, plain-language descriptions of each subscription’s current state and what will occur at renewal.
 
-This enhancement gives customers better visibility into renewal outcomes — including whether a subscription will renew automatically (with the quantity that will be renewed) or expire at the anniversary date.
+This enhancement gives customers better visibility into renewal outcomes, including whether a subscription will renew automatically (with the quantity that will be renewed) or expire at the anniversary date.
 
 By adopting Subscription Templates, Adobe VIP Marketplace delivers a more transparent and predictable subscription experience.
 
