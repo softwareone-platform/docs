@@ -6,6 +6,18 @@ description: >-
 
 # Release Notes
 
+## Release Date: 8 October 2024
+
+### Subscription Templates for Adobe VIP Marketplace
+
+Adobe VIP Marketplace subscriptions now include **Subscription Templates**, providing clear, plain-language descriptions of each subscription’s current state and what will occur at renewal.
+
+This enhancement gives customers better visibility into renewal outcomes — including whether a subscription will renew automatically (with the quantity that will be renewed) or expire at the anniversary date.
+
+By adopting Subscription Templates, Adobe VIP Marketplace delivers a more transparent and predictable subscription experience.
+
+***
+
 ## Release Date: 10 September 2025
 
 ### Self-Service Reseller Transfers
@@ -29,6 +41,8 @@ With this release, we improve this sync to include the following:
 
 Lastly, in the Parameters tab of Agreements and Subscriptions, the "Last Sync Date" parameter indicates when the Agreement or Subscription was last synced with Adobe.
 
+***
+
 ## Release Date: 10 July 2025
 
 ### Ordering end-of-sale items no longer fails
@@ -41,6 +55,8 @@ This issue has now been resolved. If the Adobe extension is unable to update the
 
 To view the new current quantity of the Subscription, you can check the "Current quantity" Parameter of the Subscription in the SoftwareOne Marketplace.
 
+***
+
 ## Release Date: 9 July 2025
 
 ### Terminating Expired Subscriptions
@@ -48,6 +64,8 @@ To view the new current quantity of the Subscription, you can check the "Current
 When terminating a subscription that has already expired at Adobe, orders would get stuck in Processing status.
 
 This issue is now resolved and termination orders placed against already expired subscriptions will now complete successfully resulting in Termination of the given Subscription in the SoftwareOne Marketplace.
+
+***
 
 ## Release Date: 7 July 2025
 
@@ -81,6 +99,8 @@ To this end, we have introduced two additional capabilities:
 
 1. When an order is placed against a 3-year commitment, the order is validated to ensure that the combined changes that the order will make will still satisfy the minimum quantities.
 2. When an order is fulfilled against a 3-year commitment, subscriptions with quantity increases are processed first, and then decreases are processed second. This ensures that the total quantities never go below the minimum quantities which would cause order failure.
+
+***
 
 ## Release Date: 18 June 2025
 
