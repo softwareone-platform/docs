@@ -56,6 +56,7 @@
     * [Review Split Billing Configuration](modules-and-features/marketplace/billing/split-billing/review-split-billing-configuration.md)
     * [Specify PO Numbers for Split Billing](modules-and-features/marketplace/billing/split-billing/specify-po-numbers-for-split-billing.md)
 * [Catalog](modules-and-features/catalog/README.md)
+  * [Items](modules-and-features/catalog/items.md)
   * [Products](modules-and-features/catalog/products.md)
 * [Inventory](modules-and-features/inventory/README.md)
   * [Invoices](modules-and-features/inventory/invoices.md)

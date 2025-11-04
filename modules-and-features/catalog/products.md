@@ -1,24 +1,40 @@
 # Products
 
-The **Products** page in the platform lists all products that are available for you to order from our catalog. You can access the page by selecting **Catalog** > **Products** from the main menu.
+In the Marketplace Platform, a product refers to a software solution or services offered by a vendor. Each product may contain one or more items (SKUs) available for purchase.&#x20;
+
+Products also contain parameters that are used to gather essential information during the ordering process. These parameters may include details about the agreement, contact person details, item quantity, and more.
+
+### Viewing products
+
+To view products in the Marketplace:
+
+1. In the main navigation menu, select **Catalog** > **Products**.
+2. On the **Products** page, browse the list of available products. The list is organised by vendor name and vendor ID.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption><p>The Products page in the platform.</p></figcaption></figure></div>
 
-The **Products** page displays all products in the form of cards, making it easier for you to browse through the list of products. Additionally, all products are organized by vendor name and ID, and each card contains the following information:
+3. Select a product to open its detail page, where you can view the full description, associated assets, items (SKUs), and pricing or licensing details.
 
-* Product logo
-* Product name
-* Product ID
-* Short description of the product
-* **Buy Now** option to start the purchase wizard
-* Option to contact the vendor or SoftwareOne for presale assistance
+### Ordering products
 
-## Viewing product details
+To order a product:
 
-To view the full details of a product, select a product on the **Products** page.&#x20;
+* On the product details page, select the **Buy now** button. The purchase wizard then launches and guides you through the steps to place your order.
 
-The details page displays information, such as the vendor's name, logo, and website, along with the key features and benefits. The **Items** section displays the individual items within the product and the billing period and commitment term that applies to each item.
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing a series of ordering steps.</p></figcaption></figure></div>
 
-You can also access various assets, including terms, media files, related documentation, and product price lists.&#x20;
+#### Purchase wizard steps
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/contact_us_details_page.png" alt=""><figcaption><p>The details page of a product.</p></figcaption></figure></div>
+These steps may vary depending on the product. At a high level, you’ll go through the following process:
+
+1. **Select agreement** - Choose an existing agreement or create a new one. The option you select determines the next step. For example, if you choose “Create new agreement”, the **Select licensee** page appears; if you choose an existing agreement, the **Select items** page appears.
+2. **Select licensee** - Choose an existing licensee or create a new one.&#x20;
+3. **Agreement details** - Complete the contact information form.
+4. **Select items** - Choose the items you want to order and set the quantity.
+5. **Additional information**  - Add any additional IDs for the order and the agreement.&#x20;
+6. **Review order** - Review the order details, read the terms and conditions, and place your order.
+7. **Summary** - View your order summary.
+
+{% hint style="info" %}
+Some products may have unique ordering parameters. Follow the steps in the purchase wizard for product-specific steps.&#x20;
+{% endhint %}
