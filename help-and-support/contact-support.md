@@ -2,15 +2,15 @@
 
 If you experience an issue with the Marketplace Platform or [SoftwareOne FinOps for Cloud](https://docs.finops.softwareone.com/), you can contact Marketplace Platform Support.&#x20;
 
-Our support team is available to help you resolve technical problems and answer any questions you may have. This includes, but is not limited to:
+Our support team is available to help you with technical problems and answer any questions you might have. This includes, but is not limited to:
 
 * Assistance with account access and configuration issues.
-* Help with managing your agreements, subscriptions, and resolving technical issues related to renewals and terminations.
+* Help with managing your agreements, subscriptions, renewals, and terminations.
 * Questions about your orders, including orders that might not have completed as expected.
-* Assistance with ordering products from the Marketplace if you run into issues during the purchasing workflow or can't find what you need.&#x20;
-* Support for issues with [FinOps for Cloud](https://docs.finops.softwareone.com/), including technical issues with adding a data source, cost explorer issues, and more.
+* Help with ordering products if you experience issues or can’t find what you need.
+* Support for technical issues with [FinOps for Cloud](https://docs.finops.softwareone.com/).
 
-Additionally, SoftwareOne partners can contact Marketplace Platform Support for assistance with any issues related to managing their partner account, ordering and provisioning subscriptions, enrollment, certificates, and more.
+SoftwareOne partners can also contact Marketplace Platform Support for help with managing their account, ordering and provisioning subscriptions, enrollment, certificates, and more.
 
 {% hint style="info" %}
 For assistance with SoftwareOne services like Cloud Managed Services (Simple and Essentials) or technical issues with cloud subscriptions (AWS, Microsoft 365, Teams, Azure, Dynamics), contact [SoftwareOne Services Support](https://docs.softwareone.cloud/microsoft-csp-services/1.0/Published/technical-support-explained).
@@ -18,9 +18,9 @@ For assistance with SoftwareOne services like Cloud Managed Services (Simple and
 
 ## Describing your issue
 
-When contacting Marketplace Platform Support, provide as much detail as possible to help us understand your issue.
+When contacting Marketplace Platform Support, provide as much detail as possible to help us understand and diagnose the problem.
 
-Include relevant context about the problem you are experiencing and share details so we can diagnose the issue quickly. Here are some important points to include in your support request:
+Here are some important points to include in your support request:
 
 * The date and time when the issue started.
 * The number of people affected by the issue.
@@ -47,13 +47,3 @@ To create a support case:
 A confirmation message is displayed stating that your ticket has been created. If the **Send** button is unavailable, make sure you've entered the required information.&#x20;
 
 We aim to acknowledge all support cases on the same day as they are submitted, within our core business hours. However, the response time may vary during busy periods.
-
-## Additional help resources
-
-Our product documentation is available 24/7.
-
-The [Getting Started](../marketplace-platform/getting-started/) section contains topics to help you understand the platform. Additionally, the [Platform FAQs](faqs/) contain answers to the most common support questions.
-
-For platform extensions, such as Adobe VIPM, AWS, and Microsoft CSP, use the left sidebar to access content resources, including tutorials, FAQs, and release notes.
-
-For FinOps for Cloud documentation, see this URL: [https://docs.finops.softwareone.com/](https://docs.finops.softwareone.com/).
