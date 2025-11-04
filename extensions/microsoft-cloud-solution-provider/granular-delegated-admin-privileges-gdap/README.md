@@ -5,7 +5,7 @@ Granular Delegated Admin Privileges (GDAP) is Microsoft's latest innovation in c
 GDAP is a sophisticated security framework that allows you to grant SoftwareOne precisely controlled access to your Microsoft cloud environment. This ensures we can support your business needs while maintaining the highest security standards.&#x20;
 
 {% embed url="https://youtu.be/LOwawF8BAYc?feature=shared" %}
-Video tutorial: What is GDAP and why it's important?
+Watch the video guide explaining what is GDAP and why it's important.
 {% endembed %}
 
 ## Why is GDAP important? <a href="#why-is-gdap-important" id="why-is-gdap-important"></a>
