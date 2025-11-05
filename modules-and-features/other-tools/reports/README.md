@@ -32,11 +32,11 @@ To create a quick report:
 2. On the **Quick Reports** tab, navigate to the report group and choose the reporting template from the menu.&#x20;
 3. Select **Create**. The **Create Quick Report** page opens.&#x20;
 4. Review the report summary, name, and delivery method. Note that you can adjust the details and apply filters as needed.
-5. Select **Finish**. Your report is created and a confirmation message is displayed.
-
-Watch the following video tutorial on how to create a Software Asset Inventory quick report:
+5. Select **Finish**. Your report is created, and a confirmation message is displayed.
 
 {% embed url="https://vimeo.com/889172885" %}
+Watch a quick video guide explaining how to create a Software Asset Inventory quick report.
+{% endembed %}
 
 ## Scheduled Reports
 
@@ -88,7 +88,7 @@ Filters allow you to restrict the data that appears in a report. The list of ava
 
 </details>
 
-4. Select the schedule type. You can run the report once, daily, weekly, or monthly. Note that for the reports that can be run once only, the **Run Once** option is selected by default and you cannot change it. All other options are unavailable.
+4. Select the schedule type. You can run the report once, daily, weekly, or monthly. Note that for the reports that can be run only once, the **Run Once** option is selected by default, and you cannot change it. All other options are unavailable.
 5. Select the date range for the data you want to include in the report.
 6. Select an existing template from **Saved Templates** or create a new template. Note that the **Saved Templates** option is displayed only if the report supports templates. If the report does support templates, but you choose not to apply the template, the system will use the default template.
 7. Provide a unique **Report Name** and choose the report delivery method.
@@ -98,7 +98,7 @@ Depending on your chosen report schedule, the **Scheduled Reports** page or the 
 
 ### Update a scheduled report <a href="#post-988-_ref38824725" id="post-988-_ref38824725"></a>
 
-You can update the configuration of a scheduled report, except the report group and the type of report.&#x20;
+You can update the configuration of a scheduled report, except for the report group and the type of report.&#x20;
 
 To update a report, select the actions icon (•••) and choose **Edit**. When the Edit Scheduled Report page opens, make changes as necessary and then click **Finish** to save your changes.
 
@@ -128,12 +128,12 @@ On this tab, you can view the following details:
 
 * **File Name** - The file name of the report (visible only for generated reports).
 * **Report Type** - The output format of the report.
-* **Time Requested** - The approximate time when the report has been requested.
+* **Time Requested** - The approximate time when the report was requested.
 * Status - The status of the report. Possible values include:
   * **Queued** - The report is queued for creation.
   * **Processing** - The report is being generated.
   * **Ready** - The report has been generated and can be downloaded.
-  * **Report Ready - SFTP Failed** - The report has been generated but there was an issue when sending it to the configured SFTP server. You can manually download the report and send it to an SFTP.
+  * **Report Ready - SFTP Failed** - The report has been generated, but there was an issue when sending it to the configured SFTP server. You can manually download the report and send it to an SFTP.
   * **No Data** - The generated report contains no data.
   * **Error** - There was an unexpected error during the report generation.
   * **Error – Bad Configuration** - There was an error in the report configuration.&#x20;
@@ -217,8 +217,6 @@ To create a template:
 ### Manage your report templates <a href="#post-4285-_toc51828553" id="post-4285-_toc51828553"></a>
 
 You can edit or delete your report template by selecting the template and choosing **Edit or Delete**.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (737).png" alt=""><figcaption><p>Edit or delete a template</p></figcaption></figure>
 
 {% hint style="info" %}
 * You can edit all templates, except the default template.&#x20;

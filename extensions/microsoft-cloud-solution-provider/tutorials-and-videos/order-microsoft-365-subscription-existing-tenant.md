@@ -5,7 +5,7 @@ This tutorial guides you through the steps to order a Microsoft 365 subscription
 When establishing a new agreement with SoftwareOne, you can either establish a new Microsoft account or use an existing one. In this tutorial, you'll connect your existing cloud account.&#x20;
 
 {% embed url="https://vimeo.com/985744841/f08189d1c0" %}
-Video tutorial: How to order Microsoft 365 subscription for an existing tenant
+Watch this video guide explaining how to order Microsoft 365 subscription for an existing tenant.
 {% endembed %}
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>

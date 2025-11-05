@@ -24,13 +24,13 @@ You can access the Special Quotes module by navigating to **Procurement** > **Sp
 
 ## Creating special quotes <a href="#createquote" id="createquote"></a>
 
-Watch the following video tutorial or continue reading for information on how to create a special quote:
-
 {% embed url="https://vimeo.com/889165949" %}
+Watch a quick video guide showing how to create a special quote.
+{% endembed %}
 
 To create a special quote:
 
-1. Navigate to the **Special Quote** page using any of the methods described at the start of this topic.
+1. Navigate to the **Special Quote** page.
 2. Under **Location**, choose the SoftwareOne entity that you are ordering from, the country where the product will be used, and your company's address.
 3. Under **Products**, do the following:
    1. Choose the publisher from the list and provide the publisher's website. If the publisher is unavailable, enter the publisher's name manually.
@@ -55,8 +55,7 @@ On the Special Quotes page, you can search for a quote and view high-level infor
 
 To view the detailed quote information:
 
-1. Locate the quote you wish to view.
-2. Select **View** from the **Actions** column. The quote details are displayed on the Special Quote Detail page.
+* Find the required quote, then select **View** from the **Actions** column. The quote details are displayed on the Special Quote Detail page.
 
 Note that if your special quote contains multiple products, each product request is displayed in a separate row on the Special Quotes page. For example, if your special quote is for Acrobat Professional and Acrobat Standard, both products are displayed separately on the Special Quotes page, even though they are a part of the same request.&#x20;
 

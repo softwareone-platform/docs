@@ -1,32 +1,24 @@
 # License Agreements
 
-A license agreement is a contract that outlines the conditions and terms under which an organization can use a specific software. Using the Client Portal's License Agreements module, you can easily view and manage your license agreements and gain visibility into the entitlement data associated with those agreements. You can also create alerts for true-ups, renewals, and expiring contracts.
+A license agreement is a contract that outlines the conditions and terms under which an organization can use a specific software.&#x20;
 
-To access your license agreements, navigate to the main menu and select **Inventory** > **License Agreements**. Watch the following video tutorial to learn how to use License Agreements:
+Using the Client Portal's License Agreements module, you can easily view and manage your license agreements and gain visibility into the entitlement data associated with those agreements. You can also create alerts for true-ups, renewals, and expiring contracts.
+
+Watch the following video tutorial to learn how to use License Agreements:
 
 {% embed url="https://vimeo.com/901511253" %}
-Video tutorial: How to use License Agreements
+Watch a quick video guide showing how to use license agreements.
 {% endembed %}
 
-## Searching for agreements
+## Searching for your agreements
 
-The License Agreements page contains filters to help you find the agreement you want to view or manage. You can search using:
+The License Agreements page contains filters to help you find the agreement you want to view or manage. You can search using filters, including agreement or enrollment number, publisher, start/expiration date, status, and more.
 
-* Agreement or Enrollment Number
-* Publisher
-* License Model
-* Contract Category
-* Start Date
-* Expiration Date
-* Status
-* Reference
-* Source
+To find an agreement:
 
-To find an agreement, specify the search parameters and then select **Search**. A list of agreements matching the criteria is displayed.
+* Specify the search parameters, then select **Search**. A list of agreements matching the criteria is displayed. You can then view detailed information or export the agreement to any of the available formats.
 
-After you have found the agreement, you can view detailed information or export the agreement to any of the available formats.
-
-## Using Grid and Timeline View
+## Using the grid and timeline view
 
 By default, the License Agreements page displays the agreement data in a Grid View. You can customize the data to show selected columns and rearrange them in the order you wish.
 
@@ -48,7 +40,7 @@ To export all of your license agreements:
 1. On the **License Agreements** page, hover over the **Exports** option and select **Contracts**. The **Create New Report - Contracts** page opens.
 2. Choose the format for your report, schedule frequency, and specify the start and the expiration date of your contract.&#x20;
 3. Select a template and provide a name for your report. If you don't want to use any template, choose **None** from the list.&#x20;
-4. Choose the delivery method and then select **Run** or **Create**, depending on whether you are creating a run-once or a scheduled report.
+4. Choose the delivery method, then select **Run** or **Create**, depending on whether you are creating a run-once or a scheduled report.
 
 Once your export is complete, you can view it by hovering over **Exports** and selecting **Go to My Reports**. This link will take you directly to your generated reports page.&#x20;
 
@@ -73,22 +65,7 @@ To set up a reminder in Outlook:
 
 You can view the details of your agreement by selecting it from the License Agreements page. When the License Agreement Details page opens, the following information is displayed:
 
-| Field                    | Description                                                                                                                                                                                                                                                                                 |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Description              | The name of the agreement.                                                                                                                                                                                                                                                                  |
-| Publisher                | The publisher of the software for which the agreement is created.                                                                                                                                                                                                                           |
-| SoftwareOne Contract No. | A unique number assigned to your agreement by SoftwareOne.                                                                                                                                                                                                                                  |
-| Contract Duration        | <p>The start and expiration date of the agreement. The duration also shows the agreement status:</p><ul><li>Red indicates that your agreement has expired.</li><li>Yellow indicates that your agreement is expiring soon.</li><li>Green indicates that your agreement is active. </li></ul> |
-| License Model            | The licensing model that applies to your contract.                                                                                                                                                                                                                                          |
-| Agreement No.            | A unique number assigned to your agreement by the publisher.                                                                                                                                                                                                                                |
-| Remaining Days           | The number of days remaining before your contract expires.                                                                                                                                                                                                                                  |
-| Customer Name            | The name of the customer.                                                                                                                                                                                                                                                                   |
-| Contract Type            | The type of contract.                                                                                                                                                                                                                                                                       |
-| Enrollment No.           | The enrollment number assigned to your contract by the publisher.                                                                                                                                                                                                                           |
-| Anniversary Date         | The renewal date of the agreement.                                                                                                                                                                                                                                                          |
-| Currency                 | The currency of the agreement.                                                                                                                                                                                                                                                              |
-| Level                    | The price level of the agreement.                                                                                                                                                                                                                                                           |
-| Comments                 | Option to add and save your comments.                                                                                                                                                                                                                                                       |
+<table><thead><tr><th width="246">Field</th><th>Description</th></tr></thead><tbody><tr><td>Description</td><td>The name of the agreement.</td></tr><tr><td>Publisher</td><td>The publisher of the software for which the agreement is created.</td></tr><tr><td>SoftwareOne Contract No.</td><td>A unique number assigned to your agreement by SoftwareOne.</td></tr><tr><td>Contract Duration</td><td><p>The start and expiration date of the agreement. The duration also shows the agreement status:</p><ul><li>Red indicates that your agreement has expired.</li><li>Yellow indicates that your agreement is expiring soon.</li><li>Green indicates that your agreement is active. </li></ul></td></tr><tr><td>License Model</td><td>The licensing model that applies to your contract.</td></tr><tr><td>Agreement No.</td><td>A unique number assigned to your agreement by the publisher. </td></tr><tr><td>Remaining Days</td><td>The number of days remaining before your contract expires.</td></tr><tr><td>Customer Name</td><td>The name of the customer.</td></tr><tr><td>Contract Type</td><td>The type of contract.</td></tr><tr><td>Enrollment No.</td><td>The enrollment number assigned to your contract by the publisher.</td></tr><tr><td>Anniversary Date</td><td>The renewal date of the agreement. </td></tr><tr><td>Currency</td><td>The currency of the agreement. </td></tr><tr><td>Level</td><td>The price level of the agreement.</td></tr><tr><td>Comments</td><td>Option to add and save your comments.</td></tr></tbody></table>
 
 The details page also contains tabs that you can use to view and manage specific details.
 

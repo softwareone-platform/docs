@@ -7,16 +7,13 @@ You can set up cloud consumption alerts so that you are notified when your cloud
 
 Currently, there are three types of cloud consumption alerts - **Spike Alerts**, **Overage Alerts,** and **Reserved Instance Utilization**.
 
-* **Spike** **alerting** is designed to identify and alert you of usage anomalies in your Azure or AWS environments. You can configure usage thresholds as well as communication preferences should your consumption exceed your defined threshold.
+* **Spike** **alerting** is designed to identify and alert you to usage anomalies in your Azure or AWS environments. You can configure usage thresholds and communication preferences if your consumption exceeds your defined threshold.
+* **Overage alerting** gives very granular control, allowing you to set the consumption value as well as a period against which the service is monitoring consumption.
+* **Reserved Instance alerting** allows you to set minimum utilization thresholds that monitor the consumption of your reservation purchase.
 
 {% hint style="info" %}
 By default, the Client Portal defines the alert threshold at a 25% spike in consumption compared to the previous month across all subscriptions.
 {% endhint %}
-
-You can also define consumption parameters over a period. The Overage Alert will notify you if the value is exceeded.
-
-* **Overage alerting** gives very granular control, allowing you to set the consumption value as well as a period against which the service is monitoring consumption.
-* **Reserved Instance alerting** allows you to set minimum utilization thresholds that monitor the consumption of your reservation purchase.
 
 <figure><img src="../../../.gitbook/assets/image (773).png" alt=""><figcaption></figcaption></figure>
 

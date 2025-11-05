@@ -31,7 +31,7 @@ To start the process:
 For Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>Select items step</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>The Select items step</p></figcaption></figure></div>
 
 3. **Order details** - Provide optional information, such as additional order ID and notes. When done, select **Next**.
 4. **Review order** - Review the item and other details. Then, select **Place order** to submit your order.

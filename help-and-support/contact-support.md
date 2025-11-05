@@ -13,7 +13,7 @@ Our support team is available to help you with technical problems and answer any
 SoftwareOne partners can also contact Marketplace Platform Support for help with managing their account, ordering and provisioning subscriptions, enrollment, certificates, and more.
 
 {% hint style="info" %}
-For assistance with SoftwareOne services like Cloud Managed Services (Simple and Essentials) or technical issues with cloud subscriptions (AWS, Microsoft 365, Teams, Azure, Dynamics), contact [SoftwareOne Services Support](https://docs.softwareone.cloud/microsoft-csp-services/1.0/Published/technical-support-explained).
+For assistance with SoftwareOne services like Cloud Managed Services (Simple and Essentials) or technical issues with cloud subscriptions, including AWS, Microsoft 365, Teams, Azure, and Dynamics, contact [SoftwareOne Services Support](https://docs.softwareone.cloud/microsoft-csp-services/1.0/Published/technical-support-explained).
 {% endhint %}
 
 ## Describing your issue
@@ -42,8 +42,6 @@ To create a support case:
 
 3. On the **Help and Support** page, select **Submit a Ticket**.
 4. Fill out the form according to your issue. Optionally, choose **Select files** to attach a file to your request. The maximum size is 5 MB.
-5. Select **Send**.&#x20;
-
-A confirmation message is displayed stating that your ticket has been created. If the **Send** button is unavailable, make sure you've entered the required information.&#x20;
+5. Select **Send**. If the **Send** button is unavailable, make sure you have entered all the required information.
 
 We aim to acknowledge all support cases on the same day as they are submitted, within our core business hours. However, the response time may vary during busy periods.

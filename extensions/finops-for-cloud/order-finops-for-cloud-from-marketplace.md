@@ -44,7 +44,7 @@ When selecting a **Currency**, make sure to choose the correct one, as it can't 
 
 4. **Items** - Choose **SoftwareOne FinOps for Cloud**. Then, select **Add items** to add this item to your order. When done, select **Next**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>The Items step within the purchase wizard.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>The Items step in the purchase wizard.</p></figcaption></figure></div>
 
 5. **Details** - Provide reference details, like additional IDs or notes as necessary, then select **Next**.
 6. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.

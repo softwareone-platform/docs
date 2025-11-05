@@ -9,7 +9,7 @@ To learn about the difference between perpetual license and subscription-based o
 {% endhint %}
 
 {% embed url="https://youtu.be/AuXYCq9z8Qg?feature=shared" %}
-Watch our video guide about perpetual license and subscription-based orders in the platform.
+Watch a video guide about perpetual license and subscription-based orders in the platform.
 {% endembed %}
 
 ## Searching for a perpetual license order

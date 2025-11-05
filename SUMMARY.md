@@ -63,7 +63,7 @@
   * [License Agreements](modules-and-features/inventory/license-agreements.md)
   * [Software Downloads](modules-and-features/inventory/software-downloads.md)
   * [Quotes](modules-and-features/inventory/quotes/README.md)
-    * [Create and Manage Quotes](modules-and-features/inventory/quotes/create-and-manage-quotes.md)
+    * [Manage Quotes](modules-and-features/inventory/quotes/create-and-manage-quotes.md)
   * [Software Assets](modules-and-features/inventory/software-assets/README.md)
     * [Enable or Disable Software Assets](modules-and-features/inventory/software-assets/enable-or-disable-software-assets.md)
     * [View Software Assets](modules-and-features/inventory/software-assets/view-software-assets.md)

@@ -10,9 +10,9 @@ You can watch our [Getting Started Video Guide ](https://youtu.be/LrMOMN8sjM4)on
 
 The Marketplace Platform seamlessly brings together various actors to facilitate the buying, selling, provisioning, and billing of software products.&#x20;
 
-Actors represent different entities that interact with the platform for procurement and fulfillment-related activities as well as other operations specific to the platform.&#x20;
+Actors represent different entities that interact with the platform for procurement and fulfillment-related activities, as well as other operations specific to the platform.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>Key actors within the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>The key actors in the Marketplace Platform.</p></figcaption></figure></div>
 
 The following are the key actors in our platform:
 

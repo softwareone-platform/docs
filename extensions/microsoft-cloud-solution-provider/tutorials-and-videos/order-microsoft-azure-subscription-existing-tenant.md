@@ -3,7 +3,7 @@
 This tutorial shows how to order a Microsoft Azure subscription by setting up a new agreement and connecting your existing Microsoft tenant.&#x20;
 
 {% embed url="https://vimeo.com/985745743/ebef0c41c4" %}
-Video tutorial: How to order Microsoft Azure subscription for an existing tenant
+Watch this video guide explaining how to order Microsoft Azure subscription for an existing tenant.
 {% endembed %}
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>

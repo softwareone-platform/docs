@@ -5,8 +5,6 @@ coverY: 167.1578947368421
 
 # Adobe VIP Marketplace
 
-
-
 {% hint style="info" %}
 We are thrilled to announce that Adobe has recognized SoftwareOne EMEA as a 'Highly Commended' partner. We are honored to receive this special commendation and look forward to continuing the partnership and delivering value to our clients through the SoftwareOne Marketplace Platform.
 {% endhint %}
@@ -17,10 +15,10 @@ VIP Marketplace is designed to make purchasing and managing Adobe software licen
 
 Various term-length options, volume discounts, and product offerings enable clients (VIP Marketplace members) and organizations of all sizes to meet their needs by purchasing as many licenses as needed in one flexible transaction.
 
-After your initial order has been set up with SoftwareOne, you can manage your licenses through the Marketplace Platform, which works seamlessly with the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).&#x20;
+After your initial order has been set up with SoftwareOne, you can manage your licenses through the Marketplace Platform, which works seamlessly with [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=u2qhptvXR4A" %}
-Watch our video explaining what is Adobe VIP Marketplace and how it benefits you.
+Watch this video guide explaining about Adobe VIP Marketplace and how it benefits you.
 {% endembed %}
 
 ## Key benefits <a href="#key-benefits" id="key-benefits"></a>
@@ -39,7 +37,7 @@ VIP Marketplace is the primary Adobe buying program for SoftwareOne clients, exc
 
 ## Getting Started <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
 
-### Become a VIP Marketplace member <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
+### Becoming a VIP Marketplace member <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
 
 After you place an order with your reseller, you will receive an invitation to accept the terms and conditions for VIP Marketplace. Once you’ve accepted the terms and conditions, you can manage your licenses and begin deploying them to users immediately in the Adobe Admin Console.
 
@@ -49,10 +47,10 @@ Contact SoftwareOne for details on transitioning to VIP Marketplace.
 
 ### Adding licenses <a href="#addinglicenses" id="addinglicenses"></a>
 
-To add licenses to your VIP Marketplace account, you have the following options:
+To add licenses to your VIP Marketplace account, the following options are available:
 
 * Add the license to the Marketplace Platform.
-* Add the license in the Admin Console (also known as Purchase Authorization), and then place a corresponding order in the Marketplace Platform within 7 days. If no order is placed in the Marketplace Platform, Adobe will automatically remove the license after 7 days.
+* Add the license in the Admin Console (also known as Purchase Authorization), then place a corresponding order in the Marketplace Platform within 7 days. If no order is placed in the Marketplace Platform, Adobe automatically removes the license after 7 days.
 
 To reduce the effort associated with adding licenses, we recommend using the first option. Fulfillment is simple and quick in the Marketplace Platform.
 

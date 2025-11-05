@@ -10,11 +10,11 @@ description: >-
 
 ### Subscription Templates for Adobe VIP Marketplace
 
-Adobe VIP Marketplace subscriptions now include **Subscription Templates**, providing clear, plain-language descriptions of each subscription’s current state and what will occur at renewal.
+Adobe VIP Marketplace subscriptions now include subscription templates, providing clear, plain-language descriptions of each subscription’s current state and what occurs at renewal.
 
-This enhancement gives customers better visibility into renewal outcomes, including whether a subscription will renew automatically (with the quantity that will be renewed) or expire at the anniversary date.
+This enhancement provides visibility into renewal outcomes, including whether a subscription renews automatically (with the quantity that will be renewed) or expires at the anniversary date.
 
-By adopting Subscription Templates, Adobe VIP Marketplace delivers a more transparent and predictable subscription experience.
+By adopting subscription templates, Adobe VIP Marketplace delivers a more transparent and predictable subscription experience.
 
 ***
 
@@ -36,7 +36,7 @@ With this release, we improve this sync to include the following:
 2. Automatically update pricing in Subscriptions when a customer starts or finishes a 3-year commitment or renews their Agreement (goes past their anniversary date).
 3. Automatically updates the quantities of Subscriptions after changes are made outside of the SoftwareOne Marketplace.
 4. Automatically terminate Subscriptions that are expired or inactive at Adobe.
-5. Automatically Terminate Agreements for customers that have performed a reseller transfer away from SoftwareOne.
+5. Automatically Terminate Agreements for customers who have performed a reseller transfer away from SoftwareOne.
 6. \+ more
 
 Lastly, in the Parameters tab of Agreements and Subscriptions, the "Last Sync Date" parameter indicates when the Agreement or Subscription was last synced with Adobe.

@@ -8,18 +8,12 @@ Each charge on your statement corresponds to a transaction related to the subscr
 
 You can view the charges in two ways:
 
-* On the **Charges** tab in your Excel statement.
-* On the statement details page within the platform.&#x20;
+* On the **Charges** tab in your Excel statement. To download or view a sample Excel statement that shows how the charges appear, see the [Billing statements](../understand-your-billing-documents/#billing-statements) section.
+* On the statement details page in the platform.&#x20;
 
-To download or view a sample Excel statement that shows how the charges appear, use the following link:
-
-{% file src="../../../.gitbook/assets/sample-statement.xlsx" %}
-Sample Marketplace billing statement
-{% endfile %}
-
-To view charges in the platform:
+To view the charges in the platform:
 
 1. Navigate to the **Statements** page.
 2. (Optional) Refine your list of statements by applying filters. For details, see [Filter Billing Statements](filter-billing-statements.md).
-3. Find the statement you want and then select the link in the **ID** column. The statement details page opens, and all individual charges are displayed on the **Charges** tab.&#x20;
+3. Find the statement you want, then select the link in the **ID** column. The statement details page opens, and all individual charges are displayed on the **Charges** tab.&#x20;
 4. To view the extended information for a specific charge, select **View details** in the **Actions** column.

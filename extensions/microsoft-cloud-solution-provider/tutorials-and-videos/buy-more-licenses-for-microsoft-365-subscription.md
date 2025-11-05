@@ -3,7 +3,7 @@
 This tutorial shows how you can order additional licenses for a Microsoft 365 subscription using an existing agreement. Additional licenses can be ordered by placing a change order through the platform.&#x20;
 
 {% embed url="https://vimeo.com/985742107/1a72a8abed?share=copy" %}
-Video tutorial: How to buy more licenses for your 365 subscription
+Watch this video guide explaining how to buy more licenses for a 365 subscription.
 {% endembed %}
 
 ## Prerequisites
@@ -30,7 +30,7 @@ To start the process:
 1. **Create agreement** - Choose an active agreement and select **Next**.&#x20;
 2. **Items** - Enter the total number of licenses in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Items section in the purchase wizard</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>The Items section in the purchase wizard.</p></figcaption></figure></div>
 
 3. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 4. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.

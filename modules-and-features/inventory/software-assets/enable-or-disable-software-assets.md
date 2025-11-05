@@ -1,32 +1,32 @@
 # Enable or Disable Software Assets
 
 {% hint style="info" %}
-Before enabling or disabling the module, note the following points:
+Before enabling or disabling the Software Assets module, note the following points:
 
 * Only administrators can enable or disable the module.
-* Take caution when disabling the module. You can always enable it again, but you'll need to redo all transaction allocation and tag assignments.
+* Take caution when disabling the module. You can always enable it again, but all transaction allocation and tag assignments must be redone.
 {% endhint %}
 
 ## Enable software assets
 
-To enable the module:
+To enable the Software Assets module:
 
 1. Sign in to your account as an account administrator.
-2. From the main menu of the Client Portal, navigate to **Setup** > **Cloud Tenant Setup**.
-3. On the **Cloud Tenant Setup** page, click **Activate** in the **Actions** column.&#x20;
+2. From the main navigation menu, navigate to **Cloud Tenant Setup**.
+3. On the **Cloud Tenant Setup** page, select **Activate** in the **Actions** column.&#x20;
 
-After you've activated the module, your activated account will be visible in the other Cloud modules (such as Budgets, Resources, Chargebacks, and Consumption) within 24 hours.
+Once the module is activated, your account will be visible in the other Cloud modules (such as Budgets, Resources, Chargebacks, and Consumption) within 24 hours.
 
 ## Disable software assets&#x20;
 
 To deactivate the module:
 
 1. Navigate to the **Cloud Tenant Setup** page.
-2. In the **Actions** column, click **Manage**.
+2. In the **Actions** column, select **Manage**.
 
 <figure><img src="../../../.gitbook/assets/image (850).png" alt=""><figcaption><p>Cloud Tenant Setup page</p></figcaption></figure>
 
-3. Click **Disable Software Assets**. Your software assets are removed from all the Cloud modules.&#x20;
+3. Select **Disable Software Assets**. Your software assets are removed from all the Cloud modules.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (849).png" alt=""><figcaption><p>Disable Software Assets option</p></figcaption></figure>
 
