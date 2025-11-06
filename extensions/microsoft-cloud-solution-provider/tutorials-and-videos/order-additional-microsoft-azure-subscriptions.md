@@ -4,7 +4,7 @@ If you already have an active agreement and want to order additional Azure subsc
 
 ## Prerequisites
 
-Before starting this tutorial, make sure that the agreement you want to use is in active.
+Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state. Agreements in any other state cannot be used for ordering additional items.
 
 ## Ordering additional Azure subscriptions <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
@@ -16,7 +16,7 @@ To start the process:
 
 1. Navigate to the **Products** page.&#x20;
 2. Select **Microsoft Azure**.
-3. On the details page, select **Buy now**. The purchase process starts.
+3. On the details page, select **Buy now**.&#x20;
 {% endstep %}
 
 {% step %}
@@ -25,22 +25,18 @@ To start the process:
 {% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Select agreement** - Select an active agreement from the list, then select **Next**.&#x20;
-2. **Select items** - Select **Add items** to add the new Azure subscription to your order and select **Next**.&#x20;
+2. **Items** - Select **Add items** to add the new Azure subscription to your order, then select **Next**. For Microsoft Azure, there is only one item without any associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 
-{% hint style="info" %}
-For Microsoft Azure, there is only one item, with no associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
-{% endhint %}
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>The Items step in the ordering process.</p></figcaption></figure></div>
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>The Select items step</p></figcaption></figure></div>
-
-3. **Order details** - Provide optional information, such as additional order ID and notes. When done, select **Next**.
-4. **Review order** - Review the item and other details. Then, select **Place order** to submit your order.
+3. **Details** - Provide any additional IDs for the order and the agreement, then select **Next**.
+4. **Review order** - Read the terms and conditions and verify your order details. When done, select **Place order** to submit your order.
 5. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ## Next steps <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
-When your order has been placed, we verify the order details and create your new subscription.&#x20;
+Once the order has been placed, we'll verify the order details and create your new subscription.&#x20;
 
-If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.
+If there are any issues with your order, check the **General** tab on the [order details](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details) page. It will describe the problem and outline the steps you need to follow for us to process your order.
