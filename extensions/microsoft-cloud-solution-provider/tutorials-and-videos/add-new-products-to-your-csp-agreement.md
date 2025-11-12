@@ -49,7 +49,7 @@ When selecting items, be sure to verify the billing terms and the duration of th
 5. Set the quantity of your newly added items in the **New qty** field. Then, select **Next**.&#x20;
 
 {% hint style="info" %}
-In this step, you can also increase the quantities of your existing subscriptions.
+In this step, you can also increase the quantities of the existing items.
 {% endhint %}
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption><p>The Items step in the wizard.</p></figcaption></figure></div>

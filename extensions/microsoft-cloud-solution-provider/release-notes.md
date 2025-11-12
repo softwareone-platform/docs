@@ -30,11 +30,11 @@ To support this compliance requirement, we have introduced a new feature that au
 
 ### New Azure Subscription Name Field
 
-In this release, we have added a new field called **Azure subscription name**. You can use this field to specify a name for your Azure subscription when ordering it through the Marketplace.
+In this release, we have added a new field called **Azure subscription name**. You can use this field to specify a name for your Azure subscription when ordering it through the Marketplace. For instructions, see [Order Azure Subscription for Existing Tenant](tutorials-and-videos/order-microsoft-azure-subscription-existing-tenant.md).&#x20;
 
 <figure><img src="../../.gitbook/assets/subscription-name.png" alt=""><figcaption><p>The new Azure subscription name field in the Purchase Wizard</p></figcaption></figure>
 
-Additionally, if you change the subscription name directly in the Azure Portal, it will now automatically sync with the Marketplace during the daily synchronization process. This synchronization ensures that both systems remain aligned.
+Additionally, if you change the subscription name directly in the Azure Portal, it automatically syncs with the Marketplace during the daily synchronization process. This synchronization ensures that both systems remain aligned.
 
 ***
 
@@ -42,7 +42,7 @@ Additionally, if you change the subscription name directly in the Azure Portal, 
 
 ### Termination Orders for NCE Subscriptions
 
-Termination orders for NCE subscriptions will only be successful if they fall within the cancellation window. Otherwise, the order will fail.&#x20;
+Termination orders for NCE subscriptions will only be successful if they fall within the cancellation window. Otherwise, the order fails.&#x20;
 
 If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [How to disable the automatic renewal of an NCE subscription](faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
 
