@@ -2,7 +2,7 @@
 
 ### GDAP role assignment for CSP products purchased for self-use
 
-When ordering CSP products for your own use through the Marketplace, SoftwareOne requires specific [granular delegated admin privileges (GDAP)](./) to effectively provision or manage these products in your Microsoft tenant.
+When ordering CSP products for your own use through the Marketplace, SoftwareOne requires specific [Granular Delegated Admin Privileges (GDAP)](./) to effectively provision or manage these products in your Microsoft tenant.
 
 The following table outlines the GDAP roles that SoftwareOne requires to establish a relationship. It also describes what each role enables.
 
@@ -34,10 +34,6 @@ To learn more about GDAP and its importance, see [Granular Delegated Admin Privi
 
 The GDAP admin relationship is established with the following configuration:
 
-| Property           | Value                                        |
-| ------------------ | -------------------------------------------- |
-| displayName        | Microsoft Tenant Name + 'admin relationship' |
-| duration           | P2Y                                          |
-| autoExtendDuration | 180 days                                     |
+<table><thead><tr><th width="288">Property</th><th>Value</th></tr></thead><tbody><tr><td>displayName</td><td>Microsoft Tenant Name + 'admin relationship'</td></tr><tr><td>duration</td><td>P2Y</td></tr><tr><td>autoExtendDuration</td><td>180 days</td></tr></tbody></table>
 
 Once the GDAP relationship is in place, its duration is set to 2 years by default. When the relationship is about to expire, it's automatically extended for an additional 180 days.&#x20;

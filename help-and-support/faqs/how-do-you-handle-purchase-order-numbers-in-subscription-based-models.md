@@ -5,22 +5,22 @@ The landscape of B2B subscriptions and procurement processes is undergoing signi
 This topic aims to answer your questions about B2B subscriptions while providing an overview of how subscription-based models differ from traditional procurement processes. It also describes how the Marketplace Platform makes it easier for you to manage and streamline subscription-based procurement.
 
 {% embed url="https://youtu.be/DkN_6ZKzLRo" %}
-How B2B subscriptions are changing traditional procurement processes
+Watch this video guide describing how B2B subscriptions are changing traditional procurement processes.
 {% endembed %}
 
 ## What is a subscription-based model?
 
 In a subscription-based model, you pay a certain fee to access software or a service. You commit to a term and then pay a certain amount on a monthly or yearly basis.
 
-This model differs significantly from the traditional purchasing model where you place a purchase order, the vendor processes it, and then issues an invoice after the license is allocated. &#x20;
+This model differs significantly from the traditional purchasing model, where a purchase order is placed, the vendor processes it, and then issues an invoice after the license is allocated. &#x20;
 
 ## What are the challenges of a subscription-based model?
 
-In traditional transactional procurement, the procurement process is linear, which means it involves placing a purchase order, processing of invoices, and reconciling them. In this model, each purchase order is directly linked to an invoice.
+In traditional transactional procurement, the procurement process is linear, which means it involves placing a purchase order, processing invoices, and reconciling them. In this model, each purchase order is directly linked to an invoice.
 
 However, in a subscription-based model, the relationship between orders and invoices is complex. Unlike traditional procurement, where orders and invoices have a one-to-one relationship, in the subscription-based model, orders and invoices can have a many-to-many relationship.&#x20;
 
-For example, you might place multiple orders for additional licenses in a month but receive only one invoice at the end of the month. Alternatively, you might not place any order yet receive an invoice for subscription renewal. In these scenarios, othe rders don't directly match the invoices.
+For example, you might place multiple orders for additional licenses in a month but receive only one invoice at the end of the month. Alternatively, you might not place any order yet receive an invoice for subscription renewal. In these scenarios, orders don't directly match the invoices.
 
 This causes an issue during reconciliation due to a mismatch between the number of orders and invoices. &#x20;
 
@@ -39,13 +39,13 @@ The Marketplace Platform facilitates transactions between clients and vendors in
 * Business transactions are represented by orders, which can be of different types, such as purchase orders, change orders, and termination orders.
 * Subscriptions are linked to agreements and represent the provision of service over a period of time. It's common for our clients to have multiple subscriptions within the same agreement.
 
-To modify subscriptions, an order needs to be placed. It’s not possible to modify a subscription directly without placing an order.
+To modify a subscription, an order needs to be placed. It’s not possible to modify a subscription directly without placing an order.
 
 Placing an order establishes a relationship at the recurring purchase order level on the procurement system's side and the agreement on the marketplace platform's side. This simplifies the reconciliation process when invoices are received because each invoice has links to the agreement, recurring purchase order, and subscriptions.
 
 ## How can I enter a purchase order number?  <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
 
-You can provide your recurring purchase order number in the **Additional ID** field when placing your order. This number will be used for reference in all consolidated invoices in the scope of each agreement in the platform.&#x20;
+You can provide your recurring purchase order number in the **Additional ID** field when placing your order. This number will be used for reference in all consolidated invoices in the scope of each agreement on the platform.&#x20;
 
 <figure><img src="../../.gitbook/assets/Recurring PO.png" alt=""><figcaption><p>Recurring PO</p></figcaption></figure>
 
@@ -53,11 +53,11 @@ To provide a purchase order after your order has been placed, open the agreement
 
 <figure><img src="../../.gitbook/assets/agreement_details.png" alt=""><figcaption><p>Agreement details page</p></figcaption></figure>
 
-After you've provided the number, it will be displayed on the invoice. For information on the different fields available on your invoice, see [Understand Your Billing Documents](../../modules-and-features/billing/understand-your-billing-documents/).
+After you have provided the number, it will be displayed on the invoice. To learn more about your billing documents, see [Understand Your Billing Documents](../../modules-and-features/billing/understand-your-billing-documents/).
 
 ## How do I update a purchase order number?
 
-If a recurring purchase order number needs updating or changing during the subscription term, you can modify the **Additional Agreement ID** within the agreement. The updated number will then be reflected in your next invoice.
+If a recurring purchase order number needs updating or changing during the subscription term, you can do this by modifying the **Additional Agreement ID** in the agreement. This updated number will then be reflected in your next invoice.
 
 {% hint style="info" %}
 This option to update the PO number is available for the Adobe VIP Marketplace products only.

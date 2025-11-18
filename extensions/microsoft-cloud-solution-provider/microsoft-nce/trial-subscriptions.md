@@ -13,7 +13,7 @@ The following restrictions apply to NCE trial subscriptions in the Marketplace:
 
 Trial items contain the keyword "trial" in their names so you can locate them easily. For example, _Dynamics 365 Finance Premium - Trial_.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>NCE trial items in the Marketplace Platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>The NCE trial items in the Marketplace Platform.</p></figcaption></figure></div>
 
 Use the following methods to find trial-eligible items in the Marketplace:
 
@@ -41,4 +41,4 @@ Use the following methods to find trial-eligible items in the Marketplace:
 
 For detailed instructions on creating purchase and change orders, see these [tutorials](../tutorials-and-videos/).
 
-After the order is placed, your order will appear on the **Orders** page, and your NCE trial subscription will appear on the **Subscriptions** page.
+After the order is placed, your orders appear on the **Orders** page, and your NCE trial subscription appears on the **Subscriptions** page.

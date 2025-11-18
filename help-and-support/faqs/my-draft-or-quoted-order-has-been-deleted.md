@@ -6,6 +6,6 @@ To avoid conflicts, any orders in [draft or quoted states](../../modules-and-fea
 
 If your order has been deleted by the platform, you can find confirmation of its deletion in the **Audit trail** tab within the [order details page](../../modules-and-features/marketplace/orders/#subscription-details). The following image shows an example:&#x20;
 
-<figure><img src="../../.gitbook/assets/faq_orders.png" alt=""><figcaption><p>Audit trail tab displaying information for a deleted order</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/faq_orders.png" alt=""><figcaption><p>The Audit trail tab displaying information for a deleted order.</p></figcaption></figure>
 
 Once an order is deleted, it cannot be recovered, and no further action can be taken on that order.
