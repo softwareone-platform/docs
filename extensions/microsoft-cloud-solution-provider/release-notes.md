@@ -2,6 +2,18 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
+## Release Date: 19 November 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
+
+### GDAP Update for Partner Orders
+
+For all CSP orders created by SoftwareOne Partners reselling license-based and software subscription products, the platform no longer waits for GDAP to be signed or for the 4-day signing period to end before completing the order.&#x20;
+
+While GDAP is still requested, the order now moves directly to the **Completed** state, allowing partners to continue transacting under that agreement without any delays.
+
+Azure orders continue to follow the existing process. For these orders, GDAP is still requested, and the order either completes once GDAP is approved or automatically after 4 days if no approval is received.
+
+***
+
 ## Release Date: 27 October 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 
 ### Trial Subscriptions for CSP
