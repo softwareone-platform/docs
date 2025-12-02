@@ -4,6 +4,8 @@ SoftwareOne helps partners of all types and geographies grow their business by r
 
 Our partner programs help software vendors, resellers, system integrators, and other businesses grow revenue and scale market presence. See [Marketplace for Partners](../../marketplace-platform/getting-started/marketplace-for-partners/) to learn about partner management in the Marketplace Platform.
 
+For a list of Frequently Asked Questions, see [Partner FAQs](../../marketplace-platform/getting-started/marketplace-for-partners/partner-faqs.md).
+
 ## Cloud Solution Provider Partner Program <a href="#enroll-in-partner-center-programs" id="enroll-in-partner-center-programs"></a>
 
 The **Cloud Solution Provider Partner Program** allows you to partner with SoftwareOne as your indirect CSP provider. It means you'll purchase Microsoft products and services through SoftwareOne, but continue to maintain your relationship with Microsoft.

@@ -298,6 +298,7 @@
       * [Buy Perpetual Software Licenses](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
       * [Order Additional Perpetual Software Licenses](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md)
   * [FAQs](extensions/microsoft-cloud-solution-provider/faqs/README.md)
+    * [I'm getting errors when creating certificates or CSP orders](extensions/microsoft-cloud-solution-provider/faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md)
     * [My Application for Microsoft Education is Denied](extensions/microsoft-cloud-solution-provider/faqs/my-application-for-microsoft-education-is-denied.md)
     * [What is MCA Policy Enforcement?](extensions/microsoft-cloud-solution-provider/faqs/what-is-mca-policy-enforcement.md)
     * [How do I get the Microsoft CSP nonprofit qualification?](extensions/microsoft-cloud-solution-provider/faqs/how-do-i-get-the-microsoft-csp-nonprofit-qualification.md)

@@ -2,6 +2,18 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
+## Release Date: 28 November 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
+
+### Partner of Record (POR) Validation <a href="#new-partner-of-record-por-readiness-resources-available-to-help-distributors-and-indirect-resellers" id="new-partner-of-record-por-readiness-resources-available-to-help-distributors-and-indirect-resellers"></a>
+
+The Marketplace Platform performs a POR validation when you are creating a certificate, or submitting a purchase or change order.&#x20;
+
+If there’s an issue with your Microsoft tenant or MPN ID, the platform displays an error message, which comes directly from Microsoft. This error must be resolved before you can continue; otherwise, you will be unable to create the certificate or submit your order for processing.
+
+For detailed information on Microsoft's POR validation requirements, see the official [Microsoft announcement](https://learn.microsoft.com/en-us/partner-center/announcements/2025-october#new-partner-of-record-por-readiness-resources-available-to-help-distributors-and-indirect-resellers-prepare-for-validation-changes). For guidance on preventing order failures and certificate issues in the Marketplace Platform, see [I'm getting errors when creating certificates or CSP orders](faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md).
+
+***
+
 ## Release Date: 19 November 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 
 ### GDAP Update for Partner Orders
