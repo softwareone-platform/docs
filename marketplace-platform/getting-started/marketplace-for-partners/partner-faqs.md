@@ -22,6 +22,14 @@ If your certificate is pending, the **General** tab on the certificate details p
 
 </details>
 
+<details>
+
+<summary>I am encountering error messages when creating certificates.</summary>
+
+The Marketplace Platform displays an error during the certificate creation process if specific requirements are not met. For further information, see [I'm getting errors when creating certificates or CSP orders](../../../extensions/microsoft-cloud-solution-provider/faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md).
+
+</details>
+
 ### Orders
 
 <details>
@@ -297,8 +305,7 @@ Use the following methods to track upcoming renewals:
 
 * Use the **Renewal date** column on the **Subscriptions** page.
 * Apply the **Renewal date** filter in the data grid. You can also sort subscriptions based on their renewal date.&#x20;
-
-- Open an individual subscription to check the renewal date.
+* Open an individual subscription to check the renewal date.
 
 Marketplace subscriptions renew automatically unless you disable the automatic renewal.
 
