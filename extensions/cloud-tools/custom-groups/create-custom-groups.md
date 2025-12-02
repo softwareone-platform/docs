@@ -1,16 +1,14 @@
----
-description: You can create, remove, and manage custom groups.
----
-
 # Create Custom Groups
+
+This topic describes how to create, remove, and manage custom groups.
 
 ## Creating custom groups <a href="#navigate-to-custom-groups" id="navigate-to-custom-groups"></a>
 
 To create custom groups:
 
-1. Navigate to **Cloud tools >** **Custom Groups**.&#x20;
+1. Navigate to **Cloud tools > Custom Groups**.&#x20;
 2. Select **Create a group** to start building the group structure.&#x20;
-3.  On the **Edit Group Structure** page, set up the structure levels. Choose Tag Keys as Structure Levels.&#x20;
+3.  On the **Edit Group Structure** page, set up the structure levels. Choose **Tag Keys** as Structure Levels.&#x20;
 
     <figure><img src="../../../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +16,7 @@ To create custom groups:
 If you are using tags on your provider platform to organize your resources, you can use these tags to create the structure. If you don't want to use existing tags, you can create your structure manually.
 {% endhint %}
 
-4.  Assign groups to the created structure levels. To create the groups, choose the **New** group functionality for the required structure level:
+4.  Assign groups to the created structure levels. To create groups, choose **New** **group** for the required structure level:
 
     <figure><img src="../../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,7 +29,7 @@ You can create groups using already existing tags or manually.
 <figure><img src="../../../.gitbook/assets/image (459).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If any resources have tags matching to created groups, they will automatically be assigned.
+If any resources have tags matching the created groups, they will automatically be assigned.
 {% endhint %}
 
 **Example**
@@ -44,15 +42,15 @@ If any resources have tags matching to created groups, they will automatically b
 
 ## Creating the structure automatically <a href="#create-structure-automatically" id="create-structure-automatically"></a>
 
-It is possible to create Custom Groups automatically. The system can create groups for you based on existing tag combinations that match the defined structure levels.
+You can also create Custom Groups automatically. The platform can create groups for you based on existing tag combinations that match the defined structure levels.
 
 Enable the following option when editing the structure for this automation:
 
 <figure><img src="../../../.gitbook/assets/image (463).png" alt=""><figcaption></figcaption></figure>
 
-If groups do not exist, they will automatically be created if automation is enabled and there is a matching tag combination in your infrastructure. This process constantly runs in the background. The group will also be created once you modify resource tags in Resources or you use Resource Rules. The mechanism does not automatically remove any existing groups.
+If groups don't exist, they will automatically be created if automation is enabled and there is a matching tag combination in your infrastructure. This process constantly runs in the background. The group will also be created once you modify resource tags in Resources or you use Resource Rules. The mechanism does not automatically remove any existing groups.
 
-When the automation is enabled, it is not possible to remove a group with resources assigned. Such a group would immediately be created again.
+When the automation is enabled, it's not possible to remove a group with resources assigned. Such a group would immediately be created again.
 
 ## Removing empty groups automatically <a href="#remove-empty-groups-automatically" id="remove-empty-groups-automatically"></a>
 
@@ -62,11 +60,11 @@ Enable the following option to allow the system to automatically remove groups w
 
 Once enabled, the system will periodically scan your structure and remove groups that have no resources assigned and no budgets created.
 
-Consider this setting if you want to have your structure maintained fully automatic.
+Consider this setting if you want to have your structure maintained fully automatically.
 
 ## Assigning resources to a group <a href="#assign-resources-to-a-group" id="assign-resources-to-a-group"></a>
 
-Once the structure has been created, users can go back to Custom Groups to see all resources:
+Once the structure has been created, you can go back to **Custom Groups** to see all resources:
 
 <figure><img src="../../../.gitbook/assets/image (465).png" alt=""><figcaption></figcaption></figure>
 
@@ -74,24 +72,22 @@ You will see the view shown below. The next step is to navigate to “Unassigned
 
 <figure><img src="../../../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
 
-In unassigned resources, users will find all resources that are not assigned to groups.
-
-Users can use filters to find resources in order to assign them to a specific group.
+In unassigned resources, you can find all resources that are not assigned to groups. You can use filters to find resources in order to assign them to a specific group.&#x20;
 
 There are two possible ways to group resources:
 
 * Assign resources to a group.
-* Assign resources to multiple groups
+* Assign resources to multiple groups.
 
 ## Assigning resources to a group <a href="#assign-resources-to-a-group-2" id="assign-resources-to-a-group-2"></a>
 
-If required, search for the resources. Then select the check boxes of the resources, click on “Move” and select the group:
+If required, search for the resources. Then select the check boxes of the resources,  select **Move,** and select the group:
 
 <figure><img src="../../../.gitbook/assets/image (467).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
 
-Those resources are now assigned to the selected group and their entire resource spend will be fully associated with this group.
+Those resources are now assigned to the selected group, and their entire resource spend will be fully associated with this group.
 
 Assigned resources receive tags that reflect the group assignment structure. As an example, the resources assigned to group “Location-A” have the following tags:
 
@@ -99,7 +95,7 @@ Assigned resources receive tags that reflect the group assignment structure. As 
 
 ## Assigning resources to multiple groups <a href="#assign-resources-to-multiple-groups" id="assign-resources-to-multiple-groups"></a>
 
-Assigning resources to multiple groups means that the spend of such resources will be split between selected groups according to the way users specify.
+Assigning resources to multiple groups means that the spending of such resources is split between selected groups according to the way users specify.
 
 If required, search for the resources. Then, select the checkboxes and select **Edit Allocation**.
 
@@ -115,12 +111,12 @@ Select the groups and provide an allocation percentage for each group.
 
 Repeat the step to select groups and specify the allocation percentages. If this is done, select **Save Cost Split**:
 
-The cost of those resources split will be assigned in the following way:
+The cost of those resources will be assigned in the following way:
 
-* 70% of the cost is assigned to the group emea > HR
+* 70% of the cost is assigned to the group EMEA> HR
 * 30% of the cost is assigned to the group: krakow1
 
-Users can see the split resources assigned to the groups provided. They are marked with the “Split” icon.
+You can see the split resources assigned to the groups provided. They are marked with the “Split” icon.
 
 <figure><img src="../../../.gitbook/assets/image (473).png" alt=""><figcaption></figcaption></figure>
 
@@ -141,3 +137,7 @@ Resource group assignments can be managed through the following modules:
 * **Resources** **-** Go to the selected Resource Details page. Resource group assignment information is provided in the **Groups** section.
 
 <figure><img src="../../../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+
+{% endhint %}

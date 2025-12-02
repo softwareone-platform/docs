@@ -54,7 +54,7 @@ These cards display key properties, allowing you to view the important informati
 
 To keep you informed about your subscriptions, the platform now sends automated email notifications when your Microsoft CSP subscriptions are nearing expiration. This feature makes it easier for you to renew your subscription through self-service.
 
-The renewal notifications are sent 1, 7, and 30 days before your subscription ends. The notifications contain the **Manage Subscription** option, which allows you to enable autorenewal for your subscription. To learn more, see [Renewal Management](broken-reference).
+The renewal notifications are sent 1, 7, and 30 days before your subscription ends. The notifications contain the **Manage Subscription** option, which allows you to enable autorenewal for your subscription. To learn more, see [Renewal Management](/broken/pages/8jacKMYbcV7gsvhLzwC2).
 
 <figure><img src="../../.gitbook/assets/CSPNotification (1).png" alt="" width="375"><figcaption><p>Renewal notification</p></figcaption></figure>
 

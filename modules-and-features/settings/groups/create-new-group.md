@@ -16,9 +16,7 @@ To create a new group:
    2. **Modules** - Choose the modules you want to enable for the group. You must select at least one module. When done, select **Next**.&#x20;
    3.  **Buyers** - Choose if you want to allow your group members to view all buyers in your account or only certain buyers.&#x20;
 
-       {% hint style="info" %}
-       The **Buyers** page becomes available only if you choose the **Marketplace** module in the **Modules** step. To learn more, see [Restrict Group to Certain Buyers](restrict-group-to-certain-buyers.md).
-       {% endhint %}
+       <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>The <strong>Buyers</strong> page becomes available only if you choose the <strong>Marketplace</strong> module in the <strong>Modules</strong> step. To learn more, see <a href="restrict-group-to-certain-buyers.md">Restrict Group to Certain Buyers</a>.</p></div>
 
        * **All buyers** - This option is selected by default. It allows your group members to view all buyers in your account.
        * **Select buyers** - Select this option to allow group members to view only specific buyers. When selected, all buyers will be displayed, and you can choose from the list of available buyers.&#x20;

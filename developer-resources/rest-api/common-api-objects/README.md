@@ -10,4 +10,4 @@ This section contains a list of objects that are used across Marketplace APIs an
 * [Price](price.md)
 * [Terms](terms.md)
 
-\
+<br>

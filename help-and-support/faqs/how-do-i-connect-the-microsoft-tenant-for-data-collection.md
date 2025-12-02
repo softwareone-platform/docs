@@ -22,7 +22,6 @@ Follow these steps to connect your 365 tenant:
 
 
 
-6. Authorize 365 Analytics access to read your Microsoft 365 Tenant. Select **Accept**.\
-
+6. Authorize 365 Analytics access to read your Microsoft 365 Tenant. Select **Accept**.<br>
 
 <figure><img src="../../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
