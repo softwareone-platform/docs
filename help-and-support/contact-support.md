@@ -8,7 +8,7 @@ Our support team is available to help you with technical problems and answer any
 * Help with managing your agreements, subscriptions, renewals, and terminations.
 * Questions about your orders, including orders that might not have completed as expected.
 * Help with ordering products if you experience issues or can’t find what you need.
-* Support for technical issues with [FinOps for Cloud](https://docs.finops.softwareone.com/).
+* Support for issues with [FinOps for Cloud](https://docs.finops.softwareone.com/).
 
 SoftwareOne partners can also contact Marketplace Platform Support for help with managing their account, ordering and provisioning subscriptions, enrollment, certificates, and more.
 
@@ -31,14 +31,14 @@ Here are some important points to include in your support request:
 
 Marketplace Platform Support is available Monday to Friday, from 05:30 to 19:30 UTC. You can contact us by email or create a support case.&#x20;
 
-To send us an email, use this email address: [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com)
+To send us an email, use this email address: [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com).
 
 To create a support case:
 
 1. [Sign in to your account](https://portal.platform.softwareone.com).&#x20;
 2. Select the **Help** icon <img src="../.gitbook/assets/icon_support.png" alt="" data-size="line"> in the header and choose **Support**.&#x20;
 
-<figure><img src="../.gitbook/assets/contact_support.png" alt=""><figcaption><p>Support option in the Help menu</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/contact_support.png" alt=""><figcaption><p>The Support option in the Help menu.</p></figcaption></figure></div>
 
 3. On the **Help and Support** page, select **Submit a Ticket**.
 4. Fill out the form according to your issue. Optionally, choose **Select files** to attach a file to your request. The maximum size is 5 MB.

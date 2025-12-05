@@ -1,10 +1,10 @@
-# Downsize and termination policies
+# Downsize and Termination Policies
 
 The Marketplace Platform allows you to manage your Adobe VIP Marketplace software subscriptions. This includes the ability to reduce or downsize the number of licenses or completely cancel/terminate a subscription.&#x20;
 
-This topic explains how downsizing and termination work and key points to keep in mind before requesting a downsize or termination.
+This topic explains how downsizing and termination work and the key points to keep in mind before requesting a downsize or termination.
 
-## Concepts
+## Key terms
 
 The following are some of the key terms related to Adobe VIPM subscriptions in the Marketplace Platform:
 
@@ -47,5 +47,5 @@ The following example illustrates how downsizing works in the platform. For this
 Based on this information, you currently own a total of 17 licenses for Photoshop for Teams.&#x20;
 
 * If you wish to return the 4 additional licenses and downsize by 4, the system will process the return.
-* If you wish to downsize by 7, the orders for the 4 additional licenses as well as the 3 additional licenses will be returned.
+* If you wish to downsize by 7, the orders for the 4 additional licenses, as well as the 3 additional licenses, will be returned.
 * If you request to downsize by 6, but no single order (or combination of orders) matches the required quantity of 6, the system will prevent the change and suggest a valid quantity that can be returned.

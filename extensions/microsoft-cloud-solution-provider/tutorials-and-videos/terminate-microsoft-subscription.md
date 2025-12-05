@@ -1,12 +1,12 @@
 # Terminate Microsoft 365 Subscriptions
 
-This tutorial shows how you can cancel a Microsoft subscription by placing a termination order via the Marketplace Platform.
+This tutorial describes how you can cancel a subscription by placing a termination order for that subscription.
 
 ## Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
 
-Before starting this tutorial, make sure that the subscription you want to terminate is in an active status. Make sure that the corresponding agreement is also active.
+Before starting this tutorial, make sure that the subscription you want to terminate is active. Make sure that the corresponding agreement is also active.
 
-## Terminating a subscription
+## Terminating subscriptions
 
 {% stepper %}
 {% step %}
@@ -22,12 +22,12 @@ To start the process:
 {% step %}
 {% include "../../../.gitbook/includes/complete-these-steps-to-ter....md" %}
 
-In the Terminate Subscription wizard, complete the following steps:
+In the **Terminate Subscription** wizard, complete the following steps:
 
 1. **Items** - Check that the new quantity field displays the value as 0. When done, select **Next**.
 2. **Details** - Enter the reference information for this order, then select **Next**&#x20;
 3. **Review** - Select **Place order**. A termination order is created for the subscription and submitted to the vendor for processing.&#x20;
-4. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
+4. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

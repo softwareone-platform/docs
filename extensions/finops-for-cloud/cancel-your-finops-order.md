@@ -1,6 +1,6 @@
 # Cancel Your FinOps for Cloud Order
 
-If you need to cancel your FinOps purchase order for any reason, for instance, if you picked the wrong currency while ordering, you can create a termination order for the agreement linked to your order. This tutorial describes how you can do this.
+If you need to cancel your FinOps purchase order for any reason, for instance, if you picked the wrong currency while ordering, you can create a termination order. This tutorial describes how you can do this.
 
 {% hint style="warning" %}
 Terminating the agreement disables the corresponding organization in FinOps. It means you will no longer be able to access any data related to this organization, such as your data sources, pools, and users. Additionally, you won't be able to sign in or switch to this organization in FinOps.&#x20;

@@ -1,32 +1,32 @@
 # Add New Items to Your Agreement
 
-This tutorial walks you through the steps required to add new Microsoft items to your CSP agreement.&#x20;
+This tutorial describes how you can add new Microsoft items to your existing CSP agreement.&#x20;
 
-In this scenario, we’ll be adding _Microsoft Power BI,_ but you can follow these instructions to add any Microsoft product to your existing agreement.
+This scenario focuses on finding and adding an item called _Microsoft Power BI._&#x20;
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
-Before starting this tutorial, make sure that the CSP agreement you want to add the product to is **Active**. You can check the agreement status on the **Agreements** page as well as its details page.&#x20;
+Before starting this tutorial, make sure that the CSP agreement you want to add the item to is active. You can check the agreement status on the **Agreements** page as well as its details page.&#x20;
 
-You should also know how to navigate the platform to access your agreements & orders and [apply filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
+You must also know how to navigate the platform to access your agreements and orders and [apply filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
 
 ## Adding new items to your agreement
 
 {% stepper %}
 {% step %}
-**Open the agreement to which you want to add products**
+**Open the agreement to which you want to add items**
 
 To open the agreement:&#x20;
 
 1. Navigate to the **Agreements** page.
-2. Select the required agreement. Make sure that the agreement's status is **Active**.&#x20;
-3. On the agreement details page, select **Buy more**. The purchase wizard starts, and the **Items** step within the wizard is displayed.
+2. Select the required agreement. Make sure that the agreement's status is active.&#x20;
+3. On the agreement details page, select **Buy more**. The purchase wizard starts, and the **Items** step is displayed.
 {% endstep %}
 
 {% step %}
 **Add new items to your order**
 
-To add the items, complete these steps:&#x20;
+To add the new item, complete these steps:&#x20;
 
 1. Select **Add items** to choose the items you want to order.
 
@@ -52,15 +52,15 @@ When selecting items, be sure to verify the billing terms and the duration of th
 In this step, you can also increase the quantities of the existing items.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption><p>The Items step in the wizard.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption><p>The Items step in the ordering process.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Complete the remaining steps to place your order**
+**Complete the remaining steps to submit your order**
 
 1. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 2. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.
-3. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
+3. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

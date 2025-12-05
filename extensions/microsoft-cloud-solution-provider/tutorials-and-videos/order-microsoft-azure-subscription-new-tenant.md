@@ -1,6 +1,8 @@
 # Order Azure Subscription for New Tenant
 
-This tutorial shows how to order a Microsoft Azure subscription by setting up a new agreement and a new Microsoft tenant.
+This tutorial describes how you can order a subscription for Microsoft Azure by setting up a new agreement and a new Microsoft tenant.
+
+{% include "../../../.gitbook/includes/video-header.md" %}
 
 {% embed url="https://vimeo.com/985746673/dda41dd67e" %}
 Watch this video guide explaining how to order Microsoft Azure subscription for a new Microsoft tenant.

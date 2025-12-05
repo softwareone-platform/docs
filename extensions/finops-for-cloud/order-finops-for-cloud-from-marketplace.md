@@ -1,6 +1,6 @@
 # Order FinOps for Cloud from Marketplace
 
-This tutorial describes how you can order a FinOps for Cloud subscription from the SoftwareOne Marketplace by creating a new agreement.&#x20;
+This tutorial describes how you can order a FinOps for Cloud subscription from the SoftwareOne Marketplace. This tutorial focuses on creating a new agreement.&#x20;
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
@@ -19,7 +19,7 @@ To start the process:
 
 1. Navigate to the **Products** page.
 2. Select **SoftwareOne FinOps for Cloud**.&#x20;
-3. On the details page, select **Buy now**.&#x20;
+3. On the details page, select **Buy now** to start the ordering process.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>The Buy Now option on the product details page.</p></figcaption></figure></div>
 {% endstep %}
@@ -48,7 +48,7 @@ When selecting a **Currency**, make sure to choose the correct one, as it can't 
 
 5. **Details** - Provide reference details, like additional IDs or notes as necessary, then select **Next**.
 6. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-7. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
+7. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
 {% endstep %}
 {% endstepper %}
 

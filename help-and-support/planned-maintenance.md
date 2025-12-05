@@ -1,7 +1,3 @@
----
-description: Learn about our planned maintenance releases.
----
-
 # Planned Maintenance
 
 Planned maintenance is a crucial part of managing and operating the SoftwareOne Marketplace Platform. This topic explains what planned maintenance is, why it is important, and how it affects both vendors and clients using our platform.
@@ -24,7 +20,7 @@ The Marketplace Platform gets **several planned major updates each year** to kee
 ### For vendors and partners
 
 * **Temporary inaccessibility** - During maintenance windows, some parts of the platform might be unavailable.
-* **Notification in advance** - Vendors will be notified in advance about the scheduled maintenance, including expected downtime and what areas will be affected.
+* **Notification in advance** - Vendors will be notified in advance about the scheduled maintenance, including expected downtime and which areas will be affected.
 * **Minimal disruption** - We aim to schedule maintenance during off-peak hours to limit disruptions to your business operations.
 
 ### For clients

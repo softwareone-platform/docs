@@ -2,4 +2,4 @@
 title: TerminateAgreement - Start
 ---
 
-**Open the agreement containing subscriptions to terminate**
+**Open the agreement you want to terminate**

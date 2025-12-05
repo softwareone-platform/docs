@@ -1,10 +1,10 @@
 # Which browsers do you support?
 
+You can access the Marketplace Platform on most desktop and mobile devices.
+
 ## Desktop devices <a href="#supported-browsers-for-desktop-devices" id="supported-browsers-for-desktop-devices"></a>
 
-You can access the Marketplace Platform from a browser on a Windows, macOS, or Linux computer.&#x20;
-
-We support the following browsers:
+You can access the Marketplace Platform from a browser on a Windows, macOS, or Linux computer. We support the following browsers:
 
 * [Google Chrome](https://www.google.com/chrome/) (latest version)
 * [Microsoft Edge (Chromium)](https://www.microsoft.com/en-us/edge?form=MA13FJ#2MxZCuF4JKRzb2zT.97) (latest version)

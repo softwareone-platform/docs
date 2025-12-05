@@ -6,7 +6,7 @@ Statements are provided in the XLSX format and contain a detailed view of your i
 
 You can view your billing statements on the **Statements** page in the platform.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>The Statements page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>The Statements page in the Marketplace Platform.</p></figcaption></figure></div>
 
 The page shows all statements generated for your account and properties, such as statement ID, the total amount due, status, and more.&#x20;
 

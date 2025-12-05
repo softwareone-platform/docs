@@ -9,7 +9,7 @@ SoftwareOne Services Support provides 24/7 technical assistance for all Microsof
 * Issues requiring Microsoft vendor escalation.
 * Security-related concerns within Microsoft environments.
 
-Watch the following video or continue reading to learn about your support options for CSP.
+To learn about your support options for CSP, you can watch the following video or continue reading:
 
 {% embed url="https://vimeo.com/1109624556?share=copy" %}
 Watch a quick video guide discussing the support options for SoftwareOne CSP customers.
@@ -19,21 +19,21 @@ Watch a quick video guide discussing the support options for SoftwareOne CSP cus
 
 To receive full support services, you must meet specific technical requirements:
 
-1. Establish a Granular Delegated Admin Privileges (GDAP) Admin Relationship. For more information, see [Granular Delegated Admin Privileges](granular-delegated-admin-privileges-gdap/).
+1. Establish a Granular Delegated Admin Privileges (GDAP) Admin Relationship. For information on GDAP, see [Granular Delegated Admin Privileges](granular-delegated-admin-privileges-gdap/).
 2. Complete Azure Lighthouse activation for Azure services. For details, see [Azure Lighthouse](azure-lighthouse/).
 
-Failure to meet these requirements will result in:
+Failure to meet these requirements results in:
 
-* Limited support capabilities
-* Prolonged Service Level Agreements (SLAs)
-* Potential additional charges for support services
+* Limited support capabilities.
+* Prolonged Service Level Agreements (SLAs).
+* Potential additional charges for support services.
 
-To ensure an optimal support experience and avoid unnecessary costs, you must complete these technical onboarding steps promptly as part of your purchase.
+To ensure an optimal support experience and avoid unnecessary costs, complete these onboarding steps promptly as part of your purchase.
 
 ### Contacting SoftwareOne Services support <a href="#how-can-i-contact-softwareone-services-support" id="how-can-i-contact-softwareone-services-support"></a>
 
 You can contact SoftwareOne Services Support through the [Services Portal](https://portal.softwareone.cloud/).&#x20;
 
-This portal is an easy and secure way to submit tickets, maintain visibility of all open tickets, and gain insights into your support metrics and trends.
+The portal is a secure way to submit tickets, maintain visibility of all open tickets, and gain insights into your support metrics and trends.
 
 You can also contact us by email at [support@softwareone.com](mailto:support@softwareone.com) or by phone using the phone numbers listed on the [SoftwareOne Support](https://docs.softwareone.cloud/kbgeneral/Base-version/Published/softwareone-services) page.&#x20;

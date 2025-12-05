@@ -6,7 +6,7 @@ Invoices contain a summary of charges and other details associated with your acc
 
 In the Marketplace Platform, you can view your invoices on the **Invoices** page. The page is available under **Billing** in the main navigation menu.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoices_page.png" alt=""><figcaption><p>Invoices page in the platform</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoices_page.png" alt=""><figcaption><p>Invoices page in the Marketplace Platform.</p></figcaption></figure></div>
 
 The main **Invoices** page displays a list of invoices and properties associated with each invoice, such as invoice ID, the total amount due, the date of issue, and the due date. The page also displays invoice status, including:&#x20;
 
@@ -18,7 +18,7 @@ The main **Invoices** page displays a list of invoices and properties associated
 
 You can view detailed information for an invoice by selecting the invoice ID on the **Invoices** page.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoice_details_page.png" alt=""><figcaption><p>Details page of an invoice</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoice_details_page.png" alt=""><figcaption><p>The details page of an invoice.</p></figcaption></figure></div>
 
 The top of the details page contains links to the business objects associated with the invoice.&#x20;
 

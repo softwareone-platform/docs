@@ -13,7 +13,7 @@ To view a list of items:
 1. In the main navigation menu, select **Catalog** > **Items**.
 2. On the **Items** page, browse the available items. You can customize columns and apply filters according to the item name, product name, vendor, billing model, billing period, and commitment term.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/items_page.png" alt=""><figcaption><p>The Items page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/items_page.png" alt=""><figcaption><p>The Items page in the Marketplace Platform.</p></figcaption></figure></div>
 
 3. To view detailed item information, select the item name. You can then view the full item description and associated price lists.
 

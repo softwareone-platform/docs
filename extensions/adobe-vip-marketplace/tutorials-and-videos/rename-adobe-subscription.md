@@ -1,8 +1,8 @@
 # Rename Adobe Subscription
 
-Your account on the Marketplace Platform may have several Adobe subscriptions. You can rename these subscriptions so you can identify them easily.&#x20;
+If you have ordered multiple Adobe subscriptions using the Marketplace Platform, you can rename those subscriptions to identify them easily in your list of subscriptions.
 
-In this tutorial, you'll learn how to rename a subscription from _Creative Cloud All Apps Pro for Enterprise_ to _Creative Cloud test._
+This tutorial shows how you can change the subscription name. The example subscription in this tutorial is called _Creative Cloud All Apps Pro for Enterprise._ This subscription will be renamed to _Creative Cloud test._
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ Before starting this tutorial, make sure that the subscription you want to renam
 
 {% stepper %}
 {% step %}
-**Open the subscription to rename**
+**Open the subscription you want to rename**
 
 To open the subscription:&#x20;
 
@@ -24,13 +24,13 @@ To open the subscription:&#x20;
 {% step %}
 **Provide the new name for the subscription**
 
-In the **Rename** dialog, complete these steps:
+In the **Rename** dialog, complete the following steps:
 
-1. Enter the new name in the **Subscription name** field.&#x20;
+1. Under **Subscription name**, provide a new name.
 2. Select **Save**. In this example, the subscription's name is changed to **Creative Cloud test.**
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1065).png" alt=""><figcaption><p>Enter the new subscription name</p></figcaption></figure></div>
 
-The new name is updated immediately and reflected on all pages that feature the subscription in the platform, including the subscription details page.&#x20;
+The name is updated immediately and reflected on all pages featuring the subscription in the platform, including the subscription details page.&#x20;
 {% endstep %}
 {% endstepper %}

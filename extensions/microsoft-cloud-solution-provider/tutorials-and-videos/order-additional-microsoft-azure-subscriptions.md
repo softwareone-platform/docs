@@ -1,6 +1,6 @@
 # Order Additional Azure Subscriptions
 
-If you already have an active agreement and want to order additional Azure subscriptions under the same agreement, you can place a change order.&#x20;
+This tutorial describes how you can order additional subscriptions for Microsoft Azure using an existing Marketplace agreement.&#x20;
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ To start the process:
 
 1. Navigate to the **Products** page.&#x20;
 2. Select **Microsoft Azure**.
-3. On the details page, select **Buy now**.&#x20;
+3. On the details page, select **Buy now** to start the ordering process.
 {% endstep %}
 
 {% step %}

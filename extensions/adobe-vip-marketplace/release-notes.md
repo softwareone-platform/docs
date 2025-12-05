@@ -37,7 +37,6 @@ With this release, we improve this sync to include the following:
 3. Automatically updates the quantities of Subscriptions after changes are made outside of the SoftwareOne Marketplace.
 4. Automatically terminate Subscriptions that are expired or inactive at Adobe.
 5. Automatically Terminate Agreements for customers who have performed a reseller transfer away from SoftwareOne.
-6. \+ more
 
 Lastly, in the Parameters tab of Agreements and Subscriptions, the "Last Sync Date" parameter indicates when the Agreement or Subscription was last synced with Adobe.
 
@@ -45,15 +44,15 @@ Lastly, in the Parameters tab of Agreements and Subscriptions, the "Last Sync Da
 
 ## Release Date: 10 July 2025
 
-### Ordering end-of-sale items no longer fails
+### Ordering End-of-Sale Items No Longer Fails
 
-In this release, we have resolved an issue that occurred when increasing the quantity of end-of-sale items in a change order. Historically, these orders would fail in the SoftwareOne Marketplace, even if the order itself succeeded at Adobe.
+In this release, we have resolved an issue that occurred when increasing the quantity of end-of-sale items in a change order. These orders would fail in the SoftwareOne Marketplace, even if the order itself succeeded at Adobe.
 
-This was due to the fact that once the order completes at Adobe, the Adobe extension then attempts to update the renewal quantity of the subscription to reflect the new desired quantity. End-of-sale items at Adobe cannot have their renewal quantities modified, though, and the attempt failed. This then caused the order in the SoftwareOne Marketplace to fail.
+This issue occurred because once the order completes at Adobe, our Adobe extension attempts to update the renewal quantity of the subscription to reflect the new quantity. As end-of-sale items at Adobe cannot have their renewal quantities modified, this attempt failed. As a result, the Marketplace order failed.&#x20;
 
-This issue has now been resolved. If the Adobe extension is unable to update the renewal quantity, then the order will now complete successfully. You will notice, however, that the quantity of the Subscription item in the SoftwareOne Marketplace remains the same as it was before the order was placed.
+This issue has now been resolved. If the Adobe extension is unable to update the renewal quantity, the order completes successfully. The quantity of the subscription item in the SoftwareOne Marketplace remains the same as it was before the order was placed.
 
-To view the new current quantity of the Subscription, you can check the "Current quantity" Parameter of the Subscription in the SoftwareOne Marketplace.
+You can view the current quantity of the subscription by checking the **Current quantity** parameter of the subscription in the SoftwareOne Marketplace.
 
 ***
 
@@ -61,9 +60,9 @@ To view the new current quantity of the Subscription, you can check the "Current
 
 ### Terminating Expired Subscriptions
 
-When terminating a subscription that has already expired at Adobe, orders would get stuck in Processing status.
+When terminating a subscription that has already expired at Adobe, orders would get stuck in the **Processing** status.
 
-This issue is now resolved and termination orders placed against already expired subscriptions will now complete successfully resulting in Termination of the given Subscription in the SoftwareOne Marketplace.
+This issue is now resolved, and termination orders placed against already expired subscriptions will now complete successfully, resulting in the termination of the subscription in the SoftwareOne Marketplace.
 
 ***
 
@@ -73,13 +72,13 @@ This issue is now resolved and termination orders placed against already expired
 
 Delayed orders have been removed from the Adobe extension. Previously, when a change or termination order was placed within 4 days of the customer's anniversary date, the order would be delayed until after the anniversary date.
 
-This has now changed. Change, configuration, and termination orders can now be placed up to 24 hours prior to the anniversary date. Attempting to place an order within 24 hours of the anniversary date will result in an error in the Purchase Wizard. If the order is placed directly through the SoftwareOne Marketplace API, the order will be marked as failed.
+This has now changed. Change, configuration, and termination orders can now be placed up to 24 hours before the anniversary date. Attempting to place an order within 24 hours of the anniversary date will result in an error in the Purchase Wizard. If the order is placed directly through the SoftwareOne Marketplace API, the order will be marked as failed.
 
 ### Termination Orders and Returns
 
 Since the introduction of configuration orders to turn auto-renewal on or off, termination orders can now be used for a single purpose: to return the entire quantity of a subscription.
 
-A termination order can now only be placed against a subscription or agreement if the entire quantity of the affected subscriptions can be returned at Adobe. If a subscription has licenses that are outside of the return window, then that subscription cannot be terminated. Instead, use a configuration order to disable auto-renewal.
+A termination order can now only be placed against a subscription or agreement if the entire quantity of the affected subscriptions can be returned to Adobe. If a subscription has licenses that are outside of the return window, then that subscription cannot be terminated. Instead, use a configuration order to disable auto-renewal.
 
 {% hint style="info" %}
 Note that change orders can still be used to make partial quantity returns as long as the quantity to return matches the entire amount of a line item on an order that is still within the 14-day return window.
@@ -98,7 +97,7 @@ When a customer has a 3-year commitment, it is important when processing an orde
 To this end, we have introduced two additional capabilities:
 
 1. When an order is placed against a 3-year commitment, the order is validated to ensure that the combined changes that the order will make will still satisfy the minimum quantities.
-2. When an order is fulfilled against a 3-year commitment, subscriptions with quantity increases are processed first, and then decreases are processed second. This ensures that the total quantities never go below the minimum quantities which would cause order failure.
+2. When an order is fulfilled against a 3-year commitment, subscriptions with quantity increases are processed first, and then decreases are processed second. This ensures that the total quantities never go below the minimum quantities, which would cause order failure.
 
 ***
 
@@ -109,9 +108,9 @@ To this end, we have introduced two additional capabilities:
 A small number of customers have subscriptions in more than one currency in a single location. We now handle this as follows:
 
 * Subscriptions in the same currency as the Agreement are activated during fulfilment of the Purchase Order. These subscriptions have auto-renewal enabled and are added to the Agreement.
-* Subscriptions in a different currency to the Agreement are ignored. They are not added to the Agreement, and auto-renewal is switched off.
+* Subscriptions in a different currency from the Agreement are ignored. They are not added to the Agreement, and auto-renewal is switched off.
 
-With this process, customers with multiple currencies in a single location will "consolidate" to a single currency at renewal.
+With this process, customers with multiple currencies in a single location will consolidate to a single currency at renewal.
 
 ***
 
@@ -119,9 +118,9 @@ With this process, customers with multiple currencies in a single location will 
 
 ### Notifications
 
-Adobe VIP Marketplace notifications are now sent through the new Notifications module in the SoftwareOne Marketplace. This allows you do manage your notification settings for Adobe VIP Marketplace in the Notifications module.
+Adobe VIP Marketplace notifications are now sent through the new Notifications module in the SoftwareOne Marketplace. This allows you to manage your notification settings for Adobe VIP Marketplace using the **Notifications** module.
 
-To manage your notification preferences, click here: [https://portal.platform.softwareone.com/administration/settings/profile/notifications](https://portal.platform.softwareone.com/administration/settings/profile/notifications)
+To manage your notification preferences, use this link: [https://portal.platform.softwareone.com/administration/settings/profile/notifications](https://portal.platform.softwareone.com/administration/settings/profile/notifications)
 
 ***
 
@@ -129,14 +128,14 @@ To manage your notification preferences, click here: [https://portal.platform.so
 
 ### Global Customer Improvements
 
-In this release, we improved the creation of Agreements and Subscriptions for global customers:
+In this release, we have improved the creation of agreements and subscriptions for global customers:
 
 * Agreement parameters now reflect the correct details of each deployment location.
 * Inactive subscriptions at Adobe are ignored when creating the SoftwareOne Marketplace Subscriptions for each deployment location
 
-### Other improvements
+### Other Improvements
 
-* One-time purchases are now excluded from Purchase Orders in the SoftwareOne Marketplace. These items were causing issues when completing those orders.
+One-time purchases are now excluded from Purchase Orders in the SoftwareOne Marketplace. These items were causing issues when completing those orders.
 
 ***
 

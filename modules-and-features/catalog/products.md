@@ -11,7 +11,7 @@ To view products in the Marketplace:
 1. In the main navigation menu, select **Catalog** > **Products**.
 2. On the **Products** page, browse the list of available products. The list is organised by vendor name and vendor ID.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption><p>The Products page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption><p>The Products page in the Marketplace Platform.</p></figcaption></figure></div>
 
 3. Select a product to open its detail page, where you can view the full description, associated assets, items (SKUs), and pricing or licensing details.
 

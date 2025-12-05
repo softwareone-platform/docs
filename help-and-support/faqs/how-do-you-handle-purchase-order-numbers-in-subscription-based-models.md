@@ -47,11 +47,11 @@ Placing an order establishes a relationship at the recurring purchase order leve
 
 You can provide your recurring purchase order number in the **Additional ID** field when placing your order. This number will be used for reference in all consolidated invoices in the scope of each agreement on the platform.&#x20;
 
-<figure><img src="../../.gitbook/assets/Recurring PO.png" alt=""><figcaption><p>Recurring PO</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Recurring PO.png" alt=""><figcaption><p>Use the Additional ID field to enter your recurring purchase order number.</p></figcaption></figure></div>
 
 To provide a purchase order after your order has been placed, open the agreement and navigate to the **Details** tab. Select **Edit** and enter the value under the **Additional IDs** section.
 
-<figure><img src="../../.gitbook/assets/agreement_details.png" alt=""><figcaption><p>Agreement details page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/agreement_details.png" alt=""><figcaption><p>The agreement details page in the platform.</p></figcaption></figure></div>
 
 After you have provided the number, it will be displayed on the invoice. To learn more about your billing documents, see [Understand Your Billing Documents](../../modules-and-features/billing/understand-your-billing-documents/).
 
