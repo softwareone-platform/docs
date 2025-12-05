@@ -18,7 +18,7 @@ Before starting this tutorial, make sure you have the following:
 To start the process:
 
 1. Navigate to the **Products** page.
-2. Select **SoftwareOne FinOps for Cloud**.&#x20;
+2. From the list of products, select **SoftwareOne FinOps for Cloud**.&#x20;
 3. On the details page, select **Buy now** to start the ordering process.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>The Buy Now option on the product details page.</p></figcaption></figure></div>

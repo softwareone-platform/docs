@@ -6,7 +6,7 @@ To order a subscription via the Marketplace Platform, you must have an agreement
 
 When you place an order, you either set up a new agreement or add to an existing agreement. This tutorial shows how to order an Adobe subscription by setting up a new agreement and a new Adobe VIP Marketplace account.&#x20;
 
-Watch the following video or continue reading for the step-by-step instructions.&#x20;
+{% include "../../../.gitbook/includes/video-header.md" %}
 
 {% embed url="https://vimeo.com/986319438/c4d6c4113b?share=copy" %}
 Watch a quick video guide showing how to order an Adobe subscription.
@@ -29,7 +29,7 @@ Before starting this tutorial, make sure you have the following:
 To start the process:
 
 1. Navigate to the **Products** page.
-2. Select the required product, for example, **Adobe VIP Marketplace for Commercial**.
+2. From the list of products, select the required Adobe product, for example, **Adobe VIP Marketplace for Commercial**.
 3. On the details page, select **Buy now** to start the ordering process.&#x20;
 {% endstep %}
 

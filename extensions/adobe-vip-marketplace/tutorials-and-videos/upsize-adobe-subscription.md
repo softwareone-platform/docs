@@ -1,14 +1,16 @@
 # Upsize Adobe Subscription
 
-You can increase the number of licenses for your Adobe subscription by placing a change order through the Marketplace Platform.
+This tutorial describes how you can increase the number of licenses for your Adobe subscription by submitting a change order.
 
-There are three ways to add additional licenses:
+The Marketplace Platform provides three ways to order additional licenses:
 
 1. Using the **Buy More** option on the **Agreements** page. This method requires you to go to the **Products** page, select the required Adobe product, and follow the purchase wizard.
 2. Through the **Buy More** option on the details page of the agreement containing the subscription.
 3. By editing the subscription and increasing the license quantity within that subscription.
 
-This tutorial describes how to increase the quantity using option 3. Watch the video below or continue reading for step-by-step instructions.
+This tutorial focuses on option 3, which involves editing the subscription directly.
+
+{% include "../../../.gitbook/includes/video-header.md" %}
 
 {% embed url="https://vimeo.com/986323945/a268e0a35b" %}
 Watch a quick video guide describing how to increase your Adobe subscription licenses.

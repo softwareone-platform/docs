@@ -2,7 +2,7 @@
 
 If you want to cancel all subscriptions within an agreement, you must terminate the agreement itself. This is done by placing a termination order. This tutorial shows how to create a termination order for an agreement.
 
-Note that Adobe subscriptions can be terminated both within and outside the 14-day return period. For details on the cancellation policies, see [What happens if I terminate my Adobe subscription?](../faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
+Adobe subscriptions can be terminated both within and outside the 14-day return period. For details on the cancellation policies, see [What happens if I terminate my Adobe subscription?](../faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
 
 ## Prerequisites
 

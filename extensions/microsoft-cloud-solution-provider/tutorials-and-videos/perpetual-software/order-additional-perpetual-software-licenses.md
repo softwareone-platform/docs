@@ -17,7 +17,7 @@ Before starting this tutorial, make sure that your existing agreement is in the 
 To open the agreement:
 
 1. Navigate to the **Agreements** page.
-2. Find and select the required agreement.
+2. From the list of agreements, select the required agreement.
 3. On the agreement details page, select **Buy more** to start the ordering process.
 {% endstep %}
 

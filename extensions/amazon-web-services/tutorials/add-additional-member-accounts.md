@@ -4,7 +4,9 @@ This tutorial describes how to add AWS-linked accounts to an existing Marketplac
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-Before starting this tutorial, make sure that your AWS Marketplace agreement is in the **Active** state. You'll also need to know the email address you want to use to create your member account in AWS and the account name.
+Before starting this tutorial, make sure your AWS Marketplace agreement is in the **Active** state.&#x20;
+
+You must also know the email address you want to use to create your member account in AWS and the account name.
 
 ## Adding additional member accounts
 

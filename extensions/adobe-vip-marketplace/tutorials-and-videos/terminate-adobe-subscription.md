@@ -1,6 +1,8 @@
 # Terminate Adobe Subscriptions
 
-If you want to cancel your Adobe subscriptions within the 14-day return period, or if you are beyond this period and want to prevent your subscription from automatically renewing on the renewal date, you can create a termination order.&#x20;
+This tutorial describes how you can cancel your Adobe subscription by submitting a termination order.&#x20;
+
+A termination order can be created if you want to cancel your Adobe subscriptions within the 14-day return period, or if you are beyond this period and want to prevent your subscription from automatically renewing on the renewal date.
 
 Adobe subscriptions can be terminated both within and outside the 14-day return period. To learn about the cancellation policies, see [What happens if I terminate my Adobe subscription?](../faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
 

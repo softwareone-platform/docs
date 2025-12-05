@@ -21,7 +21,7 @@ Before starting this tutorial, make sure you are familiar with [key concepts](..
 To start the process:
 
 1. Navigate to the **Products** page.&#x20;
-2. Select the required Perpetual Software product, for example, **Microsoft Perpetual Software - Commercial**.
+2. From the list of products, select the required Perpetual Software product, for example, **Microsoft Perpetual Software - Commercial**.
 3. On the details page, select **Buy now** to start the ordering process.
 {% endstep %}
 

@@ -1,8 +1,8 @@
 # Order New Adobe Items
 
-If you already have an agreement and want to order new Adobe VIP Marketplace items as part of that agreement, you can place a change order.&#x20;
+This tutorial shows how you can order new Adobe items using your existing Marketplace agreement. Additional items can be ordered by submitting a change order.&#x20;
 
-This tutorial shows how to order new items using an existing agreement. Watch the following video or continue reading for the step-by-step instructions.&#x20;
+{% include "../../../.gitbook/includes/video-header.md" %}
 
 {% embed url="https://vimeo.com/986322109/4702c0b2f1" %}
 Watch a quick video guide how to order new Adobe items using an existing agreement.
@@ -21,7 +21,7 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 To start the process:
 
 1. Navigate to the **Products** page.
-2. Select the desired Adobe product, for example, **Adobe VIP Marketplace for Commercial**.
+2. From the list of products, select the desired Adobe product, for example, **Adobe VIP Marketplace for Commercial**.
 3. On the details page, select **Buy now** to start the ordering process.
 {% endstep %}
 
@@ -30,7 +30,7 @@ To start the process:
 
 {% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
-1. **Create agreement** - Choose an active agreement from the list. Then, select **Next**. All items existing under this agreement are displayed.
+1. **Select agreement** - Choose an active agreement from the list. Then, select **Next**. All items existing under this agreement are displayed.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1058).png" alt=""><figcaption><p>The Select items step displaying existing items in your agreement.</p></figcaption></figure></div>
 

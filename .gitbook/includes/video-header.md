@@ -2,4 +2,4 @@
 title: Video header
 ---
 
-You can either watch the following video guide or continue reading to follow the steps:
+To continue, you can either watch the following video guide or keep reading for the step-by-step instructions.

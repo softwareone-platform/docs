@@ -26,7 +26,7 @@ Before starting this tutorial, make sure you have the following:
 To start the process:
 
 1. Navigate to the **Products** page.
-2. Select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps - Commercial.**
+2. From the list of products, select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps - Commercial.**
 3. On the details page, select **Buy now**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>Buy now option on the details page</p></figcaption></figure></div>

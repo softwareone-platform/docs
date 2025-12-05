@@ -4,7 +4,7 @@ This tutorial describes how you can transfer your existing AWS accounts to the S
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-Before starting this tutorial, ensure you understand the available account transfer options. See [Account Options](../account-options.md) to learn more. Additionally, you'll require the following:
+Before starting this tutorial, ensure you understand the available account transfer options. See [Account Options](../account-options.md) to learn about the different options. Additionally, make sure you have the following:
 
 * An active licensee within the Marketplace Platform, or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) if you prefer not to use an existing one. Selecting a licensee is required when setting up a new agreement.
 * The IDs of the AWS accounts you want to transfer.
@@ -27,14 +27,14 @@ To start the process:
 {% step %}
 **Follow the steps to transfer your existing account**
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>The purchase wizard for AWS.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>The purchase wizard for AWS in the Marketplace Platform.</p></figcaption></figure></div>
 
 {% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Select agreement** - Select **Create agreement** to start creating your new agreement with SoftwareOne.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we will select an existing licensee. To add a new licensee, select **Add licensee** and follow the instructions in [Create licensee](../../../modules-and-features/settings/licensees/create-licensees.md).
 3. **Create agreement** - Choose **Existing account**. Then, select **Next**.
-4. **Existing account** - Choose one of the following options, and select **Next**:
+4. **Existing account** - Choose one of the following options, then select **Next**:
    * **Transfer one or multiple accounts without an organization** - Select this option if you have standalone accounts, but not an AWS organization.
    * **Transfer my current AWS organization** - Select this option if you have an AWS master payer account with at least one associated linked account.
    * **Split the cost of your organization** - Select this option if you already have an agreement for AWS through the SoftwareOne Marketplace and want to split the cost among groups of linked accounts. You can do this by creating additional marketplace agreements that are all connected to the same AWS payer account.

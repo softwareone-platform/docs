@@ -25,7 +25,7 @@ Before starting this tutorial, make sure you have the following:
 To start the process:
 
 1. Navigate to the **Products** page.&#x20;
-2. Select **Microsoft Azure** from the available products.
+2. From the list of products, select **Microsoft Azure**.
 3. On the details page, select **Buy now**.
 {% endstep %}
 

@@ -2,13 +2,13 @@
 
 This tutorial describes how to create a new AWS account by establishing a new agreement with SoftwareOne.&#x20;
 
-When setting up a new agreement, you can either set up a new AWS account or transfer your existing AWS account. In this tutorial, you'll create a new AWS account.
+When setting up a new agreement, you can either set up a new AWS account or transfer your existing AWS account. This tutorial focuses on creating a new AWS account.
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-Before starting this tutorial, make sure that you are familiar with the concepts and support models in[ AWS concepts](../aws-concepts.md). You'll need to choose the support level when creating your new account.
+Before starting this tutorial, make sure you are familiar with the concepts and support models in[ AWS concepts](../aws-concepts.md). Choosing a support level is required when creating your new account.
 
-Additionally, you'll require the following:
+Additionally, you'll need the following:
 
 * An active licensee within the Marketplace Platform, or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees) if you prefer not to use an existing one. Selecting a licensee is required when setting up a new agreement.
 * The email address of your root user and the name of your AWS account.
@@ -32,7 +32,7 @@ To start the process:
 {% step %}
 {% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>The purchase wizard for AWS.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws_purchase_wizard.png" alt=""><figcaption><p>The purchase wizard for AWS in the Marketplace Platform.</p></figcaption></figure></div>
 
 {% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
