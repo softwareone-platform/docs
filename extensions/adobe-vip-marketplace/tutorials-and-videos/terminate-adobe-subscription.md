@@ -10,7 +10,7 @@ Adobe subscriptions can be terminated both within and outside the 14-day return 
 
 Before starting this tutorial, make sure that your Adobe subscription is active.&#x20;
 
-## Implementation
+## Terminating an Adobe subscription
 
 {% stepper %}
 {% step %}

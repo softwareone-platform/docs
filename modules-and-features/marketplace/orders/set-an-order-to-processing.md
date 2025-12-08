@@ -1,22 +1,22 @@
-# Change Your Order's Status to Processing
+# Set Querying Orders to Processing
 
-In some cases, you may need to provide additional information if there are errors in the details you submitted when placing your order or if you need to complete specific steps before we can process your order.
+In some cases, you may need to provide additional information if your order information is incorrect or incomplete, or if specific steps must be completed before we can process your order.
 
-When an order requires your attention, its status is displayed as **Querying**. When you open a querying order, the details page shows a message indicating what needs to be corrected and how to fix it.&#x20;
+Orders that require your attention are marked as **Querying** in the platform. When you open a querying order, the **General** tab on the details page shows what needs to be corrected and how to address the issue.
 
-After completing the necessary steps, select **Process** to update the order status to **Processing**. Changing the status informs the vendor that the order is ready for their review.
+Once you have completed the necessary steps, you must update the order's status from **Querying to Processing**. Changing the status informs SoftwareOne and the vendor that the order is ready for their review and further processing.&#x20;
 
-## Moving your order to Processing
+## Setting a Querying order to Processing
 
-To change your order's status from **Querying** to **Processing**:
+To move an order from **Querying** to **Processing**:
 
 1. Navigate to the **Orders** page.
-2. Select the purchase order in the **Querying** state. If you have several orders, use the [search bar](../../../marketplace-platform/getting-started/interface/#search) or [filters](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md) to find the order.
-3. On the **General** tab, review the action required message. The following example shows that there's an issue with the parameters, and they must be updated through the **Parameters** tab.
+2. Select the desired purchase order in the **Querying** state. If you have several orders, use the [search bar](../../../marketplace-platform/getting-started/interface/#search) or [filters](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md) to quickly locate your order.
+3. On the **General** tab, review the action required message. The following example message indicates that there's an issue with the parameters, and they must be updated using the **Parameters** tab.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Querying.png" alt=""><figcaption><p>An example of a Querying order in the platform.</p></figcaption></figure></div>
 
-4. Complete the steps as necessary, then select **Process**. Note that this button becomes available only after you have completed all the necessary steps.&#x20;
+4. Take the action as necessary, then select **Process**. Note that this button becomes available only after you have addressed the issue.
 
 Your order's status changes to **Processing**, and the **Process** option becomes unavailable again.
 

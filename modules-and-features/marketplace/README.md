@@ -14,10 +14,6 @@ To get started, see the following links:
 [orders](orders/)
 {% endcontent-ref %}
 
-{% content-ref url="../catalog/products.md" %}
-[products.md](../catalog/products.md)
-{% endcontent-ref %}
-
 {% content-ref url="requests/" %}
 [requests](requests/)
 {% endcontent-ref %}
