@@ -210,7 +210,7 @@ If you notice virtual tags appearing on your resources unexpectedly, these tags 
 
 As part of the group-assignment process, the rule also applies a virtual tag to each resource to indicate the assigned group. This behavior is expected and occurs whenever a resource meets the rule’s triggers.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 To prevent virtual tags from overriding your expected resource categorization, update the rule configuration or its criteria. To do this:
 
