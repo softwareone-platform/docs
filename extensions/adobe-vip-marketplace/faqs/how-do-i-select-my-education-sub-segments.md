@@ -6,7 +6,7 @@ description: >-
 
 # How do I select my education sub-segments
 
-When setting up a new Education-segment account or when placing orders against and existing one, customers must choose their Education sub-segments in the Admin Console. This task only needs to be completed once.
+When setting up a new Education-segment account or when placing orders against an existing one, customers must choose their Education sub-segments in the Adobe Admin Console. This task only needs to be completed once.
 
 {% hint style="info" %}
 These steps must be completed by an Adobe Admin Console administrator.
@@ -16,7 +16,7 @@ These steps must be completed by an Adobe Admin Console administrator.
 
 1. Sign in to the Adobe Admin Console
 2. On the **Required action: Confirm type of organization** page:
-   1. Select the sub-segments applicable to your organization.
+   1. Select the sub-segment(s) applicable to your organization.
    2. Select **Confirm and continue**.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
