@@ -41,7 +41,7 @@ The ordering steps might vary slightly depending on the product you are ordering
 7. **Summary** - Review your order summary.
 
 {% hint style="info" %}
-For products like Adobe and Microsoft, you'll need to complete additional steps when placing the order. For step-by-step guidance on these products, see [Adobe Tutorials ](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/)and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/).
+For products like Adobe and Microsoft, you'll need to complete additional steps when placing the order. For step-by-step guidance on these products, see [Adobe Tutorials ](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/)and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/).
 {% endhint %}
 {% endstep %}
 {% endstepper %}

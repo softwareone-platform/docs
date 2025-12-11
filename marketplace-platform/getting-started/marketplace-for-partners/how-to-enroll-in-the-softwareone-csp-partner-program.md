@@ -2,7 +2,7 @@
 
 The SoftwareOne (SWO) CSP Partner Program is designed for SoftwareOne partners to ensure compliance with our established terms and conditions.&#x20;
 
-All SoftwareOne partners must enroll in this program to obtain a compliance certificate. This must be done before ordering products for resale. To learn more about this program, see [Partner Programs](../../../extensions/microsoft-cloud-solution-provider/partner-programs.md).
+All SoftwareOne partners must enroll in this program to obtain a compliance certificate. This must be done before ordering products for resale. To learn more about this program, see [Partner Programs](../../../extensions/microsoft-cloud-solution-provider/products-and-programs/partner-programs.md).
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 

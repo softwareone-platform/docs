@@ -1,6 +1,6 @@
 # How to Enroll in the CSP Partner Program
 
-The **Cloud Solution Provider Partner Program** allows you to partner with SoftwareOne as your indirect CSP provider. To learn more about this program, see [Partner Programs](../../../extensions/microsoft-cloud-solution-provider/partner-programs.md).
+The **Cloud Solution Provider Partner Program** allows you to partner with SoftwareOne as your indirect CSP provider. To learn more about this program, see [Partner Programs](../../../extensions/microsoft-cloud-solution-provider/products-and-programs/partner-programs.md).
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 

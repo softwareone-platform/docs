@@ -2,7 +2,7 @@
 
 The **Programs** page in the platform displays all active vendor programs that are open for enrollment. You can access this page by selecting the **Marketplace** option in the main navigation menu.
 
-By enrolling in a program, you gain access to all the benefits associated with that program. To learn about the Microsoft partner programs available for enrollment through the Marketplace, see [Partner Programs](../../extensions/microsoft-cloud-solution-provider/partner-programs.md).&#x20;
+By enrolling in a program, you gain access to all the benefits associated with that program. To learn about the Microsoft partner programs available for enrollment through the Marketplace, see [Partner Programs](../../extensions/microsoft-cloud-solution-provider/products-and-programs/partner-programs.md).&#x20;
 
 ## Viewing program details
 

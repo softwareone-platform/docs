@@ -26,7 +26,7 @@ If your certificate is pending, the **General** tab on the certificate details p
 
 <summary>I am encountering error messages when creating certificates.</summary>
 
-The Marketplace Platform displays an error during the certificate creation process if specific requirements are not met. For further information, see [I'm getting errors when creating certificates or CSP orders](../../../extensions/microsoft-cloud-solution-provider/faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md).
+The Marketplace Platform displays an error during the certificate creation process if specific requirements are not met. For further information, see [I'm getting errors when creating certificates or CSP orders](../../../extensions/microsoft-cloud-solution-provider/additional-resources/faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md).
 
 </details>
 

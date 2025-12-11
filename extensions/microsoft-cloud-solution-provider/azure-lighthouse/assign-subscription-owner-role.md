@@ -38,6 +38,6 @@ After assigning the role in Azure, navigate to the **Orders** page in the Market
 
 ## Related topics
 
-{% content-ref url="../faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md" %}
-[how-do-i-troubleshoot-lighthouse-activation-errors.md](../faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md)
+{% content-ref url="../additional-resources/faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md" %}
+[how-do-i-troubleshoot-lighthouse-activation-errors.md](../additional-resources/faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md)
 {% endcontent-ref %}
