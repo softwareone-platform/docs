@@ -35,7 +35,7 @@ In the **Select items** step, all one-time items that can be ordered under this 
        3. Type the name of the required item (in this case, _Windows Server 2025_).
        4. **Close** the filter box.
 
-       <div data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Filter options in the table.</p></figcaption></figure></div>
+       <div data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>The available filter options in the table.</p></figcaption></figure></div>
 2. Select the item you want (for example, _Windows Server 2025)_, then select **Add items** to include it in your order.
 3. In the **New qty** field, adjust the quantity as needed. Select **Next**.
 {% endstep %}

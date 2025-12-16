@@ -7,7 +7,7 @@ In the Marketplace Platform, you can order subscriptions by creating an order th
 The wizard is designed to guide you through the ordering process smoothly. It contains navigation buttons, a vertical progress bar with step numbers and title, and a data grid.&#x20;
 
 * The progress bar shows how far you have progressed and how many steps remain before the order can be placed. The steps are defined by vendors, so they might vary depending on the product. Additionally, the wizard might skip some steps automatically depending on the options you select.&#x20;
-* The [data grid](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) is where the main content is displayed. This is where you can select different purchasing options, choose items, apply filters and sorting conditions, input your details, and so on.&#x20;
+* The [data grid](../../../marketplace-platform/platform-overview/preferences-and-settings/customize-the-data-grid.md) is where the main content is displayed. This is where you can select different purchasing options, choose items, apply filters and sorting conditions, input your details, and so on.&#x20;
 * The navigation buttons, such as **Close**, **Back**, and **Next**, allow you to close the wizard and navigate between different pages, respectively, although some buttons could be unavailable depending on your current step in the wizard.&#x20;
 
 ## Purchase Wizard steps

@@ -46,13 +46,13 @@ The new Notifications feature allows account administrators to configure and man
 
 Admins can set recipients for these emails and manage categories to start or stop receiving notifications. This feature is available under **Settings** in the main navigation menu. To learn more, see [Notifications](../../modules-and-features/settings/notifications/).
 
-Individual users can also customize notification settings through their profile to determine what notifications to receive. See [Manage Notification Preferences](../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) for details.
+Individual users can also customize notification settings through their profile to determine what notifications to receive. See [Manage Notification Preferences](../../marketplace-platform/platform-overview/preferences-and-settings/manage-notification-preferences.md) for details.
 
 ## Object Spotlight
 
 The new **Spotlight** feature simplifies task management by highlighting key business objects that require your attention. These objects include your agreements, invoices, subscriptions, and more.
 
-For instance, if there are saved orders in your account, those orders are spotlighted so you can manage them easily. Similarly, subscriptions that are nearing expiration are also shown so you can take timely action. To learn more, see [View Object Spotlight](../../marketplace-platform/getting-started/interface/view-pending-tasks.md).
+For instance, if there are saved orders in your account, those orders are spotlighted so you can manage them easily. Similarly, subscriptions that are nearing expiration are also shown so you can take timely action. To learn more, see [View Object Spotlight](../../marketplace-platform/platform-overview/interface/view-pending-tasks.md).
 
 You can find the **Spotlight** feature on the **Home** page, and it can also be accessed by selecting the spotlight icon <img src="../../.gitbook/assets/icon_pending_actions (1).png" alt="" data-size="line"> in the status bar.&#x20;
 

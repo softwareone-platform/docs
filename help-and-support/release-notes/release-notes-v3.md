@@ -34,7 +34,7 @@ We've added new options to the <img src="../../.gitbook/assets/icon_columns.png"
 * **Fit to content** - Resizes each column in the table to fit its specific content. It means that the width is adjusted to the content within the column.&#x20;
 * **Fit to screen** - Resizes each column so that the entire table fits your screen.
 
-To learn about the other operations in the data grid, see [Customize the data grid](../../marketplace-platform/getting-started/interface/customize-the-data-grid.md).
+To learn about the other operations in the data grid, see [Customize the data grid](../../marketplace-platform/platform-overview/preferences-and-settings/customize-the-data-grid.md).
 
 ## Buyer-Level Group Restrictions
 
@@ -46,7 +46,7 @@ With this feature, administrators can ensure that certain users have restricted 
 
 Information cards are now displayed for the key objects in the platform. Information cards appear when you hover over a link, such as the order ID or username.&#x20;
 
-These cards display key properties, allowing you to view the important information in one place without leaving the page. To learn more, see [View Information Cards](../../marketplace-platform/getting-started/interface/view-information-cards.md).
+These cards display key properties, allowing you to view the important information in one place without leaving the page. To learn more, see [View Information Cards](../../marketplace-platform/platform-overview/interface/view-information-cards.md).
 
 <figure><img src="../../.gitbook/assets/InfoCard (2).png" alt=""><figcaption><p>Information card on the Orders page</p></figcaption></figure>
 
@@ -72,7 +72,7 @@ The new search bar is located in the header and it lets you search for your orde
 
 <figure><img src="../../.gitbook/assets/Search (2).png" alt=""><figcaption><p>Search functionality in the platform</p></figcaption></figure>
 
-You can also use search to find product documentation. To learn more, see the [Search ](../../marketplace-platform/getting-started/interface/#search)section in [Platform Interface](../../marketplace-platform/getting-started/interface/).
+You can also use search to find product documentation. To learn more, see the [Search ](../../marketplace-platform/platform-overview/interface/#search)section in [Platform Interface](../../marketplace-platform/platform-overview/interface/).
 
 ## Split Billing for Adobe VIP Marketplace <a href="#split-billing-for-adobe-vip-marketplace" id="split-billing-for-adobe-vip-marketplace"></a>
 

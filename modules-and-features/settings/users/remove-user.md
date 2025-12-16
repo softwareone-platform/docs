@@ -10,7 +10,7 @@ Before removing an individual from your account, note the following points:
 * Removing an individual doesn't delete them from the system, allowing you to [add them to your account again](add-new-users.md).
 * Removing someone only removes them from the respective account. If the individual is associated with several accounts on the platform, they can still access those accounts.&#x20;
 * You cannot remove yourself from an account. The platform shows a message when you try to remove yourself.
-* If you remove an individual with an **Invited** status, their invitation link will no longer be valid.
+* If you remove an individual with an **Invited** status, their invitation link no longer remains valid.
 
 ## Removing a user from your account
 
@@ -24,4 +24,4 @@ To remove an individual from your account:
 
 4. In the **Remove user** dialog, select **Remove** to confirm the action.
 
-A message is displayed stating that the user has been removed. Additionally, the removed user will receive an email stating that they have been removed from the account and all of the groups.&#x20;
+A message is displayed stating that the user has been removed. Additionally, the removed user receives an email stating that they have been removed from the account and all user groups.&#x20;

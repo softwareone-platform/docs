@@ -3,12 +3,14 @@
 If you need to cancel your FinOps purchase order for any reason, for instance, if you picked the wrong currency while ordering, you can create a termination order. This tutorial describes how you can do this.
 
 {% hint style="warning" %}
-Terminating the agreement disables the corresponding organization in FinOps. It means you will no longer be able to access any data related to this organization, such as your data sources, pools, and users. Additionally, you won't be able to sign in or switch to this organization in FinOps.&#x20;
+Terminating the agreement disables the corresponding organization in FinOps.&#x20;
+
+It means you cannot sign in or switch to this organization and access data such as data sources, pools, and users.
 {% endhint %}
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
-Before cancelling your FinOps order, ensure that the agreement linked to the purchase order is **active**. If it's not active, you won't be able to start the termination process.&#x20;
+Before cancelling your FinOps order, ensure that the agreement linked to the purchase order is **active**. If the agreement is not active, you cannot start the termination process.&#x20;
 
 ## Canceling your FinOps for Cloud order
 
@@ -41,4 +43,4 @@ To start the process:
 
 After you have submitted the termination order, you can view real-time updates and status on the [order details](../../modules-and-features/marketplace/orders/#subscription-details) page.
 
-When your order has been processed, both the agreement and the subscription associated with the order will be marked as **Terminated** in the Marketplace Platform, and the corresponding organization will be disabled in FinOps.
+When your order has been processed, both the agreement and the subscription associated with the order are marked as **Terminated** in the Marketplace Platform, and the corresponding organization is disabled in FinOps.

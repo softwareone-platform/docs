@@ -21,7 +21,7 @@ To configure buyers:
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1122).png" alt=""><figcaption><p>Add buyers for split billing</p></figcaption></figure></div>
 
-4. Select **Save**. Your newly added buyers will be displayed on the **Split billing** tab in your agreement.
+4. Select **Save**. Your newly added buyers are displayed on the **Split billing** tab in your agreement.
 
 {% hint style="info" %}
 **Need to add more buyers or remove a buyer?**

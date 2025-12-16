@@ -34,7 +34,7 @@ To start the process:
 3. **Agreement** - Provide the following details, then select **Next**:
    1. **Organization name** - (Required) Enter the name of your organization. This name represents your environment in FinOps for Cloud. You can update the name later from the **Settings** page within FinOps.&#x20;
    2. **Currency** - (Required) Select the currency that your cloud service provider bills you in.&#x20;
-   3. **Administrator** - (Required) Fill out the contact form. You'll need to enter the contact details of the administrator who will manage your account. This admin will be assigned the **Organization admin** role in FinOps.
+   3. **Administrator** - (Required) Fill out the contact form. You'll need to enter the contact details of the administrator managing your account. This admin is assigned the **Organization admin** role in FinOps.
 
 {% hint style="warning" %}
 When selecting a **Currency**, make sure to choose the correct one, as it can't be changed after the agreement has been created. You must select the same currency that your cloud provider (like AWS or Azure) uses for billing. For example, if you are billed in USD, you must select **USD** from the list. If you choose a different currency, you won't be able to import the cost and usage data from your cloud provider.
@@ -54,8 +54,8 @@ When selecting a **Currency**, make sure to choose the correct one, as it can't 
 
 ## Next steps
 
-Once your order is placed, we will verify the details and process your order. You can use the **General** tab on the [order details](../../modules-and-features/marketplace/orders/#subscription-details) page to keep track of your order. If there are any issues, the details page will provide information about the problem and any actions you may need to take.
+Once your order is placed, we verify the details and then process your order. You can use the **General** tab on the [order details](../../modules-and-features/marketplace/orders/#subscription-details) page to keep track of your purchase. If there are any issues, the details page describes the problem and any actions you might need to take.
 
-After the order is complete, we'll email your account administrator with instructions on [signing in to your FinOps account](https://portal.finops.softwareone.com/). After signing in, admins can connect data sources to start importing data.&#x20;
+After the order is complete, we email your account administrator with instructions on [signing in to your FinOps account](https://portal.finops.softwareone.com/). After signing in, admins can connect data sources to start importing data.&#x20;
 
 To learn about connecting data sources and using FinOps for Cloud, see the [FinOps for Cloud documentation](https://docs.finops.softwareone.com/).

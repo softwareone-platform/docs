@@ -4,7 +4,7 @@ This tutorial describes how to add AWS-linked accounts to an existing Marketplac
 
 ## Prerequisites <a href="#prerequisites" id="prerequisites"></a>
 
-Before starting this tutorial, make sure your AWS Marketplace agreement is in the **Active** state.&#x20;
+Before starting this tutorial, make sure your AWS Marketplace agreement is active.
 
 You must also know the email address you want to use to create your member account in AWS and the account name.
 
@@ -48,6 +48,6 @@ To start the process:
 
 When your order has been placed, we verify the order details. &#x20;
 
-If there are issues with your order, the [order details](../../../modules-and-features/marketplace/orders/#subscription-details) page will provide information on your next steps.
+If there are issues with your order, the [order details](../../../modules-and-features/marketplace/orders/#subscription-details) page provides information on your next steps.
 
-If there are no issues, we'll create additional AWS member accounts using the name and email address you provided. You'll receive an email with instructions on resetting your password and accessing your account.
+If there are no issues, we create additional AWS member accounts using the name and email address you provided. You'll receive an email with instructions on resetting your password and accessing your account.

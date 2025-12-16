@@ -2,7 +2,7 @@
 
 If your application for [Microsoft Education](../../products-and-programs/microsoft-for-education.md) has been denied due to a lack of information or incompleteness, you can resubmit the application. Microsoft allows up to three verification attempts.&#x20;
 
-To request a reverification, follow these steps:
+To request a reverification:
 
 1. Read the specific reasons provided in your denial notification.
 2. Gather the required documents to support your eligibility.&#x20;

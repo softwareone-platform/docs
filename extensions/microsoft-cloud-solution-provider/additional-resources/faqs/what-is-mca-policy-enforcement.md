@@ -6,9 +6,9 @@ This acceptance is necessary for customers whose CSP partners attested to the MC
 
 While existing online services will remain uninterrupted, customers who don't accept the updated MCA won't be able to make new purchases, modify license quantities, including seat increases or decreases, make upgrades, or change their billing plan. To learn more about this update, see the official [Microsoft announcement](https://learn.microsoft.com/en-us/partner-center/announcements/2025-august#action-required-microsoft-customer-agreement-reacceptance).
 
-### How to comply with Microsoft’s updated MCA policy?
+### Complying with Microsoft’s updated MCA policy
 
-To comply with this Microsoft policy, the Marketplace Platform will automatically process MCA acceptance when the order is placed. The method depends on the tenant type and the individual placing the order.
+To comply with this Microsoft policy, the Marketplace Platform automatically processes MCA acceptance when the order is placed. The method depends on the tenant type and the individual placing the order.
 
 **For Self-Consumption Tenants**
 
@@ -24,9 +24,9 @@ To comply with this Microsoft policy, the Marketplace Platform will automaticall
 
 Orders requiring MCA acceptance remain in the **Querying** status until the latest version of the MCA has been accepted.
 
-### How to accept the revised MCA?
+### Accepting the revised MCA
 
-**To accept the revised MCA**
+To accept the revised MCA:
 
 1. Sign in to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) using your Global Administrator credentials.
 2. Review and accept the updated MCA.

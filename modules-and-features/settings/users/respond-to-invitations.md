@@ -1,6 +1,6 @@
 # Respond to Invitations
 
-When you've been invited to the Marketplace Platform by the SoftwareOne Operations team or your account administrator, you'll receive an invitation to join the account.&#x20;
+When you are invited to the Marketplace Platform by the SoftwareOne Operations team or your account administrator, you'll receive an invitation to join the account.&#x20;
 
 ## Accepting the invitation
 
@@ -28,7 +28,7 @@ If single sign-on (SSO) is configured, you'll be automatically redirected to you
 
 4. Sign in to your account using your email address and password.&#x20;
 
-After signing in, you are redirected to the **Home** page, from where you can access platform modules and perform different operations depending on your group membership. To familiarize yourself with the platform navigation, see [Platform interface](../../../marketplace-platform/getting-started/interface/).
+After signing in, you are redirected to the **Home** page, from where you can access platform modules and perform different operations depending on your group membership. To familiarize yourself with the platform navigation, see [Platform interface](../../../marketplace-platform/platform-overview/interface/).
 
 {% hint style="info" %}
 **Invite link not working?**

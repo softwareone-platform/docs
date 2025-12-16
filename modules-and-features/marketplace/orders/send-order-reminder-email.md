@@ -24,4 +24,4 @@ To send an order reminder email:
 
 ## Next steps
 
-The individual will receive an email with a link to the order. After selecting the link, they can review the order and complete the ordering process.&#x20;
+When you select **Send**, the individual receives an email with a link to the order. After selecting the link, they can review the order and complete the ordering process.&#x20;

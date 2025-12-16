@@ -5,7 +5,7 @@ If you want to update your account information, like the account name, company d
 {% hint style="info" %}
 **Need to update your profile or personal settings?**
 
-See [Manage your profile](../../../marketplace-platform/getting-started/interface/manage-profile.md) to learn about updating your profile picture, profile name, preferred language, and more.
+See [Manage your profile](../../../marketplace-platform/platform-overview/preferences-and-settings/manage-profile.md) to learn about updating your profile picture, profile name, preferred language, and more.
 {% endhint %}
 
 ## Updating your account details
@@ -15,7 +15,7 @@ To update your account details:
 1. Navigate to the **Account** page.
 2. Select **Edit** to start the **Edit account** wizard.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>The Account page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>The Account page showing your account information.</p></figcaption></figure></div>
 
 3. Change the **General** settings as necessary:
    * **Logo** - Update the logo for your account. You can upload an image by selecting **Select file** or by dragging the image into the field.

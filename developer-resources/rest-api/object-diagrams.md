@@ -1,6 +1,6 @@
 # Object Diagrams
 
-The Marketplace Platform enables transactions among [different actors](../../marketplace-platform/getting-started/key-concepts.md#actors), such as clients, partners, and vendors, in countries where SoftwareOne operates.&#x20;
+The Marketplace Platform enables transactions among [different actors](../../marketplace-platform/platform-overview/key-concepts.md#actors), such as clients, partners, and vendors, in countries where SoftwareOne operates.&#x20;
 
 The platform includes objects such as orders, subscriptions, and agreements, which represent a relationship between these actors and SoftwareOne. Each object contains workflows that are essential for different scenarios within the platform. These workflows are presented as state diagrams so you can understand and visualize them.&#x20;
 

@@ -38,6 +38,6 @@ To start the process:
 
 ## Next steps <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
-Once the order has been placed, we'll verify the order details and create your new subscription.&#x20;
+Once you have placed your order, we verify the order details and create your new subscription.&#x20;
 
-If there are any issues with your order, check the **General** tab on the [order details](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details) page. It will describe the problem and outline the steps you need to follow for us to process your order.
+If there are any issues with your order, check the **General** tab on the [order details](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details) page. This page describes the problem and outlines the steps you must follow for us to process your order.

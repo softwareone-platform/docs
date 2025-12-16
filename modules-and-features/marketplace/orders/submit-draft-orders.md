@@ -2,7 +2,7 @@
 
 If you [saved an order for later](save-order-as-a-draft.md) and want to submit it for processing, you can do this through the **Orders** page in the platform.
 
-After you have submitted the order, it will no longer appear as a saved order with a draft or quoted status.
+After you have submitted the order, it no longer appears as a saved order with a draft or quoted status.
 
 ## Submitting a saved order for processing
 
@@ -16,12 +16,12 @@ To submit a saved order for processing:
       2. In the second field, set the filter to **Equal**.
       3. In the third field, select **Draft** and then close the filter box.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/OrderFilters.png" alt=""><figcaption><p>The filter options in the table.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/OrderFilters.png" alt=""><figcaption><p>Various filter options in the table.</p></figcaption></figure></div>
 
 3. Select the link for the order in the **Order** column.
 4. On the order details page, select **Edit** to start the purchase process.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_details_page.png" alt=""><figcaption><p>The Edit option on the details page of an order.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_details_page.png" alt=""><figcaption><p>The Edit option on the order details page.</p></figcaption></figure></div>
 
 5. Complete the following steps:
    1. **Select items** - Do one of the following:

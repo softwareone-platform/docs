@@ -1,26 +1,26 @@
-# How to Change License Quantity
+# How to Change the Number of Licenses
 
-The Marketplace Platform gives you the flexibility to upsize or downsize your licenses at any time.&#x20;
+The Marketplace Platform allows you to easily manage your licenses.&#x20;
 
-If you need more licenses, you can alter the subscription to add additional licenses. You can also lower the number of licenses if you no longer require all of your ordered licenses.
+If you need more licenses, you can alter the subscription to add additional licenses. You can also reduce the number of licenses if you no longer require them. When reducing licenses, the following rules apply:&#x20;
 
-When reducing the number of licenses, the following rules apply:&#x20;
-
-* If your subscription contains only one item, you can't lower its quantity to zero. In this case, you must terminate the subscription.&#x20;
+* If your subscription contains only one item, you can't reduce its quantity to zero. In this case, you must terminate the subscription.&#x20;
 * If your subscription contains multiple items, at least one item must have a quantity greater than zero. You can't change the quantity of all items to zero.
 
-## Adding or removing licenses
+### Changing the number of licenses
 
-To add or remove licenses from a subscription:
+To change the number of licenses:
 
-1. Navigate to the **Subscriptions** page.
-2. Select the required subscription.
-3. On the subscription details page, select **Edit**.
-4. In the **Edit subscription** wizard, complete the following steps:&#x20;
-   1. **Items** - Update the quantity in the **New qty** field. You'll notice that the sales price of the subscription changes as you adjust the quantity. When done, select **Next**.
-   2. **Details** - Add or update the reference ID and your comments. Then, select **Next**.
-   3. **Review** - Check the details and select **Place Order**.
+1. Navigate to the **Subscriptions** page, then select the required subscription.
+2. On the subscription details page, select **Edit**.
+3. In the **Edit subscription** wizard, complete the following steps:&#x20;
+   1.  **Items** - Increase or reduce the quantity in the **New qty** field. You'll notice that the sales price of the subscription changes as you adjust the quantity. When done, select **Next**.&#x20;
 
-A change order is created in the system and sent to the vendor for processing. The new change order is also displayed in your list of orders on the **Orders** page.&#x20;
+       <figure><img src="../../../.gitbook/assets/edit_subscription.png" alt=""><figcaption></figcaption></figure>
+   2. **Details** - Provide additional details as necessary. Select **Next**.
+   3. **Review** - Verify the order details and select **Place order** to submit your order.
+   4. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
+
+A change order is created and sent to the vendor for processing. The new order is also displayed in your list of orders on the **Orders** page.&#x20;
 
 When the change order is being processed, the status of the subscription and the agreement change to **Updating**. This indicates that the agreement is temporarily locked, and no further orders can be placed under this agreement until the change order is completed.

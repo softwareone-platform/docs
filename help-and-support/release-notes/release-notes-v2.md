@@ -19,9 +19,9 @@ We’ve redefined account management to offer new user and group management poss
 Here are some additional highlights:&#x20;
 
 * **Invite new members** - Account administrators can invite new members to join the account on the Marketplace Platform. New members can be invited by email or by copying the invitation link from the interface and sharing it directly with the individual. Once invited, the individual must click the link to accept the invitation and set up their platform account. To learn more, see [Add new users](../../modules-and-features/settings/users/add-new-users.md) and [Respond to invitations](../../modules-and-features/settings/users/respond-to-invitations.md).
-* **Switch accounts** - The Marketplace Platform allows individuals to be a part of multiple accounts and switch between those accounts seamlessly, without signing out of the platform. To learn more, see [Switch accounts](../../marketplace-platform/getting-started/interface/switch-account.md).&#x20;
+* **Switch accounts** - The Marketplace Platform allows individuals to be a part of multiple accounts and switch between those accounts seamlessly, without signing out of the platform. To learn more, see [Switch accounts](../../marketplace-platform/platform-overview/preferences-and-settings/switch-account.md).&#x20;
 * **Manage users and permissions** - Account administrators can manage users and their permissions through the platform. However, permissions must be assigned at the group level, rather than the individual user level. Group-level permissions can be assigned by creating groups and then granting permissions that apply to all users in that group. To learn more, see [Groups](../../modules-and-features/settings/groups/) and [Users](../../modules-and-features/settings/users/).
-* **Manage profile** - You can update your personal account settings (user details, display preferences, and communication settings) and change your password through the **My Profile** option in your user profile menu. To learn more, see [Manage your profile](../../marketplace-platform/getting-started/interface/manage-profile.md).
+* **Manage profile** - You can update your personal account settings (user details, display preferences, and communication settings) and change your password through the **My Profile** option in your user profile menu. To learn more, see [Manage your profile](../../marketplace-platform/platform-overview/preferences-and-settings/manage-profile.md).
 
 ## Orders Management
 
@@ -70,7 +70,7 @@ Here's a summary of the changes:
 To provide a unified experience, we've implemented consistent styling and framework across the new modules and platform features:
 
 * Where applicable, data grids have been used to display the different types of data, and advanced filtering and sorting options are implemented so you can control the table display. We’ve also introduced a view selector to switch between different preconfigured view options.
-* We’ve removed the footer, containing links to the knowledge resources and language selector. Now, you can access all resources using the question mark icon in the header and change your display language from the **Sign-in** page of the platform or through the [My Profile](../../marketplace-platform/getting-started/interface/manage-profile.md) option.
+* We’ve removed the footer, containing links to the knowledge resources and language selector. Now, you can access all resources using the question mark icon in the header and change your display language from the **Sign-in** page of the platform or through the [My Profile](../../marketplace-platform/platform-overview/preferences-and-settings/manage-profile.md) option.
 
 ## APIs for Integration
 

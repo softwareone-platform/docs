@@ -1,10 +1,10 @@
-# How to Filter Your Orders
+# How to View and Filter Orders
 
 The Marketplace Platform supports various types of orders, including change, purchase, configuration, and termination orders. All orders are displayed on the **Orders** page.&#x20;
 
 If you need to find a specific order, you can use the filter option to search for it. There are several filter options to help you narrow down the list. You can apply a single filter or create a combination of filters by selecting different fields, operators, and values. This topic describes how to use these filters.
 
-## Using filters to find an order <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
+## Viewing and filtering orders <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
 
 To find an order using a filter, such as status:
 

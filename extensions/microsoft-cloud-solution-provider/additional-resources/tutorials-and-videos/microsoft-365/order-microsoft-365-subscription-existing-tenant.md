@@ -39,11 +39,11 @@ To start the process:
 
 1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
-3. **Create agreement** - Select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**. Note that if you choose this option, the global administrator of your Microsoft account will need to accept the relationship request.
+3. **Create agreement** - Select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**. Note that if you choose this option, the global administrator of your Microsoft account must accept the relationship request.
 4. **Microsoft details** - Enter the details for your Microsoft account:
    1. Enter the name of your existing tenant.
-   2. Fill out the contact form. You'll need to provide the first and last name, email address, and phone number of the person who will manage your account.&#x20;
-   3. Select **Next**. The platform will validate your Microsoft tenant details. If no tenant is found, a message is displayed. You'll need to fix the error to proceed.
+   2. Fill out the contact form. You'll need to provide the first and last name, email address, and phone number of the person who manages your account.&#x20;
+   3. Select **Next**. The platform validates your Microsoft tenant details. If no tenant is found, a message is displayed. You'll need to fix the error to proceed.
 5. **Special qualifications** - Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
 6. **Support contacts** - Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
 7. **Items** - Do the following:
@@ -53,10 +53,10 @@ To start the process:
    4. Select **Next**.
 8. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 9. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.
-10. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+10. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ## Next steps
 
-Once you have placed your order, we'll verify the order details, including the Microsoft tenant ID, and create your new subscription under your existing tenant. If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page will provide information about the problem and any actions you may need to take.
+Once you have placed your order, we verify the order details, including the Microsoft tenant ID, and create your new subscription under your existing tenant. If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page provides information about the problem and any actions you may need to take.

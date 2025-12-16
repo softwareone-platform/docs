@@ -1,14 +1,15 @@
 # Rename Certificate
 
-If you have multiple certificates for the same vendor program, you can choose different names for those certificates so you can easily identify them in your list of certificates.&#x20;
+If you have multiple certificates for the same vendor program, you can choose different names for those certificates so you can easily identify them in your list of certificates. Certificates can be renamed regardless of their state, including if they are expired or terminated.
 
-Certificates can be renamed regardless of their state. It means you can rename expired and terminated certificates as well.&#x20;
+There are two ways to rename a certificate:
 
-There are two ways to rename a certificate. You can do this from the Certificate Details page or the Program Details page.&#x20;
+* From the **Certificate Details** page.
+* From the **Program Details** page.&#x20;
 
 ## Renaming a certificate
 
-To rename the certificate from the Certificate Details page:
+To rename a certificate from the Certificate Details page:
 
 1. Navigate to the **Certificates** page.
 2. Select the certificate you want to rename.
@@ -16,7 +17,7 @@ To rename the certificate from the Certificate Details page:
 4. In the **Rename** dialog, enter the new name. We recommend providing a unique name so you can identify it easily.
 5. Select **Save**.
 
-To rename the certificate from the Program Details page:
+To rename a certificate from the Program Details page:
 
 1. Navigate to the **Programs** page.
 2. Select the program related to the certificate you want to rename.

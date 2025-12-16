@@ -10,7 +10,7 @@ After you've set up split billing, you can add new buyers and remove existing bu
 
 When removing buyers, only those without an allocation percentage can be removed. This means you'll need to assign the allocation percentage to another buyer before removing them from split billing.&#x20;
 
-If an allocation exists for the buyers you wish to remove, the buyer checkbox will be unavailable, as shown in the following image:
+If an allocation exists for the buyers you wish to remove, the buyer checkbox is unavailable, as shown in the following image:
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Remove.png" alt=""><figcaption><p>List of split billing buyers</p></figcaption></figure></div>
 
@@ -30,5 +30,4 @@ Follow these steps to edit the allocation percentage for a buyer:
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/edit_split_billing.png" alt=""><figcaption><p>Edit split billing dialog</p></figcaption></figure></div>
 
-4. **Save** your changes. The **Split billing** tab will display the updated allocation details. Note that the changes will only take effect in your next billing cycle.&#x20;
-
+4. **Save** your changes. The **Split billing** tab displays the updated allocation details. Note that the changes only take effect in your next billing cycle.&#x20;

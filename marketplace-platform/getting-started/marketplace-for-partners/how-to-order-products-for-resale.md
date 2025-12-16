@@ -13,7 +13,7 @@ Before starting this tutorial, make sure you have the following:
 
 * A resale licensee in the active state, or permission to [create a new licensee](how-to-configure-licensees-for-resale.md) if you don't want to use the existing one. Licensee selection is required when setting up a new agreement.&#x20;
 * Company details of your client, like the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
-* The contact details of your client who will manage the Microsoft account.&#x20;
+* The contact details of your client managing the Microsoft account.&#x20;
 
 ## Ordering products for resale
 
@@ -62,4 +62,4 @@ To start the process:
 
 When your order has been placed, we verify the order details.
 
-If there are issues with your order, the **General** tab on the[ order details page](../../../modules-and-features/marketplace/orders/#order-details) will provide information about the problem and the actions you must take before your order can be processed.
+If there are issues with your order, the **General** tab on the[ order details page](../../../modules-and-features/marketplace/orders/#order-details) provides information about the problem and the actions you must take before your order can be processed.

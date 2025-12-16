@@ -2,7 +2,7 @@
 
 Configuring recipients for your notifications is necessary so you can start receiving timely updates about various events in your account.&#x20;
 
-Account administrators can define recipients for each [notification category](./#notification_types). Recipients include specific users as well as a group of users who will be informed when a certain event is triggered. For example, if subscription-related notifications are enabled, recipients will receive an email alert when a specific subscription is updated.&#x20;
+Account administrators can define recipients for each [notification category](./#notification_types). Recipients include specific users as well as a group of users who are informed when a certain event is triggered. For example, if subscription-related notifications are enabled, recipients receive an email alert when a specific subscription is updated.&#x20;
 
 Administrators can also manage recipients for an email message by adding new ones or removing existing ones.
 

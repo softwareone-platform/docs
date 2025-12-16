@@ -13,7 +13,7 @@ To save a purchase order for later:
 3. Complete all the steps until you reach the **Details** step.
 4. In the **Details** step, enter details as necessary, then select **Save order**. The order is saved for later.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>The Save Order option when creating a purchase order.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>The Save Order option in the Details step.</p></figcaption></figure></div>
 
 ## Saving a change order
 
@@ -26,7 +26,7 @@ To save a change order for later:
 3. In the **Items** step, adjust the quantity as needed and select **Next**.
 4. In the **Details** step, enter details as necessary, then select **Save order**. The order is saved for later.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EditSubsReduceQty (2).png" alt=""><figcaption><p>The Save Order option when placing a change order.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EditSubsReduceQty (2).png" alt=""><figcaption><p>The Save Order option when submitting a change order.</p></figcaption></figure></div>
 
 ## Next steps
 

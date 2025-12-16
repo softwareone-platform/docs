@@ -6,11 +6,11 @@ Perpetual licenses involve a one-time payment. You pay upfront for these license
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
-Before starting this tutorial, make sure you are familiar with [key concepts](../../../../../marketplace-platform/getting-started/key-concepts.md). You will also need:
+Before starting this tutorial, make sure you are familiar with [key concepts](../../../../../marketplace-platform/platform-overview/key-concepts.md). You will also need:
 
 * A licensee in the **active** state. Licensees are required to set up a new agreement.&#x20;
 * Your company details, like the company name, registration ID, and address. These details are required when setting up a new Microsoft tenant.
-* The contact details of the person who will manage your Microsoft account.
+* The contact details of the person who manages your Microsoft account.
 
 ## Buying Perpetual software licenses <a href="#implementation" id="implementation"></a>
 
@@ -54,8 +54,8 @@ To start the process:
 
 ## Next steps <a href="#next-steps" id="next-steps"></a>
 
-Once the order has been placed, we'll verify the order details, including the Microsoft tenant ID.&#x20;
+Once you have placed your order, we verify the order details, including the Microsoft tenant ID, and create your new subscription.&#x20;
 
-If there are any issues with your order, check the **General** tab on the [order details](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details) page. It will describe the problem and outline the steps you need to follow for us to process your order.
+If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page provides information about the problem and any actions you may need to take.
 
 When your order is complete and your license has been set up, you can download your license keys from the [Microsoft admin portal](https://admin.microsoft.com/). For download instructions, see [Download software and product license keys](https://learn.microsoft.com/en-us/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide#download-software-and-product-license-keys) in Microsoft 365 documentation.

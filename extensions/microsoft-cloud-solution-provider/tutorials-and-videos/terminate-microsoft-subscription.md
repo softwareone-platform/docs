@@ -10,7 +10,7 @@ Before starting this tutorial, make sure that the subscription you want to termi
 
 {% stepper %}
 {% step %}
-{% include "../../../../../.gitbook/includes/start-the-subscription-term....md" %}
+{% include "../../../.gitbook/includes/start-the-subscription-term....md" %}
 
 To start the process:
 
@@ -20,7 +20,7 @@ To start the process:
 {% endstep %}
 
 {% step %}
-{% include "../../../../../.gitbook/includes/complete-these-steps-to-ter....md" %}
+{% include "../../../.gitbook/includes/complete-these-steps-to-ter....md" %}
 
 In the **Terminate Subscription** wizard, complete the following steps:
 
@@ -33,6 +33,6 @@ In the **Terminate Subscription** wizard, complete the following steps:
 
 ## Next steps <a href="#next-steps" id="next-steps"></a>
 
-When your order is being processed, the subscription and the agreement will be displayed as **Updating**. You won't be able to place any additional orders under this agreement.&#x20;
+When your order is being processed, the subscription and the agreement are shown as **Updating**. You cannot place any additional orders under this agreement.&#x20;
 
-Once the termination order has been processed, the status of the subscription will change to **Terminated**.
+Once the termination order has been processed, the status of the subscription changes to **Terminated**.

@@ -40,6 +40,6 @@ In the **Terminate Agreement** wizard, complete the following steps:
 
 A termination order is created for the agreement and submitted to the vendor for processing.&#x20;
 
-After you place the order, the agreement status changes from **Active** to **Updating**. You will not be able to place any additional orders under this agreement.&#x20;
+Additionally, the agreement status changes from **Active** to **Updating**, and you cannot place any additional orders under this agreement.&#x20;
 
-Once the termination order is processed, the status of the agreement and all subscriptions within the agreement change to a **Terminated** state.
+Once the termination order is processed, the status of the agreement and all subscriptions within the agreement change to **Terminated**.

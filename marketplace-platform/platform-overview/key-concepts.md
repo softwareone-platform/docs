@@ -1,9 +1,11 @@
-# Key Concepts
+# Concepts
 
-Certain concepts and terms are central to the functionality and design of the Marketplace Platform. We recommend that you understand the terminology because it's often referred to in our platform and documentation. Understanding the terminology will make it easier for you to interact with the platform and maximize its use.&#x20;
+Certain concepts and terms are central to the functionality and design of the Marketplace Platform.&#x20;
+
+We recommend that you understand the terminology because it's often referred to in our platform and documentation. This makes it easier for you to interact with the platform and maximize its use.&#x20;
 
 {% hint style="info" %}
-You can watch our [Getting Started Video Guide ](https://youtu.be/LrMOMN8sjM4)on YouTube to understand the concepts listed on this page. The video also describes what makes our platform unique for your enterprise software procurement.&#x20;
+You can also watch our [Getting Started Video Guide ](https://youtu.be/LrMOMN8sjM4)on YouTube to understand the concepts listed on this page. The guide also outlines what makes our platform unique for your enterprise software procurement.&#x20;
 {% endhint %}
 
 ## Actors
@@ -14,7 +16,7 @@ Actors represent different entities that interact with the platform for procurem
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>The key actors in the Marketplace Platform.</p></figcaption></figure></div>
 
-The following are the key actors in our platform:
+The following are the key actors using our platform:
 
 **Vendors** - A vendor is a company or person from whom SoftwareOne buys software solutions. Vendors develop and sell their products and services. Examples include Microsoft, Dropbox, and more.
 
@@ -28,21 +30,21 @@ The following are the key actors in our platform:
 
 **Developers and system integrators** - Developers and system integrators represent entities involved in building integrations within the business network.
 
-## Users, Accounts, and Groups <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
+## Users, Accounts, and Groups  <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-**Users** - Users represent individuals or persons who can sign in to the platform using their credentials and perform all operations associated with their permissions. To learn more, see [Users](../../modules-and-features/settings/users/).
+**Users** - Users represent individuals or persons who can sign in to the platform using their credentials and perform operations associated with their permissions. Users include individual users as well as account administrators responsible for managing account-wide configuration and properties.&#x20;
 
-**Account** - An account is an object that represents a company or an organization utilizing the Marketplace Platform. Three types of accounts exist in the platform: Client account, Vendor account, and Operations account.&#x20;
+**Account** - An account represents a company or an organization that's using the Marketplace Platform. Three types of accounts exist in our platform, including:&#x20;
 
-* **Client account** - A client account is used by our clients and partners to establish agreements and procure software solutions for their enterprises.
-* **Vendor account** - A vendor account is used by vendors to define the product structure and make those products available for ordering through the marketplace.&#x20;
-* **Operations account** - An operations account is used by SoftwareOne associates.
+* **Client account** - Represents an account used by our clients and partners to establish agreements and procure software solutions for their enterprises.
+* **Vendor account** - Represents an account used by vendors to define the product structure and configuration, and make those products available for ordering through the Marketplace.&#x20;
+* **Operations account** - Represents an account used by SoftwareOne associates.
 
 In the Marketplace Platform, an account can contain one or multiple users:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>An account showing multiple users.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>An account containing multiple users.</p></figcaption></figure></div>
 
-Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](interface/switch-account.md) without signing out of the platform.&#x20;
+Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](preferences-and-settings/switch-account.md) without signing out of the platform.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users_multiple_accounts.png" alt=""><figcaption><p>A user belonging to multiple accounts.</p></figcaption></figure></div>
 
@@ -56,21 +58,21 @@ Users can also be a part of multiple groups, much like users can belong to multi
 
 **Seller** - A seller is a SoftwareOne entity (for example, SoftwareOne Canada) that buys software solutions from vendors (like Microsoft) and sells those solutions to clients.&#x20;
 
-Sellers are responsible for generating issues and issuing them to the buyer entities of clients. They act as an intermediary in the transaction process.
+Sellers are responsible for generating invoices and issuing them to the buyer entities of clients. They act as an intermediary in the transaction process.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Sellers within the Marketplace Platform.</p></figcaption></figure></div>
 
-**Buyers** - Buyers represent an entity that engages in commercial activities with the SoftwareOne reselling entity (known as Sellers).&#x20;
+**Buyers** - Buyers represent an entity that engages in commercial activities with the SoftwareOne reselling entity, known as Sellers.&#x20;
 
-Buyers are the recipients of invoices issued by SoftwareOne, and they are essential for creating orders, agreements, and subscriptions. For details on how to manage buyers, see [Buyers](../../modules-and-features/settings/buyers/).
+Buyers are the recipients of invoices issued by SoftwareOne, and they are essential for creating orders, agreements, and subscriptions.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1093).png" alt=""><figcaption><p>Buyers within the Marketplace Platform.</p></figcaption></figure></div>
 
 **Licensees** - Licensees are the entities that consume the software products or services procured by the buyer. Licensees are critical in establishing agreements alongside buyers and sellers.&#x20;
 
-Client account users can view licensees and manage them through the platform. To learn more, see [Licensees](../../modules-and-features/settings/licensees/).
+Client account users can view licensees and manage them through the platform.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Licensees within the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Licensees in the Marketplace Platform.</p></figcaption></figure></div>
 
 ## Agreements&#x20;
 
@@ -80,13 +82,11 @@ An agreement is an object outlining the relationship between the seller, buyer, 
 
 They also establish the terms and conditions under which transactions occur. Without an agreement, orders cannot be placed through the marketplace.&#x20;
 
-For more details on agreements and how to manage them, see [Agreements](../../modules-and-features/marketplace/agreements/).
-
 ## Orders and Subscriptions
 
 **Orders** - An order is an object that signifies a business transaction under the framework of an established agreement.&#x20;
 
-The Marketplace Platform supports various types of orders to support different scenarios and the requirements of our clients and partners. The following order types exist in the platform:
+The Marketplace Platform supports various types of orders to support different scenarios and the requirements of our clients and partners, including:
 
 * **Purchase order** - Purchase orders are created when you buy a new product or service by creating a new Marketplace agreement.&#x20;
 * **Change order** - Change orders are created when you modify your agreement or change the subscription quantity, such as downsizing the license quantity or buying additional resources.

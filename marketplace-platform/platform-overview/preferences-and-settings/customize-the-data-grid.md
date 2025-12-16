@@ -8,7 +8,7 @@ You can sort and filter data, show or hide columns, adjust the column width, cha
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/DataGrid (2).png" alt=""><figcaption><p>The data grid on the Orders page.</p></figcaption></figure></div>
 
-## Sorting data
+### Sorting data
 
 Sorting enables you to reorganize your data in ascending or descending order so you can understand and visualize it better. There are two ways to use the sort function in the grid.
 
@@ -24,11 +24,11 @@ If you want to apply multiple sorts, select<img src="data:image/png;base64,iVBOR
 
 1. In the **Sort** box, select **Add another sort**.&#x20;
 2. Choose the required property and select the display order (**Ascending** or **Descending**). To add another sorting rule, select **Add another sort**. You can add multiple rules.
-3. Select **Close**. All columns that have sort conditions applied will be highlighted in the grid.
+3. Select **Close**. All columns that have sort conditions applied are highlighted in the table.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/data_grid_sort.png" alt=""><figcaption><p>Options to sort multiple columns.</p></figcaption></figure></div>
 
-## Filtering data
+### Filtering data
 
 Filters help you narrow down data based on specific attributes. Depending on the type of data you are searching for, you can use a single filter or create multiple filters using different conditions and AND/OR operators.&#x20;
 
@@ -51,7 +51,7 @@ To create filters:
 
 As you define filters, the data in the grid refreshes automatically. If the platform doesn't find any data matching the filters, it displays a message.&#x20;
 
-## Managing columns
+### Managing columns
 
 **Show or hide columns**
 
@@ -69,13 +69,13 @@ The **Columns** selector also contains options to adjust the column width. These
 * **Fit to content** - This option resizes each column in the table to fit its specific content. It means that the width is adjusted to the content within the column.
 * **Fit to screen** - This option resizes each column to make the entire table fit your screen.
 
-## Refreshing data
+### Refreshing data
 
 If the data in the grid has changed, you can refresh the data to make sure you are working with the latest data at all times. Use the <img src="../../../.gitbook/assets/refresh_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M121-280v-400q0-33 23.5-56.5T201-760h559q33 0 56.5 23.5T840-680v400q0 33-23.5 56.5T760-200H201q-33 0-56.5-23.5T121-280Zm79 0h133v-400H200v400Zm213 0h133v-400H413v400Zm213 0h133v-400H626v400Z&#x22;/></svg>" data-size="line">**Refresh** option to fetch the latest data from the system.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Refresh.png" alt=""><figcaption><p>The Refresh option in the table.</p></figcaption></figure></div>
 
-## Changing default rows per page
+### Changing default rows per page
 
 By default, the Marketplace Platform displays 10 rows of data on a page.&#x20;
 
@@ -83,7 +83,7 @@ You can change the default value by selecting another value from the **Rows per 
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rows.png" alt=""><figcaption><p>The Rows selector in the table.</p></figcaption></figure></div>
 
-## Navigating between pages
+### Navigating between pages
 
 If the grid contains several rows, the rows are split into pages, and page numbers are displayed on the lower-left side of the table.
 

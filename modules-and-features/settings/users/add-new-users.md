@@ -2,7 +2,7 @@
 
 Account administrators can invite new users to the account from the **Users** page.
 
-When you add a user, an invitation email containing a unique link is sent to the individual. To join the account, the individual must accept the invitation and complete the registration process within 7 days. Otherwise, the invitation will expire and must be resent.
+When you add a user, an invitation email containing a unique link is sent to the individual. To join the account, the individual must accept the invitation and complete the registration process within 7 days. Otherwise, the invitation expires and must be resent.
 
 ## Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
 
@@ -18,7 +18,7 @@ To add a new user:
 
 1. Navigate to the **Users** page. Then, select **Add** to start the **Add user** wizard.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (910).png" alt=""><figcaption><p>The Add User wizard in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Invite a user to your account</p></figcaption></figure></div>
 
 2. In the **User details** step, enter the following details and select **Next**:
    1. **First name** - (Required) The first name of the individual associated with the account.

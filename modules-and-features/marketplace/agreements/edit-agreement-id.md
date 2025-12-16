@@ -12,10 +12,12 @@ To update the **Additional Client ID** field:
 2. Select the link for the agreement in the **Agreement** column.&#x20;
 3. On the agreement details page, select the **Details** tab. Then, select **Edit**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (946).png" alt=""><figcaption><p>The Edit option within the Details tab of an agreement.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (946).png" alt=""><figcaption><p>Use the Edit option on the Details tab to update the additional client ID. </p></figcaption></figure></div>
 
-4. In the **Edit ID** dialog, enter the new client ID and select **Save**.&#x20;
+4. In the **Edit ID** dialog, enter the new client ID, then select **Save**.&#x20;
 
-The updated ID is displayed as a **Client ID** within the **Additional IDs** section on the page. This same ID is also displayed on your invoice as the **PO number**.&#x20;
+The updated ID is displayed as a **Client ID** under **Additional IDs**. This same ID is also displayed on your invoice as the **PO number**.&#x20;
 
-Note that if the value you enter exceeds 20 characters, only the first 16 characters are shown on the invoice, followed by 3 dots (...). For more information, see [Understand Your Billing Documents.](../../billing/understand-your-billing-documents/)
+{% hint style="info" %}
+If the value exceeds 20 characters, only the first 16 characters are shown on the invoice, followed by 3 dots (...). For more information, see [Understand Your Billing Documents.](../../billing/understand-your-billing-documents/)
+{% endhint %}

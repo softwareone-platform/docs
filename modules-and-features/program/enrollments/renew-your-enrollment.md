@@ -11,7 +11,7 @@ To renew your program enrollment:
 1. Navigate to the **Certificates** page.
 2. Select the certificate you want to renew.
 3. On the certificate's details page, select **Re-enroll** to start the **Re-enroll** **certificate** wizard.
-4. Do the following:
+4. Complete the following steps:
    1. Review the pages in the wizard and update the details as necessary.
    2. On the **Overview** page, select **Request** to submit your enrollment request to the vendor. This submission indicates that you have provided the necessary information as per the program's criteria.
 

@@ -14,7 +14,7 @@ Before starting this tutorial, make sure you have the following:
 
 * A licensee in the **active** state or permission to [create a new licensee](../../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
 * Your details, such as company name, registration ID, and address. You'll need to provide this information when creating the new Microsoft tenant.
-* Contact details of the person who will manage your account.&#x20;
+* Contact details of the person who manages your account.&#x20;
 
 ## Ordering an Azure subscription for a new tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
@@ -56,6 +56,6 @@ To start the process:
 
 ## Next steps
 
-Once the order has been placed, we'll verify the order details and create your new subscription.&#x20;
+Once you have placed your order, we verify the order details and create your new subscription.&#x20;
 
-If there are any issues with your order, check the **General** tab on the [order details](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details) page. It will describe the problem and outline the steps you need to follow for us to process your order.
+If there are any issues with your order, check the **General** tab on the [order details](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details) page. This page describes the problem and outlines the steps you must follow for us to process your order.
