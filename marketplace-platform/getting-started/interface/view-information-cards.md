@@ -1,4 +1,4 @@
-# View Information Cards
+# Information Cards
 
 Information cards are small, interactive cards that display the key properties of an object within the platform.&#x20;
 

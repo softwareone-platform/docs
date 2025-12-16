@@ -84,7 +84,7 @@ You can subscribe to email alerts or opt out of notification categories from you
 4. Save your changes.
 
 {% hint style="success" %}
-You can also update your preferences using the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to your account. For more details, see [Manage Notification Preferences](../platform-overview/preferences-and-settings/manage-notification-preferences.md).
+You can also update your preferences using the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to your account. For more details, see [Manage Notification Preferences](interface/manage-notification-preferences.md).
 {% endhint %}
 
 </details>
@@ -139,7 +139,7 @@ There are two primary ways of finding products in the Marketplace.
 
 **To find products**
 
-* Use the [global search bar](../platform-overview/interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform will display results that match your search term.
+* Use the [global search bar](interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform will display results that match your search term.
 * [Visit the Products page](../../modules-and-features/catalog/products.md).
 
 </details>

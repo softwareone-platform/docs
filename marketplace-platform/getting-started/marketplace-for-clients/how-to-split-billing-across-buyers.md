@@ -8,7 +8,7 @@ In this tutorial, an agreement named _Adobe VIP Marketplace for Stark Industries
 
 ## Prerequisites
 
-Before getting started with the tutorial, it's essential to have an understanding of the platform's [key concepts](../../platform-overview/key-concepts.md). You must also be familiar with the platform's interface and know how to navigate it.
+Before getting started with the tutorial, it's essential to have an understanding of the platform's [key concepts](../key-concepts.md). You must also be familiar with the platform's interface and know how to navigate it.
 
 ## Splitting the billing across buyers
 

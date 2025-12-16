@@ -21,5 +21,5 @@ Use the following links to learn about these options and how to use them:
 {% hint style="info" %}
 **Need to update your profile or personal settings?**
 
-See [Manage your profile](../../platform-overview/preferences-and-settings/manage-profile.md) to learn about updating your profile picture, profile name, preferred language, and more.
+See [Manage your profile](../interface/manage-profile.md) to learn about updating your profile picture, profile name, preferred language, and more.
 {% endhint %}

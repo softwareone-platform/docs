@@ -2,7 +2,7 @@
 
 In the Marketplace Platform, a licensee is a specific person or a department within your account that receives the license to use the product.&#x20;
 
-Licensees are connected to the buyers and sellers in your account. There can be multiple licensees in an account, but each licensee can only be linked to one buyer and one seller. To learn more, see [Key Concepts](../../../marketplace-platform/platform-overview/key-concepts.md).
+Licensees are connected to the buyers and sellers in your account. There can be multiple licensees in an account, but each licensee can only be linked to one buyer and one seller. To learn more, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
 
 Account administrators can view and manage licensees on the **Licensees** page in the platform.&#x20;
 

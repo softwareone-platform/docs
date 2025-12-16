@@ -2,7 +2,9 @@
 
 The **Settings** module enables account administrators to manage various aspects of the account, including notifications and entities such as buyers, licensees, and sellers.&#x20;
 
-It also allows administrators to secure account access by overseeing users, groups, and API tokens. To get started, see the following links:
+It also allows administrators to secure account access by overseeing users, groups, and API tokens.&#x20;
+
+### Topics in this section
 
 **General Settings**
 

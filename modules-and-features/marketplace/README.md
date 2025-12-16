@@ -4,7 +4,7 @@ The Marketplace is your entry point for accessing and managing your organization
 
 It provides access to several key features, including agreements, entitlements, orders, subscriptions, and more.&#x20;
 
-To get started, see the following links:
+### Topics in this section
 
 {% content-ref url="agreements/" %}
 [agreements](agreements/)

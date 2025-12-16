@@ -14,7 +14,7 @@ Administrators can stop unwanted notifications by disabling the category. This i
 ## Disabling a notification category
 
 {% hint style="info" %}
-The steps in this section are for account administrators to manage categories at the account level. To manage notifications for your individual profile, see [Manage Notification Preferences](../../../marketplace-platform/platform-overview/preferences-and-settings/manage-notification-preferences.md).
+The steps in this section are for account administrators to manage categories at the account level. To manage notifications for your individual profile, see [Manage Notification Preferences](../../../marketplace-platform/getting-started/interface/manage-notification-preferences.md).
 {% endhint %}
 
 To disable a notification category:

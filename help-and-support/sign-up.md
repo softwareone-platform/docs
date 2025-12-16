@@ -6,4 +6,4 @@ If your organization does not yet use the platform, [contact us](https://www.sof
 
 After you get access, go to [https://portal.platform.softwareone.com](https://portal.platform.softwareone.com) and enter your sign-in credentials.&#x20;
 
-To familiarize yourself with the platform, see [Platform Interface](../marketplace-platform/platform-overview/interface/). For an overview of key concepts and guidance on how to begin using the platform, see the [Getting Started](../marketplace-platform/getting-started/) section.&#x20;
+To familiarize yourself with the platform, see [Platform Interface](../marketplace-platform/getting-started/interface/). For an overview of key concepts and guidance on how to begin using the platform, see the [Getting Started](../marketplace-platform/getting-started/) section.&#x20;

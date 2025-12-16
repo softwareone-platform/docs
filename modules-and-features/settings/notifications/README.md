@@ -4,7 +4,7 @@ Notifications Management allows account administrators to configure recipients a
 
 Notifications are email alerts sent from SoftwareOne's email address and may include updates related to order status changes, subscription modifications (upsizes or downsizes), invoice generation, and more. These alerts help you stay informed and take proactive actions as necessary.
 
-Admins can manage notifications for their account from the **Notifications** page. Individual users can [manage notifications](../../../marketplace-platform/platform-overview/preferences-and-settings/manage-notification-preferences.md) for their profile through the **My profile** option in the account menu.&#x20;
+Admins can manage notifications for their account from the **Notifications** page. Individual users can [manage notifications](../../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) for their profile through the **My profile** option in the account menu.&#x20;
 
 ## Accessing notifications <a href="#accessing-notifications" id="accessing-notifications"></a>
 

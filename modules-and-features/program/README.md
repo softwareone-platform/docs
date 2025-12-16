@@ -4,7 +4,7 @@ Program management in the Marketplace Platform enables SoftwareOne partners to v
 
 A program consists of specific requirements, and certificates are issued once these requirements are fulfilled.
 
-To get started, see the following links:
+### Topics in this section
 
 {% content-ref url="programs.md" %}
 [programs.md](programs.md)

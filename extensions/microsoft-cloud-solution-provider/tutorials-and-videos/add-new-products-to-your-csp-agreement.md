@@ -8,7 +8,7 @@ This scenario focuses on finding and adding an item called _Microsoft Power BI._
 
 Before starting this tutorial, make sure that the CSP agreement you want to add the item to is active. You can check the agreement status on the **Agreements** page as well as its details page.&#x20;
 
-You must also know how to navigate the platform to access your agreements and orders and [apply filters](../../../marketplace-platform/platform-overview/preferences-and-settings/customize-the-data-grid.md#filter-data).
+You must also know how to navigate the platform to access your agreements and orders and [apply filters](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filter-data).
 
 ## Adding new items to your agreement
 

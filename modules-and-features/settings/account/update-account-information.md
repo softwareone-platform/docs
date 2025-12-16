@@ -5,7 +5,7 @@ If you want to update your account information, like the account name, company d
 {% hint style="info" %}
 **Need to update your profile or personal settings?**
 
-See [Manage your profile](../../../marketplace-platform/platform-overview/preferences-and-settings/manage-profile.md) to learn about updating your profile picture, profile name, preferred language, and more.
+See [Manage your profile](../../../marketplace-platform/getting-started/interface/manage-profile.md) to learn about updating your profile picture, profile name, preferred language, and more.
 {% endhint %}
 
 ## Updating your account details

@@ -6,7 +6,7 @@ Perpetual licenses involve a one-time payment. You pay upfront for these license
 
 ## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
-Before starting this tutorial, make sure you are familiar with [key concepts](../../../../../marketplace-platform/platform-overview/key-concepts.md). You will also need:
+Before starting this tutorial, make sure you are familiar with [key concepts](../../../../../marketplace-platform/getting-started/key-concepts.md). You will also need:
 
 * A licensee in the **active** state. Licensees are required to set up a new agreement.&#x20;
 * Your company details, like the company name, registration ID, and address. These details are required when setting up a new Microsoft tenant.

@@ -14,8 +14,8 @@ Before we begin the migration process, you'll see a message in the Partner Porta
 
 At this stage of the process, you don't need to take any action. However, we recommend that you become familiar with the terminology and experience of the new Marketplace:
 
-* [Key Concepts](../../platform-overview/key-concepts.md) - This page describes the key concepts and the terminology used within the Marketplace Platform.
-* [Platform Interface](../../platform-overview/interface/) - This page describes how to navigate and use the platform.
+* [Key Concepts](../key-concepts.md) - This page describes the key concepts and the terminology used within the Marketplace Platform.
+* [Platform Interface](../interface/) - This page describes how to navigate and use the platform.
 
 ## During migration
 

@@ -82,7 +82,7 @@ To learn more, see [Object Spotlight](view-pending-tasks.md).
 
 <summary>Using the account selector and your profile menu</summary>
 
-The profile menu allows you to [switch between your accounts](../preferences-and-settings/switch-account.md) and [manage your profile](../preferences-and-settings/manage-profile.md). It also contains a **Sign out** option.
+The profile menu allows you to [switch between your accounts](switch-account.md) and [manage your profile](manage-profile.md). It also contains a **Sign out** option.
 
 <figure><img src="../../../.gitbook/assets/interface_accountselector.png" alt=""><figcaption><p>The account selector and your profile menu.</p></figcaption></figure>
 
