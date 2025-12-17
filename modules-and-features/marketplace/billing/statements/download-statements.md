@@ -22,11 +22,13 @@ To download your statement:
 
 1. Open your invoice. Then, note down the statement ID and invoice ID.
 
-<figure><img src="../../../../.gitbook/assets/invoice-and-statement-IDs.png" alt=""><figcaption><p>Your invoice ID and statement ID on the invoice PDF.</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoice-and-statement-IDs.png" alt=""><figcaption><p>The invoice header containing the invoice ID and statement ID.</p></figcaption></figure></div>
 
 2. Navigate to the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page.
 3. Enter your **Invoice ID** and **Statement ID** exactly as shown on the invoice, then select **Download Billing Statement**.
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/billing-statement-download.png" alt=""><figcaption><p>Use the Billing Statement Download page to download your statement.</p></figcaption></figure></div>
 
-4. Select **Download Now** to download the Excel file.
+4. When the download is ready, select **Download Now** to begin downloading the file.
+
+After downloading the file, you can view detailed charges, subscriptions, and orders placed during the billing period.&#x20;

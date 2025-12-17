@@ -7,7 +7,7 @@ If you want to opt out of these alerts, you can update your preferences. There a
 * By signing in to your account and using the **My profile** option.
 * By selecting the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to the platform.
 
-### Managing your notification preferences
+### Managing notifications (using the **My profile** option)
 
 {% hint style="info" %}
 * Some categories are enabled by default, and you can't opt out of these categories.&#x20;
@@ -22,9 +22,11 @@ To update your preferences using the **My profile** option:
 4. Select the **Edit** option, then in **Edit notification preferences**, use the checkboxes to enable or disable the category.&#x20;
 5. Select **Save**.
 
+### Managing notifications (via email)
+
 To update your preferences from your notification email:
 
-1. Open the notification email you received.
+1. Open your notification email.
 2. Scroll down to the footer and select the **Manage notifications** link. The **Manage notifications** form opens in your browser.
-3. In the **Manage notifications** form, use the checkboxes to enable or disable the category.&#x20;
+3. In the **Manage notifications** form, use the checkboxes to enable or disable a category.&#x20;
 4. Select **Save**.
