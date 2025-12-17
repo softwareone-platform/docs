@@ -16,7 +16,7 @@ To view statements based on their type:
    2. Set the condition to **Equal**.
    3. Choose the type of statement: **Debit** or **Credit**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Finding statements based on the statement type.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Finding statements based on the statement type.</p></figcaption></figure></div>
 
 3. **Close** the filter box. All statements matching your specified status are displayed in the table.&#x20;
 

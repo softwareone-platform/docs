@@ -2,7 +2,7 @@
 
 The following diagram shows the state (status) transition process of a contact on the platform.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>The state transition diagram of a contact.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The state transition diagram of a contact.</p></figcaption></figure>
 
 ### State description
 

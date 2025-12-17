@@ -39,6 +39,7 @@
 
 * [Billing](modules-and-features/marketplace/billing/README.md)
   * [Understand Your Billing Documents](modules-and-features/billing/understand-your-billing-documents/README.md)
+    * [Billing FAQs](modules-and-features/billing/understand-your-billing-documents/billing-faqs.md)
     * [Invoice Fields Mapping](modules-and-features/billing/understand-your-billing-documents/invoice-fields-mapping.md)
   * [Invoices](modules-and-features/marketplace/billing/invoices/README.md)
     * [Find Specific Invoices Using Filters](modules-and-features/marketplace/billing/invoices/filter-invoices.md)
@@ -47,7 +48,7 @@
   * [Statements](modules-and-features/marketplace/billing/statements.md)
     * [Filter Billing Statements](modules-and-features/billing/statements/filter-billing-statements.md)
     * [View Charges](modules-and-features/billing/statements/view-charges.md)
-    * [View and Download Statements](modules-and-features/marketplace/billing/statements/download-statements.md)
+    * [Download Statements](modules-and-features/marketplace/billing/statements/download-statements.md)
   * [Split Billing](modules-and-features/marketplace/billing/split-billing/README.md)
     * [Configure Buyers for Split Billing](modules-and-features/marketplace/billing/split-billing/configure-buyers-for-split-billing.md)
     * [Set Up Split Billing Allocation](modules-and-features/marketplace/billing/split-billing/set-up-split-billing-allocation.md)
@@ -869,7 +870,6 @@
 
 * [Platform FAQs](help-and-support/faqs/README.md)
   * [My draft or quoted order has been deleted](help-and-support/faqs/my-draft-or-quoted-order-has-been-deleted.md)
-  * [I have questions about billing](help-and-support/faqs/i-have-questions-about-billing.md)
   * [How do you handle purchase order numbers in subscription-based models?](help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
   * [What happens to an agreement when subscriptions expire or are terminated?](help-and-support/faqs/what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md)
   * [How do I change the language in my account?](help-and-support/faqs/how-do-i-change-the-language-in-my-account.md)

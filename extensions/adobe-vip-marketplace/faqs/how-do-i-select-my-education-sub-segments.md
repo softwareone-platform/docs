@@ -4,7 +4,7 @@ description: >-
   segment to select their education sub-segments.
 ---
 
-# How do I select my education sub-segments
+# How do I select my education sub-segments?
 
 When setting up a new Education-segment account or when placing orders against an existing one, customers must choose their Education sub-segments in the Adobe Admin Console. This task only needs to be completed once.
 
@@ -19,7 +19,7 @@ These steps must be completed by an Adobe Admin Console administrator.
    1. Select the sub-segment(s) applicable to your organization.
    2. Select **Confirm and continue**.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 3. If you have an Order in the SoftwareOne Marketplace that is in "Querying" status for this account, open the order and click **Process**.
 

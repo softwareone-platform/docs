@@ -1,21 +1,31 @@
-# View or Download Statements
+# Download Statements
 
-The Marketplace Platform provides the following options for accessing your statements:
+You can download your billing statements from two locations: the **Statements** page after signing in to your Marketplace account, or the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page without signing in.&#x20;
 
-* You can view all statements on the **Statements** page, located under **Billing** in the main navigation menu.&#x20;
-* You can view detailed information about a specific statement by selecting the statement ID on the **Invoices** page.
-* To view all statements for an agreement, select the **Statements** tab within the agreement's details page. &#x20;
-* Additionally, you can download your statements in the XLSX format from the statement details page.
+## Downloading a statement (sign-in required)
 
-## Downloading a statement
+To download your statement from the Marketplace Platform:
 
-To download your statement:
-
-1. Navigate to the **Statements** page.
+1. Sign in to your account and navigate to the **Statements** page.
 2. (Optional) Refine your list of statements. You can filter statements using criteria, such as status, type, ID, and more. For details, see [Filter Billing Statements](../../../billing/statements/filter-billing-statements.md).
-3. Locate the statement you want to download. Then, select the statement ID.&#x20;
+3. Locate the statement to download, then select the statement ID.&#x20;
 4. On the statement details page, select the **Attachments** tab, and do one of the following:
    * Select the link in the **Reference** column.
    * Select the actions icon (**•••**) and choose **Download**.&#x20;
 
-The selected statement is downloaded to your system. For details on how to read and understand your statement, see [Understand Your Billing Documents](../../../billing/understand-your-billing-documents/).
+## Downloading a statement (no sign-in required)
+
+If you don’t have access to your account, you can still download your statement from the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page.
+
+To download your statement:
+
+1. Open your invoice. Then, note down the statement ID and invoice ID.
+
+<figure><img src="../../../../.gitbook/assets/invoice-and-statement-IDs.png" alt=""><figcaption><p>Your invoice ID and statement ID on the invoice PDF.</p></figcaption></figure>
+
+2. Navigate to the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page.
+3. Enter your **Invoice ID** and **Statement ID** exactly as shown on the invoice, then select **Download Billing Statement**.
+
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/billing-statement-download.png" alt=""><figcaption><p>Use the Billing Statement Download page to download your statement.</p></figcaption></figure></div>
+
+4. Select **Download Now** to download the Excel file.
