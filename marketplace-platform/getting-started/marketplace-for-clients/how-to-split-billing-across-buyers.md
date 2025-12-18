@@ -1,3 +1,7 @@
+---
+description: Learn how you can split billing across buyers in your account.
+---
+
 # How to Split Billing Across Buyers
 
 Split billing is a feature that allows you to divide the cost of a subscription across different buyers in your account. If your organization has multiple legal entities, split billing can be used to distribute costs effectively. To learn more, see [Split Billing](../../../modules-and-features/marketplace/billing/#split-billing).

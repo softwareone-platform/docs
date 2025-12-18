@@ -1,3 +1,7 @@
+---
+description: Learn how to get started as a partner using the Marketplace Platform.
+---
+
 # How to Get Started
 
 To get started as a partner, you must have an account on the Marketplace Platform. This account must be set up as a partner account.&#x20;

@@ -1,3 +1,7 @@
+---
+description: Learn how to use the Spotlight widget on the Home page.
+---
+
 # Object Spotlight
 
 The **Spotlight** widget on the **Home** page is designed to highlight key platform objects that may require your attention.&#x20;

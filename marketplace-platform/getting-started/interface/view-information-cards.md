@@ -1,3 +1,7 @@
+---
+description: Learn how to quickly preview key details using information cards.
+---
+
 # Information Cards
 
 Information cards are small, interactive cards that display the key properties of an object within the platform.&#x20;

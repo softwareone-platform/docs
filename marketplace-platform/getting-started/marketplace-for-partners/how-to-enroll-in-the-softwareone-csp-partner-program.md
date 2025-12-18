@@ -1,3 +1,7 @@
+---
+description: Learn how to enroll in the SoftwareOne CSP partner program.
+---
+
 # How to Enroll in the SWO CSP Partner Program
 
 The SoftwareOne (SWO) CSP Partner Program is designed for SoftwareOne partners to ensure compliance with our established terms and conditions.&#x20;

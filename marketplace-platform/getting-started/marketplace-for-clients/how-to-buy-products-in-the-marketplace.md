@@ -1,3 +1,7 @@
+---
+description: Learn how to browse the catalog, discover products, and place an order.
+---
+
 # How to Buy Products
 
 The Marketplace Platform is designed to simplify the complex process of software licensing and procurement. It aims to simplify your buying journey by making it easier for you to find products from multiple software vendors in one place.&#x20;

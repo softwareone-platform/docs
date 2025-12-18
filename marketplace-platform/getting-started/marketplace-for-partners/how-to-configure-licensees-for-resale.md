@@ -1,3 +1,7 @@
+---
+description: Learn how to configure licensees for reselling software to your customers.
+---
+
 # How to Configure Licensees for Resale
 
 This tutorial describes how SoftwareOne partners can set up resale licensees within the platform.

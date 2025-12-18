@@ -1,3 +1,7 @@
+---
+description: Learn about the different options in the Settings module.
+---
+
 # How to Manage Your Account Settings
 
 The **Settings** module in the platform includes functionalities that account administrators can use to manage various aspects of the account. The modules can be accessed from the **Settings** option in the main navigation menu.

@@ -1,3 +1,7 @@
+---
+description: Learn how to add or remove a page from your favorites.
+---
+
 # Manage Favorites
 
 If you use certain pages very often, you can mark those pages as your favorites. This way, you can find your most-used pages easily.&#x20;

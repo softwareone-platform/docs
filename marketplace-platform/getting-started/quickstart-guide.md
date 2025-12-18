@@ -1,3 +1,9 @@
+---
+description: >-
+  Get up and running in the Marketplace, make your first purchase, and manage
+  your subscription.
+---
+
 # Quickstart Guide
 
 This quickstart guide explains how to get set up in the Marketplace Platform, make your first purchase, track orders, and self-manage your subscription.

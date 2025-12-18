@@ -1,3 +1,7 @@
+---
+description: Learn how to quickly find the billing statements you need with filters.
+---
+
 # Filter Billing Statements
 
 The **Statements** page in the platform shows all statements that have been created for your account.&#x20;

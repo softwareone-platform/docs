@@ -1,3 +1,7 @@
+---
+description: Learn how to customize your preferences and profile settings.
+---
+
 # Preferences and Settings
 
 Preferences and settings help you customize your Marketplace Platform account, so you can work more efficiently across accounts, pages, and data views.

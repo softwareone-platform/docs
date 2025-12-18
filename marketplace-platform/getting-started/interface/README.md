@@ -1,3 +1,7 @@
+---
+description: Learn how to navigate and use the platform.
+---
+
 # Interface Overview
 
 The Marketplace Platform is a SaaS application with three user interfaces, each catering to specific user types. These interfaces ensure that all [actors](../key-concepts.md#platform-actors) can interact with the platform according to their specific business requirements.&#x20;

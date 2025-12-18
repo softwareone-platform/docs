@@ -1,3 +1,7 @@
+---
+description: Learn how to use the status filter to view an order.
+---
+
 # How to View and Filter Orders
 
 The Marketplace Platform supports various types of orders, including change, purchase, configuration, and termination orders. All orders are displayed on the **Orders** page.&#x20;

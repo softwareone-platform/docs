@@ -1,3 +1,7 @@
+---
+description: Learn how to increase or reduce the licenses for your subscription.
+---
+
 # How to Change the Number of Licenses
 
 The Marketplace Platform allows you to easily manage your licenses.&#x20;

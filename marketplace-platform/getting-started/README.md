@@ -1,8 +1,14 @@
+---
+description: >-
+  Watch a quick video guide showing how to get started with the Marketplace
+  Platform.
+---
+
 # Getting Started
 
 To get up and running with the Marketplace Platform and make the most of its functionality, it's essential to understand how the platform works and be familiar with certain key concepts and terminology.
 
-The following Getting Started video provides a brief overview of the platform and its interface, followed by in-depth information about some of the core concepts.&#x20;
+The following Getting Started video guide provides a brief overview of the platform and its interface, followed by in-depth information about some of the core concepts.&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=LrMOMN8sjM4" fullWidth="false" %}
 Watch a quick video guide showing how to get started with the Marketplace Platform.

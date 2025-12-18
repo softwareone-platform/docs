@@ -1,3 +1,7 @@
+---
+description: Understand the key invoice fields and how they map to the platform.
+---
+
 # Invoice Fields Mapping
 
 Your Marketplace invoice includes various details that are pulled from the platform and displayed on the invoice.

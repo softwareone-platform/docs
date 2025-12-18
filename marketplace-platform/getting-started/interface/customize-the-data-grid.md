@@ -1,3 +1,7 @@
+---
+description: Learn how to adjust the data grid layout to suit your needs.
+---
+
 # Customize the Data Grid
 
 The Marketplace Platform uses data grids to display data.&#x20;
@@ -59,7 +63,7 @@ The <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4
 
 You can use the checkbox next to each column name to hide or display a column. If you have hidden a column, you can make it visible again by selecting the same checkbox. Note that some columns are shown by default, and you cannot hide them.
 
-<figure><img src="../../../.gitbook/assets/data_grid_columns.png" alt=""><figcaption><p>List of available columns in the table.</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/data_grid_columns.png" alt=""><figcaption><p>The list of available columns in a table.</p></figcaption></figure></div>
 
 **Adjust column widths**
 
@@ -73,7 +77,7 @@ The **Columns** selector also contains options to adjust the column width. These
 
 If the data in the grid has changed, you can refresh the data to make sure you are working with the latest data at all times. Use the <img src="../../../.gitbook/assets/refresh_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M121-280v-400q0-33 23.5-56.5T201-760h559q33 0 56.5 23.5T840-680v400q0 33-23.5 56.5T760-200H201q-33 0-56.5-23.5T121-280Zm79 0h133v-400H200v400Zm213 0h133v-400H413v400Zm213 0h133v-400H626v400Z&#x22;/></svg>" data-size="line">**Refresh** option to fetch the latest data from the system.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Refresh.png" alt=""><figcaption><p>The Refresh option in the table.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Refresh.png" alt=""><figcaption><p>The Refresh option in a table.</p></figcaption></figure></div>
 
 ### Changing default rows per page
 
@@ -81,7 +85,7 @@ By default, the Marketplace Platform displays 10 rows of data on a page.&#x20;
 
 You can change the default value by selecting another value from the **Rows per page** option on the lower-right side of the grid. You can choose to show 5, 10, 25, 50, or 100 rows per page.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rows.png" alt=""><figcaption><p>The Rows selector in the table.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rows.png" alt=""><figcaption><p>The option to change the number of rows displayed on the page.</p></figcaption></figure></div>
 
 ### Navigating between pages
 

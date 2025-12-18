@@ -1,3 +1,7 @@
+---
+description: Learn how to order software products for reselling to your customers.
+---
+
 # How to Order Products for Resale
 
 The tutorial describes how you can order products for resale through the Marketplace Platform.&#x20;

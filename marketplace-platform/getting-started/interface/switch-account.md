@@ -1,3 +1,7 @@
+---
+description: Learn how to switch between your Marketplace accounts.
+---
+
 # Switch Accounts
 
 The Marketplace Platform allows an individual to be linked to several accounts and switch between those accounts without signing out of the platform. Switching can be done through your profile menu.

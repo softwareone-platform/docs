@@ -1,3 +1,7 @@
+---
+description: Learn about managing and reviewing your Marketplace statements.
+---
+
 # Statements
 
 A statement is a billing document you receive at the end of your billing period, along with your invoice PDF.

@@ -1,3 +1,7 @@
+---
+description: Learn about the platform and its key capabilities.
+---
+
 # Platform Overview
 
 The Marketplace Platform is a solution designed for software procurement. It includes a comprehensive set of modules and features that streamline purchasing processes for businesses of all sizes.
@@ -6,13 +10,13 @@ The platform simplifies the complexity of managing relationships by creating a d
 
 The platform’s functionality is further enhanced by public APIs and SDKs that enable automation, providing developers and system integrators with programmatic access to the platform's functionalities.&#x20;
 
-## Why choose the Marketplace Platform? <a href="#features" id="features"></a>
+## Marketplace capabilities <a href="#features" id="features"></a>
 
-The Marketplace Platform operates as a two-sided platform, offering distinct advantages for clients, partners, and vendors alike.
+The Marketplace Platform is a two-sided platform, offering distinct advantages for clients, partners, and vendors. The platform provides several capabilities for discovering, managing, and transacting services and solutions.
 
 ### For clients
 
-The platform redefines the procurement experience for clients and partners through its user-friendly Client Portal. This portal digitizes workflows and significantly enhances the efficiency of the purchasing process. Key features for clients include:
+For clients, the platform redefines the procurement experience through its user-friendly Client Portal. This portal digitizes workflows and significantly enhances the efficiency of the purchasing process. Key features for clients include:
 
 * **Access to product catalog** - Discover a wide range of products from the world's leading software vendors and find everything you need in one centralized location.
 * **Order management** - View, track, and manage your orders while getting extended information about each order on the order detail page.
@@ -23,7 +27,7 @@ The platform redefines the procurement experience for clients and partners throu
 
 ### For partners
 
-SoftwareOne partners have access to all features and functionalities designed for clients, as well as additional tools to enhance their experience. Key features for partners include:
+SoftwareOne partners have access to all features and functionalities designed for clients, as well as additional tools to enhance their experience. Additional key features for partners include:
 
 * **Software purchasing capabilities** - Explore the full range of products available for resale to your clients.
 * **Visibility into customer subscriptions** - Gain clear visibility into all your customer subscriptions. Easily filter and sort subscriptions by renewal dates to ensure you never miss an expiration.

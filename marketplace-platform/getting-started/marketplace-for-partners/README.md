@@ -1,3 +1,7 @@
+---
+description: Watch a quick video guide on Partners Management in the Marketplace Platform.
+---
+
 # Marketplace for Partners
 
 To use the Marketplace Platform effectively as a Partner and make the most of its functionality, it's important to understand how the platform works and be familiar with its concepts.&#x20;
@@ -7,7 +11,7 @@ Partner accounts include all the features and functionalities of client accounts
 Watch the video guide for details on using the Marketplace Platform as a SoftwareOne partner, or see [How to Get Started](how-to-get-started.md).
 
 {% embed url="https://youtu.be/77SqZEURAGo?feature=shared" %}
-Watch a quick video guide explaining about partner management in the Marketplace Platform
+Watch a quick video guide explaining about partners management in the Marketplace Platform
 {% endembed %}
 
 ### Topics in this section

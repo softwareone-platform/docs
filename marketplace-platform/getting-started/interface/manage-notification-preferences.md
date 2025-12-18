@@ -1,3 +1,7 @@
+---
+description: Learn how to enable or disable notifications for your profile.
+---
+
 # Manage Notification Preferences
 
 The Marketplace Platform sends notification emails based on specific events in your account. These alerts are triggered according to the notification categories enabled for your profile.&#x20;

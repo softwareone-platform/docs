@@ -1,3 +1,7 @@
+---
+description: Learn how to use filters to search for an invoice.
+---
+
 # Find Specific Invoices Using Filters
 
 You can access your invoices by navigating to **Billing** > **Invoices** in the main navigation menu.&#x20;

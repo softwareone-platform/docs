@@ -1,3 +1,7 @@
+---
+description: Learn how to verify if your account is enabled for partner use.
+---
+
 # How to Verify If Your Account Has Partner Capabilities
 
 There are three ways to verify whether your account is configured as a partner account in the Marketplace Platform.&#x20;

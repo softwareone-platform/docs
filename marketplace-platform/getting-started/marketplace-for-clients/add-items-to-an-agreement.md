@@ -1,3 +1,7 @@
+---
+description: Learn how to order new items using an existing Marketplace agreement.
+---
+
 # How to Add New Items to Your Agreement
 
 You can add new items to your agreement using the **Buy more** option on the agreement details page.&#x20;

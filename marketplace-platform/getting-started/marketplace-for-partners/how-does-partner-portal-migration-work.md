@@ -1,3 +1,9 @@
+---
+description: >-
+  Learn about migrating from SoftwareOne's legacy Partner Portal to the
+  Marketplace Platform.
+---
+
 # How Does Partner Portal Migration Work?
 
 SoftwareOne's legacy Partner Portal is being transitioned to the Marketplace Platform.

@@ -1,3 +1,7 @@
+---
+description: Learn how to read and interpret your Marketplace invoices and statements.
+---
+
 # Understand Your Billing Documents
 
 The Marketplace Platform generates invoices monthly. Invoices include subscription charges or usage recorded in the previous calendar month.

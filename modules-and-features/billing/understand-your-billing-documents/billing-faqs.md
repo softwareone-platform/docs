@@ -1,3 +1,7 @@
+---
+description: Find answers to all frequently asked questions about invoices and statements.
+---
+
 # Billing FAQs
 
 This page contains frequently asked questions about your financial documents, including invoices and statements.&#x20;

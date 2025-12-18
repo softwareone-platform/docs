@@ -1,3 +1,9 @@
+---
+description: >-
+  Learn how to change your profile picture, display language, and timezone
+  settings.
+---
+
 # Manage Your Profile
 
 Your profile contains the information associated with your account, including your name, email address, and preferences. You can edit your profile to keep your information accurate and up to date.
@@ -6,7 +12,7 @@ Your profile contains the information associated with your account, including yo
 
 To update your profile:
 
-1. Sign in to your account.
+1. Sign in to your account.&#x20;
 2. Select your profile menu in the upper right, then select **My profile**.&#x20;
 3. On your profile overview page, select **Edit**. The **Edit user** page opens.
 

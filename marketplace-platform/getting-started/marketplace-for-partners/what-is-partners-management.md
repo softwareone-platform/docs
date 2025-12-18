@@ -1,3 +1,7 @@
+---
+description: Learn about Partners Management and how it works in the platform.
+---
+
 # What is Partners Management?
 
 SoftwareOne is a global provider of software and cloud technology solutions. Our [Partner Program ](https://partner.softwareone.com/welcome)helps companies that sell cloud-based products and services expand their businesses by accessing new markets around the world.&#x20;

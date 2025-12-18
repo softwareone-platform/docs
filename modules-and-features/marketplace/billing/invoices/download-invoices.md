@@ -1,4 +1,8 @@
-# View or Download Invoices
+---
+description: Learn how to access and download invoices from the platform.
+---
+
+# View and Download Invoices
 
 The Marketplace Platform provides the following options for accessing your invoices:
 
