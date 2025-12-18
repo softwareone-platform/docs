@@ -1,3 +1,7 @@
+---
+description: Make changes to an existing group.
+---
+
 # Edit Group
 
 You can edit a group to update the group's general information and manage group members. When editing a group, you can also update the group's buyer setting to allow full or restricted access to the buyers.

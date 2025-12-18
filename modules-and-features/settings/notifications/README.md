@@ -1,3 +1,7 @@
+---
+description: Learn about notifications in the Marketplace Platform.
+---
+
 # Notifications
 
 Notifications Management allows account administrators to configure recipients and manage subscribers (also called categories) for their Marketplace account.&#x20;

@@ -1,3 +1,7 @@
+---
+description: Learn about your account in the Marketplace Platform.
+---
+
 # Account
 
 An account enables a company or organization to sign in to the Marketplace platform and access the modules and features enabled for your account by SoftwareOne.

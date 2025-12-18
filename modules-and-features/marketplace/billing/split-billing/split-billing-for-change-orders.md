@@ -1,3 +1,7 @@
+---
+description: Learn how to split billing when adding or removing licenses.
+---
+
 # Split Billing for Change Orders
 
 In the Marketplace Platform, change orders are created when you add more licenses to your subscription and place an order through the platform.&#x20;

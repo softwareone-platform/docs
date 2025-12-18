@@ -1,3 +1,7 @@
+---
+description: See all notification emails generated for your account.
+---
+
 # View Notification Messages
 
 Account administrators can use the **Messages** tab to view all notification emails triggered for the users in their account.&#x20;

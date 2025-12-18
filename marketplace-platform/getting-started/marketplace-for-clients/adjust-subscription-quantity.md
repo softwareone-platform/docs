@@ -1,5 +1,5 @@
 ---
-description: Learn how to increase or reduce the licenses for your subscription.
+description: Increase or reduce the licenses for your subscription.
 ---
 
 # How to Change the Number of Licenses
@@ -11,9 +11,9 @@ If you need more licenses, you can alter the subscription to add additional lice
 * If your subscription contains only one item, you can't reduce its quantity to zero. In this case, you must terminate the subscription.&#x20;
 * If your subscription contains multiple items, at least one item must have a quantity greater than zero. You can't change the quantity of all items to zero.
 
-### Changing the number of licenses
+### Increasing or reducing the number of licenses
 
-To change the number of licenses:
+To increase or reduce the number of licenses:
 
 1. Navigate to the **Subscriptions** page, then select the required subscription.
 2. On the subscription details page, select **Edit**.

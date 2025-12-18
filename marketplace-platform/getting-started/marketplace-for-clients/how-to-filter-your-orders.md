@@ -1,18 +1,20 @@
 ---
-description: Learn how to use the status filter to view an order.
+description: Use the different types of filters to find and view your orders.
 ---
 
-# How to View and Filter Orders
+# How to Filter Orders
 
 The Marketplace Platform supports various types of orders, including change, purchase, configuration, and termination orders. All orders are displayed on the **Orders** page.&#x20;
 
-If you need to find a specific order, you can use the filter option to search for it. There are several filter options to help you narrow down the list. You can apply a single filter or create a combination of filters by selecting different fields, operators, and values. This topic describes how to use these filters.
+If you need to find a specific order, you can use the filter option to search for it. There are several filter options to help you narrow down the list. You can apply a single filter or create a combination of filters by selecting different fields, operators, and values.
 
-## Viewing and filtering orders <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
+This topic describes how to use some of the filters.
 
-To find an order using a filter, such as status:
+## Filtering orders by status <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
 
-1. Navigate to the **Orders** page, then select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** option.
+To find an order using the status filter (such as **Draft**):
+
+1. Navigate to the **Orders** page, then select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** icon.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>The filter option on the Orders page.</p></figcaption></figure></div>
 
@@ -23,16 +25,23 @@ To find an order using a filter, such as status:
    3. In the third field, type or select a value from the list of preconfigured values. The values displayed in this field are determined by your selection in the first field. To see your draft orders, select **Draft**.
    4. If needed, select **Add another condition** to specify additional conditions as needed.
 
-Your list of orders is refreshed according to the filters. To reset the filters and revert to the default view, select **Reset filters** in the filter box.&#x20;
+## Filtering orders by order ID <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
 
-## Viewing your order's details
+To find an order using the order ID:
 
-To view detailed information for an order, select the ID in the **Order** column. You can then view basic order information and specific order details such as items, subscriptions, and more.
+1. Navigate to the **Orders** page, then select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** icon.
+2. Define the conditions:
+   1. In the first field, select **Order ID**.
+   2. In the second field, choose the search operator. For this example, leave the value set to **Contains**.
+   3. In the third field, type the order number. You can enter all or part of the order's ID or name.&#x20;
 
-From the order details page, you can complete these additional tasks:
+## Filtering orders using a search query <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
 
-* [Add or update your order notes](../../../modules-and-features/marketplace/orders/manage-order-notes.md).
-* [View and download the files attached to your order](../../../modules-and-features/marketplace/agreements/view-and-download-attachments.md).
-* [Delete draft orders.](../../../modules-and-features/marketplace/orders/delete-draft-orders.md)
-* [Submit your draft order for processing](../../../modules-and-features/marketplace/orders/submit-draft-orders.md).
-* [Change the status of your order to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).
+The **Search query** condition allows you to enter a search term, which is then used to find matching records across other filter conditions, such as orders, agreements, and more.&#x20;
+
+To find an order using a search query:
+
+1. Navigate to the **Orders** page, then select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** icon.
+2. Enter the desired search term.
+
+The list of orders is refreshed automatically to display only the records that match your search criteria. To remove all filters and return to the default view, select **Reset filters** in the filter box.

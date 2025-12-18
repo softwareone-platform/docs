@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of a notification email.
+---
+
 # Notification States
 
 A notification email in the Marketplace Platform goes through several stages during its lifecycle.

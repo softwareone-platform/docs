@@ -1,3 +1,7 @@
+---
+description: Learn how to view and order products from the Marketplace.
+---
+
 # Products
 
 In the Marketplace Platform, a product refers to a software solution or services offered by a vendor. Each product may contain one or more items (SKUs) available for purchase.&#x20;

@@ -1,3 +1,7 @@
+---
+description: Learn about licensees in the Marketplace Platform.
+---
+
 # Licensees
 
 In the Marketplace Platform, a licensee is a specific person or a department within your account that receives the license to use the product.&#x20;

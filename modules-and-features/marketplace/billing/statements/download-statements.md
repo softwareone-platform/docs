@@ -1,5 +1,5 @@
 ---
-description: Learn how to download your billing statements in XLSX format.
+description: Download your billing statements in XLSX format.
 ---
 
 # Download Statements

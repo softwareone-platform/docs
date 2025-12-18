@@ -1,3 +1,7 @@
+---
+description: Create a new group and assign users to it.
+---
+
 # Create New Group
 
 In the Marketplace Platform, you can create new groups and add members to those groups.

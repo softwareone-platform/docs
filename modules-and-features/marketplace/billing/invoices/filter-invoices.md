@@ -1,5 +1,5 @@
 ---
-description: Learn how to use filters to search for an invoice.
+description: Use the different types of filters to find and view your invoices.
 ---
 
 # Find Specific Invoices Using Filters

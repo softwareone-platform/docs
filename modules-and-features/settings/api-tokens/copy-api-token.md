@@ -1,3 +1,7 @@
+---
+description: Copy API access token.
+---
+
 # Copy API Token
 
 You can copy your API token from the token details page.

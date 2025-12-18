@@ -1,5 +1,5 @@
 ---
-description: Learn how to order software products for reselling to your customers.
+description: Order software products for reselling to your customers.
 ---
 
 # How to Order Products for Resale

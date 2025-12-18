@@ -1,5 +1,5 @@
 ---
-description: Learn how to quickly find the billing statements you need with filters.
+description: Quickly find the billing statements you need with filters.
 ---
 
 # Filter Billing Statements

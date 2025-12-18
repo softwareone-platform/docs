@@ -1,5 +1,5 @@
 ---
-description: Learn how to enroll in the SoftwareOne CSP partner program.
+description: Enroll in the SoftwareOne CSP partner program.
 ---
 
 # How to Enroll in the SWO CSP Partner Program

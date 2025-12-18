@@ -1,5 +1,5 @@
 ---
-description: Find answers to all frequently asked questions about invoices and statements.
+description: Find answers to frequently asked questions about invoices and statements.
 ---
 
 # Billing FAQs

@@ -1,3 +1,7 @@
+---
+description: Learn about API tokens in the Marketplace Platform.
+---
+
 # API Tokens
 
 The Marketplace Platform uses API tokens to authenticate requests to the [REST API](../../../developer-resources/rest-api/).

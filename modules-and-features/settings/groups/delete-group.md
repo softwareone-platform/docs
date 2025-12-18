@@ -1,3 +1,7 @@
+---
+description: Delete a user group permanently.
+---
+
 # Delete Group
 
 If a group is no longer needed, you can delete it. You can delete all groups except the default group. Once a group has been deleted, it can't be restored.&#x20;

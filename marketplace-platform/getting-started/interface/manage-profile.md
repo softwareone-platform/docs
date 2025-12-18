@@ -1,7 +1,5 @@
 ---
-description: >-
-  Learn how to change your profile picture, display language, and timezone
-  settings.
+description: Change your profile picture, display language, and time zone settings.
 ---
 
 # Manage Your Profile

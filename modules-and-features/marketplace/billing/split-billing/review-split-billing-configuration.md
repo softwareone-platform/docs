@@ -1,3 +1,7 @@
+---
+description: Learn how to review your configuration for split billing.
+---
+
 # Review Split Billing Configuration
 
 The **Review** status on the **Details** tab of a change order indicates that a change has been made to the subscription.&#x20;

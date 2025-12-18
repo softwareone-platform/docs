@@ -1,5 +1,5 @@
 ---
-description: Learn how to switch between your Marketplace accounts.
+description: Switch between your Marketplace accounts without signing out.
 ---
 
 # Switch Accounts

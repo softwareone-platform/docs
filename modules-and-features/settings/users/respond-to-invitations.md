@@ -1,3 +1,7 @@
+---
+description: Accept or decline your Marketplace invitation.
+---
+
 # Respond to Invitations
 
 When you are invited to the Marketplace Platform by the SoftwareOne Operations team or your account administrator, you'll receive an invitation to join the account.&#x20;

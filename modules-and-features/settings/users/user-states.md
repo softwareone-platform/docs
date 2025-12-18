@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of a user.
+---
+
 # User States
 
 The Marketplace Platform supports various statuses for users in the system.&#x20;

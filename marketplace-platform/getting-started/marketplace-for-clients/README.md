@@ -1,5 +1,5 @@
 ---
-description: Learn how to get started as a client using the Marketplace Platform.
+description: Get started as a client using the Marketplace Platform.
 ---
 
 # Marketplace for Clients
@@ -10,7 +10,7 @@ Whether you are purchasing new products, adjusting license quantities, viewing o
 
 ### Topics in this section
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>How to Buy Products</strong></td><td>Browse the catalog, discover products, and place an orders.</td><td><a href="how-to-buy-products-in-the-marketplace.md">how-to-buy-products-in-the-marketplace.md</a></td></tr><tr><td><strong>How to Change the Number of Licenses</strong></td><td>Increase or reduce licenses for your subscription.</td><td><a href="adjust-subscription-quantity.md">adjust-subscription-quantity.md</a></td></tr><tr><td><strong>How to Add New Items to Your Agreement</strong></td><td>Buy new items using your  existing agreement.</td><td><a href="add-items-to-an-agreement.md">add-items-to-an-agreement.md</a></td></tr><tr><td><strong>How to Split Billing Across Buyers</strong></td><td>Allocate billing to different buyers in your account. </td><td><a href="how-to-split-billing-across-buyers.md">how-to-split-billing-across-buyers.md</a></td></tr><tr><td><strong>How to View and Filter Orders</strong></td><td>Narrow down and view your orders.</td><td><a href="how-to-filter-your-orders.md">how-to-filter-your-orders.md</a></td></tr><tr><td><strong>How to Manage Your Account Settings</strong></td><td>Review and manage account-wide settings.</td><td><a href="how-to-split-billing-across-buyers.md">how-to-split-billing-across-buyers.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>How to Buy Products</strong></td><td>Browse our catalog, discover products, and place an order.</td><td><a href="how-to-buy-products-in-the-marketplace.md">how-to-buy-products-in-the-marketplace.md</a></td></tr><tr><td><strong>How to Filter Orders</strong></td><td>Use different types of filters to view your orders.</td><td><a href="how-to-filter-your-orders.md">how-to-filter-your-orders.md</a></td></tr><tr><td><strong>How to Change the Number of Licenses</strong></td><td>Increase or reduce your licenses.</td><td><a href="adjust-subscription-quantity.md">adjust-subscription-quantity.md</a></td></tr><tr><td><strong>How to Add New Items to Your Agreement</strong></td><td>Buy new items using your existing agreement.</td><td><a href="add-items-to-an-agreement.md">add-items-to-an-agreement.md</a></td></tr><tr><td><strong>How to Split Billing Across Buyers</strong></td><td>Allocate billing to different buyers in your account.</td><td><a href="how-to-split-billing-across-buyers.md">how-to-split-billing-across-buyers.md</a></td></tr></tbody></table>
 
 ### Additional learning resources
 

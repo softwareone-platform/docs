@@ -1,3 +1,7 @@
+---
+description: Restrict a user group to certain buyers.
+---
+
 # Restrict Groups to Certain Buyers
 
 As an administrator, you can define whether your group of users can view all buyers in your account or only certain buyers. You can customize buyer access when creating a new group or updating an existing group.&#x20;

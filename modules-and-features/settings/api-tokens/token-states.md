@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of API tokens.
+---
+
 # Token States
 
 A token can have multiple states during its lifecycle in the Marketplace Platform.

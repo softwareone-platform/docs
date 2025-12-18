@@ -1,3 +1,7 @@
+---
+description: Edit the general information and contact person for a buyer.
+---
+
 # Edit Buyers
 
 After the buyers have been linked to your account by SoftwareOne, you can manage them through the platform and edit buyer details as needed.&#x20;

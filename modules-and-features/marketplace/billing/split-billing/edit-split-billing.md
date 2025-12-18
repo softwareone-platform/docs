@@ -1,6 +1,10 @@
+---
+description: Learn how to manage buyers and adjust their allocation percentages.
+---
+
 # Edit Split Billing
 
-If you need to modify the list of buyers or adjust their allocation percentages after setting up split billing, you can easily do so through the interface.
+If you need to update the list of buyers and adjust their allocation percentages after setting up split billing, you can easily do so through the interface.
 
 ## Adding or removing buyers
 

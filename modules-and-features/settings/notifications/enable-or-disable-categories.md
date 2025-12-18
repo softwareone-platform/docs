@@ -1,3 +1,7 @@
+---
+description: Manage the notification categories for your account.
+---
+
 # Enable or Disable Categories
 
 Account administrators can enable specific categories to receive email alerts.

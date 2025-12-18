@@ -1,3 +1,7 @@
+---
+description: Learn about sellers in the Marketplace Platform.
+---
+
 # Sellers
 
 In the Marketplace Platform, a seller refers to a SoftwareOne legal entity that is responsible for procurement, order fulfillment, and billing. Examples of such entities include SoftwareOne UK, SoftwareOne USA, and so on.

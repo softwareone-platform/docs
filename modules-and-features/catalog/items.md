@@ -1,3 +1,7 @@
+---
+description: Learn how to view items in the Marketplace.
+---
+
 # Items
 
 In the Marketplace Platform, an item is an individual stock-keeping unit (SKU) in a product. Items are part of a product, and they can have their own specific name, term, and commitment.&#x20;

@@ -1,3 +1,7 @@
+---
+description: Reinvite a user to your Marketplace account.
+---
+
 # Manage User Invitations
 
 After you've invited an individual to join your account, you can manage their invitation through the platform.&#x20;

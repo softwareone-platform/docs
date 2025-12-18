@@ -1,3 +1,7 @@
+---
+description: Learn how to specify purchase order numbers for additional buyers.
+---
+
 # Specify PO Numbers for Split Billing
 
 In the Marketplace Platform, you can enter additional IDs or purchase order (PO) numbers when ordering a new subscription or adjusting license quantities. Once you've provided the number, it appears on your invoice. For information, see [How can I enter a purchase order number](../../../../help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md#client-guidance-on-po-numbers-and-invoices).&#x20;

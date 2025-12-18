@@ -1,3 +1,7 @@
+---
+description: Learn about buyers in the Marketplace Platform.
+---
+
 # Buyers
 
 In the Marketplace Platform, a buyer is defined as an organization that procures products or services from SoftwareOne. Buyers are recognized as legal entities within SoftwareOne's ERP system and are the recipients of invoices issued by SoftwareOne.

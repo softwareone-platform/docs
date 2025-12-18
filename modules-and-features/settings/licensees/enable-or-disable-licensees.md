@@ -1,3 +1,7 @@
+---
+description: Manage your existing licensees.
+---
+
 # Enable or Disable Licensee
 
 You can manage existing licensees and enable or disable them through the interface.&#x20;

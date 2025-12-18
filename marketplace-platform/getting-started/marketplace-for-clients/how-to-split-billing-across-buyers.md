@@ -1,5 +1,5 @@
 ---
-description: Learn how you can split billing across buyers in your account.
+description: Divide subscription costs across buyers in your account.
 ---
 
 # How to Split Billing Across Buyers

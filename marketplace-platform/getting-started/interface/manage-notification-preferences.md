@@ -1,5 +1,5 @@
 ---
-description: Learn how to enable or disable notifications for your profile.
+description: Enable or disable notifications for your profile.
 ---
 
 # Manage Notification Preferences

@@ -1,3 +1,7 @@
+---
+description: Learn how to define buyers and split subscription costs across those buyers.
+---
+
 # Configure Buyers for Split Billing
 
 When split billing is activated, the platform assigns 100% of the billing to the default buyer in your agreement, known as the **Owner** buyer.&#x20;

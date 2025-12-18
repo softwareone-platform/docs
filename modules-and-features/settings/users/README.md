@@ -1,3 +1,7 @@
+---
+description: Learn about users in the Marketplace Platform.
+---
+
 # Users
 
 A user is an individual who interacts with the platform through a unique username and password. Each user has a profile consisting of attributes and settings (such as email address, name,  profile image, and more).&#x20;

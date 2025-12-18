@@ -1,3 +1,7 @@
+---
+description: Manage a user’s group membership.
+---
+
 # Edit Users
 
 The **Edit** option on the **Users** page lets you update an individual's group membership.&#x20;

@@ -1,5 +1,5 @@
 ---
-description: Learn how to adjust the data grid layout to suit your needs.
+description: Adjust the data grid layout to suit your needs.
 ---
 
 # Customize the Data Grid

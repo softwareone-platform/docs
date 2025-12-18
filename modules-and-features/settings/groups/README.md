@@ -1,3 +1,7 @@
+---
+description: Learn about groups in the Marketplace Platform.
+---
+
 # Groups
 
 A group represents a set of users who have the same roles and permissions. Groups are used to manage the permissions of multiple users at once, instead of at the individual user level.&#x20;

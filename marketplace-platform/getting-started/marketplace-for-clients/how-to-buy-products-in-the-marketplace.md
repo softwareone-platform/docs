@@ -1,5 +1,5 @@
 ---
-description: Learn how to browse the catalog, discover products, and place an order.
+description: Access the product catalog, discover products, and submit your order.
 ---
 
 # How to Buy Products

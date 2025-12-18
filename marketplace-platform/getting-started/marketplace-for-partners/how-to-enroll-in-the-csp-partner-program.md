@@ -1,5 +1,5 @@
 ---
-description: Learn how to enroll in the Cloud Solution Provider partner program.
+description: Enroll in the Cloud Solution Provider partner program.
 ---
 
 # How to Enroll in the CSP Partner Program

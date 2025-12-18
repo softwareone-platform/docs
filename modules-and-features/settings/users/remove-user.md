@@ -1,3 +1,7 @@
+---
+description: Remove a user from your Marketplace account.
+---
+
 # Remove Users
 
 In certain situations, you might need to remove a person from your account. If you are an account administrator, you can use the **Remove** option on the **Users** page to remove an individual.&#x20;

@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of a seller.
+---
+
 # Seller States
 
 The following diagram shows the possible states and the transitions between seller states in the platform:

@@ -1,3 +1,9 @@
+---
+description: >-
+  Update the account information for your organization, such as your account
+  name and logo, company contact information, and address.
+---
+
 # Update Account Details
 
 If you want to update your account information, like the account name, company details, and address, you can make these changes using the **Edit** option on the **Account** page.&#x20;

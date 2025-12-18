@@ -1,5 +1,5 @@
 ---
-description: Learn how to configure licensees for reselling software to your customers.
+description: Configure licensees for reselling software to your customers.
 ---
 
 # How to Configure Licensees for Resale

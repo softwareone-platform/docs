@@ -1,3 +1,7 @@
+---
+description: Create a new licensee and map them to buyers and sellers.
+---
+
 # Create Licensee
 
 You can create new licensees and map those licensees to the buyers and sellers in your account. Licensees are used when establishing agreements and ordering software products.

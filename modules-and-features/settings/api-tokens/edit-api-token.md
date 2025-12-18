@@ -1,3 +1,7 @@
+---
+description: Update existing API token.
+---
+
 # Edit API Token
 
 You can update an API token’s description and change the access scope through the **Edit** option on the token's details page.

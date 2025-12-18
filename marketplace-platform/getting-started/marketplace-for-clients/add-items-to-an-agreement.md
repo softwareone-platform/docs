@@ -1,5 +1,5 @@
 ---
-description: Learn how to order new items using an existing Marketplace agreement.
+description: Order new items using your existing Marketplace agreement.
 ---
 
 # How to Add New Items to Your Agreement

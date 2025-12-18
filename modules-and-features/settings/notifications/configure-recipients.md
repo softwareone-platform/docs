@@ -1,3 +1,7 @@
+---
+description: Manage who receives your email notifications
+---
+
 # Configure Recipients
 
 Configuring recipients for your notifications is necessary so you can start receiving timely updates about various events in your account.&#x20;

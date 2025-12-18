@@ -1,3 +1,7 @@
+---
+description: Invite new users to your Marketplace account.
+---
+
 # Add New Users
 
 Account administrators can invite new users to the account from the **Users** page.

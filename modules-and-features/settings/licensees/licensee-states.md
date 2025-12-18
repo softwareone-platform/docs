@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of licensees.
+---
+
 # Licensee States
 
 Licensees in the Marketplace Platform can be in multiple states (also known as status).

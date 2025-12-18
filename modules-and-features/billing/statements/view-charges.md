@@ -1,5 +1,5 @@
 ---
-description: Learn how to view the individual charges that make up a billing statement.
+description: View all individual charges that make up a billing statement.
 ---
 
 # View Charges

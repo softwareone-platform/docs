@@ -1,3 +1,7 @@
+---
+description: Learn how to set up percentage allocation for split billing.
+---
+
 # Set Up Split Billing Allocation
 
 If you have [configured buyers](configure-buyers-for-split-billing.md), but have not defined the split breakdown yet, 100% of the subscription billing is allocated to the **Owner** buyer in your agreement.&#x20;

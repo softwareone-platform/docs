@@ -1,3 +1,7 @@
+---
+description: Delete your API token permanently.
+---
+
 # Delete API Token
 
 If you no longer need a token, you can delete it using the **Delete** option on the **API tokens** page. Before deleting, note the following points:

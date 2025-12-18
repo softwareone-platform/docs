@@ -1,3 +1,7 @@
+---
+description: Update an existing licensee.
+---
+
 # Edit Licensee
 
 If you need to change general information such as the licensee's name, description, or address, you can do so from the licensee details page.

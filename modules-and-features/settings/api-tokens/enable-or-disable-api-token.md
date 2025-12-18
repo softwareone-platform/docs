@@ -1,3 +1,7 @@
+---
+description: Manage your API token.
+---
+
 # Enable or Disable API Token
 
 You can easily disable an API token temporarily and enable it again when required through the platform. Before disabling a token, note the following points:
