@@ -1,16 +1,20 @@
+---
+description: View or download our API specification file.
+---
+
 # OpenAPI Specification
 
 You can download the OpenAPI 3.0 specification of our REST APIs and use them with tools of your choice.&#x20;
 
 The specification contains all API methods. Within the specification, you'll find detailed information about each method, including the parameters, request formats, and response structures.
 
-#### Download the complete specification
+### Download the complete specification
 
 Use the following button to download the full API specification:
 
 <a href="https://api.platform.softwareone.com/public/v1/openapi.json" class="button primary">Download API</a>
 
-#### View specifications in Swagger Editor
+### View specifications in Swagger Editor
 
 You can open individual API specifications directly in Swagger Editor using these links:&#x20;
 

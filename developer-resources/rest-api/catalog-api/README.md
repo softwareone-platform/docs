@@ -1,3 +1,7 @@
+---
+description: Manage your products programmatically using the Catalog API.
+---
+
 # Catalog API
 
 The Catalog API enables you to create, retrieve, and manage products. You can also configure individual items as well as item groups through the API.&#x20;

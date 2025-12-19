@@ -1,3 +1,7 @@
+---
+description: Manage notifications, categories, and contacts with the Notifications API.
+---
+
 # Notifications API
 
 The Notifications API allows you to manage and deliver notifications within the SoftwareOne Marketplace Platform.&#x20;

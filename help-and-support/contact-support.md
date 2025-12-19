@@ -1,8 +1,12 @@
+---
+description: Learn how to reach Marketplace Platform Support quickly and effectively.
+---
+
 # Contact Support
 
 If you experience an issue with the Marketplace Platform or [SoftwareOne FinOps for Cloud](https://docs.finops.softwareone.com/), you can contact Marketplace Platform Support.&#x20;
 
-Our support team is available to help you with technical problems and answer any questions you might have. This includes, but is not limited to:
+Our support team can help you with technical problems and answer any questions you might have. This includes, but is not limited to:
 
 * Assistance with account access and configuration issues.
 * Help with managing your agreements, subscriptions, renewals, and terminations.

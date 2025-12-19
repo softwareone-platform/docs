@@ -1,6 +1,10 @@
+---
+description: Use the Audit API to track and retrieve activity logs programmatically.
+---
+
 # Audit API
 
-The Audit API enables you to track and retrieve activity logs across the Marketplace Platform so you have full visibility into key actions taken by users or systems.
+The Audit API enables you to track and retrieve activity logs across the Marketplace Platform, so you have full visibility into key actions taken by users or systems.
 
 With this API, you can create new audit records programmatically, retrieve a list of logged events for monitoring or compliance purposes, and get detailed information about specific events. The API consists of two core objects: Audit Record and Audit Event Type.&#x20;
 

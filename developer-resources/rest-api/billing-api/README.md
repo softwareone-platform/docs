@@ -1,3 +1,9 @@
+---
+description: >-
+  Use the Billing API to manage invoices, journals, and other billing operations
+  programmatically.
+---
+
 # Billing API
 
 The SoftwareOne Marketplace Billing API allows you to interact with the billing features of the Marketplace Platform programmatically.&#x20;

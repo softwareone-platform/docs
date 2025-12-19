@@ -4,9 +4,7 @@ description: Understand the key concepts and terminology used across the platfor
 
 # Concepts
 
-Certain concepts and terms are central to the functionality and design of the Marketplace Platform.&#x20;
-
-We recommend that you familiarize yourself with the terminology, as it's often referenced in our platform and documentation. This will allow you to interact with the platform and maximize its use.&#x20;
+Certain concepts and terms are central to the functionality and design of the Marketplace Platform. We recommend that you familiarize yourself with the terminology, as it's often referenced in our platform and documentation. This will allow you to interact with the platform and maximize its use.&#x20;
 
 {% hint style="info" %}
 You can also watch the [Getting Started Video Guide ](https://youtu.be/LrMOMN8sjM4)on YouTube to understand the concepts listed on this page. The guide also outlines what makes our platform unique for your enterprise software procurement.&#x20;

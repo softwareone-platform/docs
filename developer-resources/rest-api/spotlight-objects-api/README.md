@@ -1,3 +1,7 @@
+---
+description: Use the Spotlight API to highlight key platform objects requiring attention.
+---
+
 # Spotlight API
 
 Marketplace Platform's Spotlight API provides endpoints designed to highlight key platform objects that may need attention. These objects can include agreements, orders, subscriptions, invoices, and more.

@@ -6,6 +6,21 @@ description: Find answers to frequently asked questions about invoices and state
 
 <details>
 
+<summary>What are the differences between Marketplace invoices and statements?</summary>
+
+Invoices and statements are both billing documents, but they serve different purposes. The following table lists the key differences between these documents:
+
+| **Purpose**         | Provides a high-level summary of the charges.                             | Provides a full record of the charges from the vendor.     |
+| ------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **Format**          | PDF                                                                       | Excel                                                      |
+| **Level of detail** | Contains aggregated lines, such as per item, per subscription, and so on. | Can have hundreds or thousands of lines for precise usage. |
+| **Use case**        | Used as an official billing and record-keeping document.                  | Used for reconciliation, in-depth audits, and analysis.    |
+| **Quantity**        | May displays the quantity as 1 if multiple lines are consolidated.        | Each line shows the actual quantity of items.              |
+
+</details>
+
+<details>
+
 <summary>Where can I find my invoice ID and statement ID?</summary>
 
 You can find these IDs in the [invoice header](./#invoice-header).
@@ -16,9 +31,11 @@ You can find these IDs in the [invoice header](./#invoice-header).
 
 <details>
 
-<summary>How do I access my invoices?</summary>
+<summary>How do I access my invoice?</summary>
 
-You can view and download your invoices from the **Invoices** page in the platform. For details, see [View and Download Invoices](../../marketplace/billing/invoices/download-invoices.md).
+You can access your invoice from the **Invoices** page in the platform.&#x20;
+
+For details, see [View and Download Invoices](../../marketplace/billing/invoices/download-invoices.md).
 
 </details>
 
@@ -49,7 +66,7 @@ Both invoice types include a link to the relevant statement, so you can download
 
 <details>
 
-<summary>Can I download statements without signing in to the account?</summary>
+<summary>Can I download statements without signing in to my account?</summary>
 
 Yes, if you don’t have access to your account, you can download a statement from the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page. You'll need to provide your Invoice ID and Statement ID.&#x20;
 

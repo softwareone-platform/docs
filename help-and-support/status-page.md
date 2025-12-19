@@ -1,3 +1,7 @@
+---
+description: Use the Status page for real‑time information about the platform.
+---
+
 # Status Page
 
 Our [Status Page](https://status.platform.softwareone.com/) is a central source of information about the current status of the Marketplace Platform. Here's why it's important:

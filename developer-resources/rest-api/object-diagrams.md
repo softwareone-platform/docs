@@ -1,3 +1,7 @@
+---
+description: View the state transition diagrams for various objects in the platform.
+---
+
 # Object Diagrams
 
 The Marketplace Platform enables transactions among [different actors](../../marketplace-platform/getting-started/key-concepts.md#actors), such as clients, partners, and vendors, in countries where SoftwareOne operates.&#x20;

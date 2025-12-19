@@ -1,3 +1,7 @@
+---
+description: Subscribe to our YouTube channel for video guides and tutorials.
+---
+
 # YouTube Channel
 
 Subscribe to our YouTube Channel to stay updated about our platform and explore the latest video content, including guides, tutorials, and more. Select the following link to visit our YouTube page.

@@ -1,10 +1,8 @@
 ---
-description: Please read these terms of use carefully.
+description: Read our terms of use carefully.
 ---
 
 # Terms of Use
-
-***
 
 Welcome to SoftwareOne’s Client Portal! Please read this agreement (**“Agreement”**) carefully before using the Client Portal Services or website. The Client Portal Software as a Service (**“SaaS”**) license granted by this Agreement is conditioned upon the organization identified within the Interface (**“Company”**) having executed a software purchase or other service agreement (**“Contract”**) with SoftwareOne AG or one of its affiliates (**“SoftwareOne”**) and allows Company to use the Services, associated software, and Interface for the purposes stated in this Agreement and the Contracts.
 

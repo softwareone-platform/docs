@@ -1,3 +1,9 @@
+---
+description: >-
+  Use the Accounts API to manage accounts, users, and related entities
+  programmatically.
+---
+
 # Accounts API
 
 The Accounts API enables you to programmatically access and manage key account-related data within the Marketplace Platform.

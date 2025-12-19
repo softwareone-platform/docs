@@ -1,5 +1,5 @@
 ---
-description: Overview of the SoftwareOne design system.
+description: Learn about the SoftwareOne design system and its importance.
 ---
 
 # Design System

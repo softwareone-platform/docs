@@ -1,3 +1,7 @@
+---
+description: Learn how to join and access the SoftwareOne Marketplace Platform.
+---
+
 # Sign Up
 
 If your organization already uses the SoftwareOne Marketplace Platform, ask your account administrator to invite you to the account. For detailed instructions, see [Add New Users](../modules-and-features/settings/users/add-new-users.md).&#x20;

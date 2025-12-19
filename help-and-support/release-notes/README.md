@@ -1,4 +1,12 @@
+---
+description: >-
+  View release notes containing new features and improvements across the
+  platform.
+---
+
 # Release Notes
+
+
 
 <figure><img src="../../.gitbook/assets/roadmap.png" alt=""><figcaption></figcaption></figure>
 

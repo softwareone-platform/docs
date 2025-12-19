@@ -1,5 +1,5 @@
 ---
-description: Our community standard and code of conduct rules.
+description: Read our community standard and code of conduct rules.
 ---
 
 # Code of Conduct

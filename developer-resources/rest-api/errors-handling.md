@@ -1,3 +1,7 @@
+---
+description: Understand Marketplace API errors and status codes.
+---
+
 # Error Handling
 
 All errors reported by the [REST API](./) have an [HTTP status code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) and follow the standard format.&#x20;
