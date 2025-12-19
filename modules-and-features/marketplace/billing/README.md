@@ -1,3 +1,7 @@
+---
+description: Learn about the Billing Management, its features, and modules.
+---
+
 # Billing
 
 The **Billing** module within the Marketplace Platform is your primary entry point for accessing billing documents for your account.

@@ -1,8 +1,12 @@
+---
+description: Move your Querying orders to Processing.
+---
+
 # Set Querying Orders to Processing
 
 In some cases, you may need to provide additional information if your order information is incorrect or incomplete, or if specific steps must be completed before we can process your order.
 
-Orders that require your attention are marked as **Querying** in the platform. When you open a querying order, the **General** tab on the details page shows what needs to be corrected and how to address the issue.
+Orders that require your attention are shown as **Querying**. When you open a querying order, the **General** tab on the details page shows what needs to be corrected and how to address the issue.
 
 Once you have completed the necessary steps, you must update the order's status from **Querying to Processing**. Changing the status informs SoftwareOne and the vendor that the order is ready for their review and further processing.&#x20;
 

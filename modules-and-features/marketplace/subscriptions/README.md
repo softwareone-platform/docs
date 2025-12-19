@@ -2,7 +2,7 @@
 
 A subscription refers to the ongoing service provision under the terms and conditions of an agreement. In the Marketplace Platform, subscriptions are mapped to agreements, and each agreement can contain one or multiple subscriptions.&#x20;
 
-You can [order new subscriptions through the platform](buy-products-and-services.md) and also manage your existing licenses. This includes ordering additional licenses and canceling the previously purchased ones.&#x20;
+You can [order new subscriptions through the platform](../../../help-and-support/faqs/buy-products-and-services.md) and also manage your existing licenses. This includes ordering additional licenses and canceling the previously purchased ones.&#x20;
 
 Your subscriptions are available on the **Subscriptions** page. The page is available under **Marketplace** in the main menu.
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  How to order additional perpetual software licenses using an existing active
+  agreement.
+---
+
 # Order Additional Perpetual Software Licenses
 
 If you already have an agreement for a perpetual software product and want to add more one-time software items to the same agreement, you can do so by creating a change order.&#x20;

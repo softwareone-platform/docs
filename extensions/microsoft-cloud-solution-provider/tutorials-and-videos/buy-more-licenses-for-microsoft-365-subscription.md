@@ -1,3 +1,7 @@
+---
+description: How to order additional licenses for a Microsoft 365 subscription.
+---
+
 # Buy More Licenses for Microsoft 365 Subscription
 
 This tutorial describes how you can order additional licenses for an existing Microsoft 365 subscription. Additional licenses can be ordered by placing a change order for the agreement.&#x20;

@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of a request.
+---
+
 # Request States
 
 The following diagram shows the possible states of a request created through the platform and the transition between various states:

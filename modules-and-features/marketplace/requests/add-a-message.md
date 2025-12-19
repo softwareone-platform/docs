@@ -1,3 +1,7 @@
+---
+description: Add new messages to your request.
+---
+
 # Add Messages to Your Request
 
 If you created a request through the platform and wish to add a message to your interaction with the vendor or SoftwareOne, you can do this through the **Add Message** option on the request details page.

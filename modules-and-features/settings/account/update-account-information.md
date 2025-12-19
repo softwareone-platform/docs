@@ -1,7 +1,5 @@
 ---
-description: >-
-  Update the account information for your organization, such as your account
-  name and logo, company contact information, and address.
+description: Update the account information for your organization.
 ---
 
 # Update Account Details

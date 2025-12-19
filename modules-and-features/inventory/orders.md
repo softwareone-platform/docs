@@ -1,3 +1,7 @@
+---
+description: Access your perpetual license orders.
+---
+
 # Sales Orders
 
 The **Sales Orders** page allows you to access your perpetual license orders. You can access this page from the main navigation menu by selecting **Billing** > **Sales Orders**.&#x20;

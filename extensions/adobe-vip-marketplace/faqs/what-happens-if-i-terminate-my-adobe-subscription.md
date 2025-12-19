@@ -1,3 +1,7 @@
+---
+description: Learn about the impact of terminating your Adobe subscription.
+---
+
 # What happens if I terminate my Adobe subscription?
 
 Adobe subscriptions can be terminated both within and outside the 14-day return period.&#x20;

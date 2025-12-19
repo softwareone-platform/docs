@@ -1,3 +1,7 @@
+---
+description: Cancel an active Marketplace agreement.
+---
+
 # Terminate Agreement
 
 You can terminate an agreement by creating a termination order for the agreement.&#x20;

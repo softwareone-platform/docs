@@ -1,3 +1,7 @@
+---
+description: Activate your VIP Marketplace agreement.
+---
+
 # How do I activate my VIP Marketplace agreement?
 
 If your Adobe VIP subscriptions have been migrated to the Adobe VIP Marketplace program, and your SoftwareOne representative has created a draft purchase order, you’ll need to accept the terms of the new buying program by completing your draft order.

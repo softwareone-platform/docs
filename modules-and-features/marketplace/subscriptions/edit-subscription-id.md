@@ -1,3 +1,7 @@
+---
+description: Add or update the client ID for a subscription.
+---
+
 # Edit Subscription Client ID
 
 If you want to assign a client ID to a subscription, you can do this from the subscription's details page.&#x20;

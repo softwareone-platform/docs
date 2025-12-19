@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of an order.
+---
+
 # Order States
 
 An order can have several states from the time it's created until its completion.&#x20;

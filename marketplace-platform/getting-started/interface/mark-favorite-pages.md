@@ -1,5 +1,5 @@
 ---
-description: Add or remove a page from your favorites.
+description: Add or remove pages from your favorites.
 ---
 
 # Manage Favorites

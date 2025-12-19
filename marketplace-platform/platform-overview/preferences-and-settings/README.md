@@ -1,5 +1,5 @@
 ---
-description: Learn how to customize your preferences and profile settings.
+description: Customize your preferences and profile settings.
 ---
 
 # Preferences and Settings

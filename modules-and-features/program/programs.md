@@ -1,3 +1,7 @@
+---
+description: Learn about programs and how to view them in the platform.
+---
+
 # Programs
 
 The **Programs** page in the platform displays all active vendor programs that are open for enrollment. You can access this page by selecting the **Marketplace** option in the main navigation menu.

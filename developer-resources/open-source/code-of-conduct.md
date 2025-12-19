@@ -1,3 +1,7 @@
+---
+description: Our community standard and code of conduct rules.
+---
+
 # Code of Conduct
 
 At SoftwareOne, we truly admire and appreciate the unique ideas, teamwork, and variety of backgrounds, skills, cultures, and personal perspectives of our [open-source](./) contributors. They make our projects and communities more vibrant and diverse.

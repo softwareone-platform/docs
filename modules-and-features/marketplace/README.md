@@ -1,3 +1,7 @@
+---
+description: Learn about the Marketplace module and its features.
+---
+
 # Marketplace
 
 The Marketplace is your entry point for accessing and managing your organization's purchases. It gives you end-to-end visibility and control over your transactions within the platform.

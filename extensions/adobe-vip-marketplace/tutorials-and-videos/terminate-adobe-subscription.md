@@ -1,3 +1,7 @@
+---
+description: Cancel your Adobe subscription.
+---
+
 # Terminate Adobe Subscriptions
 
 This tutorial describes how you can cancel your Adobe subscription by submitting a termination order.&#x20;

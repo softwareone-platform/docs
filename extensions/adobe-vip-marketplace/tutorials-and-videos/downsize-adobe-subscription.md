@@ -1,3 +1,7 @@
+---
+description: Reduce the number of licenses for your existing Adobe subscription.
+---
+
 # Downsize Adobe Subscription
 
 This tutorial describes how you can lower the quantity of your Adobe licenses by submitting a change order through the Marketplace Platform.&#x20;

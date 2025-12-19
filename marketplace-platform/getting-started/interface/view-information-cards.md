@@ -1,5 +1,5 @@
 ---
-description: Learn how to quickly preview key details using information cards.
+description: Preview key details quickly using information cards.
 ---
 
 # Information Cards

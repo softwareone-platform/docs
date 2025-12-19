@@ -1,16 +1,18 @@
 ---
-description: Learn about Partners Management and how it works in the platform.
+description: Learn about Partner Management and how it works.
 ---
 
-# What is Partners Management?
+# What is Partner Management?
 
-SoftwareOne is a global provider of software and cloud technology solutions. Our [Partner Program ](https://partner.softwareone.com/welcome)helps companies that sell cloud-based products and services expand their businesses by accessing new markets around the world.&#x20;
+SoftwareOne is a global provider of software and cloud technology solutions.&#x20;
 
-The program supports partners such as Value-Added Resellers (VARs), System Integrators (SIs), and Managed Service Providers (MSPs), and other businesses like Cloud Solutions Providers (CSPs), Direct Marketing Resellers (DMRs), and Retailers to grow their revenue and scale their market presence. Our program equips partners with the tools, training, and support to accelerate growth, reach new clients, and build long-term relationships while minimizing the risks associated with competitive solutions.&#x20;
+Our [Partner Program ](https://partner.softwareone.com/welcome)helps companies that sell cloud-based products and services expand their businesses by accessing new markets worldwide.&#x20;
+
+The program supports partners, including Value-Added Resellers (VARs), System Integrators (SIs), and Managed Service Providers (MSPs), as well as other businesses such as Cloud Solutions Providers (CSPs), Direct Marketing Resellers (DMRs), and Retailers, to grow their revenue and scale their market presence. Our program equips partners with the tools, training, and support to accelerate growth, reach new clients, and build long-term relationships while minimizing the risks associated with competitive solutions.&#x20;
 
 **Marketplace Platform and Partners Management**
 
-The Marketplace Platform includes a Partner Management feature, which allows partners to access features designed to support resale activities.&#x20;
+Marketplace Platform's Partner Management feature allows partners to access features designed to support resale activities.&#x20;
 
 Unlike clients, who procure software or services for self-use, partners can procure SaaS products for their own use and resale to their end customers.&#x20;
 

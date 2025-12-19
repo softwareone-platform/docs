@@ -1,3 +1,7 @@
+---
+description: Access and manage your attachments for an agreement.
+---
+
 # View and Download Attachments
 
 The **Attachments** tab on the agreement details page displays all files that have been added to your agreement by the vendor or SoftwareOne.&#x20;

@@ -1,4 +1,8 @@
-# Migrating from Adobe VIP
+---
+description: Migrate from Adobe VIP to Adobe VIP Marketplace.
+---
+
+# Migrate from Adobe VIP
 
 If you are currently ordering subscriptions through the Adobe Value Incentive Plan (VIP) buying program, we recommend you familiarize yourself with the differences between the Adobe VIP and VIP Marketplace programs.&#x20;
 

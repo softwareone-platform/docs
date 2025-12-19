@@ -1,5 +1,5 @@
 ---
-description: Order software products for reselling to your customers.
+description: Order software products for reselling to your end customers.
 ---
 
 # How to Order Products for Resale

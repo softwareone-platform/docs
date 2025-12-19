@@ -1,3 +1,7 @@
+---
+description: Change the agreement name.
+---
+
 # Rename Agreement
 
 If your account contains multiple agreements, you can rename those agreements.

@@ -1,3 +1,7 @@
+---
+description: Learn about the Program Management, its features, and modules.
+---
+
 # Program
 
 Program management in the Marketplace Platform enables SoftwareOne partners to view programs available for enrollment and request certificates for those programs.&#x20;

@@ -6,26 +6,26 @@ description: >-
 
 # How do I select my education sub-segments?
 
-When setting up a new Education-segment account or when placing orders against an existing one, customers must choose their Education sub-segments in the Adobe Admin Console. This task only needs to be completed once.
-
-{% hint style="info" %}
-These steps must be completed by an Adobe Admin Console administrator.
-{% endhint %}
-
-**To select your sub-segment(s)**
-
-1. Sign in to the Adobe Admin Console
-2. On the **Required action: Confirm type of organization** page:
-   1. Select the sub-segment(s) applicable to your organization.
-   2. Select **Confirm and continue**.
-
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
-3. If you have an Order in the SoftwareOne Marketplace that is in "Querying" status for this account, open the order and click **Process**.
-
-**Selection rules**
+When setting up a new education-segment account or when placing orders against an existing one, you must choose your Education sub-segments in the Adobe Admin Console. This task only needs to be completed once.&#x20;
 
 Adobe enforces a mutually exclusive relationship between the sub-segment groups:
 
-* Customers may select **K-12**, **Higher Education**, or **both**.
-* Customers may select **Non-Profit**, but **not** in combination with K-12 or Higher Education.
+* You can select **K-12**, **Higher Education**, or **both**.
+* You can select **Non-Profit**, but not in combination with K-12 or Higher Education.
+
+### Selecting your education sub-segments
+
+{% hint style="info" %}
+You must be an Adobe Admin Console administrator to complete these steps.
+{% endhint %}
+
+To select your sub-segments:
+
+1. Sign in to the Adobe Admin Console.
+2. On the **Required action: Confirm type of organization** page:
+   1. Select the sub-segments applicable to your organization.
+   2. Select **Confirm and continue**.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Select and confirm the sub-segments.</p></figcaption></figure></div>
+
+3. If you have an order with a **Querying** status in the Marketplace, open the order, then select **Process**. For instructions, see [Set Querying Orders to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).

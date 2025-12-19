@@ -1,4 +1,8 @@
-# Order Additional Azure Subscriptions
+---
+description: How to order additional Azure subscription using an existing agreement.
+---
+
+# Order Additional Azure Subscription
 
 This tutorial describes how you can order additional subscriptions for Microsoft Azure using an existing Marketplace agreement.&#x20;
 

@@ -1,5 +1,5 @@
 ---
-description: Learn how to review your configuration for split billing.
+description: Review your configuration for split billing.
 ---
 
 # Review Split Billing Configuration

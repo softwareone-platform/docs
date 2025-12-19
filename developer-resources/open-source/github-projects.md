@@ -1,3 +1,7 @@
+---
+description: Explore our GitHub projects.
+---
+
 # GitHub Projects
 
 GitHub is where we host all our released open-source code.

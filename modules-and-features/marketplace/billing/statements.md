@@ -1,5 +1,5 @@
 ---
-description: Learn about managing and reviewing your Marketplace statements.
+description: Manage and review your Excel billing statements.
 ---
 
 # Statements

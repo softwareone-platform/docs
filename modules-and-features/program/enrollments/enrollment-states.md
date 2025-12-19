@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of an enrollment.
+---
+
 # Enrollment States
 
 In the Marketplace Platform, an enrollment goes through several states (also known as statuses) during its lifecycle.&#x20;

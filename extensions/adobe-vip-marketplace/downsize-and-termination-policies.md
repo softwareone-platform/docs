@@ -1,3 +1,7 @@
+---
+description: Learn about our downsizing and termination policies.
+---
+
 # Downsize and Termination Policies
 
 The Marketplace Platform allows you to manage your Adobe VIP Marketplace software subscriptions. This includes the ability to reduce or downsize the number of licenses or completely cancel/terminate a subscription.&#x20;

@@ -1,3 +1,7 @@
+---
+description: How to add new Microsoft items to your existing agreement.
+---
+
 # Add New Items to Your Agreement
 
 This tutorial describes how you can add new Microsoft items to your existing CSP agreement.&#x20;

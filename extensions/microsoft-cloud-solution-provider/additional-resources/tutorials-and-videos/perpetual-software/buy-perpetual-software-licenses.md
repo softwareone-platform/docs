@@ -1,3 +1,9 @@
+---
+description: >-
+  How to order perpetual software licenses by setting up a new agreement and new
+  Microsoft tenant.
+---
+
 # Buy Perpetual Software Licenses
 
 This tutorial shows how you can order a Microsoft [Perpetual Software](../../../products-and-programs/perpetual-software/) license by setting up a new tenant.&#x20;

@@ -1,5 +1,5 @@
 ---
-description: Learn how to view and order products from the Marketplace.
+description: Learn about products and how to view and order them in the Marketplace.
 ---
 
 # Products

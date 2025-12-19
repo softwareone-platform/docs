@@ -1,3 +1,7 @@
+---
+description: Learn about the managing your account settings.
+---
+
 # Settings
 
 The **Settings** module enables account administrators to manage various aspects of the account, including notifications and entities such as buyers, licensees, and sellers.&#x20;

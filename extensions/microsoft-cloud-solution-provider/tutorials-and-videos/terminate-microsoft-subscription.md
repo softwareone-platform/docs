@@ -1,4 +1,8 @@
-# Terminate Microsoft 365 Subscriptions
+---
+description: How to terminate your Microsoft 365 subscription.
+---
+
+# Terminate Microsoft 365 Subscription
 
 This tutorial describes how you can cancel a subscription by placing a termination order for that subscription.
 

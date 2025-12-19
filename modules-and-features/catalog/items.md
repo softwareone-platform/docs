@@ -1,5 +1,5 @@
 ---
-description: Learn how to view items in the Marketplace.
+description: Learn about items and how to view them in the Marketplace.
 ---
 
 # Items

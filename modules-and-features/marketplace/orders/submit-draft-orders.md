@@ -1,3 +1,7 @@
+---
+description: Finalize and submit your saved orders for processing.
+---
+
 # Submit Your Saved Orders
 
 If you [saved an order for later](save-order-as-a-draft.md) and want to submit it for processing, you can do this through the **Orders** page in the platform.

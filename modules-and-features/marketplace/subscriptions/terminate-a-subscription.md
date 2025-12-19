@@ -1,3 +1,7 @@
+---
+description: Cancel your subscription.
+---
+
 # Terminate Subscriptions
 
 Subscriptions can be terminated if you no longer need them or if you don't want to renew them.&#x20;

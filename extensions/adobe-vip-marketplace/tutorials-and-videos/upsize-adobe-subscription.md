@@ -1,3 +1,7 @@
+---
+description: Increase the number of licenses for your existing Adobe subscription.
+---
+
 # Upsize Adobe Subscription
 
 This tutorial describes how you can increase the number of licenses for your Adobe subscription by submitting a change order.

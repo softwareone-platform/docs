@@ -1,3 +1,7 @@
+---
+description: Open source at SoftwareOne.
+---
+
 # Open Source
 
 SoftwareOne firmly believes in the power of open source as a solution to real-life community issues. We are passionate about collaborative efforts and always appreciate active participation. This is an exciting era of utilizing technology to create diverse tools, applications, and services.

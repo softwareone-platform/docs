@@ -1,3 +1,7 @@
+---
+description: Create a new request.
+---
+
 # Create New Requests
 
 If you require personalized assistance or have queries regarding a product, you can contact the vendor or SoftwareOne directly through the marketplace.

@@ -1,5 +1,5 @@
 ---
-description: Learn how to manage buyers and adjust their allocation percentages.
+description: Manage buyers and adjust their allocation percentages.
 ---
 
 # Edit Split Billing

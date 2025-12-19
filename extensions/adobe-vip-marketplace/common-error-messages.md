@@ -1,4 +1,8 @@
-# Common error messages
+---
+description: Find the common error messages on the UI.
+---
+
+# Common Error Messages
 
 This topic describes some error messages you might encounter when adjusting the quantity of your Adobe licenses.
 

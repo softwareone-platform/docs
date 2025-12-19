@@ -1,3 +1,7 @@
+---
+description: Transfer your account to SoftwareOne.
+---
+
 # Transfer Your Adobe Reseller
 
 Adobe allows its VIP Marketplace customers to switch from their current reseller to a new one. This process is called reseller transfer.&#x20;

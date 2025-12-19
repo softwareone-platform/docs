@@ -1,5 +1,5 @@
 ---
-description: Learn how to verify if your account is enabled for partner use.
+description: Verify if your Marketplace account is enabled for partner use.
 ---
 
 # How to Verify If Your Account Has Partner Capabilities

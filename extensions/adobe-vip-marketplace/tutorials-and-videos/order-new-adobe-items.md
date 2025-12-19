@@ -1,3 +1,7 @@
+---
+description: Buy new Adobe items using your existing agreement.
+---
+
 # Order New Adobe Items
 
 This tutorial shows how you can order new Adobe items using your existing Marketplace agreement. Additional items can be ordered by submitting a change order.&#x20;

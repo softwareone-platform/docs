@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of a subscription.
+---
+
 # Subscription States
 
 The following diagram shows the possible states of a subscription and the transition between these states:

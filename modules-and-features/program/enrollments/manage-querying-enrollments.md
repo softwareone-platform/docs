@@ -1,3 +1,7 @@
+---
+description: Manage your querying enrollments.
+---
+
 # Manage Querying Enrollments
 
 In some cases, a vendor may request that you provide additional information regarding your enrollment. You may also be required to complete some steps before your enrollment can be approved by the vendor.&#x20;

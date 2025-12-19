@@ -1,4 +1,5 @@
 ---
+description: Learn about the Catalog Management, its features, and modules.
 layout:
   width: default
   title:

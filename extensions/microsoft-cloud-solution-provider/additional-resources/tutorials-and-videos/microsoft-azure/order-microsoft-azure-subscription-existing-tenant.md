@@ -1,3 +1,7 @@
+---
+description: How to order an Azure subscription for a new tenant.
+---
+
 # Order Azure Subscription for Existing Tenant
 
 This tutorial describes how you can order a subscription for Microsoft Azure by setting up a new agreement and connecting your existing Microsoft tenant.&#x20;

@@ -1,3 +1,7 @@
+---
+description: Learn about the different states of an agreement.
+---
+
 # Agreement States
 
 In the Marketplace Platform, an agreement goes through multiple states (also known as statuses).

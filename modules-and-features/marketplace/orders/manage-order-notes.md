@@ -1,3 +1,7 @@
+---
+description: Manage your notes for an existing order.
+---
+
 # Add or Update Order Notes
 
 When ordering a product, the Marketplace Platform provides an option to add comments or instructions, allowing you to include information that you may want to link to the order.

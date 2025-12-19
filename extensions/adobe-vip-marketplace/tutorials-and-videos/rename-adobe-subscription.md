@@ -1,3 +1,7 @@
+---
+description: Change the name of your Adobe subscription.
+---
+
 # Rename Adobe Subscription
 
 If your Marketplace account contains multiple Adobe subscriptions, you can rename those subscriptions to identify them easily in your list of subscriptions.

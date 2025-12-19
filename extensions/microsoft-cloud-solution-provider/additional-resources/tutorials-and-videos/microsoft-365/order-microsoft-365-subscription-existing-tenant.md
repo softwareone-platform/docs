@@ -1,3 +1,7 @@
+---
+description: How to order a Microsoft 365 Subscription for an existing tenant.
+---
+
 # Order Microsoft 365 Subscription for Existing Tenant
 
 This tutorial describes how you can order a Microsoft 365 subscription by creating a new Marketplace agreement.

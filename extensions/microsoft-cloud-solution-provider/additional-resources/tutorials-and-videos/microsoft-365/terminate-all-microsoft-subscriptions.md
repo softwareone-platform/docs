@@ -1,3 +1,7 @@
+---
+description: How to terminate your agreement containing Microsoft 365 subscriptions.
+---
+
 # Terminate Microsoft 365 Agreement
 
 This tutorial describes how you can terminate your Marketplace agreement by placing a termination order for the agreement.

@@ -4,14 +4,12 @@ description: Learn how to read and interpret your Marketplace invoices and state
 
 # Understand Your Billing Documents
 
-The Marketplace Platform generates invoices monthly. Invoices include subscription charges or usage recorded in the previous calendar month.
+The Marketplace Platform generates invoices monthly. Each invoice includes subscription charges or any usage recorded during the previous calendar month.
 
-For many cloud-based services, such as Microsoft Azure and Adobe VIP Marketplace, the usage data can result in multiple charge lines on a single billing statement. When each charge line is printed individually on a single invoice, it's challenging to read and interpret.
+For many cloud-based services, such as Microsoft Azure and Adobe VIP Marketplace, usage-based billing can result in multiple charge lines. When these charges are listed individually on a single invoice, the information can be difficult to read and interpret. To simplify your billing experience, the Marketplace Platform provides the following documents:&#x20;
 
-To make your billing experience easier, the Marketplace Platform provides the following documents:&#x20;
-
-* **Invoice** - An invoice is a document that contains charges. Invoices are issued as PDFs, and they are generated for specific Marketplace agreements.
-* **Statement** - A statement is an Excel file containing a detailed breakdown of invoice charges, including individual charge lines.&#x20;
+* **Invoice** - An invoice is a PDF document that contains charges for a specific Marketplace agreement.
+* **Statement** - A statement is an Excel file containing a detailed breakdown of charges on an invoice, including individual charge lines and usage details.&#x20;
 
 To learn about these documents, continue reading or watch the video guide:
 

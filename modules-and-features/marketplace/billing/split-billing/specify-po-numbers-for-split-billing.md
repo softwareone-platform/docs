@@ -1,5 +1,7 @@
 ---
-description: Learn how to specify purchase order numbers for additional buyers.
+description: >-
+  Specify purchase order numbers for additional buyers configured for split
+  billing.
 ---
 
 # Specify PO Numbers for Split Billing

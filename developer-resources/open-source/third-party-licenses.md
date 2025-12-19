@@ -1,3 +1,7 @@
+---
+description: Learn about our open-source components and their licensing.
+---
+
 # Third-Party Licenses
 
 This page provides a list of open-source third-party software components used by the Marketplace Platform.&#x20;

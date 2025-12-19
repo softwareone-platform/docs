@@ -1,4 +1,8 @@
-# Terminate Adobe Agreement
+---
+description: Cancel your agreement containing Adobe subscriptions.
+---
+
+# Terminate Agreement
 
 If you want to cancel all subscriptions within an agreement, you must terminate the agreement itself. This is done by placing a termination order. This tutorial shows how to create a termination order for an agreement.
 

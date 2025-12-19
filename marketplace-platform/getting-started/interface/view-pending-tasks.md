@@ -1,5 +1,5 @@
 ---
-description: Learn how to use the Spotlight widget on the Home page.
+description: Use the Spotlight widget to keep track of items requiring attention.
 ---
 
 # Object Spotlight

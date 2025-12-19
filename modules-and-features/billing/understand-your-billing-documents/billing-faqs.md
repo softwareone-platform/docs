@@ -4,8 +4,6 @@ description: Find answers to frequently asked questions about invoices and state
 
 # Billing FAQs
 
-This page contains frequently asked questions about your financial documents, including invoices and statements.&#x20;
-
 <details>
 
 <summary>Where can I find my invoice ID and statement ID?</summary>

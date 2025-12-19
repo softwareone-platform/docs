@@ -1,5 +1,5 @@
 ---
-description: Access and download your Marketplace invoices PDFs.
+description: Access and download your Marketplace invoice PDFs.
 ---
 
 # View and Download Invoices

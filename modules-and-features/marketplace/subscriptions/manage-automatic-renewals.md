@@ -1,3 +1,7 @@
+---
+description: Update the automatic renewal settings for a subscription.
+---
+
 # Manage Automatic Renewals
 
 In the Marketplace Platform, we automatically renew subscriptions for your convenience and to prevent any service interruptions.&#x20;
