@@ -4,12 +4,12 @@ description: Learn how to read and interpret your Marketplace invoices and state
 
 # Understand Your Billing Documents
 
-The Marketplace Platform generates invoices monthly. Each invoice includes subscription charges or any usage recorded during the previous calendar month.
+For many cloud-based services, such as Microsoft Azure and Adobe VIP Marketplace, usage-based billing can result in multiple charge lines. When these charges are listed individually on a single invoice, the information can be difficult to read and interpret.&#x20;
 
-For many cloud-based services, such as Microsoft Azure and Adobe VIP Marketplace, usage-based billing can result in multiple charge lines. When these charges are listed individually on a single invoice, the information can be difficult to read and interpret. To simplify your billing experience, the Marketplace Platform provides the following documents:&#x20;
+To simplify your billing experience, the Marketplace Platform provides the following documents:&#x20;
 
-* **Invoice** - An invoice is a PDF document that contains charges for a specific Marketplace agreement.
-* **Statement** - A statement is an Excel file containing a detailed breakdown of charges on an invoice, including individual charge lines and usage details.&#x20;
+* **Invoice** - An invoice is a PDF document that contains subscription charges and usage recorded during the previous calendar month. Invoices are issued monthly based on a specific Marketplace agreement.
+* **Statement** - A statement is an Excel file containing a detailed breakdown of charges on an invoice, including individual charge lines and usage details. Statements are also issued monthly.
 
 To learn about these documents, continue reading or watch the video guide:
 
@@ -26,7 +26,7 @@ An invoice PDF contains general invoice information, subscription details, and c
 We provide two types of invoices:
 
 * **Compact invoice** - A compact invoice is a summarized invoice issued for statements containing a large number of charges (typically 42 or more). In a compact invoice, all charges for a product or service are grouped into summarized invoice lines, and quantities are shown as `1` to represent the aggregate charge for each item.&#x20;
-* **Detailed invoice** - A detailed invoice is issued for statements containing a limited number of charges (typically 42 or fewer). This type of invoice lists each individual charge on a separate line, allowing you to see exactly what you are being billed for, line by line. This means you don't need to refer to another statement for transaction details.
+* **Detailed invoice** - A detailed invoice is issued for statements containing a limited number of charges (typically 41 or fewer). This type of invoice lists each charge on a separate line, allowing you to see exactly what you are being billed for, line by line. This means you don't need to refer to another statement for transaction details.
 
 The invoice type is indicated in the **Description** column of your invoice PDF. For more details, see [Invoice line item details](./#invoice-line-item-details).
 
