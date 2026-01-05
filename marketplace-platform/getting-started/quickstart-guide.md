@@ -53,7 +53,7 @@ When your administrator or SoftwareOne adds you to an account, you will receive 
 
 After signing in to your account, set up your profile and define preferences, including your name, profile picture, account language, and timezone.&#x20;
 
-If you are an account administrator, you can perform additional account setup tasks, like creating user groups and inviting additional users to your account.
+If you are an account administrator, you can perform additional account setup tasks, such as creating user groups and inviting additional users to your account.
 
 <details>
 
