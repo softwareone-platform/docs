@@ -47,8 +47,9 @@ To start the process:
 3. **Create agreemen**t - Select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
 4. **Microsoft details** - Enter the details for your Microsoft account:
    1. Enter the tenant name you want to use on the onmicrosoft.com domain. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
-   2. Select **Next**. The platform validates the details that you entered.
-   3. Fill out the contact form and select **Next**. You'll need to provide the following details:
+   2. (Optional) Select the **I would like to align subscription end dates within this agreement** checkbox. When you select this checkbox, all future subscriptions created within this agreement are cotermed and aligned with the subscriptions created during the initial purchase. To learn more, see [Subscription Coterminosity](../products-and-programs/microsoft-nce/about-subscription-coterminosity/).
+   3. Select **Next**. The platform validates the details that you entered.
+   4. Fill out the contact form and select **Next**. You'll need to provide the following details:
       1. Company name.
       2. Company registration ID or tax number.
       3. Company address, including city and zip/postal code.
