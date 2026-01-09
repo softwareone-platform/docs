@@ -10,7 +10,7 @@ You can use the Audit trail feature to see who made specific changes, when they 
 
 Each audit trail record includes timestamps, a summary of the event, object-specific details, and the actors involved.
 
-## Accessing the audit trail
+### Accessing the audit trail
 
 Account administrators can access the audit trail for their account on the **Audit trail** page in the platform. This will allow you to view all records that have been generated for your account:
 
@@ -22,7 +22,7 @@ An audit trail also exists at the object level in our platform. If you want to v
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/audit_trail.png" alt=""><figcaption><p>The Audit trail tab within the order details page.</p></figcaption></figure></div>
 
-## Viewing record details
+### Viewing record details
 
 To view detailed information for an audit trail log, select **View details** on the **Audit trail** page.&#x20;
 

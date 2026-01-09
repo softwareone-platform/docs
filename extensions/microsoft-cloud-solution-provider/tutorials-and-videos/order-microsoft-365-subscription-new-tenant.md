@@ -61,7 +61,7 @@ To start the process:
    2. Review and adjust the number of licenses as required.
    3. If applicable, [read the offer attestation](../additional-resources/faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
    4. Select **Next**.
-8. **Details -** Provide reference details, like additional IDs or notes, and select **Next**.
+8. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 9. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
 10. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
 {% endstep %}

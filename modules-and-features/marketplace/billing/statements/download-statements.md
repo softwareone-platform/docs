@@ -6,7 +6,7 @@ description: Download your billing statements in XLSX format.
 
 You can download your billing statements from two locations: the **Statements** page after signing in to your Marketplace account, or the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page without signing in.&#x20;
 
-## Downloading a statement (sign-in required)
+### Downloading a statement (sign-in required)
 
 To download your statement from the Marketplace Platform:
 
@@ -18,7 +18,7 @@ To download your statement from the Marketplace Platform:
    * Select the link in the **Reference** column.
    * Select the actions icon (**•••**) and choose **Download**.&#x20;
 
-## Downloading a statement (no sign-in required)
+### Downloading a statement (no sign-in required)
 
 If you cannot access your account, you can still download your statement from the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page. This page is publicly available, allowing you to download your statement using your unique invoice ID and statement ID.
 

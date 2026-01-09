@@ -13,29 +13,37 @@ GET https://api.platform.softwareone.com/public/v1/accounts/buyers
 Authorization: Bearer {TOKEN_VALUE}
 ```
 
-Your API keys have permissions assigned to them, so keep them secure. Do not share your secret API keys in public areas like GitHub or client-side code.&#x20;
+Your API keys have permissions assigned to them, so keep them secure. Do not share your secret API keys in public areas, like GitHub or client-side code.&#x20;
 
 All API requests must be made over **HTTPS**. Calls made over plain HTTP will fail. API requests without authentication will also fail.
 
-Account administrators can view and manage tokens on the **API tokens** page.
+### Viewing API tokens
+
+To view and manage your API tokens, navigate to the **API tokens** page.
+
+The page shows all tokens associated with your account. For each token, you can view details such as the token's name, the name of the person who created the token, the date of creation, and the token's [status](token-states.md).&#x20;
+
+From this page, you can easily manage your existing tokens and edit token details.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>The API tokens page in the platform.</p></figcaption></figure></div>
 
-The page shows all tokens associated with your account. For each token, you can view details such as the token's name, the creator's name, the creation date, and the token's current [status](token-states.md).&#x20;
+### Viewing token details
 
-You also have action links that allow you to enable, disable, or delete the token. Additionally, you can edit the token's details.
+To view the details page of a token:
 
-## Viewing token details
-
-To view the details page of a token, select the token in the **API token** column.&#x20;
+1. Navigate to the **API tokens** page.
+2. (Optional) Use filters to find the desired token.
+3. Select the token to view general information, such as the token's name, marketplace ID, and status.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/TokenDetails.png" alt=""><figcaption><p>The details page of an API token.</p></figcaption></figure></div>
 
-When you open the details page, it shows the token's name, marketplace ID, and status. The page also contains the following tabs that display corresponding information:
+4. Use the following tabs to access additional related information:
+   * **General** - Displays the token's description and allows you to show, hide, and copy the values.
+   * **Modules** - Displays the modules that the API token has been granted access to within the scope of an account.
+   * **Details** - Displays the date and time information for your selected token, for example, the date and time when the token was created.
+   * **Audit trail** - Displays a record of events related to the token. For more information, see [Audit Trail](https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail).
 
-<table><thead><tr><th width="165">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the token's description and allows you to show, hide, and copy the values.</td></tr><tr><td><strong>Modules</strong></td><td>Displays the modules that the API token has been granted access to within the scope of an account.</td></tr><tr><td><strong>Details</strong></td><td>Displays the date and time information for your selected token, for example, the date and time when the token was created.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail of all changes and events. To learn more, see <a href="https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail">Audit Trail</a>.</td></tr></tbody></table>
-
-## Additional actions
+### Additional actions
 
 You can perform various actions on the details page. The available actions depend on the token's current status:
 

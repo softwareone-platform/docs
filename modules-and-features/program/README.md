@@ -1,5 +1,5 @@
 ---
-description: Learn about the Program Management, its features, and modules.
+description: Learn about Program Management and its features.
 ---
 
 # Program

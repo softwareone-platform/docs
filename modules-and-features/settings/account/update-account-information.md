@@ -4,7 +4,7 @@ description: Update the account information for your organization.
 
 # Update Account Details
 
-If you want to update your account information, like the account name, company details, and address, you can make these changes using the **Edit** option on the **Account** page.&#x20;
+You can update your account information, such as the account name, company details, and address, using the **Edit** option on the **Account** page. Only account administrators can update these details. &#x20;
 
 {% hint style="info" %}
 **Need to update your profile or personal settings?**
@@ -12,7 +12,7 @@ If you want to update your account information, like the account name, company d
 See [Manage your profile](../../../marketplace-platform/getting-started/interface/manage-profile.md) to learn about updating your profile picture, profile name, preferred language, and more.
 {% endhint %}
 
-## Updating your account details
+### Updating your account details
 
 To update your account details:
 

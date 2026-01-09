@@ -4,7 +4,7 @@ description: Learn about the different states of a certificate.
 
 # Certificate States
 
-In the Marketplace Platform, a certificate goes through several states (also known as statuses) during its lifecycle.&#x20;
+In the Marketplace Platform, a certificate progresses through several states (also known as statuses) during its lifecycle.&#x20;
 
 The following diagram shows the possible states and the transitions between these states:
 

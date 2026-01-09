@@ -8,7 +8,7 @@ If you no longer wish to use a buyer, you can disable them temporarily through t
 
 When you disable a buyer, the licensees associated with that buyer also become unavailable. It means you'll no longer be able to select those licensees when creating a new agreement.&#x20;
 
-## Enabling or disabling a buyer
+### Enabling or disabling a buyer
 
 To enable or disable a buyer:
 

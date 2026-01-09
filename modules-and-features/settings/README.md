@@ -1,5 +1,5 @@
 ---
-description: Learn about the managing your account settings.
+description: Learn about managing your account settings as an administrator.
 ---
 
 # Settings

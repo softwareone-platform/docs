@@ -1,29 +1,46 @@
 # Orders
 
-In the Marketplace Platform, an order represents a request to buy a new product, change the number of licenses, terminate a subscription, or terminate an agreement.&#x20;
+The Marketplace Platform supports various types of orders, including:
 
-There are different types of orders in the Marketplace Platform:
+* **Purchase orders** - A purchase order is created when you buy a new product or service by establishing a new agreement.
+* **Change orders** - A change order is created when you modify the number of licenses for a subscription, for example, when you order additional licenses or reduce the quantity of current ones.
+* **Terminate order** - A termination order is created when you want to end an active subscription or agreement.&#x20;
+* **Configuration order** - A configuration order is created when you want to enable or disable the auto-renewal of a subscription.
 
-* **Purchase orders** - An order to buy a new product or service by establishing a new agreement.
-* **Change orders** - An order to change the quantity, such as downsizing the quantity of licenses or ordering additional licenses.
-* **Terminate order** - An order to terminate an active subscription or an agreement.&#x20;
-* **Configuration order** - An order to enable or disable the auto-renewal of a subscription.
+### Viewing orders
 
-You can view and manage your orders from the **Orders** page in the platform. The page is available under **Marketplace** in the main menu.
+To view your orders, navigate to the **Orders** page. When you launch the **Orders** page, all orders in your account are displayed.&#x20;
+
+For each order, you can view information, such as the order number, linked agreement, product name, estimated sales price, status, and more. You can use the [sorting and filtering options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) as needed.
+
+For more information, see [How to Filter Orders](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>The Orders page in the platform.</p></figcaption></figure></div>
 
-## Viewing order details <a href="#order-details" id="order-details"></a>
+### Viewing order details <a href="#order-details" id="order-details"></a>
 
-To view the order details page, select the order on the **Orders** page.
+On the order details page, you can view detailed information for your order. Some information is read-only, while others include links that allow you to navigate to further details.
+
+To view the full details of an order:
+
+1. Navigate to the **Orders** page.
+2. (Optional) Use filters to find the desired order.
+3. Select the order number to view basic information, such as order type, linked agreement, currency, and more.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/order_details_page.png" alt=""><figcaption><p>The details page of an order. </p></figcaption></figure></div>
 
-At the top of the details page, you can view properties, such as the order ID and status. Other details, such as the type of order, linked agreement, and the order's currency, are also displayed.
-
-The details page also contains tabs that display additional details. The following table lists these tabs:
-
-<table><thead><tr><th width="184">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the latest information about your order.</td></tr><tr><td><strong>Items</strong> </td><td>Displays the items you've ordered and the pricing information for each item.</td></tr><tr><td><strong>Parameters</strong></td><td>Displays the order's fulfillment and ordering parameters.</td></tr><tr><td><strong>Entities</strong> </td><td>Displays the entities linked to the order, including the licensee, buyer, and seller.</td></tr><tr><td><strong>Subscriptions</strong></td><td>Displays the subscriptions associated with the order and their details. Subscriptions are displayed only after they have been activated.</td></tr><tr><td><strong>Notes</strong> </td><td>Displays the notes you may have entered during the ordering process.  You can add or update the notes using the <strong>Edit</strong> option.</td></tr><tr><td><strong>Attachments</strong> </td><td>Displays all files available for download within the agreement. See <a href="../agreements/view-and-download-attachments.md">View and Download Attachments</a> to learn more</td></tr><tr><td><strong>Certificates</strong> </td><td>Displays certificates that were used during the ordering process.</td></tr><tr><td><strong>Details</strong></td><td>Displays the timestamp and additional IDs, including the client and vendor IDs.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail of events, including the log details and summary. To learn more, see <a href="../../settings/audit-trail.md">Audit Trail</a>. </td></tr></tbody></table>
+4. Use the following tabs to access additional related information:
+   * **General** - Displays the most up-to-date information for the order.&#x20;
+   * **Entitlements** - Displays the items you have purchased along with their details, including quantity, pricing, status, and more.
+   * **Parameters** - Displays the order's fulfillment and ordering parameters.
+   * **Entities** - Displays the entities linked to the order, including the licensee, buyer, and seller.
+   * **Subscriptions** - Displays the subscriptions associated with the order and their details. Subscriptions are displayed only after they have been activated.
+   * **Assets** - Displays assets or one-time items in the order. For more information on one-time items, see [Assets](../assets/).
+   * **Notes** - Displays any notes entered during the ordering process. You can add or update these notes using the **Edit** option.
+   * **Attachments** - Lists all files available for download under the agreement. For more information, see [View and Download Attachments](../agreements/view-and-download-attachments.md).
+   * **Certificates** - Displays certificates used during the ordering process.
+   * **Details** - Displays timestamps and additional IDs, including the client and vendor IDs.
+   * **Audit trail** - Displays a record of events related to the order. For more information, see [Audit Trail](../../settings/audit-trail.md).&#x20;
 
 ## Additional actions
 

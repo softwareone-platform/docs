@@ -4,7 +4,7 @@ description: Learn about the different states of user groups.
 
 # Group States
 
-The Marketplace Platform supports various statuses for groups.
+The Marketplace Platform supports various statuses for a group.
 
 The following diagram shows the possible states and the transitions between these states:
 

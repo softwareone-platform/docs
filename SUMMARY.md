@@ -76,6 +76,11 @@
     * [Rename Agreement](modules-and-features/marketplace/agreements/rename-an-agreement.md)
     * [Add or Update Additional Client ID](modules-and-features/marketplace/agreements/edit-agreement-id.md)
     * [View and Download Attachments](modules-and-features/marketplace/agreements/view-and-download-attachments.md)
+  * [Assets](modules-and-features/marketplace/assets/README.md)
+    * [Asset States](modules-and-features/marketplace/assets/asset-states.md)
+    * [Rename Asset](modules-and-features/marketplace/assets/rename-asset.md)
+  * [Entitlements](modules-and-features/marketplace/entitlements/README.md)
+    * [Entitlement States](modules-and-features/marketplace/entitlements/entitlement-states.md)
   * [Orders](modules-and-features/marketplace/orders/README.md)
     * [Order States](modules-and-features/marketplace/orders/order-states.md)
     * [Save Orders for Later](modules-and-features/marketplace/orders/save-order-as-a-draft.md)
@@ -867,6 +872,7 @@
 ## Help and Support
 
 * [Platform FAQs](help-and-support/faqs/README.md)
+  * [What billing models does Marketplace support for items?](help-and-support/faqs/what-billing-models-does-marketplace-support-for-items.md)
   * [My draft or quoted order has been deleted](help-and-support/faqs/my-draft-or-quoted-order-has-been-deleted.md)
   * [How do you handle purchase order numbers in subscription-based models?](help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md)
   * [What happens to an agreement when subscriptions expire or are terminated?](help-and-support/faqs/what-happens-to-an-agreement-when-subscriptions-expire-or-are-terminated.md)

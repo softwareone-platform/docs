@@ -1,5 +1,5 @@
 ---
-description: Learn about the Marketplace module and its features.
+description: Learn about Marketplace and its features.
 ---
 
 # Marketplace
@@ -12,6 +12,14 @@ It provides access to several key features, including agreements, entitlements, 
 
 {% content-ref url="agreements/" %}
 [agreements](agreements/)
+{% endcontent-ref %}
+
+{% content-ref url="assets/" %}
+[assets](assets/)
+{% endcontent-ref %}
+
+{% content-ref url="entitlements/" %}
+[entitlements](entitlements/)
 {% endcontent-ref %}
 
 {% content-ref url="orders/" %}

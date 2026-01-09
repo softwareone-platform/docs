@@ -10,7 +10,7 @@ Notifications are email alerts sent from SoftwareOne's email address and may inc
 
 Admins can manage notifications for their account from the **Notifications** page. Individual users can [manage notifications](../../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) for their profile through the **My profile** option in the account menu.&#x20;
 
-## Accessing notifications <a href="#accessing-notifications" id="accessing-notifications"></a>
+### Accessing notifications <a href="#accessing-notifications" id="accessing-notifications"></a>
 
 Account administrators can view notification categories and messages triggered for their account by navigating to **Settings** > **Notifications**.
 

@@ -1,5 +1,5 @@
 ---
-description: Use the different types of filters to find and view your invoices.
+description: Use different types of filters to find and view your invoices.
 ---
 
 # Find Specific Invoices Using Filters
@@ -10,7 +10,7 @@ The **Invoices** page displays all invoices generated for your Marketplace accou
 
 This topic describes how to apply the two commonly used invoice filters: **Status** and **Due date**.
 
-## Filtering invoices by status
+### Filtering invoices by status
 
 To view invoices based on their status:
 
@@ -24,7 +24,7 @@ To view invoices based on their status:
 
 3. **Close** the filter box. All invoices matching your specified status are displayed in the table.&#x20;
 
-## Filtering invoices by due date
+### Filtering invoices by due date
 
 To view invoices based on their due date:
 

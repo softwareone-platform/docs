@@ -8,20 +8,34 @@ A statement is a billing document you receive at the end of your billing period,
 
 Statements are provided in the XLSX format and contain a detailed view of your invoice data, including individual charges, subscriptions, and orders for the billing period.&#x20;
 
-You can view your billing statements on the **Statements** page in the platform.
+### Viewing statements
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>The Statements page in the Marketplace Platform.</p></figcaption></figure></div>
+To view your invoices, navigate to the **Statements** page.&#x20;
 
-The page shows all statements generated for your account and properties, such as statement ID, the total amount due, status, and more.&#x20;
+When you launch the **Statements** page, all statements generated for your account are displayed along with properties, such as statement ID, the total amount due, status, and more.&#x20;
 
 For each statement, you can also view the type. A **Debit** type means that the total amount is positive or zero, and a **Credit** type means that the total amount is negative.
 
-## Viewing statement details <a href="#subscription-details" id="subscription-details"></a>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>The Statements page in the Marketplace Platform.</p></figcaption></figure></div>
 
-To view the detailed information for a statement, select the statement ID on the **Statements** page.&#x20;
+### Viewing statement details <a href="#subscription-details" id="subscription-details"></a>
+
+On the statement details page, you can view detailed information for the statement. Some information is read-only, while others include links that allow you to navigate to further details.
+
+To view the detailed information for a statement:
+
+1. Navigate to the **Statements** page.
+2. (Optional) Use filters to find the desired statement.
+3. Select the statement ID to view general information.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>The details page of a statement.</p></figcaption></figure></div>
 
-The details page of a statement contains links to the related business objects and general statement details. You can also view the following tabs:&#x20;
+4. Use the following tabs to access additional related information:
+   * **Charges** - Displays a list of charges and subscriptions for the billing period.
+   * **Attachments** - Allows you to view and download the statement.&#x20;
+   * **Details** - Displays reference information, like the additional IDs and timestamps.
+   * **Audit trail** - Displays a record of events related to the statement. For details, see [Audit Trail](../../settings/audit-trail.md).
 
-<table><thead><tr><th width="166">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Charges</strong></td><td>Displays a list of charges and subscriptions for the billing period.</td></tr><tr><td><strong>Attachments</strong></td><td>Allows you to view and download the statement. For details, see <a href="statements/download-statements.md">View or Download Statements</a>.</td></tr><tr><td><strong>Details</strong></td><td>Displays reference information, like the additional IDs and timestamps.</td></tr><tr><td><strong>Audit trail</strong> </td><td>Displays an audit trail of events. For details, see <a href="../../settings/audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
+### Additional actions
+
+From the details page, you can download your statement in Excel format. To learn more, see  [Download Invoices](statements/download-statements.md).

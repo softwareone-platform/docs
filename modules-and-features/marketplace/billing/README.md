@@ -1,5 +1,5 @@
 ---
-description: Learn about the Billing Management, its features, and modules.
+description: Learn about Billing Management and its features.
 ---
 
 # Billing

@@ -8,11 +8,15 @@ In the Marketplace Platform, a buyer is defined as an organization that procures
 
 Account administrators can view all buyers on the **Buyers** page. Admins can update buyer details and enable or disable buyers. However, they cannot add new buyers to the account. Only SoftwareOne can add buyers.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>The Buyers page  in the platform.</p></figcaption></figure></div>
+### Viewing buyers
+
+To view and manage the buyers in your account, navigate to the **Buyers** page.
 
 For each buyer, you can view details such as the buyer's name and address, tax identifier, contact person, and more.&#x20;
 
-You can also view buyer status with possible values, including:
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>The Buyers page  in the platform.</p></figcaption></figure></div>
+
+Additionally, you can also view buyer status with possible values, including:
 
 * **Enabled** - Indicates that the buyer has been created in the system, but it hasn't been activated yet by SoftwareOne.
 * **Active** - Indicates that the buyer is active, and you can select it from your list of buyers when ordering products.
@@ -21,7 +25,7 @@ You can also view buyer status with possible values, including:
 
 You also have action links that allow you to enable, disable, or edit the buyer. These options are visible only if you have access to the Account Management module in the platform.
 
-## Viewing buyer details
+### Viewing details for a buyer
 
 To view the details page for a buyer, select the buyer on the **Buyers** page.&#x20;
 
@@ -35,9 +39,9 @@ The details page provides general information, such as the buyer's name and ID. 
 
 The details page also contains the following tabs:
 
-<table><thead><tr><th width="156">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td><p>Displays the buyer's address and the contact person's details. </p><p></p><p>Note that in the Marketplace platform, the buyer's address fields must meet certain requirements. If any address fields are empty, the SoftwareOne ERP system automatically fills them with the word '<strong>unknown'</strong>. If you notice this, <a href="../../../help-and-support/contact-support.md">contact support</a> for assistance. </p></td></tr><tr><td><strong>Sellers</strong> </td><td><p>Displays the SoftwareOne entity associated with the buyer. There's a 1:1 relationship between a buyer and seller, meaning each buyer is linked to one or more sellers.</p><p></p><p>The <strong>ERP link status</strong> is also displayed on this tab. An ERP link is a reference to the customer record in the SoftwareOne ERP system. A <strong>Blocked</strong> ERP link indicates that you cannot transact with the specified seller. In such cases, <a href="../../../help-and-support/contact-support.md">contact support</a> for assistance.</p></td></tr><tr><td><strong>Licensees</strong> </td><td>Displays the licensees associated with the buyer, along with their details. </td></tr><tr><td><strong>Details</strong> </td><td>Displays timestamps for various events and external IDs, such as Customer Discount Group (CDG) and Company Contact (CON) identifier. </td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail of events. For each audit record, you can view the log details and summary. To learn more, see <a href="../audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="156">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td><p>Displays the buyer's address and the contact person's details. </p><p></p><p>Note that in the Marketplace platform, the buyer's address fields must meet certain requirements. If any address fields are empty, the SoftwareOne ERP system automatically fills them with the word '<strong>unknown'</strong>. If you notice this, <a href="../../../help-and-support/contact-support.md">contact support</a> for assistance. </p></td></tr><tr><td><strong>Sellers</strong> </td><td><p>Displays the SoftwareOne entity associated with the buyer. There's a 1:1 relationship between a buyer and seller, meaning each buyer is linked to one or more sellers.</p><p></p><p>The <strong>ERP link status</strong> is also displayed on this tab. An ERP link is a reference to the customer record in the SoftwareOne ERP system. A <strong>Blocked</strong> ERP link indicates that you cannot transact with the specified seller. In such cases, <a href="../../../help-and-support/contact-support.md">contact support</a> for assistance.</p></td></tr><tr><td><strong>Licensees</strong> </td><td>Displays the licensees associated with the buyer, along with their details. </td></tr><tr><td><strong>Details</strong> </td><td>Displays timestamps for various events and external IDs, such as Customer Discount Group (CDG) and Company Contact (CON) identifier. </td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a record of events related to the buyer. For more information, see <a href="../audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
 
-## Additional actions
+### Additional actions
 
 On the details page, you can perform various actions based on the buyer's status, including:
 

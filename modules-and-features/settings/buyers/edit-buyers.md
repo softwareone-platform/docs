@@ -8,7 +8,7 @@ After the buyers have been linked to your account by SoftwareOne, you can manage
 
 The buyer information that you can update includes the contact person assigned to the buyer and the buyer's logo.
 
-## Editing a buyer <a href="#updating-buyer-information" id="updating-buyer-information"></a>
+### Editing a buyer <a href="#updating-buyer-information" id="updating-buyer-information"></a>
 
 To update the buyer details in your account:
 

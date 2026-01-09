@@ -30,7 +30,7 @@ Admins can also view buyers who are visible to the user.
 
 The page also contains action links that allow you to edit a user's details or remove them from your account.&#x20;
 
-## View user details <a href="#subscription-details" id="subscription-details"></a>
+### Viewing user details <a href="#subscription-details" id="subscription-details"></a>
 
 To view a user's details, select the user name on the **Users** page.
 
@@ -40,9 +40,9 @@ At the top of the details page, you can view properties, such as the user's name
 
 The user details page also contains the following tabs:
 
-<table><thead><tr><th width="151">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the general user information, such as name and preferences.</td></tr><tr><td><strong>Groups</strong></td><td>Displays the user's group memberships and the modules they have access to.</td></tr><tr><td><strong>Contact entities</strong></td><td>Displays the buyers and licensees mapped to the user. Selecting the buyer or licensee name displays the details page of the selected entity.</td></tr><tr><td><strong>Details</strong> </td><td>Displays a history of events associated with the user, for example, the date and time when the user was invited to the platform, and so on.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a detailed audit trail of all changes. To learn more, see <a href="../audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="151">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the general user information, such as name and preferences.</td></tr><tr><td><strong>Groups</strong></td><td>Displays the user's group memberships and the modules they have access to.</td></tr><tr><td><strong>Contact entities</strong></td><td>Displays the buyers and licensees mapped to the user. Selecting the buyer or licensee name displays the details page of the selected entity.</td></tr><tr><td><strong>Details</strong> </td><td>Displays a history of events associated with the user, for example, the date and time when the user was invited to the platform, and so on.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a record of events related to the user. For more information, see, see <a href="../audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
 
-## Additional actions
+### Additional actions
 
 On the details page, you can perform various actions depending on the user's current status:
 

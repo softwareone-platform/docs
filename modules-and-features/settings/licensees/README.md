@@ -18,7 +18,7 @@ You can also determine if the licensee has been configured as a resale licensee,
 
 Additionally, you have options that allow you to manage a licensee. Depending on your permissions, you can update licensee information and enable or disable a licensee.
 
-## Viewing licensee details <a href="#subscription-details" id="subscription-details"></a>
+### Viewing licensee details <a href="#subscription-details" id="subscription-details"></a>
 
 To view the details page of a licensee, select the licensee on the **Licensee** page.&#x20;
 
@@ -26,9 +26,9 @@ To view the details page of a licensee, select the licensee on the **Licensee** 
 
 The details page shows the licensee's name, marketplace ID, and status. It also shows the associated buyer and seller entities, and contains the following tabs:&#x20;
 
-<table><thead><tr><th width="156">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the licensee's mailing address and contact person details. </td></tr><tr><td><strong>Details</strong></td><td>Displays date and time information for the licensee, for example, the date and time when the licensee was created in the system, and so on.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail of all changes made in the scope of the licensee. For each audit record, you can view the log details and summary. To learn more, see <a href="../audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="156">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the licensee's mailing address and contact person details. </td></tr><tr><td><strong>Details</strong></td><td>Displays date and time information for the licensee, for example, the date and time when the licensee was created in the system, and so on.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a record of events related to the licensee. For more information, see <a href="../audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
 
-## Additional actions
+### Additional actions
 
 You can perform various actions on the details page. The available actions depend on the licensee's current status in the platform:
 
