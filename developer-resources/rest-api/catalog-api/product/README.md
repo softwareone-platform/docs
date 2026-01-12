@@ -70,10 +70,10 @@ The Product object represents a collection of items and their relevant parameter
 {
   "id": "PRD-1234-1234",
   "name": "Microsoft 365 online services for commercial",
-  "shortDescription": "Microsoft 365 and Office 365 are cloud-based productivity suites that offer a range of applications and services to help businesses of all sizes work more efficiently. These plans combine the familiar Microsoft Office desktop suite with cloud-based versions of Microsoft’s next-generation communications and collaboration services to help users be productive from virtually anywhere through the Internet.",
-  "longDescription": "<p>Microsoft 365 and Office 365 are cloud-based productivity suites that offer a range of applications and services to help businesses of all sizes work more efficiently. These plans combine the familiar Microsoft Office desktop suite with cloud-based versions of Microsoft's next-generation communications and collaboration services (including Office for the web, Microsoft Exchange Online, Microsoft Teams, and Microsoft SharePoint Online) to help users be productive from virtually anywhere through the Internet. Microsoft 365 and Office 365 are available in a variety of plans to best meet the needs of your organization. For detailed plan information on subscriptions that enable users for the Microsoft 365 and Office 365 platforms, see the full subscription comparison table.</p>",
+  "shortDescription": "Microsoft 365 and Office 365 are cloud-based productivity suites that offer a range of applications and services to help businesses of all sizes work more efficiently.",
+  "longDescription": "Microsoft 365 and Office 365 are cloud-based productivity suites that offer a range of applications and services to help businesses of all sizes work more efficiently. These plans combine the familiar Microsoft Office desktop suite with cloud-based versions of Microsoft's next-generation communications and collaboration services (including Office for the web, Microsoft Exchange Online, Microsoft Teams, and Microsoft SharePoint Online) to help users be productive from virtually anywhere through the Internet.",
   "website": "https://www.microsoft.com",
-  "icon": "/static/PRD-1234-1234/logo.png"
+  "icon": "/static/PRD-1234-1234/logo.png",
   "vendor": {
       "id": "ACC-1234-1234"
   },
@@ -83,7 +83,7 @@ The Product object represents a collection of items and their relevant parameter
     "productRequests": {
       "enabled": true,
       "name": "Contact us about Microsoft 365 Online Services",
-      "label": "Contact us"
+      "label": "Contact us."
     },
     "itemSelection": false,
     "orderQueueChanges": false,
@@ -102,7 +102,6 @@ The Product object represents a collection of items and their relevant parameter
     "subscription": 20
   }
 }
-    
 ```
 {% endcode %}
 {% endtab %}

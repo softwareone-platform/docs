@@ -4,7 +4,7 @@ The Agreement object represents an instance of a relationship between the seller
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table data-full-width="false"><thead><tr><th width="155">Field</th><th width="189">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>Primary account identifier.</p><p>Example: AGR-2119-4550-8674</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Relative reference to the object in the API.</p><p>Example: /v1/commerce/agreements/AGR-2119-4550-8674</p></td></tr><tr><td>status</td><td><code>string</code></td><td>The key status of the object. May only be specified on creation and cannot be updated with <code>PUT</code>.</td></tr><tr><td>name</td><td><code>string</code></td><td><p>The agreement name. The value is assigned automatically when the agreement is created, as {product.name} for {licensee.name}. The value can be changed later.</p><p>Example: Microsoft Office 365 NCE E1</p></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/#account-object"><code>account</code></a></td><td><p>A reference to the vendor account object filled in upon creation, according to the product.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="155">Field</th><th width="144">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>Primary account identifier.</p><p>Example: AGR-2119-4550-8674</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Relative reference to the object in the API.</p><p>Example: /v1/commerce/agreements/AGR-2119-4550-8674</p></td></tr><tr><td>status</td><td><code>string</code></td><td>The key status of the object. May only be specified on creation and cannot be updated with <code>PUT</code>.</td></tr><tr><td>name</td><td><code>string</code></td><td><p>The agreement name. The value is assigned automatically when the agreement is created, as {product.name} for {licensee.name}. The value can be changed later.</p><p>Example: Microsoft Office 365 NCE E1</p></td></tr><tr><td>vendor</td><td><a href="../../accounts-api/account/#account-object"><code>account</code></a></td><td><p>A reference to the vendor account object filled in upon creation, according to the product.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "ACC-1234-1234",
     "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
@@ -41,7 +41,7 @@ The Agreement object represents an instance of a relationship between the seller
     "id": "AUT-1234-4567",
     "name": "Salesforce Enterprise License"
 }
-</code></pre></td></tr><tr><td>price</td><td><code>price</code></td><td><p>The agreement's pricing details including the monthly and yearly costs, excluding one-time charges.</p><p>Different aspects of the price object are visible to different actors, as indicated in the Price Object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>price</td><td><a href="../../common-api-objects/price.md"><code>price</code></a></td><td><p>The agreement's pricing details, including the monthly and yearly costs, exclude one-time charges.</p><p>Different aspects of the price object are visible to actors, as indicated in the Price object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "PPxY": 150,
   "PPxM": 12.50,
   "SPxY": 165,
@@ -52,7 +52,7 @@ The Agreement object represents an instance of a relationship between the seller
     "id": "TPL-1234-4444",
     "name": "Succesful Activation"
 }
-</code></pre></td></tr><tr><td>error</td><td><code>errorObject</code></td><td><p>Markup text string explaining the reason for provisioning failure.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>error</td><td><a href="../../common-api-objects/error.md"><code>error</code></a></td><td><p>Markup text string explaining the reason for provisioning failure.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
      "id": "E001234",
      "message": "Agreement provisioning failed due to unavailability of the item"
 }
@@ -66,7 +66,7 @@ The Agreement object represents an instance of a relationship between the seller
     "quantity": 10,
     "price": {
       "PPx1": 12.50,
-      "unitPP": 1.25
+      "unitPP": 1.25,
       "SPx1": 13.50,
       "unitSP": 1.35,
       "currency": "USD"

@@ -101,7 +101,19 @@ An order is a request made by a buyer to create or update an agreement with a on
   "margin": 0.11,  
   "defaultMarkup": 0.15,  
   "currency": "USD"
-}
+}  
+</code></pre></td></tr><tr><td>termsAndConditions</td><td><code>termsAcceptance</code></td><td><p>Represents the terms and conditions in <code>Published</code> state of the product being accepted as a part of the order. The terms are accepted on an order at the point of order creation and also at the point when the order is set to the processing state.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
+  {
+    "id": "TCS-3159-1891-0980-8679",    
+    "accepted": "2024-04-29T15:37:16.071Z",
+    "acceptedBy": {
+       "id": "USR-0000-0001",
+       "href": "/accounts/users/USR-0000-0001",
+       "name": "Will Smith"
+    },
+    "name": "Microsoft 365 Terms of Service"
+  }
+]
 </code></pre></td></tr></tbody></table>
 
 ## Example
@@ -111,7 +123,7 @@ An order is a request made by a buyer to create or update an agreement with a on
 {% code lineNumbers="true" %}
 ```json
 {
-  "id": "ORD-6869-4529-8975-9005",
+  "id": "ORD-6869-4529-8975-9005", 
   "agreement": {
     "id": "AGR-2119-4550-8674-5962",
     "name": "Microsoft Office 365 NCE E1"
@@ -184,11 +196,21 @@ An order is a request made by a buyer to create or update an agreement with a on
     "client": "abc-123",
     "operations": "SO-1234-1234-1111"
   },
+  "termsAndConditions":[
+  {
+     "id": "TCS-3159-1891-0980-8679",   
+     "accepted": "2024-04-29T15:37:16.071Z",
+     "acceptedBy": {
+        "id": "USR-0000-0001",
+        "href": "/accounts/users/USR-0000-0001",
+        "name": "Will Smith"
+      },
+      "name": "Microsoft 365 Terms of Service"
+    }
+  ],
   "audit": {
     "created": { "at": "...", "by": { } },
-    "updated": { "at": "...", "by": { } },
-    "activated": { "at": "...", "by": { } },
-    "terminated": { "at": "...", "by": { } }
+    "updated": { "at": "...", "by": { } }
   }
 }
 ```

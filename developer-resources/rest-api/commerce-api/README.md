@@ -8,6 +8,7 @@ The SoftwareOne Marketplace Commerce API enables you to create, retrieve, and ma
 
 With this API, you can also perform additional operations, including:&#x20;
 
+* Creating new assets and managing the existing ones.
 * Checking the details of a specific order by its ID.
 * Deleting orders that are still in draft status (not yet submitted).
 * Failing orders that can't be completed.
@@ -21,6 +22,7 @@ Use the following buttons to open the API in Swagger Editor or download the full
 
 To learn about the commerce objects, including their fields, types, descriptions, and explore the endpoint&#x73;**,** see the following links:
 
+* [Assets](assets/)
 * [Agreements](agreements/)
 * [Requests](requests/)
 * [Orders](orders/)

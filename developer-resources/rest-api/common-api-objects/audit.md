@@ -1,10 +1,10 @@
 # Audit
 
-The Audit object records events related to the object. Each event contains two key components: 'at,' which specifies the last time the event occurred, and 'by,' which indicates who performed the event.
+The `Audit` object records events related to the object. Each event contains two key components: 'at,' which specifies the last time the event occurred, and 'by,' which indicates who performed the event.
 
 Events do not represent the complete history of the object. They are a cache that retains only the most recent occurrence of each type of event. For example, if an order is updated multiple times, only the latest update will be reflected in the Audit object.
 
-Events cannot be set directly through API calls, which means they are ignored in input during both creation (POST) and update (PUT) operations.
+Events cannot be set directly through API calls, which means they are ignored in input during both creation (`POST`) and update (`PUT`) operations.
 
 Events can be either common or specific to the object. In such cases, they should follow the state diagram of the object. The same operation can be reflected in multiple events if it is logically reasonable. For example, if an order is approved and some data within the order has changed in one operation, both the updated and approved events must be recorded.
 

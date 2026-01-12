@@ -42,6 +42,7 @@ The following tabs contain objects that may go through multiple statuses from th
 {% endtab %}
 
 {% tab title=" Commerce" %}
+* [Asset](commerce-api/assets/state-diagram.md)
 * [Agreement](commerce-api/agreements/agreement-state-diagram.md)
 * [Order](commerce-api/orders/order-state-diagram.md)
 * [Subscription](commerce-api/subscriptions/subscription-states.md)
