@@ -1,6 +1,6 @@
 # State Diagram
 
-The following diagram shows the possible states a product object can have in the Marketplace Platform and the transition between these states:
+The following diagram shows the possible states of a product and the transitions between those states in the Marketplace Platform:
 
 <figure><img src="../../../../.gitbook/assets/state_diagram_product.png" alt=""><figcaption><p>The state transition diagram of a product.</p></figcaption></figure>
 

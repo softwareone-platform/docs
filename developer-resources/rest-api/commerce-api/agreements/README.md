@@ -1,6 +1,6 @@
 # Agreements
 
-The Agreement object represents an instance of a relationship between the seller, buyer, and licensee. It may refer to one-time purchases or a set of subscriptions.
+The `Agreement` object represents an instance of a relationship between the seller, buyer, and licensee. It may refer to one-time purchases or a set of subscriptions.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
