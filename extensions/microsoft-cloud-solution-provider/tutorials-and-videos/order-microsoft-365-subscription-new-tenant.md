@@ -16,7 +16,7 @@ When setting up a new agreement, you can either create a new Microsoft account o
 Watch this video guide explaining how to order Microsoft 365 subscription for a new tenant.
 {% endembed %}
 
-## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
+### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 Before starting this tutorial, make sure you have the following:
 
@@ -24,7 +24,7 @@ Before starting this tutorial, make sure you have the following:
 * Your company details, like the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of the person who manages your Microsoft account.&#x20;
 
-## Ordering a Microsoft 365 subscription for a new tenant
+### Ordering a Microsoft 365 subscription for a new tenant
 
 {% stepper %}
 {% step %}
@@ -67,7 +67,7 @@ To start the process:
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 Once you have placed your order, we verify the order details, including the Microsoft tenant ID, and create your new subscription.&#x20;
 

@@ -1,5 +1,5 @@
 ---
-description: Invite new users to your Marketplace account.
+description: Invite new users to your SoftwareOne Marketplace account.
 ---
 
 # Add New Users
@@ -8,7 +8,7 @@ Account administrators can invite new users to the account from the **Users** pa
 
 When you add a user, an invitation email containing a unique link is sent to the individual. To join the account, the individual must accept the invitation and complete the registration process within 7 days. Otherwise, the invitation expires and must be resent.
 
-## Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
+### Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
 
 Before adding an individual to your account, note the following points:
 
@@ -16,7 +16,7 @@ Before adding an individual to your account, note the following points:
 * Verify that an account with the same email address doesn't already exist. If an email address already exists, the platform displays a message.
 * Make sure to add the individual to the correct group before inviting them. For information on how to create or update a group, see [Groups](../groups/).
 
-## Adding a new user to your account
+### Adding a new user to your account
 
 To add a new user:
 

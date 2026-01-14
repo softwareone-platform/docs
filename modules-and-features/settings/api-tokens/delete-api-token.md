@@ -9,7 +9,7 @@ If you no longer need a token, you can delete it using the **Delete** option on 
 * A deleted token can't be reinstated or reused.&#x20;
 * Deleting a token removes it from the account, which means that the token is no longer displayed on the **API tokens** page.&#x20;
 
-## Deleting an API token
+### Deleting an API token
 
 To delete a token:
 

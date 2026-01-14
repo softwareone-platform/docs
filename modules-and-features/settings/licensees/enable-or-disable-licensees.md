@@ -8,7 +8,7 @@ You can manage existing licensees and enable or disable them through the interfa
 
 After a licensee has been disabled, you will no longer be able to select it when creating agreements or ordering subscriptions through the platform.
 
-## Enabling or disabling a licensee
+### Enabling or disabling a licensee
 
 To enable or disable a licensee:
 

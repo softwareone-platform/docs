@@ -6,7 +6,7 @@ description: Accept or decline your Marketplace invitation.
 
 When you are invited to the Marketplace Platform by the SoftwareOne Operations team or your account administrator, you'll receive an invitation to join the account.&#x20;
 
-## Accepting the invitation
+### Accepting an invitation
 
 To accept the invitation:
 
@@ -40,7 +40,7 @@ After signing in, you are redirected to the **Home** page, from where you can ac
 An invitation link will not work if it has expired. Invite links are unique and must be accepted within 7 days from the send date. If your invite link has expired, the account administrator must create a new link. For instructions, see [Manage User Invitations](manage-user-invitations.md).
 {% endhint %}
 
-## Declining the invitation
+### Declining an invitation
 
 You can decline an invitation if it was sent to you in error or if you choose not to join the account.
 

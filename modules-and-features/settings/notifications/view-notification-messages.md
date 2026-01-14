@@ -14,7 +14,7 @@ For each message, you can view details, including the message ID, the email addr
 
 Note that the **Contact** column displays the recipient's email address, while the **Users** column displays the name and ID of the individual associated with that contact. If the **Users** column is empty, it means the recipient doesn't have an account on the platform.
 
-## Viewing message details
+### Viewing message details
 
 To view the full details of a message, select **View details** in the **Actions** column on the **Messages** tab.
 

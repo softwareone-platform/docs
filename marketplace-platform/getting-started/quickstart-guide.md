@@ -6,7 +6,7 @@ description: >-
 
 # Quickstart Guide
 
-This quickstart guide explains how to get set up in the Marketplace Platform, make your first purchase, track orders, and self-manage your subscription.
+This quickstart guide explains how to get set up in the SoftwareOne Marketplace, make your first purchase, track orders, and self-manage your subscription.
 
 The page is split into tasks. Each task contains information and further links to detailed instructions.&#x20;
 
@@ -272,13 +272,13 @@ For more information, see [Manage Automatic Renewals](../../modules-and-features
 
 ### Next steps <a href="#next-steps" id="next-steps"></a>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Buy more items</strong></td><td>Order new items using your existing Marketplace agreement.</td><td><a href="marketplace-for-clients/add-items-to-an-agreement.md">add-items-to-an-agreement.md</a></td></tr><tr><td><strong>Understand your billing documents</strong></td><td>Understand how to read and interpret your invoices and statements.</td><td><a href="../../modules-and-features/billing/understand-your-billing-documents/">understand-your-billing-documents</a></td></tr><tr><td><strong>View and download invoices</strong></td><td>Access your Marketplace invoice PDFs.</td><td><a href="../../modules-and-features/marketplace/billing/invoices/download-invoices.md">download-invoices.md</a></td></tr><tr><td><strong>View and download statements</strong></td><td>Access your statement spreadsheets.</td><td><a href="../../modules-and-features/marketplace/billing/statements/download-statements.md">download-statements.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Buy more items</strong></td><td>Order new items using your existing Marketplace agreement.</td><td><a href="marketplace-for-clients/add-items-to-an-agreement.md">add-items-to-an-agreement.md</a></td></tr><tr><td><strong>Understand your billing documents</strong></td><td>Understand how to read and interpret your invoices and statements.</td><td><a href="../../modules-and-features/billing/understand-your-billing-documents/">understand-your-billing-documents</a></td></tr><tr><td><strong>View and download invoices</strong></td><td>Access your Marketplace invoice PDFs.</td><td><a href="../../modules-and-features/marketplace/billing/invoices/download-invoices.md">download-invoices.md</a></td></tr><tr><td><strong>View and download statements</strong></td><td>Access your statement Excel files.</td><td><a href="../../modules-and-features/marketplace/billing/statements/download-statements.md">download-statements.md</a></td></tr></tbody></table>
 
 ### FAQs
 
 <details>
 
-<summary>If I need assistance with the platform, who should I contact?</summary>
+<summary>If I need assistance with the platform, whom should I contact?</summary>
 
 You can contact the Marketplace Platform Support team. For details on how to contact us, see [Contact Support](../../help-and-support/contact-support.md).&#x20;
 

@@ -8,7 +8,7 @@ To get started as a partner, you must have an account on the Marketplace Platfor
 
 While partner accounts have the same features and functionalities as client accounts, they also provide additional features to help you procure for your end customers and transact successfully on the Marketplace.
 
-Once you've signed in to your account, there are various ways to get started, depending on the actions you want to take. Use the following table as a guide to access the most important topics:
+Once you have signed in to your account, you can get started in various ways, depending on the actions you want to take. Use the following table as a guide to access the most important topics:
 
 {% hint style="info" %}
 We recommend starting with the key concepts and familiarizing yourself with the platform's interface and navigation. The [SoftwareOne Platform YouTube Channel ](https://www.youtube.com/@MarketplacePlatform)also contains various introductory videos to help you get started.
@@ -38,10 +38,6 @@ Use these additional resources to learn more about the platform:
 
 {% content-ref url="../../../extensions/microsoft-cloud-solution-provider/" %}
 [microsoft-cloud-solution-provider](../../../extensions/microsoft-cloud-solution-provider/)
-{% endcontent-ref %}
-
-{% content-ref url="../../../extensions/finops-for-cloud/" %}
-[finops-for-cloud](../../../extensions/finops-for-cloud/)
 {% endcontent-ref %}
 
 {% content-ref url="../../../help-and-support/faqs/" %}

@@ -10,7 +10,7 @@ Items can only be added to agreements in the active state. If the agreement is n
 
 When you select **Buy more**, the platform automatically detects the agreement and takes you directly to the **Items** step of the purchase wizard, where you can choose the items to order and place an order.
 
-## Adding new items to your agreement <a href="#adding-new-items-to-your-agreement" id="adding-new-items-to-your-agreement"></a>
+### Adding new items to your agreement <a href="#adding-new-items-to-your-agreement" id="adding-new-items-to-your-agreement"></a>
 
 To add new items to your existing Marketplace agreement:
 

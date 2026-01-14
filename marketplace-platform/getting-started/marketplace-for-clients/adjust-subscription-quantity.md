@@ -4,7 +4,7 @@ description: Increase or reduce the licenses for your subscription.
 
 # How to Change the Number of Licenses
 
-The Marketplace Platform allows you to easily manage your licenses.&#x20;
+The SoftwareOne Marketplace Platform allows you to easily manage your licenses.&#x20;
 
 If you need more licenses, you can alter the subscription to add additional licenses. You can also reduce the number of licenses if you no longer require them. When reducing licenses, the following rules apply:&#x20;
 

@@ -8,14 +8,14 @@ You can terminate an agreement by creating a termination order for the agreement
 
 When you terminate an agreement, all subscriptions with the agreement are terminated. Once terminated, the agreement can't be restored or used when ordering new subscriptions. However, you can still access and view the terminated agreement.
 
-## Before you begin <a href="#before-you-begin" id="before-you-begin"></a>
+### Before you begin <a href="#before-you-begin" id="before-you-begin"></a>
 
 Before terminating an agreement, note the following points:
 
 * You can only terminate agreements in the **Active** state. Agreements in any other state (such as **Processing** or **Updating**) can't be terminated. For a description of these states, see [Agreement States](agreement-states.md).
 * Creating a termination order doesn't immediately cancel your agreement. An agreement is terminated only after the vendor approves it for termination.
 
-## Terminating an agreement
+### Terminating an agreement
 
 To terminate an agreement:
 
@@ -31,6 +31,6 @@ To terminate an agreement:
    2. **Order details** - Add or update the additional ID and notes as needed. When done, select **Next**.&#x20;
    3. **Review order** - Select **Place order**.&#x20;
 
-After the order has been placed, select **View order** to open the details page of the termination order. Otherwise, select **Close**.&#x20;
+After the order has been placed, select **View order** to open the details page of the termination order. Otherwise, select **Close**.
 
 Once the order has been placed, the agreement status changes from **Active** to **Updating**. When the order has been processed and all subscriptions within the agreement are canceled, the status changes to **Terminated**.

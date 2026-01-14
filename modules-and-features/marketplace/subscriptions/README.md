@@ -1,16 +1,16 @@
 # Subscriptions
 
-A subscription refers to the ongoing service provision under the terms and conditions of an agreement. In the Marketplace Platform, subscriptions are mapped to agreements, and each agreement can contain one or multiple subscriptions.&#x20;
+A subscription refers to the ongoing service provision under the terms and conditions of an agreement. In the SoftwareOne Marketplace Platform, subscriptions are mapped to agreements, and each agreement can contain one or multiple subscriptions.&#x20;
 
 You can [order new subscriptions through the platform](../../../help-and-support/faqs/buy-products-and-services.md) and also manage licenses for your existing subscriptions. This includes ordering additional licenses and canceling the previously purchased ones.&#x20;
 
 ### Viewing subscriptions
 
-To view your subscriptions, navigate to the **Subscriptions** page. When you launch the **Subscriptions** page, all subscriptions are displayed.&#x20;
+To view your subscriptions, navigate to the **Subscriptions** page. When you launch the **Subscriptions** page, all existing subscriptions in your account are displayed.&#x20;
+
+On this page, you can view key properties for each subscription, including the subscription name,  renewal date, and status. The page also contains a **Buy more** option, giving you quick access to the [Products ](../../catalog/products.md)page for ordering new subscriptions.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>The Subscriptions page in the platform.</p></figcaption></figure></div>
-
-On the **Subscriptions** page, you can view the key properties for each subscription, including the renewal date and status. The page also contains a **Buy more** option, giving you quick access to the [Products ](../../catalog/products.md)page for ordering subscriptions.
 
 ### Viewing subscription details <a href="#subscription-details" id="subscription-details"></a>
 
@@ -25,15 +25,15 @@ To view the full details for a subscription:
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Subscriptiondetails.png" alt=""><figcaption><p>The details page of a subscription.</p></figcaption></figure></div>
 
 4. Use the following tabs to access additional related information:&#x20;
-   1. **Entitlements** - Displays all the items that you ordered along with their details, like the item name, quantity, and pricing.
-   2. **Parameters** - Displays the fulfillment parameters for the subscription. The parameter information varies depending on the parameters enabled by the vendor.
-   3. **Entities** - Displays the entities linked to the subscription and their details. Entities include licensees, buyers, and sellers.&#x20;
-   4. **Split billing** - Displays the split billing information, including the buyers and billing allocation. This tab is visible only if split billing has been enabled for the agreement. The **Edit** option allows you to update the buyer allocation. For details, see [Edit Split Billing](../billing/split-billing/edit-split-billing.md).
-   5. **Orders** - Displays all orders associated with the agreement along with their status.&#x20;
-   6. **Details** - Displays additional details, such as references and additional client and vendor IDs, and the timestamps of events. You can also update the client ID using the **Edit** option. For instructions, see [Edit Subscription Client ID](edit-subscription-id.md).&#x20;
-   7. **Audit trail** - Displays a record of events related to the subscription. For more information, see [Audit Trail](../../settings/audit-trail.md).
+   * **Entitlements** - Displays all the items that you ordered along with their details, like the item name, quantity, and pricing.
+   * **Parameters** - Displays the fulfillment parameters for the subscription. The parameter information varies depending on the parameters enabled by the vendor.
+   * **Entities** - Displays the entities linked to the subscription and their details. Entities include licensees, buyers, and sellers.&#x20;
+   * **Split billing** - Displays the split billing information, including the buyers and billing allocation. This tab is visible only if split billing has been enabled for the agreement. The **Edit** option allows you to update the buyer allocation. For details, see [Edit Split Billing](../billing/split-billing/edit-split-billing.md).
+   * **Orders** - Displays all orders associated with the agreement along with their status.&#x20;
+   * **Details** - Displays additional details, such as references and additional client and vendor IDs, and the timestamps of events. You can also update the client ID using the **Edit** option. For instructions, see [Edit Subscription Client ID](edit-subscription-id.md).&#x20;
+   * **Audit trail** - Displays a record of events related to the subscription. For more information, see [Audit Trail](../../settings/audit-trail.md).
 
-## Additional actions
+### Additional actions
 
 On the details page, you can perform various actions depending on the status of your subscription. The available actions include:
 

@@ -6,7 +6,7 @@ description: Change your profile picture, display language, and time zone settin
 
 Your profile contains the information associated with your account, including your name, email address, and preferences. You can edit your profile to keep your information accurate and up to date.
 
-## Managing your profile
+### Managing your profile
 
 To update your profile:
 

@@ -11,7 +11,7 @@ When ordering products, there are two options for agreements:
 * If you have an existing agreement, you can use that agreement. However, you'll need to make sure that the agreement is mapped to a licensee configured as a resale licensee.&#x20;
 * If you don't have an agreement, you can create one during the ordering process and select an existing licensee configured as a resale licensee.
 
-## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
+### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 Before starting this tutorial, make sure you have the following:
 
@@ -19,7 +19,7 @@ Before starting this tutorial, make sure you have the following:
 * Company details of your client, like the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of your client managing the Microsoft account.&#x20;
 
-## Ordering products for resale
+### Ordering software products for resale
 
 {% stepper %}
 {% step %}
@@ -62,7 +62,7 @@ To start the process:
 {% endstep %}
 {% endstepper %}
 
-## Next steps <a href="#next-steps" id="next-steps"></a>
+### Next steps <a href="#next-steps" id="next-steps"></a>
 
 When your order has been placed, we verify the order details.
 

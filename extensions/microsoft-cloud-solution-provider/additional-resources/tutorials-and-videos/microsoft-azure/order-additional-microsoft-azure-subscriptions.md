@@ -1,16 +1,18 @@
 ---
-description: How to order additional Azure subscription using an existing agreement.
+description: >-
+  How to order an additional Microsoft Azure subscription using an existing
+  agreement.
 ---
 
-# Order Additional Azure Subscription
+# Order an Additional Azure Subscription
 
 This tutorial describes how you can order additional subscriptions for Microsoft Azure using an existing Marketplace agreement.&#x20;
 
-## Prerequisites
+### Prerequisites
 
 Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state. Agreements in any other state cannot be used for ordering additional items.
 
-## Ordering additional Azure subscriptions <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Ordering an additional Microsoft Azure subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}
@@ -40,7 +42,7 @@ To start the process:
 {% endstep %}
 {% endstepper %}
 
-## Next steps <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Next steps <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 Once you have placed your order, we verify the order details and create your new subscription.&#x20;
 

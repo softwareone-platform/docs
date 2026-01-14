@@ -14,14 +14,14 @@ When setting up a new agreement, you can either create a new Microsoft account o
 Watch this video guide explaining how to order Microsoft 365 subscription for an existing tenant.
 {% endembed %}
 
-## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
+### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 Before starting this tutorial, make sure you have the following:
 
 * Your Microsoft tenant name.&#x20;
 * A Marketplace licensee in the **active** state or permission to [create a new licensee](../../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when you are creating the agreement.&#x20;
 
-## Ordering a Microsoft 365 subscription for an existing tenant
+### Ordering a Microsoft 365 subscription for an existing tenant
 
 {% stepper %}
 {% step %}
@@ -61,6 +61,6 @@ To start the process:
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 Once you have placed your order, we verify the order details, including the Microsoft tenant ID, and create your new subscription under your existing tenant. If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page provides information about the problem and any actions you may need to take.

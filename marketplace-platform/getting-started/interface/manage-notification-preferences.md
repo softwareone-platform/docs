@@ -11,11 +11,11 @@ If you want to opt out of these alerts, you can update your preferences. There a
 * By signing in to your account and using the **My profile** option.
 * By selecting the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to the platform.
 
-### Managing notifications (using the **My profile** option)
+### Managing notifications (using the My profile option)
 
 {% hint style="info" %}
 * Some categories are enabled by default, and you can't opt out of these categories.&#x20;
-* Admins can manage preferences at the account level through the [Notifications ](../../../modules-and-features/settings/notifications/)option in the **Settings** menu.&#x20;
+* Administrators can manage preferences at the account level from the [Notifications ](../../../modules-and-features/settings/notifications/)option in the **Settings** menu.&#x20;
 {% endhint %}
 
 To update your preferences using the **My profile** option:

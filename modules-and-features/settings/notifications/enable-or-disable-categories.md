@@ -15,7 +15,7 @@ Administrators can stop unwanted notifications by disabling the category. This i
 * The Marketplace Platform doesn't allow disabling email messages for profile updates, including password reset alerts and account invitation emails.
 {% endhint %}
 
-## Disabling a notification category
+### Disabling a notification category
 
 {% hint style="info" %}
 The steps in this section are for account administrators to manage categories at the account level. To manage notifications for your individual profile, see [Manage Notification Preferences](../../../marketplace-platform/getting-started/interface/manage-notification-preferences.md).
@@ -30,7 +30,7 @@ To disable a notification category:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_disable.png" alt=""><figcaption><p>The Disable Category dialog in the platform.</p></figcaption></figure></div>
 
-## Enabling a notification category
+### Enabling a notification category
 
 To re-enable a previously disabled notification category:
 

@@ -8,7 +8,7 @@ In the Marketplace Platform, you can create new groups and add members to those 
 
 When creating groups, you can choose all the modules you want to enable for the group members. You can also restrict group members to certain buyers. It means you can define if your group members should see all buyers in your account or specific buyers only.&#x20;
 
-## Creating a new group
+### Creating a new group
 
 To create a new group:
 

@@ -10,7 +10,7 @@ If you are looking for a specific statement, you can use filters to locate it ea
 
 This topic describes how to apply the two commonly used filters, including **Type** and **Status**.
 
-## Filtering statements by type
+### Filtering statements by type
 
 To view statements based on their type:
 
@@ -24,7 +24,7 @@ To view statements based on their type:
 
 3. **Close** the filter box. All statements matching your specified status are displayed in the table.&#x20;
 
-## Filtering statements by status
+### Filtering statements by status
 
 To view statements based on their status:
 

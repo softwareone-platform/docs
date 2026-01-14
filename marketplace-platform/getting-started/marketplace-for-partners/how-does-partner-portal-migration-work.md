@@ -2,15 +2,15 @@
 description: Migrate from SoftwareOne's legacy Partner Portal to the Marketplace Platform.
 ---
 
-# How Does Partner Portal Migration Work?
+# How Does Partner Portal Migration Work
 
 SoftwareOne's legacy Partner Portal is being transitioned to the Marketplace Platform.
 
 The Marketplace Platform offers the same self-service capabilities as the Partner Portal, but also includes several additional features that enable you (our partners) to expand your service offerings. The platform provides a more unified and streamlined experience, allowing you to take advantage of features that are specifically designed for you.
 
-This topic outlines what you can expect during the transition and details the steps you must take to continue transacting with us.&#x20;
+This topic outlines what you can expect during the transition and steps you must take to continue transacting with us.&#x20;
 
-## Before migration
+### Before migration
 
 Before we begin the migration process, you'll see a message in the Partner Portal indicating that your account will be migrated.
 
@@ -21,11 +21,11 @@ At this stage of the process, you don't need to take any action. However, we rec
 * [Key Concepts](../key-concepts.md) - This page describes the key concepts and the terminology used within the Marketplace Platform.
 * [Platform Interface](../interface/) - This page describes how to navigate and use the platform.
 
-## During migration
+### During migration
 
 We plan and execute the entire migration process. It means you don't need to take any action.
 
-## After migration
+### After migration
 
 When your account has been migrated, we'll send you an email.&#x20;
 
@@ -33,13 +33,13 @@ You'll also see a message within the Partner Portal confirming that your account
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/partner_portal_migration2.png" alt=""><figcaption><p>A message stating that your account has been migrated.</p></figcaption></figure></div>
 
-When the migration has completed, the Partner Portal will switch to **Archive** mode. You'll still have access to your historical orders and invoices, but you won't be able to make new transactions.
+When the migration has completed, the Partner Portal will switch to **Archive** mode.&#x20;
 
 Additionally, you'll receive an invitation to join the new Marketplace account. For details on how to accept the invitation and complete account registration, see [Respond to Invitations](../../../modules-and-features/settings/users/respond-to-invitations.md).
 
 After accepting the invitation, you can sign in and access your [agreements](../../../modules-and-features/marketplace/agreements/), [subscriptions](../../../modules-and-features/marketplace/subscriptions/), and customers (known as [licensees](../../../modules-and-features/settings/licensees/)).
 
-## Next steps
+### Next steps
 
 After joining the account, you must enroll in the SoftwareOne Cloud Solution Provider Partner Program (**SWO CSP Partner Program**).
 

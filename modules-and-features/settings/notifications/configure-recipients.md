@@ -10,7 +10,7 @@ Account administrators can define recipients for each [notification category](./
 
 Administrators can also manage recipients for an email message by adding new ones or removing existing ones.
 
-## Adding recipients
+### Adding recipients
 
 To add specific users and groups to your email notifications:
 
@@ -25,7 +25,7 @@ To add specific users and groups to your email notifications:
    * To add groups, select **Edit** in the **Groups** section and choose the required groups. You can select multiple groups from the list.&#x20;
 5. Select **Save**. Your list of recipients is updated for the selected category.&#x20;
 
-## Removing recipients
+### Removing recipients
 
 You can manage your recipients using the **Edit** option on the **Recipients** tab within the subscriber details page.
 

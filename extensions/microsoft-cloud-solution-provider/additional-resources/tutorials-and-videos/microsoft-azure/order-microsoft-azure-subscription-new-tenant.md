@@ -12,7 +12,7 @@ This tutorial describes how you can order a subscription for Microsoft Azure by 
 Watch this video guide explaining how to order Microsoft Azure subscription for a new Microsoft tenant.
 {% endembed %}
 
-## Prerequisites
+### Prerequisites
 
 Before starting this tutorial, make sure you have the following:
 
@@ -20,7 +20,7 @@ Before starting this tutorial, make sure you have the following:
 * Your details, such as company name, registration ID, and address. You'll need to provide this information when creating the new Microsoft tenant.
 * Contact details of the person who manages your account.&#x20;
 
-## Ordering an Azure subscription for a new tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Ordering an Azure subscription for a new tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}
@@ -58,7 +58,7 @@ To start the process:
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 Once you have placed your order, we verify the order details and create your new subscription.&#x20;
 

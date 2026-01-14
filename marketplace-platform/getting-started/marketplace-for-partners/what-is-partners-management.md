@@ -2,15 +2,15 @@
 description: Learn about Partner Management and how it works.
 ---
 
-# What is Partner Management?
+# What is Partner Management
 
 SoftwareOne is a global provider of software and cloud technology solutions.&#x20;
 
-Our [Partner Program ](https://partner.softwareone.com/welcome)helps companies that sell cloud-based products and services expand their businesses by accessing new markets worldwide.&#x20;
+Our Partner Program helps companies that sell cloud-based products and services expand their businesses by accessing new markets worldwide.&#x20;
 
 The program supports partners, including Value-Added Resellers (VARs), System Integrators (SIs), and Managed Service Providers (MSPs), as well as other businesses such as Cloud Solutions Providers (CSPs), Direct Marketing Resellers (DMRs), and Retailers, to grow their revenue and scale their market presence. Our program equips partners with the tools, training, and support to accelerate growth, reach new clients, and build long-term relationships while minimizing the risks associated with competitive solutions.&#x20;
 
-**Marketplace Platform and Partners Management**
+**Marketplace Platform and Partner Management**
 
 Marketplace Platform's Partner Management feature allows partners to access features designed to support resale activities.&#x20;
 
@@ -20,7 +20,7 @@ This is managed at the licensee level within the platform. Licensees are the end
 
 **Partner enrollments and certificates**
 
-Through Partners Management, partners can also enroll in various programs, complete certifications, and apply those certificates when ordering products to access the benefits associated with those programs.&#x20;
+Through Partner Management, partners can also enroll in various programs, complete certifications, and apply those certifications when ordering products to access the benefits associated with those programs.&#x20;
 
 To learn more, see the following links:
 

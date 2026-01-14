@@ -4,7 +4,7 @@ To [complete the Azure Lighthouse onboarding](complete-the-azure-lighthouse-onbo
 
 Global administrators can assign the subscription owner role to the user who will complete the Azure Lighthouse onboarding.&#x20;
 
-## Assigning the Owner role
+### Assigning the Owner role
 
 To assign the Owner role:
 
@@ -32,11 +32,11 @@ The **Owner** role is assigned to the user and displayed on the **Role assignmen
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image-20240927-085405.png" alt=""><figcaption><p>Role assignments tab</p></figcaption></figure></div>
 
-## Next steps
+### Next steps
 
 After assigning the role in Azure, navigate to the **Orders** page in the Marketplace Platform to complete the onboarding steps. For step-by-step guidance, see [Complete Azure Lighthouse Onboarding](complete-the-azure-lighthouse-onboarding.md).&#x20;
 
-## Related topics
+### Related topics
 
 {% content-ref url="../additional-resources/faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md" %}
 [how-do-i-troubleshoot-lighthouse-activation-errors.md](../additional-resources/faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md)

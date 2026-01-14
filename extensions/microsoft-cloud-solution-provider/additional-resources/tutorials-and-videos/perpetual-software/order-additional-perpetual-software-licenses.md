@@ -10,11 +10,11 @@ If you already have an agreement for a perpetual software product and want to ad
 
 This tutorial describes how to create a change order by adding a one-time item called _Windows Server 2025_.&#x20;
 
-## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
+### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 Before starting this tutorial, make sure that your existing agreement is in the **Active** state. You can check the status on the agreement details page.
 
-## Ordering additional perpetual software licenses <a href="#implementation" id="implementation"></a>
+### Ordering additional perpetual software licenses <a href="#implementation" id="implementation"></a>
 
 {% stepper %}
 {% step %}

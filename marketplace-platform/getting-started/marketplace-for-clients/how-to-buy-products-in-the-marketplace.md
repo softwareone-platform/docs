@@ -4,11 +4,11 @@ description: Access the product catalog, discover products, and submit your orde
 
 # How to Buy Products
 
-The Marketplace Platform is designed to simplify the complex process of software licensing and procurement. It aims to simplify your buying journey by making it easier for you to find products from multiple software vendors in one place.&#x20;
+The SoftwareOne Marketplace is designed to simplify the complex process of software licensing and procurement. It aims to simplify your buying journey by making it easier for you to find products from multiple software vendors in one place.&#x20;
 
 Ordering products from the SoftwareOne Marketplace involves a series of steps, depending on the vendor. This topic describes these steps at a high level.&#x20;
 
-## Buying products from the Marketplace
+### Buying products from the SoftwareOne Marketplace
 
 {% stepper %}
 {% step %}
@@ -18,7 +18,7 @@ To access the catalog, navigate to the **Products** page.&#x20;
 
 This page contains the products available for you to order. To view detailed product information, select the product name.&#x20;
 
-<figure><img src="../../../.gitbook/assets/products-page.png" alt=""><figcaption><p>The products page showing all the products you can order.</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/products-page.png" alt=""><figcaption><p>The products page showing all products available to order.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -26,7 +26,7 @@ This page contains the products available for you to order. To view detailed pro
 
 When you are ready to order, select **Buy now** on the product details page. The ordering process contains a series of steps that must be completed to place an order.
 
-<figure><img src="../../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing a series of steps.</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing a series of steps.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

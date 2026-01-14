@@ -6,7 +6,7 @@ description: Enroll in the Cloud Solution Provider partner program.
 
 The **Cloud Solution Provider Partner Program** allows you to partner with SoftwareOne as your indirect CSP provider. To learn more about this program, see [Partner Programs](../../../extensions/microsoft-cloud-solution-provider/products-and-programs/partner-programs.md).
 
-## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
+### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 You can enroll in this program if you meet these conditions:
 
@@ -15,7 +15,7 @@ You can enroll in this program if you meet these conditions:
 * You are signed up for the SWO CSP Partner Program. For details, see [How to Enroll in the SWO CSP Partner Program](how-to-enroll-in-the-softwareone-csp-partner-program.md).
 * You have the Microsoft Partner Network (MPN) ID and email address for your Microsoft partner account. To find the ID in the Microsoft Partner Center, select the **Settings** (gear) icon > **Account settings** > **Organization Profile** > **Identifiers**. Then, find the PartnerID with the **Type Location** that matches the country/region of this CSP account.
 
-## Enrolling in the CSP Partner program
+### Enrolling in the CSP Partner program
 
 {% stepper %}
 {% step %}
@@ -54,7 +54,7 @@ Complete the following steps in the wizard, ensuring you enter or verify all req
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 The enrollment takes a few minutes to complete as we verify the details. Once the enrollment is complete, a certificate is created.&#x20;
 

@@ -4,9 +4,9 @@ description: Update the automatic renewal settings for a subscription.
 
 # Manage Automatic Renewals
 
-In the Marketplace Platform, we automatically renew subscriptions for your convenience and to prevent any service interruptions.&#x20;
+In the SoftwareOne Marketplace, we automatically renew subscriptions for your convenience and to prevent any service interruptions.&#x20;
 
-If you don't want your subscription to renew automatically, you can disable auto-renewal if it's supported for your specific product. By doing so, your subscription will expire at the end of the commitment period or renewal date, and you will not be billed after that.&#x20;
+If you don't want your subscription to renew automatically, you can disable auto-renewal if it's supported for your specific product. By doing so, your subscription will expire at the end of the commitment period or renewal date, and you won't be billed after that.&#x20;
 
 In cases where you previously disabled auto-renewal for a subscription but want to re-enable it, you can do so before the subscription expires.
 

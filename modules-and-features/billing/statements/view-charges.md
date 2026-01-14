@@ -8,7 +8,7 @@ Your Marketplace billing statements include all charges used to generate an invo
 
 Charges are the individual billing transactions used to generate an invoice for a billing period. Each charge on your statement corresponds to a transaction related to the subscriptions in your agreement. Viewing these helps you verify and understand the composition of your total invoice
 
-## Viewing charges
+### Viewing charges
 
 You can see the charges for a statement in two ways:
 

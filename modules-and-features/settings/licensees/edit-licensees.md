@@ -8,7 +8,7 @@ If you need to change general information such as the licensee's name, descripti
 
 Note that you can only update general licensee details. Updating the buyer or seller entities linked to a licensee is not supported.
 
-## Editing licensee details
+### Editing licensee details
 
 To edit a licensee's details:&#x20;
 

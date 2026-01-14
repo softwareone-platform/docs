@@ -8,7 +8,7 @@ You can create new licensees and map those licensees to the buyers and sellers i
 
 Before creating a licensee, ensure that your account contains buyers and sellers. Also, make sure that you have the first and last name and email address of the licensee to add.
 
-## Creating a licensee
+### Creating a licensee
 
 To create a new licensee:
 

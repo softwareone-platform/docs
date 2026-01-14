@@ -6,7 +6,7 @@ description: Remove a user from your Marketplace account.
 
 In certain situations, you might need to remove a person from your account. If you are an account administrator, you can use the **Remove** option on the **Users** page to remove an individual.&#x20;
 
-## Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
+### Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
 
 Before removing an individual from your account, note the following points:
 
@@ -16,7 +16,7 @@ Before removing an individual from your account, note the following points:
 * You cannot remove yourself from an account. The platform shows a message when you try to remove yourself.
 * If you remove an individual with an **Invited** status, their invitation link no longer remains valid.
 
-## Removing a user from your account
+### Removing a user from your account
 
 To remove an individual from your account:
 

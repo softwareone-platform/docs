@@ -6,15 +6,15 @@ description: Divide subscription costs across buyers in your account.
 
 Split billing is a feature that allows you to divide the cost of a subscription across different buyers in your account. If your organization has multiple legal entities, split billing can be used to distribute costs effectively. To learn more, see [Split Billing](../../../modules-and-features/marketplace/billing/#split-billing).
 
-In the Marketplace Platform, the split billing process begins by activating the feature from the user interface (UI), selecting buyers for allocation, and then specifying each buyer's allocation percentage or license count. This tutorial describes how to complete all of these steps.
+In the SoftwareOne Marketplace, the split billing process begins by activating the feature from the user interface (UI), selecting buyers for allocation, and then specifying each buyer's allocation percentage or license count. This tutorial describes how to complete all of these steps.
 
 In this tutorial, an agreement named _Adobe VIP Marketplace for Stark Industries_ contains three subscriptions. Currently, 100% of the billing for these subscriptions is assigned to a single buyer named _Stark Industries_. We'll activate split billing, add two new buyers named _Stark Industries II_ and _Stark Industries_ _III_, and then specify the allocation percentage for these buyers.
 
-## Prerequisites
+### Prerequisites
 
 Before getting started with the tutorial, it's essential to have an understanding of the platform's [key concepts](../key-concepts.md). You must also be familiar with the platform's interface and know how to navigate it.
 
-## Splitting the billing across buyers
+### Splitting the billing across buyers
 
 {% stepper %}
 {% step %}
@@ -80,6 +80,6 @@ Use the Buyer menu at the top to view the allocation for the other buyers (_Star
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 If you have additional subscriptions and want to split the billing, you can repeat the same steps for those subscriptions. You can also edit the split at any time. For instructions, see [Edit Split Billing](../../../modules-and-features/marketplace/billing/split-billing/edit-split-billing.md).

@@ -6,7 +6,7 @@ description: Update existing API token.
 
 You can update an API token’s description and change the access scope through the **Edit** option on the token's details page.
 
-## Editing an API token
+### Editing an API token
 
 To update the token details:
 

@@ -8,14 +8,14 @@ This tutorial describes how you can terminate your Marketplace agreement by plac
 
 When you terminate your agreement, all subscriptions within that agreement are terminated.
 
-## Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
+### Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
 
 Before starting this tutorial:
 
 * Make sure that the agreement you wish to terminate is active. Agreements in any other state cannot be terminated.
 * Make sure you are familiar with the platform and can navigate to the agreement you want to terminate.
 
-## Terminating an agreement
+### Terminating an agreement
 
 {% stepper %}
 {% step %}
@@ -40,7 +40,7 @@ In the **Terminate Agreement** wizard, complete the following steps:
 {% endstep %}
 {% endstepper %}
 
-## Next steps <a href="#next-steps" id="next-steps"></a>
+### Next steps <a href="#next-steps" id="next-steps"></a>
 
 A termination order is created for the agreement and submitted to the vendor for processing.&#x20;
 

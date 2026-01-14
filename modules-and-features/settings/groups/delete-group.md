@@ -8,7 +8,7 @@ If a group is no longer needed, you can delete it. You can delete all groups exc
 
 Before deleting a group, make sure to remove all members from the group. If the group contains members, the platform displays a message.&#x20;
 
-## Deleting an existing group
+### Deleting an existing group
 
 To delete a group:
 

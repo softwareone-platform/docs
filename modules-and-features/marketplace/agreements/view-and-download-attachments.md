@@ -8,7 +8,7 @@ The **Attachments** tab on the agreement details page displays all files that ha
 
 Attachments can include PDFs and license keys. The same attachments are also available on the **Attachments** tab within the order details page.
 
-## Viewing and downloading attachments
+### Viewing and downloading attachments
 
 To view and download attachments:&#x20;
 

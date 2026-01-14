@@ -10,7 +10,7 @@ This tutorial shows how you can order a Microsoft [Perpetual Software](../../../
 
 Perpetual licenses involve a one-time payment. You pay upfront for these licenses and then use the software indefinitely. In the Marketplace Platform, perpetual licenses can be ordered by creating a purchase order.&#x20;
 
-## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
+### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 Before starting this tutorial, make sure you are familiar with [key concepts](../../../../../marketplace-platform/getting-started/key-concepts.md). You will also need:
 
@@ -18,7 +18,7 @@ Before starting this tutorial, make sure you are familiar with [key concepts](..
 * Your company details, like the company name, registration ID, and address. These details are required when setting up a new Microsoft tenant.
 * The contact details of the person who manages your Microsoft account.
 
-## Buying Perpetual software licenses <a href="#implementation" id="implementation"></a>
+### Buying perpetual software licenses in the Marketplace <a href="#implementation" id="implementation"></a>
 
 {% stepper %}
 {% step %}

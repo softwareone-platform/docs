@@ -14,7 +14,7 @@ With this feature, you can apply group-level restrictions, ensuring that your gr
 Visibility restrictions apply to the **Marketplace** module only.&#x20;
 {% endhint %}
 
-## Buyer-level group restrictions rules
+### Buyer-level group restrictions rules
 
 Keep the following rules in mind:
 
@@ -31,6 +31,6 @@ Keep the following rules in mind:
   * If Group 2 has access to modules such as Marketplace and Procurement, and its members are restricted to Buyer C, they can only view the Marketplace objects associated with Buyer C. However, if members belong to Group 1 and Group 2, they can access the objects linked to Buyers A, B, and C.
   * If Group 3 has access to several modules, like Marketplace, Procurement, and Account Management, and its members are restricted to Buyer D, they can only view the Marketplace objects associated with Buyer D. If the users in Group 3 require access to Buyers A, B, and C, they must also be members of Groups 1 and 2.
 
-## Restricting a group to a certain buyer
+### Restricting a group to a certain buyer
 
 You can apply buyer-level restrictions when creating new groups or editing existing ones. For instructions, see [Create New Group](create-new-group.md) and [Edit Group](edit-group.md).&#x20;

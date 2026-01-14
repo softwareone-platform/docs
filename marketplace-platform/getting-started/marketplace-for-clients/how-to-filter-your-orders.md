@@ -10,7 +10,7 @@ If you need to find a specific order, you can use the filter option to search fo
 
 This topic describes how to use some of the filters.
 
-## Filtering orders by status <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
+### Filtering orders by status <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
 
 To find an order using the status filter (such as **Draft**):
 
@@ -25,7 +25,7 @@ To find an order using the status filter (such as **Draft**):
    3. In the third field, type or select a value from the list of preconfigured values. The values displayed in this field are determined by your selection in the first field. To see your draft orders, select **Draft**.
    4. If needed, select **Add another condition** to specify additional conditions as needed.
 
-## Filtering orders by order ID <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
+### Filtering orders by order ID <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
 
 To find an order using the order ID:
 
@@ -35,7 +35,7 @@ To find an order using the order ID:
    2. In the second field, choose the search operator. For this example, leave the value set to **Contains**.
    3. In the third field, type the order number. You can enter all or part of the order's ID or name.&#x20;
 
-## Filtering orders using a search query <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
+### Filtering orders using a search query <a href="#using-filters-to-find-an-order" id="using-filters-to-find-an-order"></a>
 
 The **Search query** condition allows you to enter a search term, which is then used to find matching records across other filter conditions, such as orders, agreements, and more.&#x20;
 

@@ -8,7 +8,7 @@ To complete the onboarding successfully, you'll need the Microsoft **Azure Subsc
 The onboarding process for Azure Lighthouse can take up to 24 hours. This is because Microsoft needs to set up the necessary configurations and permissions for your new subscription, which can take a while, especially with multiple subscriptions and large amounts of data. If you still have issues after this time, [contact support](../../../help-and-support/contact-support.md).
 {% endhint %}
 
-## Completing Azure Lighthouse onboarding
+### Completing Azure Lighthouse onboarding
 
 To complete the onboarding:
 
@@ -43,7 +43,7 @@ To complete the onboarding:
 
        <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image-20241209-115301.png" alt=""><figcaption><p>Progress overview</p></figcaption></figure></div>
 
-## Next steps
+### Next steps
 
 After completing the activation, return to the order details page and select **Process** to change the order status from **Querying** to **Processing**.&#x20;
 

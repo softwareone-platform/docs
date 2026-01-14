@@ -6,7 +6,7 @@ description: Copy API access token.
 
 You can copy your API token from the token details page.
 
-## Copying an API token
+### Copying an API token
 
 To copy a token:
 

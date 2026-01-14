@@ -10,7 +10,7 @@ With this option, you can only modify the groups that the individual belongs to.
 
 If any of those details require updating, the individual must update them through the **My Profile** option in their profile menu. To learn more, see [Manage Your Profile](../../../marketplace-platform/getting-started/interface/manage-profile.md).&#x20;
 
-## Editing a user's group membership
+### Editing a user's group membership
 
 To update a user's group membership:
 

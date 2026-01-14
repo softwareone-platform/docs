@@ -17,11 +17,11 @@ To learn about these documents, continue reading or watch the video guide:
 Watch this video guide explaining invoices and statements in recurring billing.
 {% endembed %}
 
-## Billing invoices
+### Billing invoices
 
 An invoice PDF contains general invoice information, subscription details, and charges for the items within the subscription. You can view your invoices on the [Invoices](../../marketplace/billing/invoices/) page in the platform.
 
-### Invoice types
+#### Invoice types
 
 We provide two types of invoices:
 
@@ -30,7 +30,7 @@ We provide two types of invoices:
 
 The invoice type is indicated in the **Description** column of your invoice PDF. For more details, see [Invoice line item details](./#invoice-line-item-details).
 
-### Invoice header
+#### Invoice header
 
 This section contains general information, such as the invoice creation date, your customer number, and contact details. It also includes your invoice number and addresses.
 
@@ -38,23 +38,23 @@ The following are key fields in this section:
 
 <table><thead><tr><th width="167">Field</th><th>Description</th></tr></thead><tbody><tr><td>PO No. (purchase order number)</td><td><p>This is the <strong>Client Additional ID</strong> that you specify for the agreement. The value comes from the <strong>Details</strong> tab on the <a href="../../marketplace/agreements/#subscription-details">agreement details page</a>.</p><ul><li>If the value you specify exceeds 20 characters, only the first 16 characters are shown on the invoice, followed by 3 dots (<code>...</code>).</li><li>If the value is blank, a dash (<code>—</code>) is displayed on the invoice.</li></ul><p>To edit an existing value or add a new one, use the agreement details page. For details, see <a href="../../marketplace/agreements/edit-agreement-id.md">Update Additional Client ID</a>.</p></td></tr><tr><td>External document number</td><td><p>This is the ID of the agreement for which the invoice was issued.</p><p>Each agreement is assigned an ID automatically by the platform. These IDs can't be changed, but you can view them in the platform along with the agreement name. </p></td></tr><tr><td>Your reference</td><td><p>This is the ID of the statement linked to the invoice.</p><p>Similar to an agreement ID, statement IDs are also assigned by the platform and can't be changed. </p></td></tr></tbody></table>
 
-### Invoice line item details
+#### Invoice line item details
 
 This section lists all subscriptions and items for which you are being billed. It contains multiple columns and may span multiple pages.
 
 The following are key columns in this section:
 
-<table><thead><tr><th width="137">Column</th><th>Description</th></tr></thead><tbody><tr><td>Pos</td><td><p>Displays the line number for the item being billed.</p><p>The value starts from 10 and continues by +10 for each billing item. It means if 5 items are being billed, the POS begins from 10 and ends at 50.</p></td></tr><tr><td>No.</td><td>Displays the item number from SoftwareOne's ERP system.</td></tr><tr><td>Description</td><td><p>This is the main column listing subscriptions and items included on the invoice. It includes:</p><ul><li>The <a href="./#invoice-types">invoice type</a> and a secure URL to download the associated statement using invoice and statement IDs. For more details, see <a href="../../marketplace/billing/statements/download-statements.md">Download Statements</a>. </li><li>Agreement information, including agreement ID and name, product details, and licensee details.</li><li>Subscription information (subscription ID and name). You can also view the additional client ID mapped to the subscription (if there's no value, a dash is displayed) and the vendor ID.</li><li>Allocation percentage, if <a href="../../marketplace/billing/split-billing/">split billing</a> is enabled.</li><li>Total number of items within the subscription, but only if the subscription is active at the time of billing (for example, 'Qty 20 of ITM-XXXX-XXXX-XXXX / 65325070CA'). If the subscription is inactive, the item is shown as 'ITM-XXXX-XXXX-XXXX / 65325070CA' instead.</li></ul><div><figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div><div><figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure></div></td></tr><tr><td>Start date - end date</td><td>Displays the duration of the charge.</td></tr><tr><td>Qty</td><td><p>Displays the item quantity. </p><p>On <a href="./#billing-invoices">compact invoices</a>, this value is shown as <code>1</code> because charges are consolidated. For the actual item quantities, see your billing statement.</p></td></tr><tr><td>Unit price</td><td>Displays the unit price used to calculate the line amount.</td></tr><tr><td>VAT %</td><td>The VAT percentage applicable to the item.</td></tr><tr><td>Total excl. VAT</td><td>The subtotal without taxes.</td></tr><tr><td>Total incl. VAT</td><td>The total amount due including VAT.</td></tr></tbody></table>
+<table><thead><tr><th width="137">Column</th><th>Description</th></tr></thead><tbody><tr><td>Pos</td><td><p>Displays the line number for the item being billed.</p><p>The value starts from 10 and continues by +10 for each billing item. It means if 5 items are being billed, the POS begins from 10 and ends at 50.</p></td></tr><tr><td>No.</td><td>Displays the item number from SoftwareOne's ERP system.</td></tr><tr><td>Description</td><td><p>This is the main column listing subscriptions and items included on the invoice. It includes:</p><ul><li>The <a href="./#invoice-types">invoice type</a> and a secure URL to download the associated statement using invoice and statement IDs. For more details, see <a href="../../marketplace/billing/statements/download-statements.md">Download Statements</a>. </li><li>Agreement information, including agreement ID and name, product details, and licensee details.</li><li>Subscription information (subscription ID and name). You can also view the additional client ID mapped to the subscription (if there's no value, a dash is displayed) and the vendor ID.</li><li>Allocation percentage, if <a href="../../marketplace/billing/split-billing/">split billing</a> is enabled.</li><li>Total number of items within the subscription, but only if the subscription is active at the time of billing (for example, 'Qty 20 of ITM-XXXX-XXXX-XXXX / 65325070CA'). If the subscription is inactive, the item is shown as 'ITM-XXXX-XXXX-XXXX / 65325070CA' instead.</li></ul><p><img src="../../../.gitbook/assets/image (7).png" alt="" data-size="original"></p><p><img src="../../../.gitbook/assets/image (9).png" alt="" data-size="original"></p></td></tr><tr><td>Start date - end date</td><td>Displays the duration of the charge.</td></tr><tr><td>Qty</td><td><p>Displays the item quantity. </p><p>On <a href="./#billing-invoices">compact invoices</a>, this value is shown as <code>1</code> because charges are consolidated. For the actual item quantities, see your billing statement.</p></td></tr><tr><td>Unit price</td><td>Displays the unit price used to calculate the line amount.</td></tr><tr><td>VAT %</td><td>The VAT percentage applicable to the item.</td></tr><tr><td>Total excl. VAT</td><td>The subtotal without taxes.</td></tr><tr><td>Total incl. VAT</td><td>The total amount due including VAT.</td></tr></tbody></table>
 
-### VAT amount specification
+#### VAT amount specification
 
 This section contains a breakdown of taxes. It shows how VAT is calculated and applied to the total amount.
 
-### Payment instructions <a href="#payment-instructions" id="payment-instructions"></a>
+#### Payment instructions <a href="#payment-instructions" id="payment-instructions"></a>
 
 This section outlines the payment terms in accordance with your contract and the date when the payment is due. It may also contain bank account information for electronic payments.
 
-## Billing statements
+### Billing statements
 
 A statement is a detailed record of charges for each invoice.
 

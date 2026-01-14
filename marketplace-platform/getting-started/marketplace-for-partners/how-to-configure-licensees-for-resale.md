@@ -10,11 +10,11 @@ Licensees are the entities that use the software products or services procured b
 
 A resale licensee is defined as a licensee that engages in resale activities, specifically ordering products for resale rather than for their self consumption.
 
-## Prerequisites
+### Prerequisites
 
 Make sure you have permissions to create new licensees. Only account administrators can create and manage licensees in the platform.
 
-## Configuring licensees for reselling products
+### Configuring licensees for reselling products
 
 {% stepper %}
 {% step %}
@@ -51,6 +51,6 @@ To start the wizard:
 {% endstep %}
 {% endstepper %}
 
-## Next steps <a href="#reseller-discounts" id="reseller-discounts"></a>
+### Next steps <a href="#reseller-discounts" id="reseller-discounts"></a>
 
 After you have configured the licensee, you can order products for resale through the **Products** page in the platform. See [How to Order Products for Reselling](how-to-order-products-for-resale.md) for details on how to start the ordering process.

@@ -6,11 +6,11 @@ description: How to terminate your Microsoft 365 subscription.
 
 This tutorial describes how you can cancel a subscription by placing a termination order for that subscription.
 
-## Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
+### Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
 
 Before starting this tutorial, make sure that the subscription you want to terminate is active. Make sure that the corresponding agreement is also active.
 
-## Terminating subscriptions
+### Terminating subscriptions
 
 {% stepper %}
 {% step %}
@@ -35,7 +35,7 @@ In the **Terminate Subscription** wizard, complete the following steps:
 {% endstep %}
 {% endstepper %}
 
-## Next steps <a href="#next-steps" id="next-steps"></a>
+### Next steps <a href="#next-steps" id="next-steps"></a>
 
 When your order is being processed, the subscription and the agreement are shown as **Updating**. You cannot place any additional orders under this agreement.&#x20;
 

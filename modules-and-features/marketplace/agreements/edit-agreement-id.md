@@ -8,7 +8,7 @@ You can use the **Additional Client ID** field on the agreement details page to 
 
 When saved, this number is displayed in your invoice header. For details, see the [Invoice header](../../billing/understand-your-billing-documents/#invoice-header) section in [Understand Your Billing Documents](../../billing/understand-your-billing-documents/).  If you entered a value when placing the order, the same value can also be updated.
 
-## Adding or updating the additional client ID
+### Adding or updating the additional client ID
 
 To add or update the Additional Client ID for an order:
 

@@ -6,6 +6,8 @@ description: Manage your querying enrollments.
 
 In some cases, a vendor may request that you provide additional information regarding your enrollment. You may also be required to complete some steps before your enrollment can be approved by the vendor.&#x20;
 
+### Managing querying enrollments
+
 To identify and take action on such enrollments:
 
 1. Navigate to the **Enrollments** page.

@@ -10,12 +10,12 @@ The Marketplace Platform allows an individual to be linked to several accounts a
 The option to switch accounts is only available for members with multiple accounts.
 {% endhint %}
 
-## Switching between your accounts
+### Switching between your accounts
 
 To switch between your accounts:
 
 1. Sign in to your account.
-2. Select your profile menu in the header. All accounts that you currently belong to are displayed under **Switch account**.
+2. Select your profile menu in the header. All accounts you currently belong to are displayed under **Switch account**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/switch_account.png" alt=""><figcaption><p>Switch between your Marketplace accounts.</p></figcaption></figure></div>
 

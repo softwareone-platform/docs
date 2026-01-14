@@ -8,7 +8,7 @@ After you've invited an individual to join your account, you can manage their in
 
 For example, you can reinvite the person if they didn't receive the invitation email or have difficulty accepting your invitation. Additionally, if the person's invitation has expired, you can create a new invitation and send it to them by email.
 
-## Reinviting a user
+### Reinviting a user
 
 If the person you invited didn't receive the invitation email or has difficulty accepting your invitation, you can share the invite link with them directly or send the invitation email again.
 
@@ -22,7 +22,7 @@ To reinvite a user to your account:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1006).png" alt=""><figcaption><p>The options to re-invite an individual to your account.</p></figcaption></figure></div>
 
-## Sending a new invitation email
+### Sending a new invitation email
 
 If an invitation is not accepted within 7 days from the send date, it expires.&#x20;
 

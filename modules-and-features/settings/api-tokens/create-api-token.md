@@ -6,7 +6,7 @@ description: Create API tokens to access the platform programmatically.
 
 As an account administrator, you can generate API tokens for authentication through the platform's interface.
 
-## Creating an API token
+### Creating an API token
 
 To create a token:
 

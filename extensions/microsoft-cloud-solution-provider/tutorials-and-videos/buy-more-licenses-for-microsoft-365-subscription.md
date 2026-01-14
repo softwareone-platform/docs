@@ -12,11 +12,11 @@ This tutorial describes how you can order additional licenses for an existing Mi
 Watch this video guide explaining how to buy more licenses for an existing 365 subscription.
 {% endembed %}
 
-## Prerequisites
+### Prerequisites
 
 Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state.
 
-## Buying more licenses for your Microsoft 365 subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Buying more licenses for your Microsoft 365 subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}
@@ -45,6 +45,6 @@ To start the process:
 {% endstep %}
 {% endstepper %}
 
-## Next steps <a href="#next-steps" id="next-steps"></a>
+### Next steps <a href="#next-steps" id="next-steps"></a>
 
 Once you have placed your order, we verify the order details. If there are any issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page provides information about the problem and any actions you must take.

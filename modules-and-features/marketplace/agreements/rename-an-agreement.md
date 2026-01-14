@@ -10,7 +10,7 @@ Agreements can be renamed as long as they are active. When choosing a new agreem
 
 Additionally, when renaming an agreement, make sure that the new name is not blank. Otherwise, the platform will display an error message.
 
-## Renaming an agreement
+### Renaming an agreement
 
 To update an agreement's name:
 
