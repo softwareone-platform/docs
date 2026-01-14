@@ -23,6 +23,8 @@ To perform a downsize, use the purchase wizard in the SoftwareOne Marketplace to
 
 Performing a downsize may affect your current quantity of licenses (if a return is processed) and will also affect the renewal quantity for the next renewal. Information about the current quantity and renewal quantity is available on the General tab of the subscription in the SoftwareOne Marketplace.
 
+For more information on placing a change order, see [downsize-adobe-subscription.md](tutorials-and-videos/downsize-adobe-subscription.md "mention").
+
 ### Downsizing a subscription with returnable orders
 
 When a subscription has returnable orders, you may only downsize by quantities that match the sum of orders that are within the return window. When you perform a downsize in this scenario, Adobe will process a return for the affected licenses, and they will immediately become unavailable to your users.
@@ -63,4 +65,4 @@ You can terminate a subscription if the entire quantity of its licenses are stil
 
 In this case, all licenses under the given subscription will immediately become unavailable to your users.
 
-For more information on placing a termination order, see [terminate-a-subscription.md](../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md "mention").
+For more information on placing a termination order, see [terminate-adobe-subscription.md](tutorials-and-videos/terminate-adobe-subscription.md "mention").
