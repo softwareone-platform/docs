@@ -29,7 +29,7 @@ For more information on placing a change order, see [downsize-adobe-subscription
 
 When a subscription has returnable orders, you may only downsize by quantities that match the sum of orders that are within the return window. When you perform a downsize in this scenario, Adobe will process a return for the affected licenses, and they will immediately become unavailable to your users.
 
-In addition, the renewal quantity of the subscription will be reduced to match the new quantity of licenses after the return as been processed.
+In addition, the renewal quantity of the subscription will be reduced to match the new quantity of licenses after the return has been processed.
 
 In cases where your requested reduction quantity doesn't match the quantity of one or more returnable orders, the system will prevent the reduction from being processed and suggest a valid quantity that can be returned.
 
