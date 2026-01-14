@@ -13,34 +13,29 @@ This topic explains how downsizing and termination work and the key points to ke
 The following are some of the key terms related to Adobe VIPM subscriptions in the Marketplace Platform:
 
 * **Downsize** - Downsizing a subscription involves reducing the number of licenses while keeping at least one license active.
-* **Terminate** - Terminating a subscription means canceling it entirely and disabling auto-renewal. When a subscription is terminated, licenses for the terminated subscription remain available in the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html) until the renewal date.
-* **Returnable orders** - This implies any new or renewal orders placed within the 14-day return window. Such orders can be returned without a charge at any time during the 14 days after the order is placed.
-* **Weeks 1 to 50** - Weeks 1 to 50 are the weeks of the year starting at the renewal date and ending 14 days before the next renewal date.
-* **Weeks 51 and 52** - Weeks 51 and 52 are the weeks of the year starting 14 days before the renewal date and ending on the renewal date.
+* **Disable autorenewal** - Disabling autorenewal for a subscription means that its licenses will remain active until the next anniversary date upon which it will expire, and the licenses will no longer be available to users. Any users with licenses assigned after the anniversary date will lose access.
+* **Terminate** - Terminating a subscription means canceling it entirely and returning the entire quantity of licenses. Termination is only available if the subscription's entire quantity of licenses are still within the return window (14 days) and can be returned.
+* **Returnable order** - Any new or renewal order placed within the 14-day return window. Such orders can be returned without a charge at any time during the 14 days after the order completes.
 
-## How downsizing and terminations work
+## How downsizing works
 
-### Standard process (Weeks 1 to 50)
+To perform a downsize, use the purchase wizard in the SoftwareOne Marketplace to place a change order for an existing agreement or subscription.
 
-You can return licenses if your order falls within the 14-day return window. In these cases, Adobe will process a return for the affected licenses. If your order is outside the 14-day return window, the renewal quantity of the subscription will be reduced instead.&#x20;
+Performing a downsize may affect your current quantity of licenses (if a return is processed) and will also affect the renewal quantity for the next renewal. Information about the current quantity and renewal quantity is available on the General tab of the subscription in the SoftwareOne Marketplace.
 
-In cases where your requested reduction doesn't match the quantity of one or more returnable orders, the system will prevent the reduction from being processed and display a message.
+### Downsizing a subscription with returnable orders
 
-### Approaching renewal (Weeks 51 to 52)
+When a subscription has returnable orders, you may only downsize by quantities that match the sum of orders that are within the return window. When you perform a downsize in this scenario, Adobe will process a return for the affected licenses, and they will immediately become unavailable to your users.
 
-As you approach the renewal period, specifically during the last two weeks (weeks 51 and 52), any requests to downsize or terminate will reduce the renewal quantity of your licenses. In such cases, no returns will be processed through Adobe.
+In addition, the renewal quantity of the subscription will be reduced to match the new quantity of licenses after the return as been processed.
 
-Should you choose to terminate your subscription, auto-renewal will be disabled. It means that your subscription won't renew after the current term ends.
+In cases where your requested reduction quantity doesn't match the quantity of one or more returnable orders, the system will prevent the reduction from being processed and suggest a valid quantity that can be returned.
 
-{% hint style="success" %}
-## Summary
+### Downsizing a subscription without returnable orders
 
-* Licenses can be returned without charge within 14 days of placing a new or renewal order; after that, only the subscription’s renewal quantity is reduced. Your purchased licenses will remain active until the renewal date.
-* For returns within the 14-day window, you must return the entire order or the full quantity of licenses purchased. For example, if you ordered 10 licenses for Creative Cloud All Apps, you must return all 10 licenses. If the quantity doesn't match, the platform displays a message. See [Common error messages](common-error-messages.md) to learn more.
-* Terminating a subscription automatically cancels auto-renewal.
-{% endhint %}
+When a subscription does not have any returnable orders, only the renewal quantity of the subscription will be reduced. This ensure that at the next renewal, only the reduced quantity of licenses is renewed.
 
-## Example scenario
+### Example scenario
 
 The following example illustrates how downsizing works in the platform. For this example, assume the following:
 
@@ -52,4 +47,20 @@ Based on this information, you currently own a total of 17 licenses for Photosho
 
 * If you wish to return the 4 additional licenses and downsize by 4, the system will process the return.
 * If you wish to downsize by 7, the orders for the 4 additional licenses, as well as the 3 additional licenses, will be returned.
-* If you request to downsize by 6, but no single order (or combination of orders) matches the required quantity of 6, the system will prevent the change and suggest a valid quantity that can be returned.
+* If you request to downsize by 6, no single order (or combination of orders) matches the required quantity of 6, and the system will prevent the change and suggest a valid quantity that can be returned.
+
+## How disabling auto-renewal works
+
+To disable (or enabled) autorenewal for a subscription, use the configuration wizard in the SoftwareOne Marketplace to place a configuration order for an existing subscription.
+
+When autorenewal is disabled for a subscription, the subscription remains active until the next anniversary date upon which it expires.
+
+For more information on placing a configuration order, see [manage-automatic-renewals.md](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md "mention").
+
+## How termination works
+
+You can terminate a subscription if the entire quantity of its licenses are still within the return window.&#x20;
+
+In this case, all licenses under the given subscription will immediately become unavailable to your users.
+
+For more information on placing a termination order, see [terminate-a-subscription.md](../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md "mention").
