@@ -6,6 +6,14 @@ description: >-
 
 # Release Notes
 
+## Release Date: 1 February 2026
+
+### Adobe VIP Marketplace moves to weekly billing
+
+Starting in **February 2026**, Adobe VIP Marketplace billing will move from **monthly to weekly invoicing**. Billing will occur **every Monday, starting on February 2nd**. This change aligns with Adobe’s updated invoicing model. There are **no changes to pricing,** only the billing frequency will change.
+
+If you have questions or need more information, please contact your **SoftwareOne account team**.
+
 ## Release Date: 12 December 2025
 
 ### Querying status for Education sub-segments
