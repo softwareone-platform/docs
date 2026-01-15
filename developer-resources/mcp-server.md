@@ -60,7 +60,7 @@ Add the following configuration to your MCP settings file (e.g., `~/.cursor/mcp.
             "timeout": 30000,
             "headers": {
                 "X-MPT-Authorization": "{your-token-goes-here}",
-                "X-MPT-Endpoint": "https://api.platform.softwareone.com"
+                "X-MPT-Endpoint": "https://api.platform.softwareone.com/public"
             }
         }
     }
