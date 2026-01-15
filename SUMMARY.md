@@ -169,6 +169,13 @@
     * [Customize Settings](modules-and-features/settings/notifications/edit-notification-settings.md)
   * [Sellers](modules-and-features/settings/sellers/README.md)
     * [Seller States](modules-and-features/settings/sellers/seller-states.md)
+  * [Users](modules-and-features/settings/users/README.md)
+    * [User States](modules-and-features/settings/users/user-states.md)
+    * [Respond to Invitations](modules-and-features/settings/users/respond-to-invitations.md)
+    * [Add New Users](modules-and-features/settings/users/add-new-users.md)
+    * [Edit Users](modules-and-features/settings/users/edit-users.md)
+    * [Remove Users](modules-and-features/settings/users/remove-users.md)
+    * [Manage User Invitations](modules-and-features/settings/users/manage-user-invitations.md)
 
 ## EXTENSIONS
 

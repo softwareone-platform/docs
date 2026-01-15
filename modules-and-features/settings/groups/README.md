@@ -21,7 +21,7 @@ The following rules apply to groups in the Marketplace:
 
 Account administrators can view and manage existing groups from the **Groups** page. When you launch the page, all groups within the account are displayed.&#x20;
 
-For each group, you can view key details, including the group name, total number of users it contains, and buyers visible to the group members. Buyer visibility is defined by administrators while creating or editing groups. For more information, see [Restrict Group to Certain Buyers](restrict-group-to-certain-buyers.md).
+For each group, you can view key details, including the group name, the total number of users it contains, and buyers visible to the group members. Buyer visibility is defined by administrators while creating or editing groups. For more information, see [Restrict Group to Certain Buyers](restrict-group-to-certain-buyers.md).
 
 You can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) as needed. Additionally, you can [edit a group](edit-group.md) or [delete it](delete-group.md) using the actions icon (**•••**).
 

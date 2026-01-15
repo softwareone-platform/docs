@@ -1,0 +1,48 @@
+---
+description: Invite new users to your SoftwareOne Marketplace account.
+---
+
+# Add New Users
+
+Account administrators can invite new users to the account from the **Users** page.
+
+When you add a user, an invitation email containing a unique link is sent to the individual. To join the account, the individual must accept the invitation and complete the registration process within 7 days. Otherwise, the invitation expires and must be resent.
+
+### Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
+
+Before adding an individual to your account, note the following points:
+
+* Ensure you have the individual's first and last name and email address.
+* Verify that an account with the same email address doesn't already exist. If an email address already exists, the platform displays a message.
+* Make sure to add the individual to the correct group before inviting them. For information on how to create or update a group, see [Groups](https://docs.platform.softwareone.com/modules-and-features/settings/groups).
+
+### Adding a new user to your account <a href="#adding-a-new-user-to-your-account" id="adding-a-new-user-to-your-account"></a>
+
+To add a new user:
+
+1. Navigate to the **Users** page. Then, select **Add** to start the **Add user** wizard.
+
+<div data-with-frame="true"><figure><img src="https://docs.platform.softwareone.com/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FZ5DNbniz33mXCZoO62Rm%2Fblobs%2Fn3qIJgs6Rw801rti4aAG%2Fimage.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=de45c0a5&#x26;sv=2" alt=""><figcaption><p>Invite a user to your account.</p></figcaption></figure></div>
+
+2. In the **User details** step, enter the following details and select **Next**:
+   1. **First name** - (Required) The first name of the individual associated with the account.
+      1. **Last name** - (Required) The last name of the individual associated with the account.
+      2. **Email address** - (Required) The email address the individual will use to sign in to the account.
+      3. **Country code** - (Optional) The country code associated with the individual's phone number.
+      4. **Phone number** - (Optional) The individual's phone number.
+3. In the **Groups** step, select the groups to add the individual to. You must choose at least one group. When done, select **Next**.
+
+<div data-with-frame="true"><figure><img src="https://docs.platform.softwareone.com/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FZ5DNbniz33mXCZoO62Rm%2Fblobs%2FORpyVk5nTSZW3FBoFXSm%2Fimage.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4193bb74&#x26;sv=2" alt=""><figcaption><p>The Groups step in the Add User wizard.</p></figcaption></figure></div>
+
+4. In the **Overview** step, review the details and select **Add**. The user is added to your account, and the invitation is emailed.&#x20;
+5. Select **View details** to go to the user's details page. Otherwise, select **Close**. To share the invite link directly with the individual, select <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAA4xJREFUeF7tnV9u00AQh2dzB/7cAAkeOEB5gBdQOAKgRGoi4YAoZ6EIaqQYyRFwBCp4gQc4AA8gcQNK75BFqVIJAmrGnhnPrvn1eWZ2/H2exF4p20D4cyUQXFfH4gQBzjcBBECAMwHn5TEBEOBMwHl5TMD/LmC0OxvSYDkMcXCJKF4logvOTDaXPyIKX2JYfqfl4HDx8uBQsz/XCRhPi1cU6a7mBZnXCvS6npf3tNZxEzCeFFHrIjzq1FWpwk6lSFMA42mxR5GeNM1LKj7Q43pe7kt76lzAeFLsENEnaeOJ5F+rq/KzpJfOBYwmxbNA9EDSdCq5kej5oiofSvrpXMB4UnwgouuSphPK/VhX5Q1JPx4CfhLROUnTCeUe11V5XtKPh4Azn360ni4kUH7P3fa0Ju0XAraYggCtW7llHQhoCU4rDQK0SLasAwEtwWmlQYAWyZZ1IKAlOK205ARIG5Lma4Hl1rHut/F7gLQhaT4XnFacdb8QkNuLmPSOkOZr3dncOtb9YgIwAX8SkG5uce9sbhwmgEvKKA4CjMByy0IAl5RRHAQYgeWWhQAuKaM4CDACyy0LAVxSRnEQYASWWxYCuKSM4iDACCy3LARwSRnFQYARWG5ZCOCSMoqDACOw3LIQwCVlFAcBRmC5ZSGAS8ooDgKMwHLLQgCXlFEcBBiB5ZaFAC4pozgIMALLLQsBXFJGcRBgBJZbFgK4pIziIMAILLcsBHBJGcVBgBFYblkI4JIyioMAI7DcshDAJWUUBwFGYLllIYBLyigOAozAcsv2UcCPBM8G5frYjDuqq/Ji2+RVnsOP9GbviOJNSdPp5Ib3dXVwS9JP5wJG0/v7IYZHkqZTyY0hPl3MX+xJ+ulewO5sGEJ8K2k6ldwYw23pUcadC1jBy/LI4k3rSkcYuwg4kYCji0+UuglYT0J+RxgrHVl8OlCuAtaTsBOJ7gSiy0R0JcEzRY+J6Gsk+haI3kiPKv77k6zhN9q2j47UjhpoeHmdh7tPQOdXnNiCEOAsBAIgwJmA8/KYAAhwJuC8PCYgQwF92s8n7/eWFhPQp/18yk9An/bzV58+2U3A6l8P9mU/P0sBvdnPX3/5ZjcBpw8N2zblnB8u2MtnKyDb/fwNNVkLyGQ//8xpyF4Ae9YR+E8Cjd8DwFGXAATo8mxcDQIaI9NNgABdno2rQUBjZLoJEKDLs3E1CGiMTDfhF9M57n+TW3JZAAAAAElFTkSuQmCC" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M360-240q-33 0-56.5-23.5T280-320v-480q0-33 23.5-56.5T360-880h360q33 0 56.5 23.5T800-800v480q0 33-23.5 56.5T720-240H360Zm0-80h360v-480H360v480ZM200-80q-33 0-56.5-23.5T120-160v-560h80v560h440v80H200Zm160-240v-480 480Z&#x22;/></svg>" data-size="line">.
+
+{% hint style="info" %}
+**Didn't receive the invitation email?**
+
+We recommend checking the Spam or Junk folder. Administrators can also copy the invitation link from the interface and share it with the individual or send the invitation again. To learn more, see [Manage User Invitations](https://docs.platform.softwareone.com/modules-and-features/settings/users/manage-user-invitations).
+
+**Received the invitation email, but the link has expired.**
+
+The administrator must generate a new invitation. To learn more, see [Manage User Invitations](https://docs.platform.softwareone.com/modules-and-features/settings/users/manage-user-invitations).
+{% endhint %}
