@@ -35,7 +35,7 @@ You'll also see a message within the Partner Portal confirming that your account
 
 When the migration has completed, the Partner Portal will switch to **Archive** mode.&#x20;
 
-Additionally, you'll receive an invitation to join the new Marketplace account. For details on how to accept the invitation and complete account registration, see [Respond to Invitations](../../../modules-and-features/settings/users/respond-to-invitations.md).
+Additionally, you'll receive an invitation to join the new Marketplace account. For details on how to accept the invitation and complete account registration, see [Respond to Invitations](/broken/pages/arVYLFkjfl6NXnh26bwF).
 
 After accepting the invitation, you can sign in and access your [agreements](../../../modules-and-features/marketplace/agreements/), [subscriptions](../../../modules-and-features/marketplace/subscriptions/), and customers (known as [licensees](../../../modules-and-features/settings/licensees/)).
 

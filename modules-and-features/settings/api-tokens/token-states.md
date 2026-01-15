@@ -4,9 +4,7 @@ description: Learn about the different states of API tokens.
 
 # Token States
 
-A token can have multiple states during its lifecycle in the Marketplace Platform.
-
-The following diagram shows the possible states and the transition between these states:
+An API token can progress through multiple states during its lifecycle within the platform.The following diagram shows the possible states and the transition between these states:
 
 <figure><img src="../../../.gitbook/assets/state_diagram_apiToken.png" alt=""><figcaption><p>The state transition diagram of an API token.</p></figcaption></figure>
 

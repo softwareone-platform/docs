@@ -1,12 +1,12 @@
 ---
-description: Create a new group and assign users to it.
+description: Create a new group and add users to that group.
 ---
 
 # Create New Group
 
-In the Marketplace Platform, you can create new groups and add members to those groups.
+In the SoftwareOne Marketplace, account administrators can create new groups and add members to those groups.
 
-When creating groups, you can choose all the modules you want to enable for the group members. You can also restrict group members to certain buyers. It means you can define if your group members should see all buyers in your account or specific buyers only.&#x20;
+When creating groups, administrators choose the modules to enable for group members. Additionally, administrators can also restrict group members to certain buyers. It means you can define whether your group members should see all buyers in your account or specific buyers only.&#x20;
 
 ### Creating a new group
 
@@ -25,6 +25,5 @@ To create a new group:
        * **All buyers** - This option is selected by default. It allows your group members to view all buyers in your account.
        * **Select buyers** - Select this option to allow group members to view only specific buyers. When selected, all buyers will be displayed, and you can choose from the list of available buyers.&#x20;
    4. **Users** - Select the individuals you want to add to the group. This page displays the names of all individuals in your account. When done, select **Next**.&#x20;
-   5. **Overview** - Review the details and then select **Add**.
-
-The group is created, and the **Summary** section displays the confirmation. Select **View details** to open the group details page. Otherwise, select **Close**.
+   5. **Overview** - Review the details and then select **Add**. The group is created.
+   6. **Summary** - Select **View details** to go to the group details page. Otherwise, select **Close**.

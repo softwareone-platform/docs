@@ -4,21 +4,24 @@ description: Learn about groups in the Marketplace Platform.
 
 # Groups
 
-A group represents a set of users who have the same roles and permissions. Groups are used to manage permissions of multiple users at once, instead of at the individual user level.&#x20;
+A group represents a set of users who have the same roles and permissions. Groups allow administrators to manage permissions of multiple users at once, instead of at the individual user level.
 
-In the Marketplace Platform, users can belong to different groups within the same account. For example, a user can belong to the administrator and finance groups at the same time. They can also have different roles in each account. It means they can be an operations user in one account and an administrator in another.
+In the SoftwareOne Marketplace, account administrators can create and manage groups. This includes adding new members to the group and removing the existing ones.&#x20;
 
-When working with groups, note the following points:
+### Group rules
 
-* Only account administrators can create new groups and manage group details and their members.
+The following rules apply to groups in the Marketplace:
+
+* If an account contains multiple groups, users can belong to more than one group within the same account. For example, a user can be a member of both the **Administrator** and **Finance** groups.
+* Users can have different roles across different accounts. For example, a user can be an Operations user in one account and an Administrator in another.
 * Users must belong to an account before administrators can add them to a group. If the individual doesn't belong to an account, their access to the marketplace platform is restricted.
-* Users can belong to multiple accounts and have varying permissions in each, based on their group memberships within each account.
+* Users can belong to multiple accounts and have varying permissions in each, depending on their group memberships.
 
-### Viewing groups
+### Viewing and managing groups
 
-To view your existing groups, navigate to the **Groups** page. Only account administrators can access this page.
+Account administrators can view and manage existing groups from the **Groups** page. When you launch the page, all groups within the account are displayed.&#x20;
 
-When you launch the page, all groups in the account are displayed. For each group, you can view details such as the group's name, total number of users it contains, and buyers that are visible to the group members. Buyer visibility is defined by administrators while creating or editing groups. To learn more, see [Restrict Group to Certain Buyers](restrict-group-to-certain-buyers.md).
+For each group, you can view key details, including the group name, total number of users it contains, and buyers visible to the group members. Buyer visibility is defined by administrators while creating or editing groups. For more information, see [Restrict Group to Certain Buyers](restrict-group-to-certain-buyers.md).
 
 You can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) as needed. Additionally, you can [edit a group](edit-group.md) or [delete it](delete-group.md) using the actions icon (**•••**).
 
@@ -26,9 +29,9 @@ You can use the [sort and filter options](../../../marketplace-platform/getting-
 
 ### Viewing group details <a href="#subscription-details" id="subscription-details"></a>
 
-On the details page of a group, you can view extended information for your selected group.&#x20;
+On the group details page, you can view extended information for your selected group.&#x20;
 
-To view the details page for a group:
+To open the group details page:
 
 1. Navigate to the **Groups** page.
 2. (Optional) Use filters to find the desired group.
@@ -46,8 +49,9 @@ To view the details page for a group:
 
 ### Additional actions
 
-You can perform various actions on the details page. The available actions depend on the group's status:
+You can perform various actions on the **Groups** and the **Groups details** pages. The actions available depend on the group's current status:
 
+* [Create a new group](create-new-group.md)
 * [Edit group](edit-group.md)
 * [Delete group](delete-group.md)
 * [Restrict groups to certain buyers](restrict-group-to-certain-buyers.md)

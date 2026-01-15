@@ -4,9 +4,9 @@ description: Learn about the different states of a notification email.
 
 # Notification States
 
-A notification email in the Marketplace Platform goes through several stages during its lifecycle.
+A notification is an email sent to users to inform them about events in their account. Examples include order status updates, subscription changes (upsizes or downsizes), invoice generation, and other relevant events.
 
-The following diagram shows the possible states and the transitions between these states:
+Notification emails can exist in these states: **New**, **Queued**, **Discarded**, **Sent**, **Failed**, **Bounced**, or **Complained**. The following diagram shows the transitions between these states:
 
 <figure><img src="../../../.gitbook/assets/state_diagram_notification.png" alt=""><figcaption><p>The state transition diagram of a notification.</p></figcaption></figure>
 

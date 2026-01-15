@@ -17,13 +17,13 @@ Your API keys have permissions assigned to them, so keep them secure. Do not sha
 
 All API requests must be made over **HTTPS**. Calls made over plain HTTP will fail. API requests without authentication will also fail.
 
-### Viewing API tokens
+### Viewing and managing API tokens
 
 To view and manage your API tokens, navigate to the **API tokens** page.
 
 The page shows all tokens associated with your account. For each token, you can view details such as the token's name, the name of the person who created the token, the date of creation, and the token's [status](token-states.md).&#x20;
 
-From this page, you can easily manage your existing tokens and edit token details.
+From this page, you can [disable or enable](enable-or-disable-api-token.md), [edit](edit-api-token.md), or [delete a token](delete-api-token.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>The API tokens page in the platform.</p></figcaption></figure></div>
 
@@ -45,9 +45,10 @@ To view the details page of a token:
 
 ### Additional actions
 
-You can perform various actions on the details page. The available actions depend on the token's current status:
+You can perform various actions on the **API tokens** and **API tokens details** pages. The actions available depend on the token's  current status:
 
-* [Edit the existing token](edit-api-token.md)
+* [Create a new token](create-api-token.md)
+* [Edit an existing token ](edit-api-token.md)
 * [Copy your API token](copy-api-token.md)
 * [Delete a token permanently](delete-api-token.md)
 * [Enable or disable a token](enable-or-disable-api-token.md)

@@ -4,33 +4,45 @@ description: Learn about licensees in the Marketplace Platform.
 
 # Licensees
 
-In the Marketplace Platform, a licensee is a specific person or a department within your account that receives the license to use the product.&#x20;
+A licensee is a specific person or a department within your account that receives the license to use the product.&#x20;
 
-Licensees are connected to the buyers and sellers in your account. There can be multiple licensees in an account, but each licensee can only be linked to one buyer and one seller. To learn more, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
+Licensees are connected to buyers and sellers in your account. An account can contain multiple licensees, but a licensee can only be linked to one buyer and one seller. For more information, see [Key Concepts](../../../marketplace-platform/getting-started/key-concepts.md).
 
-Account administrators can view and manage licensees on the **Licensees** page in the platform.&#x20;
+In the SoftwareOne Marketplace, only account administrators can create and manage licensees.&#x20;
+
+### Viewing and managing licensees
+
+Account administrators can view and manage licensees from the **Licensees** page.&#x20;
+
+When you open the page, all licensees within the account are displayed. For each licensee, you can view key details such as name, address, status, and more. You can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) as needed.&#x20;
+
+The **Licensees** page also shows whether the licensee is configured as a **resale licensee**. A resale license resells products purchased through the Marketplace, instead of using them for self-consumption.&#x20;
+
+From the **Licensees** page, you can manage licensees by updating licensee details or enabling and disabling a licensee.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption><p>The Licensees page in the platform.</p></figcaption></figure></div>
 
-The page shows all the licensees in your account. For each licensee, you can view details such as the name and unique identifier of the licensee, their address, current status, and more.&#x20;
-
-You can also determine if the licensee has been configured as a resale licensee, who will be involved in reselling the product instead of buying it for self-consumption.&#x20;
-
-Additionally, you have options that allow you to manage a licensee. Depending on your permissions, you can update licensee information and enable or disable a licensee.
-
 ### Viewing licensee details <a href="#subscription-details" id="subscription-details"></a>
 
-To view the details page of a licensee, select the licensee on the **Licensee** page.&#x20;
+On the licensee details page, you can view the extended information for your selected licensee.
+
+To view the details page for a licensee:
+
+1. Navigate to the **Licensees** page.
+2. (Optional) Use filters to find the desired licensee.
+3. Select the licensee name to view information, such as the licensee's name, marketplace ID, and status. You can also view the linked buyer and seller entities.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensee_details_page.png" alt=""><figcaption><p>The details page of a licensee.</p></figcaption></figure></div>
 
-The details page shows the licensee's name, marketplace ID, and status. It also shows the associated buyer and seller entities, and contains the following tabs:&#x20;
-
-<table><thead><tr><th width="156">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the licensee's mailing address and contact person details. </td></tr><tr><td><strong>Details</strong></td><td>Displays date and time information for the licensee, for example, the date and time when the licensee was created in the system, and so on.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a record of events related to the licensee. For more information, see <a href="../audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
+4. Use the following tabs to access additional related information:
+   * **General** - Displays the licensee's mailing address and contact person details.&#x20;
+   * **Details** - Displays date and time information for the licensee, for example, the date and time when the licensee was created in the system, and so on.
+   * **Audit trail** - Displays a record of events related to the licensee. For more information, see [Audit Trail](../audit-trail.md).
 
 ### Additional actions
 
-You can perform various actions on the details page. The available actions depend on the licensee's current status in the platform:
+You can perform various actions on the **Licensees** and **Licensee details** pages. The actions available depend on the licensee's current status:
 
+* [Create licensee](create-licensees.md)
 * [Edit licensee](edit-licensees.md)
 * [Enable or disable a licensee](enable-or-disable-licensees.md)

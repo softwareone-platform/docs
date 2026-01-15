@@ -170,7 +170,7 @@ You can set up a licensee from the **Licensees** page, available under **Setting
 
 Account administrators can add new users from the **Users** page, available under **Settings** in the main navigation menu.&#x20;
 
-To invite someone, you'll need their first and last name, as well as their email address. For details, see [Add New Users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
+To invite someone, you'll need their first and last name, as well as their email address. For details, see [Add New Users](/broken/pages/78IjQuMhA6Pk2BNXQxOv).&#x20;
 
 </details>
 

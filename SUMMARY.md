@@ -169,13 +169,6 @@
     * [Customize Settings](modules-and-features/settings/notifications/edit-notification-settings.md)
   * [Sellers](modules-and-features/settings/sellers/README.md)
     * [Seller States](modules-and-features/settings/sellers/seller-states.md)
-  * [Users](modules-and-features/settings/users/README.md)
-    * [User States](modules-and-features/settings/users/user-states.md)
-    * [Respond to Invitations](modules-and-features/settings/users/respond-to-invitations.md)
-    * [Add New Users](modules-and-features/settings/users/add-new-users.md)
-    * [Edit Users](modules-and-features/settings/users/edit-users.md)
-    * [Remove Users](modules-and-features/settings/users/remove-user.md)
-    * [Manage User Invitations](modules-and-features/settings/users/manage-user-invitations.md)
 
 ## EXTENSIONS
 
@@ -293,7 +286,7 @@
   * [Additional Resources](extensions/microsoft-cloud-solution-provider/additional-resources/README.md)
     * [Tutorials](extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/README.md)
       * [Microsoft 365](extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-365/README.md)
-        * [Order Microsoft 365 Subscription for  New Tenant](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-new-tenant.md)
+        * [Order Microsoft 365 Subscription for New Tenant](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-new-tenant.md)
         * [Order Microsoft 365 Subscription for Existing Tenant](extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
         * [Buy More Licenses for Microsoft 365 Subscription](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md)
         * [Add New Items to Your Agreement](extensions/microsoft-cloud-solution-provider/tutorials-and-videos/add-new-products-to-your-csp-agreement.md)

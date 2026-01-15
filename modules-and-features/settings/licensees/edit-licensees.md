@@ -4,21 +4,19 @@ description: Update an existing licensee.
 
 # Edit Licensee
 
-If you need to change general information such as the licensee's name, description, or address, you can do so from the licensee details page.
-
-Note that you can only update general licensee details. Updating the buyer or seller entities linked to a licensee is not supported.
+Account administrators can update the general information for a licensee, such as name, description, or address, from the licensee details page. You can’t change the buyer or seller entities linked to a licensee.
 
 ### Editing licensee details
 
 To edit a licensee's details:&#x20;
 
-1. Navigate to the **Licensees** page in the platform.
+1. Navigate to the **Licensees** page.
 2. Find the licensee you want to edit. &#x20;
-3. Select the actions icon (**•••**) for the licensee and choose **Edit**. Alternatively, select the licensee name. When the licensee details page opens, select **Edit** in the upper right.
+3. Select the actions icon (**•••**) for the licensee, then choose **Edit**. Alternatively, select the licensee name. When the licensee details page opens, select **Edit** in the upper right.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1009).png" alt=""><figcaption><p>The option to edit a licensee.</p></figcaption></figure></div>
 
-4. In the **Edit Licensee** wizard, complete the following steps as necessary and **save** your changes:
+4. In the **Edit Licensee** wizard, complete the following steps as necessary, then **save** your changes:
    1. **General** - Update the following details:
       1. **Logo** - Upload the licensee's logo in the JPG or PNG format. The maximum file size is 5 MB. You can upload an image by selecting **Select file** or by dragging the image into the field.
       2. **Licensee name** - Update the licensee name.

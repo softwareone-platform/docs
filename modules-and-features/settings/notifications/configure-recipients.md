@@ -10,7 +10,7 @@ Account administrators can define recipients for each [notification category](./
 
 Administrators can also manage recipients for an email message by adding new ones or removing existing ones.
 
-### Adding recipients
+### Configuring recipients
 
 To add specific users and groups to your email notifications:
 
@@ -21,7 +21,7 @@ To add specific users and groups to your email notifications:
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_subscribers_details.png" alt=""><figcaption><p>The recipients tab on the Subscriber details page.</p></figcaption></figure></div>
 
 4. Define the recipients:
-   * To define specific users, select **Edit** in the **Users** section and select all users who should receive email messages. Note that only active users are displayed in this list. If a user you want to add isn't displayed, make sure they have been [added to your account](../users/add-new-users.md).
+   * To define specific users, select **Edit** in the **Users** section and select all users who should receive email messages. Note that only active users are displayed in this list. If a user you want to add isn't displayed, make sure they have been [added to your account](/broken/pages/78IjQuMhA6Pk2BNXQxOv).
    * To add groups, select **Edit** in the **Groups** section and choose the required groups. You can select multiple groups from the list.&#x20;
 5. Select **Save**. Your list of recipients is updated for the selected category.&#x20;
 

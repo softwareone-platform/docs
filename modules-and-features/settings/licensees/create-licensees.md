@@ -4,11 +4,15 @@ description: Create a new licensee and map them to buyers and sellers.
 
 # Create Licensee
 
-You can create new licensees and map those licensees to the buyers and sellers in your account. Licensees are used when establishing agreements and ordering software products.
+In the SoftwareOne Marketplace, a licensee must be selected when you are creating a new agreement or ordering products.&#x20;
 
-Before creating a licensee, ensure that your account contains buyers and sellers. Also, make sure that you have the first and last name and email address of the licensee to add.
+Account administrators can create new licensees and map those licensees to the buyers and sellers within the account.
 
-### Creating a licensee
+### Creating a new licensee
+
+{% hint style="info" %}
+Before creating a licensee, ensure that your account contains buyers and sellers. Also, make sure that you have the licensee's first and last name and email address.
+{% endhint %}
 
 To create a new licensee:
 

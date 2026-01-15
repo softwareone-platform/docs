@@ -20,7 +20,7 @@ To get started, you’ll need to have an account on the platform.
 
 <summary>Confirm your organization has Marketplace access</summary>
 
-* If your organization already uses the Marketplace Platform, ask your account administrator to invite you. Administrators can follow the [Add New Users](../../modules-and-features/settings/users/add-new-users.md) page for information on inviting members.
+* If your organization already uses the Marketplace Platform, ask your account administrator to invite you. Administrators can follow the [Add New Users](/broken/pages/78IjQuMhA6Pk2BNXQxOv) page for information on inviting members.
 * If your organization does not have an account, [contact us](https://www.softwareone.com/en/contact-us) to get started.
 
 </details>
@@ -122,10 +122,10 @@ Administrators can invite additional users to their account.
 
 **To add a new user**
 
-1. Navigate to the [Users page](../../modules-and-features/settings/users/), then select **Add**.
+1. Navigate to the [Users page](/broken/pages/y69R8Xy4gK6qm75RNjac), then select **Add**.
 2. In the **Add user** wizard, enter the user's details and select the required user groups.
 
-For more information, see [Add New Users](../../modules-and-features/settings/users/add-new-users.md).
+For more information, see [Add New Users](/broken/pages/78IjQuMhA6Pk2BNXQxOv).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Add a new user to your account</p></figcaption></figure></div>
 

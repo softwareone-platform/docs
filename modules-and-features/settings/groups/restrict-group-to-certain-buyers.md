@@ -4,7 +4,7 @@ description: Restrict a user group to certain buyers.
 
 # Restrict Groups to Certain Buyers
 
-As an administrator, you can define whether your group of users can view all buyers in your account or only certain buyers. You can customize buyer access when creating a new group or updating an existing group.&#x20;
+Account administrators can define whether users in a group can view all buyers in the account or only certain buyers. You can customize buyer access when creating or updating a group.
 
 This feature is useful if your account contains different types of users, for example, global users and local users. Global users require access to all transactions and data across all buyers (including orders, subscriptions, and more), while local users may need their access to be limited.&#x20;
 
