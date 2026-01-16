@@ -14,7 +14,7 @@
     * [Switch Accounts](marketplace-platform/getting-started/interface/switch-account.md)
     * [Customize the Data Grid](marketplace-platform/getting-started/interface/customize-the-data-grid.md)
     * [Manage Notification Preferences](marketplace-platform/getting-started/interface/manage-notification-preferences.md)
-    * [Manage Favorites](marketplace-platform/getting-started/interface/mark-favorite-pages.md)
+    * [Using Favorites](marketplace-platform/getting-started/interface/mark-favorite-pages.md)
 * [Getting Started](marketplace-platform/getting-started/README.md)
   * [Quickstart Guide](marketplace-platform/getting-started/quickstart-guide.md)
   * [Marketplace for Clients](marketplace-platform/getting-started/marketplace-for-clients/README.md)
