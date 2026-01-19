@@ -14,7 +14,7 @@ For details on how to cancel a subscription, see [Terminate Subscriptions](../..
 
 ## Renewals <a href="#renewals" id="renewals"></a>
 
-By default, auto-renewal is enabled for all subscriptions.
+By default, auto-renewal is enabled for all SoftwareOne Marketplace subscriptions.
 
 If a subscription is set to renew, it's processed the day after the subscription's term ends.
 

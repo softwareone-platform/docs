@@ -8,11 +8,11 @@ GDAP is a sophisticated security framework that allows you to grant SoftwareOne 
 Watch the video guide explaining what is GDAP and why it's important.
 {% endembed %}
 
-## Why is GDAP important? <a href="#why-is-gdap-important" id="why-is-gdap-important"></a>
+### Why is GDAP important? <a href="#why-is-gdap-important" id="why-is-gdap-important"></a>
 
 In today's digital landscape, traditional all-or-nothing access approaches no longer suffice. GDAP addresses this challenge by introducing a nuanced permission system that aligns with modern security best practices. By implementing role-based access control (RBAC), GDAP ensures that service providers like SoftwareOne can only access the specific resources needed to support your operations, nothing more. This granular control significantly reduces security risks while maintaining operational efficiency.
 
-## What are the benefits for your organization? <a href="#benefits-for-your-organization" id="benefits-for-your-organization"></a>
+### What are the benefits for your organization? <a href="#benefits-for-your-organization" id="benefits-for-your-organization"></a>
 
 GDAP transforms your cloud security posture through several key advantages:
 
@@ -28,11 +28,11 @@ GDAP transforms your cloud security posture through several key advantages:
 * **Enhanced compliance and security** - As advocates of least-privileged access, GDAP ensures that our support activities align with stringent security protocols, reinforcing your trust in our commitment to safeguarding your cloud resources.
 * **Seamless support aligned with your policies** - GDAP enables us to adapt to your specific access controls, reinforcing your security policies and fostering a relationship built on trust and transparency.
 
-## Who can establish GDAP? <a href="#who-can-establish-gdap" id="who-can-establish-gdap"></a>
+### Who can establish GDAP? <a href="#who-can-establish-gdap" id="who-can-establish-gdap"></a>
 
 GDAP implementation requires collaboration between your organization and SoftwareOne. Global administrators from your organization can approve GDAP relationships.
 
-## What are the consequences of not implementing GDAP? <a href="#what-are-consequences-of-not-implementing-gdap" id="what-are-consequences-of-not-implementing-gdap"></a>
+### What are the consequences of not implementing GDAP? <a href="#what-are-consequences-of-not-implementing-gdap" id="what-are-consequences-of-not-implementing-gdap"></a>
 
 Operating without GDAP exposes your organization to several challenges:
 

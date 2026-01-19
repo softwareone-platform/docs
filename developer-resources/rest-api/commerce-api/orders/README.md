@@ -1,6 +1,6 @@
 # Orders
 
-An order is a request made by a buyer to create or update an agreement with a one-time purchase or/or set of subscriptions. There are different types of orders in the Marketplace Platform:
+An order is a request to create a new agreement or update an agreement to include a one-time purchase or set of subscriptions. There are different types of orders in the SoftwareOne Marketplace:
 
 * **Purchase orders** - An order to buy a new product or service by establishing a new agreement.
 * **Change orders** - An order to change the quantity, such as downsizing the quantity of licenses or ordering additional licenses.

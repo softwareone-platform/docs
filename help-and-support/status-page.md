@@ -11,10 +11,10 @@ Our [Status Page](https://status.platform.softwareone.com/) is a central source 
 * **Scheduled maintenance** - Be aware of any scheduled maintenance activities that could impact your access to the platform.
 * **Historical data** - Review the history of past incidents and maintenance activities to understand the platform's reliability and stability.
 
-## When to check the Status page
+### When to check the Status page
 
 If you are encountering issues while using the Marketplace Platform, we recommend checking the Status page. This can help you determine if a known issue is affecting the platform.
 
-## How to use the Status page
+### How to use the Status page
 
 The Status page shows the current status of the platform, including the status of our APIs and user documentation. It also provides a quick overview of the uptime for each component.

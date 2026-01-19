@@ -8,7 +8,7 @@ If you want to be notified when you are nearing certain thresholds, you can crea
 
 Viewing recommendations that can identify possible cost savings, performance, and security enhancements is also possible through the platform.
 
-To learn more, see any of the following links:
+#### Topics in this section <a href="#topics-in-this-section" id="topics-in-this-section"></a>
 
 {% content-ref url="365simple.md" %}
 [365simple.md](365simple.md)

@@ -6,7 +6,7 @@ FinOps integrates with public cloud providers, including Amazon Web Services, Mi
 
 Built on the [open-source OptScale platform from Hystax](https://docs.finops.softwareone.com/help-and-support/open-source), the FinOps platform contains several features that enhance your cloud usage experience by providing detailed insights and management capabilities without actively interfering with your environment.
 
-## Key features <a href="#key-benefits" id="key-benefits"></a>
+### Key features <a href="#key-benefits" id="key-benefits"></a>
 
 FinOps for Cloud helps you unlock efficiency and savings in the cloud. Here are some of the key features:
 
@@ -18,7 +18,7 @@ FinOps for Cloud helps you unlock efficiency and savings in the cloud. Here are 
 
 To learn more about FinOps for Cloud and how to use it, see the [documentation for FinOps for Cloud](https://docs.finops.softwareone.com/).  To stay updated on the latest changes and features, see the [release notes.](https://docs.finops.softwareone.com/help-and-support/release-notes)&#x20;
 
-## Getting started <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
+### Getting started <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
 
 You can order a FinOps for Cloud subscription from the SoftwareOne Marketplace. For details on how to place an order, see [Order FinOps for Cloud from Marketplace](order-finops-for-cloud-from-marketplace.md).&#x20;
 

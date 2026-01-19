@@ -1,6 +1,6 @@
 # What billing models does Marketplace support for items?
 
-The SoftwareOne Marketplace Platform currently supports three billing models that determine how you are charged for an item. These include usage-based, quantity-based, and one-time billing models.&#x20;
+The SoftwareOne Marketplace currently supports three billing models that determine how you are charged for an item. These include usage-based, quantity-based, and one-time billing models.&#x20;
 
 For all items in the Marketplace, the billing model is shown on the [Items page](../../modules-and-features/catalog/items.md) within the platform and in the **Items** step during a purchase order or a change order workflow.&#x20;
 

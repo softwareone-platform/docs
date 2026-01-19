@@ -2,7 +2,7 @@
 
 This topic describes the key points to keep in mind when establishing a GDAP or a partner relationship request with SoftwareOne.&#x20;
 
-## Primary domain or tenant ID
+### Primary domain or tenant ID
 
 To establish a GDAP admin relationship, make sure that your primary domain name or tenant ID in the purchase order matches the details in the Microsoft 365 Admin Center or Microsoft Azure Management Portal.&#x20;
 
@@ -22,7 +22,7 @@ There are a few ways you can verify your domain name and ID:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_entra_ID.png" alt=""><figcaption><p>The Azure entra ID overview.</p></figcaption></figure></div>
 
-## Regional market restrictions
+### Regional market restrictions
 
 To establish a successful partner and GDAP admin relationship, both SoftwareOne and your organization must operate within the same Microsoft-defined regional market.&#x20;
 
@@ -36,7 +36,7 @@ You can also verify your organization's region in the Microsoft 365 Admin Center
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_organization_information.png" alt=""><figcaption><p>The Organization information in Microsoft 365 Admin Center.</p></figcaption></figure></div>
 
-## Global administrator role requirements
+### Global administrator role requirements
 
 The user setting up the partner and GDAP admin relationship must meet the following requirements for their primary domain or tenant:
 

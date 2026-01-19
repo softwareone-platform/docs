@@ -4,7 +4,7 @@ SoftwareOne requires Granular Delegated Administrative Privileges (GDAP) in your
 
 After you have placed an order, you must accept our GDAP invitation. This invitation is provided as a URL on the order details page. When you select the link and log in as a Global Administrator, you are redirected to the Microsoft 365 admin center to complete the GDAP setup.
 
-## Accepting a GDAP relationship request
+### Accepting a GDAP relationship request
 
 To accept a GDAP relationship request:
 
