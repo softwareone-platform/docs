@@ -195,6 +195,30 @@ GET /commerce/subscriptions?agreement.id=AGR-1234-5678&limit=0
 ```
 *Note: Using `limit=0` is the most efficient way to get counts as it minimizes data transfer.*
 
+### 4. Handling Large Datasets (JSONL & Redirects)
+When requesting large datasets (e.g., full collections), the API might respond with a `302 Redirect` to a file download URL (often for `application/jsonl` format).
+- **Finding**: Clients must handle redirects and potentially download from a secondary URL (e.g., AWS S3).
+- **Header**: `Accept: application/jsonl` is often used for these bulk operations.
+
+### 5. Advanced RQL Patterns
+
+#### Date Filtering
+You can filter by date ranges using ISO 8601 strings.
+```http
+GET /billing/invoices?and(gt(audit.created.at,"2023-01-01T00:00:00Z"),lt(audit.created.at,"2023-12-31T23:59:59Z"))
+```
+
+#### Nested Collection Filtering with `any()`
+The `any()` operator is powerful for filtering based on properties of nested objects (e.g., finding users in a specific group).
+```http
+GET /accounts/account-users?any(groups,id=UGR-1234-5678)
+```
+
+### 6. Response Metadata
+Be aware of metadata fields that affect data processing.
+- **`$meta.pagination.total`**: The total number of records matching the query (useful when `limit=0`).
+- **`$meta.omitted`**: A list of properties excluded from the response payload for security or performance reasons (e.g., `["credits"]`).
+
 ## Further resources <a href="#further-resources" id="further-resources"></a>
 
 For a C# reference implementation of RQL for .NET applications, see the GitHub repository at [https://github.com/softwareone-platform/mpt-rql-net](https://github.com/softwareone-platform/mpt-rql-net).
