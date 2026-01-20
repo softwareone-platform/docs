@@ -219,6 +219,11 @@ Be aware of metadata fields that affect data processing.
 - **`$meta.pagination.total`**: The total number of records matching the query (useful when `limit=0`).
 - **`$meta.omitted`**: A list of properties excluded from the response payload for security or performance reasons (e.g., `["credits"]`).
 
+### 7. Date Fields & Projection
+Date fields like `created` and `updated` are typically nested within the `audit` object.
+- **Finding**: To filter by these dates OR see them in the response, you often must explicitly **select** the `audit` object.
+- **Example**: `?select=audit&and(gt(audit.created.at,"2024-01-01..."))`
+
 ## Further resources <a href="#further-resources" id="further-resources"></a>
 
 For a C# reference implementation of RQL for .NET applications, see the GitHub repository at [https://github.com/softwareone-platform/mpt-rql-net](https://github.com/softwareone-platform/mpt-rql-net).
