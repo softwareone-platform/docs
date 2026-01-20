@@ -133,6 +133,68 @@ GET /v1/accounts/users?ilike(firstName,"The\**")
 
 The ilike operator in this case will be searching for the literal value “The\*” at the beginning of the firstName property.
 
+## Agent Integration Guide
+
+This guide documents key findings and best practices for interacting with the SoftwareOne Platform API, specifically derived from real-world debugging and implementation sessions.
+
+### 1. Authentication
+The API supports standard Bearer token authentication.
+- **Header**: `Authorization: Bearer <token>`
+
+### 2. Querying and RQL (Resource Query Language)
+One of the most critical findings is how RQL filters must be passed to the API.
+
+#### The Findings
+- **DO NOT** pass RQL as a query parameter value (e.g., `?rql=and(...)`). This often results in `400 Bad Request` or "Invalid equals shortcut expression".
+- **DO** append the RQL string directly to the URL query string.
+
+#### Syntax Pattern
+**Incorrect:**
+```http
+GET /resource?rql=and(eq(status,Active),ilike(name,*Microsoft*))
+```
+
+**Correct:**
+```http
+GET /resource?and(eq(status,Active),ilike(name,*Microsoft*))
+```
+
+#### Combining with Standard Parameters
+You can mix RQL with standard parameters like `limit` and `offset`.
+```http
+GET /resource?and(eq(status,Active))&limit=100&offset=0
+```
+
+### 3. Efficient Resource Counting
+To get the count of related resources (e.g., "How many subscriptions does this agreement have?") without fetching all the data:
+
+1.  **Query the Child Resource**: Target the specific resource endpoint (e.g., `/commerce/subscriptions`).
+2.  **Filter by Parent ID**: Use a direct filter parameter if available, or RQL.
+    *   *Finding*: The API often accepts direct property filters like `?agreement.id=AGR-XXX`.
+3.  **Minimize Payload**: Set `limit=0`.
+    *   *Finding*: `limit=0` is fully supported and recommended. It returns an empty `data` array but includes the correct count in `$meta.pagination.total`.
+4.  **Read Metadata**: Extract the count from the response metadata.
+
+**Example Request:**
+```http
+GET /commerce/subscriptions?agreement.id=AGR-1234-5678&limit=0
+```
+
+**Response Structure:**
+```json
+{
+  "$meta": {
+    "pagination": {
+      "total": 42,  <-- The value you want
+      "limit": 0,
+      "offset": 0
+    }
+  },
+  "data": [] 
+}
+```
+*Note: Using `limit=0` is the most efficient way to get counts as it minimizes data transfer.*
+
 ## Further resources <a href="#further-resources" id="further-resources"></a>
 
 For a C# reference implementation of RQL for .NET applications, see the GitHub repository at [https://github.com/softwareone-platform/mpt-rql-net](https://github.com/softwareone-platform/mpt-rql-net).
