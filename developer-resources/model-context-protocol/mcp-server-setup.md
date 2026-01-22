@@ -58,7 +58,7 @@ Once added, the status indicator should turn green.
 
 ---
 
-## Antigravity
+## [Antigravity](https://antigravity.google/)
 
 **Antigravity** (and compatible Google Cloud-based agents) supports MCP servers defined in the project configuration.
 
