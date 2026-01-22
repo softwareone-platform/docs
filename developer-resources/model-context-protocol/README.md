@@ -46,7 +46,10 @@ To use the hosted Marketplace MCP Server:
 
 ### Antigravity & Cursor
 
-Add the following configuration to your MCP settings file (e.g., `~/.cursor/mcp.json` or Antigravity config).
+You can connect to the server using either the **Remote (SSE)** or **Local (stdio)** method.
+
+#### Option 1: Remote (SSE) - Recommended
+This method connects to the hosted SoftwareOne MCP instance. Add this to your configuration file (e.g., `~/.cursor/mcp.json`).
 
 > [!IMPORTANT]
 > Replace `{your-token-goes-here}` with your actual Marketplace API token.
@@ -57,13 +60,28 @@ Add the following configuration to your MCP settings file (e.g., `~/.cursor/mcp.
         "softwareone-marketplace": {
             "url": "https://mcp.platform.softwareone.com/mcp",
             "transport": "mcp",
-            "timeout": 30000,
             "headers": {
-                "X-MPT-Authorization": "{your-token-goes-here}",
-                "X-MPT-Endpoint": "https://api.platform.softwareone.com/public"
+                "X-MPT-Authorization": "{your-token-goes-here}"
             }
         }
     }
+}
+```
+
+#### Option 2: Local (stdio)
+If you prefer to run the server locally via `uvx` or `docker`:
+
+```json
+{
+  "mcpServers": {
+    "softwareone-marketplace": {
+      "command": "uvx",
+      "args": ["mcp-softwareone-marketplace"],
+      "env": {
+        "MPT_API_TOKEN": "{your-token-goes-here}"
+      }
+    }
+  }
 }
 ```
 

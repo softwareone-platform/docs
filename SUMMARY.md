@@ -887,7 +887,9 @@
   * [Code of Conduct](developer-resources/open-source/code-of-conduct.md)
   * [Contributor License Agreement](developer-resources/open-source/contributor-license-agreement.md)
   * [Third-Party Licenses](developer-resources/open-source/third-party-licenses.md)
-* [MCP Server](developer-resources/mcp-server.md)
+* [Model Context Protocol](developer-resources/model-context-protocol/README.md)
+  * [MCP Use Cases](developer-resources/model-context-protocol/mcp-use-cases.md)
+  * [MCP Server Setup](developer-resources/model-context-protocol/mcp-server-setup.md)
 * [Design System](developer-resources/design-system.md)
 
 ## Help and Support
