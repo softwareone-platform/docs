@@ -204,8 +204,12 @@ When requesting large datasets (e.g., full collections), the API might respond w
 
 #### Date Filtering
 You can filter by date ranges using ISO 8601 strings.
+
+> [!IMPORTANT]
+> **API Date Requirement**: Dates must be in **UTC** and include **3-digit millisecond precision** (e.g., `YYYY-MM-DDTHH:mm:ss.sssZ`).
+
 ```http
-GET /billing/invoices?and(gt(audit.created.at,"2023-01-01T00:00:00Z"),lt(audit.created.at,"2023-12-31T23:59:59Z"))
+GET /billing/invoices?select=audit&and(gt(audit.created.at,"2024-12-01T08:00:00.000Z"),lt(audit.created.at,"2026-01-01T08:00:00.000Z"))
 ```
 
 #### Nested Collection Filtering with `any()`
@@ -221,7 +225,7 @@ Be aware of metadata fields that affect data processing.
 
 ### 7. Date Fields & Projection
 Date fields like `created` and `updated` are typically nested within the `audit` object.
-- **Finding**: To filter by these dates OR see them in the response, you often must explicitly **select** the `audit` object.
+- **Finding**: To filter by these dates OR see them in the response, you **MUST explicitly select** the `audit` object. The API will not filter by fields that are not selected/visible in the response context.
 - **Example**: `?select=audit&and(gt(audit.created.at,"2024-01-01..."))`
 
 ## Further resources <a href="#further-resources" id="further-resources"></a>
