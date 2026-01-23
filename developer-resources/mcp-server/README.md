@@ -68,6 +68,9 @@ This method connects to the hosted SoftwareOne MCP instance. Add this to your co
 }
 ```
 
+> [!IMPORTANT]
+> **Configuration Property Names May Vary**: Different MCP clients use different property names for the server endpoint. Some clients like Cursor require the URL to be specified in the `url` field, while others like Antigravity may use the `serverUrl` property. The MCP standard is still emerging and there is no common convention yet. Please consult the documentation of your specific tool for the exact property names in the configuration file—they should be similar to what's shown above but might vary in details.
+
 #### Option 2: Local (stdio)
 If you prefer to run the server locally via `uvx` or `docker`:
 
