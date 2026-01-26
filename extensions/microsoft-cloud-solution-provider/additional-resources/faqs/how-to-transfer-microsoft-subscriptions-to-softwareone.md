@@ -30,7 +30,7 @@ To transfer your subscriptions:
 
        <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/csp_transfer_subscription.png" alt=""><figcaption><p>Transfer subscriptions from another channel or Microsoft partner.</p></figcaption></figure></div>
    4. Enter your existing tenant or domain name (for example, `yourdomain.onmicrosoft.com`) and select **Next**.
-   5. Confirm the **State Owned Entity** status, complete the support contact details, and choose a support language. When done, select **Next**.
+   5. Enter the support contact details, and choose a support language. When done, select **Next**.
    6.  Continue to the **Details** step by selecting **Next**.&#x20;
 
        <div data-gb-custom-block data-tag="hint" data-style="warning" class="hint hint-warning"><p>The <strong>Items</strong> step includes a <strong>Transfer Request</strong> line item, which is essential for initiating and processing the transfer. Do not remove this item, as the transfer cannot be completed without it.</p></div>
@@ -44,6 +44,4 @@ To transfer your subscriptions:
 
 Once you place your order, we will contact you with the next steps to complete the transfer.
 
-After the transfer is complete, you must accept our [GDAP relationship request](../../granular-delegated-admin-privileges-gdap/accept-a-gdap-relationship-request.md). GDAP is essential for SoftwareOne to manage your Microsoft services. To learn more, see [Granular Delegated Admin Privileges](../../granular-delegated-admin-privileges-gdap/).
-
-Additionally, for Azure subscriptions, you must also [complete the Lighthouse onboarding process](../../azure-lighthouse/complete-the-azure-lighthouse-onboarding.md), so we can manage and support your Azure environment.
+After the transfer is complete, you may need to accept our GDAP relationship request and complete the Lighthouse onboarding process (for Azure subscriptions only).
