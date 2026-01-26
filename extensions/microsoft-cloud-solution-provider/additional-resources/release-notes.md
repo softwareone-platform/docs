@@ -2,6 +2,24 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
+## Release Date: 26 January 2026 <a href="#release-date-11-december-2025" id="release-date-11-december-2025"></a>
+
+### Subscription Transfer to SoftwareOne
+
+In this release, we are introducing subscription transfer capabilities, allowing you to transfer your existing Microsoft subscriptions across different models and partners to SoftwareOne.&#x20;
+
+Subscription transfers are available for both user-based subscriptions (such as Microsoft 365 and Dynamics) and pay-as-you-go subscriptions (such as Azure).&#x20;
+
+The SoftwareOne Marketplace supports the following subscription transfer scenarios:
+
+* **CSP to CSP** - Transfer subscriptions between different CSP partners.
+* **EA to CSP** - Transfer subscriptions from an Enterprise Agreement to CSP (direct or indirect Microsoft business agreements).
+* **Microsoft Direct (MCA) to CSP** - Transfer subscriptions from Microsoft Direct (MCA) to the CSP model.
+
+To learn about the transfer process, see [How to transfer Microsoft subscriptions to SoftwareOne](faqs/how-to-transfer-microsoft-subscriptions-to-softwareone.md).
+
+***
+
 ## Release Date: 11 December 2025 <a href="#release-date-11-december-2025" id="release-date-11-december-2025"></a>
 
 ### Microsoft Customer Agreement Update
