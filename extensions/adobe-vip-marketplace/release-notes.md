@@ -10,9 +10,11 @@ description: >-
 
 ### Adobe VIP Marketplace moves to weekly billing
 
-Starting in **February 2026**, Adobe VIP Marketplace billing will move from **monthly to weekly invoicing**. Billing will occur **every Monday, starting on February 2nd**. This change aligns with Adobe’s updated invoicing model. There are **no changes to pricing,** only the billing frequency will change.
+Starting in February 2026, Adobe VIP Marketplace billing will move from monthly to weekly invoicing. Billing will occur every Monday, starting on February 2nd. This change aligns with Adobe’s updated invoicing model. There are no changes to pricing; only the billing frequency will change.
 
-If you have questions or need more information, please contact your **SoftwareOne account team**.
+If you have questions or need more information, contact your SoftwareOne account team.
+
+***
 
 ## Release Date: 12 December 2025
 
@@ -22,23 +24,23 @@ Adobe requires all customers with VIP Marketplace accounts in the Education segm
 
 When setting up a new Education-segment account or when placing orders against an existing one, customers must choose their Education sub-segments in the Adobe Admin Console.
 
-This release provides clear instructions during order processing and pauses the order in Querying status giving you the opportunity to select your sub-segment(s). This results in a more reliable ordering process, especially when placing orders for new Education accounts with items that require the sub-segment(s) to be chosen before the final order is placed with Adobe.
+This release provides clear instructions during order processing and pauses the order in the Querying status, allowing you to select your sub-segments. This results in a more reliable ordering process, especially when placing orders for new Education accounts with items that require the sub-segment(s) to be chosen before the final order is placed with Adobe.
 
-For more information, see: [how-do-i-select-my-education-sub-segments.md](faqs/how-do-i-select-my-education-sub-segments.md "mention")
+For more information, see [how-do-i-select-my-education-sub-segments.md](faqs/how-do-i-select-my-education-sub-segments.md "mention").
 
 ### Querying status for net new 3-year commitments
 
 When placing orders for net new Adobe VIP Marketplace accounts with a 3-year commitment, order processing will be paused in Querying status after the account is created, but before the final order is placed.
 
-This gives you the opportunity to accept the 3-year commitment invitation in your Adobe Admin Console before the order is placed with Adobe, ensuring that your first order is placed at the higher discount level.
+This allows you to accept the 3-year commitment invitation in your Adobe Admin Console before the order is placed with Adobe, ensuring that your first order is placed at the higher discount level.
 
 When the order is in Querying status, clear instructions on how to accept your 3-year commitment invitation will be displayed on the General tab of the order.
 
-For more information, see [how-do-i-accept-my-3-year-commitment-invitation.md](faqs/how-do-i-accept-my-3-year-commitment-invitation.md "mention")
+For more information, see [how-do-i-accept-my-3-year-commitment-invitation.md](faqs/how-do-i-accept-my-3-year-commitment-invitation.md "mention").
 
 ### Improved order notifications
 
-With this improvement, notifications sent out during order processing will include not just the final quantity of each subscription in the order, but also the individual increase or decrease amounts for each line.
+With this improvement, notifications sent during order processing will include not just the final quantity of each subscription in the order, but also the individual increase or decrease amounts for each line.
 
 ***
 
@@ -46,7 +48,7 @@ With this improvement, notifications sent out during order processing will inclu
 
 ### Large Government Agencies
 
-Today we release an entirely new Adobe VIP Marketplace product specifically for large government agencies in the United States and Canada.
+Today, we release an entirely new Adobe VIP Marketplace product specifically for large government agencies in the United States and Canada.
 
 Large Government Agencies must order a minimum of 100 licenses and must be a State or Federal entity.
 
@@ -76,7 +78,7 @@ Combined with Asset templates, it is now possible to see your usage of your asse
 
 ### Preview Pricing and Flexible Discounts
 
-Orders for Adobe VIP Marketplace now utilize Adobe's built-in functionality to calculate the price of each item in the order. This makes our pricing more accurate, and allows us to show the correct prices for our High Volume Discount customers.
+Orders for Adobe VIP Marketplace now utilize Adobe's built-in functionality to calculate the price of each item in the order. This makes our pricing more accurate and allows us to show the correct prices for our High Volume Discount customers.
 
 In addition, SoftwareOne can now extend Adobe discounts to customers during promotional events such as Black Friday and Cyber Monday.
 
