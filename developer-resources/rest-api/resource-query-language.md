@@ -228,6 +228,35 @@ Date fields like `created` and `updated` are typically nested within the `audit`
 - **Finding**: To filter by these dates OR see them in the response, you **MUST explicitly select** the `audit` object. The API will not filter by fields that are not selected/visible in the response context.
 - **Example**: `?select=audit&and(gt(audit.created.at,"2024-01-01..."))`
 
+### 8. Terminology & Identity Resolution
+When processing requests, be aware that terms like "customer", "client", "SCU", or "Buyer" are often used interchangeably by humans but have distinct technical meanings in the platform.
+
+#### Key Definitions
+*   **Buyer**: Represents a legal entity in the platform.
+    *   **ID Format**: `BUY-xxxx-xxx`
+    *   *Note*: This is the core entity for billing and legal purposes.
+*   **SCU**: The ID of the Buyer in the SoftwareOne ERP system.
+    *   **Format**: `XX-SCU-XXXXXX` or `SCU-XXXXX`
+    *   **Storage**: Stored as an external attribute in the Buyer object.
+    *   **JSON Example**:
+        ```json
+        "externalIds": {
+            "erpCustomer": "US-SCU-123456"
+        }
+        ```
+*   **Client**: Represents one or multiple Buyers activated in the self-service part of the platform (Client Portal).
+    *   **ID Format**: `ACC-1234-5678`
+*   **CDG**: The identifier from SoftwareOne ERP for a Client account.
+    *   **Format**: `WW-xxxxx` (e.g., `WW-123456`)
+    *   **Storage**: Stored as an external ID in the Client object.
+    *   **JSON Example**:
+        ```json
+        "externalId": "WW-123456"
+        ```
+
+> [!IMPORTANT]
+> **"Customer" Ambiguity**: The term "Customer" is ambiguous and could refer to any of the above. Always verify which specific entity (Buyer, Client, etc.) is intended when processing user requests.
+
 ## Further resources <a href="#further-resources" id="further-resources"></a>
 
 For a C# reference implementation of RQL for .NET applications, see the GitHub repository at [https://github.com/softwareone-platform/mpt-rql-net](https://github.com/softwareone-platform/mpt-rql-net).
