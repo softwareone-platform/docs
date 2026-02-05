@@ -338,24 +338,26 @@ object_type = get_object_type("ORD-8108-0372-6265")
 
 When working with Marketplace Platform URLs, follow these guidelines:
 
-1. **ID Recognition**: Object IDs always follow the pattern `{PREFIX}-{segments}` where the prefix is 3 letters (for example, `AGR`, `ORD`, `SUB`). Extract the prefix to determine the object type.
+1. **Use the correct Portal URL**: Always use `https://portal.platform.softwareone.com/` for Portal links. The legacy URL `https://portal.softwareone.com/` is kept for backwards compatibility only and should not be used for new requests. Always route new links to `portal.platform.softwareone.com`.
 
-2. **URL Translation**: To convert a Portal URL to an API endpoint:
+2. **ID Recognition**: Object IDs always follow the pattern `{PREFIX}-{segments}` where the prefix is 3 letters (for example, `AGR`, `ORD`, `SUB`). Extract the prefix to determine the object type.
+
+3. **URL Translation**: To convert a Portal URL to an API endpoint:
    * Replace `portal.platform.softwareone.com` with `api.platform.softwareone.com/public/v1`
    * Keep the path unchanged (for example, `/commerce/orders/{id}`)
 
-3. **API to Portal**: To convert an API endpoint to a Portal URL:
+4. **API to Portal**: To convert an API endpoint to a Portal URL:
    * Replace `api.platform.softwareone.com/public/v1` with `portal.platform.softwareone.com`
    * Keep the path unchanged
 
-4. **Special Cases**:
+5. **Special Cases**:
    * The Portal home page (`/home`) has no API equivalent
    * Entitlement details pages redirect to `/catalog/items/{id}`
    * Portal uses `/administration/settings/groups` but API uses `/accounts/user-groups`
    * All accounts-related objects are under `/administration/settings/` in Portal but `/accounts/` in API
    * The API requires authentication via Bearer token
 
-5. **Module Detection**: The first path segment after the base URL indicates the module:
+6. **Module Detection**: The first path segment after the base URL indicates the module:
    * Portal `administration/settings` = API `accounts` (Buyers, Sellers, Licensees, Users, User Groups, API Tokens)
    * `commerce` = Agreements, Assets, Orders, Subscriptions, Requests, Entitlements
    * `billing` = Statements, Invoices, Credit Memos
@@ -363,11 +365,13 @@ When working with Marketplace Platform URLs, follow these guidelines:
    * `program` = Programs, Certificates, Enrollments
    * `notifications` = Webhooks, Messages, Contacts, Subscribers (API only)
 
-6. **API-Only Resources**: Some resources are only accessible via API and have no Portal equivalent:
+7. **API-Only Resources**: Some resources are only accessible via API and have no Portal equivalent:
    * Listings (`LST-`)
    * Authorizations (`AUT-`)
    * Webhooks (`WBH-`)
    * Notification Messages, Contacts, Subscribers
+
+8. **Legacy URL Handling**: If you encounter URLs using `portal.softwareone.com`, rewrite them to use `portal.platform.softwareone.com` before processing or generating links.
 
 ## Related topics
 
