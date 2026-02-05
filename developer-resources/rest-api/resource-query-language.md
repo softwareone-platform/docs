@@ -133,9 +133,27 @@ GET /v1/accounts/users?ilike(firstName,"The\**")
 
 The ilike operator in this case will be searching for the literal value “The\*” at the beginning of the firstName property.
 
-## Agent Integration Guide
+## Best practices (quick reference)
 
-This guide documents key findings and best practices for interacting with the SoftwareOne Platform API, specifically derived from real-world debugging and implementation sessions.
+Before writing RQL, keep these in mind:
+
+| Topic | Recommendation |
+|-------|-----------------|
+| **Field names** | RQL filter and sort fields must exist on the resource. Do not invent field names (e.g. `subscriptionsCount`). Use the resource schema or API documentation to see exact field names and types. |
+| **Dates** | Use UTC with 3-digit millisecond precision: `YYYY-MM-DDTHH:mm:ss.sssZ` (e.g. `2026-01-31T23:00:00.000Z`). |
+| **Audit fields** | When filtering or sorting by `audit.created.at`, `audit.updated.at`, etc., you **must** include `audit` in the `select` parameter (e.g. `select=audit` or `select=+id,+name,audit`). The API will not filter by fields that are not selected. |
+| **Counting** | Use `limit=0` to get only the count: the response has an empty `data` array and the total in `$meta.pagination.total`. |
+| **Limit** | Prefer a reasonable limit (e.g. 20–50) for list queries. Maximum is 100 (values above 100 are capped). For count-only, use `limit=0`. |
+| **Select** | Use `select=+id,+name,+field` to include only needed fields (smaller payloads). To include omitted fields (see `$meta.omitted`), use `select=+field`. For nested collections, `+subscriptions.id,+subscriptions.name` returns only id and name per item; `+subscriptions` returns the full nested representation. |
+| **Order in URL** | Order is part of the query string: `?order=-audit.created.at&limit=10`. Do not send RQL as a single query parameter (see below). |
+| **RQL vs parameters** | Do not put `limit` or `order` inside the RQL string. RQL is only the filter expression; `limit`, `offset`, `select`, and `order` are separate query parameters. |
+| **IDs in RQL** | When filtering by ID fields (e.g. `client.id`, `buyer.id`, `agreement.id`), use **double-quoted** values: `eq(client.id,"ACC-1234-5678")`. Unquoted IDs can return no results. |
+
+For more detail and advanced patterns, see [RQL advanced tips](rql-advanced-tips.md).
+
+## Integration guide and best practices
+
+This section documents key findings and best practices for interacting with the SoftwareOne Platform API, derived from real-world integration and debugging experience.
 
 ### 1. Authentication
 The API supports standard Bearer token authentication.
@@ -229,33 +247,16 @@ Date fields like `created` and `updated` are typically nested within the `audit`
 - **Example**: `?select=audit&and(gt(audit.created.at,"2024-01-01..."))`
 
 ### 8. Terminology & Identity Resolution
-When processing requests, be aware that terms like "customer", "client", "SCU", or "Buyer" are often used interchangeably by humans but have distinct technical meanings in the platform.
 
-#### Key Definitions
+In the API, **Buyer** and **Client** have distinct meanings and ID formats:
+
 *   **Buyer**: Represents a legal entity in the platform.
     *   **ID Format**: `BUY-xxxx-xxx`
     *   *Note*: This is the core entity for billing and legal purposes.
-*   **SCU**: The ID of the Buyer in the SoftwareOne ERP system.
-    *   **Format**: `XX-SCU-XXXXXX` or `SCU-XXXXX`
-    *   **Storage**: Stored as an external attribute in the Buyer object.
-    *   **JSON Example**:
-        ```json
-        "externalIds": {
-            "erpCustomer": "US-SCU-123456"
-        }
-        ```
 *   **Client**: Represents one or multiple Buyers activated in the self-service part of the platform (Client Portal).
     *   **ID Format**: `ACC-1234-5678`
-*   **CDG**: The identifier from SoftwareOne ERP for a Client account.
-    *   **Format**: `WW-xxxxx` (e.g., `WW-123456`)
-    *   **Storage**: Stored as an external ID in the Client object.
-    *   **JSON Example**:
-        ```json
-        "externalId": "WW-123456"
-        ```
 
-> [!IMPORTANT]
-> **"Customer" Ambiguity**: The term "Customer" is ambiguous and could refer to any of the above. Always verify which specific entity (Buyer, Client, etc.) is intended when processing user requests.
+When filtering by Client (ACC- IDs), use **`client.id`** in RQL on resources that expose it (e.g. `commerce.orders`, `commerce.agreements`): `eq(client.id,"ACC-1234-5678")`. When filtering by Buyer (BUY- IDs), use **`buyer.id`**. Check the resource schema to see which relationship field exists.
 
 ## Further resources <a href="#further-resources" id="further-resources"></a>
 

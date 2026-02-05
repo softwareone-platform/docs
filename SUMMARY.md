@@ -327,6 +327,7 @@
 
 * [REST API](developer-resources/rest-api/README.md)
   * [Resource Query Language](developer-resources/rest-api/resource-query-language.md)
+    * [RQL advanced tips](developer-resources/rest-api/rql-advanced-tips.md)
   * [Error Handling](developer-resources/rest-api/errors-handling.md)
   * [Object Diagrams](developer-resources/rest-api/object-diagrams.md)
   * [OpenAPI Specification](developer-resources/rest-api/openapi-specification.md)
