@@ -27,6 +27,15 @@ The SoftwareOne Marketplace Platform is a comprehensive digital marketplace that
 
 Marketplace Platform is a catalyst for accelerating digital transformation and enhancing operational efficiency. It empowers clients and partners to easily discover, compare, and buy software licenses from multiple vendors in one convenient location, and allows vendors to extend their global reach.
 
+The platform is built on these core components:
+
+* **REST API** - A powerful API layer that enables programmatic access to all platform capabilities. Build custom integrations, automate workflows, and connect the platform to your existing systems.
+* **Web Portal** - A modern user interface built on top of the platform API, providing self-service access to all features through your browser at [portal.platform.softwareone.com](https://portal.platform.softwareone.com/).
+* **MCP Server** - An LLM-ready [Model Context Protocol](developer-resources/mcp-server/) server that allows AI assistants and agents to interact with the platform, enabling natural language queries and automated operations.
+* **Extensions Framework** - A flexible framework for integrating vendor-specific capabilities and third-party services, including Adobe, Microsoft, and AWS.
+
+The platform provides developer-friendly [documentation](developer-resources/rest-api/) designed to simplify integrations with third-party systems such as procurement platforms, ERP systems, and billing solutions. With comprehensive API references, query language guides, and URL structure mappings, developers can quickly connect their existing infrastructure to the Marketplace Platform.
+
 Explore our documentation to learn more about the platform and how you can use it for software procurement, subscription management, license renewals, order fulfillment, and more.
 
 ### Featured Resources
@@ -39,7 +48,7 @@ Explore our documentation to learn more about the platform and how you can use i
 
 ### Developer Resources
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>REST API</strong></td><td>Learn how to programmatically interact with the platform.</td><td><a href="developer-resources/rest-api/">rest-api</a></td></tr><tr><td><strong>Resource Query Language</strong></td><td>Learn how to use RQL, the query language we use in our APIs.</td><td><a href="developer-resources/rest-api/resource-query-language.md">resource-query-language.md</a></td></tr><tr><td><strong>Open API Specification</strong></td><td>Get familiar with and download our API specification.</td><td><a href="developer-resources/rest-api/openapi-specification.md">openapi-specification.md</a></td></tr><tr><td><strong>Open Source</strong></td><td>Learn more at our <a href="developer-resources/open-source/github-projects.md">GitHub Projects</a> page.</td><td><a href="developer-resources/open-source/">open-source</a></td></tr><tr><td><strong>Design System</strong></td><td>Discover our comprehensive design system.</td><td><a href="developer-resources/design-system.md">design-system.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>REST API</strong></td><td>Learn how to programmatically interact with the platform.</td><td><a href="developer-resources/rest-api/">rest-api</a></td></tr><tr><td><strong>MCP Server</strong></td><td>Connect AI assistants to the platform using Model Context Protocol.</td><td><a href="developer-resources/mcp-server/">mcp-server</a></td></tr><tr><td><strong>URL Structure</strong></td><td>Map between Portal URLs and API endpoints.</td><td><a href="developer-resources/url-structure.md">url-structure.md</a></td></tr><tr><td><strong>Resource Query Language</strong></td><td>Learn how to use RQL, the query language we use in our APIs.</td><td><a href="developer-resources/rest-api/resource-query-language.md">resource-query-language.md</a></td></tr><tr><td><strong>Open API Specification</strong></td><td>Get familiar with and download our API specification.</td><td><a href="developer-resources/rest-api/openapi-specification.md">openapi-specification.md</a></td></tr><tr><td><strong>Open Source</strong></td><td>Learn more at our <a href="developer-resources/open-source/github-projects.md">GitHub Projects</a> page.</td><td><a href="developer-resources/open-source/">open-source</a></td></tr><tr><td><strong>Design System</strong></td><td>Discover our comprehensive design system.</td><td><a href="developer-resources/design-system.md">design-system.md</a></td></tr></tbody></table>
 
 ### Help and Support
 
