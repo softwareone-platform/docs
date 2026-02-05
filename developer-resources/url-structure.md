@@ -82,19 +82,21 @@ The following tables show how Portal URLs map to API endpoints for each category
 
 | Object | Portal URL | API Endpoint |
 |--------|-----------|--------------|
-| **Buyers List** | `/accounts/buyers` | `GET /accounts/buyers` |
-| **Buyer Details** | `/accounts/buyers/{id}` | `GET /accounts/buyers/{id}` |
-| **Licensees List** | `/accounts/licensees` | `GET /accounts/licensees` |
-| **Licensee Details** | `/accounts/licensees/{id}` | `GET /accounts/licensees/{id}` |
-| **Users List** | `/accounts/users` | `GET /accounts/users` |
-| **User Details** | `/accounts/users/{id}` | `GET /accounts/users/{id}` |
-| **User Groups List** | `/accounts/groups` | `GET /accounts/user-groups` |
-| **User Group Details** | `/accounts/groups/{id}` | `GET /accounts/user-groups/{id}` |
-| **API Tokens List** | `/settings/tokens` | `GET /accounts/api-tokens` |
-| **API Token Details** | `/settings/tokens/{id}` | `GET /accounts/api-tokens/{id}` |
+| **Buyers List** | `/administration/settings/buyers` | `GET /accounts/buyers` |
+| **Buyer Details** | `/administration/settings/buyers/{id}` | `GET /accounts/buyers/{id}` |
+| **Sellers List** | `/administration/settings/sellers` | `GET /accounts/sellers` |
+| **Seller Details** | `/administration/settings/sellers/{id}` | `GET /accounts/sellers/{id}` |
+| **Licensees List** | `/administration/settings/licensees` | `GET /accounts/licensees` |
+| **Licensee Details** | `/administration/settings/licensees/{id}` | `GET /accounts/licensees/{id}` |
+| **Users List** | `/administration/settings/users` | `GET /accounts/users` |
+| **User Details** | `/administration/settings/users/{id}` | `GET /accounts/users/{id}` |
+| **User Groups List** | `/administration/settings/groups` | `GET /accounts/user-groups` |
+| **User Group Details** | `/administration/settings/groups/{id}` | `GET /accounts/user-groups/{id}` |
+| **API Tokens List** | `/administration/settings/api-tokens` | `GET /accounts/api-tokens` |
+| **API Token Details** | `/administration/settings/api-tokens/{id}` | `GET /accounts/api-tokens/{id}` |
 
 {% hint style="info" %}
-The Portal uses `/accounts/groups` while the API uses `/accounts/user-groups`. API tokens are accessed via the Settings section in the Portal.
+All accounts-related objects in the Portal are accessed via the `/administration/settings/` path. The Portal uses `groups` while the API uses `user-groups`.
 {% endhint %}
 
 ### Commerce objects
@@ -137,15 +139,15 @@ The Entitlements page in the Portal shows commerce lines, and clicking on an ent
 | **Product Details** | `/catalog/products/{id}` | `GET /catalog/products/{id}` |
 | **Items List** | `/catalog/items` | `GET /catalog/items` |
 | **Item Details** | `/catalog/items/{id}` | `GET /catalog/items/{id}` |
+| **Price Lists** | `/catalog/price-lists` | `GET /catalog/price-lists` |
+| **Price List Details** | `/catalog/price-lists/{id}` | `GET /catalog/price-lists/{id}` |
 | **Listings** | API only | `GET /catalog/listings` |
 | **Listing Details** | API only | `GET /catalog/listings/{id}` |
 | **Authorizations** | API only | `GET /catalog/authorizations` |
 | **Authorization Details** | API only | `GET /catalog/authorizations/{id}` |
-| **Price Lists** | API only | `GET /catalog/price-lists` |
-| **Price List Details** | API only | `GET /catalog/price-lists/{id}` |
 
 {% hint style="info" %}
-Listings, Authorizations, and Price Lists are available through the API but do not have dedicated Portal pages. They are typically accessed programmatically for integration purposes.
+Listings and Authorizations are available through the API but do not have dedicated Portal pages. They are typically accessed programmatically for integration purposes.
 {% endhint %}
 
 ### Program objects
@@ -172,15 +174,6 @@ The notifications module is primarily accessed through the API for webhook manag
 | **Contacts** | API only | `GET /notifications/contacts` |
 | **Subscribers** | API only | `GET /notifications/subscribers` |
 
-### Sellers objects (API only)
-
-Sellers are organizational entities that represent SoftwareOne regional operations.
-
-| Object | Portal URL | API Endpoint |
-|--------|-----------|--------------|
-| **Sellers List** | API only | `GET /accounts/sellers` |
-| **Seller Details** | API only | `GET /accounts/sellers/{id}` |
-
 ## URL patterns
 
 ### Portal URL pattern
@@ -190,7 +183,7 @@ https://portal.platform.softwareone.com/{module}/{resource}/{id}
 ```
 
 Where:
-* `{module}` is one of: `accounts`, `commerce`, `billing`, `catalog`, `program`, `settings`
+* `{module}` is one of: `administration/settings`, `commerce`, `billing`, `catalog`, `program`
 * `{resource}` is the plural resource name (for example, `agreements`, `orders`, `invoices`)
 * `{id}` is the object identifier (optional, only for detail pages)
 
@@ -206,12 +199,11 @@ The API follows the same structure, with `/public/v1/` added after the base doma
 
 | Portal Module | API Module | Notes |
 |---------------|------------|-------|
-| `accounts` | `accounts` | User groups use different paths |
+| `administration/settings` | `accounts` | Buyers, Sellers, Licensees, Users, Groups, API Tokens |
 | `commerce` | `commerce` | Direct mapping |
 | `billing` | `billing` | Direct mapping |
 | `catalog` | `catalog` | Direct mapping |
 | `program` | `program` | Direct mapping |
-| `settings` | `accounts` | API tokens are under accounts in API |
 | N/A | `notifications` | API only |
 | N/A | `audit` | API only |
 | N/A | `spotlight` | API only |
@@ -230,12 +222,13 @@ def get_portal_url(api_response, resource_type):
     
     # Map resource types to Portal paths
     resource_paths = {
-        # Accounts
-        "buyer": "accounts/buyers",
-        "licensee": "accounts/licensees",
-        "user": "accounts/users",
-        "user-group": "accounts/groups",
-        "api-token": "settings/tokens",
+        # Accounts (under administration/settings)
+        "buyer": "administration/settings/buyers",
+        "seller": "administration/settings/sellers",
+        "licensee": "administration/settings/licensees",
+        "user": "administration/settings/users",
+        "user-group": "administration/settings/groups",
+        "api-token": "administration/settings/api-tokens",
         # Commerce
         "agreement": "commerce/agreements",
         "order": "commerce/orders",
@@ -249,6 +242,7 @@ def get_portal_url(api_response, resource_type):
         # Catalog
         "product": "catalog/products",
         "item": "catalog/items",
+        "price-list": "catalog/price-lists",
         # Program
         "program": "program/programs",
         "certificate": "program/certificates",
@@ -357,23 +351,21 @@ When working with Marketplace Platform URLs, follow these guidelines:
 4. **Special Cases**:
    * The Portal home page (`/home`) has no API equivalent
    * Entitlement details pages redirect to `/catalog/items/{id}`
-   * Portal uses `/accounts/groups` but API uses `/accounts/user-groups`
-   * API tokens are at `/settings/tokens` in Portal but `/accounts/api-tokens` in API
+   * Portal uses `/administration/settings/groups` but API uses `/accounts/user-groups`
+   * All accounts-related objects are under `/administration/settings/` in Portal but `/accounts/` in API
    * The API requires authentication via Bearer token
 
 5. **Module Detection**: The first path segment after the base URL indicates the module:
-   * `accounts` = Buyers, Licensees, Users, User Groups, API Tokens, Sellers
+   * Portal `administration/settings` = API `accounts` (Buyers, Sellers, Licensees, Users, User Groups, API Tokens)
    * `commerce` = Agreements, Assets, Orders, Subscriptions, Requests, Entitlements
    * `billing` = Statements, Invoices, Credit Memos
-   * `catalog` = Products, Items, Listings, Authorizations, Price Lists
+   * `catalog` = Products, Items, Price Lists, Listings, Authorizations
    * `program` = Programs, Certificates, Enrollments
    * `notifications` = Webhooks, Messages, Contacts, Subscribers (API only)
 
 6. **API-Only Resources**: Some resources are only accessible via API and have no Portal equivalent:
-   * Sellers (`SEL-`)
    * Listings (`LST-`)
    * Authorizations (`AUT-`)
-   * Price Lists (`PRC-`)
    * Webhooks (`WBH-`)
    * Notification Messages, Contacts, Subscribers
 
