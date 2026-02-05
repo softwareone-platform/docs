@@ -21,22 +21,26 @@ layout:
 
 <figure><img src=".gitbook/assets/MPT Home Image (1).png" alt=""><figcaption></figcaption></figure>
 
-The SoftwareOne Marketplace Platform is a comprehensive digital marketplace that connects a diverse range of vendors, clients, and partners. It's designed to offer a variety of software solutions while ensuring that the needs of our clients and partners align effectively with the capabilities of vendors using our platform.
+The SoftwareOne Marketplace Platform is a digital platform for software procurement and beyond. It bridges the gap between clients seeking software solutions and vendors delivering them, creating a unified ecosystem where both sides can operate through intuitive self-service interfaces or deep system integrations.
 
 <div align="left"><figure><img src=".gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure></div>
 
-Marketplace Platform is a catalyst for accelerating digital transformation and enhancing operational efficiency. It empowers clients and partners to easily discover, compare, and buy software licenses from multiple vendors in one convenient location, and allows vendors to extend their global reach.
+Whether you are a client looking to streamline your software buying process, or a vendor aiming to expand your market reach, the Marketplace Platform provides the tools you need. Clients can discover, compare, and purchase software from multiple vendors in one place. Vendors can manage their product catalog, process orders, and automate fulfillment at scale.
 
-The platform is built on these core components:
+### Built for Integration and Self-Service
 
-* **REST API** - A powerful API layer that enables programmatic access to all platform capabilities. Build custom integrations, automate workflows, and connect the platform to your existing systems.
-* **Web Portal** - A modern user interface built on top of the platform API, providing self-service access to all features through your browser at [portal.platform.softwareone.com](https://portal.platform.softwareone.com/).
-* **MCP Server** - An LLM-ready [Model Context Protocol](developer-resources/mcp-server/) server that allows AI assistants and agents to interact with the platform, enabling natural language queries and automated operations.
-* **Extensions Framework** - A flexible framework for integrating vendor-specific capabilities and third-party services, including Adobe, Microsoft, and AWS.
+The platform is designed to work the way you work. Use our modern Web Portal for self-service operations, or connect your existing systems through our comprehensive API. Both clients and vendors benefit from:
 
-The platform provides developer-friendly [documentation](developer-resources/rest-api/) designed to simplify integrations with third-party systems such as procurement platforms, ERP systems, and billing solutions. With comprehensive API references, query language guides, and URL structure mappings, developers can quickly connect their existing infrastructure to the Marketplace Platform.
+* **Web Portal** - A modern self-service interface at [portal.platform.softwareone.com](https://portal.platform.softwareone.com/) for managing orders, subscriptions, billing, and more.
+* **REST API** - A powerful API layer enabling seamless integration with your procurement systems, ERP platforms, and billing solutions.
+* **MCP Server** - An LLM-ready [Model Context Protocol](developer-resources/mcp-server/) server that enables AI assistants and agents to interact with the platform using natural language.
+* **Extensions Framework** - A flexible framework for extending platform capabilities on both sides: vendors can integrate their fulfillment systems, while clients can connect their procurement, finance, and ERP platforms.
 
-Explore our documentation to learn more about the platform and how you can use it for software procurement, subscription management, license renewals, order fulfillment, and more.
+### Developer-Friendly by Design
+
+Our [developer documentation](developer-resources/rest-api/) is built to accelerate your integration journey. With comprehensive API references, query language guides, and URL structure mappings, your team can connect existing infrastructure to the Marketplace Platform quickly and confidently.
+
+Explore our documentation to learn more about software procurement, subscription management, license renewals, order fulfillment, and everything the platform has to offer.
 
 ### Featured Resources
 
