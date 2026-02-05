@@ -892,6 +892,7 @@
 * [Model Context Protocol](developer-resources/mcp-server/README.md)
   * [MCP Use Cases](developer-resources/mcp-server/mcp-use-cases.md)
   * [MCP Server Setup](developer-resources/mcp-server/mcp-server-setup.md)
+* [URL Structure](developer-resources/url-structure.md)
 * [Design System](developer-resources/design-system.md)
 
 ## Help and Support
