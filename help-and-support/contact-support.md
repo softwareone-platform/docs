@@ -17,7 +17,7 @@ Our support team can help you with technical problems and answer any questions y
 SoftwareOne partners can also contact Marketplace Platform Support for help with managing their account, ordering and provisioning subscriptions, enrollment, certificates, and more.
 
 {% hint style="info" %}
-For assistance with SoftwareOne services like Cloud Managed Services (Simple and Essentials) or technical issues with cloud subscriptions, including AWS, Microsoft 365, Teams, Azure, and Dynamics, contact [SoftwareOne Services Support](https://docs.softwareone.cloud/microsoft-csp-services/1.0/Published/technical-support-explained).
+For assistance with SoftwareOne services like Cloud Managed Services (Simple and Essentials) or technical issues with cloud subscriptions, including AWS, Microsoft 365, Teams, Azure, and Dynamics, contact [SoftwareOne Services Support](https://docs.softwareone.cloud/microsoft-csp-services/technical-support-explained).
 {% endhint %}
 
 ### Describing your issue

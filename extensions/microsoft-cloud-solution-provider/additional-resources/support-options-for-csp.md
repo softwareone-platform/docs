@@ -36,4 +36,4 @@ You can contact SoftwareOne Services Support through the [Services Portal](https
 
 The portal is a secure way to submit tickets, maintain visibility of all open tickets, and gain insights into your support metrics and trends.
 
-You can also contact us by email at [support@softwareone.com](mailto:support@softwareone.com) or by phone using the phone numbers listed on the [SoftwareOne Support](https://docs.softwareone.cloud/kbgeneral/Base-version/Published/softwareone-services) page.&#x20;
+You can also contact us by email at [support@softwareone.com](mailto:support@softwareone.com) or by phone using the phone numbers listed on the [SoftwareOne Support](https://docs.softwareone.cloud/knowledge-base/softwareone-services) page.&#x20;
