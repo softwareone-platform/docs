@@ -19,7 +19,7 @@ On the subscription details page, you can view detailed information for the subs
 To view the full details for a subscription:
 
 1. Navigate to the **Subscriptions** page.
-2. (Optional) Use filters to find the desired asset.
+2. (Optional) Use filters to find the desired subscription.
 3. Select the subscription name to view general information, such as subscription status, renewal date, commitment timeframe, and more.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Subscriptiondetails.png" alt=""><figcaption><p>The details page of a subscription.</p></figcaption></figure></div>

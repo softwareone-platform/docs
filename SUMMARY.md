@@ -193,6 +193,7 @@
     * [Terminate Adobe Subscriptions](extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription.md)
     * [Terminate Agreement](extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-all-adobe-subscriptions.md)
   * [FAQs](extensions/adobe-vip-marketplace/faqs/README.md)
+    * [How do I view 3-year commitment details in Marketplace](extensions/adobe-vip-marketplace/faqs/how-do-i-view-3-year-commitment-details-in-marketplace.md)
     * [How do I accept my 3-year commitment invitation](extensions/adobe-vip-marketplace/faqs/how-do-i-accept-my-3-year-commitment-invitation.md)
     * [How do I select my education sub-segments](extensions/adobe-vip-marketplace/faqs/how-do-i-select-my-education-sub-segments.md)
     * [How do I activate my VIP Marketplace agreement](extensions/adobe-vip-marketplace/faqs/how-do-i-activate-my-vip-marketplace-agreement.md)

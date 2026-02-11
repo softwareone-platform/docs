@@ -12,7 +12,7 @@ To view your agreements, navigate to the **Agreements** page. When you launch th
 
 ### Viewing agreement details <a href="#subscription-details" id="subscription-details"></a>
 
-On the agreement details page, you can view detailed information for the agreement. Some information is read-only, while others include links that allow you to navigate to further details.
+On the details page, you can view detailed information for the agreement. Some information is read-only, while others include links that allow you to navigate to further details.
 
 To view the full details of an agreement:
 
