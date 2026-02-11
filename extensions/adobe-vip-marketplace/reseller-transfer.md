@@ -22,7 +22,7 @@ Before starting the reseller change process, make sure you have the following de
 * Your system administrator's email address.&#x20;
 * Your reseller change code.&#x20;
 
-<details>
+<details open>
 
 <summary>How to find the email address of your system administrator</summary>
 
@@ -40,7 +40,7 @@ As this process is managed by Adobe, see their official documentation for up-to-
 
 </details>
 
-<details>
+<details open>
 
 <summary>How to generate an approval or reseller change code</summary>
 
