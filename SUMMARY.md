@@ -927,5 +927,6 @@
   * [Release Notes v1](help-and-support/release-notes/release-notes-v1.md)
 * [Status Page](help-and-support/status-page.md)
 * [YouTube Channel](help-and-support/youtube-channel.md)
+* [Video Library](help-and-support/video-library.md)
 * [Planned Maintenance](help-and-support/planned-maintenance.md)
 * [Terms of Use](help-and-support/terms-of-use.md)
