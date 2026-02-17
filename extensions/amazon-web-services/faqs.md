@@ -146,7 +146,7 @@ For example, if the billing transfer request is not accepted, the order fails. T
 
 <details>
 
-<summary>What if I didn’t receive any service term (handshake) email? Should I wait for the email to arrive automatically?</summary>
+<summary>I didn’t receive any service term (handshake) email? How long should I wait for the email to arrive?</summary>
 
 After you accept the billing transfer invitation from AWS, it can take some time to receive the service term (handshake) email. This is expected and typically takes around 15 minutes. The handshake invitation is sent by AWS to the same email address that received the billing transfer request.
 
@@ -156,7 +156,7 @@ If you prefer not to wait, you can select **Process** in the upper-right corner 
 
 <details>
 
-<summary>What if I didn’t receive any billing transfer e-mail?</summary>
+<summary>I didn't receive the billing transfer email.</summary>
 
 Ensure you have access to the email address registered as the root for the AWS organizational account you are trying to connect with SoftwareOne.
 
@@ -166,7 +166,7 @@ If you have access but are not receiving emails, including in your spam or junk 
 
 <details>
 
-<summary>What if I receive an error when accepting the billing transfer e-mail?</summary>
+<summary>I receive an error when accepting the billing transfer email.</summary>
 
 If you receive an error, check that you have the rights to accept the AWS invite for the AWS account you are trying to connect with SoftwareOne.&#x20;
 
@@ -178,7 +178,7 @@ In such cases, contact [SoftwareOne Marketplace Platform Support](../../help-and
 
 <details>
 
-<summary>What if I receive an error when accepting the handshake e-mail?</summary>
+<summary>I receive an error when accepting the handshake or invitation e-mail.</summary>
 
 To avoid common errors with the AWS billing transfer invitation, ensure you are using the correct AWS account and credentials when accepting the handshake.&#x20;
 
