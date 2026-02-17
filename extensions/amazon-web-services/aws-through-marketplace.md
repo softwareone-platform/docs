@@ -1,16 +1,18 @@
+---
+hidden: true
+---
+
 # AWS Through Marketplace
 
-Ordering AWS through Marketplace enables you to leverage the power of AWS cloud computing with the expertise of SoftwareOne. By combining AWS with SoftwareOne's services, you can achieve enhanced scalability, cost-effectiveness, and sustainability, ultimately unlocking the true potential of cloud technology. SoftwareOne also ensures a smooth AWS cloud experience with managed services, automation, and support.&#x20;
+Ordering AWS through Marketplace enables you to leverage the power of AWS cloud computing with the expertise of SoftwareOne. By combining AWS with SoftwareOne's Cloud Managed Essentials services, you can achieve enhanced scalability, cost-effectiveness, and sustainability, ultimately unlocking the true potential of cloud technology. SoftwareOne also ensures a smooth AWS cloud experience with managed services, automation, and support.
 
 ## AWS in the SoftwareOne Marketplace
 
-As a SoftwareOne client or partner, you can easily order Cloud Managed Services for AWS Essentials through the Marketplace Platform.&#x20;
+As a SoftwareOne client or partner, you can easily order Amazon Web Services through the Marketplace Platform.
 
-To begin, go to the **Products** page in the platform, located under **Marketplace** in the main navigation menu. Then, look for **Amazon Web Services** to see important information about the services offered. Use the sidebar on the left to learn more about what’s available. You can access various resources like terms and conditions, media files, related documents, and price lists.
+To begin, go to the **Products** page in the platform, then look for **Amazon Web Services** and select the product to open up additional information about the services offered.
 
-Additionally, you can check the details for specific items, including how long the services will be billed for and the commitment terms for each service.&#x20;
-
-When you are ready to order, select **Buy now** to start the ordering process.
+When you are ready to order, select **Buy now** to start the ordering process:
 
 ## Purchase orders for AWS
 
@@ -22,10 +24,10 @@ The steps and options for placing an order vary depending on whether you are cre
 
 Additionally, you can select a support plan. The SoftwareOne Marketplace offers two options: Partner-led support and Resold support. To understand the differences between these two support models, see [Resold vs partner-led AWS support](aws-concepts.md#resold-vs-partner-led-aws-support).
 
-When you place an AWS order, certain items are included by default. These items may include Reserved Instances, Savings Plans, AWS service incentives, and more. We include these items in your order as placeholders, and you will not be charged for them unless you choose to purchase them from AWS Marketplace. For further information, see [My AWS order contains additional items](faqs/my-aws-order-contains-additional-items.md).
+When you place an AWS order, certain items are included by default. These items may include Reserved Instances, Savings Plans, AWS service incentives, and more. We include these items in your order as placeholders, and you will not be charged for them unless you choose to purchase them from AWS Marketplace. For further information, see [My AWS order contains additional items](faqs-1/my-aws-order-contains-additional-items.md).
 
 Once you place your order, processing will begin, and the specifics will depend on the options you selected. You can keep track of your order's progress on the [order details ](../../modules-and-features/marketplace/orders/#subscription-details)page.
 
 ## Related topics
 
-See the [Tutorials ](tutorials/)section for step-by-step guidance on ordering AWS subscriptions through SoftwareOne Marketplace.
+See the [Tutorials ](tutorials-1/)section for step-by-step guidance on ordering AWS subscriptions through SoftwareOne Marketplace.

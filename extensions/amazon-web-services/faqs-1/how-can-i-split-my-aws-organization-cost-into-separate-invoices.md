@@ -35,4 +35,4 @@ To set up split invoicing in such a case:
 
 Complete all the remaining steps in the purchase wizard and place your order. SoftwareOne will then issue separate invoices for agreements 1 and 2. Each invoice will contain detailed information about the respective AWS-linked account included under each agreement.
 
-For more information about options available for existing AWS accounts, see the [Transfer Existing AWS Account](../tutorials/transfer-existing-aws-account.md) tutorial.
+For more information about options available for existing AWS accounts, see the [Transfer Existing AWS Account](../tutorials-1/transfer-existing-aws-account.md) tutorial.

@@ -1,23 +1,4 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # Home
-
-
 
 <figure><img src=".gitbook/assets/MPT Home Image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +13,7 @@ Whether you are a client looking to streamline your software buying process, or 
 The platform is designed to work the way you work. Use our modern Web Portal for self-service operations, or connect your existing systems through our comprehensive API. Both clients and vendors benefit from:
 
 * **Web Portal** - A modern self-service interface at [portal.platform.softwareone.com](https://portal.platform.softwareone.com/) for managing orders, subscriptions, billing, and more.
-* **[REST API](developer-resources/rest-api/)** - A powerful API layer enabling seamless integration with your procurement systems, ERP platforms, and billing solutions.
+* [**REST API**](developer-resources/rest-api/) - A powerful API layer enabling seamless integration with your procurement systems, ERP platforms, and billing solutions.
 * **MCP Server** - An LLM-ready [Model Context Protocol](developer-resources/mcp-server/) server that enables AI assistants and agents to interact with the platform using natural language.
 * **Extensions Framework** - A flexible framework for extending platform capabilities on both sides: vendors can integrate their fulfillment systems, while clients can connect their procurement, finance, and ERP platforms.
 
@@ -44,7 +25,7 @@ Explore our documentation to learn more about software procurement, subscription
 
 ### Featured Resources
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Platform Overview</strong></td><td>Learn about the Marketplace Platform and its capabilities.</td><td><a href="marketplace-platform/platform-overview.md">platform-overview.md</a></td></tr><tr><td><strong>Getting Started</strong></td><td>Explore concepts, terminology, and tutorials to get started quickly.</td><td><a href="marketplace-platform/getting-started/">getting-started</a></td></tr><tr><td><strong>Billing</strong> </td><td>Access your financial documents, including invoices, statements, and credit memos.</td><td><a href="modules-and-features/marketplace/billing/">billing</a></td></tr><tr><td><strong>Marketplace</strong></td><td>Buy software subscriptions and manage your orders, licenses, and renewals.</td><td><a href="modules-and-features/marketplace/">marketplace</a></td></tr><tr><td><strong>Settings</strong></td><td>Manage your account settings, including users, groups, notifications, and more.</td><td><a href="modules-and-features/settings/">settings</a></td></tr><tr><td><strong>Adobe VIP Marketplace</strong></td><td>Discover how to order and manage your Adobe subscriptions.</td><td><a href="extensions/adobe-vip-marketplace/">adobe-vip-marketplace</a></td></tr><tr><td><strong>Amazon Web Services</strong></td><td>Create new AWS accounts or transfer the existing ones.</td><td><a href="extensions/amazon-web-services/">amazon-web-services</a></td></tr><tr><td><strong>Microsoft CSP</strong></td><td>Order Microsoft products and services and enroll in partner programs.</td><td><a href="extensions/microsoft-cloud-solution-provider/">microsoft-cloud-solution-provider</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Platform Overview</strong></td><td>Learn about the Marketplace Platform and its capabilities.</td><td><a href="marketplace-platform/platform-overview.md">platform-overview.md</a></td></tr><tr><td><strong>Getting Started</strong></td><td>Explore concepts, terminology, and tutorials to get started quickly.</td><td><a href="marketplace-platform/getting-started/">getting-started</a></td></tr><tr><td><strong>Billing</strong></td><td>Access your financial documents, including invoices, statements, and credit memos.</td><td><a href="modules-and-features/marketplace/billing/">billing</a></td></tr><tr><td><strong>Marketplace</strong></td><td>Buy software subscriptions and manage your orders, licenses, and renewals.</td><td><a href="modules-and-features/marketplace/">marketplace</a></td></tr><tr><td><strong>Settings</strong></td><td>Manage your account settings, including users, groups, notifications, and more.</td><td><a href="modules-and-features/settings/">settings</a></td></tr><tr><td><strong>Adobe VIP Marketplace</strong></td><td>Discover how to order and manage your Adobe subscriptions.</td><td><a href="extensions/adobe-vip-marketplace/">adobe-vip-marketplace</a></td></tr><tr><td><strong>Amazon Web Services</strong></td><td>Create new AWS accounts or transfer the existing ones.</td><td><a href="extensions/amazon-web-services/">amazon-web-services</a></td></tr><tr><td><strong>Microsoft CSP</strong></td><td>Order Microsoft products and services and enroll in partner programs.</td><td><a href="extensions/microsoft-cloud-solution-provider/">microsoft-cloud-solution-provider</a></td></tr></tbody></table>
 
 ### Other Resources
 

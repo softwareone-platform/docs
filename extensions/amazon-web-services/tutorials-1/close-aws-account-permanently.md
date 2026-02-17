@@ -1,4 +1,6 @@
-# Close AWS Account Permanently
+# Offboard Your AWS Account
+
+This tutorial describes how you can place a terminatiintransfer the billing and management for your existing AWS Management Account to SoftwareOne by establishing a new agreement.&#x20;
 
 This tutorial shows how to place a termination order for closing your AWS account.&#x20;
 

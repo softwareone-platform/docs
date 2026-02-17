@@ -50,7 +50,7 @@ To start the process:
 Choose your support type carefully, as it will affect the deployed guardrails, pricing, and the tasks required after creating your AWS account and Marketplace agreement. Once you select a support type, changing it involves a manual process and is currently not supported by the SoftwareOne Marketplace.
 {% endhint %}
 
-7. **Items** - Check the items in your order and select **Next**. Note that these items are added by default and can't be removed. To learn more, see [My AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md).
+7. **Items** - Check the items in your order and select **Next**. Note that these items are added by default and can't be removed. To learn more, see [My AWS order contains additional items](../faqs-1/my-aws-order-contains-additional-items.md).
 8. **Details** - Provide reference details, like additional IDs or notes. Then, select **Next**.
 9. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
 10. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
