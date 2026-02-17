@@ -1,4 +1,4 @@
-# Do I need to accept any invitation from the Marketplace
+# Do I need to accept any invitation from Marketplace?
 
 If you requested to create a new AWS account through the SoftwareOne Marketplace, your designated notification contact will receive an invitation email.&#x20;
 

@@ -6,11 +6,13 @@
 
 We have launched a new AWS product in the SoftwareOne Marketplace.&#x20;
 
-This new product is called **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials,** and it combines the newly launched [AWS Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/) feature with SoftwareOne service offerings related to AWS.&#x20;
+This new product, **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials**, combines the newly launched [AWS Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/) feature with SoftwareOne service offerings related to AWS.&#x20;
 
-The new product is available in all AWS regions that support billing transfer. This includes all public AWS regions, except AWS GovCloud (US) and China regions, including Beijing and Ningxia.&#x20;
+The product is available in all AWS regions that support billing transfer. This includes all public AWS regions, except AWS GovCloud (US) and China regions, including Beijing and Ningxia.&#x20;
 
-The previous product, **Amazon Web Services - Managed Service**, based on the ECAM model, remains available to customers with an active agreement. However, new customers must sign up for **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials**.
+The previous product, **Amazon Web Services - Managed Service**, based on the End Customer Account Model, remains available to customers with an active agreement. However, new customers must sign up for **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials**.
+
+***
 
 ## Release Date: 27 May 2025 <a href="#release-date-27-may-2025" id="release-date-27-may-2025"></a>
 

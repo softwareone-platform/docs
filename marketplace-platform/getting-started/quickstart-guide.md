@@ -190,7 +190,7 @@ For product-specific tutorials, see the following pages:
 * [Order Azure Subscription for New Tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
 * [Order Azure Subscription for Existing Tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
 * [Buy Perpetual Software Licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
-* [Create New AWS Account](../../extensions/amazon-web-services/tutorials-1/create-new-aws-account.md)
+* [Create New AWS Account](../../extensions/amazon-web-services/tutorials/create-new-aws-account.md)
 
 </details>
 {% endstep %}
@@ -300,7 +300,7 @@ For details on self-managing your subscriptions and agreements, including termin
 
 * [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/tutorials-and-videos/)
 * [Microsoft 365](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/)
-* [Amazon Web Services](../../extensions/amazon-web-services/tutorials-1/)
+* [Amazon Web Services](../../extensions/amazon-web-services/tutorials/)
 
 </details>
 
@@ -329,7 +329,7 @@ The [Marketplace for Partners](marketplace-for-partners/) section contains a vid
 If you need more information, see the following pages for detailed answers and resources:
 
 * [Adobe VIPM Marketplace FAQs](../../extensions/adobe-vip-marketplace/faqs/)
-* [Amazon Web Services FAQs](../../extensions/amazon-web-services/faqs-1/)
+* [Amazon Web Services FAQs](../../extensions/amazon-web-services/faqs/)
 * [Microsoft CSP FAQs](../../extensions/microsoft-cloud-solution-provider/faqs/)
 * [Platform FAQs](../../help-and-support/faqs/)
 * [Partner FAQs](marketplace-for-partners/partner-faqs.md)

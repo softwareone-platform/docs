@@ -8,7 +8,7 @@ An AWS subscription can be canceled if you no longer require an AWS account thro
 
 Before unlinking accounts, ensure the following:
 
-* Your AWS account has up-to-date credit card details or another acceptable payment method listed in its AWS console. This is required by AWS. See [Can I cancel my AWS subscription?](../faqs-1/can-i-cancel-my-aws-subscription.md) to learn more.
+* Your AWS account has up-to-date credit card details or another acceptable payment method listed in its AWS console. This is required by AWS. See [Can I cancel my AWS subscription?](../faqs/can-i-cancel-my-aws-subscription.md) to learn more.
 * The status of the AWS subscription is active within the Marketplace Platform.
 
 ## Unlinking an AWS account

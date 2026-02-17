@@ -73,7 +73,7 @@ If you selected **Split existing SoftwareOne marketplace agreements** in the pre
 
 6. **Service level** - Select **Next**. This page displays all services you get as part of your agreement. It's not possible to change these options.
 7. **Support info** - Choose a support plan and select **Next**. In this example, we will select **Resold support**. To learn about the support options, see [AWS Concepts](../aws-concepts.md).
-8. **Items** - Review the details, then select **Next**. This section displays individual items that will be added to your order. To learn more, see My [AWS order contains additional items](../faqs-1/my-aws-order-contains-additional-items.md).
+8. **Items** - Review the details, then select **Next**. This section displays individual items that will be added to your order. To learn more, see My [AWS order contains additional items](../faqs/my-aws-order-contains-additional-items.md).
 9. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 10. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
 11. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.

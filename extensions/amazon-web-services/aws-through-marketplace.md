@@ -24,10 +24,10 @@ The steps and options for placing an order vary depending on whether you are cre
 
 Additionally, you can select a support plan. The SoftwareOne Marketplace offers two options: Partner-led support and Resold support. To understand the differences between these two support models, see [Resold vs partner-led AWS support](aws-concepts.md#resold-vs-partner-led-aws-support).
 
-When you place an AWS order, certain items are included by default. These items may include Reserved Instances, Savings Plans, AWS service incentives, and more. We include these items in your order as placeholders, and you will not be charged for them unless you choose to purchase them from AWS Marketplace. For further information, see [My AWS order contains additional items](faqs-1/my-aws-order-contains-additional-items.md).
+When you place an AWS order, certain items are included by default. These items may include Reserved Instances, Savings Plans, AWS service incentives, and more. We include these items in your order as placeholders, and you will not be charged for them unless you choose to purchase them from AWS Marketplace. For further information, see [My AWS order contains additional items](faqs/my-aws-order-contains-additional-items.md).
 
 Once you place your order, processing will begin, and the specifics will depend on the options you selected. You can keep track of your order's progress on the [order details ](../../modules-and-features/marketplace/orders/#subscription-details)page.
 
 ## Related topics
 
-See the [Tutorials ](tutorials-1/)section for step-by-step guidance on ordering AWS subscriptions through SoftwareOne Marketplace.
+See the [Tutorials ](tutorials/)section for step-by-step guidance on ordering AWS subscriptions through SoftwareOne Marketplace.

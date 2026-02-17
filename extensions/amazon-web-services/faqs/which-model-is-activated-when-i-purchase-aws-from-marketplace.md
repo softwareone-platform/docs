@@ -1,4 +1,4 @@
-# What model is activated when I purchase AWS through the Marketplace
+# Which model is activated when I purchase AWS from Marketplace?
 
 Currently, the SoftwareOne Marketplace uses the End Customer Account Model (ECAM) for AWS.&#x20;
 
