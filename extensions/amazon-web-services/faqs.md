@@ -6,7 +6,7 @@
 
 <summary>What new product for AWS has been launched on the SoftwareOne Marketplace?</summary>
 
-We are launching **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials** through the SoftwareOne Marketplace. This offering combines the newly launched  [AWS Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/) feature with SoftwareOne service offerings related to AWS.
+We are launching **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials** through the SoftwareOne Marketplace. This offering combines the newly launched [AWS Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/) feature with SoftwareOne service offerings related to AWS.
 
 </details>
 
@@ -42,13 +42,18 @@ Yes, we will transition existing customers to the new offering through the Softw
 
 <summary>Does the SoftwareOne Marketplace cover all AWS account types?</summary>
 
-Yes, but with a few exclusions, including:
+The SoftwareOne Marketplace covers all AWS Commercial accounts, except:
 
-* AWS Private Pricing Agreements (PPA) customers.
-* AWS GovCloud (US), China (Beijing and Ningxia) region accounts
-* Tier 2 resale model AWS accounts.
+* AWS Private Pricing Agreements (PPA) customers
+* AWS China (Beijing and Ningxia) region accounts
+* AWS GovCloud (US)
+* Tier 2 resale model AWS accounts
 
-Earlier partner model account types, including ECAM (End-Customer Account Model) and SPAM (Solution Provider Account Model), are being phased out by AWS due to the billing transfer feature. Capabilities to add the AWS reseller model (tier 2) to billing transfer are also planned by AWS, but are not yet available.
+Government customers are advised to contact their SoftwareOne account manager before purchasing AWS through the SoftwareOne Marketplace.
+
+Due to the [AWS Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/) feature, other partner model account types, including End-Customer Account Model (ECAM) and Solution Provider Account Model (SPAM), are being phased out by AWS.
+
+Additionally, capabilities to add the AWS reseller model (tier 2) to billing transfer are planned by AWS, but are not yet available.
 
 {% hint style="info" %}
 To make use of billing transfer, an AWS account must be a management account.
