@@ -13,7 +13,7 @@ You can use EST if your subscription meets the following criteria:
 * It's in the commercial or public sector (Education, Nonprofit, or Government Community Cloud).
 * It falls under specialized offers.
 * It includes end-of-sale items with conversion SKUs.
-* It was purchased or renewed between April 1, 2025, and May 4, 2026, with term end dates after May 4, 2026.
+* It was purchased or renewed between April 1, 2025, and May 4, 2026, and has a term end date after May 4, 2026.
 
 {% hint style="info" %}
 Trial subscriptions and end-of-sale SKUs are not eligible for the extended service terms.
