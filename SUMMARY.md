@@ -313,6 +313,7 @@
         * [Buy Perpetual Software Licenses](extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
         * [Order Additional Perpetual Software Licenses](extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md)
     * [FAQs](extensions/microsoft-cloud-solution-provider/faqs/README.md)
+      * [What subscription renewal options are available?](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-subscription-renewal-options-are-available.md)
       * [How to transfer Microsoft subscriptions to SoftwareOne](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-to-transfer-microsoft-subscriptions-to-softwareone.md)
       * [I'm getting errors when creating certificates or CSP orders](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md)
       * [My application for Microsoft Education is denied](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/my-application-for-microsoft-education-is-denied.md)
