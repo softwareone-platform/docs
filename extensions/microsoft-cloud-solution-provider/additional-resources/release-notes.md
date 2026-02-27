@@ -2,7 +2,7 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
-## Release Date: 16 February 2026 <a href="#release-date-11-december-2025" id="release-date-11-december-2025"></a>
+## Release Date: 16 February 2026 <a href="#release-date-16-february-2026" id="release-date-16-february-2026"></a>
 
 ### New Extended Service Terms <a href="#extended-service-terms-est" id="extended-service-terms-est"></a>
 
@@ -18,7 +18,7 @@ For information on the eligibility criteria for EST, see [What subscription rene
 
 ***
 
-## Release Date: 26 January 2026 <a href="#release-date-11-december-2025" id="release-date-11-december-2025"></a>
+## Release Date: 26 January 2026 <a href="#release-date-26-january-2026" id="release-date-26-january-2026"></a>
 
 ### Subscription Transfer to SoftwareOne
 
