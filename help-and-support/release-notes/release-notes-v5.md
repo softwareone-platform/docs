@@ -4,7 +4,7 @@ description: Learn what's new in this release.
 
 # Release Notes v5
 
-**Release Date: xx March 2026**
+**Release Date: 7 April 2026**
 
 We are pleased to announce the latest release of SoftwareOne's Marketplace Platform. v5 introduces a range of new features and functionalities, along with enhancements to provide a more seamless experience across the platform.
 
