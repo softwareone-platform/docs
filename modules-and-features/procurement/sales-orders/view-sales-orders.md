@@ -12,7 +12,7 @@ To view your sales orders:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/sales-order.png" alt=""><figcaption><p align="center">The Sales Orders page displaying a list of orders and their details.</p></figcaption></figure></div>
 
-### Viewing sales orders details <a href="#subscription-details" id="subscription-details"></a>
+### Viewing sales order details <a href="#subscription-details" id="subscription-details"></a>
 
 On the **sales order details** page, you can view detailed information for a sales order. The information is categorized logically across several tabs, so you have immediate access to the data you need.
 
