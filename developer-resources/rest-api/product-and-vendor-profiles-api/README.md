@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Product and Vendor Profiles API
 
 The **Product and Vendor Profiles API** allows you to manage vendor and product profiles within the SoftwareOne Marketplace platform.

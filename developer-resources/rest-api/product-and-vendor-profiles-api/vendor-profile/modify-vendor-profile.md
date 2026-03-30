@@ -1,2 +1,0 @@
-# Modify Vendor Profile
-
