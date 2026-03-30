@@ -16,7 +16,7 @@ Analytics uses interactive charts and filters to help you understand charges fro
 
 It enables you to analyze and compare your billing data across various dimensions, customize data using filters, and export data in supported formats, such as Excel. For more information, see [Analytics](../../modules-and-features/billing/analytics/).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-billing-analytics.png" alt=""><figcaption><p>Monitor your billing data using Analytics.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Billing Analytics 4.png" alt=""><figcaption><p>Monitor your billing data using Analytics.</p></figcaption></figure></div>
 
 ### Microsoft Extended Service Terms
 
