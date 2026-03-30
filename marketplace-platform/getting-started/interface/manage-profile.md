@@ -6,10 +6,10 @@ description: Change your profile picture, display language, and time zone settin
 
 Your profile contains the information associated with your account, including your name, email address, and preferences.&#x20;
 
-You can edit your profile to keep your information accurate and up to date and manage your preferences, like display language and time zone settings.&#x20;
+You can edit your profile to keep your information accurate and up to date and manage your preferences, like display language and other regional settings.&#x20;
 
 {% hint style="info" %}
-The updated preferences only apply to the Marketplace interface and do not affect platform‑generated attachments, such as PDF documents (including invoices) and Excel files, which follow Excel’s own local settings when formatting data.
+The updated regional settings only apply to the Marketplace interface and do not affect platform‑generated attachments, such as PDF documents (including invoices) and Excel files, which follow Excel’s own local settings when formatting data.
 {% endhint %}
 
 ### Managing your profile
