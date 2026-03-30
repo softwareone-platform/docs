@@ -2,17 +2,17 @@
 description: Finalize and submit your saved orders for processing.
 ---
 
-# Submit Your Saved Orders
+# Submit your saved order
 
-If you [saved an order for later](save-order-as-a-draft.md) and want to submit it for processing, you can do this through the **Orders** page in the platform.
+If you [saved an order for later](save-order-as-a-draft.md) and want to submit it for processing to SoftwareOne, you can do this through the **Orders** page in the platform.
 
 After you have submitted the order, it no longer appears as a saved order with a draft or quoted status.
 
-## Submitting a saved order for processing
+### Submitting a saved order for processing
 
 To submit a saved order for processing:
 
-1. Navigate to the **Orders** page.
+1. Go to **Marketplace** > **Orders**.
 2. (Optional) Use the following filters to find the required order:
    1. Select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="" data-size="line"> **Filter** option in the table.
    2. Select **Add another condition** and then use the dropdown to make the following selections:

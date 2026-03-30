@@ -1,4 +1,4 @@
-# About Perpetual Software Orders
+# About perpetual software orders
 
 A perpetual license is a type of software license that requires a one-time upfront payment. Perpetual license purchases are also called one-time purchases in the Marketplace Platform.&#x20;
 
@@ -14,7 +14,7 @@ The Marketplace Platform supports ordering perpetual licenses for the following 
 
 These products are available for ordering through the [Products ](../../../../modules-and-features/catalog/products.md)page in the platform:
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The Products page in the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The Products page in the Marketplace Platform.</p></figcaption></figure></div>
 
 ## Ordering process
 
@@ -31,4 +31,4 @@ The following specifics apply to perpetual software purchases:
 * Cancellations are permitted within 30 days of the purchase date. For details, see [Manage Perpetual Software Orders](manage-perpetual-software-orders.md).
 * Perpetual license orders appear as a **one-time purchase** on the [agreement details page](../../../../modules-and-features/marketplace/agreements/#subscription-details), as shown in the following image:
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>One-time purchases in the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>One-time purchases in the Marketplace Platform.</p></figcaption></figure></div>

@@ -1,0 +1,2 @@
+# Delete Media for Extension
+

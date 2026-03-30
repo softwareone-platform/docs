@@ -4,7 +4,7 @@ description: >-
   agreement.
 ---
 
-# Order Microsoft 365 Subscription for  New Tenant
+# Order Microsoft 365 subscription for new tenant
 
 This tutorial describes how you can order a Microsoft 365 subscription by creating a new Marketplace agreement.&#x20;
 
@@ -20,7 +20,7 @@ Watch this video guide explaining how to order Microsoft 365 subscription for a 
 
 Before starting this tutorial, make sure you have the following:
 
-* A licensee in the **active** state, or permission to [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md) if you don't want to use an existing active licensee. Licensee selection is required when setting up a new agreement.&#x20;
+* A licensee in the active state, or permission to [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md) if you don't want to use an existing active licensee. Licensee selection is required when setting up a new agreement.&#x20;
 * Your company details, like the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of the person who manages your Microsoft account.&#x20;
 
@@ -32,9 +32,10 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Navigate to the **Products** page.
-2. From the list of products, select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps - Commercial**.
-3. On the details page, select **Buy now**.
+1. Go to **Catalog** > **Product profile**.
+2. From the list of profiles, select the desired Microsoft 365 profile, for example, **Microsoft 365 Business, Enterprise & Apps**.
+3. On the profile details page, review the information, then select **Buy now**.
+4. Under **Select product**, choose the product you want to order, then select **Select**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}
@@ -46,7 +47,7 @@ To start the process:
 2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
 3. **Create agreemen**t - Select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
 4. **Microsoft details** - Enter the details for your Microsoft account:
-   1. Enter the tenant name you want to use on the onmicrosoft.com domain. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
+   1. Enter the tenant name you want to use on the `onmicrosoft.com` domain. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
    2. (Optional) Select the **I would like to align subscription end dates within this agreement** checkbox. When you select this checkbox, all future subscriptions created within this agreement are cotermed and aligned with the subscriptions created during the initial purchase. To learn more, see [Subscription Coterminosity](../products-and-programs/microsoft-nce/about-subscription-coterminosity/).
    3. Select **Next**. The platform validates the details that you entered.
    4. Fill out the contact form and select **Next**. You'll need to provide the following details:

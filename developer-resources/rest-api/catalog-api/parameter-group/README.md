@@ -1,14 +1,12 @@
-# Parameter Groups
+# Parameter Group
 
 The Parameter Group object contains the following properties:
 
-<table><thead><tr><th width="169">Field</th><th width="123">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the parameter group.</p><p>Example: PGR-6790-8304-0001</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Relative reference to the object in the API.</p><p>Example: /products/PRD-6790-8304-0171/parameter-groups/PGR-6790-8304-0001</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the group.</p><p>Example: Parameters</p></td></tr><tr><td>label</td><td><code>string</code></td><td><p>The label displayed in the wizard steps selector.</p><p>Example: Create agreement</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>A description of the group.</p><p>Example: When creating a new agreement with SoftwareOne, you can establish a new Microsoft account or connect your existing account.</p></td></tr><tr><td>displayOrder</td><td><code>integer</code></td><td><p>Defines the display order.</p><p>Example: 100</p></td></tr><tr><td>default</td><td><code>boolean</code></td><td><p>Marks the default item group.</p><p>Example: true</p></td></tr><tr><td>parameterCount</td><td><code>integer</code></td><td><p>Number of parameters in the group.</p><p>Example: 5</p></td></tr><tr><td>product</td><td><a href="../product/"><code>product</code></a></td><td>Reference to the Product object.</td></tr></tbody></table>
+<table><thead><tr><th width="169">Field Name</th><th width="123">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The identifier for the parameter group.</p><p>Example: PGR-6790-8304-0001</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>A relative reference to the object in the API.</p><p>Example: /products/PRD-6790-8304-0171/parameter-groups/PGR-6790-8304-0001</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the group.</p><p>Example: Parameters</p></td></tr><tr><td><code>label</code></td><td>string</td><td><p>The label displayed in the wizard steps selector.</p><p>Example: Create agreement</p></td></tr><tr><td><code>description</code></td><td>string</td><td><p>A description of the group.</p><p>Example: When creating a new agreement with SoftwareOne, you can establish a new Microsoft account or connect your existing account.</p></td></tr><tr><td><code>displayOrder</code></td><td>integer</td><td><p>Defines the display order.</p><p>Example: 100</p></td></tr><tr><td><code>default</code></td><td>boolean</td><td><p>Marks the default item group.</p><p>Example: true</p></td></tr><tr><td><code>parameterCount</code></td><td>integer</td><td><p>Number of parameters in the group.</p><p>Example: 5</p></td></tr><tr><td><code>product</code></td><td>object</td><td>Reference to the <a href="../product/"><code>product</code></a> object.</td></tr></tbody></table>
 
-## Example
+## Example response
 
-{% tabs %}
-{% tab title="PARAMETER GROUP OBJECT" %}
-{% code overflow="wrap" lineNumbers="true" %}
+{% code lineNumbers="true" %}
 ```json
 {
     "id": "PGR-6790-8304-0001",
@@ -23,5 +21,3 @@ The Parameter Group object contains the following properties:
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}

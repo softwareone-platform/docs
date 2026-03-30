@@ -30,7 +30,7 @@ The following are the key actors using our platform:
 
 **Clients** - A client is a company or organization that uses our platform to buy software products for their own use or direct consumption.
 
-**Developers and system integrators** - Developers and system integrators represent entities involved in building integrations within the business network.
+**Developers and systems integrator** - Developers and systems integrator represent entities involved in building integrations within the business network.
 
 ## Users, Accounts, and Groups  <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 

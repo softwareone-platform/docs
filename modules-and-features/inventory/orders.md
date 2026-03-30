@@ -16,7 +16,7 @@ To learn about the difference between perpetual license and subscription-based o
 Watch a video guide about perpetual license and subscription-based orders in the platform.
 {% endembed %}
 
-## Searching for a perpetual license order
+### Searching for a perpetual license order
 
 If you are looking for an order, you can use the search options to find the order easily.&#x20;
 
@@ -24,7 +24,7 @@ Different search options are available; for instance, you can search for an orde
 
 When searching, you can also increase the **Search Result Limit** by choosing the required number of results to be returned. If you want to reset the search criteria, you can do this by selecting **Reset**.&#x20;
 
-## Adding or removing columns <a href="#h_aa5243c973" id="h_aa5243c973"></a>
+### Adding or removing columns <a href="#h_aa5243c973" id="h_aa5243c973"></a>
 
 You can add new columns and remove non-essential ones by selecting **Customize**.&#x20;
 
@@ -32,7 +32,7 @@ Selecting **Customize** opens a new menu, allowing you to choose the required co
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Orders-customize (1).png" alt=""><figcaption><p>The Customize option in the table.</p></figcaption></figure></div>
 
-## Filtering or sorting orders <a href="#h_6397519928" id="h_6397519928"></a>
+### Filtering or sorting orders <a href="#h_6397519928" id="h_6397519928"></a>
 
 Use the filter icon in the column header to apply filters.&#x20;
 
@@ -40,7 +40,7 @@ To sort the data for a column, select the column header, or select the filter ic
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Orders-sort.png" alt=""><figcaption><p>The different sort options in the table.</p></figcaption></figure></div>
 
-## Individual order actions
+### Individual order actions
 
 For each order, the **Actions** column lets you open the order details page by selecting **View**.&#x20;
 
@@ -48,4 +48,4 @@ The details page displays in-depth information for your selected order, includin
 
 You can also export the order information by selecting the actions icon (**•••**) and choosing one of these options: **Export to PDF**, **Export to Excel (CSV),** or **Export to Excel (XLSX)**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/legacy_orders-export.png" alt=""><figcaption><p>The different options to export an invoice.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/legacy_orders-export.png" alt=""><figcaption><p>The options to export an invoice.</p></figcaption></figure></div>

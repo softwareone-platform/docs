@@ -1,20 +1,20 @@
-# Users
+# User
 
 The User object represents a single user on the Marketplace platform.&#x20;
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table data-full-width="false"><thead><tr><th width="161">Field</th><th width="100">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the user.</p><p>Example: USR-1671-0642</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The relative reference to the object.</p><p>Example: /v1/accounts/users/USR-1671-0642</p></td></tr><tr><td>email</td><td><code>string</code></td><td><p>The email address of the user.</p><p>Example: will.smith@softwareone.com</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the user. Possible enum values:</p><p><code>New</code></p><p><code>Invited</code></p><p><code>Invitation</code></p><p><code>Expired</code></p><p><code>Active</code></p><p><code>Blocked</code></p><p><code>Disabled</code></p><p><code>Deleted</code></p><p></p><p>A user can have <code>Invited</code> or <code>InvitationExpired</code> status only if they haven't joined the account.</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the user.</p><p>Example: Will Smith</p></td></tr><tr><td>firstName</td><td><code>string</code></td><td><p>The first name of the user.</p><p>Example: Will</p></td></tr><tr><td>lastName</td><td><code>string</code></td><td><p>The last name of the user.</p><p>Example: Smith</p></td></tr><tr><td>phone</td><td><code>object</code></td><td><p>The country code and phone number of the user.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ 
+<table data-full-width="false"><thead><tr><th width="161">Field Name</th><th width="126">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The primary identifier for the user.</p><p>Example: USR-1671-0642</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>The relative reference to the object.</p><p>Example: /v1/accounts/users/USR-1671-0642</p></td></tr><tr><td><code>email</code></td><td>string</td><td><p>The email address of the user.</p><p>Example: will.smith@softwareone.com</p></td></tr><tr><td><code>status</code></td><td>string</td><td><p>The status of the user. Allowed values: <code>new</code>, <code>invited</code>, <code>invitation expired</code>, <code>active</code>, <code>blocked</code>, <code>disabled</code>, or <code>deleted</code>.</p><p></p><p>A user can have <code>invited</code> or <code>invitationExpired</code> status only if they have not joined the account.</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The full name of the user.</p><p>Example: Will Smith</p></td></tr><tr><td><code>firstName</code></td><td>string</td><td><p>The first name of the user.</p><p>Example: Will</p></td></tr><tr><td><code>lastName</code></td><td>string</td><td><p>The last name of the user.</p><p>Example: Smith</p></td></tr><tr><td><code>phone</code></td><td>object</td><td><p>The country code and phone number of the user.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ 
   "prefix": "+34",
   "number": "660707172"
 }
-</code></pre></td></tr><tr><td>SSO</td><td><code>bool</code></td><td><p>A flag to indicate if the user logs in using SSO.</p><p>Example: true</p></td></tr><tr><td>acceptedTerms</td><td><code>bool</code></td><td><p>A flag to indicate if the user has accepted the terms and conditions.</p><p>Example: true</p></td></tr><tr><td>accounts</td><td><a href="../account/#account-object"><code>account</code></a></td><td><p>The list of accounts to which the user has been added.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
+</code></pre></td></tr><tr><td><code>SSO</code></td><td>bool</td><td><p>A flag to indicate if the user logs in using SSO.</p><p>Example: true</p></td></tr><tr><td><code>acceptedTerms</code></td><td>bool</td><td><p>A flag to indicate if the user has accepted the terms and conditions.</p><p>Example: true</p></td></tr><tr><td><code>accounts</code></td><td>object</td><td><p>The list of <a href="../account/#account-object">account</a> to which the user has been added.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
   {
     "id": "ACC-1671-0642",
     "name": "You Are a Test Account"
   }
 ]
-</code></pre></td></tr><tr><td>groups</td><td><a href="../user-groups/#group-object"><code>group</code></a></td><td><p>All groups that the user belongs to.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
+</code></pre></td></tr><tr><td><code>groups</code></td><td>object</td><td><p>All <a href="../user-groups/#group-object">groups</a> that the user belongs to.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
   {
     "id": "UGR-5116-6265",
     "name": "Administrators"
@@ -24,11 +24,11 @@ The User object represents a single user on the Marketplace platform.&#x20;
     "name": "Fulfillment Managers"
   }
 ]
-</code></pre></td></tr><tr><td>invitation</td><td><code>object</code></td><td><p>The invitation object. This is added only in the context of the account (on account sub-collection), and only in case of the user being invited.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>invitation</code></td><td>object</td><td><p>The invitation object. This is added only in the context of the account (on account sub-collection), and only in case of the user being invited.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "code": "910B14E6CB2343A09CB32F24BBC4BEF1",
   "status": "Invited"
 }
-</code></pre></td></tr><tr><td>invitation.code</td><td><code>string</code></td><td><p>The invitation code sent to user to invite them to the platform.</p><p>Example: 910B14E6CB2343A09CB32F24BBC4BEF1</p></td></tr><tr><td>invitation.status</td><td><code>string</code></td><td><p>The invitation status for the user in the account.</p><p>Example: Invited</p></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>Represents the audit object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>invitation.code</code></td><td>string</td><td><p>The invitation code sent to user to invite them to the platform.</p><p>Example: 910B14E6CB2343A09CB32F24BBC4BEF1</p></td></tr><tr><td><code>invitation.status</code></td><td>string</td><td><p>The invitation status for the user in the account.</p><p>Example: Invited</p></td></tr><tr><td><code>audit</code></td><td>object</td><td><p>Represents the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "created": { ... },
     "updated": { ... },
     "joined": { ... },
@@ -37,10 +37,8 @@ The User object represents a single user on the Marketplace platform.&#x20;
 }
 </code></pre></td></tr></tbody></table>
 
-## Example
+## Example response
 
-{% tabs %}
-{% tab title="USER OBJECT" %}
 {% code lineNumbers="true" %}
 ```json
 {
@@ -78,5 +76,3 @@ The User object represents a single user on the Marketplace platform.&#x20;
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}

@@ -1,0 +1,6 @@
+# Template Variant
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
+<table><thead><tr><th width="174">Field Name</th><th width="160">Data Type</th><th></th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The identifier of the object. </p><p>Example: NTL-0000-0001</p></td></tr><tr><td><code>languageCode</code></td><td>string</td><td><p>The language of the template variant. </p><p>Example: en-US</p></td></tr><tr><td><code>subject</code></td><td>string</td><td><p>The subject line of the template variant.</p><p>Example: Your new order</p></td></tr><tr><td><code>body</code></td><td>string</td><td><p>The content of the template variant with placeholders.</p><p>Example: Hey <code>{{ user.firstName }}</code> - a new order has been placed.</p></td></tr><tr><td><code>default</code></td><td>boolean</td><td><p>Indicates whether the template is default. </p><p>Example: true</p></td></tr><tr><td><code>status</code></td><td>enum</td><td><p>Indicates the status of the template variant.</p><p>Example: Active</p></td></tr><tr><td><code>audit</code></td><td>object</td><td> A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
+

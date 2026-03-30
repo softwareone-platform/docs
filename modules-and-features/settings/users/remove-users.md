@@ -2,7 +2,7 @@
 description: Remove a user from your Marketplace account.
 ---
 
-# Remove Users
+# Remove users
 
 In certain situations, you might need to remove a person from your account. If you are an account administrator, you can use the **Remove** option on the **Users** page to remove an individual.
 
@@ -18,9 +18,9 @@ Before removing an individual from your account, note the following points:
 
 ### Removing a user from your account <a href="#removing-a-user-from-your-account" id="removing-a-user-from-your-account"></a>
 
-To remove an individual from your account:
+To remove a user from your account:
 
-1. Navigate to the **Users** page.
+1. Go to **Settings** > **Users**.
 2. Locate the individual you want to remove from your account.
 3. Select the actions icon (**•••**) and choose **Remove**.
 

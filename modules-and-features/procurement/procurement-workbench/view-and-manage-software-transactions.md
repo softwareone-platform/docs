@@ -1,4 +1,4 @@
-# View and Manage Software Transactions
+# View and manage software transactions
 
 On the Procurement Workbench page, you will find different sections that enable you to purchase products, view your transactions, and check your purchase history.&#x20;
 
@@ -6,7 +6,7 @@ Additionally, you can get an overview of your transactions and see the necessary
 
 <figure><img src="../../../.gitbook/assets/image (624).png" alt=""><figcaption><p>Procurement Workbench</p></figcaption></figure>
 
-## Transaction Status and Actions
+## Transaction status and actions
 
 The Transaction Status and Actions section contains the following information:
 
@@ -23,7 +23,7 @@ You can only view quotes that are open within the last 90 days. If the quotes we
 * **Open Invoices**: Allows you to view the open invoices.
 * **Overdue Invoices**: Allows you to view overdue invoices.
 
-## Buy Now
+## Buy now
 
 The **Buy Now** tab contains the **Search**, **Advanced Search**, and **Buying for** options. It also contains the following tabs:
 
@@ -33,7 +33,7 @@ The **Buy Now** tab contains the **Search**, **Advanced Search**, and **Buying f
 | Cloud Subscriptions | Allows you to select your cloud account. This will list the subscriptions that are active and inactive. You can make changes to your subscriptions by selecting **Manage Subscription**. |
 | Buying for          | Allows you to purchase a product for a company different from your default company. This option is only available if you have multiple catalogs available                                |
 
-## Purchase History
+## Purchase history
 
 The **Purchase History** tab displays the complete purchase history based on the time range you choose from the **Show** menu.&#x20;
 

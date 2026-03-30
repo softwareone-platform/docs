@@ -2,7 +2,7 @@
 description: Reduce the number of licenses for your existing Adobe subscription.
 ---
 
-# Downsize Adobe Subscription
+# Downsize Adobe subscription
 
 This tutorial describes how you can lower the quantity of your Adobe licenses by submitting a change order through the Marketplace Platform.&#x20;
 
@@ -12,11 +12,11 @@ Adobe offers a 14-day return window. If you decrease the number of licenses with
 If you are outside the return period, the decrease will only take effect on your renewal date.
 {% endhint %}
 
-## Prerequisites
+### Prerequisites
 
-Before starting this tutorial, make sure that the subscription you want to downsize is in the active state. A subscription in any other state cannot be downsized.&#x20;
+Before starting this tutorial, make sure that the subscription you want to downsize is active. A subscription in any other state can't be downsized.&#x20;
 
-## Downsizing a subscription
+### Downsizing a subscription
 
 {% stepper %}
 {% step %}
@@ -24,8 +24,8 @@ Before starting this tutorial, make sure that the subscription you want to downs
 
 To open the subscription:
 
-1. Navigate to the **Subscriptions** page.
-2. Select the desired subscription.
+1. Go to the **Subscriptions** page.
+2. Select the subscription you want to downsize.
 3. On the subscription details page, select **Edit** to start the **Edit subscription** wizard.
 {% endstep %}
 
@@ -44,7 +44,7 @@ To open the subscription:
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 Once your order is submitted for processing, the status of your subscription and the agreement changes from **Active** to **Updating**. While the order is being updated, you won't be able to make any further changes until your order has been processed.
 

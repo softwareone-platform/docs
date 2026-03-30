@@ -2,7 +2,7 @@
 description: Move your Querying orders to Processing.
 ---
 
-# Set Querying Orders to Processing
+# Set querying orders to processing
 
 In some cases, you may need to provide additional information if your order information is incorrect or incomplete, or if specific steps must be completed before we can process your order.
 
@@ -14,8 +14,8 @@ Once you have completed the necessary steps, you must update the order's status 
 
 To move an order from **Querying** to **Processing**:
 
-1. Navigate to the **Orders** page.
-2. Select the desired purchase order in the **Querying** state. If you have several orders, use the [search bar](../../../marketplace-platform/getting-started/interface/#search) or [filters](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md) to quickly locate your order.
+1. Go to **Marketplace** > **Orders**.
+2. Select the required purchase order in the **Querying** state. If you have several orders, use the [search bar](../../../marketplace-platform/getting-started/interface/#search) or [filters](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md) to quickly locate your order.
 3. On the **General** tab, review the action required message. The following example message indicates that there's an issue with the parameters, and they must be updated using the **Parameters** tab.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Querying.png" alt=""><figcaption><p>An example of a Querying order in the platform.</p></figcaption></figure></div>

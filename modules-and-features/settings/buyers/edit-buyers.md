@@ -2,25 +2,23 @@
 description: Edit the general information and contact person for a buyer.
 ---
 
-# Edit Buyers
+# Edit buyers
 
 After the buyers have been linked to your account by SoftwareOne, you can manage them through the platform and edit buyer details as needed.&#x20;
 
-The buyer information that you can update includes the contact person assigned to the buyer and the buyer's logo.
+The buyer information you can update includes the contact person assigned to the buyer and the buyer's logo.
 
 ### Editing a buyer <a href="#updating-buyer-information" id="updating-buyer-information"></a>
 
 To update the buyer details in your account:
 
-1. Navigate to the **Buyers** page. Then, select the buyer you want to update.
-2. On the buyer details page, select **Edit** to start the **Edit buyer** wizard.
+1. Go to **Settings** > **Buyers**.&#x20;
+2. Select the buyer you want to update. The buyer details page opens.
+3. Select **Edit**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyer.png" alt=""><figcaption><p>THe details page of a buyer.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyer.png" alt=""><figcaption><p>The details page of a buyer.</p></figcaption></figure></div>
 
-3. Complete the following steps as necessary:
-   1. **General** - Add or update the buyer's logo. You can upload an image by selecting **Select file** or by dragging the image into the field.&#x20;
-   2. **Contact Person** - Choose the required setting:&#x20;
-      * **None (leave unassigned)** - Select this option to leave the contact person unassigned.
-      * **Select an account user** - Select this option to choose an existing user. When you select this option, all active users that exist in your account are displayed. If your account contains several users, use the **Search** option to find the user easily.
-      * **Add contact details manually** - Select this option to add the individual's details manually. You'll need to provide the person's first name, last name, email address, and contact information.
-4. Select **Save**. The buyer's details are updated, and a confirmation message is displayed.
+4. In the **Edit buyer** wizard, do the following as necessary:
+   * **General** - Add or update the buyer's logo. You can upload an image by selecting **Select file** or by dragging the image into the field.&#x20;
+   * **Buyer address** - Update the buyer's address.
+5. Select **Save**. The details are updated, and a confirmation message is displayed.

@@ -2,7 +2,7 @@
 description: How to order additional licenses for a Microsoft 365 subscription.
 ---
 
-# Buy More Licenses for Microsoft 365 Subscription
+# Buy more licenses for Microsoft 365 subscription
 
 This tutorial describes how you can order additional licenses for an existing Microsoft 365 subscription. Additional licenses can be ordered by placing a change order for the agreement.&#x20;
 
@@ -24,9 +24,10 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 To start the process:
 
-1. Navigate to the **Products** page.&#x20;
-2. From the list of products, select the desired Microsoft 365 product.
-3. On the details page, select **Buy now** to start the ordering process.
+1. Go to **Catalog** > **Product profile**.
+2. From the list of profiles, select the desired Microsoft 365 profile, for example, **Microsoft 365 Business, Enterprise & Apps**.
+3. On the profile details page, review the product information, then select **Buy now**.
+4. Under **Select product**, choose the Microsoft product you want to order, then select **Select**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}

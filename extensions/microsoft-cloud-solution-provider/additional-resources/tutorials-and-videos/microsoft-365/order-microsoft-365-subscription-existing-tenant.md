@@ -2,7 +2,7 @@
 description: How to order a Microsoft 365 Subscription for an existing tenant.
 ---
 
-# Order Microsoft 365 Subscription for Existing Tenant
+# Order Microsoft 365 subscription for existing tenant
 
 This tutorial describes how you can order a Microsoft 365 subscription by creating a new Marketplace agreement.
 
@@ -29,11 +29,10 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Navigate to the **Products** page.
-2. From the list of products, select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps - Commercial.**
-3. On the details page, select **Buy now**.
-
-<div data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>Buy now option on the details page</p></figcaption></figure></div>
+1. Go to **Catalog** > **Product profile**.
+2. From the list of profiles, select the desired Microsoft 365 profile, for example, **Microsoft 365 Business, Enterprise & Apps**.
+3. On the profile details page, review the information, then select **Buy now**.
+4. Under **Select product**, select the product you want to order, then select **Select**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}
@@ -42,7 +41,7 @@ To start the process:
 {% include "../../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
-2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
+2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
 3. **Create agreement** - Select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**. Note that if you choose this option, the global administrator of your Microsoft account must accept the relationship request.
 4. **Microsoft details** - Enter the details for your Microsoft account:
    1. Enter the name of your existing tenant.
@@ -63,4 +62,6 @@ To start the process:
 
 ### Next steps
 
-Once you have placed your order, we verify the order details, including the Microsoft tenant ID, and create your new subscription under your existing tenant. If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page provides information about the problem and any actions you may need to take.
+Once you have placed your order, we verify the order details, including the Microsoft tenant ID, and create your new subscription under your existing tenant.&#x20;
+
+If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page provides information about the problem and any actions you may need to take.

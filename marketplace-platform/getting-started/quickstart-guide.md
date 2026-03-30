@@ -69,7 +69,7 @@ You can configure your profile using the **My profile** option in your account m
    * Add a profile picture.
    * Set your timezone and language preferences.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/manage_profile.png" alt=""><figcaption><p>Select the Edit option to update your profile</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="/broken/files/V2HRBv7sZl2IkPycfPpx" alt=""><figcaption><p>Select the Edit option to update your profile</p></figcaption></figure></div>
 
 </details>
 
@@ -146,7 +146,7 @@ There are two primary ways of finding products in the Marketplace.
 **To find products**
 
 * Use the [global search bar](interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform will display results that match your search term.
-* [Visit the Products page](../../modules-and-features/catalog/products.md).
+* [Visit the Product profiles page](../../modules-and-features/catalog/product-profiles/).
 
 </details>
 
@@ -158,9 +158,10 @@ The purchase wizard contains guided steps to submit an order. After you have ide
 
 **To start the purchase wizard**
 
-1. On the **Products** page, select the desired product.
-2. Review the product description, list of available items, and other details.
-3. Select **Buy now**. The purchase wizard starts.
+1. On the **Product profile** page, select the required profile.
+2. Review the product details, list of features, and other details.
+3. Select **Buy now**.&#x20;
+4. Under **Select product**, choose the product you want to order, then select **Select**. The purchase wizard starts.
 
 <figure><img src="../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing guided steps to place an order</p></figcaption></figure>
 

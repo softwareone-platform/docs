@@ -1,59 +1,60 @@
 ---
-description: Learn about the Marketplace MCP Server and how to use it to connect AI assistants to the SoftwareOne Marketplace API.
+description: >-
+  Learn about the Marketplace MCP Server and how to use it to connect AI
+  assistants to the SoftwareOne Marketplace API.
 ---
 
-# Marketplace MCP Server
+# Model Context Protocol
 
-The **Marketplace MCP Server** is an open-source Model Context Protocol (MCP) server designed to connect AI assistants (like Antigravity, Cursor, and Claude) to the SoftwareOne Marketplace API.
+The Marketplace MCP Server is an open-source Model Context Protocol (MCP) server designed to connect AI assistants (like Antigravity, Cursor, and Claude) to the SoftwareOne Marketplace API.
 
-> **In simple terms:** Think of it as teaching your AI assistant to "speak" the SoftwareOne Marketplace language. Once connected, you can ask questions like "How many subscriptions do we have?" or "What's the status of our last order?" — and get real answers instantly, without logging into the portal.
+In simple terms: Think of it as teaching your AI assistant to "speak" the SoftwareOne Marketplace language. Once connected, you can ask questions like "_How many subscriptions do we have?_" or "_What's the status of our last order?_" and get real answers instantly, without logging into the portal.
 
 ## What is the Model Context Protocol (MCP)?
 
-The **Model Context Protocol (MCP)** is an open standard that allows AI assistants to connect to external data and systems. Instead of building custom integrations for every tool, MCP provides a universal language for AI models to:
+The Model Context Protocol (MCP) is an open standard that allows AI assistants to connect to external data and systems. Instead of building custom integrations for every tool, MCP provides a universal language for AI models to:
 
-*   **Read context**: Access documents, databases, and logs.
-*   **Take action**: Execute commands or query APIs on your behalf.
-*   **Stay secure**: You control what the AI can see and do through explicit permissions.
+* **Read context** - Access documents, databases, and logs.
+* **Take action** - Execute commands or query APIs on your behalf.
+* **Stay secure** - You control what the AI can see and do through explicit permissions.
 
 By using the Marketplace MCP Server, you turn the entire SoftwareOne Marketplace API into a toolset that your AI assistant understands natively.
 
-## Why use the Marketplace MCP Server?
+## Why use the Marketplace MCP server?
 
 This server eliminates the need to manually browse portals or write one-off scripts for common tasks.
 
-*   **Instant Answers**: Ask "What is the status of order ORD-123?" or "Show me active Microsoft subscriptions" and get immediate, accurate results without leaving your IDE.
-*   **Data Exploration**: Explore available API resources and schemas interactively. Not sure what fields are on a `Product`? Just ask "Show me the schema for catalog.products".
-*   **Automation**: Quickly generate reports or find IDs needed for your scripts/terraform configurations by asking "List all Azure subscriptions in the US region".
+* **Instant Answers** - Ask "_What is the status of order ORD-123?_" or "_Show me active Microsoft subscriptions_" and get immediate, accurate results without leaving your IDE.
+* **Data Exploration** - Explore available API resources and schemas interactively. Not sure what fields are on a `Product`? Just ask "_Show me the schema for catalog.products_".
+* **Automation** - Quickly generate reports or find IDs needed for your scripts/terraform configurations by asking "_List all Azure subscriptions in the US region_".
 
----
+The server is hosted and managed by SoftwareOne, so you can connect to it immediately without running any local infrastructure.
 
-The server is **hosted and managed by SoftwareOne**, so you can connect to it immediately without running any local infrastructure.
-
-> [!NOTE]
-> The server complies with our [OpenAPI Specification](https://api.platform.softwareone.com/public/v1/openapi.json), which serves as the source of truth for all available data and operations.
+{% hint style="info" %}
+The server complies with our [OpenAPI Specification](https://api.platform.softwareone.com/public/v1/openapi.json), which serves as the source of truth for all available data and operations.
+{% endhint %}
 
 ## Prerequisites
 
-*   **SoftwareOne Marketplace API Token**: You will need a valid API token to authenticate requests. This is like a password that proves you are allowed to access your organization's data. You can generate a token from your account settings in the SoftwareOne Marketplace Portal.
+**SoftwareOne Marketplace API Token** - You will need a valid API token to authenticate requests. This is like a password that proves you are allowed to access your organization's data. You can generate a token from your account settings in the SoftwareOne Marketplace Portal.
 
-> [!TIP]
-> Not sure where to find your token? Contact your SoftwareOne account administrator or check the Marketplace Portal documentation for "API Tokens."
+If you are not sure where to find your token, contact your SoftwareOne account administrator or search the Marketplace Portal documentation for "API Tokens."
 
-## Client Setup
-
-To use the hosted Marketplace MCP Server:
+## Client setup
 
 ### Antigravity & Cursor
 
 You can connect to the server using either the **Remote (SSE)** or **Local (stdio)** method.
 
 #### Option 1: Remote (SSE) - Recommended
-This method connects to the hosted SoftwareOne MCP instance. Add this to your configuration file (e.g., `~/.cursor/mcp.json`).
 
-> [!IMPORTANT]
-> Replace `{your-token-goes-here}` with your actual Marketplace API token.
+This method connects to the hosted SoftwareOne MCP instance. Add this to your configuration file (for example., `~/.cursor/mcp.json`).
 
+{% hint style="info" %}
+Replace `{your-token-goes-here}` with your actual Marketplace API token.
+{% endhint %}
+
+{% code lineNumbers="true" %}
 ```json
 {
     "mcpServers": {
@@ -67,13 +68,19 @@ This method connects to the hosted SoftwareOne MCP instance. Add this to your co
     }
 }
 ```
+{% endcode %}
 
-> [!IMPORTANT]
-> **Configuration Property Names May Vary**: Different MCP clients use different property names for the server endpoint. Some clients like Cursor require the URL to be specified in the `url` field, while others like Antigravity may use the `serverUrl` property. The MCP standard is still emerging and there is no common convention yet. Please consult the documentation of your specific tool for the exact property names in the configuration file—they should be similar to what's shown above but might vary in details.
+{% hint style="info" %}
+**Configuration Property Names May Vary**
+
+Different MCP clients use different property names for the server endpoint. Some clients like Cursor require the URL to be specified in the `url` field, while others like Antigravity may use the `serverUrl` property. The MCP standard is still emerging and there is no common convention yet. Please consult the documentation of your specific tool for the exact property names in the configuration file—they should be similar to what's shown above but might vary in details.
+{% endhint %}
 
 #### Option 2: Local (stdio)
+
 If you prefer to run the server locally via `uvx` or `docker`:
 
+{% code lineNumbers="true" %}
 ```json
 {
   "mcpServers": {
@@ -87,77 +94,52 @@ If you prefer to run the server locally via `uvx` or `docker`:
   }
 }
 ```
+{% endcode %}
 
-### Other Clients
+### Other clients
 
-For clients that support server-sent events (SSE) or remote HTTP transports, use the URL:
-`https://mcp.platform.softwareone.com/mcp`
+For clients that support server-sent events (SSE) or remote HTTP transports, use the URL: `https://mcp.platform.softwareone.com/mcp`
 
 Ensure you provide the required `X-MPT-Authorization` header with your request.
 
-## What You Can Ask
+## What you can ask
 
 Once connected, you can ask your AI assistant questions in plain English. The assistant will translate your questions into precise API queries.
 
-> [!TIP]
-> **New to this?** Start with simple questions like "What products are available?" or "Show me my subscriptions." The AI will guide you from there. You don't need to memorize any commands!
+{% hint style="info" %}
+**New to this?**
 
-### 📦 Product Catalog
+Start with simple questions like "_What products are available?_" or "_Show me my subscriptions._" The AI will guide you from there. You don't need to memorize any commands!
+{% endhint %}
 
-**User:** "Find Microsoft 365 products that are active."
+### Product catalog
 
-**Assistant:** I found several active Microsoft 365 products. Here is an example:
+<table><thead><tr><th width="234">User</th><th>Assistant</th></tr></thead><tbody><tr><td>Find Microsoft 365 products that are active.</td><td><p>I found several active Microsoft 365 products. Here is an example:</p><ul><li><strong>Name</strong> - Microsoft 365 Business &#x26; Enterprise</li><li><strong>ID</strong> - <code>PRD-XXXX-XXXX</code></li><li><strong>Vendor</strong> - Microsoft (<code>ACC-XXXX-XXXX</code>)</li><li><strong>Status</strong> - Published</li></ul></td></tr><tr><td>Show me the schema for catalog products.</td><td><p>The <code>catalog.products</code> resource has the following fields:</p><ul><li><code>id</code> (string) - Unique identifier</li><li><code>name</code> (string) - Product name</li><li><code>status</code> (enum) - Published, draft, etc.</li><li><code>vendor</code> (object) - Vendor details</li></ul></td></tr></tbody></table>
 
-*   **Name**: Microsoft 365 Business & Enterprise
-*   **ID**: `PRD-XXXX-XXXX`
-*   **Vendor**: Microsoft (`ACC-XXXX-XXXX`)
-*   **Status**: Published
+### Orders & subscriptions
 
-**User:** "Show me the schema for catalog products."
+<table><thead><tr><th width="232">User</th><th>Assistant</th></tr></thead><tbody><tr><td>List the last 5 orders for customer CUST-123</td><td><ol><li><strong>Order ORD-5555</strong> (Created: 2024-03-01): 10x Office 365 E3</li><li><strong>Order ORD-5554</strong> (Created: 2024-02-28): 1x Azure Plan ...</li></ol></td></tr></tbody></table>
 
-**Assistant:** The `catalog.products` resource has the following fields:
-*   `id` (string): Unique identifier
-*   `name` (string): Product name
-*   `status` (enum): Published, draft, etc.
-*   `vendor` (object): Vendor details
+### Discovery
 
-### 🛒 Orders & Subscriptions
-
-**User:** "List the last 5 orders for customer CUST-123."
-
-**Assistant:**
-1.  **Order ORD-5555** (Created: 2024-03-01): 10x Office 365 E3
-2.  **Order ORD-5554** (Created: 2024-02-28): 1x Azure Plan
-...
-
-### 🔍 Discovery
-
-**User:** "What resources are available in the billing API?"
-
-**Assistant:** I can help you with:
-*   `billing.invoices`: Retrieve invoice summaries.
-*   `billing.statements`: Access billing statements and charges.
+<table><thead><tr><th width="243">User</th><th>Assistant</th></tr></thead><tbody><tr><td>What resources are available in the billing API?</td><td><p>I can help you with:</p><ul><li><code>billing.invoices</code> - Retrieve invoice summaries.</li><li><code>billing.statements</code> - Access billing statements and charges.</li></ul></td></tr></tbody></table>
 
 ## Troubleshooting
 
-*   **Authentication Errors**: Double-check your `X-MPT-Authorization` header. The token should typically start with `idt:`. If you copied the token from the portal, make sure there are no extra spaces.
-*   **"I don't know how to do that"**: If the assistant is unsure, ask it to "List available tools" or "Show available resources" to refresh its context.
-*   **No results returned**: Try rephrasing your question. For example, instead of "Find order 123", try "Show me the order with ID ORD-123".
+* **Authentication errors** - Double-check your `X-MPT-Authorization` header. The token should typically start with `idt:`. If you copied the token from the portal, make sure there are no extra spaces.
+* **"I don't know how to do that"** - If the assistant is unsure, ask it to "List available tools" or "Show available resources" to refresh its context.
+* **No results returned** - Try rephrasing your question. For example, instead of "Find order 123", try "Show me the order with ID ORD-123".
 
-## Frequently Asked Questions
+## Frequently asked questions
 
-**Do I need to be a developer to use this?**
-No! Once someone sets up the connection for you, you can ask questions in plain English. The AI does the technical work.
+**Do I need to be a developer to use this?** No! Once someone sets up the connection for you, you can ask questions in plain English. The AI does the technical work.
 
-**Is my data secure?**
-Yes. The server uses your personal API token, which means it only accesses what you're already authorized to see. No data is stored on the MCP server itself.
+**Is my data secure?** Yes. The server uses your personal API token, which means it only accesses what you're already authorized to see. No data is stored on the MCP server itself.
 
-**Can I use this on my phone?**
-The MCP server works with AI tools like Antigravity, Cursor, and Claude Desktop. These are typically used on computers, but if your AI client supports mobile, it will work there too.
+**Can I use this on my phone?** The MCP server works with AI tools like Antigravity, Cursor, and Claude Desktop. These are typically used on computers, but if your AI client supports mobile, it will work there too.
 
-**What kind of questions can I ask?**
-Anything related to your SoftwareOne Marketplace data: orders, subscriptions, products, billing, agreements, and more. If you're not sure, just ask "What can you help me with?"
+**What kind of questions can I ask?** Anything related to your SoftwareOne Marketplace data: orders, subscriptions, products, billing, agreements, and more. If you're not sure, just ask "What can you help me with?"
 
-## Open Source & Contributing
+## Open source & contributing
 
 The server implementation is open source and available on GitHub at [softwareone-platform/mpt-mcp](https://github.com/softwareone-platform/mpt-mcp). We welcome contributions! You can also clone the repository if you prefer to run the server locally or customize it for your needs.

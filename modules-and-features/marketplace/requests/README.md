@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Requests
 
 A request in the Marketplace Platform represents a pre-sale inquiry. This can include queries about products, subscriptions, pricing, billing, product availability, and more.

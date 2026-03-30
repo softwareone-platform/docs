@@ -2,7 +2,7 @@
 description: Delete a user group permanently.
 ---
 
-# Delete Group
+# Delete groups
 
 If a group is no longer needed, you can delete it. You can delete all groups except the default group. Once a group has been deleted, it can't be restored.&#x20;
 
@@ -12,9 +12,9 @@ Before deleting a group, make sure to remove all members from the group. If the 
 
 ### Deleting an existing group
 
-To delete a group:
+To delete a group permanently:
 
-1. Navigate to the **Groups** page.&#x20;
+1. Go to **Settings** > **Groups**.&#x20;
 2. Find the group you want to delete.&#x20;
 3. Do one of the following:
    * Select the actions icon (**•••**) for the group and select **Delete**.&#x20;

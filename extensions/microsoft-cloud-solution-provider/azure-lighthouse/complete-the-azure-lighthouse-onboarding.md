@@ -1,8 +1,8 @@
-# Complete Azure Lighthouse Onboarding
+# Complete Azure Lighthouse onboarding
 
 Completing the Azure Lighthouse onboarding enables SoftwareOne to fulfill your Microsoft transactions, helping you streamline procurement and support.
 
-To complete the onboarding successfully, you'll need the Microsoft **Azure Subscription Owner** role. For details on how to assign this role, see [Assign Subscription Owner Role](assign-subscription-owner-role.md).
+To complete the onboarding successfully, you'll need the Microsoft **Azure Subscription Owner** role. For details on how to assign this role, see [Assign subscription owner role](assign-subscription-owner-role.md).
 
 {% hint style="info" %}
 The onboarding process for Azure Lighthouse can take up to 24 hours. This is because Microsoft needs to set up the necessary configurations and permissions for your new subscription, which can take a while, especially with multiple subscriptions and large amounts of data. If you still have issues after this time, [contact support](../../../help-and-support/contact-support.md).
@@ -47,4 +47,4 @@ To complete the onboarding:
 
 After completing the activation, return to the order details page and select **Process** to change the order status from **Querying** to **Processing**.&#x20;
 
-To learn more, see [Change Your Order's Status to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).
+To learn more, see [Change your order's status to processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).

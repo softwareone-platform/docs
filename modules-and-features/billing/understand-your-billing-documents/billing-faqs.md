@@ -111,3 +111,23 @@ You can include a purchase order number by entering it in the **Additional ID** 
 For more information, see [How do you handle purchase order numbers in subscription-based models?](../../../help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md) and [Update Additional Client ID](../../marketplace/agreements/edit-agreement-id.md).
 
 </details>
+
+<details>
+
+<summary>How does Analytics differ from FinOps for Cloud?</summary>
+
+[Analytics](../analytics/) shows the financial data from your Marketplace invoices and credit memos. It means, the actual charges from your documents are shown within Analytics.
+
+[FinOps for Cloud](https://docs.finops.softwareone.com/) displays the estimated costs for the current period, instead of the actual.
+
+</details>
+
+<details>
+
+<summary>Can I set or change the billing currency of my invoices?</summary>
+
+You can set the currency while creating a new agreement for a purchase order. You can also change the currency of your existing agreements to receive invoices in that currency.&#x20;
+
+For more information, see [How to Set or Change Your Billing Currency](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-set-or-change-your-billing-currency.md).
+
+</details>

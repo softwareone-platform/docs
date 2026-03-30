@@ -2,7 +2,7 @@
 description: Adjust the data grid layout to suit your needs.
 ---
 
-# Customize the Data Grid
+# Customize the data grid
 
 The Marketplace Platform uses data grids to display data.&#x20;
 
@@ -34,26 +34,30 @@ If you want to apply multiple sorts, select<img src="data:image/png;base64,iVBOR
 
 ### Filtering data
 
-Filters help you narrow down data based on specific attributes. Depending on the type of data you are searching for, you can use a single filter or create multiple filters using different conditions and AND/OR operators.&#x20;
+Filters help you narrow down data based on specific attributes. Depending on the type of data you are searching for, you can use a single filter or create multiple filters using different conditions and **AND/OR** operators.
 
-For instance, when ordering new items, you could create a filter to show only the items with a specific name. Similarly, if you have multiple subscriptions, you could use the AND/OR operators to view subscriptions that are active AND have auto-renewal enabled.&#x20;
+For example, when ordering new items, you can create a filter to show only the items with a specific name. Similarly, if you have multiple subscriptions, you could use the **AND/OR** operators to view subscriptions that are active AND have auto-renewal enabled.&#x20;
 
-You can also use the Search Query filter in the grid to enter a search term to find matching records within other filter conditions, such as orders, agreements, and more.
+You can also use the **Search Query** filter to enter a search term to find matching records within other filter conditions, such as orders, agreements, and more. Additionally, you can use the second-level filter condition called **Add a conditional group** to build advanced filters by combining multiple rules and conditions.
 
-To create filters:
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/filter-options.png" alt=""><figcaption><p>Filter options in the table.</p></figcaption></figure></div>
 
-1. Select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M400-240v-80h160v80H400ZM240-440v-80h480v80H240ZM120-640v-80h720v80H120Z&#x22;/></svg>" data-size="line">**Filter** option in the grid.
-2. In the **Filters** box, select **Add another condition**, then define the conditions:
-   1. Choose the required property.
-   2. Select the condition, such as equal, contains, starts with, and so on.
-   3. Choose a value from the list of preconfigured values or type the keyword.
-3. If needed, select **Add another condition** to add another condition and combine those conditions using the AND or OR operators.&#x20;
-   * **AND** - If you select this operator, the results are displayed only if both conditions are met.&#x20;
-   * **OR** - If you select this operator, only one of the conditions needs to be met for the results to be displayed.&#x20;
+To start filtering data:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_filters.png" alt=""><figcaption><p>Filter options in the table.</p></figcaption></figure></div>
+1. Select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M400-240v-80h160v80H400ZM240-440v-80h480v80H240ZM120-640v-80h720v80H120Z&#x22;/></svg>" data-size="line">**Filter** option.
+2. In the **Filters** box, do the following as necessary:
+   * Enter the **search query** to find records matching a specific keyword or select a predefined property from the list (for example, Buyer name).
+   * To add another condition and combine those conditions using the **And** or **Or** operators, select **Add another condition**. Then, define conditions as follows:
+     1. Select the desired **And** or **OR** operator.
+        * **And** - If you select this operator, the results are displayed only if both conditions are met.
+        * **Or** - If you select this operator, only one of the conditions needs to be met for the results to be displayed.
+     2. Choose the required property.
+     3. Select the condition, such as equal, contains, starts with, and so on.
+     4. Choose a value from the list of preconfigured values or type the keyword.
+   * To add another condition, select **Add another condition** and define conditions as needed.
+   * To add a conditional action, select **Add a conditional group** and use the dropdowns to select the criteria. If you want to add another condition within the same group, select **Add another condition**.
 
-As you define filters, the data in the grid refreshes automatically. If the platform doesn't find any data matching the filters, it displays a message.&#x20;
+As you define filters, the data in the grid refreshes automatically. If the platform is unable to find any data matching the filters, it displays a message.&#x20;
 
 ### Managing columns
 

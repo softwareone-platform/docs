@@ -1,7 +1,7 @@
 ---
 description: >-
   This page outlines the latest updates, improvements, and fixes to the
-  integration between the SoftwareOne Marketplace and the Adobe VIP Marketplace.
+  integration between the SoftwareOne Marketplace and Adobe VIP Marketplace.
 ---
 
 # Release Notes
@@ -10,7 +10,9 @@ description: >-
 
 ### Adobe VIP Marketplace moves to weekly billing
 
-Starting in February 2026, Adobe VIP Marketplace billing will move from monthly to weekly invoicing. Billing will occur every Monday, starting on February 2nd. This change aligns with Adobe’s updated invoicing model. There are no changes to pricing; only the billing frequency will change.
+Starting February 2026, Adobe VIP Marketplace billing is moving from monthly to weekly invoicing.&#x20;
+
+As a result, billing will occur every Monday, starting February 2. This change aligns with Adobe’s updated invoicing model. There are no changes to pricing; only the billing frequency will change.
 
 If you have questions or need more information, contact your SoftwareOne account team.
 
@@ -24,29 +26,25 @@ Adobe requires all customers with VIP Marketplace accounts in the Education segm
 
 When setting up a new Education-segment account or when placing orders against an existing one, customers must choose their Education sub-segments in the Adobe Admin Console.
 
-This release provides clear instructions during order processing and pauses the order in the Querying status, allowing you to select your sub-segments. This results in a more reliable ordering process, especially when placing orders for new Education accounts with items that require the sub-segment(s) to be chosen before the final order is placed with Adobe.
-
-For more information, see [how-do-i-select-my-education-sub-segments.md](faqs/how-do-i-select-my-education-sub-segments.md "mention").
+This release provides clear instructions during order processing and pauses the order in the Querying status, allowing you to select your sub-segments. This results in a more reliable ordering process, especially when placing orders for new Education accounts with items that require the sub-segments to be chosen before the final order is placed with Adobe. For more information, see [How do I select my education sub-segments](faqs/how-do-i-select-my-education-sub-segments.md).
 
 ### Querying status for net new 3-year commitments
 
-When placing orders for net new Adobe VIP Marketplace accounts with a 3-year commitment, order processing will be paused in Querying status after the account is created, but before the final order is placed.
+When placing orders for net new Adobe VIP Marketplace accounts with a 3-year commitment, order processing is paused in **Querying** status after the account is created, but before the final order is placed.
 
 This allows you to accept the 3-year commitment invitation in your Adobe Admin Console before the order is placed with Adobe, ensuring that your first order is placed at the higher discount level.
 
-When the order is in Querying status, clear instructions on how to accept your 3-year commitment invitation will be displayed on the General tab of the order.
-
-For more information, see [how-do-i-accept-my-3-year-commitment-invitation.md](faqs/how-do-i-accept-my-3-year-commitment-invitation.md "mention").
+When the order is in Querying status, clear instructions on how to accept your 3-year commitment invitation will be displayed on the General tab of the order. For more information, see [How do I accept my 3-year commitment invitation](faqs/how-do-i-accept-my-3-year-commitment-invitation.md).
 
 ### Improved order notifications
 
-With this improvement, notifications sent during order processing will include not just the final quantity of each subscription in the order, but also the individual increase or decrease amounts for each line.
+With this improvement, notifications sent during order processing include not just the final quantity of each subscription in the order, but also the individual increase or decrease amounts for each line.
 
 ***
 
 ## Release Date: 11 December 2025
 
-### Large Government Agencies
+### Large government agencies
 
 Today, we release an entirely new Adobe VIP Marketplace product specifically for large government agencies in the United States and Canada.
 
@@ -102,7 +100,7 @@ By adopting subscription templates, Adobe VIP Marketplace delivers a more transp
 
 With this release, reseller transfers can now be completed directly in the Purchase Wizard, eliminating the need for a support ticket.&#x20;
 
-You can change your reseller through the Marketplace Platform by providing your administrator's email address and the reseller code from the Adobe Admin Console. For detailed instructions, see [Transfer Your Adobe Reseller](reseller-transfer.md).
+You can change your reseller through the Marketplace Platform by providing your administrator's email address and the reseller code from the Adobe Admin Console. For detailed instructions, see [Transfer Your Adobe Reseller](tutorials-and-videos/reseller-transfer.md).
 
 ### Agreement Sync Improvements
 

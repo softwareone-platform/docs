@@ -41,10 +41,17 @@ To view the enrollment details:
    * **Attachments** - Displays files attached to the enrollment.
    * **Audit trail** - Displays a record of events related to the enrollment. For more information, see [Audit Trail](../../settings/audit-trail.md).
 
-### Additional actions
+### Related topics
 
-On the details page, you can perform various actions depending on the status of your enrollment. The available actions include:
+{% content-ref url="enrollment-states.md" %}
+[enrollment-states.md](enrollment-states.md)
+{% endcontent-ref %}
 
-* Delete enrollment (for draft enrollments only)
-* Edit enrollment (for draft enrollments only)
-* [Manage querying enrollments](manage-querying-enrollments.md)
+{% content-ref url="manage-querying-enrollments.md" %}
+[manage-querying-enrollments.md](manage-querying-enrollments.md)
+{% endcontent-ref %}
+
+{% content-ref url="renew-your-enrollment.md" %}
+[renew-your-enrollment.md](renew-your-enrollment.md)
+{% endcontent-ref %}
+

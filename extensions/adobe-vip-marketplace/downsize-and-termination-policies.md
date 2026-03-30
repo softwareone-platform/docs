@@ -2,7 +2,7 @@
 description: Learn about our downsizing and termination policies.
 ---
 
-# Downsize and Termination Policies
+# Downsize and termination policies
 
 The Marketplace Platform allows you to manage your Adobe VIP Marketplace software subscriptions. This includes the ability to reduce or downsize the number of licenses or completely cancel/terminate a subscription.&#x20;
 
@@ -23,7 +23,7 @@ To perform a downsize, use the purchase wizard in the SoftwareOne Marketplace to
 
 Performing a downsize may affect your current quantity of licenses (if a return is processed) and will also affect the renewal quantity for the next renewal. Information about the current quantity and renewal quantity is available on the General tab of the subscription in the SoftwareOne Marketplace.
 
-For more information on placing a change order, see [Downsize Adobe Subscription](tutorials-and-videos/downsize-adobe-subscription.md).
+For more information on placing a change order, see [Downsize Adobe subscription](tutorials-and-videos/downsize-adobe-subscription.md).
 
 ### Downsizing a subscription with returnable orders
 
@@ -59,7 +59,7 @@ To disable or enable autorenewal for a subscription, use the configuration wizar
 
 When autorenewal is disabled for a subscription, the subscription remains active until the next anniversary date, upon which it expires.
 
-For more information on placing a configuration order, see [Manage Automatic Renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+For more information on placing a configuration order, see [Manage automatic renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
 
 ## How termination works
 
@@ -67,4 +67,4 @@ You can terminate a subscription if the entire quantity of its licenses is still
 
 In this case, all licenses under the given subscription immediately become unavailable to your users.
 
-For more information on placing a termination order, see [Terminate Adobe Subscriptions](tutorials-and-videos/terminate-adobe-subscription.md).
+For more information on placing a termination order, see [Terminate Adobe subscriptions](tutorials-and-videos/terminate-adobe-subscription.md).

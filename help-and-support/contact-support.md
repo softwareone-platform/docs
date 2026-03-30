@@ -4,17 +4,16 @@ description: Learn how to reach Marketplace Platform Support quickly and effecti
 
 # Contact Support
 
-If you experience an issue with the Marketplace Platform or [SoftwareOne FinOps for Cloud](https://docs.finops.softwareone.com/), you can contact Marketplace Platform Support.&#x20;
+If you experience an issue with the Marketplace Platform or [SoftwareOne FinOps for Cloud](https://docs.finops.softwareone.com/), you can contact **Marketplace Platform Support**.&#x20;
 
-Our support team can help you with technical problems and answer any questions you might have. This includes, but is not limited to:
+Our team can help with technical issues and questions, including:
 
 * Assistance with account access and configuration issues.
 * Help with managing your agreements, subscriptions, renewals, and terminations.
 * Questions about your orders, including orders that might not have completed as expected.
 * Help with ordering products if you experience issues or can’t find what you need.
-* Support for issues with [FinOps for Cloud](https://docs.finops.softwareone.com/).
 
-SoftwareOne partners can also contact Marketplace Platform Support for help with managing their account, ordering and provisioning subscriptions, enrollment, certificates, and more.
+SoftwareOne partners can also contact Marketplace Platform Support for help with account management, subscription ordering and provisioning, enrollment, certificates, and more.
 
 {% hint style="info" %}
 For assistance with SoftwareOne services like Cloud Managed Services (Simple and Essentials) or technical issues with cloud subscriptions, including AWS, Microsoft 365, Teams, Azure, and Dynamics, contact [SoftwareOne Services Support](https://docs.softwareone.cloud/microsoft-csp-services/technical-support-explained).
@@ -22,9 +21,7 @@ For assistance with SoftwareOne services like Cloud Managed Services (Simple and
 
 ### Describing your issue
 
-When contacting Marketplace Platform Support, provide as much detail as possible to help us understand and diagnose the problem.
-
-Here are some important points to include in your support request:
+When contacting us, provide as much detail as possible, including the following:
 
 * The date and time when the issue started.
 * The number of people affected by the issue.
@@ -40,12 +37,13 @@ To send us an email, use this email address: [marketplace-support@softwareone.co
 To create a support case:
 
 1. [Sign in to your account](https://portal.platform.softwareone.com).&#x20;
-2. Select the **Help** icon <img src="../.gitbook/assets/icon_support.png" alt="" data-size="line"> in the header and choose **Support**.&#x20;
-
-<div data-with-frame="true"><figure><img src="../.gitbook/assets/contact_support.png" alt=""><figcaption><p>The Support option in the Help menu.</p></figcaption></figure></div>
-
+2. From the main navigation menu, go to **Other tools** > **Helpdesk (classic)**.
 3. On the **Help and Support** page, select **Submit a Ticket**.
 4. Fill out the form according to your issue. Optionally, choose **Select files** to attach a file to your request. The maximum size is 5 MB.
 5. Select **Send**. If the **Send** button is unavailable, make sure you have entered all the required information.
+
+### Next steps
+
+After submitting, you'll receive an email confirming that your case has been created. The email includes the case number for your reference and a link to view the case within the platform. The [Cases page](../modules-and-features/helpdesk/cases/) within the platform also shows your submitted case.
 
 We aim to acknowledge all support cases on the same day as they are submitted, within our core business hours. However, the response time may vary during busy periods.

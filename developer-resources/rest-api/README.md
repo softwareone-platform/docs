@@ -2,7 +2,7 @@
 
 The Marketplace Platform REST API lets you interact with the platform programmatically.&#x20;
 
-Our API is organized around [REST](http://en.wikipedia.org/wiki/Representational_State_Transfer), has predictable resource-oriented URLs, uses [JSON-encoded](http://www.json.org/) representations, and uses standard [HTTP response codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), authentication, and verbs. Use our API to create apps, automate tasks, or build integrations with the platform.&#x20;
+Our API is organized around [REST](http://en.wikipedia.org/wiki/Representational_State_Transfer), has predictable resource-oriented URLs, uses [JSON-encoded](http://www.json.org/) representations, and standard [HTTP response codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes), authentication, and verbs. Use our API to create apps, automate tasks, or build integrations with the platform.&#x20;
 
 ## Beginners guide
 
@@ -112,8 +112,24 @@ The Marketplace Platform reports errors using HTTP status codes in a standard fo
 [commerce-api](commerce-api/)
 {% endcontent-ref %}
 
+{% content-ref url="currency-api/" %}
+[currency-api](currency-api/)
+{% endcontent-ref %}
+
+{% content-ref url="extensions-api/" %}
+[extensions-api](extensions-api/)
+{% endcontent-ref %}
+
+{% content-ref url="helpdesk-api/" %}
+[helpdesk-api](helpdesk-api/)
+{% endcontent-ref %}
+
 {% content-ref url="notifications-api/" %}
 [notifications-api](notifications-api/)
+{% endcontent-ref %}
+
+{% content-ref url="product-and-vendor-profiles-api/" %}
+[product-and-vendor-profiles-api](product-and-vendor-profiles-api/)
 {% endcontent-ref %}
 
 {% content-ref url="program-api/" %}
@@ -122,4 +138,8 @@ The Marketplace Platform reports errors using HTTP status codes in a standard fo
 
 {% content-ref url="spotlight-objects-api/" %}
 [spotlight-objects-api](spotlight-objects-api/)
+{% endcontent-ref %}
+
+{% content-ref url="task-api/" %}
+[task-api](task-api/)
 {% endcontent-ref %}

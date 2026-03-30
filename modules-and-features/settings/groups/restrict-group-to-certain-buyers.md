@@ -2,7 +2,7 @@
 description: Restrict a user group to certain buyers.
 ---
 
-# Restrict Groups to Certain Buyers
+# Restrict groups to certain buyers
 
 Account administrators can define whether users in a group can view all buyers in the account or only certain buyers. You can customize buyer access when creating or updating a group.
 
@@ -18,7 +18,7 @@ Visibility restrictions apply to the **Marketplace** module only.&#x20;
 
 Keep the following rules in mind:
 
-* Only account administrators can set visibility restrictions when creating a new group (see [Create New Group](create-new-group.md)) or managing an existing group (see [Edit Group](edit-group.md)).
+* Only account administrators can set visibility restrictions when creating a new group (see [Create new group](create-new-group.md)) or managing an existing group (see [Edit group](edit-group.md)).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/BuyersGroups.png" alt=""><figcaption><p>The Buyers step within the Add group wizard.</p></figcaption></figure></div>
 
@@ -33,4 +33,4 @@ Keep the following rules in mind:
 
 ### Restricting a group to a certain buyer
 
-You can apply buyer-level restrictions when creating new groups or editing existing ones. For instructions, see [Create New Group](create-new-group.md) and [Edit Group](edit-group.md).&#x20;
+You can apply buyer-level restrictions when creating new groups or editing existing ones. For instructions, see [Create new group](create-new-group.md) and [Edit group](edit-group.md).&#x20;

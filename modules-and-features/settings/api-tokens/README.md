@@ -1,5 +1,5 @@
 ---
-description: Learn about API tokens in the Marketplace Platform.
+description: Learn about creating and managing API tokens in the SoftwareOne Marketplace.
 ---
 
 # API Tokens
@@ -15,40 +15,45 @@ Authorization: Bearer {TOKEN_VALUE}
 
 Your API keys have permissions assigned to them, so keep them secure. Do not share your secret API keys in public areas, like GitHub or client-side code.&#x20;
 
-All API requests must be made over **HTTPS**. Calls made over plain HTTP will fail. API requests without authentication will also fail.
+{% hint style="info" %}
+All API requests must be made over **HTTPS**. Calls made over plain **HTTP** will fail. API requests without authentication will also fail.
+{% endhint %}
 
-### Viewing and managing API tokens
+### Accessing API tokens
 
-To view and manage your API tokens, navigate to the **API tokens** page.
+The **API tokens** page allows account administrators to create and view API tokens. Administrators can also edit, delete, enable, or disable a token.
 
-The page shows all tokens associated with your account. For each token, you can view details such as the token's name, the name of the person who created the token, the date of creation, and the token's [status](token-states.md).&#x20;
+To navigate to the **API tokens** page, select the main menu, then choose **Settings** > **API tokens**. The list of tokens is displayed as shown in the following image:
 
-From this page, you can [disable or enable](enable-or-disable-api-token.md), [edit](edit-api-token.md), or [delete a token](delete-api-token.md).
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>The API tokens in the platform.</p></figcaption></figure></div>
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>The API tokens page in the platform.</p></figcaption></figure></div>
+### Related topics
 
-### Viewing token details
+{% content-ref url="token-states.md" %}
+[token-states.md](token-states.md)
+{% endcontent-ref %}
 
-To view the details page of a token:
+{% content-ref url="create-api-token.md" %}
+[create-api-token.md](create-api-token.md)
+{% endcontent-ref %}
 
-1. Navigate to the **API tokens** page.
-2. (Optional) Use filters to find the desired token.
-3. Select the token to view general information, such as the token's name, marketplace ID, and status.&#x20;
+{% content-ref url="view-api-tokens.md" %}
+[view-api-tokens.md](view-api-tokens.md)
+{% endcontent-ref %}
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/TokenDetails.png" alt=""><figcaption><p>The details page of an API token.</p></figcaption></figure></div>
+{% content-ref url="edit-api-token.md" %}
+[edit-api-token.md](edit-api-token.md)
+{% endcontent-ref %}
 
-4. Use the following tabs to access additional related information:
-   * **General** - Displays the token's description and allows you to show, hide, and copy the values.
-   * **Modules** - Displays the modules that the API token has been granted access to within the scope of an account.
-   * **Details** - Displays the date and time information for your selected token, for example, the date and time when the token was created.
-   * **Audit trail** - Displays a record of events related to the token. For more information, see [Audit Trail](https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail).
+{% content-ref url="copy-api-token.md" %}
+[copy-api-token.md](copy-api-token.md)
+{% endcontent-ref %}
 
-### Additional actions
+{% content-ref url="delete-api-token.md" %}
+[delete-api-token.md](delete-api-token.md)
+{% endcontent-ref %}
 
-You can perform various actions on the **API tokens** and **API tokens details** pages. The actions available depend on the token's  current status:
+{% content-ref url="enable-or-disable-api-token.md" %}
+[enable-or-disable-api-token.md](enable-or-disable-api-token.md)
+{% endcontent-ref %}
 
-* [Create a new token](create-api-token.md)
-* [Edit an existing token ](edit-api-token.md)
-* [Copy your API token](copy-api-token.md)
-* [Delete a token permanently](delete-api-token.md)
-* [Enable or disable a token](enable-or-disable-api-token.md)

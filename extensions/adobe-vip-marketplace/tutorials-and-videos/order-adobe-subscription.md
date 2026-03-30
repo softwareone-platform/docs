@@ -2,7 +2,7 @@
 description: Buy an Adobe subscription by creating a new agreement.
 ---
 
-# Order Adobe Subscription
+# Order Adobe subscription
 
 Buying from the Adobe VIP Marketplace buying program means purchasing subscription-based products. You subscribe to these products and pay periodically for their usage.&#x20;
 
@@ -32,9 +32,10 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Navigate to the **Products** page.
-2. From the list of products, select the required Adobe product, for example, **Adobe VIP Marketplace for Commercial**.
-3. On the details page, select **Buy now** to start the ordering process.&#x20;
+1. Go to **Catalog** > **Product profile**.
+2. From the list of profiles, select **Adobe VIP Marketplace**.
+3. On the profile details page, review the information, then select **Buy now**.
+4. Under **Select product**, choose the required product, then select **Select**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}

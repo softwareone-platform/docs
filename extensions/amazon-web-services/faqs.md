@@ -1,3 +1,7 @@
+---
+description: Find answers to frequently asked questions about AWS in the Marketplace.
+---
+
 # FAQs
 
 ### Product Overview & Availability

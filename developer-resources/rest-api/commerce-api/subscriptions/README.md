@@ -1,25 +1,25 @@
-# Subscriptions
+# Subscription
 
-The Subscriptions object represents a collection of product items within the agreement.
+The `subscription` object represents a collection of product items within the agreement.
 
 All items are connected to one product, one vendor, and one client (same as the agreement) and have a common billing frequency and commitment terms.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="202">Field</th><th width="126">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The identifier for the subscription object.</p><p>Example: SUB-2119-4550-8674-5962</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>Relative reference to the object in the API.</p><p>Example: /v1/commerce/subscriptions/SUB-2119-4550-8674-5962)</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The key status of the object. Possible values are a by-product of the latest completed order that included this subscription. Possible statuses are a subset of all subscription statuses.</p><p>Example: Active</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the subscription.</p><p>Example: Subscription for Microsoft Office 365 NCE E1</p></td></tr><tr><td>agreement</td><td><a href="../agreements/"><code>agreement</code></a></td><td><p>The agreement that contains this particular subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{   
+<table><thead><tr><th width="202">Field Name</th><th width="126">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The identifier for the <code>subscription</code> .</p><p>Example: SUB-2119-4550-8674-5962</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>Relative reference to the object in the API.</p><p>Example: /v1/commerce/subscriptions/SUB-2119-4550-8674-5962)</p></td></tr><tr><td><code>status</code></td><td>string</td><td><p>The key status of the object. Possible values are a by-product of the latest completed order that included this subscription. Possible statuses are a subset of all subscription statuses.</p><p>Example: Active</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the subscription.</p><p>Example: Subscription for Microsoft Office 365 NCE E1</p></td></tr><tr><td><code>agreement</code></td><td>object</td><td><p>The <a href="../agreements/"><code>agreement</code></a> that contains this particular subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{   
     "id": "AGR-2119-4550-8674-5962",
     "name": "Microsoft Office 365 for My Company"
 }
-</code></pre></td></tr><tr><td>product</td><td><a href="../../catalog-api/product/"><code>product</code></a></td><td><p>Reference to the Product object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>product</code></td><td>object</td><td><p>Reference to the <a href="../../catalog-api/product/"><code>product</code></a> object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "PRD-1111-1111-1111",
     "name": "Microsoft Office 365 NCE",
     "icon": "/static/PRD-1111-1111-1111/logo.png"
 }
-</code></pre></td></tr><tr><td>startDate</td><td><code>string</code></td><td><p>The start date of the subscription.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td>commitmentDate</td><td><code>string</code></td><td><p>The date when the subscription commitment ends and the subscription needs to be renewed.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td>terminationDate</td><td><code>string</code></td><td><p>The date when the subscription is to be terminated.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td>terms</td><td><a href="../../catalog-api/terms-and-conditions/"><code>terms</code></a></td><td><p>The subscription's billing terms.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>startDate</code></td><td>string</td><td><p>The start date of the subscription.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td><code>commitmentDate</code></td><td>string</td><td><p>The date when the subscription commitment ends and the subscription needs to be renewed.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td><code>terminationDate</code></td><td>string</td><td><p>The date when the subscription is to be terminated.</p><p>Example: 2023-12-14T17:28:57Z</p></td></tr><tr><td><code>terms</code></td><td>object</td><td><p>The subscription's billing <a href="../../catalog-api/terms-and-conditions/"><code>terms</code></a>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "period": "1m",
   "commitment": "1y"
 }
-</code></pre></td></tr><tr><td>price</td><td><code>price</code></td><td><p>The price of the subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>price</code></td><td>object</td><td><p>The price of the subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "PPxY": 150,
   "PPxM": 12.50,
   "SPxY": 165,
@@ -29,7 +29,7 @@ All items are connected to one product, one vendor, and one client (same as the 
   "defaultMarkup": 0.15,
   "currency": "USD"
 }
-</code></pre></td></tr><tr><td>lines</td><td><code>lines</code></td><td><p>A list of all product items (lines) purchased in the scope of this subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
+</code></pre></td></tr><tr><td><code>lines</code></td><td>object</td><td><p>A list of all product items (lines) purchased in the scope of this subscription.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
   { 
     "id": "ALI-1234-1234-1234-0001",
     "item": {
@@ -49,10 +49,10 @@ All items are connected to one product, one vendor, and one client (same as the 
     "price": { ... }
   }
 ]
-</code></pre></td></tr><tr><td>parameters</td><td><code>object</code></td><td><p>An object that groups separate lists of parameters. Only fulfillment parameters are available in this object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>parameters</code></td><td>object</td><td><p>An object that groups separate lists of parameters. Only fulfillment parameters are available in this object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "fulfillment": [...]
 }
-</code></pre></td></tr><tr><td>parameters.fulfillment</td><td><code>object</code></td><td><p>An object that holds a concise definition of a parameter, its value, and any associated errors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>parameters.fulfillment</code></td><td>object</td><td><p>An object that holds a concise definition of a parameter, its value, and any associated errors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "name": "New Subscription",
     "value": "Super_value_UPDATED",
     "constraints": {
@@ -62,16 +62,14 @@ All items are connected to one product, one vendor, and one client (same as the 
         "unique": false
     }
 }
-</code></pre></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>Audit object with possible entries: created, updated, activated, terminated, according to the object's lifecycle.</td></tr><tr><td>externalIDs</td><td><a href="../../common-api-objects/externalids.md"><code>externalIDs</code></a></td><td><p>Set of external IDs.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values: <code>created</code>, <code>updated</code>, <code>activated</code>, or <code>terminated</code>.</td></tr><tr><td><code>externalIDs</code></td><td>externalIDs</td><td><p>A set of <a href="../../common-api-objects/externalids.md"><code>externalIDs</code></a>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "client": "12345678",
   "vendor": "ABC-2023-C07-dbeee0b302c0"
 }
 </code></pre></td></tr></tbody></table>
 
-## Example
+## Example response
 
-{% tabs %}
-{% tab title="SUBSCRIPTION OBJECT" %}
 {% code lineNumbers="true" %}
 ```json
 {
@@ -150,5 +148,3 @@ All items are connected to one product, one vendor, and one client (same as the 
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}

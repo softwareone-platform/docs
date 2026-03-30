@@ -1,6 +1,6 @@
 ---
 description: >-
-  Watch a quick video guide showing how to get started with the SoftwareOne
+  Watch a quick video guide showing how to get started in the SoftwareOne
   Marketplace.
 ---
 

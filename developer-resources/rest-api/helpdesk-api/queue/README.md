@@ -1,0 +1,13 @@
+# Queue
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
+<table><thead><tr><th width="160">Field Name</th><th width="198">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>A unique identifier for the queue. </p><p>Example: HQU-1234-5678-9012</p></td></tr><tr><td><code>revision</code></td><td>unit</td><td>The revision number used for platform-level versioning.</td></tr><tr><td><code>name</code></td><td>string</td><td><p>A descriptive name for the queue. </p><p>Example: Billing issues</p></td></tr><tr><td><code>description</code></td><td>string</td><td><p>A description of the queue. </p><p>Example: Queue to support billing issues</p></td></tr><tr><td><code>icon</code></td><td>string</td><td>An image representing the queue.</td></tr><tr><td><code>externalId</code></td><td>string</td><td><p>Optional external id. </p><p>Example: ext-queue-123456</p></td></tr><tr><td><code>status</code></td><td>string</td><td><p>The current state of the queue. </p><p>Allowed values: <code>disabled</code> or <code>active</code>.</p></td></tr><tr><td><code>default</code></td><td>boolean</td><td>Default queue per account. There can only be one default queue per account.</td></tr><tr><td><code>internal</code></td><td>boolean</td><td><p>Indicates whether the queue is visible only to internal teams of the owner account. </p><p>Example: true</p></td></tr><tr><td><code>account</code></td><td>object</td><td>The <a href="../../accounts-api/account/"><code>account</code></a> that the queue belongs to.</td></tr><tr><td><code>statistics</code></td><td>object (<a href="./#queue-statistics-object"><code>queueStatistics</code></a>)</td><td><p>Relevant data for this queue. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+  "totalCasesCount": 50,
+  "openCasesCount": 21
+}
+</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td>The <a href="../../common-api-objects/audit.md"><code>audit</code></a> trail of the queue.</td></tr></tbody></table>
+
+### Queue Statistics object <a href="#queue-statistics-object" id="queue-statistics-object"></a>
+
+<table><thead><tr><th width="180">Field Name</th><th width="173">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>totalCasesCount</code></td><td>integer</td><td><p>(readonly) The total count of cases under the queue. </p><p>Example: 77</p></td></tr><tr><td><code>openCasesCount</code></td><td>integer</td><td><p>(readonly) The total count of open cases (processing/querying) under the queue. </p><p>Example: 29</p></td></tr></tbody></table>

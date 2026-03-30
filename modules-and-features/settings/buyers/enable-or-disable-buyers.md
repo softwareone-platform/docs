@@ -2,7 +2,7 @@
 description: Manage your existing buyers.
 ---
 
-# Enable or Disable Buyers
+# Enable or disable buyers
 
 If you no longer wish to use a buyer, you can disable them temporarily through the platform and re-enable them when required.&#x20;
 
@@ -12,7 +12,7 @@ When you disable a buyer, the licensees associated with that buyer also become u
 
 To enable or disable a buyer:
 
-1. Navigate to the **Buyers** page.&#x20;
+1. Go to **Settings** > **Buyers**.&#x20;
 2. Find the buyer you want to manage.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/BuyersPage.png" alt=""><figcaption><p>The Buyers page in the platform.</p></figcaption></figure></div>

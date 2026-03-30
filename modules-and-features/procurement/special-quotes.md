@@ -22,7 +22,7 @@ You can access the Special Quotes module by navigating to **Procurement** > **Sp
 
 </details>
 
-## Creating special quotes <a href="#createquote" id="createquote"></a>
+### Creating a special quote  <a href="#createquote" id="createquote"></a>
 
 {% embed url="https://vimeo.com/889165949" %}
 Watch a quick video guide showing how to create a special quote.
@@ -30,7 +30,7 @@ Watch a quick video guide showing how to create a special quote.
 
 To create a special quote:
 
-1. Navigate to the **Special Quote** page.
+1. Go **Procurement** > **Special Quote**.
 2. Under **Location**, choose the SoftwareOne entity that you are ordering from, the country where the product will be used, and your company's address.
 3. Under **Products**, do the following:
    1. Choose the publisher from the list and provide the publisher's website. If the publisher is unavailable, enter the publisher's name manually.
@@ -49,7 +49,7 @@ To create a special quote:
 6. Select **Submit**. Your special quote is created, and a confirmation message is displayed.
 7. Select **Yes** to receive a quote confirmation via email, or select **No** to return to the Special Quotes page.
 
-## Viewing special quotes
+### Viewing special quotes
 
 On the Special Quotes page, you can search for a quote and view high-level information, such as your quote history, request status, type, and more.&#x20;
 
@@ -65,7 +65,7 @@ When looking at the details of a special quote, products that are part of the sa
 
 <figure><img src="../../.gitbook/assets/Other_Products.png" alt=""><figcaption></figcaption></figure>
 
-## Deleting special quotes
+### Deleting special quotes
 
 If you want to delete a special quote containing multiple products, you can delete it from any of the products.
 

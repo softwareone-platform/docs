@@ -2,9 +2,7 @@
 
 The `Error` object represents an error response returned by the Marketplace API when it encounters a non-2xx HTTP response code. This object includes the following fields:
 
-### Fields
-
-<table><thead><tr><th width="140">Field</th><th width="130">Type</th><th>Description</th></tr></thead><tbody><tr><td>title</td><td><code>string</code></td><td>A short description of the problem.</td></tr><tr><td>type</td><td><code>string</code></td><td>A URI reference that identifies the error type (Problem Details / RFC 7807).</td></tr><tr><td>status</td><td><code>number</code></td><td>The HTTP status code returned by the server.</td></tr><tr><td>details</td><td><code>string</code></td><td>A detailed description of the error message.</td></tr><tr><td>traceId</td><td><code>string</code></td><td>Represents an identifier used to trace a request.</td></tr><tr><td>errors</td><td><code>object</code> </td><td>A detailed list of errors that can be connected to the request data.</td></tr></tbody></table>
+<table><thead><tr><th width="140">Field Name</th><th width="130">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>title</td><td><code>string</code></td><td>A short description of the problem.</td></tr><tr><td>type</td><td><code>string</code></td><td>A URI reference that identifies the error type (Problem Details / RFC 7807).</td></tr><tr><td>status</td><td><code>number</code></td><td>The HTTP status code returned by the server.</td></tr><tr><td>details</td><td><code>string</code></td><td>A detailed description of the error message.</td></tr><tr><td>traceId</td><td><code>string</code></td><td>Represents an identifier used to trace a request.</td></tr><tr><td>errors</td><td><code>object</code> </td><td>A detailed list of errors that can be connected to the request data.</td></tr></tbody></table>
 
 ### Examples
 

@@ -4,7 +4,7 @@ description: >-
   Microsoft tenant.
 ---
 
-# Buy Perpetual Software Licenses
+# Buy perpetual software licenses
 
 This tutorial shows how you can order a Microsoft [Perpetual Software](../../../products-and-programs/perpetual-software/) license by setting up a new tenant.&#x20;
 
@@ -26,9 +26,10 @@ Before starting this tutorial, make sure you are familiar with [key concepts](..
 
 To start the process:
 
-1. Navigate to the **Products** page.&#x20;
-2. From the list of products, select the required Perpetual Software product, for example, **Microsoft Perpetual Software - Commercial**.
-3. On the details page, select **Buy now** to start the ordering process.
+1. Go to **Catalog** > **Product profile**.
+2. From the list of profiles, select the **Microsoft Perpetual Software** profile.
+3. On the profile details page, review the product information, then select **Buy now**.
+4. Under **Select product**, choose the product, then select **Select**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}
@@ -37,7 +38,7 @@ To start the process:
 {% include "../../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
-2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. For more details, see [Create Licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md)
+2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. For more details, see [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md)
 3. **Create agreemen**t - Select **Create new cloud account** to create a new organization tenant with Microsoft, then select **Next**.
 4. **Microsoft details** - Provide the following information:
    1. Enter the tenant name you want to use on the onmicrosoft.com domain, then select **Next**. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).

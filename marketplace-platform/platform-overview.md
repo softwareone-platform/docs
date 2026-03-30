@@ -42,3 +42,14 @@ The Marketplace Platform offers several benefits to vendors looking to enhance t
 * **Catalog management** - Maintain product data in one place, and enhance your product listings and messaging templates to attract potential clients.
 * **Product and price management** - Update product pricing directly within the platform, ensuring that clients always have access to the most accurate and current pricing.
 * **Order fulfillment** - Efficiently manage and fulfill orders.
+
+### For systems integrators and developers
+
+The platform is designed to work the way you work. Use our modern Web Portal for self-service operations, or connect your existing systems through our comprehensive API.&#x20;
+
+* **Web Portal** - A modern self-service interface at [portal.platform.softwareone.com](https://portal.platform.softwareone.com/) for managing orders, subscriptions, billing, and more.
+* [**REST API**](../developer-resources/rest-api/) - A powerful API layer enabling seamless integration with your procurement systems, ERP platforms, and billing solutions.
+* **MCP Server** - An LLM-ready [Model Context Protocol](../developer-resources/mcp-server/) server that enables AI assistants and agents to interact with the platform using natural language.
+* **Extensions Framework** - A flexible framework for extending platform capabilities on both sides: vendors can integrate their fulfillment systems, while clients can connect their procurement, finance, and ERP platforms.
+
+Our [developer documentation](../developer-resources/rest-api/) is built to accelerate your integration journey. With comprehensive API references, query language guides, and URL structure mappings, your team can connect existing infrastructure to the Marketplace Platform quickly and confidently.

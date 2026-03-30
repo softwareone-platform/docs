@@ -1,21 +1,19 @@
-# ERP Links
+# ERP Link
 
 The ERP Link represents a connection between a [Buyer](../buyer/) and a [Seller ](../../../../modules-and-features/settings/sellers/)object in the Marketplace.&#x20;
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table data-full-width="false"><thead><tr><th width="144">Field</th><th width="113">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the ERP link.</p><p>Example: ERP-1234-1234.</p></td></tr><tr><td>status</td><td><code>enum</code></td><td>The status of the object. The possible values are <code>Active</code> or <code>Blocked</code>.</td></tr><tr><td>note</td><td><code>string</code></td><td></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The names of the buyer and seller.</p><p>Example: AGCO Corporation - SoftwareONE Argentina</p></td></tr><tr><td>externalIds</td><td><code>object</code></td><td><p>A reference to the BuyerExternalIdsObject.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="144">Field Name</th><th width="123">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The primary identifier for the ERP link.</p><p>Example: ERP-1234-1234.</p></td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the object. The allowed values are <code>active</code> or <code>blocked</code>.</td></tr><tr><td><code>note</code></td><td>string</td><td></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The names of the buyer and seller.</p><p>Example: AGCO Corporation - SoftwareOne Argentina</p></td></tr><tr><td><code>externalIds</code></td><td>object</td><td><p>A reference to the <code>buyerExternalIdsObject</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
 	"erpCompanyContact": "WW-CON-123456",
 	"erpCustomer": "WW-SCU-123456",
 	"erpCustomerDiscountGroup": "WW-12345"
 }
-</code></pre></td></tr><tr><td>address</td><td><a href="../../common-api-objects/address.md"><code>address</code></a></td><td>The address of the buyer in the given seller instance. </td></tr><tr><td>companyName</td><td><code>string</code></td><td><p>The name of the buyer in the given seller instance.</p><p>Example: AGCO Corporation</p></td></tr><tr><td>buyer</td><td><a href="../buyer/"><code>buyer</code></a></td><td>A reference to the Buyer object.</td></tr><tr><td>seller</td><td><a href="../seller/"><code>seller</code></a></td><td>A reference to the Seller object.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>A reference to the Audit object. </p><p>Possible values: <code>Created</code>, <code>Updated</code>, <code>Blocked</code>,  or <code>Unblocked</code>.</p></td></tr></tbody></table>
+</code></pre></td></tr><tr><td><code>address</code></td><td>object</td><td>The <a href="../../common-api-objects/address.md"><code>address</code></a> of the buyer in the given seller instance. </td></tr><tr><td><code>companyName</code></td><td>string</td><td><p>The name of the buyer in the given seller instance.</p><p>Example: AGCO Corporation</p></td></tr><tr><td><code>buyer</code></td><td>object</td><td>A reference to the <a href="../buyer/"><code>buyer</code></a> object.</td></tr><tr><td><code>seller</code></td><td>object</td><td>A reference to the <a href="../seller/"><code>seller</code></a> object.</td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values: <code>created</code>, <code>updated</code>, <code>blocked</code>, or <code>unblocked</code>.</td></tr></tbody></table>
 
-## Example
+## Example response
 
-{% tabs %}
-{% tab title="ERP LINK OBJECT" %}
-{% code overflow="wrap" lineNumbers="true" %}
+{% code lineNumbers="true" %}
 ```json
 {
 	"id": "ERP-0808-7934-2576",
@@ -63,5 +61,3 @@ The ERP Link represents a connection between a [Buyer](../buyer/) and a [Seller 
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}

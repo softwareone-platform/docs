@@ -2,7 +2,7 @@
 description: Configure licensees for reselling software products to your end customers.
 ---
 
-# How to Configure Licensees for Resale
+# How to configure licensees for resale
 
 This tutorial describes how SoftwareOne partners can set up resale licensees within the platform.
 
@@ -22,8 +22,8 @@ Make sure you have permissions to create new licensees. Only account administrat
 
 To start the wizard:
 
-1. Navigate to the **Licensees** page.&#x20;
-2. On the **Licensees** page, select **Add** to start the **Add Licensee** wizard.
+1. Go to the **Licensees** page.&#x20;
+2. Select **Add** to start the **Add Licensee** wizard.
 {% endstep %}
 
 {% step %}

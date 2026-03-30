@@ -1,30 +1,31 @@
 ---
-description: Learn about items in the Marketplace catalog and how to view them.
+description: Learn about items in the Marketplace and how to view them.
 ---
 
 # Items
 
 In the Marketplace Platform, an item refers to an individual stock-keeping unit (SKU) within a product. Items are part of a product, and they have their own specific name, billing model, commitment term, and billing period.&#x20;
 
-Additionally, a product can contain one or more items. For example, the _Microsoft 365 Business, Enterprise & Apps - Commercial_ product can include different items, such as Microsoft 365 Business Premium (1-year commitment, annual billing), Microsoft 365 Business Basic (no Teams, 3-year commitment, yearly billing), Microsoft Teams Enterprise (1-month commitment, monthly billing), and more.&#x20;
+A product can contain one or more items. For example, the _Microsoft 365 Business, Enterprise & Apps - Commercial_ product can include different items, such as _Microsoft 365 Business Premium (1-year commitment, annual billing)_, _Microsoft 365 Business Basic (no Teams, 3-year commitment, yearly billing)_, _Microsoft Teams Enterprise (1-month commitment, monthly billing)_, and more.&#x20;
 
-You can view the available items on the **Items** page. Items cannot be ordered on their own; they must be added to an order during a purchase order or a change order workflow. During the ordering process, all available items are displayed so you can choose which ones to add to your order.
+### Accessing items
 
-### Viewing items
+The **Items** page allows you to view all items that are available for ordering through the SoftwareOne Marketplace.&#x20;
 
-To view a list of items:
+To navigate to the **Items** page, select the main menu, then choose **Catalog** > **Items**. The list of items is displayed. You can find specific items by [applying filters](../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filtering-data) and [customizing columns](../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns).&#x20;
 
-1. Navigate to the **Items** page.
-2. On the **Items** page, browse the available items. You can [customize columns](../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) and [apply filters](../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#filtering-data) according to the item name, product name, vendor, billing model, billing period, and commitment term.
+{% hint style="info" %}
+The **Items** page is view-only. You cannot order items from this page. Items can only be ordered when creating a purchase or change order.
+{% endhint %}
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/items_page.png" alt=""><figcaption><p>The Items page in the Marketplace Platform.</p></figcaption></figure></div>
 
-3. To view detailed item information, select the item name. You can then view the full item description and associated price lists.
+### Viewing item details
 
-### Ordering items
+On the **item details** page, you can view detailed information for a specific item in the catalog.&#x20;
 
-Items can only be ordered while creating a purchase order or submitting a change order for an existing agreement.&#x20;
+To view item details:
 
-During the item selection step, all available items are displayed, so you can choose and add them to your order as needed.
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/adobe_select_items.png" alt=""><figcaption><p>Item selection during the ordering process.</p></figcaption></figure></div>
+1. Go to **Catalog** > **Items**.
+2. Select the item you want to view. The item details page opens.
+3. Use the tabs on the item details page to view details, such as a description of the item, price lists, and other details.

@@ -2,7 +2,7 @@
 description: Divide subscription costs across buyers in your account.
 ---
 
-# How to Split Billing Across Buyers
+# How to split billing across buyers
 
 Split billing is a feature that allows you to divide the cost of a subscription across different buyers in your account. If your organization has multiple legal entities, split billing can be used to distribute costs effectively. To learn more, see [Split Billing](../../../modules-and-features/marketplace/billing/#split-billing).
 
@@ -22,8 +22,8 @@ Before getting started with the tutorial, it's essential to have an understandin
 
 Split billing can only be activated at the agreement level. To activate split billing:
 
-1. Navigate to the **Agreements** page. Then, select the required agreement.&#x20;
-2. On the agreement details page, select the arrow<img src="../../../.gitbook/assets/icon_down_arrow.png" alt="" data-size="line">choose **Split billing**.
+1. On the **Agreements** page, select the required agreement. The agreement details page opens.
+2. Select the arrow <img src="../../../.gitbook/assets/icon_down_arrow.png" alt="" data-size="line">, then choose **Split billing**.
 3. In the **Split billing** dialog, select the checkbox to enable split billing, then select **Save**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EnableSP (1).png" alt=""><figcaption><p>The option to enable split billing.</p></figcaption></figure></div>

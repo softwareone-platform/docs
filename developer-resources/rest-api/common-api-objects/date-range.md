@@ -1,8 +1,8 @@
 # Date Range
 
-The `Date Range` is an object used in the Marketplace APIs to represent a range between two dates. The Date Range object has two fields.
+The `DateRange` is an object used in the Marketplace APIs to represent a range between two dates. The Date Range object has two fields.
 
-<table><thead><tr><th width="117">Field</th><th width="107">Type</th><th>Description</th></tr></thead><tbody><tr><td>start</td><td><code>string</code></td><td>The start date of the range.</td></tr><tr><td>end</td><td><code>string</code></td><td>The end date of the range.</td></tr></tbody></table>
+<table><thead><tr><th width="138">Field Name</th><th width="173">DataType</th><th>Description</th></tr></thead><tbody><tr><td>start</td><td><code>string</code></td><td>The start date of the range.</td></tr><tr><td>end</td><td><code>string</code></td><td>The end date of the range.</td></tr></tbody></table>
 
 ## Example
 

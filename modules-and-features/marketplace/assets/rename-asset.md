@@ -2,7 +2,7 @@
 description: Rename your one-time purchase item.
 ---
 
-# Rename Asset
+# Rename assets
 
 You can rename your one-time purchased item from the asset's details page. Only the assets in the **Active** state can be renamed.
 
@@ -14,7 +14,7 @@ Additionally, ensure that the new name is not blank; otherwise, the platform dis
 
 To update an asset's name:
 
-1. Navigate to the **Assets** page.
+1. Go to **Marketplace** > **Assets**.
 2. Find the asset you want to rename.
 3. On the asset's details page, select **Rename**.
 4. In the **Rename** dialog, enter the new name, then select **Save**.&#x20;

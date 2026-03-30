@@ -4,7 +4,7 @@ Renewal Manager lets you collect, track, and manage contractual and software mai
 
 When you log into Renewal Manager for the first time, the application will set up a session for you. It will retrieve all the information from your agreements purchased through SoftwareOne. This may take several seconds, depending on the data volume.
 
-## Summary Page <a href="#summary-page" id="summary-page"></a>
+### Summary Page <a href="#summary-page" id="summary-page"></a>
 
 The Renewal Manager Summary Page shows:
 

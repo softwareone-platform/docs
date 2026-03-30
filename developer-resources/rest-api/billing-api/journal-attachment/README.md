@@ -1,15 +1,13 @@
-# Journal Attachments
+# Journal Attachment
 
 The Journal Attachment object allows users to upload attachments to billing objects through an online link or file upload. It inherits from the abstract File base object.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="134">Field</th><th width="144">Type</th><th>Description</th></tr></thead><tbody><tr><td>URL</td><td><code>string</code></td><td><p>The external link to the attachment.</p><p>Example: https://address.to.journal.file.com/file.xlsx</p></td></tr><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the billing attachment.</p><p>Example: BIA-1234-1234</p></td></tr><tr><td>type</td><td><code>string</code></td><td><p>The type of billing attachment.</p><p>Example: File</p></td></tr></tbody></table>
+<table><thead><tr><th width="134">Field Name</th><th width="144">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>URL</code></td><td>string</td><td><p>The external link to the attachment.</p><p>Example: https://address.to.journal.file.com/file.xlsx</p></td></tr><tr><td><code>id</code></td><td>string</td><td><p>The primary identifier for the billing attachment.</p><p>Example: BIA-1234-1234</p></td></tr><tr><td><code>type</code></td><td>string</td><td><p>The type of billing attachment.</p><p>Example: File</p></td></tr></tbody></table>
 
-## Example
+## Example response
 
-{% tabs %}
-{% tab title="JOURNAL ATTACHMENT OBJECT" %}
 {% code lineNumbers="true" %}
 ```json
 {
@@ -29,5 +27,3 @@ The Journal Attachment object allows users to upload attachments to billing obje
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}

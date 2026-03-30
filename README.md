@@ -1,27 +1,12 @@
 # Home
 
-<figure><img src=".gitbook/assets/MPT Home Image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/MPT Home Image (2).png" alt=""><figcaption></figcaption></figure>
 
 The SoftwareOne Marketplace Platform is a digital platform for software procurement and beyond. It bridges the gap between clients seeking software solutions and vendors delivering them, creating a unified ecosystem where both sides can operate through intuitive self-service interfaces or deep system integrations.
 
 <div align="left"><figure><img src=".gitbook/assets/image (855).png" alt=""><figcaption></figcaption></figure></div>
 
-Whether you are a client looking to streamline your software buying process, or a vendor aiming to expand your market reach, the Marketplace Platform provides the tools you need. Clients can discover, compare, and purchase software from multiple vendors in one place. Vendors can manage their product catalog, process orders, and automate fulfillment at scale.
-
-### Built for Integration and Self-Service
-
-The platform is designed to work the way you work. Use our modern Web Portal for self-service operations, or connect your existing systems through our comprehensive API. Both clients and vendors benefit from:
-
-* **Web Portal** - A modern self-service interface at [portal.platform.softwareone.com](https://portal.platform.softwareone.com/) for managing orders, subscriptions, billing, and more.
-* [**REST API**](developer-resources/rest-api/) - A powerful API layer enabling seamless integration with your procurement systems, ERP platforms, and billing solutions.
-* **MCP Server** - An LLM-ready [Model Context Protocol](developer-resources/mcp-server/) server that enables AI assistants and agents to interact with the platform using natural language.
-* **Extensions Framework** - A flexible framework for extending platform capabilities on both sides: vendors can integrate their fulfillment systems, while clients can connect their procurement, finance, and ERP platforms.
-
-### Developer-Friendly by Design
-
-Our [developer documentation](developer-resources/rest-api/) is built to accelerate your integration journey. With comprehensive API references, query language guides, and URL structure mappings, your team can connect existing infrastructure to the Marketplace Platform quickly and confidently.
-
-Explore our documentation to learn more about software procurement, subscription management, license renewals, order fulfillment, and everything the platform has to offer.
+Whether you are a client looking to streamline your software buying process or a vendor aiming to expand your market reach, the Marketplace Platform provides the tools you need. Clients can discover, compare, and purchase software from multiple vendors in one place. Vendors can manage their product catalog, process orders, and automate fulfillment at scale.&#x20;
 
 ### Featured Resources
 
@@ -37,4 +22,4 @@ Explore our documentation to learn more about software procurement, subscription
 
 ### Help and Support
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contact Support</strong></td><td>Get in touch with our Support team.</td><td><a href="help-and-support/contact-support.md">contact-support.md</a></td></tr><tr><td><strong>Status Page</strong></td><td>Get real-time updates on the platform's operational status.</td><td><a href="help-and-support/status-page.md">status-page.md</a></td></tr><tr><td><strong>Release Notes</strong></td><td>Learn what's new in the latest release.</td><td><a href="help-and-support/release-notes/release-notes-v4.md">release-notes-v4.md</a></td></tr><tr><td><strong>Planned Maintenance</strong></td><td>Discover how planned releases are communicated.</td><td><a href="help-and-support/planned-maintenance.md">planned-maintenance.md</a></td></tr><tr><td><strong>Frequently Asked Questions</strong></td><td>Get answers to commonly asked questions.</td><td><a href="help-and-support/faqs/">faqs</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Contact Support</strong></td><td>Get in touch with our Support team.</td><td><a href="help-and-support/contact-support.md">contact-support.md</a></td></tr><tr><td><strong>Status Page</strong></td><td>Get real-time updates on the platform's operational status.</td><td><a href="help-and-support/status-page.md">status-page.md</a></td></tr><tr><td><strong>Release Notes</strong></td><td>Learn what's new in the latest release.</td><td><a href="help-and-support/release-notes/release-notes-v5.md">release-notes-v5.md</a></td></tr><tr><td><strong>Planned Maintenance</strong></td><td>Discover how planned releases are communicated.</td><td><a href="help-and-support/planned-maintenance.md">planned-maintenance.md</a></td></tr><tr><td><strong>Frequently Asked Questions</strong></td><td>Get answers to commonly asked questions.</td><td><a href="help-and-support/faqs/">faqs</a></td></tr></tbody></table>

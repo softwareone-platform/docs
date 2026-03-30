@@ -2,7 +2,7 @@
 description: Increase or reduce the licenses for your subscription.
 ---
 
-# How to Change the Number of Licenses
+# How to change the number of licenses
 
 The SoftwareOne Marketplace allows you to manage your licenses easily.&#x20;
 
@@ -15,7 +15,7 @@ If you need more licenses, you can alter the subscription to add additional lice
 
 To increase or reduce the number of licenses:
 
-1. Navigate to the **Subscriptions** page, then select the required subscription.
+1. Go to the **Subscriptions** page, then select the required subscription.
 2. On the subscription details page, select **Edit**.
 3. In the **Edit subscription** wizard, complete the following steps:&#x20;
    1.  **Items** - Increase or reduce the quantity in the **New qty** field. The sales price of the subscription changes as you adjust the quantity. When done, select **Next**.&#x20;

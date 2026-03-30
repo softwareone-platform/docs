@@ -2,7 +2,7 @@
 description: Manage who receives your email notifications
 ---
 
-# Configure Recipients
+# Configure recipients
 
 Configuring recipients for your notifications is necessary so you can start receiving timely updates about various events in your account.&#x20;
 
@@ -14,8 +14,8 @@ Administrators can also manage recipients for an email message by adding new one
 
 To add specific users and groups to your email notifications:
 
-1. Navigate to the **Notifications** page.&#x20;
-2. On the **Subscribers** tab, select the relevant category. For example, to configure recipients for order-related notifications, select **Orders**.
+1. Go to **Settings** > **Notifications**. &#x20;
+2. Select the **Subscribers** tab. Then, select the relevant category. For example, to configure recipients for order-related notifications, select **Orders**.
 3. On the details page, select the **Recipients** tab.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_subscribers_details.png" alt=""><figcaption><p>The recipients tab on the Subscriber details page.</p></figcaption></figure></div>

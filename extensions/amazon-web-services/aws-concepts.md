@@ -1,4 +1,8 @@
-# AWS Terminology and Concepts
+---
+description: Understand key AWS terminology and concepts.
+---
+
+# AWS terminology and concepts
 
 This topic covers key concepts and terminology to help you get started with AWS in the SoftwareOne Marketplace.&#x20;
 
@@ -22,7 +26,7 @@ When you sign up for Cloud Managed Services for AWS using the Marketplace Platfo
 * **Linked account** - These accounts are actively connected to a master payer account. They are responsible for managing specific workloads and utilizing various AWS resources.
 * **Standalone account** - A standalone account operates independently of any linked accounts. This type of account is essentially a payer account on its own, provided it has a valid payment method associated with it. AWS requires this to ensure payment processing, so that the account can be billed for the services used. If you are setting up a new AWS account, ensure you have a credit card ready unless you plan to immediately connect it to a master payer account through the **My Organizations** page in the AWS console.
 
-For more information on AWS concepts and account types, see [Terminology and Concepts for AWS Organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html).
+For more information on AWS concepts and account types, see [Terminology and concepts for AWS organizations](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_getting-started_concepts.html).
 
 ### AWS billing transfer <a href="#aws-billing-transfer" id="aws-billing-transfer"></a>
 

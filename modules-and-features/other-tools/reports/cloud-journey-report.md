@@ -1,9 +1,9 @@
-# Cloud Journey Report
+# Cloud Journey report
 
 SoftwareOne is uniquely positioned to help businesses on their cloud journey, and with our xSimple customers in mind, we have built a complementary report for our “Simple” views.
 
 {% hint style="info" %}
-We currently only support AzureSimple service.
+We currently only support the AzureSimple service.
 {% endhint %}
 
 The Cloud Journey Report gives our Simple customers a unique insight into market competitors' share of cloud services, which paints a picture of their own position compared to those competitors. By analyzing this information, you can take full advantage of improving your operations, maximizing cloud features, and optimizing your cloud cost. Market Competitors are companies of a similar size and from the same industry.

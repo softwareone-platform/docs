@@ -1,4 +1,8 @@
-# Cancel Your FinOps for Cloud Order
+---
+description: Terminate your FinOps for Cloud subscription.
+---
+
+# Cancel your FinOps for Cloud order
 
 If you need to cancel your FinOps purchase order for any reason, for instance, if you picked the wrong currency while ordering, you can create a termination order. This tutorial describes how you can do this.
 
@@ -8,11 +12,11 @@ Terminating the agreement disables the corresponding organization in FinOps.&#x2
 It means you cannot sign in or switch to this organization and access data such as data sources, pools, and users.
 {% endhint %}
 
-## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
+### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 Before cancelling your FinOps order, ensure that the agreement linked to the purchase order is **active**. If the agreement is not active, you cannot start the termination process.&#x20;
 
-## Canceling your FinOps for Cloud order
+### Canceling your FinOps for Cloud order
 
 {% stepper %}
 {% step %}
@@ -39,7 +43,7 @@ To start the process:
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 After you have submitted the termination order, you can view real-time updates and status on the [order details](../../modules-and-features/marketplace/orders/#subscription-details) page.
 

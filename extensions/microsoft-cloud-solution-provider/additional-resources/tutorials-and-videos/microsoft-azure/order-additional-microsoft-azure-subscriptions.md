@@ -4,7 +4,7 @@ description: >-
   agreement.
 ---
 
-# Order an Additional Azure Subscription
+# Order an additional Azure subscription
 
 This tutorial describes how you can order additional subscriptions for Microsoft Azure using an existing Marketplace agreement.&#x20;
 
@@ -20,9 +20,10 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 To start the process:
 
-1. Navigate to the **Products** page.&#x20;
-2. From the list of products, select **Microsoft Azure**.
-3. On the details page, select **Buy now** to start the ordering process.
+1. Go to **Catalog** > **Product profile**.
+2. From the list of profiles, select the **Microsoft Azure** profile.
+3. On the profile details page, review the product information, then select **Buy now**.
+4. Under **Select product**, choose the product, then select **Select**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}

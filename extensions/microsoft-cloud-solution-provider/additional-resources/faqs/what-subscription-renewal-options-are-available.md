@@ -23,7 +23,7 @@ Trial subscriptions and end-of-sale SKUs are not eligible for the extended servi
 
 The following example illustrates how the subscription start and end dates affect the outcome, including renewal, extended service term, grace period, and cancellation:
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image-20260218-155510.png" alt=""><figcaption><p>Diagram showing subscription dates and end of term flow.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image-20260218-155510 (1).png" alt=""><figcaption><p>Diagram showing subscription dates and end of term flow.</p></figcaption></figure></div>
 
 ### Managing renewals in SoftwareOne Marketplace
 

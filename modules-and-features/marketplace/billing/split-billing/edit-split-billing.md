@@ -2,11 +2,11 @@
 description: Manage buyers and adjust their allocation percentages.
 ---
 
-# Edit Split Billing
+# Edit split billing
 
 If you need to update the list of buyers and adjust their allocation percentages after setting up split billing, you can easily do so through the interface.
 
-## Adding or removing buyers
+### Adding or removing buyers
 
 After you've set up split billing, you can add new buyers and remove existing buyers as needed using the **Edit** option on the **Split billing** tab of your agreement.&#x20;
 
@@ -18,7 +18,7 @@ If an allocation exists for the buyers you wish to remove, the buyer checkbox is
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Remove.png" alt=""><figcaption><p>List of split billing buyers</p></figcaption></figure></div>
 
-## Updating the allocation percentage or license count
+### Updating the allocation percentage or license count
 
 {% hint style="info" %}
 This section describes how to update the allocation percentage using the subscription details page. You can also update the allocation via the agreement details page.

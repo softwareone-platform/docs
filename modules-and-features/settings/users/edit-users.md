@@ -2,20 +2,18 @@
 description: Manage a user’s group membership.
 ---
 
-# Edit Users
+# Edit users
 
-The **Edit** option on the **Users** page lets you update an individual's group membership.
+The **Edit** option on the **Users** page allows you to edit a user's group membership.It means you can modify the groups that the user belongs to.&#x20;
 
-With this option, you can only modify the groups that the individual belongs to. Other details (such as name, email address, or contact details) can't be updated.
+Personal details (such as name, email address, or contact details) can't be updated. If such details require updating, the user must update them through the **My Profile** option in their profile menu. To learn more, see [Manage your profile](https://docs.platform.softwareone.com/marketplace-platform/platform-overview/preferences-and-settings/manage-profile).
 
-If any of those details require updating, the individual must update them through the **My Profile** option in their profile menu. To learn more, see [Manage Your Profile](https://docs.platform.softwareone.com/marketplace-platform/platform-overview/preferences-and-settings/manage-profile).
-
-#### Editing a user's group membership <a href="#editing-a-users-group-membership" id="editing-a-users-group-membership"></a>
+### Editing a user's group membership <a href="#editing-a-users-group-membership" id="editing-a-users-group-membership"></a>
 
 To update a user's group membership:
 
-1. Navigate to the **Users** page.
-2. Find the required user. You can [use filters](https://docs.platform.softwareone.com/marketplace-platform/platform-overview/preferences-and-settings/customize-the-data-grid#filter-data) to find a user based on their ID, name, email address, and other conditions.
+1. Go to **Settings** > **Users**.
+2. Find the user you want to edit. You can [use filters](https://docs.platform.softwareone.com/marketplace-platform/platform-overview/preferences-and-settings/customize-the-data-grid#filter-data) to find a user based on their ID, name, email address, and other conditions.
 3. Select the actions icon (**•••**), then choose **Edit**.
 4. In the **Edit user** wizard, select the **Groups** page to make the following changes as necessary:
    * To add the user to a group, select the checkbox for that group.

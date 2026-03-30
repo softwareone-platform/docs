@@ -1,4 +1,8 @@
-# Purchase Process via Marketplace
+---
+description: Learn about ordering AWS via SoftwareOne Marketplace.
+---
+
+# Purchase process via Marketplace
 
 Ordering AWS through Marketplace enables you to leverage the power of AWS cloud computing with the expertise of SoftwareOne.&#x20;
 
@@ -15,7 +19,7 @@ As a SoftwareOne client or partner, you can easily order AWS services through th
 3. Locate and select the **Amazon Web Services** product.
 4. On the details page, review the product information. Then, select **Buy now** to start the ordering process.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>The details page for Amazon Web Services in SoftwareOne Marketplace</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>The details page for Amazon Web Services in SoftwareOne Marketplace</p></figcaption></figure></div>
 
 ### Purchase process
 
@@ -40,7 +44,7 @@ Choose an existing licensee or create a new one if needed.
 Decide how you want AWS to be connected to SoftwareOne. The following options are available:
 
 * **Transfer an existing AWS account** - This option is selected by default. If you already have an AWS account, you can transfer it to SoftwareOne for management and billing.
-* **Create a new AWS Account** - If you don't have an AWS account, follow the on-screen instructions to create one. Once created, return to the purchase wizard and select the option to transfer the newly created account.
+* **Create a new AWS account** - If you don't have an AWS account, follow the on-screen instructions to create one. Once created, return to the purchase wizard and select the option to transfer the newly created account.
 {% endstep %}
 
 {% step %}
@@ -116,12 +120,12 @@ By placing the order, you confirm acceptance of the Terms and Conditions listed 
 {% step %}
 **Place order**
 
-Select **Place Order** to submit your order. Once the order is submitted, you can view your detailed order summary.
+Select **Place order** to submit your order. Once the order is submitted, you can view your detailed order summary.
 {% endstep %}
 {% endstepper %}
 
 ### Related topics
 
-* [Sign Up for New AWS Account](tutorials/sign-up-for-new-aws-account.md)
-* [Transfer Your AWS Account](tutorials/transfer-your-aws-account.md)
-* [Frequently Asked Questions](faqs.md)
+* [Sign up for new AWS account](tutorials/sign-up-for-new-aws-account.md)
+* [Transfer your AWS account](tutorials/transfer-your-aws-account.md)
+* [Frequently asked questions](faqs.md)

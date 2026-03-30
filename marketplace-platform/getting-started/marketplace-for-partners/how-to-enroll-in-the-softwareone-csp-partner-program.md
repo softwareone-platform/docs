@@ -2,7 +2,7 @@
 description: Enroll in the SoftwareOne CSP partner program.
 ---
 
-# How to Enroll in the SWO CSP Partner Program
+# How to enroll in the SWO CSP partner program
 
 The SoftwareOne (SWO) CSP Partner Program is designed for SoftwareOne partners to ensure compliance with our established terms and conditions.&#x20;
 
@@ -20,7 +20,7 @@ You can enroll in the **SWO CSP Partner Program** if your account has been set u
 
 To open the details page:
 
-1. Navigate to the **Programs** page.
+1. Go to the **Programs** page.
 2. Select **SWO CSP Partner Program**. The program's details page opens.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_program_swo.png" alt=""><figcaption><p>The details page of the SWO CSP Partner Program.</p></figcaption></figure></div>
@@ -31,7 +31,7 @@ To open the details page:
 
 To start the wizard:
 
-1. On the details page, select the **Certificates** tab.
+1. On the program details page, select the **Certificates** tab.
 2. Select **Add**.
 {% endstep %}
 

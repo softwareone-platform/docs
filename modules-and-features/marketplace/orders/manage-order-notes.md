@@ -2,7 +2,7 @@
 description: Manage your notes for an existing order.
 ---
 
-# Add or Update Order Notes
+# Add or update order notes
 
 When ordering a product, the Marketplace Platform provides an option to add comments or instructions, allowing you to include information that you may want to link to the order.
 
@@ -14,11 +14,12 @@ Notes can be added or updated at any time, regardless of the order's status.
 
 To add or update the notes for an order:
 
-1. Navigate to the **Orders** page, then select the desired order.
-2. On the order details page, select the **Notes** tab.
-3. Select **Edit**.&#x20;
+1. Go to **Marketplace** > **Orders**.
+2. Select the order you want to manage.
+3. On the order details page, select the **Notes** tab.
+4. Select **Edit**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (951).png" alt=""><figcaption><p>The Edit option on the Notes tab.</p></figcaption></figure></div>
 
-4. In the **Edit notes** dialog, add or update the notes as necessary. A maximum of 300 characters is allowed.
-5. Select **Save** to save the information. The details are updated and displayed immediately on the **Notes** tab.
+5. In the **Edit notes** dialog, add or update the notes as necessary. A maximum of 300 characters is allowed.
+6. Select **Save**. The details are updated and displayed immediately on the **Notes** tab.

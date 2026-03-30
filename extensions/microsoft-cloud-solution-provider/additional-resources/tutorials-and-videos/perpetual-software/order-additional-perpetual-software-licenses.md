@@ -4,7 +4,7 @@ description: >-
   agreement.
 ---
 
-# Order Additional Perpetual Software Licenses
+# Order additional perpetual software licenses
 
 If you already have an agreement for a perpetual software product and want to add more one-time software items to the same agreement, you can do so by creating a change order.&#x20;
 
@@ -22,7 +22,7 @@ Before starting this tutorial, make sure that your existing agreement is in the 
 
 To open the agreement:
 
-1. Navigate to the **Agreements** page.
+1. Go to the **Agreements** page.
 2. From the list of agreements, select the required agreement.
 3. On the agreement details page, select **Buy more** to start the ordering process.
 {% endstep %}
@@ -34,7 +34,7 @@ In the **Select items** step, all one-time items that can be ordered under this 
 
 1. Locate the item (for example, _Windows Server 2025)._ If required, use the following filters:
    1. Select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="" data-size="line"> **Filter** option.
-   2.  Select **Add another condition**, then use the dropdown to make the following selections:
+   2.  Select **Add another condition**, then do the following:
 
        1. Select **Product Item Name**.
        2. Set the filter to **Contains**.

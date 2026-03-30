@@ -1,0 +1,16 @@
+# Parameter Definition
+
+Extends to base Parameter object introduced in the Catalog.
+
+<table><thead><tr><th width="153">Field Name</th><th width="207">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>A unique identifier for the parameter definition. </p><p>Example: HPD-1234-5678-9012</p></td></tr><tr><td>externalId</td><td>string</td><td><p>Optional external id. </p><p>Example: customer-address</p></td></tr><tr><td>revision</td><td>uint</td><td>Included to support new platform entity revisioning.</td></tr><tr><td>account</td><td>object</td><td>The <a href="../../accounts-api/account/"><code>account</code></a> that owns the parameter definition.</td></tr><tr><td>name</td><td>string</td><td><p>A descriptive name for the parameter. </p><p>Example: Customer address</p></td></tr><tr><td>type</td><td>string</td><td><p>The parameter data type. Allowed values are <code>singleLineText</code>, <code>multiLineText</code>, <code>checkbox</code>, <code>choice</code>, <code>heading</code>, <code>dropDown</code>, <code>email</code>, <code>dataObject</code>, or <code>date</code>. </p><p>Note that the available parameter type might differ depending on the scope of the parameter (Form/Case).</p></td></tr><tr><td>scope</td><td>string</td><td>Parameter scope. Allowed values are <code>form</code> or <code>case</code>.</td></tr><tr><td>phase</td><td>string</td><td>Parameter phase. Allowed values are <code>request</code> or <code>response</code>.</td></tr><tr><td>constraints</td><td>object</td><td>Parameter <a href="../../catalog-api/parameter/constraints-object.md"><code>constraints</code></a>.</td></tr><tr><td>displayOrder</td><td>integer</td><td><p>Required for parameter of scope case. </p><p>Example: 100</p></td></tr><tr><td>statistics</td><td>object (<a href="./#parameter-statistics-object">parameterStatistics</a>)</td><td><p>Statistics about the parameter. </p><p></p><p>Scope: Form</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+  groupsCount: 10,
+  formsCount: 5
+}
+</code></pre><p>Scope: Case</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+  casesCount: 5
+}
+</code></pre></td></tr><tr><td>audit</td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
+
+### Parameter Statistics object
+
+<table><thead><tr><th width="180">Field Name</th><th width="148">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>groupsCount</code></td><td>integer</td><td><p>(readonly) The total count of parameter groups this parameter is linked to. Relevant for parameters of scope “form“ only. Won’t be returned for type “case”. </p><p>Example: 29</p></td></tr><tr><td><code>casesCount</code></td><td>integer</td><td><p>(readonly) The total count of cases this parameter is linked to. Relevant for parameters of scope “case“ only. Won’t be returned for type “form”. </p><p>Example: 29</p></td></tr><tr><td><code>formsCount</code></td><td>integer</td><td><p>(readonly) The total count of forms this parameter is indirectly linked to.</p><p>Relevant for parameters of scope “form“ only. Won’t be returned for type “case”.</p><p>Example: 29</p></td></tr></tbody></table>

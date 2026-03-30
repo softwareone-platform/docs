@@ -1,20 +1,18 @@
-# Spotlight Object
+# SpotlightObject
 
 The Spotlight Object represents a collection of spotlighted objects and their definition, along with the RQL query used to retrieve items.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="104">Field</th><th width="223">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The unique identifier for the spotlight object in this format: </p><p>Example: SPO-1234-5678-9547-1234-8888</p></td></tr><tr><td>query</td><td><a href="../spotlight-query/"><code>spotlightQuery</code></a></td><td>A reference to the SpotlightQuery object.</td></tr><tr><td>top</td><td><a href="spotlight-topitem.md"><code>spotlightTopItem</code></a></td><td>A list of the top five objects returned by the downstreamed RQL query.</td></tr><tr><td>total</td><td><code>integer</code></td><td>The total number of objects available for downstream RQL.</td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td><p>The audit information object. This object keeps track of changes to the spotlight object. Mainly when the cache key was refreshed for the last time, and by whom the action was initiated.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="134">Field Name</th><th width="223">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The unique identifier for the spotlight object in this format: </p><p>Example: SPO-1234-5678-9547-1234-8888</p></td></tr><tr><td><code>query</code></td><td>object</td><td>A reference to the <a href="../spotlight-query/">spotlightQuery</a> object.</td></tr><tr><td><code>top</code></td><td><a href="spotlight-topitem.md">spotlightTopItem</a></td><td>A list of the top five objects returned by the downstreamed RQL query.</td></tr><tr><td><code>total</code></td><td>integer</td><td>The total number of objects available for downstream RQL.</td></tr><tr><td><code>audit</code></td><td>object</td><td><p>The <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. This object keeps track of changes to the spotlight object. Mainly when the cache key was refreshed for the last time, and by whom the action was initiated.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "updated": {
     "at": "2024-05 28T09:00:22.945Z",
 }
 </code></pre></td></tr></tbody></table>
 
-## Example <a href="#example" id="example"></a>
+## Example response <a href="#example" id="example"></a>
 
-{% tabs %}
-{% tab title="SPOTLIGHT OBJECT" %}
-{% code overflow="wrap" lineNumbers="true" %}
+{% code lineNumbers="true" %}
 ```json
 {
   "id": "SPO-1234-5678-9012-3456-7890",
@@ -44,5 +42,3 @@ The Spotlight Object represents a collection of spotlighted objects and their de
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}

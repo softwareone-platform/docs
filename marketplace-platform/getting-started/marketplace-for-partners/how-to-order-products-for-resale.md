@@ -2,7 +2,7 @@
 description: Order software products for reselling to your end customers.
 ---
 
-# How to Order Products for Resale
+# How to order products for resale
 
 The tutorial describes how you can order products for resale through the Marketplace Platform.&#x20;
 
@@ -27,11 +27,10 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Navigate to the **Products** page.
-2. Select the required product, for example, **Microsoft 365 Business, Enterprise & Apps - Commercial**.&#x20;
-3. On the product details page, select **Buy now**.
-
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/MS365BuyNow.png" alt=""><figcaption><p>The Buy now option on the product details page.</p></figcaption></figure></div>
+1. Go to **Catalog** > **Product profile**.
+2. From the list of profiles, select the desired Microsoft 365 profile, for example, **Microsoft 365 Business, Enterprise & Apps**.
+3. On the profile details page, review the information, then select **Buy now**.
+4. Under **Select product**, choose the product you want to order, then select **Select**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}

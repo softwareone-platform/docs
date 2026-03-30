@@ -1,4 +1,4 @@
-# Sign Up for New AWS Account
+# Sign up for new AWS account
 
 This tutorial describes how to sign up for a new AWS account through SoftwareOne Marketplace and then transfer the billing and management of that newly created account to SoftwareOne.&#x20;
 
@@ -53,7 +53,7 @@ Once you have completed the sign-up process, return to the Purchase Wizard and f
 
 1. **AWS Details** - Select **Back** to return to the previous step containing the transfer option.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Follow the onscreen instructions to setup your AWS account.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Follow the onscreen instructions to setup your AWS account.</p></figcaption></figure></div>
 
 2. **Create agreement** - Choose **Transfer an existing AWS account**, then select **Next**.&#x20;
 

@@ -2,7 +2,7 @@
 description: Order new items using your existing Marketplace agreement.
 ---
 
-# How to Add New Items to Your Agreement
+# How to add new items to your agreement
 
 You can add new items to your agreement using the **Buy more** option on the agreement details page.&#x20;
 
@@ -14,7 +14,7 @@ When you select **Buy more**, the platform automatically detects the agreement a
 
 To add new items to your existing Marketplace agreement:
 
-1. Navigate to the **Agreements** page.&#x20;
+1. Go to the **Agreements** page.&#x20;
 2. Select the desired agreement. Make sure that the agreement is active.
 3. On the agreement details page, select **Buy more** to start the purchase wizard. &#x20;
 

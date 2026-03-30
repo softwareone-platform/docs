@@ -4,7 +4,7 @@ description: >-
   Platform.
 ---
 
-# What to Know About the Partner Portal Sunset
+# What to know about the Partner Portal sunset
 
 The One Club portal, also known as the Partner Portal, has been discontinued and is no longer accessible. All partner activities previously handled in One Club are now managed through the [SoftwareOne Marketplace Platform](https://portal.platform.softwareone.com/).
 
@@ -18,7 +18,7 @@ You can access these resources immediately after signing in to your Marketplace 
 
 Your historical order data and billing reports weren't migrated.&#x20;
 
-This means if you need to look up past orders or access historical billing information, you will not find those in the new platform.
+This means if you need to look up past orders or access historical billing information, you will not find them in the new platform.
 
 ### What are the updates to the API
 

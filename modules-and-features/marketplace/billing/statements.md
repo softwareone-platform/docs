@@ -6,36 +6,34 @@ description: Manage and review your Excel billing statements.
 
 A statement is a billing document you receive at the end of your billing period, along with your invoice PDF.
 
-Statements are provided in the XLSX format and contain a detailed view of your invoice data, including individual charges, subscriptions, and orders for the billing period.&#x20;
+Statements are issued as Excel (`.xlsx`) files and they contain a detailed view of your invoice data, including individual charges, subscriptions, and orders for the billing period. A statement contains the following tabs:
 
-### Viewing statements
+* **Summary** - Contains objects associated with the statement (for example, agreement, licensee, and orders) with links to open them in the platform.
+* **Charges** - Contains charges and subscriptions for the billing period. You can also see items within subscriptions, their quantities, and prices. If [split billing](split-billing/) is enabled, allocation percentage and estimated license count (ELC) details are also displayed.
+* **Orders** - Contains all orders placed during the billing period, including order type, order date, and related details.
 
-To view your invoices, navigate to the **Statements** page.&#x20;
+### Accessing statements
 
-When you launch the **Statements** page, all statements generated for your account are displayed along with properties, such as statement ID, the total amount due, status, and more.&#x20;
+The **Statements** page allows you to view all statements for your account.
 
-For each statement, you can also view the type. A **Debit** type means that the total amount is positive or zero, and a **Credit** type means that the total amount is negative.
+To navigate to the **Statements** page, select the main menu, then choose **Billing** > **Statements**. The list of statements is displayed as shown in the following image:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>The Statements page in the Marketplace Platform.</p></figcaption></figure></div>
 
-### Viewing statement details <a href="#subscription-details" id="subscription-details"></a>
+### Related topics
 
-On the statement details page, you can view detailed information for the statement. Some information is read-only, while others include links that allow you to navigate to further details.
+{% content-ref url="../../billing/statements/view-statements.md" %}
+[view-statements.md](../../billing/statements/view-statements.md)
+{% endcontent-ref %}
 
-To view the detailed information for a statement:
+{% content-ref url="../../billing/statements/filter-billing-statements.md" %}
+[filter-billing-statements.md](../../billing/statements/filter-billing-statements.md)
+{% endcontent-ref %}
 
-1. Navigate to the **Statements** page.
-2. (Optional) Use filters to find the desired statement.
-3. Select the statement ID to view general information.
+{% content-ref url="../../billing/statements/view-charges.md" %}
+[view-charges.md](../../billing/statements/view-charges.md)
+{% endcontent-ref %}
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>The details page of a statement.</p></figcaption></figure></div>
-
-4. Use the following tabs to access additional related information:
-   * **Charges** - Displays a list of charges and subscriptions for the billing period.
-   * **Attachments** - Allows you to view and download the statement.&#x20;
-   * **Details** - Displays reference information, like the additional IDs and timestamps.
-   * **Audit trail** - Displays a record of events related to the statement. For details, see [Audit Trail](../../settings/audit-trail.md).
-
-### Additional actions
-
-From the details page, you can download your statement in Excel format. To learn more, see  [Download Invoices](statements/download-statements.md).
+{% content-ref url="statements/download-statements.md" %}
+[download-statements.md](statements/download-statements.md)
+{% endcontent-ref %}

@@ -2,7 +2,7 @@
 description: How to add new software items to your existing Marketplace agreement.
 ---
 
-# Add New Software Items to Your Agreement
+# Add new software items to your agreement
 
 This tutorial explains how to add new Microsoft items to your existing CSP agreement in the SoftwareOne Marketplace.&#x20;
 
@@ -22,7 +22,7 @@ You must also know how to navigate the platform to access your agreements and or
 
 To open the agreement:&#x20;
 
-1. Navigate to the **Agreements** page.
+1. Go to the **Agreements** page.
 2. From the list of agreements, select the required agreement. Make sure that the agreement is active.&#x20;
 3. On the agreement details page, select **Buy more**. The purchase wizard starts, and the **Items** step is displayed.
 {% endstep %}
@@ -43,7 +43,7 @@ To add the new item, complete these steps:&#x20;
       2. Set the filter to **Contains**.
       3. Type the name of the required product (in this case, _Power BI_).
       4. **Close** the filter box.
-3. Select the individual items you need from the list. You can select multiple checkboxes.
+3. Select the individual items you need from the list. You can select multiple items.
 
 {% hint style="info" %}
 When selecting items, be sure to verify the billing terms and the duration of the subscription.

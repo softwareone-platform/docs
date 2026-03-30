@@ -6,19 +6,17 @@ It serves as the link between an account and a notification category, storing de
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="155">Field</th><th width="130">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The primary identifier for the notification subscriber. </p><p>Example: NTS-1111-2222-1234</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>A relative reference to the object. </p><p>Example: /notifications/subscribers/NTS-1111-2222-1234</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the category. </p><p>Example: Orders</p></td></tr><tr><td>status</td><td><code>enum</code></td><td>Indicates if the category connected to the configuration is enabled or disabled for the account. The possible values are <code>Enabled</code> or <code>Disabled</code>. When disabled, no notifications are sent for the category. </td></tr><tr><td>note</td><td><code>string</code></td><td><p>Notes related to the category. </p><p>Example: Disabled because we are not interested in this category.</p></td></tr><tr><td>recipients</td><td><code>recipients</code></td><td><p>The recipient of the notification email. To receive a notification, the user must be in the <code>recipients.users</code> or be a part of a group within <code>recipients.userGroups</code>. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="155">Field Name</th><th width="130">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The primary identifier for the notification subscriber. </p><p>Example: NTS-1111-2222-1234</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>A relative reference to the object. </p><p>Example: /notifications/subscribers/NTS-1111-2222-1234</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the category. </p><p>Example: Orders</p></td></tr><tr><td><code>status</code></td><td>enum</td><td>Indicates if the category connected to the configuration is enabled or disabled for the account. Allowed values are <code>enabled</code> or  <code>disabled</code>. When <code>disabled</code>, no notifications are sent for the category. </td></tr><tr><td><code>note</code></td><td>string</td><td><p>Notes related to the category. </p><p>Example: Disabled because we are not interested in this category.</p></td></tr><tr><td><code>recipients</code></td><td>recipients</td><td><p>The recipient of the notification email. To receive a notification, the user must be in the <code>recipients.users</code> or be a part of a group within <code>recipients.userGroups</code>. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
    "recipients": {
        "users": [],
        "userGroups": []
    }
 }
-</code></pre></td></tr><tr><td>account</td><td><a href="../../accounts-api/account/"><code>account</code></a></td><td> A reference to the Account object.</td></tr><tr><td>category</td><td><a href="../categories/"><code>category</code></a></td><td><p>The name of the category. </p><p>Example: Orders.</p></td></tr><tr><td>audit</td><td><a href="../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the Audit object with possible values, including <code>Created</code> or <code>Updated</code>.</td></tr></tbody></table>
+</code></pre></td></tr><tr><td><code>account</code></td><td>object</td><td> A reference to the <a href="../../accounts-api/account/"><code>account</code></a> object.</td></tr><tr><td><code>category</code></td><td><a href="../categories/">category</a></td><td><p>The name of the category. </p><p>Example: Orders.</p></td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values: <code>created</code> or <code>updated</code>.</td></tr></tbody></table>
 
-## Example
+## Example response
 
-{% tabs %}
-{% tab title="SUBSCRIBER OBJECT" %}
-{% code overflow="wrap" lineNumbers="true" %}
+{% code lineNumbers="true" %}
 ```json
 {
 	"id": "NTS-1111-2222-1234",
@@ -77,5 +75,3 @@ It serves as the link between an account and a notification category, storing de
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}

@@ -1,4 +1,5 @@
 ---
+description: Learn about Adobe VIP Marketplace and how it benefits you.
 cover: ../../.gitbook/assets/adobe_partnerconnect.png
 coverY: 167.1578947368421
 ---
@@ -9,13 +10,13 @@ coverY: 167.1578947368421
 We are thrilled to announce that Adobe has recognized SoftwareOne EMEA as a 'Highly Commended' partner. We are honored to receive this special commendation and look forward to continuing the partnership and delivering value to our clients through the SoftwareOne Marketplace Platform.
 {% endhint %}
 
-Adobe VIP Marketplace is Adobe’s new licensing program that will replace Adobe VIP.&#x20;
+Adobe VIP Marketplace is Adobe’s new licensing program that replaces Adobe VIP.&#x20;
 
 VIP Marketplace is designed to make purchasing and managing Adobe software licenses easier. It provides streamlined automated purchasing, provisioning, and billing, and allows SoftwareOne to resell Adobe licenses through the Marketplace Platform.&#x20;
 
 Various term-length options, volume discounts, and product offerings enable clients (VIP Marketplace members) and organizations of all sizes to meet their needs by purchasing as many licenses as needed in one flexible transaction.
 
-After your initial order has been set up with SoftwareOne, you can manage your licenses through the Marketplace Platform, which works seamlessly with [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).&#x20;
+After your initial order has been set up with SoftwareOne, you can manage your licenses through the Marketplace Platform, which works seamlessly with the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=u2qhptvXR4A" %}
 Watch this video guide explaining about Adobe VIP Marketplace and how it benefits you.

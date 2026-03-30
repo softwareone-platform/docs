@@ -2,7 +2,7 @@
 
 The Microsoft CSP program is designed to provide businesses with easy access to Microsoft's cloud services, such as Microsoft 365, Dynamics 365, and Azure, through certified partners.
 
-Working with a CSP provider like SoftwareOne offers numerous benefits and ensures a smooth onboarding process. These include:
+Working with a CSP provider like SoftwareOne offers numerous benefits and ensures a smooth onboarding process, including:&#x20;
 
 * **Tailored solutions** - SoftwareOne can bundle Microsoft cloud services with additional offerings and services, creating customized solutions that meet specific business needs.
 * **Expert support** - Gain access to dedicated support from SoftwareOne's experts, who can help with everything from initial setup to ongoing management and technical issues.
@@ -10,7 +10,7 @@ Working with a CSP provider like SoftwareOne offers numerous benefits and ensure
 * **Strategic guidance** - SoftwareOne provides strategic guidance to help businesses optimize their use of Microsoft cloud services, ensuring they get the most value from their investment.
 * **Scalability and flexibility** - Easily scale services up or down based on business needs, with the flexibility to adapt to changing requirements.
 
-## CSP product types <a href="#csp-products" id="csp-products"></a>
+### CSP product types <a href="#csp-products" id="csp-products"></a>
 
 In the CSP program, various product types (or service types) are available, each with unique benefits and constraints:
 
@@ -20,7 +20,7 @@ In the CSP program, various product types (or service types) are available, each
 * **Perpetual software** - Perpetual software licenses are licenses for on-premises Microsoft products that you acquire in perpetuity. In the CSP program, the software is license-only (L-only) and does not include the option to add Software Assurance (SA). See [Perpetual software](products-and-programs/perpetual-software/) to learn more.
 * **Government community cloud** - Microsoft Government Community Cloud (GCC) is an elite, purpose-built cloud environment designed exclusively for US federal, state, local, and tribal governments, and contractors managing data on behalf of the US government. See [Microsoft GCC](products-and-programs/microsoft-gcc/) to learn more.
 
-## CSP onboarding with SoftwareOne <a href="#csp-onboarding-with-softwareone" id="csp-onboarding-with-softwareone"></a>
+### CSP onboarding with SoftwareOne <a href="#csp-onboarding-with-softwareone" id="csp-onboarding-with-softwareone"></a>
 
 The Marketplace Platform lets you manage your onboarding process for Microsoft cloud services, from creating a Microsoft organization tenant to accepting the Microsoft Customer Agreement, and more. You can also track your Microsoft subscription purchases and manage the entire subscription lifecycle through the Marketplace Platform.&#x20;
 
@@ -59,7 +59,7 @@ The following steps are involved in your CSP onboarding with SoftwareOne:
 {% endstep %}
 {% endstepper %}
 
-## CSP support options <a href="#csp-and-granular-delegated-admin-privileges" id="csp-and-granular-delegated-admin-privileges"></a>
+### CSP support options <a href="#csp-and-granular-delegated-admin-privileges" id="csp-and-granular-delegated-admin-privileges"></a>
 
 When you buy Microsoft licenses or Azure cloud services through SoftwareOne's Microsoft CSP agreement, you automatically gain access to SoftwareOne Services Support.&#x20;
 

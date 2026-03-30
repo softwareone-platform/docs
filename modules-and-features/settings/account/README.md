@@ -8,21 +8,16 @@ An account enables a company or organization to sign in to the Marketplace platf
 
 The platform supports various account types, including client and vendor accounts, each offering different functionalities based on the account type.&#x20;
 
-### Viewing your account details
+### Accessing the Account page
 
-Account administrators can view account details, such as information, such as your account name, status, and ID, on the **Account** page.&#x20;
+The **Accounts** page allows account administrators to view details, such as your account name and ID, company information, the modules SoftwareOne has enabled for your account, the date and time your account was created, and more. Admins can also edit the account information.
 
-To view your account information:
+To navigate to the **Accounts** page, select the main menu, then choose **Settings** > **Accounts**.&#x20;
 
-1. Navigate to the **Account** page.&#x20;
-2. Use the following tabs to access additional related information:
-   * **General -** Shows additional details for your account, including your company website, a description, support email address, and headquarters address.
-   * **Modules** - Displays all modules that SoftwareOne has enabled for your account.
-   * **Details** - Displays the date and time your account was created. If the account information was updated, the last updated details are also displayed.
-   * **Audit trail** - Displays a record of events related to the account. For more information, see [Audit Trail](../audit-trail.md).
+<figure><img src="../../../.gitbook/assets/settings-account-page.png" alt=""><figcaption><p>The Account page in the platform.</p></figcaption></figure>
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_account_page.png" alt=""><figcaption><p>The Account page in the platform.</p></figcaption></figure></div>
+### Related topics
 
-### Additional actions
-
-From the Account page, you can update specific account information using the **Edit** option. For instructions, see [Update Account Details](update-account-information.md).
+{% content-ref url="update-account-information.md" %}
+[update-account-information.md](update-account-information.md)
+{% endcontent-ref %}

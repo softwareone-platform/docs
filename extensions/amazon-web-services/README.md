@@ -1,3 +1,7 @@
+---
+description: Learn about ordering AWS cloud services through SoftwareOne.
+---
+
 # Amazon Web Services
 
 Amazon Web Services (AWS) offers a comprehensive range of cloud services designed to help organizations build, deploy, and manage applications that are secure, scalable, and reliable.

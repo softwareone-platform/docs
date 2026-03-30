@@ -33,3 +33,29 @@ Once activated, the **Split billing** tab appears on the agreement’s details p
 By default, the buyer associated with the agreement is set as the **Owner** buyer, and 100% billing is allocated to the Owner buyer. You can configure additional buyers using the **Edit** option. For more information, see [Configure Buyers for Split Billing](configure-buyers-for-split-billing.md).
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/split billing tab.png" alt=""><figcaption><p>Close option on the Split billing details tab</p></figcaption></figure></div>
+
+### Related topics
+
+{% content-ref url="configure-buyers-for-split-billing.md" %}
+[configure-buyers-for-split-billing.md](configure-buyers-for-split-billing.md)
+{% endcontent-ref %}
+
+{% content-ref url="set-up-split-billing-allocation.md" %}
+[set-up-split-billing-allocation.md](set-up-split-billing-allocation.md)
+{% endcontent-ref %}
+
+{% content-ref url="edit-split-billing.md" %}
+[edit-split-billing.md](edit-split-billing.md)
+{% endcontent-ref %}
+
+{% content-ref url="split-billing-for-change-orders.md" %}
+[split-billing-for-change-orders.md](split-billing-for-change-orders.md)
+{% endcontent-ref %}
+
+{% content-ref url="review-split-billing-configuration.md" %}
+[review-split-billing-configuration.md](review-split-billing-configuration.md)
+{% endcontent-ref %}
+
+{% content-ref url="specify-po-numbers-for-split-billing.md" %}
+[specify-po-numbers-for-split-billing.md](specify-po-numbers-for-split-billing.md)
+{% endcontent-ref %}

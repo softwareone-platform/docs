@@ -2,7 +2,7 @@
 description: Access the product catalog, discover products, and submit your order.
 ---
 
-# How to Buy Products
+# How to buy products
 
 The SoftwareOne Marketplace is designed to simplify the complex process of software licensing and procurement. It aims to simplify your buying journey by making it easier for you to find products from multiple software vendors in one place.&#x20;
 
@@ -12,29 +12,32 @@ Ordering products from the SoftwareOne Marketplace involves a series of steps, d
 
 {% stepper %}
 {% step %}
-**Accessing product catalog**
+**Review the product profile**
 
-To access the catalog, navigate to the **Products** page.&#x20;
-
-This page contains the products available for you to order. To view detailed product information, select the product name.&#x20;
-
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/products-page.png" alt=""><figcaption><p>The products page showing all products available to order.</p></figcaption></figure></div>
+1. Go to **Catalog** > **Product profile**.
+2. From the list of profiles, select the desired profile, for example, **Microsoft 365 Business, Enterprise & Apps**. The details page of your selected profile opens.
+3. Review the information, including product details, features, and more.
 {% endstep %}
 
 {% step %}
 **Starting the ordering process**
 
-When you are ready to order, select **Buy now** on the product details page. The ordering process contains a series of steps that must be completed to place an order.
+When you are ready to order, do the following:
+
+1. On the details page of your selected product profile, select **Buy now**.
+2. Under **Select product**, choose the product you want to order, then select **Select**. The Purchase Wizard starts.
+
+The wizard guides you through all the steps that must be completed to place an order.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing a series of steps.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Submitting the order**
+**Finalizing and submitting your order**
 
 The ordering steps and the information you need to provide might vary depending on the product and its vendor. At a high level, you'll need to complete these steps:&#x20;
 
-1. **Select agreement** - You have the option to either select an existing agreement or create a new one. The option you select in this step determines the next step. For example, if you create a new agreement, the **Select licensee** step is displayed. However, if you select an existing agreement, the **Select items** step appears.
+1. **Select agreement** - You can either select an existing agreement or create a new one. The option you select in this step determines the next step. For example, if you create a new agreement, the **Select licensee** step is displayed. However, if you select an existing agreement, the **Select items** step appears.
 2. **Select licensee** - You can either choose an existing licensee or create a new one.&#x20;
 3. **Agreement details** - You may need to complete the contact form containing details, such as your company name, address, and more.&#x20;
 4. **Select items** - You can choose all the items you want to order and adjust the quantity for each item.

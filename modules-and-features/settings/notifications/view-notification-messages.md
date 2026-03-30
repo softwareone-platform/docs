@@ -2,13 +2,13 @@
 description: See all notification emails generated for your account.
 ---
 
-# View Notification Messages
+# View notification messages
 
 Account administrators can use the **Messages** tab to view all notification emails triggered for the users in their account.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_message.png" alt=""><figcaption><p>The Messages tab containing notification messages.</p></figcaption></figure></div>
 
-The list includes messages that were sent successfully, as well as those that could not be delivered. You can filter messages to view only those you are interested in. See [Customize the Data Grid](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to learn more.&#x20;
+The list includes messages that were sent successfully, as well as those that could not be delivered. You can filter messages to view only those you are interested in. See [Customize the data grid](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to learn more.&#x20;
 
 For each message, you can view details, including the message ID, the email address of the recipient, their user ID on the platform, the timestamp of when the message was created, the status of the message, and more.
 
