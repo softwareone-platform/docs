@@ -1,5 +1,6 @@
 ---
 description: View product profiles to learn about software products in our catalog.
+hidden: true
 ---
 
 # Product Profiles

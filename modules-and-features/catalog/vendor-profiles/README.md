@@ -2,6 +2,7 @@
 description: >-
   Access vendor profiles to learn about all vendors in the SoftwareOne
   Marketplace.
+hidden: true
 ---
 
 # Vendor Profiles

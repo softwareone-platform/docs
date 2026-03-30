@@ -18,13 +18,15 @@ It enables you to analyze and compare your billing data across various dimension
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-billing-analytics.png" alt=""><figcaption><p>Monitor your billing data using Analytics.</p></figcaption></figure></div>
 
-### Marketplace Mobile App for iOS
+### Microsoft Extended Service Terms
 
-Our brand-new app is now available for iOS devices. This app has been designed to provide seamless access to your Marketplace account anytime and anywhere.
+Starting 8 April 202&#x36;**,** SoftwareOne Marketplace will provide self-service capabilities, allowing you to choose whether subscriptions should go to extended service terms at renewal time. You will have the option to Renew, Cancel at expiration, or move to Extended Service Terms (EST).
 
-For this initial release, the app is invite-only, and it's available to the existing users of the platform. It includes a selected set of features you can access conveniently on the go. For more information, see [App Overview](../../marketplace-mobile-app/app-overview/).
+* **Renew the subscription** - This works like it always has, supporting scheduled changes or renewing as is.
+* **Cancel at expiration** - This stops the services at the end of the term. Data retention is preserved, but the subscription can't be recovered or reactivated.
+* **Move to EST** - This new option converts your subscription into a monthly term that continues until you decide to cancel or convert it to a regular subscription. Licenses can't be modified under EST. Additionally, the extended service term bills monthly at the current monthly term rate plus a 3% uplift (or 23% if no monthly plan exists). EST applies only to eligible subscriptions that are renewed or expire after 4 May 2026.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-iOS (1).png" alt=""><figcaption><p>Use the Marketplace mobile app to conveniently access your account.</p></figcaption></figure></div>
+For information on the eligibility criteria for EST, see [What subscription renewal options are available?](../../extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-subscription-renewal-options-are-available.md)
 
 ### Assets and Entitlements in the Marketplace
 
@@ -33,14 +35,6 @@ You can now view and manage your assets and entitlements directly in the Marketp
 * Assets, also known as one-time purchased items or perpetual licenses, are products you buy once and own indefinitely. The **Assets** page provides a centralized view of all such items and allows you to manage them easily. For more information, see [Assets](../../modules-and-features/marketplace/assets/).
 * Entitlements include all items associated with your account, showing the quantity you are entitled to use. This covers both subscription-based items and one-time purchases (assets). The **Entitlements** page gives a comprehensive overview of your entitlements. For more information, see [Entitlements](../../modules-and-features/marketplace/entitlements/).
 
-### New Helpdesk & Chat Modules
-
-We've introduced a new **Helpdesk** module in Marketplace to make it easier for you to get support and track your requests. You can use this module to [create and manage cases](../../modules-and-features/helpdesk/cases/) and [share feedback](../share-feedback.md).
-
-Additionally, the new **Chat** module allows you to start conversations with users in your account and your SoftwareOne account managers. Designed to streamline collaboration, Chat keeps all communication secure and within your account. You can create group chats, share attachments and links, and manage conversations with features like adding participants, muting/unmuting, or leaving a chat. For more information, see [Chat](../../modules-and-features/chat/).
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-chat.png" alt=""><figcaption><p>Start chat conversations with users in your account.</p></figcaption></figure></div>
-
 ### New AWS & Cloud Managed Services Essentials Offering
 
 We've launched a new AWS product in the SoftwareOne Marketplace.&#x20;
@@ -48,6 +42,31 @@ We've launched a new AWS product in the SoftwareOne Marketplace.&#x20;
 This new product, **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials**, combines the newly launched AWS Billing Transfer feature with SoftwareOne service offerings related to AWS.&#x20;
 
 The product is available in all AWS regions that support billing transfer, including all public AWS regions, except AWS GovCloud (US) and China regions, including Beijing and Ningxia. For more information, see [Amazon Web Services](../../extensions/amazon-web-services/).
+
+### Currency & Billing Updates
+
+This release includes the following currency and billing updates:
+
+* **Billing currency support** - You can now select the currency in which you want to receive your Marketplace invoices, either when creating a new agreement for a new purchase order or after placing your order. For more information, see [How to set or change your billing currency](../../marketplace-platform/getting-started/marketplace-for-clients/how-to-set-or-change-your-billing-currency.md).
+* **Currencies & exchange updates** - The new **Currencies** & **Currency exchange** pages, located under **Settings** > **Exchange**, provide visibility into how currencies and exchange rates are managed. You can view all supported currencies, configured currency pairs (for example, GBP: EUR), the latest exchange rates in both directions, usage across agreements, status, and last updated date. For more information, see [Exchange](../../modules-and-features/settings/exchange/).
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-exchange.png" alt=""><figcaption><p>View the list of currencies and exchange information.</p></figcaption></figure></div>
+
+### Marketplace Mobile App for iOS
+
+Our brand-new app is now available for iOS devices. This app has been designed to provide seamless access to your Marketplace account anytime and anywhere.
+
+For this initial release, the app is invite-only, and it's available to the existing users of the platform. It includes a selected set of features you can access conveniently on the go. For more information, see [App Overview](../../marketplace-mobile-app/app-overview/).
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-iOS (1).png" alt=""><figcaption><p>Use the Marketplace mobile app to conveniently access your account.</p></figcaption></figure></div>
+
+### New Helpdesk & Chat Modules
+
+We've introduced a new **Helpdesk** module in Marketplace to make it easier for you to get support and track your requests. You can use this module to create and manage cases and [share feedback](../share-feedback.md).
+
+Additionally, the new **Chat** module allows you to start conversations with users in your account and your SoftwareOne account managers. Designed to streamline collaboration, Chat keeps all communication secure and within your account. You can create group chats, share attachments and links, and manage conversations with features like adding participants, muting/unmuting, or leaving a chat. For more information, see [Chat](../../modules-and-features/chat/).
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-chat.png" alt=""><figcaption><p>Start chat conversations with users in your account.</p></figcaption></figure></div>
 
 ### New Options for Customizing Regional Settings
 
@@ -59,15 +78,6 @@ Now, when customizing your regional settings, you can choose whether to use the 
 * **Custom settings** - This option allows you to configure your preferences for language, date and time, time zone, and number formats. For more information, see [Manage your profile](../../marketplace-platform/getting-started/interface/manage-profile.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-regional-settings.png" alt=""><figcaption><p>Customize the regional settings for your account.</p></figcaption></figure></div>
-
-### Currency & Billing Updates
-
-This release includes the following currency and billing updates:
-
-* **Billing currency support** - You can now select the currency in which you want to receive your Marketplace invoices, either when creating a new agreement for a new purchase order or after placing your order. For more information, see [How to set or change your billing currency](../../marketplace-platform/getting-started/marketplace-for-clients/how-to-set-or-change-your-billing-currency.md).
-* **Currencies & exchange updates** - The new **Currencies** & **Currency exchange** pages, located under **Settings** > **Exchange**, provide visibility into how currencies and exchange rates are managed. You can view all supported currencies, configured currency pairs (for example, GBP: EUR), the latest exchange rates in both directions, usage across agreements, status, and last updated date. For more information, see [Exchange](../../modules-and-features/settings/exchange/).
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-exchange.png" alt=""><figcaption><p>View the list of currencies and exchange information.</p></figcaption></figure></div>
 
 ### New Account Team Feature
 

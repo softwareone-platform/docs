@@ -6,8 +6,6 @@ description: >-
 
 # Release Notes
 
-<figure><img src="../../.gitbook/assets/roadmap.png" alt=""><figcaption></figcaption></figure>
-
 {% content-ref url="release-notes-v5.md" %}
 [release-notes-v5.md](release-notes-v5.md)
 {% endcontent-ref %}
