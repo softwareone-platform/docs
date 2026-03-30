@@ -20,7 +20,7 @@ It enables you to analyze and compare your billing data across various dimension
 
 ### Microsoft Extended Service Terms
 
-Starting 8 April 202&#x36;**,** SoftwareOne Marketplace will provide self-service capabilities, allowing you to choose whether subscriptions should go to extended service terms at renewal time. You will have the option to Renew, Cancel at expiration, or move to Extended Service Terms (EST).
+Starting 8 April 2026, SoftwareOne Marketplace will provide self-service capabilities, allowing you to choose whether subscriptions should go to Extended Service Terms (EST) at renewal time. You will have the option to **Renew**, **Cancel at expiration**, or **Move to EST**:
 
 * **Renew the subscription** - This works like it always has, supporting scheduled changes or renewing as is.
 * **Cancel at expiration** - This stops the services at the end of the term. Data retention is preserved, but the subscription can't be recovered or reactivated.
