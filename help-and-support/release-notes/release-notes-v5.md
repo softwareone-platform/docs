@@ -62,7 +62,7 @@ For this initial release, the app is invite-only, and it's available to the exis
 
 ### New Helpdesk & Chat Modules
 
-We've introduced a new **Helpdesk** module in Marketplace to make it easier for you to get support and track your requests. You can use this module to create and manage cases and [share feedback](../share-feedback.md).
+We've introduced a new **Helpdesk** module in Marketplace to make it easier for you to get support and track your requests. You can use this module to create and manage [cases](../../modules-and-features/helpdesk/cases/) and [share feedback](../share-feedback.md).
 
 Additionally, the new **Chat** module allows you to start conversations with users in your account and your SoftwareOne account managers. Designed to streamline collaboration, Chat keeps all communication secure and within your account. You can create group chats, share attachments and links, and manage conversations with features like adding participants, muting/unmuting, or leaving a chat. For more information, see [Chat](../../modules-and-features/chat/).
 
@@ -131,7 +131,7 @@ You can access these pages through the **Catalog** option in the main menu.
 
 ### Alga PSA Integration with Marketplace Platform
 
-The Marketplace Platform now integrates with Alga PSA.&#x20;
+The Marketplace Platform now integrates with [Alga PSA](../../extensions/alga-psa/).&#x20;
 
 Our new extension allows partners to bring data, including agreements, subscriptions, and orders from the SoftwareOne Marketplace, directly into their PSA environment.&#x20;
 

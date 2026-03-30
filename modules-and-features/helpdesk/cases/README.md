@@ -1,6 +1,5 @@
 ---
 description: Learn about cases and how to manage them in the SoftwareOne Marketplace.
-hidden: true
 ---
 
 # Cases

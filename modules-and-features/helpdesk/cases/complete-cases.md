@@ -1,5 +1,6 @@
 ---
 description: Complete (or close) a case chat if your issue is resolved.
+hidden: true
 ---
 
 # Complete cases

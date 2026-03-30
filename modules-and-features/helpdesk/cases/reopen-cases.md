@@ -1,5 +1,6 @@
 ---
 description: Reopen a closed case from the Chats page.
+hidden: true
 ---
 
 # Reopen cases
