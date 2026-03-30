@@ -124,10 +124,10 @@ Administrators can also view the preferred language for notification emails and 
 
 We are introducing **Vendor profiles** and **Product profiles** pages in the platform to enhance discovery and create a more seamless experience in the SoftwareOne Marketplace.&#x20;
 
-* [Vendor profiles](../../modules-and-features/catalog/vendor-profiles/) are centralized marketing and informational pages for each vendor. These profiles allow you to learn about the vendors and the products they offer.
-* [Product profiles](../../modules-and-features/catalog/product-profiles/) are marketing-focused representations of a product or a grouping of products. They are designed to help you understand the product and start the ordering process directly from within the profile.
+* Vendor profiles are centralized marketing and informational pages for each vendor. These profiles allow you to learn about the vendors and the products they offer.
+* Product profiles are marketing-focused representations of a product or a grouping of products. They are designed to help you understand the product and start the ordering process directly from within the profile.
 
-You can access these pages through the **Catalog** option in the main menu or via global search.
+You can access these pages through the **Catalog** option in the main menu.
 
 ### Alga PSA Integration with Marketplace Platform
 
@@ -135,7 +135,7 @@ The Marketplace Platform now integrates with Alga PSA.&#x20;
 
 Our new extension allows partners to bring data, including agreements, subscriptions, and orders from the SoftwareOne Marketplace, directly into their PSA environment.&#x20;
 
-This integration helps partners simplify operations and manage their resale business and workflows in one place, without switching between different systems. For more information, see [Alga PSA](../../extensions/alga-psa/).&#x20;
+This integration helps partners simplify operations and manage their resale business and workflows in one place, without switching between different systems.&#x20;
 
 ### Extensions Framework
 
