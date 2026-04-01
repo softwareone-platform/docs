@@ -2,7 +2,6 @@
 description: >-
   Access vendor profiles to learn about all vendors in the SoftwareOne
   Marketplace.
-hidden: true
 ---
 
 # Vendor Profiles
@@ -19,9 +18,7 @@ Some vendors are marked as **Featured**. These profiles represent strategic part
 
 ### Accessing vendor profiles
 
-There are two ways to access vendor profiles in the Marketplace.&#x20;
-
-You can either find a specific vendor profile using the **Search** bar in the header or view all vendor profiles on the **Catalog** > **Vendor profiles** page.
+To navigate to the **Vendor profiles** page, select the main menu, then choose **Catalog** > **Vendor profiles**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/vendor-profile.png" alt=""><figcaption><p>A list of all vendor profiles in the SoftwareOne Marketplace.</p></figcaption></figure></div>
 

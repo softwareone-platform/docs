@@ -1,14 +1,15 @@
 # Export billing data
 
-The **Export** option on the **Analytics** page enables you to download your billing data in Excel, CSV, and PDF formats. This allows you to share your data with others by email or other methods.
+The **Export** option on the **Analytics** page allows you to download your billing data as an Excel file, so you can share it with others by email or other methods.
 
-When you download data, the exported file includes all data currently displayed on the **Analytics** page, which is determined by the filters and grouping criteria you have applied. You can create specific views and export the data for further analysis or reporting.
+While the visual chart within **Analytics** displays only your top 10 grouped entities, the Excel file provides you with a complete, unfiltered dataset.
 
 ### Exporting billing data
 
-To export the data:
+To export your billing data:
 
-1. Navigate to the **Analytics** page.
-2. Under **Analytics dashboard**, select **Export** to download the file.
+1. Go to **Billing** > **Analytics**.
+2. In the left sidebar, apply your desired filters, then select Show **results**.
+3. Under **Analytics dashboard**, select **Export** to download the file.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/analytics.png" alt=""><figcaption><p>The Export option on the Analytics page to download data.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Analytics.png" alt=""><figcaption><p>Use the Export option to download your complete billing data.</p></figcaption></figure></div>

@@ -12,9 +12,9 @@ We are pleased to announce the latest release of SoftwareOne's Marketplace Platf
 
 Analytics is a new feature that allows you to visualize your billing data. You can access this feature from the main menu by selecting **Billing** > **Analytics**.
 
-Analytics uses interactive charts and filters to help you understand charges from your invoices and credit memos so you can monitor spending, forecast budgets, and manage your expenditure.
+Analytics uses interactive charts and filters to help you understand charges from your invoices and credit memos so you can monitor spending, forecast budgets, and manage your expenditure. &#x20;
 
-It enables you to analyze and compare your billing data across various dimensions, customize data using filters, and export data in supported formats, such as Excel. For more information, see [Analytics](../../modules-and-features/billing/analytics/).
+The feature offers robust grouping options to help you group data across dimensions, such as **Agreement**, **Item**, **Product**, and more. It provides a visual summary of your top 10 entities based on your selected grouping, and automatically combines the remaining entities under a single category called Others / Unmatched for readability. You can also export your data to Excel and choose a target currency for your financial reporting. For more information, see [Analytics](../../modules-and-features/billing/analytics/).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Billing Analytics 4.png" alt=""><figcaption><p>Monitor your billing data using Analytics.</p></figcaption></figure></div>
 
@@ -124,8 +124,8 @@ Administrators can also view the preferred language for notification emails and 
 
 We are introducing **Vendor profiles** and **Product profiles** pages in the platform to enhance discovery and create a more seamless experience in the SoftwareOne Marketplace.&#x20;
 
-* Vendor profiles are centralized marketing and informational pages for each vendor. These profiles allow you to learn about the vendors and the products they offer.
-* Product profiles are marketing-focused representations of a product or a grouping of products. They are designed to help you understand the product and start the ordering process directly from within the profile.
+* [Vendor profiles](../../modules-and-features/catalog/vendor-profiles/) are centralized marketing and informational pages for each vendor. These profiles allow you to learn about the vendors and the products they offer.
+* [Product profiles](../../modules-and-features/catalog/product-profiles/) are marketing-focused representations of a product or a grouping of products. They are designed to help you understand the product and start the ordering process directly from within the profile.
 
 You can access these pages through the **Catalog** option in the main menu.
 
@@ -149,9 +149,12 @@ Once an extension is installed, it can be viewed on the **Installations** page. 
 
 ### Procurement Management
 
-You can now view your sales orders and sales quotes directly in the Marketplace by navigating to the **Procurement** section in the main menu.
+You can now access your sales orders and sales quotes directly in the Marketplace by navigating to the **Procurement** section in the main menu.
 
-The new **Sales orders** and **Sales quotes reporting** pages provide a unified, easy-to-understand view of what has been quoted and what is currently in progress. For more information, see [Sales orders](../../modules-and-features/procurement/sales-orders/) and [Sales quotes reporting](../../modules-and-features/procurement/sales-quotes-reporting/).
+* The [Sales orders](../../modules-and-features/procurement/sales-orders/) page offers an improved, transparent way to manage your sales orders. You can narrow down your orders based on your specific criteria, select an order to view its detailed information, and download a PDF of your sales order.&#x20;
+* The [Sales quotes reporting](../../modules-and-features/procurement/sales-quotes-reporting/) page provides a unified, easy-to-understand view of what has been quoted and what is currently in progress. From this page, you can view your pending, accepted, and historical sales quotes, along with corresponding sales orders as they move through fulfilment and billing. You can also select a quote to see its detailed information and download the sales quote PDF.
+
+For former PyraCloud users, the **Sales orders** and **Sales quotes reporting** pages provide an upgraded experience. If you previously used PyraCloud for your sales orders and quotes, you can take advantage of the new interface, which includes enhanced search capabilities, PDF downloads, advanced filters, and the option to **Switch to classic view**.
 
 ### New APIs & Business Objects Reference
 

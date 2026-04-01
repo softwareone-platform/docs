@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Save and manage views
 
 In **Analytics**, you can save your view containing filters and other settings for easy access to your frequently used insights.&#x20;

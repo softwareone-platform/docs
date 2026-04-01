@@ -1,5 +1,6 @@
 ---
 description: Access your perpetual license orders.
+hidden: true
 ---
 
 # Sales Orders

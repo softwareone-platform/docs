@@ -10,7 +10,7 @@ The **Sales quotes** page is your centralized hub for monitoring all pending, ac
 
 To navigate to the **Sales quotes** page, select the main menu, then choose **Procurement** > **Sales quotes reporting**. A list of your sales quotes is displayed, as shown in the following image:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/sales-quotes-reporting.png" alt=""><figcaption><p align="center">The Sales Quotes page showing real time statuses along with expiration dates and total values.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="/broken/files/G0NQlBuM8iWIrZfQoKI4" alt=""><figcaption><p align="center">The Sales Quotes page showing real time statuses along with expiration dates and total values.</p></figcaption></figure></div>
 
 On the **sales quotes reporting** page, you can view various details for each sales quote, including the quote ID, creation and expiration dates, estimated sales price, and more. You can also view the real-time status for each quote. When a quote is marked as **Accepted**, the platform works asynchronously in the background to generate the corresponding [sales order](../../inventory/orders.md).&#x20;
 

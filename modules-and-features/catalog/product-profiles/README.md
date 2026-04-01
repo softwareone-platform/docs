@@ -1,6 +1,5 @@
 ---
 description: View product profiles to learn about software products in our catalog.
-hidden: true
 ---
 
 # Product Profiles
@@ -13,9 +12,7 @@ Product profiles also contain a list of related products. For example, the **Ado
 
 ### Accessing product profiles
 
-There are two ways to access product profiles.&#x20;
-
-You can either use the **Search** bar in the header to find a specific product profile or view all profiles on the **Catalog** > **Product profiles** page.
+To navigate to the **Product profiles** page, select the main menu, then choose **Catalog** > **Product profiles**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/product-profile.png" alt=""><figcaption><p>A list of Product Profiles in the SoftwareOne Marketplace.</p></figcaption></figure></div>
 
