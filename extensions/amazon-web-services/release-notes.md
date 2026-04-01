@@ -6,11 +6,11 @@
 
 We have launched a new AWS product in the SoftwareOne Marketplace.&#x20;
 
-This new product, **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials**, combines the newly launched [AWS Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/) feature with SoftwareOne service offerings related to AWS.&#x20;
+This new product, **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials**, combines the newly launched [AWS Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/) model with the SoftwareOne service offerings related to AWS.&#x20;
 
-The product is available in all AWS regions that support billing transfer. This includes all public AWS regions, except AWS GovCloud (US) and China regions, including Beijing and Ningxia.&#x20;
+The Billing Transfer feature streamlines your financial operations by enabling you to consolidate billing and costs across multiple AWS organizations. This transition to SoftwareOne for billing allows you to access cost reporting and optimization insights through the SoftwareOne Marketplace Platform. Additionally, it simplifies the procurement process by eliminating the need to manage multiple invoices, as you get one clear, optimized bill for your entire AWS estate.
 
-The previous product, **Amazon Web Services - Managed Service**, based on the End Customer Account Model, remains available to customers with an active agreement. However, new customers must sign up for **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials**.
+The new product is available in all AWS regions that support billing transfer. This includes all public AWS regions, except AWS GovCloud (US) and China regions, including Beijing and Ningxia. To learn more about using Billing Transfer, see the [AWS news blog](https://aws.amazon.com/blogs/aws/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/).
 
 ***
 

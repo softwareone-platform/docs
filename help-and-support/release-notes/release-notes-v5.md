@@ -37,11 +37,16 @@ You can now view and manage your assets and entitlements directly in the Marketp
 
 ### New AWS & Cloud Managed Services Essentials Offering
 
-We've launched a new AWS product in the SoftwareOne Marketplace.&#x20;
+We have launched a new AWS product in the SoftwareOne Marketplace.&#x20;
 
-This new product, **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials**, combines the newly launched AWS Billing Transfer feature with SoftwareOne service offerings related to AWS.&#x20;
+This new product, **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials**, combines the newly launched [AWS Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/) model with SoftwareOne's AWS-related service offering. The Billing Transfer feature streamlines your financial operations by enabling you to:
 
-The product is available in all AWS regions that support billing transfer, including all public AWS regions, except AWS GovCloud (US) and China regions, including Beijing and Ningxia. For more information, see [Amazon Web Services](../../extensions/amazon-web-services/).
+* Consolidate billing and costs across multiple AWS organizations.&#x20;
+* Transition your billing to SoftwareOne seamlessly.
+* Access cost reporting and optimization insights through the SoftwareOne Marketplace Platform.
+* Simplify procurement by eliminating the need to manage multiple invoices, as you get one clear and optimized bill for your entire AWS estate.
+
+The new product is available in all AWS regions that support billing transfer. This includes all public AWS regions, except AWS GovCloud (US) and China regions, including Beijing and Ningxia. For more information, see the [AWS news blog](https://aws.amazon.com/blogs/aws/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/).
 
 ### Currency & Billing Updates
 
