@@ -156,6 +156,8 @@ You can now access your sales orders and sales quotes directly in the Marketplac
 
 For former PyraCloud users, the **Sales orders** and **Sales quotes reporting** pages provide an upgraded experience. If you previously used PyraCloud for your sales orders and quotes, you can take advantage of the new interface, which includes enhanced search capabilities, PDF downloads, advanced filters, and the option to **Switch to classic view**.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sales Quote2.png" alt=""><figcaption><p>Use the Procument module to access your sales order and sales quotes.</p></figcaption></figure></div>
+
 ### New APIs & Business Objects Reference
 
 You can now access platform data programmatically using our new APIs, enabling seamless integrations and automation. To view the full list of APIs, see [Explore the APIs](../../developer-resources/rest-api/#explore-the-apis-1).
