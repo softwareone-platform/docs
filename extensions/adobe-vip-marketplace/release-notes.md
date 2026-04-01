@@ -6,6 +6,63 @@ description: >-
 
 # Release Notes
 
+## Release Date: 7 April 2026
+
+### Clearer and more intuitive ordering experience
+
+We’ve refined how Adobe products are presented throughout the SoftwareOne Marketplace:
+
+* Clearer product descriptions
+* Improved on-screen guidance during ordering
+* Better structured product and item selection
+
+These updates make it easier to understand what you’re ordering and provide the right information first time.
+
+### More transparency for reseller transfers
+
+You can now see exactly what is being transferred:
+
+* Previously, a reseller transfer order would contain a single item, "Reseller Transfer"
+* Now, all incoming subscriptions are displayed individually in your order
+
+This gives you full visibility of your subscriptions and pricing during reseller transfers.
+
+### Stay on track with your 3-year commitments
+
+If you have a 3-year commitment (3YC), we’ll now keep you informed with timely reminders as your commitment comes to an end:
+
+* Notifications at 30, 14, 7, and 1 day before expiry
+* A reminder shortly after expiry
+
+This helps you take action at the right time and avoid disruption.
+
+### Better visibility of your linked memberships
+
+Your linked membership details are now easier to access:
+
+* Linked memberships are visible directly within your agreement. Navigation to the **Parameters** tab of your Agreement to see your linked membership details.
+
+This makes it simpler to track and manage your Adobe linked membership without needing to switch to the Adobe Admin Console.
+
+### More accurate handling of late renewals
+
+We’ve improved how late renewals are processed to avoid confusion:
+
+* Reduced risk of duplicate quantities appearing in the Adobe Admin Console
+
+This ensures your subscriptions remain accurate and easier to manage.
+
+### Improved Adobe product and vendor information
+
+We’ve enhanced how Adobe is presented in the SoftwareOne Marketplace:
+
+* Clearer product information
+* Improved navigation across Adobe offerings
+
+This makes it easier to find and understand the products that are right for you.
+
+***
+
 ## Release Date: 1 February 2026
 
 ### Adobe VIP Marketplace moves to weekly billing
