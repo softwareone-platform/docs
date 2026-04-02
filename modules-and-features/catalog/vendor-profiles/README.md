@@ -22,6 +22,11 @@ To navigate to the **Vendor profiles** page, select the main menu, then choose *
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/vendor-profile.png" alt=""><figcaption><p>A list of all vendor profiles in the SoftwareOne Marketplace.</p></figcaption></figure></div>
 
+The main **Vendor profiles** page contains a list of vendor profile cards with filters on the left.&#x20;
+
+* Each card contains the vendor name and their brief description. Selecting a card opens up the vendor profile details page, where you can view detailed information for the vendor and the list of products they offer.
+* On the left, a filter sidebar is displayed, allowing you to refine your search.
+
 ### Related topics
 
 {% content-ref url="view-vendor-profiles.md" %}

@@ -16,11 +16,11 @@ You can access the platform from an up-to-date desktop or mobile browser. For a 
 
 To sign in to your SoftwareOne Marketplace account:
 
-1. Navigate to the [sign-in page](https://portal.platform.softwareone.com/).
+1. Open the [sign-in page](https://portal.platform.softwareone.com/).
 2. Enter the email address associated with your account, then select **Continue**.
 3. Enter your password and select **Continue**.&#x20;
 
-Upon successful sign-in, the platform's **Home page** is displayed.
+Upon successful sign-in, the platform's **Home** page is displayed.
 
 If you provide inaccurate credentials, an error message is displayed. If you don’t remember your password, select **Forgot password?** and follow the instructions to recover it.
 
@@ -54,7 +54,7 @@ Menu items with chevrons<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA
 
 <summary>Search</summary>
 
-The **Search** bar in the header enables you to search for objects, such as your orders, agreements, subscriptions, and more. You can also search for specific products and items in our catalog.
+The **Search** bar in the header enables you to search for details, such as your orders, agreements, subscriptions, and more. You can also search for specific products and items in our catalog.
 
 Additionally, you can use search to access product documentation, including resources such as tutorials, FAQs, and procedures. For example, you can search for 'manage subscriptions' to read documentation about how to manage your subscriptions.
 
@@ -73,8 +73,8 @@ For example, when searching for an agreement using its ID, select the **Agreemen
 The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size="line"> allows you to quickly access documentation, request assistance, and share feedback directly from the platform.&#x20;
 
 * The **Documentation** section displays a list of recommended topics from our product documentation. You can browse suggested topics and select a topic to view detailed guidance. To access all documentation resources, select **View all**.
-* Use **Need help?** if you require additional assistance. This option directs you to our **Get help** wizard, where you can get help with platform issues or questions. For more details, see [Contact support](../../../help-and-support/contact-support.md).
-* Use **Send feedback** to share your comments, suggestions, and experiences about the SoftwareOne Marketplace directly with us.  For more details, see [Share feedback](../../../help-and-support/share-feedback.md).
+* Use **Need help?** if you require additional assistance. This option directs you to our **Get help** wizard, where you can get help with platform issues or questions.&#x20;
+* Use **Send feedback** to share your comments, suggestions, and experiences about the SoftwareOne Marketplace directly with us. For more details, see [Share feedback](../../../help-and-support/share-feedback.md).
 
 </details>
 
@@ -117,7 +117,7 @@ The widgets on the **Home** page provide a centralized overview of key informati
 
 The **Spotlight** widget displays key platform objects requiring your attention. These objects include your agreements, orders, subscriptions, invoices, and more.&#x20;
 
-For more information, see [Object Spotlight](view-pending-tasks.md).
+For more information, see [Object spotlight](view-pending-tasks.md).
 
 </details>
 
@@ -125,7 +125,7 @@ For more information, see [Object Spotlight](view-pending-tasks.md).
 
 <summary>News and updates widget</summary>
 
-The **News and updates** widget contains video guides from our YouTube channel. Each video includes a brief description, the date it was posted, and links to related documentation. &#x20;
+The **News and updates** widget contains the latest product announcements and video guides from our YouTube channel. Each video includes a brief description, the date it was posted, and links to related documentation. &#x20;
 
 You can watch videos directly within the platform or open them on YouTube.
 
@@ -145,8 +145,8 @@ For information on adding and managing favorites, see [Using Favorites](mark-fav
 
 <summary>Account team widget</summary>
 
-The **Account Team** widget displays your SoftwareOne account team members and allows you to contact them.
+The **Account Team** widget displays the SoftwareOne account team responsible for supporting your account. The widget also displays the contact options you can use to get in touch with a member.&#x20;
 
-You can also access this information on the **Settings** > **Account team** page.&#x20;
+You can also access this information on the **Helpdesk** > **Account team** page.&#x20;
 
 </details>

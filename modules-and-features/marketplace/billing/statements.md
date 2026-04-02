@@ -16,9 +16,17 @@ Statements are issued as Excel (`.xlsx`) files and they contain a detailed view 
 
 The **Statements** page allows you to view all statements for your account.
 
-To navigate to the **Statements** page, select the main menu, then choose **Billing** > **Statements**. The list of statements is displayed as shown in the following image:
+To navigate to the **Statements** page, select the main menu, then choose **Billing** > **Statements**. The list of statements is displayed, as shown in the following image:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>The Statements page in the Marketplace Platform.</p></figcaption></figure></div>
+
+On the **statements** page, you can view various details for each statement, including the statement ID, creation date, estimated sales price, current status, and more.&#x20;
+
+You can also select a statement ID to view detailed information organized across several tabs. The information available includes:
+
+* A list of charges and subscriptions for the billing period.
+* Official statement PDFs.
+* A record of events or logs for the statement.&#x20;
 
 ### Related topics
 

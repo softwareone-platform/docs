@@ -16,6 +16,11 @@ To navigate to the **Product profiles** page, select the main menu, then choose 
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/product-profile.png" alt=""><figcaption><p>A list of Product Profiles in the SoftwareOne Marketplace.</p></figcaption></figure></div>
 
+The main **Product profiles** page contains a list of product profile cards with filters on the left.&#x20;
+
+* Each card contains a product logo, vendor name, product name, and a brief product description. Selecting a card opens up a profile details page, where you can view a detailed description, images, and a list of products within the profile.
+* On the left, a filter sidebar is displayed, allowing you to refine your search.
+
 ### Related topics
 
 {% content-ref url="filter-product-profiles.md" %}
