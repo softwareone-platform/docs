@@ -1,12 +1,12 @@
 ---
-description: Learn about support cases and sharing your feedback.
+description: Learn about your account team, managing cases, and sharing your feedback.
 ---
 
 # Helpdesk
 
-The **Helpdesk** module in the SoftwareOne Marketplace allows you to create support cases when you experience issues with the platform. You can also use this module to manage your existing cases.&#x20;
+The **Helpdesk** module in the SoftwareOne Marketplace allows you to create and track your cases, including your communication history.&#x20;
 
-Additionally, you can use this module to share your feedback about the SoftwareOne Marketplace with us directly.
+Additionally, you can use this module to contact your SoftwareOne account team and share your feedback about the Marketplace with us directly.
 
 ### Topics in this section
 

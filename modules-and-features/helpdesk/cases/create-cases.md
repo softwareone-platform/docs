@@ -1,6 +1,6 @@
 # Create cases
 
-You can create a support case by either selecting the help option in the platform's header or by choosing **+ Support case** on the **Chats** page.&#x20;
+You can create a support case by either selecting the help option in the header or by choosing **+ Support case** on the **Chats** page.&#x20;
 
 ### Creating a case using the help icon
 

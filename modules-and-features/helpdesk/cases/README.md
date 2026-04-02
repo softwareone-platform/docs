@@ -18,9 +18,7 @@ To navigate to the **Cases** page, select the main menu, then choose **Helpdesk*
 
 <figure><img src="../../../.gitbook/assets/helpdesk-cases.png" alt=""><figcaption><p>The Cases page in the platform.</p></figcaption></figure>
 
-On the **Cases** page, you can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) to customize the list.&#x20;
-
-You can view case details by selecting the case ID, and you can manage a case by using the options in the **Actions** column.
+On the **Cases** page, you can view various details for a case, including the case ID, related chat, reporter, assignee, status, and more. Additionally, you can select a case to view detailed information and manage a case using the options in the **Actions** column.
 
 ### Related topics
 

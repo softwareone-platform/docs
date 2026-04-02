@@ -12,13 +12,13 @@ Users can belong to multiple groups within the same account; for example, a user
 
 The **Groups** page allows account administrators to perform tasks, such as adding new groups and managing existing groups. Administrators can also modify or delete a group permanently if it's no longer needed.&#x20;
 
-To navigate to the **Groups** page, select the main menu, then choose **Settings** > **Groups**. The list of groups is displayed as shown in the following image:
+To navigate to the **Groups** page, select the main menu, then choose **Settings** > **Groups**. The list of groups is displayed, as shown in the following image:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>The Groups page in the platform.</p></figcaption></figure></div>
 
 On the **Groups** page, you can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) to customize the list.&#x20;
 
-You can view a group's details by selecting the group name, and you can manage a group by using the options in the **Actions** column.
+You can view a group's details by selecting the group name, and manage a group by using the options in the **Actions** column.
 
 ### Related topics
 

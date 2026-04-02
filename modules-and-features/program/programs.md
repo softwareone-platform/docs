@@ -10,7 +10,7 @@ By enrolling in a program, you gain access to all the benefits associated with t
 
 ### Accessing programs
 
-The **Programs** page displays all active programs.
+The **Programs** page displays all active programs that you can enroll into.
 
 To navigate to the **Programs** page, select the main menu, then choose **Program** > **Programs**. The list of programs is displayed. From this page, you can select a program to open its details page.
 

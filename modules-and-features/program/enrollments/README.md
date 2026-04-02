@@ -12,39 +12,31 @@ To enroll in a program, you must meet specific requirements, such as submitting 
 
 When you are enrolled, the **Enrollments** page displays the enrollment information.
 
-### Viewing enrollments
+### Accessing enrollments
 
-To view your enrollment, navigate to the **Enrollments** page in the platform. When you launch the **Enrollments** page, all enrollments are displayed, regardless of the status. You can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) as needed.
+The **Enrollments** page displays all enrollments, regardless of the status.&#x20;
 
-The table provides information, enrollment ID, the program name, enrollment status, and more.&#x20;
+To access this page, select the main menu, then choose **Programs** > **Enrollment**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>The Enrollments page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption></figcaption></figure></div>
 
-### Viewing enrollment details <a href="#subscription-details" id="subscription-details"></a>
+On the **Enrollments** page, you can view details, such as enrollment ID, the program name, enrollment status, and more.&#x20;
 
-On the enrollment details page, you can view extended information for the enrollment. Some information is read-only, while others include links that allow you to navigate to further details.
+You can also select an enrollment to view detailed information organized across several tabs. The information available includes:
 
-To view the enrollment details:
-
-1. Navigate to the **Enrollments** page.
-2. (Optional) Use filters to find the desired enrollment.
-3. Select the enrollment  ID to view basic information, such as the enrollment ID, current status, status message, and more.
-
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_details_page.png" alt=""><figcaption><p>The details page of an enrollment.</p></figcaption></figure></div>
-
-4. Use the following tabs to access additional related information:
-   * **General** - Displays the most up-to-date information for the enrollment.
-   * **Parameters** - Displays the ordering and fulfillment parameters for the enrollment.
-   * **Entities** - Displays the business object linked to the enrollment.&#x20;
-   * **Notes** - Allows you to add or update notes using the **Edit** option.
-   * **Details** - Displays the date and time information for any events related to the enrollment, such as when the enrollment was created.
-   * **Attachments** - Displays files attached to the enrollment.
-   * **Audit trail** - Displays a record of events related to the enrollment. For more information, see [Audit Trail](../../settings/audit-trail.md).
+* General information and the current status of the enrollment.
+* Parameters and entities linked to the enrollment.
+* Notes and files attached to the enrollment
+* Additional IDs, timestamps, and audit trail.
 
 ### Related topics
 
 {% content-ref url="enrollment-states.md" %}
 [enrollment-states.md](enrollment-states.md)
+{% endcontent-ref %}
+
+{% content-ref url="view-enrollments.md" %}
+[view-enrollments.md](view-enrollments.md)
 {% endcontent-ref %}
 
 {% content-ref url="manage-querying-enrollments.md" %}

@@ -2,7 +2,7 @@
 description: Renew your enrollment easily.
 ---
 
-# Renew Your Enrollment
+# Renew your enrollment
 
 If your enrollment for a program has expired and your certificate is no longer valid, you can re-enroll in the program. By re-enrolling, you can access the products available within the program and continue enjoying the benefits associated with the program.
 
@@ -12,7 +12,7 @@ You can re-enroll in a program only if your certificate has expired. If your cer
 
 To renew your enrollment for a program:
 
-1. Navigate to the **Certificates** page.
+1. Go to the **Certificates** page.
 2. Select the certificate you want to renew.
 3. On the certificate's details page, select **Re-enroll** to start the **Re-enroll** **certificate** wizard.
 4. Complete the following steps:

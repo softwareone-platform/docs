@@ -8,7 +8,7 @@ In the Marketplace Platform, enrollment is the process of registering for a vend
 
 An enrollment can currently exist in these states: **New**, **Processing**, **Querying**, **Complete**, or **Failed**. The following diagram shows the transitions between these states:
 
-<figure><img src="../../../.gitbook/assets/state_diagram_enrollment.png" alt=""><figcaption><p>The state transition diagram of an enrollment.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/state_diagram_enrollment.png" alt="" width="563"><figcaption><p>The state transition diagram of an enrollment.</p></figcaption></figure>
 
 The following table provides a description of the different states:
 

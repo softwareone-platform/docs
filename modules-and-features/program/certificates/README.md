@@ -10,11 +10,17 @@ The **Certificates** page allows you to view your certificates.
 
 To access this page, select the main menu, then choose **Programs** > **Certificates**. Your list of certificates is displayed. This includes certificates awaiting vendor approval, as well as active, expired, and terminated certificates.&#x20;
 
-Additionally, you can find information such as the certificate's name and ID, the certificant's name, its current status, and more.
-
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>The Certificates page in the platform.</p></figcaption></figure></div>
 
-On the **Certificates** page, you can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) as needed. You can also open the details page for a certificate by selecting the certificate.
+On the **Certificates** page, you can view details, such as the certificate name and ID, name of the certificant, current status, and more.
+
+You can also select a certificate to view detailed information organized across several tabs. The information available includes:
+
+* Current status of the certificate and actions you can take, if any.
+* Parameters linked to the certificate.
+* Enrollments and agreements related to the certificate.&#x20;
+* Terms and conditions of the program.
+* Additional IDs, timestamps, and audit trail.
 
 ### Related topics
 
