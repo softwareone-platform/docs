@@ -18,6 +18,8 @@ We’ve refined how Adobe products are presented throughout the SoftwareOne Mark
 
 These updates make it easier to understand what you’re ordering and provide the right information first time.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="Improved product descriptions and order guidance"><figcaption><p>Improved product descriptions and order guidance</p></figcaption></figure></div>
+
 ### More transparency for reseller transfers
 
 You can now see exactly what is being transferred:

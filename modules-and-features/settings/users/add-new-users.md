@@ -30,7 +30,7 @@ To add a new user:
 
 After adding the user, advise the user to locate the invitation email from SoftwareOne Marketplace and accept the invite.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt="" width="549"><figcaption><p>SoftwareOne Marketplace's account invitation email.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="549"><figcaption><p>SoftwareOne Marketplace's account invitation email.</p></figcaption></figure></div>
 
 {% hint style="info" %}
 * To resend the invitation, go to the **Users** page > select the actions icon (**•••**) for the user > select **Resend invitation link**.&#x20;
