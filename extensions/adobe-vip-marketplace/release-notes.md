@@ -16,9 +16,9 @@ We’ve refined how Adobe products are presented throughout the SoftwareOne Mark
 * Improved on-screen guidance during ordering
 * Better structured product and item selection
 
-These updates make it easier to understand what you’re ordering and provide the right information first time.
+These updates make it easier to understand what you’re ordering and provide the right information when you need it.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image.png" alt="Improved product descriptions and order guidance"><figcaption><p>Improved product descriptions and order guidance</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Adobe Product Description.png" alt="Improved product descriptions and order guidance"><figcaption><p>Improved product descriptions and order guidance</p></figcaption></figure></div>
 
 ### More transparency for reseller transfers
 
