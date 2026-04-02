@@ -30,10 +30,6 @@ It also allows administrators to secure account access by overseeing users, grou
 
 **Administration**
 
-{% content-ref url="account-team.md" %}
-[account-team.md](account-team.md)
-{% endcontent-ref %}
-
 {% content-ref url="groups/" %}
 [groups](groups/)
 {% endcontent-ref %}

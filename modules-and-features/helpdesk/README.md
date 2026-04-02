@@ -10,6 +10,10 @@ Additionally, you can use this module to share your feedback about the SoftwareO
 
 ### Topics in this section
 
+{% content-ref url="account-team.md" %}
+[account-team.md](account-team.md)
+{% endcontent-ref %}
+
 {% content-ref url="cases/" %}
 [cases](cases/)
 {% endcontent-ref %}

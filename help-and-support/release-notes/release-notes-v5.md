@@ -12,9 +12,9 @@ We are pleased to announce the latest release of SoftwareOne's Marketplace Platf
 
 Analytics is a new feature that allows you to visualize your billing data. You can access this feature from the main menu by selecting **Billing** > **Analytics**.
 
-Analytics uses interactive charts and filters to help you understand charges from your invoices and credit memos so you can monitor spending, forecast budgets, and manage your expenditure. &#x20;
+Analytics uses interactive charts and filters to help you understand charges from your invoices and credit memos so you can monitor spending, forecast budgets, and manage your expenditure. The feature offers robust grouping options to help you group data across dimensions, such as **Agreement**, **Item**, **Product**, and more. It provides a visual summary of your top 10 entities based on your selected grouping, and automatically combines the remaining entities under a single category called Others / Unmatched for readability.&#x20;
 
-The feature offers robust grouping options to help you group data across dimensions, such as **Agreement**, **Item**, **Product**, and more. It provides a visual summary of your top 10 entities based on your selected grouping, and automatically combines the remaining entities under a single category called Others / Unmatched for readability. You can also export your data to Excel and choose a target currency for your financial reporting. For more information, see [Analytics](../../modules-and-features/billing/analytics/).
+Additionally, you can also export your data to Excel and choose a target currency for your financial reporting. For more information, see [Analytics](../../modules-and-features/billing/analytics/).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Billing Analytics 4.png" alt=""><figcaption><p>Monitor your billing data using Analytics.</p></figcaption></figure></div>
 
@@ -44,9 +44,9 @@ This new product, **Amazon Web Services and SoftwareOne Cloud Managed Services E
 * Consolidate billing and costs across multiple AWS organizations.&#x20;
 * Transition your billing to SoftwareOne seamlessly.
 * Access cost reporting and optimization insights through the SoftwareOne Marketplace Platform.
-* Simplify procurement by eliminating the need to manage multiple invoices, as you get one clear and optimized bill for your entire AWS estate.
+* Simplify procurement by eliminating the need to manage multiple invoices, with a single bill for your entire AWS estate.
 
-The new product is available in all AWS regions that support billing transfer. This includes all public AWS regions, except AWS GovCloud (US) and China regions, including Beijing and Ningxia. For more information, see the [AWS news blog](https://aws.amazon.com/blogs/aws/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/).
+The new product is available in all AWS regions that support billing transfer. This includes all public AWS regions, except AWS GovCloud (US) and China regions, including Beijing and Ningxia. For more information, see [Amazon Web Services](../../extensions/amazon-web-services/).&#x20;
 
 ### Currency & Billing Updates
 
@@ -115,24 +115,28 @@ You can now share your experience, suggestions, and improvement ideas with us us
 
 When submitting feedback, you can provide a rating and detailed comments, attach supporting files, or screenshots. After submitting feedback, you can view a list of your feedback entries and view the status of each submission. For more information, see [Share feedback](../share-feedback.md).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-send-feedback (1).png" alt=""><figcaption><p>Share your feedback and ideas for improvement.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-send-feedback (1).png" alt=""><figcaption><p>Share your feedback and ideas for improvements.</p></figcaption></figure></div>
 
-### Global Settings for Notification Emails
+### Enhanced Notification Experience
 
-Account administrators can now customize notification email settings.
+We've enhanced the notification experience within Marketplace, allowing account administrators to customize notification email settings. These enhancements provide greater control over how notifications are delivered and experienced.
 
-When configuring these settings, admins can define a custom sender name displayed to recipients and add a custom footer to all notification emails.&#x20;
+Account administrators can now configure the appearance of notification emails. They can:
 
-Administrators can also view the preferred language for notification emails and update it using the **Edit** option on the **Account** page. For more information, see [Customize notification settings](../../modules-and-features/settings/notifications/edit-notification-settings.md).
+* Define a custom sender name that will be displayed to recipients.
+* Include a consistent, organization-specific messaging footer in each notification email.&#x20;
+* Set a preferred language for receiving notifications.
+
+Additionally, we've expanded the list of notification templates to include order status, subscription changes, enrollments, certificates, and more. For more information, see [Customize notification settings](../../modules-and-features/settings/notifications/edit-notification-settings.md).
 
 ### Vendor & Product Profile Pages
 
-We are introducing **Vendor profiles** and **Product profiles** pages in the platform to enhance discovery and create a more seamless experience in the SoftwareOne Marketplace.&#x20;
+We are introducing **Vendor profiles** and **Product profiles** pages in the platform to enhance discovery and create a more seamless experience in the SoftwareOne Marketplace. &#x20;
+
+You can access these new pages through the **Catalog** option in the main menu.
 
 * [Vendor profiles](../../modules-and-features/catalog/vendor-profiles/) are centralized marketing and informational pages for each vendor. These profiles allow you to learn about the vendors and the products they offer.
 * [Product profiles](../../modules-and-features/catalog/product-profiles/) are marketing-focused representations of a product or a grouping of products. They are designed to help you understand the product and start the ordering process directly from within the profile.
-
-You can access these pages through the **Catalog** option in the main menu.
 
 ### Alga PSA Integration with Marketplace Platform
 
@@ -161,7 +165,7 @@ You can now access your sales orders and sales quotes directly in the Marketplac
 
 For former PyraCloud users, the **Sales orders** and **Sales quotes reporting** pages provide an upgraded experience. If you previously used PyraCloud for your sales orders and quotes, you can take advantage of the new interface, which includes enhanced search capabilities, PDF downloads, advanced filters, and the option to **Switch to classic view**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sales Quote2.png" alt=""><figcaption><p>Use the Procument module to access your sales order and sales quotes.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sales Quote2.png" alt=""><figcaption><p>Use the Procurement module to access your sales orders and sales quotes.</p></figcaption></figure></div>
 
 ### New APIs & Business Objects Reference
 
