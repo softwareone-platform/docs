@@ -38,6 +38,8 @@ If you have a 3-year commitment (3YC), we’ll now keep you informed with timely
 
 This helps you take action at the right time and avoid disruption.
 
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/3yc Notifications.png" alt="Get notified as your 3-year commitment expires"><figcaption><p>Get notified as your 3-year commitment expires</p></figcaption></figure></div>
+
 ### Better visibility of your linked memberships
 
 Your linked membership details are now easier to access:
