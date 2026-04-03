@@ -12,7 +12,7 @@ We are pleased to announce the latest release of SoftwareOne's Marketplace Platf
 
 Analytics is a new feature that allows you to visualize your billing data. You can access this feature from the main menu by selecting **Billing** > **Analytics**.
 
-Analytics uses interactive charts and filters to help you understand charges from your invoices and credit memos so you can monitor spending, forecast budgets, and manage your expenditure. The feature offers robust grouping options to help you group data across dimensions, such as **Agreement**, **Item**, **Product**, and more. It provides a visual summary of your top 10 entities based on your selected grouping, and automatically combines the remaining entities under a single category called Others / Unmatched for readability.&#x20;
+Analytics uses interactive charts and filters to help you understand charges from your invoices and credit memos so you can monitor spending, forecast budgets, and manage your expenditure. The feature offers robust grouping options to help you group data across dimensions, such as **Agreement**, **Item**, **Product**, and more. It provides a visual summary of your top 10 entities based on your selected grouping, and automatically combines the remaining entities under a single category called Others/Unmatched.&#x20;
 
 Additionally, you can also export your data to Excel and choose a target currency for your financial reporting. For more information, see [Analytics](../../modules-and-features/billing/analytics/).
 
@@ -30,10 +30,13 @@ For information on the eligibility criteria for EST, see [What subscription rene
 
 ### Assets and Entitlements in the Marketplace
 
-You can now view and manage your assets and entitlements directly in the Marketplace.
+Your agreement now includes two new tabs called [Assets](../../modules-and-features/marketplace/assets/) and [Entitlements](../../modules-and-features/marketplace/entitlements/).&#x20;
 
-* Assets, also known as one-time purchased items or perpetual licenses, are products you buy once and own indefinitely. The **Assets** page provides a centralized view of all such items and allows you to manage them easily. For more information, see [Assets](../../modules-and-features/marketplace/assets/).
-* Entitlements include all items associated with your account, showing the quantity you are entitled to use. This covers both subscription-based items and one-time purchases (assets). The **Entitlements** page gives a comprehensive overview of your entitlements. For more information, see [Entitlements](../../modules-and-features/marketplace/entitlements/).
+* Assets are one-time purchases that don’t renew. An asset either lasts indefinitely, such as a perpetual Microsoft Office 2024 license, or is consumed when used, like an Adobe Stock Credit Pack.
+* Subscriptions (already available) cover recurring purchases that renew automatically at the end of each term.
+* Entitlements exist within both assets and subscriptions. Each entitlement has its own price, quantity, and term. The **Entitlements** tab provides a single view of everything you own within the agreement.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Image.png" alt=""><figcaption><p>View your assets and entitlements in the Marketplace.</p></figcaption></figure></div>
 
 ### New AWS & Cloud Managed Services Essentials Offering
 
@@ -160,10 +163,10 @@ Once an extension is installed, it can be viewed on the **Installations** page. 
 
 You can now access your sales orders and sales quotes directly in the Marketplace by navigating to the **Procurement** section in the main menu.
 
-* The [Sales orders](../../modules-and-features/procurement/sales-orders/) page offers an improved, transparent way to manage your sales orders. You can narrow down your orders based on your specific criteria, select an order to view its detailed information, and download a PDF of your sales order.&#x20;
-* The [Sales quotes reporting](../../modules-and-features/procurement/sales-quotes-reporting/) page provides a unified, easy-to-understand view of what has been quoted and what is currently in progress. From this page, you can view your pending, accepted, and historical sales quotes, along with corresponding sales orders as they move through fulfilment and billing. You can also select a quote to see its detailed information and download the sales quote PDF.
+* The [Sales orders](../../modules-and-features/procurement/sales-orders/) page offers an improved way to manage your sales orders. You can narrow down orders based on specific criteria, select an order to view detailed information, and download a PDF of your sales order.&#x20;
+* The [Sales quotes reporting](../../modules-and-features/procurement/sales-quotes-reporting/) page provides a unified view of what has been quoted and what is currently in progress. From this page, you can view your pending, accepted, and historical sales quotes, along with corresponding sales orders as they move through fulfilment and billing. You can also select a quote to see details and download the sales quote PDF.
 
-For former PyraCloud users, the **Sales orders** and **Sales quotes reporting** pages provide an upgraded experience. If you previously used PyraCloud for your sales orders and quotes, you can take advantage of the new interface, which includes enhanced search capabilities, PDF downloads, advanced filters, and the option to **Switch to classic view**.
+For former PyraCloud users, the **Sales orders** and **Sales quotes reporting** pages provide an upgraded experience. If you previously used PyraCloud for your sales orders and quotes, you can use the new interface with enhanced search capabilities, PDF downloads, advanced filters, and the option to **Switch to classic view**.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sales Quote2.png" alt=""><figcaption><p>Use the Procurement module to access your sales orders and sales quotes.</p></figcaption></figure></div>
 
