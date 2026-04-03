@@ -1234,6 +1234,13 @@
 * [Mobile App FAQs](marketplace-mobile-app/mobile-app-faqs.md)
 * [Release Notes](marketplace-mobile-app/release-notes.md)
 
+## Marketplace Mobile App
+
+* [App Overview](marketplace-mobile-app-1/app-overview/README.md)
+  * [Get Started with the App](marketplace-mobile-app-1/app-overview/get-started-with-the-app.md)
+* [Mobile App FAQs](marketplace-mobile-app-1/mobile-app-faqs.md)
+* [Release Notes](marketplace-mobile-app-1/release-notes.md)
+
 ## Help and Support
 
 * [Contact Support](help-and-support/contact-support.md)
