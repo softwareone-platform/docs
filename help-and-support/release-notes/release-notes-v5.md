@@ -124,13 +124,9 @@ When submitting feedback, you can provide a rating and detailed comments, attach
 
 We've enhanced the notification experience within Marketplace, allowing account administrators to customize notification email settings. These enhancements provide greater control over how notifications are delivered and experienced.
 
-Account administrators can now configure the appearance of notification emails. They can:
+Account administrators can now configure the appearance of notification emails. They can define a custom sender name that will be displayed to recipients, include a consistent, organization-specific messaging footer in each notification email, and set a preferred language for receiving notifications. For more information, see [Customize notification settings](../../modules-and-features/settings/notifications/edit-notification-settings.md).
 
-* Define a custom sender name that will be displayed to recipients.
-* Include a consistent, organization-specific messaging footer in each notification email.&#x20;
-* Set a preferred language for receiving notifications.
-
-Additionally, we've expanded the list of notification templates to include order status, subscription changes, enrollments, certificates, and more. For more information, see [Customize notification settings](../../modules-and-features/settings/notifications/edit-notification-settings.md).
+Additionally, we've expanded the list of notification templates to include order status, subscription changes, enrollments, certificates, and more.&#x20;
 
 ### Vendor & Product Profile Pages
 
