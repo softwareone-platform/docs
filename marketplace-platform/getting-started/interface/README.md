@@ -145,8 +145,8 @@ For information on adding and managing favorites, see [Using Favorites](mark-fav
 
 <summary>Account team widget</summary>
 
-The **Account Team** widget displays the SoftwareOne account team responsible for supporting your account. The widget also displays the contact options you can use to get in touch with a member.&#x20;
+The **Account Team** widget displays the SoftwareOne account team responsible for supporting your account. The widget also displays the options to contact a member.&#x20;
 
-You can also access this information on the **Helpdesk** > **Account team** page.&#x20;
+You can also access this information on the **Helpdesk** > [Account team](../../../modules-and-features/helpdesk/account-team.md) page.&#x20;
 
 </details>

@@ -1,4 +1,4 @@
-# What subscription renewal options are available?
+# What subscription renewal options are available
 
 Effective February 16, 2026, Microsoft provides the following options for renewing subscriptions:
 
@@ -27,17 +27,11 @@ The following example illustrates how the subscription start and end dates affec
 
 ### Managing renewals in SoftwareOne Marketplace
 
-In the SoftwareOne Marketplace, you can manage your subscription renewals through self-service. For instructions, see [Manage Automatic Renewals](../../../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+In the SoftwareOne Marketplace, you can manage your subscription renewals through self-service. For details, see [How to renew or cancel your CSP subscriptions](how-to-renew-or-cancel-your-csp-subscriptions.md).
 
 When managing renewal, the following options are available:&#x20;
 
-* **Auto-renewal enabled** - Your subscription renews automatically as usual.
-* **Auto-renewal disabled** - If auto-renewal is turned off, your subscription ends on the expiration date. Once a subscription expires, it cannot be recovered.
+* **Enabled** - Your subscription renews automatically as usual. You can choose whether you want to renew the subscription for a regular term or an extended service term. Extended Service Terms apply only to [eligible subscriptions](what-subscription-renewal-options-are-available.md#eligibility-criteria-for-est) that renew or expire after May 4, 2026.&#x20;
+* **Disabled** - Your subscription ends on the expiration date. Once a subscription expires, it cannot be recovered.
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/csp-renewal.png" alt=""><figcaption><p>Subscription auto renewal settings in SoftwareOne Marketplace.</p></figcaption></figure></div>
-
-{% hint style="info" %}
-If you want to move your subscription to EST, you must contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md). &#x20;
-
-Extended Service Terms apply only to [eligible subscriptions](what-subscription-renewal-options-are-available.md#eligibility-criteria-for-est) that renew or expire after May 4, 2026.&#x20;
-{% endhint %}
