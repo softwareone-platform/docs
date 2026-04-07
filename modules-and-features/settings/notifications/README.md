@@ -16,7 +16,7 @@ The Marketplace Platform supports notification subscribers (referred to as categ
 
 For example, the **Orders** notification category includes all alerts related to your orders, like order confirmations and status updates. If you choose to disable this category, you'll stop receiving all emails related to your Marketplace orders.
 
-To see a list of categories, go to **Notifications** > **Subscribers**. To manage these categories, see [Enable or disable categories](https://docs.platform.softwareone.com/~/changes/348/modules-and-features/settings/notifications/enable-or-disable-categories).
+To see a list of categories, go to **Notifications** > **Subscribers**. To manage these categories, see [Enable or disable categories](enable-or-disable-categories.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>The Notifications page in the platform.</p></figcaption></figure></div>
 
