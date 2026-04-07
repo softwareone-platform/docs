@@ -54,15 +54,13 @@ Menu items with chevrons<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA
 
 <summary>Search</summary>
 
-The **Search** bar in the header enables you to search for details, such as your orders, agreements, subscriptions, and more. You can also search for specific products and items in our catalog.
+The **Search** bar in the header enables you to search for details, such as your orders, agreements, subscriptions, invoices, and more.
 
-Additionally, you can use search to access product documentation, including resources such as tutorials, FAQs, and procedures. For example, you can search for 'manage subscriptions' to read documentation about how to manage your subscriptions.
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_search.png" alt=""><figcaption><p>The global search bar.</p></figcaption></figure></div>
+Additionally, you can use search to access product documentation, including resources such as tutorials, FAQs, and procedures. For example, you can search for 'manage subscriptions' to read documentation about how to manage your subscriptions.&#x20;
 
-When performing a search, start by choosing the category you want to search across and then enter the search term. Our platform supports free text, which means you can enter all or part of the object's ID or name.&#x20;
-
-For example, when searching for an agreement using its ID, select the **Agreements** category and then enter the full order ID (such as ‘AGR-8981-7039-6781’) or part of it (such as 6781). The platform will then display results matching your specified search term.
+When performing a search, start by choosing the category you want to search across and then enter the search term. Our platform supports free text, which means you can enter all or part of the object's ID or name. For example, when searching for an agreement using its ID, select the **Agreements** category and then enter the full order ID (such as ‘AGR-8981-7039-6781’) or part of it (such as 6781). The platform will then display results matching your specified search term.
 
 </details>
 
