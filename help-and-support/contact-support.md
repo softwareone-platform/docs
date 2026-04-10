@@ -42,8 +42,4 @@ To create a support case:
 4. Fill out the form according to your issue. Optionally, choose **Select files** to attach a file to your request. The maximum size is 5 MB.
 5. Select **Send**. If the **Send** button is unavailable, make sure you have entered all the required information.
 
-### Next steps
-
-After submitting, you'll receive an email confirming that your case has been created. The email includes the case number for your reference and a link to view the case within the platform. The [Cases page](../modules-and-features/helpdesk/cases/) within the platform also shows your submitted case.
-
 We aim to acknowledge all support cases on the same day as they are submitted, within our core business hours. However, the response time may vary during busy periods.

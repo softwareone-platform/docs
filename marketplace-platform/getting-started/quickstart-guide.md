@@ -69,8 +69,6 @@ You can configure your profile using the **My profile** option in your account m
    * Add a profile picture.
    * Set your timezone and language preferences.
 
-<div data-with-frame="true"><figure><img src="/broken/files/V2HRBv7sZl2IkPycfPpx" alt=""><figcaption><p>Select the Edit option to update your profile</p></figcaption></figure></div>
-
 </details>
 
 <details>
@@ -122,10 +120,10 @@ Administrators can invite additional users to their account.
 
 **To add a new user**
 
-1. Navigate to the [Users page](/broken/pages/y69R8Xy4gK6qm75RNjac), then select **Add**.
+1. Navigate to the [Users page](../../modules-and-features/settings/users/), then select **Add**.
 2. In the **Add user** wizard, enter the user's details and select the required user groups.
 
-For more information, see [Add New Users](/broken/pages/78IjQuMhA6Pk2BNXQxOv).
+For more information, see [Add new users](../../modules-and-features/settings/users/add-new-users.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Add a new user to your account</p></figcaption></figure></div>
 
