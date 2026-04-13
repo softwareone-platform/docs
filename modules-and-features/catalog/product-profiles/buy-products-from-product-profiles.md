@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Buy products from product profiles
 
 After reviewing a product profile, you can start the ordering process directly from within the profile.
