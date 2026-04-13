@@ -24,7 +24,7 @@ To remove a user from your account:
 2. Locate the individual you want to remove from your account.
 3. Select the actions icon (**•••**) and choose **Remove**.
 
-<div data-with-frame="true"><figure><img src="https://docs.platform.softwareone.com/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FZ5DNbniz33mXCZoO62Rm%2Fblobs%2FLYrfL297QoIHk0uZUqal%2Fimage.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=56061311&#x26;sv=2" alt=""><figcaption><p>The Remove option in the actions menu on the Users page.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="https://docs.platform.softwareone.com/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FZ5DNbniz33mXCZoO62Rm%2Fblobs%2FLYrfL297QoIHk0uZUqal%2Fimage.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=56061311&#x26;sv=2" alt=""><figcaption><p>Use the Remove option in the actions menu to remove a user from your account.</p></figcaption></figure></div>
 
 4. In the **Remove user** dialog, select **Remove** to confirm the action.
 

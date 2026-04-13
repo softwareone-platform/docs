@@ -66,10 +66,9 @@ You can perform a reseller transfer by creating a new agreement via the Marketpl
 To initiate the transfer process:&#x20;
 
 1. Sign in to the Marketplace Platform.
-2. From the main menu, go to **Catalog** > **Product profiles**. Then, select the **Adobe VIP Marketplace** profile.
-3. On the profile details page, review the information, then select **Buy now**.
-4. Under **Select product**, choose the required product, then select **Select**. The Purchase Wizard starts.
-5. In the Purchase Wizard, complete the following steps:
+2. From the main menu, go to **Catalog** > **Products**.&#x20;
+3. Select **Adobe VIP Marketplace**. Then, on the product details page, review the information, and select **Buy now**.
+4. In the Purchase Wizard, complete the following steps:
    1. Select **Create agreement**.&#x20;
    2. Choose an existing licensee from the list or [create a new one](../../../modules-and-features/settings/licensees/create-licensees.md). Then, select **Next**.
    3.  Choose **Transfer account** and select **Next**.&#x20;
@@ -81,6 +80,6 @@ To initiate the transfer process:&#x20;
    5. Select **Next** to continue to the **Details** step. This current step is view-only, so you can't modify the available item.
    6. Provide optional details, like additional IDs or order notes, and select **Next**.&#x20;
    7. Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-   8. Select **View order** to navigate to the order details page. Otherwise, select **Close** to exit the wizard.
+   8. Select **View order** to open the order details page. Otherwise, select **Close**.
 
 Once we process the order and change the reseller, we will notify you. You can check the status of your order on the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page.

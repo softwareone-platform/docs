@@ -22,6 +22,12 @@ For each invoice, you can view properties such as invoice ID, total amount due, 
 * **Overdue** - Indicates that the invoice is past due. Invoices in this state require immediate action to prevent service disruptions. Note that overdue invoices may attract penalties, interest, or both, depending on your terms and conditions.
 * **Issued** - Indicates that the invoice has been issued, but it hasn't been settled yet.
 
+You can also view invoice details by selecting the invoice name. The information available includes:
+
+* A list of subscriptions and items included in the invoice, along with the total amount.
+* Official invoice PDFs.
+* A record of events or logs for the invoice.&#x20;
+
 ### Related topics
 
 {% content-ref url="filter-invoices.md" %}

@@ -10,7 +10,7 @@ The **Certificates** page allows you to view your certificates.
 
 To access this page, select the main menu, then choose **Programs** > **Certificates**. Your list of certificates is displayed. This includes certificates awaiting vendor approval, as well as active, expired, and terminated certificates.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>The Certificates page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>Use the Certificates page to view and manage certificates.</p></figcaption></figure></div>
 
 On the **Certificates** page, you can view details, such as the certificate name and ID, name of the certificant, current status, and more.
 

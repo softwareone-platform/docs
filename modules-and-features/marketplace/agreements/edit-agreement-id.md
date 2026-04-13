@@ -14,7 +14,7 @@ To add or update the Additional Client ID for an order:
 
 1. Go to **Marketplace** > **Agreements**.
 2. Select the required agreement.
-3. On the agreement details page, select the **Details** tab, then select **Edit**.&#x20;
+3. On the **agreement details** page, select the **Details** tab, then select **Edit**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (946).png" alt=""><figcaption><p>Use the Edit option on the Details tab to update the additional client ID. </p></figcaption></figure></div>
 

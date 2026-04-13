@@ -9,7 +9,7 @@ To view your certificates:&#x20;
 1. Go to **Program** > **Certificates**.
 2. View the list of certificates displayed on the page.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>The Certificates page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>Use the Certificates page to view and manage certificates.</p></figcaption></figure></div>
 
 ### Viewing certificate details <a href="#subscription-details" id="subscription-details"></a>
 
@@ -20,7 +20,7 @@ To view the certificate details:
 1. Go to **Program** > **Certificates**.
 2. Select the certificate you want to view. The certificate details page opens.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificate_details_page.png" alt=""><figcaption><p>The details page of a certificate.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificate_details_page.png" alt=""><figcaption><p>Use the certificate details page to manage a certificate.</p></figcaption></figure></div>
 
 3. Use the tabs on the **certificate details** page to view additional information:
 

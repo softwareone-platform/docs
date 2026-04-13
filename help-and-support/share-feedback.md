@@ -34,4 +34,4 @@ To share feedback:
 3. Select **Submit** to finalize and submit your feedback.
 4. Select **View details** to view your feedback. Otherwise, select **Close**.
 
-To modify your feedback after submission, see [Edit or delete feedback](../modules-and-features/helpdesk/feedback/edit-or-delete-feedback.md).
+If you want to modify your feedback after submission, you can do this from the **feedback details** page. For details, see [Edit or delete feedback](../modules-and-features/helpdesk/feedback/edit-or-delete-feedback.md).

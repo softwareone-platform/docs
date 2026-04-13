@@ -14,8 +14,8 @@ Ordering products from the SoftwareOne Marketplace involves a series of steps, d
 {% step %}
 **Review the product profile**
 
-1. Go to **Catalog** > **Product profile**.
-2. From the list of profiles, select the desired profile, for example, **Microsoft 365 Business, Enterprise & Apps**. The details page of your selected profile opens.
+1. Go to **Catalog** > **Products**.
+2. From the list of products, select the desired products, for example, **Microsoft 365 Business, Enterprise & Apps**. The details page of your selected product opens.
 3. Review the information, including product details, features, and more.
 {% endstep %}
 
@@ -24,12 +24,12 @@ Ordering products from the SoftwareOne Marketplace involves a series of steps, d
 
 When you are ready to order, do the following:
 
-1. On the details page of your selected product profile, select **Buy now**.
-2. Under **Select product**, choose the product you want to order, then select **Select**. The Purchase Wizard starts.
+1. On the details page of your selected product, select **Buy now**.
+2. The Purchase Wizard starts.
 
 The wizard guides you through all the steps that must be completed to place an order.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing a series of steps.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>Follow the guided steps to submit your order.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

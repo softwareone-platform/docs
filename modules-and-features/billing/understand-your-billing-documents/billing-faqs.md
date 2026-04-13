@@ -4,28 +4,17 @@ description: Find answers to frequently asked questions about invoices and state
 
 # Billing FAQs
 
-<details>
-
-<summary>What are the differences between Marketplace invoices and statements?</summary>
-
-Invoices and statements are both billing documents, but they serve different purposes. The following table lists the key differences between these documents:
-
-| **Purpose**         | Provides a high-level summary of the charges.                             | Provides a full record of the charges from the vendor.     |
-| ------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **Format**          | PDF                                                                       | Excel                                                      |
-| **Level of detail** | Contains aggregated lines, such as per item, per subscription, and so on. | Can have hundreds or thousands of lines for precise usage. |
-| **Use case**        | Used as an official billing and record-keeping document.                  | Used for reconciliation, in-depth audits, and analysis.    |
-| **Quantity**        | May displays the quantity as 1 if multiple lines are consolidated.        | Each line shows the actual quantity of items.              |
-
-</details>
+### Invoice
 
 <details>
 
-<summary>Where can I find my invoice ID and statement ID?</summary>
+<summary>What's the difference between a compact invoice and a detailed invoice?</summary>
 
-You can find these IDs in the [invoice header](./#invoice-header).
+A compact invoice is issued for statements with a large number of charges. All charges for a product or service are grouped into summarized invoice lines, and quantities are shown as `1` to represent the aggregate charge for each item.&#x20;
 
-<figure><img src="../../../.gitbook/assets/invoice-and-statement-IDs.png" alt=""><figcaption><p>An invoice header containing your invoice and statement IDs. </p></figcaption></figure>
+In contrast, a detailed invoice is for statements with fewer charges. Each charge is shown as a separate line.
+
+For more information, see [Understand Your Billing Documents](./).
 
 </details>
 
@@ -36,18 +25,6 @@ You can find these IDs in the [invoice header](./#invoice-header).
 You can access your invoice from the **Invoices** page in the platform.&#x20;
 
 For details, see [View and Download Invoices](../../marketplace/billing/invoices/download-invoices.md).
-
-</details>
-
-<details>
-
-<summary>What is the difference between a compact invoice and a detailed invoice?</summary>
-
-A compact invoice is issued for statements with a large number of charges. All charges for a product or service are grouped into summarized invoice lines, and quantities are shown as `1` to represent the aggregate charge for each item.&#x20;
-
-In contrast, a detailed invoice is for statements with fewer charges. Each charge is shown as a separate line.
-
-For more information, see [Understand Your Billing Documents](./).
 
 </details>
 
@@ -66,39 +43,21 @@ Both invoice types include a link to the relevant statement, so you can download
 
 <details>
 
-<summary>Can I download statements without signing in to my account?</summary>
+<summary>Can I set or change the billing currency of my invoices?</summary>
 
-Yes, if you don’t have access to your account, you can download a statement from the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page. You'll need to provide your Invoice ID and Statement ID.&#x20;
+You can set the currency while creating a new agreement for a purchase order. You can also change the currency of your existing agreements to receive invoices in that currency.&#x20;
 
-To learn more, see [Download Statements](../../marketplace/billing/statements/download-statements.md).
+For more information, see [How to Set or Change Your Billing Currency](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-set-or-change-your-billing-currency.md).
 
 </details>
 
 <details>
 
-<summary>Why does my invoice only show a single line per item with a quantity of 1?</summary>
+<summary>Why does my invoice show a single line per item with a quantity of 1?</summary>
 
 On [compact invoices](billing-faqs.md#billing-invoices), the quantity is shown as `1` to consolidate all charges at the item level. This is done to simplify the invoice and prevent complexity.&#x20;
 
 For actual item quantities and charges, see your billing statement.
-
-</details>
-
-<details>
-
-<summary>How do I get a detailed breakdown of my charges if I'm only seeing summarized lines?</summary>
-
-You can get a breakdown using the statement link at the top of your invoice. This allows you to download or view the full, itemized breakdown.
-
-</details>
-
-<details>
-
-<summary>Can I request a detailed invoice even if I have a high number of transactions or charges?</summary>
-
-Currently, detailed invoice formatting is determined automatically by the number of charges.&#x20;
-
-For high-volume billing, the platform uses the compact format by default to ensure compatibility with standard accounting practices and technical limits.
 
 </details>
 
@@ -114,20 +73,65 @@ For more information, see [How do you handle purchase order numbers in subscript
 
 <details>
 
-<summary>How does Analytics differ from FinOps for Cloud?</summary>
+<summary>Can I request a detailed invoice even if I have a high number of transactions or charges?</summary>
 
-[Analytics](../analytics/) shows the financial data from your Marketplace invoices and credit memos. It means, the actual charges from your documents are shown within Analytics.
+Currently, detailed invoice formatting is determined automatically by the number of charges.&#x20;
 
-[FinOps for Cloud](https://docs.finops.softwareone.com/) displays the estimated costs for the current period, instead of the actual.
+For high-volume billing, the platform uses the compact format by default to ensure compatibility with standard accounting practices and technical limits.
 
 </details>
 
 <details>
 
-<summary>Can I set or change the billing currency of my invoices?</summary>
+<summary>Where can I find my invoice ID?</summary>
 
-You can set the currency while creating a new agreement for a purchase order. You can also change the currency of your existing agreements to receive invoices in that currency.&#x20;
+You can find the ID in the [invoice header](./#invoice-header).
 
-For more information, see [How to Set or Change Your Billing Currency](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-set-or-change-your-billing-currency.md).
+<figure><img src="../../../.gitbook/assets/invoice-and-statement-IDs.png" alt=""><figcaption><p>The invoice header contains your invoice ID. </p></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>What is the difference between an invoice and a statement?</summary>
+
+Invoices and statements are both billing documents, but they serve different purposes. The following table lists the key differences between these documents:
+
+| **Purpose**         | Provides a high-level summary of the charges.                             | Provides a full record of the charges from the vendor.     |
+| ------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **Format**          | PDF                                                                       | Excel                                                      |
+| **Level of detail** | Contains aggregated lines, such as per item, per subscription, and so on. | Can have hundreds or thousands of lines for precise usage. |
+| **Use case**        | Used as an official billing and record-keeping document.                  | Used for reconciliation, in-depth audits, and analysis.    |
+| **Quantity**        | May displays the quantity as 1 if multiple lines are consolidated.        | Each line shows the actual quantity of items.              |
+
+</details>
+
+### Statements
+
+<details>
+
+<summary>Can I download statements without signing in to my account?</summary>
+
+Yes, if you don’t have access to your account, you can download a statement from the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page. You'll need to provide your Invoice ID and Statement ID.&#x20;
+
+To learn more, see [Download Statements](../../marketplace/billing/statements/download-statements.md).
+
+</details>
+
+<details>
+
+<summary>How do I get a detailed breakdown of charges if I'm only seeing summarized lines?</summary>
+
+You can get a breakdown using the statement link at the top of your invoice. This allows you to download or view the full, itemized breakdown.
+
+</details>
+
+<details>
+
+<summary>Where can I find my statement ID?</summary>
+
+You can find the ID in the [invoice header](./#invoice-header).
+
+<figure><img src="../../../.gitbook/assets/invoice-and-statement-IDs.png" alt=""><figcaption><p>The invoice header contains your statement ID. </p></figcaption></figure>
 
 </details>

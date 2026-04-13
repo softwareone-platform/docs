@@ -1,41 +1,54 @@
 # Orders
 
-In the SoftwareOne Marketplace, an order represents a business transaction created under an agreement. The following types of orders exist in the platform:
+An order represents a transaction used to create, modify, or terminate a service within the Marketplace. Orders are always created in the scope of an agreement.&#x20;
 
-* **Purchase orders** - Created when you buy a new product or service by establishing a new agreement.
-* **Change orders** - Created when you modify the number of licenses for a subscription, for example, when you order additional licenses or reduce the quantity of current ones.
-* **Terminate order** - Created when you want to end an active subscription or agreement.&#x20;
-* **Configuration order** - Created when you want to enable or disable the auto-renewal of a subscription.
+The SoftwareOne Marketplace supports several order types, and each order type serves a specific purpose:
 
-### Viewing the list of orders
+* **Purchase orders** - A purchase order is created when you buy a new product or service by establishing a new agreement.&#x20;
+* **Change orders** - A change order is created when you modify an existing subscription. For example, add or remove licenses.
+* **Termination order** - A termination order is created when you want to end an active subscription or agreement.
+* **Configuration order** - A configuration order is created when you want to manage renewal settings for a subscription. For example, enable auto-renewal.
 
-To view your orders, go to **Marketplace** > **Orders**.&#x20;
+Marketplace orders progress through multiple states from the time they are created until they are completed. For details, see [Order status](order-states.md).&#x20;
 
-When you launch the **Orders** page, all orders in your account are displayed. For each order, you can view information, such as the order number, linked agreement, product name, estimated sales price, status, and more.&#x20;
+### Accessing orders
 
-You can use the [sorting and filtering options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) as needed. For more information, see [How to filter orders](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md).
+The **Orders** page allows you to view your orders. From this page, you can also manage an order, depending on its current status.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>The Orders page in the platform.</p></figcaption></figure></div>
+To navigate to the **Orders** page, select the main menu, then choose **Marketplace** > **Orders**. The list of orders is displayed.
 
-### Viewing order details <a href="#order-details" id="order-details"></a>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>Use the Orders page to view and manage your orders.</p></figcaption></figure></div>
 
-On the **order details** page, you can view detailed information about an order. Some information is read-only, while other fields include links that allow you to navigate to related records.
+On the **Orders** page, you can view various details for each order, including the order ID, type, status, and more.&#x20;
 
-To view order details:
+You can also select an order to view detailed information organized across several tabs. The information available includes a list of entitlements, assets, and subscriptions, file attachments and certificates, a record of events or logs for the order, and more. For details, see [View orders](view-orders.md).
 
-1. Go to **Marketplace** > **Orders**.
-2. Select the order you want to view. The order details page opens.
-3. Use the tabs on the order details page to view different types of information:
+### Related topics
 
-<table><thead><tr><th width="200">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the most up-to-date information for the order. </td></tr><tr><td><strong>Entitlements</strong> </td><td>Displays the items you have purchased along with their details, including quantity, pricing, status, and more.</td></tr><tr><td><strong>Parameters</strong> </td><td>Displays the order's fulfillment and ordering parameters.</td></tr><tr><td><strong>Entities</strong></td><td>Displays the entities linked to the order, including the licensee, buyer, and seller.</td></tr><tr><td><strong>Subscriptions</strong></td><td>Displays the subscriptions associated with the order and their details. Subscriptions are displayed only after they have been activated.</td></tr><tr><td><strong>Assets</strong></td><td>Displays assets or one-time items in the order. For more information on one-time items, see <a href="../assets/">Assets</a>.</td></tr><tr><td><strong>Notes</strong></td><td>Displays any notes entered during the ordering process. You can add or update these notes using the <strong>Edit</strong> option.</td></tr><tr><td><strong>Attachments</strong> </td><td>Lists all files available for download under the agreement. For more information, see <a href="../agreements/view-and-download-attachments.md">View and download attachments</a>.</td></tr><tr><td><strong>Certificates</strong></td><td>Displays certificates used during the ordering process.</td></tr><tr><td><strong>Details</strong></td><td>Displays timestamps and additional IDs, including the client and vendor IDs.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a record of events related to the order. For more information, see <a href="../../settings/audit-trail.md">Audit Trail</a>. </td></tr></tbody></table>
+{% content-ref url="order-states.md" %}
+[order-states.md](order-states.md)
+{% endcontent-ref %}
 
-### Additional actions
+{% content-ref url="view-orders.md" %}
+[view-orders.md](view-orders.md)
+{% endcontent-ref %}
 
-You can perform various actions on the details page. The available actions depend on the status of the order:
+{% content-ref url="save-order-as-a-draft.md" %}
+[save-order-as-a-draft.md](save-order-as-a-draft.md)
+{% endcontent-ref %}
 
-* [Delete a draft order](delete-draft-orders.md)
-* [Submit your saved orders for processing](submit-draft-orders.md)
-* [Manage the notes for your order](manage-order-notes.md)
-* [Change your order's status to Processing](set-an-order-to-processing.md)
-* [Send the order reminder email](send-order-reminder-email.md)
-* [View and download attachments](../agreements/view-and-download-attachments.md)
+{% content-ref url="delete-draft-orders.md" %}
+[delete-draft-orders.md](delete-draft-orders.md)
+{% endcontent-ref %}
+
+{% content-ref url="manage-order-notes.md" %}
+[manage-order-notes.md](manage-order-notes.md)
+{% endcontent-ref %}
+
+{% content-ref url="set-an-order-to-processing.md" %}
+[set-an-order-to-processing.md](set-an-order-to-processing.md)
+{% endcontent-ref %}
+
+{% content-ref url="send-order-reminder-email.md" %}
+[send-order-reminder-email.md](send-order-reminder-email.md)
+{% endcontent-ref %}

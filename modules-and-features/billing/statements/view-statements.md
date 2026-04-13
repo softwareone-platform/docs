@@ -10,7 +10,7 @@ To view your statements:
 2. View the list of statements displayed on the page.
 3. Review properties, such as statement ID, the total amount due, status, and more. You can also view the statement type. A **Debit** type means that the total amount is positive or zero, and a **Credit** type means that the total amount is negative.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>The Statements page in the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Use the Statements page to view your billing statements.</p></figcaption></figure></div>
 
 ### Viewing statement details <a href="#subscription-details" id="subscription-details"></a>
 
@@ -20,9 +20,9 @@ To view statement details:
 
 1. Go to **Billing** > **Statements**.
 2. (Optional) Use filters to find the desired statement.
-3. Select the statement ID. The details page of the statement opens.
+3. Select the statement ID. The **statement details** page opens.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>The details page of a statement.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>Use the details page to view detailed information for a statement.</p></figcaption></figure></div>
 
 4. Use the tabs on the **statement details** page to access different types of information:
 

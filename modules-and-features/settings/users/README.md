@@ -17,7 +17,7 @@ The **Users** page allows account administrators to perform user management task
 
 To navigate to the **Users** page, select the main menu, then choose **Settings** > **Users**. The list of users is displayed as shown in the following image:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>The Users page in the SoftwareOne Marketplace.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>Use the Users page to view and manage users.</p></figcaption></figure></div>
 
 On the **Users** page, you can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) to customize the list.&#x20;
 

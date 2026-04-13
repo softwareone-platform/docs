@@ -37,9 +37,10 @@ To send us an email, use this email address: [marketplace-support@softwareone.co
 To create a support case:
 
 1. [Sign in to your account](https://portal.platform.softwareone.com).&#x20;
-2. From the main navigation menu, go to **Other tools** > **Helpdesk (classic)**.
-3. On the **Help and Support** page, select **Submit a Ticket**.
-4. Fill out the form according to your issue. Optionally, choose **Select files** to attach a file to your request. The maximum size is 5 MB.
-5. Select **Send**. If the **Send** button is unavailable, make sure you have entered all the required information.
+2. Do one of the following:
+   * Select the help icon <img src="../.gitbook/assets/icon_help.png" alt="" data-size="line"> in the header. Then, choose **Need help**.
+   * From the main menu, go to **Other tools** > **Helpdesk (classic)**. Then, select **Submit a ticket**.
+3. Fill out the form according to your issue. Optionally, choose **Select files** to attach a file to your request. The maximum size is 5 MB.
+4. Select **Send**. If the **Send** button is unavailable, make sure you have entered all the required information.
 
 We aim to acknowledge all support cases on the same day as they are submitted, within our core business hours. However, the response time may vary during busy periods.

@@ -14,11 +14,11 @@ The **Groups** page allows account administrators to perform tasks, such as addi
 
 To navigate to the **Groups** page, select the main menu, then choose **Settings** > **Groups**. The list of groups is displayed, as shown in the following image:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>The Groups page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>Use the Groups page to view and manage groups.</p></figcaption></figure></div>
 
-On the **Groups** page, you can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) to customize the list.&#x20;
+On the **Groups** page, you can manage a group from the **Actions** column and select a group to view detailed information organized across several tabs.&#x20;
 
-You can view a group's details by selecting the group name, and manage a group by using the options in the **Actions** column.
+The information available includes a list of users within the group, modules that the group members can access, a record of events and logs for the group, and more. For details, see [View groups](view-groups.md).
 
 ### Related topics
 

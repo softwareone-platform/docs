@@ -2,13 +2,13 @@
 description: Preview key details quickly using information cards.
 ---
 
-# Information Cards
+# Information cards
 
 Information cards are small, interactive cards that display the key properties of an object within the platform.&#x20;
 
 These cards appear when you hover over an object's name. For instance, if you hover over an agreement, you'll notice that an information card appears and it shows you more information about that agreement.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/information_card.png" alt=""><figcaption><p>The information card on the Agreements page.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/information_card.png" alt=""><figcaption><p>Use information cards to view key properties in one place.</p></figcaption></figure></div>
 
 Information cards make it easy to access information quickly. They display all the key attributes in one place, allowing you to learn more about the object without navigating to its details page.
 

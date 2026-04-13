@@ -28,10 +28,9 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Go to **Catalog** > **Product profile**.
-2. From the list of profiles, select the **Microsoft Azure** profile.
-3. On the profile details page, review the product information, then select **Buy now**.
-4. Under **Select product**, choose the product, then select **Select**. The Purchase Wizard starts.
+1. Go to **Catalog** > **Products**.
+2. From the list of products, select **Microsoft Azure**.
+3. On the **product details** page, review the product information, then select **Buy now**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}

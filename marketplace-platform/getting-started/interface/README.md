@@ -10,7 +10,7 @@ This content applies to all Marketplace Platform users, including Client Portal 
 
 <figure><img src="../../../.gitbook/assets/marketplace_platform.png" alt=""><figcaption><p>SoftwareOne Marketplace Platform</p></figcaption></figure>
 
-## Signing in to your account
+### Signing in to your account
 
 You can access the platform from an up-to-date desktop or mobile browser. For a list of supported browsers, see [Which browsers do you support?](../../../help-and-support/faqs/which-browsers-do-you-support.md).
 
@@ -24,13 +24,13 @@ Upon successful sign-in, the platform's **Home** page is displayed.
 
 If you provide inaccurate credentials, an error message is displayed. If you don’t remember your password, select **Forgot password?** and follow the instructions to recover it.
 
-## Understanding the interface layout
+### Understanding the interface layout
 
 The Marketplace Platform interface is designed to provide consistent navigation across all portals.
 
 While the layout is consistent, the available modules and content depend on your role and portal (Client, Vendor, or Operations).
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/home-page.png" alt=""><figcaption><p>The SoftwareOne Marketplace Home page</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/home-page.png" alt=""><figcaption><p>The Home page of the SoftwareOne Marketplace Platform.</p></figcaption></figure></div>
 
 ### Header
 
@@ -46,7 +46,7 @@ When you are viewing a page within a specific module, the menu label changes to 
 
 Menu items with chevrons<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAACZklEQVR4Aezb223CQBSEYZNCKCD0kyLTDymARsjOA9I+IBsEeObMmYgVJolyzP9lc7PyteSFWiAA1PzLEoAAkAuQx2cHBIBcgDw+OyAA5ALk8dkBASAXII/vuQPI0efxAZhrEI4DQIg+jwzAXINwHABC9HlkAOYahOMAEKLPIwMw1yAcB4AQfR4ZgLkG4TgAhOjzyB0B5rE5vhUIwK0E6V4S4Hg8fpN67D5WDgDxD4fDL+53r0EYKAWA6Ig/Opxwj8fj2PomA4DYiD5qn8bCrQWCBMCd+ADAskegA6zEBwCWNQIV4IH4AMCyRaACXC6Xv+v1+jMKn8faulkiUAFQ3B0Bz3Ft0QFwcp0RJAA6I8gAdEWQAuiIIAfQDUESoBOCLEAXBGmADgjyAO4IJQCcEcoAPIWAd16WEn87KgWArm5/tigH4IZQEsAJoSyAC0JpAAeE8gBAqLzKAzxxXRlOZ1wCxU9SeKCwSgNUj49PgLIADvHLArjEfzMAPtznl1N81Cr1JcgtfikAx/hlAFzjlwBwji8P4B5fGqBDfFmALvElATrFlwPoFl8KoGp8RHxlSfwm3DU+4OgAnePTAbrHpwPgyhSuUI0T2fonPbkrWeOc33Kjfwl6AME2PgTpADiJFQTr+HjuEgA4kTsI9vHxvGUAcDIzAr434DFe77ykABAa0bvEx/OVA8BJAQH3HZYkwGZ4o3cIABkzAAEgFyCPzw4IALkAeXx2QADIBcjjswMCQC5AHp8dUAeAfKam47MDyLABCAC5AHl8dkAAyAXI47MDAkAuQB6fHRAAcgHy+OyADYBPv/kfAAD//0tdFtMAAAAGSURBVAMA3sGt0H3+ScMAAAAASUVORK5CYII=" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#1f1f1f&#x22;><path d=&#x22;M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z&#x22;/></svg>" data-size="line">can be expanded to reveal additional pages within that category.
 
-<figure><img src="../../../.gitbook/assets/interface_home.png" alt=""><figcaption><p>The main navigation menu.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/interface_home.png" alt=""><figcaption><p>Use the main navigation menu to access different modules.</p></figcaption></figure>
 
 </details>
 
@@ -56,7 +56,7 @@ Menu items with chevrons<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA
 
 The **Search** bar in the header enables you to search for details, such as your orders, agreements, subscriptions, invoices, and more.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/search.png" alt=""><figcaption><p>Use the Search bar to find your orders, invoices, and much more.</p></figcaption></figure></div>
 
 Additionally, you can use search to access product documentation, including resources such as tutorials, FAQs, and procedures. For example, you can search for 'manage subscriptions' to read documentation about how to manage your subscriptions.&#x20;
 
@@ -84,7 +84,7 @@ The **Spotlight** option <img src="../../../.gitbook/assets/icon_pending_actions
 
 Examples of such tasks include subscriptions nearing expiration, orders querying for more information, and more.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>The spotlight widget on the Home page.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>Use the spotlight widget to view and manage urgent tasks.</p></figcaption></figure></div>
 
 </details>
 
@@ -101,7 +101,7 @@ If you belong to multiple accounts, the profile menu also includes an account sw
 * Mark an account as a favorite for easy access later from the **Favorites** tab.&#x20;
 * View all recently accessed accounts on the **Recents** tab.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Your user profile menu in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Use the profile menu to access your profile, manage settings, switch accounts, and more.</p></figcaption></figure></div>
 
 </details>
 

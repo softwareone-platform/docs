@@ -14,7 +14,7 @@ The **Accounts** page allows account administrators to view details, such as you
 
 To navigate to the **Accounts** page, select the main menu, then choose **Settings** > **Accounts**.&#x20;
 
-<figure><img src="../../../.gitbook/assets/settings-account-page.png" alt=""><figcaption><p>The Account page in the platform.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/settings-account-page.png" alt=""><figcaption><p>Use the Account page to view your account information.</p></figcaption></figure>
 
 ### Related topics
 

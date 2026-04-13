@@ -26,8 +26,8 @@ Before starting this tutorial, make sure you are familiar with [key concepts](..
 
 To start the process:
 
-1. Go to **Catalog** > **Product profile**.
-2. From the list of profiles, select the **Microsoft Perpetual Software** profile.
+1. Go to **Catalog** > **Products**.
+2. From the list of products, select **Microsoft Perpetual Software**.
 3. On the profile details page, review the product information, then select **Buy now**.
 4. Under **Select product**, choose the product, then select **Select**. The Purchase Wizard starts.
 {% endstep %}
@@ -55,11 +55,11 @@ To start the process:
    3. Adjust the item quantity as needed, then select **Next**.
 8. **Details** - Provide any additional IDs for the order and the agreement, then select **Next**.
 9. **Review order** - Read the terms and conditions of the order and the privacy statement. When done, select **Place order**.
-10. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
+10. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
-## Next steps <a href="#next-steps" id="next-steps"></a>
+### Next steps <a href="#next-steps" id="next-steps"></a>
 
 Once you have placed your order, we verify the order details, including the Microsoft tenant ID, and create your new subscription.&#x20;
 

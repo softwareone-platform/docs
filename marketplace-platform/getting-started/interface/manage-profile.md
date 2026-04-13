@@ -20,7 +20,7 @@ To update your profile:
 2. Select your profile menu in the header, then select **My profile**.&#x20;
 3. On your profile overview page, select **Edit**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/manage_profile.png" alt=""><figcaption><p>Use the Edit option on the My Profile page to update your profile</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/manage_profile.png" alt=""><figcaption><p>Use the Edit option on the My Profile page to update your profile.</p></figcaption></figure></div>
 
 4. In **Edit user**, update the general settings as necessary:
    * **Profile picture** - Add or update your profile picture. You can add a photo of yourself, a logo, or anything that represents you and helps others identify you on the platform. Your image must be in the PNG or JPG format. The maximum file size is 5 MB.

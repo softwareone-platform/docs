@@ -6,8 +6,9 @@ You can create a support case by either selecting the help option in the header 
 
 To create a case:
 
-1. Select the help icon <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size="line"> in the header. Then, choose **Need help**.
-2. In the **Add case** wizard, complete the following steps:
+1. Go to **Helpdesk** > **Cases**.&#x20;
+2. Select **Add**.
+3. In the **Add case** wizard, complete the following steps:
    1. Under **Choose topic**, select the area you need help with, then select **Next**. For example, if you are looking for a quotation, select **Request a Quote**.
    2. Under **Find answers**, explore our self-help resources to see if your question has been answered. If you still need assistance, select **Next** to continue.
    3. Under **Contact support,** describe your issue in detail.

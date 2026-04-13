@@ -1,35 +1,66 @@
 # Agreements
 
-An agreement is a record that establishes the terms and conditions of a transaction in the Marketplace.&#x20;
+An agreement establishes the terms and conditions of a transaction. It defines the relationships among buyers, sellers, and licensees, and is required for placing orders and creating subscriptions on the platform.&#x20;
 
-It defines the relationships among objects, such as buyers, sellers, and licensees, and serves as the foundation for placing orders and creating subscriptions on the platform.&#x20;
+Marketplace agreements can include one or more subscriptions. Each subscription contributes to the overall agreement value based on its type: **quantity‑based** or **usage‑based**. To learn about these subscription types, see [Subscription models](../subscriptions/#subscription-models).&#x20;
 
-### Viewing the list of agreements
+You can use the **Agreements** page to view and manage agreements through self-service. This includes reviewing agreement details, renaming agreements, terminating agreements, and more.
 
-To access the list of agreements, go to **Marketplace** > **Agreements**.&#x20;
+### Estimated values
 
-For each agreement, you can view key details, such as the agreement name, related product, and entities, including licensee, buyer, and seller.&#x20;
+Agreements display estimated values to indicate expected costs. The estimated values are indicative, and the final billed amount is always confirmed in the invoice. &#x20;
 
-You can also view the status of the agreement, estimated sales price, and more.
+* **Estimated agreement value** - Represents the total estimated value for all subscriptions included in the agreement.&#x20;
+  * For quantity‑based subscriptions, the estimated value is based on the number of licenses within the agreement.
+  * For usage‑based subscriptions, estimated values appear only if provided by the vendor. If no estimate is available, the agreement value might be partial or empty. As a result, agreements that include usage‑based subscriptions might not show a complete total value.
+* **Estimated subscription value** - Represents an estimate of the expected total cost for the subscription. It's an optional value provided by the vendor and applies to usage‑based subscriptions. It is for informational purposes only and is not used for billing. For more information, see [Subscriptions](../subscriptions/).
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/agreements_page.png" alt=""><figcaption><p>The Agreements page in the platform.</p></figcaption></figure></div>
+Estimated values, when available, are displayed on both agreements and agreement details pages, as well as subscriptions and subscription details pages. If a value is unavailable, the corresponding field displays an em dash “—”.
 
-### Viewing agreement details <a href="#subscription-details" id="subscription-details"></a>
+<details>
 
-On the **agreement details** page, you can view detailed information for the agreement. Some information is read-only, while others include links that allow you to navigate to further details.
+<summary>Example: Estimated agreement value with usage-based subscriptions</summary>
 
-To view agreement details:
+The following image shows an agreement that includes usage-based subscriptions along with the estimated value.
 
-1. Go to **Marketplace** > **Agreements**.
-2. Select the agreement you want to view. The agreement details page opens.
-3. Use the tabs on the agreement details page to view different types of information:
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/agreement-estima.png" alt=""><figcaption><p>The estimated value appears under SPx (agreement estimated sales price).</p></figcaption></figure></div>
 
-<table><thead><tr><th width="174">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the most up-to-date information for the agreement. </td></tr><tr><td><strong>Subscriptions</strong></td><td>Displays all subscriptions that exist within the agreement and the details of those subscriptions.</td></tr><tr><td><strong>Assets</strong></td><td>Shows your one-time purchases. One-time purchase items are non-subscription items where you own the license indefinitely.</td></tr><tr><td><strong>Entitlements</strong></td><td>Displays the items you have purchased along with their details, including quantity, pricing, status, and more.</td></tr><tr><td><strong>Parameters</strong></td><td>Displays the ordering and fulfillment parameters.</td></tr><tr><td><strong>Entities</strong></td><td>Displays the entities linked to the agreement, including licensees, buyers, and sellers. </td></tr><tr><td><strong>Orders</strong></td><td>Displays orders placed under the agreement, including purchase orders, change orders, and termination orders. You can select the order to view the order details page. </td></tr><tr><td><strong>Split billing</strong></td><td>Displayed only if you have enabled split billing. You can view and manage the buyers you have configured for split billing. For details, see <a href="../billing/split-billing/configure-buyers-for-split-billing.md">Configure buyers for split billing</a>.</td></tr><tr><td><strong>Attachments</strong></td><td>Displays all files attached to the agreement by the vendor or SoftwareOne.</td></tr><tr><td><strong>Terms</strong></td><td>Displays the terms associated with the agreement and shows when they were accepted and by whom.</td></tr><tr><td><strong>Details</strong></td><td>Displays reference details, additional IDs, and timestamps.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a record of events related to the agreement. For details, see <a href="../../settings/audit-trail.md">Audit Trail</a></td></tr></tbody></table>
+</details>
+
+<details>
+
+<summary>Example: Estimated subscription values for usage-based subscriptions</summary>
+
+The following image shows a usage-based subscription where the estimated value is not provided:
+
+<figure><img src="../../../.gitbook/assets/subscription-spx.png" alt=""><figcaption><p>The em dash (“—”) indicates no estimated value is provided.</p></figcaption></figure>
+
+The following image shows a usage-based subscription where the estimated value is provided:
+
+<figure><img src="../../../.gitbook/assets/subscription-spx-2.png" alt=""><figcaption><p>When the vendor provides an estimated value, it appears under Subscription SPx.</p></figcaption></figure>
+
+</details>
+
+### Accessing agreements
+
+The **Agreements** page displays a list of your agreements and allows you to manage them.
+
+To navigate to the page, select the main menu, then choose **Marketplace** > **Agreements**. The list of agreements is displayed.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/agreements_page.png" alt=""><figcaption><p>Use the Agreements page to view and manage agreements.</p></figcaption></figure></div>
+
+On the **agreements** page, you can view various details for an agreement, including the agreement ID, entities (such as buyers and sellers) mapped to the agreement, the estimated agreement value, status, and more.&#x20;
+
+You can also select an agreement to view detailed information organized across several tabs. The information available includes a list of entitlements, assets, and subscriptions, file attachments and certificates, and more. For details, see [View agreements](view-agreements.md).
 
 ### Related topics
 
 {% content-ref url="agreement-states.md" %}
 [agreement-states.md](agreement-states.md)
+{% endcontent-ref %}
+
+{% content-ref url="view-agreements.md" %}
+[view-agreements.md](view-agreements.md)
 {% endcontent-ref %}
 
 {% content-ref url="terminate-agreements.md" %}

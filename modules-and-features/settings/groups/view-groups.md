@@ -12,7 +12,7 @@ To view a list of groups:
 
 Note that buyer visibility is defined by administrators while creating or editing groups. For more information, see [Restrict groups to certain buyers](restrict-group-to-certain-buyers.md).
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>The Groups page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>Use the Groups page to view and manage groups.</p></figcaption></figure></div>
 
 ### Viewing group details <a href="#subscription-details" id="subscription-details"></a>
 

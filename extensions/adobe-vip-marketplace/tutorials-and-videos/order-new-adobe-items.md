@@ -24,10 +24,9 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 To start the process:
 
-1. Go to **Catalog** > **Product profile**.
-2. From the list of profiles, select **Adobe VIP Marketplace**.
-3. On the profile details page, review the information, then select **Buy now**.
-4. Under **Select product**, choose the required product, then select **Select**. The Purchase Wizard starts.
+1. Go to **Catalog** > **Products**.
+2. From the list of products, select **Adobe VIP Marketplace**.
+3. On the product details page, review the information, then select **Buy now**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}
@@ -45,11 +44,11 @@ To start the process:
 
 3. **Details** - Provide reference details, including additional IDs or notes, and select **Next**.
 4. **Review order** - Read the terms and conditions of the order and the privacy statement. When done, select **Place order**.
-5. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+5. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 Your change order is submitted for processing.
 

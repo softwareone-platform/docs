@@ -21,7 +21,7 @@ To view statements based on their type:
    2. Set the condition to **Equal**.
    3. Choose the type of statement: **Debit** or **Credit**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Finding statements based on the statement type.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Use the statement type filter to easily find a statement.</p></figcaption></figure></div>
 
 4. **Close** the filter box. All statements matching your specified status are displayed in the table.&#x20;
 
@@ -36,6 +36,6 @@ To view statements based on their status:
    2. Set the condition to **Equal**.
    3. Choose the required status from the list. Options include **Error**, **Generated**, **Generating**, **Issued**, **Pending**, or **Queued**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Finding statements based on the statement status.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Use the statement status filter to find statements based on status.</p></figcaption></figure></div>
 
 4. **Close** the filter box. All statements matching your specified status are displayed in the table.&#x20;

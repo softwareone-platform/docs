@@ -26,7 +26,7 @@ To download your statement:
 
 1. Open your invoice. Then, note down the statement ID and invoice ID.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoice-and-statement-IDs.png" alt=""><figcaption><p>The invoice header containing the invoice ID and statement ID.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoice-and-statement-IDs.png" alt=""><figcaption><p>Your invoice ID and statement ID is available in the header of your invoice.</p></figcaption></figure></div>
 
 2. Go to the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page.
 3. Enter your **Invoice ID** and **Statement ID** exactly as shown on the invoice, then select **Download Billing Statement**.

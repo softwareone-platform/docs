@@ -10,7 +10,7 @@ A data grid is a table with rows and columns, and it contains several operations
 
 You can sort and filter data, show or hide columns, adjust the column width, change the default rows per page, and more. This topic describes each of these tasks.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/DataGrid (2).png" alt=""><figcaption><p>The data grid on the Orders page.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/DataGrid (2).png" alt=""><figcaption><p>Use the data grid to view data in a structured way.</p></figcaption></figure></div>
 
 ### Sorting data
 
@@ -20,7 +20,7 @@ Sorting enables you to reorganize your data in ascending or descending order so 
 
 You can sort the data for a column by selecting the column header. When you select the header, the preconfigured sort options are displayed. You can choose any option from the list.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/data_grid_sort_filter.png" alt=""><figcaption><p>Options to sort a single column.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/data_grid_sort_filter.png" alt=""><figcaption><p>Use the available options to sort a single column.</p></figcaption></figure></div>
 
 **Sort multiple columns**
 
@@ -30,7 +30,7 @@ If you want to apply multiple sorts, select<img src="data:image/png;base64,iVBOR
 2. Choose the required property and select the display order (**Ascending** or **Descending**). To add another sorting rule, select **Add another sort**. You can add multiple rules.
 3. Select **Close**. All columns that have sort conditions applied are highlighted in the table.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/data_grid_sort.png" alt=""><figcaption><p>Options to sort multiple columns.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/data_grid_sort.png" alt=""><figcaption><p>Sort multiple columns.</p></figcaption></figure></div>
 
 ### Filtering data
 
@@ -40,7 +40,7 @@ For example, when ordering new items, you can create a filter to show only the i
 
 You can also use the **Search Query** filter to enter a search term to find matching records within other filter conditions, such as orders, agreements, and more. Additionally, you can use the second-level filter condition called **Add a conditional group** to build advanced filters by combining multiple rules and conditions.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/filter-options.png" alt=""><figcaption><p>Filter options in the table.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/filter-options.png" alt=""><figcaption><p>Apply filter to easily find the data.</p></figcaption></figure></div>
 
 To start filtering data:
 
@@ -67,7 +67,7 @@ The <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4
 
 You can use the checkbox next to each column name to hide or display a column. If you have hidden a column, you can make it visible again by selecting the same checkbox. Note that some columns are shown by default, and you cannot hide them.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/data_grid_columns.png" alt=""><figcaption><p>The list of available columns in a table.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/data_grid_columns.png" alt=""><figcaption><p>Use the Columns selector to show oe hide columns.</p></figcaption></figure></div>
 
 **Adjust column widths**
 
@@ -81,7 +81,7 @@ The **Columns** selector also contains options to adjust the column width. These
 
 If the data in the grid has changed, you can refresh the data to make sure you are working with the latest data at all times. Use the <img src="../../../.gitbook/assets/refresh_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M121-280v-400q0-33 23.5-56.5T201-760h559q33 0 56.5 23.5T840-680v400q0 33-23.5 56.5T760-200H201q-33 0-56.5-23.5T121-280Zm79 0h133v-400H200v400Zm213 0h133v-400H413v400Zm213 0h133v-400H626v400Z&#x22;/></svg>" data-size="line">**Refresh** option to fetch the latest data from the system.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Refresh.png" alt=""><figcaption><p>The Refresh option in a table.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Refresh.png" alt=""><figcaption><p>Use the Refresh option to manually refresh the table.</p></figcaption></figure></div>
 
 ### Changing default rows per page
 
@@ -89,7 +89,7 @@ By default, the Marketplace Platform displays 10 rows of data on a page.&#x20;
 
 You can change the default value by selecting another value from the **Rows per page** option on the lower-right side of the grid. You can choose to show 5, 10, 25, 50, or 100 rows per page.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rows.png" alt=""><figcaption><p>The option to change the number of rows displayed on the page.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rows.png" alt=""><figcaption><p>Change the number of rows displayed on the page.</p></figcaption></figure></div>
 
 ### Navigating between pages
 
@@ -97,4 +97,4 @@ If the grid contains several rows, the rows are split into pages, and page numbe
 
 You can view the page number you are currently on and navigate between pages using the **Next** and **Previous** options. You can also go to a page directly by entering the number in the **Page** field and pressing **Enter**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_navigation.png" alt=""><figcaption><p>Navigation options in the table.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_navigation.png" alt=""><figcaption><p>Navigate to different pages within the table.</p></figcaption></figure></div>

@@ -18,9 +18,9 @@ The **Enrollments** page displays all enrollments, regardless of the status.&#x2
 
 To access this page, select the main menu, then choose **Programs** > **Enrollment**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Use the Enrollments page to view and manage enrollments.</p></figcaption></figure></div>
 
-On the **Enrollments** page, you can view details, such as enrollment ID, the program name, enrollment status, and more.&#x20;
+On the **Enrollments** page, you can view details, such as enrollment ID, program name, status, and more.&#x20;
 
 You can also select an enrollment to view detailed information organized across several tabs. The information available includes:
 

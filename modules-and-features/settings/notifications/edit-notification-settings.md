@@ -14,7 +14,7 @@ To customize the settings for your notification emails:
 
 1. Go to **Settings** > **Notifications**.
 2. Select the **Settings** tab, then select **Edit**.
-3. Update the following details as necessary:
+3. Update the following details:
    * **Sender name** - Enter the display name that will appear in your emails. This name is shown to the recipient, so we recommend using a clear and meaningful sender name.
    * **Custom footer** - Add the information you want to include in the footer of your notification emails. The details you provide appear alongside the standard platform footer.
 

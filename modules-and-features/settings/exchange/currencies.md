@@ -13,7 +13,7 @@ The **Currencies** page displays each currency with specific attributes. For eac
 
 You can also check whether the currency is active, the total number of sellers that can transact in this currency, and the exchange rate for each currency.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/currencies.png" alt=""><figcaption><p>The Currencies page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/currencies.png" alt=""><figcaption><p>Use the Currencies page to view configured currencies.</p></figcaption></figure></div>
 
 ### Viewing currency details
 
@@ -23,4 +23,4 @@ To view currency details:
 2. Under **Currencies**, select the currency that you want to view. The currency details page opens.
 3. Use the tabs on the currency details page to access different types of information:&#x20;
 
-<table><thead><tr><th width="182">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Sellers</strong></td><td>Displays a list of sellers or SoftwareOne entities currently using this currency.</td></tr><tr><td><strong>Currency pairs</strong></td><td>Displays the currency pairs that this currency is a part of.</td></tr><tr><td><strong>Details</strong></td><td>Displays timestamps and event history details.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays the <a href="https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail">audit trail</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="182">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Sellers</strong></td><td>Displays a list of sellers or SoftwareOne entities currently using this currency.</td></tr><tr><td><strong>Currency pairs</strong></td><td>Displays the currency pairs that this currency is a part of.</td></tr><tr><td><strong>Details</strong></td><td>Displays timestamps and event history details.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays the <a href="https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail">audit trail</a> of the currency.</td></tr></tbody></table>

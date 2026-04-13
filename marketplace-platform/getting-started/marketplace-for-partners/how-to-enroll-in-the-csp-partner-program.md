@@ -24,7 +24,7 @@ You can enroll in this program if you meet these conditions:
 To open the details page:
 
 1. Go to the **Programs** page.
-2. Select **Cloud Solution Provider Partner Program**. The program's details page opens.
+2. Select **Cloud Solution Provider Partner Program**. The program details page opens.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_program.png" alt=""><figcaption><p>The details page of the Cloud Solution Provider Partner Program.</p></figcaption></figure></div>
 {% endstep %}

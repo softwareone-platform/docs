@@ -22,9 +22,9 @@ You must also know how to navigate the platform to access your agreements and or
 
 To open the agreement:&#x20;
 
-1. Go to the **Agreements** page.
-2. From the list of agreements, select the required agreement. Make sure that the agreement is active.&#x20;
-3. On the agreement details page, select **Buy more**. The purchase wizard starts, and the **Items** step is displayed.
+1. Go to **Marketplace** > **Agreements** page.
+2. Select the required agreement. Make sure that the agreement is active.&#x20;
+3. On the **agreement details** page, select **Buy more**. The purchase wizard starts, and the **Items** step is displayed.
 {% endstep %}
 
 {% step %}

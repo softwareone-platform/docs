@@ -13,7 +13,7 @@ The **Currencies exchange** page displays all currency pairs that have been conf
 
 You can also view the latest exchange rates in both directions, how many agreements use each pair, as well as their status and last updated date.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/currency-exchange.png" alt=""><figcaption><p>The Currency exchange page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/currency-exchange.png" alt=""><figcaption><p>Use the Currency exchange page to track rates.</p></figcaption></figure></div>
 
 ### Viewing the currency pair details
 

@@ -10,7 +10,7 @@ To view a list of sellers in your account:
 2. View the list of all sellers displayed on the page.
 3. Review key details, such as the seller's name and address. You can also check whether the seller is currently available for transactions. If a seller is unavailable or no longer operational, this is reflected in their [status](seller-states.md).
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_sellers.png" alt=""><figcaption><p>The Sellers page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_sellers.png" alt=""><figcaption><p>Use the Sellers page to view and manage sellers.</p></figcaption></figure></div>
 
 ### Viewing seller details <a href="#subscription-details" id="subscription-details"></a>
 

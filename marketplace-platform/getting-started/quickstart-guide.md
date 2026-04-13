@@ -79,7 +79,7 @@ You can subscribe to email alerts or opt out of notification categories from you
 
 **To manage notifications**
 
-1. Navigate to **My profile** page.
+1. Go to the **My profile** page.
 2. &#x20;Select the **Notification Preferences** tab, then select **Edit**.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/edit_notifications.png" alt=""><figcaption><p>Use the Edit option to manage notifications</p></figcaption></figure></div>
@@ -101,7 +101,7 @@ Administrators can create new groups and assign members to those groups. Additio
 
 **To create a new group**
 
-1. Navigate to the [Groups page](../../modules-and-features/settings/groups/), then select **Add**.
+1. Go to the [Groups page](../../modules-and-features/settings/groups/), then select **Add**.
 2. In the **Add group** wizard, configure the group:
    1. Add a group name and description.
    2. Select the required modules.
@@ -120,10 +120,10 @@ Administrators can invite additional users to their account.
 
 **To add a new user**
 
-1. Navigate to the [Users page](../../modules-and-features/settings/users/), then select **Add**.
+1. Go to the [Users page](../../modules-and-features/settings/users/), then select **Add**.
 2. In the **Add user** wizard, enter the user's details and select the required user groups.
 
-For more information, see [Add new users](../../modules-and-features/settings/users/add-new-users.md).
+For more information, see [Add New Users](../../modules-and-features/settings/users/add-new-users.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Add a new user to your account</p></figcaption></figure></div>
 
@@ -144,7 +144,7 @@ There are two primary ways of finding products in the Marketplace.
 **To find products**
 
 * Use the [global search bar](interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform will display results that match your search term.
-* [Visit the Product profiles page](../../modules-and-features/catalog/product-profiles/).
+* [Visit the Products page](../../modules-and-features/catalog/product-profiles/).
 
 </details>
 
@@ -156,10 +156,9 @@ The purchase wizard contains guided steps to submit an order. After you have ide
 
 **To start the purchase wizard**
 
-1. On the **Product profile** page, select the required profile.
+1. On the **Products** page, select the required product.
 2. Review the product details, list of features, and other details.
-3. Select **Buy now**.&#x20;
-4. Under **Select product**, choose the product you want to order, then select **Select**. The purchase wizard starts.
+3. Select **Buy now**. The purchase wizard starts.
 
 <figure><img src="../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing guided steps to place an order</p></figcaption></figure>
 
@@ -234,7 +233,7 @@ You can adjust the number of licenses for a subscription by submitting a change 
 
 **To increase or reduce licenses**
 
-1. Navigate to the **Subscriptions** page.
+1. Go to the **Subscriptions** page.
 2. Select the desired subscription.
 3. Select **Edit**, then follow the steps in the **Edit subscription** wizard to increase or reduce licenses.
 4. When done, select **Place order** to submit your change order.
@@ -255,8 +254,8 @@ You can disable the automatic renewal for a subscription by submitting a configu
 
 **To disable automatic renewal**
 
-1. Navigate to the **Subscriptions** page, then select the desired subscription.
-2. On the subscription details page, select the arrow <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">, then choose **Configure**.
+1. Go to the **Subscriptions** page, then select the desired subscription.
+2. On the **subscription details** page, select the arrow <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">, then choose **Configure**.
 3. Choose **Disable** and complete the remaining steps to submit your order.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/disable_auto_renewal.png" alt=""><figcaption><p>Select Disable to prevent your subscription from renewing automatically</p></figcaption></figure></div>

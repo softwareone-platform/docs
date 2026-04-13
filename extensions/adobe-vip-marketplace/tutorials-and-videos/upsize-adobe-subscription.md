@@ -32,9 +32,9 @@ Before starting this tutorial, make sure that your Marketplace agreement contain
 
 To open the subscription:
 
-1. Go to the **Subscriptions** page.
+1. Go to **Marketplace** > **Subscriptions**.
 2. Select the required subscription.
-3. On the subscription's details page, select **Edit** to start the **Edit subscription** wizard.
+3. On the **subscription details** page, select **Edit** to start the **Edit subscription** wizard.
 {% endstep %}
 
 {% step %}
@@ -48,7 +48,7 @@ In the **Edit subscription** wizard, complete the following steps:
 
 2. **Details** - Enter the reference information that might help you identify the change order easily. You can add the **Additional ID** and **Notes**. When done, select **Next**.
 3. **Review order** - Read the terms and conditions of the order and the privacy statement. When done, select **Place order** to submit your order.
-4. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+4. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

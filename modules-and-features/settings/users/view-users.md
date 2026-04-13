@@ -9,7 +9,7 @@ To view a list of users in your account
 1. Go to **Settings** > **Users**.
 2. View the list of all users displayed on the page.
 
-<figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>The Users page in the platform.</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>Use the Users page to view all users in your account.</p></figcaption></figure></div>
 
 3. Review information such as the user name, email address, group membership, and the available fields. You can also see all the buyers visible to the user in the **Buyers** column. The following table lists buyer visibility rules:
 

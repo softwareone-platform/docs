@@ -8,15 +8,15 @@ Each entitlement includes the item itself and the allowed quantity. For example,
 
 ### Viewing the list of entitlements
 
-To view your list of entitlements, go to **Marketplace** > **Entitlements**.&#x20;
+You can also view your entitlements on the [agreement details](../agreements/#subscription-details) and [order details](../orders/#order-details) pages. If the source of your entitlement is a subscription or an asset, you can find relevant information on the [subscription details](../subscriptions/#subscription-details) and [asset details](../assets/#subscription-details) pages, respectively.
 
-You can then view your purchased items, along with the ordered quantity. For each entitlement, you can also view details, such as the item name, estimated sales price, status, and more. Additionally, you can view the **source**, which indicates whether the entitlement is linked to a subscription or an asset.
+Additionally, you can view a list of your entitlements on the **Entitlements** page. To navigate to this page, go to **Marketplace** > **Entitlements**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/entitlements.png" alt=""><figcaption><p>The Entitlements page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/entitlements.png" alt=""><figcaption><p>Use the Entitlements page to view and manage entitlements.</p></figcaption></figure></div>
 
-{% hint style="info" %}
-You can also view your entitlements on other pages within the platform, such as the **Entitlements** tab within the [agreement details](../agreements/#subscription-details) and [order details](../orders/#order-details) pages. If the source of your entitlement is a subscription or an asset, you can also find relevant information on the [subscription details](../subscriptions/#subscription-details) and [asset details](../assets/#subscription-details) pages, respectively.
-{% endhint %}
+On the **entitlements** page, you can view various details, such as the item name, estimated sales price, status, and more. Additionally, you can view the **source** to determine whether the entitlement is linked to a subscription or an asset.
+
+You can also select an entitlement to view detailed information organized across tabs. The information available includes item descriptions and price lists.&#x20;
 
 ### Viewing entitlements details <a href="#subscription-details" id="subscription-details"></a>
 
@@ -25,7 +25,7 @@ On the **entitlement details** page, you can view detailed information for the e
 To view entitlement details:
 
 1. Go to **Marketplace** > **Entitlements**.
-2. Select the entitlement you want to view. The entitlement details page opens.
+2. Select the entitlement you want to view. The **entitlement details** page opens.
 3. Use the tabs on the entitlement details page to view different types of information:
    * **Description** - Displays a description of the item.
    * **Price lists** - Displays price lists linked to the item.

@@ -18,7 +18,7 @@ For example, the **Orders** notification category includes all alerts related to
 
 To see a list of categories, go to **Notifications** > **Subscribers**. To manage these categories, see [Enable or disable categories](enable-or-disable-categories.md).
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>The Notifications page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Use the Notifications page to view subscribers, messages, and settings.</p></figcaption></figure></div>
 
 ### Notification messages
 

@@ -12,7 +12,7 @@ This tutorial describes how you can order a subscription for Microsoft Azure by 
 Watch this video guide explaining how to order Microsoft Azure subscription for an existing tenant.
 {% endembed %}
 
-## Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
+### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 Before starting this tutorial, make sure you have the following:
 
@@ -20,7 +20,7 @@ Before starting this tutorial, make sure you have the following:
 * The name of the Microsoft tenant you want to connect.&#x20;
 * The contact details of the person who will manage your account.&#x20;
 
-## Ordering an Azure subscription for an existing tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Ordering an Azure subscription for an existing tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}
@@ -28,10 +28,9 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Go to **Catalog** > **Product profile**.
-2. From the list of profiles, select the **Microsoft Azure** profile.
-3. On the profile details page, review the product information, then select **Buy now**.
-4. Under **Select product**, choose the product, then select **Select**. The Purchase Wizard starts.
+1. Go to **Catalog** > **Products**.
+2. From the list of products, select **Microsoft Azure**.
+3. On the **product details** page, review the product information, then select **Buy now**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}
@@ -52,11 +51,11 @@ To start the process:
 6. **Items** - Choose the Azure subscription item, then select **Add items** to add it to your order. Note that for Microsoft Azure, only one item is available without any associated price. When using Azure services, pay-as-you-go charges are generated against the subscription.
 7. **Details** - Provide any additional IDs for the order and the agreement, then select **Next**.
 8. **Review order** - Read the terms and conditions of the order and verify your order details. When done, select **Place order** to submit your order.
-9. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
+9. **Summary** - Select **View order** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 Once you have placed your order, we verify the order details and create your new subscription.&#x20;
 

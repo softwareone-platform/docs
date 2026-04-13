@@ -1,38 +1,89 @@
 # Subscriptions
 
-A subscription refers to the ongoing service provision under the terms and conditions of an agreement. In the SoftwareOne Marketplace Platform, subscriptions are mapped to agreements, and each agreement can contain one or multiple subscriptions.&#x20;
+A subscription refers to the ongoing service provisioned under the terms and conditions of an agreement. In the SoftwareOne Marketplace, subscriptions are mapped to agreements, and each agreement can contain several subscriptions.&#x20;
 
-You can [order new subscriptions through the platform](../../../help-and-support/faqs/buy-products-and-services.md) and also manage licenses for your existing subscriptions. This includes ordering additional licenses and canceling the previously purchased ones.&#x20;
+You can order and manage subscriptions through self-service in the platform. This includes ordering additional licenses, terminating subscriptions, managing automatic renewal, and more.&#x20;
 
-### Viewing the list of subscriptions
+### Subscription models
 
-To view your subscriptions, navigate to the **Marketplace** > **Subscriptions** page.&#x20;
+The Marketplace supports two subscription models: **quantity-based** and **usage-based**. These models determine how services are billed and how values are displayed in subscriptions and agreements.
 
-When you launch the **Subscriptions** page, all existing subscriptions in your account are displayed.&#x20;
+* **Quantity-based** - Quantity‑based subscriptions are priced based on an agreed quantity. The values shown in the subscription and agreement represent an estimated total value based on that quantity. Changes to quantity updates, prorations, or billing conditions can affect the final charged amount.&#x20;
+* **Usage-based** - Usage‑based subscriptions are billed according to actual consumption. Because usage can vary over time, the total cost of a usage‑based subscription can't be fully calculated in advance. As a result, subscriptions and agreements that include usage‑based services can display no value or an estimated value to indicate expected costs.
 
-On this page, you can view key properties for each subscription, including the subscription name,  renewal date, and status. The page also contains a **Buy more** option, giving you quick access to the [Products ](../../catalog/products.md)page for ordering new subscriptions.
+{% hint style="info" %}
+All values in your subscriptions and agreements are indicative. The final billed amount is always confirmed in the invoice.
+{% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>The Subscriptions page in the platform.</p></figcaption></figure></div>
+### Estimated values
 
-### Viewing subscription details <a href="#subscription-details" id="subscription-details"></a>
+To ensure transparency, vendors may provide estimated values for usage‑based subscriptions. These values indicate expected costs but don't represent fixed or committed amounts.
 
-On the **subscription details** page, you can view detailed information for the subscription. Some information is read-only, while others include links that allow you to navigate to further details.
+* **Estimated subscription value** - Represents an estimate of the expected total cost for the subscription. It's an optional value provided by the vendor and applies to usage‑based subscriptions. The estimated subscription value is for informational purposes only and is not used for billing.&#x20;
+* **Estimated agreement value** - Represents an estimated total of all subscriptions within the agreement. For more information on the estimated agreement value, see [Agreements](../agreements/).
 
-To view subscription details:
+Estimated values, when available, are displayed on both agreements and agreement details pages, as well as subscriptions and subscription details pages. If a value is unavailable, the corresponding field displays an em dash “—”.
 
-1. Go to the **Marketplace** > **Subscriptions** page.&#x20;
-2. Select the subscription you want to view. The subscription details page opens.
-3. Use the tabs on the subscription details page to view different types of information:
+<details>
 
-<table><thead><tr><th width="192">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Entitlements</strong></td><td>Displays all the items that you ordered along with their details, like the item name, quantity, and pricing.</td></tr><tr><td><strong>Parameters</strong> </td><td>Displays the fulfillment parameters for the subscription. The parameter information varies depending on the parameters enabled by the vendor.</td></tr><tr><td><strong>Entities</strong></td><td>Displays the entities linked to the subscription and their details. Entities include licensees, buyers, and sellers. </td></tr><tr><td><strong>Split billing</strong></td><td>Displays the split billing information, including the buyers and billing allocation. This tab is visible only if split billing has been enabled for the agreement. The <strong>Edit</strong> option allows you to update the buyer allocation. For details, see <a href="../billing/split-billing/edit-split-billing.md">Edit Split Billing</a>.</td></tr><tr><td><strong>Orders</strong></td><td>Displays all orders associated with the agreement along with their status. </td></tr><tr><td><strong>Details</strong></td><td>Displays additional details, such as references and additional client and vendor IDs, and the timestamps of events. You can also update the client ID using the <strong>Edit</strong> option. For instructions, see <a href="edit-subscription-id.md">Edit Subscription Client ID</a>. </td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a record of events related to the subscription. For more information, see <a href="../../settings/audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
+<summary>Example: Estimated values for usage-based subscriptions</summary>
 
-### Additional actions
+The following image shows a usage-based subscription where the estimated value is not provided:
 
-On the details page, you can perform various actions depending on the status of your subscription. The available actions include:
+<figure><img src="../../../.gitbook/assets/subscription-spx.png" alt=""><figcaption><p>The em dash (“—”) indicates no estimated value is provided.</p></figcaption></figure>
 
-* [Increase or decrease the number of licenses](../../../marketplace-platform/getting-started/marketplace-for-clients/adjust-subscription-quantity.md)
-* [Rename the subscription](rename-a-subscription.md)
-* [Terminate the subscription](terminate-a-subscription.md)
-* [Edit the subscription's client ID](edit-subscription-id.md)
-* [Edit split billing allocation](../billing/split-billing/edit-split-billing.md) (only if split billing is enabled)
-* [Manage automatic renewal for a subscription](manage-automatic-renewals.md)
+The following image shows a usage-based subscription where the estimated value is provided:
+
+<figure><img src="../../../.gitbook/assets/subscription-spx-2.png" alt=""><figcaption><p>When the vendor provides an estimated value, it appears under Subscription SPx.</p></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Example: Estimated agreement value with usage-based subscriptions</summary>
+
+The following image shows an agreement containing usage-based subscriptions and the agreement's estimated value.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/agreement-estima.png" alt=""><figcaption><p>The estimated value appears under SPx (agreement estimated sales price).</p></figcaption></figure></div>
+
+</details>
+
+### Accessing subscriptions
+
+The **Subscriptions** page displays all subscriptions in your account.&#x20;
+
+To navigate to the **Subscription** page, select the main menu, then choose **Marketplace** > **Subscriptions**. The list of subscriptions is displayed.
+
+From this page, you can select a subscription to see details, including entitlements it contains, estimated values, and other data.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Use the Subscriptions page to view and manage subscriptions. </p></figcaption></figure></div>
+
+On the **subscriptions** page, you can view various details for a subscription, including the subscription ID, linked entities (such as buyers and sellers), the estimated subscription value, status, and more.&#x20;
+
+You can also select a subscription to view detailed information organized across several tabs. The information available includes your entitlements, orders, a record of events or logs for the subscription, and more. For details, see [View subscriptions](view-subscriptions.md).
+
+### Related topics
+
+{% content-ref url="subscription-states.md" %}
+[subscription-states.md](subscription-states.md)
+{% endcontent-ref %}
+
+{% content-ref url="view-subscriptions.md" %}
+[view-subscriptions.md](view-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="rename-a-subscription.md" %}
+[rename-a-subscription.md](rename-a-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="edit-subscription-id.md" %}
+[edit-subscription-id.md](edit-subscription-id.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-a-subscription.md" %}
+[terminate-a-subscription.md](terminate-a-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="manage-automatic-renewals.md" %}
+[manage-automatic-renewals.md](manage-automatic-renewals.md)
+{% endcontent-ref %}

@@ -15,15 +15,16 @@ If you need more licenses, you can alter the subscription to add additional lice
 
 To increase or reduce the number of licenses:
 
-1. Go to the **Subscriptions** page, then select the required subscription.
-2. On the subscription details page, select **Edit**.
-3. In the **Edit subscription** wizard, complete the following steps:&#x20;
-   1.  **Items** - Increase or reduce the quantity in the **New qty** field. The sales price of the subscription changes as you adjust the quantity. When done, select **Next**.&#x20;
+1. Go to **Marketplace** > **Subscriptions**.
+2. Select the required subscription.
+3. On the subscription details page, select **Edit**.
+4. In the **Edit subscription** wizard, do the following:&#x20;
+   1.  **Items** - Update the quantity in the **New qty** field, then select **Next**.&#x20;
 
-       <figure><img src="../../../.gitbook/assets/edit_subscription.png" alt=""><figcaption></figcaption></figure>
-   2. **Details** - Provide additional details as necessary. Select **Next**.
-   3. **Review** - Verify the order details and select **Place order** to submit your order.
-   4. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
+       <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/edit_subscription.png" alt=""><figcaption></figcaption></figure></div>
+   2. **Details** - Enter any additional information and select **Next**.
+   3. **Review** - Verify the order details. Then, select **Place order** to submit your order.
+   4. **Summary** - Select **View details** to open the details page. Otherwise, select **Close**.
 
 A change order is created and sent to the vendor for processing. The new order is also displayed in your list of orders on the **Orders** page.&#x20;
 

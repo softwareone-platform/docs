@@ -20,10 +20,9 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 To start the process:
 
-1. Go to **Catalog** > **Product profile**.
-2. From the list of profiles, select the **Microsoft Azure** profile.
-3. On the profile details page, review the product information, then select **Buy now**.
-4. Under **Select product**, choose the product, then select **Select**. The Purchase Wizard starts.
+1. Go to **Catalog** > **Products**.
+2. From the list of products, select **Microsoft Azure**.
+3. On the **product details** page, review the product information, then select **Buy now**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}
@@ -39,7 +38,7 @@ To start the process:
 
 4. **Details** - Provide any additional IDs for the order and the agreement, then select **Next**.
 5. **Review order** - Read the terms and conditions and verify your order details. When done, select **Place order** to submit your order.
-6. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close**.
+6. **Summary** - Select **View order** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

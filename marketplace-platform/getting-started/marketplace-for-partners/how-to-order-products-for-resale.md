@@ -4,19 +4,19 @@ description: Order software products for reselling to your end customers.
 
 # How to order products for resale
 
-The tutorial describes how you can order products for resale through the Marketplace Platform.&#x20;
+The tutorial describes how you can order products for resale from the SoftwareOne Marketplace.&#x20;
 
 When ordering products, there are two options for agreements:
 
-* If you have an existing agreement, you can use that agreement. However, you'll need to make sure that the agreement is mapped to a licensee configured as a resale licensee.&#x20;
-* If you don't have an agreement, you can create one during the ordering process and select an existing licensee configured as a resale licensee.
+* If you have an existing agreement, you can use that agreement. However, make sure the agreement is mapped to a licensee that is configured as a **resale licensee**. For details, see&#x20;
+* If you don't have an agreement, you can create it when placing the order. If you choose to create a new agreement, you must select an existing licensee that is configured as a **resale licensee**.
 
 ### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
 Before starting this tutorial, make sure you have the following:
 
 * A resale licensee in the active state, or permission to [create a new licensee](how-to-configure-licensees-for-resale.md) if you don't want to use the existing one. Licensee selection is required when setting up a new agreement.&#x20;
-* Company details of your client, like the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
+* Company details of your client, including the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of your client managing the Microsoft account.&#x20;
 
 ### Ordering software products for resale
@@ -27,10 +27,9 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Go to **Catalog** > **Product profile**.
-2. From the list of profiles, select the desired Microsoft 365 profile, for example, **Microsoft 365 Business, Enterprise & Apps**.
-3. On the profile details page, review the information, then select **Buy now**.
-4. Under **Select product**, choose the product you want to order, then select **Select**. The Purchase Wizard starts.
+1. Go to the **Product**s page.
+2. From the list of products, select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps**.
+3. On the details page, review the information, then select **Buy now**.
 {% endstep %}
 
 {% step %}

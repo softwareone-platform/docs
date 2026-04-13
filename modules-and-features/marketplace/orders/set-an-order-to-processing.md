@@ -10,7 +10,7 @@ Orders that require your attention are shown as **Querying**. When you open a qu
 
 Once you have completed the necessary steps, you must update the order's status from **Querying to Processing**. Changing the status informs SoftwareOne and the vendor that the order is ready for their review and further processing.&#x20;
 
-## Setting a Querying order to Processing
+### Setting a Querying order to Processing
 
 To move an order from **Querying** to **Processing**:
 

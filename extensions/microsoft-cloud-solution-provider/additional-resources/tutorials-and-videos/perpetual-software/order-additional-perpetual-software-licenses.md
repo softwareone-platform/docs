@@ -22,9 +22,9 @@ Before starting this tutorial, make sure that your existing agreement is in the 
 
 To open the agreement:
 
-1. Go to the **Agreements** page.
-2. From the list of agreements, select the required agreement.
-3. On the agreement details page, select **Buy more** to start the ordering process.
+1. Go to **Marketplace** > **Agreements**.
+2. Select the required agreement.
+3. On the **agreement details** page, select **Buy more** to start the ordering process.
 {% endstep %}
 
 {% step %}
@@ -55,7 +55,7 @@ In the **Select items** step, all one-time items that can be ordered under this 
 {% endstep %}
 {% endstepper %}
 
-## Next steps <a href="#next-steps" id="next-steps"></a>
+### Next steps <a href="#next-steps" id="next-steps"></a>
 
 Once you submit your order, you can track its status on the **Orders** page or in the **Orders** tab within the agreement details page.
 

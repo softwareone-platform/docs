@@ -16,7 +16,7 @@ When you place an order, you either set up a new agreement or add to an existing
 Watch a quick video guide showing how to order an Adobe subscription.
 {% endembed %}
 
-## Prerequisites
+### Prerequisites
 
 Before starting this tutorial, make sure you have the following:
 
@@ -24,7 +24,7 @@ Before starting this tutorial, make sure you have the following:
 * Your company address and contact information. You must provide this information when creating your Adobe VIP Marketplace account.&#x20;
 * An [active licensee](../../../modules-and-features/settings/licensees/licensee-states.md) or permission to [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md) if you don't want to use an existing licensee. Licensee selection is required when setting up a new agreement.&#x20;
 
-## Ordering an Adobe subscription
+### Ordering an Adobe subscription
 
 {% stepper %}
 {% step %}
@@ -32,10 +32,9 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Go to **Catalog** > **Product profile**.
-2. From the list of profiles, select **Adobe VIP Marketplace**.
-3. On the profile details page, review the information, then select **Buy now**.
-4. Under **Select product**, choose the required product, then select **Select**. The Purchase Wizard starts.
+1. Go to **Catalog** > **Products**.
+2. From the list of products, select **Adobe VIP Marketplace**.
+3. On the product details page, review the information, then select **Buy now**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}
@@ -63,11 +62,11 @@ To start the process:
     c. Select **Next**.
 6. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 7. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-8. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+8. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 
-## Next steps
+### Next steps
 
 After placing the order, you'll receive an invitation from Adobe to accept the terms and conditions for Adobe VIP Marketplace.&#x20;
 

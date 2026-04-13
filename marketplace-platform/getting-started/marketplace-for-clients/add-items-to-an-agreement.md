@@ -14,13 +14,13 @@ When you select **Buy more**, the platform automatically detects the agreement a
 
 To add new items to your existing Marketplace agreement:
 
-1. Go to the **Agreements** page.&#x20;
+1. Go to **Marketplace** > **Agreements**.&#x20;
 2. Select the desired agreement. Make sure that the agreement is active.
 3. On the agreement details page, select **Buy more** to start the purchase wizard. &#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt=""><figcaption><p>The Buy more option on the agreement details page.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt=""><figcaption><p>Select Buy more to start the ordering process.</p></figcaption></figure></div>
 
-4. In the **Items** step, do the following:
+4. Under **Items**, do the following:
    1. Select **Add items**. A new window (also called **Select items**) opens, displaying the products you can order under this agreement.
    2. Select the items you want to order. You can use filters to find the items easily. When selecting items, be sure to verify the billing terms and the duration of the subscription.
    3. Select **Add items**. Your selected items are added to the agreement, and the **Select items** step is displayed again.
@@ -28,8 +28,8 @@ To add new items to your existing Marketplace agreement:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe_select_items.png" alt=""><figcaption><p>The Select Items window displaying individual items you can order.</p></figcaption></figure></div>
 
-5. In the **Details** step, add or update the reference ID and your comments. Then, select **Next**.
-6. In the **Review order** step, verify the information and select **Place order**_._
+5. Under **Details**, add or update the reference ID and your comments. Then, select **Next**.
+6. Under **Review order**, verify the information, then select **Place order**_._
 
 A change order is created for the agreement and sent to the vendor for fulfillment. Select **View details** to go to the order details page or select **Close**.
 

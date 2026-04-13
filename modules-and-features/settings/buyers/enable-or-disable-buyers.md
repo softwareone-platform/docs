@@ -15,7 +15,7 @@ To enable or disable a buyer:
 1. Go to **Settings** > **Buyers**.&#x20;
 2. Find the buyer you want to manage.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/BuyersPage.png" alt=""><figcaption><p>The Buyers page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/BuyersPage.png" alt=""><figcaption><p>Use the Buyers page to manage buyers.</p></figcaption></figure></div>
 
 3. Select the actions icon (**•••**) for the buyer and choose **Enable** or **Disable**. Note that only one of these options is shown depending on the current state of the buyer. For example, the **Enable** option is shown only if the buyer has been disabled.&#x20;
 4. In the confirmation dialog, confirm the action.

@@ -15,7 +15,7 @@ The **Send Reminder** feature triggers an email containing the order link. You c
 Reminders can be sent for orders only in the **Quoted** status. To learn about this status, see [Order States](order-states.md).
 {% endhint %}
 
-## Sending an order reminder email
+### Sending an order reminder email
 
 To send an order reminder email:
 
@@ -31,6 +31,6 @@ To send an order reminder email:
    3. **Overview** -  Select the **Send a copy of this email to me** checkbox if you want to receive a copy of the email. Otherwise, leave it clear.
 5. Select **Send**.
 
-## Next steps
+### Next steps
 
 When you select **Send**, the individual receives an email with a link to the order. After selecting the link, they can review the order and complete the ordering process.&#x20;

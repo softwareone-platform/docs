@@ -23,9 +23,13 @@ All API requests must be made over **HTTPS**. Calls made over plain **HTTP** wil
 
 The **API tokens** page allows account administrators to create and view API tokens. Administrators can also edit, delete, enable, or disable a token.
 
-To navigate to the **API tokens** page, select the main menu, then choose **Settings** > **API tokens**. The list of tokens is displayed as shown in the following image:
+To navigate to the **API tokens** page, select the main menu, then choose **Settings** > **API tokens**. The list of tokens is displayed:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>The API tokens in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>Use the API tokens page to view and manage tokens.</p></figcaption></figure></div>
+
+On the **tokens** page, you can view various details for each token, including the token name, creation date, status, and more.&#x20;
+
+You can also select a token to view detailed information organized across several tabs. The information available includes the token endpoint and secret, a record of events or logs for the statement, and more. For details, see [View API tokens](view-api-tokens.md).
 
 ### Related topics
 
@@ -56,4 +60,3 @@ To navigate to the **API tokens** page, select the main menu, then choose **Sett
 {% content-ref url="enable-or-disable-api-token.md" %}
 [enable-or-disable-api-token.md](enable-or-disable-api-token.md)
 {% endcontent-ref %}
-

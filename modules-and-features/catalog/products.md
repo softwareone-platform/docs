@@ -1,6 +1,5 @@
 ---
 description: Learn about products in the Marketplace catalog and how to view them.
-hidden: true
 ---
 
 # Products

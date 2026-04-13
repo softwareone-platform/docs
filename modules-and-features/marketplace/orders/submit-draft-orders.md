@@ -20,12 +20,12 @@ To submit a saved order for processing:
       2. In the second field, set the filter to **Equal**.
       3. In the third field, select **Draft** and then close the filter box.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/OrderFilters.png" alt=""><figcaption><p>Various filter options in the table.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/OrderFilters.png" alt=""><figcaption><p>Filter options in the table.</p></figcaption></figure></div>
 
 3. Select the link for the order in the **Order** column.
 4. On the order details page, select **Edit** to start the purchase process.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_details_page.png" alt=""><figcaption><p>The Edit option on the order details page.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_details_page.png" alt=""><figcaption><p>Use the Edit option on the order details page to start the order process.</p></figcaption></figure></div>
 
 5. Complete the following steps:
    1. **Select items** - Do one of the following:

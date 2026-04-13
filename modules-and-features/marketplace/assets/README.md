@@ -12,7 +12,7 @@ When you launch the **Assets** page, all one-time items you have ordered through
 
 You can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) as needed.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/asset.png" alt=""><figcaption><p>The Assets page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/asset.png" alt=""><figcaption><p>Use the Assets page to view and manage your one-time purchased items.</p></figcaption></figure></div>
 
 ### Viewing asset details <a href="#subscription-details" id="subscription-details"></a>
 
@@ -21,8 +21,8 @@ On the **asset details** page, you can view detailed information about an asset.
 To view asset details:
 
 1. Go to **Marketplace** > **Assets**.
-2. Select the asset you want to view. The asset details page opens.
-3. Use the tabs on the asset details page to view different types of information:
+2. Select the asset you want to view. The **asset details** page opens.
+3. Use the tabs on the **asset details** page to view different types of information:
 
 <table><thead><tr><th width="163">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the most up-to-date information for the asset. </td></tr><tr><td><strong>Entitlements</strong></td><td>Displays <a href="../entitlements/">entitlements</a> (meaning, the items you have purchased and the associated quantity) and details, including status, unit price, and estimated sales price (SPx1).</td></tr><tr><td><strong>Parameters</strong></td><td>Displays the parameters associated with the asset. </td></tr><tr><td><strong>Orders</strong></td><td>Displays the purchase order under which the item was purchased.</td></tr><tr><td><strong>Details</strong></td><td>Displays reference details, including additional IDs and timestamps. You can edit the additional client ID for the asset using the <strong>Edit</strong> option.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a record of events related to the asset. For details, see <a href="https://docs.platform.softwareone.com/modules-and-features/settings/audit-trail">Audit Trail</a>.</td></tr></tbody></table>
 

@@ -14,7 +14,7 @@ The **Programs** page displays all active programs that you can enroll into.
 
 To navigate to the **Programs** page, select the main menu, then choose **Program** > **Programs**. The list of programs is displayed. From this page, you can select a program to open its details page.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/programs-page.png" alt=""><figcaption><p>The Programs page in the SoftwareOne Marketplace.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/programs-page.png" alt=""><figcaption><p>Use the Programs page to view the available programs.</p></figcaption></figure></div>
 
 ### Viewing program details
 
@@ -26,7 +26,7 @@ To view the program details:
 2. Select the program you want to view. &#x20;
 3. On the details page, review the program information.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/programspage.png" alt=""><figcaption><p>The details page of a program.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/programspage.png" alt=""><figcaption><p>Use the program details page to view additional details.</p></figcaption></figure></div>
 
 3. Use the tabs on the **program details** page to view additional information:
 

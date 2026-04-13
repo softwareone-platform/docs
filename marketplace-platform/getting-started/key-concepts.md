@@ -16,7 +16,7 @@ The Marketplace Platform seamlessly brings together various actors to facilitate
 
 Actors represent different entities that interact with the platform for procurement and fulfillment-related activities, as well as other operations specific to the platform.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>The key actors in the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>Vendors, distributors, associates, partners, and clients are the key actors in the platform.</p></figcaption></figure></div>
 
 The following are the key actors using our platform:
 
@@ -30,7 +30,7 @@ The following are the key actors using our platform:
 
 **Clients** - A client is a company or organization that uses our platform to buy software products for their own use or direct consumption.
 
-**Developers and systems integrator** - Developers and systems integrator represent entities involved in building integrations within the business network.
+**Developers and systems integrators** - Developers and systems integrators represent entities involved in building integrations within the business network.
 
 ## Users, Accounts, and Groups  <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
@@ -44,23 +44,23 @@ The following are the key actors using our platform:
 
 In the Marketplace Platform, an account can contain one or multiple users:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>An account containing multiple users.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>An account can contain multiple users.</p></figcaption></figure></div>
 
 Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](interface/switch-account.md) without signing out of the platform.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users_multiple_accounts.png" alt=""><figcaption><p>A user belonging to multiple accounts.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users_multiple_accounts.png" alt=""><figcaption><p>A user can belong to multiple accounts in the platform.</p></figcaption></figure></div>
 
 **Group** - A group is an object that facilitates permissions in the scope of an account. Groups contain users, and all users in the group have the same permissions. Permissions are assigned at the group level,  rather than at the individual user level.&#x20;
 
 Users can also be a part of multiple groups, much like users can belong to multiple accounts. For details on how to manage groups, see [Groups](../../modules-and-features/settings/groups/).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_multiple_groups.png" alt=""><figcaption><p>Multiple groups containing multiple users</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_multiple_groups.png" alt=""><figcaption><p>A user can belong to multiple groups in the platform.</p></figcaption></figure></div>
 
 ## Sellers, Buyers, and Licensees <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
 **Seller** - A seller is a SoftwareOne entity (for example, SoftwareOne Canada) that buys software solutions from vendors (like Microsoft) and sells those solutions to clients.&#x20;
 
-Sellers are responsible for generating invoices and issuing them to the buyer entities of clients. They act as an intermediary in the transaction process.
+Sellers are responsible for generating and issuing invoices to the buyer entities of clients. They act as an intermediary in the transaction process.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Sellers within the Marketplace Platform.</p></figcaption></figure></div>
 
@@ -99,9 +99,9 @@ For details on how to manage your orders, see [Orders](../../modules-and-feature
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_orders.png" alt=""><figcaption><p>Different types of orders in the Marketplace Platform.</p></figcaption></figure></div>
 
-**Subscriptions** - Subscriptions are linked to an agreement and represent service provisioned over a set period. An agreement can contain one or more subscriptions.&#x20;
+**Subscriptions** - Subscriptions are linked to an agreement and represent service provisioned over a set period. Marketplace agreements can contain one or more subscriptions.&#x20;
 
-Subscriptions can be changed only through the order. For example, to terminate a subscription, you must place a termination order. Similarly, to add more licenses, a change order must be placed. It’s not possible to modify a subscription directly without placing an order.&#x20;
+Subscriptions can be changed only through the order. For example, to terminate a subscription, you must place a termination order. Similarly, to add more licenses, a change order must be submitted. It’s not possible to modify a subscription directly without placing an order.&#x20;
 
 For details on subscription management, see [Subscriptions](../../modules-and-features/marketplace/subscriptions/).
 
