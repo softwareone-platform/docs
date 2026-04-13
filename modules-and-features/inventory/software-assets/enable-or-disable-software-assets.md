@@ -1,23 +1,21 @@
-# Enable or Disable Software Assets
+# Enable or disable software assets
 
-{% hint style="info" %}
-Before enabling or disabling the Software Assets module, note the following points:
+This topic describes how you can manage your software assets. Before enabling or disabling the Software Assets module, note the following points:
 
 * Only administrators can enable or disable the module.
 * Take caution when disabling the module. You can always enable it again, but all transaction allocation and tag assignments must be redone.
-{% endhint %}
 
-## Enable software assets
+### Enable software assets
 
 To enable the Software Assets module:
 
-1. Sign in to your account as an account administrator.
-2. From the main navigation menu, navigate to **Cloud Tenant Setup**.
+1. Sign in to your account.
+2. From the main menu, navigate to **Cloud Tenant Setup**.
 3. On the **Cloud Tenant Setup** page, select **Activate** in the **Actions** column.&#x20;
 
 Once the module is activated, your account will be visible in the other Cloud modules (such as Budgets, Resources, Chargebacks, and Consumption) within 24 hours.
 
-## Disable software assets&#x20;
+### Disable software assets&#x20;
 
 To deactivate the module:
 

@@ -9,7 +9,7 @@ SoftwareOne Services Support provides 24/7 technical assistance for all Microsof
 * Issues requiring Microsoft vendor escalation.
 * Security-related concerns within Microsoft environments.
 
-To learn about your support options for CSP, you can watch the following video or continue reading:
+To learn about your support options for CSP, watch the following video or continue reading:
 
 {% embed url="https://vimeo.com/1109624556?share=copy" %}
 Watch a quick video guide discussing the support options for SoftwareOne CSP customers.

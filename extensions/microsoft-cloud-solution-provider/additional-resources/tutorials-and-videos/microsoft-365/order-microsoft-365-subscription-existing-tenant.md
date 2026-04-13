@@ -55,7 +55,7 @@ To start the process:
    4. Select **Next**.
 8. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 9. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.
-10. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
+10. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

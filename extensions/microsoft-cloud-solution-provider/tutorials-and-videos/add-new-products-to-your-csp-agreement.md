@@ -64,7 +64,7 @@ In this step, you can also increase the quantities of the existing items.
 
 1. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
 2. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.
-3. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close** to exit the wizard.
+3. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

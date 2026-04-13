@@ -1,4 +1,4 @@
-# Transfer Your AWS Account
+# Transfer your AWS account
 
 This tutorial describes how you can transfer the billing and management for your existing AWS Management Account to SoftwareOne by establishing a new agreement.&#x20;
 
@@ -18,9 +18,9 @@ Before starting this tutorial, make sure you have the following:
 
 To start the purchase wizard:
 
-1. Navigate to the **Products** page.&#x20;
+1. Go to **Catalog** > **Products**.&#x20;
 2. From the list of products, select **Amazon Web Services**.&#x20;
-3. On the product details page, select **Buy now**. The Purchase Wizard for AWS starts.
+3. On the **product details** page, select **Buy now**. The Purchase Wizard for AWS starts.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws-product-details.png" alt=""><figcaption><p>The Buy now option on the product details page.</p></figcaption></figure></div>
 {% endstep %}

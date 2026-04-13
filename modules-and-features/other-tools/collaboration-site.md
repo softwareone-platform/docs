@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Collaboration Site
 
 {% hint style="info" %}
@@ -8,7 +12,7 @@ Collaboration Site allows you to share large files, for example, your project fi
 
 After your account has been set up, only top-level administrators are granted access to the Collaboration Site. If you cannot view this module, contact your administrator or your SoftwareOne Account Manager.
 
-## Granting access to the Collaboration Site&#x20;
+### Granting access to the Collaboration Site&#x20;
 
 To grant access through the Collaboration Site:
 
@@ -17,7 +21,7 @@ To grant access through the Collaboration Site:
 3. On the Manage Permissions page, make changes as necessary. You can update permissions, assign multiple users to a workspace, and delete a user to remove their access rights.
 4. Click **Save**.
 
-## Granting access to the **Transactions** workspace <a href="#storefront-documents" id="storefront-documents"></a>
+### Granting access to the **Transactions** workspace <a href="#storefront-documents" id="storefront-documents"></a>
 
 The **Transactions** workspace within the Collaboration Site contains files attached to the orders placed through the Client Portal. Only those users who have access to the folder can view and download files.
 
@@ -28,7 +32,7 @@ To enable access to the Transactions workspace:
 3. Under **Feature Permissions**, navigate to **Collaboration Site** and enable **View Storefront Documents.**
 4. Save your changes.
 
-## Downloading files and folders <a href="#downloading-files-and-folders" id="downloading-files-and-folders"></a>
+### Downloading files and folders <a href="#downloading-files-and-folders" id="downloading-files-and-folders"></a>
 
 Authorized users can easily download a folder and its contents from the Collaboration Site.&#x20;
 
@@ -41,7 +45,7 @@ To download a file or folder:
 
 Your download will begin. Note that it might take some time for the large files to download completely.
 
-## Creating new folders
+### Creating new folders
 
 Authorized users can create new folders within the Collaboration Site.
 
@@ -50,7 +54,7 @@ To create a new folder:
 1. Select **Add New Folder** and provide a unique name for your folder.
 2. Select **Create**. The new folder is created and displayed as a child folder within the main folder.&#x20;
 
-## Managing files and folders <a href="#uploading-files" id="uploading-files"></a>
+### Managing files and folders <a href="#uploading-files" id="uploading-files"></a>
 
 ### Adding new files <a href="#uploading-files" id="uploading-files"></a>
 

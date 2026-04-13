@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Software Downloads
 
 {% hint style="info" %}
@@ -6,7 +10,7 @@ This feature is no longer supported through the Marketplace Platform
 
 The **Software Downloads** module lets you download software packages that SoftwareOne provides, and upload your files and packages to the cloud storage.  To access software downloads, navigate to the main menu of the Client Portal and select **Inventory** > **Software Downloads**.&#x20;
 
-## Uploading software packages or files
+### Uploading software packages or files
 
 {% hint style="info" %}
 Uploading software packages is a paid feature. If you don't see the **Upload** tab in the Software Download module, contact your SoftwareOne representative.
@@ -34,7 +38,7 @@ To start the upload process:
 5. Choose the file you want to add and select **Next**.
 6. Review the details and select **Next** to create and upload the package. A confirmation message is displayed when the file is added.
 
-## Searching for packages
+### Searching for packages
 
 You can search for a package using the filters on the **Search** tab.
 
@@ -43,7 +47,7 @@ To search for a package in a collection:
 1. On the **Search** tab, enter the search criteria or select your collection from the **Collections** menu.
 2. Select **Search**.  All packages that are uploaded to this collection are displayed.
 
-## Downloading packages
+### Downloading packages
 
 To download a package:
 
@@ -51,7 +55,7 @@ To download a package:
 2. From the **Actions** column, select **Download**.
 3. Choose the number of downloads you want to allow and select **OK**.&#x20;
 
-## Generating an email link
+### Generating an email link
 
 You can generate an email link to share with anyone in your organization. Note that the person accessing the link doesn't need to have a Client Portal account because the link uses a unique access key.
 
@@ -65,7 +69,7 @@ To generate a link:
 The email link will only be valid for the duration that you choose. The link expires when the duration ends, regardless of the number of downloads.
 {% endhint %}
 
-## Viewing software download history
+### Viewing software download history
 
 The **History** tab displays all of your file uploads and downloads.  You can view the data or export it to a CSV and Excel file.
 

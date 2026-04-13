@@ -36,7 +36,7 @@ In the **Terminate Agreement** wizard, complete the following steps:
 1. **Items** - Verify that all subscriptions show the new quantity as `0` and select **Next**.
 2. **Order details** - Enter the reference information for the agreement and the order, then select **Next**.
 3. **Review order** - Review the order details. When done, select **Place order** to submit the termination order.&#x20;
-4. **Summary** - Select **View order** to navigate to the order details page. Otherwise, select **Close** to exit the wizard.
+4. **Summary** - Select **View order** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

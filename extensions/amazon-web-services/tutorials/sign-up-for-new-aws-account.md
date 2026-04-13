@@ -19,9 +19,9 @@ Before starting this tutorial, make sure you have the following:
 
 To start the purchase wizard:
 
-1. Navigate to the **Products** page.&#x20;
+1. Go to **Catalog** > **Products**.&#x20;
 2. From the list of products, select **Amazon Web Services**.&#x20;
-3. On the product details page, select **Buy now**. The Purchase Wizard for AWS starts.
+3. On the **product details** page, select **Buy now**. The Purchase Wizard for AWS starts.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws-product-details.png" alt=""><figcaption><p>The Buy now option on the product details page.</p></figcaption></figure></div>
 {% endstep %}
@@ -34,16 +34,11 @@ In the Purchase Wizard, follow these steps to set up a new SoftwareOne Marketpla
 1. **Select agreement** - Select **Create agreement** to start creating your new agreement with SoftwareOne.
 2. **Select licensee** - Choose a licensee. You can also [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md) and select that licensee when it appears in the list. Select **Next**.&#x20;
 3. **Create agreement** - Choose **Create a new AWS account**, then select **Next**.
-4. **AWS details** - Follow these steps to set up your AWS account:
-
-{% hint style="info" %}
-The following steps must be completed directly in the AWS Console.
-{% endhint %}
-
-1. [Sign up for AWS](https://signin.aws.amazon.com/signup?request_type=register). For details, see [How to create an AWS account](https://aws.amazon.com/resources/create-account/) in the AWS documentation.
-2. Create a new AWS Organization and enable required organization features, including Service Control Policies (SCPs).
-3. Configure services, such as AWS CloudTrail and CloudFormation StackSets.
-4. Copy the 12-digit AWS Management Account ID. This ID must be provided in the next step.
+4. **AWS details** - Complete the following steps:
+   1. [Sign up for AWS](https://signin.aws.amazon.com/signup?request_type=register). For details, see [How to create an AWS account](https://aws.amazon.com/resources/create-account/) in the AWS documentation.
+   2. Create a new AWS Organization and enable required organization features, including Service Control Policies (SCPs).
+   3. Configure services, such as AWS CloudTrail and CloudFormation StackSets.
+   4. Copy the 12-digit AWS Management Account ID. This ID must be provided in the next step.
 {% endstep %}
 
 {% step %}
@@ -82,4 +77,4 @@ After you place the order, you will receive a confirmation message. You can chec
 2. **Approving the service terms** - You'll receive an email from AWS, requesting you to accept the minimum service term of your agreement.
 3. **Deploying the SoftwareOne Bootstrap role** - After accepting the billing transfer invitation and the service terms, you must deploy the Essentials Bootstrap Role. Deploying this role is mandatory for onboarding. For more details, see [Essentials Bootstrap Role](https://docs.softwareone.cloud/knowledge-base/essentials-bootstrap-role-customer-manual) in SoftwareOne Services documentation.
 
-You will also receive email notifications when these actions are due and require your attention.
+You also receive email notifications when these actions are due and require your attention.

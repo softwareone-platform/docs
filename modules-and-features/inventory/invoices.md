@@ -10,7 +10,7 @@ All Marketplace invoices are now available under **Billing** > **Invoices**. See
 
 The Invoices module allows you to search for and view your invoices. You can also export your invoices to the available formats, including PDF and Excel, and create a report of your invoices.&#x20;
 
-## Finding and viewing invoices
+### Finding and viewing invoices
 
 The **Invoices** page contains filters to help you locate the invoice you want to view. You can find an invoice using:
 
@@ -33,7 +33,7 @@ On the **Invoice Details** page, you can view further information about the prod
 * View the contracts associated with this transaction.
 * Download the information as a PDF.
 
-## Exporting invoices
+### Exporting invoices
 
 You can export an individual invoice or all of your invoices.
 

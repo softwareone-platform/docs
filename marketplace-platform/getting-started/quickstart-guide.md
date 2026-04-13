@@ -20,7 +20,7 @@ To get started, you’ll need to have an account on the platform.
 
 <summary>Confirm your organization has Marketplace access</summary>
 
-* If your organization already uses the Marketplace Platform, ask your account administrator to invite you. Administrators can follow the [Add New Users](/broken/pages/78IjQuMhA6Pk2BNXQxOv) page for information on inviting members.
+* If your organization already uses the Marketplace Platform, ask your account administrator to invite you. Administrators can follow the [Add new users](../../modules-and-features/settings/users/add-new-users.md) page for information on inviting members.
 * If your organization does not have an account, [contact us](https://www.softwareone.com/en/contact-us) to get started.
 
 </details>
@@ -67,7 +67,7 @@ You can configure your profile using the **My profile** option in your account m
 2. Do the following as necessary:&#x20;
    * Update your name and contact information.
    * Add a profile picture.
-   * Set your timezone and language preferences.
+   * Set your timezone, regional settings, and language preferences.
 
 </details>
 
@@ -80,15 +80,15 @@ You can subscribe to email alerts or opt out of notification categories from you
 **To manage notifications**
 
 1. Go to the **My profile** page.
-2. &#x20;Select the **Notification Preferences** tab, then select **Edit**.
+2. &#x20;Select the **Notification preferences** tab, then select **Edit**.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/edit_notifications.png" alt=""><figcaption><p>Use the Edit option to manage notifications</p></figcaption></figure></div>
 
 3. Use the checkboxes to enable or disable a category.&#x20;
-4. Save your changes.
+4. **Save** your changes.
 
 {% hint style="success" %}
-You can also update your preferences using the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to your account. For more details, see [Manage Notification Preferences](interface/manage-notification-preferences.md).
+You can also update your preferences using the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to your account. For more details, see [Manage notification preferences](interface/manage-notification-preferences.md).
 {% endhint %}
 
 </details>
@@ -108,7 +108,7 @@ Administrators can create new groups and assign members to those groups. Additio
    3. Choose the required buyers.
    4. Select available users.
 
-For more information, see [Create New Group](../../modules-and-features/settings/groups/create-new-group.md).
+For more information, see [Create groups](../../modules-and-features/settings/groups/create-new-group.md).
 
 </details>
 
@@ -116,14 +116,18 @@ For more information, see [Create New Group](../../modules-and-features/settings
 
 <summary>Invite additional users if needed (Administrators only)</summary>
 
-Administrators can invite additional users to their account.
+Administrators can invite additional users to their Marketplace account.
 
 **To add a new user**
 
 1. Go to the [Users page](../../modules-and-features/settings/users/), then select **Add**.
-2. In the **Add user** wizard, enter the user's details and select the required user groups.
+2. Follow the steps in the **Add user** wizard:
+   1. Enter the user's email address.
+   2. Provide the first and last name.&#x20;
+   3. Select the groups to which the user should have access.
+   4. Select **Add** to finish adding the user to your account.&#x20;
 
-For more information, see [Add New Users](../../modules-and-features/settings/users/add-new-users.md).
+For more information, see [Add new users](../../modules-and-features/settings/users/add-new-users.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Add a new user to your account</p></figcaption></figure></div>
 
@@ -143,7 +147,7 @@ There are two primary ways of finding products in the Marketplace.
 
 **To find products**
 
-* Use the [global search bar](interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform will display results that match your search term.
+* Use the [global search bar](interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform displays results that match your search term.
 * [Visit the Products page](../../modules-and-features/catalog/product-profiles/).
 
 </details>
@@ -215,7 +219,7 @@ When tracking orders, look for key statuses such as:&#x20;
 * **Completed** - Indicates that your order has been processed.
 * **Failed** - Indicates that the order has either been failed by the vendor or SoftwareOne. The failure reason is displayed on the order details page.
 
-For additional order statuses, see [Order States](../../modules-and-features/marketplace/orders/order-states.md).
+For additional order statuses, see [Order status](../../modules-and-features/marketplace/orders/order-states.md).
 
 </details>
 {% endstep %}
@@ -233,16 +237,16 @@ You can adjust the number of licenses for a subscription by submitting a change 
 
 **To increase or reduce licenses**
 
-1. Go to the **Subscriptions** page.
-2. Select the desired subscription.
+1. Go to **Marketplace** > **Subscriptions**.
+2. Select the subscription you want to manage.
 3. Select **Edit**, then follow the steps in the **Edit subscription** wizard to increase or reduce licenses.
-4. When done, select **Place order** to submit your change order.
+4. Select **Place order** to submit your change order.
 
 For detailed information, see the following pages:
 
-* [Downsize Adobe Subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
-* [Upsize Adobe Subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
-* [Buy More Licenses for Microsoft 365 Subscription](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md)
+* [Downsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
+* [Upsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
+* [Buy more licenses for Microsoft 365 subscription](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md)
 
 </details>
 
@@ -254,15 +258,16 @@ You can disable the automatic renewal for a subscription by submitting a configu
 
 **To disable automatic renewal**
 
-1. Go to the **Subscriptions** page, then select the desired subscription.
-2. On the **subscription details** page, select the arrow <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">, then choose **Configure**.
-3. Choose **Disable** and complete the remaining steps to submit your order.&#x20;
+1. Go to **Marketplace** > **Subscriptions.**
+2. Select the subscription you want to managw.
+3. On the **subscription details** page, select the arrow <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">, then choose **Configure**.
+4. Choose **Disable,** then complete the remaining steps to submit your order.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/disable_auto_renewal.png" alt=""><figcaption><p>Select Disable to prevent your subscription from renewing automatically</p></figcaption></figure></div>
 
-Once auto-renewal is disabled, your subscription will expire at the end of the commitment period or renewal date, and you will not be billed after that.&#x20;
+Once auto-renewal is disabled, your subscription expires at the end of the commitment period or renewal date, and you are not billed after that.&#x20;
 
-For more information, see [Manage Automatic Renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+For more information, see [Manage automatic renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
 
 </details>
 {% endstep %}
@@ -278,7 +283,7 @@ For more information, see [Manage Automatic Renewals](../../modules-and-features
 
 <summary>If I need assistance with the platform, whom should I contact?</summary>
 
-You can contact the Marketplace Platform Support team. For details on how to contact us, see [Contact Support](../../help-and-support/contact-support.md).&#x20;
+You can contact the Marketplace Platform Support team. For details on how to contact us, see [Contact support](../../help-and-support/contact-support.md).&#x20;
 
 </details>
 
@@ -314,7 +319,7 @@ Yes, you can download the [OpenAPI 3.0 specification](../../developer-resources/
 
 <summary>I'm a SoftwareOne Partner. What do I need to know to get started?</summary>
 
-Partners accounts include all the features and functionalities of client accounts, along with additional features to facilitate transactions and procurement for reselling software.&#x20;
+Partner accounts include all the features and functionalities of client accounts, along with additional features to facilitate transactions and procurement for reselling software.&#x20;
 
 The [Marketplace for Partners](marketplace-for-partners/) section contains a video guide and help pages describing how to use the Marketplace Platform as a SoftwareOne partner.
 

@@ -44,8 +44,8 @@ The **Chats** page features an intuitive layout that allows you to start a new c
 [start-a-group-chat.md](start-a-group-chat.md)
 {% endcontent-ref %}
 
-{% content-ref url="manage-a-group-chat.md" %}
-[manage-a-group-chat.md](manage-a-group-chat.md)
+{% content-ref url="manage-group-chats.md" %}
+[manage-group-chats.md](manage-group-chats.md)
 {% endcontent-ref %}
 
 {% content-ref url="mute-or-unmute-a-chat.md" %}

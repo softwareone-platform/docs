@@ -6,7 +6,7 @@ description: Start a group chat with multiple users.
 
 You can start a group chat to talk with a small group of users on your account. When starting a group chat, you can assign a title and upload a logo to identify it easily.
 
-### Starting a new group chat
+### Starting a group chat
 
 To start a group chat:
 
