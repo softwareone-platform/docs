@@ -1,6 +1,6 @@
 # Account
 
-The Account object represents an individual account on the Marketplace platform.&#x20;
+The `Account` object represents an individual account in the SoftwarOne Marketplace.&#x20;
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
@@ -14,7 +14,7 @@ The Account object represents an individual account on the Marketplace platform.
 }
 </code></pre></td></tr><tr><td><code>icon</code></td><td>string</td><td><p>The relative path to the account's logo.</p><p>Example: /static/accounts/ACC-1671-0642/logo.png</p></td></tr><tr><td><code>website</code></td><td>string</td><td><p>The path to the company’s website.</p><p>Example: https://www.example.com</p></td></tr><tr><td><code>technicalSupportEmail</code></td><td>string</td><td><p>The email address for technical support.</p><p>Example: user@example.com</p></td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values:  <code>created</code>, <code>updated</code>, <code>disabled</code>, <code>enabled</code>, or  <code>activated</code>.</td></tr><tr><td><code>groups</code></td><td>object</td><td>A reference to the <a href="../../../../modules-and-features/settings/groups/"><code>userGroup</code></a> object.</td></tr></tbody></table>
 
-## Example response
+### Example response
 
 {% tabs %}
 {% tab title="SHORT FORM" %}

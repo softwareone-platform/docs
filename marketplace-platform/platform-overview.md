@@ -10,7 +10,7 @@ The platform simplifies the complexity of managing relationships by creating a d
 
 The platform’s functionality is further enhanced by public APIs and SDKs that enable automation, providing developers and system integrators with programmatic access to the platform's functionalities.&#x20;
 
-## Marketplace capabilities <a href="#features" id="features"></a>
+### Marketplace capabilities <a href="#features" id="features"></a>
 
 The Marketplace Platform is a two-sided platform, offering distinct advantages for clients, partners, and vendors. The platform provides several capabilities for discovering, managing, and transacting services and solutions.
 

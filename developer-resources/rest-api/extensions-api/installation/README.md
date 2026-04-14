@@ -1,5 +1,9 @@
 # Installation
 
+The Installation Object allows you to add, view, and delete installation objects.&#x20;
+
+{% include "../../../../.gitbook/includes/api-table-header.md" %}
+
 <table><thead><tr><th width="143">Field Name</th><th width="158">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>The identifier for the primary installation. </p><p>Example: EXI-1234-1234-0001</p></td></tr><tr><td>extension</td><td>object</td><td>The <a href="../extension/"><code>extension</code></a> to which the installation item belongs. </td></tr><tr><td>status</td><td>enum</td><td>The status of the installation. Allowed values:  <code>installed</code>, <code>uninstalled</code>, <code>invited</code>, or <code>expired</code>.</td></tr><tr><td>configuration</td><td><code>JsonColumn</code> (encrypted)</td><td><p>A set of key values parameters required for extension. Some values can be sensitive, so those must be hidden. This field is available only if retrieved with the extension’s token or vendor token. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
    "adobe_secret": "***",
    "mpt_token": "***",
@@ -10,7 +14,7 @@
 </strong>    "name": "Microsoft",
     "icon": "/static/ACC-1234-1234/account.png"
 }
-</code></pre></td></tr><tr><td>invitation</td><td>object</td><td><p><a href="../invitation.md">invitation</a> information. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td>invitation</td><td>object</td><td><p><a href="invitation-object.md">invitation</a> information. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "url": "https://client.softwareone.com/accept-invite?code=invitationCode",
   "status": "Invited"
 }

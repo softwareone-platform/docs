@@ -2,12 +2,10 @@
 
 The `Phone Number` object is used in the Marketplace APIs to represent a phone number. This object contains two fields.
 
-<table><thead><tr><th width="141">Field Name</th><th width="138">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>prefix</td><td><code>string</code></td><td>Represents the country-specific prefix.</td></tr><tr><td>number</td><td><code>string</code></td><td>Represents the phone number.</td></tr></tbody></table>
+<table><thead><tr><th width="141">Field Name</th><th width="138">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>prefix</code></td><td>string</td><td>Represents the country-specific prefix.</td></tr><tr><td><code>number</code></td><td>string</td><td>Represents the phone number.</td></tr></tbody></table>
 
-## Example
+### Example
 
-{% tabs %}
-{% tab title="PHONE NUMBER OBJECT" %}
 {% code lineNumbers="true" %}
 ```json
 { 
@@ -16,5 +14,3 @@ The `Phone Number` object is used in the Marketplace APIs to represent a phone n
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}
