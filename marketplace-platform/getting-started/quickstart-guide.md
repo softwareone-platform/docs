@@ -185,14 +185,14 @@ The ordering steps might vary slightly depending on the product you are ordering
 
 For product-specific tutorials, see the following pages:
 
-* [Order Adobe Subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
+* [Order Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
 * [Order FinOps for Cloud from Marketplace](../../extensions/finops-for-cloud/order-finops-for-cloud-from-marketplace.md)
-* [Order Microsoft 365 Subscription for New Tenant](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-new-tenant.md)
-* [Order Microsoft 365 Subscription for Existing Tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
-* [Order Azure Subscription for New Tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
-* [Order Azure Subscription for Existing Tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
-* [Buy Perpetual Software Licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
-* [Create New AWS Account](../../extensions/amazon-web-services/tutorials/create-new-aws-account.md)
+* [Order Microsoft 365 subscription for new tenant](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-new-tenant.md)
+* [Order Microsoft 365 subscription for existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
+* [Order Azure subscription for new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
+* [Order Azure subscription for existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
+* [Buy perpetual software licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
+* [Create bew AWS account](../../extensions/amazon-web-services/tutorials/create-new-aws-account.md)
 
 </details>
 {% endstep %}
@@ -246,7 +246,7 @@ For detailed information, see the following pages:
 
 * [Downsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
 * [Upsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
-* [Buy more licenses for Microsoft 365 subscription](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md)
+* [Buy more licenses for a Microsoft 365 subscription](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md)
 
 </details>
 
@@ -259,15 +259,13 @@ You can disable the automatic renewal for a subscription by submitting a configu
 **To disable automatic renewal**
 
 1. Go to **Marketplace** > **Subscriptions.**
-2. Select the subscription you want to managw.
+2. Select the subscription you want to manage.
 3. On the **subscription details** page, select the arrow <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">, then choose **Configure**.
-4. Choose **Disable,** then complete the remaining steps to submit your order.&#x20;
+4. Choose **Disable**, then complete the remaining steps to submit your order.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/disable_auto_renewal.png" alt=""><figcaption><p>Select Disable to prevent your subscription from renewing automatically</p></figcaption></figure></div>
 
-Once auto-renewal is disabled, your subscription expires at the end of the commitment period or renewal date, and you are not billed after that.&#x20;
-
-For more information, see [Manage automatic renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+Once auto-renewal is disabled, your subscription expires at the end of the commitment period or renewal date, and you are not billed after that. For more details, see [Manage automatic renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
 
 </details>
 {% endstep %}

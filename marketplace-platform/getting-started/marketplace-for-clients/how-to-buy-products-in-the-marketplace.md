@@ -51,4 +51,4 @@ For products like Adobe and Microsoft, you'll need to complete additional steps 
 {% endstep %}
 {% endstepper %}
 
-After the order is placed, we verify the details and process the order. The **General** tab on the [order details page](../../../modules-and-features/marketplace/orders/#order-details) displays the order's status. If there are any issues, the details page provides information about the problem and the steps you must take to ensure your order can be processed.
+After the order is placed, we verify the details and process the order. The **General** tab on the [order details page](../../../modules-and-features/marketplace/orders/#order-details) displays the order's status. If there are any issues, the details page provides information about the problem and the steps you must take to ensure your order is processed.

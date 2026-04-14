@@ -27,9 +27,9 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Go to the **Product**s page.
+1. Go to **Catalog** > **Products**.
 2. From the list of products, select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps**.
-3. On the details page, review the information, then select **Buy now**.
+3. On the **product details** page, review the information, then select **Buy now**.
 {% endstep %}
 
 {% step %}
@@ -51,12 +51,12 @@ To start the process:
 6. **Special qualifications** - Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
 7. **Support contacts** - Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
 8. **Items** - Complete the following steps and select **Next**.
-   1. Read and understand the attestation: "By clicking **Next**, I confirm that my organization is acting as an indirect partner when choosing a reseller and as a direct partner in the absence of selecting a reselle&#x72;_"._
+   1. Read and understand the attestation: "_By clicking **Next**, I confirm that my organization is acting as an indirect partner when choosing a reseller and as a direct partner in the absence of selecting a reseller"._
    2. Select **Add items** to choose the items you want to order.&#x20;
-   3. Review and adjust the quantity of items as necessary.
+   3. Review and adjust the item quantity.
 9. **Details -** Provide reference details, like additional IDs or notes, and select **Next**.
 10. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-11. **Summary** - Select **View details** to go to the order details page. Otherwise, select **Close**.
+11. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

@@ -18,7 +18,7 @@ To update your profile:
 
 1. Sign in to your account.&#x20;
 2. Select your profile menu in the header, then select **My profile**.&#x20;
-3. On your profile overview page, select **Edit**.&#x20;
+3. On your **profile overview** page, select **Edit**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/manage_profile.png" alt=""><figcaption><p>Use the Edit option on the My Profile page to update your profile.</p></figcaption></figure></div>
 
@@ -32,7 +32,7 @@ To update your profile:
    * **Language** - Choose your preferred display language.
    * **Settings** - Choose if you want to use the same regional settings as your browser or customize formats for time, date, and numbers.&#x20;
      * **Browser defaults** - This setting uses your browser's language and regional settings automatically.
-     * **Custom settings** - This setting allows you to choose your own settings for the **Time Zone**, **Time format**, **Date Format**, and **Number Format**.&#x20;
+     * **Custom settings** - This setting allows you to choose your own settings for the **Time Zone**, **Time format**, **Date format**, and **Number format**.&#x20;
 6. **Save** your changes.&#x20;
 
 A message is displayed stating your profile has been updated successfully. Once saved, you can view your preferences under **Regional settings** on the **General** tab of the **My profile** page, or via the **Account switcher** menu.

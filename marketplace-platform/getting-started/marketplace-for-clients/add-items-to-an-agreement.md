@@ -16,21 +16,20 @@ To add new items to your existing Marketplace agreement:
 
 1. Go to **Marketplace** > **Agreements**.&#x20;
 2. Select the desired agreement. Make sure that the agreement is active.
-3. On the agreement details page, select **Buy more** to start the purchase wizard. &#x20;
+3. On the **agreement details** page, select **Buy more** to start the purchase wizard. &#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt=""><figcaption><p>Select Buy more to start the ordering process.</p></figcaption></figure></div>
 
 4. Under **Items**, do the following:
    1. Select **Add items**. A new window (also called **Select items**) opens, displaying the products you can order under this agreement.
-   2. Select the items you want to order. You can use filters to find the items easily. When selecting items, be sure to verify the billing terms and the duration of the subscription.
+   2. Select the items you want to order. You can use filters to find the items easily. When selecting items, be sure to verify the billing terms and the duration.
    3. Select **Add items**. Your selected items are added to the agreement, and the **Select items** step is displayed again.
    4. Set the quantity of your newly added items in the **New qty** field. Then, select **Next**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe_select_items.png" alt=""><figcaption><p>The Select Items window displaying individual items you can order.</p></figcaption></figure></div>
 
 5. Under **Details**, add or update the reference ID and your comments. Then, select **Next**.
-6. Under **Review order**, verify the information, then select **Place order**_._
+6. Under **Review order**, verify the information, then select **Place order**_._ A change order is created for the agreement and sent to the vendor for fulfillment.&#x20;
+7. Select **View details** to open the order details page or select **Close**.
 
-A change order is created for the agreement and sent to the vendor for fulfillment. Select **View details** to go to the order details page or select **Close**.
-
-When your order has been placed, the agreement's status changes from **Active** to **Updating**. It means that the agreement is temporarily locked, and no further orders can be placed under this agreement until the current change order is completed. You can check the status of the order on the **Orders** page or within the **Orders** tab on the agreement details page.
+When your order has been placed, the agreement's status changes from **Active** to **Updating**. It means the agreement is temporarily locked, and you cannot place more orders under this agreement until the current change order is completed. To check the status of your order, use the **Orders** page or the **Orders** tab on the **agreement details** page.

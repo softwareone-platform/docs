@@ -23,8 +23,8 @@ You can enroll in this program if you meet these conditions:
 
 To open the details page:
 
-1. Go to the **Programs** page.
-2. Select **Cloud Solution Provider Partner Program**. The program details page opens.
+1. Go to **Program** > **Programs**.
+2. Select **Cloud Solution Provider Partner Program**. The details page of the program opens.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_program.png" alt=""><figcaption><p>The details page of the Cloud Solution Provider Partner Program.</p></figcaption></figure></div>
 {% endstep %}
@@ -34,7 +34,7 @@ To open the details page:
 
 To start the wizard:
 
-1. On the program details page, select the **Certificates** tab.
+1. On the **program details** page, select the **Certificates** tab.
 2. Select **Add**.
 {% endstep %}
 
