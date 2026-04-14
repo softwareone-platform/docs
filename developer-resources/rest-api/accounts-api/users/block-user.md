@@ -1,7 +1,5 @@
-# Block User
+# Block user
 
-Blocks a user.
-
-{% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/users/{id}/block" method="post" %}
-[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
+{% openapi-operation spec="marketplace-accounts-v5" path="/public/v1/accounts/users/{uniqueFilter}/block" method="post" %}
+[OpenAPI marketplace-accounts-v5](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

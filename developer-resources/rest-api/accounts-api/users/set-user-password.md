@@ -1,7 +1,7 @@
-# Set User Password
+# Set user password
 
-SetS passwords for non-SSO users during onboarding.
+Sets passwords for non-SSO users during onboarding.
 
-{% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/users/{id}/set-password" method="post" %}
-[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
+{% openapi-operation spec="marketplace-accounts-v5" path="/public/v1/accounts/users/{uniqueFilter}/set-password" method="post" %}
+[OpenAPI marketplace-accounts-v5](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

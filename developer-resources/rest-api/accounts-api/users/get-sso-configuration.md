@@ -1,5 +1,5 @@
-# Get SSO Configuration
+# Get SSO configuration
 
-{% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/users/{id}/sso" method="get" %}
-[OpenAPI marketplace-accounts-api](https://nlpapp0760sda.blob.core.windows.net/public/openapi/marketplace-accounts.json)
+{% openapi-operation spec="marketplace-accounts-v5" path="/public/v1/accounts/users/{uniqueFilter}/sso-check" method="get" %}
+[OpenAPI marketplace-accounts-v5](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

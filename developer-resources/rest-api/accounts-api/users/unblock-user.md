@@ -1,7 +1,5 @@
-# Unblock User
+# Unblock user
 
-Unblock a previously blocked user.
-
-{% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/users/{id}/unblock" method="post" %}
-[Broken link](broken-reference)
+{% openapi-operation spec="marketplace-accounts-v5" path="/public/v1/accounts/users/{uniqueFilter}/unblock" method="post" %}
+[OpenAPI marketplace-accounts-v5](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}

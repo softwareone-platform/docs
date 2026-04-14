@@ -1,7 +1,7 @@
-# Update User
+# Update user
 
 Updates a user by its ID.
 
-{% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/users/{id}" method="put" %}
-[OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
+{% openapi-operation spec="marketplace-accounts-v5" path="/public/v1/accounts/accounts/{accountId}/users/{userId}" method="put" %}
+[OpenAPI marketplace-accounts-v5](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}
