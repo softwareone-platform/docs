@@ -192,7 +192,7 @@ For product-specific tutorials, see the following pages:
 * [Order Azure subscription for new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
 * [Order Azure subscription for existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
 * [Buy perpetual software licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
-* [Create bew AWS account](../../extensions/amazon-web-services/tutorials/create-new-aws-account.md)
+* [Create new AWS account](../../extensions/amazon-web-services/tutorials/create-new-aws-account.md)
 
 </details>
 {% endstep %}
