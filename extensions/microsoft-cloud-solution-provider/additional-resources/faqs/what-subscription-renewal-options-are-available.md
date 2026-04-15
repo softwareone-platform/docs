@@ -8,7 +8,7 @@ Your subscription renewal options in the Marketplace include renewing to a new t
 
 **Renew to a new term** - This option allows you to renew your subscription for a new fixed term. This works like it always has, supporting scheduled changes as needed or renewing as is. For details on how to renew, see [Renewing to a new fixed term](what-subscription-renewal-options-are-available.md#renewing-to-a-new-fixed-term).
 
-**Cancel at expiration** - This allows you to stop your services at the end of the subscription term. Once a subscription is cancelled, it can't be recovered or reactivated. For details on how to cancel, see [Canceling a subscription at expiration](what-subscription-renewal-options-are-available.md#cancelling-a-subscription-at-expiration).
+**Cancel at expiration** - This allows you to stop your services at the end of the subscription term. Once a subscription is cancelled, it can't be recovered or reactivated. For details on how to cancel, see [Canceling a subscription at expiration](what-subscription-renewal-options-are-available.md#canceling-a-subscription-at-expiration).
 
 **Move to EST** - This converts your subscription into a monthly term that continues until you cancel or convert it to a regular subscription. Once a subscription is converted to EST, no changes can be made. You can move a subscription to EST if it meets the following criteria:
 
