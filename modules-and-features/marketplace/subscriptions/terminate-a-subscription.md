@@ -15,8 +15,8 @@ Subscriptions are linked to agreements; therefore, the termination process depen
 
 Before terminating your subscriptions, note the following points:
 
-* You can only terminate active subscriptions. Subscriptions in [any other state](subscription-states.md) can't be terminated.
-* Creating a termination order doesn't guarantee the subscription cancellation. Termination orders are sent to vendors for approval.
+* You can terminate your active subscriptions. Subscriptions in [any other state](subscription-states.md) can't be terminated.
+* Creating a termination order doesn't guarantee cancellation. Termination orders are sent to vendors for approval.
 
 ### Terminating a subscription
 
@@ -29,7 +29,7 @@ To terminate a subscription:
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscription_terminate.png" alt=""><figcaption><p>The Terminate option on the details page.</p></figcaption></figure></div>
 
 4. In the **Terminate subscription** wizard, do the following:
-   1. **Items** - Check that the quantity of items is zero, then select **Next**.&#x20;
+   1. **Items** - Check that the item quantity is zero, then select **Next**.&#x20;
    2. **Order details** - Provide any reference details and order notes. Then, select **Next**.
    3. **Review order** - Review the order details. When done, select **Place order** to submit your order.
    4. **Summary** - Select **View order** to open the order details page. Otherwise, select **Close**.

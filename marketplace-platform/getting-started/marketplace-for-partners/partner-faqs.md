@@ -170,7 +170,7 @@ You can set up a licensee from the **Licensees** page, available under **Setting
 
 Account administrators can add new users from the **Users** page, available under **Settings** in the main navigation menu.&#x20;
 
-To invite someone, you'll need their first and last name, as well as their email address. For details, see [Add New Users](/broken/pages/78IjQuMhA6Pk2BNXQxOv).&#x20;
+To invite someone, you'll need their first and last name, as well as their email address. For details, see [Add new users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
 
 </details>
 
@@ -178,9 +178,9 @@ To invite someone, you'll need their first and last name, as well as their email
 
 <summary>How can I manage notifications?</summary>
 
-Individual users can manage notifications for their profile through the **My profile** option in their account. For details, see [Manage Notification Preferences](../interface/manage-notification-preferences.md).
+Individual users can manage notifications for their profile through the **My profile** option in their account. For details, see [Manage notification preferences](../interface/manage-notification-preferences.md).
 
-Account administrators can configure and manage notifications at the account level through the **Notifications** feature, available under **Settings** in the main navigation menu. For details, see [Enable or Disable Categories](../../../modules-and-features/settings/notifications/enable-or-disable-categories.md).
+Account administrators can configure and manage notifications at the account level through the **Notifications** feature, available under **Settings** in the main navigation menu. For details, see [Enable or disable categories](../../../modules-and-features/settings/notifications/enable-or-disable-categories.md).
 
 </details>
 
@@ -200,9 +200,9 @@ All price lists are available on the **Price lists** page, located under the **C
 
 <details>
 
-<summary>How do I access the SoftwareOne Marketplace?</summary>
+<summary>How do I view the products in the SoftwareOne Marketplace?</summary>
 
-You can access the SoftwareOne Marketplace by signing in to your account and selecting **Catalog** > **Products** from the main navigation menu.
+You can view the products by selecting **Catalog** > **Products** from the main menu.
 
 </details>
 
@@ -217,7 +217,7 @@ To buy products for resale to your customers:
 3. Follow the steps in the purchase wizard. Make sure to create a new agreement or select an existing one, select a preconfigured resale licensee, and choose your certificate.
 4. Complete the remaining steps in the wizard to place your order.
 
-For detailed instructions, see [How to Order Products for Resale](how-to-order-products-for-resale.md).
+For detailed instructions, see [How to order products for resale](how-to-order-products-for-resale.md).
 
 </details>
 
@@ -227,8 +227,8 @@ For detailed instructions, see [How to Order Products for Resale](how-to-order-p
 
 Make sure that your account as a reseller is properly configured and that your resale licensee information is correctly set up. For details, see the following links:
 
-* [How to Verify If Your Account Has Partner Capabilities](how-to-verify-if-your-account-has-partner-capabilities.md)
-* [How to Configure Licensees for Resale](how-to-configure-licensees-for-resale.md)
+* [How to verify if your account has partner capabilities](how-to-verify-if-your-account-has-partner-capabilities.md)
+* [How to configure licensees for resale](how-to-configure-licensees-for-resale.md)
 
 If you still face issues, contact [Marketplace Platform Support](../../../help-and-support/contact-support.md).&#x20;
 
@@ -297,7 +297,7 @@ To see which countries or regions require a registration ID number, see the [Mic
 
 You can adjust the number of licenses by placing a change order. Certain restrictions apply when adjusting the quantity.
 
-For details, see [How to Change the Quantity of Licenses](../marketplace-for-clients/adjust-subscription-quantity.md).
+For details, see [How to change the number of licenses](../marketplace-for-clients/adjust-subscription-quantity.md).
 
 </details>
 
@@ -321,7 +321,7 @@ Marketplace subscriptions renew automatically unless you disable the automatic r
 
 Yes, you can disable the auto-renewal by placing a configuration order.&#x20;
 
-For details on how to place a change order, see [Manage Automatic Renewals](../../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+For details on how to place a change order, see [Manage automatic renewals](../../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
 
 </details>
 
@@ -329,7 +329,7 @@ For details on how to place a change order, see [Manage Automatic Renewals](../.
 
 <summary>Can I rename a subscription?</summary>
 
-Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptions for easier identification. For details on renaming subscriptions, see [Edit Subscription Name](../../../modules-and-features/marketplace/subscriptions/rename-a-subscription.md).
+Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptions for easier identification. For details on renaming subscriptions, see [Edit subscription name](../../../modules-and-features/marketplace/subscriptions/rename-a-subscription.md).
 
 </details>
 
@@ -339,7 +339,7 @@ Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptio
 
 Subscriptions can be terminated by placing a termination order.
 
-* To cancel all subscriptions in an agreement, you must place a termination order for the entire agreement. For details, see [Terminate Agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
-* To cancel some, but not all, subscriptions in an agreement, you must place a termination order for the subscription. For details, see [Terminate Subscriptions](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
+* To cancel all subscriptions in an agreement, you must place a termination order for the entire agreement. For details, see [Terminate agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
+* To cancel some, but not all, subscriptions in an agreement, you must place a termination order for the subscription. For details, see [Terminate subscription](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
 
 </details>

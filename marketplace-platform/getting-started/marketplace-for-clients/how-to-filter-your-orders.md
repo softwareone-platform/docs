@@ -14,7 +14,7 @@ This topic describes how to use some of the filters.
 
 To find an order using the status filter (such as **Draft**):
 
-1. Go to **Marketplace** > **Orders.**
+1. Go to **Marketplace** > **Orders**.
 2. Select the <img src="../../../.gitbook/assets/icon_filter.png" alt="" data-size="line"> **Filter** icon.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders.png" alt=""><figcaption><p>Select the filter option to find orders based on specific criteria.</p></figcaption></figure></div>

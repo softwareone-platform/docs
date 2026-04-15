@@ -12,10 +12,10 @@ Ordering products from the SoftwareOne Marketplace involves a series of steps, d
 
 {% stepper %}
 {% step %}
-**Review the product profile**
+**Review the product**
 
 1. Go to **Catalog** > **Products**.
-2. From the list of products, select the desired products, for example, **Microsoft 365 Business, Enterprise & Apps**. The details page of your selected product opens.
+2. From the list of products, select the desired product, for example, **Microsoft 365 Business, Enterprise & Apps**. The product details page opens.
 3. Review the information, including product details, features, and more.
 {% endstep %}
 

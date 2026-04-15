@@ -14,6 +14,10 @@ You can access a catalog of software products, view a list of purchasable items 
 [items.md](items.md)
 {% endcontent-ref %}
 
+{% content-ref url="products.md" %}
+[products.md](products.md)
+{% endcontent-ref %}
+
 {% content-ref url="product-profiles/" %}
 [product-profiles](product-profiles/)
 {% endcontent-ref %}

@@ -10,7 +10,7 @@ This page includes the latest enhancements, fixes, and new features in the Micro
 
 With this update, you have greater flexibility and control over your subscriptions, as you can manage them independently without contacting support.&#x20;
 
-For details on EST subscriptions and how to manage them, see [What subscription renewal options are available](faqs/what-subscription-renewal-options-are-available.md) and [How to renew or cancel your CSP subscriptions](faqs/how-to-renew-or-cancel-your-csp-subscriptions.md).
+For details on EST subscriptions and how to manage them, see [What subscription renewal options are available](faqs/what-subscription-renewal-options-are-available.md).
 
 ***
 

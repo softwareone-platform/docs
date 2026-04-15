@@ -28,7 +28,7 @@ To view the program details:
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/programspage.png" alt=""><figcaption><p>Use the program details page to view additional details.</p></figcaption></figure></div>
 
-3. Use the tabs on the **program details** page to view additional information:
+4. Use the tabs on the **program details** page to view additional information:
 
 <table><thead><tr><th width="171">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Describes the program requirements and what you'll need to enroll in the program.</td></tr><tr><td><strong>Certificates</strong></td><td>Displays your certificates for the program. You can also enroll in the program using the <strong>Add</strong> option. </td></tr><tr><td><strong>Terms</strong></td><td>Shows the terms and conditions applicable to the program.</td></tr><tr><td><strong>Media</strong></td><td>Shows the image and video files attached to the program by the vendor or SoftwareOne.</td></tr><tr><td><strong>Documentation</strong></td><td>Shows supporting documentation that may provide additional context about the program.</td></tr></tbody></table>
 
