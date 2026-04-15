@@ -18,7 +18,7 @@ For details on EST subscriptions and how to manage them, see [What subscription 
 
 ### New Extended Service Terms <a href="#extended-service-terms-est" id="extended-service-terms-est"></a>
 
-Starting 8 April 202&#x36;**,** Microsoft will offer three options for renewing CSP subscriptions: Renew, Cancel at expiration, or move to Extended Service Terms (EST):
+Starting 16 February 202&#x36;**,** Microsoft will offer three options for renewing CSP subscriptions: Renew, Cancel at expiration, or move to Extended Service Terms (EST):
 
 * **Renew the subscription** - This works like it always has, supporting scheduled changes or renewing as is.
 * **Cancel at expiration** - This stops the services at the end of the term. Data retention is preserved, but the subscription can't be recovered or reactivated.
