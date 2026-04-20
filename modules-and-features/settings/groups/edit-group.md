@@ -20,9 +20,9 @@ To edit a group:
 1. Go to **Settings** > **Groups**.
 2. Select the actions icon (**•••**) for the group to edit. Then, select **Edit**.
 3. In the **Edit group** wizard, do the following as necessary:&#x20;
-   1. **General** - Update the group's name and description.
-   2. **Modules** - Update the modules to which the group members should have access. Note that access can't be updated for a default group.
-   3. **Extensions** - Specify whether group users should have visibility limited to the selected extension or full visibility across all extensions.
-   4. **Buyers** - Update the buyer settings for the group. This section is available only if you've enabled the **Marketplace** module for the group.
-   5. **Users** - Add or remove group members.&#x20;
+   * **General** - Update the group's name and description.
+   * **Modules** - Update the modules to which the group members should have access. Note that access can't be updated for a default group.
+   * **Extensions** - Specify whether group users should have visibility limited to the selected extension or full visibility across all extensions.
+   * **Buyers** - Update the buyer settings for the group. This section is available only if you've enabled the **Marketplace** module for the group.
+   * **Users** - Add or remove group members.&#x20;
 4. Select **Save**. A confirmation message is displayed stating that the group has been updated.

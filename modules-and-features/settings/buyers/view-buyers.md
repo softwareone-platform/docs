@@ -9,10 +9,10 @@ To view a list of buyers:
 1. Go to **Settings** > **Buyers**.
 2. View the list of buyers displayed on the page.
 3. Review information such as the buyer's name and address, tax identifier, and contact person. You can also view buyer status, including:
-   1. **Enabled** - Indicates that the buyer has been created in the system, but it hasn't been activated yet by SoftwareOne.
-   2. **Active** - Indicates that the buyer is active, and you can select it from your list of buyers when ordering products.
-   3. **Disabled** - Indicates that the buyer has been disabled, and you can no longer select it when buying products.
-   4. **Mismatch** - Indicates that the buyer’s data is not in sync with our system. This discrepancy can occur for several reasons. [Contact support](../../../help-and-support/contact-support.md) for assistance
+   * **Enabled** - Indicates that the buyer has been created in the system, but it hasn't been activated yet by SoftwareOne.
+   * **Active** - Indicates that the buyer is active, and you can select it from your list of buyers when ordering products.
+   * **Disabled** - Indicates that the buyer has been disabled, and you can no longer select it when buying products.
+   * **Mismatch** - Indicates that the buyer’s data is not in sync with our system. This discrepancy can occur for several reasons. [Contact support](../../../help-and-support/contact-support.md) for assistance
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>Use the Buyers page to view and manage buyers.</p></figcaption></figure></div>
 

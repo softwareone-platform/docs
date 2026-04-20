@@ -10,10 +10,10 @@ In some cases, a vendor may request that you provide additional information rega
 
 To identify and take action on such enrollments:
 
-1. Navigate to the **Enrollments** page.
-2. From your list of enrollments, select the enrollment in a **Querying** status. If required, [use filters](../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-filter-your-orders.md) to find the relevant enrollment.
-3. On the **enrollment details** page, read the message in the header and within the **General** tab, and take action according to the message. The following image shows an example:
+1. Go to **Programs** > **Enrollments**.
+2. Select the required enrollment in the **Querying** status.
+3. On the **enrollment details** page, read the message in the header and the **General** tab, then take action based on the message. The following image shows an example:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_querying_state.png" alt=""><figcaption><p>An enrollment with a Querying status.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_querying_state.png" alt=""><figcaption><p>Review and action the enrollment.</p></figcaption></figure></div>
 
 4. Select **Process** to submit the completed enrollment to the vendor for processing. The enrollment's status will change from **Querying** to **Pending**.

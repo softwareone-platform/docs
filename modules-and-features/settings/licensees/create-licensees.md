@@ -22,11 +22,11 @@ To create a new licensee:
    1. **General** - Provide the following details, then select **Next**:
       * **Logo** - (Optional) Add a logo representing the licensee. You can upload an image by clicking **Select file** or by dragging the image into the field.
       * **Licensee name** - (Required) Provide the licensee's name. This can be your company name, department name, or username.&#x20;
-      * **Resale licensee** - (Optional) Select this checkbox if you are SoftwareOne's partner who is transacting through the partner program. Otherwise, leave it clear.
+      * **Resale licensee** - (Optional) Select this checkbox if you are a SoftwareOne partner who is transacting through the partner program. Otherwise, leave it clear.
       * **External reference** - (Optional) Provide a reference number or identifier for the licensee.
       * **Licensee description** - (Optional) Add a description for the licensee.
    2. **Buyers** - Choose the buyer for your transactions. You can link a licensee to one buyer only. When done, select **Next**.
    3. **Sellers** - Choose the SoftwareOne entity that will facilitate transactions and select **Next**.
    4. **Address** - Choose the licensee's address. You can use the same address as that of the buyer or provide a new address by selecting **Create a new licensee address**.&#x20;
    5. **Overview** - Review the details and select **Add** to create the new licensee.
-   6. **Summary** - Select **View details** to open the details page of the licensee. Otherwise, select **Close**.
+   6. **Summary** - Select **View details** to open the licensee details page. Otherwise, select **Close**.

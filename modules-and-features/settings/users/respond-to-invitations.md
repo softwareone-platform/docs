@@ -22,15 +22,8 @@ To accept the invitation:
    5. Select **Accept invitation**.
 
 {% hint style="info" %}
-If single sign-on (SSO) is configured, you'll be automatically redirected to your provider to authenticate. Once authenticated, you only need to enter your first and last name.
-{% endhint %}
-
-After signing in, you are redirected to the **Home** page, from where you can access platform modules and perform different operations depending on your group membership. To familiarize yourself with the platform navigation, see [Platform interface](https://docs.platform.softwareone.com/marketplace-platform/platform-overview/interface).
-
-{% hint style="info" %}
-**Invitation link not working?**
-
-An invitation link will not work if it has expired. Invite links are unique and must be accepted within 7 days from the send date. If your invite link has expired, the account administrator must create a new link. For instructions, see [Manage User Invitations](https://docs.platform.softwareone.com/modules-and-features/settings/users/manage-user-invitations).
+* If single sign-on (SSO) is configured, you'll be automatically redirected to your provider to authenticate. Once authenticated, you only need to enter your first and last name.
+* If your invitation link isn't working, it may have expired. Invite links are unique and must be accepted within 7 days from the send date. If your invite link has expired, the account administrator must create a new link. For instructions, see [Manage User Invitations](https://docs.platform.softwareone.com/modules-and-features/settings/users/manage-user-invitations).
 {% endhint %}
 
 ### Declining an invitation <a href="#declining-an-invitation" id="declining-an-invitation"></a>

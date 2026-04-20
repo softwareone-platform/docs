@@ -14,7 +14,7 @@ The **Licensees** page allows account administrators to add new licensees. Admin
 
 To navigate to the **Licensees** page, select the main menu, then choose **Settings** > **Licensees**. The list of licensees is displayed, as shown in the following image:
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption><p>The Licensees page in the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption><p>Use the Licensees page to view and manage licensees.</p></figcaption></figure></div>
 
 On the **Licensees** page, you can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) to customize the list. You can also view a licensee's details by selecting their name, and you can manage the licensee by using the options in the **Actions** column.
 

@@ -13,9 +13,10 @@ Personal details (such as name, email address, or contact details) can't be upda
 To edit a user:
 
 1. Go to **Settings** > **Users**.
-2. Find the user you want to edit. You can [use filters](https://docs.platform.softwareone.com/marketplace-platform/platform-overview/preferences-and-settings/customize-the-data-grid#filter-data) to find a user based on their ID, name, email address, and other conditions.
-3. Select the actions icon (**•••**), then choose **Edit**.
-4. In the **Edit user** wizard, select the **Groups** page to make the following changes as necessary:
+2. Find the user you want to edit. Then, do one of the following:
+   * Select the actions icon (**•••**), then choose **Edit**.
+   * Select the user name. Then, on the **user details** page, select **Edit**.
+3. In the **Edit user** wizard, go to the **Groups** step and make the required changes.
    * To add the user to a group, select the checkbox for that group.
    * To remove the user from a group, clear the checkbox.
 
