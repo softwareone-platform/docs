@@ -1,4 +1,4 @@
-# What is offer attestation?
+# What is offer attestation
 
 Offer attestation is a process that requires clients purchasing through the Marketplace to acknowledge certain terms and conditions before buying.&#x20;
 
@@ -6,7 +6,7 @@ Currently, the only offer requiring attestation before purchasing is Windows 365
 
 This verification step ensures compliance with Microsoft's licensing requirements and must be completed before placing the order.&#x20;
 
-## How to acknowledge offer attestation
+### How to acknowledge an offer attestation
 
 When ordering an item that falls under the Hybrid Use category, the following message appears on the **Items** page in the Purchase Wizard:
 

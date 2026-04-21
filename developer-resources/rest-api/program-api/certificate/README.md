@@ -21,7 +21,7 @@ The following rules apply to certificates:
     "name": "Oscorp Industries",
     "icon": "/static/ACC-1234-1222/account.png"
 }
-</code></pre></td></tr><tr><td><code>applicableTo</code></td><td>string</td><td>Defines the scope in which the given enrollment has been created. Allowed values: <code>buyer</code> or <code>licensee</code>.</td></tr><tr><td><code>buyer</code></td><td>object </td><td><p>A reference to the <a href="../../accounts-api/buyer/"><code>buyer</code></a> object if the enrollment applies to the buyer. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>applicableTo</code></td><td>string</td><td>Defines the scope in which the given enrollment has been created. Allowed values are <code>buyer</code> or <code>licensee</code>.</td></tr><tr><td><code>buyer</code></td><td>object </td><td><p>A reference to the <a href="../../accounts-api/buyer/"><code>buyer</code></a> object if the enrollment applies to the buyer. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "BUY-1234-1234",
     "href": "v1/accounts/buyers/BUY-1234-1234",
     "name": "MPN EU"

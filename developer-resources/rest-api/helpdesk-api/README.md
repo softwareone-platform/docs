@@ -3,17 +3,17 @@
 The **Helpdesk API** is a REST API used by the Marketplace Platform that allows you to configure the Helpdesk framework. It enables you to:
 
 * Create and manage support cases.
-* Transition case state to querying, processing, or completed.
+* Transition the case state to querying, processing, or completed.
 * Create, retrieve, and manage feedback entries as well as attachments.
 * Configure forms, parameters, and parameter groups to define what data is collected when someone raises a case/feedback.
-* Use queues to manages how cases are routed.
+* Use queues to manage how cases are routed.
 
 ## Core Concepts
 
 The Helpdesk API is built around the following core resources:
 
 * **Case** - Represents an interaction between Client, Vendor, or Operations users.
-* **Chat** - Represent a conversations between parties in the Marketplace platform. These could be direct (1:1), group chats, or case discussions.
+* **Chat** - Represents a conversation between parties in the Marketplace platform. These could be direct (1:1), group chats, or case discussions.
 * **Feedback** - Represents feedback submitted by `client`, `vendor`, or `operations` users through the platform.&#x20;
 * **Form** - Represents a configurable questionnaire used to collect onboarding information.
 * **Queue** - Represents a logical grouping of cases that share similar business problems. Queues can be created for specific purposes, such as customer onboarding, billing issues, or any other business scenario deemed relevant by the operator.

@@ -19,7 +19,7 @@
    "value": "Priority 1"
  }
 ]
-</code></pre></td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the case. Allowed values: <code>processing</code>, <code>querying</code>, or <code>completed</code>.</td></tr><tr><td><code>awaiting</code></td><td>boolean</td><td><p>Allows an Operations user to mark the case as awaiting. This value is not visible to client or vendor account users. </p><p>Example: true</p></td></tr><tr><td><code>queryPrompt</code></td><td>string</td><td><p>If a case is moved to <code>querying</code>, the participant, usually the operator, can provide an additional message to explain what is needed from the other side.</p><p>Example: “Can you please fill in the form with the required information?”</p></td></tr><tr><td><code>queue</code></td><td>object</td><td><p>The <a href="../queue/"><code>queue</code></a> that the case is currently in. This is not read-only, as the queue can change (the case can be transferred). </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the case. Allowed values are  <code>processing</code>, <code>querying</code>, or <code>completed</code>.</td></tr><tr><td><code>awaiting</code></td><td>boolean</td><td><p>Allows an Operations user to mark the case as awaiting. This value is not visible to client or vendor account users. </p><p>Example: true</p></td></tr><tr><td><code>queryPrompt</code></td><td>string</td><td><p>If a case is moved to <code>querying</code>, the participant, usually the operator, can provide an additional message to explain what is needed from the other side.</p><p>Example: “Can you please fill in the form with the required information?”</p></td></tr><tr><td><code>queue</code></td><td>object</td><td><p>The <a href="../queue/"><code>queue</code></a> that the case is currently in. This is not read-only, as the queue can change (the case can be transferred). </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "HQU-1234-1234",
   "name": "Business Onboarding",
   "workflow": "HWF-1234-4568"
@@ -30,7 +30,7 @@
   "firstName": "Will",
   "lastName": "Smith"
 }
-</code></pre></td></tr><tr><td><code>account</code></td><td>object</td><td><p>Represents the <a href="../../accounts-api/account/">account</a> from which the reporter opened the case. When a case is created by an Operations account user on behalf of a client or vendor, this is the account chosen by the operator in the wizard. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>account</code></td><td>object</td><td><p>Represents the <a href="../../accounts-api/account/">account</a> from which the reporter opened the case. When a case is created by an operations account user on behalf of a client or vendor, this is the account chosen by the operator in the wizard. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "ACC-6685-9632",
   "name": "Stark Industries"
 }

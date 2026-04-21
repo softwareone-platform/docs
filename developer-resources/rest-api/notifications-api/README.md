@@ -7,7 +7,7 @@ description: Manage notifications, categories, and contacts with the Notificatio
 The **Notifications API** allows you to manage and deliver notifications within the SoftwareOne Marketplace Platform. With this API, you can:
 
 * Create and retrieve notification batches (emails) sent to specific categories and contacts. You can also retrieve attachments associated with those messages.
-* Create and manage notification categories (such as, orders, subscriptions, and more).
+* Create and manage notification categories (such as orders, subscriptions, and more).
 * Create and manage contacts. Contacts are the recipients who receive notifications.
 * Retrieve sent messages and delivery information.
 

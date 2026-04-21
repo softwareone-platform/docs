@@ -28,8 +28,7 @@ To start the process:
 
 1. Go to **Catalog** > **Products**.
 2. From the list of products, select **Microsoft Perpetual Software**.
-3. On the profile details page, review the product information, then select **Buy now**.
-4. Under **Select product**, choose the product, then select **Select**. The Purchase Wizard starts.
+3. On the details page, review the product information, then select **Buy now**.
 {% endstep %}
 
 {% step %}
@@ -38,7 +37,7 @@ To start the process:
 {% include "../../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
-2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. For more details, see [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md)
+2. **Select licensee** - Choose whether to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. For more details, see [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md)
 3. **Create agreemen**t - Select **Create new cloud account** to create a new organization tenant with Microsoft, then select **Next**.
 4. **Microsoft details** - Provide the following information:
    1. Enter the tenant name you want to use on the onmicrosoft.com domain, then select **Next**. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).

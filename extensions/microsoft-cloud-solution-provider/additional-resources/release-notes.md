@@ -2,6 +2,32 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
+## Release Date: 22 April 2026 <a href="#release-date-16-february-2026" id="release-date-16-february-2026"></a>
+
+### One‑Time Software Subscription Products
+
+SoftwareOne Marketplace now supports one-time purchase items within the Software Subscriptions product. This allows you to place and manage one-time orders for selected products directly through the Marketplace.&#x20;
+
+With this update, several products are now available as one-time purchases, including:
+
+**SQL Server 2014 Extended Security Updates (Year 2 EOS)**&#x20;
+
+* ESU for SQL Server 2014 Enterprise, Per Server (Coverage: July 9, 2025 - July 14, 2026)
+* ESU for SQL Server 2014 Standard, Per Server (Coverage: July 9, 2025 - July 14, 2026)
+* ESU for SQL Server 2014 Enterprise, 2-Core Pack (Coverage: July 9, 2025 - July 14, 2026)
+* ESU for SQL Server 2014 Standard, 2-Core Pack (Coverage: July 9, 2025 - July 14, 2026)
+
+**Windows Server 2012 Extended Security Updates (Year 3)**
+
+* Windows Server 2012 Datacenter, 8-Core Pack (Coverage: October 2025 - 2026)
+* Windows Server 2012 Datacenter, 2-Core Pack (Coverage: October 2025 - 2026)
+* Windows Server 2012 Standard, 8-Core Pack (Coverage: October 2025 - 2026)
+* Windows Server 2012 Standard, 2-Core Pack (Coverage: October 2025 - 2026)
+
+You can find and order these ESUs by navigating to **Catalog** > **Products** and selecting **Microsoft Software Subscriptions**. This update simplifies procurement by making it easier to order and manage one-time items, while expanding the range of products available directly through the Marketplace.
+
+***
+
 ## Release Date: 8 April 2026 <a href="#release-date-16-february-2026" id="release-date-16-february-2026"></a>
 
 ### Extended Service Terms via Self-Service
