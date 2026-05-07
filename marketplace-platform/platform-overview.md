@@ -18,54 +18,31 @@ layout:
     visible: true
 ---
 
-# Platform Overview
+# Overview
 
-The Marketplace Platform is a solution designed for software procurement. It includes a comprehensive set of modules and features that streamline purchasing processes for businesses of all sizes.
+The Marketplace Platform is a unified ecosystem for discovering, purchasing, and managing software purchases.&#x20;
 
-The platform simplifies the complexity of managing relationships by creating a digital business network that connects clients and SoftwareOne partners with vendors. Key features of the platform include standardized billing management, streamlined procurement, and robust vendor management.&#x20;
+It includes a comprehensive set of modules that streamline purchasing processes for businesses of all sizes. It connects clients, partners, vendors, and SoftwareOne through a shared platform, offering distinct advantages and tools tailored to each role.
 
-The platform’s functionality is further enhanced by public APIs and SDKs that enable automation, providing developers and system integrators with programmatic access to the platform's functionalities.&#x20;
+<div data-with-frame="true"><figure><img src="../.gitbook/assets/image (855).png" alt=""><figcaption><p>SoftwareOne Marketplace Platform</p></figcaption></figure></div>
 
-### Marketplace capabilities <a href="#features" id="features"></a>
+### Key capabilities
 
-The Marketplace Platform is a two-sided platform, offering distinct advantages for clients, partners, and vendors. The platform provides several capabilities for discovering, managing, and transacting services and solutions.
+The Marketplace Platform brings together software discovery, procurement, billing, and management into a single system. By focusing on shared capabilities, it creates a more streamlined and scalable way to manage software in a digital ecosystem.&#x20;
 
-### For clients
+The following are some of the core capabilities:
 
-For clients, the platform redefines the procurement experience through its user-friendly Client Portal. This portal digitizes workflows and significantly enhances the efficiency of the purchasing process. Key features for clients include:
+* **Discover and purchase software** - The platform provides a centralized catalog of software and services, making it easy to explore offerings, compare options, and place orders. It supports flexible purchasing models and streamlines the buying experience.
+* **Manage subscriptions and billing** - All subscriptions, agreements, and invoices are managed in one place. This gives you full visibility into your software usage and spend, while simplifying renewals, upgrades, and cancellations. The platform also supports consolidated billing and multi-vendor management, reducing administrative overhead.
+* **Automate and integrate** - APIs and SDKs allow the platform to integrate with external systems and automate key workflows. This enables organizations to connect procurement and billing processes with their existing tools, improving efficiency and reducing manual effort.
+* **Operate across a multi-sided ecosystem** - The platform supports a collaborative ecosystem where users interact through a shared interface:
+  * Clients can procure and manage software.
+  * Vendors can create and manage products, define pricing, and automate fulfilment.
+  * Partners can manage customer relationships and oversee transactions.
+* **Scalable and flexible by design** - Built to support global operations, the platform is designed to scale across regions, currencies, and business models. It adapts to different organizational needs while maintaining a consistent user experience. Its modular architecture allows new services, integrations, and capabilities to be added over time without disrupting existing workflows.
 
-* **Access to product catalog** - Discover a wide range of products from the world's leading software vendors and find everything you need in one centralized location.
-* **Order management** - View, track, and manage your orders while getting extended information about each order on the order detail page.
-* **Subscription management** - Take control of your subscriptions with self-management features. Easily handle terminations and renewals, and buy more licenses or reduce the number of licenses for your subscription.
-* **Agreement management** - Access all of your agreements in one place and self-manage them through the Agreements page in the platform.
-* **Account settings** - Switch between your accounts, invite new members to your account, and manage user invitations. Enhance your account management by creating groups to handle user permissions.
-* **Your profile** - Manage your profile through password resets, profile updates, and more.
+### Next steps
 
-### For partners
-
-SoftwareOne partners have access to all features and functionalities designed for clients, as well as additional tools to enhance their experience. Additional key features for partners include:
-
-* **Software purchasing capabilities** - Explore the full range of products available for resale to your clients.
-* **Visibility into customer subscriptions** - Gain clear visibility into all your customer subscriptions. Easily filter and sort subscriptions by renewal dates to ensure you never miss an expiration.
-* **Centralized order tracking** - View all your customer orders in one centralized location.&#x20;
-* **Program enrollment** - Request a certificate for a program, and once enrolled, get all the benefits associated with that program.&#x20;
-
-### For vendors
-
-The Marketplace Platform offers several benefits to vendors looking to enhance their reach and streamline operations. Key features for vendors include:
-
-* **Product definition and configuration** - Configure products manually or use integrations to set up product parameters. Easily sell your products globally to over 65,000 SoftwareOne clients and partners across various industries.
-* **Catalog management** - Maintain product data in one place, and enhance your product listings and messaging templates to attract potential clients.
-* **Product and price management** - Update product pricing directly within the platform, ensuring that clients always have access to the most accurate and current pricing.
-* **Order fulfillment** - Efficiently manage and fulfill orders.
-
-### For systems integrators and developers
-
-The platform is designed to work the way you work. Use our modern Web Portal for self-service operations, or connect your existing systems through our comprehensive API.&#x20;
-
-* **Web Portal** - A modern self-service interface at [portal.platform.softwareone.com](https://portal.platform.softwareone.com/) for managing orders, subscriptions, billing, and more.
-* [**REST API**](../developer-resources/rest-api/) - A powerful API layer enabling seamless integration with your procurement systems, ERP platforms, and billing solutions.
-* **MCP Server** - An LLM-ready [Model Context Protocol](../developer-resources/mcp-server/) server that enables AI assistants and agents to interact with the platform using natural language.
-* **Extensions Framework** - A flexible framework for extending platform capabilities on both sides: vendors can integrate their fulfillment systems, while clients can connect their procurement, finance, and ERP platforms.
-
-Our [developer documentation](../developer-resources/rest-api/) is built to accelerate your integration journey. With comprehensive API references, query language guides, and URL structure mappings, your team can connect existing infrastructure to the Marketplace Platform quickly and confidently.
+* Read [Concepts](getting-started/key-concepts.md) to understand key platform terms.
+* Open [Interface](getting-started/interface/) to learn how to navigate the platform.
+* Go to [Getting started](getting-started/) for onboarding guides.

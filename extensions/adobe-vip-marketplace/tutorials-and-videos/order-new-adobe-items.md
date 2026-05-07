@@ -26,7 +26,8 @@ To start the process:
 
 1. Go to **Catalog** > **Products**.
 2. From the list of products, select **Adobe VIP Marketplace**.
-3. On the product details page, review the information, then select **Buy now**. The Purchase Wizard starts.
+3. Review the product details.
+4. Select **Buy now**. The Purchase Wizard starts.
 {% endstep %}
 
 {% step %}

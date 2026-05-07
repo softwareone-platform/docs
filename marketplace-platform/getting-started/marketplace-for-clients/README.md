@@ -2,7 +2,7 @@
 description: Get started as a client using the Marketplace Platform.
 ---
 
-# Marketplace for Clients
+# Marketplace for clients
 
 The SoftwareOne Marketplace provides clients with a self-service platform for ordering and managing subscriptions.&#x20;
 
@@ -14,4 +14,4 @@ Whether you are purchasing new products, adjusting license quantities, viewing o
 
 ### Additional tutorials
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adobe VIP Marketplace</strong></td><td><a href="../../../extensions/adobe-vip-marketplace/tutorials-and-videos/">tutorials-and-videos</a></td></tr><tr><td><strong>Microsoft CSP</strong></td><td><a href="../../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/">tutorials-and-videos</a></td></tr><tr><td><strong>Amazon Web Services</strong></td><td><a href="../../../extensions/amazon-web-services/tutorials/">tutorials</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Adobe VIP Marketplace</strong></td><td><a href="../../../extensions/adobe-vip-marketplace/tutorials-and-videos/">tutorials-and-videos</a></td></tr><tr><td><strong>Microsoft CSP</strong></td><td><a href="../../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/">tutorials-and-videos</a></td></tr><tr><td><strong>Amazon Web Services</strong></td><td><a href="/broken/pages/Btg34lpm9Rp1d1yxikaP">Broken link</a></td></tr></tbody></table>

@@ -13,7 +13,7 @@ This topic explains how downsizing and termination work and the key points to ke
 The following are some of the key terms related to Adobe VIPM subscriptions in the Marketplace Platform:
 
 * **Downsize** - Downsizing a subscription involves reducing the number of licenses while keeping at least one license active.
-* **Disable autorenewal** - Disabling autorenewal for a subscription means that its licenses will remain active until the next anniversary date upon which it will expire, and the licenses will no longer be available to users. Any users with licenses assigned after the anniversary date will lose access.
+* **Disable autorenewal** - Disabling autorenewal for a subscription means that its licenses will remain active until the next anniversary date, upon which they will expire, and the licenses will no longer be available to users. Any users with licenses assigned after the anniversary date will lose access.
 * **Terminate** - Terminating a subscription means canceling it entirely and returning the entire quantity of licenses. Termination is only available if the subscription's entire quantity of licenses is still within the return window (14 days) and can be returned.
 * **Returnable order** - Any new or renewal order placed within the 14-day return window. Such orders can be returned without a charge at any time during the 14 days after the order completes.
 

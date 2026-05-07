@@ -2,16 +2,16 @@
 description: View or add prices from the IaaS/PaaS cloud providers.
 ---
 
-# View and Add Prices
+# View and add prices
 
-## Find a provider price list <a href="#finding-a-provider-price-list" id="finding-a-provider-price-list"></a>
+### Find a provider price list <a href="#finding-a-provider-price-list" id="finding-a-provider-price-list"></a>
 
 Follow these steps to open a provider price list
 
 1. Go to the **Pricelist Center** and choose a “Price List Type” and for some providers the “Region”.
 2. Select **Search** to display the results of that provider’s prices.
 
-## Filter Price List results <a href="#filtering-the-price-list-results" id="filtering-the-price-list-results"></a>
+### Filter Price List results <a href="#filtering-the-price-list-results" id="filtering-the-price-list-results"></a>
 
 IaaS/PaaS Price Lists often have specific prices for certain Regions.&#x20;
 
@@ -29,7 +29,7 @@ SaaS Price Lists are different from IaaS/PaaS Pricelists from Cloud Providers. S
 
 To search for a specific Price for an Office 365 product, be sure to select the Office 365 Pricelist and type in a product name or select from an Active Tenant.
 
-## Add missing SaaS prices <a href="#adding-missing-saas-prices" id="adding-missing-saas-prices"></a>
+### Add missing SaaS prices <a href="#adding-missing-saas-prices" id="adding-missing-saas-prices"></a>
 
 It’s important to add any missing price to the Pricelist Center, to ensure accurate Consumption reports are generated as you analyze spending over time on the **Consumption Overview** page.&#x20;
 
@@ -49,7 +49,7 @@ Add the proper pricing to each Subscription/License by selecting **+ Add new pri
 | 2      | Enter the price for your SaaS subscription/license. Once complete, click **Add** to add this price to the subscription/ license.                                                                                                                                                                                                                                                                                                                                                                                                        |
 | 3      | <p>The Currency is set based on the contract information stored in the Client Portal. </p><p></p><p>If the currency requires updating, contact Support or the SoftwareOne Account team.</p>                                                                                                                                                                                                                                                                                                                                             |
 
-## Manage SaaS prices <a href="#managing-saas-prices" id="managing-saas-prices"></a>
+### Manage SaaS prices <a href="#managing-saas-prices" id="managing-saas-prices"></a>
 
 After the SaaS prices are added, you can update them in the future or remove them if they are not accurate.&#x20;
 

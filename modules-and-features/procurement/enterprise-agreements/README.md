@@ -4,13 +4,13 @@ description: >-
   global scale from collection to license allocation.
 ---
 
-# Enterprise Agreements
+# Enterprise agreements
 
 The Microsoft Enterprise Agreement offers organizations a cost-effective way to acquire the latest Microsoft technology to help standardize IT infrastructure and simplify license management. A Microsoft Enterprise Agreement offers organizations a manageable volume-licensing program that gives them the flexibility to buy cloud services and software licenses under one agreement.
 
 Once a year, customers are asked to align their Enterprise Agreement with the total number of licenses that they have added in the previous 12 months. This is the True-Up process: an inventory of all the qualified devices, users, and processors added over the course of the year.
 
-### **EA TrueUp Timeline**
+### EA TrueUp Timeline
 
 Although organizations with Enterprise Agreements may place any number of orders throughout the calendar year, the annual TrueUp order must be received by Microsoft in the period between 60 days and 30 days prior to the anniversary of enrolment.
 

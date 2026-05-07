@@ -4,7 +4,7 @@ description: >-
   your subscription.
 ---
 
-# Quickstart Guide
+# Quickstart guide
 
 This quickstart guide explains how to get set up in the SoftwareOne Marketplace, make your first purchase, track orders, and self-manage your subscription.
 
@@ -192,7 +192,7 @@ For product-specific tutorials, see the following pages:
 * [Order Azure subscription for new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
 * [Order Azure subscription for existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
 * [Buy perpetual software licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
-* [Create new AWS account](../../extensions/amazon-web-services/tutorials/create-new-aws-account.md)
+* [Create new AWS account](/broken/pages/Lzy5tchyBVnRv1bS44iY)
 
 </details>
 {% endstep %}
@@ -301,7 +301,7 @@ For details on self-managing your subscriptions and agreements, including termin
 
 * [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/tutorials-and-videos/)
 * [Microsoft 365](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/)
-* [Amazon Web Services](../../extensions/amazon-web-services/tutorials/)
+* [Amazon Web Services](/broken/pages/Btg34lpm9Rp1d1yxikaP)
 
 </details>
 
@@ -330,7 +330,7 @@ The [Marketplace for Partners](marketplace-for-partners/) section contains a vid
 If you need more information, see the following pages for detailed answers and resources:
 
 * [Adobe VIPM Marketplace FAQs](../../extensions/adobe-vip-marketplace/faqs/)
-* [Amazon Web Services FAQs](../../extensions/amazon-web-services/faqs/)
+* [Amazon Web Services FAQs](/broken/pages/oCVohjskTvHyL8JQ1cEM)
 * [Microsoft CSP FAQs](../../extensions/microsoft-cloud-solution-provider/faqs/)
 * [Platform FAQs](../../help-and-support/faqs/)
 * [Partner FAQs](marketplace-for-partners/partner-faqs.md)

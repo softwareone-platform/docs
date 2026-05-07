@@ -2,7 +2,7 @@
 description: Learn how to navigate and use the platform.
 ---
 
-# Interface Overview
+# Interface
 
 The Marketplace Platform is a SoftwareOne SaaS solution that enables users to procure and manage software solutions. This page provides a high-level overview of the platform interface and explains how to navigate and use its core features.
 
@@ -40,11 +40,11 @@ The header is always visible and contains the following components:
 
 <summary>Hamburger menu</summary>
 
-The hamburger menu provides access to all the modules enabled for your account. Select <img src="https://docs.platform.softwareone.com/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FZ5DNbniz33mXCZoO62Rm%2Fblobs%2FOLjL8UWGYaC92htkTh07%2Fmenu_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.png&#x26;width=40&#x26;dpr=4&#x26;quality=100&#x26;sign=94fc8f43&#x26;sv=2" alt="" data-size="line"> **Home** in the header to open the menu.
+The hamburger menu provides access to the modules enabled for your account. Select <i class="fa-bars">:bars:</i>**Home** in the header to open the menu.
 
-When you are viewing a page within a specific module, the menu label changes to match that context (for example, it displays **Billing** when viewing invoices, **Marketplace** when viewing subscriptions, and so on).
+When viewing a page within a specific module, the menu label changes to match that context (for example, it displays **Billing** when viewing invoices, **Marketplace** when viewing subscriptions, and so on).
 
-Menu items with chevrons<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAACZklEQVR4Aezb223CQBSEYZNCKCD0kyLTDymARsjOA9I+IBsEeObMmYgVJolyzP9lc7PyteSFWiAA1PzLEoAAkAuQx2cHBIBcgDw+OyAA5ALk8dkBASAXII/vuQPI0efxAZhrEI4DQIg+jwzAXINwHABC9HlkAOYahOMAEKLPIwMw1yAcB4AQfR4ZgLkG4TgAhOjzyB0B5rE5vhUIwK0E6V4S4Hg8fpN67D5WDgDxD4fDL+53r0EYKAWA6Ig/Opxwj8fj2PomA4DYiD5qn8bCrQWCBMCd+ADAskegA6zEBwCWNQIV4IH4AMCyRaACXC6Xv+v1+jMKn8faulkiUAFQ3B0Bz3Ft0QFwcp0RJAA6I8gAdEWQAuiIIAfQDUESoBOCLEAXBGmADgjyAO4IJQCcEcoAPIWAd16WEn87KgWArm5/tigH4IZQEsAJoSyAC0JpAAeE8gBAqLzKAzxxXRlOZ1wCxU9SeKCwSgNUj49PgLIADvHLArjEfzMAPtznl1N81Cr1JcgtfikAx/hlAFzjlwBwji8P4B5fGqBDfFmALvElATrFlwPoFl8KoGp8RHxlSfwm3DU+4OgAnePTAbrHpwPgyhSuUI0T2fonPbkrWeOc33Kjfwl6AME2PgTpADiJFQTr+HjuEgA4kTsI9vHxvGUAcDIzAr434DFe77ykABAa0bvEx/OVA8BJAQH3HZYkwGZ4o3cIABkzAAEgFyCPzw4IALkAeXx2QADIBcjjswMCQC5AHp8dUAeAfKam47MDyLABCAC5AHl8dkAAyAXI47MDAkAuQB6fHRAAcgHy+OyADYBPv/kfAAD//0tdFtMAAAAGSURBVAMA3sGt0H3+ScMAAAAASUVORK5CYII=" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#1f1f1f&#x22;><path d=&#x22;M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z&#x22;/></svg>" data-size="line">can be expanded to reveal additional pages within that category.
+Menu items with chevrons <i class="fa-chevron-right">:chevron-right:</i> can be expanded to reveal additional pages within that category.
 
 <figure><img src="../../../.gitbook/assets/interface_home.png" alt=""><figcaption><p>Use the main navigation menu to access different modules.</p></figcaption></figure>
 
@@ -58,7 +58,7 @@ The **Search** bar in the header enables you to search for details, such as your
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/search.png" alt=""><figcaption><p>Use the Search bar to find your orders, invoices, and much more.</p></figcaption></figure></div>
 
-Additionally, you can use search to access product documentation, including resources such as tutorials, FAQs, and procedures. For example, you can search for 'manage subscriptions' to read documentation about how to manage your subscriptions.&#x20;
+You can also use search to access product documentation, including tutorials, FAQs, and procedures. For example, you can search for 'manage subscriptions' to read documentation about how to manage your subscriptions.&#x20;
 
 When performing a search, start by choosing the category you want to search across and then enter the search term. Our platform supports free text, which means you can enter all or part of the object's ID or name. For example, when searching for an agreement using its ID, select the **Agreements** category and then enter the full order ID (such as ‘AGR-8981-7039-6781’) or part of it (such as 6781). The platform will then display results matching your specified search term.
 
@@ -97,7 +97,7 @@ Your user profile menu in the header displays your profile settings and allows y
 If you belong to multiple accounts, the profile menu also includes an account switcher that enables you to:
 
 * Search for an account by its name or ID.
-* [Select an account to switch to](switch-account.md). For more information, see [Switch Accounts](switch-account.md).
+* [Select an account to switch to](switch-account.md). For more information, see [Switch accounts](switch-account.md).
 * Mark an account as a favorite for easy access later from the **Favorites** tab.&#x20;
 * View all recently accessed accounts on the **Recents** tab.
 

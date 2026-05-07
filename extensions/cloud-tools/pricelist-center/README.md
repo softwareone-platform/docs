@@ -2,7 +2,7 @@
 description: Find information on how the IaaS/PaaS Cloud provider price lists work.
 ---
 
-# Pricelist Center
+# Pricelist center
 
 The **Pricelist Center** is a part of our Cloud Management experience. You can use the Pricelist Center to check the latest prices from IaaS/PaaS Cloud providers or set prices for SaaS Cloud providers.&#x20;
 
@@ -13,7 +13,7 @@ SaaS Cloud Providers don't provide price lists, but prices have to be set by you
 * If you are an Office 365 EA or Adobe client, you might need to set the price for each of your subscriptions/licenses and then update them by date, based on any changes to contract renewals.&#x20;
 * If you are an Office 365 Simple client, SoftwareOne will automatically update these prices.
 
-## How to access the Pricelist center <a href="#navigating-to-the-pricelist-center" id="navigating-to-the-pricelist-center"></a>
+### Accessing the Pricelist center <a href="#navigating-to-the-pricelist-center" id="navigating-to-the-pricelist-center"></a>
 
 You can access the **Pricelist Center** by navigating to the main menu and selecting **Cloud tools** > **Pricelist Center**.
 

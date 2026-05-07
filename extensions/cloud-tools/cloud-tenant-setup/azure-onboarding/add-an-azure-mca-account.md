@@ -1,14 +1,14 @@
-# Add an Azure MCA Account
+# Add an Azure MCA account
 
 The Client Portal supports both legacy Enterprise Agreement and modern [Microsoft Customer Agreement](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mca-overview) models. This topic describes how to add an Azure MCA account to the Client Portal. For information on adding an EA or MPSA account, see [Activating an Azure EA or MPSA account](activate-an-azure-ea-or-mpsa-account.md).
 
-## Before you begin <a href="#before-you-start" id="before-you-start"></a>
+### Before you begin <a href="#before-you-start" id="before-you-start"></a>
 
 Before adding an MCA account to the Client Portal, make sure your account has the correct billing account type set up. You can verify the account type in the [Azure Portal](https://portal.azure.com).&#x20;
 
 To verify, select **Cost Management + Billing** and then navigate to **Settings** > **Properties**. The account type is displayed in the right pane.
 
-## Assigning the Billing Account Reader role (Azure Portal)
+### Assigning the Billing Account Reader role (Azure Portal)
 
 To assign the **Billing account reader** role to the Client Portal through Azure:
 
@@ -31,7 +31,7 @@ To assign the **Billing account reader** role to the Client Portal through Azure
 
 6. Select**Save**. Your MCA billing data will be synchronized with the Client Portal after 24 hours.
 
-## Next steps
+### Next steps
 
 After assigning permissions to the billing account, you can add the tenant to the Client Portal via **Cloud tenant setup**, found under **Cloud tools** in the main menu.
 

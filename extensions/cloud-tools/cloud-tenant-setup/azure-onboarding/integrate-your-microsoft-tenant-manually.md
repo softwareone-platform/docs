@@ -1,4 +1,4 @@
-# Integrate Your Microsoft Tenant Manually
+# Integrate your Microsoft tenant manually
 
 This topic describes how to manually integrate your Azure tenant and assign the Reader and Tag Contributor roles to the Client Portal using Azure Management Groups.&#x20;
 
@@ -8,7 +8,7 @@ Integrating a Microsoft tenant involves the following steps:
 2. Assigning the [Tag Contributor](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#tag-contributor) and [Reader](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#reader) access roles to the Client Portal using Azure Management Groups. The **Tag Contributor** and **Reader** roles allow the Client Portal to read a list of all the resources in your Azure subscription and read and write tags on those resources. You can control whether you want the Client Portal to write tags back to resources in your Azure subscription. For more information, see [Syncing your tags to Azure](activate-an-azure-ea-or-mpsa-account.md#syncing-your-tags-to-azure).
 3. Providing the details to SoftwareOne to complete your onboarding.
 
-## Granting consent through your Azure tenant <a href="#providing-consent-to-pyracloud-in-your-azure-tenant" id="providing-consent-to-pyracloud-in-your-azure-tenant"></a>
+### Granting consent through your Azure tenant <a href="#providing-consent-to-pyracloud-in-your-azure-tenant" id="providing-consent-to-pyracloud-in-your-azure-tenant"></a>
 
 To grant consent through your Azure tenant:
 
@@ -18,7 +18,7 @@ To grant consent through your Azure tenant:
 2. On the **Permissions Requested** page, review the permissions, and select **Accept**.
 3. After granting consent, launch the Azure Portal and navigate to **Azure Active Directory** > **Enterprise applications** to make sure that SoftwareOne Cloud Consumption (formerly PyraCloud) is listed in your enterprise applications.
 
-## Assigning the Tag Contributor and Reader access roles   <a href="#granting-access-to-pyracloud-with-azure-management-groups" id="granting-access-to-pyracloud-with-azure-management-groups"></a>
+### Assigning the Tag Contributor and Reader access roles   <a href="#granting-access-to-pyracloud-with-azure-management-groups" id="granting-access-to-pyracloud-with-azure-management-groups"></a>
 
 To assign the Tag Contributor and Reader access roles:
 
@@ -37,7 +37,7 @@ To assign the Tag Contributor and Reader access roles:
    3. Search for **SoftwareOne Cloud Consumption** (formerly _PyraCloud Azure_ for Azure or _PyraCloud Office 365_ for Office 365) and then select it from the search results. Click **Save**.
 8. Select **Review + assign** and then **Review + assign** again. The new roles are displayed on the page.
 
-## Providing the details to SoftwareOne <a href="#providing-details-to-softwareone" id="providing-details-to-softwareone"></a>
+### Providing the details to SoftwareOne <a href="#providing-details-to-softwareone" id="providing-details-to-softwareone"></a>
 
 After completing the integration steps, provide the following details so we can complete the onboarding of your tenant:
 

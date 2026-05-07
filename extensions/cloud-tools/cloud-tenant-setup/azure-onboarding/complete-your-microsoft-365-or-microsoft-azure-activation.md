@@ -1,4 +1,4 @@
-# Complete Your Microsoft 365 or Microsoft Azure Activation
+# Complete your Microsoft 365 or Azure activation
 
 If you purchased SoftwareOne's Digital Workplace Essentials/365Simple, and Azure Essentials/ AzureSimple services, you must activate your cloud account in the Marketplace Platform.&#x20;
 
@@ -6,7 +6,7 @@ Cloud accounts that require activation are displayed on the **Cloud tenant setup
 
 This topic describes how you can access the **Cloud tenant setup** page and complete the activation.
 
-## Activate Microsoft 365
+### Activate Microsoft 365
 
 To activate Microsoft 365:
 
@@ -21,7 +21,7 @@ To activate Microsoft 365:
 4. On the Microsoft sign-in page, enter your username and password. Note that you must provide your Global Administrator credentials.
 5. Review the permissions and select **Accept** to grant consent.
 
-## Activate Microsoft Azure
+### Activate Microsoft Azure
 
 To activate Microsoft Azure:
 

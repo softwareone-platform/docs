@@ -1,17 +1,19 @@
-# Activate an Azure EA or MPSA Account
+# Activate an Azure EA or MPSA account
 
-## Before you begin <a href="#before-you-start" id="before-you-start"></a>
+This topic describes how you can activate an Azure EA or MPSA account.
+
+### Before you begin <a href="#before-you-start" id="before-you-start"></a>
 
 Before adding an account, make sure that you have the following details:
 
-* **Account Information -** You must have the tenant ID or domain name of the tenant that contains your Azure or Office 365 subscriptions. The tenant ID and domain name are available in your Azure account. For information on how to find these details, see [Find IDs and domain names](https://learn.microsoft.com/en-us/partner-center/find-ids-and-domain-names) in the Microsoft documentation.
-* **Permissions -** You must have sufficient permissions to complete the onboarding process. The setup will fail if the permissions are not configured in the [Microsoft Azure Portal](https://portal.azure.com/).
+* **Account Information** - You must have the tenant ID or domain name of the tenant that contains your Azure or Office 365 subscriptions. The tenant ID and domain name are available in your Azure account. For information on how to find these details, see [Find IDs and domain names](https://learn.microsoft.com/en-us/partner-center/find-ids-and-domain-names) in the Microsoft documentation.
+* **Permissions** - You must have sufficient permissions to complete the onboarding process. The setup will fail if the permissions are not configured in the [Microsoft Azure Portal](https://portal.azure.com/).
   * For an Azure account, you must have owner permission for the subscription you want to add.
   * For an Office 365 account, you must be a **Global Administrator** of the tenant that contains the subscriptions.
 
-## **Activate your cloud account**
+### Activate your cloud account
 
-Follow these steps to add a new cloud account to the Client Portal: &#x20;
+To add a new cloud account to the Client Portal: &#x20;
 
 1. On the [Cloud tenant setup](https://v1.client.softwareone.com/integration-manager/start) page, select **Add Cloud Account**.
 2. On the **Add Cloud Account** page, click **Azure** and provide the following details:
@@ -32,7 +34,7 @@ After clicking **Accept**, you'll be redirected to the **Cloud Tenant Setup** de
 
 When you return to the Client Portal, you might see a blank page for a few seconds. To learn about the process that takes place after you provide consent, see [What happens after I grant consent.](../../../../help-and-support/faqs/i-have-questions-about-access-tokens-and-consent.md#what-happens-when-i-perform-consent)&#x20;
 
-## Add more Azure subscriptions <a href="#add-more-azure-subscriptions" id="add-more-azure-subscriptions"></a>
+### Add more Azure subscriptions <a href="#add-more-azure-subscriptions" id="add-more-azure-subscriptions"></a>
 
 Many organizations have several Azure subscriptions in a single Microsoft tenant. In some cases, it's not always the same person who has Owner permissions on all those subscriptions. In such cases, each subscription owner must activate their subscriptions.
 
@@ -46,7 +48,7 @@ Follow these steps to add more subscriptions:
 4. Sign in to the Microsoft portal using the credentials of the user with Owner permissions to the Azure subscriptions you want to add.
 5. On the consent page, review the permissions and select **Accept** to grant consent. After granting consent, you'll be redirected to the Client Portal.
 
-## Sync your tags to Azure
+### Sync your tags to Azure
 
 When you activate your Azure subscriptions for the first time, the Client Portal assigns the **Reader** role by default. This means that the Tags and Resources feature can import your resources and tags from Azure, but it cannot synchronize any tag changes you make in the Client Portal back to Azure.
 

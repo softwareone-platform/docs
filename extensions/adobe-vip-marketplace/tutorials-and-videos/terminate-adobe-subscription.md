@@ -1,10 +1,10 @@
 ---
-description: Cancel your Adobe subscription.
+description: Return your entire subscription.
 ---
 
 # Terminate Adobe subscription
 
-This tutorial describes how you can cancel your Adobe subscription by submitting a termination order.&#x20;
+This tutorial describes how you can cancel your Adobe subscription by submitting a termination order.
 
 A termination order can be created if you want to cancel your Adobe subscriptions within the 14-day return period, or if you are beyond this period and want to prevent your subscription from automatically renewing on the renewal date.
 

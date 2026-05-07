@@ -1,12 +1,8 @@
-# Quotes
+# Sales quotes
 
-The **Quotes** module in the Client Portal allows you to create a new quote and manage your existing quotes.
+The **Sales Quotes** page under **Procurement** allows you to create a new quote and manage your existing quotes.&#x20;
 
-### Creating a quote and converting it to an order
-
-{% embed url="https://vimeo.com/889160199" %}
-Watch a quick video guide showing how to create a quote and convert it to an order.
-{% endembed %}
+### Creating a new quote and converting it to an order
 
 To create a quote and convert it to an order:
 
@@ -20,3 +16,7 @@ To create a quote and convert it to an order:
 8. On the **Convert to Order** page, provide the PO numbers (mandatory). Optionally, you can add internal comments and reference information. Select **Convert to Order**.
 
 A confirmation message is displayed, and your order is created. You can download your order information as a PDF.
+
+{% embed url="https://vimeo.com/889160199" %}
+Watch a quick video guide showing how to create a quote and convert it to an order.
+{% endembed %}

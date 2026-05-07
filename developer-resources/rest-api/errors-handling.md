@@ -2,7 +2,7 @@
 description: Understand Marketplace API errors and status codes.
 ---
 
-# Error Handling
+# Error handling
 
 All errors reported by the [REST API](./) have an [HTTP status code](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) and follow the standard format.&#x20;
 
@@ -33,7 +33,7 @@ When an error occurs, the response body usually contains a JSON object with the 
 * **traceId** - (Optional) \[string] A unique identifier to trace requests in logs.
 * **errors** - (Optional) \[key-value] A collection of errors detected by validation logic.
 
-## Common errors
+### Common errors
 
 The following table lists some of the common errors:
 

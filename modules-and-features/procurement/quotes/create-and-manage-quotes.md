@@ -1,10 +1,8 @@
-# Manage Quotes
+# Manage quotes
+
+This topic describes how to search, renew, or delete a quote.
 
 ### Searching for a quote
-
-{% embed url="https://vimeo.com/872543584/f350c3fc34" %}
-Watch a quick video guide showing how to search for a quote.
-{% endembed %}
 
 To search for a quote:
 

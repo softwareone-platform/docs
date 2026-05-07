@@ -2,11 +2,11 @@
 description: Learn what's new and improved in Client Portal's Azure Cloud Spend Management.
 ---
 
-# Release Notes
+# Release notes
 
 **Release Date: 22 April 2024**
 
-## New Azure Cost Management APIs
+### New Azure Cost Management APIs
 
 On 1 May 2024, Microsoft will retire the legacy Azure Enterprise Reporting (EA) APIs. Currently, the Client Portal uses these APIs to get your Azure EA consumption data.
 
@@ -16,7 +16,7 @@ For instructions on migrating to the new APIs, see [Migrate to Azure Cost Manage
 
 You can also see Microsoft's documentation on [Migrate from Azure Enterprise Reporting to Microsoft Cost Management APIs overview.](https://learn.microsoft.com/en-us/azure/cost-management-billing/automate/migrate-ea-reporting-arm-apis-overview)
 
-## Changes to the Cloud Tenant Details page <a href="#user-content-cloud-tenant-setup-changes" id="user-content-cloud-tenant-setup-changes"></a>
+### Changes to the Cloud Tenant Details page <a href="#user-content-cloud-tenant-setup-changes" id="user-content-cloud-tenant-setup-changes"></a>
 
 In the cloud tenant's details page, the **Access Tokens** tab has been replaced by a new tab called **Enrollment Numbers**.
 
@@ -26,7 +26,7 @@ This change is made because the new Azure Cost Management APIs don't require acc
 
 On the **Enrollment Numbers** tab, you can view all enrollment numbers that are migrated to the new API, along with the enrollment status. For possible statuses and their description, see [Enrollment statuses](cloud-tenant-setup/azure-onboarding/migrate-to-azure-cost-management-apis.md#enrollment-statuses).
 
-## Azure Savings Plans in the Client Portal
+### Azure Savings Plans in the Client Portal
 
 Clients who have a Microsoft CSP subscription through SoftwareOne and commit to an Azure Saving Plan can now see their savings plan cost in the Client Portal.&#x20;
 

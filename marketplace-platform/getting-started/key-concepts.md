@@ -10,7 +10,7 @@ Certain concepts and terms are central to the functionality and design of the Ma
 You can also watch the [Getting Started Video Guide ](https://youtu.be/LrMOMN8sjM4)on YouTube to understand the concepts listed on this page. The guide also outlines what makes our platform unique for your enterprise software procurement.&#x20;
 {% endhint %}
 
-## Actors
+### Actors
 
 The Marketplace Platform seamlessly brings together various actors to facilitate the buying, selling, provisioning, and billing of software products.&#x20;
 
@@ -32,7 +32,7 @@ The following are the key actors using our platform:
 
 **Developers and systems integrators** - Developers and systems integrators represent entities involved in building integrations within the business network.
 
-## Users, Accounts, and Groups  <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
+### Users, Accounts, and Groups  <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
 **Users** - Users represent individuals or persons who can sign in to the platform using their credentials and perform operations associated with their permissions. Users include individual users as well as account administrators responsible for managing account-wide configuration and properties.&#x20;
 
@@ -56,7 +56,7 @@ Users can also be a part of multiple groups, much like users can belong to multi
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_multiple_groups.png" alt=""><figcaption><p>A user can belong to multiple groups in the platform.</p></figcaption></figure></div>
 
-## Sellers, Buyers, and Licensees <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
+### Sellers, Buyers, and Licensees <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
 **Seller** - A seller is a SoftwareOne entity (for example, SoftwareOne Canada) that buys software solutions from vendors (like Microsoft) and sells those solutions to clients.&#x20;
 
@@ -76,15 +76,15 @@ Client account users can view licensees and manage them through the platform.&#x
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Licensees in the Marketplace Platform.</p></figcaption></figure></div>
 
-## Agreements&#x20;
+### Agreements&#x20;
 
-An agreement is an object outlining the relationship between the seller, buyer, and licensee.  They are the foundation for placing orders and creating subscriptions in the platform.&#x20;
+An agreement outlines the relationship between the seller, buyer, and licensee.  They are the foundation for placing orders and creating subscriptions in the platform.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption><p>Agreements in the Marketplace Platform.</p></figcaption></figure></div>
 
 They also establish the terms and conditions under which transactions occur. Without an agreement, orders cannot be placed through the marketplace.&#x20;
 
-## Orders and Subscriptions
+### Orders and Subscriptions
 
 **Orders** - An order is an object that signifies a business transaction under the framework of an established agreement.&#x20;
 
@@ -95,7 +95,7 @@ The Marketplace Platform supports various types of orders to support different s
 * **Terminate order** - Terminate orders are created when you terminate your agreement or subscription with SoftwareOne.&#x20;
 * **Configuration order** - Configuration orders are created when you enable or disable the auto-renewal of a subscription.&#x20;
 
-For details on how to manage your orders, see [Orders](../../modules-and-features/marketplace/orders/).
+For details on managing your orders, see [Orders](../../modules-and-features/marketplace/orders/).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_orders.png" alt=""><figcaption><p>Different types of orders in the Marketplace Platform.</p></figcaption></figure></div>
 
@@ -107,7 +107,7 @@ For details on subscription management, see [Subscriptions](../../modules-and-fe
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_subscriptions.png" alt=""><figcaption><p>Subscriptions in the Marketplace Platform.</p></figcaption></figure></div>
 
-## Products, Items, and Parameters
+### Products, Items, and Parameters
 
 **Products** - Products are the solutions or services offered by vendors through the marketplace. They contain various items and parameters, which are also defined by vendors.&#x20;
 
@@ -116,7 +116,7 @@ For details on subscription management, see [Subscriptions](../../modules-and-fe
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1099).png" alt=""><figcaption><p>Products within the Marketplace Platform.</p></figcaption></figure></div>
 
-## Price List
+### Price List
 
 A Price List is an object that holds key pricing details of each item within the product.
 
