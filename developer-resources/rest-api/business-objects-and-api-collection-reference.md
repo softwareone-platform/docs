@@ -1,10 +1,12 @@
-# Business Objects & API Collection Reference
+# Business objects & API collection reference
 
 This topic lists all business objects available in the SoftwareOne Marketplace Platform REST API and the corresponding API collection endpoints used to access them.&#x20;
 
 Use this page as a centralized reference to identify the correct object types and endpoints when designing integrations or reviewing platform capabilities.
 
-## Business Objects
+## Object ID prefixes
+
+Every object in the Marketplace Platform has a unique identifier with a prefix that indicates the object type. Use these prefixes to quickly identify what kind of object you are working with:
 
 ### Accounts
 
