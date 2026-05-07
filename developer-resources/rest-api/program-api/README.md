@@ -19,8 +19,6 @@ With this API, you can also perform additional operations, including:
 * Process or fail enrollment requests.
 * Retrieve an enrollment's template.
 
-<a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button primary">Try API</a><a href="https://api.platform.softwareone.com/public/v1/program/openapi.json" class="button secondary">Download API</a>
-
 ## Core Concepts
 
 The Program API is built around the following core resources:

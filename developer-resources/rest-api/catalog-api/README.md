@@ -8,15 +8,13 @@ The **Catalog API** enables you to create, retrieve, and manage products. You ca
 
 Additionally, you can define parameters and parameter groups, and manage pricing with price lists. You can also create custom templates and product variants. The API also includes endpoints for managing product media, documents, listings, and terms and conditions.
 
-<a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/catalog/openapi.json" class="button primary">Try API</a><a href="https://api.platform.softwareone.com/public/v1/catalog/openapi.json" class="button secondary">Download API</a>
-
 ### Core Concepts
 
 The Catalog API is built around the following core resources:
 
 * **Authorization** - Represents the permissions and credentials that are required for interactions between sellers and vendors in the scope of a product.&#x20;
 * **Document** - Used to upload product documentation (via an online link or file) to the `product` object.
-* **Item** - Represent the individual stock-keeping units (SKUs) or transactable element of a product. Items are shown as a line item in an order.
+* **Item** - Represents the individual stock-keeping units (SKUs) or transactable element of a product. Items are shown as a line item in an order.
 * **Item group** - Represents a group of items.
 * **Listing** - Represents a business entity that aligns a product with a specific SoftwareOne `seller`.
 * **Media** - Enables vendors to add, view, or delete media from the `product` object.&#x20;

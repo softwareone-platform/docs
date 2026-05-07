@@ -10,8 +10,6 @@ The **Billing API** allows you to interact with the billing features of the Mark
 
 With this API, you can create, update, retrieve, and manage financial documents through secure endpoints. The documents include invoices, credit memos, statements, journals, and custom ledgers. The API also includes endpoints for managing journal and invoice attachments.
 
-<a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/billing/openapi.json" class="button primary">Try API</a><a href="https://api.platform.softwareone.com/public/v1/billing/openapi.json" class="button secondary">Download API</a>
-
 ## Core Concepts
 
 The Billing API is built around the following core resources:

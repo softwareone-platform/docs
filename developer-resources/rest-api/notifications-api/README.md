@@ -11,8 +11,6 @@ The **Notifications API** allows you to manage and deliver notifications within 
 * Create and manage contacts. Contacts are the recipients who receive notifications.
 * Retrieve sent messages and delivery information.
 
-<a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/notifications/openapi.json" class="button primary">Try API</a><a href="https://api.platform.softwareone.com/public/v1/notifications/openapi.json" class="button secondary">Download API</a>
-
 ## Core Concepts
 
 The Notifications API is built around the following core resources:

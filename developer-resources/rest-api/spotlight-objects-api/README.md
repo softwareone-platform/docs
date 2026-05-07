@@ -14,8 +14,6 @@ The API consists of two primary endpoints: `spotlightObject` and `spotlightQuery
 * Get details for a specific spotlight query.
 * Update an existing spotlight query.
 
-<a href="https://editor.swagger.io/?url=https://api.platform.softwareone.com/public/v1/spotlight/openapi.json" class="button primary">Try API</a><a href="https://api.platform.softwareone.com/public/v1/spotlight/openapi.json" class="button secondary">Download API</a>
-
 ## Core Concepts
 
 The Spotlight API is built around the following core resources:

@@ -137,7 +137,7 @@ The ilike operator in this case will be searching for the literal value “The\*
 
 Before writing RQL, keep these in mind:
 
-<table><thead><tr><th width="180">Topic</th><th>Recommendation</th></tr></thead><tbody><tr><td><strong>Field names</strong></td><td>RQL filter and sort fields must exist on the resource. Do not invent field names (e.g. <code>subscriptionsCount</code>). Use the resource schema or API documentation to see exact field names and types.</td></tr><tr><td><strong>Dates</strong></td><td>Use UTC with 3-digit millisecond precision: <code>YYYY-MM-DDTHH:mm:ss.sssZ</code> (e.g. <code>2026-01-31T23:00:00.000Z</code>).</td></tr><tr><td><strong>Audit fields</strong></td><td>When filtering or sorting by <code>audit.created.at</code>, <code>audit.updated.at</code>, etc., you must include <code>audit</code> in the <code>select</code> parameter (e.g. <code>select=audit</code> or <code>select=+id,+name,audit</code>). The API will not filter by fields that are not selected.</td></tr><tr><td><strong>Counting</strong></td><td>Use <code>limit=0</code> to get only the count: the response has an empty <code>data</code> array and the total in <code>$meta.pagination.total</code>.</td></tr><tr><td><strong>Limit</strong></td><td>Prefer a reasonable limit (like, 20–50) for list queries. Maximum is 100 (values above 100 are capped). For count-only, use <code>limit=0</code>.</td></tr><tr><td><strong>Select</strong></td><td>Use <code>select=+id,+name,+field</code> to include only needed fields (smaller payloads). To include omitted fields (see <code>$meta.omitted</code>), use <code>select=+field</code>. For nested collections, <code>+subscriptions.id,+subscriptions.name</code> returns only id and name per item; <code>+subscriptions</code> returns the full nested representation.</td></tr><tr><td><strong>Order in URL</strong></td><td>Order is part of the query string: <code>?order=-audit.created.at&#x26;limit=10</code>. Do not send RQL as a single query parameter (see below).</td></tr><tr><td><strong>RQL vs parameters</strong></td><td>Do not put <code>limit</code> or <code>order</code> inside the RQL string. RQL is only the filter expression; <code>limit</code>, <code>offset</code>, <code>select</code>, and <code>order</code> are separate query parameters.</td></tr><tr><td><strong>IDs in RQL</strong></td><td>When filtering by ID fields (like, <code>client.id</code>, <code>buyer.id</code>, <code>agreement.id</code>), use double-quoted values <code>eq(client.id,"ACC-1234-5678")</code>. Unquoted IDs can return no results.</td></tr></tbody></table>
+<table><thead><tr><th width="180">Topic</th><th>Recommendation</th></tr></thead><tbody><tr><td><strong>Field names</strong></td><td>RQL filter and sort fields must exist on the resource. Do not invent field names (e.g. <code>subscriptionsCount</code>). Use the resource schema or API documentation to see exact field names and types.</td></tr><tr><td><strong>Dates</strong></td><td>Use UTC with 3-digit millisecond precision: <code>YYYY-MM-DDTHH:mm:ss.sssZ</code> (for example, <code>2026-01-31T23:00:00.000Z</code>).</td></tr><tr><td><strong>Audit fields</strong></td><td>When filtering or sorting by <code>audit.created.at</code>, <code>audit.updated.at</code>, etc., you must include <code>audit</code> in the <code>select</code> parameter (e.g. <code>select=audit</code> or <code>select=+id,+name,audit</code>). The API will not filter by fields that are not selected.</td></tr><tr><td><strong>Counting</strong></td><td>Use <code>limit=0</code> to get only the count: the response has an empty <code>data</code> array and the total in <code>$meta.pagination.total</code>.</td></tr><tr><td><strong>Limit</strong></td><td>Prefer a reasonable limit (like, 20–50) for list queries. Maximum is 100 (values above 100 are capped). For count-only, use <code>limit=0</code>.</td></tr><tr><td><strong>Select</strong></td><td>Use <code>select=+id,+name,+field</code> to include only needed fields (smaller payloads). To include omitted fields (see <code>$meta.omitted</code>), use <code>select=+field</code>. For nested collections, <code>+subscriptions.id,+subscriptions.name</code> returns only id and name per item; <code>+subscriptions</code> returns the full nested representation.</td></tr><tr><td><strong>Order in URL</strong></td><td>Order is part of the query string: <code>?order=-audit.created.at&#x26;limit=10</code>. Do not send RQL as a single query parameter (see below).</td></tr><tr><td><strong>RQL vs parameters</strong></td><td>Do not put <code>limit</code> or <code>order</code> inside the RQL string. RQL is only the filter expression; <code>limit</code>, <code>offset</code>, <code>select</code>, and <code>order</code> are separate query parameters.</td></tr><tr><td><strong>IDs in RQL</strong></td><td>When filtering by ID fields (like, <code>client.id</code>, <code>buyer.id</code>, <code>agreement.id</code>), use double-quoted values <code>eq(client.id,"ACC-1234-5678")</code>. Unquoted IDs can return no results.</td></tr></tbody></table>
 
 For more details and advanced patterns, see [RQL advanced tips](rql-advanced-tips.md).
 
@@ -201,6 +201,7 @@ GET /commerce/subscriptions?agreement.id=AGR-1234-5678&limit=0
 
 **Response Structure**
 
+{% code lineNumbers="true" %}
 ```json
 {
   "$meta": {
@@ -213,6 +214,7 @@ GET /commerce/subscriptions?agreement.id=AGR-1234-5678&limit=0
   "data": [] 
 }
 ```
+{% endcode %}
 
 {% hint style="info" %}
 Using `limit=0` is the most efficient way to get counts as it minimizes data transfer.
@@ -267,12 +269,12 @@ Date fields like `created` and `updated` are typically nested within the `audit`
 
 In the API, Buyer and Client have distinct meanings and ID formats:
 
-* Buyer represents a legal entity in the platform. This is the core entity for billing and legal purposes.&#x20;
-  * **ID Format**: `BUY-xxxx-xxx`
+* Buyer represents a legal entity on the platform. This is the core entity for billing and legal purposes.&#x20;
+  * **ID Format** - `BUY-xxxx-xxx`
 * Client represents one or multiple Buyers activated in the self-service part of the platform (Client Portal).&#x20;
-  * **ID Format**: `ACC-1234-5678`
+  * **ID Format** - `ACC-1234-5678`
 
-When filtering by Client (ACC- IDs), use **`client.id`** in RQL on resources that expose it (like, `commerce.orders`, `commerce.agreements`): `eq(client.id,"ACC-1234-5678")`.&#x20;
+When filtering by Client (ACC- IDs), use **`client.id`** in RQL on resources that expose it (such as, `commerce.orders`, `commerce.agreements`): `eq(client.id,"ACC-1234-5678")`.&#x20;
 
 When filtering by Buyer (BUY- IDs), use **`buyer.id`**. Check the resource schema to see which relationship field exists.
 

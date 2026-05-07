@@ -12,8 +12,6 @@ It provides secure endpoints that allow you to perform operations such as creati
 
 Additionally, the API supports retrieving a list of available modules within the platform and managing ERP system links.
 
-<a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/accounts/openapi.json" class="button primary">Try API</a><a href="https://api.platform.softwareone.com/public/v1/accounts/openapi.json" class="button secondary">Download API</a>
-
 ## Core Concepts
 
 The Accounts API is built around the following core resources:

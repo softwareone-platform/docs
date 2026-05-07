@@ -8,8 +8,6 @@ The **Audit API** enables you to track and retrieve activity logs across the Mar
 
 With this API, you can create new audit records programmatically, retrieve a list of logged events for monitoring or compliance purposes, and get detailed information about specific events.&#x20;
 
-<a href="https://editor-next.swagger.io/?url=https://api.platform.softwareone.com/public/v1/audit/openapi.json" class="button primary">Try API</a><a href="https://api.platform.softwareone.com/public/v1/audit/openapi.json" class="button secondary">Download API</a>
-
 ## Core Concepts
 
 The Audit API is built around the following core resources:
