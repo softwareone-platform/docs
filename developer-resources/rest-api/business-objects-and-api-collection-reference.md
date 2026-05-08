@@ -23,7 +23,7 @@ Every object in the Marketplace Platform has a unique identifier with a prefix t
 | [Group](accounts-api/user-groups/)          | `UGR-` | `UGR-0601-5102`      |
 | [Token](accounts-api/api-tokens/)           | `TKN-` | `TKN-9299-7556`      |
 
-### Audit Trail
+### Audit
 
 | Object Type                                     | Prefix | Example                   |
 | ----------------------------------------------- | ------ | ------------------------- |
@@ -41,6 +41,10 @@ Every object in the Marketplace Platform has a unique identifier with a prefix t
 ### Commerce
 
 <table><thead><tr><th>Object Type</th><th width="216">Prefix</th><th>Example</th></tr></thead><tbody><tr><td><a href="commerce-api/agreements/">Agreement</a></td><td><code>AGR-</code></td><td><code>AGR-5896-1479-0269</code></td></tr><tr><td><a href="commerce-api/orders/">Order</a></td><td><code>ORD-</code></td><td><code>ORD-5879-2698-3893</code></td></tr><tr><td><a href="commerce-api/subscriptions/">Subscription</a></td><td><code>SUB-</code></td><td><code>SUB-1548-1246-0954</code></td></tr><tr><td><a href="commerce-api/requests/">Request</a></td><td><code>REQ-</code></td><td><code>REQ-7319-1974-9054</code></td></tr><tr><td><a href="commerce-api/line.md">Line</a></td><td><code>ALI-</code></td><td><code>ALI-6199-1408-4789-1964</code></td></tr><tr><td><a href="commerce-api/assets/">Asset</a></td><td><code>AST-</code></td><td><code>AST-5971-3179-2597</code></td></tr></tbody></table>
+
+### Currency
+
+<table><thead><tr><th width="266">Object Type</th><th width="216">Prefix</th><th>Example</th></tr></thead><tbody><tr><td><a href="currency-api/currency/">Currency</a></td><td><code>CUR-</code></td><td><code>CUR-1234-4678</code></td></tr><tr><td><a href="currency-api/pair/">Pair</a></td><td><code>FXP-</code></td><td><code>FXP-1234-4678</code></td></tr><tr><td><a href="currency-api/rate/">Rate</a></td><td><code>FXR-</code></td><td><code>FXR-1234-4678-0000-0001</code></td></tr></tbody></table>
 
 ### Extensions
 
