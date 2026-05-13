@@ -1,6 +1,6 @@
 # Rate
 
-The Rate object represents an exchange rate between two currencies.&#x20;
+The `Rate` object represents an exchange rate between two currencies.&#x20;
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

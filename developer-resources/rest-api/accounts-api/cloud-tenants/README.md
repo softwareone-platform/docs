@@ -1,6 +1,6 @@
 # Cloud Tenant
 
-A Cloud Tenant represents a cloud tenant object in the Marketplace Platform.
+A `Cloud Tenant` represents a cloud tenant object in the Marketplace Platform.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

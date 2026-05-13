@@ -1,6 +1,6 @@
-# API Token
+# API token
 
-The API Token object represents a user authentication token within the platform.&#x20;
+The `API Token` object represents a user authentication token within the platform.&#x20;
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

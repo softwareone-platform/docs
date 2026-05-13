@@ -1,6 +1,6 @@
 # Currency
 
-The Currency object represents a currency that is used by one or more sellers in our system to invoice their products.
+The `Currency` object represents a currency that is used by one or more sellers in our system to invoice their products.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
@@ -35,7 +35,7 @@ The Currency object represents a currency that is used by one or more sellers in
 }
 </code></pre></td></tr><tr><td><code>revision</code></td><td>integer</td><td><p>The revision number. </p><p>Example: 3</p></td></tr></tbody></table>
 
-### CurrencyStatistics <a href="#currencystatistics" id="currencystatistics"></a>
+### Currency Statistics object <a href="#currencystatistics" id="currencystatistics"></a>
 
 <table><thead><tr><th width="131">Field Name</th><th width="124">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>sellerCount</code></td><td>integer</td><td><p>The number of sellers using this currency. </p><p>Example: 35</p></td></tr><tr><td><code>pairCount</code></td><td>integer</td><td><p>The number of pairs that use this currency. </p><p>Example: 344</p></td></tr></tbody></table>
 

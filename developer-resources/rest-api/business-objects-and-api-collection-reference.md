@@ -1,6 +1,6 @@
 # Business objects & API collection reference
 
-This topic lists all business objects available in the SoftwareOne Marketplace Platform REST API and the corresponding API collection endpoints used to access them.&#x20;
+This topic lists all business objects available in the SoftwareOne Marketplace REST API and the corresponding API collection endpoints used to access them.&#x20;
 
 Use this page as a centralized reference to identify the correct object types and endpoints when designing integrations or reviewing platform capabilities.
 

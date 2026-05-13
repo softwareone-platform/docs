@@ -26,7 +26,7 @@
 "id": "USR-1234-4444",
 "name": "John Smith"
 }
-</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values:  <code>created</code>, <code>updated</code>, <code>completed</code>, or <code>deleted</code>.</td></tr></tbody></table>
+</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values are <code>created</code>, <code>updated</code>, <code>completed</code>, or <code>deleted</code>.</td></tr></tbody></table>
 
 ### Feedback Attachments object <a href="#feedback-attachments-object" id="feedback-attachments-object"></a>
 

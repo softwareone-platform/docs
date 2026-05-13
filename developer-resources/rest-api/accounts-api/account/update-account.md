@@ -1,6 +1,4 @@
-# Update Account
-
-Updates an existing account.
+# Update account
 
 {% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/accounts/{id}" method="put" %}
 [OpenAPI marketplace-accounts-api](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)

@@ -11,7 +11,7 @@ The Marketplace Platform provides two main entry points for interacting with you
 * **Portal (Web UI)** - `https://portal.platform.softwareone.com/`
 * **API** - `https://api.platform.softwareone.com/public/v1/`
 
-While both the Portal and API operate on the same underlying objects, their URL structures differ slightly due to usability requirements. This article explains how to map between Portal URLs and API endpoints, which is useful when you need to:
+While both the Portal and API operate on the same underlying objects, their URL structures differ slightly due to usability requirements. This topic explains how to map between Portal URLs and API endpoints, which is useful to:
 
 * Generate deep links to specific objects in the portal.
 * Determine which API endpoint to call based on a portal URL.
@@ -20,7 +20,7 @@ While both the Portal and API operate on the same underlying objects, their URL 
 
 ## Object ID prefixes
 
-Every object in the Marketplace Platform has a unique identifier with a prefix that indicates the object type. For more details, see [Business objects & API collection reference](rest-api/business-objects-and-api-collection-reference.md).
+Every object in the Marketplace Platform has a unique identifier with a prefix that indicates the object type. For details on all such objects, see [Business objects & API collection reference](rest-api/business-objects-and-api-collection-reference.md).
 
 ## URL mapping reference
 
@@ -39,7 +39,7 @@ All account-related objects in the Portal are accessed via the `/administration/
 <table><thead><tr><th width="204">Object</th><th>Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td><strong>Agreements List</strong></td><td><code>/commerce/agreements</code></td><td><code>GET /commerce/agreements</code></td></tr><tr><td><strong>Agreement Details</strong></td><td><code>/commerce/agreements/{id}</code></td><td><code>GET /commerce/agreements/{id}</code></td></tr><tr><td><strong>Assets List</strong></td><td><code>/commerce/assets</code></td><td><code>GET /commerce/assets</code></td></tr><tr><td><strong>Asset Details</strong></td><td><code>/commerce/assets/{id}</code></td><td><code>GET /commerce/assets/{id}</code></td></tr><tr><td><strong>Entitlements List</strong></td><td><code>/commerce/entitlements</code></td><td><code>GET /commerce/lines</code></td></tr><tr><td><strong>Entitlement Details</strong></td><td><code>/catalog/items/{id}</code></td><td><code>GET /catalog/items/{id}</code></td></tr><tr><td><strong>Orders List</strong></td><td><code>/commerce/orders</code></td><td><code>GET /commerce/orders</code></td></tr><tr><td><strong>Order Details</strong></td><td><code>/commerce/orders/{id}</code></td><td><code>GET /commerce/orders/{id}</code></td></tr><tr><td><strong>Subscriptions List</strong></td><td><code>/commerce/subscriptions</code></td><td><code>GET /commerce/subscriptions</code></td></tr><tr><td><strong>Subscription Details</strong></td><td><code>/commerce/subscriptions/{id}</code></td><td><code>GET /commerce/subscriptions/{id}</code></td></tr><tr><td><strong>Requests List</strong></td><td><code>/commerce/requests</code></td><td><code>GET /commerce/requests</code></td></tr><tr><td><strong>Request Details</strong></td><td><code>/commerce/requests/{id}</code></td><td><code>GET /commerce/requests/{id}</code></td></tr></tbody></table>
 
 {% hint style="info" %}
-The Entitlements page in the Portal shows commerce lines, and clicking on an entitlement opens the catalog item details page.
+The **Entitlements** page in the platform shows commerce lines, and selecting an entitlement opens the catalog item details page.
 {% endhint %}
 
 ### Billing objects
@@ -69,7 +69,7 @@ The Entitlements page in the Portal shows commerce lines, and clicking on an ent
 | **Authorization Details** | API only                    | `GET /catalog/authorizations/{id}` |
 
 {% hint style="info" %}
-Listings and Authorizations are available through the API, but do not have dedicated Portal pages. They are typically accessed programmatically for integration purposes.
+Listings and Authorizations are available through the API, but don't have dedicated Portal pages. They are typically accessed programmatically for integration purposes.
 {% endhint %}
 
 ### Program objects

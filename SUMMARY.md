@@ -413,7 +413,7 @@
       * [Resend user invitation](developer-resources/rest-api/accounts-api/account-user/resend-user-invitation.md)
       * [Send new invitation](developer-resources/rest-api/accounts-api/account-user/send-new-invitation.md)
       * [Update user to group assignment](developer-resources/rest-api/accounts-api/account-user/update-user-to-group-assignment.md)
-    * [API Token](developer-resources/rest-api/accounts-api/api-tokens/README.md)
+    * [API token](developer-resources/rest-api/accounts-api/api-tokens/README.md)
       * [State diagram](developer-resources/rest-api/accounts-api/api-tokens/token-state-diagram.md)
       * [Create token](developer-resources/rest-api/accounts-api/api-tokens/create-token.md)
       * [Update token](developer-resources/rest-api/accounts-api/api-tokens/update-token.md)

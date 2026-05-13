@@ -1,6 +1,6 @@
 # Product Profile
 
-The Product Profile object represents a product in the public catalog.
+The `Product Profile` object represents a product in the public catalog.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

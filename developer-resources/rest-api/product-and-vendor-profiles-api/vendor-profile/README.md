@@ -1,6 +1,6 @@
 # Vendor Profile
 
-The Vendor Profile object represents a vendor in the public catalog.
+The `Vendor Profile` object represents a vendor in the public catalog.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

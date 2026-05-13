@@ -1,6 +1,6 @@
 # Pair
 
-The Pair object represents an exchange rate between two currencies, used by one or more sellers in our system to invoice their products.
+The `Pair` object represents an exchange rate between two currencies, used by one or more sellers in our system to invoice their products.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

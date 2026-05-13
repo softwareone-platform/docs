@@ -1,6 +1,6 @@
 # Category
 
-The Category object represents a software category or sub-category. It is used to classify software in the Public Catalog.
+The `Category` object represents a software category or sub-category. It is used to classify software in the Public Catalog.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

@@ -1,12 +1,12 @@
 # Enrollment
 
-Enrollment is a process through which a client formally registers or signs up to participate in a vendor program.&#x20;
+Enrollment is a process through which a client formally registers or signs up to participate in a vendor program.
 
 Once the client fulfills all the necessary conditions, they are considered enrolled in the program, and a certificate is issued.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="195.3333740234375">Field Name</th><th width="155">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The identifier for the enrollment. </p><p>Example: ENR-1234-1234</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>A reference to enrollment in the API. </p><p>Example: /v1/catalog/enrollments/PRD-1234-1234</p></td></tr><tr><td><code>certificate</code></td><td>object </td><td><p>A reference to the <a href="../certificate/"><code>certificate</code></a> object for this enrollment. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+<table><thead><tr><th width="172.3333740234375">Field Name</th><th width="132">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The identifier for the enrollment. </p><p>Example: ENR-1234-1234</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>A reference to enrollment in the API. </p><p>Example: /v1/catalog/enrollments/PRD-1234-1234</p></td></tr><tr><td><code>certificate</code></td><td>object </td><td><p>A reference to the <a href="../certificate/"><code>certificate</code></a> object for this enrollment. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "PRG-1234-5678",
     "href": "/program/programs/PRG-1234-5678",
     "name": "Microsoft AI Cloud Partner"
@@ -18,7 +18,7 @@ Once the client fulfills all the necessary conditions, they are considered enrol
     "icon": "/static/PRG-1234-1234/logo.png",
     "applicableTo": "Buyer"
 }
-</code></pre></td></tr><tr><td><code>applicableTo</code></td><td>string</td><td>Defines the scope of the enrollment. Allowed values: <code>buyer</code> or <code>licensee</code>.</td></tr><tr><td><code>type</code></td><td>string</td><td>Defines whether the enrollment is new (first time requesting a certificate) or a change (re-enrollment). Allowed values: <code>change</code> or <code>new</code>.</td></tr><tr><td><code>buyer</code></td><td>object</td><td><p>A reference to the <a href="../../accounts-api/buyer/"><code>buyer</code></a> object, if the enrollment applies to a buyer. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>applicableTo</code></td><td>string</td><td>Defines the scope of the enrollment. Allowed values are <code>buyer</code> or <code>licensee</code>.</td></tr><tr><td><code>type</code></td><td>string</td><td>Defines whether the enrollment is new (first time requesting a certificate) or a change (re-enrollment). Allowed values are <code>change</code> or <code>new</code>.</td></tr><tr><td><code>buyer</code></td><td>object</td><td><p>A reference to the <a href="../../accounts-api/buyer/"><code>buyer</code></a> object, if the enrollment applies to a buyer. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "PRG-1234-1234",
     "href": "v1/catalog/programs/PRG-1234-5678",
     "name": "Microsoft AI Cloud Partner",
@@ -35,7 +35,7 @@ Once the client fulfills all the necessary conditions, they are considered enrol
   "client": true,
   "partner": false
 }
-</code></pre></td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the enrollment. Allowed values: <code>processing</code>, <code>failed</code>, <code>completed</code>, or <code>querying</code>.</td></tr><tr><td><code>statusNotes</code></td><td><a href="../../common-api-objects/message.md">message</a></td><td><p>Notes added during status change by vendor or vendor extensions to indicate the reason for enrollment failure or status change. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the enrollment. Allowed values are <code>processing</code>, <code>failed</code>, <code>completed</code>, or <code>querying</code>.</td></tr><tr><td><code>statusNotes</code></td><td><a href="../../common-api-objects/message.md">message</a></td><td><p>Notes added during status change by vendor or vendor extensions to indicate the reason for enrollment failure or status change. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "E001234",
     "message": "Educational certification failed"
 }
@@ -96,7 +96,7 @@ Once the client fulfills all the necessary conditions, they are considered enrol
 
 <table><thead><tr><th width="197">Field Name</th><th width="196">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>client</code></td><td>boolean</td><td><p>Indicates direct client. </p><p>Example: true</p></td></tr><tr><td><code>partner</code></td><td>boolean</td><td><p>Indicates indirect client (partner).</p><p>Example: false</p></td></tr></tbody></table>
 
-## EnrollmentParameter object
+## Enrollment Parameter object
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 

@@ -12,15 +12,15 @@ The specification contains all API methods. Within the specification, you'll fin
 
 ### Available APIs
 
-* **Accounts API** - Access and manage accounts, users, groups, licensees, sellers, API tokens, platform modules, and ERP links within the platform.
-* **Audit API** - Track and retrieve activity logs across the platform.
-* **Billing API** - Access billing data and invoices.
-* **Catalog API** - Retrieve and manage product and catalog information.
-* **Commerce API** - Create, retrieve, and manage your orders, subscriptions, and agreements.
-* **Currency API** - Manage currencies, currency pairs, and exchange rates.
-* **Extensions API** - Manage extensions and all of their related data programmatically.
-* **Helpdesk API** - Manage cases, chats, feedback, forms, and queues.&#x20;
-* **Notifications API** - Manage and send notifications. You can create and retrieve notification batches and attachments, manage categories and contacts, and track sent messages and delivery details.
-* **Program API** - Manage programs, certificates, and enrollments in the Marketplace Platform. You can publish or unpublish programs, update settings, manage documents, templates, groups, and attachments, handle enrollment requests, and validate or retrieve enrollment details.
-* **Spotlight API** - Highlight key platform objects like agreements, orders, subscriptions, and invoices.
-* **Task API** - Manage and track long-running tasks, including creating tasks, retrieving results, managing status, and viewing detailed task logs.
+* **Accounts** - Access and manage accounts, users, groups, licensees, sellers, API tokens, platform modules, and ERP links within the platform.
+* **Audit** - Track and retrieve activity logs across the platform.
+* **Billing** - Access billing data and invoices.
+* **Catalog** - Retrieve and manage product and catalog information.
+* **Commerce** - Create, retrieve, and manage your orders, subscriptions, and agreements.
+* **Currency** - Manage currencies, currency pairs, and exchange rates.
+* **Extensions** - Manage extensions and all of their related data programmatically.
+* **Helpdesk** - Manage cases, chats, feedback, forms, and queues.&#x20;
+* **Notifications** - Manage and send notifications. You can create and retrieve notification batches and attachments, manage categories and contacts, and track sent messages and delivery details.
+* **Program** - Manage programs, certificates, and enrollments in the Marketplace Platform. You can publish or unpublish programs, update settings, manage documents, templates, groups, and attachments, handle enrollment requests, and validate or retrieve enrollment details.
+* **Spotlight** - Highlight key platform objects, like agreements, orders, subscriptions, and invoices.
+* **Task** - Manage and track long-running tasks, including creating tasks, retrieving results, managing status, and viewing detailed task logs.

@@ -25,7 +25,7 @@ The SoftwareOne Marketplace Platform is a digital platform for software procurem
 
 ### Start here <a href="#featured-resources" id="featured-resources"></a>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>I’m new here</strong></td><td>Start with the platform overview and core concepts.</td><td><a href="marketplace-platform/platform-overview.md">platform-overview.md</a></td></tr><tr><td><strong>I already use the platform</strong></td><td>Manage subscriptions, orders, aand greements.</td><td><a href="modules-and-features/marketplace/">marketplace</a></td></tr><tr><td><strong>I’m building an integration</strong></td><td>Use our API, MCP server, and developer references.</td><td><a href="developer-resources/rest-api/">rest-api</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>I’m new here</strong></td><td>Start with the platform overview and core concepts.</td><td><a href="marketplace-platform/platform-overview.md">platform-overview.md</a></td></tr><tr><td><strong>I already use the platform</strong></td><td>Manage subscriptions, orders, agreements &#x26; more.</td><td><a href="modules-and-features/marketplace/">marketplace</a></td></tr><tr><td><strong>I’m building an integration</strong></td><td>Use our API, MCP server, and developer references.</td><td><a href="developer-resources/rest-api/">rest-api</a></td></tr></tbody></table>
 
 ### Core product areas
 

@@ -23,7 +23,7 @@ The Accounts API is built around the following core resources:
 * **Cloud tenant** - Represents a `cloudTenant` object in the Marketplace.
 * **ERP link** - Represents a connection between the buyer object and the seller object in the Marketplace.
 * **Licensee** - Represents entities that consume the software products or services procured by the `buyer`.
-* **Module** -  Represents modules available in the platform, for example, Marketplace.
+* **Module** - Represents modules available in the platform, for example, Marketplace.
 * **Seller** - Represents SoftwareOne entities (for example, SoftwareOne Canada) that buy software solutions from vendors and sell those solutions to clients.
 * **User** - Represents users who can sign in to the platform using their credentials and perform operations associated with their permissions.
 * **User group** - Represents a `userGroup` object in the Marketplace.
@@ -70,7 +70,7 @@ Refer to the following capability matrix to see which roles are authorized to pe
 
 <table><thead><tr><th width="333">Capability</th><th width="120">Client</th><th width="130">Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List modules</td><td>❌</td><td>❌</td><td>✅</td></tr></tbody></table>
 
-### [Users](users/) <a href="#users-collection" id="users-collection"></a>
+### Users <a href="#users-collection" id="users-collection"></a>
 
 <table><thead><tr><th width="335">Capability</th><th width="139">Client</th><th width="130">Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List users</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get user</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Check SSO configuration for the user</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get the accounts collections for the user</td><td>❌</td><td>❌</td><td>✅</td></tr><tr><td>Update user</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Set user password</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Block user</td><td>❌</td><td>❌</td><td>✅</td></tr><tr><td>Unblock user</td><td>❌</td><td>❌</td><td>✅</td></tr></tbody></table>
 
