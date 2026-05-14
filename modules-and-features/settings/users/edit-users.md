@@ -22,4 +22,4 @@ To edit a user:
 
 <div data-with-frame="true"><figure><img src="https://docs.platform.softwareone.com/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FZ5DNbniz33mXCZoO62Rm%2Fblobs%2FcfHWKs3qGH4NGAdq1snO%2Fimage.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=496f0d09&#x26;sv=2" alt=""><figcaption><p>Use the Edit user wizard to update a user.</p></figcaption></figure></div>
 
-5. Select **Save**. A confirmation message is displayed stating that the user has been edited successfully.
+4. Select **Save**. A confirmation message is displayed stating that the user has been edited successfully.
