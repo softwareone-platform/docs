@@ -2,11 +2,11 @@
 description: Find the latest updates and improvements to the SoftwareOne mobile app.
 ---
 
-# Release Notes
+# Release notes
 
-#### SoftwareOne Marketplace Mobile App for iOS
+#### SoftwareOne Marketplace Mobile App
 
-We are excited to announce the launch of our brand-new app specifically designed for iOS devices. This app allows you to access your Marketplace account seamlessly, anytime and anywhere.
+We are excited to announce the launch of our brand-new app specifically designed for iOS and Android devices. This app allows you to access your Marketplace account seamlessly, anytime and anywhere.
 
 For this initial release, the app is invite-only and available exclusively to the existing users of the platform. It includes a selected set of features that you can access conveniently on the go.
 

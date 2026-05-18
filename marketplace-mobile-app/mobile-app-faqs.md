@@ -2,7 +2,7 @@
 description: Get answers to frequently asked questions.
 ---
 
-# Mobile App FAQs
+# Mobile app FAQs
 
 ### General Access
 
@@ -30,7 +30,7 @@ New users must register their account through the web version at [https://portal
 
 <summary>What devices does the app support?</summary>
 
-The app is optimized for iOS mobile devices with a screen size < 7”, but it works on tablets and larger devices.
+The app is optimized for mobile devices with a screen size < 7”, but it works on tablets and larger devices.
 
 </details>
 
@@ -39,6 +39,14 @@ The app is optimized for iOS mobile devices with a screen size < 7”, but it wo
 <summary>What version of iOS is supported? </summary>
 
 The app supports iOS version 17 and later.
+
+</details>
+
+<details>
+
+<summary>What version of Android is supported? </summary>
+
+The app supports Android version 15 or later.
 
 </details>
 
