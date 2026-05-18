@@ -12,7 +12,7 @@ In this tutorial, an agreement named _Adobe VIP Marketplace for Stark Industries
 
 ### Prerequisites
 
-Before getting started with the tutorial, it's essential to have an understanding of the platform's [key concepts](../key-concepts.md). You must also be familiar with the platform's interface and know how to navigate it.
+Before getting started with the tutorial, it's essential to have an understanding of the platform's [key concepts](../../getting-started/key-concepts.md). You must also be familiar with the platform's interface and know how to navigate it.
 
 ### Splitting the billing across buyers
 
@@ -82,4 +82,6 @@ Use the Buyer menu at the top to view the allocation for the other buyers (_Star
 
 ### Next steps
 
-If you have additional subscriptions and want to split the billing for those subscriptions, you can repeat the same steps. You can also edit the split at any time. For details, see [Edit Split Billing](../../../modules-and-features/marketplace/billing/split-billing/edit-split-billing.md).
+Repeat the same steps if you have additional subscriptions and want to split the billing for those subscriptions.&#x20;
+
+You can also edit the split at any time. For details, see [Edit split billing](../../../modules-and-features/marketplace/billing/split-billing/edit-split-billing.md).

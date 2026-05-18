@@ -18,7 +18,7 @@ To navigate to the **Sellers** page, select the main menu, then choose **Setting
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_sellers.png" alt=""><figcaption><p>Use the Sellers page to view and manage sellers.</p></figcaption></figure></div>
 
-For each seller, you can view key details, such as name, ID, address, and status. Additionally, you can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns).&#x20;
+For each seller, you can view key details, such as name, ID, address, and status. Additionally, you can use the [sort and filter options](../../../marketplace-platform/getting-started/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/customize-the-data-grid.md#managing-columns).&#x20;
 
 ### Related topics
 

@@ -6,7 +6,7 @@ description: Update the account information for your organization.
 
 You can use the Edit option on the **Account** page to make changes to your account details. The information you can update includes your account name and logo, company details, preferred language, and headquarters address.
 
-Only account administrators can update these details. If you want to update your individual profile, see [Manage your profile](../../../marketplace-platform/getting-started/interface/manage-profile.md).
+Only account administrators can update these details. If you want to update your individual profile, see [Manage your profile](../../../marketplace-platform/getting-started/manage-profile.md).
 
 ### Updating your account details
 

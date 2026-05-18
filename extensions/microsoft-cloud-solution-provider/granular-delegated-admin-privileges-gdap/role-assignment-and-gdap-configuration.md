@@ -1,4 +1,4 @@
-# Role Assignment and GDAP Configuration
+# Role assignment and GDAP configuration
 
 ### GDAP role assignment for CSP products purchased for self-use
 
@@ -20,7 +20,7 @@ The following table outlines the GDAP roles that SoftwareOne requires to establi
 
 ### GDAP role assignment for CSP products purchased for resale
 
-If you are a SoftwareOne Partner purchasing [CSP products for resale](../../../marketplace-platform/getting-started/marketplace-for-partners/how-to-order-products-for-resale.md), your customers must approve a GDAP relationship request that includes the roles listed in the following table:
+If you are a SoftwareOne Partner purchasing [CSP products for resale](../../../marketplace-platform/getting-started-1/marketplace-for-partners/how-to-order-products-for-resale.md), your customers must approve a GDAP relationship request that includes the roles listed in the following table:
 
 {% hint style="info" %}
 These roles are not dependent on individual services, such as Azure or Dynamics, and apply to all CSP products purchased for resale.

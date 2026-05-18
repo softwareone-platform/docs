@@ -178,7 +178,7 @@ To invite someone, you'll need their first and last name, as well as their email
 
 <summary>How can I manage notifications?</summary>
 
-Individual users can manage notifications for their profile through the **My profile** option in their account. For details, see [Manage notification preferences](../interface/manage-notification-preferences.md).
+Individual users can manage notifications for their profile through the **My profile** option in their account. For details, see [Manage notification preferences](../../getting-started/manage-notification-preferences.md).
 
 Account administrators can configure and manage notifications at the account level through the **Notifications** feature, available under **Settings** in the main navigation menu. For details, see [Enable or disable categories](../../../modules-and-features/settings/notifications/enable-or-disable-categories.md).
 

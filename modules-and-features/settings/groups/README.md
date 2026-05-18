@@ -4,7 +4,7 @@ description: Learn about groups in the Marketplace Platform.
 
 # Groups
 
-A group in the Marketplace Platform represents a set of users who share the same roles and permissions, allowing admins to manage permissions of multiple users at once, instead of configuring each user individually.
+A group represents a set of users who share the same roles and permissions, allowing admins to manage permissions of multiple users at once, instead of configuring each user individually.
 
 Users can belong to multiple groups within the same account; for example, a user can be a member of both the Administrator and Finance groups. They can also have different roles across different accounts, such as being an Operations user in one account and an Administrator in another. Before a user can be added to a group, they must already belong to the account; otherwise, their access to the Marketplace Platform is restricted. Permissions in each account are determined by the user’s group memberships.
 

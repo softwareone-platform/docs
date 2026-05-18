@@ -1,4 +1,4 @@
-# Split Billing
+# Split billing
 
 Split billing is a feature that allows you to divide the billing for your subscriptions among different buyers in your account.&#x20;
 
@@ -24,7 +24,7 @@ In the Marketplace Platform, the following rules apply to split billing:
 Currently, only Adobe VIP Marketplace supports split billing.&#x20;
 {% endhint %}
 
-You can activate split billing using the **Split Billing** option on the details page of your agreement. For instructions, see [Activate split billing](../../../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md#id-1.-activate-split-billing).
+You can activate split billing using the **Split Billing** option on the details page of your agreement. For instructions, see [Activate split billing](../../../../marketplace-platform/getting-started-1/marketplace-for-clients/how-to-split-billing-across-buyers.md#id-1.-activate-split-billing).
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/activate_split_billing.png" alt=""><figcaption><p>Split billing option on the agreement details page</p></figcaption></figure></div>
 

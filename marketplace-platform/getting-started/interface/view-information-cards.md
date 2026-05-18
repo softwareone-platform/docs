@@ -6,15 +6,17 @@ description: View key properties and contextual information through cards in the
 
 Information and description cards provide a quick way to view key properties and contextual details directly within the interface.
 
-### Information cards
+### Review information cards
 
-Information cards help you quickly view key details about an item without leaving your current page. When you hover over an object’s name (for example, an agreement), a small card appears showing important information such as the object name, ID, and other relevant properties. The exact details vary depending on the object.
+Information cards help you quickly view key details about an item without leaving your current page.&#x20;
 
-Information cards also include links to related objects. Selecting a link takes you directly to that object's details page. For example, selecting the licensee name opens the licensee’s details page. You can close a card by selecting **Close** or pressing **Esc**.
+They appear when you hover over an object’s name (for example, an agreement), and contain important information such as the object name, ID, and more. The exact details displayed within a card vary according to the object.
+
+Information cards also contain links to related objects. Selecting a link takes you directly to that object's details page. For example, selecting the licensee name opens the licensee’s details page. You can close a card by selecting **Close** or pressing **Esc**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/information_card.png" alt=""><figcaption><p>Use information cards when you want to quickly view key propeties and metadata.</p></figcaption></figure></div>
 
-### Description cards
+### Review description cards&#x20;
 
 Description cards are tooltip-style components used throughout the SoftwareOne Marketplace to provide short and contextual information directly within the interface. These cards offer additional guidance to help you understand key details and make informed decisions while using the platform.
 

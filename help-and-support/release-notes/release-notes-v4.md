@@ -1,4 +1,4 @@
-# Release Notes v4
+# Release notes v4
 
 **Release Date: 12 May 2025**
 
@@ -36,7 +36,7 @@ We are excited to announce that we are integrating reseller capabilities into th
 
 As part of this release, existing partners will transition from the current Partner Portal to the Marketplace Platform. This migration will take place in phases to ensure a smooth transition and minimal disruption. New partners will now be onboarded directly into the Marketplace.&#x20;
 
-In addition to all the existing functionalities, partners will also have access to specific features designed to support resale activities. To learn more, see [Marketplace for Partners](../../marketplace-platform/getting-started/marketplace-for-partners/).
+In addition to all the existing functionalities, partners will also have access to specific features designed to support resale activities. To learn more, see [Marketplace for Partners](../../marketplace-platform/getting-started-1/marketplace-for-partners/).
 
 ## Notifications Management
 
@@ -46,7 +46,7 @@ The new Notifications feature allows account administrators to configure and man
 
 Admins can set recipients for these emails and manage categories to start or stop receiving notifications. This feature is available under **Settings** in the main navigation menu. To learn more, see [Notifications](../../modules-and-features/settings/notifications/).
 
-Individual users can also customize notification settings through their profile to determine what notifications to receive. See [Manage Notification Preferences](../../marketplace-platform/getting-started/interface/manage-notification-preferences.md) for details.
+Individual users can also customize notification settings through their profile to determine what notifications to receive. See [Manage Notification Preferences](../../marketplace-platform/getting-started/manage-notification-preferences.md) for details.
 
 ## Object Spotlight
 

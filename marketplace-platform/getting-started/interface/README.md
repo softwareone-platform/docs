@@ -2,49 +2,27 @@
 description: Learn how to navigate and use the platform.
 ---
 
-# Interface
+# Navigate the interface
 
-The Marketplace Platform is a SoftwareOne SaaS solution that enables users to procure and manage software solutions. This page provides a high-level overview of the platform interface and explains how to navigate and use its core features.
+The Marketplace Platform is a SoftwareOne SaaS solution that allows users to procure and manage software solutions. It offers a consistent navigation experience for different roles, including clients, vendors, and partners.&#x20;
 
-This content applies to all Marketplace Platform users, including Client Portal users (clients and partners), Vendor Portal users (software vendors), and Operations Portal users (SoftwareOne internal associates).
-
-<figure><img src="../../../.gitbook/assets/marketplace_platform.png" alt=""><figcaption><p>SoftwareOne Marketplace Platform</p></figcaption></figure>
-
-### Signing in to your account
-
-You can access the platform from an up-to-date desktop or mobile browser. For a list of supported browsers, see [Which browsers do you support?](../../../help-and-support/faqs/which-browsers-do-you-support.md).
-
-To sign in to your SoftwareOne Marketplace account:
-
-1. Open the [sign-in page](https://portal.platform.softwareone.com/).
-2. Enter the email address associated with your account, then select **Continue**.
-3. Enter your password and select **Continue**.&#x20;
-
-Upon successful sign-in, the platform's **Home** page is displayed.
-
-If you provide inaccurate credentials, an error message is displayed. If you don’t remember your password, select **Forgot password?** and follow the instructions to recover it.
-
-### Understanding the interface layout
-
-The Marketplace Platform interface is designed to provide consistent navigation across all portals.
-
-While the layout is consistent, the available modules and content depend on your role and portal (Client, Vendor, or Operations).
+This topic explains how to navigate the platform, access features, and move between various modules.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/home-page.png" alt=""><figcaption><p>The Home page of the SoftwareOne Marketplace Platform.</p></figcaption></figure></div>
 
 ### Header
 
-The header is always visible and contains the following components:
+The header is always visible as you move through the platform.&#x20;
 
 <details>
 
-<summary>Hamburger menu</summary>
+<summary>Main menu</summary>
 
-The hamburger menu provides access to the modules enabled for your account. Select <i class="fa-bars">:bars:</i>**Home** in the header to open the menu.
+The main menu gives you access to the modules enabled for your account. Select <i class="fa-bars">:bars:</i> **Home** in the header to open it.
 
-When viewing a page within a specific module, the menu label changes to match that context (for example, it displays **Billing** when viewing invoices, **Marketplace** when viewing subscriptions, and so on).
+The menu label changes with your current context. For example, it shows **Billing** on invoice pages and **Marketplace** on subscription pages.
 
-Menu items with chevrons <i class="fa-chevron-right">:chevron-right:</i> can be expanded to reveal additional pages within that category.
+Items with chevrons <i class="fa-chevron-right">:chevron-right:</i> expand to show more pages in that section.
 
 <figure><img src="../../../.gitbook/assets/interface_home.png" alt=""><figcaption><p>Use the main navigation menu to access different modules.</p></figcaption></figure>
 
@@ -54,13 +32,15 @@ Menu items with chevrons <i class="fa-chevron-right">:chevron-right:</i> can be 
 
 <summary>Search</summary>
 
-The **Search** bar in the header enables you to search for details, such as your orders, agreements, subscriptions, invoices, and more.
+Use **Search** to find orders, agreements, subscriptions, invoices, and other records.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/search.png" alt=""><figcaption><p>Use the Search bar to find your orders, invoices, and much more.</p></figcaption></figure></div>
 
-You can also use search to access product documentation, including tutorials, FAQs, and procedures. For example, you can search for 'manage subscriptions' to read documentation about how to manage your subscriptions.&#x20;
+You can also search documentation, including tutorials, FAQs, and procedures. For example, search for `manage subscriptions` to open related guidance.
 
-When performing a search, start by choosing the category you want to search across and then enter the search term. Our platform supports free text, which means you can enter all or part of the object's ID or name. For example, when searching for an agreement using its ID, select the **Agreements** category and then enter the full order ID (such as ‘AGR-8981-7039-6781’) or part of it (such as 6781). The platform will then display results matching your specified search term.
+Start by choosing a category. Then enter a full or partial name or ID.
+
+For example, to find an agreement, select **Agreements** and enter the full ID, such as `AGR-8981-7039-6781`, or a partial value, such as `6781`.
 
 </details>
 
@@ -68,11 +48,11 @@ When performing a search, start by choosing the category you want to search acro
 
 <summary>Help</summary>
 
-The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size="line"> allows you to quickly access documentation, request assistance, and share feedback directly from the platform.&#x20;
+The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size="line"> gives you quick access to documentation, support, and feedback.
 
-* The **Documentation** section displays a list of recommended topics from our product documentation. You can browse suggested topics and select a topic to view detailed guidance. To access all documentation resources, select **View all**.
-* Use **Need help?** if you require additional assistance. This option directs you to our **Get help** wizard, where you can get help with platform issues or questions.&#x20;
-* Use **Send feedback** to share your comments, suggestions, and experiences about the SoftwareOne Marketplace directly with us. For more details, see [Share feedback](../../../help-and-support/share-feedback.md).
+* **Documentation** shows recommended help topics. Select **View all** to open the full documentation set.
+* **Need help?** opens the **Get help** wizard for platform questions or issues.
+* **Send feedback** lets you share comments and suggestions. For details, see [Share feedback](../../../help-and-support/share-feedback.md).
 
 </details>
 
@@ -80,9 +60,9 @@ The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" dat
 
 <summary>Spotlight</summary>
 
-The **Spotlight** option <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> highlights tasks that require action, helping you stay on top of important tasks.&#x20;
+The **Spotlight** option <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> highlights items that need action.
 
-Examples of such tasks include subscriptions nearing expiration, orders querying for more information, and more.&#x20;
+Examples include expiring subscriptions and orders waiting for more information.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>Use the spotlight widget to view and manage urgent tasks.</p></figcaption></figure></div>
 
@@ -92,14 +72,15 @@ Examples of such tasks include subscriptions nearing expiration, orders querying
 
 <summary>Profile menu</summary>
 
-Your user profile menu in the header displays your profile settings and allows you to manage them using the **My profile** option.&#x20;
+Use the profile menu to manage your account and personal settings.
 
-If you belong to multiple accounts, the profile menu also includes an account switcher that enables you to:
+Select **My profile** to open your profile settings.
 
-* Search for an account by its name or ID.
-* [Select an account to switch to](switch-account.md). For more information, see [Switch accounts](switch-account.md).
-* Mark an account as a favorite for easy access later from the **Favorites** tab.&#x20;
-* View all recently accessed accounts on the **Recents** tab.
+If you belong to multiple accounts, the menu also includes an account switcher. You can:
+
+* Search for an account by name or ID.
+* Switch accounts from the list. For details, see [Switch accounts](../switch-account.md).
+* Use the **Favorites** and **Recents** tabs for faster access.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Use the profile menu to access your profile, manage settings, switch accounts, and more.</p></figcaption></figure></div>
 
@@ -107,15 +88,15 @@ If you belong to multiple accounts, the profile menu also includes an account sw
 
 ### Home page widgets
 
-The widgets on the **Home** page provide a centralized overview of key information and shortcuts.
+The widgets on the **Home** page give you quick access to key information.
 
 <details>
 
 <summary>Spotlight widget</summary>
 
-The **Spotlight** widget displays key platform objects requiring your attention. These objects include your agreements, orders, subscriptions, invoices, and more.&#x20;
+The **Spotlight** widget shows platform objects that need attention. These include agreements, orders, subscriptions, invoices, and more.
 
-For more information, see [Object spotlight](view-pending-tasks.md).
+For more information, see [Spotlight widget](view-pending-tasks.md).
 
 </details>
 
@@ -123,9 +104,9 @@ For more information, see [Object spotlight](view-pending-tasks.md).
 
 <summary>News and updates widget</summary>
 
-The **News and updates** widget contains the latest product announcements and video guides from our YouTube channel. Each video includes a brief description, the date it was posted, and links to related documentation. &#x20;
+The **News and updates** widget shows recent product announcements and video guides from our YouTube channel.
 
-You can watch videos directly within the platform or open them on YouTube.
+Each item includes a short description, a publish date, and links to related guidance. You can watch videos in the platform or open them on YouTube.
 
 </details>
 
@@ -135,7 +116,7 @@ You can watch videos directly within the platform or open them on YouTube.
 
 The **Favorites** widget provides quick access to pages you have marked as favorites.
 
-For information on adding and managing favorites, see [Using Favorites](mark-favorite-pages.md).
+For more information, see [Using favorites](../mark-favorite-pages.md).
 
 </details>
 
@@ -143,8 +124,10 @@ For information on adding and managing favorites, see [Using Favorites](mark-fav
 
 <summary>Account team widget</summary>
 
-The **Account Team** widget displays the SoftwareOne account team responsible for supporting your account. The widget also displays the options to contact a member.&#x20;
+The **Account Team** widget shows the SoftwareOne team that supports your account.
 
-You can also access this information on the **Helpdesk** > [Account team](../../../modules-and-features/helpdesk/account-team.md) page.&#x20;
+You can contact a team member directly from the widget.
+
+You can also open the **Helpdesk** > [Account team](../../../modules-and-features/helpdesk/account-team.md) page.
 
 </details>

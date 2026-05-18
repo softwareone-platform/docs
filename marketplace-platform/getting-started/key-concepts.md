@@ -1,127 +1,222 @@
 ---
-description: Understand the key concepts and terminology used across the platform.
+description: See the key concepts and terminology used across the platform.
 ---
 
-# Concepts
+# Key concepts
 
-Certain concepts and terms are central to the functionality and design of the Marketplace Platform. We recommend that you familiarize yourself with the terminology, as it's often referenced in our platform and documentation. This will allow you to interact with the platform and maximize its use.&#x20;
+Certain concepts and terms are central to the functionality and design of the Marketplace Platform.&#x20;
 
-{% hint style="info" %}
-You can also watch the [Getting Started Video Guide ](https://youtu.be/LrMOMN8sjM4)on YouTube to understand the concepts listed on this page. The guide also outlines what makes our platform unique for your enterprise software procurement.&#x20;
-{% endhint %}
+We recommend that you familiarize yourself with the terminology, as it's often referenced in our platform and documentation. This will allow you to interact with the platform effectively and maximize its use. &#x20;
 
 ### Actors
 
-The Marketplace Platform seamlessly brings together various actors to facilitate the buying, selling, provisioning, and billing of software products.&#x20;
+SoftwareOne Marketplace seamlessly brings together various actors to facilitate the buying, selling, provisioning, and billing of software products.&#x20;
 
-Actors represent different entities that interact with the platform for procurement and fulfillment-related activities, as well as other operations specific to the platform.&#x20;
+Actors are different entities that interact with the platform for procurement, fulfillment, and other platform-specific operations.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>Vendors, distributors, associates, partners, and clients are the key actors in the platform.</p></figcaption></figure></div>
+* **Vendors** - A vendor is a company or person from whom SoftwareOne buys software solutions. Vendors develop and sell their products and services. Examples include Microsoft, Dropbox, and more.
+* **Distributors** - A distributor is an entity that resells software solutions sourced from multiple vendors to resellers. Distributors facilitate software procurement when direct relationships with vendors are not feasible.
+* **Associates** - Internal SoftwareOne associates who administer the business network. Our associates are involved in various processes throughout your journey with both SoftwareOne and the platform.
+* **Partners** - Partners represent entities or businesses that buy products or services from SoftwareOne for resale to other businesses.&#x20;
+* **Clients** - A client is a company or organization that uses our platform to buy software products for their own use or direct consumption.
+* **Developers and systems integrators** - Developers and systems integrators are entities that build integrations within the business network.
 
-The following are the key actors using our platform:
-
-**Vendors** - A vendor is a company or person from whom SoftwareOne buys software solutions. Vendors develop and sell their products and services. Examples include Microsoft, Dropbox, and more.
-
-**Distributors** - A distributor is an entity that resells software solutions sourced from multiple vendors to resellers. Distributors facilitate software procurement in cases where direct relationships with vendors are not feasible.
-
-**Associates** - Associates are internal SoftwareOne associates who administer the business network. Our associates are involved in various processes throughout your journey with both SoftwareOne and the Marketplace Platform.
-
-**Partners** - Partners represent entities or businesses that buy products or services from SoftwareOne for resale to other businesses.&#x20;
-
-**Clients** - A client is a company or organization that uses our platform to buy software products for their own use or direct consumption.
-
-**Developers and systems integrators** - Developers and systems integrators represent entities involved in building integrations within the business network.
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>Vendors, distributors, associates, partners, and clients are the key actors.</p></figcaption></figure></div>
 
 ### Users, Accounts, and Groups  <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-**Users** - Users represent individuals or persons who can sign in to the platform using their credentials and perform operations associated with their permissions. Users include individual users as well as account administrators responsible for managing account-wide configuration and properties.&#x20;
+#### Users
 
-**Account** - An account represents a company or an organization that's using the Marketplace Platform. Three types of accounts exist in our platform, including:&#x20;
+A user is an individual who can sign in to the platform using their credentials and perform operations according to their permissions.&#x20;
+
+Users include both individual users and admins responsible for managing account-wide configuration and properties.&#x20;
+
+In the SoftwareOne Marketplace, users can also belong to multiple accounts or have no account at all. Additionally:
+
+* Users with multiple accounts can switch between them without signing out of the platform.
+* Users who don't belong to any account have limited capabilities. Such users can only sign in to the platform and adjust their profile settings. They cannot access any module.
+
+To learn more about users and how to manage them as an account admin, see [Users](../../modules-and-features/settings/users/).
+
+#### Account
+
+&#x20;An account represents a company or an organization using the Marketplace Platform.&#x20;
+
+The platform supports the following account types:&#x20;
 
 * **Client account** - Represents an account used by our clients and partners to establish agreements and procure software solutions for their enterprises.
 * **Vendor account** - Represents an account used by vendors to define the product structure and configuration, and make those products available for ordering through the Marketplace.&#x20;
 * **Operations account** - Represents an account used by SoftwareOne associates.
 
-In the Marketplace Platform, an account can contain one or multiple users:
+In the SoftwareOne Marketplace, an account can contain a single user or multiple users.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>An account can contain multiple users.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users.png" alt=""><figcaption><p>An account can contain a single or multiple users.</p></figcaption></figure></div>
 
-Additionally, users are not restricted to a single account. They can belong to multiple accounts and [switch between those accounts](interface/switch-account.md) without signing out of the platform.&#x20;
+Additionally, users are not restricted to a single account. They can belong to multiple accounts and switch between those accounts.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_users_multiple_accounts.png" alt=""><figcaption><p>A user can belong to multiple accounts in the platform.</p></figcaption></figure></div>
 
-**Group** - A group is an object that facilitates permissions in the scope of an account. Groups contain users, and all users in the group have the same permissions. Permissions are assigned at the group level,  rather than at the individual user level.&#x20;
+#### Group&#x20;
 
-Users can also be a part of multiple groups, much like users can belong to multiple accounts. For details on how to manage groups, see [Groups](../../modules-and-features/settings/groups/).
+A group facilitates the management of permissions within an account.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_multiple_groups.png" alt=""><figcaption><p>A user can belong to multiple groups in the platform.</p></figcaption></figure></div>
+Groups contain users, and all users within a group share the same role and permissions. This means that permissions are assigned at the group level, rather than individually to each user.
+
+You can create multiple groups and add users to these groups. Users can belong to several groups simultaneously; for example, they can belong to both the Administrator and Finance groups.&#x20;
+
+Additionally, they can also have different roles across different accounts, such as being an Operations user in one account and an Administrator in another.&#x20;
+
+To learn more about users and how to manage them as an account admin, see [Groups](../../modules-and-features/settings/groups/).
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_multiple_groups.png" alt=""><figcaption><p>A user can belong to multiple groups within an account.</p></figcaption></figure></div>
 
 ### Sellers, Buyers, and Licensees <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-**Seller** - A seller is a SoftwareOne entity (for example, SoftwareOne Canada) that buys software solutions from vendors (like Microsoft) and sells those solutions to clients.&#x20;
+#### Seller <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-Sellers are responsible for generating and issuing invoices to the buyer entities of clients. They act as an intermediary in the transaction process.
+A seller is a SoftwareOne entity that buys software solutions from a vendor, like Microsoft, and sells them to clients and partners. For example, SoftwareOne Canada.
+
+Sellers are responsible for issuing invoices to the buyer entities of clients and partners. They act as an intermediary in the transaction process.
+
+Account admins can view all sellers on the [Sellers](../../modules-and-features/settings/sellers/) page in the platform.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Sellers within the Marketplace Platform.</p></figcaption></figure></div>
 
-**Buyers** - Buyers represent an entity that engages in commercial activities with the SoftwareOne reselling entity, known as Sellers.&#x20;
+#### Buyers <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-Buyers are the recipients of invoices issued by SoftwareOne, and they are essential for creating orders, agreements, and subscriptions.&#x20;
+Buyers are responsible for engaging in commercial activities with sellers.
+
+Buyers are also the recipients of invoices issued by SoftwareOne, and are essential for placing orders, creating agreements, and ordering subscriptions.&#x20;
+
+Account admins can view and manage buyers through the [Buyers](../../modules-and-features/settings/buyers/) page.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1093).png" alt=""><figcaption><p>Buyers within the Marketplace Platform.</p></figcaption></figure></div>
 
-**Licensees** - Licensees are the entities that consume the software products or services procured by the buyer. Licensees are critical in establishing agreements alongside buyers and sellers.&#x20;
+#### Licensees
 
-Client account users can view licensees and manage them through the platform.&#x20;
+A licensee is a specific person or a department within an organization that consumes the product or service procured by the buyer.&#x20;
+
+Licensees receive the license to use the product, and they are critical in establishing agreements alongside buyers and sellers.&#x20;
+
+There can be multiple licensees within an account, but each licensee can only be connected to one buyer and one seller at a time.
+
+Account admins can view and manage licensees through the [Licensees ](../../modules-and-features/settings/licensees/)page.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Licensees in the Marketplace Platform.</p></figcaption></figure></div>
 
-### Agreements&#x20;
+### Agreements, Orders, and Subscriptions
 
-An agreement outlines the relationship between the seller, buyer, and licensee.  They are the foundation for placing orders and creating subscriptions in the platform.&#x20;
+#### Agreement
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption><p>Agreements in the Marketplace Platform.</p></figcaption></figure></div>
+An agreement outlines the relationship between entities, such as the seller, buyer, and licensee. &#x20;
 
-They also establish the terms and conditions under which transactions occur. Without an agreement, orders cannot be placed through the marketplace.&#x20;
+They are foundational for placing orders and creating subscriptions. They also establish the terms and conditions under which transactions occur. Placing an order without an agreement is not allowed.&#x20;
 
-### Orders and Subscriptions
+All agreements are listed on the [Agreements](../../modules-and-features/marketplace/agreements/) page, allowing you to view and manage them easily.
 
-**Orders** - An order is an object that signifies a business transaction under the framework of an established agreement.&#x20;
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption><p>Agreements are required to place an order through the platform.</p></figcaption></figure></div>
 
-The Marketplace Platform supports various types of orders to support different scenarios and the requirements of our clients and partners, including:
+#### Order
 
-* **Purchase order** - Purchase orders are created when you buy a new product or service by creating a new Marketplace agreement.&#x20;
-* **Change order** - Change orders are created when you modify your agreement or change the subscription quantity, such as downsizing the license quantity or buying additional resources.
-* **Terminate order** - Terminate orders are created when you terminate your agreement or subscription with SoftwareOne.&#x20;
-* **Configuration order** - Configuration orders are created when you enable or disable the auto-renewal of a subscription.&#x20;
+An order is a business transaction under the framework of an established agreement.&#x20;
 
-For details on managing your orders, see [Orders](../../modules-and-features/marketplace/orders/).
+The platform supports various types of orders to support different scenarios and requirements of our clients and partners, including:
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_orders.png" alt=""><figcaption><p>Different types of orders in the Marketplace Platform.</p></figcaption></figure></div>
+* **Purchase order** - This type of order is created when you buy a new product or service by establishing a new agreement.&#x20;
+* **Change order** - This type of order is created when you modify your agreement or adjust quantities, such as reducing the number of licenses or buying additional resources.
+* **Terminate order** - This type of order is created when you terminate your agreement or subscription.&#x20;
+* **Configuration order** - This type of order is created when you enable or disable the automatic renewal of a subscription.
 
-**Subscriptions** - Subscriptions are linked to an agreement and represent service provisioned over a set period. Marketplace agreements can contain one or more subscriptions.&#x20;
+You can view, track, and manage your orders from the [Orders](../../modules-and-features/marketplace/orders/) page.
 
-Subscriptions can be changed only through the order. For example, to terminate a subscription, you must place a termination order. Similarly, to add more licenses, a change order must be submitted. It’s not possible to modify a subscription directly without placing an order.&#x20;
+#### Subscription
 
-For details on subscription management, see [Subscriptions](../../modules-and-features/marketplace/subscriptions/).
+A subscription is a service provisioned over a specified period.&#x20;
+
+Subscriptions are associated with an agreement, and there can be single or multiple subscriptions within that agreement.&#x20;
+
+Changes to a subscription can only be made through an order. For example, to terminate a subscription, you must place a termination order. Similarly, to add more licenses, you must submit a change order.&#x20;
+
+Direct modifications to a subscription are not allowed without placing an order. All subscriptions are listed on the [Subscriptions](../../modules-and-features/marketplace/subscriptions/) page in the platform.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_subscriptions.png" alt=""><figcaption><p>Subscriptions in the Marketplace Platform.</p></figcaption></figure></div>
 
 ### Products, Items, and Parameters
 
-**Products** - Products are the solutions or services offered by vendors through the marketplace. They contain various items and parameters, which are also defined by vendors.&#x20;
+#### Product
 
-* **Items** - Represent the individual stock-keeping units (SKUs). A product can contain one or more items, each with its specific name and price.&#x20;
-* **Parameters** - Parameters represent structured data used by vendors to collect information from clients during the ordering process. Examples of this information might include contact details, address information, domain name, and more. Parameters can also be used by vendors to pass information to clients during provisioning.&#x20;
+A product is a solution or service provided by a vendor through the SoftwareOne Marketplace. Examples include **Adobe VIP Marketplace for Commercial**, **Microsoft 365 Business, Enterprise & Apps - Education**, and so on.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1099).png" alt=""><figcaption><p>Products within the Marketplace Platform.</p></figcaption></figure></div>
+Each product consists of individual items and parameters set by vendors. Additionally, products include a detailed description, a list of purchasable items, and supporting resources such as media files, terms and conditions, and price lists to assist you.&#x20;
 
-### Price List
+You can explore products, make purchases, and review details on the [Products](../../modules-and-features/catalog/products.md) page.&#x20;
 
-A Price List is an object that holds key pricing details of each item within the product.
+#### Items&#x20;
 
-Vendors can define the price lists for different regions. These price lists are linked to specific sellers and are organized through an object called **Listing**.&#x20;
+An item refers to an individual stock-keeping unit (SKU) within a product. These are the specific line items that you select during the ordering process. There can be several items within a product, each with its own name and price.&#x20;
 
-The Listing object is established by SoftwareOne associates after reviewing products. It links the product price list with the seller, ultimately making the product available for our clients in the SoftwareOne Marketplace.
+For example, within the **Microsoft 365 Business, Enterprise & Apps - Education** product, you may find items, such as Copilot for Microsoft 365 (Education Student 13+), Defender Threat Intelligence (Education Student Pricing), Microsoft 365 A3 (Education Student Pricing), and more.&#x20;
+
+You can view the list of items on the [Items](../../modules-and-features/catalog/items.md) page, within the **Items** tab on the product detaIls page, and during the ordering process in the purchase wizard.
+
+#### Parameters
+
+A parameter is structured data used by vendors to collect information during the ordering process.&#x20;
+
+Examples include contact details, address information, domain name, and more. Parameters are also used by vendors to pass information during provisioning.&#x20;
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1099).png" alt=""><figcaption><p>Product, items, and parameters in the Marketplace Platform.</p></figcaption></figure></div>
+
+### Price lists
+
+A price list contains pricing information for each item within a product.
+
+Price lists are created by vendors and are specific to particular regions and sellers. All price lists are organized through an object called Listing.&#x20;
+
+The Listing object is created by SoftwareOne associates after they have reviewed the product. This object connects the product price list with the seller, ultimately making the product available for purchase in the Marketplace.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption><p>Price List in the Marketplace Platform.</p></figcaption></figure></div>
+
+### Notifications
+
+A notification is an email alert about an event in your account. It can cover things like order status changes, subscription upsizes or downsizes, invoice generation, and other account events.
+
+Notifications are managed from the [Notifications](../../modules-and-features/settings/notifications/) area. Account admins can configure recipients and categories there, and individual users can manage their own preferences from **My profile**.&#x20;
+
+### Programs, Certificates, and Enrollments
+
+#### Program
+
+A Program is a set of requirements, or parameters, that vendors ask clients to meet.&#x20;
+
+In the Marketplace Platform, programs are used to view available programs for enrollment, request certificates after requirements are met, and manage related settings, documents, media, and terms.
+
+See [Programs](../../modules-and-features/program/programs.md) for details on how they appear in the platform.
+
+#### Certificate
+
+A certificate is an object that confirms a client or partner meets a vendor’s requirements for a specific program.&#x20;
+
+It serves as proof of eligibility to purchase or access the program’s products and benefits. You can view certificates from the **Certificates** page. For more details, see [Certificates](../../modules-and-features/program/certificates/).
+
+#### Enrollment
+
+An Enrollment is the process of formally registering for a vendor program. It gives access to the program’s benefits and incentives, such as reduced pricing, special offers, and renewal discounts.
+
+In the Marketplace Platform, an enrollment usually includes the program you are joining, the buyer or licensee it applies to, required parameters and supporting details, and a status that shows where it is in the workflow. For more details, see [Enrollments](../../modules-and-features/program/enrollments/).
+
+### Invoices and Statements
+
+#### Invoice
+
+An invoice is a billing document you receive at the end of a billing period.&#x20;
+
+It summarizes the charges on your account and is issued monthly for a specific Marketplace agreement. It's issued as a PDF containing subscription details and consolidated charges.&#x20;
+
+It can be either compact or detailed, depending on how many charges are on the statement, but it's always inked to a statement, which contains the full itemized breakdown. For more details, see [Invoices](../../modules-and-features/marketplace/billing/invoices/).
+
+#### Statement
+
+A statement is a billing document issued at the end of a billing period, together with the invoice PDF.
+
+It's delivered as an Excel (`.xlsx`) file and includes detailed invoice data, such as individual charges, subscriptions, and orders. For details on how to view statements, see [Statements](https://docs.platform.softwareone.com/modules-and-features/billing/statements).

@@ -1,19 +1,15 @@
 ---
-description: >-
-  Watch a quick video guide showing how to get started in the SoftwareOne
-  Marketplace.
+description: Get started with the Marketplace Platform.
 ---
 
-# Getting Started
+# Getting started
 
-To get up and running with the Marketplace Platform and make the most of its functionality, it's essential to understand how the platform works and be familiar with certain key concepts and terminology.
+To get up and running with the Marketplace Platform and make the most of its functionality, it's essential to understand how the platform works and be familiar with its key concepts.
 
-The following Getting Started video guide provides a brief overview of the platform and its interface, followed by in-depth information about some of the core concepts.&#x20;
+Use the following video guide, or the links on this page, to get started quickly.
 
 {% embed url="https://www.youtube.com/watch?v=LrMOMN8sjM4" fullWidth="false" %}
 Watch a quick video guide showing how to get started with the SoftwareOne Marketplace Platform.
 {% endembed %}
 
-### Topics in this section
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Quickstart Guide</strong></td><td>Use this quick start to get started easily.</td><td><a href="quickstart-guide.md">quickstart-guide.md</a></td><td></td></tr><tr><td><strong>Marketplace for Clients</strong></td><td>Learn how to get started as a client.</td><td><a href="marketplace-for-clients/">marketplace-for-clients</a></td><td></td></tr><tr><td><strong>Marketplace for Partners</strong></td><td>Learn how to get started as a partner.</td><td><a href="marketplace-for-partners/">marketplace-for-partners</a></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Access the platform</strong></td><td>Learn how to sign up for the platform. </td><td><a href="sign-up.md">sign-up.md</a></td></tr><tr><td><strong>Sign in to your account</strong></td><td>Access your Marketplace account.</td><td><a href="sign-in-to-your-account.md">sign-in-to-your-account.md</a></td></tr><tr><td><strong>Navigate the interface</strong></td><td>Explore the layout and navigation.</td><td><a href="interface/">interface</a></td></tr><tr><td><strong>Manage your profile</strong></td><td>Update your profile and region settings.</td><td><a href="manage-profile.md">manage-profile.md</a></td></tr><tr><td><strong>Switch accounts</strong></td><td>Switch between accounts without signing out.</td><td><a href="switch-account.md">switch-account.md</a></td></tr><tr><td><strong>Customize the data grid</strong></td><td>Adjust columns, apply filters, and sort data.</td><td><a href="customize-the-data-grid.md">customize-the-data-grid.md</a></td></tr><tr><td><strong>Manage notifications</strong></td><td>Adjust your notification preferences.</td><td><a href="manage-notification-preferences.md">manage-notification-preferences.md</a></td></tr><tr><td><strong>Using favorites</strong></td><td>Save pages and accounts for quick access.</td><td><a href="mark-favorite-pages.md">mark-favorite-pages.md</a></td></tr></tbody></table>

@@ -11,7 +11,7 @@ There are two ways to launch the wizard, depending on whether you are creating a
 The wizard contains a vertical progress bar with step numbers and a title, data grid, and navigation buttons:
 
 * The progress bar shows how far you have progressed and how many steps remain before the order can be placed. The steps are defined by vendors and vary based on the product. You cannot use step numbers to navigate between different pages of the wizard.&#x20;
-* The [data grid](../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) is where the main content is displayed. This is where you can select your purchasing options, choose items you want to order, [view description cards](../../marketplace-platform/getting-started/interface/view-information-cards.md#description-cards) containing information about item prices, enter your details, and more.&#x20;
+* The [data grid](../../marketplace-platform/getting-started/customize-the-data-grid.md) is where the main content is displayed. This is where you can select your purchasing options, choose items you want to order, [view description cards](../../marketplace-platform/getting-started/interface/view-information-cards.md#description-cards) containing information about item prices, enter your details, and more.&#x20;
 * The **Close**, **Back**, and **Next** buttons allow you to navigate between pages or close the wizard. Some buttons might be unavailable depending on your current step in the wizard.&#x20;
 
 ### Guided steps

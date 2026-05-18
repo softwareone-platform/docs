@@ -19,7 +19,7 @@ To navigate to the **Users** page, select the main menu, then choose **Settings*
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>Use the Users page to view and manage users.</p></figcaption></figure></div>
 
-On the **Users** page, you can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) to customize the list.&#x20;
+On the **Users** page, you can use the [sort and filter options](../../../marketplace-platform/getting-started/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/customize-the-data-grid.md#managing-columns) to customize the list.&#x20;
 
 You can view a user's details by selecting the user name, and you can manage a user by using the options in the **Actions** column.
 

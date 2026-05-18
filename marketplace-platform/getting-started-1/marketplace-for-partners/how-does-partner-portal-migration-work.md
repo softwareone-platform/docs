@@ -1,8 +1,9 @@
 ---
 description: Migrate from SoftwareOne's legacy Partner Portal to the Marketplace Platform.
+hidden: true
 ---
 
-# How Does Partner Portal Migration Work
+# How does the Partner Portal migration work
 
 SoftwareOne's legacy Partner Portal is being transitioned to the Marketplace Platform.
 
@@ -18,8 +19,8 @@ Before we begin the migration process, you'll see a message in the Partner Porta
 
 At this stage of the process, you don't need to take any action. However, we recommend that you become familiar with the terminology and experience of the new Marketplace:
 
-* [Key Concepts](../key-concepts.md) - This page describes the key concepts and the terminology used within the Marketplace Platform.
-* [Platform Interface](../interface/) - This page describes how to navigate and use the platform.
+* [Key Concepts](../../getting-started/key-concepts.md) - This page describes the key concepts and the terminology used within the Marketplace Platform.
+* [Platform Interface](../../getting-started/interface/) - This page describes how to navigate and use the platform.
 
 ### During migration
 

@@ -2,7 +2,7 @@
 description: Learn what's new in this release.
 ---
 
-# Release Notes v3
+# Release notes v3
 
 **Release Date: 22 October 2024**
 
@@ -34,7 +34,7 @@ We've added new options to the <img src="../../.gitbook/assets/icon_columns.png"
 * **Fit to content** - Resizes each column in the table to fit its specific content. It means that the width is adjusted to the content within the column.&#x20;
 * **Fit to screen** - Resizes each column so that the entire table fits your screen.
 
-To learn about the other operations in the data grid, see [Customize the data grid](../../marketplace-platform/getting-started/interface/customize-the-data-grid.md).
+To learn about the other operations in the data grid, see [Customize the data grid](../../marketplace-platform/getting-started/customize-the-data-grid.md).
 
 ## Buyer-Level Group Restrictions
 
@@ -80,7 +80,7 @@ Previously, in the Marketplace Platform, the billing for a subscription was allo
 
 Now, we have introduced the capability for you to allocate billing to different buyers in your account. This can be done by activating split billing for an agreement, choosing buyers, and then specifying the allocation percentage or license count for each buyer.&#x20;
 
-Billing can also be allocated when ordering additional licenses as part of your agreement. To learn more, see [Split Billing](../../modules-and-features/marketplace/billing/) and [How to Split Billing Across Buyers](../../marketplace-platform/getting-started/marketplace-for-clients/how-to-split-billing-across-buyers.md).
+Billing can also be allocated when ordering additional licenses as part of your agreement. To learn more, see [Split Billing](../../modules-and-features/marketplace/billing/) and [How to Split Billing Across Buyers](../../marketplace-platform/getting-started-1/marketplace-for-clients/how-to-split-billing-across-buyers.md).
 
 ## Updated Design System
 

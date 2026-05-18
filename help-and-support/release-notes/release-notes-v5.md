@@ -2,7 +2,7 @@
 description: Learn what's new in this release.
 ---
 
-# Release Notes v5
+# Release notes v5
 
 **Release Date: 7 April 2026**
 
@@ -55,7 +55,7 @@ The new product is available in all AWS regions that support billing transfer. T
 
 This release includes the following currency and billing updates:
 
-* **Billing currency support** - You can now select the currency in which you want to receive your Marketplace invoices, either when creating a new agreement for a new purchase order or after placing your order. For more information, see [How to set or change your billing currency](../../marketplace-platform/getting-started/marketplace-for-clients/how-to-set-or-change-your-billing-currency.md).
+* **Billing currency support** - You can now select the currency in which you want to receive your Marketplace invoices, either when creating a new agreement for a new purchase order or after placing your order. For more information, see [How to set or change your billing currency](../../marketplace-platform/getting-started-1/marketplace-for-clients/how-to-set-or-change-billing-currency.md).
 * **Currencies & exchange updates** - The new **Currencies** & **Currency exchange** pages, located under **Settings** > **Exchange**, provide visibility into how currencies and exchange rates are managed. You can view all supported currencies, configured currency pairs (for example, GBP: EUR), the latest exchange rates in both directions, usage across agreements, status, and last updated date. For more information, see [Exchange](../../modules-and-features/settings/exchange/).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-exchange.png" alt=""><figcaption><p>View the list of currencies and exchange information.</p></figcaption></figure></div>
@@ -83,7 +83,7 @@ We've enhanced the regional settings in the SoftwareOne Marketplace to give you 
 Now, when customizing your regional settings, you can choose whether to use the same settings as your browser or apply your own custom preferences:
 
 * **Browser defaults** - The option is selected by default, and it follows the regional settings of your browser.
-* **Custom settings** - This option allows you to configure your preferences for language, date and time, time zone, and number formats. For more information, see [Manage your profile](../../marketplace-platform/getting-started/interface/manage-profile.md).
+* **Custom settings** - This option allows you to configure your preferences for language, date and time, time zone, and number formats. For more information, see [Manage your profile](../../marketplace-platform/getting-started/manage-profile.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-regional-settings.png" alt=""><figcaption><p>Customize the regional settings for your account.</p></figcaption></figure></div>
 
@@ -99,7 +99,7 @@ The widget displays the names of your account team members and allows you to con
 
 You can now add specific accounts to your favorites and quickly access recently accessed accounts. To support this experience, we’ve made the following improvements to the account switcher in your profile menu:
 
-* **​Favorites** - This tab displays the accounts you’ve added as favorites. You can also remove an account from your favorites directly from this tab. For more information, see [Using Favorites](../../marketplace-platform/getting-started/interface/mark-favorite-pages.md).
+* **​Favorites** - This tab displays the accounts you’ve added as favorites. You can also remove an account from your favorites directly from this tab. For more information, see [Using Favorites](../../marketplace-platform/getting-started/mark-favorite-pages.md).
 * ​**Recents** - This tab shows all accounts you’ve recently accessed. You can also mark an account as a favorite directly from the **Recents** tab.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-account-switcher.png" alt=""><figcaption><p>Add favorites and view recently accessed accounts.</p></figcaption></figure></div>
@@ -176,7 +176,7 @@ We've also added a centralized reference called [Business Objects & API Collecti
 
 This release includes the following Interface and filtering enhancements:
 
-* **Second-level condition group filter** - All tables (data grids) now support a second-level filter condition called **Add a conditional group**, allowing you to create advanced filters by combining multiple rules and conditions. You can access this feature by selecting the **Filter** option and choosing **Add a conditional group**. For more information, see [Customize the data grid](../../marketplace-platform/getting-started/interface/customize-the-data-grid.md).
+* **Second-level condition group filter** - All tables (data grids) now support a second-level filter condition called **Add a conditional group**, allowing you to create advanced filters by combining multiple rules and conditions. You can access this feature by selecting the **Filter** option and choosing **Add a conditional group**. For more information, see [Customize the data grid](../../marketplace-platform/getting-started/customize-the-data-grid.md).
 * **Collapsible side navigation bar** - Where available (for example, the [Settings](../../modules-and-features/settings/) module), the side navigation bar can now be collapsed or expanded. When collapsed, the bar reduces in size to provide a more streamlined interface. When expanded, it displays all the pages within this module, enabling you to access them easily.
 * **Automatic page refresh** - The pages within the platform now refresh automatically when information changes in the system, so you no longer need to manually refresh them to see the latest updates.
 * **Multi-account tabs** - You can now work with multiple accounts in different browser tabs without them interfering with each other. Each tab keeps its own account, so actions in one tab won’t affect another. This enhancement applies to new modules in the SoftwareOne Marketplace only.

@@ -10,7 +10,7 @@ To view your one-time purchased items, navigate to the **Marketplace** > **Asset
 
 When you launch the **Assets** page, all one-time items you have ordered through the Marketplace are displayed. The table provides information, such as the asset name, linked agreement, key entities, estimated sales price, and status.&#x20;
 
-You can use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) as needed.&#x20;
+You can use the [sort and filter options](../../../marketplace-platform/getting-started/customize-the-data-grid.md) to customize the list and [show or hide specific columns](../../../marketplace-platform/getting-started/customize-the-data-grid.md#managing-columns) as needed.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/asset.png" alt=""><figcaption><p>Use the Assets page to view and manage your one-time purchased items.</p></figcaption></figure></div>
 

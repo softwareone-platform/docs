@@ -2,18 +2,20 @@
 description: Use the Spotlight widget to keep track of items requiring attention.
 ---
 
-# Object spotlight
+# Spotlight widget
 
-The **Spotlight** widget on the **Home** page is designed to highlight key platform objects that may require your attention.&#x20;
+The **Spotlight** widget helps you track items that need attention directly from the interface. It highlights important platform objects such as overdue invoices, querying orders, and expiring subscriptions so you can act quickly.&#x20;
 
-These objects include your agreements, orders, subscriptions, invoices, and more. For example, if you have any overdue invoices, they are spotlighted so you can take the necessary action. Similarly, expiring subscriptions are also included, so you can manage the renewal on time.&#x20;
+The widget appears on the **Home** page by default. You can also open it from the status bar by selecting the spotlight icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line">.
 
-The widget is displayed on the **Home** page by default, but you can also access it by selecting the spotlight icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> in the status bar.
+<figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption></figcaption></figure>
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/spotlight.png" alt=""><figcaption><p>Use the object spotlight widget to view and manage important tasks.</p></figcaption></figure></div>
+### Review spotlight items
 
-Within the widget, the information is organized by object type; for example, renewing and expiring subscriptions are displayed under **Subscriptions**, orders that may be querying for additional information are shown under **Orders**, and so on.&#x20;
+Spotlight groups items by object type, such as **Orders**, **Subscriptions,** and more. Each category shows the number of items that need attention, so you can quickly see where action is needed.
 
-The widget also provides a total count of items for each category, so you always know how many items need your attention. By default, a maximum of five items is displayed. If there are more items in a category, you can select the **view all** link to view those items on the object's main page.
+By default, Spotlight shows up to five items in each category. If more items are available, select **View all** to open the related main page and review the full list.&#x20;
 
-All object details within the section are synced periodically to ensure you stay informed and always have the latest information. You can also refresh the list manually by selecting the sync icon <img src="../../../.gitbook/assets/icon_sync.png" alt="" data-size="line">.
+### Refresh spotlight
+
+Spotlight updates automatically on a regular schedule to ensure you stay informed and always have the latest information. You can also refresh the list manually by selecting the sync icon <i class="fa-arrows-rotate">:arrows-rotate:</i>.

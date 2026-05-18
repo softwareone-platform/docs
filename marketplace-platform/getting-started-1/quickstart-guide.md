@@ -1,14 +1,14 @@
 ---
 description: >-
-  Get up and running in the Marketplace, make your first purchase, and manage
-  your subscription.
+  Use this quickstart to get started in the Marketplace, place your first order,
+  and manage your subscription.
 ---
 
 # Quickstart guide
 
 This quickstart guide explains how to get set up in the SoftwareOne Marketplace, make your first purchase, track orders, and self-manage your subscription.
 
-The page is split into tasks. Each task contains information and further links to detailed instructions.&#x20;
+The page is split into tasks. Each task contains information and further links to detailed instructions.
 
 {% stepper %}
 {% step %}
@@ -29,15 +29,15 @@ To get started, you’ll need to have an account on the platform.
 
 <summary>Accept the invitation and sign in</summary>
 
-When your administrator or SoftwareOne adds you to an account, you will receive an invitation email. This email contains a link to join the account.&#x20;
+When your administrator or SoftwareOne adds you to an account, you will receive an invitation email. This email contains a link to join the account.
 
 **To accept the invitation**
 
-1. Select the invite link in your email.&#x20;
-2. Select **Accept invitation**.&#x20;
+1. Select the invite link in your email.
+2. Select **Accept invitation**.
 3. On the registration page, do the following:
    1. Enter your first name and last name.
-   2. Enter a new password and then confirm that your new password matches the one you entered in the **Password** field.&#x20;
+   2. Enter a new password and then confirm that your new password matches the one you entered in the **Password** field.
    3. Select the terms of use.
    4. Select **Accept invitation**.
 
@@ -51,7 +51,7 @@ When your administrator or SoftwareOne adds you to an account, you will receive 
 {% step %}
 ### Set up your account
 
-After signing in to your account, set up your profile and define preferences, including your name, profile picture, account language, and timezone.&#x20;
+After signing in to your account, set up your profile and define preferences, including your name, profile picture, account language, and timezone.
 
 If you are an account administrator, you can perform additional account setup tasks, such as creating user groups and inviting additional users to your account.
 
@@ -59,12 +59,12 @@ If you are an account administrator, you can perform additional account setup ta
 
 <summary>Customize your profile</summary>
 
-You can configure your profile using the **My profile** option in your account menu.&#x20;
+You can configure your profile using the **My profile** option in your account menu.
 
 **To update your profile**
 
-1. On the **My profile** page, select **Edit**.&#x20;
-2. Do the following as necessary:&#x20;
+1. On the **My profile** page, select **Edit**.
+2. Do the following as necessary:
    * Update your name and contact information.
    * Add a profile picture.
    * Set your timezone, regional settings, and language preferences.
@@ -75,27 +75,27 @@ You can configure your profile using the **My profile** option in your account m
 
 <summary>Manage your notifications</summary>
 
-You can subscribe to email alerts or opt out of notification categories from your profile page.&#x20;
+You can subscribe to email alerts or opt out of notification categories from your profile page.
 
 **To manage notifications**
 
 1. Go to the **My profile** page.
-2. &#x20;Select the **Notification preferences** tab, then select **Edit**.
+2. Select the **Notification preferences** tab, then select **Edit**.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/edit_notifications.png" alt=""><figcaption><p>Use the Edit option to manage notifications</p></figcaption></figure></div>
 
-3. Use the checkboxes to enable or disable a category.&#x20;
+3. Use the checkboxes to enable or disable a category.
 4. **Save** your changes.
 
 {% hint style="success" %}
-You can also update your preferences using the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to your account. For more details, see [Manage notification preferences](interface/manage-notification-preferences.md).
+You can also update your preferences using the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to your account. For more details, see [Manage notification preferences](../getting-started/manage-notification-preferences.md).
 {% endhint %}
 
 </details>
 
 <details>
 
-<summary>Create user groups (Administrators only)</summary>
+<summary>Create user groups (admins only)</summary>
 
 Administrators can create new groups and assign members to those groups. Additionally, administrators can select modules that group members should have access to and restrict group members to certain buyers.
 
@@ -114,7 +114,7 @@ For more information, see [Create groups](../../modules-and-features/settings/gr
 
 <details>
 
-<summary>Invite additional users if needed (Administrators only)</summary>
+<summary>Invite additional users if needed (admins only)</summary>
 
 Administrators can invite additional users to their Marketplace account.
 
@@ -123,9 +123,9 @@ Administrators can invite additional users to their Marketplace account.
 1. Go to the [Users page](../../modules-and-features/settings/users/), then select **Add**.
 2. Follow the steps in the **Add user** wizard:
    1. Enter the user's email address.
-   2. Provide the first and last name.&#x20;
+   2. Provide the first and last name.
    3. Select the groups to which the user should have access.
-   4. Select **Add** to finish adding the user to your account.&#x20;
+   4. Select **Add** to finish adding the user to your account.
 
 For more information, see [Add new users](../../modules-and-features/settings/users/add-new-users.md).
 
@@ -147,7 +147,7 @@ There are two primary ways of finding products in the Marketplace.
 
 **To find products**
 
-* Use the [global search bar](interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform displays results that match your search term.
+* Use the [global search bar](../getting-started/interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform displays results that match your search term.
 * [Visit the Products page](../../modules-and-features/catalog/product-profiles/).
 
 </details>
@@ -172,14 +172,14 @@ The purchase wizard contains guided steps to submit an order. After you have ide
 
 <summary>Submit your purchase order</summary>
 
-To submit an order, make sure you have completed all the necessary steps in the purchase wizard.&#x20;
+To submit an order, make sure you have completed all the necessary steps in the purchase wizard.
 
 The ordering steps might vary slightly depending on the product you are ordering. Generally, the following steps are needed:
 
 1. **Select agreement** - Choose an existing agreement or create a new one. The option you select in this step determines the next step. For example, selecting a new agreement takes you to the **Select licensee** step, while choosing an existing agreement directs you to the **Select items** step.
 2. **Select licensee** - Choose an existing licensee or create a new one.
 3. **Agreement details** - Complete the contact form with the required information.
-4. **Select items** - Choose the items you want to order and adjust the quantities as needed.&#x20;
+4. **Select items** - Choose the items you want to order and adjust the quantities as needed.
 5. **Additional information** - Provide any additional IDs for the order and agreement.
 6. **Review order** - Review the order details, read the terms and conditions, and place your order.
 
@@ -212,10 +212,10 @@ After placing the order, use the **Orders** page to view detailed information an
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/orders.png" alt=""><figcaption><p>View your orders and track status</p></figcaption></figure></div>
 
-When tracking orders, look for key statuses such as:&#x20;
+When tracking orders, look for key statuses such as:
 
 * **Querying** - Indicates that you need to provide additional information before we can process your order. For querying orders, the **General** tab on the details page will outline the required information and the steps you need to take.
-* **Processing** - Indicates that we are processing your order.&#x20;
+* **Processing** - Indicates that we are processing your order.
 * **Completed** - Indicates that your order has been processed.
 * **Failed** - Indicates that the order has either been failed by the vendor or SoftwareOne. The failure reason is displayed on the order details page.
 
@@ -227,13 +227,13 @@ For additional order statuses, see [Order status](../../modules-and-features/mar
 {% step %}
 ### Manage your subscription
 
-After your order has been provisioned, manage your subscription from the **Subscriptions** page. This includes increasing or reducing the number of licenses and managing your subscription's renewal.
+After your order is provisioned, manage your subscription from the **Subscriptions** page. This includes increasing or reducing the number of licenses and managing your subscription's renewal.
 
 <details>
 
 <summary>Increase or reduce licenses</summary>
 
-You can adjust the number of licenses for a subscription by submitting a change order for the subscription.&#x20;
+You can adjust the number of licenses for a subscription by submitting a change order for the subscription.
 
 **To increase or reduce licenses**
 
@@ -254,14 +254,14 @@ For detailed information, see the following pages:
 
 <summary>Disable automatic renewal</summary>
 
-You can disable the automatic renewal for a subscription by submitting a configuration order.&#x20;
+You can disable the automatic renewal for a subscription by submitting a configuration order.
 
 **To disable automatic renewal**
 
 1. Go to **Marketplace** > **Subscriptions.**
 2. Select the subscription you want to manage.
 3. On the **subscription details** page, select the arrow <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">, then choose **Configure**.
-4. Choose **Disable**, then complete the remaining steps to submit your order.&#x20;
+4. Choose **Disable**, then complete the remaining steps to submit your order.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/disable_auto_renewal.png" alt=""><figcaption><p>Select Disable to prevent your subscription from renewing automatically</p></figcaption></figure></div>
 
@@ -273,7 +273,7 @@ Once auto-renewal is disabled, your subscription expires at the end of the commi
 
 ### Next steps <a href="#next-steps" id="next-steps"></a>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Buy more items</strong></td><td>Order new items using your existing Marketplace agreement.</td><td><a href="marketplace-for-clients/add-items-to-an-agreement.md">add-items-to-an-agreement.md</a></td></tr><tr><td><strong>Understand your billing documents</strong></td><td>Understand how to read and interpret your invoices and statements.</td><td><a href="../../modules-and-features/billing/understand-your-billing-documents/">understand-your-billing-documents</a></td></tr><tr><td><strong>View and download invoices</strong></td><td>Access your Marketplace invoice PDFs.</td><td><a href="../../modules-and-features/marketplace/billing/invoices/download-invoices.md">download-invoices.md</a></td></tr><tr><td><strong>View and download statements</strong></td><td>Access your statement Excel files.</td><td><a href="../../modules-and-features/marketplace/billing/statements/download-statements.md">download-statements.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Buy more items</strong></td><td>Add more items and licenses to your existing agreement.</td><td><a href="marketplace-for-clients/add-items-to-an-agreement.md">add-items-to-an-agreement.md</a></td></tr><tr><td><strong>Understand your billing documents</strong></td><td>Understand the structure and details of your invoices and statements.</td><td><a href="../../modules-and-features/billing/understand-your-billing-documents/">understand-your-billing-documents</a></td></tr><tr><td><strong>View and download invoices</strong></td><td>Access your Marketplace invoice PDFs.</td><td><a href="../../modules-and-features/marketplace/billing/invoices/download-invoices.md">download-invoices.md</a></td></tr><tr><td><strong>View and download statements</strong></td><td>Access your statement Excel files.</td><td><a href="../../modules-and-features/marketplace/billing/statements/download-statements.md">download-statements.md</a></td></tr></tbody></table>
 
 ### FAQs
 
@@ -281,7 +281,7 @@ Once auto-renewal is disabled, your subscription expires at the end of the commi
 
 <summary>If I need assistance with the platform, whom should I contact?</summary>
 
-You can contact the Marketplace Platform Support team. For details on how to contact us, see [Contact support](../../help-and-support/contact-support.md).&#x20;
+You can contact the Marketplace Platform Support team. For details on how to contact us, see [Contact support](../../help-and-support/contact-support.md).
 
 </details>
 
@@ -309,7 +309,7 @@ For details on self-managing your subscriptions and agreements, including termin
 
 <summary>Do you offer public APIs that allow programmatic interaction with the platform?</summary>
 
-Yes, you can download the [OpenAPI 3.0 specification](../../developer-resources/rest-api/openapi-specification.md) of our [REST APIs](../../developer-resources/rest-api/) and use them with tools of your choice.&#x20;
+Yes, you can download the [OpenAPI 3.0 specification](../../developer-resources/rest-api/openapi-specification.md) of our [REST APIs](../../developer-resources/rest-api/) and use them with tools of your choice.
 
 </details>
 
@@ -317,7 +317,7 @@ Yes, you can download the [OpenAPI 3.0 specification](../../developer-resources/
 
 <summary>I'm a SoftwareOne Partner. What do I need to know to get started?</summary>
 
-Partner accounts include all the features and functionalities of client accounts, along with additional features to facilitate transactions and procurement for reselling software.&#x20;
+Partner accounts include all the features and functionalities of client accounts, along with additional features to facilitate transactions and procurement for reselling software.
 
 The [Marketplace for Partners](marketplace-for-partners/) section contains a video guide and help pages describing how to use the Marketplace Platform as a SoftwareOne partner.
 

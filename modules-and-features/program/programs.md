@@ -34,10 +34,10 @@ To view the program details:
 
 ### Related topics
 
-{% content-ref url="../../marketplace-platform/getting-started/marketplace-for-partners/how-to-enroll-in-the-softwareone-csp-partner-program.md" %}
-[how-to-enroll-in-the-softwareone-csp-partner-program.md](../../marketplace-platform/getting-started/marketplace-for-partners/how-to-enroll-in-the-softwareone-csp-partner-program.md)
+{% content-ref url="../../marketplace-platform/getting-started-1/marketplace-for-partners/how-to-enroll-in-the-softwareone-csp-partner-program.md" %}
+[how-to-enroll-in-the-softwareone-csp-partner-program.md](../../marketplace-platform/getting-started-1/marketplace-for-partners/how-to-enroll-in-the-softwareone-csp-partner-program.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../marketplace-platform/getting-started/marketplace-for-partners/how-to-enroll-in-the-csp-partner-program.md" %}
-[how-to-enroll-in-the-csp-partner-program.md](../../marketplace-platform/getting-started/marketplace-for-partners/how-to-enroll-in-the-csp-partner-program.md)
+{% content-ref url="../../marketplace-platform/getting-started-1/marketplace-for-partners/how-to-enroll-in-the-csp-partner-program.md" %}
+[how-to-enroll-in-the-csp-partner-program.md](../../marketplace-platform/getting-started-1/marketplace-for-partners/how-to-enroll-in-the-csp-partner-program.md)
 {% endcontent-ref %}

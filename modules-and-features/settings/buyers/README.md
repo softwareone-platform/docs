@@ -16,7 +16,7 @@ To navigate to the **Buyers** page, select the main menu, then choose **Settings
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>Use the Buyers page to view and manage buyers.</p></figcaption></figure></div>
 
-On the **Buyers** page, you can view various details for each buyer. You can also use the [sort and filter options](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/interface/customize-the-data-grid.md#managing-columns) to customize the list.
+On the **Buyers** page, you can view various details for each buyer. You can also use the [sort and filter options](../../../marketplace-platform/getting-started/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/customize-the-data-grid.md#managing-columns) to customize the list.
 
 You can also select a buyer to view detailed information organized across several tabs. The information available includes the buyer's general information, including address, entities such as sellers and licensees mapped to the buyer, and a record of events and logs for the buyer. For details, see [View buyers](view-buyers.md).
 
