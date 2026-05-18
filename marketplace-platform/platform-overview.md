@@ -44,5 +44,5 @@ The following are some of the platform's core capabilities:
 ### Next steps
 
 * Read the [key concepts](getting-started/key-concepts.md) to understand the platform's terminology.
-* See [Getting Started](getting-started/) to learn about accessing, signing in, navigating, and personalizing your experience.
+* See [Getting started](getting-started/) to learn about accessing, signing in, navigating, and personalizing your experience.
 * Go to [Guides & tutorials](getting-started-1/) for onboarding quickstarts and procedures.

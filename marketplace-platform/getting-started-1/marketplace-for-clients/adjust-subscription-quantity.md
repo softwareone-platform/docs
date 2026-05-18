@@ -1,5 +1,5 @@
 ---
-description: Increase or reduce the licenses for your subscription.
+description: Change the number of licenses for your subscription.
 ---
 
 # How to increase or reduce licenses
@@ -29,7 +29,7 @@ When reducing licenses, these rules apply:
 
 1.  Under **Items**, update the **New qty** value, then select **Next**.&#x20;
 
-    <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/edit_subscription.png" alt="Edit subscription wizard showing the New qty field for license changes"><figcaption><p>Change the **New qty** value to increase or reduce licenses.</p></figcaption></figure></div>
+    <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/edit_subscription.png" alt="Edit subscription wizard showing the New qty field for license changes"><figcaption><p>Change the New qty value to increase or reduce licenses.</p></figcaption></figure></div>
 2. Under **Details**, add or update the reference ID and your comments.
 3. Under **Review order**, verify the information, then select **Place order**.
 4. Select **View details** to open the order details page or select **Close**.

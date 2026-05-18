@@ -8,7 +8,7 @@ To use the Marketplace Platform effectively as a Partner and make the most of it
 
 Partner accounts include all the features and functionalities of client accounts, along with additional features to facilitate transactions and procurement within the Marketplace.
 
-Use the following video guide, or see [How to Get Started](/broken/pages/pbpmAFpXB4m0YZ4X1pkE).
+Use the following video guide, or see [How to Get Started](how-to-get-started.md).
 
 {% embed url="https://youtu.be/77SqZEURAGo?feature=shared" %}
 Watch a quick video guide explaining about partner management in the Marketplace Platform.

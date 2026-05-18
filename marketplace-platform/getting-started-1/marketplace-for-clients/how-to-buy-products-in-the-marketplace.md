@@ -15,7 +15,7 @@ The exact steps depend on the product and vendor. This page covers the common fl
 **Review the product**
 
 1. Go to **Catalog** > **Products**.
-2. From the list of products, select the desired product, for example, **Microsoft 365 Business, Enterprise & Apps-Commercial**. The **product details** page opens.
+2. From the list of products, select the desired product, for example, **Microsoft 365 Business, Enterprise & Apps-Commercial**. The product details page opens.
 3. Review the information, including product details, features, and more.
 {% endstep %}
 
@@ -52,6 +52,6 @@ Some products add vendor-specific steps. For guided examples, see [Adobe Tutoria
 
 ### Next steps
 
-After you place the order, we verify the order details and start processing it. You can track the current status in the **General** tab on the [order details page](../../../modules-and-features/marketplace/orders/#order-details).
+After you place the order, we verify the order details and start processing it. You can track the current status in the **General** tab on the **order details** page.
 
 If action is required, the order details page shows the issue and the next step.
