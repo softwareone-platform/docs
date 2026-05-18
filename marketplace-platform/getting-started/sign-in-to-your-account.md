@@ -30,4 +30,4 @@ If you have forgotten your password, select **Forgot password?** and follow the 
 
 ### Next steps
 
-After signing in, start with [Navigate the interface](interface/). For an overview of key concepts and onboarding guidance, see [Guides & tutorials](../getting-started-1/).
+After signing in, start with [Navigate the interface](interface/). For an overview of key concepts and onboarding guidance, see [Guides & tutorials](../guides-and-tutorials/).

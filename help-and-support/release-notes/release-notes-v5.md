@@ -55,7 +55,7 @@ The new product is available in all AWS regions that support billing transfer. T
 
 This release includes the following currency and billing updates:
 
-* **Billing currency support** - You can now select the currency in which you want to receive your Marketplace invoices, either when creating a new agreement for a new purchase order or after placing your order. For more information, see [How to set or change your billing currency](../../marketplace-platform/getting-started-1/marketplace-for-clients/how-to-set-or-change-billing-currency.md).
+* **Billing currency support** - You can now select the currency in which you want to receive your Marketplace invoices, either when creating a new agreement for a new purchase order or after placing your order. For more information, see [How to set or change your billing currency](../../marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-set-or-change-billing-currency.md).
 * **Currencies & exchange updates** - The new **Currencies** & **Currency exchange** pages, located under **Settings** > **Exchange**, provide visibility into how currencies and exchange rates are managed. You can view all supported currencies, configured currency pairs (for example, GBP: EUR), the latest exchange rates in both directions, usage across agreements, status, and last updated date. For more information, see [Exchange](../../modules-and-features/settings/exchange/).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-exchange.png" alt=""><figcaption><p>View the list of currencies and exchange information.</p></figcaption></figure></div>

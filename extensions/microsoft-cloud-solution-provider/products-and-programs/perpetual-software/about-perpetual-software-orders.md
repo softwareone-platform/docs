@@ -20,7 +20,7 @@ These products are available for ordering through the [Products ](../../../../mo
 
 You can order perpetual licenses for the supported Microsoft products by creating a purchase order. Purchase orders are created when you buy a product under a new agreement.
 
-The steps to order perpetual software are like any other Microsoft product in the Marketplace Platform. For a general description of the ordering process, see [How to Buy Products in the Marketplace](../../../../marketplace-platform/getting-started-1/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md). For step-by-step instructions, see [Buy Perpetual Software Licenses](../../additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md).
+The steps to order perpetual software are like any other Microsoft product in the Marketplace Platform. For a general description of the ordering process, see [How to Buy Products in the Marketplace](../../../../marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md). For step-by-step instructions, see [Buy Perpetual Software Licenses](../../additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md).
 
 ## Specifics you must know
 

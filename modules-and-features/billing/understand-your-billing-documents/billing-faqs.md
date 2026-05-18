@@ -47,7 +47,7 @@ Both invoice types include a link to the relevant statement, so you can download
 
 You can set the currency while creating a new agreement for a purchase order. You can also change the currency of your existing agreements to receive invoices in that currency.&#x20;
 
-For more information, see [How to Set or Change Your Billing Currency](../../../marketplace-platform/getting-started-1/marketplace-for-clients/how-to-set-or-change-billing-currency.md).
+For more information, see [How to Set or Change Your Billing Currency](../../../marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-set-or-change-billing-currency.md).
 
 </details>
 

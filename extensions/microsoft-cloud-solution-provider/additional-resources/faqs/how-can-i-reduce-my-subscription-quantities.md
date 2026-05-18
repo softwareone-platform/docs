@@ -1,6 +1,6 @@
 # How do I reduce subscription quantities
 
-You can reduce the quantity of your subscription by editing the subscription directly. For information on how to remove licenses, see [How to Change License Quantity](../../../../marketplace-platform/getting-started-1/marketplace-for-clients/adjust-subscription-quantity.md).
+You can reduce the quantity of your subscription by editing the subscription directly. For information on how to remove licenses, see [How to Change License Quantity](../../../../marketplace-platform/guides-and-tutorials/marketplace-for-clients/adjust-subscription-quantity.md).
 
 If the seat reduction is done within 7 days of ordering, the changes are applied in the Marketplace Platform and Microsoft.
 
