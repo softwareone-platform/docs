@@ -15,8 +15,8 @@ Additionally, ensure that the new name is not blank; otherwise, the platform dis
 To update an asset's name:
 
 1. Go to **Marketplace** > **Assets**.
-2. Find the asset you want to rename.
+2. Select the asset you want to rename.
 3. On the **asset details** page, select **Rename**.
-4. In the **Rename** dialog, enter the new name, then select **Save**. The asset's name is updated and displayed across all pages featuring the asset within the platform.
+4. In the **Rename** dialog, enter the new name, then select **Save**. The asset's name is updated.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/rename-asset.png" alt=""><figcaption><p>Use the Rename dialog to update an asset's name.</p></figcaption></figure></div>

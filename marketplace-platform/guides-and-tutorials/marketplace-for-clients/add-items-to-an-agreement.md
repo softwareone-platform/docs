@@ -12,7 +12,7 @@ New items can be added using **Buy more** on the **agreement details** page. Whe
 You can add items only to active agreements. If the agreement is not active, the **Buy more** option is unavailable.
 {% endhint %}
 
-### Add new items to your agreement
+### Adding new items to an agreement
 
 {% stepper %}
 {% step %}
@@ -22,7 +22,7 @@ You can add items only to active agreements. If the agreement is not active, the
 2. Select the agreement you want to update.
 3. On the **agreement details** page, select **Buy more**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt="Agreement details page with the Buy more action"><figcaption><p>Select **Buy more** to start from the **Items** step.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt="Agreement details page with the Buy more action"><figcaption><p>Select Buy more to start from the Items step.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -43,7 +43,7 @@ You can add items only to active agreements. If the agreement is not active, the
 1. Under **Details**, add or update the reference ID and your comments.
 2. Select **Next**.
 3. Under **Review order**, verify the information, then select **Place order**.
-4. Select **View details** to open the order details page or select **Close**.
+4. Select **View details** to open the **order details** page or select **Close**.
 {% endstep %}
 {% endstepper %}
 

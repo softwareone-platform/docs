@@ -19,4 +19,6 @@ To renew your enrollment for a program:
    1. Review and update the details as necessary.
    2. On the **Overview** page, select **Request** to submit your enrollment request to the vendor. This submission indicates that you have provided the necessary information as per the program's criteria.
 
-When you submit the request, a new enrollment request is created with a **Processing** status. You can view this enrollment on the **Enrollments** page. The certificate's status also changes from **Expired** to **Updating**. Once the re-enrollment is approved, the status changes to **Active**.
+When you submit the request, a new enrollment request is created with a **Processing** status. You can view this enrollment on the **Enrollments** page.&#x20;
+
+The certificate's status also changes from **Expired** to **Updating**. Once the re-enrollment is approved, the status changes to **Active**.

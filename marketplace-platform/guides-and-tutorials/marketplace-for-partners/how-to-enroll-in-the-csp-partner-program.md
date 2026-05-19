@@ -56,4 +56,4 @@ To start the wizard:
 
 The enrollment takes a few minutes to complete as we verify the details.&#x20;
 
-When the enrollment completes, a certificate is created. You can use this certificate when placing your order.&#x20;
+When it completes, a certificate is created. You can use this certificate when placing your order.&#x20;

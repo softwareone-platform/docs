@@ -23,7 +23,7 @@ Before getting started with the tutorial, it's essential to have an understandin
 Split billing can only be activated at the agreement level. To activate split billing:
 
 1. On the **Agreements** page, select the required agreement. The agreement details page opens.
-2. Select the arrow <img src="../../../.gitbook/assets/icon_down_arrow.png" alt="" data-size="line">, then choose **Split billing**.
+2. Select the dropdown arrow <i class="fa-chevron-down">:chevron-down:</i>, then choose **Split billing**.
 3. In the **Split billing** dialog, select the checkbox to enable split billing, then select **Save**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EnableSP (1).png" alt=""><figcaption><p>The option to enable split billing.</p></figcaption></figure></div>
@@ -38,12 +38,12 @@ In this tutorial, _Stark Industries_ is the **Owner** buyer who has been allocat
 
 To configure buyers:
 
-1. Select the **Split billing** tab on the agreement details page.
+1. On the **agreement details** page, select the **Split billing** tab.
 2. Select **Edit**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SplitBillingEdit (2).png" alt=""><figcaption><p>The Edit option on the Split billing tab.</p></figcaption></figure></div>
 
-3. In the **Split billing** dialog, use the checkboxes to select buyers from the list of your active buyers. When done, select **Save**.
+3. In the **Split billing** dialog, choose the buyers, then select **Save**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SPBuyers (1).png" alt=""><figcaption><p>The list of buyers for billing allocation.</p></figcaption></figure></div>
 
@@ -60,7 +60,7 @@ Billing can be allocated by specifying percentages for each buyer. You can also 
 To start configuring the split for each buyer:
 
 1. In the **Actions** column for the **Owner** buyer, select **Details**.
-2. Find the required subscription and select **Edit**. The example agreement contains three subscriptions, but we will only configure allocation for the first subscription, called _Creative Cloud All Apps with Adobe Stock_.
+2. Find the required subscription, then select **Edit**. The example agreement contains three subscriptions, but we will only configure allocation for the first subscription, called _Creative Cloud All Apps with Adobe Stock_.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SplitBillingSubscription (1).png" alt=""><figcaption><p>The Edit option for the subscription.</p></figcaption></figure></div>
 

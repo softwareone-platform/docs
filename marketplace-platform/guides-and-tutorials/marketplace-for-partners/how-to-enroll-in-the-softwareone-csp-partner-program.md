@@ -46,4 +46,4 @@ To start the wizard:
 
 ### Next steps
 
-Upon successful enrollment, a certificate is created. You can select this certificate when ordering CSP products and services.
+When the enrollment completes, a certificate is created. You can select this certificate when ordering CSP products and services.

@@ -12,7 +12,7 @@ To edit a licensee:&#x20;
 
 1. Go to **Settings** > **Licensees**.
 2. Find the licensee you want to edit. &#x20;
-3. Select the **actions** icon (**•••**) for the licensee, then choose **Edit**. Alternatively, select the licensee name. When the licensee details page opens, select **Edit** in the upper right.
+3. Select the **actions** icon (**•••**), then choose **Edit**. Alternatively, select the licensee name. When the licensee details page opens, select **Edit**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1009).png" alt=""><figcaption><p>Select edit to update licensee details.</p></figcaption></figure></div>
 
