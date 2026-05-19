@@ -244,7 +244,6 @@
   * [Tutorials](extensions/adobe-vip-marketplace/tutorials-and-videos/README.md)
     * [Order Adobe subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
     * [Order new Adobe items](extensions/adobe-vip-marketplace/tutorials-and-videos/order-new-adobe-items.md)
-    * [Rename Adobe subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/rename-adobe-subscription.md)
     * [Downsize Adobe subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
     * [Upsize Adobe subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
     * [Terminate Adobe subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription.md)

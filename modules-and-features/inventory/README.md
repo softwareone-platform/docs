@@ -1,6 +1,6 @@
 # Inventory
 
-### Topics in this section
+### Explore Inventory topics
 
 {% content-ref url="license-agreements.md" %}
 [license-agreements.md](license-agreements.md)

@@ -12,7 +12,7 @@ Invoices contain a summary of charges and other details associated with your acc
 
 The **Invoices** page allows you to view all invoices generated for your account.
 
-To navigate to the **Invoices** page, select the main menu, then choose **Billing** > **Invoices**. The list of invoices is displayed as shown in the following image:
+To access the **Invoices** page, select the main menu, then choose **Billing** > **Invoices**. The list of invoices is displayed as shown in the following image:
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoices_page.png" alt=""><figcaption><p>The Invoices page in the platform.</p></figcaption></figure></div>
 

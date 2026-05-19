@@ -16,7 +16,7 @@ Statements are issued as Excel (`.xlsx`) files and they contain a detailed view 
 
 The **Statements** page allows you to view all statements for your account.
 
-To navigate to the **Statements** page, select the main menu, then choose **Billing** > **Statements**. The list of statements is displayed, as shown in the following image:
+To access the **Statements** page, select the main menu, then choose **Billing** > **Statements**. The list of statements is displayed, as shown in the following image:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Use the Statements page to view your billing statements.</p></figcaption></figure></div>
 

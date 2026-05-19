@@ -8,7 +8,7 @@ Adobe allows its VIP Marketplace customers to switch from their current reseller
 
 If you are currently buying Adobe product licenses through a non-SoftwareOne reseller, you can transfer your account to SoftwareOne.&#x20;
 
-When the transfer process completes, SoftwareOne will become your new reseller, managing your Adobe subscriptions and orders.
+When the transfer completes, SoftwareOne becomes your new reseller, managing your Adobe subscriptions and orders.
 
 {% hint style="info" %}
 * Reseller transfers are allowed only for the Adobe VIP Marketplace. Licensing programs such as the Value Incentive Plan (VIP), Cumulative Licensing Program (CLP), Transactional Licensing Program (TLP), and Enterprise Term Licensing Agreement (ETLA) don't permit a change of reseller.

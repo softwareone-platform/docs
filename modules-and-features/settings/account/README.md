@@ -12,7 +12,7 @@ The platform supports various account types, including client and vendor account
 
 The **Accounts** page allows account administrators to view details, such as your account name and ID, company information, the Marketplace modules SoftwareOne has enabled for your account, the date and time your account was created, and more. Admins can also edit some of the account information.
 
-To navigate to the **Accounts** page, select the main menu, then choose **Settings** > **Accounts**.&#x20;
+To access the **Accounts** page, select the main menu, then choose **Settings** > **Accounts**.&#x20;
 
 <figure><img src="../../../.gitbook/assets/settings-account-page.png" alt=""><figcaption><p>Use the Account page to view your account information.</p></figcaption></figure>
 

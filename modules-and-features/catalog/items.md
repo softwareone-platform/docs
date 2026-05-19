@@ -12,7 +12,7 @@ A product can contain one or more items. For example, the _Microsoft 365 Busines
 
 The **Items** page allows you to view all items that are available for ordering through the SoftwareOne Marketplace.&#x20;
 
-To navigate to the **Items** page, select the main menu, then choose **Catalog** > **Items**. The list of items is displayed. You can find specific items by [applying filters](../../marketplace-platform/getting-started/customize-the-data-grid.md#filtering-data) and [customizing columns](../../marketplace-platform/getting-started/customize-the-data-grid.md#managing-columns).&#x20;
+To access the **Items** page, select the main menu, then choose **Catalog** > **Items**. The list of items is displayed. You can find specific items by [applying filters](../../marketplace-platform/getting-started/customize-the-data-grid.md#filtering-data) and [customizing columns](../../marketplace-platform/getting-started/customize-the-data-grid.md#managing-columns).&#x20;
 
 {% hint style="info" %}
 The **Items** page is view-only. You cannot order items from this page. Items can only be ordered when creating a purchase or change order.

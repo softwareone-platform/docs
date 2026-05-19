@@ -12,7 +12,7 @@ Buyers are registered as legal entities within SoftwareOne's ERP system, and the
 
 The **Buyers** page allows account administrators to view all buyers in the account. Administrators can also perform other administrative tasks, such as editing, enabling, or disabling a buyer.&#x20;
 
-To navigate to the **Buyers** page, select the main menu, then choose **Settings** > **Buyers**. The list of buyers is displayed as shown in the following image:
+To access the **Buyers** page, select the main menu, then choose **Settings** > **Buyers**. The list of buyers is displayed as shown in the following image:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>Use the Buyers page to view and manage buyers.</p></figcaption></figure></div>
 

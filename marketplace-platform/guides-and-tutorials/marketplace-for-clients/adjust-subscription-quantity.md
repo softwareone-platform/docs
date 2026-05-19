@@ -17,7 +17,7 @@ When reducing licenses, these rules apply:
 
 {% stepper %}
 {% step %}
-**Start from the subscriptions**
+**Start from the subscription**
 
 1. Go to **Marketplace** > **Subscriptions**.
 2. Select the required subscription.

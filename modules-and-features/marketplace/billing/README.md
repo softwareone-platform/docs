@@ -1,14 +1,10 @@
----
-description: Learn about Marketplace Platform's Billing module and its features.
----
-
 # Billing
 
-The **Billing** module is your primary entry point for accessing billing documents and analytics for your account.
+The **Billing** module gives you access to billing documents and analytics for your account.
 
-This module simplifies billing management by allowing you to access your invoices and statements containing a detailed list of charges. Additionally, you can use the module to get insights into your billing data.
+Use it to review invoices, statements, sales orders, analytics, and more.
 
-### Topics in this section
+### Explore billing topics
 
 {% content-ref url="../../billing/understand-your-billing-documents/" %}
 [understand-your-billing-documents](../../billing/understand-your-billing-documents/)

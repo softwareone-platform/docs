@@ -14,7 +14,7 @@ Watch a quick video guide how to order new Adobe items using an existing agreeme
 
 ### Prerequisites
 
-Before starting this tutorial, make sure that the agreement you want to use is in the active state. Agreements in any other state cannot be used when ordering subscriptions.&#x20;
+Make sure the agreement you want to use is active.&#x20;
 
 ### Ordering new Adobe items
 
@@ -22,35 +22,40 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 {% step %}
 {% include "../../../.gitbook/includes/purchase-wizard-1.md" %}
 
-To start the process:
+To start the order:
 
 1. Go to **Catalog** > **Products**.
-2. From the list of products, select **Adobe VIP Marketplace**.
+2. Select the required product. For example, **Adobe VIP Marketplace for Commercial**.
 3. Review the product details.
-4. Select **Buy now**. The Purchase Wizard starts.
+4. Select **Buy now**.
 {% endstep %}
 
 {% step %}
-{% include "../../../.gitbook/includes/purchase-wizard-2.md" %}
+**Select the items you want to order**
 
-{% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
+Complete the following steps:
 
-1. **Select agreement** - Choose an active agreement from the list. Then, select **Next**. All items existing under this agreement are displayed.
-
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1058).png" alt=""><figcaption><p>The Select items step displaying existing items in your agreement.</p></figcaption></figure></div>
-
-2. **Select Items** - Select **Add items** to view the list of items and add them to your order. When the items are added, adjust the quantity of licenses in the **New qty** field and select **Next**.
+1. **Select agreement** - Select the required agreement, then select **Next**.&#x20;
+2. **Select Items** - Do the following:
+   1. Select **Add items** to view items you can purchase and add items to your order.&#x20;
+   2. When the items are added, update the license quantity in the **New qty** field, then select **Next**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe_add_items.png" alt=""><figcaption><p>The Select items step displaying newly added items.</p></figcaption></figure></div>
+{% endstep %}
 
-3. **Details** - Provide reference details, including additional IDs or notes, and select **Next**.
-4. **Review order** - Read the terms and conditions of the order and the privacy statement. When done, select **Place order**.
-5. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
+{% step %}
+**Review and submit the order**
+
+1. **Details** - Add or update the reference ID and your comments. Select **Next**.
+2. **Review order** - Verify the information, then select **Place order**.
+3. **Summary -** Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps
 
-Your change order is submitted for processing.
+After you place the order, a change order is created for the agreement.
 
-You can view the most up-to-date information on your order and its status on the [Order details](../../../modules-and-features/marketplace/orders/#subscription-details) page.
+The agreement status also changes from **Active** to **Updating**. While the agreement is updating, you cannot place more orders under that agreement.
+
+You can track the order on the **Orders** page or in the **Orders** tab on the **agreement details** page.

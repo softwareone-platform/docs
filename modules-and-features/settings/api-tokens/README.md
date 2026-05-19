@@ -2,7 +2,7 @@
 description: Learn about creating and managing API tokens in the SoftwareOne Marketplace.
 ---
 
-# API Tokens
+# API tokens
 
 The Marketplace Platform uses API tokens to authenticate requests to the [REST API](../../../developer-resources/rest-api/).
 
@@ -23,7 +23,7 @@ All API requests must be made over **HTTPS**. Calls made over plain **HTTP** wil
 
 The **API tokens** page allows account administrators to create and view API tokens. Administrators can also edit, delete, enable, or disable a token.
 
-To navigate to the **API tokens** page, select the main menu, then choose **Settings** > **API tokens**. The list of tokens is displayed:
+To access the **API tokens** page, select the main menu, then choose **Settings** > **API tokens**. The list of tokens is displayed:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>Use the API tokens page to view and manage tokens.</p></figcaption></figure></div>
 

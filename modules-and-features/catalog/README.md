@@ -1,14 +1,10 @@
----
-description: Learn about Catalog Management and its features.
----
-
 # Catalog
 
-The **Catalog** module within the SoftwareOne Marketplace centralizes all features related to catalog management, making it easier to make purchasing decisions by consolidating product and vendor data, prices, and items.
+The **Catalog** module gives you access to our catalog.&#x20;
 
-You can access a catalog of software products, view a list of purchasable items available to your organization, and explore detailed pricing structures based on your organization's buying entities and the authorized SoftwareOne sellers.
+Use this module to buy products, view purchasable items, explore pricing options for your organization, and access product and vendor profiles.
 
-### Topics in this section
+### Explore catalog topics
 
 {% content-ref url="items.md" %}
 [items.md](items.md)

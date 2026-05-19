@@ -8,7 +8,7 @@ The **Marketplace** module is your entry point for accessing and managing your o
 
 It provides access to several key features, including agreements, assets, entitlements, orders, and subscriptions.&#x20;
 
-### Topics in this section
+### Explore Marketplace topics
 
 {% content-ref url="agreements/" %}
 [agreements](agreements/)

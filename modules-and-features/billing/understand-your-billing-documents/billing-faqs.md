@@ -4,7 +4,7 @@ description: Find answers to frequently asked questions about invoices and state
 
 # Billing FAQs
 
-### Invoice
+### Invoices
 
 <details>
 
@@ -14,7 +14,7 @@ A compact invoice is issued for statements with a large number of charges. All c
 
 In contrast, a detailed invoice is for statements with fewer charges. Each charge is shown as a separate line.
 
-For more information, see [Understand Your Billing Documents](./).
+For more information, see [Understand your billing documents](./).
 
 </details>
 
@@ -24,7 +24,7 @@ For more information, see [Understand Your Billing Documents](./).
 
 You can access your invoice from the **Invoices** page in the platform.&#x20;
 
-For details, see [View and Download Invoices](../../marketplace/billing/invoices/download-invoices.md).
+For details, see [View and download invoices](../../marketplace/billing/invoices/download-invoices.md).
 
 </details>
 
@@ -47,7 +47,7 @@ Both invoice types include a link to the relevant statement, so you can download
 
 You can set the currency while creating a new agreement for a purchase order. You can also change the currency of your existing agreements to receive invoices in that currency.&#x20;
 
-For more information, see [How to Set or Change Your Billing Currency](../../../marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-set-or-change-billing-currency.md).
+For more information, see [How to set or change your billing currency](../../../marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-set-or-change-billing-currency.md).
 
 </details>
 
@@ -55,7 +55,7 @@ For more information, see [How to Set or Change Your Billing Currency](../../../
 
 <summary>Why does my invoice show a single line per item with a quantity of 1?</summary>
 
-On [compact invoices](billing-faqs.md#billing-invoices), the quantity is shown as `1` to consolidate all charges at the item level. This is done to simplify the invoice and prevent complexity.&#x20;
+On [compact invoices](billing-faqs.md#billing-invoices), the quantity shows `1` to consolidate all charges at the item level. This is done to simplify the invoice and prevent complexity.&#x20;
 
 For actual item quantities and charges, see your billing statement.
 
@@ -67,7 +67,7 @@ For actual item quantities and charges, see your billing statement.
 
 You can include a purchase order number by entering it in the **Additional ID** field, located on the **Details** tab within the agreement details page.&#x20;
 
-For more information, see [How do you handle purchase order numbers in subscription-based models?](../../../help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md) and [Update Additional Client ID](../../marketplace/agreements/edit-agreement-id.md).
+For more information, see [How do you handle purchase order numbers in subscription-based models?](../../../help-and-support/faqs/how-do-you-handle-purchase-order-numbers-in-subscription-based-models.md) and [Add or update additional client ID](../../marketplace/agreements/edit-agreement-id.md).
 
 </details>
 
@@ -114,7 +114,7 @@ Invoices and statements are both billing documents, but they serve different pur
 
 Yes, if you don’t have access to your account, you can download a statement from the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page. You'll need to provide your Invoice ID and Statement ID.&#x20;
 
-To learn more, see [Download Statements](../../marketplace/billing/statements/download-statements.md).
+To learn more, see [Download statements](../../marketplace/billing/statements/download-statements.md).
 
 </details>
 

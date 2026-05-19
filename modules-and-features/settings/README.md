@@ -8,9 +8,9 @@ The **Settings** module enables account administrators to manage various aspects
 
 It also allows administrators to secure account access by overseeing users, groups, and API tokens.&#x20;
 
-### Topics in this section
+### Explore settings
 
-**General Settings**
+**General settings**
 
 {% content-ref url="account/" %}
 [account](account/)
@@ -42,7 +42,7 @@ It also allows administrators to secure account access by overseeing users, grou
 [notifications](notifications/)
 {% endcontent-ref %}
 
-**Platform Tools**
+**Platform tools**
 
 {% content-ref url="api-tokens/" %}
 [api-tokens](api-tokens/)

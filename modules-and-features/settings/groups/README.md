@@ -12,7 +12,7 @@ Users can belong to multiple groups within the same account; for example, a user
 
 The **Groups** page allows account administrators to perform tasks, such as adding new groups and managing existing groups. Administrators can also modify or delete a group permanently if it's no longer needed.&#x20;
 
-To navigate to the **Groups** page, select the main menu, then choose **Settings** > **Groups**. The list of groups is displayed, as shown in the following image:
+To access the **Groups** page, select the main menu, then choose **Settings** > **Groups**. The list of groups is displayed, as shown in the following image:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>Use the Groups page to view and manage groups.</p></figcaption></figure></div>
 

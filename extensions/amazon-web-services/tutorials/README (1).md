@@ -6,9 +6,4 @@ Signing up for AWS through SoftwareOne Marketplace allows you to connect your bi
 
 Read our step-by-step walkthroughs to learn about ordering AWS through the Marketplace platform.
 
-#### Topics in this section <a href="#topics-in-this-section" id="topics-in-this-section"></a>
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Sign up for new AWS account</strong></td><td>Create a new AWS account, then transfer it to SoftwareOne.</td><td><a href="sign-up-for-new-aws-account.md">sign-up-for-new-aws-account.md</a></td></tr><tr><td><strong>Transfer your AWS account</strong></td><td>Transfer the billing of your existing AWS account to SoftwareOne.</td><td><a href="transfer-your-aws-account.md">transfer-your-aws-account.md</a></td></tr></tbody></table>
-
-
-
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="sign-up-for-new-aws-account.md">Sign up for new AWS account</a></td><td>Create a new AWS account and transfer it to SoftwareOne.</td><td><a href="sign-up-for-new-aws-account.md">sign-up-for-new-aws-account.md</a></td></tr><tr><td><a href="transfer-your-aws-account.md">Transfer your AWS account</a></td><td>Transfer the billing of your AWS account to SoftwareOne.</td><td><a href="transfer-your-aws-account.md">transfer-your-aws-account.md</a></td></tr></tbody></table>

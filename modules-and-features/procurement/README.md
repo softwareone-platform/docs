@@ -1,6 +1,6 @@
 # Procurement
 
-### Topics in this section
+### Explore Procurement topics
 
 {% content-ref url="enterprise-agreements/" %}
 [enterprise-agreements](enterprise-agreements/)

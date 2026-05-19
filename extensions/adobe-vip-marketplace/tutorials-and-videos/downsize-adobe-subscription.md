@@ -1,10 +1,10 @@
 ---
-description: Reduce or return licenses for your Adobe subscription.
+description: Reduce licenses for your Adobe subscription.
 ---
 
 # Downsize Adobe subscription
 
-This tutorial describes how you can lower the quantity of your Adobe licenses by submitting a change order through the Marketplace Platform.
+This tutorial describes how to reduce the quantity of your licenses by submitting a change order.
 
 {% hint style="info" %}
 Adobe offers a 14-day return window. If you reduce the number of licenses within 14 days, SoftwareOne will action your request and update your subscription. If you are outside the return period, the decrease will only take effect on your renewal date.
@@ -12,13 +12,13 @@ Adobe offers a 14-day return window. If you reduce the number of licenses within
 
 ### Prerequisites
 
-Before starting this tutorial, make sure the required subscription is active.
+Make sure the required subscription is active.
 
-#### Downsizing a subscription <a href="#downsizing-a-subscription" id="downsizing-a-subscription"></a>
+### Downsizing a subscription <a href="#downsizing-a-subscription" id="downsizing-a-subscription"></a>
 
 {% stepper %}
 {% step %}
-**Open the subscription you want to downsize**
+**Open the subscription**
 
 To open the subscription:
 
@@ -28,22 +28,21 @@ To open the subscription:
 {% endstep %}
 
 {% step %}
-**Decrease the quantity**
+**Decrease the quantity and submit the order**
 
 &#x20;In the **Edit subscription** wizard, complete the following steps:
 
-1. **Items** - Under **New qty,** enter the new item quantity. In the following image, the quantity of both items is changed from **20** to **19**.
-
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/downsize_subscription_change_qty.png" alt=""><figcaption><p>Enter the new item quantity in the New qty field.</p></figcaption></figure></div>
-
-2. **Details** - Enter the reference information that might help you identify the change order easily. You can add the **Additional ID** and **Notes**. When done, select **Next**.
-3. **Review order** - Read the terms and conditions of the order and the privacy statement. When done, select **Place order** to submit your order.
-4. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
+1. **Items** - Under **New qty**, update the quantity, then select **Next**.&#x20;
+2. **Details** - Add or update the reference ID and your comments. Select **Next**.
+3. **Review** - Read the terms and conditions of the order and the privacy statement, then select **Place order**.
+4. **Summary** -  Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps
 
-Once your order is submitted for processing, the status of your subscription and the agreement changes from **Active** to **Updating**. While the order is being updated, you won't be able to make any further changes until your order has been processed.
+After you place the order, a change order is created for the agreement.
 
-You can view the most up-to-date information on your order and its status on the [Order details](../../../modules-and-features/marketplace/orders/#subscription-details) page.
+The agreement status also changes from **Active** to **Updating**. While the agreement is updating, you cannot place more orders under that agreement.
+
+You can track the order on the **Orders** page or in the **Orders** tab on the **agreement details** page.

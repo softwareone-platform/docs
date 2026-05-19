@@ -12,7 +12,7 @@ Licensees are the entities that consume the software products or services procur
 
 The **Licensees** page allows account administrators to add new licensees. Administrators can also use this page to view, modify, enable, or disable a licensee.
 
-To navigate to the **Licensees** page, select the main menu, then choose **Settings** > **Licensees**. The list of licensees is displayed, as shown in the following image:
+To access the **Licensees** page, select the main menu, then choose **Settings** > **Licensees**. The list of licensees is displayed, as shown in the following image:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption><p>Use the Licensees page to view and manage licensees.</p></figcaption></figure></div>
 

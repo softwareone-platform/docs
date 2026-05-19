@@ -8,7 +8,7 @@ The **Helpdesk** module in the SoftwareOne Marketplace allows you to create and 
 
 Additionally, you can use this module to contact your SoftwareOne account team and share your feedback about the Marketplace with us directly.
 
-### Topics in this section
+### Explore Helpdesk topics
 
 {% content-ref url="account-team.md" %}
 [account-team.md](account-team.md)

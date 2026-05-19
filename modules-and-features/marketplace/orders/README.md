@@ -15,7 +15,7 @@ Marketplace orders progress through multiple states from the time they are creat
 
 The **Orders** page allows you to view your orders. From this page, you can also manage an order, depending on its current status.
 
-To navigate to the **Orders** page, select the main menu, then choose **Marketplace** > **Orders**. The list of orders is displayed.
+To access the **Orders** page, select the main menu, then choose **Marketplace** > **Orders**. The list of orders is displayed.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_page.png" alt=""><figcaption><p>Use the Orders page to view and manage your orders.</p></figcaption></figure></div>
 
