@@ -1246,7 +1246,6 @@
   * [Release notes v2](help-and-support/release-notes/release-notes-v2.md)
   * [Release notes v1](help-and-support/release-notes/release-notes-v1.md)
 * [Status page](help-and-support/status-page.md)
-* [YouTube channel](help-and-support/youtube-channel.md)
 * [Video library](help-and-support/video-library.md)
 * [Planned maintenance](help-and-support/planned-maintenance.md)
 * [Terms of use](help-and-support/terms-of-use.md)
