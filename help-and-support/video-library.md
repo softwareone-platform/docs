@@ -8,9 +8,9 @@ Welcome to the SoftwareOne Marketplace Video Library. Here you can find a compre
 
 ## Stay updated on YouTube
 
-Subscribe for release highlights, webinars, and new tutorials. [Visit our YouTube Channel](https://www.youtube.com/).
+Subscribe for release highlights, webinars, and new tutorials. [Visit our YouTube Channel](https://www.youtube.com/@MarketplacePlatform).
 
-## Getting Started & Overview
+## Getting started & overview
 
 Learn the basics of the Marketplace Platform and how it can simplify your software procurement and management.
 
@@ -182,7 +182,7 @@ FinOps - V4 Coming soon!
 
 Preview of new FinOps features coming in Version 4, designed to optimize cloud spending with informed decisions.
 
-## Management & Administration
+## Management & administration
 
 Learn how to manage users, groups, buyers, and account settings.
 
@@ -250,7 +250,7 @@ Partner Management
 Audit Trail for Client Administrators
 {% endembed %}
 
-## Subscriptions & Billing
+## Subscriptions & billing
 
 Manage your orders, subscriptions, and billing preferences.
 
@@ -316,7 +316,7 @@ Transactional Catalog
 
 Walkthrough of the Transactional Catalog and how to manage software licenses.
 
-## Partner Resources
+## Partner resources
 
 Content specifically for our partners.
 
@@ -342,7 +342,7 @@ EMEA Marketplace Webinar January 23rd 2025
 
 Recording of the EMEA Marketplace Webinar held on January 23rd, 2025.
 
-## Developer Resources
+## Developer resources
 
 Technical guides for using our REST API.
 
@@ -360,7 +360,7 @@ Exporting to Excel using our API
 
 Export data to Excel using the platform's API.
 
-## Additional Content & Webinars
+## Additional content & webinars
 
 Explore more about the platform, industry context, and support.
 
