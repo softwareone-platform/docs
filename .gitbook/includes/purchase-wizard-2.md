@@ -2,4 +2,4 @@
 title: PurchaseWizard - Mid
 ---
 
-**Follow the steps to place your order**
+**Submit your order**

@@ -1,10 +1,10 @@
 ---
-description: Order new items using your existing Marketplace agreement.
+description: Add new items to your existing Marketplace agreement.
 ---
 
-# How to add new items to an agreement
+# How to add more items to an agreement
 
-This tutorial describes how to add new items to an existing Marketplace agreement.
+This tutorial describes how to add more items to your existing Marketplace agreement.
 
 New items can be added using **Buy more** on the **agreement details** page. When you start from **Buy more**, the purchase wizard opens directly on the **Items** step.
 

@@ -1,56 +1,55 @@
 ---
-description: Configure licensees for reselling software products to your end customers.
+description: >-
+  Create a licensee for resale ordering and link it to the right buyer and
+  seller.
 ---
 
-# How to configure licensees for resale
+# How to configure a licensee for resale
 
-This tutorial describes how SoftwareOne partners can set up resale licensees within the platform.
+This tutorial describes how SoftwareOne partners can set up resale licensees.
 
-Licensees are the entities that use the software products or services procured by the buyer. Partners who wish to order products from the Marketplace and resell them to other organizations must configure these licensees as resale licensees.&#x20;
-
-A resale licensee is defined as a licensee that engages in resale activities, specifically ordering products for resale rather than for their self consumption.
+You must mark a licensee for resale if you want to order products for resale instead of your own consumption.
 
 ### Prerequisites
 
-Make sure you have permissions to create new licensees. Only account administrators can create and manage licensees in the platform.
+Before you start, make sure you have account administrator permissions. Only admins can create new licensees.
 
-### Configuring licensees for reselling products
+### Configuring a licensee for resale
 
 {% stepper %}
 {% step %}
-**Start the Add Licensee** **wizard**
+**Start the Add Licensee wizard**
 
-To start the wizard:
+1. Go to **Settings** > **Licensees**.
+2. Select **Add**.
 
-1. Go to **Settings** > **Licensees**.&#x20;
-2. Select **Add** to start the **Add Licensee** wizard.
-
-<figure><img src="../../../.gitbook/assets/add_licensee_wizard.png" alt=""><figcaption><p>The Add licensee wizard in the platform.</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/add_licensee_wizard.png" alt=""><figcaption><p>The Add licensee wizard in the platform.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
-**Set up your new licensee**
+**Enter the licensee details**
 
 {% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
-1. **General** - Provide the following details, then select **Next**:&#x20;
-   1. **Logo** - (Optional) Add a logo for the licensee. You can upload an image or drag the image into the field.
-   2. **Licensee name** - (Required) Provide a name for the licensee, which could be your company name, department name, or username.&#x20;
-   3. **Resale licensee** - (Optional) Select this checkbox to configure the license as a resale licensee, so they can order software products and services for resale.&#x20;
-   4. **External reference** - (Optional) Enter a reference number or identifier for the licensee.
-   5. **Licensee description** - (Optional) Provide a brief description of the licensee.
-2. **Buyers** - Choose the buying entity you want to link with the license, then select **Next**.&#x20;
-3. **Sellers** - Choose the SoftwareOne entity you want to order from. Only the sellers mapped to the buyer you've selected in the previous step are displayed. When done, select **Next**.
-4. **Contact person** - Choose if you want to assign a contact person to the licensee, then select **Next**:
-   1. **None (leave unassigned)** - Choose this if you don't want to assign a contact person.
-   2. **Select an account user** - Choose this to assign an existing user within your account as the contact person.
-   3. **Add contact details manually** - Choose this to enter the details manually. You'll need to provide the person's name, email address, and optional contact details.
-5. **Address** - Enter the address for the new licensee and select **Next**. Note that the **Create a new licensee address** option is selected by default.&#x20;
-6. **Overview** - Review the details, then select **Add**. The licensee is configured as a resale licensee.
-7. **Summary** - Select **View details** to open the licensee details page. Otherwise, select **Close**.&#x20;
+1. **General** - Enter the licensee details, then select **Next**:
+   1. **Logo** - Upload a logo or drag it into the field.
+   2. **Licensee name** - Enter a name for the licensee. This can be your company name, department name, or username.
+   3. **Resale licensee** - Select this checkbox to use the licensee for resale ordering.
+   4. **External reference** - Enter your internal reference or identifier for the licensee.
+   5. **Licensee description** - Add a short description.
+2. **Buyers** - Select the buyer to link to the licensee, then select **Next**. A licensee can link to one buyer only.
+3. **Sellers** - Select the seller to order from, then select **Next**.
+4. **Address** - Use the same address as the buyer or enter a new one, then select **Next**.
+{% endstep %}
+
+{% step %}
+**Review and create the licensee**
+
+1. **Overview** - Review the details, then select **Add**.
+2. **Summary** - Select **View details** to open the licensee details page, or select **Close**.
 {% endstep %}
 {% endstepper %}
 
-### Next steps <a href="#reseller-discounts" id="reseller-discounts"></a>
+### Next steps
 
-After you have configured the licensee, you can order products for resale through the **Products** page in the platform. See [How to Order Products for Reselling](how-to-order-products-for-resale.md) for details on how to start the ordering process.
+After you create the licensee, you can order products for resale through the **Products** page. For details, see [How to order products for resale](how-to-order-products-for-resale.md).

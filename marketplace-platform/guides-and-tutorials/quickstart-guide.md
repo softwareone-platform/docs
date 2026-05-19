@@ -88,7 +88,7 @@ You can subscribe to email alerts or opt out of notification categories from you
 4. **Save** your changes.
 
 {% hint style="success" %}
-You can also update your preferences using the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to your account. For more details, see [Manage notification preferences](../getting-started/manage-notification-preferences.md).
+You can also update your preferences using the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to your account. For more details, see [Manage notifications](../getting-started/manage-notification-preferences.md).
 {% endhint %}
 
 </details>
@@ -148,7 +148,7 @@ There are two primary ways of finding products in the Marketplace.
 **To find products**
 
 * Use the [global search bar](../getting-started/interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform displays results that match your search term.
-* [Visit the Products page](../../modules-and-features/catalog/product-profiles/).
+* [Visit the Products page](../../modules-and-features/catalog/products.md).
 
 </details>
 
@@ -156,7 +156,7 @@ There are two primary ways of finding products in the Marketplace.
 
 <summary>Start the purchase wizard</summary>
 
-The purchase wizard contains guided steps to submit an order. After you have identified the product to buy, starting the purchase wizard is straightforward.
+The purchase wizard contains guided steps to submit an order. After you have identified the product to buy, you can start the wizard by selecting **Buy now**.
 
 **To start the purchase wizard**
 
@@ -164,7 +164,7 @@ The purchase wizard contains guided steps to submit an order. After you have ide
 2. Review the product details, list of features, and other details.
 3. Select **Buy now**. The purchase wizard starts.
 
-<figure><img src="../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing guided steps to place an order</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard contains guided steps to place an order.</p></figcaption></figure></div>
 
 </details>
 
@@ -185,14 +185,13 @@ The ordering steps might vary slightly depending on the product you are ordering
 
 For product-specific tutorials, see the following pages:
 
-* [Order Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
+* [Order an Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
 * [Order FinOps for Cloud from Marketplace](../../extensions/finops-for-cloud/order-finops-for-cloud-from-marketplace.md)
-* [Order Microsoft 365 subscription for new tenant](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-new-tenant.md)
-* [Order Microsoft 365 subscription for existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
-* [Order Azure subscription for new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
-* [Order Azure subscription for existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
+* [Order a Microsoft 365 subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-new-tenant.md)
+* [Order a Microsoft 365 subscription for the existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
+* [Order an Azure subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
+* [Order an Azure subscription for the existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
 * [Buy perpetual software licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
-* [Create new AWS account](/broken/pages/Lzy5tchyBVnRv1bS44iY)
 
 </details>
 {% endstep %}
@@ -242,7 +241,7 @@ You can adjust the number of licenses for a subscription by submitting a change 
 3. Select **Edit**, then follow the steps in the **Edit subscription** wizard to increase or reduce licenses.
 4. Select **Place order** to submit your change order.
 
-For detailed information, see the following pages:
+For product-specific information, see the following pages:
 
 * [Downsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
 * [Upsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
@@ -273,7 +272,7 @@ Once auto-renewal is disabled, your subscription expires at the end of the commi
 
 ### Next steps <a href="#next-steps" id="next-steps"></a>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Buy more items</strong></td><td>Add more items and licenses to your existing agreement.</td><td><a href="marketplace-for-clients/add-items-to-an-agreement.md">add-items-to-an-agreement.md</a></td></tr><tr><td><strong>Understand your billing documents</strong></td><td>Understand the structure and details of your invoices and statements.</td><td><a href="../../modules-and-features/billing/understand-your-billing-documents/">understand-your-billing-documents</a></td></tr><tr><td><strong>View and download invoices</strong></td><td>Access your Marketplace invoice PDFs.</td><td><a href="../../modules-and-features/marketplace/billing/invoices/download-invoices.md">download-invoices.md</a></td></tr><tr><td><strong>View and download statements</strong></td><td>Access your statement Excel files.</td><td><a href="../../modules-and-features/marketplace/billing/statements/download-statements.md">download-statements.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="marketplace-for-clients/add-items-to-an-agreement.md">Add more items to an existing agreement</a></td><td>Add more software items and licenses to your existing agreement.</td><td><a href="marketplace-for-clients/add-items-to-an-agreement.md">add-items-to-an-agreement.md</a></td></tr><tr><td><a href="../../modules-and-features/billing/understand-your-billing-documents/">Understand your billing documents</a></td><td>Understand the structure and details of your invoices and statements.</td><td><a href="../../modules-and-features/billing/understand-your-billing-documents/">understand-your-billing-documents</a></td></tr><tr><td><a href="../../modules-and-features/marketplace/billing/invoices/download-invoices.md">View and download invoices</a></td><td>Access your Marketplace invoice PDFs.</td><td><a href="../../modules-and-features/marketplace/billing/invoices/download-invoices.md">download-invoices.md</a></td></tr><tr><td><a href="../../modules-and-features/marketplace/billing/statements/download-statements.md">Download statements</a></td><td>Download your statement Excel files.</td><td><a href="../../modules-and-features/marketplace/billing/statements/download-statements.md">download-statements.md</a></td></tr></tbody></table>
 
 ### FAQs
 
@@ -301,7 +300,6 @@ For details on self-managing your subscriptions and agreements, including termin
 
 * [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/tutorials-and-videos/)
 * [Microsoft 365](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/)
-* [Amazon Web Services](/broken/pages/Btg34lpm9Rp1d1yxikaP)
 
 </details>
 
@@ -319,7 +317,7 @@ Yes, you can download the [OpenAPI 3.0 specification](../../developer-resources/
 
 Partner accounts include all the features and functionalities of client accounts, along with additional features to facilitate transactions and procurement for reselling software.
 
-The [Marketplace for Partners](marketplace-for-partners/) section contains a video guide and help pages describing how to use the Marketplace Platform as a SoftwareOne partner.
+The [Marketplace for partners](marketplace-for-partners/) section contains a video guide and help pages on how to use the platform as a SoftwareOne partner.
 
 </details>
 
@@ -330,7 +328,7 @@ The [Marketplace for Partners](marketplace-for-partners/) section contains a vid
 If you need more information, see the following pages for detailed answers and resources:
 
 * [Adobe VIPM Marketplace FAQs](../../extensions/adobe-vip-marketplace/faqs/)
-* [Amazon Web Services FAQs](/broken/pages/oCVohjskTvHyL8JQ1cEM)
+* [Amazon Web Services FAQs](../../extensions/amazon-web-services/faqs.md)
 * [Microsoft CSP FAQs](../../extensions/microsoft-cloud-solution-provider/faqs/)
 * [Platform FAQs](../../help-and-support/faqs/)
 * [Partner FAQs](marketplace-for-partners/partner-faqs.md)

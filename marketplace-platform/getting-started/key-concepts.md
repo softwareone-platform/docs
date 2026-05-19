@@ -27,24 +27,20 @@ Actors are different entities that interact with the platform for procurement, f
 
 #### Users
 
-A user is an individual who can sign in to the platform using their credentials and perform operations according to their permissions.&#x20;
+A user is an individual who can sign in to the platform using their credentials and perform operations according to their permissions. Users include both individual users and admins managing account-wide configuration and properties.&#x20;
 
-Users include both individual users and admins responsible for managing account-wide configuration and properties.&#x20;
+The SoftwareOne Marketplace allows users to belong to multiple accounts or have no account at all. Additionally:
 
-In the SoftwareOne Marketplace, users can also belong to multiple accounts or have no account at all. Additionally:
+* Users with multiple accounts can switch between them without signing out.
+* Users who don't belong to any account have limited capabilities. Such users can only sign in and adjust their profile settings. They cannot access any module.
 
-* Users with multiple accounts can switch between them without signing out of the platform.
-* Users who don't belong to any account have limited capabilities. Such users can only sign in to the platform and adjust their profile settings. They cannot access any module.
-
-To learn more about users and how to manage them as an account admin, see [Users](../../modules-and-features/settings/users/).
+To learn more about user management, see [Users](../../modules-and-features/settings/users/).
 
 #### Account
 
-&#x20;An account represents a company or an organization using the Marketplace Platform.&#x20;
+&#x20;An account represents a company or an organization using the platform. The platform supports the following account types:&#x20;
 
-The platform supports the following account types:&#x20;
-
-* **Client account** - Represents an account used by our clients and partners to establish agreements and procure software solutions for their enterprises.
+* **Client account** - Represents an account used by clients and partners to establish agreements and procure software solutions for their enterprises.
 * **Vendor account** - Represents an account used by vendors to define the product structure and configuration, and make those products available for ordering through the Marketplace.&#x20;
 * **Operations account** - Represents an account used by SoftwareOne associates.
 
@@ -62,11 +58,9 @@ A group facilitates the management of permissions within an account.&#x20;
 
 Groups contain users, and all users within a group share the same role and permissions. This means that permissions are assigned at the group level, rather than individually to each user.
 
-You can create multiple groups and add users to these groups. Users can belong to several groups simultaneously; for example, they can belong to both the Administrator and Finance groups.&#x20;
+You can create multiple groups and add users to these groups. Users can also belong to several groups simultaneously; for example, they can be in both the Administrator and Finance groups. Additionally, they can have different roles across different accounts, such as being an Operations user in one account and an Administrator in another.&#x20;
 
-Additionally, they can also have different roles across different accounts, such as being an Operations user in one account and an Administrator in another.&#x20;
-
-To learn more about users and how to manage them as an account admin, see [Groups](../../modules-and-features/settings/groups/).
+To learn more about creating and managing groups, see [Groups](../../modules-and-features/settings/groups/).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_multiple_groups.png" alt=""><figcaption><p>A user can belong to multiple groups within an account.</p></figcaption></figure></div>
 
@@ -74,23 +68,23 @@ To learn more about users and how to manage them as an account admin, see [Group
 
 #### Seller <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-A seller is a SoftwareOne entity that buys software solutions from a vendor, like Microsoft, and sells them to clients and partners. For example, SoftwareOne Canada.
+A seller is a SoftwareOne entity that buys software solutions from vendors, like Microsoft, and sells them to clients and partners. Examples include SoftwareOne Canada, SoftwareOne UK, and more.
 
 Sellers are responsible for issuing invoices to the buyer entities of clients and partners. They act as an intermediary in the transaction process.
 
-Account admins can view all sellers on the [Sellers](../../modules-and-features/settings/sellers/) page in the platform.
+Account admins can view the sellers on the [Sellers](../../modules-and-features/settings/sellers/) page.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Sellers within the Marketplace Platform.</p></figcaption></figure></div>
 
 #### Buyers <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-Buyers are responsible for engaging in commercial activities with sellers.
+Buyers are responsible for engaging in commercial activities with sellers.&#x20;
 
-Buyers are also the recipients of invoices issued by SoftwareOne, and are essential for placing orders, creating agreements, and ordering subscriptions.&#x20;
+They are also the recipients of invoices issued by SoftwareOne, and are essential for placing orders, creating agreements, and ordering subscriptions.&#x20;
 
-Account admins can view and manage buyers through the [Buyers](../../modules-and-features/settings/buyers/) page.
+Account admins can view and manage buyers from the [Buyers](../../modules-and-features/settings/buyers/) page.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1093).png" alt=""><figcaption><p>Buyers within the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1093).png" alt=""><figcaption><p>Buyers engage in commercial activites with sellers.</p></figcaption></figure></div>
 
 #### Licensees
 
@@ -98,11 +92,9 @@ A licensee is a specific person or a department within an organization that cons
 
 Licensees receive the license to use the product, and they are critical in establishing agreements alongside buyers and sellers.&#x20;
 
-There can be multiple licensees within an account, but each licensee can only be connected to one buyer and one seller at a time.
+There can be multiple licensees within an account, but each licensee can only be connected to one buyer and one seller at a time. Account admins can view and manage licensees from the [Licensees ](../../modules-and-features/settings/licensees/)page.&#x20;
 
-Account admins can view and manage licensees through the [Licensees ](../../modules-and-features/settings/licensees/)page.&#x20;
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Licensees in the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Licensee consumes the service.</p></figcaption></figure></div>
 
 ### Agreements, Orders, and Subscriptions
 
@@ -114,7 +106,7 @@ They are foundational for placing orders and creating subscriptions. They also e
 
 All agreements are listed on the [Agreements](../../modules-and-features/marketplace/agreements/) page, allowing you to view and manage them easily.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption><p>Agreements are required to place an order through the platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption><p>Agreements are mandatory for placing an order.</p></figcaption></figure></div>
 
 #### Order
 
@@ -133,19 +125,19 @@ You can view, track, and manage your orders from the [Orders](../../modules-and-
 
 A subscription is a service provisioned over a specified period.&#x20;
 
-Subscriptions are associated with an agreement, and there can be single or multiple subscriptions within that agreement.&#x20;
+Subscriptions are associated with an agreement, and an agreement can contain one or more subscriptions.&#x20;
 
 Changes to a subscription can only be made through an order. For example, to terminate a subscription, you must place a termination order. Similarly, to add more licenses, you must submit a change order.&#x20;
 
 Direct modifications to a subscription are not allowed without placing an order. All subscriptions are listed on the [Subscriptions](../../modules-and-features/marketplace/subscriptions/) page in the platform.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_subscriptions.png" alt=""><figcaption><p>Subscriptions in the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_subscriptions.png" alt=""><figcaption><p>Subscription is a service provisioned over a specified period.</p></figcaption></figure></div>
 
 ### Products, Items, and Parameters
 
 #### Product
 
-A product is a solution or service provided by a vendor through the SoftwareOne Marketplace. Examples include **Adobe VIP Marketplace for Commercial**, **Microsoft 365 Business, Enterprise & Apps - Education**, and so on.&#x20;
+A product is a solution or service provided by a vendor through the SoftwareOne Marketplace. Examples of products include Adobe VIP Marketplace for Commercial, Microsoft 365 Business, Enterprise & Apps - Education, and so on.&#x20;
 
 Each product consists of individual items and parameters set by vendors. Additionally, products include a detailed description, a list of purchasable items, and supporting resources such as media files, terms and conditions, and price lists to assist you.&#x20;
 
@@ -153,11 +145,11 @@ You can explore products, make purchases, and review details on the [Products](.
 
 #### Items&#x20;
 
-An item refers to an individual stock-keeping unit (SKU) within a product. These are the specific line items that you select during the ordering process. There can be several items within a product, each with its own name and price.&#x20;
+An item refers to an individual stock-keeping unit (SKU) within a product. A product can contain several items, each with its own name and price.&#x20;
 
-For example, within the **Microsoft 365 Business, Enterprise & Apps - Education** product, you may find items, such as Copilot for Microsoft 365 (Education Student 13+), Defender Threat Intelligence (Education Student Pricing), Microsoft 365 A3 (Education Student Pricing), and more.&#x20;
+For example, within the Microsoft 365 Business, Enterprise & Apps - Education product, you may find items, such as Copilot for Microsoft 365 (Education Student 13+), Defender Threat Intelligence (Education Student Pricing), Microsoft 365 A3 (Education Student Pricing), and more.&#x20;
 
-You can view the list of items on the [Items](../../modules-and-features/catalog/items.md) page, within the **Items** tab on the product detaIls page, and during the ordering process in the purchase wizard.
+The [Items](../../modules-and-features/catalog/items.md) page displays a list of individual items. You can also view items on the **Items** tab within the product details page. You can add items to your order when placing an order through the platform.
 
 #### Parameters
 
@@ -175,7 +167,7 @@ Price lists are created by vendors and are specific to particular regions and se
 
 The Listing object is created by SoftwareOne associates after they have reviewed the product. This object connects the product price list with the seller, ultimately making the product available for purchase in the Marketplace.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption><p>Price List in the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1100).png" alt=""><figcaption><p>Price lists contains pricing information for each item in the product.</p></figcaption></figure></div>
 
 ### Notifications
 

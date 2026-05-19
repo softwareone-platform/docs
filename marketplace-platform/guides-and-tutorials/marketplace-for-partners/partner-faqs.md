@@ -10,7 +10,7 @@ description: Find answers to all frequently asked questions for partners.
 
 <summary>My certificate has expired. Can I renew it?</summary>
 
-If your certificate has expired, it's no longer valid and can't be used for transactions.
+If your certificate has expired, it's no longer valid and cannot be used for transactions.
 
 You can renew an expired certificate by re-enrolling in the program.
 
@@ -20,7 +20,7 @@ You can renew an expired certificate by re-enrolling in the program.
 
 <summary>Why is my certificate pending?</summary>
 
-A certificate will remain pending if there are issues with your enrollment. For example, if the MPN ID you provided during enrollment is invalid, and requires correction.
+A certificate will remain pending if there are issues with your enrollment. For example, if the MPN ID you provided during enrollment is invalid.
 
 If your certificate is pending, the **General** tab on the certificate details page will describe the steps you need to take so we can process your enrollment.
 
@@ -30,7 +30,7 @@ If your certificate is pending, the **General** tab on the certificate details p
 
 <summary>I am encountering error messages when creating certificates.</summary>
 
-The Marketplace Platform displays an error during the certificate creation process if specific requirements are not met. For further information, see [I'm getting errors when creating certificates or CSP orders](../../../extensions/microsoft-cloud-solution-provider/additional-resources/faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md).
+The platform displays an error during the certificate creation process if specific requirements are not met. For further information, see [I'm getting errors when creating certificates or CSP orders](../../../extensions/microsoft-cloud-solution-provider/additional-resources/faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md).
 
 </details>
 
@@ -40,9 +40,9 @@ The Marketplace Platform displays an error during the certificate creation proce
 
 <summary>Where can I see my orders?</summary>
 
-You can view your order history on the **Orders** page in the platform.
+You can view your order history on the **Orders** page.
 
-To view the details for a specific order, select the order number on the **Orders** page. For information on how to access and manage orders, see [Orders](../../../modules-and-features/marketplace/orders/).&#x20;
+To view the details for a specific order, select the order. For information on accessing and managing orders, see [Orders](../../../modules-and-features/marketplace/orders/).&#x20;
 
 </details>
 
@@ -55,9 +55,9 @@ The Marketplace Platform supports the following types of orders:
 * **Purchase orders** - An order to buy a new product or service by establishing a new agreement.
 * **Change orders** - An order to change the quantity, such as downsizing the quantity of licenses or ordering additional licenses.
 * **Termination orders** - An order to terminate an active subscription or an agreement.
-* **Configuration orders** - An order to enable or disable the auto-renewal of a subscription.
+* **Configuration orders** - An order to enable or disable the automatic renewal of a subscription.
 
-To learn more about marketplace orders, see [Orders](../../../modules-and-features/marketplace/orders/).
+For more details, see [Orders](../../../modules-and-features/marketplace/orders/).
 
 </details>
 
@@ -67,7 +67,7 @@ To learn more about marketplace orders, see [Orders](../../../modules-and-featur
 
 An order can remain **Querying** due to issues with the ordering parameters, such as the domain name, or if a required action has not been completed.
 
-If there's an issue with your order, the **General** tab on the order details page will highlight the issue and provide the steps you must take to ensure your order moves to the next stage.
+If there's an issue with your order, the **General** tab on the order details page will highlight the issue and the steps you must take to ensure your order moves to the next stage.
 
 For example, if the GDAP relationship request needs to be accepted or the domain name needs updating, the **General** tab will guide you through the next steps.
 
@@ -79,11 +79,12 @@ For example, if the GDAP relationship request needs to be accepted or the domain
 
 If the domain name or tenant ID needs adding or updating, follow these steps:
 
-1. Navigate to the **Orders** page, then select the required order.&#x20;
-2. On the order details page, select the **Parameters** tab.&#x20;
-3. In the **Ordering** section, select **Edit**. Then, add or update the **Existing domain name** or **Primary domain name** fields as needed.&#x20;
-4. Select **Save**.&#x20;
-5. Select **Process** in the upper right to resume order processing. To learn more, see [Change Your Order's Status to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).
+1. Go to **Marketplace** > **Orders**.
+2. Select the required order.&#x20;
+3. On the order details page, select the **Parameters** tab.&#x20;
+4. In the **Ordering** section, select **Edit**. Then, add or update the **Existing domain name** or **Primary domain name** fields as necessary.&#x20;
+5. Select **Save**.&#x20;
+6. Select **Process** in the upper right to resume order processing.
 
 {% hint style="info" %}
 When updating the name, make sure that your primary domain name or tenant ID matches the details in the Microsoft 365 Admin Center or Microsoft Azure Management Portal.
@@ -97,7 +98,7 @@ When updating the name, make sure that your primary domain name or tenant ID mat
 
 Your MPN and Indirect Reseller IDs are displayed on the **Parameter** tab within the certificate details. To view these IDs, follow these steps:
 
-1. Navigate to the **Certificates** page in the platform.
+1. Open the **Certificates** page.
 2. Select the desired certificate.
 3. On the certificate details page, select the **Parameters** tab.
 
@@ -115,9 +116,9 @@ An incorrect MPN or Indirect Reseller ID prevents your Marketplace order from mo
 
 <summary>How can I become a SoftwareOne partner?</summary>
 
-For information about SoftwareOne Partner Programs, visit  [https://www.softwareone.com/en/partner-programs](https://www.softwareone.com/en/partner-programs) and fill out the contact form.
+For information about SoftwareOne Partner Programs, visit  [https://www.softwareone.com/en/partner-programs](https://www.softwareone.com/en/partner-programs) and complete the contact form.
 
-After submitting the form, a SoftwareOne representative will contact you.
+A SoftwareOne representative will then contact you.
 
 </details>
 
@@ -125,7 +126,7 @@ After submitting the form, a SoftwareOne representative will contact you.
 
 <summary>I am an existing partner, and my account has been migrated from the Partner Portal to the Marketplace Platform. What do I need to know to get started?</summary>
 
-If your account has been recently migrated, sign in to your Marketplace account and complete these steps:
+If your account has been recently migrated, sign in to the SoftwareOne Marketplace and complete these steps:
 
 1. &#x20;[Enroll in the SoftwareOne CSP partner program](how-to-enroll-in-the-softwareone-csp-partner-program.md). Once the enrollment is completed, you receive a certificate. This certificate must be selected when ordering CSP products from the Marketplace.
 2. [Configure licensees for reselling products to your end customers](how-to-configure-licensees-for-resale.md). Licensees are the end-users or consumers of the product. To order products from the Marketplace and resell them to other organizations, you must set up these licensees as resale licensees. Licensee selection is required during the ordering process.
@@ -138,9 +139,9 @@ If your account has been recently migrated, sign in to your Marketplace account 
 
 The SoftwareOne CSP Partner Program is for SoftwareOne partners to ensure compliance with our terms and conditions.
 
-All SoftwareOne partners are required to enroll in this program to obtain a compliance certificate, which is linked to all CSP products in the Marketplace. Enrollment must be completed before any purchases can be made.
+All SoftwareOne partners must enroll in this program to obtain a compliance certificate, which is linked to all CSP products in the Marketplace. Enrollment must be completed before placing an order.
 
-When you are enrolled in the program, a compliance certificate is generated. You must select this certificate when ordering CSP products and services.
+Once you are enrolled, a compliance certificate is generated. You must select this certificate when ordering CSP products and services.
 
 </details>
 
@@ -148,7 +149,7 @@ When you are enrolled in the program, a compliance certificate is generated. You
 
 <summary>What happens if I don't enroll in the SoftwareOne CSP Partner Program?</summary>
 
-Enrolling in the SoftwareOne CSP Partner Program is necessary to ensure compliance with all the terms and conditions.&#x20;
+Enrolling in the SoftwareOne CSP Partner Program is mandatory to ensure compliance with all terms and conditions.&#x20;
 
 If you don't complete the enrollment, you won't be able to order CSP products for resale to your customers.
 
@@ -160,7 +161,7 @@ If you don't complete the enrollment, you won't be able to order CSP products fo
 
 <summary>How do I set up a resale licensee?</summary>
 
-You can set up a licensee from the **Licensees** page, available under **Settings** in the main navigation menu. For details, see [How to Configure Licensees for Resale](how-to-configure-licensees-for-resale.md).
+You can set up a resale licensee from the **Licensees** page. For details, see [How to configure licensees for resale](how-to-configure-licensees-for-resale.md).
 
 </details>
 
@@ -168,9 +169,9 @@ You can set up a licensee from the **Licensees** page, available under **Setting
 
 <summary>Can I invite users to my account?</summary>
 
-Account administrators can add new users from the **Users** page, available under **Settings** in the main navigation menu.&#x20;
+Account administrators can add new users from the **Users** page, available under **Settings** in the main menu.&#x20;
 
-To invite someone, you'll need their first and last name, as well as their email address. For details, see [Add new users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
+To invite someone, you'll need their first and last name and their email address. For details, see [Add new users](../../../modules-and-features/settings/users/add-new-users.md).&#x20;
 
 </details>
 
@@ -180,7 +181,7 @@ To invite someone, you'll need their first and last name, as well as their email
 
 Individual users can manage notifications for their profile through the **My profile** option in their account. For details, see [Manage notification preferences](../../getting-started/manage-notification-preferences.md).
 
-Account administrators can configure and manage notifications at the account level through the **Notifications** feature, available under **Settings** in the main navigation menu. For details, see [Enable or disable categories](../../../modules-and-features/settings/notifications/enable-or-disable-categories.md).
+Account administrators can configure and manage notifications at the account level from the **Notifications** page. For details, see [Enable or disable categories](../../../modules-and-features/settings/notifications/enable-or-disable-categories.md).
 
 </details>
 
@@ -190,9 +191,9 @@ Account administrators can configure and manage notifications at the account lev
 
 <summary>Can I create or manage pricelists?</summary>
 
-You cannot create or manage price lists. You can only view the existing ones.&#x20;
+You cannot create or manage price lists. You can only view them.&#x20;
 
-All price lists are available on the **Price lists** page, located under the **Catalog** in the main navigation menu. Additionally, price lists are also available under the **Pricing** section on the product details page.
+All price lists are available on the **Catalog** > **Price lists** page. Price lists are also available under the **Pricing** section on the details page of a product.
 
 </details>
 
@@ -200,9 +201,9 @@ All price lists are available on the **Price lists** page, located under the **C
 
 <details>
 
-<summary>How do I view the products in the SoftwareOne Marketplace?</summary>
+<summary>How do I view products in the SoftwareOne Marketplace?</summary>
 
-You can view the products by selecting **Catalog** > **Products** from the main menu.
+You can view products by selecting **Catalog** > **Products** from the main menu.
 
 </details>
 
@@ -212,8 +213,8 @@ You can view the products by selecting **Catalog** > **Products** from the main 
 
 To buy products for resale to your customers:
 
-1. Navigate to the **Products** page.
-2. Select the product you want to buy. Then, select **Buy Now** to start the purchase wizard.
+1. Open the **Products** page.
+2. Select the product you want to buy. Then, select **Buy Now**.
 3. Follow the steps in the purchase wizard. Make sure to create a new agreement or select an existing one, select a preconfigured resale licensee, and choose your certificate.
 4. Complete the remaining steps in the wizard to place your order.
 
@@ -225,7 +226,7 @@ For detailed instructions, see [How to order products for resale](how-to-order-p
 
 <summary>What should I do if my resale licensee is not showing up during the ordering process?</summary>
 
-Make sure that your account as a reseller is properly configured and that your resale licensee information is correctly set up. For details, see the following links:
+Make sure your account is properly configured and that your resale licensee information is correctly set up. For details, see the following links:
 
 * [How to verify if your account has partner capabilities](how-to-verify-if-your-account-has-partner-capabilities.md)
 * [How to configure licensees for resale](how-to-configure-licensees-for-resale.md)
@@ -238,9 +239,9 @@ If you still face issues, contact [Marketplace Platform Support](../../../help-a
 
 <summary>How do I create a new domain or add an existing one for my CSP customer?</summary>
 
-When placing an order, you can choose to add an existing Microsoft account domain or create a new one.&#x20;
+When placing an order, you can either add an existing Microsoft account domain or create a new one.&#x20;
 
-If you decide to connect an existing account, a global administrator for the Microsoft account must accept the relationship request.
+If you connect an existing account, a global administrator for the Microsoft account must accept the relationship request.
 
 </details>
 
@@ -263,7 +264,7 @@ A message is also displayed in the **Ordering** section under the **Parameters**
 The following restrictions apply to CSP products:
 
 * You cannot create new agreements using the same CSP domain across multiple clients.
-* Creating agreements using the same CSP tenant, product, and licensee is also prohibited. If an agreement already exists, you must update the existing agreement to request new subscriptions instead of creating a new one.
+* Creating agreements using the same CSP tenant, product, and licensee is also not allowed. If an agreement already exists, you must update that agreement to request new subscriptions, instead of creating a new one.
 
 </details>
 
@@ -273,9 +274,9 @@ The following restrictions apply to CSP products:
 
 According to Microsoft, a company registration ID is required when purchasing subscriptions for customers in specific countries/regions. For details, see the [Microsoft Partner Center documentation](https://learn.microsoft.com/en-us/partner-center/account-settings/reg-number-id).
 
-In the Marketplace Platform, a registration ID is required only when creating a new cloud account for a new customer as part of the ordering process.&#x20;
+In the Marketplace, a registration ID is required only when creating a new cloud account for a new customer when placing an order.
 
-If you are purchasing additional licenses for an existing customer or making modifications to an agreement, providing the registration ID is optional.
+If you are purchasing additional licenses for an existing customer or making modifications to an agreement, a registration ID is optional.
 
 </details>
 
@@ -283,7 +284,7 @@ If you are purchasing additional licenses for an existing customer or making mod
 
 <summary>My customer doesn't have a Company Registration ID.</summary>
 
-If your end customer is an individual without a Company Registration ID, you can collect an equivalent tax identification number and provide it during the ordering process.&#x20;
+If your end customer is an individual without a Company Registration ID, you can collect an equivalent tax identification number.
 
 To see which countries or regions require a registration ID number, see the [Microsoft Partner Center documentation](https://learn.microsoft.com/en-us/partner-center/account-settings/reg-number-id).
 
@@ -297,7 +298,7 @@ To see which countries or regions require a registration ID number, see the [Mic
 
 You can adjust the number of licenses by placing a change order. Certain restrictions apply when adjusting the quantity.
 
-For details, see [How to change the number of licenses](../marketplace-for-clients/adjust-subscription-quantity.md).
+For details, see [How to increase or reduce licenses](../marketplace-for-clients/adjust-subscription-quantity.md).
 
 </details>
 
@@ -311,7 +312,7 @@ Use the following methods to track upcoming renewals:
 * Apply the **Renewal date** filter in the data grid. You can also sort subscriptions based on their renewal date.&#x20;
 * Open an individual subscription to check the renewal date.
 
-Marketplace subscriptions renew automatically unless you disable the automatic renewal.
+Marketplace subscriptions renew automatically unless you disable automatic renewal.
 
 </details>
 
@@ -321,7 +322,7 @@ Marketplace subscriptions renew automatically unless you disable the automatic r
 
 Yes, you can disable the auto-renewal by placing a configuration order.&#x20;
 
-For details on how to place a change order, see [Manage automatic renewals](../../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+For details, see [Manage automatic renewals](../../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
 
 </details>
 
@@ -329,7 +330,7 @@ For details on how to place a change order, see [Manage automatic renewals](../.
 
 <summary>Can I rename a subscription?</summary>
 
-Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptions for easier identification. For details on renaming subscriptions, see [Edit subscription name](../../../modules-and-features/marketplace/subscriptions/rename-a-subscription.md).
+Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptions for easier identification. For details, see [Edit subscription name](../../../modules-and-features/marketplace/subscriptions/rename-a-subscription.md).
 
 </details>
 
@@ -339,7 +340,7 @@ Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptio
 
 Subscriptions can be terminated by placing a termination order.
 
-* To cancel all subscriptions in an agreement, you must place a termination order for the entire agreement. For details, see [Terminate agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
-* To cancel some, but not all, subscriptions in an agreement, you must place a termination order for the subscription. For details, see [Terminate subscription](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
+* To cancel all subscriptions in an agreement, place a termination order for the entire agreement. For details, see [Terminate agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
+* To cancel specific subscriptions in an agreement, place a termination order for the subscription. For details, see [Terminate subscription](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
 
 </details>
