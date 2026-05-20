@@ -12,29 +12,26 @@ We recommend that you familiarize yourself with the terminology, as it's often r
 
 SoftwareOne Marketplace seamlessly brings together various actors to facilitate the buying, selling, provisioning, and billing of software products.&#x20;
 
-Actors are different entities that interact with the platform for procurement, fulfillment, and other platform-specific operations.&#x20;
+Actors are entities that interact with the platform for procurement, fulfillment, and other platform-specific operations.&#x20;
 
-* **Vendors** - A vendor is a company or person from whom SoftwareOne buys software solutions. Vendors develop and sell their products and services. Examples include Microsoft, Dropbox, and more.
-* **Distributors** - A distributor is an entity that resells software solutions sourced from multiple vendors to resellers. Distributors facilitate software procurement when direct relationships with vendors are not feasible.
-* **Associates** - Internal SoftwareOne associates who administer the business network. Our associates are involved in various processes throughout your journey with both SoftwareOne and the platform.
-* **Partners** - Partners represent entities or businesses that buy products or services from SoftwareOne for resale to other businesses.&#x20;
-* **Clients** - A client is a company or organization that uses our platform to buy software products for their own use or direct consumption.
-* **Developers and systems integrators** - Developers and systems integrators are entities that build integrations within the business network.
+* **Vendors** - Company or person from whom SoftwareOne buys software solutions. Vendors develop and sell their products and services. Examples include Microsoft, Dropbox, Adobe, and more.
+* **Distributors** - Entity that resells software solutions sourced from vendors to resellers. Distributors facilitate software procurement when direct relationships with vendors aren't feasible.
+* **Associates** - Internal SoftwareOne associates who administer the business network. Associates are involved in various processes throughout your journey and interaction with SoftwareOne.
+* **Partners** - Entities or businesses that buy products or services from SoftwareOne for reselling to other businesses.&#x20;
+* **Clients** - Company or organization that uses our platform to buy software products for their own use or direct consumption.
+* **Developers and systems integrators** - Entities that build integrations within the business network.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>Vendors, distributors, associates, partners, and clients are the key actors.</p></figcaption></figure></div>
 
 ### Users, Accounts, and Groups  <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
-#### Users
+#### User
 
-A user is an individual who can sign in to the platform using their credentials and perform operations according to their permissions. Users include both individual users and admins managing account-wide configuration and properties.&#x20;
+A user is an individual who can sign in to the platform using their credentials and perform operations according to their permissions.&#x20;
 
-The SoftwareOne Marketplace allows users to belong to multiple accounts or have no account at all. Additionally:
+Users include both individual users and admins managing account settings. They can belong to multiple accounts or no account at all. Additionally, they can switch between accounts without signing out.
 
-* Users with multiple accounts can switch between them without signing out.
-* Users who don't belong to any account have limited capabilities. Such users can only sign in and adjust their profile settings. They cannot access any module.
-
-To learn more about user management, see [Users](../../modules-and-features/settings/users/).
+Users who don't belong to any account have limited capabilities. Such users can only sign in and adjust their profile settings. They cannot access any module. To learn more, see [Users](../../modules-and-features/settings/users/).
 
 #### Account
 
@@ -72,11 +69,11 @@ A seller is a SoftwareOne entity that buys software solutions from vendors, like
 
 Sellers are responsible for issuing invoices to the buyer entities of clients and partners. They act as an intermediary in the transaction process.
 
-Account admins can view the sellers on the [Sellers](../../modules-and-features/settings/sellers/) page.
+Account admins can view all sellers on the [Sellers](../../modules-and-features/settings/sellers/) page.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1092).png" alt=""><figcaption><p>Sellers within the Marketplace Platform.</p></figcaption></figure></div>
 
-#### Buyers <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
+#### Buyer <a href="#portals-accounts-and-users" id="portals-accounts-and-users"></a>
 
 Buyers are responsible for engaging in commercial activities with sellers.&#x20;
 
@@ -84,15 +81,17 @@ They are also the recipients of invoices issued by SoftwareOne, and are essentia
 
 Account admins can view and manage buyers from the [Buyers](../../modules-and-features/settings/buyers/) page.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1093).png" alt=""><figcaption><p>Buyers engage in commercial activites with sellers.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1093).png" alt=""><figcaption><p>Buyers engage in commercial activities with sellers.</p></figcaption></figure></div>
 
-#### Licensees
+#### Licensee
 
 A licensee is a specific person or a department within an organization that consumes the product or service procured by the buyer.&#x20;
 
 Licensees receive the license to use the product, and they are critical in establishing agreements alongside buyers and sellers.&#x20;
 
-There can be multiple licensees within an account, but each licensee can only be connected to one buyer and one seller at a time. Account admins can view and manage licensees from the [Licensees ](../../modules-and-features/settings/licensees/)page.&#x20;
+There can be multiple licensees within an account, but each licensee can only be connected to one buyer and one seller at a time.&#x20;
+
+Account admins can view and manage licensees from the [Licensees ](../../modules-and-features/settings/licensees/)page.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (1094).png" alt=""><figcaption><p>Licensee consumes the service.</p></figcaption></figure></div>
 
@@ -102,7 +101,7 @@ There can be multiple licensees within an account, but each licensee can only be
 
 An agreement outlines the relationship between entities, such as the seller, buyer, and licensee. &#x20;
 
-They are foundational for placing orders and creating subscriptions. They also establish the terms and conditions under which transactions occur. Placing an order without an agreement is not allowed.&#x20;
+They are foundational for placing orders through the platform and creating subscriptions. They also establish the terms and conditions under which transactions occur.&#x20;
 
 All agreements are listed on the [Agreements](../../modules-and-features/marketplace/agreements/) page, allowing you to view and manage them easily.
 
@@ -143,7 +142,7 @@ Each product consists of individual items and parameters set by vendors. Additio
 
 You can explore products, make purchases, and review details on the [Products](../../modules-and-features/catalog/products.md) page.&#x20;
 
-#### Items&#x20;
+#### Item
 
 An item refers to an individual stock-keeping unit (SKU) within a product. A product can contain several items, each with its own name and price.&#x20;
 
@@ -151,7 +150,7 @@ For example, within the Microsoft 365 Business, Enterprise & Apps - Education pr
 
 The [Items](../../modules-and-features/catalog/items.md) page displays a list of individual items. You can also view items on the **Items** tab within the product details page. You can add items to your order when placing an order through the platform.
 
-#### Parameters
+#### Parameter
 
 A parameter is structured data used by vendors to collect information during the ordering process.&#x20;
 

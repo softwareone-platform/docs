@@ -18,7 +18,7 @@ The header is always visible as you move through the platform.&#x20;
 
 <summary>Main menu</summary>
 
-The main menu gives you access to the modules enabled for your account. Select <i class="fa-bars">:bars:</i> **Home** in the header to open it.
+The main menu gives you access to the modules enabled for your account. Select <i class="fa-bars">:bars:</i> **Home** to open it.
 
 The menu label changes with your current context. For example, it shows **Billing** on invoice pages and **Marketplace** on subscription pages.
 
@@ -36,9 +36,9 @@ Use **Search** to find orders, agreements, subscriptions, invoices, and other re
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/search.png" alt=""><figcaption><p>Use the Search bar to find your orders, invoices, and much more.</p></figcaption></figure></div>
 
-You can also search documentation, including tutorials, FAQs, and procedures. For example, search for `manage subscriptions` to open related guidance.
+You can also search for documentation, including tutorials, FAQs, and procedures.&#x20;
 
-Start by choosing a category. Then enter a full or partial name or ID.
+To search, start by choosing a category. Then enter a full or partial name or ID.
 
 For example, to find an agreement, select **Agreements** and enter the full ID, such as `AGR-8981-7039-6781`, or a partial value, such as `6781`.
 
@@ -52,7 +52,7 @@ The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" dat
 
 * **Documentation** shows recommended help topics. Select **View all** to open the full documentation set.
 * **Need help?** opens the **Get help** wizard for platform questions or issues.
-* **Send feedback** lets you share comments and suggestions. For details, see [Share feedback](../../../help-and-support/share-feedback.md).
+* **Send feedback** lets you share comments and suggestions with us. For details, see [Share feedback](../../../help-and-support/share-feedback.md).
 
 </details>
 
@@ -60,9 +60,9 @@ The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" dat
 
 <summary>Spotlight</summary>
 
-The **Spotlight** option <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> highlights items that need action.
+The **Spotlight** option <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> shows all items that need action.
 
-Examples include expiring subscriptions and orders waiting for more information.
+Examples include expiring subscriptions, pending orders, overdue invoices, and more. For more details, see [Spotlight widget](view-pending-tasks.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>Use the spotlight widget to view and manage urgent tasks.</p></figcaption></figure></div>
 
@@ -72,15 +72,11 @@ Examples include expiring subscriptions and orders waiting for more information.
 
 <summary>Profile menu</summary>
 
-Use the profile menu to manage your account and personal settings.
-
-Select **My profile** to open your profile settings.
-
-If you belong to multiple accounts, the menu also includes an account switcher. You can:
+Use the profile menu to manage your profile settings. From here, you can also:&#x20;
 
 * Search for an account by name or ID.
-* Switch accounts from the list. For details, see [Switch accounts](../switch-account.md).
-* Use the **Favorites** and **Recents** tabs for faster access.
+* Switch to another account without signing out. For details, see [Switch accounts](../switch-account.md).
+* Add an account to your **Favorites** and access that account from the **Recents** tabs for faster access. For details, see [Using favorites](../mark-favorite-pages.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Use the profile menu to access your profile, manage settings, switch accounts, and more.</p></figcaption></figure></div>
 
@@ -94,9 +90,9 @@ The widgets on the **Home** page give you quick access to key information.
 
 <summary>Spotlight widget</summary>
 
-The **Spotlight** widget shows platform objects that need attention. These include agreements, orders, subscriptions, invoices, and more.
+The **Spotlight** widget shows all items that need attention. Examples include expiring subscriptions, pending orders, overdue invoices, and more.&#x20;
 
-For more information, see [Spotlight widget](view-pending-tasks.md).
+For more details, see [Spotlight widget](view-pending-tasks.md).
 
 </details>
 
@@ -104,9 +100,9 @@ For more information, see [Spotlight widget](view-pending-tasks.md).
 
 <summary>News and updates widget</summary>
 
-The **News and updates** widget shows recent product announcements and video guides from our YouTube channel.
+The **News and updates** widget shows recent product announcements and video guides.
 
-Each item includes a short description, a publish date, and links to related guidance. You can watch videos in the platform or open them on YouTube.
+Each item includes a short description, a publish date, and links to related guidance. You can watch videos directly in the platform or [YouTube](https://www.youtube.com/@MarketplacePlatform).
 
 </details>
 
@@ -114,9 +110,9 @@ Each item includes a short description, a publish date, and links to related gui
 
 <summary>Favorites widget</summary>
 
-The **Favorites** widget provides quick access to pages you have marked as favorites.
+The **Favorites** widget provides quick access to pages you have added to your favorites.
 
-For more information, see [Using favorites](../mark-favorite-pages.md).
+For details on how to add a page to your favorites, see [Using favorites](../mark-favorite-pages.md).
 
 </details>
 
@@ -126,8 +122,6 @@ For more information, see [Using favorites](../mark-favorite-pages.md).
 
 The **Account Team** widget shows the SoftwareOne team that supports your account.
 
-You can contact a team member directly from the widget.
-
-You can also open the **Helpdesk** > [Account team](../../../modules-and-features/helpdesk/account-team.md) page.
+You can contact a team member directly from the widget. You can also go to **Helpdesk** > [Account team](../../../modules-and-features/helpdesk/account-team.md) to view your account team members.
 
 </details>

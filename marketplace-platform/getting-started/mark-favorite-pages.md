@@ -24,8 +24,8 @@ To add or remove a page from your favorites:
 
 To add or remove an account from your favorites:
 
-1. Select your profile menu in the header.
-2. Under **All accounts**, find the account you want to favorite. If required, use the **Search** option to locate the account.
+1. Select your profile menu.
+2. Under **All accounts**, find the account you want to mark as favorite. If required, use the **Search** option to locate the account.
 3. Select the star icon <i class="fa-star">:star:</i>. When it changes from empty to filled, the account is added to your favorites and displayed on the **Favorites** tab.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption><p>Use the star icon to add an account to your favorites.</p></figcaption></figure></div>
