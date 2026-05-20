@@ -11,24 +11,26 @@ The Marketplace Platform provides two main entry points for interacting with you
 * **Portal (Web UI)** - `https://portal.platform.softwareone.com/`
 * **API** - `https://api.platform.softwareone.com/public/v1/`
 
-While both the Portal and API operate on the same underlying objects, their URL structures differ slightly due to usability requirements. This topic explains how to map between Portal URLs and API endpoints, which is useful to:
+While both the Portal and API operate on the same underlying objects, their URL structures differ slightly due to usability requirements.&#x20;
+
+This topic explains how you can map between portal URLs and API endpoints to:
 
 * Generate deep links to specific objects in the portal.
 * Determine which API endpoint to call based on a portal URL.
 * Build integrations that navigate between UI and API resources.
 * Enable LLM agents to translate between human-readable links and API calls.
 
-## Object ID prefixes
+### Object ID prefixes
 
 Every object in the Marketplace Platform has a unique identifier with a prefix that indicates the object type. For details on all such objects, see [Business objects & API collection reference](rest-api/business-objects-and-api-collection-reference.md).
 
-## URL mapping reference
+### URL mapping reference
 
 The following tables show how Portal URLs map to API endpoints for each category of objects.
 
 ### Accounts objects
 
-<table><thead><tr><th width="176">Object</th><th width="313">Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td><strong>Buyers List</strong></td><td><code>/administration/settings/buyers</code></td><td><code>GET /accounts/buyers</code></td></tr><tr><td><strong>Buyer Details</strong></td><td><code>/administration/settings/buyers/{id}</code></td><td><code>GET /accounts/buyers/{id}</code></td></tr><tr><td><strong>Sellers List</strong></td><td><code>/administration/settings/sellers</code></td><td><code>GET /accounts/sellers</code></td></tr><tr><td><strong>Seller Details</strong></td><td><code>/administration/settings/sellers/{id}</code></td><td><code>GET /accounts/sellers/{id}</code></td></tr><tr><td><strong>Licensees List</strong></td><td><code>/administration/settings/licensees</code></td><td><code>GET /accounts/licensees</code></td></tr><tr><td><strong>Licensee Details</strong></td><td><code>/administration/settings/licensees/{id}</code></td><td><code>GET /accounts/licensees/{id}</code></td></tr><tr><td><strong>Users List</strong></td><td><code>/administration/settings/users</code></td><td><code>GET /accounts/users</code></td></tr><tr><td><strong>User Details</strong></td><td><code>/administration/settings/users/{id}</code></td><td><code>GET /accounts/users/{id}</code></td></tr><tr><td><strong>User Groups List</strong></td><td><code>/administration/settings/groups</code></td><td><code>GET /accounts/user-groups</code></td></tr><tr><td><strong>User Group Details</strong></td><td><code>/administration/settings/groups/{id}</code></td><td><code>GET /accounts/user-groups/{id}</code></td></tr><tr><td><strong>API Tokens List</strong></td><td><code>/administration/settings/api-tokens</code></td><td><code>GET /accounts/api-tokens</code></td></tr><tr><td><strong>API Token Details</strong></td><td><code>/administration/settings/api-tokens/{id}</code></td><td><code>GET /accounts/api-tokens/{id}</code></td></tr></tbody></table>
+<table><thead><tr><th width="139">Object</th><th width="362">Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td>Buyers List</td><td><code>/administration/settings/buyers</code></td><td><code>GET /accounts/buyers</code></td></tr><tr><td>Buyer Details</td><td><code>/administration/settings/buyers/{id}</code></td><td><code>GET /accounts/buyers/{id}</code></td></tr><tr><td>Sellers List</td><td><code>/administration/settings/sellers</code></td><td><code>GET /accounts/sellers</code></td></tr><tr><td>Seller Details</td><td><code>/administration/settings/sellers/{id}</code></td><td><code>GET /accounts/sellers/{id}</code></td></tr><tr><td>Licensees List</td><td><code>/administration/settings/licensees</code></td><td><code>GET /accounts/licensees</code></td></tr><tr><td>Licensee Details</td><td><code>/administration/settings/licensees/{id}</code></td><td><code>GET /accounts/licensees/{id}</code></td></tr><tr><td>Users List</td><td><code>/administration/settings/users</code></td><td><code>GET /accounts/users</code></td></tr><tr><td>User Details</td><td><code>/administration/settings/users/{id}</code></td><td><code>GET /accounts/users/{id}</code></td></tr><tr><td>User Groups List</td><td><code>/administration/settings/groups</code></td><td><code>GET /accounts/user-groups</code></td></tr><tr><td>User Group Details</td><td><code>/administration/settings/groups/{id}</code></td><td><code>GET /accounts/user-groups/{id}</code></td></tr><tr><td>API Tokens List</td><td><code>/administration/settings/api-tokens</code></td><td><code>GET /accounts/api-tokens</code></td></tr><tr><td>API Token Details</td><td><code>/administration/settings/api-tokens/{id}</code></td><td><code>GET /accounts/api-tokens/{id}</code></td></tr></tbody></table>
 
 {% hint style="info" %}
 All account-related objects in the Portal are accessed via the `/administration/settings/` path. The Portal uses `groups` , while the API uses `user-groups`.
@@ -36,7 +38,7 @@ All account-related objects in the Portal are accessed via the `/administration/
 
 ### Commerce objects
 
-<table><thead><tr><th width="204">Object</th><th>Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td><strong>Agreements List</strong></td><td><code>/commerce/agreements</code></td><td><code>GET /commerce/agreements</code></td></tr><tr><td><strong>Agreement Details</strong></td><td><code>/commerce/agreements/{id}</code></td><td><code>GET /commerce/agreements/{id}</code></td></tr><tr><td><strong>Assets List</strong></td><td><code>/commerce/assets</code></td><td><code>GET /commerce/assets</code></td></tr><tr><td><strong>Asset Details</strong></td><td><code>/commerce/assets/{id}</code></td><td><code>GET /commerce/assets/{id}</code></td></tr><tr><td><strong>Entitlements List</strong></td><td><code>/commerce/entitlements</code></td><td><code>GET /commerce/lines</code></td></tr><tr><td><strong>Entitlement Details</strong></td><td><code>/catalog/items/{id}</code></td><td><code>GET /catalog/items/{id}</code></td></tr><tr><td><strong>Orders List</strong></td><td><code>/commerce/orders</code></td><td><code>GET /commerce/orders</code></td></tr><tr><td><strong>Order Details</strong></td><td><code>/commerce/orders/{id}</code></td><td><code>GET /commerce/orders/{id}</code></td></tr><tr><td><strong>Subscriptions List</strong></td><td><code>/commerce/subscriptions</code></td><td><code>GET /commerce/subscriptions</code></td></tr><tr><td><strong>Subscription Details</strong></td><td><code>/commerce/subscriptions/{id}</code></td><td><code>GET /commerce/subscriptions/{id}</code></td></tr><tr><td><strong>Requests List</strong></td><td><code>/commerce/requests</code></td><td><code>GET /commerce/requests</code></td></tr><tr><td><strong>Request Details</strong></td><td><code>/commerce/requests/{id}</code></td><td><code>GET /commerce/requests/{id}</code></td></tr></tbody></table>
+<table><thead><tr><th width="180">Object</th><th>Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td>Agreements List</td><td><code>/commerce/agreements</code></td><td><code>GET /commerce/agreements</code></td></tr><tr><td>Agreement Details</td><td><code>/commerce/agreements/{id}</code></td><td><code>GET /commerce/agreements/{id}</code></td></tr><tr><td>Assets List</td><td><code>/commerce/assets</code></td><td><code>GET /commerce/assets</code></td></tr><tr><td>Asset Details</td><td><code>/commerce/assets/{id}</code></td><td><code>GET /commerce/assets/{id}</code></td></tr><tr><td>Entitlements List</td><td><code>/commerce/entitlements</code></td><td><code>GET /commerce/lines</code></td></tr><tr><td>Entitlement Details</td><td><code>/catalog/items/{id}</code></td><td><code>GET /catalog/items/{id}</code></td></tr><tr><td>Orders List</td><td><code>/commerce/orders</code></td><td><code>GET /commerce/orders</code></td></tr><tr><td>Order Details</td><td><code>/commerce/orders/{id}</code></td><td><code>GET /commerce/orders/{id}</code></td></tr><tr><td>Subscriptions List</td><td><code>/commerce/subscriptions</code></td><td><code>GET /commerce/subscriptions</code></td></tr><tr><td>Subscription Details</td><td><code>/commerce/subscriptions/{id}</code></td><td><code>GET /commerce/subscriptions/{id}</code></td></tr><tr><td>Requests List</td><td><code>/commerce/requests</code></td><td><code>GET /commerce/requests</code></td></tr><tr><td>Request Details</td><td><code>/commerce/requests/{id}</code></td><td><code>GET /commerce/requests/{id}</code></td></tr></tbody></table>
 
 {% hint style="info" %}
 The **Entitlements** page in the platform shows commerce lines, and selecting an entitlement opens the catalog item details page.
@@ -44,29 +46,11 @@ The **Entitlements** page in the platform shows commerce lines, and selecting an
 
 ### Billing objects
 
-| Object                  | Portal URL                   | API Endpoint                     |
-| ----------------------- | ---------------------------- | -------------------------------- |
-| **Statements List**     | `/billing/statements`        | `GET /billing/statements`        |
-| **Statement Details**   | `/billing/statements/{id}`   | `GET /billing/statements/{id}`   |
-| **Invoices List**       | `/billing/invoices`          | `GET /billing/invoices`          |
-| **Invoice Details**     | `/billing/invoices/{id}`     | `GET /billing/invoices/{id}`     |
-| **Credit Memos List**   | `/billing/credit-memos`      | `GET /billing/credit-memos`      |
-| **Credit Memo Details** | `/billing/credit-memos/{id}` | `GET /billing/credit-memos/{id}` |
+<table><thead><tr><th width="204">Object</th><th width="253">Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td>Statements List</td><td><code>/billing/statements</code></td><td><code>GET /billing/statements</code></td></tr><tr><td>Statement Details</td><td><code>/billing/statements/{id}</code></td><td><code>GET /billing/statements/{id}</code></td></tr><tr><td>Invoices List</td><td><code>/billing/invoices</code></td><td><code>GET /billing/invoices</code></td></tr><tr><td>Invoice Details</td><td><code>/billing/invoices/{id}</code></td><td><code>GET /billing/invoices/{id}</code></td></tr><tr><td>Credit Memos List</td><td><code>/billing/credit-memos</code></td><td><code>GET /billing/credit-memos</code></td></tr><tr><td>Credit Memo Details</td><td><code>/billing/credit-memos/{id}</code></td><td><code>GET /billing/credit-memos/{id}</code></td></tr></tbody></table>
 
 ### Catalog objects
 
-| Object                    | Portal URL                  | API Endpoint                       |
-| ------------------------- | --------------------------- | ---------------------------------- |
-| **Products List**         | `/catalog/products`         | `GET /catalog/products`            |
-| **Product Details**       | `/catalog/products/{id}`    | `GET /catalog/products/{id}`       |
-| **Items List**            | `/catalog/items`            | `GET /catalog/items`               |
-| **Item Details**          | `/catalog/items/{id}`       | `GET /catalog/items/{id}`          |
-| **Price Lists**           | `/catalog/price-lists`      | `GET /catalog/price-lists`         |
-| **Price List Details**    | `/catalog/price-lists/{id}` | `GET /catalog/price-lists/{id}`    |
-| **Listings**              | API only                    | `GET /catalog/listings`            |
-| **Listing Details**       | API only                    | `GET /catalog/listings/{id}`       |
-| **Authorizations**        | API only                    | `GET /catalog/authorizations`      |
-| **Authorization Details** | API only                    | `GET /catalog/authorizations/{id}` |
+<table><thead><tr><th width="196">Object</th><th width="250">Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td>Products List</td><td><code>/catalog/products</code></td><td><code>GET /catalog/products</code></td></tr><tr><td>Product Details</td><td><code>/catalog/products/{id}</code></td><td><code>GET /catalog/products/{id}</code></td></tr><tr><td>Items List</td><td><code>/catalog/items</code></td><td><code>GET /catalog/items</code></td></tr><tr><td>Item Details</td><td><code>/catalog/items/{id}</code></td><td><code>GET /catalog/items/{id}</code></td></tr><tr><td>Price Lists</td><td><code>/catalog/price-lists</code></td><td><code>GET /catalog/price-lists</code></td></tr><tr><td>Price List Details</td><td><code>/catalog/price-lists/{id}</code></td><td><code>GET /catalog/price-lists/{id}</code></td></tr><tr><td>Listings</td><td>API only</td><td><code>GET /catalog/listings</code></td></tr><tr><td>Listing Details</td><td>API only</td><td><code>GET /catalog/listings/{id}</code></td></tr><tr><td>Authorizations</td><td>API only</td><td><code>GET /catalog/authorizations</code></td></tr><tr><td>Authorization Details</td><td>API only</td><td><code>GET /catalog/authorizations/{id}</code></td></tr></tbody></table>
 
 {% hint style="info" %}
 Listings and Authorizations are available through the API, but don't have dedicated Portal pages. They are typically accessed programmatically for integration purposes.
@@ -74,24 +58,17 @@ Listings and Authorizations are available through the API, but don't have dedica
 
 ### Program objects
 
-| Object                  | Portal URL                   | API Endpoint                     |
-| ----------------------- | ---------------------------- | -------------------------------- |
-| **Programs List**       | `/program/programs`          | `GET /program/programs`          |
-| **Program Details**     | `/program/programs/{id}`     | `GET /program/programs/{id}`     |
-| **Certificates List**   | `/program/certificates`      | `GET /program/certificates`      |
-| **Certificate Details** | `/program/certificates/{id}` | `GET /program/certificates/{id}` |
-| **Enrollments List**    | `/program/enrollments`       | `GET /program/enrollments`       |
-| **Enrollment Details**  | `/program/enrollments/{id}`  | `GET /program/enrollments/{id}`  |
+<table><thead><tr><th width="187">Object</th><th width="264">Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td>Programs List</td><td><code>/program/programs</code></td><td><code>GET /program/programs</code></td></tr><tr><td>Program Details</td><td><code>/program/programs/{id}</code></td><td><code>GET /program/programs/{id}</code></td></tr><tr><td>Certificates List</td><td><code>/program/certificates</code></td><td><code>GET /program/certificates</code></td></tr><tr><td>Certificate Details</td><td><code>/program/certificates/{id}</code></td><td><code>GET /program/certificates/{id}</code></td></tr><tr><td>Enrollments List</td><td><code>/program/enrollments</code></td><td><code>GET /program/enrollments</code></td></tr><tr><td>Enrollment Details</td><td><code>/program/enrollments/{id}</code></td><td><code>GET /program/enrollments/{id}</code></td></tr></tbody></table>
 
 ### Notifications objects (API only)
 
 The notifications module is primarily accessed through the API for webhook management and programmatic notification handling.
 
-<table><thead><tr><th width="234">Object</th><th width="150">Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td><strong>Webhooks</strong></td><td>API only</td><td><code>GET /notifications/webhooks</code></td></tr><tr><td><strong>Webhook Details</strong></td><td>API only</td><td><code>GET /notifications/webhooks/{id}</code></td></tr><tr><td><strong>Messages</strong></td><td>API only</td><td><code>GET /notifications/messages</code></td></tr><tr><td><strong>Message Details</strong></td><td>API only</td><td><code>GET /notifications/messages/{id}</code></td></tr><tr><td><strong>Contacts</strong></td><td>API only</td><td><code>GET /notifications/contacts</code></td></tr><tr><td><strong>Subscribers</strong></td><td>API only</td><td><code>GET /notifications/subscribers</code></td></tr></tbody></table>
+<table><thead><tr><th width="174">Object</th><th width="159">Portal URL</th><th>API Endpoint</th></tr></thead><tbody><tr><td>Webhooks</td><td>API only</td><td><code>GET /notifications/webhooks</code></td></tr><tr><td>Webhook Details</td><td>API only</td><td><code>GET /notifications/webhooks/{id}</code></td></tr><tr><td>Messages</td><td>API only</td><td><code>GET /notifications/messages</code></td></tr><tr><td>Message Details</td><td>API only</td><td><code>GET /notifications/messages/{id}</code></td></tr><tr><td>Contacts</td><td>API only</td><td><code>GET /notifications/contacts</code></td></tr><tr><td>Subscribers</td><td>API only</td><td><code>GET /notifications/subscribers</code></td></tr></tbody></table>
 
-## URL patterns
+### URL patterns
 
-### Portal URL pattern
+#### Portal URL pattern
 
 ```
 https://portal.platform.softwareone.com/{module}/{resource}/{id}
@@ -103,7 +80,7 @@ Where:
 * `{resource}` is the plural resource name (for example, `agreements`, `orders`, `invoices`)
 * `{id}` is the object identifier (optional, only for detail pages)
 
-### API URL pattern
+#### API URL pattern
 
 ```
 https://api.platform.softwareone.com/public/v1/{module}/{resource}/{id}
@@ -111,13 +88,13 @@ https://api.platform.softwareone.com/public/v1/{module}/{resource}/{id}
 
 The API follows the same structure, with `/public/v1/` added after the base domain.
 
-### Module mapping between Portal and API
+#### Module mapping between Portal and API
 
 <table><thead><tr><th width="249">Portal Module</th><th width="190">API Module</th><th>Notes</th></tr></thead><tbody><tr><td><code>administration/settings</code></td><td><code>accounts</code></td><td>Buyers, Sellers, Licensees, Users, Groups, API Tokens</td></tr><tr><td><code>commerce</code></td><td><code>commerce</code></td><td>Direct mapping</td></tr><tr><td><code>billing</code></td><td><code>billing</code></td><td>Direct mapping</td></tr><tr><td><code>catalog</code></td><td><code>catalog</code></td><td>Direct mapping</td></tr><tr><td><code>program</code></td><td><code>program</code></td><td>Direct mapping</td></tr><tr><td>N/A</td><td><code>notifications</code></td><td>API only</td></tr><tr><td>N/A</td><td><code>audit</code></td><td>API only</td></tr><tr><td>N/A</td><td><code>spotlight</code></td><td>API only</td></tr></tbody></table>
 
-## Usage examples
+### Usage examples
 
-### Generating a Portal link from an API response
+#### Generating a Portal link from an API response
 
 When you retrieve an object from the API, you can construct a Portal link using the object's `id`:
 
@@ -169,7 +146,7 @@ portal_link = get_portal_url(order, "order")
 ```
 {% endcode %}
 
-### Determining the API endpoint from a Portal URL
+#### Determining the API endpoint from a Portal URL
 
 When you have a Portal URL and need to call the corresponding API:
 
@@ -197,7 +174,7 @@ api_endpoint = get_api_endpoint(portal_url)
 ```
 {% endcode %}
 
-### Extracting the object type from an ID
+#### Extracting the object type from an ID
 
 You can determine the object type from the ID prefix:
 
@@ -247,7 +224,7 @@ object_type = get_object_type("ORD-8108-0372-6265")
 ```
 {% endcode %}
 
-## Notes for LLM agents
+### Notes for LLM agents
 
 When working with Marketplace Platform URLs, follow these guidelines:
 
@@ -279,7 +256,7 @@ When working with Marketplace Platform URLs, follow these guidelines:
    * Notification Messages, Contacts, Subscribers
 8. **Legacy URL handling** - If you encounter URLs using `portal.softwareone.com`, rewrite them to use `portal.platform.softwareone.com` before processing or generating links.
 
-## Related topics
+### Related topics
 
 {% content-ref url="rest-api/" %}
 [rest-api](rest-api/)

@@ -8,11 +8,11 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
   metadata:
-    visible: false
+    visible: true
   tags:
     visible: true
 ---

@@ -4,7 +4,7 @@ description: >-
   assistants to the SoftwareOne Marketplace API.
 ---
 
-# Model Context Protocol
+# Model context protocol
 
 The Marketplace MCP Server is an open-source Model Context Protocol (MCP) server designed to connect AI assistants (like Antigravity, Cursor, and Claude) to the SoftwareOne Marketplace API.
 
@@ -36,9 +36,9 @@ The server complies with our [OpenAPI Specification](https://api.platform.softwa
 
 ## Prerequisites
 
-**SoftwareOne Marketplace API Token** - You will need a valid API token to authenticate requests. This is like a password that proves you are allowed to access your organization's data. You can generate a token from your account settings in the SoftwareOne Marketplace Portal.
+You must have a valid API token to authenticate requests. You can generate a token from your account settings in the SoftwareOne Marketplace.
 
-If you are not sure where to find your token, contact your SoftwareOne account administrator or search the Marketplace Portal documentation for "API Tokens."
+If you are not sure where to find your token, contact your SoftwareOne account administrator or see [API tokens](../../modules-and-features/settings/api-tokens/).
 
 ## Client setup
 
@@ -132,14 +132,40 @@ Start with simple questions like "_What products are available?_" or "_Show me m
 
 ## Frequently asked questions
 
-**Do I need to be a developer to use this?** No! Once someone sets up the connection for you, you can ask questions in plain English. The AI does the technical work.
+<details>
 
-**Is my data secure?** Yes. The server uses your personal API token, which means it only accesses what you're already authorized to see. No data is stored on the MCP server itself.
+<summary>Do I need to be a developer to use this?</summary>
 
-**Can I use this on my phone?** The MCP server works with AI tools like Antigravity, Cursor, and Claude Desktop. These are typically used on computers, but if your AI client supports mobile, it will work there too.
+No. Once someone sets up the connection for you, you can ask questions in plain English. The AI does the technical work.
 
-**What kind of questions can I ask?** Anything related to your SoftwareOne Marketplace data: orders, subscriptions, products, billing, agreements, and more. If you're not sure, just ask "What can you help me with?"
+</details>
+
+<details>
+
+<summary>Is my data secure?</summary>
+
+Yes. The server uses your personal API token, which means it only accesses what you're already authorized to see. No data is stored on the MCP server itself.
+
+</details>
+
+<details>
+
+<summary>Can I use this on my phone?</summary>
+
+The MCP server works with AI tools like Antigravity, Cursor, and Claude Desktop. These are typically used on computers, but if your AI client supports mobile, it will work there too.
+
+</details>
+
+<details>
+
+<summary>What kind of questions can I ask?</summary>
+
+Anything related to your SoftwareOne Marketplace data: orders, subscriptions, products, billing, agreements, and more. If you're not sure, just ask "What can you help me with?"
+
+</details>
 
 ## Open source & contributing
 
-The server implementation is open source and available on GitHub at [softwareone-platform/mpt-mcp](https://github.com/softwareone-platform/mpt-mcp). We welcome contributions! You can also clone the repository if you prefer to run the server locally or customize it for your needs.
+The server implementation is open source and available on GitHub at [softwareone-platform/mpt-mcp](https://github.com/softwareone-platform/mpt-mcp).&#x20;
+
+We welcome contributions. You can also clone the repository if you prefer to run the server locally or customize it for your needs.
