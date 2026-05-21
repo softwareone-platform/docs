@@ -1,10 +1,10 @@
-# License Agreements
+# License agreements
 
 A license agreement is a contract that outlines the conditions and terms under which an organization can use a specific software.&#x20;
 
 Using the Client Portal's License Agreements module, you can easily view and manage your license agreements and gain visibility into the entitlement data associated with those agreements. You can also create alerts for true-ups, renewals, and expiring contracts.
 
-Watch the following video tutorial to learn how to use License Agreements:
+Watch the following video guide on how to work with license agreements:
 
 {% embed url="https://vimeo.com/901511253" %}
 Watch a quick video guide showing how to use license agreements.
