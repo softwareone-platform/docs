@@ -1,23 +1,11 @@
 ---
-description: Learn about your account team, managing cases, and sharing your feedback.
+description: Contact your account team, manage support cases, and share product feedback.
 ---
 
 # Helpdesk
 
-The **Helpdesk** module in the SoftwareOne Marketplace allows you to create and track your cases, including your communication history.&#x20;
+Use Helpdesk to contact your account team, create and track cases, and share feedback about the Marketplace.
 
-Additionally, you can use this module to contact your SoftwareOne account team and share your feedback about the Marketplace with us directly.
+### Helpdesk topics
 
-### Explore Helpdesk topics
-
-{% content-ref url="account-team.md" %}
-[account-team.md](account-team.md)
-{% endcontent-ref %}
-
-{% content-ref url="cases/" %}
-[cases](cases/)
-{% endcontent-ref %}
-
-{% content-ref url="feedback/" %}
-[feedback](feedback/)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="account-team.md">Account team</a></td><td>Find the SoftwareOne contacts for your account.</td><td><a href="account-team.md">account-team.md</a></td></tr><tr><td><a href="feedback/">Feedback</a></td><td>Share ideas and product feedback with us.</td><td><a href="feedback/">feedback</a></td></tr></tbody></table>

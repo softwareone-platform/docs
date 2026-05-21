@@ -1,23 +1,11 @@
 ---
-description: Learn about Program Management and its features.
+description: View available programs, manage enrollments, and track certificates.
 ---
 
 # Program
 
-Program management in the Marketplace Platform enables SoftwareOne partners to view programs available for enrollment and request certificates for those programs.&#x20;
+Use Program to view available programs, manage enrollments, and track certificates for your account.
 
-A program consists of specific requirements, and certificates are issued once these requirements are fulfilled.
+### &#x20;Program topics
 
-### Explore Program topics
-
-{% content-ref url="programs.md" %}
-[programs.md](programs.md)
-{% endcontent-ref %}
-
-{% content-ref url="certificates/" %}
-[certificates](certificates/)
-{% endcontent-ref %}
-
-{% content-ref url="enrollments/" %}
-[enrollments](enrollments/)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="programs.md">Programs</a></td><td>View available programs and review their requirements.</td><td><a href="./">.</a></td></tr><tr><td><a href="certificates/">Certificates</a></td><td>View certificate status and manage certificate details.</td><td><a href="certificates/">certificates</a></td></tr><tr><td><a href="enrollments/">Enrollments</a></td><td>View and manage querying enrollments, and renew enrollments.</td><td><a href="enrollments/">enrollments</a></td></tr></tbody></table>

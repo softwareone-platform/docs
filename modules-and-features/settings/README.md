@@ -4,54 +4,8 @@ description: Learn about managing your account settings as an administrator.
 
 # Settings
 
-The **Settings** module enables account administrators to manage various aspects of the account, including notifications and entities such as buyers, licensees, and sellers.&#x20;
+Use Settings to manage account details, control access, configure notifications, and maintain buyers, licensees, and sellers.
 
-It also allows administrators to secure account access by overseeing users, groups, and API tokens.&#x20;
+### &#x20;Settings topics
 
-### Explore settings
-
-**General settings**
-
-{% content-ref url="account/" %}
-[account](account/)
-{% endcontent-ref %}
-
-{% content-ref url="buyers/" %}
-[buyers](buyers/)
-{% endcontent-ref %}
-
-{% content-ref url="licensees/" %}
-[licensees](licensees/)
-{% endcontent-ref %}
-
-{% content-ref url="sellers/" %}
-[sellers](sellers/)
-{% endcontent-ref %}
-
-**Administration**
-
-{% content-ref url="groups/" %}
-[groups](groups/)
-{% endcontent-ref %}
-
-{% content-ref url="users/" %}
-[users](users/)
-{% endcontent-ref %}
-
-{% content-ref url="notifications/" %}
-[notifications](notifications/)
-{% endcontent-ref %}
-
-**Platform tools**
-
-{% content-ref url="api-tokens/" %}
-[api-tokens](api-tokens/)
-{% endcontent-ref %}
-
-{% content-ref url="audit-trail.md" %}
-[audit-trail.md](audit-trail.md)
-{% endcontent-ref %}
-
-{% content-ref url="integration/" %}
-[integration](integration/)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="account/">Account</a></td><td>View your account and update details.</td><td><a href="account/">account</a></td><td></td></tr><tr><td><a href="api-tokens/">API tokens</a></td><td>Create and manage API tokens.</td><td><a href="api-tokens/">api-tokens</a></td><td></td></tr><tr><td><a href="audit-trail.md">Audit trail</a></td><td>Review account activity and message history.</td><td><a href="audit-trail.md">audit-trail.md</a></td><td></td></tr><tr><td><a href="buyers/">Buyers</a></td><td>Manage buyers and their information.</td><td><a href="buyers/">buyers</a></td><td></td></tr><tr><td><a href="exchange/">Exchange</a></td><td>Review currencies and exchange rates.</td><td><a href="exchange/">exchange</a></td><td></td></tr><tr><td><a href="groups/">Groups</a></td><td>Create groups and configure access.</td><td><a href="groups/">groups</a></td><td></td></tr><tr><td><a href="integration/">Integration</a></td><td>Install and manage connected extensions.</td><td><a href="integration/">integration</a></td><td></td></tr><tr><td><a href="licensees/">Licensees</a></td><td>Create and manage licensees.</td><td><a href="licensees/">licensees</a></td><td></td></tr><tr><td><a href="notifications/">Notifications</a></td><td>Configure recipients, categories, and settings.</td><td><a href="notifications/">notifications</a></td><td></td></tr><tr><td><a href="sellers/">Sellers</a></td><td>Review sellers linked to your account.</td><td><a href="sellers/">sellers</a></td><td></td></tr><tr><td><a href="users/">Users</a></td><td>Add users, manage access, and invitations.</td><td><a href="users/">users</a></td><td></td></tr></tbody></table>
