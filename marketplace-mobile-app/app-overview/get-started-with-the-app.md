@@ -19,7 +19,7 @@ For enhanced security, the app uses passwordless authentication. It means you ca
 To sign in to your account:
 
 1. On your phone or tablet, open the app.
-2. Enter your SoftwareOne Marketplace email address, then select **Continue**. A verification code is sent to your email address.
+2. Enter your registered email address, then select **Continue**. A verification code is sent to your email.
 3. Open the verification email.
 4. Enter the code to sign in.
 
@@ -27,7 +27,7 @@ If you have trouble signing in, see [Sign-in & Security](../mobile-app-faqs.md#s
 
 ### Switching to a different account
 
-If you belong to multiple Marketplace accounts, you can switch between them in the app.
+If you belong to multiple Marketplace accounts, you can switch between them.
 
 When you switch accounts, the app refreshes in the context of that account. Your subscriptions, chats, billing data, and other objects reflect the selected account.
 
@@ -44,14 +44,14 @@ You can view your name, email address, and phone number within the app.
 To view your profile:
 
 1. Tap your profile icon in the upper-right corner.
-2. Under **Account**, tap your user name.
+2. Tap your user name.
 3. Under **User details**, tap **Personal information**.
 
-To update your profile, use the web version of the platform at [https://portal.platform.softwareone.com/](https://portal.platform.softwareone.com/). For details, see [Manage your profile](../../marketplace-platform/getting-started/manage-profile.md).
+To update your profile, use the web version of the platform at [https://portal.platform.softwareone.com/](https://portal.platform.softwareone.com/). For more details, see [Manage your profile](../../marketplace-platform/getting-started/manage-profile.md).
 
 ### Starting a chat
 
-You can start direct 1:1 chats and group chats with individuals within your account using the app.
+You can start direct 1:1 chats and group chats with individuals in your account.
 
 To start a direct chat:
 
@@ -65,7 +65,7 @@ To start a group chat:
 1. In the bottom navigation menu, tap **Chat**  <i class="fa-message">:message:</i>.
 2. Tap New chat <i class="fa-pen-to-square">:pen-to-square:</i>.
 3. Under **Chat type**, tap **Group chat**.
-4. Enter a name for the group chat, then tap **Next**.
+4. (Optional) Enter a name for the group chat, then tap **Next**.
 5. Select the individuals you want to add to the group chat, then select **Create**.
 
 ### Signing out of the app
@@ -73,5 +73,5 @@ To start a group chat:
 To sign out:
 
 1. Tap your profile icon in the upper-right corner.
-2. Under **Account**, tap your user name.
+2. Tap your user name.
 3. Tap **Sign out**.
