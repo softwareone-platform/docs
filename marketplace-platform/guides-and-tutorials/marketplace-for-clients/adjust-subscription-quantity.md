@@ -20,7 +20,7 @@ When reducing licenses, these rules apply:
 **Start from the subscription**
 
 1. Go to **Marketplace** > **Subscriptions**.
-2. Select the required subscription.
+2. Select the required subscription. Ensure that the subscription is active.
 3. On the **subscription details** page, select **Edit**. The **Edit subscription** wizard starts.
 {% endstep %}
 
@@ -31,7 +31,7 @@ When reducing licenses, these rules apply:
 
     <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/edit_subscription.png" alt="Edit subscription wizard showing the New qty field for license changes"><figcaption><p>Change the New qty value to increase or reduce licenses.</p></figcaption></figure></div>
 2. Under **Details**, add or update the reference ID and your comments.
-3. Under **Review order**, verify the information, then select **Place order**.
+3. Under **Review**, verify the information, then select **Place order**.
 4. Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}

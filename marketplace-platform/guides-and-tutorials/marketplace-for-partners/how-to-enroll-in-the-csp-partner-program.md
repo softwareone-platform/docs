@@ -4,7 +4,7 @@ description: Enroll in the Cloud Solution Provider partner program.
 
 # How to enroll in the CSP partner program
 
-The **Cloud Solution Provider Partner Program** allows you to partner with SoftwareOne as your indirect CSP provider. To learn more about this program, see [Partner Programs](../../../extensions/microsoft-cloud-solution-provider/products-and-programs/partner-programs.md).
+The **Cloud Solution Provider Partner Program** allows you to partner with SoftwareOne as your indirect CSP provider. To learn about this program, see [Partner Programs](../../../extensions/microsoft-cloud-solution-provider/products-and-programs/partner-programs.md).
 
 ### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
@@ -13,7 +13,7 @@ To enroll in the CSP partner program:
 * You must have a Marketplace account with partner capabilities. For details, see [How to verify if your account has partner capabilities](how-to-verify-if-your-account-has-partner-capabilities.md).
 * You must be signed up for the Microsoft Cloud Solutions Provider (CSP) program as an indirect reseller. For details, see [Enroll as an indirect reseller](https://learn.microsoft.com/en-us/partner-center/enroll/enrolling-in-the-csp-program) in Microsoft documentation.
 * You must be signed up for the SWO CSP Partner Program. For details, see [How to enroll in the SWO CSP partner program](how-to-enroll-in-the-softwareone-csp-partner-program.md).
-* You must have the Microsoft Partner Network (MPN) ID and email address for your Microsoft partner account. To find the ID in the Microsoft Partner Center, select the **Settings** (gear) icon > **Account settings** > **Organization Profile** > **Identifiers**. Then, find the PartnerID with the **Type Location** that matches the country/region of this CSP account.
+* You must have the Microsoft Partner Network (MPN) ID and email address for your Microsoft partner account. To find the ID, go to Microsoft Partner Center, select the **Settings** (gear) icon > **Account settings** > **Organization Profile** > **Identifiers**. Look for PartnerID with the **Type Location** that matches the country/region of your CSP account.
 
 ### Enrolling in the CSP Partner program
 

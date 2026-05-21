@@ -2,7 +2,7 @@
 
 You can access the Marketplace Platform on most desktop and mobile devices.
 
-## Desktop devices <a href="#supported-browsers-for-desktop-devices" id="supported-browsers-for-desktop-devices"></a>
+### Desktop devices <a href="#supported-browsers-for-desktop-devices" id="supported-browsers-for-desktop-devices"></a>
 
 You can access the Marketplace Platform from a browser on a Windows, macOS, or Linux computer. We support the following browsers:
 
@@ -13,7 +13,7 @@ You can access the Marketplace Platform from a browser on a Windows, macOS, or L
 
 If you don't use a supported browser, you might not be able to access the platform or use all of its features.&#x20;
 
-## Mobile devices <a href="#supported-browsers-for-desktop-devices" id="supported-browsers-for-desktop-devices"></a>
+### Mobile devices <a href="#supported-browsers-for-desktop-devices" id="supported-browsers-for-desktop-devices"></a>
 
 If you want to access the platform on a mobile device, ensure that your mobile browser meets the following minimum requirements:
 

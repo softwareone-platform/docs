@@ -14,7 +14,7 @@ The page is split into tasks. Each task contains information and further links t
 {% step %}
 ### Get access to the platform
 
-To get started, you’ll need to have an account on the platform.
+To get started, you must have an account on the platform.
 
 <details>
 
@@ -51,9 +51,9 @@ When your administrator or SoftwareOne adds you to an account, you will receive 
 {% step %}
 ### Set up your account
 
-After signing in to your account, set up your profile and define preferences, including your name, profile picture, account language, and timezone.
+After signing in, set up your profile and define preferences, including your name, profile picture, account language, and time zone.
 
-If you are an account administrator, you can perform additional account setup tasks, such as creating user groups and inviting additional users to your account.
+If you are an account administrator, you can perform additional account setup tasks, such as creating user groups and inviting users to your account.
 
 <details>
 

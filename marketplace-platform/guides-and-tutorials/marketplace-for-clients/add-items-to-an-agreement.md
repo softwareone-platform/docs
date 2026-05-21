@@ -29,7 +29,7 @@ You can add items only to active agreements. If the agreement is not active, the
 **Add the new items**
 
 1. Under **Items**, select **Add items**.
-2. In **Select items**, choose the products you want to order. Make sure to check the billing terms and duration before you add an item.
+2. In **Select items**, choose the items you want to order. Make sure to check the billing terms and duration.
 3. Select **Add items** again.
 4. Set the quantity of your newly added items in the **New qty** field.
 5. Select **Next**.
@@ -40,10 +40,9 @@ You can add items only to active agreements. If the agreement is not active, the
 {% step %}
 **Review and submit**
 
-1. Under **Details**, add or update the reference ID and your comments.
-2. Select **Next**.
-3. Under **Review order**, verify the information, then select **Place order**.
-4. Select **View details** to open the **order details** page or select **Close**.
+1. Under **Details**, add or update the reference ID and your comments. Select **Next**.
+2. Under **Review**, verify the information, then select **Place order**.
+3. Select **View details** to open the order details page, or select **Close**.
 {% endstep %}
 {% endstepper %}
 

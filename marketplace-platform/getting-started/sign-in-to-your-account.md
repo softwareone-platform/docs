@@ -26,7 +26,7 @@ After you have successfully signed in, you are directed to the **Home** page.
 
 If you enter incorrect login credentials, an error message is displayed.
 
-If you have forgotten your password, select **Forgot password?** and follow the instructions to reset it.
+If you have forgotten your password, select **Forgot password?** and follow the instructions to reset it. For more details, see [How do I update my password?](../../help-and-support/faqs/update-password.md).
 
 ### Next steps
 

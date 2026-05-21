@@ -24,7 +24,7 @@ To update your preferences using the **My profile** option:
 2. Select your profile menu, then select **My profile**.
 3. Select the **Notifications** **preferences** tab. All notification categories are displayed.
 4. Select **Edit.**
-5. In **Edit notification preferences**, use the checkboxes to enable or disable categories.
+5. Under **Edit notification preferences**, use the checkboxes to enable or disable categories.
 6. Select **Save**.
 
 ### Managing notifications (via email)
