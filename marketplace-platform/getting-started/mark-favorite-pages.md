@@ -19,7 +19,7 @@ To add or remove a page from your favorites:
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/interface_favorites.png" alt="" width="563"><figcaption><p>Use the star icon to add a page to your favorites.</p></figcaption></figure></div>
 
-3. To remove the same page from your favorites, select the same star you used to mark it as a favorite. When the icon changes from filled to empty, the page is removed.
+4. To remove the same page from your favorites, select the same star you used to mark it as a favorite. When the icon changes from filled to empty, the page is removed.
 
 ### Adding or removing an account from your favorites
 
