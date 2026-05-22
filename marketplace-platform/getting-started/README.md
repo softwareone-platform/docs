@@ -4,9 +4,9 @@ description: Get started with the Marketplace Platform.
 
 # Getting started
 
-To get up and running with the Marketplace Platform and make the most of its functionality, it's essential to understand how the platform works and be familiar with its key concepts.
+To get up and running with the Marketplace Platform and make the most of its functionality, it's essential to understand how the platform works and be familiar with its concepts.
 
-Use the following video guide, or the links on this page, to get started quickly.
+Use the following video guide or the links on this page to get started quickly.
 
 {% embed url="https://www.youtube.com/watch?v=LrMOMN8sjM4" fullWidth="false" %}
 Watch a quick video guide showing how to get started with the SoftwareOne Marketplace.

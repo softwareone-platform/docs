@@ -12,10 +12,10 @@ We recommend that you familiarize yourself with the terminology, as it's often r
 
 SoftwareOne Marketplace seamlessly brings together various actors to facilitate the buying, selling, provisioning, and billing of software products.&#x20;
 
-Actors are entities that interact with the platform for procurement, fulfillment, and other platform-specific operations.&#x20;
+Actors are users or entities that interact with the platform for procurement, fulfillment, and other platform-specific operations.&#x20;
 
 * **Vendors** - Company or person from whom SoftwareOne buys software solutions. Vendors develop and sell their products and services. Examples include Microsoft, Dropbox, Adobe, and more.
-* **Distributors** - Entity that resells software solutions sourced from vendors to resellers. Distributors facilitate software procurement when direct relationships with vendors aren't feasible.
+* **Distributors** - Entities that resell software solutions sourced from vendors to resellers. Distributors facilitate software procurement when direct relationships with vendors aren't feasible.
 * **Associates** - Internal SoftwareOne associates who administer the business network. Associates are involved in various processes throughout your journey and interaction with SoftwareOne.
 * **Partners** - Entities or businesses that buy products or services from SoftwareOne for reselling to other businesses.&#x20;
 * **Clients** - Company or organization that uses our platform to buy software products for their own use or direct consumption.

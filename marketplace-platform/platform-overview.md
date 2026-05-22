@@ -20,15 +20,13 @@ layout:
 
 # Overview
 
-The Marketplace Platform is a unified ecosystem for discovering, purchasing, and managing software purchases.&#x20;
-
-It includes a comprehensive set of modules that streamline purchasing processes for businesses of all sizes. It connects clients, partners, vendors, and SoftwareOne through a shared platform, offering distinct advantages and features.
+The Marketplace Platform is a unified ecosystem for discovering, purchasing, and managing software purchases. It includes a comprehensive set of modules that streamline purchasing processes for businesses of all sizes and connect clients, partners, vendors, and SoftwareOne through a shared platform.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/image (855).png" alt=""><figcaption><p>SoftwareOne Marketplace Platform</p></figcaption></figure></div>
 
 ### Key capabilities
 
-The platform brings together software discovery, procurement, billing, and management into a single system. By focusing on shared capabilities, it offers a streamlined and scalable way to manage software in a digital ecosystem.&#x20;
+The platform brings together software discovery, procurement, billing, and management into a single system. By focusing on shared capabilities, it offers a streamlined, scalable way to manage software.&#x20;
 
 The following are some of the core capabilities:
 

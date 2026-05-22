@@ -6,18 +6,16 @@ description: Chat with users within your account or your SoftwareOne account tea
 
 A chat is a conversation among different parties within the Marketplace Platform.&#x20;
 
-You can use the **Chat** page to start a conversation with other users in your account and your SoftwareOne account team. All chat conversations are automatically saved, allowing you to pick up where you left off anytime.&#x20;
-
-With the chat feature, you can start direct chats, group chats, and case chats.
+The chat feature allows you to start a conversation with other users in your account and your SoftwareOne account team. You can start a direct chat, group chat, and case chat.
 
 * **Direct chat** - Represents a one-to-one conversation with another user.
 * **Group chat** - Represents a chat conversation involving multiple users.
 * **Case chat** - Represents a chat that is automatically created and linked to a specific [support case](../helpdesk/cases/) in the platform.
 
-When using chat, you can also manage chat participants, leave a group chat, mute or unmute conversations, and edit or delete the messages you have sent.
+When using chat, you can also manage chat participants, leave a group chat, mute or unmute conversations, and edit or delete the messages you have sent. All chat conversations are automatically saved, allowing you to pick up where you left off anytime.&#x20;
 
 {% hint style="info" %}
-Chat conversations are limited to active users within the same Marketplace account. External users or users who are not a part of the account cannot be added to a chat conversation.
+Chat conversations are limited to active users within the same Marketplace account. External users or users who are not a part of an account cannot be added to a chat conversation.
 {% endhint %}
 
 ### Accessing and navigating chat
@@ -28,7 +26,9 @@ Once enabled, you can access your chats by selecting **Chat** from the main menu
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/chat.png" alt=""><figcaption><p>The Chat page in the SoftwareOne Marketplace.</p></figcaption></figure></div>
 
-The **Chats** page features an intuitive layout that allows you to start a new conversation and access your existing chats. The page contains:
+### Chats page layout
+
+The **Chats** page features an intuitive layout that allows you to start a new conversation and access your existing chats. The page contains the following areas:
 
 * **Chat sidebar** - The left sidebar displays all the chat conversations associated with your account. This sidebar is always visible by default and cannot be hidden. From the sidebar, you can [start a direct chat](start-a-direct-chat.md), [start a group chat](start-a-group-chat.md), or create a support case. You can also use the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="<svg xmlns=&#x22;http://www.w3.org/2000/svg&#x22; height=&#x22;24px&#x22; viewBox=&#x22;0 -960 960 960&#x22; width=&#x22;24px&#x22; fill=&#x22;#5f6368&#x22;><path d=&#x22;M400-240v-80h160v80H400ZM240-440v-80h480v80H240ZM120-640v-80h720v80H120Z&#x22;/></svg>" data-size="line">**Filter** option to find a chat.&#x20;
 * **Chat window or message area** - The chat window shows the content of the chat selected from the left sidebar. If no chat is selected, you see options to select an existing thread or start a new chat. Within an open chat window, you can perform various actions depending on whether it's a direct, group, or case chat.&#x20;

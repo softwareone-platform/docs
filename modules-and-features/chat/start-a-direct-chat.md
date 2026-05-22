@@ -6,7 +6,7 @@ description: >-
 
 # Start a direct chat
 
-A direct chat lets you message any user in your account. You can also use it to reach a member of your SoftwareOne account team.
+A direct chat allows you to message any user in your account. You can also use it to reach a member of your SoftwareOne account team.
 
 When sending a message, you can format it using options, such as bold, italics, and underline. You can also use styles and lists to organize your message and add links or images. Additionally, you can use rich text formatting or switch to source code (HTML editor).
 
