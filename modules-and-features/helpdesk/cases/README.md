@@ -23,8 +23,8 @@ On the **Cases** page, you can view various details for a case, including the ca
 
 ### Related topics
 
-{% content-ref url="case-status.md" %}
-[case-status.md](case-status.md)
+{% content-ref url="case-states.md" %}
+[case-states.md](case-states.md)
 {% endcontent-ref %}
 
 {% content-ref url="create-cases.md" %}

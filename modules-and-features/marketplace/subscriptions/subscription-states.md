@@ -2,14 +2,14 @@
 description: Learn about the different states of a subscription.
 ---
 
-# Subscription status
+# Subscription states
 
 A subscription refers to the ongoing service provision under the terms and conditions of an agreement.
 
-An order can currently exist in these states: **Draft**, **Deleted**, **Terminating**, **Active**, **Updating**, **Terminated**, or **Expired**. The following diagram shows the transitions between these states:
+A subscription can be in one of these states: **Draft**, **Deleted**, **Terminating**, **Active**, **Updating**, **Terminated**, or **Expired**. The following diagram shows the transitions between these states:
 
 <figure><img src="../../../.gitbook/assets/state_diagram_subscription.png" alt=""><figcaption><p>The state transition diagram of a subscription.</p></figcaption></figure>
 
-The following table provides a description of the different statuses:
+The following table describes the different states:
 
 <table><thead><tr><th width="160">State</th><th>Definition</th></tr></thead><tbody><tr><td><strong>Draft</strong></td><td>The vendor has created the subscription, but the order has not been completed yet.</td></tr><tr><td><strong>Active</strong></td><td>The subscription is active and in use.</td></tr><tr><td><strong>Updating</strong></td><td><p>A business transaction is in progress for the subscription. </p><p></p><p>This status applies to change orders submitted for the subscription.</p></td></tr><tr><td><strong>Terminating</strong></td><td>A termination order has been created for the subscription through the Client Portal.</td></tr><tr><td><strong>Terminated</strong></td><td><p>The vendor has completed the termination order and the </p><p>subscription is now terminated.</p></td></tr><tr><td><strong>Deleted</strong></td><td>The draft subscription has been deleted by the vendor.</td></tr></tbody></table>
