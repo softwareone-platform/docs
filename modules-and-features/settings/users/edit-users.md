@@ -14,9 +14,9 @@ To edit a user:
 
 1. Go to **Settings** > **Users**.
 2. Find the user you want to edit. Then, do one of the following:
-   * Select the actions icon (**•••**), then choose **Edit**.
+   * Select the actions icon (**•••**), then select **Edit**.
    * Select the user name. Then, on the **user details** page, select **Edit**.
-3. In the **Edit user** wizard, go to the **Groups** step and make the required changes.
+3. In **Edit user**, select the **Groups** step and make the necessary changes:
    * To add the user to a group, select the checkbox for that group.
    * To remove the user from a group, clear the checkbox.
 

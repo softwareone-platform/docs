@@ -18,8 +18,8 @@ Before editing a group, note the following:
 To edit a group:
 
 1. Go to **Settings** > **Groups**.
-2. Select the actions icon (**•••**) for the group to edit. Then, select **Edit**.
-3. In the **Edit group** wizard, do the following as necessary:&#x20;
+2. Select the actions icon (**•••**) for the group, then select **Edit**.
+3. In **Edit group**, do the following as necessary:&#x20;
    * **General** - Update the group's name and description.
    * **Modules** - Update the modules to which the group members should have access. Note that access can't be updated for a default group.
    * **Extensions** - Specify whether group users should have visibility limited to the selected extension or full visibility across all extensions.

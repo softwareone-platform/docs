@@ -18,7 +18,7 @@ To update the buyer details in your account:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyer.png" alt=""><figcaption><p>Use the Edit option on the buyer details page to update the buyer.</p></figcaption></figure></div>
 
-4. In the **Edit buyer** wizard, do the following as necessary:
+4. In **Edit buyer**, do the following as necessary:
    * **General** - Add or update the buyer's logo. You can upload an image by selecting **Select file** or by dragging the image into the field.&#x20;
    * **Buyer address** - Update the buyer's address.
 5. Select **Save**. The details are updated, and a confirmation message is displayed.

@@ -6,7 +6,7 @@ description: Learn about the different states of a user.
 
 A user is an individual with a unique login who interacts with the Marketplace Platform.&#x20;
 
-A seller can be in one of these states: **Invited**, **Invitation expired**, **Active**, **Blocked**, **Disabled**, or **Deleted**. The following diagram shows the transitions between these states:
+A user can be in one of these states: **Invited**, **Invitation expired**, **Active**, **Blocked**, **Disabled**, or **Deleted**. The following diagram shows the transitions between these states:
 
 <figure><img src="../../../.gitbook/assets/state_diagram_user.png" alt=""><figcaption><p>The state transition diagram of a user.</p></figcaption></figure>
 
