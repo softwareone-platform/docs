@@ -4,35 +4,45 @@ description: Learn about notifications in the Marketplace Platform.
 
 # Notifications
 
-Notifications Management allows account administrators to configure recipients and manage subscribers (also called categories) for their Marketplace account.
+The **Notifications** page lets account administrators manage account-level email alerts.&#x20;
 
-Notifications are email alerts sent from SoftwareOne's email address and may include updates related to order status changes, subscription modifications (upsizes or downsizes), invoice generation, and more. These alerts help you stay informed and take proactive actions as necessary.
+These email alerts may include events, such as order updates, subscription changes, invoice activity, and more. Admins can use the **Notifications** page to:
 
-Admins can manage notifications for their account from the **Notifications** page. Individual users can [manage notifications](../../../marketplace-platform/getting-started/manage-notification-preferences.md) for their profile through the **My profile** option in the account menu.&#x20;
+* View a list of all notification messages.
+* Review categories and configure recipients.
+* Update settings.
 
-### Notification subscribers (categories)
+Account administrators can manage notifications at the account level. Individual users manage their own preferences through **My profile**. For user-level preferences, see [Manage notifications](../../../marketplace-platform/getting-started/manage-notification-preferences.md).
 
-The Marketplace Platform supports notification subscribers (referred to as categories) to help you manage email preferences. These categories group related messages together, so you can manage preferences at the category level, instead of managing each email individually.
-
-For example, the **Orders** notification category includes all alerts related to your orders, like order confirmations and status updates. If you choose to disable this category, you'll stop receiving all emails related to your Marketplace orders.
-
-To see a list of categories, go to **Notifications** > **Subscribers**. To manage these categories, see [Enable or disable categories](enable-or-disable-categories.md).
-
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_interface.png" alt=""><figcaption><p>Use the Notifications page to view subscribers, messages, and settings.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications.png" alt=""><figcaption><p>Use the Notifications page to view messages, settings, and subscribers.</p></figcaption></figure></div>
 
 ### Notification messages
 
-The platform stores all notification emails sent at the account level.
+The **Messages** tab shows the notification history and details for each message.&#x20;
 
-Administrators can view a list of messages and detailed information for each message, including the message ID, recipient's email address, message status, and more.&#x20;
-
-To view the list of messages, go to **Notifications** > **Messages**. For more information, see [View notification messages](view-notification-messages.md).
+Account administrators can view sent messages at the account level. For more details, see [View notification messages](view-notification-messages.md).
 
 ### Notification settings
 
-The **Settings** tab allows account administrators to customize the global email notification settings, including the sender name displayed to recipients and the information that appears within the footer of every notification email.
+The **Settings** tab lets account administrators customize global notification email settings.
 
-To manage settings, see [Customize notification settings](edit-notification-settings.md).
+These settings include the sender name and the footer details shown in every notification email. To manage these settings, see [Customize notification settings](edit-notification-settings.md).
+
+### Notification subscribers
+
+The **Subscribers** tab displays all categories and their status.
+
+Categories group the related notification emails together. This lets you manage alerts at the category level, instead of managing each email individually. For example, the **Orders** category includes order confirmations and status updates. If you disable this category, recipients stop receiving order-related emails until you enable it again.
+
+To manage categories, see [Enable or disable categories](enable-or-disable-categories.md).
+
+### Notification recipients
+
+Each category has its own recipients.
+
+Recipients can include specific users and user groups. When an event is triggered, the assigned recipients receive email alerts for that category.
+
+To manage recipients, open a category from **Notifications** > **Subscribers**, then use the **Recipients** tab. For more details, see [Configure recipients](configure-recipients.md).
 
 ### Related topics
 

@@ -4,41 +4,32 @@ description: Manage the notification categories for your account.
 
 # Enable or disable categories
 
-Account administrators can enable specific categories to receive email alerts.
+Account administrators can manage categories to start or stop receiving email alerts.&#x20;
 
-By default, all notification categories are enabled, which means recipients assigned to these categories receive an email whenever a specific event occurs.
-
-Administrators can stop unwanted notifications by disabling the category. This immediately stops notifications for all recipients in that category until the category is re-enabled. For example, if the **Subscriptions** category is disabled, all subscription-related notifications stop.
+By default, all notification categories are enabled. Once a category is disabled, all notifications emails for that category stop until it's re-enabled.&#x20;
 
 {% hint style="info" %}
-* To see all available categories, go to **Notifications > Subscribers**.&#x20;
-* The Marketplace Platform doesn't allow disabling email messages for profile updates, including password reset alerts and account invitation emails.
+You cannot disable notifications for profile updates, including password reset alerts and account invitation emails.
 {% endhint %}
 
-### Disabling a notification category
+### Disabling a category
 
-{% hint style="info" %}
-The steps in this section are for account administrators to manage categories at the account level. To manage notifications for your individual profile, see [Manage notification preferences](../../../marketplace-platform/getting-started/manage-notification-preferences.md).
-{% endhint %}
-
-To disable a notification category:
+To disable a category:
 
 1. Go to **Settings** > **Notifications**. &#x20;
 2. Select the **Subscribers** tab. Then, select the required category, for example, **Orders**.
 3. On the details page, select the dropdown arrow<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">and choose **Disable**.
 4. In the **Disable Category** dialog, add your comments to the **Notes** field.&#x20;
-5. Select **Disable**. A confirmation message is displayed, and the notification emails are disabled.
+5. Select **Disable**. A confirmation message is displayed. All notification emails are disabled.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_disable.png" alt=""><figcaption><p>Add comments and then disable the notification category.</p></figcaption></figure></div>
 
-### Enabling a notification category
+### Enabling a category
 
-To re-enable a disabled notification category:
+To re-enable a category:
 
 1. Go to **Settings** > **Notifications**. &#x20;
 2. Select the **Subscribers** tab. Then, select the category you want to re-enable.
 3. On the details page, select the dropdown arrow<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">and choose **Enable**.
 4. In the **Enable** dialog, add comments in the **Notes** field.
-5. Select **Enable**.&#x20;
-
-A confirmation message is displayed, and all notification emails for the category are immediately re-enabled.
+5. Select **Enable**. A confirmation message is displayed. All notification emails for the category are re-enabled.
