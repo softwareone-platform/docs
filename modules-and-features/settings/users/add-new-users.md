@@ -37,5 +37,5 @@ After adding the user, advise the user to locate the invitation email from Softw
 * To copy the invitation as a link and share it with the individual, go to the **Users** page > select the actions icon (**•••**) for the user > select **Copy invitation link**.&#x20;
 * If the invitation has expired, go to the **Users** page > select the actions icon (**•••**) for the user > select **Send new invitation**.
 
-To learn more, see [Manage User Invitations](https://docs.platform.softwareone.com/modules-and-features/settings/users/manage-user-invitations).
+To learn more, see [Manage account invitations](manage-user-invitations.md).
 {% endhint %}

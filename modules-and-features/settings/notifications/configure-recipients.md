@@ -21,8 +21,8 @@ To add specific users and groups to your email notifications:
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_subscribers_details.png" alt=""><figcaption><p>Use the recipients tab on the Subscriber details page to configure recipients.</p></figcaption></figure></div>
 
 4. Define the recipients:
-   * To define specific users, select **Edit** in the **Users** section and select all users who should receive email messages. Note that only active users are displayed in this list. If a user you want to add isn't displayed, make sure they have been [added to your account](/broken/pages/78IjQuMhA6Pk2BNXQxOv).
-   * To add groups, select **Edit** in the **Groups** section and choose the required groups. You can select multiple groups from the list.&#x20;
+   * To define specific users, select **Edit** in the **Users** section and select all users who should receive email messages. Note that only active users are displayed in this list. If a user you want to add isn't displayed, make sure they are added to the account.
+   * To add groups, select **Edit** in the **Groups** section and choose the required groups. You can select multiple groups.&#x20;
 5. Select **Save**. Your list of recipients is updated for the selected category.&#x20;
 
 ### Removing recipients
