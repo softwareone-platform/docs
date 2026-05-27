@@ -4,7 +4,7 @@ description: Get answers to frequently asked questions.
 
 # Mobile app FAQs
 
-### General Access
+### General access
 
 <details>
 
@@ -18,13 +18,13 @@ The app is invite-only. If you have received an invitation, follow the link in y
 
 <summary>Can I complete the account registration process through the app?</summary>
 
-The app is for existing users who already have an account within the SoftwareOne Marketplace.&#x20;
+The app is for existing users with an account in the SoftwareOne Marketplace.&#x20;
 
 New users must register their account through the web version at [https://portal.platform.softwareone.com/](https://portal.platform.softwareone.com/).
 
 </details>
 
-### Device & System Requirements
+### Device & system requirements
 
 <details>
 
@@ -50,7 +50,7 @@ The app supports Android version 15 or later.
 
 </details>
 
-### App Functionality
+### App functionality
 
 <details>
 
@@ -66,9 +66,9 @@ You cannot place orders or modify subscriptions through the app. To view the lis
 
 <summary>Can I update my profile through the app?</summary>
 
-Currently, the app only supports read-only actions. Therefore, it is not possible to update your profile or other settings.&#x20;
+You cannot update your profile using the app.&#x20;
 
-To view the list of supported features, see [App capabilities](app-overview/#app-capabilities).
+To update your profile, use the web version at [https://portal.platform.softwareone.com/](https://portal.platform.softwareone.com/).
 
 </details>
 
@@ -80,7 +80,7 @@ The app supports the same languages as the web version. It uses the device langu
 
 </details>
 
-### Sign-in & Security
+### Sign-in & security
 
 <details>
 
@@ -104,18 +104,18 @@ Verification codes are only valid for 3 minutes. If your code is no longer valid
 
 <summary>I have trouble signing in to the app.</summary>
 
-If you are having trouble signing in to the app, try these troubleshooting steps:
+If you have trouble signing in, try these steps:
 
 * Check your internet connection.
 * Ensure you are using the email address you provided when you set up your Marketplace account.
-* Make sure that your account is active. If you haven't accepted your account invitation yet, you must do so and complete the registration first through the web version at [https://portal.platform.softwareone.com/](https://portal.platform.softwareone.com/).
+* Ensure that your account is active. If you haven't accepted your account invitation yet, you must do so and complete the registration first through the web version at [https://portal.platform.softwareone.com/](https://portal.platform.softwareone.com/).
 * If you are not receiving the verification code, check your Spam or Junk email folders. You can also resend the code.
 
 If the issue persists, [contact support](../help-and-support/contact-support.md) for assistance.
 
 </details>
 
-### Data & Troubleshooting
+### Data & troubleshooting
 
 <details>
 
@@ -134,15 +134,5 @@ Additionally, we gather usage data and diagnostic information, including crash a
 If you notice any discrepancy, we recommend checking the web version of the platform.
 
 Sometimes, temporary issues can cause discrepancies. The web version reflects the most accurate and complete data.
-
-</details>
-
-### Miscellaneous
-
-<details>
-
-<summary>Is the mobile app open source?</summary>
-
-Yes. The app is open source and publicly available on GitHub: [https://github.com/softwareone-platform/mpt-mobile-platform/](https://github.com/softwareone-platform/mpt-mobile-platform/)
 
 </details>
