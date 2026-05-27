@@ -6,9 +6,9 @@ description: Access your Marketplace account using your login credentials.
 
 You can sign in to the SoftwareOne Marketplace using either a web or mobile browser.&#x20;
 
-Additionally, you can access the platform through the SoftwareOne Marketplace mobile app, available for iOS and Android devices.&#x20;
+Additionally, you can access the platform via the SoftwareOne Marketplace mobile app, available on iOS and Android.&#x20;
 
-This topic describes how to sign in to the web version. For details on signing in to the app, see[ Get started with the app](../../marketplace-mobile-app/app-overview/get-started-with-the-app.md).&#x20;
+This topic describes how to sign in to the web version. For the mobile app, see [Get started with the app](../../marketplace-mobile-app/app-overview/get-started-with-the-app.md).&#x20;
 
 ### Signing in to the web version
 
@@ -30,4 +30,4 @@ If you have forgotten your password, select **Forgot password?** and follow the 
 
 ### Next steps
 
-After signing in, start with [Navigate the interface](interface/). For an overview of key concepts and onboarding guidance, see [Guides & tutorials](../guides-and-tutorials/).
+After signing in, start with [Navigate the interface](interface/). For onboarding guidance, see [Guides & tutorials](../guides-and-tutorials/).

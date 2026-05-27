@@ -4,34 +4,45 @@ description: Enable or disable notifications for your profile.
 
 # Manage notifications
 
-The Marketplace Platform sends notification emails based on specific events in your account. These alerts are triggered according to the notification categories enabled for your profile.&#x20;
+The Marketplace Platform sends email alerts for specific account-related events based on the notification categories enabled for your profile.
 
-If you want to opt out of these alerts, you can update your preferences. There are two ways to do this:&#x20;
-
-* By signing in to your account and using the **My profile** option.
-* By selecting the **Manage notifications** link in the footer of your notification email. This option allows you to update preferences without signing in to the platform.
-
-### Managing notifications (using the My profile option)
+You can manage categories to choose which notifications you receive.
 
 {% hint style="info" %}
-* Some categories are enabled by default, and you can't opt out of these categories.&#x20;
-* Administrators can manage account-level preferences from the [Notifications](../../modules-and-features/settings/notifications/) page.
+* Some categories are enabled by default, and you can't disable them.
+* These settings apply to your user profile only. Account administrators manage account-level notification settings separately on the [Notifications](../../modules-and-features/settings/notifications/) page.
 {% endhint %}
 
-To update your preferences using the **My profile** option:
+### Manage notifications from your profile
+
+To manage notifications from **My profile**:
 
 1. Sign in to your account.
 2. Select your profile menu, then select **My profile**.
-3. Select the **Notifications** **preferences** tab. All notification categories are displayed.
-4. Select **Edit**.
-5. Under **Edit notification preferences**, use the checkboxes to enable or disable categories.
-6. Select **Save**.
+3. Select the **Notification preferences** tab, then select **Edit**.
 
-### Managing notifications (via email)
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/edit_notifications.png" alt="The Edit option on the Notification preferences tab"><figcaption><p>Select <strong>Edit</strong> on the <strong>Notification preferences</strong> tab to manage your categories.</p></figcaption></figure></div>
 
-To update your preferences from your notification email:
+4. Under **Edit notification preferences**, use the checkboxes to enable or disable categories.
+5. Select **Save**.
+
+Your changes are saved immediately and apply to future notification emails.
+
+### Manage notifications from an email
+
+To update preferences using the notification email:
 
 1. Open your notification email.
 2. Scroll down to the footer and select the **Manage notifications** link. The **Manage notifications** form opens in your browser.
 3. Use the checkboxes to enable or disable categories.
-4. Select **Save**.
+4. Select **Save**. Your changes are saved immediately and apply to future notification emails.
+
+### Related topics
+
+{% content-ref url="manage-profile.md" %}
+[manage-profile.md](manage-profile.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../modules-and-features/settings/notifications/" %}
+[notifications](../../modules-and-features/settings/notifications/)
+{% endcontent-ref %}

@@ -4,15 +4,15 @@ description: Change your profile picture, display language, and time zone settin
 
 # Manage your profile
 
-Your profile contains details, such as your profile picture, first and last name, and contact options. Use the **My profile** page to update your personal details and display preferences.
+Your profile contains details, such as your profile picture, first and last name, and contact options. Use the **My profile** page to update your personal details and region preferences.
 
 {% hint style="info" %}
-Regional settings only affect the Marketplace interface. They do not apply to platform‑generated attachments, such as PDF documents (including invoices) and Excel files, which follow their own local settings.
+Regional settings only affect the Marketplace interface. They don't apply to platform‑generated attachments, such as PDF documents (including invoices) and Excel files, which follow their own local settings.
 {% endhint %}
 
-### Updating your profile
+### Managing your profile
 
-To update your profile:
+To manage your profile:
 
 1. Sign in to your account.
 2. Select your profile menu in the header, then select **My profile**.

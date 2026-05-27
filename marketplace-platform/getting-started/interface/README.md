@@ -18,7 +18,9 @@ The header is always visible as you move through the platform.&#x20;
 
 <summary>Main menu</summary>
 
-The main menu gives you access to the modules enabled for your account. Select <i class="fa-bars">:bars:</i> **Home** to open it.
+The main menu gives you access to the modules enabled for your account.&#x20;
+
+Select <i class="fa-bars">:bars:</i> **Home** to open it.
 
 The menu label changes with your current context. For example, it shows **Billing** on invoice pages and **Marketplace** on subscription pages.
 
@@ -51,7 +53,7 @@ For example, to find an agreement, select **Agreements** and enter the full ID, 
 The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size="line"> gives you quick access to documentation, support, and feedback.
 
 * **Documentation** shows recommended help topics. Select **View all** to open the full documentation set.
-* **Need help?** opens the **Get help** wizard for platform questions or issues.
+* **Need help?** redirects you to help and support.
 * **Send feedback** lets you share comments and suggestions with us. For details, see [Share feedback](../../../help-and-support/share-feedback.md).
 
 </details>
@@ -62,7 +64,7 @@ The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" dat
 
 The **Spotlight** option <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> shows all items that need action.
 
-Examples include expiring subscriptions, pending orders, overdue invoices, and more. For more details, see [Spotlight widget](view-pending-tasks.md).
+Examples include expiring subscriptions, pending orders, overdue invoices, and more. For more details, see the [Spotlight widget](view-pending-tasks.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>Use the spotlight widget to view and manage urgent tasks.</p></figcaption></figure></div>
 
@@ -76,7 +78,7 @@ Use the profile menu to manage your profile settings. From here, you can also:&#
 
 * Search for an account by name or ID.
 * Switch to another account without signing out. For details, see [Switch accounts](../switch-account.md).
-* Add an account to your **Favorites** and access that account from the **Recents** tabs for faster access. For details, see [Using favorites](../mark-favorite-pages.md).
+* Add an account to your **Favorites** and access that account from the **Recents** tab for faster access. For details, see [Using favorites](../mark-favorite-pages.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Use the profile menu to access your profile, manage settings, switch accounts, and more.</p></figcaption></figure></div>
 

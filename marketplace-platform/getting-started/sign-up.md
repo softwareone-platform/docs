@@ -30,6 +30,8 @@ After we configure your account, you'll receive the details you need to access i
 
 ### Next steps
 
-If your account is ready, continue to the [Sign in to your account](sign-in-to-your-account.md) page. After signing in, start with [Navigate the interface](interface/) to learn about the key components and features.
+If your account is ready, continue to the [Sign in to your account](sign-in-to-your-account.md) page.&#x20;
 
-For an overview of key concepts and onboarding guidance, see [key concepts](key-concepts.md) and [guides & tutorials](../guides-and-tutorials/), respectively.
+After signing in, start with [Navigate the interface](interface/) to learn about the key components and features.
+
+For key concepts and onboarding guidance, see [key concepts](key-concepts.md) and [guides & tutorials](../guides-and-tutorials/), respectively.
