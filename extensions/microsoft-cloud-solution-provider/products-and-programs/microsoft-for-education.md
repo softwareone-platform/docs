@@ -13,13 +13,13 @@ To learn more about the benefits, features, and value that Microsoft offers to e
 Education pricing applies to license-based services and perpetual software only. Azure products and software subscriptions maintain standard pricing.
 {% endhint %}
 
-## Why is the qualification process necessary?
+### Why is the qualification process necessary?
 
 If you want to order Microsoft 365 Education subscriptions, your CSP tenant must be eligible. The academic eligibility is verified by Microsoft.
 
 Without this verification, you won't be able to order subscriptions at academic prices through the Marketplace Platform.&#x20;
 
-## What documents are needed to confirm eligibility?
+### What documents are needed to confirm eligibility?
 
 Microsoft requires the following documents to verify your institution’s eligibility:
 
@@ -38,18 +38,18 @@ When submitting your documents, keep these points in mind:
 4. Provide documents in standard formats, such as PDF or high-quality scanned images.
 5. Provide English translations for documents in other languages.
 
-## What is the qualification process?
+### What is the qualification process?
 
 The qualification process depends on whether your institution already has a Microsoft tenant.&#x20;
 
-### For institutions without a tenant
+#### For institutions without a tenant
 
 If your institution doesn't have a Microsoft tenant, you can either enroll directly with Microsoft or choose the SoftwareOne-assisted qualification process.
 
 * **Direct enrollment with Microsoft** (recommended) - This approach allows you to set up a new tenant and manage the eligibility process directly with Microsoft. For instructions on setting up a new tenant, [see this page](https://learn.microsoft.com/en-us/microsoft-365/education/deploy/create-your-office-365-tenant) or contact Microsoft support for business tenants using the phone numbers listed at [Customer service phone numbers](https://support.microsoft.com/en-us/topic/customer-service-phone-numbers-c0389ade-5640-e588-8b0e-28de8afeb3f2).
 * **SoftwareOne-assisted qualification** - Choose this approach if you prefer guided support through SoftwareOne.
 
-### For institutions with an existing tenant
+#### For institutions with an existing tenant
 
 If you already have a Microsoft tenant, the qualification process involves upgrading your existing environment to education status rather than creating a new one.&#x20;
 
@@ -65,13 +65,13 @@ In such cases, the following options are available:
 
 Microsoft typically processes existing tenant qualification requests within 10 business days, similar to new tenant timelines.&#x20;
 
-## How do I submit an eligibility request to SoftwareOne?
+### How do I submit an eligibility request to SoftwareOne?
 
 For SoftwareOne-assisted qualifications, gather your [documents](microsoft-for-education.md#what-documents-are-needed-to-confirm-eligibility) and share them with Marketplace Platform Support.&#x20;
 
 You can contact us by email or create a support case through your Marketplace account. For details, see [Contacting Marketplace Platform Support](../../../help-and-support/contact-support.md#contacting-marketplace-platform-support).
 
-## What happens next?
+### What happens next?
 
 Generally, Microsoft evaluates qualification requests within 10 business days. You can track the status in the Microsoft 365 admin center. For instructions, see the [Microsoft documentation](https://learn.microsoft.com/en-us/microsoft-365/commerce/subscriptions/verify-academic-eligibility?view=o365-worldwide\&source=recommendations#check-the-status-of-your-schools-academic-eligibility).&#x20;
 

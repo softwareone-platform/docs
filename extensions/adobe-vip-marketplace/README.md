@@ -2,6 +2,27 @@
 description: Learn about Adobe VIP Marketplace and how it benefits you.
 cover: ../../.gitbook/assets/adobe_partnerconnect.png
 coverY: 167.1578947368421
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Adobe VIP Marketplace

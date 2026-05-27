@@ -1,19 +1,26 @@
 # Microsoft Customer Agreement (MCA)
 
-The Microsoft Customer Agreement (MCA) is a set of terms and conditions that governs the purchase and use of Microsoft cloud services. Microsoft requires customers to read and accept the MCA to ensure they understand the rights, responsibilities, and conditions associated with their subscriptions and services.
+The Microsoft Customer Agreement (MCA) is a set of terms and conditions that governs the purchase and use of Microsoft cloud services.&#x20;
+
+Microsoft requires customers to read and accept the MCA to ensure they understand the rights, responsibilities, and conditions associated with their subscriptions and services.
 
 ### Who should accept the MCA?
 
-Every end customer purchasing Microsoft cloud services through the Cloud Solution Provider (CSP) program must accept the MCA. By accepting the MCA, customers confirm their understanding and agreement to Microsoft’s legal terms before any subscription or service can be provisioned.
+All customers purchasing Microsoft cloud services through the Cloud Solution Provider (CSP) program must accept the MCA.&#x20;
 
-Organizations purchasing Microsoft cloud services, such as Azure, Microsoft 365, Dynamics 365, and more for the first time through a CSP partner must accept the MCA before their order can be fulfilled.
+By accepting the MCA, you confirm your understanding and agreement to Microsoft’s legal terms before any subscription or service can be provisioned.
 
-Additionally, existing CSP Customers who have not previously accepted the MCA must also accept the MCA. If a customer's CSP partner attested to the MCA on their behalf before 1 April 2023, and they have not re-accepted, they will need to review the MCA and accept it again to continue transacting with their existing subscriptions or create new ones.
+Organizations purchasing Microsoft cloud services, such as Azure, Microsoft 365, Dynamics 365, and more for the first time through a CSP partner must also accept the MCA.
+
+Additionally, existing CSP customers who haven't previously accepted the MCA must also accept it. If your CSP partner attested to the MCA on your behalf before 1 April 2023, and you have not re-accepted, you must review the MCA and accept it again to continue transacting with your new or existing subscriptions.
 
 ### How does the Marketplace Platform handle MCA validation?
 
 To comply with Microsoft’s requirements, the Marketplace Platform automatically checks whether the MCA has been accepted.
 
-If the agreement has been accepted, the order processing continues as usual.&#x20;
+* If accepted, the order processing continues as usual.&#x20;
+* If pending, the order remains querying and doesn't progress until the agreement is reviewed and accepted.&#x20;
 
-However, if it has not been accepted, the order remains in a querying state and does not progress until the agreement is reviewed and accepted. For all such orders, the details page provides information on how to directly review and accept the MCA within the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement). For specific instructions, see [Accepting the MCA](accepting-the-mca.md).
+### How to review and accept the MCA?
+
+You can review and accept the MCA using the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement). For more details, see [Review and accept the MCA](accepting-the-mca.md).

@@ -1,4 +1,4 @@
-# Trial Subscriptions
+# Trial subscriptions
 
 The Marketplace Platform allows you to explore a Microsoft product before committing to a paid version. This means you can order a free trial subscription and try it out for 30 days.&#x20;
 
@@ -21,24 +21,24 @@ Use the following methods to find trial-eligible items in the Marketplace:
 * In the main navigation menu, go to **Catalog** > **Items**. Then, apply a filter using either the **Name** or **Vendor item ID** that includes the keyword "trial".
 * In the purchase wizard, go to the **Items** step, then use the **Product Item Name** filter to find the trial items you need.
 
-### Ordering trial subscriptions
+### Ordering a trial subscription by creating a new agreement
 
-**To order a trial subscription by creating a new agreement**
+To order a trial subscription for a new agreement:
 
-1. Navigate to the **Products** page, then select the required Microsoft product.
-2. On the product details page, select **Buy now**.
-3. In the purchase wizard:
+1. Go to **Catalog** > **Products.**
+2. Select the required Microsoft product.
+3. On the product details page, select **Buy now**.
+4. In the purchase wizard:
    1. Select **Create agreement** and complete all steps until you reach the **Items** step.
-   2. In the **Items** step, use filters to find the trial items you need and add them to your order.&#x20;
-4. Complete all remaining steps to submit your purchase order.&#x20;
+   2. In the **Items** step, use filters to find the required trial items, then add those items to your order.&#x20;
+5. Complete the remaining steps to submit your purchase order.&#x20;
 
-**To order a trial subscription using an existing agreement**
+### Ordering a trial subscription using an existing agreement
 
-1. Navigate to the **Agreements** page and select the required CSP agreement.
-2. On the agreement details page, select **Buy now**.
-3. Under **Select Items**, use filters to locate the desired trial items and add them to your order.&#x20;
-4. Complete all remaining steps to finalize your change order.&#x20;
+To order a trial subscription for an existing agreement:
 
-For detailed instructions on creating purchase and change orders, see these [tutorials](../../additional-resources/tutorials-and-videos/).
-
-After the order is placed, your orders appear on the **Orders** page, and your NCE trial subscription appears on the **Subscriptions** page.
+1. Go to **Marketplace** > **Agreements**.
+2. Select the required agreement.
+3. On the agreement details page, select **Buy now**.
+4. Under **Select Items**, use filters to find the required trial items, then add those items to your order. &#x20;
+5. Complete the remaining steps to finalize your change order.&#x20;

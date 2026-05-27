@@ -1,4 +1,4 @@
-# Perpetual Software
+# Perpetual software
 
 A perpetual license is a software licensing model that allows indefinite use of the software after a one-time payment.&#x20;
 
@@ -10,7 +10,7 @@ Once purchased, the license holder can continue using the software without recur
 * Need a specific version to ensure application compatibility.
 * Maintain complete control over their update and upgrade cycles
 
-## Why choose perpetual licenses?
+### Why choose perpetual licenses?
 
 There are several reasons to choose perpetual software products, including:
 
@@ -19,7 +19,7 @@ There are several reasons to choose perpetual software products, including:
 * **Enhanced control and security** - Perpetual licensing allows organizations to manage software deployment, updates, and security internally. This approach is particularly valuable for environments that prioritize system stability and compliance.
 * **No ongoing renewal requirements** - Perpetual licenses don't expire, removing the need for renewals and reducing administrative overhead. This ensures uninterrupted access to critical software tools.
 
-## Why purchase perpetual licenses through SoftwareOne?
+### Why purchase perpetual licenses through SoftwareOne?
 
 SoftwareOne provides a streamlined process for acquiring and managing Microsoft perpetual licenses. With proven expertise in Microsoft licensing, SoftwareOne simplifies procurement, deployment, and lifecycle management through the Marketplace Platform.
 

@@ -1,34 +1,60 @@
 # About perpetual software orders
 
-A perpetual license is a type of software license that requires a one-time upfront payment. Perpetual license purchases are also called one-time purchases in the Marketplace Platform.&#x20;
+A perpetual software order is a one-time purchase. You pay upfront and keep the license indefinitely.
 
-Unlike a subscription plan, which requires ongoing payments to keep the license active, a perpetual license remains valid indefinitely and doesn't require recurring payments. See [Perpetual Software](./) to learn more about this licensing model.
+Perpetual software orders are not subscriptions. They do not renew, and they do not require recurring payments.&#x20;
 
-## Supported Microsoft products
+### Supported products
 
-The Marketplace Platform supports ordering perpetual licenses for the following products:
+You can order perpetual licenses for these products:
 
 * Microsoft Perpetual Software - Commercial
 * Microsoft Perpetual Software - Education
 * Microsoft Perpetual Software - Charity
 
-These products are available for ordering through the [Products ](../../../../modules-and-features/catalog/products.md)page in the platform:
+You can find these products on the **Catalog** > **Products** page.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The Products page in the Marketplace Platform.</p></figcaption></figure></div>
+### What to know before ordering
 
-## Ordering process
+The following rules apply to perpetual software orders:
 
-You can order perpetual licenses for the supported Microsoft products by creating a purchase order. Purchase orders are created when you buy a product under a new agreement.
+* Perpetual licenses require a one-time upfront payment.
+* You cannot increase or decrease the quantity of licenses.
+* After the order is complete and the license is set up, you can retrieve your product keys from the [Microsoft admin portal](https://admin.microsoft.com). For details, see [Download software and product license keys](https://learn.microsoft.com/en-us/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide#download-software-and-product-license-keys).
+* You can cancel within 30 days of the purchase date.&#x20;
+* To buy more licenses, you can submit a change order. For details, see [Order additional perpetual software licenses](../../additional-resources/tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md).
 
-The steps to order perpetual software are like any other Microsoft product in the Marketplace Platform. For a general description of the ordering process, see [How to Buy Products in the Marketplace](../../../../marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-buy-products-in-the-marketplace.md). For step-by-step instructions, see [Buy Perpetual Software Licenses](../../additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md).
+### How ordering works
 
-## Specifics you must know
+You order perpetual software by submitting a purchase order.
 
-The following specifics apply to perpetual software purchases:
+In most cases, you start from **Catalog** > **Products**, select **Microsoft Perpetual Software**, and create a new agreement as part of the order flow.
 
-* Perpetual licenses require a one-time upfront payment; therefore, you can't increase or decrease the number of licenses. To buy more licenses of the same perpetual software, you must place a change order. For instructions, see Order Additional Perpetual Software Licenses.
-* Once your order has been completed and your license has been successfully set up, you can download your license keys from the [Microsoft admin portal](https://admin.microsoft.com). You'll need the key to activate the software. For download instructions, see Microsoft's documentation: [Download software and product license keys](https://learn.microsoft.com/en-us/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide#download-software-and-product-license-keys).
-* Cancellations are permitted within 30 days of the purchase date. For details, see [Manage Perpetual Software Orders](manage-perpetual-software-orders.md).
-* Perpetual license orders appear as a **one-time purchase** on the [agreement details page](../../../../modules-and-features/marketplace/agreements/#subscription-details), as shown in the following image:
+For step-by-step instructions, see [Buy perpetual software licenses](../../additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md).&#x20;
+
+Perpetual software orders appear as a **one-time purchase** in the agreement details.
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>One-time purchases in the Marketplace Platform.</p></figcaption></figure></div>
+
+### How renewals work
+
+Renewals are not supported for Microsoft Perpetual Software.&#x20;
+
+The license is provided for indefinite use following a one-time upfront payment.
+
+### How cancellation works
+
+You can cancel a perpetual software purchase within 30 days of the purchase date without incurring a termination fee.&#x20;
+
+For cancellations within the 30-day window:
+
+* The associated software keys and download links are revoked.
+* You are responsible for discontinuing use, uninstalling the software, and removing any downloads or links.
+* The canceled item remains visible on the software details page in the [Microsoft Admin Center](https://admin.microsoft.com), but the activation key is disabled.&#x20;
+
+To cancel your purchase, contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md#contacting-marketplace-platform-support). Make sure to provide your order ID. We recommend that the cancellation request be made by someone within your organization who is authorized to request cancellations.
+
+### Related tasks
+
+* [Buy perpetual software licenses](../../additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
+* [Order additional perpetual software licenses](../../additional-resources/tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md)

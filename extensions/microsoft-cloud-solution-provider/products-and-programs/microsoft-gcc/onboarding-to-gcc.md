@@ -1,6 +1,6 @@
 # Onboarding to GCC
 
-This topic describes how you can start your Government Community Cloud (GCC) journey with SoftwareOne.&#x20;
+This topic describes how to start your Government Community Cloud (GCC) journey with SoftwareOne.&#x20;
 
 The process depends on whether you are a new customer just starting with GCC or an existing GCC customer looking to move to SoftwareOne.
 
@@ -19,11 +19,9 @@ For questions about the Microsoft validation process, contact the US Government 
 
 If you are an existing GCC customer:
 
-1. Sign in to your account on the Marketplace Platform.&#x20;
-2. Navigate to the **Products** page, then select **Microsoft 365 Business, Enterprise & Apps - Government**.
-3. On the details page, select **Buy now** to start the ordering process.
-4. In the purchase wizard, complete all the steps to place your order.&#x20;
+1. Go to **Catalog** > **Products** page.
+2. Select **Microsoft 365 Business, Enterprise & Apps - Government**.
+3. On the product details page, select **Buy now**.
+4. Follow the guided steps in the purchase wizard to submit your order.&#x20;
 
-For detailed instructions on navigating through the purchase wizard to place an order, see any of these [tutorials](../../additional-resources/tutorials-and-videos/).
-
-Once the order is placed, your order will appear on the **Orders** page, and your subscription will appear on the **Subscriptions** page.
+For step-by-step instructions on placing an order, see [the Microsoft CSP tutorials](../../additional-resources/tutorials-and-videos/).
