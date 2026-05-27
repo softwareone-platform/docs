@@ -6,13 +6,13 @@ description: Access your Marketplace account from your mobile device.
 
 The SoftwareOne Marketplace app provides secure access to key functionalities of the platform on mobile devices.
 
-It's designed for quick and convenient access, allowing you to stay connected on the go and access Marketplace seamlessly at any time and from anywhere. This app is intended for existing users who want to track important objects and stay informed about updates.
+It's designed for quick and convenient access, allowing you to stay connected on the go and access Marketplace seamlessly at any time and from anywhere.  The app is intended for existing users who want to track important objects and stay informed about updates.
 
 ### Access and requirements <a href="#requirements" id="requirements"></a>
 
 The app currently supports iOS devices running iOS 17 or later, and Android devices running Android 15 or later. You can download it from the appropriate app store for your device.&#x20;
 
-To use the app, you must already have an account in the SoftwareOne Marketplace. For more details, see [Get started with the app](get-started-with-the-app.md).
+To use the app, you must already have an account in the SoftwareOne Marketplace. For details on signing in and using the app, see [Get started with the app](get-started-with-the-app.md).
 
 ### App capabilities
 

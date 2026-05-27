@@ -11,7 +11,7 @@ To get started, open the Apple App Store (iOS) or the Google Play Store (Android
 Once the installation is complete, open the app and follow the instructions to get started.
 
 {% hint style="info" %}
-To use the app, you must have a SoftwareOne Marketplace account.&#x20;
+To use the app, you must already have a SoftwareOne Marketplace account.&#x20;
 {% endhint %}
 
 ### Signing in to the app
