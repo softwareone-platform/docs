@@ -14,7 +14,7 @@ To update a subscription's client ID:
 
 1. Go to **Marketplace** > **Subscriptions**.
 2. Select the subscription you want to update.
-3. On the **subscription details** page, select the **Details** tab. Then, select **Edit**.&#x20;
+3. On the subscription details page, select the **Details** tab. Then, select **Edit**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscription_details_tab.png" alt=""><figcaption><p>The Details tab on the subscription details page.</p></figcaption></figure></div>
 

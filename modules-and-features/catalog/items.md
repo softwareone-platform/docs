@@ -27,5 +27,5 @@ On the **item details** page, you can view detailed information for a specific i
 To view item details:
 
 1. Go to **Catalog** > **Items**.
-2. Select the item you want to view. The item details page opens.
-3. Use the tabs on the item details page to view details, such as the item description, price lists, and other details.
+2. Select the item to view.
+3. Use the different tabs on the item details page to view details, such as the item description and price lists.

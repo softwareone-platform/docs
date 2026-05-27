@@ -16,7 +16,7 @@ To view submitted feedback:
 
 On the **feedback details** page, you can view detailed information for your selected feedback item.
 
-To view feedback details:
+To view details:
 
 1. Go to **Helpdesk** > **Feedback**.
 2. (Optional) Use filters to find the desired feedback item.

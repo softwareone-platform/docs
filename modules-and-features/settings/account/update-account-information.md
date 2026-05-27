@@ -13,11 +13,11 @@ Only account administrators can update these details. If you want to update your
 To update your account details:
 
 1. Go to **Settings** > **Account**.
-2. Select **Edit** to start the **Edit account** wizard.
+2. Select **Edit**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Use the Edit account wizard to update your account details.</p></figcaption></figure></div>
 
-3. Follow the guided steps to update the account details as necessary:
+3. Follow the guided steps to update the details as necessary:
    1. **General**
       1. **Logo** - Update the logo for your account. You can upload an image by selecting **Select file** or by dragging the image into the field.
       2. **Client name** - Update your account name.

@@ -22,7 +22,7 @@ There are two ways to choose a billing currency. You can select it when creating
 **Start a new purchase**
 
 1. Go to **Catalog** > **Products**.
-2. Select the product you want, then select **Buy now**. The Purchase Wizard starts.
+2. Select the product you want, then select **Buy now**. The purchase flow starts.
 3. Under **Select agreement**, select **Create agreement**.
 4. Continue through the steps until you reach the **Billing currency** step.
 {% endstep %}
@@ -48,7 +48,7 @@ Changing the billing currency affects future invoices only. Past invoices remain
 
 1. Go to **Marketplace** > **Agreements**.
 2. Select the agreement whose currency you want to update.
-3. On the **agreement details** page, select the dropdown arrow <i class="fa-chevron-down">:chevron-down:</i>, then choose **Billing currency**.
+3. On the agreement details page, select the dropdown arrow <i class="fa-chevron-down">:chevron-down:</i>, then choose **Billing currency**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/billing-currency-agreement.png" alt="Agreement details page menu with the Billing currency option"><figcaption><p>Open the menu, then select **Billing currency**.</p></figcaption></figure></div>
 {% endstep %}

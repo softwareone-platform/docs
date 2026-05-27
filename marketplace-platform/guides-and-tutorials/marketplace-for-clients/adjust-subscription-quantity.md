@@ -21,7 +21,7 @@ When reducing licenses, these rules apply:
 
 1. Go to **Marketplace** > **Subscriptions**.
 2. Select the required subscription. Ensure that the subscription is active.
-3. On the **subscription details** page, select **Edit**. The **Edit subscription** wizard starts.
+3. On the **subscription details** page, select **Edit**. The **Edit subscription** flow starts.
 {% endstep %}
 
 {% step %}

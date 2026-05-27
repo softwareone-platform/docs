@@ -16,7 +16,7 @@ To edit a licensee:&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1009).png" alt=""><figcaption><p>Select edit to update licensee details.</p></figcaption></figure></div>
 
-4. In the **Edit Licensee** wizard, complete the following steps as necessary, then **save** your changes:
+4. In the guided **Edit Licensee** flow, complete the following steps, then save your changes:
    1. **General** - Update the following details:
       1. **Logo** - Upload the licensee's logo in the JPG or PNG format. The maximum file size is 5 MB. You can upload an image by selecting **Select file** or by dragging the image into the field.
       2. **Licensee name** - Update the licensee name.

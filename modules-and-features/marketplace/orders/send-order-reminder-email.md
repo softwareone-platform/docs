@@ -25,7 +25,7 @@ To send an order reminder email:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/send_order_reminder.png" alt=""><figcaption><p>The Send reminder option in the platform.</p></figcaption></figure></div>
 
-4. In the **Send order to user** wizard, do the following:
+4. In the guided **Send order to user** flow, do the following:
    1. **Email address** - Enter the email address of the person to whom you want to send the order notification email. Select **Next**.
    2. **Order details** - Enter the reference information, then select **Next**.
    3. **Overview** -  Select the **Send a copy of this email to me** checkbox if you want to receive a copy of the email. Otherwise, leave it clear.

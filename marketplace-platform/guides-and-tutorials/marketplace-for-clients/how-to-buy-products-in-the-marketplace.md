@@ -15,18 +15,16 @@ The exact steps depend on the product and vendor. This page covers the common fl
 **Review the product**
 
 1. Go to **Catalog** > **Products**.
-2. From the list of products, select the desired product, for example, **Microsoft 365 Business, Enterprise & Apps-Commercial**. The product details page opens.
+2. Select the desired product, for example, **Microsoft 365 Business, Enterprise & Apps-Commercial**. The product details page opens.
 3. Review the information, including product details, features, and more.
 {% endstep %}
 
 {% step %}
 **Start the order**
 
-When you are ready to order:
+On the details page of your selected product, select **Buy now**.
 
-* On the details page of your selected product, select **Buy now**.
-
-The Purchase Wizard starts automatically. The wizard guides you through each required step.
+The purchase flow starts automatically and guides you through each step.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/purchase-wizard.png" alt="Purchase wizard showing the guided steps to place an order"><figcaption><p>Use the purchase wizard to complete and submit your order.</p></figcaption></figure></div>
 {% endstep %}

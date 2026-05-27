@@ -31,8 +31,8 @@ This topic describes how you can save an order for purchasing later.&#x20;
 To save a purchase order for later:
 
 1. On the **Products** page, select the product you want to buy.
-2. On the **product details** page, select **Buy now**.
-3. In the purchase wizard, complete all the steps until you reach the **Details** step.
+2. On the product details page, select **Buy now**.
+3. In the guided purchase flow, complete all the steps until you reach the **Details** step.
 4. In the **Details** step, enter the required information, then select **Save order**. The order is saved for later.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>Use the Save Order option to save your purchase order for later.</p></figcaption></figure></div>
@@ -45,8 +45,8 @@ To save a change order for later:
 
 1. Go to **Marketplace** > **Subscriptions**.
 2. Select the required subscription.&#x20;
-3. On the **subscription details** page, select **Edit.**
-4. In the **Edit subscription** wizard, do the following:
+3. On the subscription details page, select **Edit.**
+4. In the guided **Edit subscription** flow, do the following:
    1. **Items** - Adjust the quantity, then select **Next**.
    2. **Details** - Enter the reference information, then select **Save order**. The order is saved for later.
 
@@ -54,4 +54,6 @@ To save a change order for later:
 
 ### Next steps
 
-When you are ready to finalize the order, select the order on the **Orders** page and select **Review** on the order details page to continue the process. For more information, see [Submit your saved orders](submit-draft-orders.md).
+When you are ready to finalize the order, select the order on the **Orders** page and select **Review** on the order details page to continue the process.&#x20;
+
+For more information, see [Submit your saved orders](submit-draft-orders.md).

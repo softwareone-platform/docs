@@ -14,7 +14,7 @@ To create a new group:
 
 1. Go to **Settings** > **Groups**.&#x20;
 2. Select **Add**.
-3. In **Add group**, do the following:
+3. In the guided **Add group** flow, do the following:
    1. **General** - Provide the following details, then select **Next:**
       * **Name** - (Required) Enter a group name.&#x20;
       * **Description** - (Optional) Add a group description. You can enter information about the group members, their roles, and so on. &#x20;
