@@ -10,12 +10,9 @@ It's designed for quick and convenient access, allowing you to stay connected on
 
 ### Access and requirements <a href="#requirements" id="requirements"></a>
 
-The app currently supports iOS devices running iOS 17 or later, and Android devices running Android 15 or later. To use the app, you must:
+The app currently supports iOS devices running iOS 17 or later, and Android devices running Android 15 or later. You can download it from the appropriate app store for your device.&#x20;
 
-* Have an existing account in the SoftwareOne Marketplace.
-* Have received an email invitation to use the mobile experience.&#x20;
-
-Once you receive your mobile invitation email, follow the instructions provided to sign in and start using the app on your supported device. To learn more, see [Get started with the app](get-started-with-the-app.md).
+To use the app, you must already have an account in the SoftwareOne Marketplace. For more details, see [Get started with the app](get-started-with-the-app.md).
 
 ### App capabilities
 
@@ -26,7 +23,7 @@ The app supports a subset of core platform features optimized for mobile use. It
 * View your list of chats and start new direct or group chats.
 * View your profile and switch accounts.
 
-You cannot use the mobile app to perform management or purchasing actions, like placing orders, modifying subscriptions, changing settings, or performing admin tasks.
+You cannot use the app to perform management or purchasing actions, like placing orders, modifying subscriptions, changing settings, or performing admin tasks.
 
 ### App navigation <a href="#switch" id="switch"></a>
 

@@ -4,17 +4,19 @@ description: Learn how to use the mobile app version of the SoftwareOne Marketpl
 
 # Get started with the app
 
-When you are invited to the app, you will receive an invitation email.
+The SoftwareOne Marketplace app is available on both iOS and Android devices.&#x20;
 
-You can accept the invitation and follow the link to download the app from the appropriate app store for your device. Once the app is installed, open it, and continue to the sign-in page.
+To get started, open the **Apple App Store** (iOS) or the **Google Play Store** (Android), then search for the app, and tap **Download** or **Install**.&#x20;
+
+Once the installation is complete, open the app and follow the instructions to get started.
 
 {% hint style="info" %}
-To use the app, you must have a SoftwareOne Marketplace account. Additionally, make sure to use a supported device with iOS 17 or later, or Android 15 or later.
+To use the app, you must have a SoftwareOne Marketplace account.&#x20;
 {% endhint %}
 
 ### Signing in to the app
 
-For enhanced security, the app uses passwordless authentication. It means you can sign in using your registered email address and a verification code. Make sure you have access to this email address to retrieve the code and sign in.
+For enhanced security, the app uses passwordless authentication, allowing you to sign in with your registered email address and a verification code. Ensure you have access to this email account to retrieve the code and sign in.
 
 To sign in to your account:
 

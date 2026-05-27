@@ -8,17 +8,17 @@ description: Get answers to frequently asked questions.
 
 <details>
 
-<summary>From where can I get the app?</summary>
+<summary>Where can I get the app?</summary>
 
-The app is invite-only. If you have received an invitation, follow the link in your email to download the app from the appropriate app store.
+You can download the SoftwareOne Marketplace app from the Apple App Store (iOS) or Google Play Store (Android).
 
 </details>
 
 <details>
 
-<summary>Can I complete the account registration process through the app?</summary>
+<summary>Can I complete the account registration in the app?</summary>
 
-The app is for existing users with an account in the SoftwareOne Marketplace.&#x20;
+The app is for the existing users of the Marketplace Platform.&#x20;
 
 New users must register their account through the web version at [https://portal.platform.softwareone.com/](https://portal.platform.softwareone.com/).
 
