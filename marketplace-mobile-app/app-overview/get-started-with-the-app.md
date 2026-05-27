@@ -6,7 +6,7 @@ description: Learn how to use the mobile app version of the SoftwareOne Marketpl
 
 The SoftwareOne Marketplace app is available on both iOS and Android devices.&#x20;
 
-To get started, open the **Apple App Store** (iOS) or the **Google Play Store** (Android), then search for the app, and tap **Download** or **Install**.&#x20;
+To get started, open the Apple App Store (iOS) or the Google Play Store (Android), then search for the app, and tap **Download** or **Install**.&#x20;
 
 Once the installation is complete, open the app and follow the instructions to get started.
 
