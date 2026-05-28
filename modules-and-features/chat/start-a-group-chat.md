@@ -15,6 +15,5 @@ To start a group chat:
 3. In **Add group chat**, do the following:
    1. Select the people you want to add to the chat, then select **Next**.
    2. Enter a name for the group and, optionally, upload a photo.
-4. Select **Add**.&#x20;
-
-The new chat conversation window opens. Type your message in the text box and select **Send** or press **Enter** to send your message.
+4. Select **Add**. A new chat conversation window opens.&#x20;
+5. Type your message in the text box and select **Send** or press **Enter** to send your message.
