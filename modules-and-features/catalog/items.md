@@ -1,31 +1,41 @@
 ---
-description: Learn about items in the Marketplace and how to view them.
+description: Browse individual items in the Marketplace.
 ---
 
 # Items
 
-In the Marketplace Platform, an item refers to an individual stock-keeping unit (SKU) within a product. Items are part of a product, and they have their own specific name, billing model, commitment term, and billing period.&#x20;
+An item is an individual stock-keeping unit (SKU) within a product.
 
-A product can contain one or more items. For example, the _Microsoft 365 Business, Enterprise & Apps - Commercial_ product can include different items, such as _Microsoft 365 Business Premium (1-year commitment, annual billing)_, _Microsoft 365 Business Basic (no Teams, 3-year commitment, yearly billing)_, _Microsoft Teams Enterprise (1-month commitment, monthly billing)_, and more.&#x20;
+​Each item has its own specific name, billing model, commitment term, and billing period. There can be one or more items within a product. For example, a _Microsoft 365_ product can include various items, such as _Business Premium (1-year, annual billing)_, _Business Basic without Teams, Teams Enterprise_, and more.
 
-### Viewing items&#x20;
+On the **Items** page, you can view a list of individual items.&#x20;
 
-The **Items** page allows you to view all items that are available for ordering through the SoftwareOne Marketplace.&#x20;
+### Viewing items in the Marketplace
 
-To access this page, select the main menu, then choose **Catalog** > **Items**. The list of items is displayed. You can find specific items by [applying filters](../../marketplace-platform/getting-started/customize-the-data-grid.md#filtering-data) and [customizing columns](../../marketplace-platform/getting-started/customize-the-data-grid.md#managing-columns).&#x20;
-
-{% hint style="info" %}
-The **Items** page is view-only. You cannot order items from this page. Items can only be ordered when creating a purchase or change order.
-{% endhint %}
-
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/items_page.png" alt=""><figcaption><p>The Items page in the Marketplace Platform.</p></figcaption></figure></div>
-
-### Viewing item details
-
-On the **item details** page, you can view detailed information for a specific item.&#x20;
-
-To view item details:
+​To view all items:
 
 1. Go to **Catalog** > **Items**.
-2. Select the item to view.
-3. Use the different tabs on the item details page to view details, such as the item description and price lists.
+2. Browse the list of purchasable items.
+
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/items_page.png" alt=""><figcaption></figcaption></figure></div>
+
+3. Select an item to open its details.&#x20;
+4. Review details, such as item description, billing model, commitment term, billing period, and price list information.
+
+{% hint style="info" %}
+You can only view the list of items. You cannot buy items from this page. Items can only be ordered through a purchase or a change order.
+{% endhint %}
+
+### Related topics
+
+{% content-ref url="products.md" %}
+[products.md](products.md)
+{% endcontent-ref %}
+
+{% content-ref url="product-profiles/" %}
+[product-profiles](product-profiles/)
+{% endcontent-ref %}
+
+{% content-ref url="vendor-profiles/" %}
+[vendor-profiles](vendor-profiles/)
+{% endcontent-ref %}

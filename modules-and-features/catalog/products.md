@@ -1,30 +1,53 @@
 ---
-description: Learn about products in the Marketplace catalog and how to view them.
+description: Browse purchasable software products in the Marketplace.
 ---
 
 # Products
 
-In the Marketplace Platform, a product refers to a software solution or services offered by a vendor. Each product may contain one or more items (SKUs) available for purchase.&#x20;
+A product is a software solution or service offered by a vendor. Each product includes one or more purchasable items, also called SKUs.
 
-Products also contain parameters that are used to gather essential information during the ordering process. These parameters may include details about the agreement, contact person details, item quantity, and more.
+Products can also include parameters that collect required order details, such as agreement data, contact details, and quantity.
+
+On the **Products** page, you can browse available products, open product details, and start an order.
 
 ### Viewing products in the Marketplace
 
-To view products in the Marketplace:
+To view all products:
 
 1. Go to **Catalog** > **Products**.
-2. Browse the list of available products. The list is organised by vendor name and vendor ID.
+2. Browse the list of available products.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption><p>The Products page in the Marketplace Platform.</p></figcaption></figure></div>
 
-3. Select a product to open its detail page, where you can view the full description, assets, items (SKUs), pricing, and licensing details.
+3. Select a product to open its details page.
 
-### Placing an order
+On the product details page, you can review the product description and assets, the available items and pricing, licensing and ordering details.
 
-To place an order:
+### Ordering a product
 
-1. On the **Products** page, select the product you want to buy.
-2. On the product details page, review the product information, then select **Buy now**.
-3. In the guided purchase flow, complete all steps to finalize and submit your order. The ordering steps and required details vary by product and vendor.&#x20;
+To order a product:
+
+1. On the **Products** page, select the product to buy.
+2. On the product details page, review the product information.
+3. Select **Buy now**.
+4. Complete the guided purchase flow to place your order.
+
+{% hint style="info" %}
+The steps and required details vary by product and vendor.
+{% endhint %}
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing a series of ordering steps.</p></figcaption></figure></div>
+
+### Related topics
+
+{% content-ref url="items.md" %}
+[items.md](items.md)
+{% endcontent-ref %}
+
+{% content-ref url="product-profiles/" %}
+[product-profiles](product-profiles/)
+{% endcontent-ref %}
+
+{% content-ref url="vendor-profiles/" %}
+[vendor-profiles](vendor-profiles/)
+{% endcontent-ref %}

@@ -1,8 +1,8 @@
 ---
-description: View product profiles to learn about software products in our catalog.
+description: Review broader product information and related resources.
 ---
 
-# Product Profiles
+# Product profiles
 
 The **Product profiles** page within the SoftwareOne Marketplace is a central location to view detailed information for products in our catalog.&#x20;
 

@@ -148,7 +148,7 @@ An item refers to an individual stock-keeping unit (SKU) within a product. A pro
 
 For example, within the Microsoft 365 Business, Enterprise & Apps - Education product, you may find items, such as Copilot for Microsoft 365 (Education Student 13+), Defender Threat Intelligence (Education Student Pricing), Microsoft 365 A3 (Education Student Pricing), and more.&#x20;
 
-The [Items](../../modules-and-features/catalog/items.md) page displays a list of individual items. You can also view items on the **Items** tab within the product details page. You can add items to your order when placing an order through the platform.
+The [Items](/broken/pages/uyJoLNwKGHS3GZpRwqV6) page displays a list of individual items. You can also view items on the **Items** tab within the product details page. You can add items to your order when placing an order through the platform.
 
 #### Parameter
 
