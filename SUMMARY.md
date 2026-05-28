@@ -80,7 +80,6 @@
   * [Mute or unmute a chat](modules-and-features/chat/mute-or-unmute-a-chat.md)
   * [Search for chat messages](modules-and-features/chat/search-for-chat-messages.md)
   * [Edit or delete messages in chat](modules-and-features/chat/edit-or-delete-messages-in-chat.md)
-  * [Update the title for a chat](modules-and-features/chat/update-the-title-for-a-chat.md)
 * [Helpdesk](modules-and-features/helpdesk/README.md)
   * [Account team](modules-and-features/helpdesk/account-team.md)
   * [Cases](modules-and-features/helpdesk/cases/README.md)
