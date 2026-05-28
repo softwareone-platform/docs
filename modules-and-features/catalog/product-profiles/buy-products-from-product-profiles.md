@@ -11,7 +11,7 @@ After reviewing a product profile, you can start the ordering process directly f
 To order products:&#x20;
 
 1. Go to **Catalog** > **Product profile**.&#x20;
-2. (Optional) [Apply filters](filter-product-profiles.md) in the left sidebar to find the profile you want.
+2. (Optional) Apply filters in the left sidebar to find the profile you want.
 3. Select the profile to open its details page, then select **Buy now.**
 4. Under **Select product**, choose the product you want to buy.
 

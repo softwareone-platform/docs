@@ -1,38 +1,28 @@
 # Analytics
 
-The **Analytics** feature gives you insight into billing data from your invoices.
+The Analytics feature gives you insight into billing data from your invoices.
 
-Use this feature to monitor spending, forecast budgets, and manage costs.
+It provides a read-only view of your data through interactive dashboards, charts, and tables. You can use this feature to monitor spending, forecast budgets, and manage costs across your organization.
 
-Analytics also uses interactive charts and tables to help you analyze billed charges. You can choose a time period, group data by category, and apply filters to focus on the charges that matter most.
+The Analytics page is driven by filters. Once filters are applied, all visualizations update automatically. No data is displayed until filters are applied. All data is read-only and cannot be edited.
 
-### Accessing billing analytics
+### Get started
 
-To access **Analytics**, select the main menu, then choose **Billing** > **Analytics**.
+To open analytics, go to **Billing** > **Analytics** from the main menu.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Analytics.png" alt=""><figcaption><p>The Analytics page within SoftwareOne Marketplace.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Analytics.png" alt=""><figcaption></figcaption></figure></div>
 
-### Analytics page layout
+To load data, you must apply filters. Filters allow you to refine what data is displayed by selecting time periods, grouping dimensions, and additional conditions such as agreement, product, or document type. You can also choose a currency for conversion.
 
-The page has four main areas:
+The **Analytics dashboard** area allows you to export results. The **Analytics chart** shows billed charges over time. When data is grouped, the top 10 entities by billed amount are shown, while the remaining values are grouped under **Others**. The table provides a structured view of billing data. Columns adjust based on the selected time granularity and include a total column for summary values.
 
-* **Filters sidebar** - Customize your view by selecting a time period and granularity. Group data by dimensions such as **Agreement**, **Document type**, **Entitlement**, or **Product**. You can also apply filters, operators, and a currency. For more details, see [Customize analytics with filters](customize-analytics-with-filters.md).
-* **Analytics dashboard** - Contains the **Export** option to download the current data. For more details, see [Export billing data](export-billing-data.md).
-* **Analytics chart** - Shows billed charges over time based on your selected filters and grouping. When you apply a **Group by** category, the chart displays the top 10 entities with the highest billed amounts. Remaining entities are grouped into a single Others category, such as "Others / Unmatched vendor profiles".
-* **Analytics table** - Displays billing data in a structured format. The columns update based on your chosen date granularity and include a **Total** column for quick reference.
+### Currency handling
 
-{% hint style="info" %}
-- When you first open **Analytics**, no chart data appears. Apply filters in the left sidebar, then select **Show results** to view data from your invoices and credit memos. For more details, see [Customize analytics with filters](customize-analytics-with-filters.md).
-- All data on the **Analytics** page is view-only. You cannot edit it.
-{% endhint %}
+Billing amounts are shown in your standard billing currency.&#x20;
 
-### Currency selection and conversion <a href="#currency-selection-and-conversion" id="currency-selection-and-conversion"></a>
+You can select a different currency using the **Currency** filter in the sidebar. When a new currency is selected, the platform automatically applies the relevant exchange rates and converts all billing data.
 
-By default, **Analytics** shows amounts in your standard billing currency. Use the **Currency** filter in the sidebar to select a different target currency.
-
-When you select a new target currency, the platform automatically applies the relevant exchange rates to convert your billing data.
-
-When a conversion is applied, a note appears at the bottom of the data table stating: _"An exchange rate was applied for the selected currency."_
+When a conversion is applied, a note appears at the bottom of the data table indicating that an exchange rate was used, for example: _"An exchange rate was applied for the selected currency."_
 
 ### Related topics
 

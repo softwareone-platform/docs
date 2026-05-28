@@ -134,7 +134,7 @@ We are introducing **Vendor profiles** and **Product profiles** pages in the pla
 
 You can access these new pages through the **Catalog** option in the main menu.
 
-* [Vendor profiles](../../modules-and-features/catalog/vendor-profiles/) are centralized marketing and informational pages for each vendor. These profiles allow you to learn about the vendors and the products they offer.
+* [Vendor profiles](../../modules-and-features/catalog/vendor-profiles.md) are centralized marketing and informational pages for each vendor. These profiles allow you to learn about the vendors and the products they offer.
 * [Product profiles](../../modules-and-features/catalog/product-profiles/) are marketing-focused representations of a product or a grouping of products. They are designed to help you understand the product and start the ordering process directly from within the profile.
 
 ### Alga PSA Integration with Marketplace Platform

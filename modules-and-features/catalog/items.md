@@ -4,27 +4,31 @@ description: Browse individual items in the Marketplace.
 
 # Items
 
-An item is an individual stock-keeping unit (SKU) within a product.
+An item is an individual stock-keeping unit (SKU) within a product. ​Each item has its own specific name, billing model, commitment term, and billing period.&#x20;
 
-​Each item has its own specific name, billing model, commitment term, and billing period. There can be one or more items within a product. For example, a _Microsoft 365_ product can include various items, such as _Business Premium (1-year, annual billing)_, _Business Basic without Teams, Teams Enterprise_, and more.
+A product can contain one or more items. For example, a Microsoft 365 product may include multiple subscription options with different billing and commitment terms.
 
-On the **Items** page, you can view a list of individual items.&#x20;
+### View items in the Marketplace
 
-### Viewing items in the Marketplace
-
-​To view all items:
+​To view all items in the catalog:
 
 1. Go to **Catalog** > **Items**.
-2. Browse the list of purchasable items.
+2. Browse the list of purchasable items.&#x20;
+3. Use filters and column customization options to refine the list and display the information most relevant to you.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/items_page.png" alt=""><figcaption></figcaption></figure></div>
 
-3. Select an item to open its details.&#x20;
-4. Review details, such as item description, billing model, commitment term, billing period, and price list information.
+### Review item details
 
-{% hint style="info" %}
-You can only view the list of items. You cannot buy items from this page. Items can only be ordered through a purchase or a change order.
-{% endhint %}
+To view additional information, select an item name from the list.
+
+The item details page includes a full item description, associated pricing information, related product information.
+
+### Order items
+
+Items cannot be ordered individually from the **Items** page.
+
+To order an item, start a purchase order or change order workflow. During the item selection step, available items are displayed so you can add them to your order.
 
 ### Related topics
 
@@ -36,6 +40,6 @@ You can only view the list of items. You cannot buy items from this page. Items 
 [product-profiles](product-profiles/)
 {% endcontent-ref %}
 
-{% content-ref url="vendor-profiles/" %}
-[vendor-profiles](vendor-profiles/)
+{% content-ref url="vendor-profiles.md" %}
+[vendor-profiles.md](vendor-profiles.md)
 {% endcontent-ref %}

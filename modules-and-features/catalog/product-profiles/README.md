@@ -4,33 +4,43 @@ description: Review broader product information and related resources.
 
 # Product profiles
 
-The **Product profiles** page within the SoftwareOne Marketplace is a central location to view detailed information for products in our catalog.&#x20;
+The **Product profiles** page provides detailed information about software products in the catalog.
 
-This page enhances your Marketplace experience by bringing all relevant details together in one place, making it easier to understand a product’s business value and explore additional resources. Each product profile includes a high-level description of the product to help you understand it, along with its features and benefits. You can also view links to the supporting documentation.&#x20;
+It consolidates key product details and supporting resources in one location, making it easier to evaluate products and explore related information. Each product profile can include product description, features and benefits, supporting documentation, related products, and resources.
 
-Product profiles also contain a list of related products. For example, the **Adobe VIP Marketplace** profile includes products, such as _Adobe VIP Marketplace for Government_, &#x41;_&#x64;obe VIP Marketplace for Commercial_, and more. This allows you to choose individual products directly from within the profile and start the ordering process. &#x20;
+### View product profiles
 
-### Accessing product profiles
+To open the **Product profiles** page, select **Catalog** > **Product profiles** from the main menu.
 
-To navigate to the **Product profiles** page, select the main menu, then choose **Catalog** > **Product profiles**.&#x20;
+The page displays product profile cards and filters in the left sidebar. You can select a card to open the full profile and view details.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/product-profile.png" alt=""><figcaption><p>A list of Product Profiles in the SoftwareOne Marketplace.</p></figcaption></figure></div>
 
-The main **Product profiles** page contains a list of product profile cards with filters on the left.&#x20;
+### Filter product profiles
 
-* Each card contains a product logo, vendor name, product name, and a brief product description. Selecting a card opens up a profile details page, where you can view a detailed description, images, and a list of products within the profile.
-* On the left, a filter sidebar is displayed, allowing you to refine your search.
+Use filters to narrow the list of available profiles. You can combine multiple filters to refine your search. Available filters include:
+
+* **Category** - Filter by specific software categories, such as Accounting, Human Resources, Content Management Systems, and more.
+* **Industry** - Filter by business sectors or markets, such as Education, Hospitality, and more.
+* **Segment** - Filter by organization size. Common segments include Small Business, Mid-Market, Enterprise, and Startups.
+* **Vendor profile** - Filter profiles by vendors, such as Adobe, Microsoft, and more.
+
+To apply filters:
+
+1. Select a filter type under **Filter by**.
+2. Choose one or more filter values.
+3. Select **Apply**.
 
 ### Related topics
 
-{% content-ref url="filter-product-profiles.md" %}
-[filter-product-profiles.md](filter-product-profiles.md)
+{% content-ref url="../" %}
+[..](../)
 {% endcontent-ref %}
 
-{% content-ref url="view-product-profiles.md" %}
-[view-product-profiles.md](view-product-profiles.md)
+{% content-ref url="../items.md" %}
+[items.md](../items.md)
 {% endcontent-ref %}
 
-{% content-ref url="buy-products-from-product-profiles.md" %}
-[buy-products-from-product-profiles.md](buy-products-from-product-profiles.md)
+{% content-ref url="../vendor-profiles.md" %}
+[vendor-profiles.md](../vendor-profiles.md)
 {% endcontent-ref %}

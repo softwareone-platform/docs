@@ -4,37 +4,39 @@ description: Browse purchasable software products in the Marketplace.
 
 # Products
 
-A product is a software solution or service offered by a vendor. Each product includes one or more purchasable items, also called SKUs.
+A product is a software solution or service offered by a vendor.&#x20;
 
-Products can also include parameters that collect required order details, such as agreement data, contact details, and quantity.
+Each product includes one or more purchasable items, also called SKUs. Products can also include parameters that collect required order details, such as agreement data, contact details, and quantity.
 
-On the **Products** page, you can browse available products, open product details, and start an order.
+The **Products** page allows you to browse software products available in the Marketplace catalog. You can review product details, pricing information, available items (SKUs), and vendor information before starting a purchase.
 
-### Viewing products in the Marketplace
+### View products in the Marketplace
 
-To view all products:
+To view the available products:
 
-1. Go to **Catalog** > **Products**.
-2. Browse the list of available products.
+1. Go to **Catalog** > **Products**. The page displays a list of products available to your organization.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption><p>The Products page in the Marketplace Platform.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption><p>Use the Products page to view available products.</p></figcaption></figure></div>
 
-3. Select a product to open its details page.
+2. Browse the list of products.
+3. Select a product to open its details page.&#x20;
 
-On the product details page, you can review the product description and assets, the available items and pricing, licensing and ordering details.
+### Review product details
 
-### Ordering a product
+The product details page provides additional information about the selected product, including associated items, pricing, and purchasing options.
 
-To order a product:
+Depending on the product configuration, additional resources or related information may also be available.
 
-1. On the **Products** page, select the product to buy.
-2. On the product details page, review the product information.
-3. Select **Buy now**.
-4. Complete the guided purchase flow to place your order.
+### Order a product
 
-{% hint style="info" %}
-The steps and required details vary by product and vendor.
-{% endhint %}
+To start a purchase, open a product details page and select **Buy now**. The purchase wizard guides you through the ordering process, including:
+
+* Agreement selection
+* Licensee information
+* Item selection
+* Order review
+
+The available ordering steps may vary depending on the vendor and product configuration.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard containing a series of ordering steps.</p></figcaption></figure></div>
 
@@ -48,6 +50,6 @@ The steps and required details vary by product and vendor.
 [product-profiles](product-profiles/)
 {% endcontent-ref %}
 
-{% content-ref url="vendor-profiles/" %}
-[vendor-profiles](vendor-profiles/)
+{% content-ref url="vendor-profiles.md" %}
+[vendor-profiles.md](vendor-profiles.md)
 {% endcontent-ref %}
