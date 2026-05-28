@@ -10,7 +10,7 @@ A direct chat allows you to message any user in your account. You can also use i
 
 When sending a message, you can format it using options, such as bold, italics, and underline. You can also use styles and lists to organize your message and add links or images. Additionally, you can use rich text formatting or switch to source code (HTML editor).
 
-### Starting a chat with an account member <a href="#ariaid-title1" id="ariaid-title1"></a>
+### Starting a chat with a user in your account <a href="#ariaid-title1" id="ariaid-title1"></a>
 
 To start a direct chat:
 
@@ -22,7 +22,7 @@ To start a direct chat:
 4. Type your message in the chat message field.&#x20;
 5. Select **Send**.
 
-### Starting a chat with your SoftwareOne account team <a href="#ariaid-title1" id="ariaid-title1"></a>
+### Starting a chat with your account team <a href="#ariaid-title1" id="ariaid-title1"></a>
 
 You can send a message to a member of the SoftwareOne account team only if they have enabled the chat option. If chat is not enabled, messaging is unavailable.
 
@@ -30,6 +30,6 @@ To start a chat:
 
 1. Do one of the following:&#x20;
    * On the **Home** page, look for the **Account team** widget. Then, select the chat icon for the person you want to chat with.
-   * Go to **Helpdesk** > **Account team.** Under **Actions**, select **Chat**.
-2. Type your message in the text field.
+   * Go to **Helpdesk** > **Account team**. Then, under **Actions**, select **Chat**.
+2. In the open chat window, type your message in the text field.
 3. Select **Send**.
