@@ -49,9 +49,9 @@ In the **Select items** step, all one-time items that can be ordered under this 
 {% step %}
 **Complete the remaining steps to submit your order**
 
-1. **Details** - Provide any additional IDs for the order and the agreement, then select **Next**.
-2. **Review order** - Read the terms and conditions for the order and verify your order details. When done, select **Place order** to submit your order.
-3. **Summary** - Select **View order** to open the order details page. Otherwise, select **Close**.
+1. **Details** – Provide any additional IDs for the order and the agreement, then select **Next**.
+2. **Review order** – Read the terms and conditions for the order and verify your order details. When done, select **Place order** to submit your order.
+3. **Summary** – Select **View order** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 

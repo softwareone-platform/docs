@@ -36,25 +36,25 @@ To start the process:
 
 {% include "../../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
-1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
-2. **Select licensee** - Choose whether to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. For more details, see [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md)
-3. **Create agreemen**t - Select **Create new cloud account** to create a new organization tenant with Microsoft, then select **Next**.
-4. **Microsoft details** - Provide the following information:
+1. **Create agreement** – Select **Create agreement** to start creating your new agreement.
+2. **Select licensee** – Choose whether to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. For more details, see [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md)
+3. **Create agreemen**t – Select **Create new cloud account** to create a new organization tenant with Microsoft, then select **Next**.
+4. **Microsoft details** – Provide the following information:
    1. Enter the tenant name you want to use on the onmicrosoft.com domain, then select **Next**. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
    2. Provide the following details:
       1. Company name.
       2. Company registration ID or tax number.
       3. Company address, including city and zip/postal code.
    3. Complete the **Primary Contact** form with the contact details of the person managing your account, then select **Next**.
-5. **Special qualifications** - Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
-6. **Support contacts** - Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
-7. **Items** - Follow these steps:
+5. **Special qualifications** – Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
+6. **Support contacts** – Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
+7. **Items** – Follow these steps:
    1. Choose the software items you want to order. You can select multiple items.&#x20;
    2. Select **Add items** to add the selected items to your order.&#x20;
    3. Adjust the item quantity as needed, then select **Next**.
-8. **Details** - Provide any additional IDs for the order and the agreement, then select **Next**.
-9. **Review order** - Read the terms and conditions of the order and the privacy statement. When done, select **Place order**.
-10. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
+8. **Details** – Provide any additional IDs for the order and the agreement, then select **Next**.
+9. **Review order** – Read the terms and conditions of the order and the privacy statement. When done, select **Place order**.
+10. **Summary** – Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 

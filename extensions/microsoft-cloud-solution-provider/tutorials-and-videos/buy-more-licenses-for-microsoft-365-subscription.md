@@ -34,14 +34,14 @@ To start the process:
 
 {% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
-1. **Create agreement** - Choose an active agreement and select **Next**.&#x20;
-2. **Items** - Enter the total number of licenses in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
+1. **Create agreement** – Choose an active agreement and select **Next**.&#x20;
+2. **Items** – Enter the total number of licenses in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>The Items section in the purchase wizard.</p></figcaption></figure></div>
 
-3. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
-4. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order**.
-5. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
+3. **Details** – Provide reference details, like additional IDs or notes, and select **Next**.
+4. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order**.
+5. **Summary** – Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 

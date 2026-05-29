@@ -20,10 +20,10 @@ The page displays product profile cards and filters in the left sidebar. You can
 
 Use filters to narrow the list of available profiles. You can combine multiple filters to refine your search. Available filters include:
 
-* **Category** - Filter by specific software categories, such as Accounting, Human Resources, Content Management Systems, and more.
-* **Industry** - Filter by business sectors or markets, such as Education, Hospitality, and more.
-* **Segment** - Filter by organization size. Common segments include Small Business, Mid-Market, Enterprise, and Startups.
-* **Vendor profile** - Filter profiles by vendors, such as Adobe, Microsoft, and more.
+* **Category** – Filter by specific software categories, such as Accounting, Human Resources, Content Management Systems, and more.
+* **Industry** – Filter by business sectors or markets, such as Education, Hospitality, and more.
+* **Segment** – Filter by organization size. Common segments include Small Business, Mid-Market, Enterprise, and Startups.
+* **Vendor profile** – Filter profiles by vendors, such as Adobe, Microsoft, and more.
 
 To apply filters:
 
@@ -33,12 +33,12 @@ To apply filters:
 
 ### Related topics
 
-{% content-ref url="../" %}
-[..](../)
-{% endcontent-ref %}
-
 {% content-ref url="../items.md" %}
 [items.md](../items.md)
+{% endcontent-ref %}
+
+{% content-ref url="../products.md" %}
+[products.md](../products.md)
 {% endcontent-ref %}
 
 {% content-ref url="../vendor-profiles.md" %}

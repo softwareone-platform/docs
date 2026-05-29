@@ -14,12 +14,12 @@ SoftwareOne Marketplace seamlessly brings together various actors to facilitate 
 
 Actors are users or entities that interact with the platform for procurement, fulfillment, and other platform-specific operations.&#x20;
 
-* **Vendors** - Company or person from whom SoftwareOne buys software solutions. Vendors develop and sell their products and services. Examples include Microsoft, Dropbox, Adobe, and more.
-* **Distributors** - Entities that resell software solutions sourced from vendors to resellers. Distributors facilitate software procurement when direct relationships with vendors aren't feasible.
-* **Associates** - Internal SoftwareOne associates who administer the business network. Associates are involved in various processes throughout your journey and interaction with SoftwareOne.
-* **Partners** - Entities or businesses that buy products or services from SoftwareOne for reselling to other businesses.&#x20;
-* **Clients** - Company or organization that uses our platform to buy software products for their own use or direct consumption.
-* **Developers and systems integrators** - Entities that build integrations within the business network.
+* **Vendors** – Company or person from whom SoftwareOne buys software solutions. Vendors develop and sell their products and services. Examples include Microsoft, Dropbox, Adobe, and more.
+* **Distributors** – Entities that resell software solutions sourced from vendors to resellers. Distributors facilitate software procurement when direct relationships with vendors aren't feasible.
+* **Associates** – Internal SoftwareOne associates who administer the business network. Associates are involved in various processes throughout your journey and interaction with SoftwareOne.
+* **Partners** – Entities or businesses that buy products or services from SoftwareOne for reselling to other businesses.&#x20;
+* **Clients** – Company or organization that uses our platform to buy software products for their own use or direct consumption.
+* **Developers and systems integrators** – Entities that build integrations within the business network.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/concepts_actors.png" alt=""><figcaption><p>Vendors, distributors, associates, partners, and clients are the key actors.</p></figcaption></figure></div>
 
@@ -37,9 +37,9 @@ Users who don't belong to any account have limited capabilities. Such users can 
 
 &#x20;An account represents a company or an organization using the platform. The platform supports the following account types:&#x20;
 
-* **Client account** - Represents an account used by clients and partners to establish agreements and procure software solutions for their enterprises.
-* **Vendor account** - Represents an account used by vendors to define the product structure and configuration, and make those products available for ordering through the Marketplace.&#x20;
-* **Operations account** - Represents an account used by SoftwareOne associates.
+* **Client account** – Represents an account used by clients and partners to establish agreements and procure software solutions for their enterprises.
+* **Vendor account** – Represents an account used by vendors to define the product structure and configuration, and make those products available for ordering through the Marketplace.&#x20;
+* **Operations account** – Represents an account used by SoftwareOne associates.
 
 In the SoftwareOne Marketplace, an account can contain a single user or multiple users.
 
@@ -113,10 +113,10 @@ An order is a business transaction under the framework of an established agreeme
 
 The platform supports various types of orders to support different scenarios and requirements of our clients and partners, including:
 
-* **Purchase order** - This type of order is created when you buy a new product or service by establishing a new agreement.&#x20;
-* **Change order** - This type of order is created when you modify your agreement or adjust quantities, such as reducing the number of licenses or buying additional resources.
-* **Terminate order** - This type of order is created when you terminate your agreement or subscription.&#x20;
-* **Configuration order** - This type of order is created when you enable or disable the automatic renewal of a subscription.
+* **Purchase order** – This type of order is created when you buy a new product or service by establishing a new agreement.&#x20;
+* **Change order** – This type of order is created when you modify your agreement or adjust quantities, such as reducing the number of licenses or buying additional resources.
+* **Terminate order** – This type of order is created when you terminate your agreement or subscription.&#x20;
+* **Configuration order** – This type of order is created when you enable or disable automatic renewal of a subscription.
 
 You can view, track, and manage your orders from the [Orders](../../modules-and-features/marketplace/orders/) page.
 

@@ -1,4 +1,4 @@
-# GDAP and Partner Relationship Request Considerations
+# GDAP and partner relationship request considerations
 
 This topic describes the key points to keep in mind when establishing a GDAP or a partner relationship request with SoftwareOne.&#x20;
 
@@ -8,17 +8,17 @@ To establish a GDAP admin relationship, make sure that your primary domain name 
 
 There are a few ways you can verify your domain name and ID:
 
-* **Using the Marketplace Platform** - You can verify your domain name and ID by navigating to the **Parameters** tab on the order details page.
+* **Using the Marketplace Platform** – You can verify your domain name and ID by navigating to the **Parameters** tab on the order details page.
   * The domain name for existing cloud accounts is displayed in the **Existing domain name** field. For new cloud accounts, the **Primary domain name** field shows the domain name.&#x20;
   * The tenant ID is displayed in the **Fulfillment** section.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_parameters.jpg" alt=""><figcaption><p>The Parameters tab within the order details page.</p></figcaption></figure></div>
 
-* **Using Microsoft 365 Admin Center** - You can verify your domain name and ID by signing in to [Microsoft Entra admin center](https://entra.microsoft.com/) and navigating to **Settings** > **Domains**. The domain name is displayed on the **Domains** page.&#x20;
+* **Using Microsoft 365 Admin Center** – You can verify your domain name and ID by signing in to [Microsoft Entra admin center](https://entra.microsoft.com/) and navigating to **Settings** > **Domains**. The domain name is displayed on the **Domains** page.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_settings_domain.png" alt=""><figcaption><p>The Microsoft 365 admin center.</p></figcaption></figure></div>
 
-* **Using the Azure Portal** - You can verify your domain name and ID by signing in to the [Azure portal](https://portal.azure.com/) and navigating to **Entra ID** > **Overview**. Your registered primary domain is displayed in the **Name** section.
+* **Using the Azure Portal** – You can verify your domain name and ID by signing in to the [Azure portal](https://portal.azure.com/) and navigating to **Entra ID** > **Overview**. Your registered primary domain is displayed in the **Name** section.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_entra_ID.png" alt=""><figcaption><p>The Azure entra ID overview.</p></figcaption></figure></div>
 
@@ -40,9 +40,9 @@ You can also verify your organization's region in the Microsoft 365 Admin Center
 
 The user setting up the partner and GDAP admin relationship must meet the following requirements for their primary domain or tenant:
 
-* **Role** - Global Administrator
-* **User type** - Member
-* **User principal name** - Must have no reference to 'external'
-* **Identity** - Must match the tenant’s name for the partnership
+* **Role** – Global Administrator
+* **User type** – Member
+* **User principal name** – Must have no reference to 'external'
+* **Identity** – Must match the tenant’s name for the partnership
 
 <figure><img src="../../../.gitbook/assets/csp_users.png" alt=""><figcaption><p>The Users section in Microsoft Entra ID.</p></figcaption></figure>

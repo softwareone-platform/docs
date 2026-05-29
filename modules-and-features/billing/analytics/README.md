@@ -16,11 +16,11 @@ All data is read-only. Visualizations are driven by filters and update automatic
 
 Analytics currently supports the following features:
 
-* **Cost analysis** - Analyze billing data using interactive charts, tables, and drill-down capabilities.
-* **Filtering** - Refine what data is displayed by selecting relative or custom date ranges and granularity settings.
-* **Grouping** - Organize billing data by dimensions such as buyer, licensee, agreement, and subscription to analyze spending trends across different categories.
-* **Export data** - Export filtered and grouped data to an Excel file for offline analysis and sharing.
-* **Currency display** - View billing data in multiple currencies using daily updated exchange rates.
+* **Cost analysis** – Analyze billing data using interactive charts, tables, and drill-down capabilities.
+* **Filtering** – Refine what data is displayed by selecting relative or custom date ranges and granularity settings.
+* **Grouping** – Organize billing data by dimensions such as buyer, licensee, agreement, and subscription to analyze spending trends across different categories.
+* **Export data** – Export filtered and grouped data to an Excel file for offline analysis and sharing.
+* **Currency display** – View billing data in multiple currencies using daily updated exchange rates.
 
 ### Using Analytics
 

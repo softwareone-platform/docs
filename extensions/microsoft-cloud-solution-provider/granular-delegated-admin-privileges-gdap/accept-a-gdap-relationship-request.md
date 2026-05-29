@@ -1,4 +1,4 @@
-# Accept a GDAP Relationship Request
+# Accept a GDAP relationship request
 
 SoftwareOne requires Granular Delegated Administrative Privileges (GDAP) in your tenant to manage your Microsoft products and services. Without these privileges, we are unable to provide all the services associated with your purchase.&#x20;
 
@@ -8,8 +8,8 @@ After you have placed an order, you must accept our GDAP invitation. This invita
 
 To accept a GDAP relationship request:
 
-1. Navigate to the **Orders** page, then select the required purchase order.&#x20;
-2. On the **General** tab in the order details page, select the GDAP URL. You are then redirected to the login page for the Microsoft 365 admin center.
+1. On the **Orders** page, select the required purchase order.&#x20;
+2. On the **General** tab, select the GDAP URL. The login page for the Microsoft 365 admin center opens.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_gdap_accept.png" alt=""><figcaption><p>The GDAP URL on the General tab within the order details page.</p></figcaption></figure></div>
 

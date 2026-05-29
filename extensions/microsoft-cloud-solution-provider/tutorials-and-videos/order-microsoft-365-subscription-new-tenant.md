@@ -42,10 +42,10 @@ To start the process:
 
 {% include "../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
-1. **Create agreement** - Select **Create agreement** to start creating your new agreement.
-2. **Select licensee** - Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
-3. **Create agreemen**t - Select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
-4. **Microsoft details** - Enter the details for your Microsoft account:
+1. **Create agreement** – Select **Create agreement** to start creating your new agreement.
+2. **Select licensee** – Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create Licensees](../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
+3. **Create agreemen**t – Select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
+4. **Microsoft details** – Enter the details for your Microsoft account:
    1. Enter the tenant name you want to use on the `onmicrosoft.com` domain. Make sure that the name doesn't include punctuation marks or spaces. You can check whether your tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
    2. (Optional) Select the **I would like to align subscription end dates within this agreement** checkbox. When you select this checkbox, all future subscriptions created within this agreement are cotermed and aligned with the subscriptions created during the initial purchase. To learn more, see [Subscription Coterminosity](../products-and-programs/microsoft-nce/about-subscription-coterminosity/).
    3. Select **Next**. The platform validates the details that you entered.
@@ -54,16 +54,16 @@ To start the process:
       2. Company registration ID or tax number.
       3. Company address, including city and zip/postal code.
       4. Contact details of the person who manages your account.&#x20;
-5. **Special qualifications** - Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
-6. **Support contacts** - Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
-7. **Items** - Complete the following steps:
+5. **Special qualifications** – Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
+6. **Support contacts** – Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
+7. **Items** – Complete the following steps:
    1. Choose the items you want to order. You can select multiple items. Then, select **Add items.**&#x20;
    2. Review and adjust the number of licenses as required.
    3. If applicable, [read the offer attestation](../additional-resources/faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
    4. Select **Next**.
-8. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
-9. **Review order** - Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-10. **Summary** - Select **View details** to open the order details page. Otherwise, select **Close**.
+8. **Details** – Provide reference details, like additional IDs or notes, and select **Next**.
+9. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
+10. **Summary** – Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 

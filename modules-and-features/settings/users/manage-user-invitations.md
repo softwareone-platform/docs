@@ -15,8 +15,8 @@ To reinvite a user to your account:
 1. Go to **Settings** > **Users**.&#x20;
 2. Find the user you want to reinvite.
 3. Select the actions icon (**•••**) for the user, then do the following:
-   * **Copy invitation link** - Select this option to copy the invitation link and share it directly with the individual.
-   * **Resend invitation link** - Select this option to resend the invitation to their email address.
+   * **Copy invitation link** – Select this option to copy the invitation link and share it directly with the individual.
+   * **Resend invitation link** – Select this option to resend the invitation to their email address.
 
 ### Sending a new invitation email <a href="#sending-a-new-invitation-email" id="sending-a-new-invitation-email"></a>
 

@@ -8,10 +8,10 @@ Additionally, this approach enables companies to renew all their Microsoft servi
 
 The benefits of aligning your subscription term end dates include:
 
-* **Add-on management** - You can terminate or renew an add-on subscription at the same time as the existing subscription.&#x20;
-* **Align subscription renewals with the fiscal year** - A subscription's renewal date can be aligned with the fiscal year's start date for the budget to be allocated each year accordingly.
-* **Consistent and efficient invoicing** - All subscriptions align to a consistent invoicing experience, simplifying the billing process. The billing period and charge cycle for both consumption-based and license-based subscriptions follow a standard calendar-month cycle. This means you don't have to worry about buying subscriptions on different dates. The charge cycle aligns with the calendar month, and we'll prorate the cost for you to bill your customers.
-* **Flexibility for end dates** - Each group of subscriptions can have its coterminous date.
+* **Add-on management** – You can terminate or renew an add-on subscription at the same time as the existing subscription.&#x20;
+* **Align subscription renewals with the fiscal year** – A subscription's renewal date can be aligned with the fiscal year's start date for the budget to be allocated each year accordingly.
+* **Consistent and efficient invoicing** – All subscriptions align to a consistent invoicing experience, simplifying the billing process. The billing period and charge cycle for both consumption-based and license-based subscriptions follow a standard calendar-month cycle. This means you don't have to worry about buying subscriptions on different dates. The charge cycle aligns with the calendar month, and we'll prorate the cost for you to bill your customers.
+* **Flexibility for end dates** – Each group of subscriptions can have its coterminous date.
 
 ### Conditions for coterming subscriptions <a href="#conditions-for-aligning-subscriptions-using-coterminosity" id="conditions-for-aligning-subscriptions-using-coterminosity"></a>
 

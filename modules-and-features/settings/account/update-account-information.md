@@ -19,18 +19,18 @@ To update your account details:
 
 3. Follow the guided steps to update the details as necessary:
    1. **General**
-      1. **Logo** - Update the logo for your account. You can upload an image by selecting **Select file** or by dragging the image into the field.
-      2. **Client name** - Update your account name.
+      1. **Logo** – Update the logo for your account. You can upload an image by selecting **Select file** or by dragging the image into the field.
+      2. **Client name** – Update your account name.
    2. **Additional data**
-      1. **Company website** - Enter the URL of your company website.
-      2. **Communication language** - Select the preferred language for email messages and notifications. The default language is **English**_._&#x20;
-      3. **Technical support email** - Enter the email address for your technical support.
-      4. **Company description** - Enter a description of your company.
+      1. **Company website** – Enter the URL of your company website.
+      2. **Communication language** – Select the preferred language for email messages and notifications. The default language is **English**_._&#x20;
+      3. **Technical support email** – Enter the email address for your technical support.
+      4. **Company description** – Enter a description of your company.
    3. **Headquarters address**
-      1. **Address line 1** - Enter the first line of your company address.
-      2. **Address line 2** - Enter additional or secondary address details.
-      3. **City** - Enter the city.
-      4. **State/region** - Select the state or region.
+      1. **Address line 1** – Enter the first line of your company address.
+      2. **Address line 2** – Enter additional or secondary address details.
+      3. **City** – Enter the city.
+      4. **State/region** – Select the state or region.
       5. **ZIP/postcode** - Enter the ZIP or postal code.
-      6. **Country** - Select the country.
+      6. **Country** – Select the country.
 4. Select **Save**. A confirmation message is displayed indicating that your account settings have been updated.

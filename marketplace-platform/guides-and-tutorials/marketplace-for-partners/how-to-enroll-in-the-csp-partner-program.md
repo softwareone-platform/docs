@@ -41,14 +41,14 @@ To start the wizard:
 {% step %}
 **Use the Add Certificate wizard to enroll**
 
-1. **Certificant** - Choose the buyer for this certificate, then select **Next**.
-2. **Partner details** - Do the following, then select **Next**:&#x20;
+1. **Certificant** – Choose the buyer for this certificate, then select **Next**.
+2. **Partner details** – Do the following, then select **Next**:&#x20;
    1. Authorize SoftwareOne as your indirect provider. You must select a country that is within your region. For regional markets, see [Microsoft Regions](https://learn.microsoft.com/en-us/partner-center/enroll/regional-authorization-overview).&#x20;
    2. Enter the email address associated with your Microsoft partner account. We will use this email address to link your CSP customers with your Microsoft reseller account.
    3. Enter the Microsoft Partner Network ID associated with your Microsoft partner account. We'll associate your Microsoft subscriptions with the MPN ID.
-3. **Details** - Enter a certificate name, then select **Next**.
-4. **Overview** - Review the details, then select **Add**.
-5. **Summary** - Select **View details** to open the enrollment details page, or select **Close**.
+3. **Details** – Enter a certificate name, then select **Next**.
+4. **Overview** – Review the details, then select **Add**.
+5. **Summary** – Select **View details** to open the enrollment details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 

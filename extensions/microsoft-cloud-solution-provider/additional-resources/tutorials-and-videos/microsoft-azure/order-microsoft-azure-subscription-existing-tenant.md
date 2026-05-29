@@ -38,20 +38,20 @@ To start the process:
 
 {% include "../../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
-1. **Select agreement** - Choose **Create new agreement** to start creating your new agreement.
-2. **Select licensee** - Choose an existing licensee, then select **Next**. If you want to add a new licensee, select **Add licensee**. For more details, see [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md).
-3. **Create agreement** - Select **Connect existing cloud account**.
-4. **Microsoft details** - Follow these steps:&#x20;
+1. **Select agreement** – Choose **Create new agreement** to start creating your new agreement.
+2. **Select licensee** – Choose an existing licensee, then select **Next**. If you want to add a new licensee, select **Add licensee**. For more details, see [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md).
+3. **Create agreement** – Select **Connect existing cloud account**.
+4. **Microsoft details** – Follow these steps:&#x20;
    1. Under **Primary** **domain name**, enter your existing domain name.
    2. Under **Azure subscription name**, provide a name for your Azure subscription. Make sure the name meets Microsoft's naming requirements. If you leave the field empty or provide a name that isn't accepted, the platform assigns a default name to the subscription.&#x20;
    3. Under **Primary contact**, complete the required fields, then select **Next**.
-5. **Additional information** - Follow these steps:
+5. **Additional information** – Follow these steps:
    1. If your organization is a [state-owned entity](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria), select the checkbox. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.&#x20;
    2. Enter the contact details for your support administrator and choose your preferred support language. Select **Next**.
-6. **Items** - Choose the Azure subscription item, then select **Add items** to add it to your order. Note that for Microsoft Azure, only one item is available without any associated price. When using Azure services, pay-as-you-go charges are generated against the subscription.
-7. **Details** - Provide any additional IDs for the order and the agreement, then select **Next**.
-8. **Review order** - Read the terms and conditions of the order and verify your order details. When done, select **Place order** to submit your order.
-9. **Summary** - Select **View order** to open the order details page. Otherwise, select **Close**.
+6. **Items** – Choose the Azure subscription item, then select **Add items** to add it to your order. Note that for Microsoft Azure, only one item is available without any associated price. When using Azure services, pay-as-you-go charges are generated against the subscription.
+7. **Details** – Provide any additional IDs for the order and the agreement, then select **Next**.
+8. **Review order** – Read the terms and conditions of the order and verify your order details. When done, select **Place order** to submit your order.
+9. **Summary** – Select **View order** to open the order details page. Otherwise, select **Close**.
 {% endstep %}
 {% endstepper %}
 

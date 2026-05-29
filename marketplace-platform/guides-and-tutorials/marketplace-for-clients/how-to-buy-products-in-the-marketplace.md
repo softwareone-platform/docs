@@ -34,13 +34,13 @@ The purchase flow starts automatically and guides you through each step.
 
 The ordering steps and required details vary by product and vendor. Most orders follow this flow:
 
-1. **Select agreement** - Select an existing agreement or create a new one. The option you select in this step determines the next step. For example, if you create a new agreement, the **Select licensee** step is displayed. However, if you select an existing agreement, the **Select items** step appears.
-2. **Select licensee** - Choose an existing licensee or create a new one.
-3. **Agreement details** - Complete agreement details, such as your company name, address, and more.
-4. **Select items** - Select the items you want to order and adjust quantities.
+1. **Select agreement** – Select an existing agreement or create a new one. The option you select in this step determines the next step. For example, if you create a new agreement, the **Select licensee** step is displayed. However, if you select an existing agreement, the **Select items** step appears.
+2. **Select licensee** – Choose an existing licensee or create a new one.
+3. **Agreement details** – Complete agreement details, such as your company name, address, and more.
+4. **Select items** – Select the items you want to order and adjust quantities.
 5. **Additional information** - Add reference details, like internal order or agreement IDs, if needed.
-6. **Review order** - Review the order details, go through the terms and conditions, and then submit your order.
-7. **Summary** - Review your order summary to ensure everything is correct.
+6. **Review order** – Review the order details, go through the terms and conditions, and then submit your order.
+7. **Summary** – Review your order summary to ensure everything is correct.
 
 {% hint style="info" %}
 Some products add vendor-specific steps. For guided examples, see [Adobe Tutorials](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/) and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/).

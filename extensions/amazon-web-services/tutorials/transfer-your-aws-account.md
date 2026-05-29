@@ -30,30 +30,30 @@ To start the purchase wizard:
 
 In the Purchase Wizard, complete these steps:
 
-1. **Select agreement** - Select **Create agreement** to start creating your new agreement with SoftwareOne.
-2. **Select licensee** -  Choose a licensee. You can also [create a new licensee](https://docs.platform.softwareone.com/~/changes/362/modules-and-features/settings/licensees/create-licensees) and select that licensee when it appears in the list. Select **Next**.
-3. **Create agreement** - Choose **Transfer an existing AWS account**, then select **Next**.
+1. **Select agreement** – Select **Create agreement** to start creating your new agreement with SoftwareOne.
+2. **Select licensee** – Choose a licensee. You can also [create a new licensee](https://docs.platform.softwareone.com/~/changes/362/modules-and-features/settings/licensees/create-licensees) and select that licensee when it appears in the list. Select **Next**.
+3. **Create agreement** – Choose **Transfer an existing AWS account**, then select **Next**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws-transfer-account-option.png" alt=""><figcaption><p>Select the option to transfer your account.</p></figcaption></figure></div>
 
-4. **AWS details** - Do the following:
+4. **AWS details** – Do the following:
    1. Provide the 12-digit AWS Management Account ID of your AWS organization.
    2. Review and update the contact form as necessary.
    3. Select **Next**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws-transfer-account.png" alt=""><figcaption><p>Provide your Management Account ID and required contact details.</p></figcaption></figure></div>
 
-5. **Support details** - Choose one of the support options, then select **Next**:
+5. **Support details** – Choose one of the support options, then select **Next**:
    * With **SoftwareOne Enterprise Support**, SoftwareOne becomes your point of contact for assistance with your AWS resources.&#x20;
    * If you opt for **AWS Resold Support**, you must contact AWS directly for any technical assistance.&#x20;
-6. **Cost management** - This step displays the Cost Management tools, including [FinOps for Cloud](../../finops-for-cloud/). Both options are selected by default and cannot be changed. Select **Next**.&#x20;
-7. **Supplementary services** - Choose any additional AWS services of interest and select **Next**. Your selection indicates interest only. A SoftwareOne representative will follow up to provide more information.
+6. **Cost management** – This step displays the Cost Management tools, including [FinOps for Cloud](../../finops-for-cloud/). Both options are selected by default and cannot be changed. Select **Next**.&#x20;
+7. **Supplementary services** – Choose any additional AWS services of interest and select **Next**. Your selection indicates interest only. A SoftwareOne representative will follow up to provide more information.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws-supplementary-services.png" alt=""><figcaption><p>Select any additional AWS services you are interested in.</p></figcaption></figure></div>
 
-8. **Items** - This step displays the AWS Service item in your agreement. Do not remove this item. Select **Next**.
-9. **Details** - Provide reference details, such as additional IDs or notes, and select **Next**.
-10. **Review order** - Select the links for terms and conditions, and the privacy statement in the footer to read them. When done, select **Place order** to submit your order.
+8. **Items** – This step displays the AWS Service item in your agreement. Do not remove this item. Select **Next**.
+9. **Details** – Provide reference details, such as additional IDs or notes, and select **Next**.
+10. **Review order** – Select the links for terms and conditions, and the privacy statement in the footer to read them. When done, select **Place order** to submit your order.
 {% endstep %}
 {% endstepper %}
 
@@ -61,8 +61,8 @@ In the Purchase Wizard, complete these steps:
 
 After placing the order, you will receive a confirmation message. You can check the [order details page](../../../modules-and-features/marketplace/orders/#order-details) for information on the next steps, including:
 
-1. **Accepting the AWS billing transfer invitation** - You'll receive an invitation email from AWS. You must accept the invitation so we can proceed with your order.
-2. **Approving the service terms** - You'll receive an email from AWS, requesting you to accept the minimum service term of your agreement.
-3. **Deploying the SoftwareOne Bootstrap role** - After accepting the billing transfer invitation and the service terms, you must deploy the Essentials Bootstrap Role. Deploying this role is mandatory for onboarding. For more details, see [Essentials Bootstrap Role](https://docs.softwareone.cloud/knowledge-base/essentials-bootstrap-role-customer-manual) in SoftwareOne Services documentation.
+1. **Accepting the AWS billing transfer invitation** – You'll receive an invitation email from AWS. You must accept the invitation so we can proceed with your order.
+2. **Approving the service terms** – You'll receive an email from AWS, requesting you to accept the minimum service term of your agreement.
+3. **Deploying the SoftwareOne Bootstrap role** – After accepting the billing transfer invitation and the service terms, you must deploy the Essentials Bootstrap Role. Deploying this role is mandatory for onboarding. For more details, see [Essentials Bootstrap Role](https://docs.softwareone.cloud/knowledge-base/essentials-bootstrap-role-customer-manual) in SoftwareOne Services documentation.
 
 You will also receive email notifications when these actions are due and require your attention.

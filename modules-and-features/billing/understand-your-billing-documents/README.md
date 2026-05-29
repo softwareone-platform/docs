@@ -8,8 +8,8 @@ For many cloud-based services, such as Microsoft Azure and Adobe VIP Marketplace
 
 To simplify your billing experience, the Marketplace Platform provides the following documents:&#x20;
 
-* **Invoice** - An invoice PDF contains subscription charges and usage recorded during the previous calendar month. Invoices are issued monthly based on a specific Marketplace agreement.
-* **Statement** - A statement Excel file contains a detailed breakdown of charges on an invoice, including individual charge lines and usage details. Statements are also issued monthly.
+* **Invoice** – An invoice PDF contains subscription charges and usage recorded during the previous calendar month. Invoices are issued monthly based on a specific Marketplace agreement.
+* **Statement** – A statement Excel file contains a detailed breakdown of charges on an invoice, including individual charge lines and usage details. Statements are also issued monthly.
 
 To learn more about these documents, continue reading or watch the video guide:
 
@@ -25,8 +25,8 @@ Invoice PDFs contain general invoice information, subscription details, and char
 
 We provide two types of invoices:
 
-* **Compact invoice** - A compact invoice is a summarized invoice issued for statements containing a large number of charges (typically 42 or more). In a compact invoice, all charges for a product or service are grouped into summarized invoice lines, and quantities are shown as `1` to represent the aggregate charge for each item.&#x20;
-* **Detailed invoice** - A detailed invoice is issued for statements containing a limited number of charges (typically 41 or fewer). This type of invoice lists each charge on a separate line, allowing you to see exactly what you are being billed for, line by line. This means you don't need to refer to another statement for transaction details.
+* **Compact invoice** – A compact invoice is a summarized invoice issued for statements containing a large number of charges (typically 42 or more). In a compact invoice, all charges for a product or service are grouped into summarized invoice lines, and quantities are shown as `1` to represent the aggregate charge for each item.&#x20;
+* **Detailed invoice** – A detailed invoice is issued for statements containing a limited number of charges (typically 41 or fewer). This type of invoice lists each charge on a separate line, allowing you to see exactly what you are being billed for, line by line. This means you don't need to refer to another statement for transaction details.
 
 The invoice type is indicated in the **Description** column of your invoice PDF. For more details, see [Invoice line item details](./#invoice-line-item-details).
 
@@ -60,8 +60,8 @@ A statement is a detailed record of charges for each invoice.
 
 Unlike invoice PDFs that summarize charges, statements provide a comprehensive breakdown of all charges. Statements are issued as Excel (`.xlsx`) files and typically contain the following tabs:
 
-* **Summary** - Contains objects associated with the statement (for example, agreement, licensee, and orders) with links to view them in the platform.
-* **Charges** - Contains charges and subscriptions for the billing period. You can also see items within subscriptions, their quantities, and prices. If [split billing](../../marketplace/billing/split-billing/) is enabled, allocation percentage and estimated license count (ELC) details are also displayed.
-* **Orders** - Contains all orders placed during the billing period, including order type, order date, and related details.
+* **Summary** – Contains objects associated with the statement (for example, agreement, licensee, and orders) with links to view them in the platform.
+* **Charges** – Contains charges and subscriptions for the billing period. You can also see items within subscriptions, their quantities, and prices. If [split billing](../../marketplace/billing/split-billing/) is enabled, allocation percentage and estimated license count (ELC) details are also displayed.
+* **Orders** – Contains all orders placed during the billing period, including order type, order date, and related details.
 
 You can download your statements from the **Statements** page or use the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page if you cannot access your account. For more details, see [Download statements](../../marketplace/billing/statements/download-statements.md).

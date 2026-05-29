@@ -8,9 +8,9 @@ Chat lets you start a conversation with other users in your Marketplace account 
 
 It is available when the Helpdesk module is enabled for your account. The following chat types are supported:&#x20;
 
-* **Direct chat** - Represents a one-to-one conversation with another user.
-* **Group chat** - Represents a conversation with multiple users.
-* **Case chat** - Represents a chat that is created automatically for a support case.
+* **Direct chat** – Represents a one-to-one conversation with another user.
+* **Group chat** – Represents a conversation with multiple users.
+* **Case chat** – Represents a chat that is created automatically for a support case.
 
 Chat conversations are limited to active users within the same account. External users or users who are not part of an account cannot be added to a conversation. All chats stay saved, so you can return to them at any time.
 

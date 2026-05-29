@@ -25,10 +25,6 @@ The page displays vendor profile cards and filters in the left sidebar. You can 
 
 ### Related topics
 
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
-
 {% content-ref url="items.md" %}
 [items.md](items.md)
 {% endcontent-ref %}

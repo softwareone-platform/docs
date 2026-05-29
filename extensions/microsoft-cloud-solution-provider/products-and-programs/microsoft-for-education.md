@@ -23,10 +23,10 @@ Without this verification, you won't be able to order subscriptions at academic 
 
 Microsoft requires the following documents to verify your institution’s eligibility:
 
-* **Accreditation certificate** - Official documentation from your regional or national accrediting body.
-* **Institutional authority letter** - An official letter from your educational governing body confirming your institution's academic status.
-* **Domain ownership verification** - Documentation proving control of your institution's official website domain.
-* **Organizational profile** - A detailed overview of your institution, including mission, student population, and educational programs offered.
+* **Accreditation certificate** – Official documentation from your regional or national accrediting body.
+* **Institutional authority letter** – An official letter from your educational governing body confirming your institution's academic status.
+* **Domain ownership verification** – Documentation proving control of your institution's official website domain.
+* **Organizational profile** – A detailed overview of your institution, including mission, student population, and educational programs offered.
 
 **Best practices for document submission**
 
@@ -61,7 +61,7 @@ In such cases, the following options are available:
   3. Select **Billing and subscriptions** > **Education qualification**.
   4. Upload the [required documents](microsoft-for-education.md#what-documents-are-needed-to-confirm-eligibility).
   5. Describe your educational institution status and qualification needs.
-* **SoftwareOne-assisted qualification** - Choose this approach if you prefer SoftwareOne to review your current tenant, advise on eligibility gaps, and submit the qualification request.&#x20;
+* **SoftwareOne-assisted qualification** – Choose this approach if you prefer SoftwareOne to review your current tenant, advise on eligibility gaps, and submit the qualification request.&#x20;
 
 Microsoft typically processes existing tenant qualification requests within 10 business days, similar to new tenant timelines.&#x20;
 
@@ -77,6 +77,6 @@ Generally, Microsoft evaluates qualification requests within 10 business days. Y
 
 When your request is processing, it can have one of these statuses:
 
-* **In review** - Indicates that Microsoft is evaluating your documents. If your application takes longer than the standard Microsoft timeline, contact [Microsoft Support for Business](https://support.serviceshub.microsoft.com/supportforbusiness/onboarding?origin=/supportforbusiness/manage).
-* **Approved** - Your education status is approved, and you have full access to education pricing and products.
-* **Denied** - Your application doesn't meet Microsoft's current educational licensing requirements. For the next steps, see [My Application for Microsoft Education is Denied](../additional-resources/faqs/my-application-for-microsoft-education-is-denied.md). Alternatively, [contact Marketplace Platform Support](../../../help-and-support/contact-support.md).
+* **In review** – Indicates that Microsoft is evaluating your documents. If your application takes longer than the standard Microsoft timeline, contact [Microsoft Support for Business](https://support.serviceshub.microsoft.com/supportforbusiness/onboarding?origin=/supportforbusiness/manage).
+* **Approved** – Your education status is approved, and you have full access to education pricing and products.
+* **Denied** – Your application doesn't meet Microsoft's current educational licensing requirements. For the next steps, see [My Application for Microsoft Education is Denied](../additional-resources/faqs/my-application-for-microsoft-education-is-denied.md). Alternatively, [contact Marketplace Platform Support](../../../help-and-support/contact-support.md).

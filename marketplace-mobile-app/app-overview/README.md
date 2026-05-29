@@ -40,10 +40,10 @@ This screen shows all objects that need your attention. These objects may includ
 
 Use the bottom navigation menu to move between the main sections of the app:
 
-* **Spotlight**  <i class="fa-brightness">:brightness:</i> - View key objects that require your attention.
-* **Search** <i class="fa-magnifying-glass">:magnifying-glass:</i> - Search for your agreements, invoices, subscriptions, and more.&#x20;
-* **Chat**  <i class="fa-message">:message:</i> - View your list of chats and start a new direct or group conversation.
-* **More** <i class="fa-ellipsis-stroke">:ellipsis-stroke:</i> - Access different modules, such as Billing, Catalog, Marketplace, and more.
+* **Spotlight**  <i class="fa-brightness">:brightness:</i> – View key objects that require your attention.
+* **Search** <i class="fa-magnifying-glass">:magnifying-glass:</i> – Search for your agreements, invoices, subscriptions, and more.&#x20;
+* **Chat**  <i class="fa-message">:message:</i> – View your list of chats and start a new direct or group conversation.
+* **More** <i class="fa-ellipsis-stroke">:ellipsis-stroke:</i> – Access different modules, such as Billing, Catalog, Marketplace, and more.
 
 All pages within the app follow the same pattern. They include a list of objects, allowing you to scroll the list and tap an object to view detailed information.
 

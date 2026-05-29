@@ -38,9 +38,9 @@ To start the wizard:
 {% step %}
 **Complete the enrollment**
 
-1. **Certificant** - Choose the buyer you want to enroll, then select **Next**.
-2. **Overview** - Review the details, then select **Add**.
-3. **Summary** - Select **View details** to open the enrollment details page, or select **Close**.
+1. **Certificant** – Choose the buyer you want to enroll, then select **Next**.
+2. **Overview** – Review the details, then select **Add**.
+3. **Summary** – Select **View details** to open the enrollment details page, or select **Close**.
 {% endstep %}
 {% endstepper %}
 

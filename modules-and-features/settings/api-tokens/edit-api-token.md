@@ -19,6 +19,6 @@ To update the token details:
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EditToken.png" alt=""><figcaption><p>The Edit API token page in the platform.</p></figcaption></figure></div>
 
 4. In the guided **Edit API token** flow, update the details as necessary:
-   * **General** - You can update the token name and description.
-   * **Modules** - You can update the access scope for the **Modules**.
+   * **General** – You can update the token name and description.
+   * **Modules** – You can update the access scope for the **Modules**.
 5. Select **Save**. The token is updated.&#x20;

@@ -31,20 +31,20 @@ To start the order:
 
 To create a new agreement and add items to your order:
 
-1. **Select agreements** - Select **Create agreement**.&#x20;
-2. **Select licensee** - Choose a licensee. Ensure that the **Resale** column shows **Yes**, then select **Next**.
-3. **Select certificate** - Select a certificate. If the certificate you want to use isn't displayed, use **Add certificate** to add it. When done, select **Next**.
-4. **Create agreement** - Choose whether you want to create a new Microsoft tenant or connect an existing cloud account.
-5. **Microsoft details** - Do the following depending on the selection in the previous step:
+1. **Select agreements** – Select **Create agreement**.&#x20;
+2. **Select licensee** – Choose a licensee. Ensure that the **Resale** column shows **Yes**, then select **Next**.
+3. **Select certificate** – Select a certificate. If the certificate you want to use isn't displayed, use **Add certificate** to add it. When done, select **Next**.
+4. **Create agreement** – Choose whether you want to create a new Microsoft tenant or connect an existing cloud account.
+5. **Microsoft details** – Do the following depending on the selection in the previous step:
    * For a new cloud account, provide a new domain name, then provide the following details:
      1. Company name.
      2. Company registration ID or tax number.
      3. Company address, including city and zip/postal code.
      4. Contact details of the person managing your account.
    * For an existing cloud account, enter your existing domain name and your Microsoft account details.
-6. **Special qualifications** - Select the checkbox if the organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
-7. **Support contacts** - Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
-8. **Items** - Complete the following steps, then select **Next**.
+6. **Special qualifications** – Select the checkbox if the organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
+7. **Support contacts** – Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
+8. **Items** – Complete the following steps, then select **Next**.
    1. Read and understand the attestation: "_By clicking **Next**, I confirm that my organization is acting as an indirect partner when choosing a reseller and as a direct partner in the absence of selecting a reseller"._
    2. Select **Add items** to choose the items you want to order.
    3. Review and adjust the item quantity.
@@ -55,9 +55,9 @@ To create a new agreement and add items to your order:
 
 To review and submit your order:
 
-1. **Details** - Provide reference details for the order, then select **Next**.
-2. **Review order** - Review the order details, go through the terms and conditions, then select **Place order**.
-3. **Summary** - Review your order summary, then select **View details** to open the order details page, or select **Close**.
+1. **Details** – Provide reference details for the order, then select **Next**.
+2. **Review order** – Review the order details, go through the terms and conditions, then select **Place order**.
+3. **Summary** – Review your order summary, then select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 

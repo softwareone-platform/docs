@@ -28,10 +28,10 @@ To start the process:
 
 In the **Terminate Subscription** wizard, complete the following steps:
 
-1. **Items** - Check that the new quantity field displays the value as 0. When done, select **Next**.
-2. **Details** - Enter the reference information for this order, then select **Next**&#x20;
-3. **Review** - Select **Place order**. A termination order is created for the subscription and submitted to the vendor for processing.&#x20;
-4. **Summary** - Select **View order** to open the order details page. Otherwise, select **Close**.
+1. **Items** – Check that the new quantity field displays the value as 0. When done, select **Next**.
+2. **Details** – Enter the reference information for this order, then select **Next**&#x20;
+3. **Review** – Select **Place order**. A termination order is created for the subscription and submitted to the vendor for processing.&#x20;
+4. **Summary** – Select **View order** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 

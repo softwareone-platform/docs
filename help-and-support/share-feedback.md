@@ -6,10 +6,10 @@ When submitting feedback, you can rate your experience using any of the five emo
 
 When writing feedback, consider the following best practices:
 
-* **Be concise** - Limit your review to 2000 characters, including spaces.
-* **Attach files** - Include images or screen recordings to help us visualize your feedback.
-* **Be specific** - Share both the positive and negative aspects. For new features and enhancements, explain your use case and how it benefits you.
-* **Focus on actions, not individuals** - Describe your experience with the platform, its features, and workflows, instead of naming individuals.
+* **Be concise** – Limit your review to 2000 characters, including spaces.
+* **Attach files** – Include images or screen recordings to help us visualize your feedback.
+* **Be specific** – Share both the positive and negative aspects. For new features and enhancements, explain your use case and how it benefits you.
+* **Focus on actions, not individuals** – Describe your experience with the platform, its features, and workflows, instead of naming individuals.
 
 {% hint style="info" %}
 Do not use the feedback form to request assistance. If you encounter an issue with the Marketplace Platform or [SoftwareOne FinOps for Cloud](https://docs.finops.softwareone.com/), contact Marketplace Platform Support instead.&#x20;
@@ -24,10 +24,10 @@ To share feedback:
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/help-send-feedback.png" alt=""><figcaption><p>Select Send feedback to share your feedback.</p></figcaption></figure></div>
 
 2. In the **feedback** form, do the following:&#x20;
-   1. **Rate your experience** - (Optional) Choose an appropriate rating for your experience.
-   2. **Subject** - (Required) Enter a subject line for your feedback.
-   3. **Write your feedback** - (Required) Describe your feedback with as much detail as possible.
-   4. **Attachment** - (Optional) By default, a screenshot of the page you are viewing is added. You can keep this screenshot or replace it with another file. Only one file can be attached here; to add more, use the **Add** option on the feedback details page after submission.
+   1. **Rate your experience** – (Optional) Choose an appropriate rating for your experience.
+   2. **Subject** – (Required) Enter a subject line for your feedback.
+   3. **Write your feedback** – (Required) Describe your feedback with as much detail as possible.
+   4. **Attachment** – (Optional) By default, a screenshot of the page you are viewing is added. You can keep this screenshot or replace it with another file. Only one file can be attached here; to add more, use the **Add** option on the feedback details page after submission.
 3. Select **Submit**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/feedback-wizard.png" alt=""><figcaption><p>Rate your experience and describe your feedback.</p></figcaption></figure></div>

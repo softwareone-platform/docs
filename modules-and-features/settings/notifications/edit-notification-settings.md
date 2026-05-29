@@ -14,8 +14,8 @@ To configure settings:
 2. Select the **Settings** tab.
 3. Select **Edit**.
 4. Update the following details:
-   * **Sender name** - Enter the display name that will appear in your emails. This name is shown to the recipient, so we recommend using a clear and meaningful sender name.
-   * **Custom footer** - Add the information you want to include in the footer of your notification emails. The details you provide appear alongside the standard platform footer.
+   * **Sender name** – Enter the display name that will appear in your emails. This name is shown to the recipient, so we recommend using a clear and meaningful sender name.
+   * **Custom footer** – Add the information you want to include in the footer of your notification emails. The details you provide appear alongside the standard platform footer.
 5. Select **Save**.
 
 {% hint style="info" %}
