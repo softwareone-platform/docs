@@ -45,7 +45,7 @@
     * [Billing FAQs](modules-and-features/billing/understand-your-billing-documents/billing-faqs.md)
     * [Invoice fields mapping](modules-and-features/billing/understand-your-billing-documents/invoice-fields-mapping.md)
   * [Analytics](modules-and-features/billing/analytics/README.md)
-    * [Customize analytics with filters](modules-and-features/billing/analytics/customize-analytics-with-filters.md)
+    * [Customize analytics using filters](modules-and-features/billing/analytics/customize-analytics-using-filters.md)
     * [Export billing data](modules-and-features/billing/analytics/export-billing-data.md)
     * [Save and manage views](modules-and-features/billing/analytics/save-and-manage-views.md)
   * [Invoices](modules-and-features/marketplace/billing/invoices/README.md)

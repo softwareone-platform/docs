@@ -1,8 +1,12 @@
+---
+description: Download your billing data.
+---
+
 # Export billing data
 
 The **Export** option on the **Analytics** page allows you to download your billing data as an Excel file, so you can share it with others by email or other methods.
 
-While the visual chart within **Analytics** displays only your top 10 grouped entities, the Excel file provides you with a complete, unfiltered dataset.
+While the visual chart within **Analytics** displays only your top 10 grouped entities, the Excel file provides you with a complete and unfiltered dataset.
 
 ### Exporting billing data
 
