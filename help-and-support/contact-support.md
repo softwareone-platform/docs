@@ -13,13 +13,13 @@ Our team can help with technical issues and questions, including:
 * Questions about your orders, including orders that might not have completed as expected.
 * Help with ordering products if you experience issues or can’t find what you need.
 
-SoftwareOne partners can also contact Marketplace Platform Support for help with account management, subscription ordering and provisioning, enrollment, certificates, and more.
+SoftwareOne partners can also contact us for help with account management, subscription ordering and provisioning, enrollment, certificates, and more.
 
 {% hint style="info" %}
 For assistance with SoftwareOne services like Cloud Managed Services (Simple and Essentials) or technical issues with cloud subscriptions, including AWS, Microsoft 365, Teams, Azure, and Dynamics, contact [SoftwareOne Services Support](https://docs.softwareone.cloud/microsoft-csp-services/technical-support-explained).
 {% endhint %}
 
-### Describing your issue
+### Describe your issue
 
 When contacting us, provide as much detail as possible, including the following:
 
@@ -28,7 +28,7 @@ When contacting us, provide as much detail as possible, including the following:
 * Your expected outcome.
 * If applicable, a screenshot of the error message or the full text. You can also include a screen recording.
 
-### Contacting Marketplace Platform Support
+### Contact Marketplace Platform Support
 
 Marketplace Platform Support is available Monday to Friday, from 05:30 to 19:30 UTC. You can contact us by email or create a support case.&#x20;
 
