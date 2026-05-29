@@ -8,7 +8,7 @@ In the SoftwareOne Marketplace, we automatically renew subscriptions for your co
 
 If you don't want your subscription to renew automatically, you can disable auto-renewal if it's supported for your specific product. By doing so, your subscription will expire at the end of the commitment period or renewal date, and you won't be billed after that. Additionally, if you previously disabled auto-renewal for a subscription and now want to re-enable it, you can do this before the subscription expires.
 
-### Disabling or enabling automatic renewal <a href="#h_01jey7dr4j22wpq7tv0kkq1yv3" id="h_01jey7dr4j22wpq7tv0kkq1yv3"></a>
+### Manage automatic renewal <a href="#h_01jey7dr4j22wpq7tv0kkq1yv3" id="h_01jey7dr4j22wpq7tv0kkq1yv3"></a>
 
 Auto-renewal settings can be managed by placing a configuration order.  Before changing the setting, make sure that both the agreement and subscription are active.&#x20;
 
@@ -21,10 +21,10 @@ To manage renewal:
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/auto_renewal.png" alt=""><figcaption><p>The Configure option on the subscription details page.</p></figcaption></figure></div>
 
 4. In the guided **Configuration order** flow, do the following:
-   1. **Auto-renewal** - Choose the required auto-renewal status. Select **Next**.&#x20;
-   2. **Order details** - Enter the additional ID and notes for the order. Select **Next**.
-   3. **Review order** - Review the details. When done, select **Place order**.&#x20;
-   4. **Summary** - Select **View order** to open the order details page, or select **Close**.
+   1. **Auto-renewal** – Choose the required auto-renewal status. Select **Next**.&#x20;
+   2. **Order details** – Enter the additional ID and notes for the order. Select **Next**.
+   3. **Review order** – Review the details. When done, select **Place order**.&#x20;
+   4. **Summary** – Select **View order** to open the order details page or select **Close**.
 
 Once your configuration order is submitted, the agreement status changes from **Active** to **Updating**.&#x20;
 

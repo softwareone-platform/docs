@@ -2,7 +2,7 @@
 
 The **Currency exchange** page within the **Exchange** module provides a read‑only overview of all currency pairs and associated exchange rate data configured in the Marketplace Platform. It enables you to view exchange rate relationships between two currencies used in the Marketplace.&#x20;
 
-### Viewing the currency pairs
+### View the currency pairs
 
 To view the list of currency pairs:
 
@@ -15,9 +15,9 @@ You can also view the latest exchange rates in both directions, how many agreeme
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/currency-exchange.png" alt=""><figcaption><p>Use the Currency exchange page to track rates.</p></figcaption></figure></div>
 
-### Viewing the currency pair details
+### Open currency pair details
 
-To view currency details:
+To openn currency details:
 
 1. Go to **Settings** > **Exchange**.
 2. Under **Currency exchange**, select the currency pair that you want to view. The details page for the currency pair opens.

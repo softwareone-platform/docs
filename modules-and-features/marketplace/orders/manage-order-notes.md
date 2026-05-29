@@ -10,7 +10,7 @@ After the order is submitted, any notes you entered are displayed on the **Notes
 
 Notes can be added or updated at any time, regardless of the order's status.
 
-### Managing your order notes
+### Add or update notes for an order
 
 To add or update the notes for an order:
 

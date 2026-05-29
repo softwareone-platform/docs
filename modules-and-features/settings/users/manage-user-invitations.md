@@ -6,7 +6,7 @@ description: Reinvite a user to your Marketplace account.
 
 Administrators can manage invitations from the **Users** page in the platform.
 
-### Reinviting a user <a href="#reinviting-a-user" id="reinviting-a-user"></a>
+### Reinvite a user <a href="#reinviting-a-user" id="reinviting-a-user"></a>
 
 If a user you added to the account didn't receive the invitation email or has difficulty accepting it, you can either share the invite link with them directly or resend the invitation.&#x20;
 
@@ -18,7 +18,7 @@ To reinvite a user to your account:
    * **Copy invitation link** – Select this option to copy the invitation link and share it directly with the individual.
    * **Resend invitation link** – Select this option to resend the invitation to their email address.
 
-### Sending a new invitation email <a href="#sending-a-new-invitation-email" id="sending-a-new-invitation-email"></a>
+### Send a new invitation email <a href="#sending-a-new-invitation-email" id="sending-a-new-invitation-email"></a>
 
 Invitations that are not accepted within 7 days from the send date will expire.&#x20;
 

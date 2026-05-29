@@ -10,7 +10,7 @@ Deleted orders can't be recovered, but are still displayed in your list of order
 
 You can delete only the **Draft** and **Quoted** orders. When you delete a draft purchase order, the agreement linked to the draft order is also deleted.
 
-### Deleting an order
+### Delete an order
 
 To delete an order:
 

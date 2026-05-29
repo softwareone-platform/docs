@@ -12,7 +12,7 @@ All SoftwareOne partners must enroll in this program to obtain a compliance cert
 
 Make sure your account has been set up as a partner account. For details, see [How to verify if your account has partner capabilities](how-to-verify-if-your-account-has-partner-capabilities.md).
 
-### Enrolling in the SWO CSP Partner program
+### Enroll in the SWO CSP Partner program
 
 {% stepper %}
 {% step %}

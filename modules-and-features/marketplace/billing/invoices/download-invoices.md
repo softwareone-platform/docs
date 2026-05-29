@@ -4,31 +4,46 @@ description: Access and download your Marketplace invoice PDFs.
 
 # View and download invoices
 
-The Marketplace Platform provides various options for accessing invoices.&#x20;
+You can open invoice details from **Billing** > **Invoices** or from an agreement's **Invoices** tab.
 
-You can view all invoices on the **Invoices** page and download them from the details page of the invoice. Additionally, you can view all invoices for an agreement by selecting the **Invoices** tab on the agreement details page. &#x20;
+From the invoice details page, you can review invoice information and download the invoice PDF.
 
-### Viewing invoice details <a href="#subscription-details" id="subscription-details"></a>
+### Download an invoice
 
-The **invoice details** page displays detailed information for the invoice. To view invoice details:
+To download an invoice PDF:
 
 1. Go to **Billing** > **Invoices**.
-2. (Optional) Use filters to find the desired invoice.
-3. Select the invoice ID. The invoice details page opens.
-4. Use the tabs on the invoice details page to view different types of information:
+2. (Optional) Use filters to find the invoice you want. For details, see [Find specific invoices using filters](filter-invoices.md).
+3. Select an invoice ID to open the invoice details page.
+4. Select the **Attachments** tab.
+5. Under **Actions**, select **Download**. The invoice downloads as a PDF file.
 
-<table><thead><tr><th width="152">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Entities</strong></td><td>Displays the extended information for the entities linked to the invoice.</td></tr><tr><td><strong>Attachments</strong></td><td>Allows you to download the invoice as a PDF. </td></tr><tr><td><strong>Details</strong></td><td>Displays reference information, such as additional IDs and timestamps.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an <a href="../../../settings/audit-trail.md">audit trail</a> of the invoice.</td></tr></tbody></table>
-
-### Downloading an invoice
-
-To download an invoice:
-
-1. Go to **Billing** > **Invoices**.&#x20;
-2. (Optional) Refine your list of invoices. You can apply various filters to find invoices quickly. For details, see [Find a specific invoice using filters](filter-invoices.md).
-3. Locate the invoice you want to download. Then, select the link in the **ID** field.
-4. On the invoice details page, select the **Attachments** tab.&#x20;
-5. Under **Actions**, select **Download**. The selected invoice is downloaded as a PDF.
+{% hint style="info" %}
+If the **Attachments** tab is empty, no downloadable invoice PDF is available for that invoice yet.
+{% endhint %}
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoice_attachments.png" alt=""><figcaption><p>Attachments tab on the invoice details page</p></figcaption></figure></div>
 
-For details on how to read your invoice, see [Understand your billing documents](../../../billing/understand-your-billing-documents/).
+### View invoice details
+
+The invoice details page shows the main invoice information in separate tabs.
+
+To open invoice details:
+
+1. Go to **Billing** > **Invoices**.
+2. (Optional) Use filters to find the invoice you want.
+3. Select an invoice ID. Use these tabs to review the invoice:
+
+<table><thead><tr><th width="235">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Entities</strong></td><td>Shows extended information for records linked to the invoice.</td></tr><tr><td><strong>Attachments</strong></td><td>Shows downloadable invoice files, including the PDF.</td></tr><tr><td><strong>Details</strong></td><td>Shows reference fields, additional IDs, and timestamps.</td></tr><tr><td><strong>Audit trail</strong></td><td>Shows the invoice activity history. For details, see <a href="../../../settings/audit-trail.md">Audit trail</a>.</td></tr></tbody></table>
+
+### View invoices from an agreement
+
+You can also open invoices directly from an agreement.
+
+1. Open the agreement details page.
+2. Select the **Invoices** tab.
+3. Select an invoice ID to open the invoice details page.
+
+From there, you can review the invoice tabs or download the PDF from **Attachments**.
+
+For help reading invoice fields and charges, see [Understand your billing documents](../../../billing/understand-your-billing-documents/).

@@ -2,14 +2,14 @@
 description: Use the Status page for real‑time information about the platform.
 ---
 
-# Status Page
+# Status page
 
 Our [Status Page](https://status.platform.softwareone.com/) is a central source of information about the current status of the Marketplace Platform. Here's why it's important:
 
-* **Real-time updates** - Get real-time updates on the platform's operational status, including uptime, performance metrics, and ongoing incidents or maintenance.
-* **Incident reporting** - Stay informed about issues affecting your platform use, such as downtime, service disruptions, or degraded performance.
-* **Scheduled maintenance** - Be aware of any scheduled maintenance activities that could impact your access to the platform.
-* **Historical data** - Review the history of past incidents and maintenance activities to understand the platform's reliability and stability.
+* **Real-time updates** – Get real-time updates on the platform's operational status, including uptime, performance metrics, and ongoing incidents or maintenance.
+* **Incident reporting** – Stay informed about issues affecting your platform use, such as downtime, service disruptions, or degraded performance.
+* **Scheduled maintenance** – Be aware of any scheduled maintenance activities that could impact your access to the platform.
+* **Historical data** – Review the history of past incidents and maintenance activities to understand the platform's reliability and stability.
 
 ### When to check the Status page
 

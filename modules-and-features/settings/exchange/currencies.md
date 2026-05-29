@@ -2,7 +2,7 @@
 
 The **Currencies** page within the **Exchange** module provides a comprehensive overview of all currencies supported by the SoftwareOne Marketplace. This page is read-only and is intended to provide visibility into the available currencies.
 
-### Viewing the list of currencies
+### View the currencies list
 
 To access the list of supported currencies:
 
@@ -15,7 +15,7 @@ You can also check whether the currency is active, the total number of sellers t
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/currencies.png" alt=""><figcaption><p>Use the Currencies page to view configured currencies.</p></figcaption></figure></div>
 
-### Viewing currency details
+### Open currency details
 
 To view currency details:
 

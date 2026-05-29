@@ -8,7 +8,7 @@ The **Feedback** page enables you to share your comments, suggestions, and exper
 
 Your feedback helps us improve the platform, and we welcome both positive and negative experiences you had while using the platform.&#x20;
 
-### Submitting feedback
+### Submit feedback
 
 You can share your feedback either by selecting the help option in the header or through the **Feedback** page.&#x20;
 

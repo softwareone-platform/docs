@@ -12,7 +12,7 @@ Subscriptions can be renamed using the **Rename** option on the subscription det
 Changing the subscription name only affects its display in the Marketplace Platform. The updated subscription name is not reflected in the vendor's system.
 {% endhint %}
 
-### Editing a subscription's name
+### Edit subscription name
 
 To edit your subscription:
 
@@ -22,4 +22,4 @@ To edit your subscription:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rename1 (1).png" alt=""><figcaption><p>The option to rename a subscription.</p></figcaption></figure></div>
 
-4. In the **Rename** dialog, enter the new name, then select **Save**. The subscription is renamed in the platform.
+4. In the **Rename** dialog, enter the new name, then select **Save**. The subscription is renamed.

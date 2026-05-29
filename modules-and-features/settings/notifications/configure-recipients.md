@@ -10,7 +10,7 @@ Categories group related notification events. When a category is enabled, and an
 
 If a category is disabled, its recipients do not receive notification emails. To manage categories, see [Enable or disable categories](enable-or-disable-categories.md).
 
-### Adding recipients
+### Add recipients
 
 To add recipients to a category:
 
@@ -29,7 +29,7 @@ To add recipients to a category:
    2. In **Edit groups**, select the groups that should receive notifications.
    3. Select **Save**.
 
-### Removing recipients
+### Remove recipients
 
 To remove recipients from a category:
 

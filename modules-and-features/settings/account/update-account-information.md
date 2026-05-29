@@ -8,7 +8,7 @@ You can use the Edit option on the **Account** page to make changes to your acco
 
 Only account administrators can update these details. If you want to update your individual profile, see [Manage your profile](../../../marketplace-platform/getting-started/manage-profile.md).
 
-### Updating your account details
+### Update account
 
 To update your account details:
 

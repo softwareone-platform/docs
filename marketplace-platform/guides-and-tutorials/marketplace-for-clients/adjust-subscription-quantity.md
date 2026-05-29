@@ -13,7 +13,7 @@ When reducing licenses, these rules apply:
 * If the subscription contains multiple items, at least one item must remain above zero.
 {% endhint %}
 
-### Increasing or reducing licenses
+### Increase or reduce licenses
 
 {% stepper %}
 {% step %}

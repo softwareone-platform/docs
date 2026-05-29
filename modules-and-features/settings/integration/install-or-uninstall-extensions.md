@@ -2,11 +2,11 @@
 description: Install or uninstall an extension.
 ---
 
-# Install or uninstall an extension
+# Install or uninstall extensions
 
 This topic describes how to install an extension available in our extensions directory. It also describes how to uninstall an extension.
 
-### Installing an extension
+### Install an extension
 
 To install an extension:
 
@@ -23,7 +23,7 @@ Once installed, the extension will show an **Installed** status on the **Extensi
 
 Depending on the extension, it may appear in multiple locations within the platform. Check the main navigation menu, relevant modules, or details pages to access the installed extension's features.
 
-### Uninstalling an extension
+### Uninstall an extension
 
 You can uninstall an extension if it's no longer needed.
 

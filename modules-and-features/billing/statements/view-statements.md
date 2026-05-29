@@ -1,29 +1,47 @@
+---
+description: Review billing statements and open statement details.
+---
+
 # View statements
 
-This topic describes how to view statements in your account, as well as details about a specific statement.
+Use the **Statements** page to review all billing statements for your account. Select a statement ID to open its details.
 
-### Viewing statements
+### View the statements list
 
 To view your statements:
 
-1. Go to **Billing** > **Statements**.&#x20;
-2. View the list of statements displayed on the page.
-3. Review properties, such as statement ID, the total amount due, status, and more. You can also view the statement type. A **Debit** type means that the total amount is positive or zero, and a **Credit** type means that the total amount is negative.
+1. Go to **Billing** > **Statements**.
+2. Review the list of statements.
+3. Check the statement ID, total amount due, status, and type. **Debit** means the total amount is zero or positive. **Credit** means the total amount is negative.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Use the Statements page to view your billing statements.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Use the Statements page to view your statements.</p></figcaption></figure></div>
 
-### Viewing statement details <a href="#subscription-details" id="subscription-details"></a>
+### Open statement details
 
-On the **statement details** page, you can view detailed information for the statement. Some information is read-only, while others include links that allow you to navigate to further details.
+The statement details page shows more information for a specific statement. Some fields are read-only. Some fields include links to related records.
 
 To view statement details:
 
 1. Go to **Billing** > **Statements**.
-2. (Optional) Use filters to find the desired statement.
-3. Select the statement ID. The **statement details** page opens.
+2. (Optional) Use filters to find the statement you want. For details, see [Filter statements](filter-billing-statements.md).
+3. Select a statement ID to open the statement details page.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statement_details_page.png" alt=""><figcaption><p>Use the details page to view detailed information for a statement.</p></figcaption></figure></div>
 
-4. Use the tabs on the **statement details** page to access different types of information:
+4. Use these tabs on the statement details page:
 
-<table><thead><tr><th width="164">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Charges</strong></td><td>Displays a list of charges and subscriptions for the billing period.</td></tr><tr><td><strong>Attachments</strong></td><td>Allows you to view and download the statement. </td></tr><tr><td><strong>Details</strong></td><td>Displays reference information, like the additional IDs and timestamps.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays a record of events for the statement. For details, see <a href="../../settings/audit-trail.md">Audit Trail</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="164">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>Charges</strong></td><td>Shows the charges and subscriptions for the billing period.</td></tr><tr><td><strong>Attachments</strong></td><td>Shows the statement files you can open or download. For details, see <a href="../../marketplace/billing/statements/download-statements.md">Download statements</a>.</td></tr><tr><td><strong>Details</strong></td><td>Shows reference fields, additional IDs, and timestamps.</td></tr><tr><td><strong>Audit trail</strong></td><td>Shows the statement activity history. For details, see <a href="../../settings/audit-trail.md">Audit trail</a>.</td></tr></tbody></table>
+
+### Review statement charges
+
+The **Charges** tab shows the individual charges for the billing period. These charges are used to calculate the statement total and invoice.
+
+You can also review the same charge data in the downloaded Excel statement. For details, see [Download statements](../../marketplace/billing/statements/download-statements.md).
+
+To review charges on a statement:
+
+1. Open the statement details page.
+2. Select the **Charges** tab.
+3. Review the individual charges and related subscriptions.
+4. To open more information for a charge, select **View details** in the **Actions** column.
+

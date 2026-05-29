@@ -8,7 +8,7 @@ The **Edit** option on the **Users** page allows you to edit a user's group memb
 
 Personal details (such as name, email address, or contact details) can't be updated. If such details require updating, the user must update them through the **My Profile** option in their profile menu. To learn more, see [Manage your profile](../../../marketplace-platform/getting-started/manage-profile.md).
 
-### Editing a user <a href="#editing-a-users-group-membership" id="editing-a-users-group-membership"></a>
+### Edit a user <a href="#editing-a-users-group-membership" id="editing-a-users-group-membership"></a>
 
 To edit a user:
 

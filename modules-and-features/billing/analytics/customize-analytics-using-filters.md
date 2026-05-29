@@ -10,7 +10,7 @@ You can select a time period, granularity, and grouping dimensions to adjust how
 
 When grouping is applied, the chart shows the top 10 entities based on the selected grouping. All remaining entities are combined into a single category called **Others / Unmatched**.
 
-### Customizing analytics using filters
+### Customize analytics using filters
 
 To customize the data in Analytics:
 

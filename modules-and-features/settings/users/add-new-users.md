@@ -16,7 +16,7 @@ Before adding a user to your account, note the following points:
 * Make sure the user is not already added to the account. If they are, the platform displays a message.
 * When adding the user, make sure to assign them to the correct group. For information on creating or updating a group, see [Groups](../groups/).
 
-### Adding a new user to your account <a href="#adding-a-new-user-to-your-account" id="adding-a-new-user-to-your-account"></a>
+### Add a new user to your account <a href="#adding-a-new-user-to-your-account" id="adding-a-new-user-to-your-account"></a>
 
 To add a new user:
 

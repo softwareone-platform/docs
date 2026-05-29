@@ -10,7 +10,7 @@ Before starting this tutorial, make sure you have the following:
 * Contact details of a technical person within your organization. We might contact this individual during deployment in case of issues.
 * An active licensee in the Marketplace Platform, or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees). Selecting a licensee is required when creating a new agreement.
 
-### Transferring your existing AWS account
+### Transfer your existing AWS account
 
 {% stepper %}
 {% step %}

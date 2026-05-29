@@ -6,7 +6,7 @@ description: See all notification emails generated for your account.
 
 Account administrators can use the **Messages** tab to view the account-level log of notification emails. The list includes emails that were sent successfully and emails with failed delivery.
 
-### Viewing messages
+### View messages list
 
 To open the message list:
 
@@ -19,7 +19,7 @@ The **Contact** column shows the recipient email address. The **Users** column s
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications.png" alt=""><figcaption><p>Use the Messages tab to view account-level log of notification emails.</p></figcaption></figure></div>
 
-### Viewing message details
+### Open message details
 
 To open the full details for a message:
 

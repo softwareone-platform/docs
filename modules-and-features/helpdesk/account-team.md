@@ -6,7 +6,7 @@ description: View your SoftwareOne account team members in the platform.
 
 The **Account team** page displays the SoftwareOne account team responsible for managing and supporting your account.&#x20;
 
-### Viewing your account team
+### View your account team
 
 To view your SoftwareOne account team, select **Helpdesk** > **Account team** from the main menu.&#x20;
 

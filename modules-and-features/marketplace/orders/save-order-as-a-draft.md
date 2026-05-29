@@ -26,7 +26,7 @@ In the SoftwareOne Marketplace, you can save an order and return to it later to 
 
 This topic describes how you can save an order for purchasing later.&#x20;
 
-### Saving a purchase order
+### Save a purchase order
 
 To save a purchase order for later:
 
@@ -37,7 +37,7 @@ To save a purchase order for later:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SaveDraftOrder.png" alt=""><figcaption><p>Use the Save Order option to save your purchase order for later.</p></figcaption></figure></div>
 
-### Saving a change order
+### Save a change order
 
 A change order represents an order to change subscription quantities. Change orders are created when you adjust the quantity of your subscription licenses. This includes upsizing as well as downsizing subscriptions.&#x20;
 
@@ -47,8 +47,8 @@ To save a change order for later:
 2. Select the required subscription.&#x20;
 3. On the subscription details page, select **Edit.**
 4. In the guided **Edit subscription** flow, do the following:
-   1. **Items** - Adjust the quantity, then select **Next**.
-   2. **Details** - Enter the reference information, then select **Save order**. The order is saved for later.
+   1. **Items** – Adjust the quantity, then select **Next**.
+   2. **Details** – Enter the reference information, then select **Save order**. The order is saved for later.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EditSubsReduceQty (2).png" alt=""><figcaption><p>Use the Save Order option to save your change order for later. </p></figcaption></figure></div>
 

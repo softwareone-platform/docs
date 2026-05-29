@@ -16,13 +16,13 @@ It means you cannot sign in or switch to this organization and access data such 
 
 Ensure that the agreement linked to the purchase order is currently active.&#x20;
 
-### Cancelling your FinOps for Cloud order
+### Cancel your FinOps for Cloud order
 
 {% stepper %}
 {% step %}
-**Start the termination process**
+**Start the termination order**
 
-To start the process:
+To start the order:
 
 1. Go to **Marketplace** > **Agreements**.
 2. Select the agreement you want to terminate.
@@ -32,7 +32,7 @@ To start the process:
 {% endstep %}
 
 {% step %}
-**Follow the steps to cancel your order**
+**Submit your order**
 
 {% include "../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 

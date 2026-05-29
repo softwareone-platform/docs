@@ -2,19 +2,21 @@
 description: Track, review, and manage your sales orders.
 ---
 
-# Sales Orders
+# Sales orders
 
-The Marketplace Platform offers an enhanced, transparent method for managing your sales orders directly within the platform. A sales order is created after you have accepted a [sales quote](../sales-quotes-reporting/), initiating the order fulfillment and billing process.&#x20;
+The Marketplace Platform offers an enhanced, transparent method for managing your sales orders directly within the platform.&#x20;
 
-### Accessing sales orders
+A sales order is created after you have accepted a [sales quote](../sales-quotes-reporting/), initiating the order fulfillment and billing process.&#x20;
+
+### Sales orders page
 
 The **Sales orders** page provides a consolidated view of your organization's purchasing activities.
 
-To navigate to the **Sales orders** page, select the main menu, then choose **Procurement** > **Sales orders**. A list of your sales orders is displayed, as shown in the following image:
+To open the page, select **Procurement** > **Sales orders** from the main menu.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/sales-order.png" alt=""><figcaption><p align="center">The Sales Orders page displaying a list of orders and their details.</p></figcaption></figure></div>
 
-On the **sales orders** page, you can view various details for each sales order, including the order ID, creation date, estimated sales price, current status, and more. If you are familiar with our legacy systems, you can conveniently **switch to classic view** to see the details using our legacy interface.&#x20;
+On the sales orders page, you can view various details for each sales order, including the order ID, creation date, estimated sales price, current status, and more. If you are familiar with our legacy systems, you can conveniently **switch to classic view** to see the details using our legacy interface.&#x20;
 
 You can also select a sales order to view detailed information organized across several tabs. The information available includes:
 

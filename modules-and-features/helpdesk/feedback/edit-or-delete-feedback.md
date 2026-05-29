@@ -10,7 +10,7 @@ You also delete the feedback if you changed your mind or no longer want to share
 
 Feedback can only be edited or deleted if it's yet to be reviewed by SoftwareOne. If the feedback is already in a **Reviewed** state, it cannot be modified.
 
-### Editing your feedback
+### Edit feedback
 
 To update your feedback item:
 
@@ -24,7 +24,7 @@ To update your feedback item:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/edit-feedback.png" alt=""><figcaption><p>Edit your submitted feedback.</p></figcaption></figure></div>
 
-### Deleting your feedback
+### Delete feedback
 
 {% hint style="warning" %}
 Deleted feedback cannot be recovered.

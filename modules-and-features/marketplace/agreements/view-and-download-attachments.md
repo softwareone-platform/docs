@@ -2,13 +2,13 @@
 description: Access and manage your attachments for an agreement.
 ---
 
-# View and download attachments
+# View or download attachments
 
 The **Attachments** tab on the details page of an agreement displays all files that are added to your agreement by the vendor or SoftwareOne.&#x20;
 
 Attachments can include PDFs and license keys. The file attachments are also available on the **Attachments** tab within the order details page.
 
-### Viewing and downloading attachments
+### View or download attachments
 
 To view and download attachments:&#x20;
 

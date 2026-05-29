@@ -10,13 +10,14 @@ Only the messages that you sent can be edited or deleted. You cannot edit or del
 
 There's no limit to the number of times you can edit a message. Edited messages include the word _edited_.
 
-### Editing or deleting a chat message
+### Edit or delete a message
 
-To edit or delete a message in a chat conversation:
+To edit or delete a message:
 
-1. On the **Chats** page, open the desired chat conversation.
-2. Find the message you want to edit or delete.
-3. Select the actions icon (**•••**) at the top of the message.
-4. Do the following as necessary:
+1. Open the **Chats** page.
+2. Select the required chat conversation.
+3. Find the message you want to edit or delete.
+4. Select the actions icon (**•••**) at the top of the message.
+5. Do the following:
    * To edit the message, select **Edit**. Type the new message in the text field, then select **Confirm** to send it.&#x20;
    * To delete the message, select **Delete**. In the **Delete message** confirmation, select **Delete** to confirm.

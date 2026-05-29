@@ -2,9 +2,9 @@
 description: Add participants, edit the chat name, or leave a group chat.
 ---
 
-# Manage a group chat
+# Manage group chats
 
-### Adding a member to an existing chat
+### Add a member to an existing chat
 
 If you are in a chat conversation, you can quickly add someone from your account to the chat. New users added to the chat can view all previous messages from the beginning of the chat.
 
@@ -14,7 +14,7 @@ To invite participants to a chat:
 2. Select the actions icon (**•••**), then choose **Add participant**.
 3. In **Add participant**, select the user you want to invite. You can select multiple users. When done, select **Add**.&#x20;
 
-### Editing the chat name or logo
+### Edit the chat name or logo
 
 To edit the chat name or logo:
 
@@ -23,7 +23,7 @@ To edit the chat name or logo:
 3. In **Edit group chat**, edit the chat group name and upload a new image as necessary.
 4. Select **Save**.
 
-### Leaving a group chat
+### Leave a group chat
 
 To leave a group chat:
 

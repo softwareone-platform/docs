@@ -15,7 +15,7 @@ To enroll in the CSP partner program:
 * You must be signed up for the SWO CSP Partner Program. For details, see [How to enroll in the SWO CSP partner program](how-to-enroll-in-the-softwareone-csp-partner-program.md).
 * You must have the Microsoft Partner Network (MPN) ID and email address for your Microsoft partner account. To find the ID, go to Microsoft Partner Center, select the **Settings** (gear) icon > **Account settings** > **Organization Profile** > **Identifiers**. Look for PartnerID with the **Type Location** that matches the country/region of your CSP account.
 
-### Enrolling in the CSP Partner program
+### Enroll in the CSP Partner program
 
 {% stepper %}
 {% step %}

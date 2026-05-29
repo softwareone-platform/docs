@@ -20,7 +20,7 @@ Before starting this tutorial, make sure you have the following:
 * The name of the Microsoft tenant you want to connect.&#x20;
 * The contact details of the person who will manage your account.&#x20;
 
-### Ordering an Azure subscription for an existing tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Order an Azure subscription for an existing tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}

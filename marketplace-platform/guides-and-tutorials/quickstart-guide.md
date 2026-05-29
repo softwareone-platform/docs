@@ -296,7 +296,7 @@ You can use the [Settings module](../../modules-and-features/settings/) to manag
 
 <summary>I would like to know more about managing subscriptions and agreements.</summary>
 
-For details on self-managing your subscriptions and agreements, including terminations, see the following tutorials:
+For details on managing your subscriptions and agreements, including terminations, see the following links:
 
 * [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/tutorials-and-videos/)
 * [Microsoft 365](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/)

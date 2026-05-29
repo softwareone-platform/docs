@@ -15,7 +15,7 @@ There are two ways to choose a billing currency. You can select it when creating
 * If you don't see the option to change the currency, it means the seller doesn't offer additional billing currencies.
 {% endhint %}
 
-### Setting the billing currency for a new agreement
+### Set currency for a new agreement
 
 {% stepper %}
 {% step %}
@@ -38,7 +38,7 @@ There are two ways to choose a billing currency. You can select it when creating
 {% endstep %}
 {% endstepper %}
 
-### Changing the billing currency for an existing agreement
+### Change currency for an existing agreement
 
 Changing the billing currency affects future invoices only. Past invoices remain in the original currency.
 

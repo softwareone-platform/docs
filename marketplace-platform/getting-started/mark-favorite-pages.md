@@ -9,7 +9,7 @@ You can mark pages and accounts as favorites to access them quickly in the Softw
 * Favorite pages appear in the **Favorites** section of the main menu and on the **Home** page.
 * Favorite accounts appear in the [account switcher](switch-account.md) within your user profile menu.
 
-### Adding or removing a page from your favorites
+### Add or remove pages from your favorites
 
 To add or remove a page from your favorites:
 
@@ -21,7 +21,7 @@ To add or remove a page from your favorites:
 
 4. To remove the same page from your favorites, select the same star you used to mark it as a favorite. When the icon changes from filled to empty, the page is removed.
 
-### Adding or removing an account from your favorites
+### Add or remove accounts from your favorites
 
 To add or remove an account from your favorites:
 

@@ -8,7 +8,7 @@ In the SoftwareOne Marketplace, a buyer is an organization that purchases produc
 
 Buyers are registered as legal entities within SoftwareOne's ERP system, and they are the recipients of invoices issued by SoftwareOne. All buyers are added to an account by SoftwareOne.
 
-### Accessing buyers
+### Buyers page
 
 The **Buyers** page allows account administrators to view all buyers in the account. Administrators can also perform other administrative tasks, such as editing, enabling, or disabling a buyer.&#x20;
 

@@ -10,7 +10,7 @@ If you have multiple certificates for the same vendor program, you can choose di
 
 You can rename a certificate either from the **certificate details** or the **program details** page. When updating the name, we recommend providing a unique name.
 
-#### Renaming a certificate from the certificate details page
+#### Rename a certificate from the certificate details page
 
 To rename a certificate from the certificate details page:
 
@@ -20,7 +20,7 @@ To rename a certificate from the certificate details page:
 4. In the **Rename** dialog, enter the new name.
 5. Select **Save**. The certificate is renamed.
 
-#### Renaming a certificate from the program details page
+#### Rename a certificate from the program details page
 
 To rename a certificate from the program details page:
 

@@ -2,7 +2,7 @@
 
 This topic describes how to view a list of licensees in your account, as well as details about a specific licensee.
 
-### Viewing a list of licensees
+### View a list of licensees
 
 To view a list of licensees  in your account:
 
@@ -12,7 +12,7 @@ To view a list of licensees  in your account:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_licensees.png" alt=""><figcaption><p>The Licensees page in the platform.</p></figcaption></figure></div>
 
-### Viewing licensee details <a href="#subscription-details" id="subscription-details"></a>
+### Open licensee details <a href="#subscription-details" id="subscription-details"></a>
 
 On the **licensee details** page, you can view detailed information for a specific licensee.&#x20;
 

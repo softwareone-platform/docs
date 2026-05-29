@@ -6,7 +6,7 @@ description: Customize the global notification email settings in the Marketplace
 
 The **Settings** tab allows account admins to configure settings, including the sender name and the content within the email footer. The settings apply to all notification emails.
 
-### Customizing settings
+### Customize settings
 
 To configure settings:
 

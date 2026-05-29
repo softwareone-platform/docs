@@ -1,14 +1,14 @@
-# Sales Quotes Reporting
+# Sales quotes reporting
 
 The **Sales Quotes** module provides you with real-time visibility, streamlined approval workflows, and integration with our backend financial systems.&#x20;
 
 Each sales quote includes important details, including status and expiration date, to help you make informed decisions about your purchase.
 
-### Accessing sales quotes
+### Sales quotes reporting page
 
-The **Sales quotes** page is your centralized hub for monitoring all pending, accepted, and historical quotes.&#x20;
+The **Sales quotes reporting** page is your centralized hub for monitoring all pending, accepted, and historical quotes.&#x20;
 
-To navigate to the **Sales quotes** page, select the main menu, then choose **Procurement** > **Sales quotes reporting**. A list of your sales quotes is displayed, as shown in the following image:
+To open the page, choose **Procurement** > **Sales quotes reporting** from the main menu.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/sales-quotes-reporting.png" alt=""><figcaption><p align="center">The Sales Quotes page showing real time statuses along with expiration dates and total values.</p></figcaption></figure></div>
 

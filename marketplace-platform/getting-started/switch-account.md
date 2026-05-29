@@ -6,7 +6,7 @@ description: Switch between your accounts without signing out.
 
 If you belong to multiple accounts, you can switch between them without signing out of the platform.&#x20;
 
-### Switching between your accounts
+### Switch accounts
 
 To switch between your Marketplace accounts:
 

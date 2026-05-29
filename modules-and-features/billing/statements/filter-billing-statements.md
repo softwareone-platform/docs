@@ -10,7 +10,7 @@ If you are looking for a specific statement, you can use filters to locate it ea
 
 This topic describes how to apply the two commonly used filters, including **Type** and **Status**.
 
-### Filtering statements by type
+### Filter statements by type
 
 To view statements based on their type:
 
@@ -20,12 +20,11 @@ To view statements based on their type:
    1. Select **Type**.
    2. Set the condition to **Equal**.
    3. Choose the type of statement: **Debit** or **Credit**.
+4. Close the filter box. All statements matching your specified status are displayed in the table.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Use the statement type filter to easily find a statement.</p></figcaption></figure></div>
 
-4. **Close** the filter box. All statements matching your specified status are displayed in the table.&#x20;
-
-### Filtering statements by status
+### Filter statements by status
 
 To view statements based on their status:
 
@@ -35,7 +34,6 @@ To view statements based on their status:
    1. Select **Status**.
    2. Set the condition to **Equal**.
    3. Choose the required status from the list. Options include **Error**, **Generated**, **Generating**, **Issued**, **Pending**, or **Queued**.
+4. Close the filter box. All statements matching your specified status are displayed in the table.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Use the statement status filter to find statements based on status.</p></figcaption></figure></div>
-
-4. **Close** the filter box. All statements matching your specified status are displayed in the table.&#x20;

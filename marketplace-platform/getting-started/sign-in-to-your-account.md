@@ -10,7 +10,7 @@ Additionally, you can access the platform via the SoftwareOne Marketplace mobile
 
 This topic describes how to sign in to the web version. For the mobile app, see [Get started with the app](../../marketplace-mobile-app/app-overview/get-started-with-the-app.md).&#x20;
 
-### Signing in to the web version
+### Sign in to the web version
 
 To sign in to your account on the web version:&#x20;
 
@@ -22,7 +22,7 @@ If single sign-on (SSO) is enabled for your organization, you are redirected to 
 
 After you have successfully signed in, you are directed to the **Home** page.
 
-### Recovering your password
+### Recover your password
 
 If you enter incorrect login credentials, an error message is displayed.
 

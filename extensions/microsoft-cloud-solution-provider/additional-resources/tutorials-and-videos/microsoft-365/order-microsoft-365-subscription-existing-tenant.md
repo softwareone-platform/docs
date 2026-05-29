@@ -21,7 +21,7 @@ Before starting this tutorial, make sure you have the following:
 * Your Microsoft tenant name.&#x20;
 * A Marketplace licensee in the **active** state or permission to [create a new licensee](../../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when you are creating the agreement.&#x20;
 
-### Ordering a Microsoft 365 subscription for an existing tenant
+### Order a Microsoft 365 subscription for an existing tenant
 
 {% stepper %}
 {% step %}

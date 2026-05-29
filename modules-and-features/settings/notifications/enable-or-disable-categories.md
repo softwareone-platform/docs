@@ -12,7 +12,7 @@ By default, all notification categories are enabled. Once a category is disabled
 You cannot disable notifications for profile updates, including password reset alerts and account invitation emails.
 {% endhint %}
 
-### Disabling a category
+### Disable a category
 
 To disable a category:
 
@@ -24,7 +24,7 @@ To disable a category:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/notifications_disable.png" alt=""><figcaption><p>Add comments and then disable the notification category.</p></figcaption></figure></div>
 
-### Enabling a category
+### Enable a category
 
 To re-enable a category:
 

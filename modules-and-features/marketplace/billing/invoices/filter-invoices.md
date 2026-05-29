@@ -4,30 +4,34 @@ description: Use different types of filters to find and view your invoices.
 
 # Find specific invoices using filters
 
-The **Invoices** page displays all invoices generated for your Marketplace account, allowing you to manage and track them easily. The page also contains filters to help you locate the invoice you want to view. You can find an invoice using criteria, such as invoice status, dates, balance due, and more.&#x20;
+The **Invoices** page displays all invoices generated for your account, allowing you to track and manage them.
 
-This topic describes how to apply the two commonly used invoice filters: **Status** and **Due date**.
+The page includes filters that help you locate specific invoices based on criteria such as status, dates, and balance due.
 
-### Filtering invoices by status
+This topic explains how to use the two most commonly used filters: **Status** and **Due date**.
 
-To view invoices based on their status:
+### Filter invoices by status
 
-1. On the **Billing** > **Invoices** page, select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="" data-size="line">**Filter** option.
-2. In the **Filters** box, select **Add another condition**, then define the conditions as follows:
+To view invoices based on status:
+
+1. Open the **Invoices** page.
+2. Select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="" data-size="line">**Filter** option.
+3. In the **Filters** box, select **Add another condition**, then define the conditions as follows:
    1. Select **Status**.
    2. Set the condition to **Equal**.
    3. Choose one of these conditions as needed: **Overdue**, **Issued**, or **Paid**.
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoice_filters_status.png" alt=""><figcaption><p>Finding invoices based on the invoice status.</p></figcaption></figure></div>
 
-3. **Close** the filter box. All invoices matching your specified status are displayed in the table.&#x20;
+4. Close the filter box. All invoices matching your specified status are displayed in the table.&#x20;
 
-### Filtering invoices by due date
+### Filter invoices by due date
 
-To view invoices based on their due date:
+To view invoices based on due date:
 
-1. On the **Billing** > **Invoices** page, select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="" data-size="line">**Filter** option in the grid.
-2. In the **Filters** box, select **Add another condition**, then define the conditions as follows:
+1. Open the **Invoices** page.
+2. Select the <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAActJREFUeF7t2TFOQ0EQBFF8UgISjkRCwElBpASg0Y5VtnmOZ6e9Vb+Db1+efFIClzRd+BMB8UNAAAExgTheAwiICcTxGkBATCCO1wACYgJxvAYQEBOI4zWAgJhAHK8BBMQE4ngNICAmEMdrAAExgTheAwiICcTxGnBvAp5fXj/j73zT8R/vb6OHejT8fXMCfvdPQNwPAgiICcTxGkBATCCO14BHFxDf7+Hix+8BD0cgvhABBMQE4ngNICAmEMdrAAExgTheAwiICcTxGkBATCCOv3oD7v0vzOmvm1OfBPxBjIDpI7U8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfr7l7A9ML/bf7q7wH/Dej0vgRMiS3PE7AMdLqOgCmx5XkCloFO1xEwJbY8T8Ay0Ok6AqbElucJWAY6XUfAlNjyPAHLQKfrbl7A6X/K1/4xbQr85zwBpwQPzxNwCPD0OAGnBA/PE3AI8PQ4AacED88TcAjw9DgBpwQPz9+8gMP73fxxAmJFBBAQE4jjNYCAmEAcrwEExATieA0gICYQx2sAATGBOF4DCIgJxPEaQEBMII7XAAJiAnG8BhAQE4jjNYCAmEAcrwEExATi+C97b2BhPsA2DAAAAABJRU5ErkJggg==" alt="" data-size="line">**Filter** option.
+3. In the **Filters** box, select **Add another condition**, then define the conditions as follows:
    1. Select **Due date**.
    2. Set the condition to **Greater, Is null**, or **Lesser** to narrow down the invoices.
       * Use **Greater** to include invoices with a due date after the specified date.
@@ -36,4 +40,4 @@ To view invoices based on their due date:
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Finding invoices based on the due date.</p></figcaption></figure></div>
 
-3. **Close** the filter box. All invoices matching your specified criteria are displayed in the table.&#x20;
+4. Close the filter box. All invoices matching your specified criteria are displayed.&#x20;

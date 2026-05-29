@@ -8,7 +8,7 @@ This tutorial describes how to order products from the SoftwareOne Marketplace u
 
 The exact steps depend on the product and vendor. This page covers the common flow.
 
-### Buying products from the Marketplace
+### Buy products from the Marketplace
 
 {% stepper %}
 {% step %}

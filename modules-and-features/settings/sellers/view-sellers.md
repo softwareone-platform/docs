@@ -2,7 +2,7 @@
 
 This topic describes how to view a list of sellers in your account, as well as details about a specific seller.
 
-### Viewing a list of sellers <a href="#subscription-details" id="subscription-details"></a>
+### View a list of sellers <a href="#subscription-details" id="subscription-details"></a>
 
 To view a list of sellers in your account:
 
@@ -12,9 +12,9 @@ To view a list of sellers in your account:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_sellers.png" alt=""><figcaption><p>Use the Sellers page to view and manage sellers.</p></figcaption></figure></div>
 
-### Viewing seller details <a href="#subscription-details" id="subscription-details"></a>
+### Open seller details <a href="#subscription-details" id="subscription-details"></a>
 
-To view a specific seller:
+To open details for a specific seller:
 
 1. Go to **Settings** > **Sellers**.&#x20;
 2. Select the seller you want to view. The seller details page opens.

@@ -10,7 +10,7 @@ This tutorial describes how you can cancel a subscription by placing a terminati
 
 Before starting this tutorial, make sure that the subscription you want to terminate is active. Make sure that the corresponding agreement is also active.
 
-### Terminating subscriptions
+### Terminate Microsoft 365 subscription
 
 {% stepper %}
 {% step %}

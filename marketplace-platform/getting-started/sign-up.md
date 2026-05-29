@@ -9,7 +9,7 @@ You can access the SoftwareOne Marketplace Platform in one of the following ways
 * If your organization already uses the platform, ask your account administrator to invite you.
 * If your organization doesn't yet use the platform, [contact us](https://www.softwareone.com/en/contact-us) to get started.
 
-### Joining an existing organization
+### Join an existing organization
 
 If your organization already uses the platform and you want to join that organization:
 
@@ -22,7 +22,7 @@ If single sign-on (SSO) is enabled for your organization, you are redirected to 
 
 Invitation links expire after 7 days. If your link expires, ask your account administrator to send a new one. For more information, see [Add new users](../../modules-and-features/settings/users/add-new-users.md) and [Respond to invitations](../../modules-and-features/settings/users/respond-to-invitations.md).
 
-### Signing up for the platform
+### Sign up for the platform
 
 If your organization doesn't yet use the SoftwareOne Marketplace and you want to sign up, [contact us](https://www.softwareone.com/en/contact-us) to get started.
 

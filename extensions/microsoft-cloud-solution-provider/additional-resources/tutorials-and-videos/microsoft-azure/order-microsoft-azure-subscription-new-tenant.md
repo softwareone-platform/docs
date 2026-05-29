@@ -20,7 +20,7 @@ Before starting this tutorial, make sure you have the following:
 * Your details, such as company name, registration ID, and address. You'll need to provide this information when creating the new Microsoft tenant.
 * Contact details of the person who manages your account.&#x20;
 
-### Ordering an Azure subscription for a new tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Order an Azure subscription for a new tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}

@@ -8,11 +8,11 @@ You can mark a case as **Complete** if your issue has been resolved and no furth
 
 Any user within the account can close a case, regardless of who created it. A closed case chat can also be reopened if further assistance is needed.
 
-### Completing a case
+### Complete a case
 
 You can mark a case as completed from the **Cases** or **Chat** page in the platform.
 
-#### Completing a case from the Cases page
+#### Complete a case from the Cases page
 
 To complete a case from the **Cases** page:
 
@@ -22,7 +22,7 @@ To complete a case from the **Cases** page:
 4. In the details pane on the right, select the actions icon (**•••**), then under **Case**, choose **Complete**.
 5. In the **Complete case** confirmation, confirm that you want to complete the case.
 
-#### Completing a case from the Chats page
+#### Complete a case from the Chats page
 
 To complete a case from the **Chats** page:
 

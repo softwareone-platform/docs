@@ -8,8 +8,8 @@ You can order and manage subscriptions through self-service in the platform. Thi
 
 The Marketplace supports two subscription models: **quantity-based** and **usage-based**. These models determine how services are billed and how values are displayed in subscriptions and agreements.
 
-* **Quantity-based** - Quantity‑based subscriptions are priced based on an agreed quantity. The values shown in the subscription and agreement represent an estimated total value based on that quantity. Changes to quantity updates, prorations, or billing conditions can affect the final charged amount.&#x20;
-* **Usage-based** - Usage‑based subscriptions are billed according to actual consumption. Because usage can vary over time, the total cost of a usage‑based subscription can't be fully calculated in advance. As a result, subscriptions and agreements that include usage‑based services can display no value or an estimated value to indicate expected costs.
+* **Quantity-based** – Quantity‑based subscriptions are priced based on an agreed quantity. The values shown in the subscription and agreement represent an estimated total value based on that quantity. Changes to quantity updates, prorations, or billing conditions can affect the final charged amount.&#x20;
+* **Usage-based** – Usage‑based subscriptions are billed according to actual consumption. Because usage can vary over time, the total cost of a usage‑based subscription can't be fully calculated in advance. As a result, subscriptions and agreements that include usage‑based services can display no value or an estimated value to indicate expected costs.
 
 {% hint style="info" %}
 All values in your subscriptions and agreements are indicative. The final billed amount is always confirmed in the invoice.
@@ -19,8 +19,8 @@ All values in your subscriptions and agreements are indicative. The final billed
 
 To ensure transparency, vendors may provide estimated values for usage‑based subscriptions. These values indicate expected costs but don't represent fixed or committed amounts.
 
-* **Estimated subscription value** - Represents an estimate of the expected total cost for the subscription. It's an optional value provided by the vendor and applies to usage‑based subscriptions. The estimated subscription value is for informational purposes only and is not used for billing.&#x20;
-* **Estimated agreement value** - Represents an estimated total of all subscriptions within the agreement. For more information on the estimated agreement value, see [Agreements](../agreements/).
+* **Estimated subscription value** – Represents an estimate of the expected total cost for the subscription. It's an optional value provided by the vendor and applies to usage‑based subscriptions. The estimated subscription value is for informational purposes only and is not used for billing.&#x20;
+* **Estimated agreement value** – Represents an estimated total of all subscriptions within the agreement. For more information on the estimated agreement value, see [Agreements](../agreements/).
 
 Estimated values, when available, are displayed on both agreements and agreement details pages, as well as subscriptions and subscription details pages. If a value is unavailable, the corresponding field displays an em dash “—”.
 
@@ -48,17 +48,15 @@ The following image shows an agreement containing usage-based subscriptions and 
 
 </details>
 
-### Accessing subscriptions
+### Subscriptions page
 
 The **Subscriptions** page displays all subscriptions in your account.&#x20;
 
-To navigate to the **Subscription** page, select the main menu, then choose **Marketplace** > **Subscriptions**. The list of subscriptions is displayed.
-
-From this page, you can select a subscription to see details, including entitlements it contains, estimated values, and other data.
+To open the page, choose **Marketplace** > **Subscriptions** from the main menu.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Use the Subscriptions page to view and manage subscriptions. </p></figcaption></figure></div>
 
-On the **subscriptions** page, you can view various details for a subscription, including the subscription ID, linked entities (such as buyers and sellers), the estimated subscription value, status, and more.&#x20;
+On the subscriptions page, you can view various details for a subscription, including the subscription ID, linked entities (such as buyers and sellers), the estimated subscription value, status, and more.&#x20;
 
 You can also select a subscription to view detailed information organized across several tabs. The information available includes your entitlements, orders, a record of events or logs for the subscription, and more. For details, see [View subscriptions](view-subscriptions.md).
 

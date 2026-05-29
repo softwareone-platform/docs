@@ -8,7 +8,7 @@ You can divide the subscription costs easily by specifying percentages or estima
 
 The platform also lets you allocate billing when ordering additional subscription licenses. It means when creating a change order for an increase in subscription quantity, you can select buyers and allocate billing to those buyers.&#x20;
 
-## Split billing rules
+### Split billing rules
 
 In the Marketplace Platform, the following rules apply to split billing:
 
@@ -18,7 +18,7 @@ In the Marketplace Platform, the following rules apply to split billing:
 * You can modify the allocation for your active subscriptions at any time. However, the changes will only take effect in your next billing cycle.
 * Buyers can only be removed from split billing if they have no configured allocation percentage. The platform doesn't allow you to remove buyers if an allocation percentage exists for those buyers.
 
-## Activate split billing
+### Activate split billing
 
 {% hint style="warning" %}
 Currently, only Adobe VIP Marketplace supports split billing.&#x20;

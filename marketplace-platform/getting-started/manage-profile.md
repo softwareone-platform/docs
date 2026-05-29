@@ -10,7 +10,7 @@ Your profile contains details, such as your profile picture, first and last name
 Regional settings only affect the Marketplace interface. They don't apply to platform‑generated attachments, such as PDF documents (including invoices) and Excel files, which follow their own local settings.
 {% endhint %}
 
-### Managing your profile
+### Manage your profile
 
 To manage your profile:
 

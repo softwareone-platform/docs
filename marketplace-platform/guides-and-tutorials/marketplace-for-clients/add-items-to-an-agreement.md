@@ -12,7 +12,7 @@ New items can be added using **Buy more** on the agreement details page. When yo
 You can add items only to active agreements. If the agreement is not active, the **Buy more** option is unavailable.
 {% endhint %}
 
-### Adding new items to an agreement
+### Add new items to an agreement
 
 {% stepper %}
 {% step %}

@@ -2,7 +2,7 @@
 
 You can download a PDF version of your sales order from the sales order details page.&#x20;
 
-### Downloading a sales order as a PDF
+### Download a sales order as a PDF
 
 To download your sales order as a PDF:
 
@@ -13,6 +13,6 @@ To download your sales order as a PDF:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/sales-order-PDF.png" alt=""><figcaption><p align="center">Use the Attachments tab to download the sales order PDF.</p></figcaption></figure></div>
 
-5. Complete one of the following steps to download the PDF:
+5. Complete one of the following steps to download the file:
    * Select the PDF link in the **Reference** column.
    * Under **Actions**, select the more icon (**•••**), then choose **Download**.&#x20;

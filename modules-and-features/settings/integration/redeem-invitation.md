@@ -8,7 +8,7 @@ If you have received an invitation code to install an extension, you can use it 
 
 In the SoftwareOne Marketplace, invitation codes can be shared by SoftwareOne associates, vendors, or partners. Extensions installed this way are private. It means they won’t appear in the catalog and can only be installed directly using the invitation code.
 
-### Redeeming an invitation
+### Redeem an invitation
 
 To redeem an invitation:
 

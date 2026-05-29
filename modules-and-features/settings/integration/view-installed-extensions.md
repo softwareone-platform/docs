@@ -2,7 +2,7 @@
 
 This topic describes how to view your installed extensions and access their features.
 
-### Viewing your installed extensions
+### View installed extensions
 
 To view your installed extensions:
 

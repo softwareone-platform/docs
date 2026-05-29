@@ -8,7 +8,7 @@ The SoftwareOne Marketplace allows account administrators to create new groups a
 
 When creating groups, administrators choose the modules to enable for group members. Additionally, administrators can restrict group members to certain buyers. It means you can define whether your group members should see all buyers in your account or only specific buyers.&#x20;
 
-### Creating a group
+### Create a group
 
 To create a new group:
 

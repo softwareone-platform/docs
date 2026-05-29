@@ -10,7 +10,7 @@ When selecting a new name, we recommend choosing a name that makes it easier for
 
 Additionally, ensure that the new name is not blank; otherwise, the platform displays a message.
 
-### Renaming an asset <a href="#renaming-an-agreement" id="renaming-an-agreement"></a>
+### Rename an asset <a href="#renaming-an-agreement" id="renaming-an-agreement"></a>
 
 To update an asset's name:
 

@@ -8,7 +8,7 @@ In the SoftwareOne Marketplace, a licensee must be selected when you are creatin
 
 Account administrators can create new licensees and map those licensees to the buyers and sellers within the account.
 
-### Creating a new licensee
+### Create a licensee
 
 {% hint style="info" %}
 Before creating a licensee, ensure that your account contains buyers and sellers. Also, make sure that you have the licensee's first and last name and email address.

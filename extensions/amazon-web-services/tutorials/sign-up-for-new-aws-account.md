@@ -11,7 +11,7 @@ Before starting this tutorial, make sure you have the following:
 * An active licensee in the Marketplace Platform, or permission to [create a new one](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees). Selecting a licensee is required when creating a new agreement in the SoftwareOne Marketplace.
 * Contact details of a technical person in your organization, who will be the point of contact during deployment in case of issues.
 
-### Signing up for a new AWS account
+### Sign up for a new AWS account
 
 {% stepper %}
 {% step %}

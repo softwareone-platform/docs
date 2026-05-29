@@ -8,7 +8,7 @@ If you [saved an order for later](save-order-as-a-draft.md) and want to submit i
 
 Once the order has been submitted, it no longer appears as a saved order with a draft or quoted status.
 
-### Submitting a saved order for processing
+### Submit a saved order for processing
 
 To submit a saved order for processing:
 
@@ -28,9 +28,9 @@ To submit a saved order for processing:
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_details_page.png" alt=""><figcaption><p>Use the Edit option on the order details page to start the order process.</p></figcaption></figure></div>
 
 5. Complete the following steps:
-   1. **Select items** - Do one of the following:
+   1. **Select items** – Do one of the following:
       * If your order includes items that were added before it was saved for later, those items are displayed in the **Items** section. Verify the items, then select **Next**.
       * If no items were added previously, the **Select items** window opens. Add the items you want to order, then select **Next**.
-   2. **Details** - Provide reference details, like additional IDs or notes, and select **Next**.
-   3. **Review** - Verify the details, and select **Place order**.
-   4. **Summary** - Select **View details** to open the order details page, or select **Close**.&#x20;
+   2. **Details** – Provide reference details, like additional IDs or notes, and select **Next**.
+   3. **Review** – Verify the details, and select **Place order**.
+   4. **Summary** – Select **View details** to open the order details page or select **Close**.&#x20;

@@ -12,11 +12,11 @@ To enroll in a program, you must meet specific requirements, such as submitting 
 
 When you are enrolled, the **Enrollments** page displays the enrollment information.
 
-### Accessing enrollments
+### Enrollments page
 
 The **Enrollments** page displays all enrollments, regardless of the status.&#x20;
 
-To access this page, select the main menu, then choose **Programs** > **Enrollment**.&#x20;
+To open this page, choose **Programs** > **Enrollment from** the main menu.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Use the Enrollments page to view and manage enrollments.</p></figcaption></figure></div>
 

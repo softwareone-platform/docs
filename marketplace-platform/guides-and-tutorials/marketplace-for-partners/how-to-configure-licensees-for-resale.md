@@ -4,7 +4,7 @@ description: >-
   seller.
 ---
 
-# How to configure a licensee for resale
+# How to configure licensees for resale
 
 This tutorial describes how SoftwareOne partners can set up resale licensees.
 
@@ -14,7 +14,7 @@ You must mark a licensee for resale if you want to order products for resale ins
 
 Before you start, make sure you have account administrator permissions. Only admins can create new licensees.
 
-### Configuring a licensee for resale
+### Configure licensees for resale
 
 {% stepper %}
 {% step %}

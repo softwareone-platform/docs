@@ -6,7 +6,7 @@ description: Update an existing licensee.
 
 Account administrators can update the general information for a licensee, such as name, description, or address, from the licensee details page. You can’t change the buyer or seller entities linked to a licensee.
 
-### Editing a licensee
+### Edit a licensee
 
 To edit a licensee:&#x20;
 

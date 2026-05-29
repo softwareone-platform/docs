@@ -22,29 +22,31 @@ layout:
 
 # Invoices
 
-An invoice is a billing document you receive at the end of your billing period.&#x20;
+An invoice is a billing document issued at the end of a billing period.&#x20;
 
-Invoices contain a summary of charges and other details associated with your account. Invoice PDFs also include subscription details and the consolidated charges for all items within the subscription. To learn more about invoices and how they are structured, see [Understand your billing documents](../../../billing/understand-your-billing-documents/).
+It summarizes subscription details and consolidated charges for items within each subscription. Invoices are generated according to your billing terms, typically on a monthly cycle.&#x20;
 
-### Accessing invoices
+An invoice includes a total amount due for the billing period, a breakdown of charges, and metadata, such as issue date and due date. For a list of fields on your invoice and how to interpret them, see [Understand your billing documents](../../../billing/understand-your-billing-documents/).
 
-The **Invoices** page allows you to view all invoices generated for your account.
+### Invoices page
 
-To access the **Invoices** page, select the main menu, then choose **Billing** > **Invoices**. The list of invoices is displayed as shown in the following image:
+The **Invoices** page shows all invoices generated for your account.&#x20;
+
+To open this page, choose **Billing** > **Invoices** from the main menu.
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/invoices_page.png" alt=""><figcaption><p>The Invoices page in the platform.</p></figcaption></figure></div>
 
-For each invoice, you can view properties such as invoice ID, total amount due, date of issue, and due date. Additionally, you can view invoice status, including:&#x20;
+Each invoice row shows the invoice ID, total amount, posting date, due date, and current status. An invoice can be in one of these states:
 
-* **Paid** - Indicates that the invoice has been paid in full. No further action is required.
-* **Overdue** - Indicates that the invoice is past due. Invoices in this state require immediate action to prevent service disruptions. Note that overdue invoices may attract penalties, interest, or both, depending on your terms and conditions.
-* **Issued** - Indicates that the invoice has been issued, but it hasn't been settled yet.
+* **Issued** – The invoice has been generated but has not yet been settled.
+* **Paid** – The invoice has been fully paid.
+* **Overdue** – The invoice has surpassed its due date and requires payment.
 
-You can also view invoice details by selecting the invoice name. The information available includes:
+You can also select an invoice ID to open its details. Use the detail view to review:
 
-* A list of subscriptions and items included in the invoice, along with the total amount.
+* A list of subscriptions and items included in the invoice.
 * Official invoice PDFs.
-* A record of events or logs for the invoice.&#x20;
+* Invoice metadata and events.
 
 ### Related topics
 

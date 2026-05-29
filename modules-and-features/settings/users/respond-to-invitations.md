@@ -6,7 +6,7 @@ description: Accept or decline your Marketplace invitation.
 
 When you are invited to the Marketplace Platform by the SoftwareOne Operations team or your account administrator, you'll receive an invitation to join the account. This topic describes how to accept or decline the invitation.
 
-### Accepting the invitation <a href="#accepting-an-invitation" id="accepting-an-invitation"></a>
+### Accept the invitation <a href="#accepting-an-invitation" id="accepting-an-invitation"></a>
 
 To accept the invitation:
 
@@ -27,7 +27,7 @@ To accept the invitation:
 * If your invitation link isn't working, it may have expired. Invite links are unique and must be accepted within 7 days from the send date. If your invite link has expired, the account administrator must create a new link. For instructions, see [Manage account invitations](https://docs.platform.softwareone.com/modules-and-features/settings/users/manage-user-invitations).
 {% endhint %}
 
-### Declining the invitation <a href="#declining-an-invitation" id="declining-an-invitation"></a>
+### Decline the invitation <a href="#declining-an-invitation" id="declining-an-invitation"></a>
 
 You can decline an invitation if it was sent to you in error or if you choose not to join the account.
 

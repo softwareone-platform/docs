@@ -13,7 +13,7 @@ Before editing a group, note the following:
 * You can update the buyer visibility only if the **Marketplace** module is enabled for the group. If the module wasn't enabled during the group's creation, you can enable it while editing the group, if the group is not a default one.
 * &#x20;Buyer access restrictions only apply to the **Marketplace** module.
 
-### Editing a group
+### Edit a group
 
 To edit a group:
 

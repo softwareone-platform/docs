@@ -8,7 +8,7 @@ If you want to assign a client ID to a subscription, you can do this from the su
 
 Client IDs can only be added or updated for the subscriptions in the **Active**, **Updating**, **Terminated**, and **Terminating** states. For a description of these states, see [Subscription States](subscription-states.md).
 
-### Updating a subscription's client ID
+### Edit subscription client ID
 
 To update a subscription's client ID:
 

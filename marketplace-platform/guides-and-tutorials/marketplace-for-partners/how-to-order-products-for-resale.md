@@ -13,7 +13,7 @@ Before starting this tutorial, make sure you have the following:
 * An active licensee configured for resale. For details on setting up a resale licensee, see [How to configure a licensee for resale](how-to-configure-licensees-for-resale.md). Licensee selection is required when setting up a new agreement.
 * Company details of your client, including the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.
 
-### Ordering software products for resale
+### Order products for resale
 
 {% stepper %}
 {% step %}

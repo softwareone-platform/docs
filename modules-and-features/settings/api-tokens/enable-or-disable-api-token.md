@@ -9,7 +9,7 @@ You can easily disable an API token temporarily and enable it again when require
 * Disabling a token doesn't delete it, but makes it inactive until it's enabled again. Once disabled, any attempts to access the endpoint return an error.&#x20;
 * The **Enable** option is shown only if the token is currently disabled.
 
-### Enabling or disabling a token
+### Enable or disable a token
 
 To enable or disable a token:
 

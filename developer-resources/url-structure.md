@@ -8,8 +8,8 @@ description: >-
 
 The Marketplace Platform provides two main entry points for interacting with your data:
 
-* **Portal (Web UI)** - `https://portal.platform.softwareone.com/`
-* **API** - `https://api.platform.softwareone.com/public/v1/`
+* **Portal (Web UI)** – `https://portal.platform.softwareone.com/`
+* **API** – `https://api.platform.softwareone.com/public/v1/`
 
 While both the Portal and API operate on the same underlying objects, their URL structures differ slightly due to usability requirements.&#x20;
 

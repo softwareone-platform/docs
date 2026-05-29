@@ -6,27 +6,28 @@ description: Manage and review your Excel billing statements.
 
 A statement is a billing document you receive at the end of your billing period, along with your invoice PDF.
 
-Statements are issued as Excel (`.xlsx`) files and they contain a detailed view of your invoice data, including individual charges, subscriptions, and orders for the billing period. A statement contains the following tabs:
+Statements are issued as Excel files. They contain a detailed view of your invoice data, including individual charges, subscriptions, and orders for the billing period.&#x20;
 
-* **Summary** - Contains objects associated with the statement (for example, agreement, licensee, and orders) with links to open them in the platform.
-* **Charges** - Contains charges and subscriptions for the billing period. You can also see items within subscriptions, their quantities, and prices. If [split billing](split-billing/) is enabled, allocation percentage and estimated license count (ELC) details are also displayed.
-* **Orders** - Contains all orders placed during the billing period, including order type, order date, and related details.
+An Excel statement contains the following tabs:
 
-### Accessing statements
+* **Summary** – Shows objects associated with the statement (for example, agreement, licensee, and orders) with links to open them in the platform.
+* **Charges** – Shows charges and subscriptions for the billing period. You can also see individual items, quantities, and prices. If [split billing](split-billing/) is enabled, you can view allocation percentage and estimated license count (ELC) details.
+* **Orders** – Shows a list of orders for this billing period.
 
-The **Statements** page allows you to view all statements for your account.
+### Statements page
 
-To access the **Statements** page, select the main menu, then choose **Billing** > **Statements**. The list of statements is displayed, as shown in the following image:
+The **Statements** page shows all statements for your account.
+
+To access this page, select **Billing** > **Statements** from the main menu.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Use the Statements page to view your billing statements.</p></figcaption></figure></div>
 
-On the **statements** page, you can view various details for each statement, including the statement ID, creation date, estimated sales price, current status, and more.&#x20;
+Each row shows the statement ID, creation date, estimated sales price, current status, and more.&#x20;
 
-You can also select a statement ID to view detailed information organized across several tabs. The information available includes:
+You can also select a statement to view detailed information. Use the detail view to review:
 
 * A list of charges and subscriptions for the billing period.
-* Official statement PDFs.
-* A record of events and logs for the statement.&#x20;
+* Statement metadata and events.&#x20;
 
 ### Related topics
 
@@ -36,10 +37,6 @@ You can also select a statement ID to view detailed information organized across
 
 {% content-ref url="../../billing/statements/filter-billing-statements.md" %}
 [filter-billing-statements.md](../../billing/statements/filter-billing-statements.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../billing/statements/view-charges.md" %}
-[view-charges.md](../../billing/statements/view-charges.md)
 {% endcontent-ref %}
 
 {% content-ref url="statements/download-statements.md" %}

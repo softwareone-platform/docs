@@ -2,7 +2,7 @@
 
 This topic describes how to view a list of groups you have created, as well as details about a specific group.
 
-### Viewing a list of groups
+### View a list of groups
 
 To view a list of groups:
 
@@ -14,7 +14,7 @@ Note that buyer visibility is defined by administrators while creating or editin
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>Use the Groups page to view and manage groups.</p></figcaption></figure></div>
 
-### Viewing group details <a href="#subscription-details" id="subscription-details"></a>
+### Open group details <a href="#subscription-details" id="subscription-details"></a>
 
 On the **group details** page, you can view detailed information for your selected group.
 

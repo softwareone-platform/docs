@@ -14,7 +14,7 @@ This tutorial describes how to create a change order by adding a one-time item c
 
 Before starting this tutorial, make sure that your existing agreement is in the **Active** state. You can check the status on the agreement details page.
 
-### Ordering additional perpetual software licenses <a href="#implementation" id="implementation"></a>
+### Order additional perpetual software licenses <a href="#implementation" id="implementation"></a>
 
 {% stepper %}
 {% step %}

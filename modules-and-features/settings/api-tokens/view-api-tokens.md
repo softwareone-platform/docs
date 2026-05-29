@@ -2,7 +2,7 @@
 
 Your API tokens list gives you quick access to all tokens in your account. This topic describes how to view a list of tokens, as well as details about a specific token.
 
-### Viewing a list of API tokens
+### View the API tokens list&#x20;
 
 To access the list of tokens, go to **Settings** > **API tokens**.
 
@@ -10,9 +10,9 @@ For each token, you can view details such as the token name, the name of the per
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>Use the API tokens page to view your tokens.</p></figcaption></figure></div>
 
-### Viewing token details
+### Open token details
 
-To view token details:
+To open token details:
 
 1. Go to **Settings** > **API tokens**.
 2. Select the token you want to view. The token details page opens.

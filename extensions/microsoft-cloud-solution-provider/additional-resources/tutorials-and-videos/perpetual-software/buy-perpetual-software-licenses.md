@@ -18,7 +18,7 @@ Before starting this tutorial, make sure you are familiar with [key concepts](..
 * Your company details, like the company name, registration ID, and address. These details are required when setting up a new Microsoft tenant.
 * The contact details of the person who manages your Microsoft account.
 
-### Buying perpetual software licenses in the Marketplace <a href="#implementation" id="implementation"></a>
+### Buy perpetual software licenses <a href="#implementation" id="implementation"></a>
 
 {% stepper %}
 {% step %}

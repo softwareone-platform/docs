@@ -12,7 +12,7 @@ Before you begin, ensure that you have the following:
 * The extension bundle file (`bundle.tar.zst`). You can download this file from [GitHub - SoftwareOne Extension Bundle](https://github.com/softwareone-platform/alga-extension/blob/main/docs/installation/bundle.tar.zst).
 * A SoftwareOne Marketplace API token, which you can generate in the [Marketplace Platform](https://portal.platform.softwareone.com/). For details, see [Create API tokens](../../modules-and-features/settings/api-tokens/create-api-token.md).
 
-### Installing the SoftwareOne extension
+### Install the SoftwareOne extension
 
 To install the SoftwareOne extension:
 

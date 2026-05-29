@@ -10,13 +10,15 @@ Muted chats are indicated by a notifications off icon <img src="data:image/png;b
 
 You can also unmute a previously muted chat if you change your mind.&#x20;
 
-### Muting or unmuting a chat
+### Mute a chat
 
 To mute a chat:
 
 1. On the **Chats** page, open the desired chat conversation.
 2. Select the actions icon (**•••**) in the right pane, then select **Mute.**
 3. In the **Mute notifications** confirmation, select **Mute**. You'll no longer receive any alerts for new messages.
+
+### Unmute a chat
 
 To unmute a chat:
 

@@ -17,7 +17,7 @@ Before terminating an agreement, note the following points:
 * Only active agreements can be terminated.&#x20;
 * Creating a termination order doesn't immediately cancel your agreement. An agreement is terminated only after the vendor approves it.
 
-### Terminating an agreement
+### Terminate an agreement
 
 To terminate an agreement:
 
@@ -29,11 +29,11 @@ To terminate an agreement:
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (1018).png" alt=""><figcaption><p>Use the Terminate Agreement wizard to submit a termination order for the agreement.</p></figcaption></figure></div>
 
 5. In the guided **Terminate agreement** flow, do the following:
-   1. **Items** - Make sure the new item quantity is displayed as 0. Then, select **Next**.
-   2. **Order details** - Add or update the additional ID and notes as needed. When done, select **Next**.&#x20;
-   3. **Review order** - Check the order details, then select **Place order** to submit your order.&#x20;
-   4. Select **View order** to open the details page or select **Close**.
+   1. **Items** – Make sure the new item quantity is displayed as 0. Then, select **Next**.
+   2. **Order details** – Add or update the additional ID and notes as needed. When done, select **Next**.&#x20;
+   3. **Review order** – Check the order details, then select **Place order** to submit your order.&#x20;
+   4. **Summary** – Select **View order** to open the details page or select **Close**.
 
-Once the termination order is placed, the status of the agreement changes from **Active** to **Updating**.&#x20;
+Once the termination order is submitted, the status of the agreement changes from **Active** to **Updating**.&#x20;
 
 When the order has been processed and all subscriptions in the agreement are canceled, the status changes to **Terminated**.

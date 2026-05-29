@@ -16,7 +16,7 @@ Before removing an individual, note the following points:
 * You cannot remove yourself from the account. The platform shows a message if you try to remove yourself.
 * If you remove an individual with an **Invited** status, their invitation link no longer remains valid.
 
-### Removing a user <a href="#removing-a-user-from-your-account" id="removing-a-user-from-your-account"></a>
+### Remove a user <a href="#removing-a-user-from-your-account" id="removing-a-user-from-your-account"></a>
 
 To remove a user from your account:
 

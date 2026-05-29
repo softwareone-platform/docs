@@ -12,7 +12,7 @@ This tutorial describes how you can order additional subscriptions for Microsoft
 
 Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state. Agreements in any other state cannot be used for ordering additional items.
 
-### Ordering an additional Microsoft Azure subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Order an additional Microsoft Azure subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}

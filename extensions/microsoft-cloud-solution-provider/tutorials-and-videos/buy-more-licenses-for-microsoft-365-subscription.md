@@ -16,7 +16,7 @@ Watch this video guide explaining how to buy more licenses for an existing 365 s
 
 Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state.
 
-### Buying more licenses for your Microsoft 365 subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Buy more licenses for your Microsoft 365 subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}

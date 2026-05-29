@@ -11,7 +11,7 @@ Each case includes important details, such as the case ID, reporter, assignee, s
 
 In the SoftwareOne Marketplace, each case includes a conversation thread that allows you to communicate with the assignee.&#x20;
 
-### Accessing cases
+### Access cases
 
 You can view and track your submitted cases through the **Cases** page. This page displays all cases created in the scope of your account. It means you can view all cases and their details, including status, regardless of who created them.&#x20;
 

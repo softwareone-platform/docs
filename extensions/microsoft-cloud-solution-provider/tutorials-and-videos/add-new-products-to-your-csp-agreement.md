@@ -2,7 +2,7 @@
 description: How to add new software items to your existing Marketplace agreement.
 ---
 
-# Add new software items to your agreement
+# Add new items to your agreement
 
 This tutorial explains how to add new Microsoft items to your existing CSP agreement in the SoftwareOne Marketplace.&#x20;
 
@@ -14,7 +14,7 @@ Before starting this tutorial, make sure that the CSP agreement you want to add 
 
 You must also know how to navigate the platform to access your agreements and orders and [apply filters](../../../marketplace-platform/getting-started/customize-the-data-grid.md#filter-data).
 
-### Adding new software items to your agreement
+### Add new items to your agreement
 
 {% stepper %}
 {% step %}

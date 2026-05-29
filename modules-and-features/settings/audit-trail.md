@@ -2,7 +2,7 @@
 description: Access the audit trail and messages for your account.
 ---
 
-# Audit Trail
+# Audit trail
 
 The **Audit trail** page allows administrators to monitor and track every action taken on objects (like orders and agreements) within your account.&#x20;
 
@@ -10,7 +10,7 @@ You can use this page to see who made specific changes, when they made them, and
 
 Each audit trail record includes timestamps, a summary of the event, object-specific details, and the actors involved.
 
-### Accessing the audit trail
+### Access the audit trail
 
 Audit trail exists at the account-level as well as object-level.
 
@@ -22,7 +22,7 @@ Audit trail exists at the account-level as well as object-level.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/audit_trail.png" alt=""><figcaption><p>The Audit trail tab within the order details page.</p></figcaption></figure></div>
 
-### Viewing record details
+### Open record details
 
 You can view detailed information for an audit trail log by selecting **View details**, available on both the **Audit trail** and object details pages.
 

@@ -14,11 +14,11 @@ In this tutorial, an agreement named _Adobe VIP Marketplace for Stark Industries
 
 Before getting started with the tutorial, it's essential to have an understanding of the platform's [key concepts](../../getting-started/key-concepts.md). You must also be familiar with the platform's interface and know how to navigate it.
 
-### Splitting the billing across buyers
+### Split billing across buyers
 
 {% stepper %}
 {% step %}
-**Activating split billing**
+**Activate split billing**
 
 Split billing can only be activated at the agreement level. To activate split billing:
 
@@ -32,7 +32,7 @@ Split billing is activated, and the **Split billing** tab appears on the agreeme
 {% endstep %}
 
 {% step %}
-**Configuring buyers**
+**Configure buyers**
 
 In this tutorial, _Stark Industries_ is the **Owner** buyer who has been allocated 100% of the billing. We will configure _Stark Industries II_ and _Stark Industries III_ as additional buyers and then divide the costs across buyers.&#x20;
 
@@ -53,7 +53,7 @@ _Stark Industries II_ and _Stark Industries III_ are added as buyers and display
 {% endstep %}
 
 {% step %}
-**Allocating split billing**
+**Allocate percentage**
 
 Billing can be allocated by specifying percentages for each buyer. You can also specify the estimated license count. Both of these options are linked, meaning changing one updates the other automatically, although only the allocation % is used during billing (see [Split billing rules](../../../modules-and-features/marketplace/billing/#split-billing-rules) to learn more).
 

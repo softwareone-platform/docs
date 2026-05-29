@@ -2,7 +2,7 @@
 
 This topic describes how to view a list of buyers in your account, as well as details about a specific buyer.
 
-### Viewing a list of buyers
+### View the buyers list
 
 To view a list of buyers:
 
@@ -16,7 +16,7 @@ To view a list of buyers:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>Use the Buyers page to view and manage buyers.</p></figcaption></figure></div>
 
-### Viewing buyer details
+### Open buyer details
 
 On the **buyer details** page, you can view properties, such as account name, ID, and status, SCU identifier (which represents a unique ID for your customer card or profile within the SoftwareOne ERP system), and tax number.
 

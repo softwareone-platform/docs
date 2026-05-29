@@ -8,7 +8,7 @@ Account administrators can enable or disable a licensee from the licensee's deta
 
 Once you disable a licensee, you can’t select it when creating new agreements or ordering subscriptions.
 
-### Enabling or disabling a licensee
+### Enable or disable a licensee
 
 To enable or disable a licensee:
 

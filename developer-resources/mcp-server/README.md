@@ -14,9 +14,9 @@ In simple terms: Think of it as teaching your AI assistant to "speak" the Softwa
 
 The Model Context Protocol (MCP) is an open standard that allows AI assistants to connect to external data and systems. Instead of building custom integrations for every tool, MCP provides a universal language for AI models to:
 
-* **Read context** - Access documents, databases, and logs.
-* **Take action** - Execute commands or query APIs on your behalf.
-* **Stay secure** - You control what the AI can see and do through explicit permissions.
+* **Read context** – Access documents, databases, and logs.
+* **Take action** – Execute commands or query APIs on your behalf.
+* **Stay secure** – You control what the AI can see and do through explicit permissions.
 
 By using the Marketplace MCP Server, you turn the entire SoftwareOne Marketplace API into a toolset that your AI assistant understands natively.
 
@@ -24,9 +24,9 @@ By using the Marketplace MCP Server, you turn the entire SoftwareOne Marketplace
 
 This server eliminates the need to manually browse portals or write one-off scripts for common tasks.
 
-* **Instant Answers** - Ask "_What is the status of order ORD-123?_" or "_Show me active Microsoft subscriptions_" and get immediate, accurate results without leaving your IDE.
-* **Data Exploration** - Explore available API resources and schemas interactively. Not sure what fields are on a `Product`? Just ask "_Show me the schema for catalog.products_".
-* **Automation** - Quickly generate reports or find IDs needed for your scripts/terraform configurations by asking "_List all Azure subscriptions in the US region_".
+* **Instant Answers** – Ask "_What is the status of order ORD-123?_" or "_Show me active Microsoft subscriptions_" and get immediate, accurate results without leaving your IDE.
+* **Data Exploration** – Explore available API resources and schemas interactively. Not sure what fields are on a `Product`? Just ask "_Show me the schema for catalog.products_".
+* **Automation** – Quickly generate reports or find IDs needed for your scripts/terraform configurations by asking "_List all Azure subscriptions in the US region_".
 
 The server is hosted and managed by SoftwareOne, so you can connect to it immediately without running any local infrastructure.
 
@@ -73,7 +73,7 @@ Replace `{your-token-goes-here}` with your actual Marketplace API token.
 {% hint style="info" %}
 **Configuration Property Names May Vary**
 
-Different MCP clients use different property names for the server endpoint. Some clients like Cursor require the URL to be specified in the `url` field, while others like Antigravity may use the `serverUrl` property. The MCP standard is still emerging and there is no common convention yet. Please consult the documentation of your specific tool for the exact property names in the configuration file—they should be similar to what's shown above but might vary in details.
+Different MCP clients use different property names for the server endpoint. Some clients, like Cursor, require the URL to be specified in the `url` field, while others, like Antigravity, may use the `serverUrl` property. The MCP standard is still emerging, and there is no common convention yet. Please consult the documentation of your specific tool for the exact property names in the configuration file—they should be similar to what's shown above, but might vary in details.
 {% endhint %}
 
 #### Option 2: Local (stdio)
@@ -102,7 +102,7 @@ For clients that support server-sent events (SSE) or remote HTTP transports, use
 
 Ensure you provide the required `X-MPT-Authorization` header with your request.
 
-## What you can ask
+## What can you ask
 
 Once connected, you can ask your AI assistant questions in plain English. The assistant will translate your questions into precise API queries.
 
@@ -114,7 +114,7 @@ Start with simple questions like "_What products are available?_" or "_Show me m
 
 ### Product catalog
 
-<table><thead><tr><th width="234">User</th><th>Assistant</th></tr></thead><tbody><tr><td>Find Microsoft 365 products that are active.</td><td><p>I found several active Microsoft 365 products. Here is an example:</p><ul><li><strong>Name</strong> - Microsoft 365 Business &#x26; Enterprise</li><li><strong>ID</strong> - <code>PRD-XXXX-XXXX</code></li><li><strong>Vendor</strong> - Microsoft (<code>ACC-XXXX-XXXX</code>)</li><li><strong>Status</strong> - Published</li></ul></td></tr><tr><td>Show me the schema for catalog products.</td><td><p>The <code>catalog.products</code> resource has the following fields:</p><ul><li><code>id</code> (string) - Unique identifier</li><li><code>name</code> (string) - Product name</li><li><code>status</code> (enum) - Published, draft, etc.</li><li><code>vendor</code> (object) - Vendor details</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="234">User</th><th>Assistant</th></tr></thead><tbody><tr><td>Find Microsoft 365 products that are active.</td><td><p>I found several active Microsoft 365 products. Here is an example:</p><ul><li><strong>Name</strong> – Microsoft 365 Business &#x26; Enterprise</li><li><strong>ID</strong> – <code>PRD-XXXX-XXXX</code></li><li><strong>Vendor</strong> – Microsoft (<code>ACC-XXXX-XXXX</code>)</li><li><strong>Status</strong> – Published</li></ul></td></tr><tr><td>Show me the schema for catalog products.</td><td><p>The <code>catalog.products</code> resource has the following fields:</p><ul><li><code>id</code> (string) – Unique identifier</li><li><code>name</code> (string) – Product name</li><li><code>status</code> (enum) – Published, draft, etc.</li><li><code>vendor</code> (object) – Vendor details</li></ul></td></tr></tbody></table>
 
 ### Orders & subscriptions
 
@@ -122,13 +122,13 @@ Start with simple questions like "_What products are available?_" or "_Show me m
 
 ### Discovery
 
-<table><thead><tr><th width="243">User</th><th>Assistant</th></tr></thead><tbody><tr><td>What resources are available in the billing API?</td><td><p>I can help you with:</p><ul><li><code>billing.invoices</code> - Retrieve invoice summaries.</li><li><code>billing.statements</code> - Access billing statements and charges.</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="243">User</th><th>Assistant</th></tr></thead><tbody><tr><td>What resources are available in the billing API?</td><td><p>I can help you with:</p><ul><li><code>billing.invoices</code> – Retrieve invoice summaries.</li><li><code>billing.statements</code> – Access billing statements and charges.</li></ul></td></tr></tbody></table>
 
 ## Troubleshooting
 
-* **Authentication errors** - Double-check your `X-MPT-Authorization` header. The token should typically start with `idt:`. If you copied the token from the portal, make sure there are no extra spaces.
-* **"I don't know how to do that"** - If the assistant is unsure, ask it to "List available tools" or "Show available resources" to refresh its context.
-* **No results returned** - Try rephrasing your question. For example, instead of "Find order 123", try "Show me the order with ID ORD-123".
+* **Authentication errors** – Double-check your `X-MPT-Authorization` header. The token should typically start with `idt:`. If you copied the token from the portal, make sure there are no extra spaces.
+* **"I don't know how to do that"** – If the assistant is unsure, ask it to "List available tools" or "Show available resources" to refresh its context.
+* **No results returned** – Try rephrasing your question. For example, instead of "Find order 123", try "Show me the order with ID ORD-123".
 
 ## Frequently asked questions
 

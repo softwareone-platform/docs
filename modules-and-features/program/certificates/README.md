@@ -4,7 +4,7 @@ In the Marketplace Platform, a certificate is an object that verifies a client o
 
 It serves as official confirmation that the client or partner has complied with the vendor’s standards and is authorized to purchase or access the program’s products. Holding a certificate grants eligibility to purchase products and access all associated benefits and incentives offered by the program.
 
-### Accessing certificates
+### Access certificates
 
 The **Certificates** page allows you to view your certificates.
 

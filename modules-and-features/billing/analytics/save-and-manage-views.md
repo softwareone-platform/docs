@@ -10,7 +10,7 @@ You can define a name for the view and choose whether you or anyone within your 
 
 Saved views appear under the **View** list in the left sidebar. After creating a view, you can manage it by editing the group name and description and adjusting visibility. You can also delete a view permanently if it's no longer needed. Additionally, you can reset or save a copy of the view.
 
-### Saving your current view
+### Save your current view
 
 To save a view:
 
@@ -25,7 +25,7 @@ To save a view:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/analytics-save-view.png" alt=""><figcaption><p>Save a view in Analytics to access it later.</p></figcaption></figure></div>
 
-### Editing or deleting saved views
+### Edit or delete saved views
 
 To edit or delete a saved view:
 
@@ -35,7 +35,7 @@ To edit or delete a saved view:
    * To edit the view, select **Edit**, then update the name, description, and visibility.
    * To permanently delete the view, select **Delete**.&#x20;
 
-### Selecting a saved view
+### Select a saved view
 
 To open a saved view:
 

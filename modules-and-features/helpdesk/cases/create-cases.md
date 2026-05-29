@@ -2,7 +2,7 @@
 
 You can create a support case by either selecting the help option in the header or by choosing **+ Support case** on the **Chats** page.&#x20;
 
-### Creating a case using the help icon
+### Create a case using the help icon
 
 To create a case:
 
@@ -16,7 +16,7 @@ To create a case:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/in-app-help.png" alt=""><figcaption><p>Use the help wizard to request assistance.</p></figcaption></figure></div>
 
-### Creating a case from the Chats page
+### Create a case from the Chats page
 
 To create a case from the Chats page:
 
