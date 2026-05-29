@@ -15,7 +15,7 @@ When writing feedback, consider the following best practices:
 Do not use the feedback form to request assistance. If you encounter an issue with the Marketplace Platform or [SoftwareOne FinOps for Cloud](https://docs.finops.softwareone.com/), contact Marketplace Platform Support instead.&#x20;
 {% endhint %}
 
-### Sharing feedback
+### Share feedback <a href="#share-feedback" id="share-feedback"></a>
 
 To share feedback:
 
