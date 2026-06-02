@@ -12,4 +12,4 @@ A group can be in one of these states: **Active** or **Deleted**. The following 
 
 The following table describes the different states:
 
-<table><thead><tr><th width="146">State</th><th>Definition</th></tr></thead><tbody><tr><td><strong>Active</strong></td><td>The group is active.</td></tr><tr><td><strong>Deleted</strong></td><td>The group has been deleted and no longer exists.</td></tr></tbody></table>
+<table><thead><tr><th width="146">State</th><th>Definition</th></tr></thead><tbody><tr><td><strong>Active</strong></td><td>The group is active.</td></tr><tr><td><strong>Deleted</strong></td><td>The group was deleted and no longer exists.</td></tr></tbody></table>

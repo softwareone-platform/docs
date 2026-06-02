@@ -4,9 +4,9 @@ description: Manage your existing buyers.
 
 # Enable or disable buyers
 
-If you no longer wish to use a buyer, you can disable them temporarily through the platform and re-enable them when required.&#x20;
+If you no longer wish to use a buyer, you can temporarily disable them and re-enable them when required.&#x20;
 
-When you disable a buyer, the licensees associated with that buyer also become unavailable. It means you'll no longer be able to select those licensees when creating a new agreement.&#x20;
+When you disable a buyer, the licensees associated with that buyer also become unavailable. This means you'll no longer be able to select those licensees when creating a new agreement.&#x20;
 
 ### Enable or disable a buyer
 
@@ -20,4 +20,4 @@ To enable or disable a buyer:
 3. Select the actions icon (**•••**) for the buyer and choose **Enable** or **Disable**. Note that only one of these options is shown depending on the current state of the buyer. For example, the **Enable** option is shown only if the buyer has been disabled.&#x20;
 4. In the confirmation dialog, confirm the action.
 
-A message is displayed stating that the buyer has been updated. You can view the updated buyer status on the **Buyers** page.
+A message is displayed stating that the buyer was updated. You can view the updated buyer status on the **Buyers** page.

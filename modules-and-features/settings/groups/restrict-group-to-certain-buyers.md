@@ -33,4 +33,4 @@ Keep the following rules in mind:
 
 ### Restrict a group to a certain buyer
 
-You can apply buyer-level restrictions when creating new groups or editing existing ones. For instructions, see [Create new group](create-new-group.md) and [Edit group](edit-group.md).&#x20;
+You can apply buyer-level restrictions when creating new groups or editing existing ones. For instructions, see [Create groups](create-new-group.md) and [Edit groups](edit-group.md).&#x20;

@@ -6,19 +6,19 @@ description: Learn about buyers in the Marketplace Platform.
 
 In the SoftwareOne Marketplace, a buyer is an organization that purchases products or services from SoftwareOne.&#x20;
 
-Buyers are registered as legal entities within SoftwareOne's ERP system, and they are the recipients of invoices issued by SoftwareOne. All buyers are added to an account by SoftwareOne.
+Buyers are registered as legal entities in SoftwareOne's ERP system and are the recipients of invoices issued by SoftwareOne. All buyers are added to an account by SoftwareOne.
 
 ### Buyers page
 
-The **Buyers** page allows account administrators to view all buyers in the account. Administrators can also perform other administrative tasks, such as editing, enabling, or disabling a buyer.&#x20;
+The **Buyers** page lets account administrators view all buyers in the account. Administrators can also perform management tasks such as editing, enabling, or disabling a buyer.
 
-To access the **Buyers** page, select the main menu, then choose **Settings** > **Buyers**. The list of buyers is displayed as shown in the following image:
+To open the page, select the main menu, then choose **Settings** > **Buyers**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Buyers.png" alt=""><figcaption><p>Use the Buyers page to view and manage buyers.</p></figcaption></figure></div>
 
-On the **Buyers** page, you can view various details for each buyer. You can also use the [sort and filter options](../../../marketplace-platform/getting-started/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/customize-the-data-grid.md#managing-columns) to customize the list.
+On the **Buyers** page, you can view details for each buyer, including the name, address, status, and more.&#x20;
 
-You can also select a buyer to view detailed information organized across several tabs. The information available includes the buyer's general information, including address, entities such as sellers and licensees mapped to the buyer, and a record of events and logs for the buyer. For details, see [View buyers](view-buyers.md).
+You can also select a buyer to view detailed information organized across tabs. These details include the buyer’s address, associated entities such as sellers and licensees, and a record of events and logs for the buyer. For more information, see [View buyers](view-buyers.md).
 
 ### Related topics
 

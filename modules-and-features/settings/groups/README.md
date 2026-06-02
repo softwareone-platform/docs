@@ -4,21 +4,21 @@ description: Learn about groups in the Marketplace Platform.
 
 # Groups
 
-A group represents a set of users who share the same roles and permissions, allowing admins to manage permissions of multiple users at once, instead of configuring each user individually.
+A group represents a set of users who share the same roles and permissions.&#x20;
 
-Users can belong to multiple groups within the same account; for example, a user can be a member of both the Administrator and Finance groups. They can also have different roles across different accounts, such as being an Operations user in one account and an Administrator in another. Before a user can be added to a group, they must already belong to the account; otherwise, their access to the Marketplace Platform is restricted. Permissions in each account are determined by the user’s group memberships.
+Groups allow administrators to manage permissions of multiple users at once, instead of configuring each user individually.&#x20;
 
-### Accessing groups
+### Groups page
 
-The **Groups** page allows account administrators to perform tasks, such as adding new groups and managing existing groups. Administrators can also modify or delete a group permanently if it's no longer needed.&#x20;
+The **Groups** page allows account administrators to manage groups, including adding new groups and updating existing ones. Administrators can also permanently delete a group if it is no longer needed.
 
-To access the **Groups** page, select the main menu, then choose **Settings** > **Groups**. The list of groups is displayed, as shown in the following image:
+To access the page, select the main menu, then choose **Settings** > **Groups**. The list of groups is displayed.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>Use the Groups page to view and manage groups.</p></figcaption></figure></div>
 
-On the **Groups** page, you can manage a group from the **Actions** column and select a group to view detailed information organized across several tabs.&#x20;
+On the **Groups** page, you can use the **Actions** column to manage a group or select a group to view detailed information organized across multiple tabs.&#x20;
 
-The information available includes a list of users within the group, modules that the group members can access, a record of events and logs for the group, and more. For details, see [View groups](view-groups.md).
+The group details include a list of users within the group, modules that the group members can access, a record of events and logs for the group, and additional configuration details. For details, see [View groups](view-groups.md).
 
 ### Related topics
 
