@@ -27,8 +27,8 @@ On the **Cases** page, you can view various details for a case, including the ca
 [case-states.md](case-states.md)
 {% endcontent-ref %}
 
-{% content-ref url="create-cases.md" %}
-[create-cases.md](create-cases.md)
+{% content-ref url="create-case.md" %}
+[create-case.md](create-case.md)
 {% endcontent-ref %}
 
 {% content-ref url="view-cases.md" %}
