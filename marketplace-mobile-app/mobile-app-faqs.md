@@ -84,7 +84,7 @@ The app supports the same languages as the web version. It uses the device langu
 
 <summary>How can I share feedback about the app?</summary>
 
-To help us review and respond effectively, you can submit feedback using the **Feedback** functionality in the Marketplace Platform.&#x20;
+To help us review and respond effectively, submit feedback using the **Feedback** functionality in the Marketplace Platform.&#x20;
 
 For more details, see [Share feedback](../help-and-support/share-feedback.md#share-feedback).
 
