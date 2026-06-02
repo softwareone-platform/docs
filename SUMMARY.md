@@ -104,7 +104,7 @@
     * [Terminate agreement](modules-and-features/marketplace/agreements/terminate-agreements.md)
     * [Rename agreement](modules-and-features/marketplace/agreements/rename-an-agreement.md)
     * [Add or update additional client ID](modules-and-features/marketplace/agreements/edit-agreement-id.md)
-    * [View or download attachments](modules-and-features/marketplace/agreements/view-and-download-attachments.md)
+    * [View or download agreement files](modules-and-features/marketplace/agreements/view-and-download-attachments.md)
   * [Assets](modules-and-features/marketplace/assets/README.md)
     * [Asset states](modules-and-features/marketplace/assets/asset-states.md)
     * [Rename assets](modules-and-features/marketplace/assets/rename-asset.md)
