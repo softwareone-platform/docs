@@ -8,7 +8,7 @@ A licensee is a specific person or a department within your account that receive
 
 Licensees are the entities that consume the software products or services procured by the buyer. In the SoftwareOne Marketplace, licensees are connected to buyers and sellers, and they are critical in establishing new agreements. Your account may contain multiple licensees, but each licensee can only be connected to one buyer and one seller at a time.
 
-### Accessing licensees
+### Licensees page
 
 The **Licensees** page allows account administrators to add new licensees. Administrators can also use this page to view, modify, enable, or disable a licensee.
 

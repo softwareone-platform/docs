@@ -13,7 +13,7 @@ To view your certificates:&#x20;
 
 ### Open certificate details <a href="#subscription-details" id="subscription-details"></a>
 
-On the **certificate details** page, you can view extended information for a certificate. Some information is read-only, while others include links that allow you to navigate to further details.
+On the certificate details page, you can view extended information for a certificate. Some information is read-only, while others include links that allow you to navigate to further details.
 
 To view the certificate details:
 
@@ -24,4 +24,4 @@ To view the certificate details:
 
 3. Use the tabs to view additional information:
 
-<table><thead><tr><th width="130">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Displays the most up-to-date information for the certificate. For example, if your certificate has been activated, a message is displayed stating that your certificate is ready for use.</td></tr><tr><td><strong>Parameters</strong></td><td>Displays the ordering and fulfillment parameters for the certificate.</td></tr><tr><td><strong>Enrollments</strong></td><td>Displays the enrollment associated with the certificate. Select the enrollment to navigate to the <a href="../enrollments/#subscription-details">enrollment details page</a>.</td></tr><tr><td><strong>Terms</strong></td><td>Displays the terms and conditions of the program.</td></tr><tr><td><strong>Details</strong></td><td>Displays additional details associated with the certificate, such as timestamps and additional IDs, if available.</td></tr><tr><td><strong>Audit trail</strong></td><td>Displays an audit trail for the certificate. For more information, see Audit Trail.</td></tr></tbody></table>
+<table><thead><tr><th width="130">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Shows the most up-to-date information for the certificate. For example, if your certificate has been activated, a message is displayed stating that your certificate is ready for use.</td></tr><tr><td><strong>Parameters</strong></td><td>Shows the ordering and fulfillment parameters for the certificate.</td></tr><tr><td><strong>Enrollments</strong></td><td>Shows the enrollment associated with the certificate.</td></tr><tr><td><strong>Terms</strong></td><td>Shows the terms and conditions of the program.</td></tr><tr><td><strong>Details</strong></td><td>Shows additional details associated with the certificate, such as timestamps and additional IDs, if available.</td></tr><tr><td><strong>Audit trail</strong></td><td>Shows the audit trail for the certificate.</td></tr></tbody></table>

@@ -4,7 +4,7 @@ description: Remove a user from your Marketplace account.
 
 # Remove users
 
-In certain situations, you might need to remove a person from your account. If you are an account administrator, you can use the **Remove** option on the **Users** page to remove an individual.
+In certain situations, you may need to remove a person from your account. If you are an account administrator, you can use the **Remove** option on the **Users** page to delete an individual from the account.
 
 ### Before you begin <a href="#taskt_users__manage_users_task__prereq__1" id="taskt_users__manage_users_task__prereq__1"></a>
 
@@ -26,6 +26,6 @@ To remove a user from your account:
 
 <div data-with-frame="true"><figure><img src="https://docs.platform.softwareone.com/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2FZ5DNbniz33mXCZoO62Rm%2Fblobs%2FLYrfL297QoIHk0uZUqal%2Fimage.png&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=56061311&#x26;sv=2" alt=""><figcaption><p>Use the Remove option in the actions menu to remove a user from your account.</p></figcaption></figure></div>
 
-4. Under **Remove user**, select **Remove** to confirm.
+4. In the **Remove user** dialog, select **Remove** to confirm.
 
-A message is displayed stating that the user has been removed. Additionally, the user receives an email stating that they have been removed from the account and its groups.
+A message is displayed stating that the user was removed. Additionally, the user receives an email stating that they have been removed from the account and its groups.

@@ -58,7 +58,7 @@ To open the page, choose **Marketplace** > **Subscriptions** from the main menu.
 
 On the subscriptions page, you can view various details for a subscription, including the subscription ID, linked entities (such as buyers and sellers), the estimated subscription value, status, and more.&#x20;
 
-You can also select a subscription to view detailed information organized across several tabs. The information available includes your entitlements, orders, a record of events or logs for the subscription, and more. For details, see [View subscriptions](view-subscriptions.md).
+You can also select a subscription to view detailed information organized across several tabs. The information available includes your entitlements, orders, a record of events or logs for the subscription, and more. For more details, see [View subscriptions](view-subscriptions.md).
 
 ### Related topics
 

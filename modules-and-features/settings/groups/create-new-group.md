@@ -2,7 +2,7 @@
 description: Create a new group and add users to that group.
 ---
 
-# Create groups
+# Create group
 
 The SoftwareOne Marketplace allows account administrators to create new groups and add members to those groups.
 
@@ -14,7 +14,7 @@ To create a group:
 
 1. Go to **Settings** > **Groups**.&#x20;
 2. Select **Add**.
-3. In the **Add group** flow, do the following:
+3. Complete the following steps in the **Add group** flow:
    1. **General** – Provide the following details, then select **Next:**
       * **Name** – (Required) Enter a group name.&#x20;
       * **Description** – (Optional) Add a group description. You can enter information about the group members, their roles, and so on. &#x20;

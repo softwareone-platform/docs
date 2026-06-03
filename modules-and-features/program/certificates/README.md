@@ -1,14 +1,16 @@
 # Certificates
 
-In the Marketplace Platform, a certificate is an object that verifies a client or partner meets a vendor’s requirements and eligibility criteria for a specific program.&#x20;
+A certificate is issued once you enroll in a program and meet all vendor requirements.
 
-It serves as official confirmation that the client or partner has complied with the vendor’s standards and is authorized to purchase or access the program’s products. Holding a certificate grants eligibility to purchase products and access all associated benefits and incentives offered by the program.
+It confirms that you have satisfied the eligibility criteria and are recognized as compliant with SoftwareOne and the vendor’s requirements.
 
-### Access certificates
+This certification authorizes you to purchase program‑specific products and provides access to all associated benefits, incentives, and entitlements available within the program.
 
-The **Certificates** page allows you to view your certificates.
+### Certificates page
 
-To access this page, select the main menu, then choose **Programs** > **Certificates**. Your list of certificates is displayed. This includes certificates awaiting vendor approval, as well as active, expired, and terminated certificates.&#x20;
+The **Certificates** page displays a list of your certificates.
+
+To open this page, choose **Programs** > **Certificates** from the main menu.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/certificates_page.png" alt=""><figcaption><p>Use the Certificates page to view and manage certificates.</p></figcaption></figure></div>
 

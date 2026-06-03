@@ -1,10 +1,10 @@
 ---
-description: Delete your unsubmitted orders.
+description: Delete your unsubmitted or draft orders.
 ---
 
 # Delete orders
 
-If you saved an order for later and no longer wish to continue with it, you can delete it.&#x20;
+If you saved an order for later and no longer want to continue with it, you can delete it.&#x20;
 
 Deleted orders can't be recovered, but are still displayed in your list of orders.&#x20;
 

@@ -11,7 +11,7 @@ In the SoftwareOne Marketplace, users linked to an account can access modules an
 * Users with multiple accounts can switch between them without signing out.
 * Users who don't belong to any account have limited capabilities. Such users can only sign in and adjust their profile settings. They cannot access any module.
 
-### Accessing users
+### Users page
 
 The **Users** page allows account administrators to perform user management tasks, such as adding new users and managing existing users. Administrators can also modify a user, remove a user, reinvite a user to the account, and much more.&#x20;
 

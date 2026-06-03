@@ -20,11 +20,11 @@ layout:
     visible: true
 ---
 
-# Save orders for later
+# Save order for later
 
-In the SoftwareOne Marketplace, you can save an order and return to it later to finalize and submit it. Saved orders are displayed on the **Orders** page with a **Quoted** status.&#x20;
+In the SoftwareOne Marketplace, you can save an order and return to it later to finalize or submit it.&#x20;
 
-This topic describes how you can save an order for purchasing later.&#x20;
+This feature is available for both purchase and change orders. Saved orders are displayed on the **Orders** page with a **Quoted** status.&#x20;
 
 ### Save a purchase order
 
@@ -39,21 +39,15 @@ To save a purchase order for later:
 
 ### Save a change order
 
-A change order represents an order to change subscription quantities. Change orders are created when you adjust the quantity of your subscription licenses. This includes upsizing as well as downsizing subscriptions.&#x20;
-
 To save a change order for later:
 
 1. Go to **Marketplace** > **Subscriptions**.
 2. Select the required subscription.&#x20;
 3. On the subscription details page, select **Edit.**
-4. In the guided **Edit subscription** flow, do the following:
+4. In the **Edit subscription** flow, do the following:
    1. **Items** – Adjust the quantity, then select **Next**.
    2. **Details** – Enter the reference information, then select **Save order**. The order is saved for later.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EditSubsReduceQty (2).png" alt=""><figcaption><p>Use the Save Order option to save your change order for later. </p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EditSubsReduceQty (2).png" alt=""><figcaption><p>Use the <strong>Save order</strong> option to save your change order for later. </p></figcaption></figure></div>
 
-### Next steps
-
-When you are ready to finalize the order, select the order on the **Orders** page and select **Review** on the order details page to continue the process.&#x20;
-
-For more information, see [Submit your saved orders](submit-draft-orders.md).
+When you are ready to finalize the order, open the order and select **Review** on the order details page to submit it. For more details, see [Submit your saved orders](submit-draft-orders.md).

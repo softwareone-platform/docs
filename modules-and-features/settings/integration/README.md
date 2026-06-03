@@ -21,8 +21,8 @@ You can also use the **Redeem invitation** option to enter an invitation code an
 
 ### Related topics
 
-{% content-ref url="install-or-uninstall-extensions.md" %}
-[install-or-uninstall-extensions.md](install-or-uninstall-extensions.md)
+{% content-ref url="install-or-uninstall-extension.md" %}
+[install-or-uninstall-extension.md](install-or-uninstall-extension.md)
 {% endcontent-ref %}
 
 {% content-ref url="view-installed-extensions.md" %}

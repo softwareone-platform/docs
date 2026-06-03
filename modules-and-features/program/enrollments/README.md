@@ -39,8 +39,8 @@ You can also select an enrollment to view detailed information organized across 
 [view-enrollments.md](view-enrollments.md)
 {% endcontent-ref %}
 
-{% content-ref url="manage-querying-enrollments.md" %}
-[manage-querying-enrollments.md](manage-querying-enrollments.md)
+{% content-ref url="/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/nKYFQev2XCWzCV9oGI9R" %}
+[Broken link](/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/nKYFQev2XCWzCV9oGI9R)
 {% endcontent-ref %}
 
 {% content-ref url="renew-your-enrollment.md" %}

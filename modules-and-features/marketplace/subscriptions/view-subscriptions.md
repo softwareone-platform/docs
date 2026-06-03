@@ -4,7 +4,7 @@ This topic describes how to view a list of subscriptions in your account, as wel
 
 ### View the subscriptions list
 
-To view your subscriptions:
+To view your subscriptions list:
 
 1. Go to **Marketplace** > **Subscriptions**.
 2. Review the list of subscriptions.
@@ -16,7 +16,7 @@ To view your subscriptions:
 
 On the subscription details page, you can view detailed information for a specific subscription. Some information is read-only, while others include links that allow you to navigate to further details.
 
-To view subscription details:
+To open details for a specific subscription:
 
 1. Go to **Marketplace** > **Subscriptions**.
 2. Select the subscription to view. The subscription details page opens.

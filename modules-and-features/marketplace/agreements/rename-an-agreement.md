@@ -8,6 +8,8 @@ If your account contains multiple agreements, you can rename those agreements.
 
 Only active agreements can be renamed. When choosing a new agreement name, we recommend providing a name that will help you find or locate the agreement in your list of agreements.  Additionally, when renaming, ensure that the new name is not blank. Otherwise, the platform displays an error.
 
+### Rename an agreement
+
 To rename an agreement:
 
 1. Go to **Marketplace** > **Agreements**.
