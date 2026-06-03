@@ -14,7 +14,9 @@ To view a list of your cases:
 
 ### Open case details
 
-There are two ways to view detailed information for a case, including messages, parameters, attachments, and more. You can do this from the **Helpdesk** > **Cases** page, or directly from the **Chats** page.
+There are two ways to view detailed information for a case, including messages, parameters, attachments, and more.&#x20;
+
+You can do this from the **Helpdesk** > **Cases** page, or directly from the **Chats** page.
 
 #### Opening a case from the Cases page
 

@@ -11,15 +11,17 @@ Each case includes important details, such as the case ID, reporter, assignee, s
 
 In the SoftwareOne Marketplace, each case includes a conversation thread that allows you to communicate with the assignee.&#x20;
 
-### Access cases
+### Cases page
 
-You can view and track your submitted cases through the **Cases** page. This page displays all cases created in the scope of your account. It means you can view all cases and their details, including status, regardless of who created them.&#x20;
+You can view and track your cases through the **Cases** page.&#x20;
 
-To navigate to the **Cases** page, select the main menu, then choose **Helpdesk** > **Cases**. The list of cases is displayed, as shown in the following image:
+To open the **Cases** page, choose **Helpdesk** > **Cases** from the main menu.
 
 <figure><img src="../../../.gitbook/assets/helpdesk-cases.png" alt=""><figcaption><p>The Cases page in the platform.</p></figcaption></figure>
 
-On the **Cases** page, you can view various details for a case, including the case ID, related chat, reporter, assignee, status, and more. Additionally, you can select a case to view detailed information and manage a case using the options in the **Actions** column.
+On the **Cases** page, you can view all cases within the scope of your account. This includes every case and its associated details, regardless of who created it.
+
+For each case, you can see key information including the **case ID**, **related chat**, **reporter**, **assignee**, **status**, and more. You can also select any case to view its full details and perform case‑management actions.
 
 ### Related topics
 
@@ -35,11 +37,11 @@ On the **Cases** page, you can view various details for a case, including the ca
 [view-cases.md](view-cases.md)
 {% endcontent-ref %}
 
-{% content-ref url="reopen-cases.md" %}
-[reopen-cases.md](reopen-cases.md)
+{% content-ref url="reopen-case.md" %}
+[reopen-case.md](reopen-case.md)
 {% endcontent-ref %}
 
-{% content-ref url="complete-cases.md" %}
-[complete-cases.md](complete-cases.md)
+{% content-ref url="complete-case.md" %}
+[complete-case.md](complete-case.md)
 {% endcontent-ref %}
 

@@ -2,17 +2,15 @@
 description: Reopen a closed case from the Chats page.
 ---
 
-# Reopen cases
+# Reopen case
 
 You can reopen a completed support case at any time if the issue remains unresolved.&#x20;
 
-By default, reopened cases are assigned to the same assignee who last handled the case. When a case is reopened, its status changes from **Completed** to **Processing**.&#x20;
+When a case is reopened, its status automatically changes from **Completed** to **Processing**, and it is reassigned by default to the last assignee who handled it.
 
-### Reopen a completed case
+You can reopen a completed case from either the **Cases** page or the **Chat** page within the platform.
 
-You can reopen a completed case from the **Cases** or **Chat** page in the platform.
-
-#### Reopen a case from the Cases page
+### Reopen a case from the Cases page
 
 To reopen a completed case from the **Cases** page:
 
@@ -22,7 +20,7 @@ To reopen a completed case from the **Cases** page:
 4. In the details pane on the right, select the actions icon (**•••**), then choose **Reopen**.
 5. In the **Reopen case** confirmation, confirm that you want to open the case.&#x20;
 
-#### Reopen a case from the Chats page
+### Reopen a case from the Chats page
 
 To reopen a completed case from the **Chats** page:
 
