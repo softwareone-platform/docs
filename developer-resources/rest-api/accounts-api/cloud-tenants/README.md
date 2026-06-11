@@ -1,18 +1,18 @@
 # Cloud Tenant
 
-A `Cloud Tenant` represents a cloud tenant object in the Marketplace Platform.
+Cloud Tenant represents a cloud tenant object in the Marketplace Platform.
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table data-full-width="false"><thead><tr><th width="186">Field Name</th><th width="149">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The primary identifier for the cloud tenant.</p><p>Example: CLT-1234-9876</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the cloud tenant. </p><p>Example: AdAstraflex</p></td></tr><tr><td><code>status</code></td><td>string</td><td>The status of the cloud tenant. Allowed values: <code>active</code>, <code>disabled</code>, or <code>deleted</code>.</td></tr><tr><td><code>account</code></td><td>object</td><td>The <a href="../account/"><code>account</code></a> to which the cloud tenant is assigned.</td></tr><tr><td><code>type</code></td><td>string</td><td><p>The type of cloud tenant. </p><p>Example: CSP365</p></td></tr><tr><td><code>externalId</code></td><td>object</td><td>A reference to <a href="./#cloud-tenant-external-ids">Cloud Tenant External IDs</a>.</td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="159">Field</th><th width="162">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) The primary identifier for the cloud tenant.</td></tr><tr><td><code>name</code></td><td>string, core</td><td>The name of the cloud tenant. </td></tr><tr><td><code>status</code></td><td>string</td><td><p>The status of the cloud tenant. Allowed values: </p><ul><li><code>Active</code></li><li><code>Disabled</code></li><li><code>Deleted</code></li></ul></td></tr><tr><td><code>account</code></td><td>object</td><td>The <a href="../account/"><code>account</code></a> to which the cloud tenant is assigned.</td></tr><tr><td><code>type</code></td><td>string</td><td>(Read-only) The type of cloud tenant. </td></tr><tr><td><code>externalId</code></td><td>object</td><td>(Read-only) Represents the <a href="./#cloud-tenant-external-ids"><code>CloudTenantExternalIDs</code></a> object.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
 
 ## Cloud Tenant External IDs object <a href="#cloud-tenant-external-ids" id="cloud-tenant-external-ids"></a>
 
-<table data-full-width="false"><thead><tr><th width="191">Field Name</th><th width="142">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>pyraTenantId</code></td><td>string</td><td><p>Indicates the PYC tenant ID. </p><p>Example: ce4b61dd-9426-4b4a-855f-6162f790a457</p></td></tr><tr><td><code>cloudConsumptionId</code></td><td>string</td><td><p>Indicates the unique identifier of this cloud tenant in PYC.</p><p>Example: f94c03b5-c2ee-478a-964c-bfb591a7a205</p></td></tr><tr><td><code>providerId</code></td><td>string</td><td><p>Indicates the object identifier within the cloud provider, like AWS, Azure, and more. </p><p>Example: de14dafc-9323-40ed-bdbd-cbf32311d59e</p></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="213">Field</th><th width="125">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>pyraTenantId</code></td><td>string</td><td>(Read-only) The PYC tenant ID. </td></tr><tr><td><code>cloudConsumptionId</code></td><td>string</td><td>(Read-only) The unique identifier of this cloud tenant in PYC.</td></tr><tr><td><code>providerId</code></td><td>string</td><td>(Read-only) The object identifier within the cloud provider, like AWS, Azure, and more. </td></tr></tbody></table>
 
-## Example response
+## Example
 
-{% code lineNumbers="true" %}
+{% code title="CLOUD TENANT OBJECT" lineNumbers="true" %}
 ```json
 {
     "id": "CLT-3206-7146",   
@@ -42,3 +42,5 @@ A `Cloud Tenant` represents a cloud tenant object in the Marketplace Platform.
 }
 ```
 {% endcode %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

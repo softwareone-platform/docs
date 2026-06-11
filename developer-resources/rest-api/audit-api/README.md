@@ -6,25 +6,39 @@ description: Use the Audit API to track and retrieve activity logs programmatica
 
 The **Audit API** enables you to track and retrieve activity logs across the Marketplace Platform, so you have full visibility into key actions taken by users or systems.
 
-With this API, you can create new audit records programmatically, retrieve a list of logged events for monitoring or compliance purposes, and get detailed information about specific events.&#x20;
+Use this API to create audit records, list logged events for monitoring or compliance, and retrieve details for specific events.
 
-## Core Concepts
+## Before you start
+
+Review the shared API docs before you work with audit resources.
+
+* [Authentication](../)
+* [URL structure](../../api-usage-and-reference/url-structure.md)
+* [Error handling](../../api-usage-and-reference/errors-handling.md)
+
+## Core resources
 
 The Audit API is built around the following core resources:
 
-* **Audit record** - Represents a detailed record of an event that took place within the platform.
-* **Audit event type** - Represents the event that occurred within the platform.
+* **Audit record** – Represents a detailed record of an event that took place within the platform.
+* **Audit event types** – Represents the event types used within the platform.
 
-## Collections
+## Browse collections
 
-The API is organized into collections, each containing a set of operations. Access to these operations varies by role, depending on whether you are a `client`, `vendor`, or `operations` user.&#x20;
+The API is organized into collections, each containing a set of operations. Access to these operations varies by role, depending on whether you are a `client`, `vendor`, or `operations` user.
 
-Refer to the following capability matrix to see which roles are authorized to perform specific operations within each collection:
+See the following sections to determine which roles are authorized to perform specific operations within each collection:
 
 ### Audit Records
 
-<table><thead><tr><th width="251">Capability</th><th width="155">Client</th><th width="130">Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List audit records</td><td>✅ </td><td>✅</td><td>✅</td></tr><tr><td>Get audit record</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create audit record</td><td>❌</td><td>✅</td><td>✅</td></tr></tbody></table>
+| Operation                                                    | Method | Description                             | Access              |
+| ------------------------------------------------------------ | ------ | --------------------------------------- | ------------------- |
+| [Create audit record](audit-record-1/create-audit-record.md) | POST   | Creates an audit record.                | vendor, client, ops |
+| [List audit records](audit-record-1/list-audit-records.md)   | GET    | Retrieves the audit records collection. | vendor, client, ops |
+| [Get audit record](audit-record-1/get-audit-records.md)      | GET    | Retrieves an audit record by ID.        | vendor, ops         |
 
-### Audit Event Type
+### Audit Event Types
 
-<table><thead><tr><th width="251">Capability</th><th width="155">Client</th><th width="130">Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List audit event types</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
+| Operation                                                            | Method | Description                                        | Access              |
+| -------------------------------------------------------------------- | ------ | -------------------------------------------------- | ------------------- |
+| [List audit event types](audit-event-type/list-audit-event-types.md) | GET    | Retrieves the list of all known audit event types. | vendor, client, ops |

@@ -1,14 +1,14 @@
 # Program Terms
 
-The Program Terms object represents terms in the form of uploaded PDF or DOCX documents, as well as links to documents hosted externally. This object contains the following attributes:
+The Program Terms object represents terms in the form of uploaded PDF or DOCX documents, as well as links to documents hosted externally.&#x20;
 
-<table><thead><tr><th width="152">Field</th><th width="150">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The business identifier of the terms. </p><p>Example: TCS-0001-0001</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The resource URI of the terms. </p><p>Example: /programs/PRG-6822-9898-4256/terms/TCS-3159-1891-0980-8679</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the terms. </p><p>Example: Terms of Service</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>The description of the terms. </p><p>Example: Terms of Service description.</p></td></tr><tr><td>displayOrder</td><td><code>integer</code></td><td><p>The display order of the terms. </p><p>Example: 100</p></td></tr><tr><td>status</td><td><code>string</code></td><td>The status of the terms. The possible values are <code>Draft</code>, <code>Published</code>, <code>Unpublished</code>, or <code>Published</code>.</td></tr><tr><td>program</td><td><a href="../"><code>program</code></a></td><td>The program to which the term item belongs.</td></tr><tr><td>audit</td><td><code>audit</code></td><td>A reference to the Audit object.</td></tr></tbody></table>
+{% include "../../../../../.gitbook/includes/api-table-header.md" %}
+
+<table><thead><tr><th width="151">Field</th><th width="161">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>(Read-only) The business identifier of the terms. </td></tr><tr><td><code>href</code></td><td>string</td><td>(Read-only) The resource URI of the terms. </td></tr><tr><td><code>name</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>The name of the terms. </td></tr><tr><td><code>description</code></td><td>string, core</td><td>A description of the terms. </td></tr><tr><td><code>displayOrder</code></td><td>integer, core</td><td>The display order of the terms. </td></tr><tr><td><code>status</code></td><td>string, core</td><td><p>The status of the terms. Allowed values are:</p><ul><li><code>Draft</code></li><li><code>Published</code></li><li><code>Unpublished</code></li><li><code>Published</code></li></ul></td></tr><tr><td><code>program</code></td><td>object</td><td>Represents the <a href="../"><code>program</code></a> to which the term item belongs.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../../api-usage-and-reference/common-api-objects/audit.md">audit</a> object.</td></tr></tbody></table>
 
 ## Example
 
-{% tabs %}
-{% tab title="TERMS OBJECT" %}
-{% code overflow="wrap" lineNumbers="true" %}
+{% code title="THE PROGRAM TERMS OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "TCS-3159-1891-0980-8679",
@@ -34,5 +34,5 @@ The Program Terms object represents terms in the form of uploaded PDF or DOCX do
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

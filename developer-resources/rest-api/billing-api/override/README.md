@@ -6,22 +6,45 @@ Assigning this object indicates that the client's billing requires flexibility a
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="134">Field Name</th><th width="148">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The unique identifier for the object. No nesting exists for this identifier. </p><p>Example: BOV-1234-1239</p></td></tr><tr><td><code>client</code></td><td>object</td><td><p>A reference to the client <a href="../../accounts-api/account/"><code>account</code></a> object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-    "id": "ACC-1234-4444",
-    "href": "/accounts/accounts/ACC-1234-4444",
-    "name": "Best LLC",
-    "icon": "/static/ACC-1234-4444/account.png"
-}
-</code></pre></td></tr><tr><td><code>vendor</code></td><td>object</td><td><p>A reference to the vendor <a href="../../accounts-api/account/"><code>account</code></a> object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-    "id": "ACC-1234-1234",
-    "href": "/accounts/accounts/ACC-1234-1234",
-    "name": "Microsoft",
-    "icon": "/static/ACC-1234-1234/account.png"
-}
-</code></pre></td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the override. Allowed values: <code>active</code> or <code>disabled</code>. </td></tr><tr><td><code>externalId</code></td><td>string</td><td><p>The external identifier or reference number. This value is optional.</p><p>Example: bill-12345609</p></td></tr><tr><td><code>notes</code></td><td>string</td><td><p>Notes associated with the override.</p><p>Example: Based on the reporting figures, we decided to move this client to manual billing.</p></td></tr><tr><td><code>audit</code></td><td>object</td><td><p>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values:  <code>created</code> or <code>updated</code>. </p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
-  "created": { "at": "...", "by": { } },
-  "updated": { "at": "...", "by": { } }
-}
-</code></pre></td></tr></tbody></table>
+<table><thead><tr><th width="160">Field</th><th width="141">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) Unique identifier for the object. No nesting exists for this identifier. </td></tr><tr><td><code>client</code></td><td>object</td><td>(Read-only) Represents the client <a href="../../accounts-api/account/"><code>account</code></a> object. </td></tr><tr><td><code>vendor</code></td><td>object</td><td>(Read-only) Represents the vendor <a href="../../accounts-api/account/"><code>account</code></a> object. </td></tr><tr><td><code>status</code></td><td>enum</td><td>(Read-only) The override's status. Allowed values are <code>active</code> or <code>disabled</code>. </td></tr><tr><td><code>externalId</code></td><td>string, core</td><td>(Optional) The external identifier or reference number.</td></tr><tr><td><code>notes</code></td><td>string</td><td>(Optional) Notes associated with the override.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
 
-
+
+
+## Example
+
+{% code title="OVERRIDE OBJECT" overflow="wrap" lineNumbers="true" expandable="true" %}
+```json
+{
+    "id": "BOV-1345-6362",
+    "client": {
+        "id": "ACC-5563-4382",
+        "type": "Client",
+        "status": "Active",
+        "name": "Adastraflex 2.0"
+    },
+    "vendor": {
+        "id": "ACC-5500-0684",
+        "type": "Vendor",
+        "status": "Enabled",
+        "name": "amando software"
+    },
+    "status": "Active",
+    "externalId": "",
+    "notes": "",
+    "audit": {
+        "active": {
+          "at": "2025-04-16T17:48:19.726Z"
+        },
+        "disabled": {},
+        "created": {
+            "at": "2025-04-16T17:48:19.726Z"
+        },
+        "updated": {}
+    }
+}
+```
+{% endcode %}
+
+
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

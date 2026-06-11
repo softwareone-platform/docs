@@ -1,31 +1,23 @@
 # Account
 
-The `Account` object represents an individual account in the SoftwarOne Marketplace.&#x20;
+Account object represents an individual account in the SoftwareOne Marketplace.&#x20;
 
-{% include "../../../../.gitbook/includes/api-table-header.md" %}
+This object contains the following attributes:
 
-<table data-full-width="false"><thead><tr><th width="200">Field Name</th><th width="149">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The primary identifier for the account.</p><p>Example: ACC-1671-0642</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>A relative reference to the object.</p><p>Example: /v1/accounts/accounts/ACC-1671-0642</p></td></tr><tr><td><code>type</code></td><td>string</td><td>The type of the account. Allowed values:  <code>client</code>, <code>vendor</code>, or <code>operations</code>.</td></tr><tr><td><code>status</code></td><td>string</td><td>The account's status on the platform. Allowed values: <code>enabled</code>, <code>active</code>, or <code>disabled</code>.</td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the account.</p><p>Example: Stark Industries</p></td></tr><tr><td><code>description</code></td><td>string</td><td><p>The account's description.</p><p>Example: Our company account</p></td></tr><tr><td><code>externalId</code></td><td>string</td><td><p>External identifier - Customer Discount Group number.</p><p>Example: WW-1001111</p></td></tr><tr><td><code>externalName</code></td><td>string</td><td><p>External identifier - Customer Discount Group name.</p><p>Example: Stark Industries</p></td></tr><tr><td><code>serviceLevel</code></td><td>string</td><td>The service level offered to the account. Allowed values:  <code>essential</code>, <code>elite</code>, or  <code>DSC</code>.</td></tr><tr><td><code>address</code></td><td>object</td><td><p>The <a href="../../common-api-objects/address.md"><code>address</code></a> of the company.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-  "addressLine1": "123 Main Street",
-  "addressLine2": "Apt 4B",
-  "postCode": "12345",
-  "city": "Cityville",
-  "state": "S",
-  "country": "ST"
-}
-</code></pre></td></tr><tr><td><code>icon</code></td><td>string</td><td><p>The relative path to the account's logo.</p><p>Example: /static/accounts/ACC-1671-0642/logo.png</p></td></tr><tr><td><code>website</code></td><td>string</td><td><p>The path to the company’s website.</p><p>Example: https://www.example.com</p></td></tr><tr><td><code>technicalSupportEmail</code></td><td>string</td><td><p>The email address for technical support.</p><p>Example: user@example.com</p></td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values:  <code>created</code>, <code>updated</code>, <code>disabled</code>, <code>enabled</code>, or  <code>activated</code>.</td></tr><tr><td><code>groups</code></td><td>object</td><td>A reference to the <a href="../../../../modules-and-features/settings/groups/"><code>userGroup</code></a> object.</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="213">Field</th><th width="132.25">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1"><em>core</em></a></td><td>(Read-only) Unique identifier for the account.</td></tr><tr><td><code>type</code></td><td>string, core</td><td><p>The type of account. Allowed values are:</p><ul><li><code>Client</code></li><li><code>Vendor</code></li><li><code>Operations</code></li></ul></td></tr><tr><td><code>status</code></td><td>string, core</td><td><p>(Read-only) The status of the account. Allowed values are: </p><ul><li><code>Enabled</code></li><li><code>Active</code></li><li><code>Disabled</code></li></ul></td></tr><tr><td><code>name</code></td><td>string</td><td>The name of the account.</td></tr><tr><td><code>description</code></td><td>string</td><td>(Optional) A description of the account.</td></tr><tr><td><code>externalId</code></td><td>string</td><td>(Optional) The Customer Discount Group number.</td></tr><tr><td><code>externalName</code></td><td>string</td><td>The Customer Discount Group name.</td></tr><tr><td><code>serviceLevel</code></td><td>string</td><td><p>Service level for the account. Allowed values are: </p><ul><li><code>Essential</code></li><li><code>Elite</code></li><li><code>DSC</code></li></ul></td></tr><tr><td><code>address</code></td><td>object</td><td>The <a href="../../../api-usage-and-reference/common-api-objects/address.md"><code>address</code></a> of the company.</td></tr><tr><td><code>icon</code></td><td>string, core</td><td>The relative path to the account's logo.</td></tr><tr><td><code>website</code></td><td>string</td><td>The path to the company’s website.</td></tr><tr><td><code>technicalSupportEmail</code></td><td>string</td><td>The email address for technical support.</td></tr><tr><td><code>audit</code></td><td>object</td><td>Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. </td></tr><tr><td><code>groups</code></td><td>object</td><td>Represents the <a href="../../../../modules-and-features/settings/groups/"><code>userGroup</code></a> object.</td></tr><tr><td><code>buyers</code></td><td>object</td><td>Represents the <a href="../buyer/"><code>buyer</code></a> object.</td></tr><tr><td><code>externalIDs</code></td><td>object</td><td>Represents the <code>externalId</code> for the account.</td></tr><tr><td><code>defaultLanguageCode</code></td><td>string</td><td>The default language code of the account.</td></tr></tbody></table>
 
-### Example response
+## Examples
 
 {% tabs %}
-{% tab title="SHORT FORM" %}
-{% code overflow="wrap" lineNumbers="true" %}
+{% tab title="MINIMAL EXAMPLE" %}
+{% code title="ACCOUNT OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "ACC-1671-0642",
   "type": "Client",
   "status": "Enabled",
-  "name": "You Are a Test Account",
-  "description": "This is a test account",
+  "name": "Test account",
+  "description": "This is a test account for the finance team.",
   "externalId": "WW-1001111",
   "serviceLevel": "Express",
   "address": {
@@ -37,15 +29,15 @@ The `Account` object represents an individual account in the SoftwarOne Marketpl
     "country": "ST"
   },
   "logo": null,
-  "technicalSupportEmail": "user@example.com",
-  "website": "https://example.com"
+  "technicalSupportEmail": "jane@doe.com",
+  "website": "https://example.com"  
 }
 ```
 {% endcode %}
 {% endtab %}
 
-{% tab title="FULL EXAMPLE" %}
-<pre class="language-json" data-line-numbers><code class="lang-json"><strong>{
+{% tab title="COMPLETE EXAMPLE" %}
+<pre class="language-json" data-title="ACCOUNT OBJECT" data-line-numbers><code class="lang-json"><strong>{
 </strong>  "id": "ACC-1671-0642",
   "type": "Client",
   "status": "Enabled",
@@ -84,3 +76,5 @@ The `Account` object represents an individual account in the SoftwarOne Marketpl
 </code></pre>
 {% endtab %}
 {% endtabs %}
+
+[^1]: _Core indicates the field is part of the base object schema. This is not the same as “required”._

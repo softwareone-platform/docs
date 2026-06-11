@@ -1,4 +1,4 @@
-# Enrollment Attachment
+# Enrollment attachment
 
 The `enrollmentAttachment` object provides the ability to upload an enrollment attachment (via file upload or license key) to the enrollment object.
 
@@ -8,7 +8,7 @@ The `enrollmentAttachment` object provides the ability to upload an enrollment a
     "id": "ORD-5542-1187-3130-0991",
     "href": "/commerce/orders/ORD-5542-1187-3130-0991"
 }
-</code></pre></td></tr><tr><td>audit</td><td><a href="../../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the <code>audit</code> object. </td></tr></tbody></table>
+</code></pre></td></tr><tr><td>audit</td><td><a href="../../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the <code>audit</code> object. </td></tr></tbody></table>
 
 ### Example
 

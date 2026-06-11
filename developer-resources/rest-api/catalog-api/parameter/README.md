@@ -2,28 +2,28 @@
 
 The Parameter object contains the following properties:
 
-<table><thead><tr><th width="161">Field Name</th><th width="239">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The platform-generated ID of the parameter. </p><p>Example: PRD-1234-1234-1234</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>Resource reference. </p><p>Example: /v1/products/PRD-1234-1234-1234</p></td></tr><tr><td><code>scope</code></td><td>string</td><td><p>The context in which the parameter will be used. </p><p>Example: Agreement</p></td></tr><tr><td><code>phase</code></td><td>string</td><td><p>The process during which the parameter will be used. </p><p>Example: Order</p></td></tr><tr><td><code>type</code></td><td>string</td><td><p>Indicates the UI component that will be used to capture information. </p><p>Example: Email</p></td></tr><tr><td><code>options</code></td><td><p>One of the following: </p><p></p><ul><li><code>AddressOptions</code></li><li><code>CheckboxOptions</code></li><li><code>SingleLineTextOptions</code></li><li><code>MultiLineTextOptions</code></li><li><code>ChoiceOptions</code></li><li><code>AddressOptions</code></li><li><code>ContactOptions</code></li><li><code>SubdomainOptions</code></li><li><code>HeadingOptions</code></li><li><code>DropDownOptions</code></li><li><code>EmailOptions</code></li><li><code>DataObjectOptions</code></li><li><code>DateOptions</code><br></li></ul></td><td><p>The options are specific to a selected type and allow customization of the UI component. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-    "label": "Client address",
-    "hintText": "please add your email",
-    "placeholderText": "someone@org.com",
-    "defaultValue": "none"
-}
-</code></pre></td></tr><tr><td><code>constraints</code></td><td>constraints</td><td>Used to specify the characteristics of an entire parameter, which can also impact the validation of values. For instance, enabling <strong>Optional</strong> overrides any mandatory fields within the UI components associated with the selected type.</td></tr><tr><td><code>group</code></td><td>object (<a href="../parameter-group/"><code>parameterGroup</code></a>)</td><td>Groups allow logical grouping of parameters. They are used by the purchase wizard and represented as a wizard step. </td></tr><tr><td><code>externalId</code></td><td>object (<a href="../../common-api-objects/externalids.md"><code>externalIds</code></a>)</td><td><p>Used for programmatic processing, for example, as a variable name within embedding templates or a “connector” process. </p><p>Example: EXT-1234-1234</p></td></tr></tbody></table>
+<table><thead><tr><th width="161">Field</th><th width="144">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>(Read-only) Platform-generated ID of the parameter. </td></tr><tr><td><code>scope</code></td><td>string</td><td>(Read-only) The context in which the parameter will be used. </td></tr><tr><td><code>phase</code></td><td>string</td><td>(Read-only) The process during which the parameter will be used. </td></tr><tr><td><code>context</code></td><td>string</td><td><p>(Read-only) Used only in the <code>Order</code> scope and during the Order phase. If the scope is not set to <code>Order</code>, the context value is assigned as <code>None</code>. Allowed values are: </p><ul><li><code>Change</code></li><li><code>Configuration</code></li><li><code>Purchase</code></li><li><code>Termination</code></li><li><code>None</code></li></ul></td></tr><tr><td><code>type</code></td><td>string</td><td>(Read-only) Indicates the UI component that will be used to capture information. </td></tr><tr><td><code>options</code></td><td>object</td><td><p>Are specific to the selected field type and allow customization of the UI component. One of the following option‑object types: </p><ul><li>AddressOptions</li><li>CheckboxOptions</li><li>SingleLineTextOptions</li><li>MultiLineTextOptions</li><li>ChoiceOptions</li><li>ContactOptions</li><li>SubdomainOptions</li><li>HeadingOptions</li><li>DropDownOptions</li><li>EmailOptions</li><li>DataObjectOptions</li><li>DateOptions</li></ul></td></tr><tr><td><code>multiple</code></td><td>boolean</td><td>(Optional) Multiple values type.</td></tr><tr><td><code>constraints</code></td><td>object</td><td>(Optional) Represents the <code>constraints</code> object, which defines characteristics that apply to the entire parameter and may influence value validation. For example, enabling <code>optional</code> overrides any mandatory fields within the UI components associated with the selected type.</td></tr><tr><td><code>group</code></td><td>object</td><td>Represents the <a href="../parameter-group/"><code>parameterGroup</code></a> object that allows logical grouping of parameters. They are used by the purchase wizard and represented as a wizard step. </td></tr><tr><td><code>externalId</code></td><td>object</td><td>(Optional)  Represents the <a href="../../../api-usage-and-reference/common-api-objects/externalids.md"><code>externalIds</code></a> object, which is used for programmatic processing, for example, as a variable name within embedding templates or a “connector” process. </td></tr><tr><td><code>status</code></td><td>string</td><td><p>Represents the current status of the parameter. Only active parameters are returned. Allowed values are</p><ul><li><code>Draft</code></li><li><code>Active</code></li><li><code>Unpublished</code></li></ul></td></tr></tbody></table>
 
-## Example response
+## Example
 
-{% code lineNumbers="true" %}
+{% code title="PARAMETER OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
-  "scope": "Agreement",
+  "scope": "Order",
   "phase": "Order",
   "description": "Agreement identifier of the reseller",
   "externalId": "RES-233-33-xx3",
   "displayOrder": 100,
+  "context": "Purchase",
+  "multiple": true,
   "constraints": {
     "hidden": true,
     "readonly": true,
-    "optional": false
+    "required": false,
+    "capacity": {
+      "min": 2,
+      "max": 3
+    }
   },
   "type": "SingleLineText",
   "options": {
@@ -34,7 +34,10 @@ The Parameter object contains the following properties:
     "maxChar": 15,
     "defaultValue": null
   },
-  "group": { "id": PGR-7373-6782" }
+  "group": {
+    "id": "PGR-7373-6782"
+  },
+  "status": "active"
 }
 ```
 {% endcode %}

@@ -1,16 +1,14 @@
-# Program Terms Variants
+# Program Terms Variant
 
 The Terms Variant Object represents a terms variant as an uploaded PDF or DOCX document, or a link to an externally hosted document, as an element of the terms for a program.
 
 This object contains the following attributes:
 
-<table><thead><tr><th width="152">Field</th><th width="150">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The business identifier of the terms variant. </p><p>Example: TCS-0001-0001</p></td></tr><tr><td>href</td><td><code>string</code></td><td><p>The resource URI of the terms variant. </p><p>Example: /programs/PRG-1234-1234/terms/TCS-1234-1234-1234/variants/TCV-1234-1234-1234-1234</p></td></tr><tr><td>type</td><td><code>string</code></td><td>Terms Item type. The possible values are <code>Online</code> or <code>File</code>.</td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the term's variant. </p><p>Example: Terms of Service - EN</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>The description of the term's variant. </p><p>Example: Terms of Service in English.</p></td></tr><tr><td>assetUrl</td><td><code>string</code></td><td><p>The URL of the terms item uploaded document or online document/resource. </p><p>Example: /programs/PRG-1234-1234/terms/TCS-1234-1234-1234/variants/TCV-1234-1234-1234-1234</p></td></tr><tr><td>languageCode</td><td><code>string</code></td><td><p>A 2-digit language code from the list of language codes in ISO 639 and its corresponding data format. When the type is Online, <code>null</code> will appear as <strong>multiple</strong> on the UI.</p><p>Example: 100</p></td></tr><tr><td>status</td><td><code>string</code></td><td>The status of the terms variant. The possible values are <code>Draft</code>, <code>Published</code>, <code>Unpublished</code>, or <code>Published</code>.</td></tr><tr><td>program</td><td><a href="../"><code>program</code></a></td><td>The program to which the variant belongs.</td></tr><tr><td>audit</td><td><a href="../../../common-api-objects/audit.md"><code>audit</code></a></td><td>A reference to the Audit object. </td></tr></tbody></table>
+<table><thead><tr><th width="152">Field</th><th width="150">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>(Read-only) The business identifier of the terms variant. </td></tr><tr><td><code>href</code></td><td>string</td><td>(Read-only) The resource URI of the terms variant. </td></tr><tr><td><code>type</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>Terms Item type. The possible values are <code>Online</code> or <code>File</code>.</td></tr><tr><td><code>name</code></td><td>string, core</td><td>The name of the term's variant. </td></tr><tr><td><code>description</code></td><td>string, core</td><td>The description of the term's variant. </td></tr><tr><td><code>assetUrl</code></td><td>string, core</td><td>The URL of the terms item uploaded document or online document/resource. </td></tr><tr><td><code>languageCode</code></td><td>string, core</td><td>A 2-digit language code from the list of language codes in ISO 639 and its corresponding data format. When the type is Online, <code>null</code> will appear as <strong>multiple</strong> on the UI.</td></tr><tr><td><code>status</code></td><td>string, core</td><td><p>The status of the terms variant. Allowed values are:</p><ul><li><code>Draft</code></li><li><code>Published</code></li><li><code>Unpublished</code></li><li><code>Published</code></li></ul></td></tr><tr><td><code>program</code></td><td>object</td><td>Represents the <a href="../"><code>program</code></a> to which the term item belongs.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../../api-usage-and-reference/common-api-objects/audit.md">audit</a> object.</td></tr></tbody></table>
 
 ## Example
 
-{% tabs %}
-{% tab title="PROGRAM TERMS VARIANT OBJECT" %}
-{% code overflow="wrap" lineNumbers="true" %}
+{% code title="THE PROGRAM TERMS VARIANT OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "TCS-1234-1234-1234-1234",
@@ -38,5 +36,5 @@ This object contains the following attributes:
 }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

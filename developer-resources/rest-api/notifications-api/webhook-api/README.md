@@ -4,62 +4,83 @@ The Webhook object represents an endpoint of an external system that should be i
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="153">Field Name</th><th width="171">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The webhook's unique identifier.</p><p>Example: WBH-5433-8787</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>The relative reference to the object within the API. </p><p>Example: /notifications/webhooks/WBH-5433-8787</p></td></tr><tr><td><code>description</code></td><td>string</td><td><p>A description of the webhook.  </p><p>Example: Webhook for purchase order draft validation for Microsoft Office 365.</p></td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the webhook. Allowed values: <code>enabled</code> or <code>disabled</code>.</td></tr><tr><td><code>type</code></td><td>enum</td><td><p>Defines what the webhook is designed for. Allowed values: <code>validatePurchaseOrderDraft</code>, <code>validatePurchaseOrderQuerying</code>, <code>validateChangeOrderDraft</code>,</p><p><code>validateTerminateOrder</code>,</p><p><code>validateRequest</code>,</p><p><code>validateAccount</code>,</p><p><code>selectOrderLines</code>.</p></td></tr><tr><td><code>objectType</code></td><td>enum</td><td><p>An object that triggers the webhook event. </p><p>Allowed values:  <code>order</code>, <code>request</code>, or <code>account</code>.</p></td></tr><tr><td><code>url</code></td><td>string</td><td><p>The webhook endpoint URL. Only <code>https://</code> endpoints are allowed.</p><p>Example: https://some-api.vendor.com/order-validation</p></td></tr><tr><td><code>criteria</code></td><td>object</td><td><p>A set of key-value objects required in the webhook payload to trigger the webhook call. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ "product.id": "PRD-6233-9657-3232" }
-</code></pre></td></tr><tr><td><code>statistics</code></td><td>object (<a href="./#statistics"><code>statistics</code></a>)</td><td><p>The statistical and debug information regarding webhook executions. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-  "total": 1234,
-  "successes": 1132,
-  "failures": 101,
-  "failuresSinceLastSuccess": 2
-}
-</code></pre></td></tr><tr><td><code>lastSuccess</code></td><td>object (<a href="./#call"><code>call</code></a>)</td><td><p>The last successful call to webhook URL. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-  "success": true,
-  "callTime": "2024-12-12T11:11:11",
-  "responseTime": "2024-12-12T11:12:03",
-  "httpStatusCode": "200",
-  "reasonPhrase": "OK",
-  "headers": {
-    "Date": "Wed, 15 May 2024 10:16:56 GMT",
-  },
-  "error": null,
-  "response": { ... }
-}
-</code></pre></td></tr><tr><td><code>lastFailure</code></td><td>object (<a href="./#call"><code>call</code></a>)</td><td><p>Last failed call to webhook URL. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ 
-  "success": true,
-  "callTime": "2024-12-12T11:11:11",
-  "responseTime": "2024-12-12T11:12:03",
-  "status": "401",
-  "reasonPhrase": "Auth Error",
-  "response": "Unauthenticated",
-  "headers": {
-    "Date": "Wed, 15 May 2024 10:16:56 GMT",
-  },
-  "error": "JWT Token was invalid",
-  "response": null,
-}
-</code></pre></td></tr><tr><td><code>lastCall</code></td><td>object (<a href="./#call"><code>call</code></a>)</td><td><p>THe last call to webhook URL. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-  "success": true,
-  "callTime": "2024-12-12T11:11:11",
-  "responseTime": "2024-12-12T11:12:03",
-  "httpStatusCode": "200",
-  "reasonPhrase": "OK",
-  "headers": {
-    "Date": "Wed, 15 May 2024 10:16:56 GMT",
-  },
-  "error": null,
-  "response": { ... }
-}
-</code></pre></td></tr><tr><td><code>secret</code></td><td>string</td><td><p>The secret used for authorization in the third-party systems. It's returned only once in response to the <a href="create-webhook.md">Create Webhook</a> endpoint.</p><p>Example: 3ct^6NoryQN22V</p></td></tr><tr><td><code>account</code></td><td>object</td><td><p>A reference to the vendor <a href="../../accounts-api/"><code>account</code></a> object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-  "id": "ACC-1234-1234",
-  "href": "/accounts/accounts/ACC-1234-1234",
-  "name": "Microsoft",
-  "icon": "/static/ACC-1234-1234/account.png"
-}
-</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
+<table><thead><tr><th width="153">Field</th><th width="128">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>(Read-only) The webhook's unique identifier.</td></tr><tr><td><code>href</code></td><td>string</td><td>(Read-only) The relative reference to the object within the API. </td></tr><tr><td><code>description</code></td><td>string</td><td>A description of the webhook.  </td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the webhook. Allowed values are <code>enabled</code> or <code>disabled</code>.</td></tr><tr><td><code>type</code></td><td>enum</td><td><p>Defines what the webhook is designed for. Allowed values are: </p><ul><li><code>validatePurchaseOrderDraft</code></li><li><code>validatePurchaseOrderQuerying</code></li><li><code>validateChangeOrderDraft</code></li><li><code>validateTerminateOrder</code></li><li><code>validateRequest</code></li><li><code>validateAccount</code></li><li><code>selectOrderLines</code></li></ul></td></tr><tr><td><code>objectType</code></td><td>enum</td><td><p>Object that triggers the webhook event. Allowed values are </p><ul><li><code>Order</code></li><li><code>Request</code></li><li><code>Account</code></li></ul></td></tr><tr><td><code>url</code></td><td>string</td><td>The webhook endpoint URL. Only <code>https://</code> endpoints are allowed.</td></tr><tr><td><code>criteria</code></td><td>object</td><td>(Read-only) A set of key-value objects required in the webhook payload to trigger the webhook call. </td></tr><tr><td><code>statistics</code></td><td>object</td><td>(Read-only) Represents the <a href="./#statistics"><code>statistics</code></a> object containing statistical and debug information regarding webhook executions. </td></tr><tr><td><code>lastSuccess</code></td><td>object</td><td>(Read-only) Represents the <a href="./#call"><code>call</code></a> object containing the last successful call to the webhook URL. </td></tr><tr><td><code>lastFailure</code></td><td>object</td><td>(Read-only) Represents the <a href="./#call"><code>call</code></a> object with details of the last failed call to the webhook URL. </td></tr><tr><td><code>lastCall</code></td><td>object</td><td>(Read-only) Represents the <a href="./#call"><code>call</code></a> object with details of the last call to the webhook URL. </td></tr><tr><td><code>secret</code></td><td>string</td><td>The secret used for authorization in the third-party systems. It's returned only once in response to the <a href="create-webhook.md">Create Webhook</a> endpoint.</td></tr><tr><td><code>account</code></td><td>object</td><td>(Read-only) Represents the vendor <a href="../../accounts-api/"><code>account</code></a> object. </td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
 
-## Statistics  object <a href="#statistics" id="statistics"></a>
+## Statistics object <a href="#statistics" id="statistics"></a>
 
-<table><thead><tr><th width="228.22216796875">Field Name</th><th width="127">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>total</code></td><td>number</td><td><p>The total number of calls made from the Marketplace Platform to the external system represented by the Webhook object. </p><p>Example: 77</p></td></tr><tr><td><code>successes</code></td><td>number</td><td><p>The total number of successful calls made from the Marketplace Platform to an external system represented by the Webhook object. </p><p>Example: 70</p></td></tr><tr><td><code>failures</code></td><td>number</td><td><p>The total number of failed calls made from the Marketplace Platform to an external system represented by the Webhook object. </p><p>Example: 7</p></td></tr><tr><td><code>failuresSinceLastSuccess</code></td><td>number</td><td><p>The total number of failed calls since the last successful call made by the Marketplace Platform to an external system, represented by the Webhook object. </p><p>Example: 3</p></td></tr></tbody></table>
+<table><thead><tr><th width="233.22216796875">Field</th><th width="101">Data</th><th>Description</th></tr></thead><tbody><tr><td><code>total</code></td><td>number</td><td>(Read-only) Total number of calls made from the platform to the external system represented by the Webhook object. </td></tr><tr><td><code>successes</code></td><td>number</td><td>(Read-only) Total number of successful calls made from the platform to an external system represented by the Webhook object. </td></tr><tr><td><code>failures</code></td><td>number</td><td>(Read-only) Total number of failed calls made from the platform to an external system represented by the Webhook object. </td></tr><tr><td><code>failuresSinceLastSuccess</code></td><td>number</td><td>(Read-only) Total number of failed calls since the last successful call made by the platform to an external system, represented by the Webhook object. </td></tr></tbody></table>
 
 ## Call object <a href="#call" id="call"></a>
 
-<table><thead><tr><th width="223">Field Name</th><th width="118">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>total</code></td><td>number</td><td><p>The total number of calls made from the Marketplace Platform to the external system represented by the webhook object. </p><p>Example: 77</p></td></tr><tr><td><code>successes</code></td><td>number</td><td><p>The total number of successful calls made from the Marketplace Platform to an external system represented by the webhook object. </p><p>Example: 70</p></td></tr><tr><td><code>failures</code></td><td>number</td><td><p>The total number of failed calls made from the Marketplace Platform to an external system represented by the webhook object. </p><p>Example: 7</p></td></tr><tr><td><code>failuresSinceLastSuccess</code></td><td>number</td><td><p>The total number of failed calls since the last successful call made by the Marketplace Platform to an external system, represented by the webhook object. </p><p>Example: 3</p></td></tr></tbody></table>
+<table><thead><tr><th width="245">Field</th><th width="118">Data</th><th>Description</th></tr></thead><tbody><tr><td><code>total</code></td><td>number</td><td>(Read-only) Total number of calls made from the platform to the external system represented by the webhook object. </td></tr><tr><td><code>successes</code></td><td>number</td><td>(Read-only) Total number of successful calls made from the platform to an external system represented by the webhook object. </td></tr><tr><td><code>failures</code></td><td>number</td><td>(Read-only) Total number of failed calls made from the platform to an external system represented by the webhook object. </td></tr><tr><td><code>failuresSinceLastSuccess</code></td><td>number</td><td>(Read-only) Total number of failed calls since the last successful call made by the platform to an external system, represented by the webhook object. </td></tr></tbody></table>
+
+## Example
+
+<pre class="language-json" data-title="WEBHOOK API OBJECT" data-overflow="wrap" data-line-numbers><code class="lang-json"><strong>{
+</strong>  "id": "WBH-5433-8787",
+  "href": "/notifications/webhooks/WBH-5433-8787",
+  "description": "Webhook for some products"
+  "account": {
+    "id": "ACC-7362-0233",
+    "href": "/accounts/accounts/ACC-7362-0233",
+    "name": "Adobe",
+    "icon": "/static/ACC-7362-0233/account.png"
+  },
+  "objectType": "order",
+  "type": "validatePurchaseOrderDraft",
+  "params": {
+    "product.id": "PRD-6233-9657"
+  },
+  "status": "enabled",
+  "url": "https://my-webhook.endpoint.com/validation",
+  "secret": "*******************",
+  "statistics": {
+    "total": 1234,
+    "successes": 1132,
+    "failures": 101,
+    "failuresSinceLastSuccess": 2
+  },
+  "lastSuccess": {
+    "success": true,
+    "callTime": "2024-12-12T11:11:11",
+    "responseTime": "2024-12-12T11:12:03",
+    "httpStatusCode": "200",
+    "reasonPhrase": "OK",
+    "headers": {
+      "Date": "Wed, 15 May 2024 10:16:56 GMT",
+    },
+    "error": null,
+    "response": { ... }
+  },
+  "lastFailure": {
+    "success": true,
+    "callTime": "2024-12-12T11:11:11",
+    "responseTime": "2024-12-12T11:12:03",
+    "status": "401",
+    "reasonPhrase": "Auth Error",
+    "response": "Unauthenticated",
+    "headers": {
+      "Date": "Wed, 15 May 2024 10:16:56 GMT",
+    },
+    "error": "JWT Token was invalid",
+    "response": null,
+  },
+  "lastCall": {
+    "success": true,
+    "callTime": "2024-12-12T11:11:11",
+    "responseTime": "2024-12-12T11:12:03",
+    "httpStatusCode": "200",
+    "reasonPhrase": "OK",
+    "headers": {
+      "Date": "Wed, 15 May 2024 10:16:56 GMT",
+    },
+    "error": null,
+    "response": { ... }
+  },
+  "audit": {
+    "created": { "at": "...", "by": { } },
+    "updated": { "at": "...", "by": { } }
+  },
+}
+</code></pre>
+

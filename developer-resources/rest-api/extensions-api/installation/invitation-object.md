@@ -2,7 +2,7 @@
 
 The Invitation Object enables vendors to create an invite.&#x20;
 
-<table><thead><tr><th width="158">Field Name</th><th width="133">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>extension</td><td>object</td><td><p>The selected <a href="../extension/">extension</a>. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="158">Field</th><th width="133">Type</th><th>Description</th></tr></thead><tbody><tr><td>extension</td><td>object</td><td><p>The selected <a href="../extension/">extension</a>. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
     "id": "EXT-1111-1111",
     "href": "/extensions/EXT-1111-1111-1111",
     "name": "Adobe Acrobat",
@@ -13,7 +13,7 @@ The Invitation Object enables vendors to create an invite.&#x20;
 }
 </code></pre></td></tr><tr><td>externalId</td><td>string</td><td><p>External Id correlated with invitation. </p><p>Example: 1256-8765-8456</p></td></tr><tr><td>url</td><td>string</td><td><p>Invitation code URL. </p><p>Example: <code>65221ec9-efa3-4d82-a155-6b01134c1651-3fd6222c-0cc0-4c3d-b128-4ab24f6b7bcc</code></p></td></tr></tbody></table>
 
-### Example response <a href="#example" id="example"></a>
+### Sample response <a href="#example" id="example"></a>
 
 {% code lineNumbers="true" %}
 ```json

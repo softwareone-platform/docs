@@ -1,14 +1,14 @@
 # Instance
 
-<table><thead><tr><th width="149">Field Name</th><th width="168">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>Primary instance identifier.</p><p>Example: INS-1234-1234-0001</p></td></tr><tr><td><code>extension</code></td><td><a href="../extension/">extension</a></td><td>The related <a href="../extension/"><code>extension</code></a>. </td></tr><tr><td><code>version</code></td><td>string</td><td><p>The version of the extension code this instance is running as provided by the instance itself. </p><p>Example: version123</p></td></tr><tr><td><code>meta</code></td><td>extensionMeta</td><td>Extension metadata of the instance. </td></tr><tr><td><code>channel</code></td><td>object</td><td>A reference to the <a href="./#channel-object"><code>channel</code></a> object. </td></tr><tr><td><code>status</code></td><td>string</td><td>The status of the extension instance. Allowed values:  <code>connecting</code>, <code>running</code>, <code>disconnected</code>, or <code>deleted</code>.</td></tr><tr><td><code>externalId</code></td><td>string</td><td>Identifier of the currently running instance. It must be logically unique for a given Extension (excluding Deleted instances).</td></tr><tr><td><code>audit</code></td><td>object</td><td> A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
+<table><thead><tr><th width="149">Field</th><th width="158">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>(Read-only) The primary identifier for the instance.</td></tr><tr><td><code>extension</code></td><td>object</td><td>(Read-only) Represents the related <a href="../extension/"><code>extension</code></a>. </td></tr><tr><td><code>version</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>Represents the version of the extension code that this instance is running, as reported by the instance itself.</td></tr><tr><td><code>meta</code></td><td>object</td><td>Represents the <code>extensionMeta</code> object which contains the extension metadata of the instance. </td></tr><tr><td><code>channel</code></td><td>object</td><td>(Read-only) Represents the <a href="./#channel-object"><code>channel</code></a> object. </td></tr><tr><td><code>status</code></td><td>string, core</td><td><p>The status of the extension instance. Allowed values are: </p><ul><li><code>Connecting</code></li><li><code>Running</code></li><li><code>Disconnected</code></li><li><code>Deleted</code></li></ul></td></tr><tr><td><code>externalId</code></td><td>string</td><td>(Read-only) Identifier of the currently running instance. It must be logically unique for a given Extension (excluding Deleted instances).</td></tr><tr><td><code>audit</code></td><td>object</td><td> Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
 
-### Channel object <a href="#channel-object" id="channel-object"></a>
+## Channel object <a href="#channel-object" id="channel-object"></a>
 
-<table><thead><tr><th width="151">Field</th><th width="207">Type</th><th>Description</th></tr></thead><tbody><tr><td>identity</td><td>object</td><td>Ziti identity</td></tr></tbody></table>
+<table><thead><tr><th width="151">Field</th><th width="193">Type</th><th>Description</th></tr></thead><tbody><tr><td>identity</td><td>object</td><td>(Read‑only) Represents the Ziti identity.</td></tr></tbody></table>
 
-### Example response <a href="#example" id="example"></a>
+## Example <a href="#example" id="example"></a>
 
-{% code lineNumbers="true" %}
+{% code title="INSTANCE OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
  {
     "id": "INS-1234-1234-0001",
@@ -28,3 +28,5 @@
  }
 ```
 {% endcode %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

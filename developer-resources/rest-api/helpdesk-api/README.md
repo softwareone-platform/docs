@@ -4,11 +4,19 @@ The **Helpdesk API** is a REST API used by the Marketplace Platform that allows 
 
 * Create and manage support cases.
 * Transition the case state to querying, processing, or completed.
-* Create, retrieve, and manage feedback entries as well as attachments.
+* Create, retrieve, and manage feedback entries and attachments.
 * Configure forms, parameters, and parameter groups to define what data is collected when someone raises a case/feedback.
 * Use queues to manage how cases are routed.
 
-## Core Concepts
+## Before you start <a href="#before-you-start" id="before-you-start"></a>
+
+Review the shared API docs before you work with helpdesk resources.
+
+* [Authentication](https://docs.platform.softwareone.com/~/changes/476/developer-resources/api-reference)
+* [URL structure](https://docs.platform.softwareone.com/~/changes/476/developer-resources/guides/url-structure)
+* [Error handling](https://docs.platform.softwareone.com/~/changes/476/developer-resources/guides/errors-handling)
+
+## Core resources
 
 The Helpdesk API is built around the following core resources:
 
@@ -18,36 +26,144 @@ The Helpdesk API is built around the following core resources:
 * **Form** - Represents a configurable questionnaire used to collect onboarding information.
 * **Queue** - Represents a logical grouping of cases that share similar business problems. Queues can be created for specific purposes, such as customer onboarding, billing issues, or any other business scenario deemed relevant by the operator.
 
-## Collections
+## Browse collections
 
-The API is organized into collections, each containing a set of operations. Access to these operations varies by role, depending on whether you are a `client`, `vendor`, or `operations` user.&#x20;
+The API is organized into collections, each containing a set of operations. Access to these operations varies by role, depending on whether you are a `client`, `vendor`, or `operations` user.
 
-Refer to the following capability matrix to see which roles are authorized to perform specific operations within each collection:
+Use the following links to jump to the collection you need:
 
-### Cases
+* [Case](./#case)
+* [Chat](./#chat)
+* [Feedback](./#feedback)
+* [Form](./#form)
+* [Parameter Definition](./#parameter-definition)
+* [Parameter Group](./#parameter-group)
+* [Queue ](./#queue)
 
-<table data-full-width="false"><thead><tr><th width="287">Capability</th><th>Client</th><th>Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List all cases</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get case</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create case</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update case</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Set case status to querying</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Set case status to processing</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Set case status to completed</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
+### Case
+
+<details>
+
+<summary>View Case operations</summary>
+
+| Operation                              | Method | Description                                 | Access              |
+| -------------------------------------- | ------ | ------------------------------------------- | ------------------- |
+| [Create case](case/create-case.md)     | POST   | Creates a new support case.                 | vendor, client, ops |
+| [Complete case](case/complete-case.md) | POST   | Sets a support case to _Completed_ status.  | vendor, client, ops |
+| [Process case](case/process-case.md)   | POST   | Sets a support case to _Processing_ status. | vendor, client, ops |
+| [Query case](case/query-case.md)       | POST   | Sets a support case to _Querying_ status.   | vendor, client, ops |
+| [List cases](case/list-cases.md)       | GET    | Gets a list of support cases.               | vendor, client, ops |
+| [Get case by id](case/get-case.md)     | GET    | Gets a support case by id.                  | vendor, client, ops |
+| [Update case](case/update-case.md)     | PUT    | Updates an existing support case.           | vendor, client, ops |
+
+</details>
 
 ### Chat
 
-<table data-full-width="false"><thead><tr><th width="287">Capability</th><th>Client</th><th>Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>Create chat</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>List all chats</td><td>❌</td><td>❌</td><td>✅</td></tr><tr><td>Get chat</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update chat</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>List chat participants</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get chat participant</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create participant</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update participant</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Leave chat</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>List chat messages</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create chat message</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update chat message</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Delete chat message</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>List chat attachments</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get chat attachment</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Add chat attachment</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update chat attachment</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Delete chat attachment</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>List links in a chat</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update chat link</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create chat link</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Delete chat link</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
+<details>
+
+<summary>View Chat operations</summary>
+
+| Operation                                                  | Method | Description                                                                       | Access              |
+| ---------------------------------------------------------- | ------ | --------------------------------------------------------------------------------- | ------------------- |
+| [Create chat](chat/create-chat.md)                         | POST   | Creates a new chat with an icon using multipart form data.                        | vendor, client, ops |
+| [List chats](chat/list-chats.md)                           | GET    | Gets a list of chats with support for filtering, sorting, and pagination.         | ops                 |
+| [Get chat by id](chat/get-chat.md)                         | GET    | Retrieves a chat by id; supports selecting specific fields.                       | vendor, client, ops |
+| [Update chat](chat/update-chat.md)                         | PUT    | Updates an existing chat and allows replacing its icon using multipart form data. | vendor, client, ops |
+| [Add chat participants](chat/add-chat-participants.md)     | POST   | Adds new chat participants.                                                       | vendor, client, ops |
+| [List chat participants](chat/list-chat-participants.md)   | GET    | Gets a list of chat participants.                                                 | vendor, client, ops |
+| [Get chat participant by id](chat/get-chat-participant.md) | GET    | Gets a chat participant.                                                          | vendor, client, ops |
+| [Update chat participant](chat/update-chat-participant.md) | PUT    | Updates an existing chat participant.                                             | vendor, client, ops |
+| [Remove chat participant](chat/remove-chat-participant.md) | DELETE | Removes a participant from the chat.                                              | vendor, client, ops |
+| [Add chat attachments](chat/add-chat-attachment.md)        | POST   | Adds attachments to an existing chat.                                             | vendor, client, ops |
+| [Update chat attachment](chat/update-chat-attachment.md)   | PUT    | Updates chat attachment data.                                                     | vendor, client, ops |
+| [Delete chat attachment](chat/delete-chat-attachment.md)   | DELETE | Deletes a chat attachment by id.                                                  | vendor, client, ops |
+| [Create chat link](chat/create-chat-link.md)               | POST   | Creates a new link.                                                               | vendor, client, ops |
+| [List chat links](chat/list-chat-links.md)                 | GET    | Gets a list of chat links.                                                        | vendor, client, ops |
+| [Update chat link](chat/update-chat-link.md)               | PUT    | Updates a chat link.                                                              | vendor, client, ops |
+| [Delete chat link](chat/delete-chat-link.md)               | DELETE | Deletes a chat link by id.                                                        | vendor, client, ops |
+
+</details>
 
 ### Feedback
 
-<table data-full-width="false"><thead><tr><th width="284">Capability</th><th>Client</th><th>Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List feedback</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get feedback by ID</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create feedback</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update feedback</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update status to reviewed</td><td>❌</td><td>❌</td><td>✅</td></tr><tr><td>Create feedback attachment</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>List attachments for feedback</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get attachment by ID for feedback</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update attachment by ID</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Delete feedback attachment</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Delete feedback</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
+<details>
 
-### Forms
+<summary>View Feedback operations</summary>
 
-<table data-full-width="false"><thead><tr><th width="284">Capability</th><th>Client</th><th>Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List all forms</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get form</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create form</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update form</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Publish form</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Unpublish form</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Delete form</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
+| Operation                                                            | Method | Description                                                                   | Access              |
+| -------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------- | ------------------- |
+| [Create feedback](feedback/create-feedback.md)                       | POST   | Creates a new feedback entry with attachments using multipart form data.      | vendor, client, ops |
+| [List feedback](feedback/list-feedback.md)                           | GET    | Gets a list of feedback entries; supports filtering, sorting, and pagination. | vendor, client, ops |
+| [Get feedback by id](feedback/get-feedback.md)                       | GET    | Retrieves a feedback entry by id; supports selecting specific fields.         | vendor, client, ops |
+| [Update feedback](feedback/update-feedback.md)                       | PUT    | Updates an existing feedback entry.                                           | vendor, client, ops |
+| [Delete feedback](feedback/delete-feedback.md)                       | DELETE | Deletes a feedback entry by id.                                               | vendor, client, ops |
+| [Review feedback](feedback/review-feedback.md)                       | POST   | Marks a feedback entry as reviewed.                                           | ops                 |
+| [Add feedback attachment](feedback/add-feedback-attachment.md)       | POST   | Adds attachments to an existing feedback.                                     | vendor, client, ops |
+| [List feedback attachments](feedback/list-feedback-attachments.md)   | GET    | Gets attachments for a feedback entry.                                        | vendor, client, ops |
+| [Get feedback attachment](feedback/get-feedback-attachment.md)       | GET    | Gets a feedback attachment by id.                                             | vendor, client, ops |
+| [Delete feedback attachment](feedback/delete-feedback-attachment.md) | POST   | Deletes a feedback attachment by id.                                          | vendor, client, ops |
 
-### Queues
+</details>
 
-<table data-full-width="false"><thead><tr><th width="284">Capability</th><th>Client</th><th>Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List all queues</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get queue</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create queue</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update queue</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Activate queue</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Disable queue</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Delete queue</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
+### Form
+
+<details>
+
+<summary>View Form operations</summary>
+
+| Operation                                | Method | Description               | Access              |
+| ---------------------------------------- | ------ | ------------------------- | ------------------- |
+| [Create form](form/create-form.md)       | POST   | Creates a new form.       | vendor, client, ops |
+| [List forms](form/list-forms.md)         | GET    | Gets a list of forms.     | vendor, client, ops |
+| [Get form by id](form/get-form.md)       | GET    | Retrieves a form by id.   | vendor, client, ops |
+| [Update form](form/update-form.md)       | PUT    | Updates an existing form. | vendor, client, ops |
+| [Delete form](form/delete-form.md)       | DELETE | Deletes a form by id.     | vendor, client, ops |
+| [Publish form](form/publish-form.md)     | POST   | Publishes a form.         | vendor, client, ops |
+| [Unpublish form](form/unpublish-form.md) | POST   | Unpublishes a form.       | vendor, client, ops |
+
+</details>
 
 ### Parameter Definition
 
-<table data-full-width="false"><thead><tr><th width="282">Capability</th><th>Client</th><th>Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List all parameters in helpdesk</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get parameter </td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create parameter definition</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update parameter definition</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Delete parameter definition</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
+<details>
 
-### Parameter Groups
+<summary>View Parameter Definition operations</summary>
 
-<table data-full-width="false"><thead><tr><th width="332">Capability</th><th width="160">Client</th><th width="140">Vendor</th><th>Operations</th></tr></thead><tbody><tr><td>List all parameter groups defined in Helpdesk</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get parameter group</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Create parameter group</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Update parameter group</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Delete parameter group</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get all parameters within a parameter group</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Get parameter within a parameter group</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Adds parameter to parameter group</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Updates a parameter’s display order within parameter group</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Remove parameter from parameter group</td><td>✅</td><td>✅</td><td>✅</td></tr></tbody></table>
+| Operation                                                                          | Method | Description                               | Access              |
+| ---------------------------------------------------------------------------------- | ------ | ----------------------------------------- | ------------------- |
+| [Create parameter definition](parameter-definition/create-parameter-definition.md) | POST   | Creates a new parameter definition.       | client, vendor, ops |
+| [List parameters definition](parameter-definition/list-parameter-definition.md)    | GET    | Gets a list of parameter definitions.     | client, vendor, ops |
+| [Get parameter definition by id](parameter-definition/get-parameter-definition.md) | GET    | Retrieves a parameter definition by id.   | client, vendor, ops |
+| [Update parameter definition](parameter-definition/update-parameter-definition.md) | PUT    | Updates an existing parameter definition. | client, vendor, ops |
+| [Delete parameter definition](parameter-definition/delete-parameter-definition.md) | DELETE | Deletes an existing parameter definition. | client, vendor, ops |
+
+</details>
+
+### Parameter Group
+
+<details>
+
+<summary>View Parameter Group operations</summary>
+
+<table><thead><tr><th>Operation</th><th width="118">Method</th><th>Description</th><th>Access</th></tr></thead><tbody><tr><td><a href="parameter-group/create-parameter-group.md">Create parameter group</a></td><td>POST</td><td>Creates a new parameter group from the request payload.</td><td>client, vendor, ops</td></tr><tr><td><a href="parameter-group/list-parameter-group.md">List parameter groups</a></td><td>GET</td><td>Gets a list of parameter groups.</td><td>client, vendor, ops</td></tr><tr><td><a href="parameter-group/get-parameter-group.md">Get parameter group by id</a></td><td>GET</td><td>Retrieves a parameter group by id.</td><td>client, vendor, ops</td></tr><tr><td><a href="parameter-group/update-parameter-group.md">Update parameter group</a></td><td>PUT</td><td>Updates an existing parameter group.</td><td>client, vendor, ops</td></tr><tr><td><a href="parameter-group/delete-parameter-group.md">Delete parameter group</a></td><td>DELETE</td><td>Deletes an existing parameter group by id.</td><td>client, vendor, ops</td></tr><tr><td><a href="parameter-group/add-parameter-to-group.md">Add parameter to group</a></td><td>POST</td><td>Adds a parameter to a parameter group.</td><td>client, vendor, ops</td></tr><tr><td><a href="parameter-group/list-parameters-in-a-parameter-group.md">List group parameters</a></td><td>GET</td><td>Lists parameters in a parameter group.</td><td>client, vendor, ops</td></tr><tr><td><a href="parameter-group/get-parameter-in-a-parameter-group.md">Get parameter in a parameter group</a></td><td>GET</td><td>Retrieves a parameter within a parameter group by id.</td><td>client, vendor, ops</td></tr><tr><td><a href="parameter-group/update-parameter-in-group.md">Update parameter in group</a></td><td>PUT</td><td>Updates a parameter’s display order within a group.</td><td>client, vendor, ops</td></tr><tr><td><a href="parameter-group/remove-parameter-from-group.md">Remove parameter from group</a></td><td>DELETE</td><td>Removes a parameter from a parameter group.</td><td>client, vendor, ops</td></tr></tbody></table>
+
+</details>
+
+### Queue
+
+<details>
+
+<summary>View Queue operations</summary>
+
+| Operation                                 | Method | Description                        | Access              |
+| ----------------------------------------- | ------ | ---------------------------------- | ------------------- |
+| [Create queue](queue/create-queue.md)     | POST   | Creates a new queue.               | vendor, client, ops |
+| [List queues](queue/list-queues.md)       | GET    | Gets a list of queues.             | vendor, client, ops |
+| [Get queue by id](queue/get-queue.md)     | GET    | Retrieves a queue by id.           | vendor, client, ops |
+| [Update queue](queue/update-queue.md)     | PUT    | Updates an existing queue.         | vendor, client, ops |
+| [Delete queue](queue/delete-queue.md)     | DELETE | Deletes an existing queue by id.   | vendor, client, ops |
+| [Activate queue](queue/activate-queue.md) | POST   | Sets the queue status to active.   | vendor, client, ops |
+| [Disable queue](queue/disable-queue.md)   | POST   | Sets the queue status to disabled. | vendor, client, ops |
+
+</details>

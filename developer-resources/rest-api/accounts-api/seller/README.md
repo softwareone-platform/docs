@@ -4,7 +4,7 @@ The Seller object represents a seller in the Marketplace platform.&#x20;
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table data-full-width="false"><thead><tr><th width="135">Field Name</th><th width="130">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The primary seller identifier.</p><p>Example: SEL-1234-1234</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>The relative reference to the object in the API.</p><p>Example: /v1/accounts/sellers/SEL-1234-1234</p></td></tr><tr><td><code>status</code></td><td>string</td><td>The seller's status. Allowed values: <code>active</code>, <code>disabled</code>, <code>offline</code> , or <code>deleted</code>.</td></tr><tr><td><code>name</code></td><td>string</td><td><p>The seller's name.</p><p>Example: SoftwareOne USA</p></td></tr><tr><td><code>icon</code></td><td>string</td><td><p>The relative path to the seller’s logo.</p><p>Example: /static/accounts/SEL-1234-1234/logo.png</p></td></tr><tr><td><code>externalId</code></td><td>string</td><td><p>The external identifier.</p><p>Example: WW-CON-123456</p></td></tr><tr><td><code>address</code></td><td>object</td><td><p>The <a href="../../common-api-objects/address.md"><code>address</code></a> of the seller.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="166">Field</th><th width="154">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only)  Primary identifier for the seller.</td></tr><tr><td><code>status</code></td><td>string</td><td><p>The seller's status. Allowed values: </p><ul><li><code>Active</code></li><li><code>Disabled</code></li><li><code>Offline</code> </li><li><code>Deleted</code></li></ul></td></tr><tr><td><code>name</code></td><td>string, core</td><td>The name of the seller.</td></tr><tr><td><code>icon</code></td><td>string</td><td>(Optional) The relative path to the seller’s logo.</td></tr><tr><td><code>externalId</code></td><td>string, core</td><td>The external identifier.</td></tr><tr><td><code>address</code></td><td>object</td><td><p>The <a href="../../../api-usage-and-reference/common-api-objects/address.md"><code>address</code></a> of the seller.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "addressLine1": "123 Main Street",
   "addressLine2": "Apt 4B",
   "postCode": "12345",
@@ -12,36 +12,36 @@ The Seller object represents a seller in the Marketplace platform.&#x20;
   "state": "S",
   "country": "ST"
 }
-</code></pre></td></tr><tr><td><code>currency</code></td><td>string</td><td>The seller's currency.</td></tr><tr><td><code>buyers</code></td><td>object</td><td>A reference to the <a href="../buyer/#buyer-object"><code>buyer</code></a> object.</td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
+</code></pre></td></tr><tr><td><code>currency</code></td><td>string</td><td>The currency of the seller.</td></tr><tr><td><code>buyers</code></td><td>object</td><td>Represents the <a href="../buyer/#buyer-object"><code>buyer</code></a> object.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
 
-## Example response
+## Examples
 
 {% tabs %}
-{% tab title="SHORT FORM" %}
-{% code lineNumbers="true" %}
+{% tab title="MINIMAL EXAMPLE" %}
+{% code title="SELLER OBJECT" lineNumbers="true" %}
 ```json
 {
-	"id": "SEL-7295-4834",
-	"externalId": "SWO_CH",
-	"status": "Active",
-	"icon": null,
-	"currency": "USD",
-	"address": {
-		"addressLine1": "Some street",
-		"addressLine2": null,
-		"postCode": "P0S C0D3",
-		"city": "Some city",
-		"state": "SS",
-		"country": "CH"
-	},
-	"name": "SoftwareOne AG"
+  "id": "SEL-7295-4834",
+  "externalId": "SWO_CH",
+  "status": "Active",
+  "icon": null,
+  "currency": "USD",
+  "address": {
+    "addressLine1": "Some street",
+    "addressLine2": null,
+    "postCode": "P0S C0D3",
+    "city": "Some city",
+    "state": "SS",
+    "country": "CH"
+  },
+  "name": "SoftwareOne AG"
 }
 ```
 {% endcode %}
 {% endtab %}
 
-{% tab title="FULL EXAMPLE" %}
-{% code lineNumbers="true" %}
+{% tab title="COMPLETE EXAMPLE" %}
+{% code title="THE SELLER OBJECT" lineNumbers="true" %}
 ```json
 {
 	"id": "SEL-7295-4834",
@@ -93,3 +93,5 @@ The Seller object represents a seller in the Marketplace platform.&#x20;
 {% endcode %}
 {% endtab %}
 {% endtabs %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

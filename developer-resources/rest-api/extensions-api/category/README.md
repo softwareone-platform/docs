@@ -1,12 +1,12 @@
 # Category
 
-The Category Object enables the operator to add, view delete category object.
+The Category Object enables the operator to add, view, or delete a category object.
 
-<table><thead><tr><th width="169">Field Name</th><th width="116">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The ID of the category object. </p><p>Example: EXC-0001</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the category object. </p><p>Example: Automotive</p></td></tr><tr><td><code>description</code></td><td>string</td><td><p>The description of the category object. </p><p>Example: Build a solid foundation with the support of workplace specialists who take the time to understand your unique business needs.</p></td></tr><tr><td><code>status</code></td><td>enum</td><td>Indicates the status of the category. Allowed values:  <code>active</code> or <code>disabled</code>.</td></tr><tr><td><code>revision</code></td><td>integer</td><td><p>The revision number of the category. </p><p>Example: 1</p></td></tr><tr><td><code>audit</code></td><td>object</td><td> A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
+<table><thead><tr><th width="169">Field</th><th width="116">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>The ID of the category object. </td></tr><tr><td><code>name</code></td><td>string</td><td>Name of the category object. </td></tr><tr><td><code>description</code></td><td>string</td><td>A description of the category object. </td></tr><tr><td><code>status</code></td><td>enum</td><td>Indicates the status of the category. Allowed values are  <code>active</code> or <code>disabled</code>.</td></tr><tr><td><code>revision</code></td><td>integer</td><td>The revision number of the category. </td></tr><tr><td><code>audit</code></td><td>object</td><td> Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
 
-### Example response <a href="#example" id="example"></a>
+## Example <a href="#example" id="example"></a>
 
-{% code lineNumbers="true" %}
+{% code title="CATEGORY OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
  {
     "id": "EXC-0001",

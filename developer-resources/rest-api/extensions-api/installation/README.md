@@ -4,35 +4,13 @@ The Installation Object allows you to add, view, and delete installation objects
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="143">Field Name</th><th width="158">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td><p>The identifier for the primary installation. </p><p>Example: EXI-1234-1234-0001</p></td></tr><tr><td>extension</td><td>object</td><td>The <a href="../extension/"><code>extension</code></a> to which the installation item belongs. </td></tr><tr><td>status</td><td>enum</td><td>The status of the installation. Allowed values:  <code>installed</code>, <code>uninstalled</code>, <code>invited</code>, or <code>expired</code>.</td></tr><tr><td>configuration</td><td><code>JsonColumn</code> (encrypted)</td><td><p>A set of key values parameters required for extension. Some values can be sensitive, so those must be hidden. This field is available only if retrieved with the extension’s token or vendor token. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-   "adobe_secret": "***",
-   "mpt_token": "***",
-   "vendor": "ACC-123-123"
-}
-</code></pre></td></tr><tr><td>account</td><td>object</td><td><p>A reference to the vendor account object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-<strong>    "id": "ACC-1234-1234",   
-</strong>    "name": "Microsoft",
-    "icon": "/static/ACC-1234-1234/account.png"
-}
-</code></pre></td></tr><tr><td>invitation</td><td>object</td><td><p><a href="invitation-object.md">invitation</a> information. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
-  "url": "https://client.softwareone.com/accept-invite?code=invitationCode",
-  "status": "Invited"
-}
-</code></pre></td></tr><tr><td>modules</td><td>object</td><td><p>The list of modules the user gave consent to. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
- {
-   "id": "MOD-123"
- },
- {
-   "id": "MOD-433"
- }
-]
-</code></pre></td></tr><tr><td>audit</td><td>object</td><td> A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
+<table><thead><tr><th width="162">Field</th><th width="159">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>(Read-only) The identifier for the primary installation. </td></tr><tr><td>extension</td><td>object</td><td>(Read-only) The <a href="../extension/"><code>extension</code></a> to which the installation item belongs. </td></tr><tr><td>status</td><td>enum, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td><p>The status of the installation. Allowed values are:</p><ul><li><code>Installed</code></li><li><code>Uninstalled</code></li><li><code>Invited</code></li><li><code>Expired</code></li></ul></td></tr><tr><td>configuration</td><td><code>JsonColumn</code> (encrypted)</td><td>(Read‑only) A set of key–value parameters required by the extension. Some values may be sensitive and must be hidden. This field is available only when retrieved using the extension’s token or a vendor token.</td></tr><tr><td>account</td><td>object</td><td>Represents the vendor account object. </td></tr><tr><td>invitation</td><td>object</td><td>(Read-only) Represents the <a href="invitation-object.md"><code>invitation</code></a> object, which contains the invitation information. </td></tr><tr><td>modules</td><td>object</td><td>Represents the list of modules the user has given consent to.</td></tr><tr><td>audit</td><td>object</td><td> Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
 
-### Example response <a href="#example" id="example"></a>
+## Example <a href="#example" id="example"></a>
 
-{% code lineNumbers="true" %}
+{% code title="INSTALLATION OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
-  {
+ {
     "id": "EXI-1234-1234-0001",
     "extension": {
       "id": "EXT-6822-9898-4256",
@@ -58,3 +36,5 @@ The Installation Object allows you to add, view, and delete installation objects
  }
 ```
 {% endcode %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

@@ -4,7 +4,7 @@ description: Learn about the different states of an API token.
 
 # Token states
 
-An API token allows you to authenticate requests to the [REST API](../../../developer-resources/rest-api/).
+An API token allows you to authenticate requests to the [REST API](/broken/pages/c48wsZ6OnZim0prmKKFx).
 
 A token can be in one of these states: **Active**, **Disabled**, or **Deleted**. The following diagram shows the transitions between these states:
 

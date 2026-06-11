@@ -4,17 +4,11 @@ The Template object provides functionality for templates to be made and automati
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="120">Field Name</th><th width="129">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The template's ID.</p><p>Example: TPL-1234-5678</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>A relative reference to the object in the API.</p><p>Example: v1/products/PRD-1234-1234/templates/TPL-1234-5678-0001</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the template.</p><p>Example: Thank you for your interest.</p></td></tr><tr><td><code>type</code></td><td>string</td><td><p>The type of template.</p><p>Example: RequestProcessing</p></td></tr><tr><td><code>content</code></td><td>string</td><td><p>The content of the template.</p><p>Example:</p><pre class="language-html" data-overflow="wrap"><code class="lang-html">&#x3C;p>We are delighted that you have contacted us at SoftwareOne. Your interest in the Microsoft 365 Online Services product is greatly valued, and we are here to provide all the support you need. Our dedicated team is actively working on your query, and we are committed to responding within 24 hours. \n Thank you!!!&#x3C;p>
-</code></pre></td></tr><tr><td><code>default</code></td><td>boolean</td><td><ul><li>Each product has 4 defaults automatically generated upon product creation (against each status).</li><li>Each template automatically created has a default system message that the client account will need to update.</li><li>The default cannot be deleted, but non-default can be deleted.</li></ul><p>Example: true</p></td></tr><tr><td><code>product</code></td><td>object</td><td><p>A reference to the <a href="../product/"><code>product</code></a> object.</p><p>Example:</p><pre class="language-json" data-line-numbers><code class="lang-json">{
-    "id": "PRD-1111-1111-1111",
-    "name": "Microsoft Office 365 NCE",
-    "icon": "/static/PRD-1111-1111-1111/logo.png"
-} 
-</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
+<table><thead><tr><th width="120">Field</th><th width="129">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>(Read-only) The template's ID.</td></tr><tr><td><code>name</code></td><td>string</td><td>The name of the template.</td></tr><tr><td><code>type</code></td><td>string</td><td>The type of template.</td></tr><tr><td><code>content</code></td><td>string</td><td>The content of the template.</td></tr><tr><td><code>default</code></td><td>boolean</td><td><ul><li>Each product has 4 defaults automatically generated upon product creation (against each status).</li><li>Each template automatically created has a default system message that the client account will need to update.</li><li>The default cannot be deleted, but non-default can be deleted.</li></ul></td></tr><tr><td><code>product</code></td><td>object</td><td>Represents the <a href="../product/"><code>product</code></a> object.</td></tr><tr><td><code>audit</code></td><td>object</td><td>Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
 
-## Example response
+## Example
 
-{% code lineNumbers="true" %}
+{% code title="TEMPLATE OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "TPL-1234-5678-0001",
@@ -24,6 +18,9 @@ The Template object provides functionality for templates to be made and automati
   "isDefault": true,
   "product": {
     "id": "PRD-1234-5678-0001"
+  },
+  "externalIds": {
+    "vendor": "op-322-322",
   }
 }
 ```

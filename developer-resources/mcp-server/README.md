@@ -6,27 +6,31 @@ description: >-
 
 # Model context protocol
 
-The Marketplace MCP Server is an open-source Model Context Protocol (MCP) server designed to connect AI assistants (like Antigravity, Cursor, and Claude) to the SoftwareOne Marketplace API.
+Model Context Protocol (MCP) is an open standard that allows AI assistants to connect to external data and systems.&#x20;
 
-In simple terms: Think of it as teaching your AI assistant to "speak" the SoftwareOne Marketplace language. Once connected, you can ask questions like "_How many subscriptions do we have?_" or "_What's the status of our last order?_" and get real answers instantly, without logging into the portal.
-
-## What is the Model Context Protocol (MCP)?
-
-The Model Context Protocol (MCP) is an open standard that allows AI assistants to connect to external data and systems. Instead of building custom integrations for every tool, MCP provides a universal language for AI models to:
+Instead of building custom integrations for every tool, MCP provides a universal language for AI models to:
 
 * **Read context** – Access documents, databases, and logs.
 * **Take action** – Execute commands or query APIs on your behalf.
 * **Stay secure** – You control what the AI can see and do through explicit permissions.
 
+## Marketplace MCP server overview
+
+The Marketplace Model Context Protocol (MCP) server is an open-source MCP server designed to connect AI assistants (like Antigravity, Cursor, and Claude) to the SoftwareOne Marketplace API.
+
+In simple terms: Think of it as teaching your AI assistant to "speak" the SoftwareOne Marketplace language.&#x20;
+
+Once connected, you can ask questions like "_How many subscriptions do we have?_" or "_What's the status of our last order?_" and get real answers instantly, without logging into the portal.
+
 By using the Marketplace MCP Server, you turn the entire SoftwareOne Marketplace API into a toolset that your AI assistant understands natively.
 
-## Why use the Marketplace MCP server?
+## Core features and use cases
 
-This server eliminates the need to manually browse portals or write one-off scripts for common tasks.
+The Marketplace MCP server eliminates the need to manually browse portals or write one-off scripts for common tasks.
 
 * **Instant Answers** – Ask "_What is the status of order ORD-123?_" or "_Show me active Microsoft subscriptions_" and get immediate, accurate results without leaving your IDE.
 * **Data Exploration** – Explore available API resources and schemas interactively. Not sure what fields are on a `Product`? Just ask "_Show me the schema for catalog.products_".
-* **Automation** – Quickly generate reports or find IDs needed for your scripts/terraform configurations by asking "_List all Azure subscriptions in the US region_".
+* **Automation** – Quickly generate reports or find IDs needed for your scripts/Terraform configurations by asking "_List all Azure subscriptions in the US region_".
 
 The server is hosted and managed by SoftwareOne, so you can connect to it immediately without running any local infrastructure.
 
@@ -36,9 +40,9 @@ The server complies with our [OpenAPI Specification](https://api.platform.softwa
 
 ## Prerequisites
 
-You must have a valid API token to authenticate requests. You can generate a token from your account settings in the SoftwareOne Marketplace.
+To use the Marketplace MCP server, you must have a valid API token to authenticate requests.&#x20;
 
-If you are not sure where to find your token, contact your SoftwareOne account administrator or see [API tokens](../../modules-and-features/settings/api-tokens/).
+You can generate a token from your account settings in the SoftwareOne Marketplace. If you are not sure where to find your token, contact your SoftwareOne account administrator or see [API tokens](../../modules-and-features/settings/api-tokens/).
 
 ## Client setup
 
@@ -48,7 +52,7 @@ You can connect to the server using either the **Remote (SSE)** or **Local (stdi
 
 #### Option 1: Remote (SSE) - Recommended
 
-This method connects to the hosted SoftwareOne MCP instance. Add this to your configuration file (for example., `~/.cursor/mcp.json`).
+This method connects to the hosted SoftwareOne MCP instance. Add this to your configuration file (for example, `~/.cursor/mcp.json`).
 
 {% hint style="info" %}
 Replace `{your-token-goes-here}` with your actual Marketplace API token.
@@ -71,9 +75,11 @@ Replace `{your-token-goes-here}` with your actual Marketplace API token.
 {% endcode %}
 
 {% hint style="info" %}
-**Configuration Property Names May Vary**
+**Configuration property names**
 
-Different MCP clients use different property names for the server endpoint. Some clients, like Cursor, require the URL to be specified in the `url` field, while others, like Antigravity, may use the `serverUrl` property. The MCP standard is still emerging, and there is no common convention yet. Please consult the documentation of your specific tool for the exact property names in the configuration file—they should be similar to what's shown above, but might vary in details.
+Different MCP clients use different property names for the server endpoint. Some clients, like Cursor, require the URL to be specified in the `url` field, while others, like Antigravity, use the `serverUrl` property.&#x20;
+
+Consult the documentation of your specific tool for the exact property names in the configuration file.
 {% endhint %}
 
 #### Option 2: Local (stdio)
@@ -102,7 +108,7 @@ For clients that support server-sent events (SSE) or remote HTTP transports, use
 
 Ensure you provide the required `X-MPT-Authorization` header with your request.
 
-## What can you ask
+## Examples of questions you can ask
 
 Once connected, you can ask your AI assistant questions in plain English. The assistant will translate your questions into precise API queries.
 
@@ -126,9 +132,29 @@ Start with simple questions like "_What products are available?_" or "_Show me m
 
 ## Troubleshooting
 
-* **Authentication errors** – Double-check your `X-MPT-Authorization` header. The token should typically start with `idt:`. If you copied the token from the portal, make sure there are no extra spaces.
-* **"I don't know how to do that"** – If the assistant is unsure, ask it to "List available tools" or "Show available resources" to refresh its context.
-* **No results returned** – Try rephrasing your question. For example, instead of "Find order 123", try "Show me the order with ID ORD-123".
+<details>
+
+<summary>Authentication errors</summary>
+
+&#x20;Double-check your `X-MPT-Authorization` header. The token should typically start with `idt:`. If you copied the token from the portal, make sure there are no extra spaces.
+
+</details>
+
+<details>
+
+<summary>I don't know how to do that</summary>
+
+If the assistant is unsure, ask it to "List available tools" or "Show available resources" to refresh its context.
+
+</details>
+
+<details>
+
+<summary>No results returned</summary>
+
+Try rephrasing your question. For example, instead of "Find order 123", try "Show me the order with ID ORD-123".
+
+</details>
 
 ## Frequently asked questions
 
@@ -166,6 +192,4 @@ Anything related to your SoftwareOne Marketplace data: orders, subscriptions, pr
 
 ## Open source & contributing
 
-The server implementation is open source and available on GitHub at [softwareone-platform/mpt-mcp](https://github.com/softwareone-platform/mpt-mcp).&#x20;
-
-We welcome contributions. You can also clone the repository if you prefer to run the server locally or customize it for your needs.
+The server implementation is open source and available on GitHub at [softwareone-platform/mpt-mcp](https://github.com/softwareone-platform/mpt-mcp). We welcome contributions. You can also clone the repository if you prefer to run the server locally or customize it for your needs.

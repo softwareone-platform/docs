@@ -1,19 +1,19 @@
-# ERP Link
+# ERP link
 
 The ERP Link represents a connection between a [Buyer](../buyer/) and a [Seller ](../../../../modules-and-features/settings/sellers/)object in the Marketplace.&#x20;
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table data-full-width="false"><thead><tr><th width="144">Field Name</th><th width="123">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The primary identifier for the ERP link.</p><p>Example: ERP-1234-1234.</p></td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the object. The allowed values are <code>active</code> or <code>blocked</code>.</td></tr><tr><td><code>note</code></td><td>string</td><td></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The names of the buyer and seller.</p><p>Example: AGCO Corporation - SoftwareOne Argentina</p></td></tr><tr><td><code>externalIds</code></td><td>object</td><td><p>A reference to the <code>buyerExternalIdsObject</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table data-full-width="false"><thead><tr><th width="156">Field</th><th width="148">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) The primary identifier for the ERP link.</td></tr><tr><td><code>status</code></td><td>enum, core</td><td>(Read-only) The object's status. Allowed values are <code>active</code> or <code>blocked</code>.</td></tr><tr><td><code>note</code></td><td>string</td><td>(Optional) </td></tr><tr><td><code>name</code></td><td>string, core</td><td>(Read-only) The names of the buyer and seller. ‘{BuyerName} - {SellerName}’.</td></tr><tr><td><code>externalIds</code></td><td>object</td><td><p>A reference to the <code>buyerExternalIdsObject</code>.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
 	"erpCompanyContact": "WW-CON-123456",
 	"erpCustomer": "WW-SCU-123456",
 	"erpCustomerDiscountGroup": "WW-12345"
 }
-</code></pre></td></tr><tr><td><code>address</code></td><td>object</td><td>The <a href="../../common-api-objects/address.md"><code>address</code></a> of the buyer in the given seller instance. </td></tr><tr><td><code>companyName</code></td><td>string</td><td><p>The name of the buyer in the given seller instance.</p><p>Example: AGCO Corporation</p></td></tr><tr><td><code>buyer</code></td><td>object</td><td>A reference to the <a href="../buyer/"><code>buyer</code></a> object.</td></tr><tr><td><code>seller</code></td><td>object</td><td>A reference to the <a href="../seller/"><code>seller</code></a> object.</td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values: <code>created</code>, <code>updated</code>, <code>blocked</code>, or <code>unblocked</code>.</td></tr></tbody></table>
+</code></pre></td></tr><tr><td><code>address</code></td><td>object</td><td>The <a href="../../../api-usage-and-reference/common-api-objects/address.md"><code>address</code></a> of the buyer in the given seller instance. </td></tr><tr><td><code>companyName</code></td><td>string, core</td><td>(Read-only) The name of the buyer in the given seller instance.</td></tr><tr><td><code>buyer</code></td><td>object</td><td>(Read-only) Represents the <a href="../buyer/"><code>buyer</code></a> object.</td></tr><tr><td><code>seller</code></td><td>object</td><td>(Read-only) Represents the <a href="../seller/"><code>seller</code></a> object.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
 
-## Example response
+## Example
 
-{% code lineNumbers="true" %}
+{% code title="ERP LINK OBJECT" lineNumbers="true" %}
 ```json
 {
 	"id": "ERP-0808-7934-2576",
@@ -47,17 +47,19 @@ The ERP Link represents a connection between a [Buyer](../buyer/) and a [Seller 
 			"at": "2025-01-21T12:27:31.716Z",
 			"by": {
 				"id": "TKN-4113-7170",			
-				"name": "[DO NOT REMOVE] Navision Extension"
+				"name": "Nav Extension"
 			}
 		},
 		"updated": {
 			"at": "2025-03-10T12:45:04.479Z",
 			"by": {
 				"id": "TKN-8915-3154",				
-				"name": "Jakub Parteka Token"
+				"name": "Test Token"
 			}
 		}
 	}
 }
 ```
 {% endcode %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

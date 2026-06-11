@@ -4,7 +4,7 @@ The Category object represents a category for notifications. Emails are sent wit
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="183">Field Name</th><th width="135">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The primary identifier for the category. </p><p>Example: NTC-1234-9876</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>A relative reference to the object. </p><p>Example: /v1/notifications/categories/NTC-1234-9876</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the category. </p><p>Example: Orders</p></td></tr><tr><td><code>shortDescription</code></td><td>string</td><td><p>The short description, shown in the notification settings view for contacts. </p><p>Example: Includes updates about order confirmations, order status updates, and related communications.</p></td></tr><tr><td><code>description</code></td><td>string</td><td>Detailed description of the category to be shown on the platform. The description describes the overall purpose of this category. It can be used to include the links to our documentation for more information. </td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the category. Only published categories are visible to clients and vendors.</td></tr><tr><td><code>note</code></td><td>string</td><td>Notes that must be added to unpublish a category.</td></tr><tr><td><code>optOutAllowed</code></td><td>bool</td><td><p>Indicates if a contact can disable a notification category. </p><p>Example: true</p></td></tr><tr><td><code>statistics</code></td><td>object</td><td><p>Statistics indicating how many messages of a given category were sent today, this week, and this month. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="183">Field</th><th width="153">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) The primary identifier for the category. </td></tr><tr><td><code>href</code></td><td>string, core</td><td>(Read-only) A relative reference to the object. </td></tr><tr><td><code>name</code></td><td>string, core</td><td>The name of the category. </td></tr><tr><td><code>shortDescription</code></td><td>string, core</td><td>The short description. Displayed in the notification settings view for contacts. </td></tr><tr><td><code>description</code></td><td>string</td><td>Detailed description of the category. It describes the overall purpose of this category and can be used to include the links to our documentation for more information. </td></tr><tr><td><code>status</code></td><td>enum</td><td>The status of the category. Only published categories are visible to clients and vendors.</td></tr><tr><td><code>note</code></td><td>string</td><td>Notes to unpublish a category.</td></tr><tr><td><code>optOutAllowed</code></td><td>bool</td><td>Indicates if a contact can disable a notification category. </td></tr><tr><td><code>statistics</code></td><td>object</td><td><p>(Read-only) Statistics indicating how many messages of a given category were sent today, this week, and this month. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "messagesSent": 
   {
     "today": 22,
@@ -12,25 +12,11 @@ The Category object represents a category for notifications. Emails are sent wit
     "currentMonth": 668
   }
 }
-</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td><p>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">"created": { 
-  "at": "2023-12-14T17:28:57Z", 
-  "by": {
-    "id": "UR-1234-1234-1234",
-    "name": "John Smith",
-    "icon": "/static/users/UR-1234-1234-1234.icon.svg"
-  },
-  "of": {
-    "id": "ACC-1234-1234",
-    "href": "/accounts/accounts/ACC-1234-1234",
-    "name": "Microsoft",
-    "icon": "/static/ACC-1234-1234/account.png"
-  }
-}
-</code></pre></td></tr></tbody></table>
+</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
 
-## Example response
+## Example
 
-{% code lineNumbers="true" %}
+{% code title="CATEGORY OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "NTC-1234-9876",
@@ -67,3 +53,5 @@ The Category object represents a category for notifications. Emails are sent wit
 }
 ```
 {% endcode %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

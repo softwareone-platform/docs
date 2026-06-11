@@ -4,7 +4,7 @@ description: Learn about creating and managing API tokens in the SoftwareOne Mar
 
 # API tokens
 
-The Marketplace Platform uses API tokens to authenticate requests to the [REST API](../../../developer-resources/rest-api/).
+The Marketplace Platform uses API tokens to authenticate requests to the [REST API](/broken/pages/c48wsZ6OnZim0prmKKFx).
 
 Your API token must be included in the `Authorization` HTTP header with the **Bearer** prefix for authentication. For example, the following request could be used to retrieve a list of buyers:
 

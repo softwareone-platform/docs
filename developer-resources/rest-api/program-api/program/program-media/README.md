@@ -1,20 +1,14 @@
 # Program Media
 
-The Program Media object allows vendors to add, view, or delete media from the object. This object contains the following attributes:
+The Program Media object allows vendors to add, view, or delete media from the object.
 
-<table><thead><tr><th width="152">Field</th><th width="150">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td><code>string</code></td><td><p>The business identifier of the Media object. </p><p>Example: MED-0001-0001</p></td></tr><tr><td>name</td><td><code>string</code></td><td><p>The name of the Media object. </p><p>Example: Microsoft AI Cloud Partner</p></td></tr><tr><td>description</td><td><code>string</code></td><td><p>The description of the Media object. </p><p>Example: Build a solid foundation with the support of workplace specialists who take the time to understand your unique business needs.</p></td></tr><tr><td>type</td><td><code>string</code></td><td><p>The type of the Media object. </p><p>Example: Online</p></td></tr><tr><td>displayOrder</td><td><code>integer</code></td><td><p>The display order of the Media object.</p><p>Example: 100</p></td></tr><tr><td>status</td><td><code>string</code></td><td><p>The status of the document object. </p><p>The possible values are <code>Draft</code>, <code>Published</code>, <code>Unpublished</code>, or <code>Deleted</code>.</p></td></tr><tr><td>program</td><td><a href="../"><code>program</code></a></td><td><p>The program to which the media belongs.</p><p>Example:</p><pre class="language-json" data-overflow="wrap"><code class="lang-json">{
-    "id": "PRG-1111-1111",
-    "href": "/catalog/programs/PRG-1111-1111",
-    "name": "Microsoft AI Cloud Partner",
-    "icon": "/static/PRG-1111-1111/logo.png"
-}
-</code></pre></td></tr><tr><td>audit</td><td><code>audit</code></td><td>A reference to the Audit object. </td></tr></tbody></table>
+{% include "../../../../../.gitbook/includes/api-table-header.md" %}
+
+<table><thead><tr><th width="152">Field</th><th width="150">Type</th><th>Description</th></tr></thead><tbody><tr><td>id</td><td>string</td><td>(Read-only) The business identifier of the <code>media</code> object. </td></tr><tr><td>name</td><td>string</td><td>(Read-only) The name of the <code>media</code> object. </td></tr><tr><td>description</td><td>string</td><td>A description of the <code>media</code> object. </td></tr><tr><td>type</td><td>string</td><td>The type of the <code>media</code> object. </td></tr><tr><td>displayOrder</td><td>integer</td><td>The display order of the <code>media</code> object.</td></tr><tr><td>status</td><td>string</td><td><p>The status of the document object. Allowed values are: </p><ul><li><code>Draft</code></li><li><code>Published</code></li><li><code>Unpublished</code></li><li><code>Deleted</code></li></ul></td></tr><tr><td>program</td><td>object</td><td>Represents the <a href="../"><code>program</code></a> to which the media belongs.</td></tr><tr><td>audit</td><td>object</td><td>Represents the <a href="../../../../api-usage-and-reference/common-api-objects/audit.md"><code>a</code>udit</a> object.</td></tr></tbody></table>
 
 ## Example
 
-{% tabs %}
-{% tab title="PROGRAM MEDIA" %}
-{% code overflow="wrap" lineNumbers="true" %}
+{% code title="THE PROGRAM MEDIA OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
  {
     "id": "MED-1234-1234",
@@ -38,5 +32,3 @@ The Program Media object allows vendors to add, view, or delete media from the o
   }
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}

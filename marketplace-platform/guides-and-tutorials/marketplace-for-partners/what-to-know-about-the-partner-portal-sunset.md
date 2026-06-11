@@ -24,19 +24,19 @@ This means if you need to look up past orders or access historical billing infor
 ### What are the updates to the API
 
 * **Legacy API** - The legacy One Club API has been retired and is no longer available. All API endpoints from the legacy system have been discontinued, so if you were using the old API for integrations, you must transition to the new API.
-* **New API** - A new, modern API is now available for the Marketplace Platform. The [new API](../../../developer-resources/rest-api/openapi-specification.md) offers a modern RESTful architecture with improved security and authentication features. It also provides enhanced functionality that's fully aligned with the platform, giving you more capabilities than the legacy API.
+* **New API** - A new, modern API is now available for the Marketplace Platform. The [new API](/broken/pages/OMiosGfpPzjk7UEFqsPW) offers a modern RESTful architecture with improved security and authentication features. It also provides enhanced functionality that's fully aligned with the platform, giving you more capabilities than the legacy API.
 
 ### What to do next
 
 Now that the OneClub portal is retired, you must start using the Marketplace Platform for all your operations. Your subscriptions and agreements are already there waiting for you, so you can pick up right where you left off.
 
-If you are using APIs for integrations, take some time to review the [REST API documentation](../../../developer-resources/rest-api/). The new API is designed to be intuitive and well-documented, ensuring a straightforward transition.
+If you are using APIs for integrations, take some time to review the [REST API documentation](/broken/pages/c48wsZ6OnZim0prmKKFx). The new API is designed to be intuitive and well-documented, ensuring a straightforward transition.
 
 We understand that platform changes can be challenging, and we are committed to making this transition seamless. If you have any questions or require assistance, [Marketplace Platform Support ](../../../help-and-support/contact-support.md)is here to help you.
 
 ### Related resources
 
-* [REST API Documentation](../../../developer-resources/rest-api/)
+* [REST API Documentation](/broken/pages/c48wsZ6OnZim0prmKKFx)
 * [Getting Started Guide](../)
 * [Quickstart Guide](../quickstart-guide.md)
 * [Partner FAQs](partner-faqs.md)

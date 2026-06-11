@@ -1,5 +1,23 @@
 ---
 description: Learn what's new in this release.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Release notes v5
@@ -162,28 +180,28 @@ You can now access your sales orders and sales quotes directly in the Marketplac
 * The [Sales orders](../../modules-and-features/procurement/sales-orders/) page offers an improved way to manage your sales orders. You can narrow down orders based on specific criteria, select an order to view detailed information, and download a PDF of your sales order.&#x20;
 * The [Sales quotes reporting](../../modules-and-features/procurement/sales-quotes-reporting/) page provides a unified view of what has been quoted and what is currently in progress. From this page, you can view your pending, accepted, and historical sales quotes, along with corresponding sales orders as they move through fulfilment and billing. You can also select a quote to see details and download the sales quote PDF.
 
-For former PyraCloud users, the **Sales orders** and **Sales quotes reporting** pages provide an upgraded experience. If you previously used PyraCloud for your sales orders and quotes, you can use the new interface with enhanced search capabilities, PDF downloads, advanced filters, and the option to **Switch to classic view**.
+For former PyraCloud users, the **Sales orders** and **Sales quotes reporting** pages provide an upgraded experience. If you previously used PyraCloud for your sales orders and quotes, you can use the new interface with enhanced search capabilities, PDF downloads, advanced filters, and the option to **switch to classic view**.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Sales Quote2.png" alt=""><figcaption><p>Use the Procurement module to access your sales orders and sales quotes.</p></figcaption></figure></div>
 
 ### New APIs & Business Objects Reference
 
-You can now access platform data programmatically using our new APIs, enabling seamless integrations and automation. To view the full list of APIs, see [Explore the APIs](../../developer-resources/rest-api/#explore-the-apis-1).
+You can now access platform data programmatically using our new APIs, which enable seamless integrations and automation. To view the full list of APIs, see [Rest API](../../developer-resources/rest-api/).
 
-We've also added a centralized reference called [Business Objects & API Collection Reference](../../developer-resources/rest-api/business-objects-and-api-collection-reference.md), which lists all business objects available in the SoftwareOne Marketplace Platform REST API along with their corresponding collection endpoints. Use this reference to identify the correct object types and endpoints when designing integrations or exploring platform capabilities.
+We've also added a centralized reference called [Business objects & API collections](../../developer-resources/api-usage-and-reference/business-objects-and-api-collections.md), which lists all business objects available in the SoftwareOne Marketplace Platform REST API and their corresponding collection endpoints. Use this reference to identify the correct object types and endpoints when designing integrations or exploring platform capabilities.
 
 ### Interface & User Experience Enhancements
 
 This release includes the following Interface and filtering enhancements:
 
 * **Second-level condition group filter** - All tables (data grids) now support a second-level filter condition called **Add a conditional group**, allowing you to create advanced filters by combining multiple rules and conditions. You can access this feature by selecting the **Filter** option and choosing **Add a conditional group**. For more information, see [Customize the data grid](../../marketplace-platform/getting-started/customize-the-data-grid.md).
-* **Collapsible side navigation bar** - Where available (for example, the [Settings](../../modules-and-features/settings/) module), the side navigation bar can now be collapsed or expanded. When collapsed, the bar reduces in size to provide a more streamlined interface. When expanded, it displays all the pages within this module, enabling you to access them easily.
-* **Automatic page refresh** - The pages within the platform now refresh automatically when information changes in the system, so you no longer need to manually refresh them to see the latest updates.
+* **Collapsible side navigation bar** - Where available (for example, the [Settings](../../modules-and-features/settings/) module), the side navigation bar can now be collapsed or expanded. When collapsed, the bar reduces in size to provide a more streamlined interface. When expanded, it displays all pages within this module, providing easy access.
+* **Automatic page refresh** - All pages now refresh automatically, so you can see the latest updates.
 * **Multi-account tabs** - You can now work with multiple accounts in different browser tabs without them interfering with each other. Each tab keeps its own account, so actions in one tab won’t affect another. This enhancement applies to new modules in the SoftwareOne Marketplace only.
 
 ### Extension Improvements
 
-We’ve made several updates to our extensions, including [Microsoft CSP](../../extensions/microsoft-cloud-solution-provider/), [FinOps for Cloud](../../extensions/finops-for-cloud/), and [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/).&#x20;
+We’ve made several updates to extensions, including [Microsoft CSP](../../extensions/microsoft-cloud-solution-provider/), [FinOps for Cloud](../../extensions/finops-for-cloud/), and [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/).&#x20;
 
 Each extension has its own set of new features and enhancements designed to improve your experience and workflow. For details on what has changed in each extension, refer to their individual release notes: [Microsoft CSP release notes](../../extensions/microsoft-cloud-solution-provider/additional-resources/release-notes.md), [FinOps for Cloud release notes](https://docs.finops.softwareone.com/help-and-support/release-notes), and [Adobe VIP Marketplace release notes](../../extensions/adobe-vip-marketplace/release-notes.md)
 

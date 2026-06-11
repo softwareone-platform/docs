@@ -4,7 +4,7 @@ The Item object represents a “product item” as a transactable element of a p
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="224">Field Name</th><th width="159">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>A unique identifier for the item.</p><p>Example: ITM-0690-0539-0001</p></td></tr><tr><td><code>href</code></td><td>string</td><td><p>The resource URI of the Item.</p><p>Example: /product-items/ITM-0690-0539-0001</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the item.</p><p>Example: Microsoft 365 Apps for Business</p></td></tr><tr><td><code>description</code></td><td>string</td><td><p>A description of the item.</p><p>Example: Best for businesses that need Office apps across devices and cloud file storage. </p></td></tr><tr><td><code>externalIds</code></td><td>object</td><td><p>A reference to the <a href="./#externalids"><code>externalIds</code></a> object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="208">Field</th><th width="143">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) A unique identifier for the item.</td></tr><tr><td><code>name</code></td><td>string, core</td><td>The name of the item.</td></tr><tr><td><code>description</code></td><td>string</td><td>A description of the item.</td></tr><tr><td><code>externalIds</code></td><td>object</td><td><p>A reference to the <a href="./#externalids"><code>externalIds</code></a> object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "vendor": "ven-1233-3222",
   "operations": "op-322-322",
 }
@@ -12,31 +12,36 @@ The Item object represents a “product item” as a transactable element of a p
   "period": "1m",
   "commitment": "1y"
 }
-</code></pre></td></tr><tr><td><code>quantityNotApplicable</code></td><td>boolean</td><td><p>Indicates if the quantity isn't applicable or relevant to the product item being sold.</p><p>Example: true</p></td></tr><tr><td><code>status</code></td><td>string</td><td><p>The status of the item.</p><p>Example: Draft</p></td></tr><tr><td><code>parameters</code></td><td><a href="./#parameter">parameterValue</a></td><td><p>Captures any additional information required for a product item and is defined by item configuration parameters.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ 
+</code></pre></td></tr><tr><td><code>quantityNotApplicable</code></td><td>boolean, core</td><td>Indicates if the quantity isn't applicable or relevant to the product item being sold.</td></tr><tr><td><code>status</code></td><td>string</td><td>The status of the item. Allowed values: <code>draft</code>, <code>published</code>, or <code>unpublished</code>.</td></tr><tr><td><code>parameters</code></td><td>object</td><td><p>Captures any additional information required for a product item and is defined by item configuration parameters.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ 
   "id": "PRM-1234-1234-1234",
   "externalId": "SKU",
   "value": "65272478BB01A12"
 }
-</code></pre></td></tr><tr><td><code>group</code></td><td>object</td><td>The <a href="../item-group/"><code>itemGroup</code></a> to which the item has been assigned.</td></tr><tr><td><code>unit</code></td><td>object</td><td>The <a href="../units-of-measure/"><code>unitOfMeasure</code></a> assigned to item.</td></tr><tr><td><code>product</code></td><td>object</td><td>The <a href="../product/"><code>product</code></a> to which item is assigned.</td></tr><tr><td><code>audit</code></td><td>object</td><td>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object. Allowed values: <code>created</code>, <code>updated</code>, <code>activated</code>, or <code>terminated</code>.</td></tr></tbody></table>
+</code></pre></td></tr><tr><td><code>group</code></td><td>object</td><td>The <a href="../item-group/"><code>itemGroup</code></a> to which the item has been assigned.</td></tr><tr><td><code>unit</code></td><td>object</td><td>The <a href="../units-of-measure/"><code>unitOfMeasure</code></a> assigned to item.</td></tr><tr><td><code>product</code></td><td>object</td><td>The <a href="../product/"><code>product</code></a> to which item is assigned.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
 
 ## Parameter object <a href="#parameter" id="parameter"></a>
 
 The parameter object contains the given parameter's value and additional information, like Constraints.
 
-<table><thead><tr><th width="188">Field Name</th><th width="164">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The identifier of the parameter definition this value refers to.</p><p>Example: PDF-1234-1234-1234</p></td></tr><tr><td><code>externalId</code></td><td>string</td><td><p>The ID of the parameter in the external system.</p><p>Example: SKU</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The display name for the parameter.</p><p>Example: Stock keeping unit</p></td></tr><tr><td><code>value</code></td><td>string</td><td><p>The value of the parameter.</p><p>Example: 65272478BB01A12</p></td></tr></tbody></table>
+<table><thead><tr><th width="148">Field</th><th width="135">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>(Read-only) The identifier of the parameter definition this value refers to.</td></tr><tr><td><code>externalId</code></td><td>string</td><td>The ID of the parameter in the external system.</td></tr><tr><td><code>name</code></td><td>string</td><td>The display name for the parameter.</td></tr><tr><td><code>value</code></td><td>string</td><td>(Optional) The value of the parameter.</td></tr></tbody></table>
 
-## ExternalIds object <a href="#externalids" id="externalids"></a>
+## External Ids object <a href="#externalids" id="externalids"></a>
 
-<table><thead><tr><th width="195">Field Name</th><th width="175">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>vendor</code></td><td>string</td><td>A vendor-recognizable item identifier used to ensure the correct item is supplied when an order is placed.</td></tr></tbody></table>
+<table><thead><tr><th width="145">Field</th><th width="154">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>vendor</code></td><td>string</td><td>A vendor-recognizable item identifier used to ensure the correct item is supplied when an order is placed.</td></tr></tbody></table>
 
-## Example response
+## Example
 
-{% code lineNumbers="true" %}
+{% code title="ITEM OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
-    "id": "ITM-0690-0539-0001",
+    "id": "ITM-0690-0539-0001",    
     "name": "Microsoft 365 Online Services for Charity",
-    "description": "TestTeam",
+    "description": "Explore Microsoft 365 nonprofit solutions and technology to help your organization",
+    "terms":{
+      "model": "quantity",
+      "period": "1m",
+      "commitment": "1y"
+    }, 
     "state": "Draft",
     "parameters": [
       {
@@ -89,6 +94,7 @@ The parameter object contains the given parameter's value and additional informa
         "updated": { "at": "...", "by": { } }
     }
 }
-
 ```
 {% endcode %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

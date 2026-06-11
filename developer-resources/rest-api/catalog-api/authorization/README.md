@@ -4,47 +4,23 @@ An Authorization object is a business object that encapsulates the permissions a
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="126">Field Name</th><th width="206">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td><p>The identifier for the authorization. </p><p>Example: AUT-1234-4678</p></td></tr><tr><td><code>name</code></td><td>string</td><td><p>The name of the authorization. </p><p>Example: Salesforce Enterprise License</p></td></tr><tr><td><code>externalIds</code></td><td>object</td><td><p>A reference to the <a href="../../common-api-objects/externalids.md"><code>externalIds</code></a> object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
-    "id": "ACC-1234-1234",
-    "href": "/accounts/accounts/ACC-1234-1234",
-    "name": "Microsoft",
-    "icon": "/static/ACC-1234-1234/account.png"
-}
-</code></pre></td></tr><tr><td><code>eligibility</code></td><td>boolean</td><td>Indicates if authorization is enabled for the tier 1 program.</td></tr><tr><td><code>tier2</code></td><td>boolean</td><td>Indicates if authorization is enabled for the tier 2 program.</td></tr><tr><td><code>currency</code></td><td>string</td><td>The currency of the authorization.</td></tr><tr><td><code>notes</code></td><td>string</td><td>Optional notes for the authorization.</td></tr><tr><td><code>product</code></td><td>object</td><td><p>The <a href="../product/"><code>product</code></a> that the authorization belongs to. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{    
-  "id": "PRD-1111-1111",  
-  "name": "Microsoft Office 365 NCE",
-  "icon": "/static/PRD-1111-1111/logo.png"
-}
-</code></pre></td></tr><tr><td><code>vendor</code></td><td>object</td><td><p>The vendor <a href="../../accounts-api/account/">account</a> to which the authorization belongs. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
-  "id": "ACC-1234-1234",  
-  "name": "Microsoft",
-  "icon": "/static/ACC-1234-1234/account.png"
-}
-</code></pre></td></tr><tr><td><code>owner</code></td><td>object</td><td><p>The SoftwareOne <a href="../../accounts-api/seller/"><code>seller</code></a> entity. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
-  "id": "SEL-1234-4567", 
-  "name": "SoftwareOne, Inc."
-}
-</code></pre></td></tr><tr><td><code>statistics</code></td><td>authorizationStatistics</td><td><p>The statistics related to the authorization. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
-  "subscriptions": 5,
-  "agreements": 10,
-  "listings": 3,
-  "sellers": 2
-}
-</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td><p>A reference to the <a href="../../common-api-objects/audit.md"><code>audit</code></a> object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
-  "created": { 
-    "at": "2023-12-14T17:28:57Z", 
-    "by": { ... }
-  },
-  "updated": { 
-    "at": "2023-12-14T17:28:57Z", 
-    "by": { ... }
-  }
-}
-</code></pre></td></tr></tbody></table>
+<table><thead><tr><th width="153">Field</th><th width="146">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) The identifier for the authorization. </td></tr><tr><td><code>name</code></td><td>string, core</td><td>The name of the authorization. </td></tr><tr><td><code>externalIds</code></td><td>object, core</td><td>A reference to the <a href="../../../api-usage-and-reference/common-api-objects/externalids.md"><code>externalIds</code></a> object.</td></tr><tr><td><code>eligibility</code></td><td>boolean, core</td><td>Indicates if authorization is enabled for the tier 1 program.</td></tr><tr><td><code>journal</code></td><td>object, core</td><td>Indicates if authorization is enabled for tier 2 program.</td></tr><tr><td><code>currency</code></td><td>string, core</td><td>The currency of the authorization.</td></tr><tr><td><code>notes</code></td><td>string</td><td>(Optional) Notes for the authorization.</td></tr><tr><td><code>product</code></td><td>object</td><td>(Read-only) The <a href="../product/"><code>product</code></a> that the authorization belongs to. </td></tr><tr><td><code>vendor</code></td><td>object</td><td>(Read-only) The vendor <a href="../../accounts-api/account/">account</a> to which the authorization belongs.</td></tr><tr><td><code>owner</code></td><td>object</td><td>(Read-only) Represents the SoftwareOne <a href="../../accounts-api/seller/"><code>seller</code></a> entity. </td></tr><tr><td><code>statistics</code></td><td>object</td><td>(Read-only) Shows statistics related to the authorization. </td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object.</td></tr><tr><td><code>settings</code></td><td>string</td><td>(Optional) The settings value validated as JSON.</td></tr></tbody></table>
 
-## Example response
+## Authorization Statistics object
 
-{% code lineNumbers="true" %}
+<table><thead><tr><th width="151">Field</th><th width="138">Type</th><th>Description</th></tr></thead><tbody><tr><td>subscriptions</td><td>integer</td><td>(Read-only) Number of subscriptions assigned to the Authorization.</td></tr><tr><td>agreements</td><td>integer</td><td>(Read-only) Number of agreements assigned to the Authorization.</td></tr><tr><td>listings</td><td>integer</td><td>(Read-only) Number of listings referring to the Authorization.</td></tr><tr><td>sellers</td><td>integer</td><td>(Read-only) Number of sellers referring to the Authorization.</td></tr></tbody></table>
+
+## Authorization Journal object
+
+<table><thead><tr><th width="152">Field</th><th width="132">Type</th><th>Description</th></tr></thead><tbody><tr><td>firstInvoiceDate</td><td>datetime</td><td>First invoice data for data submitted by the vendor</td></tr><tr><td>frequency</td><td>string</td><td>The frequency at which the vendor will submit journal data.</td></tr></tbody></table>
+
+## Authorization Eligibility object
+
+<table><thead><tr><th width="147">Field</th><th width="135">Type</th><th>Description</th></tr></thead><tbody><tr><td>client</td><td>boolean</td><td>Indicates direct client</td></tr><tr><td>partner</td><td>boolean</td><td>Indicates indirect client, also called partners.</td></tr></tbody></table>
+
+## Example
+
+{% code title="AUTHORIZATION OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "AUT-1234-4678",
@@ -69,8 +45,16 @@ An Authorization object is a business object that encapsulates the permissions a
       "id": "SEL-1234-4567",        
       "name": "SoftwareOne, Inc."
   },
+  "journal": {
+    "firstInvoiceDate": "2023-12-14T17:28:57Z",
+    "frequency": "Monthly"
+  },
+  "eligibility": {
+    "client": true,
+    "partner": true
+  },
   "statistics": {
-      "subscriptions" : 5,
+      "subscriptions": 5,
       "agreements": 10,
       "listings": 4,
       "sellers": 1
@@ -96,3 +80,5 @@ An Authorization object is a business object that encapsulates the permissions a
 }
 ```
 {% endcode %}
+
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.

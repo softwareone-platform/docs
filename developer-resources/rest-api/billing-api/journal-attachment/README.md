@@ -4,11 +4,11 @@ The Journal Attachment object allows users to upload attachments to billing obje
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="134">Field Name</th><th width="144">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>URL</code></td><td>string</td><td><p>The external link to the attachment.</p><p>Example: https://address.to.journal.file.com/file.xlsx</p></td></tr><tr><td><code>id</code></td><td>string</td><td><p>The primary identifier for the billing attachment.</p><p>Example: BIA-1234-1234</p></td></tr><tr><td><code>type</code></td><td>string</td><td><p>The type of billing attachment.</p><p>Example: File</p></td></tr></tbody></table>
+<table><thead><tr><th width="134">Field</th><th width="144">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>URL</code></td><td>string</td><td>The external link to the attachment.</td></tr><tr><td><code>id</code></td><td>string</td><td>The primary identifier for the billing attachment.</td></tr><tr><td><code>type</code></td><td>string</td><td>The type of billing attachment.</td></tr></tbody></table>
 
-## Example response
+## Example
 
-{% code lineNumbers="true" %}
+{% code title="JOURNAL ATTACHMENT OBJECT" lineNumbers="true" %}
 ```json
 {
   "id": "BIA-1234-1234",
