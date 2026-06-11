@@ -1,14 +1,14 @@
 # Error
 
-The `Error` object represents an error response returned by the Marketplace API when it encounters a non-2xx HTTP response code. This object includes the following fields:
+The Error object represents an error response returned by the Marketplace API when it encounters a non-2xx HTTP response code. This object includes the following fields:
 
-<table><thead><tr><th width="140">Field Name</th><th width="130">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>title</code></td><td>string</td><td>A short description of the problem.</td></tr><tr><td><code>type</code></td><td>string</td><td>A URI reference that identifies the error type (Problem Details / RFC 7807).</td></tr><tr><td><code>status</code></td><td>number</td><td>The HTTP status code returned by the server.</td></tr><tr><td><code>details</code></td><td>string</td><td>A detailed description of the error message.</td></tr><tr><td><code>traceId</code></td><td>string</td><td>Represents an identifier used to trace a request.</td></tr><tr><td><code>errors</code></td><td>object </td><td>A detailed list of errors that can be connected to the request data.</td></tr></tbody></table>
+<table><thead><tr><th width="142">Field</th><th width="130">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>title</code></td><td>string</td><td>A short description of the problem.</td></tr><tr><td><code>type</code></td><td>string</td><td>A URI reference that identifies the error type (Problem Details / RFC 7807).</td></tr><tr><td><code>status</code></td><td>number</td><td>The HTTP status code returned by the server.</td></tr><tr><td><code>details</code></td><td>string</td><td>(Optional) A detailed description of the error message.</td></tr><tr><td><code>traceId</code></td><td>string</td><td>(Optional) Represents an identifier used to trace a request.</td></tr><tr><td><code>errors</code></td><td>object </td><td>(Optional) A detailed list of errors that can be connected to the request data.</td></tr></tbody></table>
 
 ### Examples
 
 {% tabs %}
-{% tab title="ERROR OBJECT (WITHOUT PARAMETERS)" %}
-{% code lineNumbers="true" %}
+{% tab title="EXAMPLE WITHOUT PARAMETERS" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "title": "Order update failed",
@@ -21,8 +21,8 @@ The `Error` object represents an error response returned by the Marketplace API 
 {% endcode %}
 {% endtab %}
 
-{% tab title="ERROR OBJECT (WITH PARAMETERS)" %}
-{% code lineNumbers="true" %}
+{% tab title="EXAMPLE WITH PARAMETERS" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
  {
   "title": "Order update failed",

@@ -1,12 +1,12 @@
 # External IDs
 
-The `External IDs` object contains a set of external identifiers.
+The External IDs object contains a set of external identifiers.
 
 External IDs are assigned during a `PUT` (update) or `POST` (create) request. Clients can update only their own external IDs, vendors can update only their own external IDs, and SoftwareOne Operations can update only the ID related to their specific operation.
 
-<table><thead><tr><th width="224">Field Name</th><th width="121">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>externalIds.client</code></td><td>string</td><td>The client-specific external ID, visible to clients.</td></tr><tr><td><code>externalIds.operations</code></td><td>string</td><td>The operations-specific external Id, visible to operations.</td></tr><tr><td><code>externalIds.vendor</code></td><td>string</td><td>The vendor-specific external Id, visible for vendors.</td></tr></tbody></table>
+<table><thead><tr><th width="224">Field</th><th width="121">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>externalIds.client</code></td><td>string</td><td>The client-specific external ID, visible to clients.</td></tr><tr><td><code>externalIds.operations</code></td><td>string</td><td>The operations-specific external Id, visible to operations.</td></tr><tr><td><code>externalIds.vendor</code></td><td>string</td><td>The vendor-specific external Id, visible for vendors.</td></tr></tbody></table>
 
-{% code lineNumbers="true" %}
+{% code title="EXTERNAL ID OBJECT" lineNumbers="true" %}
 ```json
 {
   "client": "12345678",

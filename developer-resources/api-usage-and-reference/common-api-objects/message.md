@@ -1,14 +1,14 @@
 # Message
 
-The `Message` object indicates an error or reason for order failure.
+The Message object indicates the error or the reason for the order failure. This object contains the following attributes:
 
-<table><thead><tr><th width="169">Field Name</th><th width="122">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>The message identifier to be used for the localization process.</td></tr><tr><td><code>message</code></td><td>string</td><td>The content of the message.</td></tr><tr><td><code>parameters</code></td><td>string</td><td>The parameters used within the message.</td></tr></tbody></table>
+<table><thead><tr><th width="144">Field</th><th width="122">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string</td><td>(Optional) The message identifier to be used for the localization process.</td></tr><tr><td><code>message</code></td><td>string</td><td>The content of the message.</td></tr><tr><td><code>parameters</code></td><td>string</td><td>(Optional) Parameters used within the message.</td></tr></tbody></table>
 
 ### Examples
 
 {% tabs %}
-{% tab title="WITHOUT PARAMETERS" %}
-{% code lineNumbers="true" %}
+{% tab title="EXAMPLE WITHOUT PARAMETERS" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
      "id": "E001234",
@@ -18,8 +18,8 @@ The `Message` object indicates an error or reason for order failure.
 {% endcode %}
 {% endtab %}
 
-{% tab title="WITH PARAMETERS" %}
-{% code lineNumbers="true" %}
+{% tab title="EXAMPLE WITH PARAMETERS" %}
+{% code overflow="wrap" lineNumbers="true" %}
 ```json
 {
      "id": "E001234",

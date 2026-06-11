@@ -1,6 +1,6 @@
 # Audit
 
-The `Audit` object records events related to the object. Each event contains two key components: 'at,' which specifies the last time the event occurred, and 'by,' which indicates who performed the event.
+The Audit object records events related to the object. Each event contains two key components: 'at,' which specifies the last time the event occurred, and 'by,' which indicates who performed the event.
 
 Events do not represent the complete history of the object. They are a cache that retains only the most recent occurrence of each type of event. For example, if an order is updated multiple times, only the latest update will be reflected in the Audit object.
 
@@ -8,11 +8,11 @@ Events cannot be set directly through API calls, which means they are ignored in
 
 Events can be either common or specific to the object. In such cases, they should follow the state diagram of the object. The same operation can be reflected in multiple events if it is logically reasonable. For example, if an order is approved and some data within the order has changed in one operation, both the updated and approved events must be recorded.
 
-<table><thead><tr><th width="141">Field Name</th><th width="178">Data Type</th><th>Description</th></tr></thead><tbody><tr><td><code>&#x3C;event></code></td><td>object</td><td>Indicates when the last event occurred and the event's initiator. If the event has not occurred yet, the entire object (along with its key) is omitted from the audit object.</td></tr><tr><td><code>&#x3C;event>.at</code></td><td>dateTime</td><td>The date of the event. </td></tr><tr><td><code>&#x3C;event>.by</code></td><td><a href="../../rest-api/accounts-api/users/"><code>user</code></a> or <a href="../../rest-api/accounts-api/api-tokens/"><code>token</code></a></td><td>A reference to the object of the actor who initiated the action. This can be a user or a token.</td></tr><tr><td><code>&#x3C;event>.of</code></td><td><a href="../../rest-api/accounts-api/account/"><code>account</code></a></td><td>A reference to the account on behalf of which the action was executed.</td></tr></tbody></table>
+<table><thead><tr><th width="141">Field</th><th width="165">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>&#x3C;event></code></td><td>object</td><td>(Read-only) (Optional) Indicates when the last event occurred and the event's initiator. If the event has not occurred yet, the entire object (along with its key) is omitted from the audit object.</td></tr><tr><td><code>&#x3C;event>.at</code></td><td>dateTime</td><td>The date and time of the event in the ISO-8601 format.</td></tr><tr><td><code>&#x3C;event>.by</code></td><td>object</td><td>(Optional) Represents the <a href="../../rest-api/accounts-api/users/"><code>user</code></a>  or the <a href="../../rest-api/accounts-api/api-tokens/"><code>token</code></a> that initiated the action. </td></tr><tr><td><code>&#x3C;event>.of</code></td><td><a href="../../rest-api/accounts-api/account/"><code>account</code></a></td><td>(Optional) Represents the account on behalf of which the action was executed.</td></tr></tbody></table>
 
 ### Example
 
-{% code lineNumbers="true" %}
+{% code title="AUDIT OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "audit": {
