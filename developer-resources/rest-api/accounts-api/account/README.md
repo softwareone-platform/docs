@@ -16,8 +16,8 @@ This object contains the following attributes:
   "id": "ACC-1671-0642",
   "type": "Client",
   "status": "Enabled",
-  "name": "Test account",
-  "description": "This is a test account for the finance team.",
+  "name": "Stark industries",
+  "description": "Stark industries procurement team.",
   "externalId": "WW-1001111",
   "serviceLevel": "Express",
   "address": {
@@ -37,12 +37,12 @@ This object contains the following attributes:
 {% endtab %}
 
 {% tab title="COMPLETE EXAMPLE" %}
-<pre class="language-json" data-title="ACCOUNT OBJECT" data-line-numbers><code class="lang-json"><strong>{
+<pre class="language-json" data-title="ACCOUNT OBJECT" data-overflow="wrap" data-line-numbers><code class="lang-json"><strong>{
 </strong>  "id": "ACC-1671-0642",
   "type": "Client",
   "status": "Enabled",
-  "name": "You Are a Test Account",
-  "description": "This is a test account.",
+  "name": "Stark industries",
+  "description": "Stark industries procurement team.",
   "externalId": "WW-1001111",
   "serviceLevel": "Express",
   "address": {
@@ -54,8 +54,8 @@ This object contains the following attributes:
     "country": "ST"
   },
   "logo": null,
-  "technicalSupportEmail": "user@example.com",
-  "website": "https://example.com",
+  "technicalSupportEmail": "jane@doe.com",
+  "website": "https://janedoeexample.com",
   "groups": [
 		{
 			"id": "UGR-9354-3382",

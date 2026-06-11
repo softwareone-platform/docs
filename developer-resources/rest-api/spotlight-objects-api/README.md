@@ -18,9 +18,9 @@ The API consists of two primary endpoints: `spotlightObject` and `spotlightQuery
 
 Review the shared API docs before you work with the spotlight resources.
 
-* [Authentication](https://docs.platform.softwareone.com/~/changes/476/developer-resources/api-reference)
-* [URL structure](https://docs.platform.softwareone.com/~/changes/476/developer-resources/guides/url-structure)
-* [Error handling](https://docs.platform.softwareone.com/~/changes/476/developer-resources/guides/errors-handling)
+* [Authentication](../#authentication)
+* [URL structure](../../api-usage-and-reference/url-structure.md)
+* [Error handling](../../api-usage-and-reference/errors-handling.md)
 
 ### Core resources
 

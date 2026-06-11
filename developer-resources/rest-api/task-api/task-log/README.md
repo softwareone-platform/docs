@@ -23,7 +23,7 @@ The Task Log objects represent additional information regarding the execution of
 
 {% tabs %}
 {% tab title="MINIMAL EXAMPLE" %}
-{% code title="THE TASK LOG OBJECT" overflow="wrap" lineNumbers="true" %}
+{% code title="TASK LOG OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
     "id": "TLR-1930-6351-9137-5141",

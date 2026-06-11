@@ -43,7 +43,7 @@ The API is organized into collections, each containing a set of operations. Acce
 Use the following links to jump to the collection you need:
 
 * [Accounts](./#accounts)
-* [Account Users](./#account-users)
+* [Account Users](./#account-users-collection)
 * [API Tokens](./#api-tokens)
 * [Buyers](./#buyers)
 * [Cloud Tenants](./#cloud-tenants)

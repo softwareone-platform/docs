@@ -51,8 +51,8 @@ Use the following links to jump to the collection you need:
 * [Products](./#product)
 * [Product Templates](./#product-templates)
 * [Terms](./#terms)
-* [Unit of Measure](./#units-of-measure)
-* [Variant](./#variant)
+* [Unit of Measure](./#unit-of-measure)
+* [Variants](./#variants)
 
 ### Authorization
 
