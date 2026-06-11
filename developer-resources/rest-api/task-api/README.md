@@ -33,7 +33,7 @@ See the following sections to determine which roles are authorized to perform sp
 
 ### Tasks
 
-<table><thead><tr><th width="196">Operation</th><th width="105">Method</th><th width="214">Description</th><th>Access</th></tr></thead><tbody><tr><td><a href="task/create-task.md">Create task</a></td><td>POST</td><td>Creates a task.</td><td>svc</td></tr><tr><td><a href="task/list-tasks.md">List tasks</a></td><td>GET</td><td>Gets a list of tasks.</td><td>ops, svc, vendor, client</td></tr><tr><td><a href="task/get-task.md">Get task by id</a></td><td>GET</td><td>Gets a task by id.</td><td>ops, svc, vendor, client</td></tr><tr><td><a href="task/get-task-result.md">Get task result</a></td><td>GET</td><td>Redirects to a platform resource or returns a result JSON value.</td><td>ops, svc, vendor, client</td></tr></tbody></table>
+<table><thead><tr><th width="181">Operation</th><th width="105">Method</th><th width="214">Description</th><th>Access</th></tr></thead><tbody><tr><td><a href="task/create-task.md">Create task</a></td><td>POST</td><td>Creates a task.</td><td>svc</td></tr><tr><td><a href="task/list-tasks.md">List tasks</a></td><td>GET</td><td>Gets a list of tasks.</td><td>ops, svc, vendor, client</td></tr><tr><td><a href="task/get-task.md">Get task by id</a></td><td>GET</td><td>Gets a task by id.</td><td>ops, svc, vendor, client</td></tr><tr><td><a href="task/get-task-result.md">Get task result</a></td><td>GET</td><td>Redirects to a platform resource or returns a result JSON value.</td><td>ops, svc, vendor, client</td></tr></tbody></table>
 
 ### Task Log
 

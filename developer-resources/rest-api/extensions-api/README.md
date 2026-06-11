@@ -60,7 +60,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Category operations</summary>
+<summary>View Categories operations</summary>
 
 <table><thead><tr><th width="214">Operation</th><th width="122">Method</th><th width="226">Description</th><th>Access</th></tr></thead><tbody><tr><td><a href="category/create-category.md">Create category</a></td><td>POST</td><td>Creates a new category.</td><td>ops</td></tr><tr><td><a href="category/get-categories.md">Get categories</a></td><td>GET</td><td>Fetches a list of categories.</td><td>vendor, client, ops</td></tr><tr><td><a href="category/get-category.md">Get category by id</a></td><td>GET</td><td>Gets a category by id.</td><td>vendor, client, ops</td></tr><tr><td><a href="category/update-category.md">Update category</a></td><td>PUT</td><td>Updates some properties of a category.</td><td>ops</td></tr><tr><td><a href="category/activate-category.md">Activate category</a></td><td>POST</td><td>Activates a category.</td><td>ops</td></tr><tr><td><a href="category/deactivate-category.md">Deactivate category</a></td><td>POST</td><td>Deactivates a category.</td><td>ops</td></tr></tbody></table>
 
@@ -70,7 +70,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Document operations</summary>
+<summary>View Documents operations</summary>
 
 | Operation                                                          | Method | Description                                     | Access              |
 | ------------------------------------------------------------------ | ------ | ----------------------------------------------- | ------------------- |
@@ -141,7 +141,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Variantd operations</summary>
+<summary>View Variants operations</summary>
 
 | Operation                                         | Method | Description                                   | Access              |
 | ------------------------------------------------- | ------ | --------------------------------------------- | ------------------- |

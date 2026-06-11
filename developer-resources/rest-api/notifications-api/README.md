@@ -158,7 +158,7 @@ Use the following links to jump to the collection you need:
 
 </details>
 
-### Template variant
+### Template Variant
 
 <details>
 

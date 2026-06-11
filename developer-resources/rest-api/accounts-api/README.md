@@ -96,7 +96,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Buyer operations</summary>
+<summary>View Buyers operations</summary>
 
 | Operation                                                     | Method | Description                                                                      | Access              |
 | ------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------- | ------------------- |

@@ -72,7 +72,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Custom Ledger operations</summary>
+<summary>View Custom Ledgers operations</summary>
 
 | Operation                                                                                  | Method | Description                                                                                 | Access |
 | ------------------------------------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------- | ------ |
@@ -96,7 +96,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Invoice operations</summary>
+<summary>View Invoices operations</summary>
 
 | Operation                                                         | Method | Description                                                       | Access      |
 | ----------------------------------------------------------------- | ------ | ----------------------------------------------------------------- | ----------- |
@@ -116,7 +116,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Journal operations</summary>
+<summary>View Journals operations</summary>
 
 | Operation                                                   | Method | Description                                                           | Access      |
 | ----------------------------------------------------------- | ------ | --------------------------------------------------------------------- | ----------- |
@@ -139,7 +139,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Journal Charge operations</summary>
+<summary>View Journal Charges operations</summary>
 
 | Operation                                                       | Method | Description                                                 | Access      |
 | --------------------------------------------------------------- | ------ | ----------------------------------------------------------- | ----------- |
@@ -152,7 +152,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Journal Attachment operations</summary>
+<summary>View Journal Attachments operations</summary>
 
 | Operation                                                                    | Method | Description                                                                    | Access      |
 | ---------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------ | ----------- |
@@ -167,7 +167,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Ledger operations</summary>
+<summary>View Ledgers operations</summary>
 
 | Operation                                                      | Method | Description                                                | Access |
 | -------------------------------------------------------------- | ------ | ---------------------------------------------------------- | ------ |
@@ -190,7 +190,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Override operations</summary>
+<summary>View Overrides operations</summary>
 
 | Operation                                      | Method | Description                             | Access |
 | ---------------------------------------------- | ------ | --------------------------------------- | ------ |
@@ -207,7 +207,7 @@ Use the following links to jump to the collection you need:
 
 <details>
 
-<summary>View Statement operations</summary>
+<summary>View Statements operations</summary>
 
 | Operation                                                               | Method | Description                                                  | Access      |
 | ----------------------------------------------------------------------- | ------ | ------------------------------------------------------------ | ----------- |
