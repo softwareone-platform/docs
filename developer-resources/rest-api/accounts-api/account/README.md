@@ -77,4 +77,4 @@ This object contains the following attributes:
 {% endtab %}
 {% endtabs %}
 
-[^1]: _Core indicates the field is part of the base object schema. This is not the same as “required”._
+[^1]: **Core** indicates the field is part of the base object schema. This is not the same as “required”.
