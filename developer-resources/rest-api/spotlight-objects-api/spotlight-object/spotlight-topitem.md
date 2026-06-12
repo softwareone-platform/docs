@@ -10,9 +10,7 @@ The `SpotlightTopItem` contract is a result of a downstreamed RQL query and is u
 
 ## Example
 
-{% tabs %}
-{% tab title="SPOTLIGHT TOPITEM" %}
-{% code title="The Spotlight Top Item object" overflow="wrap" lineNumbers="true" %}
+{% code title="SPOTLIGHT TOP ITEM OBJECT" overflow="wrap" lineNumbers="true" %}
 ```json
 {
   "id": "ORD-6637-5331-9984",
@@ -23,8 +21,6 @@ The `SpotlightTopItem` contract is a result of a downstreamed RQL query and is u
   },
   "icon": "/public/v1/catalog/products/PRD-6523-2229/icon",
   "name": "Order ORD-8373-6076-7130"
-}     
+}   
 ```
 {% endcode %}
-{% endtab %}
-{% endtabs %}
