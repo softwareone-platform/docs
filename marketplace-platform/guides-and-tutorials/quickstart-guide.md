@@ -307,7 +307,7 @@ For details on managing your subscriptions and agreements, including termination
 
 <summary>Do you offer public APIs that allow programmatic interaction with the platform?</summary>
 
-Yes, you can download the [OpenAPI 3.0 specification](/broken/pages/OMiosGfpPzjk7UEFqsPW) of our [REST APIs](/broken/pages/c48wsZ6OnZim0prmKKFx) and use them with tools of your choice.
+Yes, you can download the [OpenAPI 3.0 specification](https://api.platform.softwareone.com/public/v1/openapi.json) of our REST APIs and use them with tools of your choice.&#x20;
 
 </details>
 
