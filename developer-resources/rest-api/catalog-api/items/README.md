@@ -4,7 +4,7 @@ The Item object represents a “product item” as a transactable element of a p
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="208">Field</th><th width="143">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) A unique identifier for the item.</td></tr><tr><td><code>name</code></td><td>string, core</td><td>The name of the item.</td></tr><tr><td><code>description</code></td><td>string</td><td>A description of the item.</td></tr><tr><td><code>externalIds</code></td><td>object</td><td><p>A reference to the <a href="./#externalids"><code>externalIds</code></a> object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="208">Field</th><th width="143">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) A unique identifier for the item.</td></tr><tr><td><code>name</code></td><td>string, core</td><td>The name of the item.</td></tr><tr><td><code>description</code></td><td>string</td><td>A description of the item.</td></tr><tr><td><code>externalIds</code></td><td>object</td><td><p>Represents the <a href="./#externalids"><code>externalIds</code></a> object.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "vendor": "ven-1233-3222",
   "operations": "op-322-322",
 }
@@ -12,7 +12,7 @@ The Item object represents a “product item” as a transactable element of a p
   "period": "1m",
   "commitment": "1y"
 }
-</code></pre></td></tr><tr><td><code>quantityNotApplicable</code></td><td>boolean, core</td><td>Indicates if the quantity isn't applicable or relevant to the product item being sold.</td></tr><tr><td><code>status</code></td><td>string</td><td>The status of the item. Allowed values: <code>draft</code>, <code>published</code>, or <code>unpublished</code>.</td></tr><tr><td><code>parameters</code></td><td>object</td><td><p>Captures any additional information required for a product item and is defined by item configuration parameters.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ 
+</code></pre></td></tr><tr><td><code>quantityNotApplicable</code></td><td>boolean, core</td><td>Indicates if the quantity isn't applicable or relevant to the product item being sold.</td></tr><tr><td><code>status</code></td><td>string</td><td><p>The status of the item. Allowed values are:</p><ul><li><code>Draft</code></li><li><code>Published</code></li><li><code>Unpublished</code></li></ul></td></tr><tr><td><code>parameters</code></td><td>object</td><td><p>Captures any additional information required for a product item and is defined by item configuration parameters.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{ 
   "id": "PRM-1234-1234-1234",
   "externalId": "SKU",
   "value": "65272478BB01A12"

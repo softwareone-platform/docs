@@ -2,7 +2,7 @@
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="154">Field</th><th width="174">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>A unique identifier for the case. </td></tr><tr><td><code>chat</code></td><td>object</td><td>The <a href="../chat/"><code>chat</code></a> object for the case.</td></tr><tr><td><code>revision</code></td><td>unit, core</td><td>Revision number (used for platform-level versioning).</td></tr><tr><td><code>parameters</code></td><td>object</td><td><p>Represents the <code>parameter</code> object, which contains a set of parameter values. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
+<table><thead><tr><th width="154">Field</th><th width="174">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>A unique identifier for the case. </td></tr><tr><td><code>chat</code></td><td>object</td><td>The <a href="../chat/"><code>chat</code></a> object for the case.</td></tr><tr><td><code>revision</code></td><td>unit, core</td><td>The revision number used for platform-level versioning.</td></tr><tr><td><code>parameters</code></td><td>object</td><td><p>Represents the <code>parameter</code> object, which contains a set of parameter values. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">[
  {
    "id": "PAR-1344-4634",
    "name": "Priority",

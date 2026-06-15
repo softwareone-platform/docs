@@ -18,7 +18,7 @@ Once the client fulfills all the necessary conditions, they are considered enrol
     "icon": "/static/PRG-1234-1234/logo.png",
     "applicableTo": "Buyer"
 }
-</code></pre></td></tr><tr><td><code>applicableTo</code></td><td>string, core</td><td>Defines the scope of the enrollment. Allowed values are <code>buyer</code> or <code>licensee</code>.</td></tr><tr><td><code>type</code></td><td>string, core</td><td>Defines whether the enrollment is new (first time requesting a certificate) or a change (re-enrollment). Allowed values are  <code>change</code> or <code>new</code>.</td></tr><tr><td><code>buyer</code></td><td>object, core</td><td><p>(Optional) Represents the <a href="../../accounts-api/buyer/"><code>buyer</code></a> object, if the enrollment applies to a buyer. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>applicableTo</code></td><td>string, core</td><td>Defines the scope of the enrollment. Allowed values are <code>buyer</code> or <code>licensee</code>.</td></tr><tr><td><code>type</code></td><td>string, core</td><td>Defines whether the enrollment is new (first time requesting a certificate) or a change (re-enrollment). Allowed values are <code>change</code> or <code>new</code>.</td></tr><tr><td><code>buyer</code></td><td>object, core</td><td><p>(Optional) Represents the <a href="../../accounts-api/buyer/"><code>buyer</code></a> object, if the enrollment applies to a buyer. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
     "id": "PRG-1234-1234",
     "href": "v1/catalog/programs/PRG-1234-5678",
     "name": "Microsoft AI Cloud Partner",
@@ -106,7 +106,7 @@ Once the client fulfills all the necessary conditions, they are considered enrol
      "state": "Cork",
      "postalCode": "V23U58N"
 }
-</code></pre></td></tr><tr><td><code>displayValue</code></td><td>string</td><td>The parameter value (read only). </td></tr><tr><td><code>constraints</code></td><td>object</td><td><p>Represents constraints. </p><ul><li>When specified, it represents overridden parameter constraints.</li><li>When unspecified, the parameter constraints must be taken from the parameter definition.</li></ul></td></tr><tr><td><code>error</code></td><td>object</td><td>Represents the error <a href="../../../api-usage-and-reference/common-api-objects/message.md">message</a> object.</td></tr></tbody></table>
+</code></pre></td></tr><tr><td><code>displayValue</code></td><td>string</td><td>The parameter value (read only). </td></tr><tr><td><code>constraints</code></td><td>object</td><td><p>Represents constraints. </p><ul><li>When specified, it represents overridden parameter constraints.</li><li>When unspecified, the parameter constraints must be taken from the parameter definition.</li></ul></td></tr><tr><td><code>error</code></td><td>object</td><td>Represents the error <a href="../../../api-usage-and-reference/common-api-objects/message.md"><code>messag</code>e</a> object.</td></tr></tbody></table>
 
 ## Examples
 

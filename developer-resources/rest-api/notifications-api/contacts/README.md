@@ -4,7 +4,7 @@ The Contact object represents a contact who receives the notifications. Contact 
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="141">Field</th><th width="159">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) A primary identifier for the contact. </td></tr><tr><td><code>href</code></td><td>string, core</td><td>(Read-only) A relative reference to the object. </td></tr><tr><td><code>name</code></td><td>string, core</td><td>The contact's display name.  </td></tr><tr><td><code>email</code></td><td>string, core</td><td>The contact's email address.  </td></tr><tr><td><code>user</code></td><td>object, core</td><td><p>(Read-only) Indicates if the email belongs to a <a href="../../accounts-api/users/"><code>user</code></a> registered on the platform. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table><thead><tr><th width="141">Field</th><th width="159">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) A primary identifier for the contact. </td></tr><tr><td><code>href</code></td><td>string, core</td><td>(Read-only) A relative reference to the object. </td></tr><tr><td><code>name</code></td><td>string, core</td><td>The display name of the contact.  </td></tr><tr><td><code>email</code></td><td>string, core</td><td>The email address of the contact.  </td></tr><tr><td><code>user</code></td><td>object, core</td><td><p>(Read-only) Indicates if the email belongs to a <a href="../../accounts-api/users/"><code>user</code></a> registered on the platform. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "USR-3773-5838",
   "href": "/accounts/users/USR-1234-9876",
   "name": "Will Smith",
@@ -18,7 +18,7 @@ The Contact object represents a contact who receives the notifications. Contact 
     "shortDescription": "Orders"
   }
 ]
-</code></pre></td></tr><tr><td><code>status</code></td><td>enum</td><td>Indicates the status. Allowed values:  <code>active</code> or <code>blocked</code>.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
+</code></pre></td></tr><tr><td><code>status</code></td><td>enum</td><td>Indicates the status. Allowed values are <code>active</code> or <code>blocked</code>.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. </td></tr></tbody></table>
 
 ## Example
 

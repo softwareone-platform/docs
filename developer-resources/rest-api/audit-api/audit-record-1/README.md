@@ -2,7 +2,7 @@
 
 The Audit record object signifies a specific entity within the platform for which an Audit object is generated. Each Audit object can only be created for one platform object at a time.
 
-<table><thead><tr><th width="139">Field</th><th width="143">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) The object's identifier. </td></tr><tr><td><code>name</code></td><td>string, core</td><td>(Read-only) The name of the object. If it  doesn't exist, the ID is included.</td></tr><tr><td><code>icon</code></td><td>string, core</td><td>(Read-only) The URL of the object icon. </td></tr><tr><td><code>objectType</code></td><td>string, core</td><td>(Read-only) The type of object. </td></tr><tr><td><code>revision</code></td><td>integer, core</td><td>(Read-only) The revision number of the object. </td></tr></tbody></table>
+<table><thead><tr><th width="139">Field</th><th width="143">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) The identifier of the object. </td></tr><tr><td><code>name</code></td><td>string, core</td><td>(Read-only) The name of the object. If the name doesn't exist, an ID is included.</td></tr><tr><td><code>icon</code></td><td>string, core</td><td>(Read-only) The URL of the object icon. </td></tr><tr><td><code>objectType</code></td><td>string, core</td><td>(Read-only) The type of object. </td></tr><tr><td><code>revision</code></td><td>integer, core</td><td>(Read-only) The revision number of the object. </td></tr></tbody></table>
 
 ## Example
 

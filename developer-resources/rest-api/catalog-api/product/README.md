@@ -23,7 +23,7 @@ The Product object represents a collection of items and their relevant parameter
 } 
 </code></pre></td></tr><tr><td><code>statistics</code></td><td>object</td><td>(Read-only) Represents the <a href="./#productstatistics"><code>productStatistics</code></a> object.</td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object.</td></tr></tbody></table>
 
-### ProductSettings object <a href="#productsettings" id="productsettings"></a>
+### Product Settings object <a href="#productsettings" id="productsettings"></a>
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
@@ -51,7 +51,7 @@ The Product object represents a collection of items and their relevant parameter
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="140">Field</th><th width="129">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>enabled</code></td><td>boolean</td><td>Specifies whether the product cessation functionality is enabled for this product.</td></tr><tr><td><code>mode</code></td><td>string</td><td><p>Specifies the cessation mode. Allowed values are:</p><ul><li> <code>Termination</code></li><li> <code>Auto-renewal</code></li><li><code>Termination or Auto-renewal</code></li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="140">Field</th><th width="129">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>enabled</code></td><td>boolean</td><td>Specifies whether the product cessation functionality is enabled for this product.</td></tr><tr><td><code>mode</code></td><td>string</td><td><p>Specifies the cessation mode. Allowed values are:</p><ul><li><code>Termination</code></li><li><code>Auto-renewal</code></li><li><code>Termination or Auto-renewal</code></li></ul></td></tr></tbody></table>
 
 ### Pre-Validation Settings object
 

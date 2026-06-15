@@ -24,7 +24,7 @@ The Journal object is linked to an authorization and is created by vendors from 
   "name": "John Smith",
   "icon": "/static/users/USR-1234-1234-1234.icon.svg"
 }  
-</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. Allowed values: <code>created</code> or <code>updated</code>.</td></tr><tr><td><code>price</code></td><td>object</td><td><p>(Read-only) The <a href="./#pricesummary"><code>priceSummary</code></a> including the aggregated price values for all journal charges. Not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
+</code></pre></td></tr><tr><td><code>audit</code></td><td>object</td><td>(Read-only) Represents the <a href="../../../api-usage-and-reference/common-api-objects/audit.md"><code>audit</code></a> object. Allowed values are <code>created</code> or <code>updated</code>.</td></tr><tr><td><code>price</code></td><td>object</td><td><p>(Read-only) The <a href="./#pricesummary"><code>priceSummary</code></a> including the aggregated price values for all journal charges. Not all fields are visible to all actors.</p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers data-full-width="true"><code class="lang-json">{
   "totalPP": 229.8,
   "markup": 0.5013,
   "margin": 0.3339,  
