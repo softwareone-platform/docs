@@ -22,32 +22,62 @@ layout:
 
 # AWS account setup options
 
-When you are ordering AWS services through the SoftwareOne Marketplace, you can either create a new AWS account or transfer billing of your Management Account to SoftwareOne. This topic describes how these options work and what's needed to complete the setup.
+When you are ordering AWS services through the SoftwareOne Marketplace, you can either create a new AWS account or transfer billing of your Management Account to SoftwareOne.&#x20;
 
-{% hint style="success" %}
-When you buy AWS services from Marketplace, SoftwareOne does not assume administrative access to your AWS accounts, unlike in previous AWS partner models.
+This topic describes how these options work and what is required to complete the setup.
+
+{% hint style="info" %}
+When you purchase AWS services through the Marketplace, SoftwareOne does not assume administrative access to your AWS accounts.
 {% endhint %}
 
-### New AWS account
+### Create a new AWS account
 
-Creating a new AWS account means you want to [sign up for AWS ](https://signin.aws.amazon.com/signup?request_type=register)through SoftwareOne.&#x20;
+Creating a new AWS account means [signing up for AWS ](https://signin.aws.amazon.com/signup?request_type=register)through SoftwareOne.&#x20;
 
 To create an account, AWS requires the following details:
 
-* Your unique root user email address. It's important to use a corporate alias instead of your personal email address. This ensures your company retains control of accounts even if an employee leaves.
-* AWS account name.
-* A valid credit card.
+* **Root user email address** – A unique email address for the AWS root user. Use a corporate alias instead of your personal email address. This ensures your company retains control of accounts even if an employee leaves.
+* **AWS account name** – A descriptive name used to identify the account within AWS and AWS Organizations.
+* **A valid credit card** – Required by AWS for identity verification during account creation.
 
-Once the account is created, you can use it to [create a new AWS Organization](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_tutorials_basic.html#tutorial-orgs-step1). You can then use the 12-digit AWS Account ID to connect with SoftwareOne through the Marketplace platform.&#x20;
+After creating the account, complete the required AWS setup steps and prepare your new account for onboarding before connecting it to SoftwareOne.
 
-For details on creating a new account and then transferring this newly created account to SoftwareOne, see [Sign up for new AWS account](tutorials/sign-up-for-new-aws-account.md).
+#### Prepare your new AWS account for onboarding
+
+After signing in to your new AWS account:
+
+1. **Secure the root user account**
+   * Enable multi-factor authentication (MFA) for the root user.
+   * Store root credentials securely.
+   * Avoid using the root user for daily activities.
+2. **Enable AWS Organizations**
+   * In the AWS Management Console, open **AWS Organizations**.
+   * Enable **All features**.&#x20;
+   * This account becomes the AWS Organizations management account.
+3.  **Enable required organizational services**
+
+    To support secure onboarding and automated deployment, enable:
+
+    * **Service Control Policies (SCPs)** in AWS Organizations.
+    * **AWS CloudTrail** as an organizational service.
+    * **AWS CloudFormation StackSets** in both AWS Organizations and the AWS CloudFormation console.
+    * **IAM access to Billing and Cost Management** to access billing data.
+
+For detailed instructions, see [AWS Organizations requirements](aws-organizations-requirements.md).
+
+After completing these steps, copy the 12-digit AWS Organizations management account ID and return to the SoftwareOne Marketplace purchase flow to continue onboarding.
+
+For step-by-step instructions on creating and transferring the new AWS account, see [Sign up for a new AWS account](tutorials/sign-up-for-new-aws-account.md).
 
 ### Transfer your existing AWS account
 
 Existing AWS customers can transfer the billing for their existing AWS Management Account to SoftwareOne.
 
-You can do this by providing the 12-digit AWS Management Account ID in the Purchase Wizard of SoftwareOne Marketplace and completing the guided steps.&#x20;
+To start the transfer, provide the 12-digit AWS Management Account ID in the SoftwareOne Marketplace purchase flow and complete the guided transfer steps.&#x20;
 
-To complete the transfer process successfully, an administrator of this Management Account must approve the billing transfer invitation, sent by AWS to the root account alias. Additionally, the [Essentials Bootstrap Role](https://docs.softwareone.cloud/knowledge-base/essentials-bootstrap-role-customer-manual) must be deployed, so we can deliver all of our services and support to you.&#x20;
+To complete the process successfully:
 
-For more information on the billing transfer process, read this [official AWS announcement](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/). For details on transferring your account to SoftwareOne, see [Transfer your AWS account](tutorials/transfer-your-aws-account.md).
+* An administrator of this management account must approve the billing transfer invitation, sent by AWS to the root account alias.&#x20;
+* The [Essentials Bootstrap Role](https://docs.softwareone.cloud/knowledge-base/essentials-bootstrap-role-customer-manual) must be deployed to enable SoftwareOne to deliver our services and support.&#x20;
+
+For more details on the billing transfer process, see this [official AWS announcement](https://aws.amazon.com/about-aws/whats-new/2025/11/billing-transfer-multi-organization-billing-cost-management/). To transfer your account to SoftwareOne, see [Transfer your AWS account](tutorials/transfer-your-aws-account.md).

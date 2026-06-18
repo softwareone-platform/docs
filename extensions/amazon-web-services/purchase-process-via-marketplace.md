@@ -1,5 +1,6 @@
 ---
 description: Learn about ordering AWS via SoftwareOne Marketplace.
+hidden: true
 ---
 
 # Purchase process via Marketplace

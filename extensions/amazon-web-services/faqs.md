@@ -83,21 +83,21 @@ We aim to be ready when PPA is added to the billing transfer by AWS or shortly a
 
 <summary>How do I buy Amazon Web Services and SoftwareOne Cloud Managed Services Essentials?</summary>
 
-You can purchase **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials** by searching for the product in our catalog and going through the Purchase Wizard.&#x20;
+You can purchase **Amazon Web Services and SoftwareOne Cloud Managed Services Essentials** by searching for the product in our catalog and following the guided purchase flow.&#x20;
 
 Alternatively, SoftwareOne Operations can prepare a draft order on your behalf and send it to you for acceptance via a link. You must complete and submit the draft order yourself, as it requires accepting the terms and conditions for both the SoftwareOne Marketplace and Services.&#x20;
 
-To learn more, see [Sign Up for New AWS Account](tutorials/sign-up-for-new-aws-account.md) and [Transfer Your AWS Accoun](tutorials/transfer-your-aws-account.md)t.
+To learn more, see [Sign up for a new AWS account](tutorials/sign-up-for-new-aws-account.md) and [Transfer your AWS accoun](tutorials/transfer-your-aws-account.md)t.
 
 </details>
 
 <details>
 
-<summary>I already have an AWS organization. How do I buy Amazon Web Services and SoftwareOne Cloud Managed Services Essentials?</summary>
+<summary>I already have an AWS Organization. How do I buy Amazon Web Services and SoftwareOne Cloud Managed Services Essentials?</summary>
 
-If you already have an AWS organization, you can choose the **Transfer an existing AWS account** option in the Purchase Wizard. This allows you to connect your AWS organization to SoftwareOne via billing transfer.
+If you already have an AWS Organization, you can choose the **Transfer an existing AWS account** option in the guided purchase workflow. This allows you to connect your AWS Organization to SoftwareOne via billing transfer.
 
-For more information, see [Transfer Your AWS Account](tutorials/transfer-your-aws-account.md).
+For more information, see [Transfer your AWS account](tutorials/transfer-your-aws-account.md).
 
 </details>
 
@@ -105,11 +105,11 @@ For more information, see [Transfer Your AWS Account](tutorials/transfer-your-aw
 
 <summary>I don't have an AWS account. How do I buy Amazon Web Services and SoftwareOne Cloud Managed Services Essentials, and how do I connect to SoftwareOne?</summary>
 
-If you don't have an account with AWS, or you prefer to connect a whole new AWS organization to SoftwareOne, you can choose the **Create a new AWS account** option in the Purchase Wizard.
+If you don't have an account with AWS, or you prefer to connect a whole new AWS Organization to SoftwareOne, you can choose the **Create a new AWS account** option in the Purchase Wizard.
 
 You will then see a message with instructions on how to create a new AWS account and convert it to a management account.
 
-For details, see [Sign Up for New AWS Account](tutorials/sign-up-for-new-aws-account.md).
+For details, see [Sign up for new AWS account](tutorials/sign-up-for-new-aws-account.md).
 
 </details>
 
@@ -121,7 +121,7 @@ While we aim to automate as many steps as possible and make the process easy, ce
 
 You are required to:
 
-* Start the Purchase Wizard in the SoftwareOne Marketplace.
+* Start the guided Purchase workflow in the SoftwareOne Marketplace.
 * Have an existing AWS account or create a new one.
 * Accept the SoftwareOne Terms and Conditions when submitting your order.
 * Accept the billing transfer request to connect your AWS account to SoftwareOne.
