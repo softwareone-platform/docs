@@ -53,8 +53,7 @@ No CloudTrail trails need to be created manually.
 
 #### Enable CloudFormation StackSets
 
-CloudFormation StackSets must be enabled both in AWS Organizations and in the\
-CloudFormation console. Those are required to complete SoftwareOne onboarding.
+CloudFormation StackSets must be enabled both in AWS Organizations and in the&#x20;CloudFormation console. Those are required to complete SoftwareOne onboarding.
 
 **Enable StackSets in AWS Organizations**
 
@@ -76,17 +75,14 @@ You do not need to create any StackSets manually.
 
 IAM users and roles cannot access AWS Billing and Cost Management by default. Billing access must be enabled to allow delegated users and roles to view billing information.
 
-1. In the AWS Management Console, open **Account settings** or use the account menu in the   \
-   top-right corner and select **Account**.
+1. In the AWS Management Console, open **Account settings** or use the account menu in the   &#x20;upper-right corner and select **Account**.
 2. Scroll to **IAM user and role access to Billing information**.
 3. Select **Edit**.
 4. Enable **Activate IAM Access**.
 5. Choose **Update**.
 
 {% hint style="info" %}
-Activating IAM access alone doesn't grant the roles the necessary permissions for these\
-Billing and Cost Management console pages. In addition to activating IAM access, you\
-must also attach the required IAM policies to those roles.
+Activating IAM access alone doesn't grant the roles the necessary permissions for these&#x20;Billing and Cost Management console pages. In addition to activating IAM access, you&#x20;must also attach the required IAM policies to those roles.
 {% endhint %}
 
 ### Next steps
