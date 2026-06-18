@@ -1,3 +1,7 @@
+---
+description: Learn about the AWS Organizations requirements.
+---
+
 # AWS Organizations requirements
 
 This topic describes how to prepare an AWS account for onboarding with SoftwareOne.&#x20;
