@@ -256,7 +256,6 @@
   * [AWS terminology and concepts](extensions/amazon-web-services/aws-concepts.md)
   * [AWS account setup options](extensions/amazon-web-services/account-options.md)
   * [AWS Organizations requirements](extensions/amazon-web-services/aws-organizations-requirements.md)
-  * [Purchase process via Marketplace](extensions/amazon-web-services/purchase-process-via-marketplace.md)
   * [FAQs](extensions/amazon-web-services/faqs.md)
   * [Tutorials](<extensions/amazon-web-services/tutorials/README (1).md>)
     * [Sign up for new AWS account](extensions/amazon-web-services/tutorials/sign-up-for-new-aws-account.md)

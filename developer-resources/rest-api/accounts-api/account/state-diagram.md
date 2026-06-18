@@ -8,7 +8,7 @@ The diagrams show different transitions depending on whether the account is a Cl
 
 ### Client account
 
-The following diagram shows how a client/partner account moves between states through operations like enable, activate, and disable.
+The following diagram shows how a client account moves between states through operations like enable, activate, and disable.
 
 <figure><img src="../../../../.gitbook/assets/state_diagram_clientaccount.png" alt=""><figcaption><p>The state transition diagram of a client account.</p></figcaption></figure>
 
