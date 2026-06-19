@@ -261,6 +261,7 @@
     * [Sign up for new AWS account](extensions/amazon-web-services/tutorials/sign-up-for-new-aws-account.md)
     * [Transfer your AWS account](extensions/amazon-web-services/tutorials/transfer-your-aws-account.md)
   * [Release notes](extensions/amazon-web-services/release-notes.md)
+* [Page 1](extensions/page-1.md)
 * [Cloud tools](extensions/cloud-tools/README.md)
   * [365Simple](extensions/cloud-tools/365simple.md)
   * [AzureSimple](extensions/cloud-tools/azuresimple.md)
