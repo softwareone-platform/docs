@@ -16,7 +16,7 @@ When you are enrolled, the **Enrollments** page displays the enrollment informat
 
 The **Enrollments** page displays all enrollments, regardless of the status.&#x20;
 
-To open this page, choose **Programs** > **Enrollment from** the main menu.
+To open this page, choose **Programs** > **Enrollment** from the main menu.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Use the Enrollments page to view and manage enrollments.</p></figcaption></figure></div>
 
@@ -37,10 +37,6 @@ You can also select an enrollment to view detailed information organized across 
 
 {% content-ref url="view-enrollments.md" %}
 [view-enrollments.md](view-enrollments.md)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/nKYFQev2XCWzCV9oGI9R" %}
-[Broken link](/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/nKYFQev2XCWzCV9oGI9R)
 {% endcontent-ref %}
 
 {% content-ref url="renew-your-enrollment.md" %}

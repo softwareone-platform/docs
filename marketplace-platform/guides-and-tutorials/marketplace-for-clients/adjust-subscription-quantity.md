@@ -21,11 +21,13 @@ When reducing licenses, these rules apply:
 
 1. Go to **Marketplace** > **Subscriptions**.
 2. Select the required subscription. Ensure that the subscription is active.
-3. On the **subscription details** page, select **Edit**. The **Edit subscription** flow starts.
+3. On the subscription details page, select **Edit**.&#x20;
 {% endstep %}
 
 {% step %}
 **Change the license quantities**
+
+In the **Edit subscription** flow, do the following:
 
 1.  Under **Items**, update the **New qty** value, then select **Next**.&#x20;
 

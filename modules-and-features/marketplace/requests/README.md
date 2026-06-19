@@ -10,13 +10,13 @@ Client account users can create new requests through the **Products** page and t
 
 You can view and manage your requests from the **Requests** page in the platform.
 
-<figure><img src="../../../.gitbook/assets/requests_page.png" alt=""><figcaption><p> Requests page</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/requests_page.png" alt=""><figcaption><p> Requests page</p></figcaption></figure></div>
 
 ## Viewing request details
 
 The details page of a request gives you in-depth information about the request.  To open the details page, select the request on the **Requests** page.
 
-<figure><img src="../../../.gitbook/assets/requests_activity_tab.png" alt=""><figcaption><p>Details page of a request</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/requests_activity_tab.png" alt=""><figcaption><p>Details page of a request</p></figcaption></figure></div>
 
 On the request details page, you can view the request's general information, including the product for which you raised the request and the request status.&#x20;
 

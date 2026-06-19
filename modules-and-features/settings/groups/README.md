@@ -12,7 +12,7 @@ Groups allow administrators to manage permissions of multiple users at once, ins
 
 The **Groups** page allows account administrators to manage groups, including adding new groups and updating existing ones. Administrators can also permanently delete a group if it is no longer needed.
 
-To access the page, select the main menu, then choose **Settings** > **Groups**. The list of groups is displayed.
+To open the page, select **Settings** > **Groups** from the main menu.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Groups.png" alt=""><figcaption><p>Use the Groups page to view and manage groups.</p></figcaption></figure></div>
 

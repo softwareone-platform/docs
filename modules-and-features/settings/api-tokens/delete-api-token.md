@@ -15,7 +15,7 @@ Before deleting a token, note the following points:
 
 To delete a token:
 
-1. Go to **Setting**s > **API tokens**.&#x20;
+1. Go to **Settings** > **API tokens**.&#x20;
 2. Find the token you want to delete.
 3. Do one of the following:
    * Select the token to open the token details page. Then, select the dropdown arrow <i class="fa-chevron-down">:chevron-down:</i>, and choose **Delete**.

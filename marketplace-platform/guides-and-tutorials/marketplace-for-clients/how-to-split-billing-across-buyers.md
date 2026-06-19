@@ -8,11 +8,7 @@ Split billing is a feature that allows you to divide the cost of a subscription 
 
 In the SoftwareOne Marketplace, the split billing process begins by activating the feature from the user interface (UI), selecting buyers for allocation, and then specifying each buyer's allocation percentage or license count. This tutorial describes how to complete all of these steps.
 
-In this tutorial, an agreement named _Adobe VIP Marketplace for Stark Industries_ contains three subscriptions. Currently, 100% of the billing for these subscriptions is assigned to a single buyer named _Stark Industries_. We'll activate split billing, add two new buyers named _Stark Industries II_ and _Stark Industries_ _III_, and then specify the allocation percentage for these buyers.
-
-### Prerequisites
-
-Before getting started with the tutorial, it's essential to have an understanding of the platform's [key concepts](../../getting-started/key-concepts.md). You must also be familiar with the platform's interface and know how to navigate it.
+In this tutorial, an agreement named _Adobe VIP Marketplace for Stark Industries_ contains three subscriptions. Currently, 100% of the billing for these subscriptions is assigned to a single buyer named _Stark Industries_. We'll activate split billing, add two new buyers named _Stark Industries II_ and _Stark Industries_ _III_, and specify the allocation percentage for these buyers.
 
 ### Split billing across buyers
 
@@ -22,30 +18,27 @@ Before getting started with the tutorial, it's essential to have an understandin
 
 Split billing can only be activated at the agreement level. To activate split billing:
 
-1. On the **Agreements** page, select the required agreement. The agreement details page opens.
-2. Select the dropdown arrow <i class="fa-chevron-down">:chevron-down:</i>, then choose **Split billing**.
-3. In the **Split billing** dialog, select the checkbox to enable split billing, then select **Save**.
+1. Open the **Agreements** page and select the required agreement.
+2. On the agreement details page, select the dropdown arrow <i class="fa-chevron-down">:chevron-down:</i>, then choose **Split billing**.
+3. Select the checkbox, then select **Save**. &#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EnableSP (1).png" alt=""><figcaption><p>The option to enable split billing.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/EnableSP (1).png" alt=""><figcaption><p>Select the checkbox to enable split billing.</p></figcaption></figure></div>
 
-Split billing is activated, and the **Split billing** tab appears on the agreement’s details page. You are now ready to configure the buyers to whom you want to allocate billing.&#x20;
+Split billing is activated, and the **Split billing** tab appears on the agreement details page.&#x20;
 {% endstep %}
 
 {% step %}
 **Configure buyers**
 
-In this tutorial, _Stark Industries_ is the **Owner** buyer who has been allocated 100% of the billing. We will configure _Stark Industries II_ and _Stark Industries III_ as additional buyers and then divide the costs across buyers.&#x20;
+In this tutorial, _Stark Industries_ is the **Owner** buyer who has been allocated 100% of the billing. We will configure _Stark Industries II_ and _Stark Industries III_ as additional buyers and divide costs across buyers.&#x20;
 
 To configure buyers:
 
-1. On the **agreement details** page, select the **Split billing** tab.
+1. On the agreement details page, select the **Split billing** tab.
 2. Select **Edit**.&#x20;
+3. In the **Split billing** dialog, select the required buyers, then select **Save**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SplitBillingEdit (2).png" alt=""><figcaption><p>The Edit option on the Split billing tab.</p></figcaption></figure></div>
-
-3. In the **Split billing** dialog, choose the buyers, then select **Save**.
-
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SPBuyers (1).png" alt=""><figcaption><p>The list of buyers for billing allocation.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/SPBuyers (1).png" alt=""><figcaption><p>Choose buyers for allocating billing.</p></figcaption></figure></div>
 
 _Stark Industries II_ and _Stark Industries III_ are added as buyers and displayed on the **Split billing** tab. You are now ready to allocate billing to these buyers.&#x20;
 
@@ -55,7 +48,7 @@ _Stark Industries II_ and _Stark Industries III_ are added as buyers and display
 {% step %}
 **Allocate percentage**
 
-Billing can be allocated by specifying percentages for each buyer. You can also specify the estimated license count. Both of these options are linked, meaning changing one updates the other automatically, although only the allocation % is used during billing (see [Split billing rules](../../../modules-and-features/marketplace/billing/#split-billing-rules) to learn more).
+Billing can be allocated by specifying percentages for each buyer. You can also specify the estimated license count. Both of these options are linked, meaning that changing one automatically updates the other, although only the allocation % is used during billing (see [Split billing rules](../../../modules-and-features/marketplace/billing/#split-billing-rules) to learn more).
 
 To start configuring the split for each buyer:
 

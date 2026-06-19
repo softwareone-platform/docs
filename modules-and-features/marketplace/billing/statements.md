@@ -18,7 +18,7 @@ An Excel statement contains the following tabs:
 
 The **Statements** page shows all statements for your account.
 
-To access this page, select **Billing** > **Statements** from the main menu.
+To open this page, select **Billing** > **Statements** from the main menu.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/statements.png" alt=""><figcaption><p>Use the Statements page to view your billing statements.</p></figcaption></figure></div>
 

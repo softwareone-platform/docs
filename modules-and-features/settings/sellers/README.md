@@ -14,7 +14,7 @@ Sellers are linked to your account by SoftwareOne. As a client or partner, you c
 
 The **Sellers** page displays a list of sellers in your account.
 
-To access the **Sellers** page, select the main menu, then choose **Settings** > **Sellers**. The list of sellers is displayed, as shown in the following image:
+To open the page, choose **Settings** > **Sellers** from the main menu.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/settings_sellers.png" alt=""><figcaption><p>Use the Sellers page to view and manage sellers.</p></figcaption></figure></div>
 

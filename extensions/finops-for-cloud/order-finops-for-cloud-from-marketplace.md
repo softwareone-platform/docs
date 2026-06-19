@@ -10,8 +10,8 @@ This tutorial describes how you can order a FinOps for Cloud subscription from t
 
 Before starting this tutorial, make sure you have the following:
 
-* A licensee in the **active** state or permission to [create a new licensee](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees). Licensee selection is required to set up a new agreement.
-* Contact details of the administrator who will manage your FinOps account. You must provide the admin's name and email address, so we can email the login details to the administrator.&#x20;
+* A licensee in the **active** state or permission to [create a new licensee](../../modules-and-features/settings/licensees/create-licensees.md). Licensee selection is required to set up a new agreement.
+* Provide the contact details of the administrator managing your FinOps account. You must include the admin's name and email address so we can send the login details directly to them.
 
 ### Order FinOps for Cloud from Marketplace
 
@@ -25,7 +25,7 @@ To start the process:
 2. Select **SoftwareOne FinOps for Cloud**.&#x20;
 3. On the details page, select **Buy now**.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>The Buy Now option on the product details page.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>The <strong>Buy now</strong> option on the product details page.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -44,11 +44,11 @@ Complete the following steps:
 Make sure to choose the correct currency, as it can't be changed after the agreement has been created. The currency must be the same currency that your cloud provider (like AWS or Azure) uses for billing. For example, if you are billed in USD, you must select USD from the list. If you choose a different currency, you cannot import the cost and usage data from your cloud provider.
 {% endhint %}
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_parameters.png" alt=""><figcaption><p>Use the Agreement step to provide your organization details.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_parameters.png" alt=""><figcaption><p>Use the <strong>Agreement</strong> step to provide your organization details.</p></figcaption></figure></div>
 
 4. **Items** – Choose **SoftwareOne FinOps for Cloud**, then select **Add items**. Select **Next**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>Select Add items to add SoftwareOne FinOps for Cloud to your order.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/FFC_items.png" alt=""><figcaption><p>Select <strong>Add items</strong> to add SoftwareOne FinOps for Cloud to your order.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

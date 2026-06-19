@@ -13,9 +13,9 @@ In the SoftwareOne Marketplace, users linked to an account can access modules an
 
 ### Users page
 
-The **Users** page allows account administrators to perform user management tasks, such as adding new users and managing existing users. Administrators can also modify a user, remove a user, reinvite a user to the account, and much more.&#x20;
+The **Users** page allows account administrators to perform user management tasks, such as adding new users and managing existing users. Administrators can also modify, remove, and reinvite users, and much more.&#x20;
 
-To access the **Users** page, select the main menu, then choose **Settings** > **Users**. The list of users is displayed:
+To open the page, choose **Settings** > **Users** from the main menu.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>Use the Users page to view and manage users.</p></figcaption></figure></div>
 

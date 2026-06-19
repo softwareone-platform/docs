@@ -64,4 +64,4 @@ Unlike invoice PDFs that summarize charges, statements provide a comprehensive b
 * **Charges** – Contains charges and subscriptions for the billing period. You can also see items within subscriptions, their quantities, and prices. If [split billing](../../marketplace/billing/split-billing/) is enabled, allocation percentage and estimated license count (ELC) details are also displayed.
 * **Orders** – Contains all orders placed during the billing period, including order type, order date, and related details.
 
-You can download your statements from the **Statements** page or use the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page if you cannot access your account. For more details, see [Download statements](../../marketplace/billing/statements/download-statements.md).
+You can download your statements from the **Statements** page or use the [Billing Statement Download](https://mystatements.platform.softwareone.com/) page if you cannot access your account. For details, see [Download statements](../../marketplace/billing/statements/download-statements.md).

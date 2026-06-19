@@ -50,7 +50,7 @@ Changing the billing currency affects future invoices only. Past invoices remain
 2. Select the agreement whose currency you want to update.
 3. On the agreement details page, select the dropdown arrow <i class="fa-chevron-down">:chevron-down:</i>, then choose **Billing currency**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/billing-currency-agreement.png" alt="Agreement details page menu with the Billing currency option"><figcaption><p>Open the menu, then select **Billing currency**.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/billing-currency-agreement.png" alt="Agreement details page menu with the Billing currency option"><figcaption><p>Open the menu, then select <strong>Billing currency</strong>.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}

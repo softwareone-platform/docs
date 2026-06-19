@@ -22,7 +22,7 @@ On the user details page, you can view detailed information for a specific user.
 To view details for a specific user:
 
 1. Go to **Settings** > **Users**.
-2. Select the user that you want to view. The user details page opens.
+2. Select the user you want to view. The user details page opens.
 3. Use the tabs to access different types of information:
 
 <table><thead><tr><th width="170">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Shows general information for the user.</td></tr><tr><td><strong>Groups</strong></td><td>Shows the user's group memberships and the modules they have access to.</td></tr><tr><td><strong>Details</strong></td><td>Shows the date and time details for the user, including when they joined the account.</td></tr><tr><td><strong>Audit trail</strong></td><td>Shows the audit trail for the user.</td></tr></tbody></table>

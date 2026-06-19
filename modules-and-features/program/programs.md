@@ -12,7 +12,7 @@ By enrolling in a program, you gain access to all the benefits associated with t
 
 The **Programs** page displays all active programs that you can enroll in.
 
-To access the page, choose **Program** > **Programs** from the main menu.&#x20;
+To open the page, choose **Program** > **Programs** from the main menu.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/programs-page.png" alt=""><figcaption><p>Use the Programs page to view the available programs.</p></figcaption></figure></div>
 

@@ -8,7 +8,9 @@ Account administrators can install any available extension. Each extension has a
 
 ### Managing integrations
 
-The **Integration** module allows you to discover, install, and manage extensions. To access the module, select the main menu, then choose **Settings** > **Integration**.&#x20;
+The **Integration** module allows you to discover, install, and manage extensions.&#x20;
+
+To open the module, choose **Settings** > **Integration** from the main menu.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Discover, install, and manage extensions.</p></figcaption></figure></div>
 

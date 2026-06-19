@@ -15,14 +15,14 @@ The exact steps depend on the product and vendor. This page covers the common fl
 **Review the product**
 
 1. Go to **Catalog** > **Products**.
-2. Select the desired product, for example, **Microsoft 365 Business, Enterprise & Apps-Commercial**. The product details page opens.
+2. Select the desired product, for example, **Microsoft 365 Business, Enterprise & Apps-Commercial**.&#x20;
 3. Review the information, including product details, features, and more.
 {% endstep %}
 
 {% step %}
 **Start the order**
 
-On the details page of your selected product, select **Buy now**.
+On the product details page, select **Buy now**.
 
 The purchase flow starts automatically and guides you through each step.
 
@@ -38,7 +38,7 @@ The ordering steps and required details vary by product and vendor. Most orders 
 2. **Select licensee** – Choose an existing licensee or create a new one.
 3. **Agreement details** – Complete agreement details, such as your company name, address, and more.
 4. **Select items** – Select the items you want to order and adjust quantities.
-5. **Additional information** - Add reference details, like internal order or agreement IDs, if needed.
+5. **Additional information** – Add reference details, like internal order or agreement IDs, if needed.
 6. **Review order** – Review the order details, go through the terms and conditions, and then submit your order.
 7. **Summary** – Review your order summary to ensure everything is correct.
 

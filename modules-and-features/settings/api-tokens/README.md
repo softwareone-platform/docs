@@ -21,7 +21,7 @@ All API requests must be made over HTTPS. Requests sent over HTTP or without aut
 
 The **API tokens** page lets account administrators create, view, edit, delete, enable, and disable API tokens.
 
-To open the page, select the main menu, then choose **Settings** > **API tokens**.
+To open the page, choose **Settings** > **API tokens** from the main menu.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>Use the API tokens page to view and manage tokens.</p></figcaption></figure></div>
 
