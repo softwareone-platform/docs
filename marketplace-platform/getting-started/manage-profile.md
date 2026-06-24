@@ -18,7 +18,7 @@ To manage your profile:
 2. Select your profile menu in the header, then select **My profile**.
 3. On the **My profile** page, select **Edit**.
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/manage_profile.png" alt="The Edit option on the My profile page"><figcaption><p>Select **Edit** on the **My profile** page to update your profile.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/manage_profile.png" alt="The Edit option on the My profile page"><figcaption><p>Select <strong>Edit</strong> on the <strong>My profile</strong> page to update your profile.</p></figcaption></figure></div>
 
 4. In **Edit user**, update your personal details as needed:
    * **Profile picture** – Add or update your profile picture. Use a PNG or JPG image up to 5 MB.

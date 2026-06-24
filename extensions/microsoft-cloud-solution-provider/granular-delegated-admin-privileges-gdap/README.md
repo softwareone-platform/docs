@@ -1,4 +1,4 @@
-# Granular Delegated Admin Privileges
+# Granular delegated admin privileges
 
 Granular Delegated Admin Privileges (GDAP) is Microsoft's latest innovation in cloud security management, and it's transforming how organizations collaborate with service providers.&#x20;
 
@@ -18,15 +18,15 @@ GDAP transforms your cloud security posture through several key advantages:
 
 #### For your business <a href="#for-your-business" id="for-your-business"></a>
 
-* **Enhanced and efficient support** - GDAP empowers SoftwareOne’s support teams to respond to your technical needs faster, tackling incidents swiftly and with the precision your business deserves.
-* **Precision-controlled access** - Rest assured, our access is limited strictly to what’s necessary and only for as long as needed. You set the rules with flexible, time-bound control that can be revoked at your discretion. It’s support on your terms.
-* **Ultimate flexibility** - Maintain full command of your cloud environments, like Azure or Microsoft 365, by setting the boundaries for scope and access duration. With SoftwareOne, you’re always in control.
+* **Enhanced and efficient support** – GDAP empowers SoftwareOne’s support teams to respond to your technical needs faster, tackling incidents swiftly and with the precision your business deserves.
+* **Precision-controlled access** – Rest assured, our access is limited strictly to what’s necessary and only for as long as needed. You set the rules with flexible, time-bound control that can be revoked at your discretion. It’s support on your terms.
+* **Ultimate flexibility** – Maintain full command of your cloud environments, like Azure or Microsoft 365, by setting the boundaries for scope and access duration. With SoftwareOne, you’re always in control.
 
 #### For SoftwareOne as your direct service provider <a href="#for-softwareone-as-your-service-provider" id="for-softwareone-as-your-service-provider"></a>
 
-* **Streamlined issue resolution** - GDAP accelerates our ability to resolve your issues, turning potential downtime into uptime and ensuring smooth, reliable operations that drive your success.
-* **Enhanced compliance and security** - As advocates of least-privileged access, GDAP ensures that our support activities align with stringent security protocols, reinforcing your trust in our commitment to safeguarding your cloud resources.
-* **Seamless support aligned with your policies** - GDAP enables us to adapt to your specific access controls, reinforcing your security policies and fostering a relationship built on trust and transparency.
+* **Streamlined issue resolution** – GDAP accelerates our ability to resolve your issues, turning potential downtime into uptime and ensuring smooth, reliable operations that drive your success.
+* **Enhanced compliance and security** – As advocates of least-privileged access, GDAP ensures that our support activities align with stringent security protocols, reinforcing your trust in our commitment to safeguarding your cloud resources.
+* **Seamless support aligned with your policies** – GDAP enables us to adapt to your specific access controls, reinforcing your security policies and fostering a relationship built on trust and transparency.
 
 ### Who can establish GDAP? <a href="#who-can-establish-gdap" id="who-can-establish-gdap"></a>
 
@@ -38,11 +38,11 @@ Operating without GDAP exposes your organization to several challenges:
 
 #### For your business <a href="#for-your-business" id="for-your-business"></a>
 
-* **Incomplete support capabilities** - Unlock SoftwareOne’s full suite of capabilities and expertise by enabling GDAP, ensuring your platform and support configurations are fully optimized.
-* **Delayed support response** - Each support request requires manual access approval, potentially extending resolution times from minutes to hours.
-* **Business continuity risks** - During critical incidents, delays in granting access could lead to extended system downtimes.
+* **Incomplete support capabilities** – Unlock SoftwareOne’s full suite of capabilities and expertise by enabling GDAP, ensuring your platform and support configurations are fully optimized.
+* **Delayed support response** – Each support request requires manual access approval, potentially extending resolution times from minutes to hours.
+* **Business continuity risks** – During critical incidents, delays in granting access could lead to extended system downtimes.
 
 #### For SoftwareOne as your service provider <a href="#for-softwareone-as-your-service-provider-.1" id="for-softwareone-as-your-service-provider-.1"></a>
 
-* **Restricted support ability** - Without GDAP, our teams face limitations in delivering prompt support, reducing the quality of service we are dedicated to providing.
-* **Reduced operational efficiency** - Continuously requesting access permissions takes time that could be spent solving your issues, impacting customer satisfaction, and the support experience.
+* **Restricted support ability** – Without GDAP, our teams face limitations in delivering prompt support, reducing the quality of service we are dedicated to providing.
+* **Reduced operational efficiency** – Continuously requesting access permissions takes time that could be spent solving your issues, impacting customer satisfaction, and the support experience.

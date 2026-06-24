@@ -1,4 +1,4 @@
-# Azure lighthouse
+# Azure Lighthouse
 
 Azure Lighthouse is a Microsoft solution that enables seamless multi-tenant management. It allows administrators to manage multiple environments in one place without switching between accounts.&#x20;
 
@@ -35,4 +35,4 @@ Not activating Azure Lighthouse might result in significant drawbacks for you an
 * **Inefficient management** – Without Azure Lighthouse, SoftwareOne faces increased complexity when managing multiple customers, reducing the efficiency of service delivery.
 * **Security risks** – Without built-in governance and role-based access controls, there's a higher risk of unauthorized actions within customer environments.
 
-If you have any technical questions or concerns about the Azure Lighthouse activation process, contact our **Services Support** team. For details, see [Contacting SoftwareOne Support](../../../help-and-support/contact-support.md).
+If you have any technical questions or concerns about the Azure Lighthouse activation process, contact our **Services Support** team. For details, see [Contact support](../../../help-and-support/contact-support.md).

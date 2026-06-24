@@ -1,6 +1,6 @@
-# Assign Subscription Owner Role
+# Assign Subscription Owner role
 
-To [complete the Azure Lighthouse onboarding](complete-the-azure-lighthouse-onboarding.md), you must have the subscription owner role in Azure.&#x20;
+To complete the Azure Lighthouse onboarding, you must have the subscription owner role in Azure.&#x20;
 
 Global administrators can assign the subscription owner role to the user who will complete the Azure Lighthouse onboarding.&#x20;
 
@@ -34,9 +34,13 @@ The **Owner** role is assigned to the user and displayed on the **Role assignmen
 
 ### Next steps
 
-After assigning the role in Azure, navigate to the **Orders** page in the Marketplace Platform to complete the onboarding steps. For step-by-step guidance, see [Complete Azure Lighthouse Onboarding](complete-the-azure-lighthouse-onboarding.md).&#x20;
+After assigning the role in Azure, open the **Orders** page in the Marketplace to complete the onboarding steps. For details, see [Complete Azure Lighthouse Onboarding](complete-the-azure-lighthouse-onboarding.md).&#x20;
 
 ### Related topics
+
+{% content-ref url="../additional-resources/faqs/do-i-need-to-set-up-azure-lighthouse-again-after-a-billing-transfer.md" %}
+[do-i-need-to-set-up-azure-lighthouse-again-after-a-billing-transfer.md](../additional-resources/faqs/do-i-need-to-set-up-azure-lighthouse-again-after-a-billing-transfer.md)
+{% endcontent-ref %}
 
 {% content-ref url="../additional-resources/faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md" %}
 [how-do-i-troubleshoot-lighthouse-activation-errors.md](../additional-resources/faqs/how-do-i-troubleshoot-lighthouse-activation-errors.md)

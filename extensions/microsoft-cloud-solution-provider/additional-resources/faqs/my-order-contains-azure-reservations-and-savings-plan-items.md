@@ -13,7 +13,7 @@ With Azure reservations and savings plan items, you can leverage Microsoft's sel
 * Implement cost-saving strategies when they align with your budget cycles.
 * Maintain direct control over your cloud spending optimizations.
 
-## Purchasing Azure Reserved Instances <a href="#how-to-purchase-azure-reserved-instances" id="how-to-purchase-azure-reserved-instances"></a>
+### Purchasing Azure Reserved Instances <a href="#how-to-purchase-azure-reserved-instances" id="how-to-purchase-azure-reserved-instances"></a>
 
 Reserved Instances typically offer 30-70% savings compared to pay-as-you-go pricing.&#x20;
 
@@ -27,7 +27,7 @@ To purchase Azure Reserved Instances:
 
 For detailed instructions, see [Buy a reservation](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepare-buy-reservation) in Microsoft's documentation. The page also describes the Azure roles required for buying reservations.
 
-## Purchasing Azure Savings Plan <a href="#how-to-purchase-azure-reserved-instances" id="how-to-purchase-azure-reserved-instances"></a>
+### Purchasing Azure Savings Plan <a href="#how-to-purchase-azure-reserved-instances" id="how-to-purchase-azure-reserved-instances"></a>
 
 Azure Savings plan offers flexible savings across multiple services, and it can significantly reduce resource costs. To buy a savings plan, you must have the necessary roles. For details, see [Permissions to buy an Azure savings plan](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/permission-buy-savings-plan).
 
