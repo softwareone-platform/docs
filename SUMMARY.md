@@ -349,7 +349,7 @@
       * [I'm getting errors when creating certificates or CSP orders](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/im-getting-errors-when-creating-certificates-or-csp-orders.md)
       * [My application for Microsoft Education is denied](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/my-application-for-microsoft-education-is-denied.md)
       * [What is MCA policy enforcement](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-is-mca-policy-enforcement.md)
-      * [How do I get the Microsoft CSP nonprofit qualification?](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-do-i-get-the-microsoft-csp-nonprofit-qualification.md)
+      * [How do I get the Microsoft CSP nonprofit qualification](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-do-i-get-the-microsoft-csp-nonprofit-qualification.md)
       * [How to disable the automatic renewal of an NCE subscription](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
       * [My order contains Azure reservations and savings plan items](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/my-order-contains-azure-reservations-and-savings-plan-items.md)
       * [What is offer attestation](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-is-offer-attestation.md)
