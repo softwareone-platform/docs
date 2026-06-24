@@ -1,6 +1,6 @@
 # I'm getting errors when creating certificates or CSP orders
 
-If you encounter an error during the certificate creation process or when submitting an order, use these steps to validate your partner information in Microsoft Partner Center before retrying certificate creation or CSP orders.
+If you face errors during the certificate creation process or when submitting orders, use the information on this page to validate your partner information in Microsoft Partner Center before retrying certificate creation or CSP orders.
 
 ### Verify that the PLA ID (formerly MPN ID) is valid
 

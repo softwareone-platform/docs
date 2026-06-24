@@ -1,4 +1,4 @@
-# What is MCA Policy Enforcement?
+# What is MCA policy enforcement
 
 Starting 7 October 2025, Microsoft is implementing a policy requiring customers to review and accept the latest version of the Microsoft Customer Agreement (MCA).&#x20;
 
@@ -10,19 +10,19 @@ While existing online services will remain uninterrupted, customers who don't ac
 
 To comply with this Microsoft policy, the Marketplace Platform automatically processes MCA acceptance when the order is placed. The method depends on the tenant type and the individual placing the order.
 
-**For Self-Consumption Tenants**
+**For self-consumption tenants**
 
 * **Client-placed orders** - If you are a SoftwareOne client placing an order directly, the MCA is automatically accepted using the details of the individual who placed the order. This applies to both new purchases and change orders.
 * **Orders placed by SoftwareOne associates**
   * **Purchase orders** - The MCA is signed automatically using the Primary Contact details provided at the time of placing the order.
-  * **Change orders** - You must accept the updated MCA through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement), using Global Administrator credentials.&#x20;
+  * **Change orders** - You must accept the updated MCA via [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement), using Global Administrator credentials.&#x20;
 
-**For Resale Tenants**
+**For resale tenants**
 
 * **Purchase orders** - The MCA is automatically signed using the Primary Contact details provided when the order was placed.&#x20;
-* **Change orders** - Your end customer is required to accept the updated MCA through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement), using Global Administrator credentials.&#x20;
+* **Change orders** - Your end customer must accept the updated MCA through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement), using Global Administrator credentials.&#x20;
 
-Orders requiring MCA acceptance remain in the **Querying** status until the latest version of the MCA has been accepted.
+Orders requiring MCA acceptance remain querying until the latest version of the MCA is accepted.
 
 ### Accepting the revised MCA
 
@@ -31,6 +31,6 @@ To accept the revised MCA:
 1. Sign in to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) using your Global Administrator credentials.
 2. Review and accept the updated MCA.
 
-For specific steps, see [Accepting the MCA](../../products-and-programs/microsoft-customer-agreement-mca/accepting-the-mca.md). Once the MCA is accepted, your Marketplace order automatically moves from **Querying** to **Processing** status.
+For specific steps, see [Review and accept the MCA](../../products-and-programs/microsoft-customer-agreement-mca/accepting-the-mca.md). After the MCA is accepted, your Marketplace order automatically moves from **Querying** to **Processing**.
 
-If you need technical assistance with your order, contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md). For legal inquiries, including questions about MCA terms, consult your legal team or Microsoft directly.
+If you need assistance with your order, contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md). For legal inquiries, including questions about MCA terms, consult your legal team or Microsoft directly.

@@ -1,6 +1,6 @@
-# My Application for Microsoft Education is Denied
+# My application for Microsoft Education is denied
 
-If your application for [Microsoft Education](../../products-and-programs/microsoft-for-education.md) has been denied due to a lack of information or incompleteness, you can resubmit the application. Microsoft allows up to three verification attempts.&#x20;
+If your application for [Microsoft Education](../../products-and-programs/microsoft-for-education.md) is denied due to a lack of information or incompleteness, you can resubmit the application. Microsoft allows up to three verification attempts.&#x20;
 
 To request a reverification:
 
@@ -11,6 +11,6 @@ To request a reverification:
 
 After resubmitting the request, allow 3–5 business days for Microsoft to review your submission.&#x20;
 
-To track the status of your request, visit the Microsoft 365 admin center. For detailed instructions, see the [Microsoft documentation](https://learn.microsoft.com/en-us/microsoft-365/commerce/subscriptions/verify-academic-eligibility?view=o365-worldwide\&source=recommendations#check-the-status-of-your-schools-academic-eligibility).&#x20;
+To track the status of your request, visit the Microsoft 365 admin center.
 
-If your approval request has been denied after three attempts, you must engage with Microsoft Support directly or engage with SoftwareOne for assistance.
+If your request is unsuccessful after three attempts, you must engage with Microsoft Support directly. You can also contact SoftwareOne.&#x20;
