@@ -88,15 +88,7 @@ You can save more as a VIP Marketplace Member when your organization qualifies f
 
 Your discount increases as you purchase more licenses.
 
-| Discount level | Commitment term | License quantity | Discount |
-| -------------- | --------------- | ---------------- | -------- |
-| 1              | 1 Year          | 1 - 9            | No       |
-| 2              | 1 Year          | 10 - 49          | Yes      |
-| 3              | 1 Year          | 50 - 99          | Yes      |
-| 4              | 1 Year          | 100+             | Yes      |
-| 12             | 3 Year          | 10 - 49          | Yes      |
-| 13             | 3 Year          | 50 - 99          | Yes      |
-| 14             | 3 Year          | 100+             | Yes      |
+<table data-search="false"><thead><tr><th>Discount level</th><th>Commitment term</th><th>License quantity</th><th>Discount</th></tr></thead><tbody><tr><td>1</td><td>1 Year</td><td>1 - 9</td><td>No</td></tr><tr><td>2</td><td>1 Year</td><td>10 - 49</td><td>Yes</td></tr><tr><td>3</td><td>1 Year</td><td>50 - 99</td><td>Yes</td></tr><tr><td>4</td><td>1 Year</td><td>100+</td><td>Yes</td></tr><tr><td>12</td><td>3 Year</td><td>10 - 49</td><td>Yes</td></tr><tr><td>13</td><td>3 Year</td><td>50 - 99</td><td>Yes</td></tr><tr><td>14</td><td>3 Year</td><td>100+</td><td>Yes</td></tr></tbody></table>
 
 ### Qualify for volume discounts with a single purchase <a href="#qualify-for-volume-discounts-with-a-single-purchase" id="qualify-for-volume-discounts-with-a-single-purchase"></a>
 
