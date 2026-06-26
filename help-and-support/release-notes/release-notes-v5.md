@@ -28,23 +28,23 @@ We are pleased to announce the latest release of SoftwareOne's Marketplace Platf
 
 ### Analytics for Your Billing Data
 
-Analytics is a new feature that allows you to visualize your billing data. You can access this feature from the main menu by selecting **Billing** > **Analytics**.
+Analytics is a new feature that allows you to visualize your billing data. You can access this feature from **Billing** > **Analytics**.
 
-Analytics uses interactive charts and filters to help you understand charges from your invoices and credit memos so you can monitor spending, forecast budgets, and manage your expenditure. The feature offers robust grouping options to help you group data across dimensions, such as **Agreement**, **Item**, **Product**, and more. It provides a visual summary of your top 10 entities based on your selected grouping, and automatically combines the remaining entities under a single category called Others/Unmatched.&#x20;
+Analytics uses interactive charts and filters to help you understand charges from your invoices and credit memos so you can monitor spending, forecast budgets, and manage your expenditure. The feature offers grouping options to help you group data across dimensions. It provides a visual summary of your top 10 entities based on your selected grouping, and automatically combines the remaining entities under a single category called Others/Unmatched.&#x20;
 
-Additionally, you can also export your data to Excel and choose a target currency for your financial reporting. For more information, see [Analytics](../../modules-and-features/billing/analytics/).
+With Analytics, you can also export your data and choose a target currency for reporting. For more information, see [Analytics](../../modules-and-features/billing/analytics/).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/Billing Analytics 4.png" alt=""><figcaption><p>Monitor your billing data using Analytics.</p></figcaption></figure></div>
 
 ### Microsoft Extended Service Terms
 
-Starting 8 April 2026, SoftwareOne Marketplace will provide self-service capabilities, allowing you to choose whether subscriptions should go to Extended Service Terms (EST) at renewal time. You will have the option to **Renew**, **Cancel at expiration**, or **Move to EST**:
+SoftwareOne Marketplace offers self-service capabilities, allowing you to choose whether a subscription should convert to Extended Service Terms (EST) at renewal time. This means you can now renew the subscription, cancel it at expiration, or move to EST.
 
-* **Renew the subscription** - This works like it always has, supporting scheduled changes or renewing as is.
-* **Cancel at expiration** - This stops the services at the end of the term. Data retention is preserved, but the subscription can't be recovered or reactivated.
-* **Move to EST** - This new option converts your subscription into a monthly term that continues until you decide to cancel or convert it to a regular subscription. Licenses can't be modified under EST. Additionally, the extended service term bills monthly at the current monthly term rate plus a 3% uplift (or 23% if no monthly plan exists). EST applies only to eligible subscriptions that are renewed or expire after 4 May 2026.
+* **Renew the subscription** – This works like it always has, supporting scheduled changes or renewing as is.
+* **Cancel at expiration** – This stops the services at the end of the term. Data retention is preserved, but the subscription can't be recovered or reactivated.
+* **Move to EST** – This new option converts your subscription into a monthly term that continues until you decide to cancel or convert it to a regular subscription. Licenses can't be modified under EST. Additionally, the extended service term bills monthly at the current monthly term rate plus a 3% uplift (or 23% if no monthly plan exists). EST applies only to eligible subscriptions that are renewed or expire after 4 May 2026.
 
-For information on the eligibility criteria for EST, see [What subscription renewal options are available?](../../extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-subscription-renewal-options-are-available.md)
+For information on EST eligibility criteria, see [What subscription renewal options are available?](../../extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-subscription-renewal-options-are-available.md)
 
 ### Assets and Entitlements in the Marketplace
 
@@ -73,8 +73,8 @@ The new product is available in all AWS regions that support billing transfer. T
 
 This release includes the following currency and billing updates:
 
-* **Billing currency support** - You can now select the currency in which you want to receive your Marketplace invoices, either when creating a new agreement for a new purchase order or after placing your order. For more information, see [How to set or change your billing currency](../../marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-set-or-change-billing-currency.md).
-* **Currencies & exchange updates** - The new **Currencies** & **Currency exchange** pages, located under **Settings** > **Exchange**, provide visibility into how currencies and exchange rates are managed. You can view all supported currencies, configured currency pairs (for example, GBP: EUR), the latest exchange rates in both directions, usage across agreements, status, and last updated date. For more information, see [Exchange](../../modules-and-features/settings/exchange/).
+* **Billing currency support** – You can now select the currency in which you want to receive your Marketplace invoices, either when creating a new agreement for a new purchase order or after placing your order. For more information, see [How to set or change your billing currency](../../marketplace-platform/guides-and-tutorials/marketplace-for-clients/how-to-set-or-change-billing-currency.md).
+* **Currencies & exchange updates** – The new **Currencies** & **Currency exchange** pages, located under **Settings** > **Exchange**, provide visibility into how currencies and exchange rates are managed. You can view all supported currencies, configured currency pairs (for example, GBP: EUR), the latest exchange rates in both directions, usage across agreements, status, and last updated date. For more information, see [Exchange](../../modules-and-features/settings/exchange/).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-exchange.png" alt=""><figcaption><p>View the list of currencies and exchange information.</p></figcaption></figure></div>
 
@@ -100,8 +100,8 @@ We've enhanced the regional settings in the SoftwareOne Marketplace to give you 
 
 Now, when customizing your regional settings, you can choose whether to use the same settings as your browser or apply your own custom preferences:
 
-* **Browser defaults** - The option is selected by default, and it follows the regional settings of your browser.
-* **Custom settings** - This option allows you to configure your preferences for language, date and time, time zone, and number formats. For more information, see [Manage your profile](../../marketplace-platform/getting-started/manage-profile.md).
+* **Browser defaults** – This option is selected by default, and it follows your browser's regional settings.
+* **Custom settings** – This option allows you to configure your preferences for language, date and time, time zone, and number formats. For more information, see [Manage your profile](../../marketplace-platform/getting-started/manage-profile.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-regional-settings.png" alt=""><figcaption><p>Customize the regional settings for your account.</p></figcaption></figure></div>
 
@@ -109,24 +109,24 @@ Now, when customizing your regional settings, you can choose whether to use the 
 
 ​You can now view your SoftwareOne account team directly within the platform via the **Account team** widget on the **Home** page.&#x20;
 
-The widget displays the names of your account team members and allows you to contact them. For more information, see [Home page widgets](../../marketplace-platform/getting-started/interface/#home-page-widgets). ​You can also view your account team from the main menu by selecting **Settings** > **Account team**.
+The widget displays your account team members and allows you to contact them. For more information, see [Home page widgets](../../marketplace-platform/getting-started/interface/#home-page-widgets). ​You can also view your account team on the **Settings** > **Account team** page.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-account-team.png" alt=""><figcaption><p>View your SoftwareOne account team directly within the platform.</p></figcaption></figure></div>
 
 ### Enhanced Account Switcher Experience
 
-You can now add specific accounts to your favorites and quickly access recently accessed accounts. To support this experience, we’ve made the following improvements to the account switcher in your profile menu:
+You can add specific accounts to your favorites and quickly access recently accessed accounts. To support this experience, the following improvements have been made to the account switcher in your profile menu:
 
-* **​Favorites** - This tab displays the accounts you’ve added as favorites. You can also remove an account from your favorites directly from this tab. For more information, see [Using Favorites](../../marketplace-platform/getting-started/mark-favorite-pages.md).
-* ​**Recents** - This tab shows all accounts you’ve recently accessed. You can also mark an account as a favorite directly from the **Recents** tab.
+* **​Favorites** – This tab displays the accounts you’ve added as favorites. You can also remove an account from your favorites directly from this tab. For more information, see [Using Favorites](../../marketplace-platform/getting-started/mark-favorite-pages.md).
+* ​**Recents** – This tab shows all accounts you’ve recently accessed. You can also mark an account as a favorite directly from the **Recents** tab.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-account-switcher.png" alt=""><figcaption><p>Add favorites and view recently accessed accounts.</p></figcaption></figure></div>
 
 ### Simplified Add User Process
 
-We've streamlined the process for adding users to your Marketplace account.&#x20;
+We've streamlined the process for adding users to your account.&#x20;
 
-When adding users, administrators no longer need to provide the user’s phone number. The **Phone number** field has been removed from the workflow. Invited users can now enter their phone number themselves during registration after accepting the invitation.&#x20;
+When adding users, administrators no longer need to provide the user’s phone number. Therefore, the **Phone number** field has been removed. Instead, invited users can enter their phone number themselves during registration after accepting the invitation.&#x20;
 
 This change makes the process simpler for administrators while still allowing individuals to provide their contact information when setting up their account. For more information, see [Add new users](../../modules-and-features/settings/users/add-new-users.md).
 
@@ -134,7 +134,7 @@ This change makes the process simpler for administrators while still allowing in
 
 You can now share your experience, suggestions, and improvement ideas with us using the **Send feedback** form. This new form offers a structured, transparent way to communicate with SoftwareOne.
 
-When submitting feedback, you can provide a rating and detailed comments, attach supporting files, or screenshots. After submitting feedback, you can view a list of your feedback entries and view the status of each submission. For more information, see [Share feedback](../share-feedback.md).
+When submitting feedback, you can provide a rating and detailed comments, attach supporting files, including screenshots. You can also view a list of your feedback entries and view the status of each submission. For more information, see [Share feedback](../share-feedback.md).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-send-feedback (1).png" alt=""><figcaption><p>Share your feedback and ideas for improvements.</p></figcaption></figure></div>
 
@@ -148,12 +148,12 @@ Additionally, we've expanded the list of notification templates to include order
 
 ### Vendor & Product Profile Pages
 
-We are introducing **Vendor profiles** and **Product profiles** pages in the platform to enhance discovery and create a more seamless experience in the SoftwareOne Marketplace. &#x20;
+We are introducing **Vendor profiles** and **Product profiles** pages to enhance discovery and create a more seamless experience. &#x20;
 
 You can access these new pages through the **Catalog** option in the main menu.
 
 * [Vendor profiles](../../modules-and-features/catalog/vendor-profiles.md) are centralized marketing and informational pages for each vendor. These profiles allow you to learn about the vendors and the products they offer.
-* [Product profiles](../../modules-and-features/catalog/product-profiles/) are marketing-focused representations of a product or a grouping of products. They are designed to help you understand the product and start the ordering process directly from within the profile.
+* [Product profiles](../../modules-and-features/catalog/product-profiles/) are marketing-focused representations of a product or a grouping of products. They are designed to help you understand the product.
 
 ### Alga PSA Integration with Marketplace Platform
 
@@ -165,19 +165,19 @@ This integration helps partners simplify operations and manage their resale busi
 
 ### Extensions Framework
 
-Our new **Extensions** directory, accessible through **Settings** in the main navigation menu, is a central place to search, browse, and filter available extensions.&#x20;
+Our new **Settings** > **Extensions** directory is a central place to search, browse, and filter available extensions.&#x20;
 
-This new directory allows account administrators to discover and install extensions across all supported account types, including client and vendor accounts. Each extension includes a dedicated details page with a comprehensive description, documentation, terms of service, and the permissions required for installation.&#x20;
+Account administrators can discover and install extensions across all supported account types. Each extension includes a dedicated details page with a comprehensive description, documentation, terms of service, and the permissions required for installation.&#x20;
 
-Once an extension is installed, it can be viewed on the **Installations** page. From there, administrators can also see who installed an extension, when it was installed, and check the installation status. For more information, see [Integration](../../modules-and-features/settings/integration/).
+Once an extension is installed, it's listed on the **Installations**. From there, administrators can see who installed an extension, when it was installed, and check the installation status. For more information, see [Integration](../../modules-and-features/settings/integration/).
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/release-notes-extensions.png" alt=""><figcaption><p>Discover and install extensions<strong>.</strong></p></figcaption></figure></div>
 
 ### Procurement Management
 
-You can now access your sales orders and sales quotes directly in the Marketplace by navigating to the **Procurement** section in the main menu.
+You can access your sales orders and sales quotes directly in the Marketplace by navigating to **Procurement** in the main menu.
 
-* The [Sales orders](../../modules-and-features/procurement/sales-orders/) page offers an improved way to manage your sales orders. You can narrow down orders based on specific criteria, select an order to view detailed information, and download a PDF of your sales order.&#x20;
+* The [Sales orders](../../modules-and-features/procurement/sales-orders/) page allows you to manage your sales orders. You can narrow down orders based on specific criteria, select an order to view detailed information, and download a PDF of your sales order.&#x20;
 * The [Sales quotes reporting](../../modules-and-features/procurement/sales-quotes-reporting/) page provides a unified view of what has been quoted and what is currently in progress. From this page, you can view your pending, accepted, and historical sales quotes, along with corresponding sales orders as they move through fulfilment and billing. You can also select a quote to see details and download the sales quote PDF.
 
 For former PyraCloud users, the **Sales orders** and **Sales quotes reporting** pages provide an upgraded experience. If you previously used PyraCloud for your sales orders and quotes, you can use the new interface with enhanced search capabilities, PDF downloads, advanced filters, and the option to **switch to classic view**.
@@ -194,23 +194,23 @@ We've also added a centralized reference called [Business objects & API collecti
 
 This release includes the following Interface and filtering enhancements:
 
-* **Second-level condition group filter** - All tables (data grids) now support a second-level filter condition called **Add a conditional group**, allowing you to create advanced filters by combining multiple rules and conditions. You can access this feature by selecting the **Filter** option and choosing **Add a conditional group**. For more information, see [Customize the data grid](../../marketplace-platform/getting-started/customize-the-data-grid.md).
-* **Collapsible side navigation bar** - Where available (for example, the [Settings](../../modules-and-features/settings/) module), the side navigation bar can now be collapsed or expanded. When collapsed, the bar reduces in size to provide a more streamlined interface. When expanded, it displays all pages within this module, providing easy access.
-* **Automatic page refresh** - All pages now refresh automatically, so you can see the latest updates.
-* **Multi-account tabs** - You can now work with multiple accounts in different browser tabs without them interfering with each other. Each tab keeps its own account, so actions in one tab won’t affect another. This enhancement applies to new modules in the SoftwareOne Marketplace only.
+* **Second-level condition group filter** – All tables (data grids) now support a second-level filter condition called **Add a conditional group**, allowing you to create advanced filters by combining multiple rules and conditions. You can access this feature by selecting the **Filter** option and choosing **Add a conditional group**. For more information, see [Customize the data grid](../../marketplace-platform/getting-started/customize-the-data-grid.md).
+* **Collapsible side navigation bar** – Where available (for example, the [Settings](../../modules-and-features/settings/) module), the side navigation bar can now be collapsed or expanded. When collapsed, the bar reduces in size to provide a more streamlined interface. When expanded, it displays all pages within this module, providing easy access.
+* **Automatic page refresh** – All pages now refresh automatically, so you can see the latest updates.
+* **Multi-account tabs** – You can now work with multiple accounts in different browser tabs without them interfering with each other. Each tab keeps its own account, so actions in one tab won’t affect another. This enhancement only applies to new modules in the Marketplace.
 
 ### Extension Improvements
 
 We’ve made several updates to extensions, including [Microsoft CSP](../../extensions/microsoft-cloud-solution-provider/), [FinOps for Cloud](../../extensions/finops-for-cloud/), and [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/).&#x20;
 
-Each extension has its own set of new features and enhancements designed to improve your experience and workflow. For details on what has changed in each extension, refer to their individual release notes: [Microsoft CSP release notes](../../extensions/microsoft-cloud-solution-provider/additional-resources/release-notes.md), [FinOps for Cloud release notes](https://docs.finops.softwareone.com/help-and-support/release-notes), and [Adobe VIP Marketplace release notes](../../extensions/adobe-vip-marketplace/release-notes.md)
+Each extension has its own set of new features and enhancements designed to improve your experience and workflow. For details on what has changed in each extension, refer to their individual release notes: [Microsoft CSP release notes](../../extensions/microsoft-cloud-solution-provider/additional-resources/release-notes.md), [FinOps for Cloud release notes](https://docs.finops.softwareone.com/help-and-support/release-notes), and [Adobe VIP Marketplace release notes](../../extensions/adobe-vip-marketplace/release-notes.md).
 
 ### Other Updates
 
-The following modules have been deprecated and are no longer supported by the Marketplace Platform:
+The following modules are no longer supported by the Marketplace:
 
 * ​Requests Management
 * ​Collaboration Site
 * ​Software Downloads
 
-Additionally, the **Contact Person** setting for Buyers and Licensees has been removed. This change means that you will no longer need to maintain a single contact person at the Buyer or Licensee level. Contact handling is now covered by Agreement contacts and other parameters in the platform.
+Additionally, the **Contact Person** setting for Buyers and Licensees has been removed. This change means you no longer need to maintain a single contact person at the Buyer or Licensee level. Contact handling is now covered by Agreement contacts and other parameters.
