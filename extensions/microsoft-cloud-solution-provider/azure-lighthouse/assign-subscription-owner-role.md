@@ -1,12 +1,12 @@
-# Assign Subscription Owner role
+# Assign the Owner role to a subscription
 
-To complete the Azure Lighthouse onboarding, you must have the subscription owner role in Azure.&#x20;
+To complete Azure Lighthouse onboarding, you must have the **Owner** role in Azure.&#x20;
 
-Global administrators can assign the subscription owner role to the user who will complete the Azure Lighthouse onboarding.&#x20;
+A Global Administrator can assign the owner role to the user who will complete the onboarding.&#x20;
 
 ### Assigning the Owner role
 
-To assign the Owner role:
+To assign the role:
 
 1. Sign in to the [Microsoft Azure portal](https://portal.azure.com/) as a Global Administrator.
 2. Verify that you have permission to add role assignments. To verify permissions:&#x20;
@@ -17,7 +17,7 @@ To assign the Owner role:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image-20240927-093838 (1).png" alt=""><figcaption><p>Properties tab</p></figcaption></figure></div>
 
-3. In the Search bar, type **Subscriptions.** Then, on the **Subscriptions** page, select the required subscription.
+3. In the Search bar, type **Subscriptions**. Then, on the **Subscriptions** page, select the required subscription.
 4. In the left pane, select **Access control (IAM)**.
 5. Select the **Role assignments** tab to view the role assignments at this scope. Then, select **Add** > **Add role assignment**.
 6. On the **Privileged administrator roles** tab, select the **Owner** role and select **Next**.

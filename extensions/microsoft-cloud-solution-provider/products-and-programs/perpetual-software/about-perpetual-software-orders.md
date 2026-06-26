@@ -22,7 +22,7 @@ The following rules apply to perpetual software orders:
 * You cannot increase or decrease the quantity of licenses.
 * After the order is complete and the license is set up, you can retrieve your product keys from the [Microsoft admin portal](https://admin.microsoft.com). For details, see [Download software and product license keys](https://learn.microsoft.com/en-us/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide#download-software-and-product-license-keys).
 * You can cancel within 30 days of the purchase date.&#x20;
-* To buy more licenses, you can submit a change order. For details, see [Order additional perpetual software licenses](../../additional-resources/tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md).
+* To buy more licenses, you can submit a change order. For details, see [Order additional perpetual software licenses](../../additional-resources/perpetual-software/order-additional-perpetual-software-licenses.md).
 
 ### How ordering works
 
@@ -30,7 +30,7 @@ You order perpetual software by submitting a purchase order.
 
 In most cases, you start from **Catalog** > **Products**, select **Microsoft Perpetual Software**, and create a new agreement as part of the order flow.
 
-For step-by-step instructions, see [Buy perpetual software licenses](../../additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md).&#x20;
+For step-by-step instructions, see [Buy perpetual software licenses](../../additional-resources/perpetual-software/buy-perpetual-software-licenses.md).&#x20;
 
 Perpetual software orders appear as a **one-time purchase** in the agreement details.
 
@@ -56,5 +56,5 @@ To cancel your purchase, contact [Marketplace Platform Support](../../../../help
 
 ### Related tasks
 
-* [Buy perpetual software licenses](../../additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
-* [Order additional perpetual software licenses](../../additional-resources/tutorials-and-videos/perpetual-software/order-additional-perpetual-software-licenses.md)
+* [Buy perpetual software licenses](../../additional-resources/perpetual-software/buy-perpetual-software-licenses.md)
+* [Order additional perpetual software licenses](../../additional-resources/perpetual-software/order-additional-perpetual-software-licenses.md)

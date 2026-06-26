@@ -38,6 +38,10 @@ This updates the order status from **Querying** to **Processing**, allowing Soft
 
 ### Related topics
 
+{% content-ref url="assign-subscription-owner-role.md" %}
+[assign-subscription-owner-role.md](assign-subscription-owner-role.md)
+{% endcontent-ref %}
+
 {% content-ref url="../additional-resources/faqs/do-i-need-to-set-up-azure-lighthouse-again-after-a-billing-transfer.md" %}
 [do-i-need-to-set-up-azure-lighthouse-again-after-a-billing-transfer.md](../additional-resources/faqs/do-i-need-to-set-up-azure-lighthouse-again-after-a-billing-transfer.md)
 {% endcontent-ref %}

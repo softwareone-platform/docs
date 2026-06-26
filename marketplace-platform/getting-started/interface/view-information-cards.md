@@ -18,8 +18,10 @@ Information cards also contain links to related objects. Selecting a link takes 
 
 ### Review description cards&#x20;
 
-Description cards are tooltip-style components used throughout the SoftwareOne Marketplace to provide short and contextual information directly within the interface. These cards offer additional guidance to help you understand key details and make informed decisions while using the platform.
+Description cards are tooltip-style components used throughout the SoftwareOne Marketplace to provide short and contextual information directly within the interface. These cards offer additional guidance to help you understand key details and make informed decisions.
 
-When description cards are available, you’ll see an info icon (<i class="fa-circle-info">:circle-info:</i>). For example, during the purchasing process, the info icon appears next to the price when item pricing details are available. You can hover over the icon to view the description card containing additional pricing information. To close a card, select **Close** or press **Esc**.
+When description cards are available, you’ll see an info icon (<i class="fa-circle-info">:circle-info:</i>). For example, during order creation, an info icon appears next to the price when additional details are available. The details may include promotional information, including discount percentage, promo dates, seat requirements, and more.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/description-card.png" alt=""><figcaption><p>Use description cards when you need more context or explanation.</p></figcaption></figure></div>
+You can hover over the icon to view the additional information. To close a card, select **Close** or press **Esc**.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Description-card-2.png" alt=""><figcaption><p>Use description cards when you need more context or explanation.</p></figcaption></figure></div>

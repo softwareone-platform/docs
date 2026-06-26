@@ -187,11 +187,11 @@ For product-specific tutorials, see the following pages:
 
 * [Order an Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
 * [Order FinOps for Cloud from Marketplace](../../extensions/finops-for-cloud/order-finops-for-cloud-from-marketplace.md)
-* [Order a Microsoft 365 subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/order-microsoft-365-subscription-new-tenant.md)
-* [Order a Microsoft 365 subscription for the existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
-* [Order an Azure subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
-* [Order an Azure subscription for the existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
-* [Buy perpetual software licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md)
+* [Order a Microsoft 365 subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-new-tenant.md)
+* [Order a Microsoft 365 subscription for the existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
+* [Order an Azure subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
+* [Order an Azure subscription for the existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
+* [Buy perpetual software licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/perpetual-software/buy-perpetual-software-licenses.md)
 
 </details>
 {% endstep %}
@@ -245,7 +245,7 @@ For product-specific information, see the following pages:
 
 * [Downsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
 * [Upsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
-* [Buy more licenses for a Microsoft 365 subscription](../../extensions/microsoft-cloud-solution-provider/tutorials-and-videos/buy-more-licenses-for-microsoft-365-subscription.md)
+* [Buy more licenses for a Microsoft 365 subscription](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/buy-more-licenses-for-microsoft-365-subscription.md)
 
 </details>
 
@@ -299,7 +299,7 @@ You can use the [Settings module](../../modules-and-features/settings/) to manag
 For details on managing your subscriptions and agreements, including terminations, see the following links:
 
 * [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/tutorials-and-videos/)
-* [Microsoft 365](../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/)
+* [Microsoft 365](/broken/pages/7wBEjP2le1tCNrFMXUi7)
 
 </details>
 

@@ -6,7 +6,7 @@ description: How to order an Azure subscription for a new tenant.
 
 This tutorial describes how you can order a subscription for Microsoft Azure by setting up a new agreement and connecting your existing Microsoft tenant.&#x20;
 
-{% include "../../../../../.gitbook/includes/video-header.md" %}
+{% include "../../../../.gitbook/includes/video-header.md" %}
 
 {% embed url="https://vimeo.com/985745743/ebef0c41c4" %}
 Watch this video guide explaining how to order Microsoft Azure subscription for an existing tenant.
@@ -16,7 +16,7 @@ Watch this video guide explaining how to order Microsoft Azure subscription for 
 
 Before starting this tutorial, make sure you have the following:
 
-* An existing licensee in the **active** state or permission to [create a new licensee](../../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
+* An existing licensee in the **active** state or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
 * The name of the Microsoft tenant you want to connect.&#x20;
 * The contact details of the person who will manage your account.&#x20;
 
@@ -24,7 +24,7 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-{% include "../../../../../.gitbook/includes/purchase-wizard-1.md" %}
+{% include "../../../../.gitbook/includes/purchase-wizard-1.md" %}
 
 To start the process:
 
@@ -34,12 +34,12 @@ To start the process:
 {% endstep %}
 
 {% step %}
-{% include "../../../../../.gitbook/includes/purchase-wizard-2.md" %}
+{% include "../../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-{% include "../../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
+{% include "../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Select agreement** – Choose **Create new agreement** to start creating your new agreement.
-2. **Select licensee** – Choose an existing licensee, then select **Next**. If you want to add a new licensee, select **Add licensee**. For more details, see [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md).
+2. **Select licensee** – Choose an existing licensee, then select **Next**. If you want to add a new licensee, select **Add licensee**. For more details, see [Create licensees](../../../../modules-and-features/settings/licensees/create-licensees.md).
 3. **Create agreement** – Select **Connect existing cloud account**.
 4. **Microsoft details** – Follow these steps:&#x20;
    1. Under **Primary** **domain name**, enter your existing domain name.

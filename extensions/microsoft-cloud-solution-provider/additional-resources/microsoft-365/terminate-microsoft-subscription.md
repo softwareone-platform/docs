@@ -14,7 +14,7 @@ Before starting this tutorial, make sure that the subscription you want to termi
 
 {% stepper %}
 {% step %}
-{% include "../../../.gitbook/includes/start-the-subscription-term....md" %}
+{% include "../../../../.gitbook/includes/start-the-subscription-term....md" %}
 
 To start the process:
 
@@ -24,7 +24,7 @@ To start the process:
 {% endstep %}
 
 {% step %}
-{% include "../../../.gitbook/includes/complete-these-steps-to-ter....md" %}
+{% include "../../../../.gitbook/includes/complete-these-steps-to-ter....md" %}
 
 In the **Terminate Subscription** wizard, complete the following steps:
 

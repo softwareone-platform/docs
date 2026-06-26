@@ -2,6 +2,39 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
+## Release Date: 26 June 2026 <a href="#release-date-16-february-2026" id="release-date-16-february-2026"></a>
+
+### NCE Promotion Details Now Available in Price Lists
+
+The Marketplace now displays Microsoft NCE promotion details directly within the price lists, allowing you to easily identify available promotions.
+
+When a promotion is available, eligible items display an info icon (<i class="fa-circle-info">:circle-info:</i>) that [opens a card](../../../marketplace-platform/getting-started/interface/view-information-cards.md#review-description-cards) showing:
+
+* Discount percentage
+* Promotion validity dates
+* Minimum and maximum seat requirements
+* Microsoft‑defined eligibility rules and criteria
+
+Promotion details are available at the item level within price lists and during order creation. You can access price lists in the Marketplace under **Catalog** > **Price lists**.
+
+Discounted prices are not shown in the price list. Instead, eligible discounts are automatically applied during order creation, based on eligibility. When a discount is applied, the platform displays a message indicating that the item qualifies for a promotional offer and that prices have been adjusted accordingly.
+
+<details>
+
+<summary>View example</summary>
+
+**Price list**
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Description-card-1.png" alt=""><figcaption><p>Promotion details are displayed for eligible items within the price list.</p></figcaption></figure></div>
+
+**Order creation experience**
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Description-card-3.png" alt=""><figcaption><p>Promotion details are displayed at the item line level during order creation.</p></figcaption></figure></div>
+
+</details>
+
+***
+
 ## Release Date: 22 April 2026 <a href="#release-date-16-february-2026" id="release-date-16-february-2026"></a>
 
 ### One‑Time Software Subscription Products
@@ -36,7 +69,7 @@ You can find and order these ESUs by navigating to **Catalog** > **Products** an
 
 With this update, you have greater flexibility and control over your subscriptions, as you can manage them independently without contacting support.&#x20;
 
-For details on EST subscriptions and how to manage them, see [What subscription renewal options are available](faqs/what-subscription-renewal-options-are-available.md).
+For details on EST subscriptions and how to manage them, see [What subscription renewal options are available?](faqs/what-subscription-renewal-options-are-available.md).
 
 ***
 
@@ -82,7 +115,7 @@ In this release, we have updated the CSP extension to comply with the updated Mi
 
 To align with Microsoft’s requirements, the Marketplace Platform now automatically verifies whether the MCA has been accepted. If the acceptance is pending, the order details page provides instructions on how to complete the process. Once the MCA is accepted, the platform automatically detects the acceptance and resumes order processing.
 
-To learn more, see [Microsoft Customer Agreement (MCA)](../products-and-programs/microsoft-customer-agreement-mca/) and [Accepting the MCA](../products-and-programs/microsoft-customer-agreement-mca/accepting-the-mca.md).
+To learn more, see [Microsoft Customer Agreement (MCA)](../products-and-programs/microsoft-customer-agreement-mca/) and [Review and accept the MCA](../products-and-programs/microsoft-customer-agreement-mca/accepting-the-mca.md).
 
 ***
 
@@ -118,7 +151,7 @@ Microsoft trial subscriptions are now available through the Marketplace Platform
 
 This update allows you to order a free trial subscription and try it out for 30 days before committing to a paid version. At the end of your trial period, the subscription will automatically expire and will not be renewed.&#x20;
 
-If you choose to purchase the paid version at the end of your trial period, you must place a new order for the corresponding paid product. To learn more about trials, see [Trial Subscriptions](../products-and-programs/microsoft-nce/trial-subscriptions.md).
+If you choose to purchase the paid version at the end of your trial period, you must place a new order for the corresponding paid product. To learn more about trials, see [Trial subscriptions](../products-and-programs/microsoft-nce/trial-subscriptions.md).
 
 ***
 
@@ -130,7 +163,7 @@ Microsoft has recently updated the Microsoft Customer Agreement (MCA). This upda
 
 To remain compliant, these customers must review and accept the updated MCA to make new purchases or manage existing subscriptions, including seat increases or decreases, upgrades, and changes to billing plans. Existing online services will remain uninterrupted. For detailed information on these changes, see the official [Microsoft announcement](https://learn.microsoft.com/en-us/partner-center/announcements/2025-august#action-required-microsoft-customer-agreement-reacceptance).
 
-To support this compliance requirement, we have introduced a new feature that automatically checks if the MCA has been accepted during the ordering process. This verification is based on the type of tenant and the individual placing the order. For details, see [What is MCA Policy Enforcement?](faqs/what-is-mca-policy-enforcement.md)
+To support this compliance requirement, we have introduced a new feature that automatically checks if the MCA has been accepted during the ordering process. This verification is based on the type of tenant and the individual placing the order. For details, see [What is MCA policy enforcement?](faqs/what-is-mca-policy-enforcement.md)
 
 ***
 
@@ -138,7 +171,7 @@ To support this compliance requirement, we have introduced a new feature that au
 
 ### New Azure Subscription Name Field
 
-In this release, we have added a new field called **Azure subscription name**. You can use this field to specify a name for your Azure subscription when ordering it through the Marketplace. For instructions, see [Order Azure Subscription for Existing Tenant](tutorials-and-videos/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md).&#x20;
+In this release, we have added a new field called **Azure subscription name**. You can use this field to specify a name for your Azure subscription when ordering it through the Marketplace. For instructions, see [Order Azure Subscription for existing tenant](microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md).&#x20;
 
 <figure><img src="../../../.gitbook/assets/subscription-name.png" alt=""><figcaption><p>The new Azure subscription name field in the Purchase Wizard</p></figcaption></figure>
 
@@ -152,7 +185,7 @@ Additionally, if you change the subscription name directly in the Azure Portal, 
 
 Termination orders for NCE subscriptions will only be successful if they fall within the cancellation window. Otherwise, the order fails.&#x20;
 
-If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [How to disable the automatic renewal of an NCE subscription](faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
+If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [How to disable automatic renewal for an NCE subscription](faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
 
 ***
 
@@ -164,7 +197,7 @@ Clients with partner capabilities can now enroll in the CSP Partner Program thro
 
 By enrolling in this program, you can order a range of Microsoft products and services for reselling through SoftwareOne while maintaining your relationship with Microsoft. You also receive support and services, including tools to help you grow your business, simplify go-to-market costs, and reduce complexity.
 
-You can enroll in the program by providing details, like your Microsoft Partner Network ID and email address, and completing all necessary steps. For details, see [How to Enroll in the CSP Partner Program](../../../marketplace-platform/guides-and-tutorials/marketplace-for-partners/how-to-enroll-in-the-csp-partner-program.md). When the enrollment completes, you receive a certificate, which can be used to associate your reseller information with new Marketplace agreements.
+You can enroll in the program by providing details, like your Microsoft Partner Network ID and email address, and completing all necessary steps. For details, see [How to Enroll in the CSP partner program](../../../marketplace-platform/guides-and-tutorials/marketplace-for-partners/how-to-enroll-in-the-csp-partner-program.md). When the enrollment completes, you receive a certificate, which can be used to associate your reseller information with new Marketplace agreements.
 
 ***
 
@@ -176,7 +209,7 @@ Starting 20 May 2025, you can easily manage the automatic renewal settings for y
 
 Auto-renewal can be disabled to ensure that a subscription remains active only until the end of the current commitment period, after which it will expire without incurring further charges. If you disabled auto-renewal previously for a subscription, you can re-enable it at any time before the subscription expires.
 
-Note that only NCE products support auto-renewal. Legacy subscriptions do not support this. For instructions on disabling auto-renewal, see [How to disable the automatic renewal of an NCE subscription](faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
+Note that only NCE products support auto-renewal. Legacy subscriptions do not support this. For instructions on disabling auto-renewal, see [How to disable automatic renewal for an NCE subscription](faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
 
 ***
 
@@ -224,15 +257,15 @@ Note that to buy reservations and savings plans from the Azure portal, you must 
 
 The Marketplace Platform now supports coterminosity for NCE subscriptions, allowing you to align the end date of a new subscription with that of an existing subscription. When enabled, new subscriptions will automatically synchronize their end dates with the existing subscriptions within the agreement.
 
-You can enable coterminosity when ordering subscriptions under a new agreement. For existing subscriptions, [Marketplace Platform Support](../../../help-and-support/contact-support.md) can assist you in updating the end date in the system. To learn more about aligning the subscription end dates, see [About Subscription Coterminosity](../products-and-programs/microsoft-nce/about-subscription-coterminosity/) and [Coterming Subscriptions](../products-and-programs/microsoft-nce/about-subscription-coterminosity/coterming-subscriptions.md).&#x20;
+You can enable coterminosity when ordering subscriptions under a new agreement. For existing subscriptions, [Marketplace Platform Support](../../../help-and-support/contact-support.md) can assist you in updating the end date in the system. To learn more about aligning the subscription end dates, see [Subscription coterminosity](../products-and-programs/microsoft-nce/about-subscription-coterminosity/) and [Coterming subscriptions](../products-and-programs/microsoft-nce/about-subscription-coterminosity/coterming-subscriptions.md).&#x20;
 
 ### Azure Lighthouse Onboarding
 
 The onboarding process for [Azure Lighthouse](../azure-lighthouse/) has been enhanced to include the following changes:
 
-* An order will no longer remain in a Querying status while the onboarding process is being completed. Instead, the activation link for Azure Lighthouse will be generated during the order processing phase, and the order will be marked as complete thereafter.
-* You will receive an onboarding email when activating Azure Lighthouse is required. This email will include a link to begin the onboarding process.
-* Onboarding can also be initiated directly from the Marketplace using the **Link to Lighthouse Approval Page** link. This link is available on the **Parameters** tab within the agreement details page.
+* An order no longer remains in a Querying status while the onboarding is being completed. Instead, the activation link for Azure Lighthouse is generated during order processing, and the order is completed thereafter.
+* You receive an onboarding email when activating Azure Lighthouse is required. This email includes a link to begin onboarding.
+* The onboarding process can be started directly from Marketplace using the **Link to Lighthouse Approval Page** link. This link is available on the **Parameters** tab within the agreement details page.
 
 ***
 
@@ -258,7 +291,7 @@ We are excited to announce the launch of Microsoft Software Subscriptions in the
 
 With this update, you can create agreements and purchase nearly the entire suite of Microsoft Server Subscriptions directly through the Microsoft CSP program using our platform.&#x20;
 
-You can also place change orders to add more software subscriptions to your existing agreements. For more details, see [Manage Software Subscriptions](../products-and-programs/software-subscriptions/manage-software-subscriptions.md).
+You can also place change orders to add more software subscriptions to your existing agreements. For more details, see [Manage software subscriptions](../products-and-programs/software-subscriptions/manage-software-subscriptions.md).
 
 {% hint style="info" %}
 Software products with one-time payments are not yet supported.
@@ -298,7 +331,7 @@ We are pleased to announce the release of three new products in the Marketplace 
 
 With this release, you can effortlessly create agreements and purchase the full suite of Microsoft Perpetual Software directly through the CSP program in the Marketplace Platform. You can also place change orders to add more perpetual software products to your existing agreements.
 
-This release further expands our product offerings, reinforcing our commitment to delivering comprehensive software solutions through the Marketplace. To learn more, see [Perpetual Software](../products-and-programs/perpetual-software/) and [Buy Perpetual Software Licenses](tutorials-and-videos/perpetual-software/buy-perpetual-software-licenses.md).
+This release further expands our product offerings, reinforcing our commitment to delivering comprehensive software solutions through the Marketplace. To learn more, see [Perpetual software](../products-and-programs/perpetual-software/) and [Buy perpetual software licenses](perpetual-software/buy-perpetual-software-licenses.md).
 
 ***
 
@@ -308,9 +341,9 @@ This release further expands our product offerings, reinforcing our commitment t
 
 [Microsoft Azure Lighthouse](../azure-lighthouse/) allows authorized SoftwareOne associates to access your Azure resources seamlessly and securely.&#x20;
 
-As a client, you can authorize SoftwareOne to manage your Azure environment by accepting our Lighthouse access request and completing the necessary onboarding steps. Requests can be accepted by navigating to the **General** tab of a purchase order and following the onboarding instructions. For details, see [Complete the Azure Lighthouse Activation](../azure-lighthouse/complete-the-azure-lighthouse-onboarding.md).
+As a client, you can authorize SoftwareOne to manage your Azure environment by accepting our Lighthouse access request and completing the necessary onboarding steps. Requests can be accepted by navigating to the **General** tab of a purchase order and following the onboarding instructions. For details, see [Complete Azure Lighthouse onboarding](../azure-lighthouse/complete-the-azure-lighthouse-onboarding.md).
 
-Note that until the onboarding process is complete, any purchase orders for newly provisioned Azure subscriptions will display a **Querying** status on the platform. After completing the Lighthouse access request, be sure to update your order's status to **Processing**. For instructions, see [Change Your Order's Status to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).
+Note that until the onboarding process is complete, any purchase orders for newly provisioned Azure subscriptions will display a **Querying** status on the platform. After completing the Lighthouse access request, be sure to update your order's status to **Processing**. For instructions, see [Change status from Querying to Processing](../../../modules-and-features/marketplace/orders/set-an-order-to-processing.md).
 
 ***
 
@@ -347,7 +380,7 @@ These updates aim to improve the fulfillment process by minimizing manual interv
 
 ### Support for Vanity (non .onmicrosoft.com) Domains
 
-We have introduced an enhancement for existing CSP clients creating new agreements. Clients can now use their **vanity domain** (like, `<http://mybusiness.com>`) as the principal domain, instead of the default `mybusiness.onmicrosoft.com`.
+We have introduced an enhancement for existing CSP clients, creating new agreements. Clients can now use their **vanity domain** (like, `<http://mybusiness.com>`) as the principal domain, instead of the default `mybusiness.onmicrosoft.com`.
 
 This enhancement allows the SoftwareOne Marketplace to support Microsoft’s effort to create a more customized and professional experience by enabling businesses to represent themselves using their branded domain throughout the agreement creation process. This enhances brand consistency but also simplifies domain management for clients with established vanity domains.
 

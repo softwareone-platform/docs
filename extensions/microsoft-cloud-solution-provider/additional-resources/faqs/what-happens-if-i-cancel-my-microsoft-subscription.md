@@ -1,4 +1,4 @@
-# What happens if I cancel my Microsoft subscription
+# What happens if I cancel my Microsoft subscription?
 
 You can cancel your Microsoft subscriptions by placing a termination order through the Marketplace Platform. The cancellation policy depends on the type of CSP product or service.
 
@@ -11,4 +11,4 @@ You can place a termination order for an individual subscription or the entire a
 * **Cancellation within 7 days of creation or renewal** - If the termination occurs within 7 days of the subscription's creation or renewal, the subscription is canceled in Microsoft systems and terminated in the Marketplace Platform. A prorated refund is issued as per the [New Commerce Experience Cancellation Policy](https://learn.microsoft.com/en-us/partner-center/customers/new-commerce-cancellation-policy).
 * **Cancellation after the 7-day window** - Termination orders cannot be placed for NCE subscriptions after the 7-day window. Any orders outside this window will automatically fail.
 
-For details on canceling one or multiple subscriptions, see [Terminate Microsoft 365 subscription](../../tutorials-and-videos/terminate-microsoft-subscription.md). To cancel the entire agreement, see [Terminate Microsoft 365 agreement](../tutorials-and-videos/microsoft-365/terminate-all-microsoft-subscriptions.md).
+For details on canceling one or multiple subscriptions, see [Terminate Microsoft 365 subscription](../microsoft-365/terminate-microsoft-subscription.md). To cancel the entire agreement, see [Terminate Microsoft 365 agreement](../microsoft-365/terminate-all-microsoft-subscriptions.md).

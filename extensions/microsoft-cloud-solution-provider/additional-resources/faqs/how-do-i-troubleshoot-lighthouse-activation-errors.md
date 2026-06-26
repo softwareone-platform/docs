@@ -1,12 +1,12 @@
-# How do I troubleshoot Lighthouse activation errors
+# How do I troubleshoot Lighthouse activation errors?
 
 If you face an error when onboarding subscriptions to Azure Lighthouse, it could be due to your role within Azure.
 
-Make sure you are the owner of the subscription you wish to onboard and the first subscription that was onboarded to Azure Lighthouse. Subscription owners have the **Azure Subscription Owner** role, which can be verified on the **Role Assignments** tab within Azure.&#x20;
+Ensure you are the owner of the subscription to onboard and the first subscription onboarded to Azure Lighthouse.&#x20;
 
-During onboarding, the initial subscription is highlighted so you can identify it.
+Subscription owners have the **Owner** role, listed on the **Role Assignments** tab in Azure.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image-20241118-153405.png" alt=""><figcaption><p>The Role assignments tab.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image-20241118-153405.png" alt=""><figcaption></figcaption></figure>
 
 To complete the Lighthouse onboarding, you must also meet the following requirements for your primary domain/tenant or Azure subscription:
 
@@ -15,4 +15,4 @@ To complete the Lighthouse onboarding, you must also meet the following requirem
 * **User principal name** - Must have no reference to 'external'
 * **Identity** - Must match the tenant’s name for the partnership
 
-<figure><img src="../../../../.gitbook/assets/Untitled design (3).png" alt=""><figcaption><p>Entra ID Users Section</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled design (3).png" alt=""><figcaption></figcaption></figure>

@@ -6,7 +6,7 @@ description: How to order an Azure subscription for a new tenant.
 
 This tutorial describes how you can order a subscription for Microsoft Azure by setting up a new agreement and a new Microsoft tenant.
 
-{% include "../../../../../.gitbook/includes/video-header.md" %}
+{% include "../../../../.gitbook/includes/video-header.md" %}
 
 {% embed url="https://vimeo.com/985746673/dda41dd67e" %}
 Watch this video guide explaining how to order Microsoft Azure subscription for a new Microsoft tenant.
@@ -16,7 +16,7 @@ Watch this video guide explaining how to order Microsoft Azure subscription for 
 
 Before starting this tutorial, make sure you have the following:
 
-* A licensee in the **active** state or permission to [create a new licensee](../../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
+* A licensee in the **active** state or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
 * Your details, such as company name, registration ID, and address. You'll need to provide this information when creating the new Microsoft tenant.
 * Contact details of the person who manages your account.&#x20;
 
@@ -24,7 +24,7 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-{% include "../../../../../.gitbook/includes/purchase-wizard-1.md" %}
+{% include "../../../../.gitbook/includes/purchase-wizard-1.md" %}
 
 To start the process:
 
@@ -34,12 +34,12 @@ To start the process:
 {% endstep %}
 
 {% step %}
-{% include "../../../../../.gitbook/includes/purchase-wizard-2.md" %}
+{% include "../../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-{% include "../../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
+{% include "../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Create agreement** – Choose **Create agreement** to start creating your new agreement.
-2. **Select licensee** – Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. For more details, see [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md).
+2. **Select licensee** – Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. For more details, see [Create licensees](../../../../modules-and-features/settings/licensees/create-licensees.md).
 3. **Create agreement** – Select **Create new cloud account** to create a new organization tenant with Microsoft, then select **Next**.
 4. **Microsoft details** – Provide the following information:
    1. Enter the tenant name you want to use on the `onmicrosoft.com` domain and select **Next**. Make sure that the name doesn't include punctuation marks or spaces. To check the tenant name availability, see the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).

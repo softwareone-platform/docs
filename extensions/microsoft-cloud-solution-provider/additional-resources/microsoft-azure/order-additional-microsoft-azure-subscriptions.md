@@ -16,7 +16,7 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 {% stepper %}
 {% step %}
-{% include "../../../../../.gitbook/includes/purchase-wizard-1.md" %}
+{% include "../../../../.gitbook/includes/purchase-wizard-1.md" %}
 
 To start the process:
 
@@ -26,15 +26,15 @@ To start the process:
 {% endstep %}
 
 {% step %}
-{% include "../../../../../.gitbook/includes/purchase-wizard-2.md" %}
+{% include "../../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-{% include "../../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
+{% include "../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Select agreement** – Select an active agreement from the list, then select **Next**.&#x20;
 2. **Microsoft details** – Provide a name for your Azure subscription. Make sure the name meets Microsoft's naming requirements.&#x20;
 3. **Items** – Select **Add items** to add the new Azure subscription to your order, then select **Next**. For Microsoft Azure, there is only one item without any associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 
-<div data-with-frame="true"><figure><img src="../../../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>The Items step in the ordering process.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>The Items step in the ordering process.</p></figcaption></figure></div>
 
 4. **Details** – Provide any additional IDs for the order and the agreement, then select **Next**.
 5. **Review order** – Read the terms and conditions and verify your order details. When done, select **Place order** to submit your order.

@@ -19,7 +19,7 @@ Before starting this tutorial:
 
 {% stepper %}
 {% step %}
-{% include "../../../../../.gitbook/includes/terminate-agreement-1.md" %}
+{% include "../../../../.gitbook/includes/terminate-agreement-1.md" %}
 
 To open the agreement:
 
@@ -29,7 +29,7 @@ To open the agreement:
 {% endstep %}
 
 {% step %}
-{% include "../../../../../.gitbook/includes/terminate-agreement-2.md" %}
+{% include "../../../../.gitbook/includes/terminate-agreement-2.md" %}
 
 In the **Terminate Agreement** wizard, complete the following steps:
 

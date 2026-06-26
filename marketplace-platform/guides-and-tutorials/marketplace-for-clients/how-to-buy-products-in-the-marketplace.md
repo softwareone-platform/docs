@@ -43,7 +43,7 @@ The ordering steps and required details vary by product and vendor. Most orders 
 7. **Summary** – Review your order summary to ensure everything is correct.
 
 {% hint style="info" %}
-Some products add vendor-specific steps. For guided examples, see [Adobe Tutorials](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/) and [Microsoft Tutorials](../../../extensions/microsoft-cloud-solution-provider/additional-resources/tutorials-and-videos/).
+Some products add vendor-specific steps. For guided examples, see [Adobe Tutorials](../../../extensions/adobe-vip-marketplace/tutorials-and-videos/) and [Microsoft Tutorials](/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/7wBEjP2le1tCNrFMXUi7).
 {% endhint %}
 {% endstep %}
 {% endstepper %}

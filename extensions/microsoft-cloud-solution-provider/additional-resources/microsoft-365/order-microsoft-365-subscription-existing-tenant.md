@@ -1,14 +1,14 @@
 ---
-description: How to order a Microsoft 365 Subscription for an existing tenant.
+description: How to purchase a Microsoft 365 subscription for an existing tenant.
 ---
 
-# Order Microsoft 365 subscription for existing tenant
+# Buy Microsoft 365 subscription for existing tenant
 
 This tutorial describes how you can order a Microsoft 365 subscription by creating a new Marketplace agreement.
 
 When setting up a new agreement, you can either create a new Microsoft account or use an existing one. This tutorial focuses on how to connect your existing cloud account.&#x20;
 
-{% include "../../../../../.gitbook/includes/video-header.md" %}
+{% include "../../../../.gitbook/includes/video-header.md" %}
 
 {% embed url="https://vimeo.com/985744841/f08189d1c0" %}
 Watch this video guide explaining how to order Microsoft 365 subscription for an existing tenant.
@@ -19,13 +19,13 @@ Watch this video guide explaining how to order Microsoft 365 subscription for an
 Before starting this tutorial, make sure you have the following:
 
 * Your Microsoft tenant name.&#x20;
-* A Marketplace licensee in the **active** state or permission to [create a new licensee](../../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when you are creating the agreement.&#x20;
+* A Marketplace licensee in the **active** state or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when you are creating the agreement.&#x20;
 
 ### Order a Microsoft 365 subscription for an existing tenant
 
 {% stepper %}
 {% step %}
-{% include "../../../../../.gitbook/includes/purchase-wizard-1.md" %}
+{% include "../../../../.gitbook/includes/purchase-wizard-1.md" %}
 
 To start the process:
 
@@ -35,12 +35,12 @@ To start the process:
 {% endstep %}
 
 {% step %}
-{% include "../../../../../.gitbook/includes/purchase-wizard-2.md" %}
+{% include "../../../../.gitbook/includes/purchase-wizard-2.md" %}
 
-{% include "../../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
+{% include "../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
 
 1. **Create agreement** – Select **Create agreement** to start creating your new agreement.
-2. **Select licensee** – Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create licensees](../../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
+2. **Select licensee** – Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create licensees](../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
 3. **Create agreement** – Select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**. Note that if you choose this option, the global administrator of your Microsoft account must accept the relationship request.
 4. **Microsoft details** – Enter the details for your Microsoft account:
    1. Enter the name of your existing tenant.
@@ -51,7 +51,7 @@ To start the process:
 7. **Items** – Do the following:
    1. Choose the items you want to order and then select **Add items**. You can select multiple items. When the items are added, the **Select items** section is displayed.
    2. Review and adjust the license quantity as required.
-   3. If applicable, [read the offer attestation](../../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
+   3. If applicable, [read the offer attestation](../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
    4. Select **Next**.
 8. **Details** – Provide reference details, like additional IDs or notes, and select **Next**.
 9. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order**.

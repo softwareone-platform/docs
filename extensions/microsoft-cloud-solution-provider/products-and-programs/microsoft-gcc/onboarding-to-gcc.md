@@ -24,4 +24,4 @@ If you are an existing GCC customer:
 3. On the product details page, select **Buy now**.
 4. Follow the guided steps in the purchase wizard to submit your order.&#x20;
 
-For step-by-step instructions on placing an order, see [the Microsoft CSP tutorials](../../additional-resources/tutorials-and-videos/).
+For step-by-step instructions on placing an order, see [the Microsoft CSP tutorials](/broken/pages/7wBEjP2le1tCNrFMXUi7).
