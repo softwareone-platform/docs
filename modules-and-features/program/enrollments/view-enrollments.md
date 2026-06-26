@@ -7,7 +7,7 @@ This topic describes how to view a list of enrollments in your account, as well 
 To view your enrollments:&#x20;
 
 1. Go to **Program** > **Enrollments**.
-2. View the list of enrollments displayed on the page.
+2. View the list of enrollments on the page.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/enrollments_interface.png" alt=""><figcaption><p>Use the Enrollments page to view and manage enrollments.</p></figcaption></figure></div>
 
@@ -24,4 +24,4 @@ To open enrollment details:
 
 3. Use the tabs to view additional information:
 
-<table><thead><tr><th width="135">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Shows the most up-to-date information for the enrollment.</td></tr><tr><td><strong>Parameters</strong></td><td>Shows the ordering and fulfillment parameters for the enrollment.</td></tr><tr><td><strong>Entities</strong> </td><td>Shows the object linked to the enrollment. </td></tr><tr><td><strong>Notes</strong> </td><td>Allows you to add or update notes using the <strong>Edit</strong> option.</td></tr><tr><td><strong>Details</strong> </td><td>Shows the date and time information for any events related to the enrollment, such as when the enrollment was created.</td></tr><tr><td><strong>Attachments</strong> </td><td>Shows files attached to the enrollment.</td></tr><tr><td><strong>Audit trail</strong></td><td>Shows the <a href="../../settings/audit-trail.md">audit trail</a> for the enrollment.</td></tr></tbody></table>
+<table data-search="false"><thead><tr><th width="135">Tab</th><th>Description</th></tr></thead><tbody><tr><td><strong>General</strong></td><td>Shows the most up-to-date information for the enrollment.</td></tr><tr><td><strong>Parameters</strong></td><td>Shows the ordering and fulfillment parameters for the enrollment.</td></tr><tr><td><strong>Entities</strong> </td><td>Shows the object linked to the enrollment. </td></tr><tr><td><strong>Notes</strong> </td><td>Allows you to add or update notes using the <strong>Edit</strong> option.</td></tr><tr><td><strong>Details</strong> </td><td>Shows the date and time information for any events related to the enrollment, such as when the enrollment was created.</td></tr><tr><td><strong>Attachments</strong> </td><td>Shows files attached to the enrollment.</td></tr><tr><td><strong>Audit trail</strong></td><td>Shows the <a href="../../settings/audit-trail.md">audit trail</a> for the enrollment.</td></tr></tbody></table>
