@@ -2,9 +2,9 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
-## Release Date: 26 June 2026 <a href="#release-date-16-february-2026" id="release-date-16-february-2026"></a>
+## Release Date: 26 June 2026 <a href="#release-date-26-june-2026" id="release-date-26-june-2026"></a>
 
-### NCE Promotion Details Now Available in Price Lists
+### NCE Promotion Details Now Available in Price Lists <a href="#nce-promotion-details-now-available-in-price-lists" id="nce-promotion-details-now-available-in-price-lists"></a>
 
 The Marketplace now displays Microsoft NCE promotion details directly within the price lists, allowing you to easily identify available promotions.
 
@@ -35,9 +35,9 @@ Discounted prices are not shown in the price list. Instead, eligible discounts a
 
 ***
 
-## Release Date: 22 April 2026 <a href="#release-date-16-february-2026" id="release-date-16-february-2026"></a>
+## Release Date: 22 April 2026 <a href="#release-date-22-april-2026" id="release-date-22-april-2026"></a>
 
-### One‑Time Software Subscription Products
+### One‑Time Software Subscription Products <a href="#one-time-software-subscription-products" id="one-time-software-subscription-products"></a>
 
 SoftwareOne Marketplace now supports one-time purchase items within the Software Subscriptions product. This allows you to place and manage one-time orders for selected products directly through the Marketplace.&#x20;
 
@@ -61,9 +61,9 @@ You can find and order these ESUs by navigating to **Catalog** > **Products** an
 
 ***
 
-## Release Date: 8 April 2026 <a href="#release-date-16-february-2026" id="release-date-16-february-2026"></a>
+## Release Date: 8 April 2026 <a href="#release-date-8-april-2026" id="release-date-8-april-2026"></a>
 
-### Extended Service Terms via Self-Service
+### Extended Service Terms via Self-Service <a href="#extended-service-terms-via-self-service" id="extended-service-terms-via-self-service"></a>
 
 ​Starting 8 April 2026, you can convert your existing subscriptions to Extended Service Terms (EST) through self-service in the SoftwareOne Marketplace. Previously, this conversion could only be done by contacting Marketplace Platform Support.
 
