@@ -14,7 +14,7 @@ Watch this video guide explaining how to buy more licenses for an existing 365 s
 
 ### Prerequisites
 
-Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state.
+Before starting this tutorial, make sure that the agreement you want to use is currently active.
 
 ### Buy more licenses for your Microsoft 365 subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
@@ -25,26 +25,28 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 To start the process:
 
 1. Go to **Catalog** > **Products**.
-2. From the list of products, select the desired Microsoft 365 profile, for example, **Microsoft 365 Business, Enterprise & Apps**.
-3. On the details page, review the product information, then select **Buy now**. The Purchase Wizard starts.
+2. Select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps**.
+3. On the details page, review the product information, then select **Buy now**.&#x20;
 {% endstep %}
 
 {% step %}
-{% include "../../../../.gitbook/includes/purchase-wizard-2.md" %}
+**Select the agreement and change the license quantities**
 
-{% include "../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
+Complete the following steps:
 
-1. **Create agreement** – Choose an active agreement and select **Next**.&#x20;
-2. **Items** – Enter the total number of licenses in the **New qty** field.  For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
+1. **Create agreement** – Choose an active agreement, then select **Next**.&#x20;
+2. **Items** – Enter the total number of licenses in the **New qty** field. For example, if you have 1 license and you want to add 3 more, enter the new quantity as 4. When done, select **Next**.
 
-<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>The Items section in the purchase wizard.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/tutorial_M365_items.png" alt=""><figcaption><p>Enter the new quantity of licenses for the subscription.</p></figcaption></figure></div>
 
-3. **Details** – Provide reference details, like additional IDs or notes, and select **Next**.
-4. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order**.
+3. **Details** – Add reference details and your comments, then select **Next**.
+4. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
 5. **Summary** – Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps <a href="#next-steps" id="next-steps"></a>
 
-Once you have placed your order, we verify the order details. If there are any issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page provides information about the problem and any actions you must take.
+Once you place your order, we verify the details.
+
+You can track your order on the order details page. The **General** tab on the order details page outlines the next steps.

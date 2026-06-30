@@ -18,8 +18,8 @@ Watch this video guide explaining how to order Microsoft 365 subscription for an
 
 Before starting this tutorial, make sure you have the following:
 
-* Your Microsoft tenant name.&#x20;
-* A Marketplace licensee in the **active** state or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when you are creating the agreement.&#x20;
+* The name of your existing Microsoft tenant.&#x20;
+* An active licensee or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) in the Marketplace. Licensee selection is required when creating a new agreement.&#x20;
 
 ### Order a Microsoft 365 subscription for an existing tenant
 
@@ -30,37 +30,43 @@ Before starting this tutorial, make sure you have the following:
 To start the process:
 
 1. Go to **Catalog** > **Products**.
-2. From the list of products, select the desired Microsoft 365 profile, for example, **Microsoft 365 Business, Enterprise & Apps**.
-3. On the details page, review the information, then select **Buy now**. The Purchase Wizard starts.
+2. Select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps**.
+3. On the details page, review the information, then select **Buy now**.&#x20;
 {% endstep %}
 
 {% step %}
-{% include "../../../../.gitbook/includes/purchase-wizard-2.md" %}
+**Create the new agreement and provide the existing tenant details**
 
-{% include "../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
+Complete the following steps:
 
-1. **Create agreement** – Select **Create agreement** to start creating your new agreement.
-2. **Select licensee** – Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. See [Create licensees](../../../../modules-and-features/settings/licensees/create-licensees.md) for instructions.
+1. **Create agreement** – Select **Create agreement**.
+2. **Select licensee** – Choose whether to use an existing licensee or [create a new one](../../../../modules-and-features/settings/licensees/create-licensees.md). In this tutorial, an existing licensee is selected.
 3. **Create agreement** – Select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**. Note that if you choose this option, the global administrator of your Microsoft account must accept the relationship request.
 4. **Microsoft details** – Enter the details for your Microsoft account:
-   1. Enter the name of your existing tenant.
-   2. Fill out the contact form. You'll need to provide the first and last name, email address, and phone number of the person who manages your account.&#x20;
-   3. Select **Next**. The platform validates your Microsoft tenant details. If no tenant is found, a message is displayed. You'll need to fix the error to proceed.
+   1. Enter your existing tenant name.
+   2. Fill out the contact form. You must provide the first and last name, email address, and phone number of the person who manages your account.&#x20;
+   3. Select **Next**. The platform validates your Microsoft tenant details. If no tenant is found, a message is displayed. You must fix the error to proceed.
 5. **Special qualifications** – Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
-6. **Support contacts** – Enter the contact details of your support administrator and choose your preferred support language. Select **Next**.
-7. **Items** – Do the following:
-   1. Choose the items you want to order and then select **Add items**. You can select multiple items. When the items are added, the **Select items** section is displayed.
-   2. Review and adjust the license quantity as required.
-   3. If applicable, [read the offer attestation](../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
-   4. Select **Next**.
-8. **Details** – Provide reference details, like additional IDs or notes, and select **Next**.
-9. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order**.
-10. **Summary** – Select **View details** to open the order details page or select **Close**.
+6. **Support contacts** – Enter contact details of your support administrator and choose your preferred support language. Select **Next**.
+{% endstep %}
+
+{% step %}
+**Add items and place your order**
+
+Complete the following steps:
+
+1. **Items** – Choose the items you want to order and select **Add items**. Then:
+   1. Review and adjust the number of licenses as required.
+   2. If applicable, [read the offer attestation](../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
+   3. Select **Next**.
+2. **Details** – Add reference details and your comments, then select **Next**.
+3. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
+4. **Summary** – Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps
 
-Once you have placed your order, we verify the order details, including the Microsoft tenant ID, and create your new subscription under your existing tenant.&#x20;
+Once you place your order, we verify the details.
 
-If there are issues with your order, the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page provides information about the problem and any actions you may need to take.
+You can track your order on the order details page. The **General** tab on the order details page outlines the next steps.
