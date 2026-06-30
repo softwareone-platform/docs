@@ -51,7 +51,7 @@ Complete the following steps:
 {% endstep %}
 
 {% step %}
-**Add items and place your order**
+**Add items to your order and submit your order**
 
 Complete the following steps:
 

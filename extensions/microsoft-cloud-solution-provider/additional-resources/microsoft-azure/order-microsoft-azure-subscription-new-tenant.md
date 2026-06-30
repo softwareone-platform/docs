@@ -24,23 +24,23 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-{% include "../../../../.gitbook/includes/purchase-wizard-1.md" %}
+**Start the ordering process**
 
 To start the process:
 
 1. Go to **Catalog** > **Products**.
 2. From the list of products, select **Microsoft Azure**.
-3. On the **product details** page, review the product information, then select **Buy now**. The Purchase Wizard starts.
+3. On the product details page, review the product information, then select **Buy now**.&#x20;
 {% endstep %}
 
 {% step %}
-{% include "../../../../.gitbook/includes/purchase-wizard-2.md" %}
+**Create a new agreement and a new Microsoft tenant**
 
-{% include "../../../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
+In the guided purchase flow, complete the following steps:
 
-1. **Create agreement** – Choose **Create agreement** to start creating your new agreement.
-2. **Select licensee** – Choose if you want to use an existing licensee or create a new one. In this tutorial, we'll select an existing licensee. You can add a new licensee by selecting **Add licensee**. For more details, see [Create licensees](../../../../modules-and-features/settings/licensees/create-licensees.md).
-3. **Create agreement** – Select **Create new cloud account** to create a new organization tenant with Microsoft, then select **Next**.
+1. **Create agreement** – Select **Create agreement**.
+2. **Select licensee** – Select an existing licensee or [create a new one](https://docs.platform.softwareone.com/modules-and-features/settings/licensees/create-licensees). In this tutorial, an existing licensee is selected.
+3. **Create agreement** – Select **Create new cloud account** to create a new organization tenant with Microsoft. Select **Next**.
 4. **Microsoft details** – Provide the following information:
    1. Enter the tenant name you want to use on the `onmicrosoft.com` domain and select **Next**. Make sure that the name doesn't include punctuation marks or spaces. To check the tenant name availability, see the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
    2. Provide the following details:
@@ -51,15 +51,22 @@ To start the process:
 5. **Additional information** – Follow these steps:
    1. If your organization is a [state-owned entity](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria), select the checkbox. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.&#x20;
    2. Enter the contact details for your support administrator and choose your preferred support language. Select **Next**.
-6. **Items** – Select the Azure subscription item and select **Add items** to add it to your order. Note that for Microsoft Azure, there is only one item without any associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
-7. **Details** – Provide any additional IDs for the order and the agreement, then select **Next**.
-8. **Review order** – Read the terms and conditions for the order and verify your order details. When done, select **Place order** to submit your order.
-9. **Summary** – Select **View order** to open the order details page or select **Close**.
+{% endstep %}
+
+{% step %}
+**Add items to your order and submit your order**
+
+Complete the following steps:
+
+1. **Items** – Select the Azure subscription item and select **Add items** to add it to your order. For Microsoft Azure, there is only one item without any associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
+2. **Details** – Add reference details and your comments, then select **Next**.
+3. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
+4. **Summary** – Select **View order** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps
 
-Once you have placed your order, we verify the order details and create your new subscription.&#x20;
+Once you place your order, we verify the details and create your new subscription.&#x20;
 
-If there are any issues with your order, check the **General** tab on the [order details](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details) page. This page describes the problem and outlines the steps you must follow for us to process your order.
+You can track your order on the order details page. The **General** tab on the order details page outlines the next steps.
