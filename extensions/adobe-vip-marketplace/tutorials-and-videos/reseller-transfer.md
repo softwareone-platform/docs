@@ -84,4 +84,4 @@ To start the process:&#x20;
 
 ### Next steps
 
-Once we process the order and change the reseller, we will notify you. You can check the status of your order on the [order details ](https://docs.platform.softwareone.com/modules-and-features/marketplace/orders#subscription-details)page.
+Once we process the order and change the reseller, we will notify you. You can check the status of your order on the order details page.

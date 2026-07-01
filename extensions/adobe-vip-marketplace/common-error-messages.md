@@ -10,7 +10,7 @@ This topic describes some error messages you might encounter when adjusting the 
 
 **Cause** - This error can occur for several reasons. Primarily, it happens when the platform doesn't recognize the requested change to the license quantity. For instance, if you ordered 15 licenses of Photoshop for Teams, but want to downsize to 10 within the 14-day return period.
 
-**Resolution** - To resolve this issue, adjust the quantity of your licenses to match the valid quantity for the returnable orders or wait until the return window closes to modify your renewal quantity. To learn more, see [Downsize and termination policies](/broken/pages/p4P7lRWRlgsY87IzPyC0).
+**Resolution** - To resolve this issue, adjust the quantity of your licenses to match the valid quantity for the returnable orders or wait until the return window closes to modify your renewal quantity. To learn more, see [Downsize, termination, and return policies](downsize-and-termination-policies.md).
 
 ***
 

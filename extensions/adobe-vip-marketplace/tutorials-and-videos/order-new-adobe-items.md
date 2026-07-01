@@ -58,4 +58,5 @@ After you place the order, a change order is created for the agreement.
 
 The agreement status also changes from **Active** to **Updating**. While the agreement is updating, you cannot place more orders under that agreement.
 
-You can track the order on the **Orders** page or in the **Orders** tab on the **agreement details** page.
+You can track the order on the **Orders** page or in the **Orders** tab on the agreement details page.
+
