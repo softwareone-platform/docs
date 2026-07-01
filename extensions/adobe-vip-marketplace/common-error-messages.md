@@ -2,7 +2,7 @@
 description: Find the common error messages on the UI.
 ---
 
-# Common Error Messages
+# Common error messages
 
 This topic describes some error messages you might encounter when adjusting the quantity of your Adobe licenses.
 
@@ -10,7 +10,7 @@ This topic describes some error messages you might encounter when adjusting the 
 
 **Cause** - This error can occur for several reasons. Primarily, it happens when the platform doesn't recognize the requested change to the license quantity. For instance, if you ordered 15 licenses of Photoshop for Teams, but want to downsize to 10 within the 14-day return period.
 
-**Resolution** - To resolve this issue, adjust the quantity of your licenses to match the valid quantity for the returnable orders or wait until the return window closes to modify your renewal quantity. To learn more, see [Downsize and termination policies](downsize-and-termination-policies.md).
+**Resolution** - To resolve this issue, adjust the quantity of your licenses to match the valid quantity for the returnable orders or wait until the return window closes to modify your renewal quantity. To learn more, see [Downsize and termination policies](/broken/pages/p4P7lRWRlgsY87IzPyC0).
 
 ***
 
@@ -18,4 +18,4 @@ This topic describes some error messages you might encounter when adjusting the 
 
 **Cause** - This error occurs when lowering the quantity of licenses would result in zero licenses.
 
-**Resolution** - To resolve this issue, you must terminate the subscription completely by placing a termination order. For termination steps, see [Terminate Adobe Subscription](tutorials-and-videos/terminate-adobe-subscription.md).
+**Resolution** - To resolve this issue, you must terminate the subscription completely by placing a termination order. For termination steps, see [Terminate or return your Adobe subscription](tutorials-and-videos/terminate-adobe-subscription.md).

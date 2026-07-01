@@ -1,12 +1,10 @@
 ---
-description: Buy new Adobe items using your existing agreement.
+description: Add items to an existing agreement.
 ---
 
-# Order new Adobe items
+# Buy new Adobe items
 
-This tutorial shows how you can order new Adobe items using your existing Marketplace agreement. Additional items can be ordered by submitting a change order.&#x20;
-
-{% include "../../../.gitbook/includes/video-header.md" %}
+This tutorial explains how to add new items to your existing Adobe VIP Marketplace agreement with SoftwareOne by placing a change order.
 
 {% embed url="https://vimeo.com/986322109/4702c0b2f1" %}
 Watch a quick video guide how to order new Adobe items using an existing agreement.
@@ -20,25 +18,27 @@ Make sure the agreement you want to use is active.&#x20;
 
 {% stepper %}
 {% step %}
-{% include "../../../.gitbook/includes/purchase-wizard-1.md" %}
+**Start the ordering process**
 
 To start the order:
 
 1. Go to **Catalog** > **Products**.
-2. Select the required product. For example, **Adobe VIP Marketplace for Commercial**.
+2. Select the required Adobe product, for example, **Adobe VIP Marketplace for Commercial**.
 3. Review the product details.
 4. Select **Buy now**.
 {% endstep %}
 
 {% step %}
-**Select the items you want to order**
+**Add the items to your order**
 
-Complete the following steps:
+In the guided purchase flow, complete the following steps:
 
-1. **Select agreement** - Select the required agreement, then select **Next**.&#x20;
-2. **Select Items** - Do the following:
-   1. Select **Add items** to view items you can purchase and add items to your order.&#x20;
-   2. When the items are added, update the license quantity in the **New qty** field, then select **Next**.
+1. **Select agreement** – Select the required active agreement, then select **Next**.&#x20;
+2. **Select Items** – Do the following:
+   1. Select **Add items**.
+   2. &#x20;Add the required items to your order.&#x20;
+   3. Update the quantity in the **New qty** field.
+   4. Select **Next**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe_add_items.png" alt=""><figcaption><p>The Select items step displaying newly added items.</p></figcaption></figure></div>
 {% endstep %}
@@ -46,9 +46,9 @@ Complete the following steps:
 {% step %}
 **Review and submit the order**
 
-1. **Details** - Add or update the reference ID and your comments. Select **Next**.
-2. **Review order** - Verify the information, then select **Place order**.
-3. **Summary -** Select **View details** to open the order details page or select **Close**.
+1. **Details** – Add or update the reference ID and order notes. Select **Next**.
+2. **Review order** – Review the order details, go through the terms and conditions, then select **Place order**.
+3. **Summary** – Review your order summary, then select **View details** to open the order details page, or select **Close**.
 {% endstep %}
 {% endstepper %}
 

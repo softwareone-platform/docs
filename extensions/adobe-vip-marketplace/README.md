@@ -45,7 +45,7 @@ Watch this video guide explaining about Adobe VIP Marketplace and how it benefit
 
 ## Key benefits <a href="#key-benefits" id="key-benefits"></a>
 
-As the next evolution of the VIP buying program, the Adobe VIP Marketplace program delivers a more customized and streamlined system. It enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient experience.&#x20;
+As the next evolution of the VIP buying program, the Adobe VIP Marketplace delivers a more customized and streamlined system. It enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient experience.&#x20;
 
 The flexibility and breadth of the program allow SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
 

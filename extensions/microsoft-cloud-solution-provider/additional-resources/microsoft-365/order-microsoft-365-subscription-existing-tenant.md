@@ -8,8 +8,6 @@ This tutorial describes how you can order a Microsoft 365 subscription by creati
 
 When setting up a new agreement, you can either create a new Microsoft account or use an existing one. This tutorial focuses on how to connect your existing cloud account.&#x20;
 
-{% include "../../../../.gitbook/includes/video-header.md" %}
-
 {% embed url="https://vimeo.com/985744841/f08189d1c0" %}
 Watch this video guide explaining how to order Microsoft 365 subscription for an existing tenant.
 {% endembed %}

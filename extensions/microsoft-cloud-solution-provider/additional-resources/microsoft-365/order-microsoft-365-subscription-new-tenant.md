@@ -10,8 +10,6 @@ This tutorial describes how you can order a Microsoft 365 subscription by creati
 
 When setting up a new agreement, you can either create a new Microsoft account or use an existing one. This tutorial focuses on how to set up a new Microsoft account.&#x20;
 
-{% include "../../../../.gitbook/includes/video-header.md" %}
-
 {% embed url="https://vimeo.com/985743941/17387d808a?share=copy" %}
 Watch this video guide explaining how to order Microsoft 365 subscription for a new tenant.
 {% endembed %}
