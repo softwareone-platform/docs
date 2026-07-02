@@ -8,7 +8,7 @@ The Task Log objects represent additional information regarding the execution of
 
 {% include "../../../../.gitbook/includes/api-table-header.md" %}
 
-<table><thead><tr><th width="140">Field</th><th width="154">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) The ID of the task log record. </td></tr><tr><td><code>task</code></td><td>task, core</td><td><p>A reference to the task containing this log. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
+<table data-search="false"><thead><tr><th width="140">Field</th><th width="154">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>id</code></td><td>string, <a data-footnote-ref href="#user-content-fn-1">core</a></td><td>(Read-only) The ID of the task log record. </td></tr><tr><td><code>task</code></td><td>task, core</td><td><p>A reference to the task containing this log. </p><p>Example:</p><pre class="language-json" data-overflow="wrap" data-line-numbers><code class="lang-json">{
   "id": "TSK-5498-1544-6054-5440",
   "name": "Transferring the buyer to a different account",
   "code": "platform.accounts.buyers.transfer"
