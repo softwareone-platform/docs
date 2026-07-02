@@ -22,7 +22,7 @@ Before starting this tutorial, make sure you are familiar with [key concepts](..
 
 {% stepper %}
 {% step %}
-{% include "../../../../.gitbook/includes/purchase-wizard-1.md" %}
+**Start the ordering process**
 
 To start the process:
 
@@ -45,7 +45,7 @@ In the guided purchase flow, complete the following steps:&#x20;
       1. Company name.
       2. Company registration ID or tax number.
       3. Company address, including city and zip/postal code.
-   3. Complete the **Primary Contact** form, providing the contact details of the person managing your account, then select **Next**.
+   3. Complete the **Primary Contact** form, providing the contact details for the person managing your account, then select **Next**.
 5. **Special qualifications** – Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
 6. **Support contacts** – Enter your support administrator's contact details and choose your preferred support language. Select **Next**.
 {% endstep %}

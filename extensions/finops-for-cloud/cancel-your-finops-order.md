@@ -32,14 +32,14 @@ To start the order:
 {% endstep %}
 
 {% step %}
-**Submit your order**
+**Submit the termination order**
 
-{% include "../../.gitbook/includes/in-the-purchase-wizard-com....md" %}
+Complete the following steps:
 
 1. **Items** – Make sure the new item quantity is `0`, then select **Next**.
-2. **Order details** – Add or update the additional ID and other details as necessary. When done, select **Next**.
-3. **Review order** – Use the links in the footer to read the terms and conditions. Then, select **Place order** to submit your termination order.
-4. **Summary** – Select **View order** to open the order details page or select **Close**.&#x20;
+2. **Order details** – Provide reference details for the order, then select **Next**.
+3. **Review order** – Review the order details, go through the terms and conditions, then select **Place order**.
+4. **Summary** – Review your order summary, then select **View details** to open the order details page, or select **Close**.
 {% endstep %}
 {% endstepper %}
 

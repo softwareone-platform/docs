@@ -14,7 +14,7 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-**Start the Purchase Wizard for AWS**
+**Start the guided Purchase workflow for AWS**
 
 To start the purchase wizard:
 

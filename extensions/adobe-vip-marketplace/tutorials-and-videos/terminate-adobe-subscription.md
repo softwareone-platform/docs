@@ -28,7 +28,7 @@ To open the subscription:
 {% endstep %}
 
 {% step %}
-**Submit the termination order for the subscription**
+**Submit a termination order for the subscription**
 
 In the guided **Terminate subscription** flow, complete the following steps:
 

@@ -33,7 +33,7 @@ To start the order:
 {% endstep %}
 
 {% step %}
-**Create the new agreement and choose items**
+**Create a new agreement and choose items**
 
 Complete the following steps:
 
@@ -52,7 +52,7 @@ Complete the following steps:
 {% endstep %}
 
 {% step %}
-**Review and submit your order**
+**Review and submit your purchase order**
 
 1. **Details** – Provide reference details for the order, then select **Next**.
 2. **Review order** – Review the order details, go through the terms and conditions, then select **Place order**.

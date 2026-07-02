@@ -66,9 +66,9 @@ All reseller transfers require a new agreement and a new purchase order in the M
 To start the process:&#x20;
 
 1. Sign in to the Marketplace Platform.
-2. Go to **Catalog** > **Products** from the main menu.
+2. Go to **Catalog** > **Products**.
 3. Select **Adobe VIP Marketplace**. Then, on the product details page, review the information, and select **Buy now**.
-4. In the Purchase flow, complete the following steps:
+4. In the guided purchase flow, complete the following steps:
    1. Select **Create agreement**.&#x20;
    2. Choose a licensee or [create a new one](../../../modules-and-features/settings/licensees/create-licensees.md). Then, select **Next**.
    3.  Choose **Transfer account** and select **Next**.&#x20;

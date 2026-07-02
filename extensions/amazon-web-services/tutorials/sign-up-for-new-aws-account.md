@@ -19,7 +19,7 @@ Before creating your AWS account, review the [AWS Organization requirements](../
 
 {% stepper %}
 {% step %}
-**Start the Purchase Wizard for AWS**
+**Start the guided Purchase workflow for AWS**
 
 To start the purchase wizard:
 
@@ -54,7 +54,7 @@ After creating your AWS account and completing the required configuration, retur
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Follow the instructions to create a new AWS account.</p></figcaption></figure></div>
 
-2. **Create agreement** – Select **Transfer an existing AWS account**, then select **Next**.&#x20;
+2. **Create agreement** – Select **Transfer an existing AWS account.** Select **Next**.&#x20;
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/aws-transfer-account-option.png" alt=""><figcaption><p>Select the option to transfer your account.</p></figcaption></figure></div>
 

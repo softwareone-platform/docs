@@ -28,7 +28,7 @@ To open the agreement:
 {% endstep %}
 
 {% step %}
-**Place the termination order for the agreement**&#x20;
+**Place a termination order for the agreement**&#x20;
 
 In the guided **Terminate agreement** flow, complete the following steps:
 

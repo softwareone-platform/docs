@@ -17,7 +17,7 @@ Before starting this tutorial, make sure you have the following:
 
 {% stepper %}
 {% step %}
-{% include "../../.gitbook/includes/purchase-wizard-1.md" %}
+**Start the ordering process**
 
 To start the process:
 
@@ -29,7 +29,7 @@ To start the process:
 {% endstep %}
 
 {% step %}
-**Create your agreement and add the FinOps item to your order**
+**Create an agreement and add the FinOps item to your order**
 
 Complete the following steps:
 
@@ -52,22 +52,20 @@ Make sure to choose the correct currency, as it can't be changed after the agree
 {% endstep %}
 
 {% step %}
-**Review and submit the order**
+**Review and submit the purchase order**
 
-To review the details and place your order:
+Complete the following steps:
 
-* **Details** – Enter the reference details, then select **Next**.
-* **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
-* **Summary** – Select **View details** to open the order details page or select **Close**.
+1. **Details** – Provide reference details for the order, then select **Next**.
+2. **Review order** – Review the order details, go through the terms and conditions, then select **Place order**.
+3. **Summary** – Review your order summary, then select **View details** to open the order details page, or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps
 
-After you place the order, we'll verify the details.
+After you place the order, we'll verify the details. You can track your order on the order details page.
 
-You can track your order using the order details page
-
-After your order is complete, we'll email your account administrator with instructions on [how to sign in to your FinOps account](https://portal.finops.softwareone.com/). After signing in, your administrator can connect the data source to start importing data.&#x20;
+After the order is complete, we'll email your account administrator with instructions on [how to sign in to your FinOps account](https://portal.finops.softwareone.com/). After signing in, your administrator can connect the data source to start importing data.&#x20;
 
 For more details, see the [FinOps for Cloud documentation](https://docs.finops.softwareone.com/).

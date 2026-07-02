@@ -44,7 +44,7 @@ In the guided purchase flow, complete the following steps:
 {% endstep %}
 
 {% step %}
-**Review and submit the order**
+**Review and submit the change order**
 
 1. **Details** – Add or update the reference ID and order notes. Select **Next**.
 2. **Review order** – Review the order details, go through the terms and conditions, then select **Place order**.

@@ -28,7 +28,7 @@ To open the subscription:
 {% endstep %}
 
 {% step %}
-**Increase the quantity and submit the order**
+**Increase the quantity and submit the change order**
 
 In the guided **Edit subscription** flow, complete the following steps:
 
