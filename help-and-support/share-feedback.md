@@ -12,14 +12,14 @@ When writing feedback, consider the following best practices:
 * **Focus on actions, not individuals** – Describe your experience with the platform, its features, and workflows, instead of naming individuals.
 
 {% hint style="info" %}
-Do not use the feedback form to request assistance. If you encounter an issue with the Marketplace Platform or [SoftwareOne FinOps for Cloud](https://docs.finops.softwareone.com/), contact Marketplace Platform Support instead.&#x20;
+Do not use the feedback form to request assistance. If you encounter an issue with the Marketplace Platform or SoftwareOne FinOps for Cloud, [contact Marketplace Platform Support](contact-support.md#contact-marketplace-platform-support) instead.&#x20;
 {% endhint %}
 
 ### Share feedback <a href="#share-feedback" id="share-feedback"></a>
 
 To share feedback:
 
-1. Select the help menu <img src="../.gitbook/assets/icon_help.png" alt="" data-size="line"> in the header.
+1. Select the help icon <img src="../.gitbook/assets/icon_help.png" alt="" data-size="line"> in the header.
 2. Select **Share feedback**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/help-send-feedback.png" alt=""><figcaption><p>Select Share feedback to share your feedback.</p></figcaption></figure></div>

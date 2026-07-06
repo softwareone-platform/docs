@@ -28,4 +28,4 @@ To close a case from the **Chats** page:
 4. Select the actions icon (**•••**) in the chat window, then under **Case**, choose **Complete**.
 5. In the **Complete case** confirmation, confirm that you want to complete the case.&#x20;
 
-The case closes and its status changes to **Completed**. You can reopen the case at any time. For details, see [Reopen a case](reopen-case.md).
+The case closes and its status changes to **Completed**. You can reopen the case at any time. For details, see [Reopen case](reopen-case.md).

@@ -53,7 +53,7 @@ For example, to find an agreement, select **Agreements** and enter the full ID, 
 The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size="line"> gives you quick access to documentation, support, and feedback.
 
 * **Documentation** shows recommended help topics. Select **View all** to open the full documentation set.
-* **Need help?** redirects you to help and support.
+* **Need help?** allows you to [create a new support case](../../../modules-and-features/helpdesk/cases/create-case.md).&#x20;
 * **Send feedback** lets you share comments and suggestions with us. For details, see [Share feedback](../../../help-and-support/share-feedback.md).
 
 </details>
@@ -67,6 +67,14 @@ The **Spotlight** option <img src="../../../.gitbook/assets/icon_pending_actions
 Examples include expiring subscriptions, pending orders, overdue invoices, and more. For more details, see the [Spotlight widget](view-pending-tasks.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>Use the spotlight widget to view and manage urgent tasks.</p></figcaption></figure></div>
+
+</details>
+
+<details>
+
+<summary>Chat</summary>
+
+The chat icon displays the number of unread messages. Select **View all** to open the [Chat page](../../../modules-and-features/chat/) containing your list of chats.
 
 </details>
 

@@ -11,10 +11,10 @@ To create a case:
 3. In the **Add case** flow, complete the following steps:
    1. Under **Choose topic**, select the area you need help with, then select **Next**. For example, if you are looking for a quotation, select **Request a Quote**.
    2. Under **Find answers**, explore our self-help resources to see if your question has been answered. If you still need assistance, select **Next** to continue.
-   3. Under **Contact support,** describe your issue in detail.
+   3. Under **Contact support,** add your comments.
    4. Select **Add** to submit your case.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/in-app-help.png" alt=""><figcaption><p>Use the help wizard to request assistance.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/in-app-help.png" alt=""><figcaption><p>Use the Get help flow to request assistance.</p></figcaption></figure></div>
 
 ### Create a case from the Chats page
 
@@ -24,6 +24,6 @@ To create a case from the Chats page:
 2. In the left sidebar, select **+ Support case**.
 3. In the **Add case** flow, complete the following steps:
    1. Under **Choose topic**, select the area you need help with, then select **Next**. For example, if you are looking for a quotation, select **Request a Quote**.
-   2. Under **Find answers**, explore our self-help resources to see if your question has been answered. If you still need assistance, select **Next** to continue.
+   2. Under **Find answers**, explore our self-help resources to see if your question has been answered. If you still need assistance, select **Next**.
    3. Under **Contact support,** describe your issue in detail.
    4. Select **Add** to submit your case.
