@@ -19,7 +19,7 @@ Do not use the feedback form to request assistance. If you encounter an issue wi
 
 To share feedback:
 
-1. Select the help icon <img src="../.gitbook/assets/icon_help.png" alt="" data-size="line"> in the header.
+1. Select the help icon <i class="fa-circle-question">:circle-question:</i> in the header.
 2. Select **Share feedback**.
 
 <div data-with-frame="true"><figure><img src="../.gitbook/assets/help-send-feedback.png" alt=""><figcaption><p>Select Share feedback to share your feedback.</p></figcaption></figure></div>
