@@ -1,7 +1,5 @@
-# Create Account User
+# Create account user
 
-Invite a user to the account.
-
-{% openapi-operation spec="marketplace-accounts-api" path="/public/v1/accounts/account-users" method="post" %}
-[Broken link](broken-reference)
+{% openapi-operation spec="marketplace-accounts-v5" path="/public/v1/accounts/account-users" method="post" %}
+[OpenAPI marketplace-accounts-v5](https://api.platform.softwareone.com/public/v1/accounts/openapi.json)
 {% endopenapi-operation %}
