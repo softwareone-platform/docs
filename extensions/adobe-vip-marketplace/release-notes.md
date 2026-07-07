@@ -4,7 +4,24 @@ description: >-
   integration between the SoftwareOne Marketplace and Adobe VIP Marketplace.
 ---
 
-# Release Notes
+# Release notes
+
+## Release Date: 7 July 2026
+
+### Local price lists for Global Customer agreements
+
+We have updated how price lists are assigned to Global Customer agreements in the SoftwareOne Marketplace.
+
+Previously, these agreements used worldwide price lists, which showed items across all regions regardless of where the deployment was located. Deployments now use local price lists matched to the deployment location's region and subscription currency.
+
+What this means for you:
+
+* When adding items to a deployment, you will now see only the products available in that deployment's region. This makes it faster to find and order the right items, and avoids items being offered that cannot be fulfilled in that location.
+* Pricing and currency continue to follow the deployment location, as before.
+
+Your existing agreements and subscriptions are unaffected, and there is no change to billing.
+
+***
 
 ## Release Date: 7 April 2026
 
