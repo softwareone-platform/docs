@@ -17,7 +17,7 @@ Do not use the feedback form to request assistance. If you encounter an issue wi
 
 ### Share feedback <a href="#share-feedback" id="share-feedback"></a>
 
-To share feedback:
+To submit feedback:
 
 1. Select the help icon <i class="fa-circle-question">:circle-question:</i> in the header.
 2. Select **Share feedback**.

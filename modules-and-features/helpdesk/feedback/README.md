@@ -4,18 +4,18 @@ description: Share your ideas and feedback with SoftwareOne.
 
 # Feedback
 
-The **Feedback** page enables you to share your comments, suggestions, and experiences about the SoftwareOne Marketplace directly with us. You can also submit ideas on improving existing features and workflows.&#x20;
+The **Feedback** page lets you share comments, suggestions, and ideas for improving SoftwareOne Marketplace.
 
-Your feedback helps us improve the platform, and we welcome both positive and negative experiences you had while using the platform.&#x20;
+Your feedback helps us improve the platform. We welcome all feedback about your experience, including both positive and negative experiences.
 
 ### Submit feedback
 
-You can share your feedback either by selecting the help option in the header or through the **Feedback** page.&#x20;
+You can provide feedback by selecting the help icon in the header or through the **Feedback** page.&#x20;
 
-* To share feedback using the help icon, select <img src="../../../.gitbook/assets/icon_help.png" alt="" data-size="line">, then choose **Share Feedback**.
-* To share feedback from the **Feedback** page, go to **Helpdesk** > **Feedback**, then select **Share Feedback**.
+* To submit feedback using the help icon, select <i class="fa-circle-question">:circle-question:</i>, then choose **Share Feedback**.
+* To submit feedback from the **Feedback** page, go to **Helpdesk** > **Feedback**, then select **Share Feedback**.
 
-When submitting feedback, you can write your comments, attach files, and rate your experience. For key considerations and details on what to include in your feedback, see [Share feedback](../../../help-and-support/share-feedback.md).
+When submitting feedback, you can add your comments, attach files, and rate your experience. For guidance on what information to include, see [Share feedback](../../../help-and-support/share-feedback.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/feedback-wizard.png" alt=""><figcaption><p>Rate your experience and describe your feedback.</p></figcaption></figure></div>
 
@@ -23,6 +23,10 @@ When submitting feedback, you can write your comments, attach files, and rate yo
 
 {% content-ref url="feedback-states.md" %}
 [feedback-states.md](feedback-states.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../../help-and-support/share-feedback.md" %}
+[share-feedback.md](../../../help-and-support/share-feedback.md)
 {% endcontent-ref %}
 
 {% content-ref url="view-feedback.md" %}
