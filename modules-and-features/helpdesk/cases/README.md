@@ -8,7 +8,7 @@ A case is a support request or inquiry created when you need more information or
 
 Each case includes important details, such as the case ID, reporter, assignee, status, and the conversation between you and the assignee or individual handling your case. As the issue is reviewed, the case status is updated so you can monitor its progress.
 
-In the SoftwareOne Marketplace, each case includes a conversation thread that lets you communicate with the assignee handling your case.&#x20;
+In the SoftwareOne Marketplace, each case includes a conversation thread, also called case chat, that lets you communicate with the assignee handling your case.&#x20;
 
 ### Cases page
 

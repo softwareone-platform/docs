@@ -42,6 +42,6 @@ To create a support case:
    2. Review the suggested self-help resources. If you still need assistance, select **Next**.
    3. Enter a description of your issue, then select **Add**.
 
-Your case is submitted to Marketplace Platform Support. You can view your submitted cases and track progress on the [Cases](../modules-and-features/helpdesk/cases/) page.
+Your case is submitted to Marketplace Platform Support. You can view your submitted case and track progress on the [Cases](../modules-and-features/helpdesk/cases/) page.
 
 We aim to acknowledge all support cases on the same day as they are submitted, within our core business hours. However, the response time may vary during busy periods.

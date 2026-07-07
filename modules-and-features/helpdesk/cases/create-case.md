@@ -1,29 +1,22 @@
 # Create case
 
-You can create a support case by either selecting the help option in the header or by choosing **+ Support case** on the **Chats** page.&#x20;
+You can create a support case from any of the following locations:
 
-### Create a case using the help icon
+* Select the help icon <i class="fa-circle-question">:circle-question:</i> in the header, then choose **Need help**.&#x20;
+* Go to **Helpdesk** > **Cases**, then select **Add**.
+* Go to **Chats**, then select **+ Support case**.
+
+Regardless of where you start, the same **Add case** wizard opens.
+
+### Create a case&#x20;
 
 To create a case:
 
-1. Go to **Helpdesk** > **Cases**.&#x20;
-2. Select **Add**.
-3. In the **Add case** flow, complete the following steps:
-   1. Under **Choose topic**, select the area you need help with, then select **Next**. For example, if you are looking for a quotation, select **Request a Quote**.
-   2. Under **Find answers**, explore our self-help resources to see if your question has been answered. If you still need assistance, select **Next** to continue.
-   3. Under **Contact support,** add your comments.
-   4. Select **Add** to submit your case.
+1. Open the **Add case** flow from one of the available entry points.
+2. In the guided **Add case** flow, complete the following steps:
+   1. Select the area you need help with, then select **Next**.&#x20;
+   2. Review the available self-help resources. If you still need assistance, select **Next** to continue.
+   3. Provide details about your request or issue.
+   4. Select **Add** to submit the case.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/in-app-help.png" alt=""><figcaption><p>Use the Get help flow to request assistance.</p></figcaption></figure></div>
-
-### Create a case from the Chats page
-
-To create a case from the Chats page:
-
-1. Go to the **Chats** page.
-2. In the left sidebar, select **+ Support case**.
-3. In the **Add case** flow, complete the following steps:
-   1. Under **Choose topic**, select the area you need help with, then select **Next**. For example, if you are looking for a quotation, select **Request a Quote**.
-   2. Under **Find answers**, explore our self-help resources to see if your question has been answered. If you still need assistance, select **Next**.
-   3. Under **Contact support,** describe your issue in detail.
-   4. Select **Add** to submit your case.
+After you submit the case, it is routed to the appropriate team based on the information you provide.
