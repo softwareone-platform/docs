@@ -8,7 +8,7 @@ You can create a support case from any of the following locations:
 
 Regardless of where you start, the same **Add case** wizard opens.
 
-### Create a case&#x20;
+### Create a case
 
 To create a case:
 
@@ -19,4 +19,4 @@ To create a case:
    3. Provide details about your request or issue.
    4. Select **Add** to submit the case.
 
-After you submit the case, it is routed to the appropriate team based on the information you provide.
+After you submit the case, it is routed to the appropriate team based on the information you provide. You can view your submitted case on the **Cases** page. For more details, see [View cases](view-cases.md).
