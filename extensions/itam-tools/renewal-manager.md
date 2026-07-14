@@ -17,15 +17,15 @@ The page also contains:
     * **Renewals Overdue** – Agreements that have passed their renewal date and the renewal process is not yet completed.
     * **Agreements Added** – Newly added Agreements
     * **Add Agreements Manually**
-  * **Future Period** – shows aggregated data from future periods you select from the dropdown. &#x20;
+  * **Future Period** – shows aggregated data from future periods you select from the dropdown.
 
 The links in the tiles take you to the list of agreements with filters applied. This allows you to see the full list of agreements aggregated into the tiles.
 
-<figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure></div>
 
 #### Add Agreements Manually <a href="#add-agreements-manually" id="add-agreements-manually"></a>
 
-Renewal Manager is not limited to agreements and software purchased through SoftwareOne.&#x20;
+Renewal Manager is not limited to agreements and software purchased through SoftwareOne.
 
 The **Add Agreements Manually** option lets you add agreements to Renewal Manager that have not been purchased through SoftwareOne.
 
@@ -45,12 +45,12 @@ The Agreements list shows all agreements either purchased through SoftwareOne, i
 
 All agreements are divided into 4 groups (sub-tabs are visible above the agreements list).
 
-* **Agreements**  – Shows agreements with a defined end date. This means that for those agreements, it is necessary to define a certain date in the future when the agreement must be renewed or terminated.
+* **Agreements** – Shows agreements with a defined end date. This means that for those agreements, it is necessary to define a certain date in the future when the agreement must be renewed or terminated.
 * **Evergreen Agreements** – Shows agreements that don't have an end date. For example, Transactional License Agreements for perpetual licenses without any maintenance. Master Agreements, like Microsoft MPSA or Adobe VIP Agreements, are also listed.
 * **Archive** – Shows archived agreements. You can archive agreements if they are set to **Renewed** or **Terminated**. If the renewal process for an agreement is currently **in progress**, you cannot archive it. You can archive single agreements by using the “action” available in the grid view. If you want to archive multiple agreements in one go, use the bulk action option.
-* **Under Maintenance** – Shows new agreements purchased through SoftwareOne, and agreements imported from Entitlement Manager, which are missing data and cannot be managed by Renewal Manager.&#x20;
-  * If there are no incomplete agreements existing, this sub-tab won’t be visible.&#x20;
-  * You can request that the data be completed by selecting **Update** in the column of a specific agreement. You can also use the **Notes** section to add further information before submitting the request.&#x20;
+* **Under Maintenance** – Shows new agreements purchased through SoftwareOne, and agreements imported from Entitlement Manager, which are missing data and cannot be managed by Renewal Manager.
+  * If there are no incomplete agreements existing, this sub-tab won’t be visible.
+  * You can request that the data be completed by selecting **Update** in the column of a specific agreement. You can also use the **Notes** section to add further information before submitting the request.
   * Once submitted, the agreement for which the update has been requested is marked as **Updating**, and the **Update** button is no longer available. After the agreements are updated, they are listed on the **Agreements** or **Evergreen Agreements** tabs.
 
 #### Advanced Search <a href="#post-796-_toc14239612" id="post-796-_toc14239612"></a>
@@ -67,7 +67,7 @@ Bulk actions simplify administrative tasks by allowing you to modify multiple ag
 
 When you select one or more checkboxes in the agreements list, the **Actions** button becomes enabled. You can then choose from the following actions:
 
-<table><thead><tr><th width="247">Action</th><th>Description</th></tr></thead><tbody><tr><td><strong>Archive</strong></td><td><p>Archive selected agreements. Archived agreements are moved to the <strong>Archive</strong> subtab. </p><div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>Only agreements with a Renewal Progress status of <strong>Renewed</strong> or <strong>Terminated</strong> can be archived. Agreements that are still undergoing the renewal process cannot be archived until the process is complete.</p></div></td></tr><tr><td><strong>Change currency</strong></td><td>Change the currency for all selected agreements. By changing the currency, the total costs of the agreement are exchanged into the selected currency using the current exchange rates from today. Selecting the same currency for all agreements makes it easier to compare and run analyses.</td></tr><tr><td><strong>Add tags</strong></td><td>Add specific tags for all selected agreements. See more details in Tags and Cost Split.</td></tr><tr><td><strong>Remove tags</strong></td><td>Remove specific tags from all selected agreements. This is only available when you select agreements with tags.</td></tr><tr><td><strong>Add responsible people</strong></td><td>Add the person who is responsible for the selected agreement.</td></tr><tr><td><strong>Remove responsible people</strong></td><td>Remove the responsible person from the selected agreement.</td></tr></tbody></table>
+<table><thead><tr><th width="247">Action</th><th>Description</th></tr></thead><tbody><tr><td><strong>Archive</strong></td><td><p>Archive selected agreements. Archived agreements are moved to the <strong>Archive</strong> subtab.</p><div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>Only agreements with a Renewal Progress status of <strong>Renewed</strong> or <strong>Terminated</strong> can be archived. Agreements that are still undergoing the renewal process cannot be archived until the process is complete.</p></div></td></tr><tr><td><strong>Change currency</strong></td><td>Change the currency for all selected agreements. By changing the currency, the total costs of the agreement are exchanged into the selected currency using the current exchange rates from today. Selecting the same currency for all agreements makes it easier to compare and run analyses.</td></tr><tr><td><strong>Add tags</strong></td><td>Add specific tags for all selected agreements. See more details in Tags and Cost Split.</td></tr><tr><td><strong>Remove tags</strong></td><td>Remove specific tags from all selected agreements. This is only available when you select agreements with tags.</td></tr><tr><td><strong>Add responsible people</strong></td><td>Add the person who is responsible for the selected agreement.</td></tr><tr><td><strong>Remove responsible people</strong></td><td>Remove the responsible person from the selected agreement.</td></tr></tbody></table>
 
 ### Agreement Details Page <a href="#post-796-_toc14239621" id="post-796-_toc14239621"></a>
 
@@ -173,7 +173,7 @@ When a custom renewal period is set, the number of renewal payments is updated a
 
 ### Renewal History Tab <a href="#post-796-_toc14180232" id="post-796-_toc14180232"></a>
 
-The **Renewal History** Tab shows renewal activity of the currently selected agreement and the connections to other agreements if they exist.&#x20;
+The **Renewal History** Tab shows renewal activity of the currently selected agreement and the connections to other agreements if they exist.
 
 The **Renewal Progress** tile and the message in the upper section of the agreement details page give you the latest renewal activity status.
 
@@ -181,7 +181,7 @@ The **Renewal Progress** tile and the message in the upper section of the agreem
 
 This section displays all renewal activities for the currently selected agreement. It starts from the **Quote in Progress** until the renewal is renewed.
 
-If the agreement was transacted through SoftwareOne, the **Renewal Progress Status** is linked with SoftwareOne’s internal Renewal Process and is updated automatically.&#x20;
+If the agreement was transacted through SoftwareOne, the **Renewal Progress Status** is linked with SoftwareOne’s internal Renewal Process and is updated automatically.
 
 The related Sales Documents (such as Quotes, Orders) can be accessed directly from this view.
 
@@ -193,15 +193,15 @@ For manually registered agreements or agreements imported from Entitlement Manag
 
 #### Agreement Renewal History
 
-This section shows the history of agreements.&#x20;
+This section shows the history of agreements.
 
 If agreements co-terminate or renew into another agreement, those agreements are collated and are displayed in the Agreement Renewal History section.
 
 ### Savings Tab <a href="#post-796-_toc14239646" id="post-796-_toc14239646"></a>
 
-On the **Savings** tab, you can add savings relating to a specific agreement.&#x20;
+On the **Savings** tab, you can add savings relating to a specific agreement.
 
-The **Total Savings** tile shows the savings sum for the agreement. In the **Date of Savings** field, you can enter the date you want for your [Savings Analysis](renewal-manager.md#post-796-_toc14239659). By default, this is set to the agreement start date.&#x20;
+The **Total Savings** tile shows the savings sum for the agreement. In the **Date of Savings** field, you can enter the date you want for your [Savings Analysis](renewal-manager.md#post-796-_toc14239659). By default, this is set to the agreement start date.
 
 ### Tags and Cost Split Tab <a href="#post-796-_toc14180237" id="post-796-_toc14180237"></a>
 
@@ -213,7 +213,7 @@ The tag list is available on the **Agreements** Tab. If you don’t see the tags
 
 ### Responsible People Tab <a href="#post-796-_toc14239648" id="post-796-_toc14239648"></a>
 
-In this section, you can add people responsible for an agreement by selecting **Add Contact**.&#x20;
+In this section, you can add people responsible for an agreement by selecting **Add Contact**.
 
 Contacts from agreements that have the same agreement owner can be shared between multiple agreements.
 
@@ -231,13 +231,13 @@ When you select **Add New Document**, the form opens.
 
 From here, you can upload a file and add a note to describe it. Select **Save** to save the file in the **Documents** section.
 
-<figure><img src="../../.gitbook/assets/Renewal-Manager.png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/Renewal-Manager.png" alt=""><figcaption><p>Choose the file to upload, add notes, and save your changes.</p></figcaption></figure></div>
 
 ## Costs <a href="#post-796-_toc14180241" id="post-796-_toc14180241"></a>
 
 Within the Costs tab, you can use a Bar Chart and a Gantt Chart to analyze costs.
 
-The **Bar Chart** displays costs over a timeline, with the option to switch between different views, including **Month**, **Quarter**, or **Year**. You can also navigate backward and forward within the chart.
+The **Bar Chart** displays costs over time, with the option to switch between views, including **Month**, **Quarter**, or **Year**. You can also navigate backward and forward within the chart.
 
 Use the **Cost By** drop-down menu to switch to a stacked bar chart and group costs by:
 
@@ -262,9 +262,9 @@ Filter options are also available above the chart to help you refine the display
 
 Savings Analysis displays a summary of your savings for all agreements. The savings data is for the defined “Start – End” date period.
 
-## Products Overview  <a href="#post-796-_toc14239660" id="post-796-_toc14239660"></a>
+## Products Overview <a href="#post-796-_toc14239660" id="post-796-_toc14239660"></a>
 
-The Products Overview tab shows the list of all products available in Renewal Manager, regardless of the agreement.
+The Products Overview tab shows a list of all products in Renewal Manager, regardless of the agreement.
 
 Within this list of products, you can:
 
@@ -289,21 +289,21 @@ Each grid available in Renewal Manager can be personalized.
 
 When you select **Customize**, a list of available columns is displayed. Select the checkboxes next to the information you want to add to the grid.
 
-<figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (446).png" alt=""><figcaption><p>Customize the columns in the grid.</p></figcaption></figure></div>
 
 If you select multiple columns to display and the view is not wide enough to show all information, you can resize the specific column widths by moving your mouse cursor over the column border and then “click and drag” the column to your required width.
 
 Use the horizontal scroll bar to navigate across.
 
-<figure><img src="../../.gitbook/assets/image (447).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (447).png" alt=""><figcaption><p>Use the column header to resize width.</p></figcaption></figure></div>
 
 ## Exports <a href="#post-796-_toc14180249" id="post-796-_toc14180249"></a>
 
-You can generate reports from Agreements, Products, and Payments.&#x20;
+You can generate reports from Agreements, Products, and Payments.
 
 To do this, select **Export** and select the relevant export list. To view generated reports, select **Go to My Reports**.
 
-<figure><img src="../../.gitbook/assets/image (448).png" alt=""><figcaption></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (448).png" alt=""><figcaption><p>Use the <strong>Exports</strong> option to generate reports.</p></figcaption></figure></div>
 
 ## Notifications <a href="#post-796-_toc14180250" id="post-796-_toc14180250"></a>
 
