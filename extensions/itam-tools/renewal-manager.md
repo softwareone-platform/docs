@@ -2,13 +2,15 @@
 
 Renewal Manager lets you collect, track, and manage contractual and software maintenance renewals independent of the software license supplier or distribution channel.
 
-When you log into Renewal Manager for the first time, the application will set up a session for you. It will retrieve all the information from your agreements purchased through SoftwareOne. This may take several seconds, depending on the data volume.
+When you log into Renewal Manager for the first time, the platform sets up a session for you. It retrieves the information from your agreements purchased through SoftwareOne. This may take several seconds, depending on the data volume.
 
-## Summary Page <a href="#summary-page" id="summary-page"></a>
+## Summary <a href="#summary-page" id="summary-page"></a>
 
-The Renewal Manager Summary Page includes an advanced search feature that allows you to narrow down the agreements displayed in the tiles. Search filters help you focus on the aggregated data that is most relevant to you.
+The Summary page includes an advanced search feature, allowing you to narrow down the agreements displayed in the tiles.&#x20;
 
-The page also contains:
+Search filters help you focus on the aggregated data that is most relevant to you.
+
+The page also contains the following:
 
 * **Agreements**, **Costs**, **Savings Analysis**, and **Products Overview** tabs.
 * **Past Period**, **Today’s tasks**, and **Ending period** tiles with aggregated data.
@@ -29,11 +31,11 @@ Renewal Manager is not limited to agreements and software purchased through Soft
 
 The **Add Agreements Manually** option lets you add agreements to Renewal Manager that have not been purchased through SoftwareOne.
 
-After entering the data, select **Save**. You will then see the Agreement Details Page for the agreement you have just created. After registering an agreement, you can add product and cost information to this agreement as a second step.
+After entering the data, select **Save**. The details page opens for the newly added agreement. After registering the agreement, you can add product and cost information.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (445).png" alt="" width="563"><figcaption><p>Add a new agreement and save your changes.</p></figcaption></figure></div>
 
-## Agreements Tab <a href="#agreements-page" id="agreements-page"></a>
+## Agreements <a href="#agreements-page" id="agreements-page"></a>
 
 On the Agreements tab, you can:
 
@@ -69,13 +71,11 @@ When you select one or more checkboxes in the agreements list, the **Actions** b
 
 <table><thead><tr><th width="247">Action</th><th>Description</th></tr></thead><tbody><tr><td><strong>Archive</strong></td><td><p>Archive selected agreements. Archived agreements are moved to the <strong>Archive</strong> subtab.</p><div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>Only agreements with a Renewal Progress status of <strong>Renewed</strong> or <strong>Terminated</strong> can be archived. Agreements that are still undergoing the renewal process cannot be archived until the process is complete.</p></div></td></tr><tr><td><strong>Change currency</strong></td><td>Change the currency for all selected agreements. By changing the currency, the total costs of the agreement are exchanged into the selected currency using the current exchange rates from today. Selecting the same currency for all agreements makes it easier to compare and run analyses.</td></tr><tr><td><strong>Add tags</strong></td><td>Add specific tags for all selected agreements. See more details in Tags and Cost Split.</td></tr><tr><td><strong>Remove tags</strong></td><td>Remove specific tags from all selected agreements. This is only available when you select agreements with tags.</td></tr><tr><td><strong>Add responsible people</strong></td><td>Add the person who is responsible for the selected agreement.</td></tr><tr><td><strong>Remove responsible people</strong></td><td>Remove the responsible person from the selected agreement.</td></tr></tbody></table>
 
-### Agreement Details Page <a href="#post-796-_toc14239621" id="post-796-_toc14239621"></a>
+### Agreement Details page <a href="#post-796-_toc14239621" id="post-796-_toc14239621"></a>
 
-The Agreement Details page shows all data stored for specific agreements. From this view, you can use the various tabs to manage agreement data.
+The Agreement details page shows all data stored for specific agreements. From this view, you can use the various tabs to manage agreement data.
 
-#### Agreement Details Page Header <a href="#agreement-details-page-header" id="agreement-details-page-header"></a>
-
-Regardless of which tab you are viewing on the Agreement Details page, the upper section of the page remains the same.
+Regardless of which tab you are viewing on the agreement details page, the upper section of the page remains the same.
 
 * With the **Navigation Tile**, you can always switch back to one of the main tabs, such as the list of agreements.
 * The **Summary Tile** provides an overview of the agreement’s total cost:
@@ -115,11 +115,11 @@ The Estimated Renewal Costs are calculated using this formula: Current Cost × R
 
 5,000.00 × 20% ÷ 365 days × 365 days = 1,000.00
 
-### Agreement Details Tab <a href="#post-796-_toc14239622" id="post-796-_toc14239622"></a>
+### Agreement Details tab <a href="#post-796-_toc14239622" id="post-796-_toc14239622"></a>
 
-The Agreement Details Tab provides you with agreement descriptions, categorizations, and dates. For example, Contract Numbers, Agreement Owner, publisher, End Date, Anniversary Date, and much more.
+The Agreement Details tab provides you with agreement descriptions, categorizations, and dates. For example, Contract Numbers, Agreement Owner, publisher, End Date, Anniversary Date, and much more.
 
-#### Edit Agreement
+#### Edit agreement
 
 Selecting **Edit** on the Agreement Details tab opens the **Edit** view.
 
@@ -128,17 +128,17 @@ When editing an agreement, the available options depend on the agreement source:
 * **Registered manually** – You can update all fields related to the agreement.
 * **Imported from the SoftwareOne ERP System or Entitlement Manager** – You can only update fields that were not imported from these systems. Fields that are disabled cannot be edited. However, you can request an update by selecting **Request an Update**.
 
-#### Request an Update
+#### Request an update
 
 To change an uneditable field of an agreement purchased through SoftwareOne or imported from Entitlement Manager, you can request an update.
 
-### Products Tab <a href="#post-796-_toc14239625" id="post-796-_toc14239625"></a>
+### Products tab <a href="#post-796-_toc14239625" id="post-796-_toc14239625"></a>
 
 When agreements have related products, a list of all related products is displayed on the **Products** tab.
 
 For agreements purchased through SoftwareOne or agreements imported automatically from Entitlement Manager, the related products are displayed automatically.
 
-#### Product Details View
+#### Product details view
 
 To see more details for a specific product in the list, select the row with the product or select **View** in the **Actions** column.
 
@@ -151,7 +151,7 @@ In the **Details** view, you can see all data relating to the product. From this
 
 The **Edit** feature distinguishes between imported and manually created products. For imported products, only certain fields can be edited.
 
-When you change the **Start Date** or **End Date** in the **Product Details** view, a notification is displayed informing you that this action may remove data entered in the payment table.
+When you change the **Start Date** or **End Date** in the **Product Details** view, a notification is displayed indicating that this action may remove data entered in the payment table.
 
 The payment table is updated based on the new number of payments. Changing the **Start Date** or **End Date** of an agreement in the **Edit agreement** view can also trigger changes to the payment plans of products associated with that agreement.
 
@@ -171,13 +171,19 @@ Fields marked with an asterisk (\*) are mandatory. All required fields must be c
 
 When a custom renewal period is set, the number of renewal payments is updated accordingly.
 
-### Renewal History Tab <a href="#post-796-_toc14180232" id="post-796-_toc14180232"></a>
+### Renewal History tab <a href="#post-796-_toc14180232" id="post-796-_toc14180232"></a>
 
-The **Renewal History** Tab shows renewal activity of the currently selected agreement and the connections to other agreements if they exist.
+The **Renewal History** tab shows renewal activity of the currently selected agreement and the connections to other agreements if they exist.
 
 The **Renewal Progress** tile and the message in the upper section of the agreement details page give you the latest renewal activity status.
 
-#### Renewal Activity
+#### Renewal history
+
+This section shows the history of agreements.
+
+If agreements co-terminate or renew into another agreement, those agreements are collated and are displayed in the Agreement Renewal History section.
+
+#### Renewal activity
 
 This section displays all renewal activities for the currently selected agreement. It starts from the **Quote in Progress** until the renewal is renewed.
 
@@ -191,19 +197,13 @@ For agreements not purchased through SoftwareOne, you can update the status manu
 
 For manually registered agreements or agreements imported from Entitlement Manager, you can select a Renewal Progress Status and add optional notes.
 
-#### Agreement Renewal History
-
-This section shows the history of agreements.
-
-If agreements co-terminate or renew into another agreement, those agreements are collated and are displayed in the Agreement Renewal History section.
-
 ### Savings Tab <a href="#post-796-_toc14239646" id="post-796-_toc14239646"></a>
 
 On the **Savings** tab, you can add savings relating to a specific agreement.
 
 The **Total Savings** tile shows the savings sum for the agreement. In the **Date of Savings** field, you can enter the date you want for your [Savings Analysis](renewal-manager.md#post-796-_toc14239659). By default, this is set to the agreement start date.
 
-### Tags and Cost Split Tab <a href="#post-796-_toc14180237" id="post-796-_toc14180237"></a>
+### Tags and Cost Split tab <a href="#post-796-_toc14180237" id="post-796-_toc14180237"></a>
 
 This feature lets you select or create tags related to the agreement and allocate the cost split percentage.
 
@@ -211,7 +211,7 @@ All tags added to the agreement are visible in the list on the **Tags and Cost S
 
 The tag list is available on the **Agreements** Tab. If you don’t see the tags column, you can customize grids in Renewal Manager. If you hover over a specific tag, a tooltip with more details appears.
 
-### Responsible People Tab <a href="#post-796-_toc14239648" id="post-796-_toc14239648"></a>
+### Responsible People tab <a href="#post-796-_toc14239648" id="post-796-_toc14239648"></a>
 
 In this section, you can add people responsible for an agreement by selecting **Add Contact**.
 
@@ -219,7 +219,7 @@ Contacts from agreements that have the same agreement owner can be shared betwee
 
 For agreements purchased through SoftwareOne, a contact is automatically created. This contact is the salesperson responsible for that agreement. This contact cannot be edited or deleted.
 
-### Documents Tab <a href="#post-796-_toc14180239" id="post-796-_toc14180239"></a>
+### Documents tab <a href="#post-796-_toc14180239" id="post-796-_toc14180239"></a>
 
 In this section, you can view a list of documents related to the agreement and add new documents.
 
@@ -235,7 +235,7 @@ From here, you can upload a file and add a note to describe it. Select **Save** 
 
 ## Costs <a href="#post-796-_toc14180241" id="post-796-_toc14180241"></a>
 
-Within the Costs tab, you can use a Bar Chart and a Gantt Chart to analyze costs.
+Within the **Costs** tab, you can use a Bar Chart and a Gantt Chart to analyze costs.
 
 The **Bar Chart** displays costs over time, with the option to switch between views, including **Month**, **Quarter**, or **Year**. You can also navigate backward and forward within the chart.
 
