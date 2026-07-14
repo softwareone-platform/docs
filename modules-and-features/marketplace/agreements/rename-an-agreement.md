@@ -18,5 +18,5 @@ To rename an agreement:
 4. In the **Rename** dialog, enter the new name.
 5. Select **Save**. The agreement name is updated in the Marketplace.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rename (2).png" alt=""><figcaption><p>Use the Rename dialog to edit the agreement name.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rename (2).png" alt=""><figcaption><p>Use the <strong>Rename</strong> dialog to edit the agreement name.</p></figcaption></figure></div>
 

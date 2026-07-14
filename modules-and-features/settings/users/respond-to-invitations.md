@@ -24,7 +24,7 @@ To accept the invitation:
 
 {% hint style="info" %}
 * If single sign-on (SSO) is configured, you'll be automatically redirected to your provider to authenticate. Once authenticated, you only need to enter your first and last name.
-* If your invitation link isn't working, it may have expired. Invite links are unique and must be accepted within 7 days from the send date. If your invite link has expired, the account administrator must create a new link. For instructions, see [Manage account invitations](https://docs.platform.softwareone.com/modules-and-features/settings/users/manage-user-invitations).
+* If your invitation link isn't working, it may have expired. Invite links are unique and must be accepted within 7 days from the send date. If your invite link has expired, the account administrator must create a new link. For instructions, see [Manage account invitations](manage-user-invitations.md).
 {% endhint %}
 
 ### Decline the invitation <a href="#declining-an-invitation" id="declining-an-invitation"></a>

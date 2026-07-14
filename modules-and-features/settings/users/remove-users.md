@@ -12,7 +12,7 @@ Before removing an individual, note the following points:
 
 * Ensure that you have reviewed the individual's permissions and assigned groups. This is necessary to prevent accidental removal.
 * Removing an individual doesn't delete them from the platform. It only removes them from the account. If the individual belongs to other accounts, they can still access those accounts.
-* A removed user can be [re-added to the account](https://docs.platform.softwareone.com/modules-and-features/settings/users/add-new-users).
+* A removed user can be [re-added to the account](add-new-users.md).
 * You cannot remove yourself from the account. The platform shows a message if you try to remove yourself.
 * If you remove an individual with an **Invited** status, their invitation link no longer remains valid.
 

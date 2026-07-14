@@ -2,14 +2,14 @@
 description: Make changes to an existing group.
 ---
 
-# Edit groups
+# Edit group
 
 Account administrators can edit a group to update its general information, manage its members, and adjust buyer settings.&#x20;
 
 * Buyer access can be configured as either full or restricted, depending on the group’s needs.
 * For a default group, you can update the group’s general information and manage its members. The modules enabled for a default group cannot be changed.&#x20;
 * You can update buyer visibility only if the Marketplace module is enabled for the group. If the module was not enabled during group creation, you can enable it while editing the group, if the group is not a default one.
-* Buyer access restrictions apply **only** to the Marketplace module.
+* Buyer access restrictions apply only to the **Marketplace** module.
 
 ### Edit a group
 

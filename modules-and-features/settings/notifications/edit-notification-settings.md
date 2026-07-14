@@ -19,7 +19,7 @@ To configure settings:
 5. Select **Save**.
 
 {% hint style="info" %}
-The **Preferred language** field displays the communication language selected for your account. This field is view-only. To change the preferred language, use the **Edit** option on the [Account page](../account.md). For more information, see [Update account details](/broken/pages/SjVmDte1naF0fdm0aWw7).
+The **Preferred language** field displays the communication language selected for your account. This field is view-only. To change the preferred language, use the **Edit** option on the [Account page](../account.md). For more information, see [Update account details](../account.md#update-account-details).
 {% endhint %}
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Update settings for your notification emails.</p></figcaption></figure></div>
