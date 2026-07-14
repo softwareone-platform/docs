@@ -304,7 +304,7 @@
   * [Order FinOps for Cloud from Marketplace](extensions/finops-for-cloud/order-finops-for-cloud-from-marketplace.md)
   * [Cancel your FinOps for Cloud order](extensions/finops-for-cloud/cancel-your-finops-order.md)
 * [ITAM tools](extensions/itam-tools/README.md)
-  * [Renewal Manager](extensions/itam-tools/renewal-manager.md)
+  * [Renewal manager](extensions/itam-tools/renewal-manager.md)
 * [Microsoft CSP](extensions/microsoft-cloud-solution-provider/README.md)
   * [Azure Lighthouse](extensions/microsoft-cloud-solution-provider/azure-lighthouse/README.md)
     * [Assign the Owner role to a subscription](extensions/microsoft-cloud-solution-provider/azure-lighthouse/assign-subscription-owner-role.md)
