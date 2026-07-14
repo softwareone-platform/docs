@@ -29,11 +29,11 @@ When reducing licenses, these rules apply:
 
 In the **Edit subscription** flow, do the following:
 
-1.  Under **Items**, update the **New qty** value, then select **Next**.&#x20;
+1.  Update the **New qty** value, then select **Next**.&#x20;
 
     <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/edit_subscription.png" alt="Edit subscription wizard showing the New qty field for license changes"><figcaption><p>Change the New qty value to increase or reduce licenses.</p></figcaption></figure></div>
-2. Under **Details**, add or update the reference ID and your comments.
-3. Under **Review**, verify the information, then select **Place order**.
+2. Add or update the reference ID and your comments. Select **Next**.&#x20;
+3. Verify the information, then select **Place order.** Select **Next**.&#x20;
 4. Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}

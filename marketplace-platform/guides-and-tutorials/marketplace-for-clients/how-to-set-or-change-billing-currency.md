@@ -56,7 +56,7 @@ Changing the billing currency affects future invoices only. Past invoices remain
 {% step %}
 **Save the new currency**
 
-1. In the **Select billing currency** dialog, choose the new currency.
+1. In **Select billing currency**, choose the new currency.
 2. Select **Save**.
 {% endstep %}
 {% endstepper %}

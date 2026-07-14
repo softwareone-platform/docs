@@ -22,26 +22,28 @@ You can add items only to active agreements. If the agreement is not active, the
 2. Select the agreement you want to update.
 3. On the agreement details page, select **Buy more**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt="Agreement details page with the Buy more action"><figcaption><p>Select Buy more to start from the Items step.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/AgeementsDetails.png" alt="Agreement details page with the Buy more action"><figcaption><p>Select <strong>Buy more</strong> to add new items to your agreement.</p></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 **Add the new items**
 
-1. Under **Items**, select **Add items**.
-2. In **Select items**, choose the items you want to order. Make sure to check the billing terms and duration.
-3. Select **Add items** again.
-4. Set the quantity of your newly added items in the **New qty** field.
-5. Select **Next**.
+In the guided **Purchase** flow, complete the following steps:
+
+1. Select **Add items**.
+2. Choose the items you want to order. Make sure to check the billing terms and duration. Select **Add items**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe_select_items.png" alt="Select items window showing products available for the agreement"><figcaption><p>Select the items you want to add to the agreement.</p></figcaption></figure></div>
+
+3. In the **New Qty** field, update the quantity of licenses.&#x20;
+4. Select **Next**.
 {% endstep %}
 
 {% step %}
-**Review and submit**
+**Review and submit the order**
 
-1. Under **Details**, add or update the reference ID and your comments. Select **Next**.
-2. Under **Review**, verify the information, then select **Place order**.
+1. Add or update the reference ID and your comments. Select **Next**.
+2. Verify the order information, then select **Place order**.
 3. Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}

@@ -18,7 +18,7 @@ In this tutorial, an agreement named _Adobe VIP Marketplace for Stark Industries
 
 Split billing can only be activated at the agreement level. To activate split billing:
 
-1. Open the **Agreements** page and select the required agreement.
+1. On the **Agreements** page, select an active agreement.
 2. On the agreement details page, select the dropdown arrow <i class="fa-chevron-down">:chevron-down:</i>, then choose **Split billing**.
 3. Select the checkbox, then select **Save**. &#x20;
 
