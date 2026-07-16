@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Enable or disable software assets
 
 This topic describes how you can manage your software assets. Before enabling or disabling the Software Assets module, note the following points:
@@ -7,7 +11,7 @@ This topic describes how you can manage your software assets. Before enabling or
 
 ### Enable software assets
 
-To enable the Software Assets module:
+To enable the module:
 
 1. Sign in to your account.
 2. From the main menu, navigate to **Cloud Tenant Setup**.
