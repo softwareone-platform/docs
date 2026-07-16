@@ -29,19 +29,19 @@ When contacting us, we recommend that you provide as much detail as possible, in
 
 ### Contact Marketplace Platform Support
 
-Marketplace Platform Support is available Monday to Friday, from 05:30 to 19:30 UTC. You can contact us by email or create a support case.&#x20;
-
-To email us, use this address: [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com).
+Marketplace Platform Support is available Monday to Friday, from 05:30 to 19:30 UTC.&#x20;
 
 To create a support case:
 
-1. [Sign in to your account](https://portal.platform.softwareone.com).&#x20;
-2. Select the help icon <i class="fa-circle-question">:circle-question:</i> in the header, then choose **Need help**.&#x20;
+1. [Sign in to your account](https://portal.platform.softwareone.com).
+2. Select the help icon <i class="fa-circle-question">:circle-question:</i> in the header, then select **Need help**.&#x20;
 3. In the guided **Add case** flow:
    1. If you are prompted to select an issue, select **Platform Support**, then select **Next**. If the flow opens at **Help resources**, continue to the next step.
    2. Review the suggested resources, including documentation. If you still need assistance, select **Next**.
    3. Enter a description of your issue, then select **Add**.
 
-Your case is submitted to Marketplace Platform Support. You can view your submitted case and track progress on the [Cases](../modules-and-features/helpdesk/cases/) page.
+Your case is submitted to Marketplace Platform Support. You can view and track your case on the [Cases](../modules-and-features/helpdesk/cases/) page.
+
+Alternatively, you can contact Marketplace Platform Support by email at [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com).
 
 We aim to acknowledge all support cases on the same day as they are submitted, within our core business hours. However, the response time may vary during busy periods.
