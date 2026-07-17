@@ -21,9 +21,11 @@ layout:
 
 # Home
 
+
+
 <figure><img src=".gitbook/assets/MPT Home Image (2).png" alt="SoftwareOne Marketplace Platform"><figcaption></figcaption></figure>
 
-SoftwareOne Marketplace is a unified digital platform for software procurement and management. It brings clients and vendors together in a single ecosystem, enabling streamlined software discovery, purchasing, and ongoing operations through intuitive self‑service tools and integrations.
+SoftwareOne Marketplace is a unified digital platform for software procurement and management. Use this documentation to learn about Marketplace Platform features, manage subscriptions and orders, review billing information, configure settings, and access support.
 
 ### Start here <a href="#featured-resources" id="featured-resources"></a>
 
