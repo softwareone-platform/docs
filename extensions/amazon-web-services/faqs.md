@@ -87,7 +87,7 @@ You can purchase **Amazon Web Services and SoftwareOne Cloud Managed Services Es
 
 Alternatively, SoftwareOne Operations can prepare a draft order on your behalf and send it to you for acceptance via a link. You must complete and submit the draft order yourself, as it requires accepting the terms and conditions for both the SoftwareOne Marketplace and Services.&#x20;
 
-To learn more, see [Sign up for a new AWS account](tutorials/sign-up-for-new-aws-account.md) and [Transfer your AWS accoun](tutorials/transfer-your-aws-account.md)t.
+To learn more, see [Sign up for a new AWS account](tutorials/sign-up-for-new-aws-account.md) and [Transfer your AWS account](tutorials/transfer-your-aws-account.md).
 
 </details>
 
