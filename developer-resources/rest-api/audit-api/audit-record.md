@@ -68,7 +68,7 @@ The Audit object provides a detailed record of a specific event that occurred wi
 {
     "event": "platform.commerce.order.created",
     "summary": "Order Created",
-    "details": "The order ORD-1208-2301-8479 has been successfully created by Balint Polgar and is now in the platform.",
+    "details": "The order ORD-1208-2301-8479 has been successfully created by Reto Mayer and is now in the platform.",
     "object": {
         "id": "ORD-1208-2301-8479",
         "name": "ORD-1208-2301-8479",
@@ -77,11 +77,11 @@ The Audit object provides a detailed record of a specific event that occurred wi
     "timestamp": "2024-10-21T10:03:00.800Z",
     "actor": {
         "id": "USR-0556-8733",
-        "name": "Balint Polgar",
+        "name": "Reto Mayer",
         "icon": "/v1/accounts/users/USR-0556-8733/icon",
         "account": {
             "id": "ACC-3408-7241",
-            "name": "MPT_QA_STATIC Commerce e2e client",
+            "name": "MPT_STATIC Commerce e2e client",
             "icon": "/v1/accounts/accounts/ACC-3408-7241/icon",
             "accountType": "Client"
         }
@@ -89,7 +89,7 @@ The Audit object provides a detailed record of a specific event that occurred wi
     "type": "Public",
     "request": {
         "api": {
-            "ip": "92.26.0.92",
+            "ip": "89.00.0.00",
             "geolocation": {
                 "countryCode": "GB",
                 "countryName": "United Kingdom",
@@ -107,11 +107,11 @@ The Audit object provides a detailed record of a specific event that occurred wi
         },
         "actor": {
             "id": "USR-0556-8733",
-            "name": "Balint Polgar",
+            "name": "Reto Mayer",
             "icon": "/v1/accounts/users/USR-0556-8733/icon",
             "account": {
                 "id": "ACC-3408-7241",
-                "name": "MPT_QA_STATIC Commerce e2e client",
+                "name": "MPT_STATIC Commerce e2e client",
                 "icon": "/v1/accounts/accounts/ACC-3408-7241/icon",
                 "accountType": "Client"
             }
@@ -120,7 +120,7 @@ The Audit object provides a detailed record of a specific event that occurred wi
     "viewers": [
         {
             "id": "ACC-3408-7241",
-            "name": "MPT_QA_STATIC Commerce e2e client",
+            "name": "MPT_STATIC Commerce e2e client",
             "type": "Client",
             "icon": "/v1/accounts/accounts/ACC-3408-7241/icon"
         },
