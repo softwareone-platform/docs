@@ -60,3 +60,9 @@ In the **Select items** step, do the following:&#x20;
 Once you submit your order, you can track its status on the **Orders** page or in the **Orders** tab within the agreement details page.
 
 Note that the status of your agreement also changes from **Active** to **Updating**. During this time, you cannot place any additional orders under this agreement until the current order is processed and the agreement status changes back to **Active**.
+
+### Related tasks
+
+{% content-ref url="buy-perpetual-software-licenses.md" %}
+[buy-perpetual-software-licenses.md](buy-perpetual-software-licenses.md)
+{% endcontent-ref %}

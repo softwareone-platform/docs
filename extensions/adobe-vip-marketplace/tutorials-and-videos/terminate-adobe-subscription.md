@@ -2,19 +2,19 @@
 description: Terminate and return licenses within the 14-day return window.
 ---
 
-# Terminate and return licenses
+# Terminate and return Adobe licenses
 
 This tutorial describes how to cancel your Adobe subscription within the 14-day return window by placing a termination order.&#x20;
 
 Terminating a subscription means canceling it entirely and returning the full quantity of licenses for a refund. Terminating is only possible if the subscription is within the allowed period and is eligible for a return.
 
-For terminations outside the return window, only auto-renewal can be turned off, which means that the respective subscriptions will expire on the renewal date. For more details, see [Disable auto-renewal](disable-auto-renewal.md).
+For terminations outside the return window, only auto-renewal can be turned off, meaning the respective subscriptions will expire on the renewal date. For more details, see [Disable auto-renewal](disable-adobe-auto-renewal.md).
 
 ### Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
 
 Make sure that the required subscription is eligible for a return and is currently active.
 
-### Terminate and return licenses
+### Terminate an Adobe subscription and return licenses
 
 {% stepper %}
 {% step %}
@@ -41,6 +41,40 @@ In the guided **Terminate subscription** flow, complete the following steps:
 
 ### Next steps
 
-Your termination order will be reviewed by SoftwareOne.&#x20;
+SoftwareOne will review your termination order.&#x20;
 
 If the order meets the criteria, it will be processed. You can keep track of your order on the order details page.
+
+### Related tasks
+
+{% content-ref url="order-adobe-subscription.md" %}
+[order-adobe-subscription.md](order-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-new-adobe-items.md" %}
+[order-new-adobe-items.md](order-new-adobe-items.md)
+{% endcontent-ref %}
+
+{% content-ref url="reseller-transfer.md" %}
+[reseller-transfer.md](reseller-transfer.md)
+{% endcontent-ref %}
+
+{% content-ref url="upsize-adobe-subscription.md" %}
+[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="downsize-adobe-subscription.md" %}
+[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="disable-adobe-auto-renewal.md" %}
+[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% endcontent-ref %}

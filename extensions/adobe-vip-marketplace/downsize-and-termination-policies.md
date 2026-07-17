@@ -50,7 +50,7 @@ If a subscription has been renewed, you can return it within the 14-day return w
 
 You can return the full renewed subscription by submitting a termination order. To return a partial quantity, submit a change order to downsize the subscription in the SoftwareOne Marketplace.
 
-When the order is processed, all affected licenses are removed immediately. For more details, see [Return renewal order](tutorials-and-videos/return-renewal-order.md).
+When the order is processed, all affected licenses are removed immediately. For more details, see [Return renewal order](tutorials-and-videos/return-adobe-renewal-order.md).
 
 ## Downsize policy
 
@@ -90,7 +90,7 @@ Based on this information, you currently own a total of 17 licenses.&#x20;
 
 You can change auto-renewal settings by placing a configuration order in the SoftwareOne Marketplace.
 
-If auto-renewal is enabled, the subscription renews automatically. If disabled, the subscription remains active until the next anniversary date and then expires. For details on turning off auto-renewal, see [Disable auto-renewal](tutorials-and-videos/disable-auto-renewal.md).
+If auto-renewal is enabled, the subscription renews automatically. If disabled, the subscription remains active until the next anniversary date and then expires. For details on turning off auto-renewal, see [Disable auto-renewal](tutorials-and-videos/disable-adobe-auto-renewal.md).
 
 ## Related topics
 

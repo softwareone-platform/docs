@@ -2,7 +2,7 @@
 description: Return your renewal order for a refund within 14 days.
 ---
 
-# Return renewal order
+# Return Adobe renewal order
 
 This tutorial explains how to return a renewal order within the 14-day return window.&#x20;
 
@@ -42,3 +42,33 @@ In the guided **Terminate subscription** flow, complete the following steps:
 Your termination order will be reviewed and processed by SoftwareOne.&#x20;
 
 If the renewal order is within the 14-day return window and meets all conditions, the licenses will be removed from the subscription.
+
+### Related tasks
+
+{% content-ref url="order-adobe-subscription.md" %}
+[order-adobe-subscription.md](order-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-new-adobe-items.md" %}
+[order-new-adobe-items.md](order-new-adobe-items.md)
+{% endcontent-ref %}
+
+{% content-ref url="reseller-transfer.md" %}
+[reseller-transfer.md](reseller-transfer.md)
+{% endcontent-ref %}
+
+{% content-ref url="upsize-adobe-subscription.md" %}
+[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="downsize-adobe-subscription.md" %}
+[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% endcontent-ref %}

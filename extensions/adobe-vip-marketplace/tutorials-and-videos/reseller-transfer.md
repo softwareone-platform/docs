@@ -85,3 +85,33 @@ To start the process:&#x20;
 ### Next steps
 
 Once we process the order and change the reseller, we will notify you. You can check the status of your order on the order details page.
+
+### Related tasks
+
+{% content-ref url="order-adobe-subscription.md" %}
+[order-adobe-subscription.md](order-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="upsize-adobe-subscription.md" %}
+[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="downsize-adobe-subscription.md" %}
+[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="disable-adobe-auto-renewal.md" %}
+[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% endcontent-ref %}

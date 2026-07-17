@@ -44,3 +44,25 @@ A termination order is created for the agreement and submitted to the vendor for
 Additionally, the agreement status changes from **Active** to **Updating**, and you cannot place any additional orders under this agreement.&#x20;
 
 Once the termination order is processed, the status of the agreement and all subscriptions within the agreement change to **Terminated**.
+
+### Related tasks
+
+{% content-ref url="order-microsoft-365-subscription-new-tenant.md" %}
+[order-microsoft-365-subscription-new-tenant.md](order-microsoft-365-subscription-new-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-microsoft-365-subscription-existing-tenant.md" %}
+[order-microsoft-365-subscription-existing-tenant.md](order-microsoft-365-subscription-existing-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
+[buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="add-new-products-to-your-csp-agreement.md" %}
+[add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-microsoft-subscription.md" %}
+[terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
+{% endcontent-ref %}

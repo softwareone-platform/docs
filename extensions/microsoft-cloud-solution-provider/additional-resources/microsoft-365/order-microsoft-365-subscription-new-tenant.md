@@ -22,7 +22,7 @@ Before starting this tutorial, make sure you have the following:
 * Your company details, including the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of the person who manages your Microsoft account.&#x20;
 
-### Order a Microsoft 365 subscription for a new tenant
+### Buy a Microsoft 365 subscription for a new tenant
 
 {% stepper %}
 {% step %}
@@ -76,3 +76,25 @@ Complete the following steps:
 Once you place your order, we verify the details.
 
 You can track your order on the order details page. The **General** tab on the order details page outlines the next steps.
+
+### Related tasks
+
+{% content-ref url="order-microsoft-365-subscription-existing-tenant.md" %}
+[order-microsoft-365-subscription-existing-tenant.md](order-microsoft-365-subscription-existing-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
+[buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="add-new-products-to-your-csp-agreement.md" %}
+[add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-microsoft-subscriptions.md" %}
+[terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-microsoft-subscription.md" %}
+[terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
+{% endcontent-ref %}

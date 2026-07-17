@@ -2,13 +2,13 @@
 description: Stop your Adobe subscription from renewing automatically.
 ---
 
-# Disable auto-renewal
+# Disable Adobe auto-renewal
 
 This tutorial explains how to disable automatic renewal for your Adobe subscription by submitting a configuration order.&#x20;
 
 Automatic renewal can be disabled if you are outside the 14-day return window or don't want the subscription to renew on the anniversary date.&#x20;
 
-### Disable auto-renewal
+### Disable auto-renewal for an Adobe subscription
 
 {% stepper %}
 {% step %}
@@ -38,3 +38,37 @@ In the guided Configuration order flow, complete the following steps:
 Your configuration order is reviewed and processed by SoftwareOne.&#x20;
 
 If the order meets all conditions, your subscription expires at the end of the commitment period or renewal date, and you are not billed further.
+
+### Related tasks
+
+{% content-ref url="order-adobe-subscription.md" %}
+[order-adobe-subscription.md](order-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-new-adobe-items.md" %}
+[order-new-adobe-items.md](order-new-adobe-items.md)
+{% endcontent-ref %}
+
+{% content-ref url="reseller-transfer.md" %}
+[reseller-transfer.md](reseller-transfer.md)
+{% endcontent-ref %}
+
+{% content-ref url="upsize-adobe-subscription.md" %}
+[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="downsize-adobe-subscription.md" %}
+[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% endcontent-ref %}

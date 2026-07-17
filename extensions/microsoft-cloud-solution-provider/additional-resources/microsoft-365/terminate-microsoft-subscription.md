@@ -40,3 +40,25 @@ In the guided **Terminate subscription** flow, complete the following steps:
 When your order is being processed, the subscription and the agreement are shown as **Updating**. You cannot place any additional orders under this agreement.&#x20;
 
 Once the termination order has been processed, the status of the subscription changes to **Terminated**.
+
+### Related tasks
+
+{% content-ref url="order-microsoft-365-subscription-new-tenant.md" %}
+[order-microsoft-365-subscription-new-tenant.md](order-microsoft-365-subscription-new-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-microsoft-365-subscription-existing-tenant.md" %}
+[order-microsoft-365-subscription-existing-tenant.md](order-microsoft-365-subscription-existing-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
+[buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="add-new-products-to-your-csp-agreement.md" %}
+[add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-microsoft-subscriptions.md" %}
+[terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
+{% endcontent-ref %}

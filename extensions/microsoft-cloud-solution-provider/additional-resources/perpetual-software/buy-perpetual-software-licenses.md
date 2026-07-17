@@ -70,3 +70,9 @@ Once you have placed your order, we verify the order details, including the Micr
 If there are issues with your order, the order details page provides information about the problem and any actions you may need to take.
 
 When your order is complete and your license has been set up, you can download your license keys from the [Microsoft admin portal](https://admin.microsoft.com/). For download instructions, see [Download software and product license keys](https://learn.microsoft.com/en-us/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide#download-software-and-product-license-keys) in Microsoft 365 documentation.
+
+### Related tasks
+
+{% content-ref url="order-additional-perpetual-software-licenses.md" %}
+[order-additional-perpetual-software-licenses.md](order-additional-perpetual-software-licenses.md)
+{% endcontent-ref %}

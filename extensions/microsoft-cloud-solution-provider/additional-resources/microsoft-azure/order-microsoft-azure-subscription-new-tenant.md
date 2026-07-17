@@ -1,8 +1,8 @@
 ---
-description: How to order an Azure subscription for a new tenant.
+description: How to create a new Azure tenant and purchase an Azure subscription.
 ---
 
-# Order Azure subscription for new tenant
+# Purchase Azure subscription for new tenant
 
 This tutorial describes how you can order a subscription for Microsoft Azure by setting up a new agreement and a new Microsoft tenant.
 
@@ -18,7 +18,7 @@ Before starting this tutorial, make sure you have the following:
 * Your details, such as company name, registration ID, and address. You'll need to provide this information when creating the new Microsoft tenant.
 * Contact details of the person who manages your account.&#x20;
 
-### Order an Azure subscription for a new tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Purchase an Azure subscription for a new tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}
@@ -68,3 +68,13 @@ Complete the following steps:
 Once you place your order, we verify the details and create your new subscription.&#x20;
 
 You can track your order on the order details page. The **General** tab on the order details page outlines the next steps.
+
+### Related tasks
+
+{% content-ref url="order-microsoft-azure-subscription-existing-tenant.md" %}
+[order-microsoft-azure-subscription-existing-tenant.md](order-microsoft-azure-subscription-existing-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-additional-microsoft-azure-subscriptions.md" %}
+[order-additional-microsoft-azure-subscriptions.md](order-additional-microsoft-azure-subscriptions.md)
+{% endcontent-ref %}

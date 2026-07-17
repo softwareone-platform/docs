@@ -14,7 +14,7 @@ The cancellation outcome depends on whether you are inside or outside the return
 
 Make sure that the agreement you want to terminate is currently active. Agreements in any other [state ](../../../modules-and-features/marketplace/agreements/agreement-states.md)cannot be terminated.
 
-### Cancel your entire agreement
+### Cancel your entire Adobe agreement
 
 {% stepper %}
 {% step %}
@@ -44,3 +44,33 @@ In the guided **Terminate agreement** flow, complete the following steps:
 Your termination order will be reviewed and processed by SoftwareOne.&#x20;
 
 You can view the most up-to-date information on your order and its status on the order details page.
+
+### Related tasks
+
+{% content-ref url="order-adobe-subscription.md" %}
+[order-adobe-subscription.md](order-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-new-adobe-items.md" %}
+[order-new-adobe-items.md](order-new-adobe-items.md)
+{% endcontent-ref %}
+
+{% content-ref url="reseller-transfer.md" %}
+[reseller-transfer.md](reseller-transfer.md)
+{% endcontent-ref %}
+
+{% content-ref url="upsize-adobe-subscription.md" %}
+[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="downsize-adobe-subscription.md" %}
+[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% endcontent-ref %}

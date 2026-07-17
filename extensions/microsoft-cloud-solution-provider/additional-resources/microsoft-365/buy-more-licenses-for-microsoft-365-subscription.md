@@ -14,7 +14,7 @@ Watch this video guide explaining how to buy more licenses for an existing 365 s
 
 Before starting this tutorial, make sure that the agreement you want to use is currently active.
 
-### Buy more licenses for your Microsoft 365 subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Purchase additional licenses for a Microsoft 365 subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}
@@ -48,3 +48,25 @@ Complete the following steps:
 Once you place your order, we verify the details.
 
 You can track your order on the order details page. The **General** tab on the order details page outlines the next steps.
+
+### Related tasks
+
+{% content-ref url="order-microsoft-365-subscription-new-tenant.md" %}
+[order-microsoft-365-subscription-new-tenant.md](order-microsoft-365-subscription-new-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-microsoft-365-subscription-existing-tenant.md" %}
+[order-microsoft-365-subscription-existing-tenant.md](order-microsoft-365-subscription-existing-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="add-new-products-to-your-csp-agreement.md" %}
+[add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-microsoft-subscriptions.md" %}
+[terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-microsoft-subscription.md" %}
+[terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
+{% endcontent-ref %}

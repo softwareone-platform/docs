@@ -69,3 +69,25 @@ In this step, you can also increase the quantities of the existing items.
 You can check the status of your new order on the **Orders** page or in the **Orders** tab on the agreement details page.
 
 Once you place the order, the agreement status changes from **Active** to **Updating**. You won't be able to place any additional orders under this agreement until your current order has been processed and the agreement status is changed back to **Active**.&#x20;
+
+### Related tasks
+
+{% content-ref url="order-microsoft-365-subscription-new-tenant.md" %}
+[order-microsoft-365-subscription-new-tenant.md](order-microsoft-365-subscription-new-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-microsoft-365-subscription-existing-tenant.md" %}
+[order-microsoft-365-subscription-existing-tenant.md](order-microsoft-365-subscription-existing-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
+[buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-microsoft-subscriptions.md" %}
+[terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-microsoft-subscription.md" %}
+[terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
+{% endcontent-ref %}

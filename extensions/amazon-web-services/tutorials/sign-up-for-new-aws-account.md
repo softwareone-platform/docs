@@ -82,3 +82,10 @@ After placing the order, you will receive a confirmation. Check the order detail
 3. **Deploying the SoftwareOne Bootstrap role** – After accepting the billing transfer invitation and the service terms, you must deploy the Essentials Bootstrap Role. Deploying this role is mandatory for onboarding. For more details, see [Essentials Bootstrap Role](https://docs.softwareone.cloud/knowledge-base/essentials-bootstrap-role-customer-manual) in SoftwareOne Services documentation.
 
 You also receive email notifications when these actions are due and require your attention.
+
+### Related tasks
+
+{% content-ref url="transfer-your-aws-account.md" %}
+[transfer-your-aws-account.md](transfer-your-aws-account.md)
+{% endcontent-ref %}
+

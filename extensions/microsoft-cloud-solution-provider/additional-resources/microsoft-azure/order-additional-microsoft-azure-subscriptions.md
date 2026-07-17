@@ -1,10 +1,8 @@
 ---
-description: >-
-  How to order an additional Microsoft Azure subscription using an existing
-  agreement.
+description: How to order additional Azure subscriptions for an existing tenant.
 ---
 
-# Order an additional Azure subscription
+# Purchase additional Azure subscription
 
 This tutorial describes how you can order additional subscriptions for Microsoft Azure using an existing Marketplace agreement.&#x20;
 
@@ -12,7 +10,7 @@ This tutorial describes how you can order additional subscriptions for Microsoft
 
 Before starting this tutorial, make sure that the agreement you want to use is in the **Active** state. Agreements in any other state cannot be used for ordering additional items.
 
-### Order an additional Microsoft Azure subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
+### Purchase an additional Microsoft Azure subscription <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
 {% stepper %}
 {% step %}
@@ -47,3 +45,13 @@ In the guided purchase flow, complete the following steps:
 Once you place your order, we verify the details and create your new subscription.&#x20;
 
 You can track your order on the order details page. The **General** tab on the order details page outlines the next steps.
+
+### Related tasks
+
+{% content-ref url="order-microsoft-azure-subscription-new-tenant.md" %}
+[order-microsoft-azure-subscription-new-tenant.md](order-microsoft-azure-subscription-new-tenant.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-microsoft-azure-subscription-existing-tenant.md" %}
+[order-microsoft-azure-subscription-existing-tenant.md](order-microsoft-azure-subscription-existing-tenant.md)
+{% endcontent-ref %}

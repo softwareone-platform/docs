@@ -2,7 +2,7 @@
 description: Reduce the number of licenses in your Adobe subscription.
 ---
 
-# Downsize subscription
+# Reduce Adobe license quantity
 
 This tutorial describes how to reduce the quantity of your licenses by submitting a change order.
 
@@ -18,7 +18,7 @@ For more information, see [Downsize, termination, and return policies](../downsi
 
 Ensure that both the agreement and the subscription you want to downsize are currently active.
 
-### Downsize a subscription <a href="#downsizing-a-subscription" id="downsizing-a-subscription"></a>
+### Reduce the quantity of Adobe licenses
 
 {% stepper %}
 {% step %}
@@ -48,3 +48,37 @@ To open the subscription:
 Your change order is submitted to SoftwareOne for processing. The status of your subscription and the agreement changes from **Active** to **Updating**. While the order is being processed, you cannot make any further changes until it is complete.
 
 You can view the most up-to-date information about your order on its details page.
+
+### Related tasks
+
+{% content-ref url="order-adobe-subscription.md" %}
+[order-adobe-subscription.md](order-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-new-adobe-items.md" %}
+[order-new-adobe-items.md](order-new-adobe-items.md)
+{% endcontent-ref %}
+
+{% content-ref url="reseller-transfer.md" %}
+[reseller-transfer.md](reseller-transfer.md)
+{% endcontent-ref %}
+
+{% content-ref url="upsize-adobe-subscription.md" %}
+[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="disable-adobe-auto-renewal.md" %}
+[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% endcontent-ref %}

@@ -2,7 +2,7 @@
 description: Add items to an existing agreement.
 ---
 
-# Buy new Adobe items
+# Add items to Adobe agreement
 
 This tutorial explains how to add new items to your existing Adobe VIP Marketplace agreement with SoftwareOne by placing a change order.
 
@@ -14,7 +14,7 @@ Watch a quick video guide how to order new Adobe items using an existing agreeme
 
 Make sure the agreement you want to use is active.&#x20;
 
-### Ordering new Adobe items
+### Add items to an existing Adobe agreement
 
 {% stepper %}
 {% step %}
@@ -36,7 +36,7 @@ In the guided purchase flow, complete the following steps:
 1. **Select agreement** – Select the required active agreement, then select **Next**.&#x20;
 2. **Select Items** – Do the following:
    1. Select **Add items**.
-   2. &#x20;Add the required items to your order.&#x20;
+   2. Add the required items to your order.&#x20;
    3. Update the quantity in the **New qty** field.
    4. Select **Next**.
 
@@ -60,3 +60,36 @@ The agreement status also changes from **Active** to **Updating**. While the agr
 
 You can track the order on the **Orders** page or in the **Orders** tab on the agreement details page.
 
+### Related tasks
+
+{% content-ref url="order-adobe-subscription.md" %}
+[order-adobe-subscription.md](order-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="reseller-transfer.md" %}
+[reseller-transfer.md](reseller-transfer.md)
+{% endcontent-ref %}
+
+{% content-ref url="upsize-adobe-subscription.md" %}
+[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="downsize-adobe-subscription.md" %}
+[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="disable-adobe-auto-renewal.md" %}
+[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% endcontent-ref %}

@@ -2,7 +2,7 @@
 description: Increase the number of licenses for your existing Adobe subscription.
 ---
 
-# Upsize subscription
+# Increase Adobe license quantity
 
 This tutorial describes how to increase the number of licenses for a subscription by placing a change order.
 
@@ -14,7 +14,7 @@ Watch a quick video guide describing how to increase licenses for an Adobe subsc
 
 Before increasing the number of licenses, ensure that both the agreement and subscription are active.
 
-### Upsizing a subscription
+### Increase the quantity of Adobe licenses
 
 {% stepper %}
 {% step %}
@@ -46,3 +46,37 @@ After you place the order, a change order is created for the agreement.
 The agreement status also changes from **Active** to **Updating**. While the agreement is updating, you cannot place more orders under that agreement.
 
 You can track the order on the **Orders** page or in the **Orders** tab on the agreement details page.
+
+### Related tasks
+
+{% content-ref url="order-adobe-subscription.md" %}
+[order-adobe-subscription.md](order-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="order-new-adobe-items.md" %}
+[order-new-adobe-items.md](order-new-adobe-items.md)
+{% endcontent-ref %}
+
+{% content-ref url="reseller-transfer.md" %}
+[reseller-transfer.md](reseller-transfer.md)
+{% endcontent-ref %}
+
+{% content-ref url="downsize-adobe-subscription.md" %}
+[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="disable-adobe-auto-renewal.md" %}
+[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% endcontent-ref %}

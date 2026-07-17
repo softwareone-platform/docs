@@ -2,7 +2,7 @@
 description: Order an Adobe subscription by creating a new agreement.
 ---
 
-# Order new subscription
+# Order new Adobe subscription
 
 This tutorial explains how to order an Adobe subscription by creating a new agreement and setting up a new Adobe account.
 
@@ -41,7 +41,7 @@ Complete the following steps:
 2. **Select licensee** – Select a licensee, then select **Next**. You can also [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md).&#x20;
 3. **Adobe account setup** – Choose **Create new Adobe account**, then select **Next**.&#x20;
 4. **Additional information** – Do the following:
-   1. Enter your **company name**, **company address,** and **primary Adobe administrator contact**.
+   1. Enter your **company name**, **company address**, and **primary Adobe administrator contact**.
    2. Choose whether to join the [3-year commitment](https://helpx.adobe.com/uk/enterprise/vip/vip-subscription-term-options-marketplace.html).
    3. If required, enter the minimum licenses you want to commit to for the 3-year term.
 5. **Select items** – Do the following:
@@ -65,3 +65,37 @@ Complete the following steps:
 After placing the order, you'll receive an invitation from Adobe to accept the terms and conditions for Adobe VIP Marketplace.&#x20;
 
 After accepting the terms, you can manage your licenses and deploy them to users immediately through the [Adobe Admin Console](https://adminconsole.adobe.com/).
+
+### Related tasks
+
+{% content-ref url="order-new-adobe-items.md" %}
+[order-new-adobe-items.md](order-new-adobe-items.md)
+{% endcontent-ref %}
+
+{% content-ref url="reseller-transfer.md" %}
+[reseller-transfer.md](reseller-transfer.md)
+{% endcontent-ref %}
+
+{% content-ref url="upsize-adobe-subscription.md" %}
+[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="downsize-adobe-subscription.md" %}
+[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="disable-adobe-auto-renewal.md" %}
+[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-adobe-subscription.md" %}
+[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-adobe-subscriptions.md" %}
+[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% endcontent-ref %}
