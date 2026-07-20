@@ -36,9 +36,8 @@ To create a support case:
 1. [Sign in to your account](https://portal.platform.softwareone.com).
 2. Select the help icon <i class="fa-circle-question">:circle-question:</i> in the header, then select **Need help**.&#x20;
 3. In the guided **Add case** flow:
-   1. If you are prompted to select an issue, select **Platform support**, then select **Next**. If the flow opens at **Help resources**, continue to the next step.
-   2. Review the suggested resources, including documentation. If you still need assistance, select **Next**.
-   3. Enter a description of your issue, then select **Add**.
+   1. If you are prompted to select an issue, select **Platform support**, then select **Next**. If the flow opens at **Help resources**, review the suggested help resources. If you still need assistance, select **Next**.
+   2. Enter a description of your issue, then select **Add**.
 
 Your case is submitted to Marketplace Platform Support. You can view and track your case on the [Cases](../modules-and-features/helpdesk/cases/) page.
 
