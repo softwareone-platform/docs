@@ -84,6 +84,10 @@ Once you place the order, the agreement status changes from **Active** to **Upda
 [buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
 {% endcontent-ref %}
 
+{% content-ref url="reduce-microsoft-365-licenses.md" %}
+[reduce-microsoft-365-licenses.md](reduce-microsoft-365-licenses.md)
+{% endcontent-ref %}
+
 {% content-ref url="terminate-all-microsoft-subscriptions.md" %}
 [terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
 {% endcontent-ref %}

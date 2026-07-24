@@ -63,6 +63,10 @@ You can track your order on the order details page. The **General** tab on the o
 [add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
 {% endcontent-ref %}
 
+{% content-ref url="reduce-microsoft-365-licenses.md" %}
+[reduce-microsoft-365-licenses.md](reduce-microsoft-365-licenses.md)
+{% endcontent-ref %}
+
 {% content-ref url="terminate-all-microsoft-subscriptions.md" %}
 [terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
 {% endcontent-ref %}

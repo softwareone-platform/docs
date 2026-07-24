@@ -57,16 +57,16 @@ When processing is complete, the subscription status changes to **Terminated**.
 [order-microsoft-365-subscription-existing-tenant.md](order-microsoft-365-subscription-existing-tenant.md)
 {% endcontent-ref %}
 
+{% content-ref url="add-new-products-to-your-csp-agreement.md" %}
+[add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
+{% endcontent-ref %}
+
 {% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
 [buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="reduce-microsoft-365-licenses.md" %}
 [reduce-microsoft-365-licenses.md](reduce-microsoft-365-licenses.md)
-{% endcontent-ref %}
-
-{% content-ref url="add-new-products-to-your-csp-agreement.md" %}
-[add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
 {% endcontent-ref %}
 
 {% content-ref url="terminate-all-microsoft-subscriptions.md" %}

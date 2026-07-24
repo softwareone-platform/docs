@@ -87,20 +87,20 @@ You can track your order on the order details page. The **General** tab on the o
 [add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-all-microsoft-subscriptions.md" %}
-[terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
-{% endcontent-ref %}
-
-{% content-ref url="terminate-microsoft-subscription.md" %}
-[terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
-{% endcontent-ref %}
-
 {% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
 [buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="reduce-microsoft-365-licenses.md" %}
 [reduce-microsoft-365-licenses.md](reduce-microsoft-365-licenses.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-all-microsoft-subscriptions.md" %}
+[terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="terminate-microsoft-subscription.md" %}
+[terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-disable-the-automatic-renewal-of-an-nce-subscription.md" %}

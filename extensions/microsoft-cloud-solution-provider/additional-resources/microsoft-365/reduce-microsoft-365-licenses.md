@@ -60,16 +60,16 @@ In the Marketplace, the subscription and agreement status change from **Active**
 [add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
 {% endcontent-ref %}
 
+{% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
+[buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
+{% endcontent-ref %}
+
 {% content-ref url="terminate-all-microsoft-subscriptions.md" %}
 [terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
 {% endcontent-ref %}
 
 {% content-ref url="terminate-microsoft-subscription.md" %}
 [terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
-{% endcontent-ref %}
-
-{% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
-[buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-disable-the-automatic-renewal-of-an-nce-subscription.md" %}
