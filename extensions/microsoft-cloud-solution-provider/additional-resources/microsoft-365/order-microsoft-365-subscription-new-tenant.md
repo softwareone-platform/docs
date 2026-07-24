@@ -4,7 +4,7 @@ description: >-
   agreement.
 ---
 
-# Buy Microsoft 365 subscription for new tenant
+# Buy Microsoft 365 subscription for a a new tenant
 
 This tutorial describes how you can order a Microsoft 365 subscription by creating a new Marketplace agreement.&#x20;
 
@@ -83,10 +83,6 @@ You can track your order on the order details page. The **General** tab on the o
 [order-microsoft-365-subscription-existing-tenant.md](order-microsoft-365-subscription-existing-tenant.md)
 {% endcontent-ref %}
 
-{% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
-[buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
-{% endcontent-ref %}
-
 {% content-ref url="add-new-products-to-your-csp-agreement.md" %}
 [add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
 {% endcontent-ref %}
@@ -97,4 +93,16 @@ You can track your order on the order details page. The **General** tab on the o
 
 {% content-ref url="terminate-microsoft-subscription.md" %}
 [terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="buy-more-licenses-for-microsoft-365-subscription.md" %}
+[buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="reduce-microsoft-365-licenses.md" %}
+[reduce-microsoft-365-licenses.md](reduce-microsoft-365-licenses.md)
+{% endcontent-ref %}
+
+{% content-ref url="how-to-disable-the-automatic-renewal-of-an-nce-subscription.md" %}
+[how-to-disable-the-automatic-renewal-of-an-nce-subscription.md](how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
 {% endcontent-ref %}

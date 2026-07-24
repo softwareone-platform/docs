@@ -2,9 +2,9 @@
 description: How to purchase a Microsoft 365 subscription for an existing tenant.
 ---
 
-# Buy Microsoft 365 subscription for existing tenant
+# Buy Microsoft 365 subscription for an existing tenant
 
-This tutorial describes how you can order a Microsoft 365 subscription by creating a new Marketplace agreement.
+This tutorial describes how to order a Microsoft 365 subscription by creating a new Marketplace agreement.
 
 When setting up a new agreement, you can either create a new Microsoft account or use an existing one. This tutorial focuses on how to connect your existing cloud account.&#x20;
 
@@ -33,7 +33,7 @@ To start the process:
 {% endstep %}
 
 {% step %}
-**Create the new agreement and provide the existing tenant details**
+**Create the new agreement and provide tenant details**
 
 Complete the following steps:
 
@@ -49,7 +49,7 @@ Complete the following steps:
 {% endstep %}
 
 {% step %}
-**Add items to your order and submit your order**
+**Add items and submit the order**
 
 Complete the following steps:
 
@@ -89,4 +89,8 @@ You can track your order on the order details page. The **General** tab on the o
 
 {% content-ref url="terminate-microsoft-subscription.md" %}
 [terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="how-to-disable-the-automatic-renewal-of-an-nce-subscription.md" %}
+[how-to-disable-the-automatic-renewal-of-an-nce-subscription.md](how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
 {% endcontent-ref %}

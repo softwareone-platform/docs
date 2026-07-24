@@ -1,14 +1,25 @@
 ---
-description: How to terminate your Microsoft 365 subscription.
+description: How to terminate a Microsoft 365 subscription.
 ---
 
 # Terminate Microsoft 365 subscription
 
-This tutorial describes how you can cancel a subscription by placing a termination order for the subscription.
+This tutorial explains how to cancel a subscription by submitting a termination order.
+
+Terminating a subscription cancels the service completely. If you want to reduce the number of licenses while keeping the subscription active, see [Downsize Microsoft 365 subscription](reduce-microsoft-365-licenses.md).
+
+{% hint style="info" %}
+Microsoft 365 subscriptions can only be terminated within 7 days of creation or renewal.
+
+* If the subscription is terminated within 7 days of creation or renewal, it is canceled in Microsoft and terminated in Marketplace. A prorated refund may be issued according to the applicable Microsoft cancellation policy.
+* If the termination is requested more than 7 days after creation or renewal, the termination order fails.&#x20;
+
+For more information, see the Microsoft [New Commerce Experience cancellation policy](https://learn.microsoft.com/en-us/partner-center/customers/new-commerce-cancellation-policy).
+{% endhint %}
 
 ### Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
 
-Make sure that both the subscription and the corresponding agreement are active.&#x20;
+Ensure that both the subscription and its associated agreement are active.&#x20;
 
 ### Terminate Microsoft 365 subscription
 
@@ -24,22 +35,22 @@ To start the process:
 {% endstep %}
 
 {% step %}
-**Submit the termination order for the subscription**
+**Submit the termination order**
 
 In the guided **Terminate subscription** flow, complete the following steps:
 
-1. **Items** – Check that the new quantity field displays a  `0`. When done, select **Next**.
-2. **Details** – Provide reference details, like additional IDs or notes, and select **Next**.
-3. **Review** – Review the order details, then select **Place order** to submit the termination order.&#x20;
+1. **Items** – Verify that the new quantity is set to  `0`, then select **Next**.
+2. **Details** – Add any reference details or comments, then select **Next**.
+3. **Review** – Review the order details, then select **Place order**.
 4. **Summary** – Select **View order** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps <a href="#next-steps" id="next-steps"></a>
 
-When your order is being processed, the subscription and the agreement are shown as **Updating**. You cannot place any additional orders under this agreement.&#x20;
+After the termination order is submitted, the subscription and agreement status change to **Updating** while the order is being processed. During this time, you cannot submit additional orders for the agreement.
 
-Once the termination order has been processed, the status of the subscription changes to **Terminated**.
+When processing is complete, the subscription status changes to **Terminated**.
 
 ### Related tasks
 
@@ -55,10 +66,18 @@ Once the termination order has been processed, the status of the subscription ch
 [buy-more-licenses-for-microsoft-365-subscription.md](buy-more-licenses-for-microsoft-365-subscription.md)
 {% endcontent-ref %}
 
+{% content-ref url="reduce-microsoft-365-licenses.md" %}
+[reduce-microsoft-365-licenses.md](reduce-microsoft-365-licenses.md)
+{% endcontent-ref %}
+
 {% content-ref url="add-new-products-to-your-csp-agreement.md" %}
 [add-new-products-to-your-csp-agreement.md](add-new-products-to-your-csp-agreement.md)
 {% endcontent-ref %}
 
 {% content-ref url="terminate-all-microsoft-subscriptions.md" %}
 [terminate-all-microsoft-subscriptions.md](terminate-all-microsoft-subscriptions.md)
+{% endcontent-ref %}
+
+{% content-ref url="how-to-disable-the-automatic-renewal-of-an-nce-subscription.md" %}
+[how-to-disable-the-automatic-renewal-of-an-nce-subscription.md](how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
 {% endcontent-ref %}

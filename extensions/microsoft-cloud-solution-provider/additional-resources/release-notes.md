@@ -115,7 +115,7 @@ In this release, we have updated the CSP extension to comply with the updated Mi
 
 To align with Microsoft’s requirements, the Marketplace Platform now automatically verifies whether the MCA has been accepted. If the acceptance is pending, the order details page provides instructions on how to complete the process. Once the MCA is accepted, the platform automatically detects the acceptance and resumes order processing.
 
-To learn more, see [Microsoft Customer Agreement (MCA)](../products-and-programs/microsoft-customer-agreement-mca/) and [Review and accept the MCA](../products-and-programs/microsoft-customer-agreement-mca/accepting-the-mca.md).
+To learn more, see [Microsoft Customer Agreement (MCA)](../products-and-programs/microsoft-customer-agreement-mca.md) and [Review and accept the MCA](/broken/pages/ornpg4RgtOGZXxraVRt6).
 
 ***
 
@@ -185,7 +185,7 @@ Additionally, if you change the subscription name directly in the Azure Portal, 
 
 Termination orders for NCE subscriptions will only be successful if they fall within the cancellation window. Otherwise, the order fails.&#x20;
 
-If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [How to disable automatic renewal for an NCE subscription](faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
+If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [How to disable automatic renewal for an NCE subscription](microsoft-365/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
 
 ***
 
@@ -209,7 +209,7 @@ Starting 20 May 2025, you can easily manage the automatic renewal settings for y
 
 Auto-renewal can be disabled to ensure that a subscription remains active only until the end of the current commitment period, after which it will expire without incurring further charges. If you disabled auto-renewal previously for a subscription, you can re-enable it at any time before the subscription expires.
 
-Note that only NCE products support auto-renewal. Legacy subscriptions do not support this. For instructions on disabling auto-renewal, see [How to disable automatic renewal for an NCE subscription](faqs/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
+Note that only NCE products support auto-renewal. Legacy subscriptions do not support this. For instructions on disabling auto-renewal, see [How to disable automatic renewal for an NCE subscription](microsoft-365/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
 
 ***
 

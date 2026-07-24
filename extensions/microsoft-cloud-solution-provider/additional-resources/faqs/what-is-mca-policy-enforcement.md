@@ -1,4 +1,4 @@
-# What is MCA policy enforcement
+# What is MCA policy enforcement?
 
 Starting 7 October 2025, Microsoft is implementing a policy requiring customers to review and accept the latest version of the Microsoft Customer Agreement (MCA).&#x20;
 
@@ -31,6 +31,6 @@ To accept the revised MCA:
 1. Sign in to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) using your Global Administrator credentials.
 2. Review and accept the updated MCA.
 
-For specific steps, see [Review and accept the MCA](../../products-and-programs/microsoft-customer-agreement-mca/accepting-the-mca.md). After the MCA is accepted, your Marketplace order automatically moves from **Querying** to **Processing**.
+For specific steps, see [Review and accept the MCA](../../products-and-programs/microsoft-customer-agreement-mca.md#review-and-accept-the-mca). After the MCA is accepted, your Marketplace order automatically moves from **Querying** to **Processing**.
 
 If you need assistance with your order, contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md). For legal inquiries, including questions about MCA terms, consult your legal team or Microsoft directly.

@@ -2,7 +2,7 @@
 description: How to add new software items to your existing Marketplace agreement.
 ---
 
-# Add new items to your agreement
+# Add new items to an agreement
 
 This tutorial explains how to add new Microsoft items to your existing CSP agreement in the SoftwareOne Marketplace.&#x20;
 
@@ -12,7 +12,7 @@ This scenario focuses on finding and adding an item called _Microsoft Power BI._
 
 Make sure that the agreement you want to use is active.&#x20;
 
-### Add new items to your agreement
+### Add new items to an agreement
 
 {% stepper %}
 {% step %}
@@ -21,13 +21,13 @@ Make sure that the agreement you want to use is active.&#x20;
 To open the agreement:&#x20;
 
 1. Go to **Marketplace** > **Agreements**.
-2. Select the agreement to open its details page.&#x20;
+2. Select the agreement.&#x20;
 {% endstep %}
 
 {% step %}
-**Add new items to the agreement**
+**Add new items**
 
-Complete these steps:&#x20;
+To add new items:
 
 1. On the agreement details page, select **Buy more**. The guided purchase flow starts, and the **Items** step is displayed.
 2. Select **Add items**.
@@ -56,10 +56,10 @@ In this step, you can also increase the quantities of the existing items.
 {% endstep %}
 
 {% step %}
-**Complete the remaining steps to submit your order**
+**Submit your order**
 
-1. **Details** – Provide reference details, like additional IDs or notes, and select **Next**.
-2. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order**.
+1. **Details** – Add any reference details or comments, then select **Next**.
+2. **Review order** – Review the order details, terms and conditions, and privacy statement, then select **Place order**.
 3. **Summary** – Select **View details** to open the order details page or select **Close**.
 {% endstep %}
 {% endstepper %}
@@ -90,4 +90,8 @@ Once you place the order, the agreement status changes from **Active** to **Upda
 
 {% content-ref url="terminate-microsoft-subscription.md" %}
 [terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
+{% endcontent-ref %}
+
+{% content-ref url="how-to-disable-the-automatic-renewal-of-an-nce-subscription.md" %}
+[how-to-disable-the-automatic-renewal-of-an-nce-subscription.md](how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
 {% endcontent-ref %}

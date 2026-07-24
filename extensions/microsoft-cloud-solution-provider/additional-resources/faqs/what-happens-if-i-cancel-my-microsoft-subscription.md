@@ -1,14 +1,20 @@
 # What happens if I cancel my Microsoft subscription?
 
-You can cancel your Microsoft subscriptions by placing a termination order through the Marketplace Platform. The cancellation policy depends on the type of CSP product or service.
+Microsoft subscriptions can be canceled by placing a termination order. The cancellation policy depends on the type of CSP product or service.
 
-**For Microsoft Azure**
+#### For Microsoft Azure
 
-You can place a termination order for an individual subscription or the entire agreement containing multiple subscriptions. Azure usage is billed in arrears, meaning charges are based on usage from the previous month.
+You can place a termination order for an individual subscription or an entire agreement containing multiple subscriptions. Azure usage is billed in arrears, meaning charges are based on usage from the previous month.
 
-**For all other Microsoft products** (such as Microsoft Dynamics, Microsoft 365, and software subscriptions):
+#### For all other Microsoft products
 
-* **Cancellation within 7 days of creation or renewal** - If the termination occurs within 7 days of the subscription's creation or renewal, the subscription is canceled in Microsoft systems and terminated in the Marketplace Platform. A prorated refund is issued as per the [New Commerce Experience Cancellation Policy](https://learn.microsoft.com/en-us/partner-center/customers/new-commerce-cancellation-policy).
-* **Cancellation after the 7-day window** - Termination orders cannot be placed for NCE subscriptions after the 7-day window. Any orders outside this window will automatically fail.
+For all other Microsoft products, such as Microsoft Dynamics, Microsoft 365, and software subscriptions):
 
-For details on canceling one or multiple subscriptions, see [Terminate Microsoft 365 subscription](../microsoft-365/terminate-microsoft-subscription.md). To cancel the entire agreement, see [Terminate Microsoft 365 agreement](../microsoft-365/terminate-all-microsoft-subscriptions.md).
+* **Cancellation within 7 days of purchase or renewal** – If a termination order is submitted within 7 days of the subscription purchase or renewal, the subscription is canceled in Microsoft systems and terminated in Marketplace. A prorated refund may apply as per the [New Commerce Experience Cancellation Policy](https://learn.microsoft.com/en-us/partner-center/customers/new-commerce-cancellation-policy).
+* **Cancellation outside the 7-day window** – Termination orders cannot be placed for NCE subscriptions after the 7-day window. Any termination orders outside this window will automatically fail, and the subscription will remain active until the end of its commitment term. If the subscription is no longer required, disable automatic renewal to prevent it from renewing at the end of the commitment term.&#x20;
+
+For step-by-step instructions, see the following links:
+
+* [Terminate Microsoft 365 subscription](../microsoft-365/terminate-microsoft-subscription.md)
+* [Terminate Microsoft 365 agreement](../microsoft-365/terminate-all-microsoft-subscriptions.md)
+* [Disable automatic renewal](../microsoft-365/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
