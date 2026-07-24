@@ -9,12 +9,7 @@ This tutorial explains how to cancel a subscription by submitting a termination 
 Terminating a subscription cancels the service completely. If you want to reduce the number of licenses while keeping the subscription active, see [Downsize Microsoft 365 subscription](reduce-microsoft-365-licenses.md).
 
 {% hint style="info" %}
-Microsoft 365 subscriptions can only be terminated within 7 days of creation or renewal.
-
-* If the subscription is terminated within 7 days of creation or renewal, it is canceled in Microsoft and terminated in Marketplace. A prorated refund may be issued according to the applicable Microsoft cancellation policy.
-* If the termination is requested more than 7 days after creation or renewal, the termination order fails.&#x20;
-
-For more information, see the Microsoft [New Commerce Experience cancellation policy](https://learn.microsoft.com/en-us/partner-center/customers/new-commerce-cancellation-policy).
+Microsoft 365 subscriptions purchased through Microsoft NCE can only be terminated within 7 days of purchase or renewal. For details, see [Cancellation and license reduction window](../../products-and-programs/microsoft-nce/#cancellation-and-license-reduction-window).
 {% endhint %}
 
 ### Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
