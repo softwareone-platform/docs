@@ -21,7 +21,7 @@ The following are some of the key terms related to Microsoft NCE subscriptions i
 
 * **License reduction (downsize)** – Reducing the number of licenses in a subscription while keeping at least one license active.
 * **License increase** – Adding licenses to an existing subscription. License increases have their own cancellation and reduction window.
-* **Cancellation (termination)** – Cancelling a subscription and ending the service.&#x20;
+* **Cancellation (termination)** – Canceling a subscription and ending the service.&#x20;
 * **Auto-renewal** – Controls whether a subscription automatically renews at the end of its commitment term. If auto-renewal is disabled, the subscription expires at the end of the current term and doesn't renew.
 * **Commitment term** – The period for which a subscription is purchased, such as a monthly or annual term.
 
