@@ -108,7 +108,7 @@ Administrators can create new groups and assign members to those groups. Additio
    3. Choose the required buyers.
    4. Select available users.
 
-For more information, see [Create groups](../../modules-and-features/settings/groups/create-new-group.md).
+For more information, see [Create group](../../modules-and-features/settings/groups/create-new-group.md).
 
 </details>
 
@@ -129,7 +129,7 @@ Administrators can invite additional users to their Marketplace account.
 
 For more information, see [Add new users](../../modules-and-features/settings/users/add-new-users.md).
 
-<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Add a new user to your account</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../.gitbook/assets/image (910).png" alt=""><figcaption><p>Add a new user to your account.</p></figcaption></figure></div>
 
 </details>
 {% endstep %}
@@ -185,12 +185,12 @@ The ordering steps might vary slightly depending on the product you are ordering
 
 For product-specific tutorials, see the following pages:
 
-* [Order an Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
+* [Order new Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
 * [Order FinOps for Cloud from Marketplace](../../extensions/finops-for-cloud/order-finops-for-cloud-from-marketplace.md)
-* [Order a Microsoft 365 subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-new-tenant.md)
-* [Order a Microsoft 365 subscription for the existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
-* [Order an Azure subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
-* [Order an Azure subscription for the existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
+* [Buy Microsoft 365 subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-new-tenant.md)
+* [Buy Microsoft 365 subscription for an existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
+* [Purchase Azure subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure/order-microsoft-azure-subscription-new-tenant.md)
+* [Purchase Azure subscription for an existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md)
 * [Buy perpetual software licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/perpetual-software/buy-perpetual-software-licenses.md)
 
 </details>
@@ -216,9 +216,9 @@ When tracking orders, look for key statuses such as:
 * **Querying** - Indicates that you need to provide additional information before we can process your order. For querying orders, the **General** tab on the details page will outline the required information and the steps you need to take.
 * **Processing** - Indicates that we are processing your order.
 * **Completed** - Indicates that your order has been processed.
-* **Failed** - Indicates that the order has either been failed by the vendor or SoftwareOne. The failure reason is displayed on the order details page.
+* **Failed** - Indicates that the order has been marked as failed by the vendor or SoftwareOne. The failure reason is displayed on the order details page.
 
-For additional order statuses, see [Order status](../../modules-and-features/marketplace/orders/order-states.md).
+For additional order statuses, see [Order states](../../modules-and-features/marketplace/orders/order-states.md).
 
 </details>
 {% endstep %}
@@ -232,20 +232,21 @@ After your order is provisioned, manage your subscription from the **Subscriptio
 
 <summary>Increase or reduce licenses</summary>
 
-You can adjust the number of licenses for a subscription by submitting a change order for the subscription.
+You can adjust the number of licenses for a subscription by submitting a change order.
 
 **To increase or reduce licenses**
 
 1. Go to **Marketplace** > **Subscriptions**.
 2. Select the subscription you want to manage.
-3. Select **Edit**, then follow the steps in the **Edit subscription** wizard to increase or reduce licenses.
+3. Select **Edit**, then follow the steps in the guided **Edit subscription** flow to increase or reduce licenses.
 4. Select **Place order** to submit your change order.
 
 For product-specific information, see the following pages:
 
-* [Downsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
-* [Upsize Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
-* [Buy more licenses for a Microsoft 365 subscription](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/buy-more-licenses-for-microsoft-365-subscription.md)
+* [Reduce Adobe license quantity](../../extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
+* [Increase Adobe license quantity](../../extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
+* [Purchase additional Microsoft 365 licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/buy-more-licenses-for-microsoft-365-subscription.md)
+* [Reduce Microsoft 365 licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/reduce-microsoft-365-licenses.md)
 
 </details>
 
@@ -259,12 +260,12 @@ You can disable the automatic renewal for a subscription by submitting a configu
 
 1. Go to **Marketplace** > **Subscriptions.**
 2. Select the subscription you want to manage.
-3. On the **subscription details** page, select the arrow <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">, then choose **Configure**.
+3. On the subscription detai**ls** page, select the dropdown arrow <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAAAXNSR0IArs4c6QAAAopJREFUeF7tmk1OwmAURQvL0f04Z+SaHDF3P7ocNI2pCYZAudx+9z1zGPN+vnN6CaXsJl5RArvodIZPCAhfBAhAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHg8CUBAmEB4PAlAQJhAeDwJQECYQHh8JAGHw+vT8fj2GT772fjUTsMFzAc97ffv+9PppYqE5E5DBSwHnaav52nafVSQkN5pmIDzgy7pz0qosNMQAZcPmpVQZafNBVw/aEZCpZ02FbDuoGMlVNtpUwEz2koHrrTL72U34rt4hYNX2OES680TsAxNAkjOvnWBDxOQ+jiqDH9mMlTAaAnV4UcEjJLQAX5MwNYSusCPCthKQif4cQFuCd3glxDgktARfhkBj0roCr+UAFXCXDc/4Pl5xnDrlf35O3onfAuNesf8U9cTfrkEaBLWqK135S9bD78TXoPr/o+ja13rwi+bAF8SasMvL+CxJNSH30KAJqEH/DYC7pPQB34rAesk9ILfTsB1Cf3gtxRwWUJP+G0FnEuYpgp/cVx7f/P3fWVvxNYcaP4Rbn5flT/5rtn5XwlQDlytpnUCqsFU9kGAQs1YgwAjTKUVAhRqxhoEGGEqrRCgUDPWIMAIU2mFAIWasQYBRphKKwQo1Iw1CDDCVFohQKFmrEGAEabSCgEKNWMNAowwlVYIUKgZaxBghKm0QoBCzViDACNMpRUCFGrGGgQYYSqtEKBQM9YgwAhTaYUAhZqxBgFGmEorBCjUjDUIMMJUWiFAoWasQYARptIKAQo1Yw0CjDCVVghQqBlrEGCEqbT6Bgoy2nAnTiZDAAAAAElFTkSuQmCC" alt="" data-size="line">, then choose **Configure**.
 4. Choose **Disable**, then complete the remaining steps to submit your order.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/disable_auto_renewal.png" alt=""><figcaption><p>Select Disable to prevent your subscription from renewing automatically</p></figcaption></figure></div>
 
-Once auto-renewal is disabled, your subscription expires at the end of the commitment period or renewal date, and you are not billed after that. For more details, see [Manage automatic renewals](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
+Once auto-renewal is disabled, your subscription expires at the end of the commitment period or renewal date, and you are not billed after that. For more details, see [Manage automatic renewal](../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
 
 </details>
 {% endstep %}
@@ -299,7 +300,7 @@ You can use the [Settings module](../../modules-and-features/settings/) to manag
 For details on managing your subscriptions and agreements, including terminations, see the following links:
 
 * [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/tutorials-and-videos/)
-* [Microsoft 365](/broken/pages/7wBEjP2le1tCNrFMXUi7)
+* [Microsoft 365 tutorials](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/)
 
 </details>
 
