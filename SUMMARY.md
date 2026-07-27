@@ -10,7 +10,7 @@
   * [Access the platform](marketplace-platform/getting-started/sign-up.md)
   * [Sign in to your account](marketplace-platform/getting-started/sign-in-to-your-account.md)
   * [Navigate the interface](marketplace-platform/getting-started/interface/README.md)
-    * [Spotlight widget](marketplace-platform/getting-started/interface/view-pending-tasks.md)
+    * [Spotlight widget](marketplace-platform/getting-started/interface/spotlight-widget.md)
     * [Information & description cards](marketplace-platform/getting-started/interface/view-information-cards.md)
   * [Manage your profile](marketplace-platform/getting-started/manage-profile.md)
   * [Switch accounts](marketplace-platform/getting-started/switch-account.md)
