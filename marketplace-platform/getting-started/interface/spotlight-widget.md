@@ -21,7 +21,7 @@ You can customize Spotlight to display only the categories that are relevant to 
 1. Select the **More options** (three dots) icon in the widget.
 2. Select the categories you want to display or clear the categories you want to hide.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Select or clear the checkboxes to customize Spotlight.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Spotlight (1).png" alt=""><figcaption><p>Select or clear the checkboxes to customize Spotlight.</p></figcaption></figure></div>
 
 3. Select **Save**. The widget updates to show only the selected categories.
 
