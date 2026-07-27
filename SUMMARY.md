@@ -327,7 +327,7 @@
   * [Support & resources](extensions/microsoft-cloud-solution-provider/additional-resources/README.md)
     * [Support for CSP](extensions/microsoft-cloud-solution-provider/additional-resources/support-options-for-csp.md)
     * [Microsoft 365 tutorials](extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/README.md)
-      * [Buy Microsoft 365 subscription for a a new tenant](extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-new-tenant.md)
+      * [Buy Microsoft 365 subscription for a new tenant](extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-new-tenant.md)
       * [Buy Microsoft 365 subscription for an existing tenant](extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
       * [Add new items to an agreement](extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/add-new-products-to-your-csp-agreement.md)
       * [Purchase additional Microsoft 365 licenses](extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/buy-more-licenses-for-microsoft-365-subscription.md)
