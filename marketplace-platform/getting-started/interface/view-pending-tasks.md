@@ -4,17 +4,26 @@ description: Use the Spotlight widget to keep track of items requiring attention
 
 # Spotlight widget
 
-The **Spotlight** widget helps you track items that need attention directly from the interface. It highlights important platform objects such as overdue invoices, querying orders, and expiring subscriptions so you can act quickly.&#x20;
+The **Spotlight** widget helps you track items that need attention. It highlights important items, such as overdue invoices, querying orders, and expiring subscriptions, so you can take action quickly.
 
-The widget appears on the Home page by default. You can also open it from the status bar by selecting the spotlight icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line">.
-
-<figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption></figcaption></figure>
+Spotlight is available on the **Home** page by default. You can also access it from anywhere in the platform by selecting the Spotlight icon in the status bar.
 
 ### Review spotlight items
 
-Spotlight groups items by object type, such as Orders, Subscriptions, and more. Each category shows the number of items that need attention, so you can quickly see where action is needed.
+Spotlight groups items by category, such as Orders, Subscriptions, and more. Each category shows the number of items that need attention.
 
-By default, Spotlight shows up to five items in each category. If more items are available, select **View all** to open the related main page and review the full list.&#x20;
+By default, Spotlight shows up to five items in each category. If more items are available, select **View all** to open the related main page and review the complete list.
+
+### Customize spotlight
+
+You can customize Spotlight to display only the categories that are relevant to you.
+
+1. Select the **More options** (three dots) icon in the widget.
+2. Select the categories you want to display or clear the categories you want to hide.
+
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption><p>Select or clear the checkboxes to customize Spotlight.</p></figcaption></figure></div>
+
+3. Select **Save**. The widget updates to show only the selected categories.
 
 ### Refresh spotlight
 

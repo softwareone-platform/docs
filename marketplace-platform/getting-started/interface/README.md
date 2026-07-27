@@ -62,9 +62,9 @@ The **Help** option <img src="../../../.gitbook/assets/icon_help.png" alt="" dat
 
 <summary>Spotlight</summary>
 
-The **Spotlight** option <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> shows all items that need action.
+The Spotlight icon <img src="../../../.gitbook/assets/icon_pending_actions.png" alt="" data-size="line"> displays items that require your attention. You can customize the list to show only the items that are relevant to you.
 
-Examples include expiring subscriptions, pending orders, overdue invoices, and more. For more details, see the [Spotlight widget](view-pending-tasks.md).
+For more details, see the [Spotlight widget](view-pending-tasks.md).
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/interface_spotlight.png" alt=""><figcaption><p>Use the spotlight widget to view and manage urgent tasks.</p></figcaption></figure></div>
 
