@@ -10,7 +10,7 @@ To help you manage your subscription renewals more effectively, we've introduced
 
 This new tab displays:
 
-* The current renewal policy for a subscription
+* The current renewal policy for a subscription.
 * Any changes that may take effect at renewal, including the SKU, commitment term, billing cycle, and quantity.
 * The updated commitment end date, if the subscription's end date has been adjusted to align with other subscriptions or a calendar month.
 
