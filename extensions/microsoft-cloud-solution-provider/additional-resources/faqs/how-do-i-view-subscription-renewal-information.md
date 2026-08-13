@@ -39,7 +39,7 @@ When this happens, the adjusted commitment end date is displayed so you can see 
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/Renewal-info.png" alt=""><figcaption></figcaption></figure></div>
 
-### Related information
+### Related topics
 
 {% content-ref url="what-subscription-renewal-options-are-available.md" %}
 [what-subscription-renewal-options-are-available.md](what-subscription-renewal-options-are-available.md)
