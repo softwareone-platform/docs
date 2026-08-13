@@ -13,13 +13,13 @@ To view renewal information:
 
 The **Renewal information** tab may display one of the following renewal policies:
 
-<table><thead><tr><th width="218">Policy</th><th>Description</th></tr></thead><tbody><tr><td><strong>Renew to a new term</strong></td><td>The subscription renews for a new commitment term based on the configured renewal settings.</td></tr><tr><td><strong>Extend service terms</strong></td><td>The subscription converts to a monthly term that continues until you cancel or convert it to a regular subscription.</td></tr><tr><td><strong>Cancel</strong></td><td>The subscription ends at the end of its current commitment term and will not renew.</td></tr></tbody></table>
+<table><thead><tr><th width="218">Policy</th><th>Description</th></tr></thead><tbody><tr><td><strong>Renew to a new term</strong></td><td>The subscription renews for a new commitment term based on the configured renewal settings.</td></tr><tr><td><strong>Extend service term</strong></td><td>The subscription converts to a monthly term that continues until you cancel or convert it to a regular subscription.</td></tr><tr><td><strong>Cancel</strong></td><td>The subscription ends at the end of its current commitment term and will not renew.</td></tr></tbody></table>
 
 For more information on these policies, see [What subscription renewal options are available?](what-subscription-renewal-options-are-available.md).
 
 ### What renewal changes are displayed?
 
-If changes are scheduled to occur when the subscription renews, the **Renewal information** tab displays the values that apply after renewal, including the SKU, commitment term, billing cycle, and quantity.&#x20;
+If changes are scheduled to occur when the subscription renews, the **Renewal information** tab displays values that apply after renewal, including the SKU, commitment term, billing cycle, and quantity.&#x20;
 
 This information helps you understand how the subscription will be configured after renewal.&#x20;
 
