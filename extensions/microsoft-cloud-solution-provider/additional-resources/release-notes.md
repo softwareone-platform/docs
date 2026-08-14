@@ -10,11 +10,11 @@ To help you manage your subscription renewals more effectively, we've introduced
 
 This new tab displays:
 
-* The current renewal policy for a subscription.
-* Any changes that may take effect at renewal, including the SKU, commitment term, billing cycle, and quantity.
+* The current renewal policy for the subscription.
+* Any changes that will take effect at renewal, including the SKU, commitment term, billing cycle, and quantity.
 * The updated commitment end date, if the subscription's end date has been adjusted to align with other subscriptions or a calendar month.
 
-This enhancement helps you understand what will happen when a subscription renews, review upcoming subscription changes before they take effect, and see the subscription terms that will apply after the renewal.
+This enhancement helps you understand what will happen when the subscription renews, review upcoming subscription changes before they take effect, and see the subscription terms that will apply after renewal.
 
 For more information, see [How do I view subscription renewal information?](faqs/how-do-i-view-subscription-renewal-information.md)
 
