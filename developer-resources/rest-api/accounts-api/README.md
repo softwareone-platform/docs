@@ -47,11 +47,11 @@ The Accounts API is built around the following core resources:
 * **API token** – Represents an authentication token object.
 * **Buyer** – Represents entities that engage in commercial activities and are the recipients of `invoices` issued by SoftwareOne.
 * **Cloud tenant** – Represents a `CloudTenant` object in the Marketplace.
-* **ERP link** – Represents a connection between the buyer object and the seller object in the Marketplace.
+* **ERP link** – Represents the connection between the buyer and seller objects in the Marketplace.
 * **Licensee** – Represents entities that consume the software products or services procured by the `buyer`.
-* **Module** – Represents modules available in the platform, for example, Marketplace.
+* **Module** – Represents modules within the platform, for example, Marketplace.
 * **Seller** – Represents SoftwareOne entities (for example, SoftwareOne Canada) that buy software solutions from vendors and sell those solutions to clients.
-* **User** – Represents users who can sign in to the platform using their credentials and perform operations associated with their permissions.
+* **User** – Represents users who sign in to the platform using their credentials and perform operations associated with their permissions.
 * **User group** – Represents a `UserGroup` object in the Marketplace.
 
 ## Browse collections

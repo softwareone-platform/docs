@@ -362,7 +362,7 @@
 ## Developer Resources
 
 * [REST API](developer-resources/rest-api/README.md)
-  * [Download OpenAPI specification](https://api.platform.softwareone.com/public/v1/openapi.json)
+  * [API quickstart](developer-resources/rest-api/api-quickstart.md)
   * [Accounts API](developer-resources/rest-api/accounts-api/README.md)
     * [Account](developer-resources/rest-api/accounts-api/account/README.md)
       * [State diagram](developer-resources/rest-api/accounts-api/account/state-diagram.md)
@@ -1171,6 +1171,7 @@
       * [Set task status to failed](developer-resources/rest-api/task-api/task/set-task-status-to-failed.md)
     * [Task Log](developer-resources/rest-api/task-api/task-log/README.md)
       * [Get task logs](developer-resources/rest-api/task-api/task-log/get-task-logs.md)
+  * [Download OpenAPI specification](https://api.platform.softwareone.com/public/v1/openapi.json)
 * [API usage & reference](developer-resources/api-usage-and-reference/README.md)
   * [Resource Query Language](developer-resources/api-usage-and-reference/resource-query-language/README.md)
     * [RQL advanced tips](developer-resources/api-usage-and-reference/resource-query-language/rql-advanced-tips.md)

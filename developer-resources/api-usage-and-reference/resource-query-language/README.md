@@ -4,7 +4,7 @@ description: Learn about Resource Query Language and how to use it.
 
 # Resource Query Language
 
-Resource Query Language (RQL) is a query language used by the Marketplace Platform in its REST API. It's used for querying and manipulating resources in the Marketplace Platform's [REST API](/broken/pages/c48wsZ6OnZim0prmKKFx).
+Resource Query Language (RQL) is a query language used by the Marketplace Platform in its REST API. It's used for querying and manipulating resources in the Marketplace APIs.
 
 With RQL, you can filter, sort, paginate, and project data. It's simple to use but flexible enough to handle complex scenarios.
 
@@ -12,9 +12,9 @@ With RQL, you can filter, sort, paginate, and project data. It's simple to use b
 
 RQL consists of a set of operators that can be classified into three main categories:
 
-* **Comparison operators** - These operators perform comparisons like equals, greater than, and so on.
-* **Logical operators** - These operators combine multiple conditions.
-* **Algorithmic operators** - These operators handle functionalities, like sorting and pagination.
+* **Comparison operators** – These operators perform comparisons like equals, greater than, and so on.
+* **Logical operators** – These operators combine multiple conditions.
+* **Algorithmic operators** – These operators handle functionalities, like sorting and pagination.
 
 Operators are formatted as `operator(arg1,arg2,...)`. Complex expressions can be created by nesting these operators.
 
@@ -77,7 +77,7 @@ GET /v1/accounts/users?select=-firstName,-lastName,-email
 
 #### Search
 
-To search for all users with the first name starting from 'Bu', the following query can be used:
+To search for all users with the first name starting with 'Bu', the following query can be used:
 
 ```http
 GET /v1/accounts/users?ilike(firstName,Bu*)
@@ -107,7 +107,7 @@ GET /v1/accounts/users?firstName=Buzz&lastName=Astral
 
 #### Special characters in values
 
-To pass special characters (like, &^$?) or whitespaces as values to RQL operators, enclose them in either double quotes (") or single quotes (') as shown in the following example:
+To pass special characters (like &^$?) or whitespaces as values to RQL operators, enclose them in either double quotes (") or single quotes (') as shown in the following example:
 
 ```http
 GET /v1/accounts/users?firstName="Buzz !!!"
@@ -157,8 +157,8 @@ One of the most critical findings is how RQL filters must be passed to the API.
 
 #### The Findings
 
-* Do not pass RQL as a query parameter value (like, `?rql=and(...)`). This often results in `400 Bad Request` or an _Invalid equals shortcut_ expression.
-* Do append the RQL string directly to the URL query string.
+* Do not pass RQL as a query parameter value (like, `?rql=and(...)`). This often results in `400 Bad Request` , or an _Invalid equals shortcut_ expression.
+* Append the RQL string directly to the URL query string.
 
 #### Syntax Pattern
 
@@ -186,12 +186,12 @@ GET /resource?and(eq(status,Active))&limit=100&offset=0
 
 To get the count of related resources (example, "How many subscriptions does this agreement have?") without fetching all the data:
 
-1. **Query the Child Resource** - Target the specific resource endpoint (example, `/commerce/subscriptions`).
-2. **Filter by Parent ID** - Use a direct filter parameter if available, or RQL.
+1. **Query the Child Resource** – Target the specific resource endpoint (example, `/commerce/subscriptions`).
+2. **Filter by Parent ID** – Use a direct filter parameter if available, or RQL.
    * Finding: The API often accepts direct property filters like `?agreement.id=AGR-XXX`.
-3. **Minimize Payload** - Set `limit=0`.
+3. **Minimize Payload** – Set `limit=0`.
    * Finding: `limit=0` is fully supported and recommended. It returns an empty `data` array but includes the correct count in `$meta.pagination.total`.
-4. **Read Metadata** - Extract the count from the response metadata.
+4. **Read Metadata** – Extract the count from the response metadata.
 
 **Example Request**
 
@@ -222,10 +222,10 @@ Using `limit=0` is the most efficient way to get counts as it minimizes data tra
 
 ### 4. Handling Large Datasets (JSONL & Redirects)
 
-When requesting large datasets (e.g., full collections), the API might respond with a `302 Redirect` to a file download URL (often for `application/jsonl` format).
+When requesting large datasets, such as full collections, the API might respond with a `302 Redirect` to a file download URL (often for `application/json` format).
 
-* **Finding** - Clients must handle redirects and potentially download from a secondary URL (e.g., AWS S3).
-* **Header** - `Accept: application/jsonl` is often used for these bulk operations.
+* **Finding** – Clients must handle redirects and potentially download from a secondary URL, for example, AWS S3.
+* **Header** – `Accept: application/jsonl` is often used for these bulk operations.
 
 ### 5. Advanced RQL Patterns
 
@@ -236,7 +236,7 @@ You can filter by date ranges using ISO 8601 strings.
 {% hint style="info" %}
 **API Date Requirement**
 
-Dates must be in **UTC** and include **3-digit millisecond precision** (for example, `YYYY-MM-DDTHH:mm:ss.sssZ`).
+Dates must be in UTC and include 3-digit millisecond precision, for example, `YYYY-MM-DDTHH:mm:ss.sss`.
 {% endhint %}
 
 ```http
@@ -245,7 +245,7 @@ GET /billing/invoices?select=audit&and(gt(audit.created.at,"2024-12-01T08:00:00.
 
 #### Nested collection filtering with `any()`
 
-The `any()` operator is powerful for filtering based on properties of nested objects (e.g., finding users in a specific group).
+The `any()` operator is powerful for filtering based on properties of nested objects, such as, finding users in a specific group.
 
 ```http
 GET /accounts/account-users?any(groups,id=UGR-1234-5678)
@@ -255,28 +255,28 @@ GET /accounts/account-users?any(groups,id=UGR-1234-5678)
 
 Be aware of metadata fields that affect data processing.
 
-* **`$meta.pagination.total`** - The total number of records matching the query (useful when `limit=0`).
-* **`$meta.omitted`** - A list of properties excluded from the response payload for security or performance reasons (like, `["credits"]`).
+* `$meta.pagination.total` – The total number of records matching the query (useful when `limit=0`).
+* `$meta.omitted`  – A list of properties excluded from the response payload for security or performance reasons (like, `["credits"]`).
 
 ### 7. Date fields & projection
 
 Date fields like `created` and `updated` are typically nested within the `audit` object.
 
-* **Finding** - To filter by these dates OR see them in the response, you must explicitly select the `audit` object. The API will not filter by fields that are not selected/visible in the response context.
-* **Example** - `?select=audit&and(gt(audit.created.at,"2024-01-01..."))`
+* **Finding** – To filter by these dates OR see them in the response, you must explicitly select the `audit` object. The API will not filter by fields that are not selected/visible in the response context.
+* **Example** – `?select=audit&and(gt(audit.created.at,"2024-01-01..."))`
 
 ### 8. Terminology & identity resolution
 
 In the API, Buyer and Client have distinct meanings and ID formats:
 
 * Buyer represents a legal entity on the platform. This is the core entity for billing and legal purposes.&#x20;
-  * **ID Format** - `BUY-xxxx-xxx`
+  * **ID Format** – `BUY-xxxx-xxx`
 * Client represents one or multiple Buyers activated in the self-service part of the platform (Client Portal).&#x20;
-  * **ID Format** - `ACC-1234-5678`
+  * **ID Format** – `ACC-1234-5678`
 
-When filtering by Client (ACC- IDs), use **`client.id`** in RQL on resources that expose it (such as, `commerce.orders`, `commerce.agreements`): `eq(client.id,"ACC-1234-5678")`.&#x20;
+When filtering by Client (ACC- IDs), use `client.id` in RQL on resources that expose it (such as `commerce.orders`, `commerce.agreements`): `eq(client.id,"ACC-1234-5678")`.&#x20;
 
-When filtering by Buyer (BUY- IDs), use **`buyer.id`**. Check the resource schema to see which relationship field exists.
+When filtering by Buyer (BUY- IDs), use `buyer.id`. Check the resource schema to see which relationship field exists.
 
 ### Further resources <a href="#further-resources" id="further-resources"></a>
 
