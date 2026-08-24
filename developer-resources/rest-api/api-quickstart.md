@@ -117,7 +117,9 @@ If the request succeeds, the API returns a `200 OK` response and a list of buyer
 
 If the access token is invalid, the API returns  `401 Unauthorized`.&#x20;
 
-If the token doesn't have permission to access the endpoint, the API returns `403 Forbidden`. Note that access to this endpoint depends on the account type associated with the token, rather than the enabled modules. The token must belong to a **client** or **ops** account. For more HTTP status codes, see [Error handling](../api-usage-and-reference/errors-handling.md).
+If the token doesn't have permission to access the endpoint, the API returns `403 Forbidden`. Note that access to this endpoint depends on the account type associated with the token, rather than the enabled modules. The token must belong to a **client** or **ops** account.&#x20;
+
+For more HTTP status codes, see [Error handling](../api-usage-and-reference/errors-handling.md).
 {% endstep %}
 {% endstepper %}
 
