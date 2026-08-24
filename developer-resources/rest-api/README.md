@@ -17,6 +17,10 @@ Use Marketplace APIs to:
 * Synchronize Marketplace data with external business systems.
 * Integrate and manage notification workflows.
 
+### Getting started
+
+Follow [API Quickstart](api-quickstart.md) to generate an API token, authenticate requests, and make your first API call.
+
 ### Authentication
 
 Marketplace Platform uses [API tokens](../../modules-and-features/settings/api-tokens/) for authentication.
