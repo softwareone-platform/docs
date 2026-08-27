@@ -361,8 +361,8 @@
 
 ## Developer Resources
 
+* [API Quickstart](developer-resources/api-quickstart.md)
 * [REST API](developer-resources/rest-api/README.md)
-  * [API Quickstart](developer-resources/rest-api/api-quickstart.md)
   * [Accounts API](developer-resources/rest-api/accounts-api/README.md)
     * [Account](developer-resources/rest-api/accounts-api/account/README.md)
       * [State diagram](developer-resources/rest-api/accounts-api/account/state-diagram.md)

@@ -50,7 +50,7 @@ To create a token:
 1. [Sign in](https://portal.platform.softwareone.com/) to your Marketplace account.
 2. Open the main menu, then go to **Settings** > **API tokens**.
 3. Select **Add**.
-4. Complete the **Add API token** workflow. For detailed instructions, see [Create API token](../../modules-and-features/settings/api-tokens/create-api-token.md).
+4. Complete the **Add API token** workflow. For detailed instructions, see [Create API token](../modules-and-features/settings/api-tokens/create-api-token.md).
 5. Copy the token value.
 {% endstep %}
 
@@ -65,7 +65,7 @@ All Marketplace Platform API endpoints use the following base URL:&#x20;
 https://api.platform.softwareone.com
 ```
 
-The following example uses the [Accounts API](accounts-api/) to retrieve a list of buyers in your account.
+The following example uses the [Accounts API](rest-api/accounts-api/) to retrieve a list of buyers in your account.
 
 Send a `GET` request to the `/public/v1/accounts/buyers` endpoint:
 
@@ -140,7 +140,7 @@ If the access token is invalid, the API returns  `401 Unauthorized`.&#x20;
 
 If the token doesn't have permission to access the endpoint, the API returns `403 Forbidden`. Note that access to this endpoint depends on the account type associated with the token, rather than the enabled modules. The token must belong to a **client** or **ops** account.&#x20;
 
-For more HTTP status codes, see [Error handling](../api-usage-and-reference/errors-handling.md).
+For more HTTP status codes, see [Error handling](api-usage-and-reference/errors-handling.md).
 {% endstep %}
 {% endstepper %}
 
@@ -148,8 +148,8 @@ For more HTTP status codes, see [Error handling](../api-usage-and-reference/erro
 
 After successfully authenticating, you can use the same API token to access other Marketplace APIs. Choose a common integration scenario to continue building with the platform.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Manage accounts and users</strong></td><td>Create and manage accounts, users, groups, and API tokens.</td><td><a href="accounts-api/">accounts-api</a></td><td></td></tr><tr><td><strong>Manage orders and subscriptions</strong></td><td>Manage orders, subscriptions, assets, and agreements.</td><td><a href="commerce-api/">commerce-api</a></td><td></td></tr><tr><td><strong>Access billing data</strong></td><td>Retrieve invoices, statements, charges, and billing information.</td><td><a href="billing-api/">billing-api</a></td><td></td></tr><tr><td><strong>Manage products and catalogs</strong></td><td>Browse and manage products, catalogs, and related metadata.</td><td><a href="catalog-api/">catalog-api</a></td><td></td></tr><tr><td><strong>Manage notifications</strong></td><td>Send notifications, manage recipients and categories, and track message delivery.</td><td><a href="notifications-api/">notifications-api</a></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Manage accounts and users</strong></td><td>Create and manage accounts, users, groups, and API tokens.</td><td><a href="rest-api/accounts-api/">accounts-api</a></td><td></td></tr><tr><td><strong>Manage orders and subscriptions</strong></td><td>Manage orders, subscriptions, assets, and agreements.</td><td><a href="rest-api/commerce-api/">commerce-api</a></td><td></td></tr><tr><td><strong>Access billing data</strong></td><td>Retrieve invoices, statements, charges, and billing information.</td><td><a href="rest-api/billing-api/">billing-api</a></td><td></td></tr><tr><td><strong>Manage products and catalogs</strong></td><td>Browse and manage products, catalogs, and related metadata.</td><td><a href="rest-api/catalog-api/">catalog-api</a></td><td></td></tr><tr><td><strong>Manage notifications</strong></td><td>Send notifications, manage recipients and categories, and track message delivery.</td><td><a href="rest-api/notifications-api/">notifications-api</a></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
-Looking for additional APIs or guidance? See [Browse APIs](./#browse-apis) and [API Usage & Reference](../api-usage-and-reference/).
+Looking for additional APIs or guidance? See [Browse APIs](rest-api/#browse-apis) and [API Usage & Reference](api-usage-and-reference/).
 {% endhint %}

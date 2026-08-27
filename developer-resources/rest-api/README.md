@@ -19,7 +19,7 @@ Use Marketplace APIs to:
 
 ### Getting started
 
-Follow [API Quickstart](api-quickstart.md) to generate an API token, authenticate requests, and make your first API call.
+Follow [API Quickstart](../api-quickstart.md) to generate an API token, authenticate requests, and make your first API call.
 
 ### Authentication
 
