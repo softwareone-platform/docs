@@ -1,8 +1,29 @@
 ---
 description: Create an API token and make your first Marketplace Platform API request.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: false
+  actions:
+    visible: true
+tags:
+  - tag: new
+    primary: true
 ---
 
-# API quickstart
+# API Quickstart
 
 Marketplace Platform REST APIs provide programmatic access to accounts, orders, subscriptions, billing, notifications, and other Marketplace resources.
 

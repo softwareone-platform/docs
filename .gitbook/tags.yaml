@@ -2,3 +2,7 @@
   label: AWS
 - tag: lighthouse
   label: Lighthouse
+- tag: new
+  label: New
+  icon: star
+  color: $primary
