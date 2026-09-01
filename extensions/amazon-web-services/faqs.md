@@ -160,17 +160,17 @@ If you prefer not to wait, you can select **Process** in the upper-right corner 
 
 <details>
 
-<summary>I didn't receive the billing transfer email.</summary>
+<summary>I didn't receive the Billing Transfer email.</summary>
 
 Ensure you have access to the email address registered as the root for the AWS organizational account you are trying to connect with SoftwareOne.
 
-If you have access but are not receiving emails, including in your spam or junk folder, contact [SoftwareOne Marketplace Platform Support](../../help-and-support/contact-support.md) or your account manager. It could be possible that the account ID you are trying to connect is not eligible for billing transfer.
+If you have access but are not receiving emails, including in your spam or junk folder, contact [SoftwareOne Marketplace Platform Support](../../help-and-support/contact-support.md) or your account manager. It is possible that the account ID you are trying to connect to is not eligible for billing transfer.
 
 </details>
 
 <details>
 
-<summary>I receive an error when accepting the billing transfer email.</summary>
+<summary>I receive an error when accepting the Billing Transfer email.</summary>
 
 If you receive an error, check that you have the rights to accept the AWS invite for the AWS account you are trying to connect with SoftwareOne.&#x20;
 
@@ -187,6 +187,18 @@ In such cases, contact [SoftwareOne Marketplace Platform Support](../../help-and
 To avoid common errors with the AWS billing transfer invitation, ensure you are using the correct AWS account and credentials when accepting the handshake.&#x20;
 
 If you have any questions or encounter issues, contact [SoftwareOne Marketplace Platform Support](../../help-and-support/contact-support.md).
+
+</details>
+
+<details>
+
+<summary>What happens to existing Cost and Usage Reports (CUR) after the AWS Billing Transfer is activated?</summary>
+
+When AWS Billing Transfer is activated, the existing Cost and Usage Reports (CUR) become inactive and are displayed as `Unhealthy` in the AWS Billing and Cost Management console.&#x20;
+
+To prevent data loss, download and back up any historical CUR files, invoices, and CSV exports from the bill-source account before the billing transfer starts, which is typically the first day of the calendar month following your invitation acceptance. This will ensure you do not lose important data.
+
+After the billing transfer is complete, you must reconfigure new CUR or CUR 2.0 reports in the [AWS Data Exports Console](https://aws.amazon.com/blogs/aws-cloud-financial-management/introducing-data-exports-for-billing-and-cost-management/) mapped to your billing transfer views. Note that split cost allocation data is not supported and must be disabled when configuring new CUR preferences.
 
 </details>
 
@@ -242,7 +254,7 @@ You can view your cloud spend analysis in [SoftwareOne's FinOps for Cloud](https
 
 <details>
 
-<summary>I want another billing currency for my AWS invoices from SoftwareOne than the one displayed in the Marketplace during purchase.</summary>
+<summary>Can I use a different billing currency for my AWS invoices than the currency displayed in Marketplace during purchase?</summary>
 
 In such cases, you can contact your SoftwareOne account manager.&#x20;
 
@@ -301,7 +313,7 @@ This period is enforced through a handshake invitation immediately after accepta
 
 <details>
 
-<summary>How to offboard AWS (legacy and new purchases)?</summary>
+<summary>How do I offboard AWS (legacy and new purchases)?</summary>
 
 To offboard, you must place a termination order through the SoftwareOne Marketplace. Once you place the order, we will review it in line with your active service term.
 
