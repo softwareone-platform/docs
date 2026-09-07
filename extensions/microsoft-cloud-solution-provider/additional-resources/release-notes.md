@@ -2,6 +2,36 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
+## Release Date: 7 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
+
+### CSP Subscription Upgrades
+
+SoftwareOne Marketplace now supports CSP subscription upgrades, allowing you to move licenses from an existing subscription to an eligible higher plan.&#x20;
+
+Two upgrade options are available:
+
+* **Full upgrade** – Upgrade all licenses in a subscription. All licenses, including any additional licenses, are upgraded together.
+* **Partial upgrade** – Upgrade a selected number of licenses.
+
+To support subscription upgrades, Marketplace now includes an **Upgrade subscription** workflow that guides you through selecting an eligible higher plan, reviewing available terms and billing cycles, and specifying the licenses to upgrade.&#x20;
+
+For more information, see [Upgrade Microsoft 365 subscription](microsoft-365/upgrade-microsoft-365-subscription.md).
+
+### Microsoft Accounts for CSP Customers
+
+SoftwareOne Marketplace now includes a **Microsoft Accounts** page in the main menu for clients with Microsoft agreements.
+
+The **Microsoft Accounts** page provides a centralized view of your Microsoft CSP tenants, grouped by market. From a single location, you can:
+
+* View the number of agreements and subscriptions.
+* See subscriptions by category, including License-based, Azure, Azure Reservations, Software, and Perpetual.
+* Review and manage GDAP relationship status.
+* Access Microsoft contact information and special qualification information, including State-Owned Entities status.
+
+For more information, see [Microsoft Accounts](../microsoft-accounts.md).
+
+***
+
 ## Release Date: 13 August 2026 <a href="#release-date-13-august-2026" id="release-date-13-august-2026"></a>
 
 ### Subscription Renewal Information
@@ -97,9 +127,9 @@ For details on EST subscriptions and how to manage them, see [What subscription 
 
 Starting 16 February 202&#x36;**,** Microsoft will offer three options for renewing CSP subscriptions: Renew, Cancel at expiration, or move to Extended Service Terms (EST):
 
-* **Renew the subscription** - This works like it always has, supporting scheduled changes or renewing as is.
-* **Cancel at expiration** - This stops the services at the end of the term. Data retention is preserved, but the subscription can't be recovered or reactivated.
-* **Move to EST** - This new option converts your subscription into a monthly term that continues until you decide to cancel or convert it to a regular subscription. Licenses can't be modified under EST. Additionally, the extended service term bills monthly at the current monthly term rate plus a 3% uplift (or 23% if no monthly plan exists).
+* **Renew the subscription** – This works like it always has, supporting scheduled changes or renewing as is.
+* **Cancel at expiration** – This stops the services at the end of the term. Data retention is preserved, but the subscription can't be recovered or reactivated.
+* **Move to EST** – This new option converts your subscription into a monthly term that continues until you decide to cancel or convert it to a regular subscription. Licenses can't be modified under EST. Additionally, the extended service term bills monthly at the current monthly term rate plus a 3% uplift (or 23% if no monthly plan exists).
 
 EST applies only to eligible subscriptions that are renewed or expire after 4 May 2026. If you want to move your subscriptions to EST, contact [Marketplace Platform Support](../../../help-and-support/contact-support.md).&#x20;
 
