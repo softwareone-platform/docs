@@ -2,6 +2,14 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
+## Release Date: 21 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
+
+#### CSP Triennial Billing Now Available
+
+SoftwareOne Marketplace now supports **CSP subscriptions with a 3-year commitment term and triennial billing** for eligible Microsoft products.
+
+Customers can find these offers directly in the Marketplace catalog and purchase them alongside subscriptions with other available billing terms. This enhancement provides greater flexibility for organizations seeking longer-term commitments and billing options aligned with their purchasing preferences.
+
 ## Release Date: 7 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
 
 ### CSP Subscription Upgrades
