@@ -345,6 +345,7 @@
       * [Buy perpetual software licenses](extensions/microsoft-cloud-solution-provider/additional-resources/perpetual-software/buy-perpetual-software-licenses.md)
       * [Order additional perpetual software licenses](extensions/microsoft-cloud-solution-provider/additional-resources/perpetual-software/order-additional-perpetual-software-licenses.md)
     * [FAQs](extensions/microsoft-cloud-solution-provider/faqs/README.md)
+      * [How do CSP price benefits work?](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-do-csp-price-benefits-work.md)
       * [How do I view subscription renewal information?](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/how-do-i-view-subscription-renewal-information.md)
       * [Do I need to set up Azure Lighthouse again after a billing transfer?](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/do-i-need-to-set-up-azure-lighthouse-again-after-a-billing-transfer.md)
       * [What subscription renewal options are available?](extensions/microsoft-cloud-solution-provider/additional-resources/faqs/what-subscription-renewal-options-are-available.md)

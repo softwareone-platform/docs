@@ -18,12 +18,11 @@ layout:
     visible: false
   actions:
     visible: true
-tags:
-  - tag: new
-    primary: true
+  anchors:
+    visible: true
 ---
 
-# API Quickstart
+# API quickstart
 
 Marketplace Platform REST APIs provide programmatic access to accounts, orders, subscriptions, billing, notifications, and other Marketplace resources.
 

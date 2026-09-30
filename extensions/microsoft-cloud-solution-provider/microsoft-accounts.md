@@ -17,9 +17,8 @@ layout:
     visible: false
   actions:
     visible: true
-tags:
-  - tag: new
-    primary: true
+  anchors:
+    visible: true
 ---
 
 # Microsoft Accounts

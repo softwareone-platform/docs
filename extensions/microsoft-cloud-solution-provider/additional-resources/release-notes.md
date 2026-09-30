@@ -2,13 +2,25 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
-## Release Date: 21 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
+## Release Date: 1 October 2026 <a href="#release-date-1-october-2026" id="release-date-1-october-2026"></a>
 
-#### CSP Triennial Billing Now Available
+### CSP Growth Discounts in Marketplace
 
-SoftwareOne Marketplace now supports **CSP subscriptions with a 3-year commitment term and triennial billing** for eligible Microsoft products.
+SoftwareOne Marketplace now offers CSP growth discounts for eligible Microsoft subscriptions. These discounts provide improved pricing compared to the standard price list.
 
-Customers can find these offers directly in the Marketplace catalog and purchase them alongside subscriptions with other available billing terms. This enhancement provides greater flexibility for organizations seeking longer-term commitments and billing options aligned with their purchasing preferences.
+When a subscription qualifies for a growth discount, the information is displayed in the same way as [NCE promotions](release-notes.md#nce-promotion-details-now-available-in-price-lists), both in the price list and during the ordering process. The discounted price is automatically applied when the eligibility requirements are met.
+
+For details about eligibility, pricing rules, and how growth discounts are displayed in Marketplace, see [How do CSP price benefits work?](faqs/how-do-csp-price-benefits-work.md)
+
+## Release Date: 21 September 2026 <a href="#release-date-21-september-2026" id="release-date-21-september-2026"></a>
+
+### CSP Triennial Billing Now Available
+
+SoftwareOne Marketplace now supports CSP subscriptions with a 3-year commitment term and triennial billing for eligible Microsoft products.&#x20;
+
+You can find these offers directly in the Marketplace catalog and purchase them alongside subscriptions with other available billing terms.&#x20;
+
+This enhancement provides greater flexibility for organizations seeking longer-term commitments and billing options.
 
 ## Release Date: 7 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
 
