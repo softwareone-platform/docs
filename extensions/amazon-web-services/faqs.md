@@ -154,7 +154,7 @@ For example, if the billing transfer request is not accepted, the order fails. T
 
 After you accept the billing transfer invitation from AWS, it can take some time to receive the service period (handshake) notification. This is expected and typically takes around 15 minutes. The handshake invitation is sent by AWS to the same email address that received the billing transfer request.
 
-If you prefer not to wait, you can select **Process** in the upper-right corner of your AWS Marketplace order. This will prompt the platform to validate the billing acceptance and proceed to the next step.
+If you prefer not to wait, you can select **Process** in the upper-right corner of your AWS Marketplace order. This will prompt the platform to validate the billing acceptance and trigger the next step.
 
 </details>
 
