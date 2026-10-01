@@ -125,7 +125,7 @@ You are required to:
 * Have an existing AWS account or create a new one.
 * Accept the SoftwareOne Terms and Conditions when submitting your order.
 * Accept the billing transfer request to connect your AWS account to SoftwareOne.
-* Accept the service term (12 months by default).
+* Accept the service period (a 90-day service period is required to be accepted as part of the 12-month term outlined within the Services Contract).
 * Deploy the required SoftwareOne roles for service delivery (AWS Essentials).
 
 You must also have the correct permissions on your AWS account to complete all steps.&#x20;
@@ -150,9 +150,9 @@ For example, if the billing transfer request is not accepted, the order fails. T
 
 <details>
 
-<summary>I didn’t receive any service term (handshake) email? How long should I wait for the email to arrive?</summary>
+<summary>I didn’t receive any service period (handshake) email. How long should I wait for the email to arrive?</summary>
 
-After you accept the billing transfer invitation from AWS, it can take some time to receive the service term (handshake) email. This is expected and typically takes around 15 minutes. The handshake invitation is sent by AWS to the same email address that received the billing transfer request.
+After you accept the billing transfer invitation from AWS, it can take some time to receive the service period (handshake) notification. This is expected and typically takes around 15 minutes. The handshake invitation is sent by AWS to the same email address that received the billing transfer request.
 
 If you prefer not to wait, you can select **Process** in the upper-right corner of your AWS Marketplace order. This will prompt the platform to validate the billing acceptance and proceed to the next step.
 
@@ -184,7 +184,7 @@ In such cases, contact [SoftwareOne Marketplace Platform Support](../../help-and
 
 <summary>I receive an error when accepting the handshake or invitation e-mail.</summary>
 
-To avoid common errors with the AWS billing transfer invitation, ensure you are using the correct AWS account and credentials when accepting the handshake.&#x20;
+To avoid common errors with the AWS billing transfer invitation, ensure you are using the correct AWS account and credentials when accepting the handshake or service period.&#x20;
 
 If you have any questions or encounter issues, contact [SoftwareOne Marketplace Platform Support](../../help-and-support/contact-support.md).
 
@@ -307,7 +307,9 @@ A default minimum period of 12 months is added after a successful purchase.
 
 Yes, the standard 12-month minimum service period for essentials applies.&#x20;
 
-This period is enforced through a handshake invitation immediately after acceptance of the billing transfer.
+This term auto-renews each time unless a termination order is placed.
+
+This period is enforced through a so-called handshake invitation or a 90-day service period immediately after acceptance of the billing transfer.
 
 </details>
 
