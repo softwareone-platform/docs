@@ -22,4 +22,4 @@ To rename a subscription:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Rename1 (1).png" alt=""><figcaption><p>Select <strong>Rename</strong> to edit the the subscription name.</p></figcaption></figure></div>
 
-4. In the **Rename** dialog, enter the new name, then select **Save**. The subscription is renamed.
+4. In the **Rename** dialog, enter the new name, then select **Save**. The subscription is renamed in the Marketplace.

@@ -23,7 +23,7 @@ The **API tokens** page lets account administrators create, view, edit, delete, 
 
 To open the page, choose **Settings** > **API tokens** from the main menu.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>Use the API tokens page to view and manage tokens.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/API token.png" alt=""><figcaption><p>Use the <strong>API tokens</strong> page to view and manage tokens.</p></figcaption></figure></div>
 
 On the **API tokens** page, you can view details for each token, including the token name, creation date, status, and more.&#x20;
 

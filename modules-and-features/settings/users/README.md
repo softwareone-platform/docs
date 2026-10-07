@@ -17,7 +17,7 @@ The **Users** page allows account administrators to perform user management task
 
 To open the page, choose **Settings** > **Users** from the main menu.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>Use the Users page to view and manage users.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/Users.png" alt=""><figcaption><p>Use the <strong>Users</strong> page to view and manage users.</p></figcaption></figure></div>
 
 On the **Users** page, you can use the [sort and filter options](../../../marketplace-platform/getting-started/customize-the-data-grid.md) and [show or hide specific columns](../../../marketplace-platform/getting-started/customize-the-data-grid.md#managing-columns) to customize the list.&#x20;
 

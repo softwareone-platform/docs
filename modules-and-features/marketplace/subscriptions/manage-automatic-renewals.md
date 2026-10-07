@@ -8,11 +8,9 @@ In the SoftwareOne Marketplace, your subscriptions are renewed automatically to 
 
 If you don't want your subscription to renew automatically, you can disable auto-renewal if it's supported for your specific product. When auto-renewal is turned off, your subscription expires at the end of the commitment period or renewal date, and you are not billed after that.&#x20;
 
-You can manage the auto-renewal of your subscription by placing a configuration order. If you have previously disabled auto-renewal and want to re-enable it, you can do so before the subscription expires.
-
 ### Manage automatic renewal <a href="#h_01jey7dr4j22wpq7tv0kkq1yv3" id="h_01jey7dr4j22wpq7tv0kkq1yv3"></a>
 
-To manage automatic renewal:
+To manage a subscription's automatic renewal:
 
 1. Go to **Marketplace** > **Subscriptions.**
 2. Select the required subscription.
@@ -26,6 +24,6 @@ To manage automatic renewal:
    3. **Review order** – Review the details. When done, select **Place order**.&#x20;
    4. **Summary** – Select **View order** to open the order details page or select **Close**.
 
-Once the configuration order is submitted, the subscription and agreement status change from **Active** to **Updating**. This means that no other orders can be placed against the agreement or subscription.
+After the order is submitted, the subscription and agreement status change from **Active** to **Updating**. This means that no other orders can be placed against the agreement or subscription.
 
 If the order is successfully processed, the status changes to **Active**, and the new auto-renewal status is shown on the subscription details page.

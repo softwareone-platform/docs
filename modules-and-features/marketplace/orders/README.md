@@ -4,10 +4,12 @@ An order represents a transaction that starts, changes, or ends a service in Mar
 
 Orders are created under an agreement, and a single agreement can contain multiple orders. The Marketplace supports the following types of orders:
 
-* **Purchase order** – This type of order is created when you buy a new product or service by establishing a new agreement.
-* **Change order** – A change order is used to modify an existing subscription, such as adding or removing licenses.
-* **Termination order** – This order is created when you want to end an active subscription or agreement.
-* **Configuration order** – A configuration order is used to manage renewal settings for a subscription, such as enabling auto-renewal.
+* **Purchase order** – Created when you buy a new product or service by establishing a new agreement.
+* **Change order** – Used to modify an existing subscription, such as adding or removing licenses.
+* **Termination order** – Used to end an active subscription or agreement.
+* **Configuration order** – Used to manage subscription renewal settings. Depending on the vendor and subscription type, configuration orders may provide additional options or capabilities for managing the subscription.
+* **Suspend order** – Created by SoftwareOne to temporarily pause an active subscription without terminating it. The subscription configuration, data, and contractual terms are retained.
+* **Resume order** – Created by SoftwareOne to reactivate a suspended subscription and restore service access using the existing subscription configuration.
 
 Marketplace orders move through various states from creation to completion. The available actions depend on the current state of the order. For more information, see [Order states](order-states.md).
 
@@ -55,4 +57,8 @@ You can also open an order to view details across several tabs, including entitl
 
 {% content-ref url="delete-draft-orders.md" %}
 [delete-draft-orders.md](delete-draft-orders.md)
+{% endcontent-ref %}
+
+{% content-ref url="create-and-manage-renewal-orders.md" %}
+[create-and-manage-renewal-orders.md](create-and-manage-renewal-orders.md)
 {% endcontent-ref %}

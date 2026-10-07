@@ -11,7 +11,7 @@ Subscriptions are linked to agreements, and the termination process depends on t
 * If the agreement includes multiple active subscriptions and you want to cancel all subscriptions, you must terminate the entire agreement by placing a termination order. For details, see [Terminate agreement](../agreements/terminate-agreements.md).&#x20;
 * If the agreement includes multiple active subscriptions and you want to cancel some but not all, you must place a termination order for each specific subscription.
 
-Only active subscriptions can be terminated. Additionally. submitting a termination order for a subscription doesn't guarantee termination. Termination orders are sent to the vendor, who decides the outcome.
+Only active subscriptions can be terminated. Additionally, submitting a termination order for a subscription doesn't guarantee termination. Termination orders are sent to the vendor, who decides the outcome.
 
 ### Terminate a subscription
 

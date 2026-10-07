@@ -12,7 +12,7 @@ The **Entitlements** page shows a list of your entitlements.
 
 To open the page, go to **Marketplace** > **Entitlements**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/entitlements.png" alt=""><figcaption><p>Use the Entitlements page to view list of entitlement.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/entitlements.png" alt=""><figcaption><p>Use the <strong>Entitlements</strong> page to view list of entitlement.</p></figcaption></figure></div>
 
 The **Entitlements** page shows key details for each record. This includes the item name, source, status, and estimated sales price.
 

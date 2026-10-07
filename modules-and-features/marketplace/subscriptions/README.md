@@ -54,7 +54,7 @@ The **Subscriptions** page displays all subscriptions in your account.&#x20;
 
 To open the page, choose **Marketplace** > **Subscriptions** from the main menu.&#x20;
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Use the Subscriptions page to view and manage subscriptions. </p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/subscriptions_page (1).png" alt=""><figcaption><p>Use the <strong>Subscriptions</strong> page to view and manage subscriptions. </p></figcaption></figure></div>
 
 On the subscriptions page, you can view various details for a subscription, including the subscription ID, linked entities (such as buyers and sellers), the estimated subscription value, status, and more.&#x20;
 
@@ -82,6 +82,14 @@ You can also select a subscription to view detailed information organized across
 [terminate-a-subscription.md](terminate-a-subscription.md)
 {% endcontent-ref %}
 
+{% content-ref url="terminate-multiple-subscriptions.md" %}
+[terminate-multiple-subscriptions.md](terminate-multiple-subscriptions.md)
+{% endcontent-ref %}
+
 {% content-ref url="manage-automatic-renewals.md" %}
 [manage-automatic-renewals.md](manage-automatic-renewals.md)
+{% endcontent-ref %}
+
+{% content-ref url="configure-auto-renewal-for-multiple-subscriptions.md" %}
+[configure-auto-renewal-for-multiple-subscriptions.md](configure-auto-renewal-for-multiple-subscriptions.md)
 {% endcontent-ref %}

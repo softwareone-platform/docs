@@ -26,7 +26,7 @@ To submit a saved order for processing:
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/orders_details_page.png" alt=""><figcaption><p>Use the Edit option on the order details page to start the order process.</p></figcaption></figure></div>
 
-4. In the **Purchase** flow, complete the following steps:
+4. In the guided **Purchase** flow, complete the following steps:
    1. **Select items** – Do one of the following:
       * If your order already includes items that were added before it was saved for later, those items are displayed in the **Items** section. Review the items, then select **Next**.
       * If no items were added, the **Select items** window opens. Add the items you want to buy, then select **Next**.

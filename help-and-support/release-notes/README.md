@@ -4,7 +4,11 @@ description: >-
   platform.
 ---
 
-# Release Notes
+# Release notes
+
+{% content-ref url="release-notes-v5.9.md" %}
+[release-notes-v5.9.md](release-notes-v5.9.md)
+{% endcontent-ref %}
 
 {% content-ref url="release-notes-v5.md" %}
 [release-notes-v5.md](release-notes-v5.md)
