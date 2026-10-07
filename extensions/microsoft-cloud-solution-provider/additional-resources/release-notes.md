@@ -39,11 +39,9 @@ When a subscription qualifies for a growth discount, the information is displaye
 
 For details about eligibility, pricing rules, and how growth discounts are displayed in Marketplace, see [How do CSP price benefits work?](faqs/how-do-csp-price-benefits-work.md)
 
-## Release Date: 21 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
-
 ***
 
-## Release Date: 21 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
+## Release Date: 21 September 2026 <a href="#release-date-21-september-2026" id="release-date-21-september-2026"></a>
 
 ### CSP Triennial Billing Now Available
 
