@@ -18,9 +18,8 @@ layout:
     visible: false
   actions:
     visible: true
-tags:
-  - tag: new
-    primary: true
+  anchors:
+    visible: true
 ---
 
 # Upgrade Microsoft 365 subscription
@@ -74,5 +73,5 @@ In the guided **Upgrade subscription** flow, complete the following steps:&#x20;
 Your change order is submitted for processing. When the order is complete, the selected licenses are upgraded according to the upgrade option you chose.
 
 {% hint style="info" %}
-After the upgrade is successfully processed, ensure that users are manually assigned to the upgraded licenses in the [Microsoft 365 admin center](https://admin.microsoft.com).
+After the upgrade is processed successfully, ensure that users are manually assigned to the upgraded licenses in the [Microsoft 365 admin center](https://admin.microsoft.com).
 {% endhint %}

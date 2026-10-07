@@ -27,9 +27,7 @@ The following are some of the key terms related to Microsoft NCE subscriptions i
 
 #### Cancellation and license reduction window
 
-Microsoft NCE subscriptions can be cancelled or downsized within 7 calendar days of purchase, renewal, or a license increase. For instructions, see [Terminate Microsoft 365 subscription](../../additional-resources/microsoft-365/terminate-microsoft-subscription.md) and [Reduce Microsoft 365 licenses](../../additional-resources/microsoft-365/reduce-microsoft-365-licenses.md).
-
-A prorated refund may apply under the applicable Microsoft cancellation policy.
+Microsoft NCE subscriptions can be cancelled or downsized within 7 calendar days of purchase, renewal, or a license increase. A prorated refund may apply under the applicable Microsoft cancellation policy.
 
 Additional licenses added during an active subscription term have their own 7-day reduction window.
 
@@ -39,10 +37,10 @@ After the 7-day cancellation window expires, you can no longer cancel the subscr
 
 The current license quantity remains committed for the rest of the subscription term. Any reduction must be scheduled for the next renewal or end of term, where supported.
 
-If you no longer need the subscription, you can disable automatic renewal and allow it to expire at the end of the current commitment term. For instructions, see [Disable automatic renewal](../../additional-resources/microsoft-365/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
+If you no longer need the subscription, you can disable automatic renewal and allow it to expire at the end of the current commitment term.&#x20;
 
 For the latest policy information, see the Microsoft [New Commerce Experience cancellation policy](https://learn.microsoft.com/en-us/partner-center/customers/new-commerce-cancellation-policy).
 
 {% hint style="info" %}
-The cancellation and license reduction rules described on this page apply to Microsoft NCE subscriptions. Perpetual software follows different return policies. For information about perpetual software purchases in the Marketplace, see [About perpetual software orders](../perpetual-software/about-perpetual-software-orders.md).
+The cancellation and license reduction rules described on this page apply to Microsoft NCE subscriptions. [Perpetual software](../perpetual-software.md) follows different return policies.&#x20;
 {% endhint %}

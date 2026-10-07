@@ -71,6 +71,6 @@ When processing is complete, the agreement status changes to **Terminated**. All
 [terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-disable-the-automatic-renewal-of-an-nce-subscription.md" %}
-[how-to-disable-the-automatic-renewal-of-an-nce-subscription.md](how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
+{% content-ref url="/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/hkNeAk0joc4n1Ga5vM9F" %}
+[Broken link](/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/hkNeAk0joc4n1Ga5vM9F)
 {% endcontent-ref %}

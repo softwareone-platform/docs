@@ -44,7 +44,7 @@ Your change order is submitted to SoftwareOne for processing.&#x20;
 In the Marketplace, the subscription and agreement status change from **Active** to **Updating**. While the order is being processed, you cannot make additional changes to the subscription.
 
 * If the license reduction is requested within 7 days of the original order, the change is applied in both the Marketplace and Microsoft.
-* If the license reduction is requested outside the 7-day window, the change is applied on the renewal date. If you do not want the subscription to renew, [disable auto-renewal](how-to-disable-the-automatic-renewal-of-an-nce-subscription.md) so that the subscription expires at the end of the commitment period.
+* If the license reduction is requested outside the 7-day window, the change is applied on the renewal date. If you do not want the subscription to renew, [disable auto-renewal](/broken/pages/hkNeAk0joc4n1Ga5vM9F) so that the subscription expires at the end of the commitment period.
 
 ### Related tasks
 
@@ -72,6 +72,6 @@ In the Marketplace, the subscription and agreement status change from **Active**
 [terminate-microsoft-subscription.md](terminate-microsoft-subscription.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-disable-the-automatic-renewal-of-an-nce-subscription.md" %}
-[how-to-disable-the-automatic-renewal-of-an-nce-subscription.md](how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
+{% content-ref url="/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/hkNeAk0joc4n1Ga5vM9F" %}
+[Broken link](/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/hkNeAk0joc4n1Ga5vM9F)
 {% endcontent-ref %}

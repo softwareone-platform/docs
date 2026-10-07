@@ -14,6 +14,21 @@ Now, all available options, including **Renew to regular term**, **Renew to Exte
 
 For more information, see [What subscription renewal options are available?](faqs/what-subscription-renewal-options-are-available.md)
 
+### Bulk configuration and termination orders
+
+SoftwareOne Marketplace now supports bulk configuration and termination orders for CSP subscriptions within the same agreement.&#x20;
+
+You can now:
+
+* Configure renewal policies for multiple subscriptions in a single order.
+* Terminate multiple subscriptions by submitting a single order.
+
+NCE subscriptions can be terminated within 7 days of purchase or renewal. Azure subscriptions can be terminated at any time. Subscriptions that are not eligible for termination are automatically excluded from the order, and a message explains why they cannot be included.&#x20;
+
+For more details, see [Change renewal policies for CSP subscriptions](../products-and-programs/microsoft-nce/change-renewal-policies-for-csp-subscriptions.md) and [Terminate multiple CSP subscriptions](../products-and-programs/microsoft-nce/terminate-multiple-csp-subscriptions.md).
+
+***
+
 ## Release Date: 1 October 2026 <a href="#release-date-1-october-2026" id="release-date-1-october-2026"></a>
 
 ### CSP Growth Discounts in Marketplace
@@ -26,6 +41,10 @@ For details about eligibility, pricing rules, and how growth discounts are displ
 
 ## Release Date: 21 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
 
+***
+
+## Release Date: 21 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
+
 ### CSP Triennial Billing Now Available
 
 SoftwareOne Marketplace now supports CSP subscriptions with a 3-year commitment term and triennial billing for eligible Microsoft products.&#x20;
@@ -33,6 +52,8 @@ SoftwareOne Marketplace now supports CSP subscriptions with a 3-year commitment 
 You can find these offers directly in the Marketplace catalog and purchase them alongside subscriptions with other available billing terms.&#x20;
 
 This enhancement provides greater flexibility for organizations seeking longer-term commitments and billing options.
+
+***
 
 ## Release Date: 7 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
 
@@ -265,7 +286,7 @@ Additionally, if you change the subscription name directly in the Azure Portal, 
 
 Termination orders for NCE subscriptions will only be successful if they fall within the cancellation window. Otherwise, the order fails.&#x20;
 
-If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [How to disable automatic renewal for an NCE subscription](microsoft-365/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
+If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [How to disable automatic renewal for an NCE subscription](/broken/pages/hkNeAk0joc4n1Ga5vM9F).
 
 ***
 
@@ -289,7 +310,7 @@ Starting 20 May 2025, you can easily manage the automatic renewal settings for y
 
 Auto-renewal can be disabled to ensure that a subscription remains active only until the end of the current commitment period, after which it will expire without incurring further charges. If you disabled auto-renewal previously for a subscription, you can re-enable it at any time before the subscription expires.
 
-Note that only NCE products support auto-renewal. Legacy subscriptions do not support this. For instructions on disabling auto-renewal, see [How to disable automatic renewal for an NCE subscription](microsoft-365/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md).
+Note that only NCE products support auto-renewal. Legacy subscriptions do not support this. For instructions on disabling auto-renewal, see [How to disable automatic renewal for an NCE subscription](/broken/pages/hkNeAk0joc4n1Ga5vM9F).
 
 ***
 
@@ -309,7 +330,7 @@ Note that Azure subscriptions purchased through SoftwareOne are included at no e
 
 ### Support for Microsoft 365 Government Community Cloud (GCC)
 
-We are excited to announce the launch of a new product called 'Microsoft 365 Business, Enterprise & Apps - Government' in the Marketplace Platform. This product includes a range of offerings designed to meet the specific needs of US government organizations. See [Microsoft GCC](../products-and-programs/microsoft-gcc/) to learn more.
+We are excited to announce the launch of a new product called 'Microsoft 365 Business, Enterprise & Apps - Government' in the Marketplace Platform. This product includes a range of offerings designed to meet the specific needs of US government organizations. See [Microsoft GCC](../products-and-programs/microsoft-gcc.md) to learn more.
 
 With this launch, you can seamlessly create new agreements in the platform and purchase nearly the full suite of Microsoft 365 GCC products through the CSP program. You can also submit different types of orders, such as change orders to increase or decrease the number of licenses, termination orders, and configuration orders.
 
@@ -337,7 +358,7 @@ Note that to buy reservations and savings plans from the Azure portal, you must 
 
 The Marketplace Platform now supports coterminosity for NCE subscriptions, allowing you to align the end date of a new subscription with that of an existing subscription. When enabled, new subscriptions will automatically synchronize their end dates with the existing subscriptions within the agreement.
 
-You can enable coterminosity when ordering subscriptions under a new agreement. For existing subscriptions, [Marketplace Platform Support](../../../help-and-support/contact-support.md) can assist you in updating the end date in the system. To learn more about aligning the subscription end dates, see [Subscription coterminosity](../products-and-programs/microsoft-nce/about-subscription-coterminosity/) and [Coterming subscriptions](../products-and-programs/microsoft-nce/about-subscription-coterminosity/coterming-subscriptions.md).&#x20;
+You can enable coterminosity when ordering subscriptions under a new agreement. For existing subscriptions, [Marketplace Platform Support](../../../help-and-support/contact-support.md) can assist you in updating the end date in the system. To learn more about aligning the subscription end dates, see [Subscription coterminosity](../products-and-programs/microsoft-nce/about-subscription-coterminosity/) and [Coterming subscriptions](/broken/pages/MBmSQKFS3AXOMaaUnojv).&#x20;
 
 ### Azure Lighthouse Onboarding
 
@@ -411,7 +432,7 @@ We are pleased to announce the release of three new products in the Marketplace 
 
 With this release, you can effortlessly create agreements and purchase the full suite of Microsoft Perpetual Software directly through the CSP program in the Marketplace Platform. You can also place change orders to add more perpetual software products to your existing agreements.
 
-This release further expands our product offerings, reinforcing our commitment to delivering comprehensive software solutions through the Marketplace. To learn more, see [Perpetual software](../products-and-programs/perpetual-software/) and [Buy perpetual software licenses](perpetual-software/buy-perpetual-software-licenses.md).
+This release further expands our product offerings, reinforcing our commitment to delivering comprehensive software solutions through the Marketplace. To learn more, see [Perpetual software](../products-and-programs/perpetual-software.md) and [Buy perpetual software licenses](perpetual-software/buy-perpetual-software-licenses.md).
 
 ***
 

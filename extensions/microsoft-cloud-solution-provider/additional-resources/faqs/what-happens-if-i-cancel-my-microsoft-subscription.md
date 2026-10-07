@@ -17,4 +17,4 @@ For step-by-step instructions, see the following links:
 
 * [Terminate Microsoft 365 subscription](../microsoft-365/terminate-microsoft-subscription.md)
 * [Terminate Microsoft 365 agreement](../microsoft-365/terminate-all-microsoft-subscriptions.md)
-* [Disable automatic renewal](../microsoft-365/how-to-disable-the-automatic-renewal-of-an-nce-subscription.md)
+* [Disable automatic renewal](/broken/pages/hkNeAk0joc4n1Ga5vM9F)

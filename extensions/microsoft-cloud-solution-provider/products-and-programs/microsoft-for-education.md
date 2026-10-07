@@ -1,11 +1,13 @@
 # Microsoft for Education
 
-Microsoft for Education provides your institution with special access to Microsoft’s education-focused services, tools, and pricing. This allows you to unlock benefits designed specifically for educational environments, including:&#x20;
+Microsoft for Education provides access to education-specific Microsoft products, services, and pricing for eligible educational institutions.
 
-* Discounted pricing on Microsoft 365 Education licenses.
-* Access to specialized educational tools and features, along with SKUs for Microsoft 365, Dynamics, and Intune.
-* Enhanced security and compliance tools designed specifically for educational institutions.
-* Student-focused features that improve learning and collaboration in educational settings.
+Benefits include:
+
+* Education pricing for eligible Microsoft licenses.
+* Access to education-specific Microsoft 365, Dynamics 365, and Intune offerings.
+* Security and compliance features designed for educational institutions.
+* Student and educator collaboration tools.
 
 To learn more about the benefits, features, and value that Microsoft offers to educational institutions, see [Microsoft Education](https://www.microsoft.com/education/why-microsoft-education).
 
@@ -13,70 +15,68 @@ To learn more about the benefits, features, and value that Microsoft offers to e
 Education pricing applies to license-based services and perpetual software only. Azure products and software subscriptions maintain standard pricing.
 {% endhint %}
 
-### Why is the qualification process necessary?
+### Academic eligibility
 
-If you want to order Microsoft 365 Education subscriptions, your CSP tenant must be eligible. The academic eligibility is verified by Microsoft.
+To purchase Microsoft Education subscriptions at academic pricing, your organization must be approved by Microsoft.
 
-Without this verification, you won't be able to order subscriptions at academic prices through the Marketplace Platform.&#x20;
+Without verification, you cannot purchase Microsoft Education subscriptions through the Marketplace Platform at education pricing.
 
-### What documents are needed to confirm eligibility?
+### Required documents
 
-Microsoft requires the following documents to verify your institution’s eligibility:
+Microsoft may require documentation such as:
 
 * **Accreditation certificate** – Official documentation from your regional or national accrediting body.
 * **Institutional authority letter** – An official letter from your educational governing body confirming your institution's academic status.
 * **Domain ownership verification** – Documentation proving control of your institution's official website domain.
 * **Organizational profile** – A detailed overview of your institution, including mission, student population, and educational programs offered.
 
-**Best practices for document submission**
+Document requirements may vary depending on your institution and Microsoft's verification requirements.
 
-When submitting your documents, keep these points in mind:
+#### Submission guidelines
 
-1. Ensure that all documents reflect current information and haven't expired.&#x20;
-2. Use official institutional letterhead for any custom documentation.
-3. Maintain consistent naming conventions across all documents, matching your legal entity name.
-4. Provide documents in standard formats, such as PDF or high-quality scanned images.
-5. Provide English translations for documents in other languages.
+* Ensure documents are current and valid.
+* Use official institutional letterhead for any custom documentation.
+* Use the institution's legal name consistently across all documents.
+* Submit documents in standard formats, such as PDF.
+* Provide English translations when necessary.
 
-### What is the qualification process?
+### Qualification options
 
 The qualification process depends on whether your institution already has a Microsoft tenant.&#x20;
 
-#### For institutions without a tenant
+#### For institutions without an existing Microsoft tenant
 
-If your institution doesn't have a Microsoft tenant, you can either enroll directly with Microsoft or choose the SoftwareOne-assisted qualification process.
+You can either enroll directly with Microsoft or choose the SoftwareOne-assisted qualification process.
 
-* **Direct enrollment with Microsoft** (recommended) - This approach allows you to set up a new tenant and manage the eligibility process directly with Microsoft. For instructions on setting up a new tenant, [see this page](https://learn.microsoft.com/en-us/microsoft-365/education/deploy/create-your-office-365-tenant) or contact Microsoft support for business tenants using the phone numbers listed at [Customer service phone numbers](https://support.microsoft.com/en-us/topic/customer-service-phone-numbers-c0389ade-5640-e588-8b0e-28de8afeb3f2).
-* **SoftwareOne-assisted qualification** - Choose this approach if you prefer guided support through SoftwareOne.
+* Complete enrollment directly with Microsoft (recommended) by setting up a new tenant and managing the eligibility process directly with Microsoft. For details, [see this page](https://learn.microsoft.com/en-us/microsoft-365/education/deploy/create-your-office-365-tenant) or contact [Microsoft Support](https://support.microsoft.com/en-us/support/) for business tenants.
+* Use SoftwareOne-assisted qualification
 
-#### For institutions with an existing tenant
+#### For institutions with an existing Microsoft tenant
 
 If you already have a Microsoft tenant, the qualification process involves upgrading your existing environment to education status rather than creating a new one.&#x20;
 
-In such cases, the following options are available:
+You can:
 
-* **Direct support request with Microsoft** (recommended) - This approach allows you to raise a support request directly in the Microsoft 365 Admin Center for your existing tenant. To do this:
+* Submit a support request directly with Microsoft via Microsoft 365 Admin Center. To do this:
   1. Sign in to your Microsoft 365 Admin Center with Global Administrator credentials.
   2. Select **Support** > **New service request**.
   3. Select **Billing and subscriptions** > **Education qualification**.
   4. Upload the [required documents](microsoft-for-education.md#what-documents-are-needed-to-confirm-eligibility).
   5. Describe your educational institution status and qualification needs.
-* **SoftwareOne-assisted qualification** – Choose this approach if you prefer SoftwareOne to review your current tenant, advise on eligibility gaps, and submit the qualification request.&#x20;
+* Use SoftwareOne-assisted qualification
 
 Microsoft typically processes existing tenant qualification requests within 10 business days, similar to new tenant timelines.&#x20;
 
-### How do I submit an eligibility request to SoftwareOne?
+### SoftwareOne-assisted qualification
 
-For SoftwareOne-assisted qualifications, gather your [documents](microsoft-for-education.md#what-documents-are-needed-to-confirm-eligibility) and share them with Marketplace Platform Support.&#x20;
+For SoftwareOne-assisted qualifications, gather your documents and share them with Marketplace Platform Support. For contact options, see [Contact Support](../../../help-and-support/contact-support.md).
 
-You can contact us by email or create a support case through your Marketplace account. For details, see [Contacting Marketplace Platform Support](../../../help-and-support/contact-support.md#contacting-marketplace-platform-support).
+### Qualification status
 
-### What happens next?
+Microsoft typically processes qualification requests within approximately 10 business days.&#x20;
 
-Generally, Microsoft evaluates qualification requests within 10 business days. You can track the status in the Microsoft 365 admin center. For instructions, see the [Microsoft documentation](https://learn.microsoft.com/en-us/microsoft-365/commerce/subscriptions/verify-academic-eligibility?view=o365-worldwide\&source=recommendations#check-the-status-of-your-schools-academic-eligibility).&#x20;
+You can track the status in the Microsoft 365 admin center. For details, see the [Microsoft documentation](https://learn.microsoft.com/en-us/microsoft-365/commerce/subscriptions/verify-academic-eligibility?view=o365-worldwide\&source=recommendations#check-the-status-of-your-schools-academic-eligibility).&#x20;
 
-When your request is processing, it can have one of these statuses:
+Your request may have one of the following statuses:
 
-* **In review** – Indicates that Microsoft is evaluating your documents. If your application takes longer than the standard Microsoft timeline, contact [Microsoft Support for Business](https://support.serviceshub.microsoft.com/supportforbusiness/onboarding?origin=/supportforbusiness/manage).
-* **Approved** – Your education status is approved, and you have full access to education pricing and products.
-* **Denied** – Your application doesn't meet Microsoft's current educational licensing requirements. For the next steps, see [My Application for Microsoft Education is Denied](../additional-resources/faqs/my-application-for-microsoft-education-is-denied.md). Alternatively, [contact Marketplace Platform Support](../../../help-and-support/contact-support.md).
+<table><thead><tr><th width="131">Status</th><th>Description</th></tr></thead><tbody><tr><td><strong>In review</strong></td><td>Microsoft is evaluating your documents. If your application takes longer than the standard Microsoft timeline, contact <a href="https://support.serviceshub.microsoft.com/supportforbusiness/onboarding?origin=/supportforbusiness/manage">Microsoft Support for Business</a>.</td></tr><tr><td><strong>Approved</strong></td><td>Your education status is approved, and you have full access to education pricing and products.</td></tr><tr><td><strong>Denied</strong></td><td>Your application doesn't meet Microsoft's current educational licensing requirements. For next steps, see <a href="../additional-resources/faqs/my-application-for-microsoft-education-is-denied.md">My Application for Microsoft Education is Denied</a>. Alternatively, <a href="../../../help-and-support/contact-support.md">contact Marketplace Platform Support</a>.</td></tr></tbody></table>

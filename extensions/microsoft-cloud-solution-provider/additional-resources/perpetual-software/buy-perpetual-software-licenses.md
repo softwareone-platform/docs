@@ -6,7 +6,7 @@ description: >-
 
 # Buy perpetual software licenses
 
-This tutorial shows how you can order a Microsoft [Perpetual Software](../../products-and-programs/perpetual-software/) license by setting up a new tenant.&#x20;
+This tutorial shows how you can order a Microsoft [Perpetual Software](../../products-and-programs/perpetual-software.md) license by setting up a new tenant.&#x20;
 
 Perpetual licenses involve a one-time payment. You pay upfront for these licenses and then use the software indefinitely. In the Marketplace Platform, perpetual licenses can be ordered by creating a purchase order.&#x20;
 

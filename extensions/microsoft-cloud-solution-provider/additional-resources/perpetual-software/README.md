@@ -1,6 +1,6 @@
 # Perpetual Software tutorials
 
-The Marketplace Platform lets you purchase [perpetual licenses](../../products-and-programs/perpetual-software/) to Microsoft software, such as Skype for Business and SQL Server, within the Cloud Solution Provider (CSP) program.
+The Marketplace Platform lets you purchase [perpetual licenses](../../products-and-programs/perpetual-software.md) to Microsoft software, such as Skype for Business and SQL Server, within the Cloud Solution Provider (CSP) program.
 
 Browse the following topics to learn about ordering new perpetual software subscriptions by creating an agreement, or adding more one-time items to an existing agreement.&#x20;
 

@@ -22,7 +22,7 @@ To configure auto-renewal for multiple subscriptions
 3. Select the **Subscriptions** tab. Then, review the current **Auto-renew** status for the subscriptions.
 4. Select **Configure**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Select <strong>Configure</strong> to update auto-renewal settings for multiple subscriptions.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Select <strong>Configure</strong> to update auto-renewal settings for multiple subscriptions.</p></figcaption></figure></div>
 
 5. In the guided **Configure** flow, do the following:
    1. Select the required renewal option. Note that the available options depend on the vendor.
