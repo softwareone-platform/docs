@@ -2,6 +2,18 @@
 
 This page includes the latest enhancements, fixes, and new features in the Microsoft CSP extension.
 
+## Release Date: 7 October 2026 <a href="#release-date-7-october-2026" id="release-date-7-october-2026"></a>
+
+### Enhanced Subscription Renewal Experience
+
+The guided subscription renewal workflow in the Marketplace now displays all renewal and cancellation options together in a single step.
+
+Previously, you had to select whether auto-renewal was enabled or disabled before you could select a renewal or cancellation option.
+
+Now, all available options, including **Renew to regular term**, **Renew to Extended Service Terms**, and **Cancel at expiration**, are listed in a single step. This change makes it easier to review and update your renewal settings.
+
+For more information, see [What subscription renewal options are available?](faqs/what-subscription-renewal-options-are-available.md)
+
 ## Release Date: 1 October 2026 <a href="#release-date-1-october-2026" id="release-date-1-october-2026"></a>
 
 ### CSP Growth Discounts in Marketplace
@@ -12,7 +24,7 @@ When a subscription qualifies for a growth discount, the information is displaye
 
 For details about eligibility, pricing rules, and how growth discounts are displayed in Marketplace, see [How do CSP price benefits work?](faqs/how-do-csp-price-benefits-work.md)
 
-## Release Date: 21 September 2026 <a href="#release-date-21-september-2026" id="release-date-21-september-2026"></a>
+## Release Date: 21 September 2026 <a href="#release-date-7-september-2026" id="release-date-7-september-2026"></a>
 
 ### CSP Triennial Billing Now Available
 
