@@ -1,38 +1,44 @@
 # Azure Lighthouse
 
-Azure Lighthouse is a Microsoft solution that enables seamless multi-tenant management. It allows administrators to manage multiple environments in one place without switching between accounts.&#x20;
+Azure Lighthouse is a Microsoft solution that enables seamless multi-tenant management. It lets service providers, such as SoftwareOne, manage multiple environments in one place without switching accounts.&#x20;
 
-At SoftwareOne, we use Azure Lighthouse to deliver consistent and efficient management across all Azure environments. By leveraging automation and standardized operational processes, our teams can manage an unlimited number of client environments, regardless of size or complexity.
+SoftwareOne uses Azure Lighthouse to provide management and support services across customer Azure environments while maintaining customer control, visibility, and security.
 
-### Why is Azure Lighthouse crucial for your business? <a href="#why-azure-lighthouse-is-crucial-for-your-business" id="why-azure-lighthouse-is-crucial-for-your-business"></a>
+### Benefits <a href="#why-azure-lighthouse-is-crucial-for-your-business" id="why-azure-lighthouse-is-crucial-for-your-business"></a>
 
-Azure Lighthouse enables you to maintain full control and complete visibility over your Azure environment, while allowing SoftwareOne to provide expert management and support.
+Azure Lighthouse helps you maintain control of your Azure environment while enabling SoftwareOne to deliver management and support services efficiently.
 
-* **Full access control** – You define which users can access your environment, what resources they can manage, and what actions they are authorized to perform.
-* **Complete transparency** – All actions performed by SoftwareOne are logged in the Azure Activity Log. This provides full visibility into what changes are made, when, and by whom.
-* **Enhanced security and governance** – SoftwareOne engineers have read-only access by default, unless elevated permissions are granted through your explicit approval.
+* **Access control** – You control which users can access your environment, which resources they can manage, and which actions they can perform.
+* **Transparency** – Actions performed by SoftwareOne are logged in the Azure Activity Log, providing visibility into changes made within your environment.
+* **Security and governance** – SoftwareOne has read-only access by default, unless elevated permissions are granted through your explicit approval.
 
-### How does Azure Lighthouse elevate SoftwareOne’s service? <a href="#how-azure-lighthouse-elevates-softwareones-service" id="how-azure-lighthouse-elevates-softwareones-service"></a>
+### How SoftwareOne uses Azure Lighthouse
 
-Azure Lighthouse enables SoftwareOne to deliver a streamlined and secure management experience, optimized for performance at every scale.&#x20;
+Azure Lighthouse enables SoftwareOne to manage customer Azure environments through a centralized management model.&#x20;
 
-* We provide top-tier managed services without the complexity of managing each tenant separately. Our focus is on delivering the best service faster.
-* We manage multiple customers effortlessly, reducing operational costs and improving service consistency.
-* We follow strict role-based access protocols, ensuring that our team only gets elevated access with your explicit approval, minimizing any potential risks.
-* We prioritize transparency; every action is logged and fully visible to both you and SoftwareOne, ensuring complete visibility and peace of mind.
+This approach helps SoftwareOne:
 
-### What happens if you don’t activate Azure Lighthouse? <a href="#what-happens-if-you-dont-activate-azure-lighthouse" id="what-happens-if-you-dont-activate-azure-lighthouse"></a>
+* Manage multiple Azure environments efficiently.
+* Apply standardized operational processes.
+* Follow role-based access protocols.
+* Deliver support while maintaining customer-defined access controls.
 
-Not activating Azure Lighthouse might result in significant drawbacks for you and SoftwareOne.
+### Impact of not activating Azure Lighthouse
 
-**For you**
+Without Azure Lighthouse, SoftwareOne may have limited ability to manage and support your Azure environment efficiently.
 
-* **Limited visibility and control** – You'll have less granular control over which service providers can access your environment and the actions they can perform.
-* **Higher costs** – Removing Azure Lighthouse access leads to increased Azure charges due to the lack of optimized management capabilities.
+**For customers**
+
+* Reduced visibility into delegated access and management activities.
+* Increased administrative effort for managing service provider access.
+* Less streamlined support and operational management.
 
 **For SoftwareOne**
 
-* **Inefficient management** – Without Azure Lighthouse, SoftwareOne faces increased complexity when managing multiple customers, reducing the efficiency of service delivery.
-* **Security risks** – Without built-in governance and role-based access controls, there's a higher risk of unauthorized actions within customer environments.
+* More complex management of customer Azure environments.
+* Reduced operational efficiency.
+* Additional administrative overhead when providing support and managed services.
 
-If you have any technical questions or concerns about the Azure Lighthouse activation process, contact our **Services Support** team. For details, see [Contact support](../../../help-and-support/contact-support.md).
+### Support
+
+If you have any questions about the Azure Lighthouse activation process, contact the **SoftwareOne Services Support** team. For details, see [Contact support](../../../help-and-support/contact-support.md).

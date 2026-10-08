@@ -33,7 +33,7 @@ Perpetual software orders:
 * Do not require recurring subscription payments.
 * Appear as one-time purchases on the agreement details page.
 
-### Important considerations
+### Considerations
 
 The following rules apply to perpetual software orders:
 

@@ -270,7 +270,7 @@ To support this compliance requirement, we have introduced a new feature that au
 
 ### New Azure Subscription Name Field
 
-In this release, we have added a new field called **Azure subscription name**. You can use this field to specify a name for your Azure subscription when ordering it through the Marketplace. For instructions, see [Order Azure Subscription for existing tenant](microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md).&#x20;
+In this release, we have added a new field called **Azure subscription name**. You can use this field to specify a name for your Azure subscription when ordering it through the Marketplace. For instructions, see [Purchase Azure subscription for an existing tenant](microsoft-azure/order-microsoft-azure-subscription-existing-tenant.md).&#x20;
 
 <figure><img src="../../../.gitbook/assets/subscription-name.png" alt=""><figcaption><p>The new Azure subscription name field in the Purchase Wizard</p></figcaption></figure>
 
@@ -282,9 +282,9 @@ Additionally, if you change the subscription name directly in the Azure Portal, 
 
 ### Termination Orders for NCE Subscriptions
 
-Termination orders for NCE subscriptions will only be successful if they fall within the cancellation window. Otherwise, the order fails.&#x20;
+Termination orders for NCE subscriptions will only be successful if they fall within the cancellation window. Otherwise, the order will fail.&#x20;
 
-If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order. For details, see [How to disable automatic renewal for an NCE subscription](/broken/pages/hkNeAk0joc4n1Ga5vM9F).
+If you want to disable auto-renewal and allow the subscription to expire at the end of the commitment period, you can place a configuration order.&#x20;
 
 ***
 
@@ -308,7 +308,7 @@ Starting 20 May 2025, you can easily manage the automatic renewal settings for y
 
 Auto-renewal can be disabled to ensure that a subscription remains active only until the end of the current commitment period, after which it will expire without incurring further charges. If you disabled auto-renewal previously for a subscription, you can re-enable it at any time before the subscription expires.
 
-Note that only NCE products support auto-renewal. Legacy subscriptions do not support this. For instructions on disabling auto-renewal, see [How to disable automatic renewal for an NCE subscription](/broken/pages/hkNeAk0joc4n1Ga5vM9F).
+Note that only NCE products support auto-renewal. Legacy subscriptions do not support this. subscription.
 
 ***
 
@@ -340,7 +340,7 @@ Note that this release doesn't include the Microsoft Dynamics catalog for govern
 
 ## Release Date: 31 March 2025 <a href="#release-date-20-february-2025" id="release-date-20-february-2025"></a>
 
-### Support for Azure Reservations and Savings Plan <a href="#azure-reservations-and-savings-plans" id="azure-reservations-and-savings-plans"></a>
+### Support for Azure Reservations and Savings Plans <a href="#azure-reservations-and-savings-plans" id="azure-reservations-and-savings-plans"></a>
 
 In this release, we are introducing a new feature that allows you to purchase Azure reservations and savings plans directly through the Azure Portal. Reservations and savings plans help you save money by reducing your overall cloud spending.
 
@@ -356,7 +356,7 @@ Note that to buy reservations and savings plans from the Azure portal, you must 
 
 The Marketplace Platform now supports coterminosity for NCE subscriptions, allowing you to align the end date of a new subscription with that of an existing subscription. When enabled, new subscriptions will automatically synchronize their end dates with the existing subscriptions within the agreement.
 
-You can enable coterminosity when ordering subscriptions under a new agreement. For existing subscriptions, [Marketplace Platform Support](../../../help-and-support/contact-support.md) can assist you in updating the end date in the system. To learn more about aligning the subscription end dates, see [Subscription coterminosity](../products-and-programs/microsoft-nce/about-subscription-coterminosity/) and [Coterming subscriptions](/broken/pages/MBmSQKFS3AXOMaaUnojv).&#x20;
+You can enable coterminosity when ordering subscriptions under a new agreement. For existing subscriptions, [Marketplace Platform Support](../../../help-and-support/contact-support.md) can assist you in updating the end date in the system. To learn more, see [Align subscription end dates](../products-and-programs/microsoft-nce/about-subscription-coterminosity/).&#x20;
 
 ### Azure Lighthouse Onboarding
 
@@ -390,7 +390,7 @@ We are excited to announce the launch of Microsoft Software Subscriptions in the
 
 With this update, you can create agreements and purchase nearly the entire suite of Microsoft Server Subscriptions directly through the Microsoft CSP program using our platform.&#x20;
 
-You can also place change orders to add more software subscriptions to your existing agreements. For more details, see [Manage software subscriptions](../products-and-programs/software-subscriptions/manage-software-subscriptions.md).
+You can also place change orders to add more software subscriptions to your existing agreements.&#x20;
 
 {% hint style="info" %}
 Software products with one-time payments are not yet supported.
@@ -454,7 +454,7 @@ Global regulatory oversight is increasing, and companies may be required to demo
 
 To streamline this, Marketplace clients will now have the option to specify whether a company is state-owned in new agreements. A company qualifies as state-owned if it's either directly controlled by the government or performs functions that are considered to be inherently governmental.
 
-To learn about the eligibility criteria for state-owned entities, see[ Microsoft's State Owned Entity Criteria](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria?oneroute=true).
+To learn about the eligibility criteria for state-owned entities, see[ Microsoft's State-Owned Entity Criteria](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria?oneroute=true).
 
 ***
 
@@ -472,7 +472,7 @@ To enhance the efficiency and accuracy of purchase and change order fulfillment,
 
 * **Cart validation for existing users** - Ensuring that the items in the cart meet the requirements for processing, providing a smoother purchasing and fulfillment experience.
 * **Billing profile validation for existing accounts** - Verifying that the Microsoft account billing profile is complete, reducing the risk of fulfillment delays.
-* **Microsoft client agreement (MCA) validation** - Ensuring compliance with the Microsoft client Agreement, allowing for a more efficient order-handling process.
+* **Microsoft client agreement (MCA) validation** - Ensuring compliance with the Microsoft Client Agreement, allowing for a more efficient order-handling process.
 * **Removal of validation on ordering parameters for existing agreements** - This change eliminates redundant checks on established agreements, speeding up order processing for returning clients.
 
 These updates aim to improve the fulfillment process by minimizing manual interventions and enhancing the overall client journey for CSP orders in the Marketplace.
