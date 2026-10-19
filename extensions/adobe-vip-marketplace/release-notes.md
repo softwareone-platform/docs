@@ -6,6 +6,88 @@ description: >-
 
 # Release notes
 
+## Release Date: 19 October 2026
+
+### Return any number of seats (partial returns)
+
+You can now return any number of the Adobe seats you bought or renewed in the last 14 days. Returns are no longer limited to whole order lines.
+
+* Reduce seats by exactly the amount you need, and get a credit for exactly that
+* Your credit uses the price you originally paid
+* Your renewal quantity is updated to match, so returned seats aren't renewed
+
+If you reduce by more seats than you bought or renewed in the last 14 days, or the product doesn't support partial returns, the reduction applies at your anniversary date instead.
+
+This gives you more flexibility to adjust your Adobe seats as your needs change.
+
+### The best discount for your orders, applied automatically
+
+We've improved how flexible discount codes are applied when you buy Adobe products or add seats.
+
+* The SoftwareOne Marketplace finds the discount codes you're eligible for and applies the one that gives you the lowest price
+* Each code is confirmed with Adobe before your order is placed. If a code can't be applied, the next best one is used.
+* Only codes Adobe confirms are applied to your order
+
+There's nothing you need to do. This helps you get the best available price on every order.
+
+***
+
+## Release Date: 30 August 2026
+
+### See your Adobe discount codes in one place
+
+Your Adobe agreement now has a **Discounts** tab. It lists the flexible discount codes available to you, including codes set up specifically for you.
+
+* See each code's discount, validity dates and the orders it applies to
+* Check whether a code has already been redeemed
+* Reusable codes you've already used stay listed for as long as they still apply
+
+Your codes are offered when you renew or upgrade, and applied automatically when you buy or add seats.
+
+This makes it easier to see the discounts you can use, and when.
+
+### Plan and place your Adobe renewals
+
+You can now plan and place your Adobe renewal directly in the SoftwareOne Marketplace. Open your Adobe agreement and start the renewal wizard. Choose one of two paths:
+
+* **At anniversary:** set a renewal plan that Adobe applies on your anniversary date. Nothing is invoiced until then, and you can edit the plan until it takes effect.
+* **Renew now:** renew straight away. You're invoiced immediately, your anniversary date moves forward a year, and you lock in current prices.
+
+In either path, you can:
+
+* Choose which subscriptions renew, and adjust quantities
+* Add new products, with Adobe's suggestions marked as Recommended. On Renew now, you add new products and extra seats in a follow-up order, once your first renewal order has completed.
+* Apply flexible discount codes
+* Review your plan and pricing before you place it
+
+Renewals are available from 30 to 2 days before your anniversary date. Outside that window, the wizard explains when you can renew.
+
+Once a renewal is in place, other changes to your Adobe subscriptions are made through the renewal wizard. This keeps your renewal plan intact.
+
+This makes it easier to set up your renewal the way you want it.
+
+***
+
+## Release Date: 11 August 2026
+
+### Upgrade your Adobe subscriptions mid-term
+
+You can now upgrade an active Adobe subscription to a higher product partway through your term, directly in the SoftwareOne Marketplace. Open the subscription and select **Upgrade** to start.
+
+* Choose from the products Adobe allows your subscription to upgrade to, with Adobe's suggestions marked as Recommended
+* Upgrade all your seats or, where Adobe allows it, only some of them
+* Keep your existing anniversary date, with no new term to commit to
+* Apply a flexible discount code. The code that gives you the lowest price is pre-selected, you can choose another or enter your own, and you see the discounted price straight away.
+* Review the effect on both subscriptions, and your estimated renewal cost, before you submit
+
+Upgrades aren't available while you have a renewal in place, such as seats renewed early or a planned anniversary renewal. The wizard explains this if it applies.
+
+Prices shown in the wizard are estimates. The final amount appears on your next bill.
+
+This makes it easier to move to the Adobe products you need, without waiting on a support request.
+
+***
+
 ## Release Date: 7 July 2026
 
 ### Local price lists for Global Customer agreements
