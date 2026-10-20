@@ -242,6 +242,8 @@
     * [Increase Adobe license quantity](extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
     * [Reduce Adobe license quantity](extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
     * [Disable Adobe auto-renewal](extensions/adobe-vip-marketplace/tutorials-and-videos/disable-adobe-auto-renewal.md)
+    * [Renew Adobe subscriptions at your anniversary date](extensions/adobe-vip-marketplace/tutorials-and-videos/renew-adobe-subscriptions-at-your-anniversary-date.md)
+    * [Renew Adobe subscriptions now](extensions/adobe-vip-marketplace/tutorials-and-videos/renew-adobe-subscriptions-now.md)
     * [Terminate and return Adobe licenses](extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-adobe-subscription.md)
     * [Cancel Adobe agreement](extensions/adobe-vip-marketplace/tutorials-and-videos/terminate-all-adobe-subscriptions.md)
     * [Return Adobe renewal order](extensions/adobe-vip-marketplace/tutorials-and-videos/return-adobe-renewal-order.md)

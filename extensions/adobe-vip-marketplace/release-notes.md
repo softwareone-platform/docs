@@ -51,7 +51,7 @@ This makes it easier to see the discounts you can use, and when.
 You can now plan and place your Adobe renewal directly in the SoftwareOne Marketplace. Open your Adobe agreement and select **Renew** to start the renewal wizard. Choose one of two paths:
 
 * **At anniversary:** set a renewal plan that Adobe applies on your anniversary date. Nothing is invoiced until then, and you can change the plan until 2 days before your anniversary date.
-* **Renew now:** renew straight away. You're invoiced immediately, your anniversary date moves forward a year, and you lock in current prices.
+* **Renew now:** renew straight away. Your anniversary date moves forward a year, you lock in current prices, and the renewal is invoiced in the next weekly billing cycle.
 
 The path you choose with your first renewal order applies to the whole renewal. After you renew now, any further renewal orders also renew now.
 
