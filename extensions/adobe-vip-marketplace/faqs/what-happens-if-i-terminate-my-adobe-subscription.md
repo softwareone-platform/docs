@@ -4,19 +4,21 @@ description: Learn about the impact of terminating your Adobe subscription.
 
 # What happens if I terminate my Adobe subscription?
 
-Adobe subscriptions can be terminated both within and outside the 14-day return period.&#x20;
+You can terminate an Adobe subscription only while all of its licenses are within the 14-day return window.
 
-**Within the 14-day return period**
+**If all licenses are within the return window**
 
-If you terminate a subscription within the 14-day return period (from the date your order is placed):
+* In the SoftwareOne Marketplace, the subscription is canceled: its status changes to **Terminated** and auto-renewal is turned off.
+* In the Adobe Admin Console, the subscription is removed and its licenses become unavailable to users.
+* You receive a credit for the returned licenses, at the price in effect when the return is processed.
+* Invoices are issued every Monday and cover the previous week (Monday to Sunday).
+* If you order and terminate within the same billing week, you aren't charged.
+* If you terminate in a later billing week, you're charged on the invoice for the week of your order and credited on the invoice for the week of your termination. For example, if you order on a Friday and terminate the following Tuesday, you're charged on the next Monday's invoice and credited on the Monday invoice after that.
 
-* In the Marketplace Platform, the items within the subscription will show the quantity as zero, and the subscription will move to a **Terminated** status with auto-renewal disabled. In the Adobe Admin Console, you'll see that your subscriptions have been removed.
-* If you order a subscription and terminate it in the same month, there's no charge.
-* If you order a subscription and terminate it the next month within the 14-day return period, you'll be charged for the order at the end of the first month and receive a credit of the same amount at the end of the following month. For example, if you order a subscription on June 28 and then terminate it on July 4, you'll be charged for the order in July and then credited the same amount in August.
+**If any license is outside the return window**
 
-**Outside the 14-day return period**
+The termination order is refused, with the message _"Cannot return the entire quantity of all subscriptions in this order. Consider disabling auto-renewal for these subscriptions instead using a Configuration Order."_
 
-If you terminate a subscription outside the 14-day return period:
+To stop the subscription, turn off auto-renewal with a configuration order. Your licenses stay available until your anniversary date and then expire, with no refund. For more details, see [Disable Adobe auto-renewal](../tutorials-and-videos/disable-adobe-auto-renewal.md).
 
-* In the Marketplace Platform, the items in the subscription will show zero quantity, and the subscription will move to a **Terminated** status with auto-renewal disabled. In the Adobe Admin Console, you'll see an active subscription that terminates on the renewal date.
-* There's no refund for the terminated subscriptions.
+To return just the licenses that are still within the window, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](../tutorials-and-videos/downsize-adobe-subscription.md).

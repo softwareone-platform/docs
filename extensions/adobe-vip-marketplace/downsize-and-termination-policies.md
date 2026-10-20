@@ -4,94 +4,112 @@ description: Learn about our returns, downsizing, and termination policies.
 
 # Downsize, termination, and return policies
 
-The SoftwareOne Marketplace allows you to manage your Adobe VIP subscriptions, including adjusting license quantities, disabling auto-renewal, or terminating subscriptions.&#x20;
+You can manage your Adobe VIP Marketplace subscriptions in the SoftwareOne Marketplace: reduce license quantities, turn auto-renewal on or off, and terminate subscriptions. This article explains how reductions, returns, terminations, and auto-renewal work, and the rules that apply when you make changes.
 
-This article explains how downsizing, termination, auto-renewal, and returns work, and the key rules you must follow when making changes.
+### Key terms
 
-## Key terms
+* **Current quantity** – The number of licenses you hold now and can assign to users.
+* **Renewal quantity** – The number of licenses that will renew on your anniversary date.
+* **Return window** – 14 days from the date of a new or renewal order. Licenses bought or renewed in the last 14 days are _returnable_.
+* **Reduce (downsize)** – Lowering a subscription's quantity with a change order, while keeping at least one license.
+* **Termination** – Canceling a subscription with a termination order, which returns all of its licenses. This is different from reducing: a reduction always leaves at least one license. A termination is only possible when every license on the subscription is still returnable.
+* **Auto-renewal** – Whether a subscription renews on your anniversary date. If auto-renewal is off, the licenses stay active until the anniversary date and then expire.
 
-The following are some of the key terms related to Adobe VIPM subscriptions in the Marketplace:
+You can see the **Current quantity** and **Renewal quantity** of a subscription on its **General** tab.
 
-* **Downsize** – Downsizing a subscription involves reducing the number of licenses while keeping at least one license active. A downsize reduces active licenses immediately if returnable orders are available and reduces the renewal quantity for the next term.
-* **Auto-renewal** – Auto-renewal controls whether a subscription automatically renews at the end of its term.&#x20;
-  * If auto-renewal is enabled, the subscription renews automatically.
-  * If auto-renewal is disabled, the licenses remain active until the next anniversary date and then expire. After expiry, licenses are no longer available to users. Any users with licenses assigned after the anniversary date lose access.
-* **Termination** – Terminating a subscription means canceling it entirely and returning its entire license quantity. Termination is only available if the subscription's full license quantity is eligible for return within the 14-day return window.
-* **Returnable order** – A returnable order is any new or renewal order placed within the 14-day return window. You can return such orders without a charge during the 14-day return window after the order is completed.
+### Returns
 
-## Return policy
+You can return any number of licenses that you bought or renewed in the last 14 days, as long as they aren't in use. You don't have to return a whole order.
 
-Returns for Adobe VIP Marketplace subscriptions are only allowed within 14 days of purchase or renewal. This means that a subscription that has just been ordered or renewed can still be returned in full if it's within the 14-day return window.
+* To return **part** of a subscription, reduce its quantity with a change order. For more details, see [Reduce Adobe license quantity](tutorials-and-videos/downsize-adobe-subscription.md).
+* To return **all** of a subscription, terminate it. For more details, see [Terminate and return Adobe licenses](tutorials-and-videos/terminate-adobe-subscription.md) and [Cancel Adobe agreement](tutorials-and-videos/terminate-all-adobe-subscriptions.md).
 
-* Full subscription returns are done by terminating the subscription or agreement.
-* Partial returns are done by downsizing.
+Returned licenses become unavailable to users immediately. You receive a credit for them at the price in effect when the return is processed. This price may differ from the price you originally paid.
 
-After this period, returns are not allowed. Only auto-renewal settings can be changed by placing a configuration order in the SoftwareOne Marketplace.&#x20;
+#### Which licenses can be returned
 
-### Full return (termination)
+Licenses are returnable when they come from a new or renewal order that:
 
-You can return a full subscription within the 14-day return window by submitting a termination order for the full subscription quantity.
+* was placed in the last 14 days,
+* is complete, and
+* was placed on or after the subscription's most recent renewal.
 
-When the termination order is processed, the subscription's quantity is reduced to zero (`0`) and its status changes to **Terminated**. Auto-renewal is also disabled. In the Adobe Admin Console, the subscription is removed, and any affected licenses immediately become unavailable to users.
+When you return licenses, they are taken from your oldest returnable order first.
 
-For more details, see [Terminate and return licenses](tutorials-and-videos/terminate-adobe-subscription.md) and [Cancel entire agreement](tutorials-and-videos/terminate-all-adobe-subscriptions.md).
+#### What cannot be returned
 
-### Partial return (downsize)
+* Licenses bought more than 14 days ago.
+* Licenses bought before your most recent renewal, even if that was less than 14 days ago.
+* Mid-term upgrades.
+* Consumables (for example, Adobe Sign transactions), Stock Credit Packs, Acrobat license packs, and minimum-order-quantity (MOQ) offers.
+* Orders placed in Adobe VIP before you migrated to VIP Marketplace.
 
-You can return eligible subscription quantities within the 14-day return window by submitting a change order.
+### Reduce a subscription
 
-Partial returns are only allowed if the total number of licenses matches the full quantity of the order line item. For example, if an order contains 5 Photoshop for Teams licenses, you must return all 5 licenses from that line item. When the change order is processed, the affected licenses immediately become unavailable to users.&#x20;
+When you reduce a subscription's quantity, each product on your change order is handled in one of two ways. The following table describes the two outcomes:
 
-For more details, see [Downsize subscription](tutorials-and-videos/downsize-adobe-subscription.md).
+| Outcome                | When it happens                                                                                                          | Current quantity                      | Renewal quantity | Credit |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- | ---------------- | ------ |
+| **Returned**           | You bought or renewed at least as many licenses as you're removing in the last 14 days, and the product can be returned. | Reduced immediately                   | Reduced to match | Yes    |
+| **Reduced at renewal** | You're removing more licenses than you bought or renewed in the last 14 days, or the product cannot be returned.         | Unchanged until your anniversary date | Reduced          | No     |
 
-### Return after renewal
+A product is never split between the two: either the whole reduction is returned, or the whole reduction applies at renewal. If your order has several products, some can be returned while others are reduced at renewal.
 
-If a subscription has been renewed, you can return it within the 14-day return window.&#x20;
+Your order completes in both cases. To check which one happened, open the subscription's **General** tab:
 
-You can return the full renewed subscription by submitting a termination order. To return a partial quantity, submit a change order to downsize the subscription in the SoftwareOne Marketplace.
+* **Returned** – The **Current quantity** has gone down.
+* **Reduced at renewal** – The **Current quantity** is unchanged, and only the **Renewal quantity** has gone down. Your licenses stay available to users until your anniversary date.
 
-When the order is processed, all affected licenses are removed immediately. For more details, see [Return renewal order](tutorials-and-videos/return-adobe-renewal-order.md).
+#### Example
 
-## Downsize policy
+You hold 17 Photoshop for Teams licenses:
 
-You can downsize a subscription by placing a change order in the SoftwareOne Marketplace.
+1. 10 were bought 30 days ago. They are outside the return window.
+2. 4 were bought 10 days ago. They are returnable.
+3. 3 were bought 3 days ago. They are returnable.
 
-A downsize adjusts your current licenses (if a return is processed) and updates the renewal quantity for the next term. To view current and renewal quantities, check the **General** tab of the subscription.
+So 7 licenses are returnable. The following table describes what happens when you reduce by different quantities:
 
-### Downsize with returnable orders
+| You reduce by | Outcome                                         | Current quantity | Renewal quantity | Credit for |
+| ------------- | ----------------------------------------------- | ---------------- | ---------------- | ---------- |
+| 4             | Returned (the 4 from 10 days ago)               | 13               | 13               | 4 licenses |
+| 6             | Returned (the 4, then 2 of the 3)               | 11               | 11               | 6 licenses |
+| 7             | Returned (all 7)                                | 10               | 10               | 7 licenses |
+| 10            | Reduced at renewal (more than the 7 returnable) | 17               | 7                | None       |
 
-If your subscription includes returnable orders, you can only downsize by quantities that match the sum of orders within the return window.&#x20;
+#### 3-year commitment
 
-When you perform a downsize in this scenario, Adobe processes a return for the affected licenses, and they immediately become unavailable to your users.
+If you have a 3-year commitment, you cannot reduce your licenses below your committed minimum. A reduction that would take you below it is refused.
 
-Additionally, the subscription's renewal quantity is reduced to match the new license quantity after the return is processed.
+### Termination
 
-If your requested reduction quantity doesn't match the quantity of one or more returnable orders, the system prevents the reduction from being processed and suggests a valid returnable quantity.
+A termination cancels a subscription and returns every license on it. It's only possible when **all** of the subscription's licenses are still returnable, for example, when all of them were bought in the last 14 days.
 
-### Downsize without returnable orders
+If any license on the subscription is outside the return window, the termination order is refused. Instead, turn off auto-renewal with a configuration order, so the subscription expires on your anniversary date. For more details, see [Disable Adobe auto-renewal](tutorials-and-videos/disable-adobe-auto-renewal.md).
 
-If a subscription doesn't contain returnable orders, only the renewal quantity is reduced. This ensures that at the next renewal, only the reduced quantity of licenses is renewed.
+When a termination is processed:
 
-### Example scenario
+* The subscription is canceled, and its status changes to **Terminated**.
+* Auto-renewal is turned off.
+* In the Adobe Admin Console, the subscription is removed, and its licenses become unavailable to users immediately.
 
-The following example illustrates how downsizing works in the platform. Assume the following:
+When a termination returns several orders, they're returned one after another, so the order can stay in **Processing** a little longer.
 
-1. You own 10 Photoshop for Teams licenses, which were ordered 30 days ago and are therefore outside the return window.
-2. You ordered an additional 4 Photoshop for Teams licenses 10 days ago, which are within the return window.
-3. You ordered another 3 Photoshop for Teams licenses 3 days ago, which are also within the return window.
+### Returns after a renewal
 
-Based on this information, you currently own a total of 17 licenses.&#x20;
+When a subscription renews, the renewal order can be returned for 14 days, like any other order:
 
-* If you want to return the 4 additional licenses and downsize by 4, the system will process the return.
-* If you want to downsize by 7, the orders for the 4 additional licenses and the 3 additional licenses will be returned.
-* If you want to downsize by 6, no single order (or combination of orders) matches the required quantity of 6, and the platform blocks the change and suggests a valid returnable quantity.
+* To return part of the renewal, reduce the subscription's quantity. Licenses are taken from the renewal order and from any orders placed after it.
+* To return all of it, terminate the subscription. This only works if every license on the subscription came from the renewal or later orders.
 
-## Auto-renewal policy
+Licenses bought before the renewal cannot be returned, even if they were bought less than 14 days ago. For more details, see [Return Adobe renewal order](tutorials-and-videos/return-adobe-renewal-order.md).
 
-You can change auto-renewal settings by placing a configuration order in the SoftwareOne Marketplace.
+### Auto-renewal
 
-If auto-renewal is enabled, the subscription renews automatically. If disabled, the subscription remains active until the next anniversary date and then expires. For details on turning off auto-renewal, see [Disable auto-renewal](tutorials-and-videos/disable-adobe-auto-renewal.md).
+You can turn auto-renewal on or off with a configuration order in the SoftwareOne Marketplace.
 
-## Related topics
+If auto-renewal is on, the subscription renews on your anniversary date at its **Renewal quantity**. If it's off, the subscription stays active until your anniversary date and then expires. For more details, see [Disable Adobe auto-renewal](tutorials-and-videos/disable-adobe-auto-renewal.md).
 
-For step-by-step instructions on performing returns, downsizing, or termination actions, see the [Adobe VIP Marketplace Tutorials](tutorials-and-videos/).
+### Related topics
+
+For step-by-step instructions, see the [Tutorials](tutorials-and-videos/). For error messages, see [Common error messages](common-error-messages.md).

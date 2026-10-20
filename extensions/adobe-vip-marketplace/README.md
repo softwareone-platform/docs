@@ -7,6 +7,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -23,6 +24,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Adobe VIP Marketplace
@@ -31,13 +34,13 @@ layout:
 We are thrilled to announce that Adobe has recognized SoftwareOne EMEA as a 'Highly Commended' partner. We are honored to receive this special commendation and look forward to continuing the partnership and delivering value to our clients through the SoftwareOne Marketplace Platform.
 {% endhint %}
 
-Adobe VIP Marketplace is Adobe’s new licensing program that replaces Adobe VIP.&#x20;
+Adobe VIP Marketplace is Adobe’s new licensing program that replaces Adobe VIP.
 
-VIP Marketplace is designed to make purchasing and managing Adobe software licenses easier. It provides streamlined automated purchasing, provisioning, and billing, and allows SoftwareOne to resell Adobe licenses through the Marketplace Platform.&#x20;
+VIP Marketplace is designed to make purchasing and managing Adobe software licenses easier. It provides streamlined automated purchasing, provisioning, and billing, and allows SoftwareOne to resell Adobe licenses through the Marketplace Platform.
 
 Various term-length options, volume discounts, and product offerings enable clients (VIP Marketplace members) and organizations of all sizes to meet their needs by purchasing as many licenses as needed in one flexible transaction.
 
-After your initial order has been set up with SoftwareOne, you can manage your licenses through the Marketplace Platform, which works seamlessly with the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).&#x20;
+After your initial order has been set up with SoftwareOne, you can manage your licenses through the Marketplace Platform, which works seamlessly with the [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/admin-console.html).
 
 {% embed url="https://www.youtube.com/watch?v=u2qhptvXR4A" %}
 Watch this video guide explaining about Adobe VIP Marketplace and how it benefits you.
@@ -45,7 +48,7 @@ Watch this video guide explaining about Adobe VIP Marketplace and how it benefit
 
 ## Key benefits <a href="#key-benefits" id="key-benefits"></a>
 
-As the next evolution of the VIP buying program, the Adobe VIP Marketplace delivers a more customized and streamlined system. It enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient experience.&#x20;
+As the next evolution of the VIP buying program, the Adobe VIP Marketplace delivers a more customized and streamlined system. It enables SoftwareOne to sell Adobe products in the SoftwareOne Marketplace to provide a simpler, automated, and efficient experience.
 
 The flexibility and breadth of the program allow SoftwareOne to put together desirable proposals, with software as a key element, and execute plans seamlessly on an ongoing basis.
 
@@ -63,7 +66,7 @@ VIP Marketplace is the primary Adobe buying program for SoftwareOne clients, exc
 
 After you place an order with your reseller, you will receive an invitation to accept the terms and conditions for VIP Marketplace. Once you’ve accepted the terms and conditions, you can manage your licenses and begin deploying them to users immediately in the Adobe Admin Console.
 
-If you are currently a member of the Value Incentive Plan, you can move seamlessly to the VIP Marketplace to benefit from features like automatic renewal.&#x20;
+If you are currently a member of the Value Incentive Plan, you can move seamlessly to the VIP Marketplace to benefit from features like automatic renewal.
 
 Contact SoftwareOne for details on transitioning to VIP Marketplace.
 
@@ -78,13 +81,13 @@ To reduce the effort associated with adding licenses, we recommend using the fir
 
 ### Assigning licenses <a href="#assigning-licenses" id="assigning-licenses"></a>
 
-The Adobe Admin Console is an online tool that allows organizations to manage their users as well as the assignment and reassignment of Adobe licenses. The member of your organization who received the welcome email and accepted the VIP Marketplace terms and conditions is the first person who will have access to your organization’s Admin Console.&#x20;
+The Adobe Admin Console is an online tool that allows organizations to manage their users as well as the assignment and reassignment of Adobe licenses. The member of your organization who received the welcome email and accepted the VIP Marketplace terms and conditions is the first person who will have access to your organization’s Admin Console.
 
 Once this person accesses the Admin Console, they can begin managing licenses and users, along with granting administration rights to other members of their organization.
 
 ## Volume discounts <a href="#volume-discounts" id="volume-discounts"></a>
 
-You can save more as a VIP Marketplace Member when your organization qualifies for volume discounts. Purchase 10 or more licenses during a subscription term to qualify.&#x20;
+You can save more as a VIP Marketplace Member when your organization qualifies for volume discounts. Purchase 10 or more licenses during a subscription term to qualify.
 
 Your discount increases as you purchase more licenses.
 
@@ -124,7 +127,7 @@ For example, if in your current term, you are at discount level 2 (10-49 license
 
 ### Returns <a href="#returns" id="returns"></a>
 
-Returns are accepted if the entire order is returned and if the licenses are not currently in use. You must make the return request with SoftwareOne within 14 days of placing the order.
+You can return any number of licenses you bought or renewed in the last 14 days, as long as they aren't in use. You don't have to return a whole order. Some products cannot be returned, including consumables, Stock Credit Packs, and Acrobat license packs. Returns are credited at the price in effect when the return is processed. For more details, see [Downsize, termination, and return policies](downsize-and-termination-policies.md).
 
 #### Returns for customers migrating from VIP to VIP Marketplace
 

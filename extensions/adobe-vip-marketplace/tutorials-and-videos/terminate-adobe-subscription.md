@@ -4,15 +4,17 @@ description: Terminate and return licenses within the 14-day return window.
 
 # Terminate and return Adobe licenses
 
-This tutorial describes how to cancel your Adobe subscription within the 14-day return window by placing a termination order.&#x20;
+You can cancel an Adobe subscription and return all of its licenses by placing a termination order. This helps you get a credit for licenses you no longer need.
 
-Terminating a subscription means canceling it entirely and returning the full quantity of licenses for a refund. Terminating is only possible if the subscription is within the allowed period and is eligible for a return.
+You can only terminate a subscription if **every** license on it is still returnable. That means each one was bought or renewed in the last 14 days, and after the subscription's most recent renewal. If any license is outside the return window, the termination order is refused.
 
-For terminations outside the return window, only auto-renewal can be turned off, meaning the respective subscriptions will expire on the renewal date. For more details, see [Disable auto-renewal](disable-adobe-auto-renewal.md).
+To stop a subscription that cannot be terminated, turn off auto-renewal instead. The subscription then expires on your anniversary date. For more details, see [Disable Adobe auto-renewal](disable-adobe-auto-renewal.md).
+
+To return only some of the licenses, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](downsize-adobe-subscription.md).
 
 ### Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
 
-Make sure that the required subscription is eligible for a return and is currently active.
+Make sure the subscription is active, and that all of its licenses were bought or renewed in the last 14 days.
 
 ### Terminate an Adobe subscription and return licenses
 
@@ -32,18 +34,18 @@ To open the subscription:
 
 In the guided **Terminate subscription** flow, complete the following steps:
 
-1. **Items** – Verify that the **new quantity** field displays a  `0`, then select **Next**.
+1. **Items** – Verify that the **new quantity** field displays a `0`, then select **Next**.
 2. **Details** – Add or update the reference ID and your comments. Select **Next**.
-3. **Review** – Review the order details, go through the terms and conditions, then select **Place order** to submit your order.&#x20;
+3. **Review** – Review the order details, go through the terms and conditions, then select **Place order** to submit your order.
 4. **Summary** – Review your order summary, then select **View details** to open the order details page, or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps
 
-SoftwareOne will review your termination order.&#x20;
+Your termination order is processed automatically. When it completes, the subscription is canceled, its status changes to **Terminated**, and auto-renewal is turned off. In the Adobe Admin Console the subscription is removed, and its licenses become unavailable to users. You receive a credit at the price in effect when the return is processed.
 
-If the order meets the criteria, it will be processed. You can keep track of your order on the order details page.
+If the subscription has licenses from several orders, they're returned one after another, so the order can stay in **Processing** a little longer. You can follow the order on its details page.
 
 ### Related tasks
 

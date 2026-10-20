@@ -4,15 +4,16 @@ description: Reduce the number of licenses in your Adobe subscription.
 
 # Reduce Adobe license quantity
 
-This tutorial describes how to reduce the quantity of your licenses by submitting a change order.
+You can reduce the number of licenses in an Adobe subscription by placing a change order. This helps you pay only for the licenses you need.
 
-Downsizing a subscription means reducing the number of licenses while keeping at least one license active. When you downsize a subscription, the result depends on whether the licenses are within the allowed 14-day return window.
+What happens depends on how many of the licenses you're removing you bought or renewed in the last 14 days:
 
-* If the licenses are within the return window, Adobe processes a return for the affected licenses, and those licenses immediately become unavailable to users.
-* If the licenses are outside the return window, the current licenses remain active until the renewal date, and only the renewal quantity is reduced.
-* You can only return quantities that match eligible returnable orders. If the quantity doesn't match, the Marketplace Platform suggests a valid quantity that you can return.
+* **Returned** – If you bought or renewed at least that many licenses in the last 14 days, Adobe returns them. The licenses become unavailable to users immediately, your **Current quantity** and **Renewal quantity** both go down, and you receive a credit.
+* **Reduced at renewal** – If you're removing more licenses than that, or the product cannot be returned, nothing is returned now. Your licenses stay available until your anniversary date, only your **Renewal quantity** goes down, and there's no credit.
 
-For more information, see [Downsize, termination, and return policies](../downsize-and-termination-policies.md).
+You can remove any number of returnable licenses. You don't have to match a whole order.
+
+For more details, see [Downsize, termination, and return policies](../downsize-and-termination-policies.md).
 
 ### Prerequisites
 
@@ -34,20 +35,25 @@ To open the subscription:
 {% step %}
 **Decrease the quantity and submit the order**
 
-&#x20;In the guided **Edit subscription** flow, complete the following steps:
+In the guided **Edit subscription** flow, complete the following steps:
 
-1. **Items** – Under **New qty**, update the quantity, then select **Next**.&#x20;
+1. **Items** – Under **New qty**, update the quantity, then select **Next**.
 2. **Details** – Add or update the reference details, then select **Next**.
 3. **Review** – Review the order details, go through the terms and conditions, then select **Place order**.
-4. **Summary** –  Review your order summary, then select **View details** to open the order details page, or select **Close**.
+4. **Summary** – Review your order summary, then select **View details** to open the order details page, or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps
 
-Your change order is submitted to SoftwareOne for processing. The status of your subscription and the agreement changes from **Active** to **Updating**. While the order is being processed, you cannot make any further changes until it is complete.
+Your change order is submitted for processing. The subscription and the agreement change from **Active** to **Updating**, and you cannot make further changes until the order completes.
 
-You can view the most up-to-date information about your order on its details page.
+When the order completes, open the subscription's **General** tab to see the result:
+
+* If the **Current quantity** has gone down, the licenses were returned.
+* If only the **Renewal quantity** has gone down, the reduction applies at your anniversary date.
+
+You can follow the order on its details page.
 
 ### Related tasks
 

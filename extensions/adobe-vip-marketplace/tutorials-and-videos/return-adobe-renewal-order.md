@@ -4,13 +4,15 @@ description: Return your renewal order for a refund within 14 days.
 
 # Return Adobe renewal order
 
-This tutorial explains how to return a renewal order within the 14-day return window.&#x20;
+You can return all of a renewal order within 14 days of the renewal by placing a termination order. This helps you get a credit for renewed licenses you no longer need.
 
-Returns are accepted if the entire order is returned and if the licenses are not currently in use. In the SoftwareOne Marketplace, returns are processed through a termination order. For policy details, see [Downsize, termination, and return policies](../downsize-and-termination-policies.md).
+A termination returns every license on the subscription. It only works if all of them came from the renewal or from orders placed after it. To return only part of a renewal, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](downsize-adobe-subscription.md).
+
+Licenses must not be in use. For more details, see [Downsize, termination, and return policies](../downsize-and-termination-policies.md).
 
 ### Prerequisites
 
-Make sure the renewal order is within the allowed return period. If the renewal order is older than 14 days, Adobe will not accept a return.
+Make sure the subscription renewed less than 14 days ago. After 14 days, Adobe does not accept a return of the renewal. To stop the subscription renewing again, turn off auto-renewal instead.
 
 ### Return your renewal order
 
@@ -26,7 +28,7 @@ To open the subscription:
 {% endstep %}
 
 {% step %}
-**Place a termination order for the subscription**&#x20;
+**Place a termination order for the subscription**
 
 In the guided **Terminate subscription** flow, complete the following steps:
 
@@ -39,9 +41,7 @@ In the guided **Terminate subscription** flow, complete the following steps:
 
 ### Next steps
 
-Your termination order will be reviewed and processed by SoftwareOne.&#x20;
-
-If the renewal order is within the 14-day return window and meets all conditions, the licenses will be removed from the subscription.
+Your termination order is processed automatically. When it completes, the subscription is canceled, the renewed licenses are returned, and you receive a credit at the price in effect when the return is processed. You can follow the order on its details page.
 
 ### Related tasks
 

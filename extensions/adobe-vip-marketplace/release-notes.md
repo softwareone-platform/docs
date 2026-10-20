@@ -13,7 +13,7 @@ description: >-
 You can now return any number of the Adobe seats you bought or renewed in the last 14 days. Returns are no longer limited to whole order lines.
 
 * Reduce seats by exactly the amount you need, and get a credit for exactly that
-* Your credit uses the price you originally paid
+* Your credit uses the price in effect when your return is processed, which may differ from the price you originally paid
 * Your renewal quantity is updated to match, so returned seats aren't renewed
 
 If you reduce by more seats than you bought or renewed in the last 14 days, or the product doesn't support partial returns, the reduction applies at your anniversary date instead.
@@ -170,7 +170,7 @@ This makes it easier to find and understand the products that are right for you.
 
 ### Adobe VIP Marketplace moves to weekly billing
 
-Starting February 2026, Adobe VIP Marketplace billing is moving from monthly to weekly invoicing.&#x20;
+Starting February 2026, Adobe VIP Marketplace billing is moving from monthly to weekly invoicing.
 
 As a result, billing will occur every Monday, starting February 2. This change aligns with Adobe’s updated invoicing model. There are no changes to pricing; only the billing frequency will change.
 
@@ -258,7 +258,7 @@ By adopting subscription templates, Adobe VIP Marketplace delivers a more transp
 
 ### Self-Service Reseller Transfers
 
-With this release, reseller transfers can now be completed directly in the Purchase Wizard, eliminating the need for a support ticket.&#x20;
+With this release, reseller transfers can now be completed directly in the Purchase Wizard, eliminating the need for a support ticket.
 
 You can change your reseller through the Marketplace Platform by providing your administrator's email address and the reseller code from the Adobe Admin Console. For detailed instructions, see [Transfer Your Adobe Reseller](tutorials-and-videos/reseller-transfer.md).
 
@@ -284,7 +284,7 @@ Lastly, in the Parameters tab of Agreements and Subscriptions, the "Last Sync Da
 
 In this release, we have resolved an issue that occurred when increasing the quantity of end-of-sale items in a change order. These orders would fail in the SoftwareOne Marketplace, even if the order itself succeeded at Adobe.
 
-This issue occurred because once the order completes at Adobe, our Adobe extension attempts to update the renewal quantity of the subscription to reflect the new quantity. As end-of-sale items at Adobe cannot have their renewal quantities modified, this attempt failed. As a result, the Marketplace order failed.&#x20;
+This issue occurred because once the order completes at Adobe, our Adobe extension attempts to update the renewal quantity of the subscription to reflect the new quantity. As end-of-sale items at Adobe cannot have their renewal quantities modified, this attempt failed. As a result, the Marketplace order failed.
 
 This issue has now been resolved. If the Adobe extension is unable to update the renewal quantity, the order completes successfully. The quantity of the subscription item in the SoftwareOne Marketplace remains the same as it was before the order was placed.
 
@@ -409,7 +409,7 @@ In this release, we improved quantity decreases of subscriptions to ensure any r
 
 ### Other improvements
 
-* Improved setting of autorenewal for subscriptions when a customer account is activated in the SoftwareOne Marketplace.&#x20;
+* Improved setting of autorenewal for subscriptions when a customer account is activated in the SoftwareOne Marketplace.
 * Improved handling of customer accounts that are marked as inactive by Adobe. We now show an appropriate error message when trying to activate an Adobe VIP Marketplace account that has been disabled by Adobe.
 * Other various minor improvements
 
@@ -421,4 +421,4 @@ In this release, we improved quantity decreases of subscriptions to ensure any r
 
 With VIP Marketplace Program, you can purchase Adobe subscriptions via self-service on the Marketplace Platform, and take advantage of volume discounts and automated renewals.
 
-To learn about the VIP Marketplace program, see [Adobe VIP Marketplace](./).&#x20;
+To learn about the VIP Marketplace program, see [Adobe VIP Marketplace](./).

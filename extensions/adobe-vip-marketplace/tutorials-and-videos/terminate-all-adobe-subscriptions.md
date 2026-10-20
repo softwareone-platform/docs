@@ -4,11 +4,9 @@ description: Cancel your Adobe agreement and return all subscriptions.
 
 # Cancel Adobe agreement
 
-This tutorial describes how to cancel your Adobe agreement by placing a termination order.&#x20;
+You can cancel your Adobe agreement by placing a termination order. This cancels all subscriptions in the agreement and ends the agreement entirely.
 
-An agreement can be terminated if you want to cancel all subscriptions within the specific agreement and end it entirely.&#x20;
-
-The cancellation outcome depends on whether you are inside or outside the return period. For information on the policies, see [Downsize, termination, and return policies](../downsize-and-termination-policies.md).
+Canceling an agreement returns every license on every subscription in it, so it's only possible when **all** of those licenses were bought or renewed in the last 14 days. If any subscription has licenses outside the return window, the whole termination order is refused. In that case, turn off auto-renewal on the subscriptions instead, so they expire on your anniversary date. For more details, see [Downsize, termination, and return policies](../downsize-and-termination-policies.md).
 
 ### Prerequisites
 
@@ -28,7 +26,7 @@ To open the agreement:
 {% endstep %}
 
 {% step %}
-**Place a termination order for the agreement**&#x20;
+**Place a termination order for the agreement**
 
 In the guided **Terminate agreement** flow, complete the following steps:
 
@@ -41,9 +39,7 @@ In the guided **Terminate agreement** flow, complete the following steps:
 
 ### Next steps
 
-Your termination order will be reviewed and processed by SoftwareOne.&#x20;
-
-You can view the most up-to-date information on your order and its status on the order details page.
+Your termination order is processed automatically. When it completes, every subscription in the agreement is terminated and its licenses are returned. Subscriptions with licenses from several orders are returned one order at a time, so the order can stay in **Processing** a little longer. You can follow the order on its details page.
 
 ### Related tasks
 
