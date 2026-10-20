@@ -234,6 +234,7 @@
   * [Migrate from Adobe VIP to VIPM](extensions/adobe-vip-marketplace/migration-from-vip.md)
   * [Downsize, termination, and return policies](extensions/adobe-vip-marketplace/downsize-and-termination-policies.md)
   * [Key dates and deadlines](extensions/adobe-vip-marketplace/key-dates-and-deadlines.md)
+  * [Adobe discount codes](extensions/adobe-vip-marketplace/adobe-discount-codes.md)
   * [Common error messages](extensions/adobe-vip-marketplace/common-error-messages.md)
   * [Tutorials](extensions/adobe-vip-marketplace/tutorials-and-videos/README.md)
     * [Order new Adobe subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
