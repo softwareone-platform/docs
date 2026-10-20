@@ -45,9 +45,9 @@ To create a linked membership, contact SoftwareOne. Note that a linked membershi
 
 ### Global customer
 
-This section shows whether your Adobe account is set up as a global customer, with deployments in more than one country. Each deployment has its own agreement.
+This section shows whether your Adobe account is set up as a global customer, so that you can buy licenses for users in more than one country. For more details, see [Global customers](global-customers.md).
 
-To set up your account as a global customer, contact SoftwareOne. Note that this setting cannot be undone.
+To set up your account as a global customer, contact SoftwareOne.
 
 ### Discounts
 

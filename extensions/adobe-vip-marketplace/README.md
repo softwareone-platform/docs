@@ -60,6 +60,13 @@ The flexibility and breadth of the program allow SoftwareOne to put together des
 
 VIP Marketplace is the primary Adobe buying program for SoftwareOne clients, except for VIP members in China.
 
+The following VIP Marketplace products are available in the SoftwareOne Marketplace:
+
+* **Adobe VIP Marketplace for Commercial** – For businesses.
+* **Adobe VIP Marketplace for Education** – For schools, universities, other education institutions, and non-profit organizations.
+* **Adobe VIP Marketplace for Government** – For government organizations.
+* **Adobe VIP Marketplace for Large Government Agencies** – For state and federal agencies in the United States and Canada that order 100 or more licenses. For more details, see [Large Government Agencies](large-government-agencies.md).
+
 ## Getting Started <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
 
 ### Becoming a VIP Marketplace member <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
@@ -111,7 +118,7 @@ Your VIP ID is a unique number that identifies your organization as a member of 
 
 ### Account anniversary date <a href="#account-anniversary-date" id="account-anniversary-date"></a>
 
-Your VIP Marketplace anniversary date is set to be 12 months from the date of your initial order. If you are migrating from Adobe VIP, your anniversary date will be the same as it was under VIP.
+Your VIP Marketplace anniversary date is set to be 12 months from the date of your initial order. If you are migrating from Adobe VIP, your anniversary date will be the same as it was under VIP. With extended terms, your anniversary date can be up to 36 months after your initial order.
 
 ### Daily proration <a href="#daily-proration" id="daily-proration"></a>
 
