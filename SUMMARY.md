@@ -235,6 +235,8 @@
   * [Downsize, termination, and return policies](extensions/adobe-vip-marketplace/downsize-and-termination-policies.md)
   * [Key dates and deadlines](extensions/adobe-vip-marketplace/key-dates-and-deadlines.md)
   * [Adobe discount codes](extensions/adobe-vip-marketplace/adobe-discount-codes.md)
+  * [The Adobe tab](extensions/adobe-vip-marketplace/the-adobe-tab.md)
+  * [Agreement and subscription details](extensions/adobe-vip-marketplace/agreement-and-subscription-details.md)
   * [Common error messages](extensions/adobe-vip-marketplace/common-error-messages.md)
   * [Tutorials](extensions/adobe-vip-marketplace/tutorials-and-videos/README.md)
     * [Order new Adobe subscription](extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
