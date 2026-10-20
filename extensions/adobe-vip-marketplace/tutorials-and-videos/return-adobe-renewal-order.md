@@ -14,6 +14,8 @@ Licenses must not be in use. For more details, see [Downsize, termination, and r
 
 Make sure the subscription renewed less than 14 days ago. After 14 days, Adobe does not accept a return of the renewal. To stop the subscription renewing again, turn off auto-renewal instead.
 
+You cannot place a termination order on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
+
 ### Return your renewal order
 
 {% stepper %}

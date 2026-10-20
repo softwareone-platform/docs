@@ -310,6 +310,8 @@ Delayed orders have been removed from the Adobe extension. Previously, when a ch
 
 This has now changed. Change, configuration, and termination orders can now be placed up to 24 hours before the anniversary date. Attempting to place an order within 24 hours of the anniversary date will result in an error in the Purchase Wizard. If the order is placed directly through the SoftwareOne Marketplace API, the order will be marked as failed.
 
+Note that dates are counted in US Pacific time, so these orders are refused on the whole day before the anniversary date and on the anniversary date itself. For more details, see [Key dates and deadlines](key-dates-and-deadlines.md).
+
 ### Termination Orders and Returns
 
 Since the introduction of configuration orders to turn auto-renewal on or off, termination orders can now be used for a single purpose: to return the entire quantity of a subscription.

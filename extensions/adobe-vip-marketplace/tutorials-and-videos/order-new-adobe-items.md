@@ -4,7 +4,7 @@ description: Add items to an existing agreement.
 
 # Add items to Adobe agreement
 
-This tutorial explains how to add new items to your existing Adobe VIP Marketplace agreement with SoftwareOne by placing a change order.
+You can add new items to your existing Adobe VIP Marketplace agreement by placing a change order. This helps you add Adobe products without creating a new agreement.
 
 {% embed url="https://vimeo.com/986322109/4702c0b2f1" %}
 Watch a quick video guide how to order new Adobe items using an existing agreement.
@@ -12,7 +12,9 @@ Watch a quick video guide how to order new Adobe items using an existing agreeme
 
 ### Prerequisites
 
-Make sure the agreement you want to use is active.&#x20;
+Make sure the agreement you want to use is active.
+
+You cannot place a change order on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
 
 ### Add items to an existing Adobe agreement
 
@@ -33,10 +35,10 @@ To start the order:
 
 In the guided purchase flow, complete the following steps:
 
-1. **Select agreement** – Select the required active agreement, then select **Next**.&#x20;
+1. **Select agreement** – Select the required active agreement, then select **Next**.
 2. **Select Items** – Do the following:
    1. Select **Add items**.
-   2. Add the required items to your order.&#x20;
+   2. Add the required items to your order.
    3. Update the quantity in the **New qty** field.
    4. Select **Next**.
 

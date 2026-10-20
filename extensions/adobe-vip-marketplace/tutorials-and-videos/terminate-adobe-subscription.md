@@ -16,6 +16,8 @@ To return only some of the licenses, reduce the subscription's quantity instead.
 
 Make sure the subscription is active, and that all of its licenses were bought or renewed in the last 14 days.
 
+You cannot place a termination order on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
+
 ### Terminate an Adobe subscription and return licenses
 
 {% stepper %}

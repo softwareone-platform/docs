@@ -4,9 +4,13 @@ description: Stop your Adobe subscription from renewing automatically.
 
 # Disable Adobe auto-renewal
 
-This tutorial explains how to disable automatic renewal for your Adobe subscription by submitting a configuration order.&#x20;
+You can turn off automatic renewal for an Adobe subscription by placing a configuration order. This helps you stop a subscription from renewing on your anniversary date.
 
-Automatic renewal can be disabled if you are outside the 14-day return window or don't want the subscription to renew on the anniversary date.&#x20;
+Turn off auto-renewal if you're outside the 14-day return window, or if you don't want the subscription to renew on your anniversary date.
+
+### Prerequisites
+
+You cannot place a configuration order on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
 
 ### Disable auto-renewal for an Adobe subscription
 
@@ -26,18 +30,16 @@ Automatic renewal can be disabled if you are outside the 14-day return window or
 
 In the guided Configuration order flow, complete the following steps:
 
-1. **Auto-renewal** – Choose **Disable**, then select **Next**.&#x20;
+1. **Auto-renewal** – Choose **Disable**, then select **Next**.
 2. **Order details** – Enter the order reference information, then select **Next**.
-3. **Review order** – Review the details, then select **Place order**.&#x20;
+3. **Review order** – Review the details, then select **Place order**.
 4. **Summary** – Review your order summary, then select **View details** to open the order details page, or select **Close**.
 {% endstep %}
 {% endstepper %}
 
 ### Next steps
 
-Your configuration order is reviewed and processed by SoftwareOne.&#x20;
-
-If the order meets all conditions, your subscription expires at the end of the commitment period or renewal date, and you are not billed further.
+Your configuration order is processed automatically. When it completes, auto-renewal is turned off. Your licenses stay active until your anniversary date, and then the subscription expires and you are not billed further.
 
 ### Related tasks
 

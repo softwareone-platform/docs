@@ -17,6 +17,8 @@ You can manage your Adobe VIP Marketplace subscriptions in the SoftwareOne Marke
 
 You can see the **Current quantity** and **Renewal quantity** of a subscription on its **General** tab.
 
+You cannot place change, configuration, or termination orders on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](key-dates-and-deadlines.md).
+
 ### Returns
 
 You can return any number of licenses that you bought or renewed in the last 14 days, as long as they aren't in use. You don't have to return a whole order.
@@ -112,4 +114,4 @@ If auto-renewal is on, the subscription renews on your anniversary date at its *
 
 ### Related topics
 
-For step-by-step instructions, see the [Tutorials](tutorials-and-videos/). For error messages, see [Common error messages](common-error-messages.md).
+For step-by-step instructions, see the [Tutorials](tutorials-and-videos/). For error messages, see [Common error messages](common-error-messages.md). For deadlines, see [Key dates and deadlines](key-dates-and-deadlines.md).

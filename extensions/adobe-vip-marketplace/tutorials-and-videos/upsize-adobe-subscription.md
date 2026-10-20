@@ -4,7 +4,7 @@ description: Increase the number of licenses for your existing Adobe subscriptio
 
 # Increase Adobe license quantity
 
-This tutorial describes how to increase the number of licenses for a subscription by placing a change order.
+You can increase the number of licenses in an Adobe subscription by placing a change order. This helps you add licenses as your team grows.
 
 {% embed url="https://vimeo.com/986323945/a268e0a35b" %}
 Watch a quick video guide describing how to increase licenses for an Adobe subscription.
@@ -13,6 +13,8 @@ Watch a quick video guide describing how to increase licenses for an Adobe subsc
 ### Prerequisites
 
 Before increasing the number of licenses, ensure that both the agreement and subscription are active.
+
+You cannot place a change order on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
 
 ### Increase the quantity of Adobe licenses
 
@@ -32,7 +34,7 @@ To open the subscription:
 
 In the guided **Edit subscription** flow, complete the following steps:
 
-1. **Items** – Under **New qty**, increase the quantity, then select **Next**.&#x20;
+1. **Items** – Under **New qty**, increase the quantity, then select **Next**.
 2. **Details** – Add or update the reference details for the order, then select **Next**.
 3. **Review** – Review the order details, go through the terms and conditions, then select **Place order**.
 4. **Summary** – Review your order summary, then select **View details** to open the order details page, or select **Close**.

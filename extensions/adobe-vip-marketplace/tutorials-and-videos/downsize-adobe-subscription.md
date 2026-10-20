@@ -19,6 +19,8 @@ For more details, see [Downsize, termination, and return policies](../downsize-a
 
 Ensure that both the agreement and the subscription you want to downsize are currently active.
 
+You cannot place a change order on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
+
 ### Reduce the quantity of Adobe licenses
 
 {% stepper %}

@@ -12,6 +12,8 @@ Canceling an agreement returns every license on every subscription in it, so it'
 
 Make sure that the agreement you want to terminate is currently active. Agreements in any other [state ](../../../modules-and-features/marketplace/agreements/agreement-states.md)cannot be terminated.
 
+You cannot place a termination order on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
+
 ### Cancel your entire Adobe agreement
 
 {% stepper %}
