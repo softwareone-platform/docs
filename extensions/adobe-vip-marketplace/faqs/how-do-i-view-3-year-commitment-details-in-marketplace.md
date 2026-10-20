@@ -1,16 +1,43 @@
-# How do I view 3-year commitment details in Marketplace
+---
+description: Check the status and details of your Adobe 3-year commitment.
+---
 
-In SoftwareOne Marketplace, you can track the progress of your 3-year commitment (3YC) request directly from the agreement details page.&#x20;
+# How do I view 3-year commitment details in Marketplace?
 
-You can also use this page to view essential details related to your 3YC. The key details available include the enrollment status, start and end dates, and more.
+You can check your 3-year commitment (3YC) in the SoftwareOne Marketplace in two places: the **Adobe** tab, which shows the commitment as Adobe currently records it, and the **Parameters** tab of your agreement.
 
-### Viewing 3YC details in Marketplace
+### View 3YC details on the Adobe tab
 
-To view the 3YC details in Marketplace:
+To view your 3YC on the Adobe tab:
 
-1. Sign in to your Marketplace account.
-2. Navigate to the **Agreements** page, then select the required Adobe VIP Marketplace agreement.
-3. On the agreement's details page, select the **Parameters** tab. All essential information related to the 3YC is displayed under the **Fulfillment** section.&#x20;
-4. Use this section to view the following details:
+1. Go to **Marketplace** > **Agreements**.
+2. Select the Adobe agreement.
+3. Select the **Adobe** tab, then select **3-year commitment**.
 
-<table><thead><tr><th width="199">Field</th><th>Description</th></tr></thead><tbody><tr><td><strong>3YC enroll status</strong></td><td><p>Indicates the current status of your 3YC:</p><ul><li>A dash (–) means that your 3YC is not yet active. This happens if you have not accepted the 3YC invitation or met the minimum commitment quantity. This field displays a dash (–) until you accept the invitation and fulfill the minimum commitment requirement.</li><li>A <strong>Committed</strong> status means that your 3YC is now active. You have accepted the 3YC invitation and met the minimum commitment quantity. Once the status changes to <strong>Committed</strong>, your 3YC takes effect immediately, and your billing switches to the 3YC discount level.</li></ul></td></tr><tr><td><strong>3YC start date</strong></td><td><p>Indicates the date on which 3YC officially begins. </p><p></p><p>This date is populated once you reach the minimum commitment quantity and your 3YC status becomes <strong>Committed</strong>. </p><p></p><p>The 3-year commitment period is calculated starting from this date.</p></td></tr><tr><td><strong>3YC end date</strong></td><td>Indicates the date on which your 3-year commitment period ends. This date is calculated automatically based on your <strong>3YC start date</strong>.</td></tr><tr><td><strong>3YC commitment request status</strong></td><td><p>Tracks the status of the 3YC invitation and acceptance phase for the initial 3YC:</p><p></p><ul><li>A <strong>Requested</strong> status indicates that the invitation has been sent, but it hasn't been accepted yet.</li><li>An <strong>Accepted</strong> status indicates that the invitation has been accepted, but you don't have enough licenses to meet the minimum commitment requirement.</li><li>A dash (–) means that the invitation has been accepted, and the minimum quantity criteria have been met. As a result, your 3YC is now active.</li></ul></td></tr><tr><td><strong>3YC recommitment request status</strong></td><td><p>Tracks the current status of the recommitment notification and acceptance process for an existing 3YC nearing its end date. It applies only if you have an active 3YC nearing expiration. </p><div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><ul><li>This field only represents the lifecycle of the recommitment invitation (for example, <strong>Requested</strong>, <strong>Accepted</strong>). It is not related to the original 3YC commitment and doesn't affect your current 3YC, which continues until its scheduled end date. </li><li>Recommitment notifications are sent at these intervals before the commitment end date: 30 days, 14 days, 7 days, and 1 day.</li></ul></div></td></tr></tbody></table>
+The page shows your **Current commitment**, any **Commitment request**, and any **Recommitment request**, each with its status and minimum quantities. For more details, see [The Adobe tab](../the-adobe-tab.md).
+
+### View 3YC details on the Parameters tab
+
+To view your 3YC on the Parameters tab:
+
+1. Go to **Marketplace** > **Agreements**.
+2. Select the Adobe agreement.
+3. Select the **Parameters** tab. The 3YC details are in the **Fulfillment** section.
+
+The following table describes the 3YC details:
+
+| Detail                                                                                                                                                              | Description                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **3-year commitment active**                                                                                                                                        | Shows **COMMITTED** when your 3YC is active. Your 3YC becomes active when you have accepted the invitation and reached your minimum quantities. From then on, your prices use the 3YC discount level. The field is empty until then.        |
+| **3-year commitment start date**                                                                                                                                    | The date your 3YC began. It is filled in when your 3YC becomes active. The 3-year period is counted from this date.                                                                                                                         |
+| **3-year commitment end date**                                                                                                                                      | The date your 3YC ends, 3 years after the start date.                                                                                                                                                                                       |
+| **Minimum committed licenses** and **Minimum committed consumables**                                                                                                | The minimum quantities of your active 3YC.                                                                                                                                                                                                  |
+| **3-year commitment request status**                                                                                                                                | The status of your 3YC invitation. **REQUESTED** means the invitation was sent but not yet accepted. **ACCEPTED** means you accepted it, but haven't reached your minimum quantities yet. The field is empty when no invitation is pending. |
+| **Commitment request minimum licenses**, **Commitment request minimum consumables**, **Commitment request start date**, and **Commitment request end date**         | The details of a pending invitation, including a request to increase your commitment.                                                                                                                                                       |
+| **3-year recommitment request status**                                                                                                                              | The status of an invitation to commit for another 3 years. It applies only when your current 3YC is nearing its end.                                                                                                                        |
+| **Recommitment request minimum licenses**, **Recommitment request minimum consumables**, **Recommitment request start date**, and **Recommitment request end date** | The details of a pending recommitment invitation.                                                                                                                                                                                           |
+
+{% hint style="info" %}
+* A recommitment invitation doesn't affect your current 3YC, which continues until its end date.
+* Recommitment reminders are sent 30 days, 14 days, 7 days, and 1 day before your 3YC end date.
+{% endhint %}

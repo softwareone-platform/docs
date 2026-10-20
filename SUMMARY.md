@@ -257,6 +257,8 @@
     * [How do I select my education sub-segments?](extensions/adobe-vip-marketplace/faqs/how-do-i-select-my-education-sub-segments.md)
     * [How do I activate my VIP Marketplace agreement?](extensions/adobe-vip-marketplace/faqs/how-do-i-activate-my-vip-marketplace-agreement.md)
     * [What happens if I terminate my Adobe subscription?](extensions/adobe-vip-marketplace/faqs/what-happens-if-i-terminate-my-adobe-subscription.md)
+    * [Why is my Adobe order in Querying status?](extensions/adobe-vip-marketplace/faqs/why-is-my-adobe-order-in-querying-status.md)
+    * [Why is my Adobe order still in Processing status?](extensions/adobe-vip-marketplace/faqs/why-is-my-adobe-order-still-in-processing-status.md)
   * [Release notes](extensions/adobe-vip-marketplace/release-notes.md)
   * [Terms and conditions](extensions/adobe-vip-marketplace/terms-and-conditions.md)
 * [Alga PSA](extensions/alga-psa/README.md)
