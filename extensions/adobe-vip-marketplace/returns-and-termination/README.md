@@ -1,8 +1,10 @@
 ---
-description: Learn about our returns, downsizing, and termination policies.
+description: >-
+  Learn how returns, reductions, and terminations work for your Adobe
+  subscriptions.
 ---
 
-# Downsize, termination, and return policies
+# Returns and termination
 
 You can manage your Adobe VIP Marketplace subscriptions in the SoftwareOne Marketplace: reduce license quantities, turn auto-renewal on or off, and terminate subscriptions. This article explains how reductions, returns, terminations, and auto-renewal work, and the rules that apply when you make changes.
 
@@ -17,14 +19,14 @@ You can manage your Adobe VIP Marketplace subscriptions in the SoftwareOne Marke
 
 You can see the **Current quantity** and **Renewal quantity** of a subscription on its **General** tab.
 
-You cannot place change, configuration, or termination orders on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](key-dates-and-deadlines.md).
+You cannot place change, configuration, or termination orders on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
 
 ### Returns
 
 You can return any number of licenses that you bought or renewed in the last 14 days, as long as they aren't in use. You don't have to return a whole order.
 
-* To return **part** of a subscription, reduce its quantity with a change order. For more details, see [Reduce Adobe license quantity](tutorials-and-videos/downsize-adobe-subscription.md).
-* To return **all** of a subscription, terminate it. For more details, see [Terminate and return Adobe licenses](tutorials-and-videos/terminate-adobe-subscription.md) and [Cancel Adobe agreement](tutorials-and-videos/terminate-all-adobe-subscriptions.md).
+* To return **part** of a subscription, reduce its quantity with a change order. For more details, see [Reduce Adobe license quantity](../manage-subscriptions/reduce-adobe-license-quantity.md).
+* To return **all** of a subscription, terminate it. For more details, see [Terminate and return Adobe licenses](terminate-and-return-adobe-licenses.md) and [Cancel Adobe agreement](cancel-adobe-agreement.md).
 
 Returned licenses become unavailable to users immediately. You receive a credit for them at the price in effect when the return is processed. This price may differ from the price you originally paid.
 
@@ -87,7 +89,7 @@ If you have a 3-year commitment, you cannot reduce your licenses below your comm
 
 A termination cancels a subscription and returns every license on it. It's only possible when **all** of the subscription's licenses are still returnable, for example, when all of them were bought in the last 14 days.
 
-If any license on the subscription is outside the return window, the termination order is refused. Instead, turn off auto-renewal with a configuration order, so the subscription expires on your anniversary date. For more details, see [Disable Adobe auto-renewal](tutorials-and-videos/disable-adobe-auto-renewal.md).
+If any license on the subscription is outside the return window, the termination order is refused. Instead, turn off auto-renewal with a configuration order, so the subscription expires on your anniversary date. For more details, see [Change Adobe subscription auto-renewal](../manage-subscriptions/change-adobe-subscription-auto-renewal.md).
 
 When a termination is processed:
 
@@ -104,14 +106,28 @@ When a subscription renews, the renewal order can be returned for 14 days, like 
 * To return part of the renewal, reduce the subscription's quantity. Licenses are taken from the renewal order and from any orders placed after it.
 * To return all of it, terminate the subscription. This only works if every license on the subscription came from the renewal or later orders.
 
-Licenses bought before the renewal cannot be returned, even if they were bought less than 14 days ago. For more details, see [Return Adobe renewal order](tutorials-and-videos/return-adobe-renewal-order.md).
+Licenses bought before the renewal cannot be returned, even if they were bought less than 14 days ago. For more details, see [Return Adobe renewal order](return-adobe-renewal-order.md).
 
 ### Auto-renewal
 
 You can turn auto-renewal on or off with a configuration order in the SoftwareOne Marketplace.
 
-If auto-renewal is on, the subscription renews on your anniversary date at its **Renewal quantity**. If it's off, the subscription stays active until your anniversary date and then expires. For more details, see [Disable Adobe auto-renewal](tutorials-and-videos/disable-adobe-auto-renewal.md).
+If auto-renewal is on, the subscription renews on your anniversary date at its **Renewal quantity**. If it's off, the subscription stays active until your anniversary date and then expires. For more details, see [Change Adobe subscription auto-renewal](../manage-subscriptions/change-adobe-subscription-auto-renewal.md).
 
 ### Related topics
 
-For step-by-step instructions, see the [Tutorials](tutorials-and-videos/). For error messages, see [Common error messages](common-error-messages.md). For deadlines, see [Key dates and deadlines](key-dates-and-deadlines.md).
+For error messages, see [Common error messages](../common-error-messages.md). For deadlines, see [Key dates and deadlines](../key-dates-and-deadlines.md).
+
+### Related tasks
+
+{% content-ref url="terminate-and-return-adobe-licenses.md" %}
+[terminate-and-return-adobe-licenses.md](terminate-and-return-adobe-licenses.md)
+{% endcontent-ref %}
+
+{% content-ref url="return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% endcontent-ref %}
+
+{% content-ref url="cancel-adobe-agreement.md" %}
+[cancel-adobe-agreement.md](cancel-adobe-agreement.md)
+{% endcontent-ref %}

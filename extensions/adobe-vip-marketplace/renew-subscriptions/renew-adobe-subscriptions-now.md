@@ -77,10 +77,10 @@ After you renew now:
 [renew-adobe-subscriptions-at-your-anniversary-date.md](renew-adobe-subscriptions-at-your-anniversary-date.md)
 {% endcontent-ref %}
 
-{% content-ref url="upsize-adobe-subscription.md" %}
-[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% content-ref url="../manage-subscriptions/increase-adobe-license-quantity.md" %}
+[increase-adobe-license-quantity.md](../manage-subscriptions/increase-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="order-new-adobe-items.md" %}
-[order-new-adobe-items.md](order-new-adobe-items.md)
+{% content-ref url="../manage-subscriptions/add-products-to-your-adobe-agreement.md" %}
+[add-products-to-your-adobe-agreement.md](../manage-subscriptions/add-products-to-your-adobe-agreement.md)
 {% endcontent-ref %}

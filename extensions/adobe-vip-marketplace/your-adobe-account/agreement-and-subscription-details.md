@@ -37,7 +37,7 @@ The following table describes the 3-year commitment details on the agreement:
 | **3-year recommitment request status**                                                                                                                              | The status of an invitation to recommit for another 3 years.                                                                     |
 | **Recommitment request minimum licenses**, **Recommitment request minimum consumables**, **Recommitment request start date**, and **Recommitment request end date** | The details of a pending recommitment request.                                                                                   |
 
-You can also see your 3-year commitment on the **Adobe** tab. For more details, see [The Adobe tab](the-adobe-tab.md).
+You can also see your 3-year commitment on the **Adobe** tab. For more details, see [Your Adobe account](./).
 
 #### Linked membership and global customer details
 
@@ -72,6 +72,6 @@ The SoftwareOne Marketplace regularly checks your Adobe account and updates your
 
 ### Related topics
 
-* [The Adobe tab](the-adobe-tab.md)
-* [Downsize, termination, and return policies](downsize-and-termination-policies.md)
-* [Key dates and deadlines](key-dates-and-deadlines.md)
+* [Your Adobe account](./)
+* [Returns and termination](../returns-and-termination/)
+* [Key dates and deadlines](../key-dates-and-deadlines.md)

@@ -55,6 +55,6 @@ Your order is processed as a late renewal. The licenses you had before are renew
 [renew-adobe-subscriptions-now.md](renew-adobe-subscriptions-now.md)
 {% endcontent-ref %}
 
-{% content-ref url="order-new-adobe-items.md" %}
-[order-new-adobe-items.md](order-new-adobe-items.md)
+{% content-ref url="../manage-subscriptions/add-products-to-your-adobe-agreement.md" %}
+[add-products-to-your-adobe-agreement.md](../manage-subscriptions/add-products-to-your-adobe-agreement.md)
 {% endcontent-ref %}

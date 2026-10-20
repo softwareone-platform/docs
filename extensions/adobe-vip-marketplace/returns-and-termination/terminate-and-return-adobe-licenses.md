@@ -8,9 +8,9 @@ You can cancel an Adobe subscription and return all of its licenses by placing a
 
 You can only terminate a subscription if **every** license on it is still returnable. That means each one was bought or renewed in the last 14 days, and after the subscription's most recent renewal. If any license is outside the return window, the termination order is refused.
 
-To stop a subscription that cannot be terminated, turn off auto-renewal instead. The subscription then expires on your anniversary date. For more details, see [Disable Adobe auto-renewal](disable-adobe-auto-renewal.md).
+To stop a subscription that cannot be terminated, turn off auto-renewal instead. The subscription then expires on your anniversary date. For more details, see [Change Adobe subscription auto-renewal](../manage-subscriptions/change-adobe-subscription-auto-renewal.md).
 
-To return only some of the licenses, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](downsize-adobe-subscription.md).
+To return only some of the licenses, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](../manage-subscriptions/reduce-adobe-license-quantity.md).
 
 ### Prerequisites <a href="#howtodownsizeamicrosoft365subscriptionlicense-prerequisites" id="howtodownsizeamicrosoft365subscriptionlicense-prerequisites"></a>
 
@@ -51,32 +51,32 @@ If the subscription has licenses from several orders, they're returned one after
 
 ### Related tasks
 
-{% content-ref url="order-adobe-subscription.md" %}
-[order-adobe-subscription.md](order-adobe-subscription.md)
+{% content-ref url="../set-up-your-account/set-up-a-new-adobe-agreement.md" %}
+[set-up-a-new-adobe-agreement.md](../set-up-your-account/set-up-a-new-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="order-new-adobe-items.md" %}
-[order-new-adobe-items.md](order-new-adobe-items.md)
+{% content-ref url="../manage-subscriptions/add-products-to-your-adobe-agreement.md" %}
+[add-products-to-your-adobe-agreement.md](../manage-subscriptions/add-products-to-your-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="reseller-transfer.md" %}
-[reseller-transfer.md](reseller-transfer.md)
+{% content-ref url="../set-up-your-account/transfer-your-adobe-account-to-softwareone.md" %}
+[transfer-your-adobe-account-to-softwareone.md](../set-up-your-account/transfer-your-adobe-account-to-softwareone.md)
 {% endcontent-ref %}
 
-{% content-ref url="upsize-adobe-subscription.md" %}
-[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% content-ref url="../manage-subscriptions/increase-adobe-license-quantity.md" %}
+[increase-adobe-license-quantity.md](../manage-subscriptions/increase-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="downsize-adobe-subscription.md" %}
-[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% content-ref url="../manage-subscriptions/reduce-adobe-license-quantity.md" %}
+[reduce-adobe-license-quantity.md](../manage-subscriptions/reduce-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="disable-adobe-auto-renewal.md" %}
-[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% content-ref url="../manage-subscriptions/change-adobe-subscription-auto-renewal.md" %}
+[change-adobe-subscription-auto-renewal.md](../manage-subscriptions/change-adobe-subscription-auto-renewal.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-all-adobe-subscriptions.md" %}
-[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% content-ref url="cancel-adobe-agreement.md" %}
+[cancel-adobe-agreement.md](cancel-adobe-agreement.md)
 {% endcontent-ref %}
 
 {% content-ref url="return-adobe-renewal-order.md" %}

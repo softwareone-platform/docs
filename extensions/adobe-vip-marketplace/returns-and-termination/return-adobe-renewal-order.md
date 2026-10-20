@@ -6,9 +6,9 @@ description: Return your renewal order for a refund within 14 days.
 
 You can return all of a renewal order within 14 days of the renewal by placing a termination order. This helps you get a credit for renewed licenses you no longer need.
 
-A termination returns every license on the subscription. It only works if all of them came from the renewal or from orders placed after it. To return only part of a renewal, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](downsize-adobe-subscription.md).
+A termination returns every license on the subscription. It only works if all of them came from the renewal or from orders placed after it. To return only part of a renewal, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](../manage-subscriptions/reduce-adobe-license-quantity.md).
 
-Licenses must not be in use. For more details, see [Downsize, termination, and return policies](../downsize-and-termination-policies.md).
+Licenses must not be in use. For more details, see [Returns and termination](./).
 
 ### Prerequisites
 
@@ -47,30 +47,30 @@ Your termination order is processed automatically. When it completes, the subscr
 
 ### Related tasks
 
-{% content-ref url="order-adobe-subscription.md" %}
-[order-adobe-subscription.md](order-adobe-subscription.md)
+{% content-ref url="../set-up-your-account/set-up-a-new-adobe-agreement.md" %}
+[set-up-a-new-adobe-agreement.md](../set-up-your-account/set-up-a-new-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="order-new-adobe-items.md" %}
-[order-new-adobe-items.md](order-new-adobe-items.md)
+{% content-ref url="../manage-subscriptions/add-products-to-your-adobe-agreement.md" %}
+[add-products-to-your-adobe-agreement.md](../manage-subscriptions/add-products-to-your-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="reseller-transfer.md" %}
-[reseller-transfer.md](reseller-transfer.md)
+{% content-ref url="../set-up-your-account/transfer-your-adobe-account-to-softwareone.md" %}
+[transfer-your-adobe-account-to-softwareone.md](../set-up-your-account/transfer-your-adobe-account-to-softwareone.md)
 {% endcontent-ref %}
 
-{% content-ref url="upsize-adobe-subscription.md" %}
-[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% content-ref url="../manage-subscriptions/increase-adobe-license-quantity.md" %}
+[increase-adobe-license-quantity.md](../manage-subscriptions/increase-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="downsize-adobe-subscription.md" %}
-[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% content-ref url="../manage-subscriptions/reduce-adobe-license-quantity.md" %}
+[reduce-adobe-license-quantity.md](../manage-subscriptions/reduce-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-adobe-subscription.md" %}
-[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% content-ref url="terminate-and-return-adobe-licenses.md" %}
+[terminate-and-return-adobe-licenses.md](terminate-and-return-adobe-licenses.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-all-adobe-subscriptions.md" %}
-[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% content-ref url="cancel-adobe-agreement.md" %}
+[cancel-adobe-agreement.md](cancel-adobe-agreement.md)
 {% endcontent-ref %}

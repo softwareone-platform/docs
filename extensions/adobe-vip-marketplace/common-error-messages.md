@@ -74,7 +74,7 @@ Messages are grouped by the task you were doing. Parts of a message in angle bra
 
 **Cause** – You added a new line for an item you already have on the agreement.
 
-**Resolution** – Change the quantity of the existing subscription instead. For more details, see [Increase Adobe license quantity](tutorials-and-videos/upsize-adobe-subscription.md).
+**Resolution** – Change the quantity of the existing subscription instead. For more details, see [Increase Adobe license quantity](manage-subscriptions/increase-adobe-license-quantity.md).
 
 </details>
 
@@ -168,7 +168,7 @@ Messages are grouped by the task you were doing. Parts of a message in angle bra
 
 **Cause** – You placed a termination order for a subscription, or an agreement, where at least one license is outside the 14-day return window, so not every license can be returned.
 
-**Resolution** – To stop the subscription at your anniversary date, turn off auto-renewal with a configuration order. For more details, see [Disable Adobe auto-renewal](tutorials-and-videos/disable-adobe-auto-renewal.md). To return the licenses that are still returnable, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](tutorials-and-videos/downsize-adobe-subscription.md).
+**Resolution** – To stop the subscription at your anniversary date, turn off auto-renewal with a configuration order. For more details, see [Change Adobe subscription auto-renewal](manage-subscriptions/change-adobe-subscription-auto-renewal.md). To return the licenses that are still returnable, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](manage-subscriptions/reduce-adobe-license-quantity.md).
 
 </details>
 
@@ -192,7 +192,7 @@ Messages are grouped by the task you were doing. Parts of a message in angle bra
 
 </details>
 
-For more details, see [Downsize, termination, and return policies](downsize-and-termination-policies.md).
+For more details, see [Returns and termination](returns-and-termination/).
 
 ### Orders around your anniversary date and renewals
 
@@ -409,7 +409,7 @@ The following table describes the messages you might see in the upgrade wizard:
 
 **Cause** – Adobe did not accept the reseller change code, for example, because it has expired.
 
-**Resolution** – Generate a new code in the Adobe Admin Console, then place the order again. For more details, see [Transfer your Adobe reseller](tutorials-and-videos/reseller-transfer.md).
+**Resolution** – Generate a new code in the Adobe Admin Console, then place the order again. For more details, see [Transfer your Adobe account to SoftwareOne](set-up-your-account/transfer-your-adobe-account-to-softwareone.md).
 
 </details>
 
@@ -451,5 +451,5 @@ If you see an error that isn't listed here, such as "Order can't be processed. F
 
 ### Related topics
 
-* [Downsize, termination, and return policies](downsize-and-termination-policies.md)
+* [Returns and termination](returns-and-termination/)
 * [Key dates and deadlines](key-dates-and-deadlines.md)

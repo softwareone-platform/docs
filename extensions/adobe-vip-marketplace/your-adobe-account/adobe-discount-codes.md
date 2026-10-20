@@ -41,12 +41,12 @@ Open codes are updated from Adobe every day.
 
 The following table describes how discount codes are applied to each type of order:
 
-| Order                            | How codes are applied                                                                                                                                                                                                                                                                     |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Buy products or add licenses** | The code that gives you the lowest price is applied automatically. There's nothing you need to do.                                                                                                                                                                                        |
-| **Renew late**                   | The code that gives you the lowest price is applied automatically.                                                                                                                                                                                                                        |
-| **Renew in the renewal wizard**  | You choose a code for each item on the **Promotions** step. Codes you already hold are marked **Inherited** and selected for you. For more details, see [Renew Adobe subscriptions at your anniversary date](tutorials-and-videos/renew-adobe-subscriptions-at-your-anniversary-date.md). |
-| **Upgrade a subscription**       | On the **Promotions** step, the code that gives you the lowest price is pre-selected. You can choose another or enter your own. For more details, see [Upgrade Adobe subscription](tutorials-and-videos/upgrade-adobe-subscription.md).                                                   |
+| Order                            | How codes are applied                                                                                                                                                                                                                                                                       |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Buy products or add licenses** | The code that gives you the lowest price is applied automatically. There's nothing you need to do.                                                                                                                                                                                          |
+| **Renew late**                   | The code that gives you the lowest price is applied automatically.                                                                                                                                                                                                                          |
+| **Renew in the renewal wizard**  | You choose a code for each item on the **Promotions** step. Codes you already hold are marked **Inherited** and selected for you. For more details, see [Renew Adobe subscriptions at your anniversary date](../renew-subscriptions/renew-adobe-subscriptions-at-your-anniversary-date.md). |
+| **Upgrade a subscription**       | On the **Promotions** step, the code that gives you the lowest price is pre-selected. You can choose another or enter your own. For more details, see [Upgrade Adobe subscription](../manage-subscriptions/upgrade-adobe-subscription.md).                                                  |
 
 Each code is confirmed with Adobe before your order is placed. When a code is applied automatically and Adobe refuses it, the next best code is used. If Adobe doesn't confirm any of your eligible codes, the order goes ahead without a discount.
 
@@ -72,10 +72,10 @@ If Adobe refuses a code, the wizard shows the reason for each item. The followin
 | This code is not known to Adobe.                                          | Check the code, or choose another.                                  |
 | Only one discount code can be applied to a line.                          | Keep one code for the item.                                         |
 
-If you're not sure why a code was refused, contact your account manager. For other messages, see [Common error messages](common-error-messages.md).
+If you're not sure why a code was refused, contact your account manager. For other messages, see [Common error messages](../common-error-messages.md).
 
 ### Related topics
 
-* [Renew Adobe subscriptions at your anniversary date](tutorials-and-videos/renew-adobe-subscriptions-at-your-anniversary-date.md)
-* [Renew Adobe subscriptions now](tutorials-and-videos/renew-adobe-subscriptions-now.md)
-* [Upgrade Adobe subscription](tutorials-and-videos/upgrade-adobe-subscription.md)
+* [Renew Adobe subscriptions at your anniversary date](../renew-subscriptions/renew-adobe-subscriptions-at-your-anniversary-date.md)
+* [Renew Adobe subscriptions now](../renew-subscriptions/renew-adobe-subscriptions-now.md)
+* [Upgrade Adobe subscription](../manage-subscriptions/upgrade-adobe-subscription.md)

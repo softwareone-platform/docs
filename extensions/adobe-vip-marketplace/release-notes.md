@@ -262,7 +262,7 @@ By adopting subscription templates, Adobe VIP Marketplace delivers a more transp
 
 With this release, reseller transfers can now be completed directly in the Purchase Wizard, eliminating the need for a support ticket.
 
-You can change your reseller through the Marketplace Platform by providing your administrator's email address and the reseller code from the Adobe Admin Console. For detailed instructions, see [Transfer Your Adobe Reseller](tutorials-and-videos/reseller-transfer.md).
+You can change your reseller through the Marketplace Platform by providing your administrator's email address and the reseller code from the Adobe Admin Console. For detailed instructions, see [Transfer your Adobe account to SoftwareOne](set-up-your-account/transfer-your-adobe-account-to-softwareone.md).
 
 ### Agreement Sync Improvements
 

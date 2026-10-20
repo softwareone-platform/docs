@@ -14,7 +14,6 @@ You can find answers to common questions about ordering and managing Adobe VIP M
 ### Accounts and orders
 
 * [How do I select my education sub-segments?](how-do-i-select-my-education-sub-segments.md)
-* [How do I activate my VIP Marketplace agreement?](how-do-i-activate-my-vip-marketplace-agreement.md)
 * [Why is my Adobe order in Querying status?](why-is-my-adobe-order-in-querying-status.md)
 * [Why is my Adobe order still in Processing status?](why-is-my-adobe-order-still-in-processing-status.md)
 

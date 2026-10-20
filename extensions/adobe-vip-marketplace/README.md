@@ -65,7 +65,7 @@ The following VIP Marketplace products are available in the SoftwareOne Marketpl
 * **Adobe VIP Marketplace for Commercial** – For businesses.
 * **Adobe VIP Marketplace for Education** – For schools, universities, other education institutions, and non-profit organizations.
 * **Adobe VIP Marketplace for Government** – For government organizations.
-* **Adobe VIP Marketplace for Large Government Agencies** – For state and federal agencies in the United States and Canada that order 100 or more licenses. For more details, see [Large Government Agencies](large-government-agencies.md).
+* **Adobe VIP Marketplace for Large Government Agencies** – For state and federal agencies in the United States and Canada that order 100 or more licenses. For more details, see [Large Government Agencies](set-up-your-account/large-government-agencies.md).
 
 ## Getting Started <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
 
@@ -134,7 +134,7 @@ For example, if in your current term, you are at discount level 2 (10-49 license
 
 ### Returns <a href="#returns" id="returns"></a>
 
-You can return any number of licenses you bought or renewed in the last 14 days, as long as they aren't in use. You don't have to return a whole order. Some products cannot be returned, including consumables, Stock Credit Packs, and Acrobat license packs. Returns are credited at the price in effect when the return is processed. For more details, see [Downsize, termination, and return policies](downsize-and-termination-policies.md).
+You can return any number of licenses you bought or renewed in the last 14 days, as long as they aren't in use. You don't have to return a whole order. Some products cannot be returned, including consumables, Stock Credit Packs, and Acrobat license packs. Returns are credited at the price in effect when the return is processed. For more details, see [Returns and termination](returns-and-termination/).
 
 #### Returns for customers migrating from VIP to VIP Marketplace
 

@@ -185,7 +185,7 @@ The ordering steps might vary slightly depending on the product you are ordering
 
 For product-specific tutorials, see the following pages:
 
-* [Order new Adobe subscription](../../extensions/adobe-vip-marketplace/tutorials-and-videos/order-adobe-subscription.md)
+* [Order new Adobe subscription](../../extensions/adobe-vip-marketplace/set-up-your-account/set-up-a-new-adobe-agreement.md)
 * [Order FinOps for Cloud from Marketplace](../../extensions/finops-for-cloud/order-finops-for-cloud-from-marketplace.md)
 * [Buy Microsoft 365 subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-new-tenant.md)
 * [Buy Microsoft 365 subscription for an existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
@@ -243,8 +243,8 @@ You can adjust the number of licenses for a subscription by submitting a change 
 
 For product-specific information, see the following pages:
 
-* [Reduce Adobe license quantity](../../extensions/adobe-vip-marketplace/tutorials-and-videos/downsize-adobe-subscription.md)
-* [Increase Adobe license quantity](../../extensions/adobe-vip-marketplace/tutorials-and-videos/upsize-adobe-subscription.md)
+* [Reduce Adobe license quantity](../../extensions/adobe-vip-marketplace/manage-subscriptions/reduce-adobe-license-quantity.md)
+* [Increase Adobe license quantity](../../extensions/adobe-vip-marketplace/manage-subscriptions/increase-adobe-license-quantity.md)
 * [Purchase additional Microsoft 365 licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/buy-more-licenses-for-microsoft-365-subscription.md)
 * [Reduce Microsoft 365 licenses](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/reduce-microsoft-365-licenses.md)
 
@@ -299,7 +299,7 @@ You can use the [Settings module](../../modules-and-features/settings/) to manag
 
 For details on managing your subscriptions and agreements, including terminations, see the following links:
 
-* [Adobe VIP Marketplace](../../extensions/adobe-vip-marketplace/tutorials-and-videos/)
+* [Adobe VIP Marketplace](/broken/pages/O3OKszh7d3UASciWrfl6)
 * [Microsoft 365 tutorials](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/)
 
 </details>

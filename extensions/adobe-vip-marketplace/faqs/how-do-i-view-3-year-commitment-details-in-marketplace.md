@@ -14,7 +14,7 @@ To view your 3YC on the Adobe tab:
 2. Select the Adobe agreement.
 3. Select the **Adobe** tab, then select **3-year commitment**.
 
-The page shows your **Current commitment**, any **Commitment request**, and any **Recommitment request**, each with its status and minimum quantities. For more details, see [The Adobe tab](../the-adobe-tab.md).
+The page shows your **Current commitment**, any **Commitment request**, and any **Recommitment request**, each with its status and minimum quantities. For more details, see [Your Adobe account](../your-adobe-account/).
 
 ### View 3YC details on the Parameters tab
 

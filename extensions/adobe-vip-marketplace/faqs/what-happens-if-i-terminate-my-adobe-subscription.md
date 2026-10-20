@@ -19,6 +19,6 @@ You can terminate an Adobe subscription only while all of its licenses are withi
 
 The termination order is refused, with the message _"Cannot return the entire quantity of all subscriptions in this order. Consider disabling auto-renewal for these subscriptions instead using a Configuration Order."_
 
-To stop the subscription, turn off auto-renewal with a configuration order. Your licenses stay available until your anniversary date and then expire, with no refund. For more details, see [Disable Adobe auto-renewal](../tutorials-and-videos/disable-adobe-auto-renewal.md).
+To stop the subscription, turn off auto-renewal with a configuration order. Your licenses stay available until your anniversary date and then expire, with no refund. For more details, see [Change Adobe subscription auto-renewal](../manage-subscriptions/change-adobe-subscription-auto-renewal.md).
 
-To return just the licenses that are still within the window, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](../tutorials-and-videos/downsize-adobe-subscription.md).
+To return just the licenses that are still within the window, reduce the subscription's quantity instead. For more details, see [Reduce Adobe license quantity](../manage-subscriptions/reduce-adobe-license-quantity.md).

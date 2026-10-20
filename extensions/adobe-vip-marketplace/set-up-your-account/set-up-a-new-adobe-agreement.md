@@ -1,8 +1,8 @@
 ---
-description: Order an Adobe subscription by creating a new agreement.
+description: Create a new agreement and Adobe account to start buying Adobe products.
 ---
 
-# Order new Adobe subscription
+# Set up a new Adobe agreement
 
 You can order an Adobe subscription by creating a new agreement and setting up a new Adobe account. This helps you start buying Adobe products through the SoftwareOne Marketplace.
 
@@ -18,7 +18,7 @@ Before starting this tutorial, make sure you have the following:
 * Your company's legal address and primary admin contact.
 * If choosing a 3-year commitment, the minimum quantities you want to commit to: at least 10 licenses or 1000 consumables.
 
-### Order a new Adobe subscription
+### Set up a new Adobe agreement
 
 {% stepper %}
 {% step %}
@@ -73,34 +73,34 @@ If you chose a 3-year commitment, the order pauses in **Querying** status until 
 
 ### Related tasks
 
-{% content-ref url="order-new-adobe-items.md" %}
-[order-new-adobe-items.md](order-new-adobe-items.md)
+{% content-ref url="../manage-subscriptions/add-products-to-your-adobe-agreement.md" %}
+[add-products-to-your-adobe-agreement.md](../manage-subscriptions/add-products-to-your-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="reseller-transfer.md" %}
-[reseller-transfer.md](reseller-transfer.md)
+{% content-ref url="transfer-your-adobe-account-to-softwareone.md" %}
+[transfer-your-adobe-account-to-softwareone.md](transfer-your-adobe-account-to-softwareone.md)
 {% endcontent-ref %}
 
-{% content-ref url="upsize-adobe-subscription.md" %}
-[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% content-ref url="../manage-subscriptions/increase-adobe-license-quantity.md" %}
+[increase-adobe-license-quantity.md](../manage-subscriptions/increase-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="downsize-adobe-subscription.md" %}
-[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% content-ref url="../manage-subscriptions/reduce-adobe-license-quantity.md" %}
+[reduce-adobe-license-quantity.md](../manage-subscriptions/reduce-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="disable-adobe-auto-renewal.md" %}
-[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% content-ref url="../manage-subscriptions/change-adobe-subscription-auto-renewal.md" %}
+[change-adobe-subscription-auto-renewal.md](../manage-subscriptions/change-adobe-subscription-auto-renewal.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-adobe-subscription.md" %}
-[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% content-ref url="../returns-and-termination/terminate-and-return-adobe-licenses.md" %}
+[terminate-and-return-adobe-licenses.md](../returns-and-termination/terminate-and-return-adobe-licenses.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-all-adobe-subscriptions.md" %}
-[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% content-ref url="../returns-and-termination/cancel-adobe-agreement.md" %}
+[cancel-adobe-agreement.md](../returns-and-termination/cancel-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="return-adobe-renewal-order.md" %}
-[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% content-ref url="../returns-and-termination/return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](../returns-and-termination/return-adobe-renewal-order.md)
 {% endcontent-ref %}

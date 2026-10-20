@@ -2,7 +2,7 @@
 description: Transfer your account to SoftwareOne.
 ---
 
-# Transfer your Adobe reseller
+# Transfer your Adobe account to SoftwareOne
 
 You can transfer your Adobe account to SoftwareOne if you currently buy Adobe licenses through another reseller. This helps you manage your Adobe subscriptions and orders in the SoftwareOne Marketplace.
 
@@ -60,7 +60,7 @@ As this process is managed by Adobe, see their official documentation for up-to-
 
 </details>
 
-### Transfer your Adobe reseller
+### Transfer your Adobe account to SoftwareOne
 
 All reseller transfers require a new agreement and a new purchase order in the Marketplace. The order includes your existing Adobe subscriptions automatically. You cannot add more items to a transfer order, but you can add them with a change order after the transfer completes.
 
@@ -89,30 +89,30 @@ Once we process the order and change the reseller, we will notify you. You can c
 
 ### Related tasks
 
-{% content-ref url="order-adobe-subscription.md" %}
-[order-adobe-subscription.md](order-adobe-subscription.md)
+{% content-ref url="set-up-a-new-adobe-agreement.md" %}
+[set-up-a-new-adobe-agreement.md](set-up-a-new-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="upsize-adobe-subscription.md" %}
-[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% content-ref url="../manage-subscriptions/increase-adobe-license-quantity.md" %}
+[increase-adobe-license-quantity.md](../manage-subscriptions/increase-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="downsize-adobe-subscription.md" %}
-[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% content-ref url="../manage-subscriptions/reduce-adobe-license-quantity.md" %}
+[reduce-adobe-license-quantity.md](../manage-subscriptions/reduce-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="disable-adobe-auto-renewal.md" %}
-[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% content-ref url="../manage-subscriptions/change-adobe-subscription-auto-renewal.md" %}
+[change-adobe-subscription-auto-renewal.md](../manage-subscriptions/change-adobe-subscription-auto-renewal.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-adobe-subscription.md" %}
-[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% content-ref url="../returns-and-termination/terminate-and-return-adobe-licenses.md" %}
+[terminate-and-return-adobe-licenses.md](../returns-and-termination/terminate-and-return-adobe-licenses.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-all-adobe-subscriptions.md" %}
-[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% content-ref url="../returns-and-termination/cancel-adobe-agreement.md" %}
+[cancel-adobe-agreement.md](../returns-and-termination/cancel-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="return-adobe-renewal-order.md" %}
-[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% content-ref url="../returns-and-termination/return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](../returns-and-termination/return-adobe-renewal-order.md)
 {% endcontent-ref %}

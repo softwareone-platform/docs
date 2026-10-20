@@ -60,10 +60,10 @@ Note that some products cannot renew at the anniversary date, such as Stock Cred
 [renew-adobe-subscriptions-now.md](renew-adobe-subscriptions-now.md)
 {% endcontent-ref %}
 
-{% content-ref url="disable-adobe-auto-renewal.md" %}
-[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% content-ref url="../manage-subscriptions/change-adobe-subscription-auto-renewal.md" %}
+[change-adobe-subscription-auto-renewal.md](../manage-subscriptions/change-adobe-subscription-auto-renewal.md)
 {% endcontent-ref %}
 
-{% content-ref url="return-adobe-renewal-order.md" %}
-[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% content-ref url="../returns-and-termination/return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](../returns-and-termination/return-adobe-renewal-order.md)
 {% endcontent-ref %}

@@ -1,8 +1,8 @@
 ---
-description: Learn about the Adobe tab on your Adobe VIP Marketplace agreement.
+description: Learn about your Adobe account details on the Adobe tab of your agreement.
 ---
 
-# The Adobe tab
+# Your Adobe account
 
 You can see details of your Adobe account that come directly from Adobe on the **Adobe** tab of your agreement. This helps you check your 3-year commitment, linked membership, global customer setting, and discount codes in one place.
 
@@ -35,7 +35,7 @@ The following table describes the statuses you might see:
 | **Noncompliant** | You are below your committed minimum.                                            |
 | **Expired**      | The commitment or invitation has ended.                                          |
 
-To request a 3-year commitment, increase it, or recommit, contact SoftwareOne. For more details, see [How do I accept my 3-year commitment invitation?](faqs/how-do-i-accept-my-3-year-commitment-invitation.md).
+To request a 3-year commitment, increase it, or recommit, contact SoftwareOne. For more details, see [How do I accept my 3-year commitment invitation?](../faqs/how-do-i-accept-my-3-year-commitment-invitation.md).
 
 ### Linked membership
 
@@ -57,3 +57,4 @@ This section lists the flexible discount codes available to you. For more detail
 
 * [Agreement and subscription details](agreement-and-subscription-details.md)
 * [Adobe discount codes](adobe-discount-codes.md)
+* [Global customers](global-customers.md)

@@ -56,18 +56,18 @@ Your upgrade order is submitted for processing. The subscription and the agreeme
 
 When the order completes, the upgraded licenses are on the new product, and your anniversary date is unchanged. You can follow the order on its details page.
 
-Note that an upgrade cannot be returned like a new or renewal order. For more details, see [Downsize, termination, and return policies](../downsize-and-termination-policies.md).
+Note that an upgrade cannot be returned like a new or renewal order. For more details, see [Returns and termination](../returns-and-termination/).
 
 ### Related tasks
 
-{% content-ref url="upsize-adobe-subscription.md" %}
-[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% content-ref url="increase-adobe-license-quantity.md" %}
+[increase-adobe-license-quantity.md](increase-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="downsize-adobe-subscription.md" %}
-[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% content-ref url="reduce-adobe-license-quantity.md" %}
+[reduce-adobe-license-quantity.md](reduce-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="renew-adobe-subscriptions-at-your-anniversary-date.md" %}
-[renew-adobe-subscriptions-at-your-anniversary-date.md](renew-adobe-subscriptions-at-your-anniversary-date.md)
+{% content-ref url="../renew-subscriptions/renew-adobe-subscriptions-at-your-anniversary-date.md" %}
+[renew-adobe-subscriptions-at-your-anniversary-date.md](../renew-subscriptions/renew-adobe-subscriptions-at-your-anniversary-date.md)
 {% endcontent-ref %}

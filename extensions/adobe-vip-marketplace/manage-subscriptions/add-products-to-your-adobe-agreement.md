@@ -1,8 +1,8 @@
 ---
-description: Add items to an existing agreement.
+description: Add new Adobe products to your existing agreement.
 ---
 
-# Add items to Adobe agreement
+# Add products to your Adobe agreement
 
 You can add new items to your existing Adobe VIP Marketplace agreement by placing a change order. This helps you add Adobe products without creating a new agreement.
 
@@ -16,7 +16,7 @@ Make sure the agreement you want to use is active.
 
 You cannot place a change order on the day before your anniversary date or on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
 
-### Add items to an existing Adobe agreement
+### Add products to your Adobe agreement
 
 {% stepper %}
 {% step %}
@@ -64,34 +64,34 @@ You can track the order on the **Orders** page or in the **Orders** tab on the a
 
 ### Related tasks
 
-{% content-ref url="order-adobe-subscription.md" %}
-[order-adobe-subscription.md](order-adobe-subscription.md)
+{% content-ref url="../set-up-your-account/set-up-a-new-adobe-agreement.md" %}
+[set-up-a-new-adobe-agreement.md](../set-up-your-account/set-up-a-new-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="reseller-transfer.md" %}
-[reseller-transfer.md](reseller-transfer.md)
+{% content-ref url="../set-up-your-account/transfer-your-adobe-account-to-softwareone.md" %}
+[transfer-your-adobe-account-to-softwareone.md](../set-up-your-account/transfer-your-adobe-account-to-softwareone.md)
 {% endcontent-ref %}
 
-{% content-ref url="upsize-adobe-subscription.md" %}
-[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% content-ref url="increase-adobe-license-quantity.md" %}
+[increase-adobe-license-quantity.md](increase-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="downsize-adobe-subscription.md" %}
-[downsize-adobe-subscription.md](downsize-adobe-subscription.md)
+{% content-ref url="reduce-adobe-license-quantity.md" %}
+[reduce-adobe-license-quantity.md](reduce-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="disable-adobe-auto-renewal.md" %}
-[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% content-ref url="change-adobe-subscription-auto-renewal.md" %}
+[change-adobe-subscription-auto-renewal.md](change-adobe-subscription-auto-renewal.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-adobe-subscription.md" %}
-[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% content-ref url="../returns-and-termination/terminate-and-return-adobe-licenses.md" %}
+[terminate-and-return-adobe-licenses.md](../returns-and-termination/terminate-and-return-adobe-licenses.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-all-adobe-subscriptions.md" %}
-[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% content-ref url="../returns-and-termination/cancel-adobe-agreement.md" %}
+[cancel-adobe-agreement.md](../returns-and-termination/cancel-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="return-adobe-renewal-order.md" %}
-[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% content-ref url="../returns-and-termination/return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](../returns-and-termination/return-adobe-renewal-order.md)
 {% endcontent-ref %}

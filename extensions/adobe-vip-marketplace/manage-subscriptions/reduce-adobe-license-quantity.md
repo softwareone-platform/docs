@@ -13,7 +13,7 @@ What happens depends on how many of the licenses you're removing you bought or r
 
 You can remove any number of returnable licenses. You don't have to match a whole order.
 
-For more details, see [Downsize, termination, and return policies](../downsize-and-termination-policies.md).
+For more details, see [Returns and termination](../returns-and-termination/).
 
 ### Prerequisites
 
@@ -59,34 +59,34 @@ You can follow the order on its details page.
 
 ### Related tasks
 
-{% content-ref url="order-adobe-subscription.md" %}
-[order-adobe-subscription.md](order-adobe-subscription.md)
+{% content-ref url="../set-up-your-account/set-up-a-new-adobe-agreement.md" %}
+[set-up-a-new-adobe-agreement.md](../set-up-your-account/set-up-a-new-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="order-new-adobe-items.md" %}
-[order-new-adobe-items.md](order-new-adobe-items.md)
+{% content-ref url="add-products-to-your-adobe-agreement.md" %}
+[add-products-to-your-adobe-agreement.md](add-products-to-your-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="reseller-transfer.md" %}
-[reseller-transfer.md](reseller-transfer.md)
+{% content-ref url="../set-up-your-account/transfer-your-adobe-account-to-softwareone.md" %}
+[transfer-your-adobe-account-to-softwareone.md](../set-up-your-account/transfer-your-adobe-account-to-softwareone.md)
 {% endcontent-ref %}
 
-{% content-ref url="upsize-adobe-subscription.md" %}
-[upsize-adobe-subscription.md](upsize-adobe-subscription.md)
+{% content-ref url="increase-adobe-license-quantity.md" %}
+[increase-adobe-license-quantity.md](increase-adobe-license-quantity.md)
 {% endcontent-ref %}
 
-{% content-ref url="disable-adobe-auto-renewal.md" %}
-[disable-adobe-auto-renewal.md](disable-adobe-auto-renewal.md)
+{% content-ref url="change-adobe-subscription-auto-renewal.md" %}
+[change-adobe-subscription-auto-renewal.md](change-adobe-subscription-auto-renewal.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-adobe-subscription.md" %}
-[terminate-adobe-subscription.md](terminate-adobe-subscription.md)
+{% content-ref url="../returns-and-termination/terminate-and-return-adobe-licenses.md" %}
+[terminate-and-return-adobe-licenses.md](../returns-and-termination/terminate-and-return-adobe-licenses.md)
 {% endcontent-ref %}
 
-{% content-ref url="terminate-all-adobe-subscriptions.md" %}
-[terminate-all-adobe-subscriptions.md](terminate-all-adobe-subscriptions.md)
+{% content-ref url="../returns-and-termination/cancel-adobe-agreement.md" %}
+[cancel-adobe-agreement.md](../returns-and-termination/cancel-adobe-agreement.md)
 {% endcontent-ref %}
 
-{% content-ref url="return-adobe-renewal-order.md" %}
-[return-adobe-renewal-order.md](return-adobe-renewal-order.md)
+{% content-ref url="../returns-and-termination/return-adobe-renewal-order.md" %}
+[return-adobe-renewal-order.md](../returns-and-termination/return-adobe-renewal-order.md)
 {% endcontent-ref %}

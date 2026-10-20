@@ -32,11 +32,11 @@ With this product, you can:
 
 * Create a new Large Government Agency account.
 * Migrate a Large Government Agency account from Adobe VIP to VIP Marketplace.
-* Transfer your Large Government Agency account from another reseller to SoftwareOne. For more details, see [Transfer your Adobe reseller](tutorials-and-videos/reseller-transfer.md).
+* Transfer your Large Government Agency account from another reseller to SoftwareOne. For more details, see [Transfer your Adobe account to SoftwareOne](transfer-your-adobe-account-to-softwareone.md).
 
 After your account is set up, you manage your subscriptions in the same way as other Adobe VIP Marketplace subscriptions.
 
 ### Related topics
 
-* [Order new Adobe subscription](tutorials-and-videos/order-adobe-subscription.md)
-* [Common error messages](common-error-messages.md)
+* [Set up a new Adobe agreement](set-up-a-new-adobe-agreement.md)
+* [Common error messages](../common-error-messages.md)

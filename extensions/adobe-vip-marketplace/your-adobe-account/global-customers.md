@@ -36,6 +36,6 @@ You can check whether your account is a global customer on the **Adobe** tab of 
 
 ### Related topics
 
-* [The Adobe tab](the-adobe-tab.md)
-* [Disable Adobe auto-renewal](tutorials-and-videos/disable-adobe-auto-renewal.md)
-* [Regional deployment](./#regional-deployment)
+* [Your Adobe account](./)
+* [Change Adobe subscription auto-renewal](../manage-subscriptions/change-adobe-subscription-auto-renewal.md)
+* [Regional deployment](../#regional-deployment)
