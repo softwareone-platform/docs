@@ -1,10 +1,10 @@
-# Terms and Conditions
+# Terms and conditions
 
 **Specific Terms: Adobe Value Incentive Plan Marketplace Program ("VIP Marketplace") Product Subscriptions from SoftwareOne**
 
 ## 1. Introduction
 
-1.1   SoftwareOne is a VIP Marketplace Direct Partner authorized to resell Adobe software products and services licensed under the VIP Marketplace (“**Adobe Products**” or “**Products**”) to members of the VIP Marketplace (“**Members**") through the SoftwareOne Marketplace.d
+1.1   SoftwareOne is a VIP Marketplace Direct Partner authorized to resell Adobe software products and services licensed under the VIP Marketplace (“**Adobe Products**” or “**Products**”) to members of the VIP Marketplace (“**Members**") through the SoftwareOne Marketplace.
 
 1.2   Please read these specific terms (“**Specific Terms**” or “**Contract**”) carefully. The terms of this Contract (as may be updated from time to time) govern Your purchase of Adobe Products from SoftwareOne as part of the VIP Marketplace via the SoftwareOne Marketplace and Your access and use of them.
 
@@ -18,11 +18,11 @@
 
 2.1   By agreeing to be bound by the terms of this Contract, Customer agrees that:
 
-&#x20;       (i)   its access and use of the Adobe VIP Marketplace is subject to Customer’s acceptance of  the Adobe Value Incentive Plan Terms and Conditions (a direct agreement between Adobe and Customer), as may be amended by Adobe from time to time, and which are available here: [Adobe Value Incentive Plan Terms And Conditions | Adobe Buying Programs](https://www.adobe.com/howtobuy/buying-programs/vip-terms.html), or any successor website (the “**Adobe VIP Terms**”);
+&#x20;       (i)   its access and use of the Adobe VIP Marketplace is subject to Customer’s acceptance of the Adobe Value Incentive Plan Terms and Conditions (a direct agreement between Adobe and Customer), as may be amended by Adobe from time to time, and which are available here: [Adobe Value Incentive Plan Terms And Conditions | Adobe Buying Programs](https://www.adobe.com/howtobuy/buying-programs/vip-terms.html), or any successor website (the “**Adobe VIP Terms**”);
 
 &#x20;       (ii)   in addition to (i) above, its access and use of each Adobe Product is subject to Customer’s acceptance of the General Terms of Use (a direct agreement between Adobe and Customer), as may be amended by Adobe from time to time, which are available here: [Legal (adobe.com)](https://www.adobe.com/uk/legal/terms.html) (and also referenced within the Adobe VIP Terms), or any successor website, including the Additional Terms and any other terms referenced therein that are applicable to the Adobe Product (collectively, the “**TOU**”);
 
-&#x20;       (iii)   it shall accept the Adobe VIP Terms and the TOU prior to accessing and/or using the VIP Marketplace or any Adobe Product. By accessing and/or using the VIP Marketplace and/or any Adobe Product, Customer: (i) acknowledges that it has read and understood the content of the Adobe VIP Terms and the TOU; and (iii) agrees to be bound by and comply with their terms;
+&#x20;       (iii)   it shall accept the Adobe VIP Terms and the TOU prior to accessing and/or using the VIP Marketplace or any Adobe Product. By accessing and/or using the VIP Marketplace and/or any Adobe Product, Customer: (i) acknowledges that it has read and understood the content of the Adobe VIP Terms and the TOU; and (ii) agrees to be bound by and comply with their terms;
 
 &#x20;       (iv)   it may have to re-accept the Adobe VIP Terms and TOU in connection with purchasing Adobe Products under the VIP Marketplace through the SoftwareOne Marketplace.
 
@@ -66,9 +66,9 @@
 
 &#x20;       (ii)   the quantity of additional Units added beyond the Committed Quantity of a Three Year Commit Subscription at the end of each year of the Subscription Term by providing notice of the revised quantity through the SoftwareOne Marketplace at least seven (7) Business Days prior to the end of the then current year of the Subscription Term.
 
-&#x20;       (iii)   without prejudice to Clause 4.1(iii), the Committed Quantity of a Three Year Commit Subscription at the end of the three year Subscription Term by providing notice of the revised minimum quantity through the SoftwareOne Marketplace prior to the acceptance of the Recommitment Request.
+&#x20;       (iii)   without prejudice to Clause 4.1(ii), the Committed Quantity of a Three Year Commit Subscription at the end of the three year Subscription Term by providing notice of the revised minimum quantity through the SoftwareOne Marketplace prior to the acceptance of the Recommitment Request.
 
-6.2   Customer acknowledges and agrees that changes in quantities may effect price.
+6.2   Customer acknowledges and agrees that changes in quantities may affect price.
 
 6.3   Reducing the number of any committed quantities below the committed quantities is not allowed.
 
@@ -82,15 +82,15 @@
 
 ### Returns
 
-6.7   Customer has ten (10) days from the date an order is Completed to submit and have the return order status  Completed for the Adobe Product ordered. Customer must follow the procedure for this on the SoftwareOne Marketplace or call or email its SoftwareOne Account Manager. No extended return periods will apply, and no returns will be accepted after that ten (10) day window has lapsed. Notwithstanding the foregoing, any Adobe Product will not be accepted as a return if any portion of such Adobe Product has been used.
+6.7   Customer has ten (10) days from the date an order is Completed to submit and have the return order status Completed for the Adobe Product ordered. Customer must follow the procedure for this on the SoftwareOne Marketplace or call or email its SoftwareOne Account Manager. No extended return periods will apply, and no returns will be accepted after that ten (10) day window has lapsed. Notwithstanding the foregoing, any Adobe Product will not be accepted as a return if any portion of such Adobe Product has been used.
 
-6.8   In order to return an order, an entire order must be returned. No partial returns are permitted.
+6.8   Customer may return all or part of the quantity of an order, provided the return is submitted within the period set out in Clause 6.7 and the Units returned have not been used. Certain Adobe Products, including consumables, cannot be returned, in whole or in part.
 
-6.9   If Customer has migrated from VIP to Adobe VIP Marketplace, Customer acknowledges and agrees that VIP orders cannot be returned within VIP Marketplace. After migration to VIP Marketplace, any orders placed in VIP may no longer be returned. Even if such prior VIP orders would have been eligible for return in VIP, such orders may no longer be returned once  Customer has migrated to VIP Marketplace. Upon migration to VIP Marketplace, Customer waives any rights to return such orders.
+6.9   If Customer has migrated from VIP to Adobe VIP Marketplace, Customer acknowledges and agrees that VIP orders cannot be returned within VIP Marketplace. After migration to VIP Marketplace, any orders placed in VIP may no longer be returned. Even if such prior VIP orders would have been eligible for return in VIP, such orders may no longer be returned once Customer has migrated to VIP Marketplace. Upon migration to VIP Marketplace, Customer waives any rights to return such orders.
 
 ## 7. Pricing, Billing and Payment Terms
 
-7.1   Prices shown on the SoftwareOne Marketplace are estimates only and are subject to change (including as a result of the fluctuation of currency values). Changes in the quantity of any order may effect price.
+7.1   Prices shown on the SoftwareOne Marketplace are estimates only and are subject to change (including as a result of the fluctuation of currency values). Changes in the quantity of any order may affect price.
 
 7.2   Unless otherwise stated herein, Customer’s Subscription price (including the price of any Units added during the Subscription Term) may change at the time of each relevant renewal period. Customer may contact its SoftwareOne Account Manager at any time for pricing information.
 
@@ -114,7 +114,7 @@
 
 8.1   Customer acknowledges and agrees that SoftwareOne will provide Adobe with Customer data for Adobe’s use, including in connection with the performance by Adobe of the Adobe VIP Terms and TOU.
 
-8.2   Customer will collect and transfer Personal Data to SoftwareOne, so that SoftwareOne can transfer such data to Adobe. Therefore, Customer confirms that it collects and transfers such Personal Data to SoftwareOne in accordance with lawful legal bases and that is has informed the respective individuals of the processing that SoftwareOne undertakes and their right to object to the processing.
+8.2   Customer will collect and transfer Personal Data to SoftwareOne, so that SoftwareOne can transfer such data to Adobe. Therefore, Customer confirms that it collects and transfers such Personal Data to SoftwareOne in accordance with lawful legal bases and that it has informed the respective individuals of the processing that SoftwareOne undertakes and their right to object to the processing.
 
 8.3   SoftwareOne, Adobe and Customer are independent contractors with respect to the purchase, access and use of the Adobe Product Subscription(s).
 
