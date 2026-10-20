@@ -22,11 +22,11 @@ This gives you more flexibility to adjust your Adobe seats as your needs change.
 
 ### The best discount for your orders, applied automatically
 
-We've improved how flexible discount codes are applied when you buy Adobe products or add seats.
+We've improved how flexible discount codes are applied when you buy Adobe products, add seats, or renew late.
 
 * The SoftwareOne Marketplace finds the discount codes you're eligible for and applies the one that gives you the lowest price
 * Each code is confirmed with Adobe before your order is placed. If a code can't be applied, the next best one is used.
-* Only codes Adobe confirms are applied to your order
+* Only codes Adobe confirms are applied to your order. If Adobe doesn't confirm any of your eligible codes, the order goes ahead without a discount.
 
 There's nothing you need to do. This helps you get the best available price on every order.
 
@@ -36,33 +36,35 @@ There's nothing you need to do. This helps you get the best available price on e
 
 ### See your Adobe discount codes in one place
 
-Your Adobe agreement now has a **Discounts** tab. It lists the flexible discount codes available to you, including codes set up specifically for you.
+Your Adobe agreement now lists the flexible discount codes available to you, including codes set up specifically for you. To see them, open the agreement, select the **Adobe** tab, then select **Discounts**.
 
 * See each code's discount, validity dates and the orders it applies to
 * Check whether a code has already been redeemed
-* Reusable codes you've already used stay listed for as long as they still apply
+* Reusable codes you've already used stay listed for as long as they still apply. After a reusable code's end date, it's offered only to customers who already hold it.
 
-Your codes are offered when you renew or upgrade, and applied automatically when you buy or add seats.
+Your codes are offered when you renew or upgrade, and the best code is applied automatically when you buy or add seats.
 
 This makes it easier to see the discounts you can use, and when.
 
 ### Plan and place your Adobe renewals
 
-You can now plan and place your Adobe renewal directly in the SoftwareOne Marketplace. Open your Adobe agreement and start the renewal wizard. Choose one of two paths:
+You can now plan and place your Adobe renewal directly in the SoftwareOne Marketplace. Open your Adobe agreement and select **Renew** to start the renewal wizard. Choose one of two paths:
 
-* **At anniversary:** set a renewal plan that Adobe applies on your anniversary date. Nothing is invoiced until then, and you can edit the plan until it takes effect.
+* **At anniversary:** set a renewal plan that Adobe applies on your anniversary date. Nothing is invoiced until then, and you can change the plan until 2 days before your anniversary date.
 * **Renew now:** renew straight away. You're invoiced immediately, your anniversary date moves forward a year, and you lock in current prices.
+
+The path you choose with your first renewal order applies to the whole renewal. After you renew now, any further renewal orders also renew now.
 
 In either path, you can:
 
 * Choose which subscriptions renew, and adjust quantities
-* Add new products, with Adobe's suggestions marked as Recommended. On Renew now, you add new products and extra seats in a follow-up order, once your first renewal order has completed.
+* Add new products, with Adobe's suggestions marked as Recommended. On Renew now, one order cannot both renew and add, so renew first, then add new products or extra seats in a follow-up order.
 * Apply flexible discount codes
 * Review your plan and pricing before you place it
 
-Renewals are available from 30 to 2 days before your anniversary date. Outside that window, the wizard explains when you can renew.
+Renewals are available from 30 to 2 days before your anniversary date, including both days, counted in US Pacific time. The window is checked again when you place the order. Outside that window, the wizard explains when you can renew. For more details, see [Key dates and deadlines](key-dates-and-deadlines.md).
 
-Once a renewal is in place, other changes to your Adobe subscriptions are made through the renewal wizard. This keeps your renewal plan intact.
+Once a renewal is in place, change, configuration, and termination orders and upgrades are locked until your anniversary date. Make renewal changes through the renewal wizard instead. This keeps your renewal plan intact.
 
 This makes it easier to set up your renewal the way you want it.
 
@@ -80,7 +82,7 @@ You can now upgrade an active Adobe subscription to a higher product partway thr
 * Apply a flexible discount code. The code that gives you the lowest price is pre-selected, you can choose another or enter your own, and you see the discounted price straight away.
 * Review the effect on both subscriptions, and your estimated renewal cost, before you submit
 
-Upgrades aren't available while you have a renewal in place, such as seats renewed early or a planned anniversary renewal. The wizard explains this if it applies.
+Upgrades aren't available while you have a renewal in place, such as seats renewed early or a planned anniversary renewal. After an early renewal, upgrades are available again 30 days later. The wizard explains this if it applies.
 
 Prices shown in the wizard are estimates. The final amount appears on your next bill.
 
