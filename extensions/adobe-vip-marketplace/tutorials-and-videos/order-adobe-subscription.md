@@ -4,7 +4,7 @@ description: Order an Adobe subscription by creating a new agreement.
 
 # Order new Adobe subscription
 
-This tutorial explains how to order an Adobe subscription by creating a new agreement and setting up a new Adobe account.
+You can order an Adobe subscription by creating a new agreement and setting up a new Adobe account. This helps you start buying Adobe products through the SoftwareOne Marketplace.
 
 {% embed url="https://vimeo.com/986319438/c4d6c4113b?fe=sh&fl=pl" %}
 Watch a quick video guide showing how to order an Adobe subscription.
@@ -16,7 +16,7 @@ Before starting this tutorial, make sure you have the following:
 
 * An [active licensee](../../../modules-and-features/settings/licensees/licensee-states.md) or permission to [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md). Licensee selection is required when setting up a new agreement.
 * Your company's legal address and primary admin contact.
-* If choosing a 3-year commitment, the minimum committed quantity.
+* If choosing a 3-year commitment, the minimum quantities you want to commit to: at least 10 licenses or 1000 consumables.
 
 ### Order a new Adobe subscription
 
@@ -29,7 +29,7 @@ To start the order:
 1. Go to **Catalog** > **Products**.
 2. Select the required Adobe product. For example, **Adobe VIP Marketplace for Commercial**.
 3. Review the product details.
-4. Select **Buy now**.&#x20;
+4. Select **Buy now**.
 {% endstep %}
 
 {% step %}
@@ -38,16 +38,19 @@ To start the order:
 Complete the following steps:
 
 1. **Select agreement** – Select **Create agreement**.
-2. **Select licensee** – Select a licensee, then select **Next**. You can also [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md).&#x20;
-3. **Adobe account setup** – Choose **Create new Adobe account**, then select **Next**.&#x20;
-4. **Additional information** – Do the following:
-   1. Enter your **company name**, **company address**, and **primary Adobe administrator contact**.
-   2. Choose whether to join the [3-year commitment](https://helpx.adobe.com/uk/enterprise/vip/vip-subscription-term-options-marketplace.html).
-   3. If required, enter the minimum licenses you want to commit to for the 3-year term.
+2. **Select licensee** – Select a licensee, then select **Next**. You can also [create a new licensee](../../../modules-and-features/settings/licensees/create-licensees.md).
+3. **Adobe account setup** – Choose **Create new Adobe account**, then select **Next**.
+4.  **Additional information** – Do the following:
+
+    1. Enter the **Company name** and check the **Company address** and **Primary Adobe administrator**. The address is pre-filled from your buyer details, and the administrator is pre-filled with your details. The primary administrator becomes the contract owner of the Adobe account and receives Adobe's activation email.
+    2. Choose whether to join the [3-year commitment](https://helpx.adobe.com/uk/enterprise/vip/vip-subscription-term-options-marketplace.html).
+    3. If you join, enter the **Minimum committed licenses**, the **Minimum committed consumables**, or both. Enter at least one: 10 or more licenses, or 1000 or more consumables.
+
+    For Large Government Agencies, you also enter the **Agency type**, **Government agency name**, and **Government agency address**.
 5. **Select items** – Do the following:
-   1. Select the items you want to buy. You can select multiple items.&#x20;
+   1. Select the items you want to buy. You can select multiple items.
    2. Select **Add items**.
-   3. Review and adjust the quantity of each item.&#x20;
+   3. Review and adjust the quantity of each item.
    4. Select **Next**.
 {% endstep %}
 
@@ -62,9 +65,11 @@ Complete the following steps:
 
 ### Next steps
 
-After placing the order, you'll receive an invitation from Adobe to accept the terms and conditions for Adobe VIP Marketplace.&#x20;
+After placing the order, you'll receive an invitation from Adobe to accept the terms and conditions for Adobe VIP Marketplace.
 
 After accepting the terms, you can manage your licenses and deploy them to users immediately through the [Adobe Admin Console](https://adminconsole.adobe.com/).
+
+If you chose a 3-year commitment, the order pauses in **Querying** status until you accept the 3-year commitment invitation. Accept it, then select **Process** on the order. For more details, see [How do I accept my 3-year commitment invitation?](../faqs/how-do-i-accept-my-3-year-commitment-invitation.md) and [Why is my Adobe order in Querying status?](../faqs/why-is-my-adobe-order-in-querying-status.md).
 
 ### Related tasks
 

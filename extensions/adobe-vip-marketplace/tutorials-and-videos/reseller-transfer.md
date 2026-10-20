@@ -4,23 +4,24 @@ description: Transfer your account to SoftwareOne.
 
 # Transfer your Adobe reseller
 
-This tutorial explains how to transfer your account to SoftwareOne if you are currently buying Adobe product licenses through a non-SoftwareOne reseller.
+You can transfer your Adobe account to SoftwareOne if you currently buy Adobe licenses through another reseller. This helps you manage your Adobe subscriptions and orders in the SoftwareOne Marketplace.
 
-Adobe allows its VIP Marketplace customers to switch from their current reseller to a new one. This process is known as reseller transfer.&#x20;
+Adobe allows its VIP Marketplace customers to switch from their current reseller to a new one. This process is known as reseller transfer.
 
 Once the transfer is complete, SoftwareOne becomes your new reseller, managing your Adobe subscriptions and orders.
 
 {% hint style="info" %}
 * Reseller transfers are allowed only for the Adobe VIP Marketplace. Licensing programs such as the Value Incentive Plan (VIP), Cumulative Licensing Program (CLP), Transactional Licensing Program (TLP), and Enterprise Term Licensing Agreement (ETLA) don't permit a change of reseller.
-* The Marketplace Platform supports reseller transfers for all supported Adobe VIP Marketplace products, including Commercial, Education, and Government.
+* The Marketplace Platform supports reseller transfers for all supported Adobe VIP Marketplace products, including Commercial, Education, Government, and Large Government Agencies.
+* Transfer Government and Large Government Agency accounts with their own product: **Adobe VIP Marketplace for Government** or **Adobe VIP Marketplace for Large Government Agencies**.
 {% endhint %}
 
 ### Prerequisites
 
 Before starting the reseller change process, make sure you have the following details from your Adobe Admin Console:
 
-* Your system administrator's email address.&#x20;
-* Your reseller change code.&#x20;
+* Your system administrator's email address.
+* Your reseller change code.
 
 <details>
 
@@ -30,7 +31,7 @@ Before starting the reseller change process, make sure you have the following de
 As this process is managed by Adobe, see their official documentation for up-to-date instructions.
 {% endhint %}
 
-1. Sign in to the Admin Console.&#x20;
+1. Sign in to the Admin Console.
 2. Select the **Users** tab.
 
 <figure><img src="../../../.gitbook/assets/adobe-reseller-transfer-2.png" alt=""><figcaption></figcaption></figure>
@@ -55,23 +56,23 @@ As this process is managed by Adobe, see their official documentation for up-to-
 
 <figure><img src="../../../.gitbook/assets/adobe-reseller-transfer.png" alt=""><figcaption></figcaption></figure>
 
-5. Note the generated code and use it within 72 hours.
+5. Note the generated code and use it within 7 days.
 
 </details>
 
 ### Transfer your Adobe reseller
 
-All reseller transfers require a new agreement and a new purchase order in the Marketplace.
+All reseller transfers require a new agreement and a new purchase order in the Marketplace. The order includes your existing Adobe subscriptions automatically. You cannot add more items to a transfer order, but you can add them with a change order after the transfer completes.
 
-To start the process:&#x20;
+To start the process:
 
 1. Sign in to the Marketplace Platform.
 2. Go to **Catalog** > **Products**.
 3. Select **Adobe VIP Marketplace**. Then, on the product details page, review the information, and select **Buy now**.
 4. In the guided purchase flow, complete the following steps:
-   1. Select **Create agreement**.&#x20;
+   1. Select **Create agreement**.
    2. Choose a licensee or [create a new one](../../../modules-and-features/settings/licensees/create-licensees.md). Then, select **Next**.
-   3.  Choose **Transfer account** and select **Next**.&#x20;
+   3.  Choose **Transfer account** and select **Next**.
 
        <div align="left" data-with-frame="true"><figure><img src="../../../.gitbook/assets/adobe-reseller-transfer-3.png" alt=""><figcaption><p>The option to transfer your account.</p></figcaption></figure></div>
    4.  Provide your system administrator's email address and the approval code from the Admin Console. Make sure that the approval code is valid. If the code has expired, you must generate a new one from the Admin Console. Select **Next**.

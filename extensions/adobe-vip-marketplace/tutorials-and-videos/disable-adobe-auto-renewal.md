@@ -41,6 +41,10 @@ In the guided Configuration order flow, complete the following steps:
 
 Your configuration order is processed automatically. When it completes, auto-renewal is turned off. Your licenses stay active until your anniversary date, and then the subscription expires and you are not billed further.
 
+### Turn auto-renewal back on
+
+To turn auto-renewal back on, follow the same steps, and on the **Auto-renewal** step, choose **Enable**. You can do this at any time, except on the day before your anniversary date and on the anniversary date itself (US Pacific time).
+
 ### Related tasks
 
 {% content-ref url="order-adobe-subscription.md" %}
