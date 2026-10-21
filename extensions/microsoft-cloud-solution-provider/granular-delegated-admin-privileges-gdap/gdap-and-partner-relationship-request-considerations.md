@@ -1,4 +1,4 @@
-# GDAP and partner relationship request considerations
+# GDAP relationship considerations
 
 This topic describes the key points to keep in mind when establishing a GDAP or a partner relationship request with SoftwareOne.&#x20;
 
@@ -26,13 +26,13 @@ There are a few ways you can verify your domain name and ID:
 
 To establish a successful partner and GDAP admin relationship, both SoftwareOne and your organization must operate within the same Microsoft-defined regional market.&#x20;
 
-For instance, SoftwareOne Brazil can only transact with customers in Brazil. For details on the CSP regions and markets, see the [Region availability](https://learn.microsoft.com/en-us/partner-center/enroll/regional-authorization-overview#africa-region-and-market) section in Microsoft's documentation.
+For example, SoftwareOne Brazil can only transact with customers in Brazil. For details on the CSP regions and markets, see [Region availability](https://learn.microsoft.com/en-us/partner-center/enroll/regional-authorization-overview#africa-region-and-market) in Microsoft's documentation.
 
-The SoftwareOne region applicable to your order is also listed in your purchase order in the Marketplace Platform. To verify, open the details page of your order and select the **Details** tab. The **References** section displays the region.
+SoftwareOne region that applies to your order is also mentioned within your purchase order in Marketplace. To check this, open the order details page, then select the **Details** tab. The **References** section displays the region.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_authorization.png" alt=""><figcaption><p>The Details tab on the order details page.</p></figcaption></figure></div>
 
-You can also verify your organization's region in the Microsoft 365 Admin Center. To do this, sign in to the admin center and navigate to **Settings** > **Org Settings** > **Organization Information**. The name is displayed in the **Country or region** field.
+You can also verify your organization's region in the Microsoft 365 Admin Center. To do this, sign in to the admin center, then go to **Settings** > **Org Settings** > **Organization Information**. The name is displayed in **Country or region**.
 
 <div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_organization_information.png" alt=""><figcaption><p>The Organization information in Microsoft 365 Admin Center.</p></figcaption></figure></div>
 
@@ -45,4 +45,4 @@ The user setting up the partner and GDAP admin relationship must meet the follow
 * **User principal name** – Must have no reference to 'external'
 * **Identity** – Must match the tenant’s name for the partnership
 
-<figure><img src="../../../.gitbook/assets/csp_users.png" alt=""><figcaption><p>The Users section in Microsoft Entra ID.</p></figcaption></figure>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_users.png" alt=""><figcaption><p>The Users section in Microsoft Entra ID.</p></figcaption></figure></div>

@@ -12,7 +12,7 @@ When writing feedback, consider the following best practices:
 * **Focus on actions, not individuals** – Describe your experience with the platform, its features, and workflows, instead of naming individuals.
 
 {% hint style="info" %}
-Do not use the feedback form to request assistance. If you encounter an issue with the Marketplace Platform or SoftwareOne FinOps for Cloud, [contact Marketplace Platform Support](contact-support.md#contact-marketplace-platform-support) instead.&#x20;
+Do not use the feedback form to request assistance. If you encounter an issue with Marketplace or SoftwareOne FinOps for Cloud, [contact support](contact-support.md).&#x20;
 {% endhint %}
 
 ### Share feedback <a href="#share-feedback" id="share-feedback"></a>

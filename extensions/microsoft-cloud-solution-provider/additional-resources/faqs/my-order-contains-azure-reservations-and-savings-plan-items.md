@@ -25,11 +25,11 @@ To purchase Azure Reserved Instances:
 4. Select the relevant configuration options and complete all the required fields.
 5. Add the product to the cart, review the summary, and complete the purchase.
 
-For detailed instructions, see [Buy a reservation](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepare-buy-reservation) in Microsoft's documentation. The page also describes the Azure roles required for buying reservations.
+For details, see [Buy a reservation](https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/prepare-buy-reservation) in Microsoft's documentation. The page also describes the Azure roles required for buying reservations.
 
 ### Purchasing Azure Savings Plan <a href="#how-to-purchase-azure-reserved-instances" id="how-to-purchase-azure-reserved-instances"></a>
 
-Azure Savings plan offers flexible savings across multiple services, and it can significantly reduce resource costs. To buy a savings plan, you must have the necessary roles. For details, see [Permissions to buy an Azure savings plan](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/permission-buy-savings-plan).
+Azure Savings Plan offers flexible savings across multiple services, and it can significantly reduce resource costs. To buy a savings plan, you must have the necessary role. For details, see [Permissions to buy an Azure savings plan](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/permission-buy-savings-plan).
 
 To purchase an Azure savings plan:
 
@@ -40,4 +40,4 @@ To purchase an Azure savings plan:
 5. Continue through the checkout process.
 6. Review your order summary and then complete your purchase.
 
-For detailed instructions, see [Buy an Azure savings plan](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/buy-savings-plan) in Microsoft's documentation.&#x20;
+For details, see [Buy an Azure savings plan](https://learn.microsoft.com/en-us/azure/cost-management-billing/savings-plan/buy-savings-plan) in Microsoft's documentation.&#x20;

@@ -2,15 +2,15 @@
 description: Transfer your Microsoft subscriptions to SoftwareOne.
 ---
 
-# How to transfer Microsoft subscriptions to SoftwareOne
+# How to transfer Microsoft subscriptions to SoftwareOne?
 
 SoftwareOne Marketplace allows you to transfer your existing Microsoft subscriptions from another channel or partner to SoftwareOne. Subscription transfers are available for both user-based and pay-as-you-go subscriptions.&#x20;
 
 Currently, the following transfer scenarios are supported:
 
-* **CSP to CSP** - Allows you to transfer subscriptions between different CSP partners.
-* **EA to CSP** - Allows you to move from an Enterprise Agreement to CSP (direct or indirect Microsoft business agreements).
-* **Microsoft Direct (MCA) to CSP** - Allows you to transfer subscriptions from Microsoft Direct (MCA) to the CSP model.
+* **CSP to CSP** – Allows you to transfer subscriptions between different CSP partners.
+* **EA to CSP** – Allows you to move from an Enterprise Agreement to CSP (direct or indirect Microsoft business agreements).
+* **Microsoft Direct (MCA) to CSP** – Allows you to transfer subscriptions from Microsoft Direct (MCA) to the CSP model.
 
 This transfer process requires creating a new agreement in the SoftwareOne Marketplace and choosing the option to transfer your existing subscriptions. The following section describes the steps.
 
@@ -21,7 +21,7 @@ Before starting the transfer process, ensure you have the tenant domain.
 To transfer your subscriptions:
 
 1. Sign in to the Marketplace Platform.
-2. Navigate to the **Products** page. Then, select the desired **Microsoft** product you want to transfer (for example, **Microsoft Azure**).
+2. Go to the **Products** page. Then, select the desired **Microsoft** product you want to transfer (for example, **Microsoft Azure**).
 3. On the product details page, select **Buy now**.
 4. In the guided purchase flow, complete the following steps:
    1. Select **Create agreement**.
@@ -38,7 +38,7 @@ To transfer your subscriptions:
        <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/csp_transfer-subscription-items.png" alt=""><figcaption><p>Transfer request item for transferring subscriptions.</p></figcaption></figure></div>
    7. Provide optional details, such as additional IDs or order notes, and select **Next**.
    8. Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your purchase order for the transfer.
-   9. Select **View order** to open to the order details page or select **Close**.
+   9. Select **View order** to open the order details page or select **Close**.
 
 ### Next steps
 

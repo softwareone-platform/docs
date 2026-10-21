@@ -69,7 +69,7 @@ Microsoft typically processes existing tenant qualification requests within 10 b
 
 ### SoftwareOne-assisted qualification
 
-For SoftwareOne-assisted qualifications, gather your documents and share them with Marketplace Platform Support. For contact options, see [Contact Support](../../../help-and-support/contact-support.md).
+For SoftwareOne-assisted qualifications, gather your documents and share them with Marketplace Platform Support. For contact options, see [Contact support](../../../help-and-support/contact-support.md).
 
 ### Qualification status
 
@@ -79,4 +79,4 @@ You can track the status in the Microsoft 365 admin center. For details, see the
 
 Your request may have one of the following statuses:
 
-<table><thead><tr><th width="131">Status</th><th>Description</th></tr></thead><tbody><tr><td><strong>In review</strong></td><td>Microsoft is evaluating your documents. If your application takes longer than the standard Microsoft timeline, contact <a href="https://support.serviceshub.microsoft.com/supportforbusiness/onboarding?origin=/supportforbusiness/manage">Microsoft Support for Business</a>.</td></tr><tr><td><strong>Approved</strong></td><td>Your education status is approved, and you have full access to education pricing and products.</td></tr><tr><td><strong>Denied</strong></td><td>Your application doesn't meet Microsoft's current educational licensing requirements. For next steps, see <a href="../additional-resources/faqs/my-application-for-microsoft-education-is-denied.md">My Application for Microsoft Education is Denied</a>. Alternatively, <a href="../../../help-and-support/contact-support.md">contact Marketplace Platform Support</a>.</td></tr></tbody></table>
+<table><thead><tr><th width="131">Status</th><th>Description</th></tr></thead><tbody><tr><td><strong>In review</strong></td><td>Microsoft is evaluating your documents. If your application takes longer than the standard Microsoft timeline, contact <a href="https://support.serviceshub.microsoft.com/supportforbusiness/onboarding?origin=/supportforbusiness/manage">Microsoft Support for Business</a>.</td></tr><tr><td><strong>Approved</strong></td><td>Your education status is approved, and you have full access to education pricing and products.</td></tr><tr><td><strong>Denied</strong></td><td>Your application doesn't meet Microsoft's current educational licensing requirements. For the next steps, see <a href="../additional-resources/faqs/my-application-for-microsoft-education-is-denied.md">My application for Microsoft Education is denied</a>. Alternatively, <a href="../../../help-and-support/contact-support.md">contact support</a>.</td></tr></tbody></table>

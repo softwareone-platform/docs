@@ -1,4 +1,4 @@
-# Support Options for CSP
+# Support for CSP
 
 When you purchase Microsoft licenses or Azure cloud services through SoftwareOne's Microsoft CSP agreement, you automatically gain access to **SoftwareOne Services Support**. This support starts immediately after your license is activated and continues throughout your subscription period.
 
@@ -19,7 +19,7 @@ Watch a quick video guide discussing the support options for SoftwareOne CSP cus
 
 To receive full support services, you must meet specific technical requirements:
 
-1. Establish a Granular Delegated Admin Privileges (GDAP) Admin Relationship. For information on GDAP, see [Granular Delegated Admin Privileges](../granular-delegated-admin-privileges-gdap/).
+1. Establish a Granular Delegated Admin Privileges (GDAP) Admin Relationship. For information on GDAP, see [Granular delegated admin privileges](../granular-delegated-admin-privileges-gdap/).
 2. Complete Azure Lighthouse activation for Azure services. For details, see [Azure Lighthouse](../azure-lighthouse/).
 
 Failure to meet these requirements results in:
@@ -34,6 +34,6 @@ To ensure an optimal support experience and avoid unnecessary costs, complete th
 
 You can contact SoftwareOne Services Support through the [Services Portal](https://portal.softwareone.cloud/).&#x20;
 
-The portal is a secure way to submit tickets, maintain visibility of all open tickets, and gain insights into your support metrics and trends.
+The portal is a secure way to submit tickets, maintain visibility of all open tickets, and view support metrics and trends.
 
 You can also contact us by email at [support@softwareone.com](mailto:support@softwareone.com) or by phone using the phone numbers listed on the [SoftwareOne Support](https://docs.softwareone.cloud/knowledge-base/softwareone-services) page.&#x20;

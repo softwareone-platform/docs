@@ -41,10 +41,6 @@ The ordering steps and required details vary by product and vendor. Most orders 
 5. **Additional information** – Add reference details, like internal order or agreement IDs, if needed.
 6. **Review order** – Review the order details, go through the terms and conditions, and then submit your order.
 7. **Summary** – Review your order summary to ensure everything is correct.
-
-{% hint style="info" %}
-Some products add vendor-specific steps. For guided examples, see [Adobe Tutorials](/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/O3OKszh7d3UASciWrfl6) and [Microsoft CSP Support & resources](../../../extensions/microsoft-cloud-solution-provider/additional-resources/).
-{% endhint %}
 {% endstep %}
 {% endstepper %}
 

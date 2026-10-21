@@ -1,6 +1,6 @@
 # How does the Marketplace purchase wizard work?
 
-The SoftwareOne Marketplace's purchase wizard simplifies the ordering process by guiding you through each necessary step of placing an order.&#x20;
+The Marketplace purchase wizard simplifies ordering by guiding you through each step.&#x20;
 
 There are two ways to launch the wizard, depending on whether you are creating a purchase or a change order. You can either start the wizard by selecting a product on the **Products** page or by selecting **Buy more** on the **agreement details** page.
 

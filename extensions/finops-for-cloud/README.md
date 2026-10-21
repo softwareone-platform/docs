@@ -20,6 +20,6 @@ To learn more about FinOps for Cloud and how to use it, see the [documentation f
 
 ### Getting started <a href="#become-a-vip-marketplace-member" id="become-a-vip-marketplace-member"></a>
 
-You can order a FinOps for Cloud subscription from the SoftwareOne Marketplace. For details, see [Order FinOps for Cloud from Marketplace](order-finops-for-cloud-from-marketplace.md).&#x20;
+You can order a FinOps for Cloud subscription from Marketplace. For details, see [Order FinOps for Cloud from Marketplace](order-finops-for-cloud-from-marketplace.md).&#x20;
 
 Once the order is complete, we'll email your account administrator with instructions on [how to sign in to your FinOps account](https://portal.finops.softwareone.com/) and manage your organization.

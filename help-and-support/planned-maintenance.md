@@ -10,7 +10,7 @@ Planned maintenance is a crucial part of managing and operating the SoftwareOne 
 
 Planned maintenance refers to scheduled activities aimed at improving the platform's performance, security, and reliability. These activities include software updates, security patches, infrastructure upgrades, and data cleaning. By scheduling these tasks, we ensure that disruptions are kept to a minimum and that the platform remains in optimal condition.
 
-The Marketplace Platform gets several planned major updates each year to keep it running well and secure. Usually, there are about 2-3 updates each year, so you can expect one every 4-6 months. These updates bring new features, important fixes, and improvements. For a list of past updates and more details, see the [Release Notes](release-notes/) section.
+The Marketplace Platform gets several planned major updates each year to keep it running well and secure. Usually, there are about 2-3 updates each year, so you can expect one every 4-6 months. These updates bring new features, important fixes, and improvements. For a list of past updates and more details, see the [Release notes](release-notes/) section.
 
 ### Why is planned maintenance important?
 

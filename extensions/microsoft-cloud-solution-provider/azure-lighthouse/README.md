@@ -41,4 +41,4 @@ Without Azure Lighthouse, SoftwareOne may have limited ability to manage and sup
 
 ### Support
 
-If you have any questions about the Azure Lighthouse activation process, contact the **SoftwareOne Services Support** team. For details, see [Contact support](../../../help-and-support/contact-support.md).
+If you have any questions about the Azure Lighthouse activation process, contact the **SoftwareOne Services Support** team. For details, see [Contacting SoftwareOne Services support](../additional-resources/support-options-for-csp.md#how-can-i-contact-softwareone-services-support).

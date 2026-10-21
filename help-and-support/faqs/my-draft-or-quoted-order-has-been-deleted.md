@@ -1,10 +1,10 @@
 # My draft or quoted order has been deleted
 
-In the Marketplace Platform, only one order per agreement can be processed at a time.
+In Marketplace, only one order per agreement can be processed at a time.
 
 To avoid conflicts, any orders in [draft or quoted states](../../modules-and-features/marketplace/orders/order-states.md) are deleted automatically when another order under the same agreement is processed. This ensures that no concurrent changes are made to subscription items and licenses.&#x20;
 
-If your order has been deleted by the platform, you can find confirmation of its deletion in the **Audit trail** tab within the [order details page](../../modules-and-features/marketplace/orders/#subscription-details). The following image shows an example:&#x20;
+If the platform deletes your order, you can find confirmation in the **Audit trail** tab on the [order details page](../../modules-and-features/marketplace/orders/#subscription-details). The following image shows an example:&#x20;
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/faq_orders.png" alt=""><figcaption><p>The Audit trail tab within the order details page displaying information for a deleted order.</p></figcaption></figure></div>
 

@@ -14,11 +14,11 @@ When coterminosity is enabled, new eligible subscriptions are aligned to an exis
 
 The following limitations apply:
 
-* Only license-based Microsoft NCE subscriptions support coterminosity.&#x20;
+* Only license-based Microsoft NCE subscriptions support cotermination.&#x20;
 * Azure, Perpetual Software, and Software subscriptions don't support cotermination.
 * Annual and triennial term subscriptions can't be coterminated with monthly subscriptions.
 * Add-on subscriptions can be aligned to existing subscription end dates only if they belong to the same partner.
-* Annual subscriptions can't be aligned with monthly subscriptions. If coterming is enabled using a monthly date and an annual subscription is ordered, a warning is displayed stating that the end date must be updated. Otherwise, the subscription is created without coterminosity. For more information, see [Subscription End Date Errors](subscription-end-date-errors.md).
+* Annual subscriptions can't be aligned with monthly subscriptions. If coterming is enabled using a monthly date and an annual subscription is ordered, a warning is displayed stating that the end date must be updated. Otherwise, the subscription is created without coterminosity. For more information, see [Subscription end date errors](subscription-end-date-errors.md).
 
 #### Example
 
@@ -49,7 +49,7 @@ All future eligible subscriptions added to the agreement are automatically align
 
 ### Enable coterminosity for an existing agreement
 
-To enable coterminosity for an existing agreement, contact [Marketplace Platform Support](../../../../../help-and-support/contact-support.md) and provide the subscription end date that should be used for alignment.
+To enable coterminosity for an existing agreement, [contact support](../../../../../help-and-support/contact-support.md) and provide the subscription end date you want to use.
 
 The date must belong to an active subscription in the same tenant.&#x20;
 

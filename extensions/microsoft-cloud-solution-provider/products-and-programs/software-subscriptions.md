@@ -42,7 +42,7 @@ Software subscriptions can be cancelled within 7 days of order placement. Eligib
 
 Cancellations aren't accepted after this period for either new purchases or renewal orders.
 
-For details on how to cancel a subscription, see [Terminate Subscriptions](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).&#x20;
+For details on how to cancel a subscription, see [Terminate subscription](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).&#x20;
 
 ### Renewals <a href="#renewals" id="renewals"></a>
 

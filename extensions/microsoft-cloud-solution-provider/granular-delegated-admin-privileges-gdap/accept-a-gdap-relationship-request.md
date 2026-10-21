@@ -22,7 +22,7 @@ To accept a GDAP relationship request:
 6. Select the link for the Microsoft Customer Agreement and read the agreement.
 7. Select the checkbox to acknowledge that you have read the agreement, then select **Accept**.
 
-<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_accept_agreement.png" alt=""><figcaption><p>Accept the MCA.</p></figcaption></figure></div>
+<div data-with-frame="true"><figure><img src="../../../.gitbook/assets/csp_partner_accept_agreement.png" alt=""><figcaption><p>Select <strong>Accept</strong> to accept the agreement.</p></figcaption></figure></div>
 
 8. Return to your purchase order in the Marketplace and select **Process** to resume order processing.
 

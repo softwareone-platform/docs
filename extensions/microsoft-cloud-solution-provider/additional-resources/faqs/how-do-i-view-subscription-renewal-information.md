@@ -33,7 +33,7 @@ If no renewal changes are scheduled, the **Renewal information** tab displays on
 
 In some cases, the commitment end date shown in the **Renewal information** tab may differ from the current subscription end date.
 
-This can occur when [subscription dates are aligned or cotermed](/broken/pages/MBmSQKFS3AXOMaaUnojv) with other subscriptions or a calendar month.
+This can occur when subscription dates are aligned or cotermed with other subscriptions or a calendar month.
 
 When this happens, the adjusted commitment end date is displayed so you can see the date that applies after renewal.
 
@@ -43,12 +43,4 @@ When this happens, the adjusted commitment end date is displayed so you can see 
 
 {% content-ref url="what-subscription-renewal-options-are-available.md" %}
 [what-subscription-renewal-options-are-available.md](what-subscription-renewal-options-are-available.md)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/hkNeAk0joc4n1Ga5vM9F" %}
-[Broken link](/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/hkNeAk0joc4n1Ga5vM9F)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/MBmSQKFS3AXOMaaUnojv" %}
-[Broken link](/broken/spaces/Z5DNbniz33mXCZoO62Rm/pages/MBmSQKFS3AXOMaaUnojv)
 {% endcontent-ref %}

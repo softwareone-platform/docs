@@ -162,9 +162,9 @@ If you prefer not to wait, you can select **Process** in the upper-right corner 
 
 <summary>I didn't receive the Billing Transfer email.</summary>
 
-Ensure you have access to the email address registered as the root for the AWS organizational account you are trying to connect with SoftwareOne.
+Ensure you can access the email address registered as the root for the AWS organizational account you are trying to connect with SoftwareOne.
 
-If you have access but are not receiving emails, including in your spam or junk folder, contact [SoftwareOne Marketplace Platform Support](../../help-and-support/contact-support.md) or your account manager. It is possible that the account ID you are trying to connect to is not eligible for billing transfer.
+If you have access but are not receiving emails, including in your spam or junk folder, [contact support](../../help-and-support/contact-support.md) or your account manager. The account ID you want to connect might not be eligible for billing transfer.
 
 </details>
 
@@ -174,9 +174,9 @@ If you have access but are not receiving emails, including in your spam or junk 
 
 If you receive an error, check that you have the rights to accept the AWS invite for the AWS account you are trying to connect with SoftwareOne.&#x20;
 
-Additionally, check that you are not restricted by another AWS provider from switching partners. Sometimes, when an AWS account tries to connect multiple times to the same partner management account of SoftwareOne, an existing billing transfer invite (even expired) can cause new invitations to fail.&#x20;
+Additionally, check that you are not restricted by another AWS provider from switching partners. Sometimes, when an AWS account tries to connect multiple times to the same partner management account of SoftwareOne, an existing billing transfer invite (even if expired) can cause new invitations to fail.&#x20;
 
-In such cases, contact [SoftwareOne Marketplace Platform Support](../../help-and-support/contact-support.md).
+In such cases, [contact support](../../help-and-support/contact-support.md).&#x20;
 
 </details>
 
@@ -186,7 +186,7 @@ In such cases, contact [SoftwareOne Marketplace Platform Support](../../help-and
 
 To avoid common errors with the AWS billing transfer invitation, ensure you are using the correct AWS account and credentials when accepting the handshake or service period.&#x20;
 
-If you have any questions or encounter issues, contact [SoftwareOne Marketplace Platform Support](../../help-and-support/contact-support.md).
+If you have any questions or encounter issues, [contact support](../../help-and-support/contact-support.md).&#x20;
 
 </details>
 
@@ -230,7 +230,7 @@ For example, if the billing transfer request is accepted on February 19, 2026, t
 
 <summary>Where can I see my invoices?</summary>
 
-You can access your invoices on the [Invoices page](../../modules-and-features/marketplace/billing/invoices/) in the SoftwareOne Marketplace.&#x20;
+You can access invoices on the [Invoices page](../../modules-and-features/marketplace/billing/invoices/) in the SoftwareOne Marketplace.&#x20;
 
 </details>
 
@@ -238,7 +238,7 @@ You can access your invoices on the [Invoices page](../../modules-and-features/m
 
 <summary>When will the billing by SoftwareOne stop?</summary>
 
-Your billing relationship with SoftwareOne ends when the billing transfer term expires. This is at the end of the calendar month in which either SoftwareOne or you remove the billing transfer relationship.
+Your billing relationship with SoftwareOne ends when the billing transfer term expires. This is at the end of the calendar month in which either you or SoftwareOne removes the billing transfer relationship.
 
 A final invoice covering charges for that last month is issued during the following calendar month’s billing cycle (in arrears).
 
@@ -272,8 +272,8 @@ If the currency is supported, you will see your agreement in that currency in yo
 
 During the purchase process, you can choose between two support options:
 
-* **SoftwareOne Enterprise Support for AWS (Partner-Led Support or PLS)** - Support is delivered directly by SoftwareOne, providing a partner-led experience.
-* **AWS Resold Support** - Standard AWS support services delivered directly by AWS.
+* **SoftwareOne Enterprise Support for AWS (Partner-Led Support or PLS)** – Support is delivered directly by SoftwareOne, providing a partner-led experience.
+* **AWS Resold Support** – Standard AWS support services delivered directly by AWS.
 
 To learn more, see [AWS support levels](aws-concepts.md#resold-vs-partner-led-aws-support).
 
@@ -283,9 +283,9 @@ To learn more, see [AWS support levels](aws-concepts.md#resold-vs-partner-led-aw
 
 <summary>How do I get technical support?</summary>
 
-You can get support by contacting [SoftwareOne Marketplace Platform Support](../../help-and-support/contact-support.md), as well as [SoftwareOne Services Technical Support](https://docs.softwareone.cloud/knowledge-base/contacting-softwareone-support).&#x20;
+You can get support by contacting [Platform Support](../../help-and-support/contact-support.md), as well as [SoftwareOne Services Technical Support](https://docs.softwareone.cloud/knowledge-base/contacting-softwareone-support).&#x20;
 
-SoftwareOne Enterprise Support for AWS customers also get access to a dedicated services portal to submit tickets.
+SoftwareOne Enterprise Support for AWS customers can also access a dedicated services portal to submit tickets.
 
 </details>
 
@@ -295,7 +295,7 @@ SoftwareOne Enterprise Support for AWS customers also get access to a dedicated 
 
 <summary>When does the SoftwareOne agreement stop?</summary>
 
-The agreement remains active indefinitely and only expires when either party terminates the relationship and order.&#x20;
+The agreement remains active indefinitely and only expires when either party terminates the relationship or order.&#x20;
 
 A default minimum period of 12 months is added after a successful purchase.
 
@@ -347,6 +347,6 @@ For details, see the [Essentials Bootstrap Role](https://docs.softwareone.cloud/
 
 No, SoftwareOne doesn't own the root credentials of customer accounts. You don't need to share these credentials with us.
 
-This is a fundamental difference with the legacy AWS Solution Provider Program (SPP) offering ECAM (End-Customer Account Model) and SPAM (Solution Provider Account Model).
+This is a fundamental difference from the legacy AWS Solution Provider Program (SPP) offering ECAM (End-Customer Account Model) and SPAM (Solution Provider Account Model).
 
 </details>

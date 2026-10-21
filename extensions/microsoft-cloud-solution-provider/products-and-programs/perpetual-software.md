@@ -16,15 +16,15 @@ Organizations typically choose perpetual software when they:
 
 You can order perpetual licenses for these products:
 
-* Microsoft Perpetual Software - Commercial
-* Microsoft Perpetual Software - Education
-* Microsoft Perpetual Software - Charity
+* Microsoft Perpetual Software – Commercial
+* Microsoft Perpetual Software – Education
+* Microsoft Perpetual Software – Charity
 
 You can find these products on the **Catalog** > **Products** page.
 
 ### Ordering and licensing
 
-Perpetual software orders are one-time purchases. After the purchase is completed, you retain the right to use the licensed software indefinitely, subject to Microsoft's licensing terms.
+Perpetual software orders are one-time purchases. After purchasing, you can use the licensed software indefinitely, subject to Microsoft's licensing terms.
 
 Perpetual software orders:
 
@@ -58,11 +58,11 @@ You can cancel a perpetual software purchase within 30 days of the purchase date
 
 When a perpetual software purchase is canceled within the 30-day cancellation window:
 
-* The associated software keys and download links are revoked.
+* Associated software keys and download links are revoked.
 * You are responsible for discontinuing use, uninstalling the software, and removing any downloads or links.
-* The canceled item remains visible on the software details page in the [Microsoft Admin Center](https://admin.microsoft.com), but the activation key is disabled.&#x20;
+* The cancelled item remains visible on the software details page in the [Microsoft Admin Center](https://admin.microsoft.com), but the activation key is disabled.&#x20;
 
-To cancel a perpetual software purchase, contact [Marketplace Platform Support](../../../help-and-support/contact-support.md#contacting-marketplace-platform-support) and provide the order ID. We recommend that the cancellation request be submitted by an authorized representative of your organization.
+To cancel a perpetual software purchase, [contact support](../../../help-and-support/contact-support.md) and provide the order ID. We recommend that the cancellation request be submitted by an authorized representative of your organization.
 
 ### Related tasks
 

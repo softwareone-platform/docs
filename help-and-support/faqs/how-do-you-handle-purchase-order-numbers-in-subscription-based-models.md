@@ -8,13 +8,13 @@ This topic aims to answer your questions about B2B subscriptions while providing
 Watch this video guide describing how B2B subscriptions are changing traditional procurement processes.
 {% endembed %}
 
-## What is a subscription-based model?
+### What is a subscription-based model?
 
 In a subscription-based model, you pay a certain fee to access software or a service. You commit to a term and then pay a certain amount on a monthly or yearly basis.
 
 This model differs significantly from the traditional purchasing model, where a purchase order is placed, the vendor processes it, and then issues an invoice after the license is allocated. &#x20;
 
-## What are the challenges of a subscription-based model?
+### What are the challenges of a subscription-based model?
 
 In traditional transactional procurement, the procurement process is linear, which means it involves placing a purchase order, processing invoices, and reconciling them. In this model, each purchase order is directly linked to an invoice.
 
@@ -24,13 +24,13 @@ For example, you might place multiple orders for additional licenses in a month 
 
 This causes an issue during reconciliation due to a mismatch between the number of orders and invoices. &#x20;
 
-## How do enterprise procurement systems support a subscription-based model?
+### How do enterprise procurement systems support a subscription-based model?
 
 Many enterprise procurement systems support subscription-based models through various mechanisms, such as recurring purchase orders, standing orders, blanket purchase orders, open purchase orders, contract management, and more.
 
 Unlike traditional purchase orders, where each purchase order is linked to a single invoice, mechanisms (such as recurring purchase orders) represent long-term agreements, allowing multiple invoices to be associated with a single purchase order. This approach is useful in environments where regular, repeated purchases are common, such as in subscription-based billing systems.&#x20;
 
-## How does the Marketplace Platform support a subscription-based model?
+### How does the Marketplace Platform support a subscription-based model?
 
 To explain how our platform supports this process, it's important to understand the key elements of our platform.&#x20;
 
@@ -43,7 +43,7 @@ To modify a subscription, an order needs to be placed. It’s not possible to mo
 
 Placing an order establishes a relationship at the recurring purchase order level on the procurement system's side and the agreement on the marketplace platform's side. This simplifies the reconciliation process when invoices are received because each invoice has links to the agreement, recurring purchase order, and subscriptions.
 
-## How can I enter a purchase order number?  <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
+### How can I enter a purchase order number?  <a href="#client-guidance-on-po-numbers-and-invoices" id="client-guidance-on-po-numbers-and-invoices"></a>
 
 You can provide your recurring purchase order number in the **Additional ID** field when placing your order. This number will be used for reference in all consolidated invoices in the scope of each agreement on the platform.&#x20;
 
@@ -55,7 +55,7 @@ To provide a purchase order after your order has been placed, open the agreement
 
 After you have provided the number, it will be displayed on the invoice. To learn more about your billing documents, see [Understand Your Billing Documents](../../modules-and-features/billing/understand-your-billing-documents/).
 
-## How do I update a purchase order number?
+### How do I update a purchase order number?
 
 If a recurring purchase order number needs updating or changing during the subscription term, you can do this by modifying the **Additional Agreement ID** in the agreement. This updated number will then be reflected in your next invoice.
 

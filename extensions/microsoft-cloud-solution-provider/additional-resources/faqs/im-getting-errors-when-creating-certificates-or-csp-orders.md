@@ -21,7 +21,7 @@ Once verified, ensure that the same ID appears in the Marketplace Platform. To v
 
 1. Open the Marketplace order and select the **Certificates** tab.
 2. Select the certificate, then select the **Parameters** tab.
-3. Under **Ordering** parameters, check the **Microsoft Partner Network ID**. The ID must match the PLA ID in Partner Center. If it doesn’t, contact [Marketplace Platform Support](../../../../help-and-support/contact-support.md).
+3. Under **Ordering** parameters, check the **Microsoft Partner Network ID**. The ID must match the PLA ID in Partner Center. If it doesn’t, [contact support](../../../../help-and-support/contact-support.md).
 
 ### Confirm that the MPA has been accepted
 
@@ -32,10 +32,10 @@ To verify that the MPA is accepted:
 1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/home) using your global admin credentials.
 2. Select the **Settings** (gear) icon.
 3. Choose **Account settings**, then select **Agreements**.
-4. Confirm that **Microsoft Partner Agreement** is listed in the table and that you have accepted it. Additionally, verify that there are no pending actions.
+4. Confirm that the **Microsoft Partner Agreement** is listed in the table and that you have accepted it. Additionally, verify there are no pending actions.
 
 {% hint style="danger" %}
-If the agreement isn’t signed or has expired, CSP orders are blocked in the Marketplace Platform.
+If the agreement isn’t signed or has expired, CSP orders are blocked in Marketplace.
 {% endhint %}
 
 ### Verify that the reseller tenant is active

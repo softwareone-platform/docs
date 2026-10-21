@@ -8,10 +8,10 @@ SoftwareOne Marketplace has an SSO Authentication framework that integrates with
 
 Setting up SSO with SAML involves the following steps:&#x20;
 
-1. **Provide IdP metadata to SoftwareOne** - Provide SoftwareOne with basic metadata about your IdP. If your SSO tool requires the **Assertion Consumer Service URL** and **Entity ID**, contact SoftwareOne.
-2. **SoftwareOne configures the client portal for your connection** - SoftwareOne proceeds with a basic setup on the Client Portal IdP and provides you with `{connection_name}` to use for further configuration.
-3. **You complete your IdP configuration** - Finalize the setup on your side.
-4. **Federation becomes active** - All logins to the Client Portal for any of the specified IdP domains are federated out to your SAML-based IdP.
+1. **Provide IdP metadata to SoftwareOne** – Provide SoftwareOne with basic metadata about your IdP. If your SSO tool requires the **Assertion Consumer Service URL** and **Entity ID**, contact SoftwareOne.
+2. **SoftwareOne configures the client portal for your connection** – SoftwareOne proceeds with a basic setup on the Client Portal IdP and provides you with `{connection_name}` to use for further configuration.
+3. **You complete your IdP configuration** – Finalize the setup on your side.
+4. **Federation becomes active** – All logins to the Client Portal for any of the specified IdP domains are federated out to your SAML-based IdP.
 
 ### Information required by the Client Portal
 
@@ -42,11 +42,11 @@ The Client Portal requires the following attributes via specified mappings:
 
 The attributes must satisfy at least one mapping for all properties above. If your IdP provides values for the required attributes in different claims/namespaces, provide a list of claims to be used for all attributes above.
 
-Make sure to provide the attribute values as they are without any modifications. URLs are sometimes changed by security software, for example, Proofpoint’s Targeted Attack Protection adds `urldefense.com` at the beginning of links.
+Make sure to provide the attribute values as they are without any modifications. URLs are sometimes changed by security software; for example, Proofpoint’s Targeted Attack Protection adds `urldefense.com` at the beginning of links.
 
 ## Setting up SSO with Azure AD <a href="#azure-a-d" id="azure-a-d"></a>
 
-To set up SSO with the Client Portal via Azure AD, you must complete the following steps. Once these steps are completed, SoftwareOne will enable SSO with your Azure AD.
+To set up SSO with the Client Portal via Azure AD, you must complete the following steps. When complete, SoftwareOne will enable SSO with your Azure AD.
 
 ### Process
 
@@ -77,7 +77,7 @@ To create a secret:
 2. Add a description for your client secret.
 3. Set the expiration date for the secret.
 4. Select **Add**.
-5. Make a note of the client's secret value. The value won't be accessible again after you leave this page.
+5. Note the client's secret value. The value won't be accessible again after you leave this page.
 
 {% hint style="info" %}
 We recommend that you create a reminder to renew your client secret at least two weeks before it expires. Once you've created a new secret, provide the value to SoftwareOne so it can be updated in the system. If your client secret has expired or is no longer valid, you cannot sign in to the Client Portal using SSO.
@@ -99,19 +99,19 @@ To add permissions that allow read access to users and the user directory:
 6. Select **Add permissions** to complete the process.
 
 {% hint style="info" %}
-Enabling the **Directory** > **Directory.Read.All** permission is optional. If you want to benefit from future user auto-provisioning, turn it on. However, for SSO to work, this permission is not required.
+Enabling the **Directory** > **Directory.Read.All** permission is optional. To benefit from future user auto-provisioning, turn it on. However, for SSO to work, this permission is not required.
 {% endhint %}
 {% endstep %}
 
 {% step %}
-**Send details to the Marketplace Platform Support**
+**Send details to the Platform Support**
 
-Gather the following details and send them to [marketplace-support@softwareone.com](mailto:marketplace-support@softwareone.com):
+Gather the following details and send them to [platform-support@softwareone.com](mailto:platform-support@softwareone.com):
 
 {% hint style="warning" %}
 Any sensitive information, such as SSO secrets or credentials, must be shared in encrypted form. Do not send sensitive data in plain text.&#x20;
 
-If you need help encrypting or securely sharing this information, [contact Marketplace Platform Support](../contact-support.md) before sending the data. Our team can guide you through secure sharing options.
+If you need help encrypting or securely sharing this information, contact us before sending the data. Our support team can guide you through secure sharing options.
 {% endhint %}
 
 <table><thead><tr><th width="261.5">Details</th><th>Notes</th></tr></thead><tbody><tr><td>Application Client ID</td><td>You can find the Application (client) ID on the overview page of the application created in <a href="https://docs.platform.softwareone.com/help-and-support/faqs/how-do-i-set-up-sso#register-the-client-portal-with-azure-a-d">Step 1: Register the Client Portal with Azure AD</a>.</td></tr><tr><td>Application Client Secret</td><td>Your client secret as created in <a href="https://docs.platform.softwareone.com/help-and-support/faqs/how-do-i-set-up-sso#create-a-client-secret">Step 2: Create a client secret</a>.</td></tr><tr><td>Microsoft Azure AD Domain</td><td>Your Azure AD domain name. You can find this on your Azure AD directory's overview page in the Microsoft Azure portal.</td></tr><tr><td>IdP Domains</td><td>A list of all email domains that must be authenticated through the federated Azure AD, for example, <code>@customer.com</code>. Usually 1 domain, but can also be multiple.</td></tr></tbody></table>
