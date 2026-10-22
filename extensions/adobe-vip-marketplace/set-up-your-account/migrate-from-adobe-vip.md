@@ -75,6 +75,7 @@ To complete your draft order:
 Your migration order is submitted for processing. When it completes, your VIP Marketplace agreement is active, and you can manage your subscriptions in the SoftwareOne Marketplace.
 
 * Your anniversary date stays the same as it was under VIP.
+* Auto-renewal is turned on for all your migrated subscriptions. Check your subscriptions, and turn auto-renewal off for any that you don't want to renew. For more details, see [Change Adobe subscription auto-renewal](../manage-subscriptions/change-adobe-subscription-auto-renewal.md).
 * Orders you placed in Adobe VIP can no longer be returned after you migrate.
 * To add licenses or products, place a change order after the migration completes. For more details, see [Add products to your Adobe agreement](../manage-subscriptions/add-products-to-your-adobe-agreement.md).
 

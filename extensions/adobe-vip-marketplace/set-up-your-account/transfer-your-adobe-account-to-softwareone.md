@@ -87,6 +87,8 @@ To start the process:
 
 Once we process the order and change the reseller, we will notify you. You can check the status of your order on the order details page.
 
+When the transfer completes, auto-renewal is turned on for all your transferred subscriptions. Check your subscriptions, and turn auto-renewal off for any that you don't want to renew. For more details, see [Change Adobe subscription auto-renewal](../manage-subscriptions/change-adobe-subscription-auto-renewal.md).
+
 ### Related tasks
 
 {% content-ref url="set-up-a-new-adobe-agreement.md" %}
