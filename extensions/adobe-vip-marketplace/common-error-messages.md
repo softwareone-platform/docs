@@ -88,6 +88,16 @@ Messages are grouped by the task you were doing. Parts of a message in angle bra
 
 </details>
 
+<details>
+
+<summary>"AdobeProduct with vendor_external_id &#x3C;SKU> not found." (VIPM0041)</summary>
+
+**Cause** – An item on your order isn't set up for Adobe orders in the SoftwareOne Marketplace, so the order cannot continue.
+
+**Resolution** – Remove the item from the order and place the order again. If you need that item, contact SoftwareOne.
+
+</details>
+
 ### 3-year commitments
 
 <details>
@@ -145,6 +155,38 @@ Messages are grouped by the task you were doing. Parts of a message in angle bra
 <summary>"The 3-year commitment is in status &#x3C;status>. Please contact support to renew the commitment." (VIPM0035)</summary>
 
 **Cause** – Your 3-year commitment has expired, was declined, or is no longer compliant with its minimums.
+
+**Resolution** – Contact SoftwareOne.
+
+</details>
+
+### Changing quantities and auto-renewal
+
+<details>
+
+<summary>"Can't update renewal quantity. Adobe API error: &#x3C;error>." (VIPM0023)</summary>
+
+**Cause** – Adobe didn't accept the change to how many licenses renew at your anniversary date, for example because the subscription is inactive or its renewal is in progress. The changes the order had already made were undone.
+
+**Resolution** – Check Adobe's reason in the message. If the renewal is in progress, wait until the day after your anniversary date, then place the order again. If it fails again, contact SoftwareOne.
+
+</details>
+
+<details>
+
+<summary>"Error updating the subscription &#x3C;subscription>: &#x3C;details>" (VIPM0031)</summary>
+
+**Cause** – Adobe didn't accept the change to the subscription's auto-renewal. The changes the order had already made were undone.
+
+**Resolution** – Check Adobe's reason in the message, then place the configuration order again. If it fails again, contact SoftwareOne. For more details, see [Change Adobe subscription auto-renewal](manage-subscriptions/change-adobe-subscription-auto-renewal.md).
+
+</details>
+
+<details>
+
+<summary>"No Adobe subscription for vendor &#x3C;subscription>" (VIPM0031)</summary>
+
+**Cause** – A subscription in your configuration order couldn't be found at Adobe, so its auto-renewal couldn't be changed.
 
 **Resolution** – Contact SoftwareOne.
 
@@ -253,6 +295,86 @@ For more details, see [Returns and termination](returns-and-termination/).
 **Cause** – More than one discount code was applied to the same item.
 
 **Resolution** – Keep one discount code for each item, then place the order again.
+
+</details>
+
+<details>
+
+<summary>"Manual renewal preview failed for subscription &#x3C;subscription>: &#x3C;error>." (VIPM0043)</summary>
+
+**Cause** – Adobe didn't accept the late renewal of the subscription. The message includes Adobe's reason.
+
+**Resolution** – Check Adobe's reason. You can renew late only for up to 14 days after your anniversary date; after that, order the product as a new subscription. Otherwise, contact SoftwareOne. For more details, see [Renew Adobe subscriptions late](renew-subscriptions/renew-adobe-subscriptions-late.md).
+
+</details>
+
+<details>
+
+<summary>"Manual renewal order failed for subscription &#x3C;subscription>: &#x3C;error>." (VIPM0044)</summary>
+
+**Cause** – Adobe refused the late renewal order for the subscription.
+
+**Resolution** – Contact SoftwareOne. Include the order ID and the full message.
+
+</details>
+
+<details>
+
+<summary>"The Adobe subscription &#x3C;subscription> referenced by the renewal plan was not found." (VIPM0045)</summary>
+
+**Cause** – Your renewal plan includes a subscription that Adobe can no longer find, so the renewal could not be completed.
+
+**Resolution** – Open the renewal wizard and plan the renewal again. If the message appears again, contact SoftwareOne.
+
+</details>
+
+<details>
+
+<summary>"The renewal preview validation failed: &#x3C;error>." (VIPM0046)</summary>
+
+**Cause** – Adobe didn't accept the renewal you planned. The message includes Adobe's reason.
+
+**Resolution** – Open the renewal wizard, change the plan based on Adobe's reason, and place the renewal again. If you cannot resolve it, contact SoftwareOne.
+
+</details>
+
+<details>
+
+<summary>"Failed to create the scheduled subscription for offer &#x3C;offer>: &#x3C;error>." (VIPM0047)</summary>
+
+**Cause** – Adobe didn't accept a new product that you added to your renewal plan.
+
+**Resolution** – Open the renewal wizard, remove or change the new product, and place the renewal again. Contact SoftwareOne if you need help.
+
+</details>
+
+<details>
+
+<summary>"Failed to update the auto-renewal preference of subscription &#x3C;subscription>: &#x3C;error>." (VIPM0048)</summary>
+
+**Cause** – Adobe didn't accept a change that your renewal plan makes to a subscription's renewal settings. The changes the plan had already made were undone.
+
+**Resolution** – Open the renewal wizard and place the renewal again. If it fails again, contact SoftwareOne.
+
+</details>
+
+<details>
+
+<summary>"The renewal order failed: &#x3C;error>." (VIPM0049)</summary>
+
+**Cause** – Adobe didn't accept your early renewal. The message includes Adobe's reason.
+
+**Resolution** – Check Adobe's reason, then try again in the renewal wizard. If it fails again, contact SoftwareOne. For more details, see [Renew Adobe subscriptions now](renew-subscriptions/renew-adobe-subscriptions-now.md).
+
+</details>
+
+<details>
+
+<summary>"Failed to return the previous renewal order for subscription &#x3C;subscription>: &#x3C;error>." (VIPM0050)</summary>
+
+**Cause** – Your new renewal replaces an early renewal you placed before, and Adobe didn't accept the return of that earlier renewal.
+
+**Resolution** – Contact SoftwareOne. Include the order ID and the full message.
 
 </details>
 
@@ -413,6 +535,56 @@ The following table describes the messages you might see in the upgrade wizard:
 
 </details>
 
+<details>
+
+<summary>"The provided &#x3C;field> contains the item with SKU &#x3C;SKU> that is not part of the product definition." (VIPM0006)</summary>
+
+**Cause** – Your VIP membership includes a product that isn't available in the SoftwareOne Marketplace, so the migration cannot include it.
+
+**Resolution** – Contact SoftwareOne.
+
+</details>
+
+<details>
+
+<summary>"Error processing the membership &#x3C;membership>: &#x3C;error>" (VIPM0032)</summary>
+
+**Cause** – Your VIP membership's subscriptions couldn't be read from Adobe.
+
+**Resolution** – Check the membership number, then place the order again. If the message appears again, contact SoftwareOne.
+
+</details>
+
+<details>
+
+<summary>"Adobe API transfer validation error. &#x3C;error>." (VIPM0028)</summary>
+
+**Cause** – Adobe didn't accept the migration of your VIP membership. The message includes Adobe's reason.
+
+**Resolution** – Check Adobe's reason in the message. If you cannot resolve it, contact SoftwareOne.
+
+</details>
+
+<details>
+
+<summary>"Order can't be processed. Failure reason: Due date is reached (&#x3C;date>)." (VIPM0012)</summary>
+
+**Cause** – Adobe didn't finish moving your VIP membership before the order's processing deadline, so the order failed.
+
+**Resolution** – Contact SoftwareOne before you place the order again, so the state of the migration can be checked with Adobe.
+
+</details>
+
+<details>
+
+<summary>"Errors processing transfer lines: &#x3C;details>" (VIPM0042)</summary>
+
+**Cause** – One or more products on your Adobe account aren't available in the SoftwareOne Marketplace, so the transfer cannot include them. The message lists the products.
+
+**Resolution** – Contact SoftwareOne.
+
+</details>
+
 ### End-of-sale products
 
 <details>
@@ -422,6 +594,38 @@ The following table describes the messages you might see in the upgrade wizard:
 **Cause** – Adobe no longer sells the item you ordered.
 
 **Resolution** – Choose one of the available items listed in the message.
+
+</details>
+
+### Orders that Adobe couldn't complete
+
+<details>
+
+<summary>"Unrecoverable Adobe Order status: &#x3C;description>" (VIPM0026)</summary>
+
+**Cause** – Adobe could not complete the order, for example because the order failed or was cancelled at Adobe.
+
+**Resolution** – Contact SoftwareOne before you place the order again. Include the order ID and the full message.
+
+</details>
+
+<details>
+
+<summary>"Unexpected status (&#x3C;status>) received from Adobe." (VIPM0027)</summary>
+
+**Cause** – Adobe returned a status for the order that the SoftwareOne Marketplace doesn't expect.
+
+**Resolution** – Contact SoftwareOne. Include the order ID and the full message.
+
+</details>
+
+<details>
+
+<summary>"Received Adobe error 1116 - &#x3C;message>" (VIPM0039)</summary>
+
+**Cause** – Adobe no longer recognizes the Adobe account linked to your agreement, so the order failed.
+
+**Resolution** – Contact SoftwareOne.
 
 </details>
 
