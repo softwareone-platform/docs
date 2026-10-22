@@ -68,7 +68,7 @@ Your renewal takes effect today, and your anniversary date moves forward a year.
 After you renew now:
 
 * You cannot renew fewer licenses than you already renewed early.
-* Change, configuration, and termination orders are locked until your anniversary date. Upgrades are available again 30 days after the early renewal.
+* Change, configuration, and termination orders, and upgrades, are locked until your original anniversary date (the anniversary date you had before you renewed now).
 * If you have a 3-year commitment, your renewal must keep you at or above your committed minimum.
 
 ### Related tasks

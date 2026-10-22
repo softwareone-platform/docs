@@ -20,7 +20,7 @@ Prices shown in the wizard are estimates. The final amount appears on your next 
 
 * You are signed in with a client account. The upgrade wizard is available to client accounts only.
 * The subscription and the agreement are both **Active**.
-* No renewal is in place for the agreement. You cannot upgrade while a renewal is planned for your anniversary date, or for 30 days after an early renewal.
+* No renewal is in place for the agreement. You cannot upgrade while a renewal is planned for your anniversary date, or after an early renewal until your original anniversary date.
 
 ### Upgrade an Adobe subscription
 

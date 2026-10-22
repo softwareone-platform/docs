@@ -80,16 +80,6 @@ Messages are grouped by the task you were doing. Parts of a message in angle bra
 
 <details>
 
-<summary>"The agreement is not eligible for market segment &#x3C;segment>." (VIPM0024)</summary>
-
-**Cause** – Adobe has not confirmed that your organization is eligible for the Education or Government segment.
-
-**Resolution** – Contact SoftwareOne to confirm your eligibility.
-
-</details>
-
-<details>
-
 <summary>"Due date &#x3C;date> for order processing is reached." (VIPM0025)</summary>
 
 **Cause** – The order was still in **Processing** status when its processing deadline passed, so it failed. Orders waiting in **Querying** status don't fail for this reason: their deadline is cleared while they wait, and a new one is set when you select **Process**.
@@ -142,7 +132,7 @@ Messages are grouped by the task you were doing. Parts of a message in angle bra
 
 <details>
 
-<summary>"The order has failed. The reduction in quantity would place the account below the minimum commitment of …" (VIPM0020)</summary>
+<summary>"The order has failed. The reduction in quantity would place the account below the minimum commitment of …" (VIPM0034)</summary>
 
 **Cause** – The reduction would take your licenses or consumables below your 3-year commitment minimum.
 
@@ -295,7 +285,7 @@ The following table describes the messages you might see in the upgrade wizard:
 | Message                                                                                                                                                                             | What to do                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | "A renewal has been set up for this agreement's anniversary date, so the subscription cannot be upgraded until it takes effect. To change the renewal, re-open the renewal wizard." | Upgrade after your anniversary date, or change the renewal in the renewal wizard. |
-| "An early renewal has already been placed for this agreement, so the subscription cannot be upgraded until it takes effect at the anniversary date. …"                              | Upgrades are possible again 30 days after the early renewal.                      |
+| "An early renewal has already been placed for this agreement, so the subscription cannot be upgraded until it takes effect at the anniversary date. …"                              | Upgrades are possible again after your original anniversary date.                 |
 | "No upgrades available"                                                                                                                                                             | Adobe does not offer an upgrade for this product.                                 |
 | "The mid-term upgrade is available to client accounts only."                                                                                                                        | Sign in with your client account.                                                 |
 
@@ -407,9 +397,9 @@ The following table describes the messages you might see in the upgrade wizard:
 
 <summary>"Error processing the reseller change code &#x3C;code>: &#x3C;details>" (VIPM0036)</summary>
 
-**Cause** – Adobe did not accept the reseller change code, for example, because it has expired.
+**Cause** – Adobe did not accept the reseller change code, for example, because it has expired, or the administrator email address doesn't match an administrator on the Adobe account.
 
-**Resolution** – Generate a new code in the Adobe Admin Console, then place the order again. For more details, see [Transfer your Adobe account to SoftwareOne](set-up-your-account/transfer-your-adobe-account-to-softwareone.md).
+**Resolution** – Generate a new code in the Adobe Admin Console, or check the email address under **Users** > **Administrators**, then place the order again. For more details, see [Transfer your Adobe account to SoftwareOne](set-up-your-account/transfer-your-adobe-account-to-softwareone.md).
 
 </details>
 
@@ -420,16 +410,6 @@ The following table describes the messages you might see in the upgrade wizard:
 **Cause** – You added items to a reseller transfer order.
 
 **Resolution** – Remove the extra items. After the transfer completes, add them with a change order.
-
-</details>
-
-<details>
-
-<summary>"The customer admin Email is not valid" (VIPM0037)</summary>
-
-**Cause** – Adobe did not accept the administrator email address for this account.
-
-**Resolution** – Check the email address in the Adobe Admin Console, under **Users** > **Administrators**, then place the order again.
 
 </details>
 
