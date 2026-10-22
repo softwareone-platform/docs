@@ -6,12 +6,13 @@ description: Renew Adobe subscriptions that expired on your anniversary date.
 
 You can renew Adobe subscriptions that expired on your anniversary date for up to 14 days afterwards. This helps you get your licenses back if your subscriptions didn't renew, for example, because auto-renewal was turned off.
 
-To renew late, you order the same products again. The SoftwareOne Marketplace recognizes the order as a late renewal.
+To renew late, you order the same products again on the agreement they belonged to. The SoftwareOne Marketplace recognizes the order as a late renewal.
 
 ### Prerequisites
 
 * It is no more than 14 days after your anniversary date (US Pacific time). For more details, see [Key dates and deadlines](../key-dates-and-deadlines.md).
 * You order products you had in your previous term.
+* The agreement the subscriptions belonged to is still **Active**. If every subscription on the agreement expired, the agreement has ended. For what to do, see [If every subscription has expired](renew-adobe-subscriptions-late.md#if-every-subscription-has-expired).
 
 ### Renew late
 
@@ -39,7 +40,16 @@ In the guided purchase flow, complete the following steps:
 {% endstep %}
 {% endstepper %}
 
-You can also renew late with a new purchase for the same Adobe account.
+### If every subscription has expired
+
+If every subscription on your agreement expired, the agreement ends automatically, usually the day after your anniversary date, and its status changes to **Terminated**. Your Adobe account isn't affected.
+
+To renew late in this case:
+
+1. Contact Platform Support within 14 days of your anniversary date, and ask for a new agreement for your Adobe account. For more details, see [Contact support](../../../help-and-support/contact-support.md).
+2. When the new agreement is ready, order the products again on it, as described in [Renew late](renew-adobe-subscriptions-late.md#renew-late).
+
+Contact us as early as you can, so there's time to set up the new agreement before the 14 days end.
 
 ### Next steps
 
