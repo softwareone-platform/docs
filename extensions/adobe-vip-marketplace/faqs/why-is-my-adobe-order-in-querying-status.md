@@ -19,6 +19,6 @@ The following table describes the most common reasons and what to do:
 
 ### Order processing deadline
 
-Each order has an **Order processing deadline**, typically 30 days after the order was placed. You can see it on the agreement's **Parameters** tab. If the order is still in **Querying** or **Processing** status after this date, it fails. To avoid this, complete the action the order asks for as soon as possible.
+An order waiting in **Querying** status doesn't fail because of its **Order processing deadline**. The deadline is cleared while the order waits, and a new one is set when you select **Process**. Complete the action the order asks for as soon as you can, so that your order goes ahead without delay.
 
 For more details, see [Common error messages](../common-error-messages.md).

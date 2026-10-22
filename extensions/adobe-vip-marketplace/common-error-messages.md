@@ -54,7 +54,7 @@ Messages are grouped by the task you were doing. Parts of a message in angle bra
 
 **Cause** – Adobe rejected the company name, address, or contact when it tried to create your account. The order is paused in **Querying** status.
 
-**Resolution** – Open the order, correct the field named in the message, and select **Process**. Do this before the order's processing deadline, or the order fails.
+**Resolution** – Open the order, correct the field named in the message, and select **Process**. The order waits in **Querying** status until you do.
 
 </details>
 
@@ -92,9 +92,9 @@ Messages are grouped by the task you were doing. Parts of a message in angle bra
 
 <summary>"Due date &#x3C;date> for order processing is reached." (VIPM0025)</summary>
 
-**Cause** – The order was still in **Processing** or **Querying** status when its processing deadline passed, so it failed.
+**Cause** – The order was still in **Processing** status when its processing deadline passed, so it failed. Orders waiting in **Querying** status don't fail for this reason: their deadline is cleared while they wait, and a new one is set when you select **Process**.
 
-**Resolution** – Place the order again. If it was waiting in **Querying** status, complete the action the order asks for before you select **Process**.
+**Resolution** – Place the order again.
 
 </details>
 

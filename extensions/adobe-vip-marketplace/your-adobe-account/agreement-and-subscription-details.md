@@ -12,16 +12,16 @@ These details are updated from Adobe regularly. The **Last Adobe sync date** sho
 
 To see the details of an agreement, open the agreement and select the **Parameters** tab. The following table describes the main details:
 
-| Detail                          | Description                                                                                                                                 |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Adobe account setup**         | How the Adobe account was set up: new, migrated from Adobe VIP, or transferred from another reseller.                                       |
-| **Company name**                | The legal name on the Adobe account.                                                                                                        |
-| **Company address**             | The address of the company buying Adobe products in this region.                                                                            |
-| **Primary Adobe administrator** | The primary administrator and contract owner of the Adobe account.                                                                          |
-| **Adobe customer ID**           | The identifier Adobe assigned to the account.                                                                                               |
-| **Adobe anniversary date**      | The date your subscriptions renew. It is normally 12 months after your first order, but can be up to 36 months with extended terms.         |
-| **Order processing deadline**   | The date by which the current order must complete, typically 30 days after it was placed. An order still in progress after this date fails. |
-| **Last Adobe sync date**        | When the agreement was last updated from Adobe.                                                                                             |
+| Detail                          | Description                                                                                                                                                                                                                                                             |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Adobe account setup**         | How the Adobe account was set up: new, migrated from Adobe VIP, or transferred from another reseller.                                                                                                                                                                   |
+| **Company name**                | The legal name on the Adobe account.                                                                                                                                                                                                                                    |
+| **Company address**             | The address of the company buying Adobe products in this region.                                                                                                                                                                                                        |
+| **Primary Adobe administrator** | The primary administrator and contract owner of the Adobe account.                                                                                                                                                                                                      |
+| **Adobe customer ID**           | The identifier Adobe assigned to the account.                                                                                                                                                                                                                           |
+| **Adobe anniversary date**      | The date your subscriptions renew. It is normally 12 months after your first order, but can be up to 36 months with extended terms.                                                                                                                                     |
+| **Order processing deadline**   | The date by which the current order must complete, typically 30 days after it was placed. An order still in **Processing** status after this date fails. While an order waits in **Querying** status, it has no deadline; a new one is set when you select **Process**. |
+| **Last Adobe sync date**        | When the agreement was last updated from Adobe.                                                                                                                                                                                                                         |
 
 #### 3-year commitment details
 
