@@ -128,7 +128,7 @@ Additional licenses may be added at any time after your initial order. The anniv
 
 Licenses purchased through VIP Marketplace automatically renew for the following year. Your annual subscription will automatically renew with Adobe on your anniversary date at the current sales price in effect for your qualifying discount level (prices subject to change), unless auto-renewal is turned off.
 
-If you turn off auto-renewal with a configuration order, your licenses stay active until your next anniversary date and are then deactivated. A reminder notification will be sent before any licenses are deactivated. You can change your renewal settings at any time, except on the day before your anniversary date and on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](key-dates-and-deadlines.md).
+If you turn off auto-renewal with a configuration order, your licenses stay active until your next anniversary date and are then deactivated. You can change your renewal settings at any time, except on the day before your anniversary date and on the anniversary date itself (US Pacific time). For more details, see [Key dates and deadlines](key-dates-and-deadlines.md).
 
 For example, if in your current term, you are at discount level 2 (10-49 licenses) and in your renewal term, your auto-renewal order is for 50-99 licenses, you would receive the level 3 discount. Also, if in your current term, your Adobe product offer is based on promotional pricing, then in your renewal term, your Adobe product offer will be based on standard pricing because the promotional pricing has expired.
 
