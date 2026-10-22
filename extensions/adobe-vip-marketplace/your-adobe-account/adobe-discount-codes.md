@@ -54,7 +54,7 @@ Only one discount code can be applied to each item.
 
 ### Enter a code yourself
 
-In the renewal and upgrade wizards, you can type in a code that is not on your list. If the code is not known, the wizard warns you. You can still place the order, but an invalid code causes the order to fail. To have a code added to your list, contact your SoftwareOne sales team.
+In the renewal and upgrade wizards, you can type in a code that is not on your list. If the code is not known, the wizard warns you. You can still place the order. On a renewal, an invalid code causes the order to fail. On an upgrade, the upgrade goes ahead without the discount. To have a code added to your list, contact your SoftwareOne sales team.
 
 ### Why a code is refused
 
