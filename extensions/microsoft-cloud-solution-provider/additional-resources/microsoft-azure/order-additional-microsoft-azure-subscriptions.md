@@ -18,9 +18,9 @@ Before starting this tutorial, make sure that the agreement you want to use is i
 
 To start the order:
 
-1. Go to **Catalog** > **Products**.
+1. Go to **Catalog** > **Cloud products**.
 2. Select **Microsoft Azure**.
-3. On the product details page, review the product information, then select **Buy now**.
+3. Review the product details, then select **Buy now**.
 {% endstep %}
 
 {% step %}
@@ -28,13 +28,13 @@ To start the order:
 
 In the guided purchase flow, complete the following steps:
 
-1. **Select agreement** – Select an active agreement, then select **Next**.&#x20;
-2. **Microsoft details** – Provide a name for your Azure subscription. Make sure the name meets Microsoft's naming requirements.&#x20;
-3. **Items** – Select **Add items** to add the new Azure subscription to your order, then select **Next**. For Microsoft Azure, there is only one item without any associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
+1. **Select agreement** – Select an agreement, then select **Next**.&#x20;
+2. **Microsoft details** – Enter a name for your Azure subscription. Make sure the name meets Microsoft's naming requirements.&#x20;
+3. **Items** – Select **Add items**, then select **Next**. For Microsoft Azure, there is only one item without any associated cost. When using Azure services, pay-as-you-go charges are generated against the subscription.
 
 <div data-with-frame="true"><figure><img src="../../../../.gitbook/assets/image (1032).png" alt=""><figcaption><p>The Items step in the ordering process.</p></figcaption></figure></div>
 
-4. **Details** – Add reference details and your comments, then select **Next**.
+4. **Details** – Add reference details and comments, then select **Next**.
 5. **Review order** – Read the terms and conditions and the privacy statement. When done, select **Place order** to submit your order.
 6. **Summary** – Select **View order** to open the order details page or select **Close**.
 {% endstep %}

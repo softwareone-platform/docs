@@ -203,7 +203,7 @@ All price lists are available on the **Catalog** > **Price lists** page. Price l
 
 <summary>How do I view products in the SoftwareOne Marketplace?</summary>
 
-You can view products by selecting **Catalog** > **Products** from the main menu.
+You can view the catalog on the **Cloud products** page.
 
 </details>
 
@@ -213,9 +213,9 @@ You can view products by selecting **Catalog** > **Products** from the main menu
 
 To buy products for resale to your customers:
 
-1. Open the **Products** page.
-2. Select the product you want to buy. Then, select **Buy Now**.
-3. Follow the steps in the purchase wizard. Make sure to create a new agreement or select an existing one, select a preconfigured resale licensee, and choose your certificate.
+1. Open the **Cloud products** page.
+2. Select the required product, then select **Buy Now**.
+3. Follow the guided steps in the purchase wizard. Make sure to create a new agreement or select an existing one, select a preconfigured resale licensee, and choose your certificate.
 4. Complete the remaining steps in the wizard to place your order.
 
 For detailed instructions, see [How to order products for resale](how-to-order-products-for-resale.md).
@@ -320,7 +320,7 @@ Marketplace subscriptions renew automatically unless you disable automatic renew
 
 <summary>Can I disable auto-renewal for a subscription?</summary>
 
-Yes, you can disable the auto-renewal by placing a configuration order.&#x20;
+Yes, you can disable auto-renewal by placing a configuration order.&#x20;
 
 For details, see [Manage automatic renewals](../../../modules-and-features/marketplace/subscriptions/manage-automatic-renewals.md).
 
@@ -338,9 +338,9 @@ Yes, SoftwareOne partners managing multiple subscriptions can rename subscriptio
 
 <summary>How do I terminate a subscription?</summary>
 
-Subscriptions can be terminated by placing a termination order.
+You can terminate a subscription by placing a termination order.
 
-* To cancel all subscriptions in an agreement, place a termination order for the entire agreement. For details, see [Terminate agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
-* To cancel specific subscriptions in an agreement, place a termination order for the subscription. For details, see [Terminate subscription](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
+* To cancel all subscriptions in the agreement, place a termination order for the entire agreement. For details, see [Terminate agreement](../../../modules-and-features/marketplace/agreements/terminate-agreements.md).
+* To cancel specific subscriptions in the agreement, place a termination order for the subscription. For details, see [Terminate subscription](../../../modules-and-features/marketplace/subscriptions/terminate-a-subscription.md).
 
 </details>

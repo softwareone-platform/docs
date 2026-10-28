@@ -2,7 +2,7 @@
 description: How to add an Azure subscription to an existing Azure tenant.
 ---
 
-# Purchase Azure subscription for existing tenant
+# Purchase Azure subscription for an existing tenant
 
 This tutorial describes how you can order a subscription for Microsoft Azure by setting up a new agreement and connecting your existing tenant.&#x20;
 
@@ -14,9 +14,9 @@ Watch this video guide explaining how to order Microsoft Azure subscription for 
 
 Before starting this tutorial, make sure you have the following:
 
-* An existing licensee in the **active** state or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) (if you don't want to use an existing licensee). You'll need to select the licensee when setting up the new agreement.&#x20;
+* An active licensee or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md).
 * The name of the Microsoft tenant you want to connect.&#x20;
-* The contact details of the person who will manage your account.&#x20;
+* The contact details of the person who manages your account.&#x20;
 
 ### Purchase an Azure subscription for an existing tenant <a href="#id-1.-launch-the-purchase-wizard" id="id-1.-launch-the-purchase-wizard"></a>
 
@@ -26,7 +26,7 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Go to **Catalog** > **Products**.
+1. Go to **Catalog** > **Cloud products**.
 2. From the list of products, select **Microsoft Azure**.
 3. On the product details page, review the product information, then select **Buy now**.&#x20;
 {% endstep %}
@@ -41,10 +41,10 @@ In the guided purchase flow, complete the following steps:
 3. **Create agreement** – Select **Connect existing cloud account**.
 4. **Microsoft details** – Do the following:&#x20;
    1. In **Primary** **domain name**, enter your existing domain name.
-   2. In **Azure subscription name**, provide a name for your Azure subscription. Make sure the name meets Microsoft's naming requirements. If you leave the field empty or provide a name that isn't accepted, the platform assigns a default name to the subscription.&#x20;
+   2. In **Azure subscription name**, enter your Azure subscription name. Ensure the name meets Microsoft's naming requirements. If you leave the field empty or provide a name that isn't accepted, the platform assigns a default subscription name.&#x20;
    3. In **Primary contact**, complete the required fields, then select **Next**.
 5. **Additional information** – Do the following:&#x20;
-   1. If your organization is a [state-owned entity](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria), select the checkbox. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.&#x20;
+   1. If your organization is a [state-owned entity](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria), select the checkbox. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions the government considers its own.&#x20;
    2. Enter the contact details for your support administrator and choose your preferred support language. Select **Next**.
 {% endstep %}
 

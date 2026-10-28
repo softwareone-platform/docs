@@ -67,7 +67,7 @@ You can configure your profile using the **My profile** option in your account m
 2. Do the following as necessary:
    * Update your name and contact information.
    * Add a profile picture.
-   * Set your timezone, regional settings, and language preferences.
+   * Set your time zone, regional settings, and language preferences.
 
 </details>
 
@@ -102,7 +102,7 @@ Administrators can create new groups and assign members to those groups. Additio
 **To create a new group**
 
 1. Go to the [Groups page](../../modules-and-features/settings/groups/), then select **Add**.
-2. In the **Add group** wizard, configure the group:
+2. In the **Add group** flow, configure the group:
    1. Add a group name and description.
    2. Select the required modules.
    3. Choose the required buyers.
@@ -148,7 +148,7 @@ There are two primary ways of finding products in the Marketplace.
 **To find products**
 
 * Use the [global search bar](../getting-started/interface/#using-the-search-feature). Start by typing the product name, ID, or vendor. The platform displays results that match your search term.
-* [Visit the Products page](../../modules-and-features/catalog/products.md).
+* [Visit the Cloud products page](../../modules-and-features/catalog/products.md).
 
 </details>
 
@@ -160,9 +160,9 @@ The purchase wizard contains guided steps to submit an order. After you have ide
 
 **To start the purchase wizard**
 
-1. On the **Products** page, select the required product.
-2. Review the product details, list of features, and other details.
-3. Select **Buy now**. The purchase wizard starts.
+1. On the **Cloud products** page, select the required product.
+2. Review the product details.
+3. Select **Buy now** to start the purchase wizard starts.
 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/purchase-wizard.png" alt=""><figcaption><p>The purchase wizard contains guided steps to place an order.</p></figcaption></figure></div>
 
@@ -185,7 +185,6 @@ The ordering steps might vary slightly depending on the product you are ordering
 
 For product-specific tutorials, see the following pages:
 
-* [Order new Adobe subscription](../../extensions/adobe-vip-marketplace/set-up-your-account/set-up-a-new-adobe-agreement.md)
 * [Order FinOps for Cloud from Marketplace](../../extensions/finops-for-cloud/order-finops-for-cloud-from-marketplace.md)
 * [Buy Microsoft 365 subscription for a new tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-new-tenant.md)
 * [Buy Microsoft 365 subscription for an existing tenant](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/order-microsoft-365-subscription-existing-tenant.md)
@@ -213,10 +212,10 @@ After placing the order, use the **Orders** page to view detailed information an
 
 When tracking orders, look for key statuses such as:
 
-* **Querying** - Indicates that you need to provide additional information before we can process your order. For querying orders, the **General** tab on the details page will outline the required information and the steps you need to take.
-* **Processing** - Indicates that we are processing your order.
-* **Completed** - Indicates that your order has been processed.
-* **Failed** - Indicates that the order has been marked as failed by the vendor or SoftwareOne. The failure reason is displayed on the order details page.
+* **Querying** – Indicates that you need to provide additional information before we can process your order. For querying orders, the **General** tab on the details page will outline the required information and the steps you need to take.
+* **Processing** – Indicates that we are processing your order.
+* **Completed** – Indicates that your order has been processed.
+* **Failed** – Indicates that the order has failed. The order details page shows the reason.
 
 For additional order statuses, see [Order states](../../modules-and-features/marketplace/orders/order-states.md).
 
@@ -281,7 +280,7 @@ Once auto-renewal is disabled, your subscription expires at the end of the commi
 
 <summary>If I need assistance with the platform, whom should I contact?</summary>
 
-You can contact the Marketplace Platform Support team. For details on how to contact us, see [Contact support](../../help-and-support/contact-support.md).
+You can [contact Platform Support](../../help-and-support/contact-support.md).&#x20;
 
 </details>
 
@@ -297,9 +296,8 @@ You can use the [Settings module](../../modules-and-features/settings/) to manag
 
 <summary>I would like to know more about managing subscriptions and agreements.</summary>
 
-For details on managing your subscriptions and agreements, including terminations, see the following links:
+For details on managing your subscriptions and agreements, including terminations, see the following link:
 
-* [Adobe VIP Marketplace](/broken/pages/O3OKszh7d3UASciWrfl6)
 * [Microsoft 365 tutorials](../../extensions/microsoft-cloud-solution-provider/additional-resources/microsoft-365/)
 
 </details>

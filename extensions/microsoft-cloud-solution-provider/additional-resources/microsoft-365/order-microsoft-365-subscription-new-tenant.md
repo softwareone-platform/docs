@@ -18,7 +18,7 @@ Watch this video guide explaining how to order Microsoft 365 subscription for a 
 
 Before starting this tutorial, make sure you have the following:
 
-* A licensee in the active state, or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) if you don't want to use an existing active licensee. Licensee selection is required when setting up a new agreement.&#x20;
+* An active licensee or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md). A licensee must be selected when setting up a new agreement.&#x20;
 * Your company details, including the company name, registration ID, and address. These details are required for creating a new Microsoft tenant.&#x20;
 * The contact details of the person who manages your Microsoft account.&#x20;
 
@@ -30,9 +30,9 @@ Before starting this tutorial, make sure you have the following:
 
 To start the order:
 
-1. Go to **Catalog** > **Products**.
+1. Go to **Catalog** > **Cloud** **products**.
 2. Select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps**.
-3. On the details page, review the information, then select **Buy now**.&#x20;
+3. Review the product information, then select **Buy now**.&#x20;
 {% endstep %}
 
 {% step %}
@@ -41,11 +41,11 @@ To start the order:
 In the guided purchase flow, complete the following steps:
 
 1. **Create agreement** – Select **Create agreement**.
-2. **Select licensee** – Select an existing licensee or [create a new one](../../../../modules-and-features/settings/licensees/create-licensees.md). In this tutorial, an existing licensee is selected.
-3. **Create agreement** – Select **Create new cloud account** to create a new organization tenant with Microsoft. Then, select **Next**.
+2. **Select licensee** – Select a licensee or [create a new one](../../../../modules-and-features/settings/licensees/create-licensees.md).&#x20;
+3. **Create agreement** – Select **Create new cloud account** to create a new organization tenant with Microsoft, then select **Next**.
 4. **Microsoft details** – Enter your Microsoft account details:
    1. Enter the tenant name you want to use on the `onmicrosoft.com` domain. Ensure that the name doesn't include punctuation marks or spaces. You can check whether the tenant name is available using the [Access tenant name availability tool](https://onmicrosoft.platform.softwareone.com/).
-   2. (Optional) Select the **I would like to align subscription end dates within this agreement** checkbox. When selected, all future subscriptions created within this agreement are cotermed and aligned with the subscriptions created during the initial purchase. To learn more, see [Subscription Coterminosity](../../products-and-programs/microsoft-nce/about-subscription-coterminosity/).
+   2. (Optional) Select the **I would like to align subscription end dates within this agreement** checkbox. When selected, all future subscriptions created within this agreement are cotermed and aligned with the subscriptions created during the initial purchase. To learn more, see [Align subscription end dates](../../products-and-programs/microsoft-nce/about-subscription-coterminosity/).
    3. Select **Next**.&#x20;
    4. Provide the following details, then select **Next**:
       1. Company name.

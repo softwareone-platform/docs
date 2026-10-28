@@ -17,7 +17,7 @@ Watch this video guide explaining how to order Microsoft 365 subscription for an
 Before starting this tutorial, make sure you have the following:
 
 * The name of your existing Microsoft tenant.&#x20;
-* An active licensee or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md) in the Marketplace. Licensee selection is required when creating a new agreement.&#x20;
+* An active licensee or permission to [create a new licensee](../../../../modules-and-features/settings/licensees/create-licensees.md). A licensee must be selected when setting up a new agreement.&#x20;
 
 ### Buy a Microsoft 365 subscription for an existing tenant
 
@@ -27,9 +27,9 @@ Before starting this tutorial, make sure you have the following:
 
 To start the process:
 
-1. Go to **Catalog** > **Products**.
+1. Go to **Catalog** > **Cloud products**.
 2. Select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps**.
-3. On the details page, review the information, then select **Buy now**.&#x20;
+3. Review the product information, then select **Buy now**.&#x20;
 {% endstep %}
 
 {% step %}
@@ -39,12 +39,12 @@ Complete the following steps:
 
 1. **Create agreement** – Select **Create agreement**.
 2. **Select licensee** – Choose whether to use an existing licensee or [create a new one](../../../../modules-and-features/settings/licensees/create-licensees.md). In this tutorial, an existing licensee is selected.
-3. **Create agreement** – Select **Connect existing cloud account** to connect your existing tenant. Then, select **Next**. Note that if you choose this option, the global administrator of your Microsoft account must accept the relationship request.
+3. **Create agreement** – Select **Connect existing cloud account**, then select **Next**. The global administrator of your Microsoft account must accept the relationship request.
 4. **Microsoft details** – Enter the details for your Microsoft account:
    1. Enter your existing tenant name.
-   2. Fill out the contact form. You must provide the first and last name, email address, and phone number of the person who manages your account.&#x20;
-   3. Select **Next**. The platform validates your Microsoft tenant details. If no tenant is found, a message is displayed. You must fix the error to proceed.
-5. **Special qualifications** – Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
+   2. Fill out the contact form. Provide the first and last name, email address, and phone number of the person who manages your account.&#x20;
+   3. Select **Next**. The platform validates your Microsoft tenant details. If no tenant is found, a message is displayed. Fix the error to proceed.
+5. **Special qualifications** – Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions the government considers its own.
 6. **Support contacts** – Enter contact details of your support administrator and choose your preferred support language. Select **Next**.
 {% endstep %}
 
@@ -53,8 +53,8 @@ Complete the following steps:
 
 Complete the following steps:
 
-1. **Items** – Choose the items you want to order and select **Add items**. Then:
-   1. Review and adjust the number of licenses as required.
+1. **Items** – Choose the items to order and select **Add items**. Then:
+   1. Review and adjust the number of licenses.
    2. If applicable, [read the offer attestation](../faqs/what-is-offer-attestation.md). The offer attestation is only displayed for Windows 365 Business with the Windows Hybrid Benefit.&#x20;
    3. Select **Next**.
 2. **Details** – Add reference details and your comments, then select **Next**.

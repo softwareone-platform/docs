@@ -33,8 +33,8 @@ To apply filters:
 
 ### Related topics
 
-{% content-ref url="../items.md" %}
-[items.md](../items.md)
+{% content-ref url="../cloud-items.md" %}
+[cloud-items.md](../cloud-items.md)
 {% endcontent-ref %}
 
 {% content-ref url="../products.md" %}

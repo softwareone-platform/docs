@@ -21,9 +21,9 @@ There are two ways to choose a billing currency. You can select it when creating
 {% step %}
 **Start a new purchase**
 
-1. Go to **Catalog** > **Products**.
-2. Select the product you want, then select **Buy now**. The purchase flow starts.
-3. Under **Select agreement**, select **Create agreement**.
+1. Go to **Catalog** > **Cloud products**.
+2. Select the product you want, then select **Buy now**.&#x20;
+3. In the guided purchase flow, select **Create agreement**.
 4. Continue through the steps until you reach the **Billing currency** step.
 {% endstep %}
 

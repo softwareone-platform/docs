@@ -2,7 +2,7 @@
 description: Browse purchasable software products in the Marketplace.
 ---
 
-# Products
+# Cloud products
 
 A product is a software solution or service offered by a vendor.&#x20;
 
@@ -42,8 +42,8 @@ The available ordering steps may vary depending on the vendor and product config
 
 ### Related topics
 
-{% content-ref url="items.md" %}
-[items.md](items.md)
+{% content-ref url="cloud-items.md" %}
+[cloud-items.md](cloud-items.md)
 {% endcontent-ref %}
 
 {% content-ref url="product-profiles/" %}

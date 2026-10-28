@@ -22,9 +22,9 @@ Ensure that the agreement you want to use is active.
 
 To open the product:
 
-1. Go to **Catalog** > **Products**.
+1. Go to **Catalog** > **Cloud products**.
 2. Select the desired Microsoft 365 product, for example, **Microsoft 365 Business, Enterprise & Apps**.
-3. On the details page, review the information, then select **Buy now**.&#x20;
+3. Review the product information, then select **Buy now**.&#x20;
 {% endstep %}
 
 {% step %}

@@ -58,7 +58,7 @@ In this step, you can also increase the quantities of the existing items.
 {% step %}
 **Submit your order**
 
-1. **Details** – Add any reference details or comments, then select **Next**.
+1. **Details** – Enter reference details or comments, then select **Next**.
 2. **Review order** – Review the order details, terms and conditions, and privacy statement, then select **Place order**.
 3. **Summary** – Select **View details** to open the order details page or select **Close**.
 {% endstep %}
@@ -66,9 +66,9 @@ In this step, you can also increase the quantities of the existing items.
 
 ### Next steps
 
-You can check the status of your new order on the **Orders** page or in the **Orders** tab on the agreement details page.
+You can check the order's status on the **Orders** page or in the **Orders** tab on the agreement details page.
 
-Once you place the order, the agreement status changes from **Active** to **Updating**. You won't be able to place any additional orders under this agreement until your current order has been processed and the agreement status is changed back to **Active**.&#x20;
+Once you place the order, the agreement status changes from **Active** to **Updating**. While the agreement is updating, you cannot place any additional orders until your current order is processed and the agreement status changes to **Active**.&#x20;
 
 ### Related tasks
 

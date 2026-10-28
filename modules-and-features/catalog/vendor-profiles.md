@@ -19,14 +19,14 @@ The page displays vendor profile cards and filters in the left sidebar. You can 
 <div data-with-frame="true"><figure><img src="../../.gitbook/assets/vendor-profile.png" alt=""><figcaption><p>A list of all vendor profiles in the SoftwareOne Marketplace.</p></figcaption></figure></div>
 
 {% hint style="info" %}
-* If you see any issue with a vendor profile, such as an outdated description or branding, incorrect or missing contact information, contact your SoftwareOne account manager or [Marketplace Platform Support](../../help-and-support/contact-support.md).
-* Only profiles that are published by SoftwareOne or vendors can be viewed in the Marketplace. If you can't find the vendor you are looking for, it may be because they either don't have a profile yet or the profile isn't available for viewing. If you notice a missing vendor profile, contact your SoftwareOne account manager or [Marketplace Platform Support](../../help-and-support/contact-support.md).
+* If you see any issue with a vendor profile, such as an outdated description or branding, incorrect or missing contact information, [contact Support](../../help-and-support/contact-support.md) or your SoftwareOne account manager.
+* Only profiles that are published by SoftwareOne or vendors can be viewed in the Marketplace. If you can't find the vendor you are looking for, it may be because they either don't have a profile yet or the profile isn't available for viewing. If you notice a missing vendor profile, [contact Support](../../help-and-support/contact-support.md) or your SoftwareOne account manager.
 {% endhint %}
 
 ### Related topics
 
-{% content-ref url="items.md" %}
-[items.md](items.md)
+{% content-ref url="cloud-items.md" %}
+[cloud-items.md](cloud-items.md)
 {% endcontent-ref %}
 
 {% content-ref url="products.md" %}

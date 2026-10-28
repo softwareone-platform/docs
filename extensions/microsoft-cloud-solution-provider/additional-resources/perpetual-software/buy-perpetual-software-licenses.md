@@ -12,11 +12,11 @@ Perpetual licenses involve a one-time payment. You pay upfront for these license
 
 ### Prerequisites <a href="#howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites" id="howtoorderamicrosoft365subscriptionforanexistingmicrosofttenant-prerequisites"></a>
 
-Before starting this tutorial, make sure you are familiar with [key concepts](../../../../marketplace-platform/getting-started/key-concepts.md). You will also need:
+Before starting this tutorial, make sure you have the following:
 
-* A licensee in the **active** state. Licensees are required to set up a new agreement.&#x20;
-* Your company details, like the company name, registration ID, and address. These details are required when setting up a new Microsoft tenant.
-* The contact details of the person who manages your Microsoft account.
+* An active licensee.&#x20;
+* Company details, such as your company name, registration ID, and address.&#x20;
+* Contact details of the person who manages your Microsoft account.
 
 ### Buy perpetual software licenses <a href="#implementation" id="implementation"></a>
 
@@ -26,9 +26,9 @@ Before starting this tutorial, make sure you are familiar with [key concepts](..
 
 To start the process:
 
-1. Go to **Catalog** > **Products**.
+1. Go to **Catalog** > **Cloud products**.
 2. Select **Microsoft Perpetual Software**.
-3. On the details page, review the product information, then select **Buy now**.
+3. Review the product information, then select **Buy now**.
 {% endstep %}
 
 {% step %}
@@ -46,7 +46,7 @@ In the guided purchase flow, complete the following steps:&#x20;
       2. Company registration ID or tax number.
       3. Company address, including city and zip/postal code.
    3. Complete the **Primary Contact** form, providing the contact details for the person managing your account, then select **Next**.
-5. **Special qualifications** – Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions that the government considers its own.
+5. **Special qualifications** – Select the checkbox if your organization is a [state-owned](https://www.microsoft.com/en-us/legal/compliance/anticorruption/criteria) entity. Otherwise, leave it clear. A company is classified as state-owned if it is either controlled by the government or performs functions the government considers its own.
 6. **Support contacts** – Enter your support administrator's contact details and choose your preferred support language. Select **Next**.
 {% endstep %}
 

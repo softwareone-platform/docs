@@ -14,9 +14,9 @@ The exact steps depend on the product and vendor. This page covers the common fl
 {% step %}
 **Review the product**
 
-1. Go to **Catalog** > **Products**.
-2. Select a product, for example, **Microsoft 365 Business, Enterprise & Apps-Commercial**.&#x20;
-3. Review the information, including product details, features, and more.
+1. Go to **Catalog** > **Cloud products**.
+2. Select a product to open the product details page.
+3. Review the product information.
 {% endstep %}
 
 {% step %}
